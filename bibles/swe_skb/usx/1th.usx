@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
+  <book code="1TH" style="id" />
+  <para style="h">1 Tessalonikerbrevet</para>
+  <para style="toc2">1 Tessalonikerbrevet</para>
+  <para style="mt1">1 Tessalonikerbrevet</para>
+  <para style="imt1">Inledning</para>
+  <para style="ip">Introduktion: Paulus, Silas och Timoteus besökte staden Thessalonike i Makedonien under sin andra missionsresa och grundade församlingen där. Ganska snart var Paulus dock tvungen att lämna dem på grund av förföljelse, se <char style="xt"><ref loc="ACT 17:1">Apg 17:1</ref></char>. Paulus var där i åtminstone tre veckor, se <char style="xt"><ref loc="ACT 17:1">Apg 17:1</ref></char>, men troligen några månader eftersom han hann undervisa många och även arbeta för sitt uppehälle, se <char style="xt"><ref loc="2TH 3:8">2 Thess 3:8</ref></char>. Staden hade även en betydande judisk befolkning. Församlingen verkar dock främst ha bestått av hedningar. Ett av brevets viktigaste teman, som återkommer i varje kapitel, är Jesu återkomst.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Struktur:</char></para>
+  <para style="ip">Ofta listar Paulus tre saker i följd i detta brev, se t.ex. <char style="xt"><ref loc="1TH 1:1">1 Thess 1:1</ref>, <ref loc="1TH 1:5">5</ref>; <ref loc="1TH 2:3">2:3</ref>, <ref loc="1TH 2:5-7">5-7</ref>, <ref loc="1TH 2:10">10</ref>, <ref loc="1TH 2:12">12</ref>, <ref loc="1TH 2:19">19</ref>; <ref loc="1TH 5:8">5:8</ref>, <ref loc="1TH 5:14">14</ref>, <ref loc="1TH 5:16-18">16-18</ref>, <ref loc="1TH 5:23">23</ref></char>. De första tre kapitlen är personliga medan de två sista är mer praktiska i sin karaktär. Brevet följer Paulus vanliga mönster att först behandla den troendes position i Jesus, för att sedan utifrån den positionen ge praktiska uppmaningar.</para>
+  <para style="ip">1. Tacksamhet och hopp, kapitel 1-3.</para>
+  <para style="ip">2. Praktiska uppmaningar för det kristna livet, kapitel 4-5.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Skrivet: </char> Slutet av <char style="bd">50 e.Kr.</char> eller början av 51 e.Kr. Omkring ett år efter det att församlingen grundats.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Till: Thessalonike</char>.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Från: Korint</char>.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Författare: Paulus</char>, se <char style="xt"><ref loc="1TH 1:1">1 Thess 1:1</ref></char>.</para>
+  <para style="ip">Budbärare: Kanske Timoteus.</para>
+  <chapter number="1" style="c" sid="1TH 1" />
+  <para style="s1">Inledande hälsning</para>
+  <para style="m">
+    <verse number="1" style="v" sid="1TH 1:1" />
+    <char style="add">[Från:]</char></para>
+  <para style="p" vid="1TH 1:1">Paulus och</para>
+  <para style="p" vid="1TH 1:1">Silvanus <char style="add">[även kallad Silas]</char> och</para>
+  <para style="p" vid="1TH 1:1">Timoteus <char style="add">[Paulus närmsta medarbetare]</char>.</para>
+  <para style="b" vid="1TH 1:1" />
+  <para style="m" vid="1TH 1:1">
+    <char style="add">[Brevet innehåller många tripletter och inleds med tre personnamn. Silvanus är samma person som Lukas benämner Silas i Apostlagärningarna. Här använder Paulus den latinska formen av hans namn. Han var en erkänd ledare i församlingen i Jerusalem och var liksom Paulus en romersk medborgare, se <char style="xt"><ref loc="ACT 15:22">Apg 15:22</ref>, <ref loc="ACT 15:37">37</ref></char>. Silas och Timoteus reste tillsammans med Paulus på hans andra missionsresa, se <char style="xt"><ref loc="ACT 18:5">Apg 18:5</ref></char>. De hade stannat kvar i Thessalonike efter det att Paulus tvingats fly från staden. Nu har alla tre återförenats i Korint, se <char style="xt"><ref loc="1TH 3:6">1 Thess 3:6</ref></char>. Brevet skrivs i början av de 1,5 år som Paulus är där, se <char style="xt"><ref loc="ACT 18:11">Apg 18:11</ref></char>.]</char></para>
+  <para style="b" vid="1TH 1:1" />
+  <para style="m" vid="1TH 1:1">Till:</para>
+  <para style="p" vid="1TH 1:1">Thessalonikes församling <char style="add">(de utkallade – gr. ekklesia)</char>,</para>
+  <para style="p" vid="1TH 1:1">som lever i Gud Fadern och Herren Jesus den Smorde <char style="add">(Messias, Kristus)</char>.</para>
+  <para style="b" vid="1TH 1:1" />
+  <para style="m" vid="1TH 1:1">
+    <char style="add">[Det grekiska ordet för församling är ekklesia. I klassisk grekiska kunde ordet beskriva alla möjliga former av församlade människor som t.ex. den lagliga folkförsamlingen eller en mobb, se <char style="xt"><ref loc="ACT 19:32">Apg 19:32</ref>, <ref loc="ACT 19:39">39</ref></char>. Den ordagranna betydelsen är ”de utkallade”. Paulus är noga med att betona att församlingen i Thessalonike inte är vilken grupp av människor som helst, de är en Guds församling. I Bibeln kan ordet beskriva den lokala församlingen på en ort. Så används det här, men det kan också beteckna den universella församlingen av alla troende genom alla tider, se <char style="xt"><ref loc="MAT 16:18">Matt 16:18</ref></char>.]</char></para>
+  <para style="b" vid="1TH 1:1" />
+  <para style="m" vid="1TH 1:1">Nåd <char style="add">(kraft, oförtjänt favör)</char> och frid <char style="add">(harmoni, frihet från fruktan, välbehag)</char> vare med er.</para>
+  <para style="b" vid="1TH 1:1" />
+  <para style="m" vid="1TH 1:1">
+    <char style="add">[Inledningen i detta brev är den kortaste av alla Paulus brev. Han använder inte titeln apostel, vilket visar på hans nära relation med församlingen. Tillsammans med honom i Korint finns även Silas och Timoteus, se <char style="xt"><ref loc="ACT 18:5">Apg 18:5</ref>; <ref loc="2CO 1:19">2 Kor 1:19</ref></char>.]</char><verse eid="1TH 1:1" /></para>
+  <para style="s1">TACKSAMHET OCH HOPP (kap 1-3)</para>
+  <para style="s2">Tacksägelse och bön</para>
+  <para style="m">
+    <verse number="2" style="v" sid="1TH 1:2" />Vi tackar alltid Gud för er alla</para>
+  <para style="p" vid="1TH 1:2">när vi nämner er i våra böner.<verse eid="1TH 1:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="1TH 1:3" />Vi tänker ständigt på</para>
+  <para style="q2" vid="1TH 1:3">er gärning i <char style="add">[som har sin källa i]</char> tron och</para>
+  <para style="q2" vid="1TH 1:3">er möda <char style="add">(ert hårda arbete)</char> i <char style="add">[motiverad av]</char> kärleken <char style="add">[som är osjälvisk och utgivande]</char> och</para>
+  <para style="q2" vid="1TH 1:3">er uthållighet <char style="add">(ståndaktighet) [karaktär som står fast även under prövningar]</char> i <char style="add">[som bygger på]</char> hoppet</para>
+  <para style="p" vid="1TH 1:3">till vår Herre Jesus den Smorde <char style="add">(Messias, Kristus) [hans tillkommelse, <char style="xt"><ref loc="1TH 1:10">1 Thess 1:10</ref></char>]</char></para>
+  <para style="m" vid="1TH 1:3">inför vår Gud och Far.</para>
+  <para style="b" vid="1TH 1:3" />
+  <para style="m" vid="1TH 1:3">
+    <char style="add">[Vers 2–10 är en enda mening i grekiskan, huvudverbet är ”vi tackar”. Tron, kärleken och hoppet producerar gärningar, se <char style="xt"><ref loc="JAS 2:18">Jak 2:18</ref></char>. Dessa tre ord återkommer också i slutet och ramar in brevet, se <char style="xt"><ref loc="1TH 5:8">1 Thess 5:8</ref></char>. Samma ordning av gärning, möda och uthållighet finns i <char style="xt"><ref loc="REV 2:2">Upp 2:2</ref></char>. De troende i Thessalonike hade fått uppleva förföljelse. Under Paulus första besök i staden hade Jason släpats ut från sitt hus eftersom han tagit emot missionärerna, se <char style="xt"><ref loc="ACT 17:6-9">Apg 17:6-9</ref></char>.]</char><verse eid="1TH 1:3" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="4" style="v" sid="1TH 1:4" />Vi vet, kära syskon <char style="add">(bröder och systrar i tron)</char>,</para>
+  <para style="p" vid="1TH 1:4">att ni är Guds älskade och att han har utvalt er <char style="add">[ni har svarat ja på kallelsen, vi vet att er tro är genuin]</char>,<verse eid="1TH 1:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="1TH 1:5" />för vårt evangelium <char style="add">[det glada budskapet vi predikade]</char> kom till er inte bara i ord utan också med</para>
+  <para style="q2" vid="1TH 1:5">kraft <char style="add">[under och tecken]</char> och</para>
+  <para style="q2" vid="1TH 1:5">den helige Ande <char style="add">[som överbevisade er om synd, gav er tröst, glädje]</char> och</para>
+  <para style="q2" vid="1TH 1:5">full visshet <char style="add">[om er omvändelse]</char>,</para>
+  <para style="p" vid="1TH 1:5">på samma sätt som</para>
+  <para style="m" vid="1TH 1:5">ni vet hur vi levde bland er <char style="add">(vilka män vi var)</char> för er skull.</para>
+  <para style="b" vid="1TH 1:5" />
+  <para style="m" vid="1TH 1:5">
+    <char style="add">[Till skillnad från grekiska filosofier, som bara byggde på läror med ord, hade thessalonikerna fått ta emot evangeliet som förändrade deras liv. De hade också själva sett hur Paulus, Silas och Timoteus levt sina liv bland dem.]</char><verse eid="1TH 1:5" /></para>
+  <para style="s1">Ni är föredömen</para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TH 1:6" />Ni blev våra efterföljare, ja, Herrens, när ni mitt under svåra lidanden tog emot ordet med den glädje som den helige Ande ger. <char style="add">[Lidande och glädje nämns i samma mening. Den troendes glädje i den helige Ande är oberoende av yttre omständigheter.]</char> <verse eid="1TH 1:6" /><verse number="7" style="v" sid="1TH 1:7" />Så har ni blivit ett föredöme för alla troende i Makedonien <char style="add">[norra Grekland där Thessalonike var huvudstad]</char> och Achaia <char style="add">[södra Grekland där Korint var huvudstad och Paulus, Silvanus och Timoteus nu befann sig]</char>.<verse eid="1TH 1:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="1TH 1:8" />Från er har Herrens ord genljudit <char style="add">[som åska, en trumpetsignal eller ett eko]</char>, inte bara i Makedonien och Achaia, utan överallt har er tro på Gud blivit känd så att vi inte behöver tala något mer.</para>
+  <para style="b" vid="1TH 1:8" />
+  <para style="m" vid="1TH 1:8">
+    <char style="add">[De troende i Thessalonike hade varit med och bidragit finansiellt över sin förmåga, trots att de inte hade så mycket själva, se <char style="xt"><ref loc="2CO 8:1-8">2 Kor 8:1-8</ref></char>.]</char><verse eid="1TH 1:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="1TH 1:9" />De <char style="add">[folk överallt]</char> berättar själva vilken ingång vi fick hos er och hur ni vände er till Gud, bort från avgudarna <char style="add">(avbilderna) [<char style="xt"><ref loc="EXO 20:4">2 Mos 20:4</ref></char>]</char>, för att tjäna <char style="add">(vara en slav som gett hela sitt liv till)</char> den levande och sanne Guden <verse eid="1TH 1:9" /><verse number="10" style="v" sid="1TH 1:10" />och vänta på hans Son från himlarna, honom som Gud har uppväckt från de döda: Jesus, som personligen räddar oss från den kommande vredesdomen.</para>
+  <para style="b" vid="1TH 1:10" />
+  <para style="m" vid="1TH 1:10">
+    <char style="add">[Uttrycket ”omvändelse från avgudar” indikerar att församlingen verkar ha bestått mestadels av icke-judar som omvänt sig från avgudadyrkan för att tro på den levande Guden. Det antyder att mellan Paulus tre lördagar med samtal i synagogan, se <char style="xt"><ref loc="ACT 17:1-3">Apg 17:1-3</ref></char>, och den förföljelse som drev honom ut ur staden, se <char style="xt"><ref loc="ACT 17:5-10">Apg 17:5-10</ref></char>, måste han ha tillbringat flera veckor i staden. Han både arbetade för sitt uppehälle och undervisade omvända hedningar. </char></para>
+  <para style="p" vid="1TH 1:10">
+    <char style="add">Dessa två verser fungerar också som en sammanfattning för de ämnen Paulus tar upp i brevet. I nästa stycke beskriver han mer ingående hur han kom till dem, se vers 9. De troende i Thessalonike väntade att Jesus skulle komma tillbaka medan de ännu levde. Detta ämne om Jesu ankomst och vredesdomen tas också upp senare i brevet i kapitel 4-5.]</char><verse eid="1TH 1:10" /></para>
+  <chapter eid="1TH 1" />
+  <chapter number="2" style="c" sid="1TH 2" />
+  <para style="s2">Kom ihåg hur ni kom till tro</para>
+  <para style="m" />
+  <para style="m">
+    <char style="add">[Paulus påminner de troende i Thessalonike om hur de hade tagit emot honom, Silas och Timoteus. Lukas skriver detaljerat om händelserna i <char style="xt"><ref loc="ACT 17:1-10">Apg 17:1-10</ref></char>. När thessalonikerna tänker tillbaka på Paulus tjänst och hur de själva har förvandlats av evangeliet så förstår de att deras besök inte varit förgäves.]</char></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TH 2:1" />För ni vet ju själva, kära syskon <char style="add">(bröder och systrar i tron)</char>, att vår ankomst till er inte var förgäves <char style="add">(fruktlös, meningslös, utan fyllde ett syfte och gör det fortfarande)</char>. <verse eid="1TH 2:1" /><verse number="2" style="v" sid="1TH 2:2" />Som ni redan vet hade vi tidigare fått lida och blivit skamligt behandlade i Filippi, men i Gud <char style="add">[som gav oss styrka]</char> blev vi frimodiga och predikade Guds evangelium för er <char style="add">[i Thessalonike]</char> trots hårt motstånd <char style="add">(hård kamp)</char>.</para>
+  <para style="b" vid="1TH 2:2" />
+  <para style="m" vid="1TH 2:2">
+    <char style="add">[Paulus och Silas arresterades i Filippi, och utan något åtal blev de slagna och fängslade. Trots detta prisar de Gud och sjunger lovsånger, se <char style="xt"><ref loc="ACT 16:11-40">Apg 16:11-40</ref></char>. Fortfarande värkte Paulus och Silas ryggar från piskslagen när de kom fram till Thessalonike efter 3-4 dagars vandring, se <char style="xt"><ref loc="ACT 16:23">Apg 16:23</ref></char>.]</char><verse eid="1TH 2:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="1TH 2:3" />Bakom vår uppmuntran <char style="add">(uppmaning, undervisning) [att ta emot evangeliet]</char> finns inte</para>
+  <para style="p" vid="1TH 2:3">lögn <char style="add">(villfarelse, falska läror)</char>,</para>
+  <para style="p" vid="1TH 2:3">orenhet <char style="add">[felaktiga, orena motiv som egen vinning och makt]</char> eller</para>
+  <para style="p" vid="1TH 2:3">svek <char style="add">(tvivelaktiga metoder, trick, smickrande ord för att lura er)</char>.<verse eid="1TH 2:3" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="4" style="v" sid="1TH 2:4" />Tvärtom, vi talar därför att Gud har prövat <char style="add">(testat, undersökt)</char> oss <char style="add">[och ansett oss värdiga, godtagit oss]</char> att framföra evangeliet, inte för att behaga människor utan Gud, som prövar <char style="add">(testar, undersöker)</char> våra hjärtan.<verse eid="1TH 2:4" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="5" style="v" sid="1TH 2:5" />Vi uppträdde aldrig med smickrande tal <char style="add">(anpassade inte sanningen utifrån den allmänna opinionen)</char>,</para>
+  <para style="p" vid="1TH 2:5">det vet ni.</para>
+  <para style="m" vid="1TH 2:5">Vi agerade inte med dold girighet som motiv <char style="add">(vi exploaterade inte er för vår egen ekonomiska vinning)</char>,</para>
+  <para style="p" vid="1TH 2:5">det är Gud vårt vittne till.<verse eid="1TH 2:5" /></para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TH 2:6" />Vi sökte inte mänsklig ära vare sig av er eller av andra,<verse eid="1TH 2:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="1TH 2:7" />även om vi som den Smordes <char style="add">(Kristi)</char> apostlar kunde ha ställt krav <char style="add">(använt vår auktoritet)</char>.</para>
+  <para style="b" vid="1TH 2:7" />
+  <para style="m" vid="1TH 2:7">I stället uppträdde vi milt likt en vårdande mor som ömt sköter om sina barn,<verse eid="1TH 2:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="1TH 2:8" />så mycket längtade vi efter er.</para>
+  <para style="m" vid="1TH 2:8">Vi var glada att dela inte bara Guds evangelium,</para>
+  <para style="p" vid="1TH 2:8">utan också våra liv med er.</para>
+  <para style="m" vid="1TH 2:8">Så älskade har ni blivit för oss.</para>
+  <para style="b" vid="1TH 2:8" />
+  <para style="m" vid="1TH 2:8" />
+  <para style="m" vid="1TH 2:8">
+    <char style="add">[Paulus växlar nu bild från en mor, se vers 8, till en far. Han använde liknande språkbruk till de troende i Korint, där han nu befann sig, se <char style="xt"><ref loc="1CO 4:15">1 Kor 4:15</ref></char>. På samma sätt var han en andlig far till de troende i Thessalonike. Han arbetade för deras försörjning, se vers 9; levde ett rättfärdigt liv, se vers 10 och uppmuntrade dem, se vers 11-12.]</char><verse eid="1TH 2:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="1TH 2:9" />Syskon <char style="add">(bröder och systrar i tron)</char>, ni minns ju vår möda <char style="add">(hårda arbete)</char> och vårt slit. Natt och dag arbetade vi för att inte ligga någon av er till last medan vi predikade Guds evangelium för er. <char style="add">[Paulus arbetade med läder och tillverkade bl.a. tältdukar, se <char style="xt"><ref loc="ACT 18:3">Apg 18:3</ref></char>.]</char><verse eid="1TH 2:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="1TH 2:10" />Ni är vittnen, ja, Gud själv är vittne till hur</para>
+  <para style="p" vid="1TH 2:10">heligt och</para>
+  <para style="p" vid="1TH 2:10">rätt och</para>
+  <para style="p" vid="1TH 2:10">rent</para>
+  <para style="m" vid="1TH 2:10">vi uppträdde bland er troende.<verse eid="1TH 2:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="1TH 2:11" />Ni vet också hur vi behandlade var och en av er, som en far är mot sina egna barn <char style="add">[när han ger uppmuntran och vägledning]</char>, <verse eid="1TH 2:11" /><verse number="12" style="v" sid="1TH 2:12" />hur vi:</para>
+  <para style="p" vid="1TH 2:12">uppmuntrade <char style="add">(tröstade, hjälpte, gick tillsammans vid er sida, förmanade)</char> och</para>
+  <para style="p" vid="1TH 2:12">motiverade <char style="add">(talade uppmuntrande och stödjande)</char> och</para>
+  <para style="p" vid="1TH 2:12">vädjade till <char style="add">(manade)</char> er</para>
+  <para style="m" vid="1TH 2:12">att vandra <char style="add">(vanemässigt leva ert liv)</char> värdigt Gud, som ständigt kallar er till sitt rike och sin härlighet.</para>
+  <para style="s2" vid="1TH 2:12">Tacksamhet för uthållighet</para>
+  <para style="m" vid="1TH 2:12" />
+  <para style="m" vid="1TH 2:12">
+    <char style="add">[Paulus tar upp tråden av tacksägelse från <char style="xt"><ref loc="1TH 1:2-5">1 Thess 1:2-5</ref></char> och ger ytterligare orsaker till att tacka Gud för församlingen i Thessalonike.]</char><verse eid="1TH 2:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="1TH 2:13" />Därför tackar vi alltid Gud för att ni tog emot Guds ord som ni hörde <char style="add">[när vi predikade]</char> och välkomnade det <char style="add">[i era hjärtan]</char>, inte som människors ord utan så som det verkligen är:</para>
+  <para style="b" vid="1TH 2:13" />
+  <para style="m" vid="1TH 2:13">Guds ord som är verksamt i er som tror.</para>
+  <para style="m" vid="1TH 2:13">
+    <char style="add">[<char style="xt"><ref loc="2TI 3:16">2 Tim 3:16</ref>; <ref loc="2PE 1:20-21">2 Pet 1:20-21</ref>; <ref loc="PSA 19:7-9">Ps 19:7-9</ref></char>]</char><verse eid="1TH 2:13" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="14" style="v" sid="1TH 2:14" />Ni syskon <char style="add">(bröder och systrar i tron)</char> har ju blivit efterföljare till Guds församlingar i Judéen, som lever i den Smorde <char style="add">(Messias, Kristus)</char> Jesus. Ni har fått utstå samma lidanden <char style="add">[förföljelse]</char> från era landsmän <char style="add">[både greker och judar som bor i Thessalonike, se <char style="xt"><ref loc="ACT 17:5">Apg 17:5</ref></char>]</char> som de har fått från judarna, <verse eid="1TH 2:14" /><verse number="15" style="v" sid="1TH 2:15" />som dödade både Herren Jesus och profeterna och som nu har drivit bort oss <char style="add">(tvingat i väg oss med våld och förföljelse)</char>. De behagar inte Gud, och de motarbetar alla människor <verse eid="1TH 2:15" /><verse number="16" style="v" sid="1TH 2:16" />när de kontinuerligt försöker hindra oss från att predika för hedningarna så att dessa blir frälsta. <char style="add">[Detta skedde även i Korint där Paulus skrev detta, se <char style="xt"><ref loc="ACT 18:6">Apg 18:6</ref></char>.]</char> Så fyller de ständigt sina synders mått. Men vredesdomen har till slut kommit över dem.</para>
+  <para style="b" vid="1TH 2:16" />
+  <para style="m" vid="1TH 2:16">
+    <char style="add">[Paulus var själv jude och han skrev till en församling med både judar och greker. Det var inte alla judar som hade dödat Jesus, begreppet syftar på dem som var fientligt inställda till Jesus. Samma onda sinnelag fanns hos dem i Thessalonike och Berea som underblåst de upplopp som fördrev Paulus från dessa städer, se <char style="xt"><ref loc="ACT 17:1-8">Apg 17:1-8</ref>, <ref loc="ACT 17:13-14">13-14</ref></char>. Samma bild av att ”fylla upp syndens mått” används i <char style="xt"><ref loc="GEN 15:16">1 Mos 15:16</ref></char>. Även Jesus använde det när han talade till fariséerna, se <char style="xt"><ref loc="MAT 23:32">Matt 23:32</ref></char>.]</char><verse eid="1TH 2:16" /></para>
+  <para style="s1">Paulus längtan att få se dem igen</para>
+  <para style="s2">Paulus planer</para>
+  <para style="m">
+    <verse number="17" style="v" sid="1TH 2:17" />Syskon <char style="add">(bröder och systrar i tron)</char>, vi <char style="add">[Paulus, Silas och Timoteus]</char> har slitits ifrån er <char style="add">[starkt ord som beskriver hur en förälder blivit berövad sitt barn]</char> för en tid. Dock bara till det yttre, inte till hjärtat, för vi har blivit mer och mer desperata att få se era ansikten. <verse eid="1TH 2:17" /><verse number="18" style="v" sid="1TH 2:18" />Vi har verkligen önskat få komma till er. Både en och två gånger har jag, Paulus, försökt, men Satan har hindrat oss.<verse eid="1TH 2:18" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="19" style="v" sid="1TH 2:19" />Vem är</para>
+  <para style="p" vid="1TH 2:19">vårt hopp,</para>
+  <para style="p" vid="1TH 2:19">vår glädje,</para>
+  <para style="p" vid="1TH 2:19">vår segerkrans <char style="add">(lagerkrans)</char></para>
+  <para style="q2" vid="1TH 2:19">inför vår Herre Jesus när han kommer</para>
+  <para style="m" vid="1TH 2:19">om inte ni?<verse eid="1TH 2:19" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="20" style="v" sid="1TH 2:20" />Ja, ni är vår ära och vår glädje.<verse eid="1TH 2:20" /></para>
+  <chapter eid="1TH 2" />
+  <chapter number="3" style="c" sid="1TH 3" />
+  <para style="s2">Timoteus besök</para>
+  <para style="m" />
+  <para style="m">
+    <char style="add">[På grund av förföljelsen i Thessalonike hade Paulus tvingats fly till den närbelägna staden Berea och sedan vidare ner till Aten. När de troende från Thessalonike, som fört honom i säkerhet, återvände hem, skickade han med bud att Timoteus och Silas också skulle komma till Aten så snart som möjligt, vilket de gör, se <char style="xt"><ref loc="ACT 17:15">Apg 17:15</ref></char>. I detta kapitel återkommer orden ”er tro” fem gånger, se vers 2, 5, 6, 7, 10. De troende i Thessalonike fick genomlida mycket förföljelse och Paulus var angelägen om att veta hur deras tro klarade dessa prövningar.]</char></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TH 3:1" />När vi därför inte stod ut längre, bestämde vi oss <char style="add">[Paulus och Silas]</char> för att stanna ensamma kvar i Aten <verse eid="1TH 3:1" /><verse number="2" style="v" sid="1TH 3:2" />och skickade Timoteus, vår broder och Guds medarbetare för evangeliet <char style="add">(de goda nyheterna)</char> om den Smorde <char style="add">(Messias, Kristus) [till er i Thessalonike]</char>, för att styrka <char style="add">(ge stabilitet)</char> och uppmuntra er i er tro <verse eid="1TH 3:2" /><verse number="3" style="v" sid="1TH 3:3" />så att ingen vacklar <char style="add">(svajar fram och tillbaka)</char> under dessa lidanden. Ni vet ju själva att det är bestämt att vi ska utstå sådant. <verse eid="1TH 3:3" /><verse number="4" style="v" sid="1TH 3:4" />Redan när vi var hos er sa vi er i förväg att vi skulle få lida, och så har det också gått, som ni vet. <verse eid="1TH 3:4" /><verse number="5" style="v" sid="1TH 3:5" />Det var därför som jag, när jag inte längre stod ut, skickade bud <char style="add">[genom att sända Timoteus till er]</char> för att få veta hur det var med er tro. Kanske hade frestaren frestat er och vårt arbete varit förgäves?</para>
+  <para style="b" vid="1TH 3:5" />
+  <para style="m" vid="1TH 3:5">
+    <char style="add">[Paulus omsorg för församlingarna i Makedonien gjorde att Timoteus skickades tillbaka till Thessalonike. Senare reser även Silas till Filippi. Både Timoteus och Silas återförenas så småningom med Paulus i Korint, som är hans nästa stopp efter Aten, se <char style="xt"><ref loc="ACT 18:1-5">Apg 18:1-5</ref></char>.]</char><verse eid="1TH 3:5" /></para>
+  <para style="s2">Timoteus återkomst</para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TH 3:6" />Men just nu har Timoteus kommit tillbaka från <char style="add">[sitt besök hos]</char> er med goda nyheter om er tro <char style="add">[som står fast]</char> och er kärlek <char style="add">[som är osjälvisk och utgivande]</char>.</para>
+  <para style="b" vid="1TH 3:6" />
+  <para style="m" vid="1TH 3:6">
+    <char style="add">[Paulus blir överväldigad av de goda rapporterna som Timoteus har med sig och skriver detta brev på en gång, se <char style="xt"><ref loc="ACT 18:5">Apg 18:5</ref></char>.]</char></para>
+  <para style="b" vid="1TH 3:6" />
+  <para style="m" vid="1TH 3:6">Timoteus har berättat hur ni ständigt tänker på oss med glädje och längtar efter att få träffa oss, liksom vi längtar efter er. <verse eid="1TH 3:6" /><verse number="7" style="v" sid="1TH 3:7" />Så har vi genom er tro fått nytt mod när det gäller er, syskon <char style="add">(bröder och systrar i tron)</char>, mitt i alla våra svårigheter och lidanden. <verse eid="1TH 3:7" /><verse number="8" style="v" sid="1TH 3:8" />Nu lever vi <char style="add">[igen]</char>, om ni står fasta i Herren. <verse eid="1TH 3:8" /><verse number="9" style="v" sid="1TH 3:9" />För hur kan vi tacka Gud nog för er, för all den glädje som ni är för oss inför vår Gud? <verse eid="1TH 3:9" /><verse number="10" style="v" sid="1TH 3:10" />Natt och dag bönfaller vi intensivt <char style="add">(till det yttersta, mer än vanligt)</char> om att få se era ansikten och hjälpa er med <char style="add">(fullborda, binda samman)</char> det som saknas i er tro <char style="add">[så den fortsätter att fördjupas]</char>.</para>
+  <para style="b" vid="1TH 3:10" />
+  <para style="m" vid="1TH 3:10">
+    <char style="add">[Ordet för bönfaller är deomai som är ett starkt ord som uttrycker en bön för ett stort behov. Uttrycket ”natt och dag” innebär inte en oavbruten bön, utan att vid varje tillfälle de bad, både natt och dag, fanns dessa två specifika böneämnen med. Timoteus nämner tro och kärlek i vers 6, men inte hopp. Hoppet om att Jesus ska komma tillbaka kan vara en av de saker som Paulus vill fortsätta att undervisa de troende i Thessalonike om. Det är också ett ämne han tar upp i fortsättningen på detta brev.]</char></para>
+  <para style="s2" vid="1TH 3:10">Paulus bön och önskan</para>
+  <para style="m" vid="1TH 3:10" />
+  <para style="m" vid="1TH 3:10">
+    <char style="add">[Paulus bön i vers 11-13 är en enda mening i grekiskan. Den beskriver nu mer detaljerat med fler ord bönen i vers 10.]</char><verse eid="1TH 3:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="1TH 3:11" />Må vår Gud och Far själv och vår Herre Jesus leda vår resväg till er. <verse eid="1TH 3:11" /><verse number="12" style="v" sid="1TH 3:12" />Må Herren låta er växa och överflöda i kärleken <char style="add">[som är osjälvisk och utgivande]</char> till varandra och till alla,</para>
+  <para style="p" vid="1TH 3:12">liksom vi i vår kärlek till er,<verse eid="1TH 3:12" /></para>
+  <para style="m">
+    <verse number="13" style="v" sid="1TH 3:13" />så ska han styrka era hjärtan och göra dem fläckfria i helighet inför vår Gud och Far</para>
+  <para style="p" vid="1TH 3:13">när vår Herre Jesus kommer med alla sina heliga <char style="add">[kan syfta på änglar eller troende]</char>.</para>
+  <para style="b" vid="1TH 3:13" />
+  <para style="m" vid="1TH 3:13">
+    <char style="add">[Paulus bad inte att de skulle vara syndfria – det är omöjligt. Han bad att de skulle vara fläckfria. Det är samma ord som i <char style="xt"><ref loc="1TH 2:10">1 Thess 2:10</ref></char> beskriver hur Paulus hade uppträtt hos dem. Det innebär att de, efter att ha gjort upp med sina felsteg, blev fria.]</char><verse eid="1TH 3:13" /></para>
+  <chapter eid="1TH 3" />
+  <chapter number="4" style="c" sid="1TH 4" />
+  <para style="s1">PRAKTISKA UPPMANINGAR (kap 4-5)</para>
+  <para style="m" />
+  <para style="m">
+    <char style="add">[Nu sker ett skifte i brevet. Ordet ”till sist” betyder inte någon skillnad i vad som är viktigt, däremot skiftar texten, som hittills mestadels innehållit påståenden, till att nu bli uppmanande. Det är vanligt att Paulus i sina brev först börjar med de troendes position i Jesus, för att avsluta med uppmaningar att leva det nya kristna livet utifrån den positionen. De tre första kapitlen har handlat om dåtid och nutid. De två sista kapitlen berör också nutid, men även framtida händelser.]</char></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TH 4:1" />Till sist <char style="add">(för övrigt)</char>, syskon <char style="add">(bröder och systrar i tron)</char>, vi ber er och uppmuntrar <char style="add">(står vi vid er sida och ber, förmanar)</char> er i Herren Jesus att komma ihåg det vi lärt er: lev ett liv som behagar Gud, som ni redan gör. Ja, vi uppmanar er att fortsätta med detta mer och mer. <verse eid="1TH 4:1" /><verse number="2" style="v" sid="1TH 4:2" />Ni vet vilka föreskrifter vi har gett er från Herren.</para>
+  <para style="s2" vid="1TH 4:2">Sexuell renhet</para>
+  <para style="m" vid="1TH 4:2" />
+  <para style="m" vid="1TH 4:2">
+    <char style="add">[Följande stycke handlar om helgelse, och det grekiska ordet hagiasmos används tre gånger. Det ramar in stycket i vers 3 och 7, och återfinns också centralt i vers 4.]</char><verse eid="1TH 4:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="1TH 4:3" />Detta är Guds vilja – er <char style="bd">helgelse</char> <char style="add">(att ni blir avskilda, lever rent och heligt)</char>:</para>
+  <para style="b" vid="1TH 4:3" />
+  <para style="m" vid="1TH 4:3">Att ni avhåller er från sexuell omoral.</para>
+  <para style="b" vid="1TH 4:3" />
+  <para style="m" vid="1TH 4:3">
+    <char style="add">[Det grekiska ordet porneia används här och grundordet betyder ”att sälja sig till slaveri”. Pornografi är ett sammansatt ord av just detta ord porneia och grafo, som betyder ”något skrivet eller tecknat”. Pornografi är en beskrivning antingen i text eller grafiskt av någon som säljer sig sexuellt.]</char><verse eid="1TH 4:3" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="4" style="v" sid="1TH 4:4" />Att ni var och en vet hur ni ska kontrollera <char style="add">(äga, vinna)</char> ert eget kärl <char style="add">(er egen kropp, redskap, hustru)</char></para>
+  <para style="p" vid="1TH 4:4">på ett <char style="bd">helgat</char> och hedervärt sätt.<verse eid="1TH 4:4" /></para>
+  <para style="m">
+    <verse number="5" style="v" sid="1TH 4:5" />Det får inte ske i lidelser och begär som bland hedningarna som inte känner Gud.</para>
+  <para style="b" vid="1TH 4:5" />
+  <para style="m" vid="1TH 4:5">
+    <char style="add">[Ordet ”kärl” används troligen bildligt för kroppen, så använder Paulus det i <char style="xt"><ref loc="2CO 4:7">2 Kor 4:7</ref></char>. Den som syndar på det sexuella området syndar mot sin egen kropp, se <char style="xt"><ref loc="1CO 6:19-20">1 Kor 6:19-20</ref></char>. Kärl kan i rabbinskt språkbruk också syfta på hustrun. Petrus använder ordet så, se <char style="xt"><ref loc="1PE 3:7">1 Pet 3:7</ref></char>. Det kan också vara en eufemism, dvs. en omskrivning för de sexuella organen.]</char><verse eid="1TH 4:5" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="6" style="v" sid="1TH 4:6" />Att någon inte går för långt <char style="add">[passerar gränsen över vad som är mitt och ditt]</char> och kränker <char style="add">(utnyttjar)</char> sin broder på detta område. Herren straffar allt sådant, det har vi redan sagt och betygat för er.</para>
+  <para style="b" vid="1TH 4:6" />
+  <para style="m" vid="1TH 4:6">
+    <char style="add">[Den tredje uppmaningen kan ha att göra med äktenskapsbrott, se <char style="xt"><ref loc="PRO 6:27-33">Ords 6:27-33</ref></char>. Orden som används här kan även gälla ekonomi och handlar då om att bedra sin broder. Dock verkar utifrån sammanhanget det handla om sexuell renhet.]</char><verse eid="1TH 4:6" /></para>
+  <para style="b" />
+  <para style="m" />
+  <para style="b" />
+  <para style="m">
+    <verse number="7" style="v" sid="1TH 4:7" />Gud har inte kallat oss till orenhet</para>
+  <para style="p" vid="1TH 4:7">utan till ett liv i <char style="bd">helgelse</char>. <verse eid="1TH 4:7" /><verse number="8" style="v" sid="1TH 4:8" />Den som avvisar detta avvisar alltså <char style="add">(just därför – gr. toigaroun)</char> inte en människa utan Gud, som ger er sin helige Ande.<verse eid="1TH 4:8" /></para>
+  <para style="s2">Kärleken till varandra</para>
+  <para style="m">
+    <verse number="9" style="v" sid="1TH 4:9" />När det gäller syskonkärleken behöver vi inte skriva till er. Ni har ju själva lärt er av Gud att älska varandra <char style="add">(osjälviskt och utgivande)</char>, <verse eid="1TH 4:9" /><verse number="10" style="v" sid="1TH 4:10" />och den kärleken visar ni alla syskonen <char style="add">(bröderna och systrarna i tron)</char> i hela Makedonien. Men vi uppmanar er, syskon, att göra det ännu mer.<verse eid="1TH 4:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="1TH 4:11" />Sätt en ära i <char style="add">(låt det vara er ambition)</char> att leva lugnt och sköta ert och arbeta med era händer, så som vi befallt er, <verse eid="1TH 4:11" /><verse number="12" style="v" sid="1TH 4:12" />så att ni väcker respekt hos de utomstående och inte behöver sakna något.</para>
+  <para style="s1" vid="1TH 4:12">Herrens ankomst</para>
+  <para style="m" vid="1TH 4:12" />
+  <para style="m" vid="1TH 4:12">
+    <char style="add">[Den judiska trosuppfattningen och Gamla testamentet undervisar att vid tidens slut kommer en uppståndelse och en slutgiltig dom. Marta trodde så när hon sa: ”Jag vet att Lasarus ska uppstå igen, vid uppståndelsen på den yttersta dagen”, se <char style="xt"><ref loc="JHN 11:24">Joh 11:24</ref></char>. En kristen som dör lämnar jordelivet för att vara tillsammans med Jesus, se <char style="xt"><ref loc="2CO 5:8">2 Kor 5:8</ref>; <ref loc="PHP 1:21-23">Fil 1:21-23</ref></char>. Uppståndelsen kommer också att ske i olika steg. Jesus var den förste, sedan kommer alla troende som levt att uppstå, och till sist alla människor, se <char style="xt"><ref loc="1CO 15:23-24">1 Kor 15:23-24</ref></char>. </char></para>
+  <para style="p" vid="1TH 4:12">
+    <char style="add">Paulus levde med övertygelsen att Jesus kunde komma tillbaka i hans livstid, se <char style="xt"><ref loc="1TH 1:10">1 Thess 1:10</ref></char>. Det gjorde även Petrus, se <char style="xt"><ref loc="1PE 4:7">1 Pet 4:7</ref></char>. Det verkar som om det uppkommit några frågor på detta område. Troligen har några av de troende i Thessalonike dött och man undrade vad som skulle hända med dem. Skulle deras kroppar vara kvar i graven till den sista uppståndelsen? Vad händer när Jesus kommer tillbaka, kommer de att vara med då?]</char><verse eid="1TH 4:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="1TH 4:13" />Syskon <char style="add">(bröder och systrar i tron)</char>, vi vill att ni ska veta hur det blir med dem som har insomnat, så att ni inte sörjer på samma sätt som de andra, de som inte har något hopp. <char style="add">[Alla människor känner sorg och saknad när någon nära anhörig dör. Skillnaden är att utan den kristna tron finns inget hopp.]</char> <verse eid="1TH 4:13" /><verse number="14" style="v" sid="1TH 4:14" />För om vi tror att Jesus har dött och uppstått <char style="add">[vilket vi ju gör]</char>, så ska Gud på samma sätt genom Jesus föra fram de insomnade <char style="add">[de som dött]</char> tillsammans med honom. <verse eid="1TH 4:14" /><verse number="15" style="v" sid="1TH 4:15" />Vi säger er detta enligt ett ord från Herren:</para>
+  <para style="b" vid="1TH 4:15" />
+  <para style="m" vid="1TH 4:15">Vi som lever och är kvar till Herrens ankomst ska alls inte komma före de insomnade.<verse eid="1TH 4:15" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="16" style="v" sid="1TH 4:16" />För Herren <char style="add">[Jesus]</char> ska själv stiga ner från himlen</para>
+  <para style="p" vid="1TH 4:16">när en befallning ljuder,</para>
+  <para style="p" vid="1TH 4:16">en ärkeängels röst <char style="add">[som hörs]</char></para>
+  <para style="p" vid="1TH 4:16">och en Guds basun <char style="add">[som ljuder]</char>.</para>
+  <para style="m" vid="1TH 4:16">Då ska de döda som tillhör den Smorde <char style="add">(Messias, Kristus)</char> uppstå först.</para>
+  <para style="b" vid="1TH 4:16" />
+  <para style="m" vid="1TH 4:16">
+    <char style="add">[Denna uppståndelse gäller ”de som dött i den Smorde”. Den gäller alla de som trott på Jesus som Messias och kan även gälla troende från Gamla testamentet. Vad som är helt klart är att det inte är en allmän uppståndelse där alla som levt uppstår. I Uppenbarelseboken nämns sju basuner där den sista har att göra med domen i vedermödan, se <char style="xt"><ref loc="REV 11:15-18">Upp 11:15-18</ref></char>. Se även <char style="xt"><ref loc="1CO 15:51-52">1 Kor 15:51-52</ref></char>.]</char><verse eid="1TH 4:16" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="17" style="v" sid="1TH 4:17" />Därefter ska vi som lever och är kvar ryckas upp bland skyar tillsammans med dem för att möta Herren i luften <char style="add">(den lägsta atmosfären)</char>. Och så ska vi alltid vara hos Herren. <char style="add">[Denna händelse brukar kallas ”uppryckandet”.]</char><verse eid="1TH 4:17" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="18" style="v" sid="1TH 4:18" />Därför <char style="add">[eftersom vi då alltid kommer att få vara med Jesus]</char>, trösta <char style="add">(uppmuntra)</char> varandra med dessa ord.</para>
+  <para style="b" vid="1TH 4:18" />
+  <para style="m" vid="1TH 4:18">
+    <char style="add">[Talet om Jesu återkomst är inte tänkt att skrämma. Det blir en dag då vi får vara med Jesus och får återse dem som gått före.]</char><verse eid="1TH 4:18" /></para>
+  <chapter eid="1TH 4" />
+  <chapter number="5" style="c" sid="1TH 5" />
+  <para style="s2">Herrens dag</para>
+  <para style="m">
+    <verse number="1" style="v" sid="1TH 5:1" />När det gäller tider <char style="add">(den exakta kronologiska ordningen av händelser)</char> och epoker <char style="add">(särskilda tidsintervall som börjar och slutar vid någon specifik händelse)</char> behöver vi inte skriva till er, syskon <char style="add">(bröder och systrar i tron)</char>. <char style="add">[<char style="xt"><ref loc="ACT 1:7">Apg 1:7</ref></char>]</char> <verse eid="1TH 5:1" /><verse number="2" style="v" sid="1TH 5:2" />Ni vet själva mycket väl att Herrens dag kommer <char style="add">[lika plötsligt och oväntat]</char> som en tjuv om natten.</para>
+  <para style="b" vid="1TH 5:2" />
+  <para style="m" vid="1TH 5:2">
+    <char style="add">[Herrens dag är ett välbekant uttryck i Bibeln. Profeterna kallar den en domens dag, se <char style="xt"><ref loc="AMO 5:18-20">Amos 5:18-20</ref>; <ref loc="JOL 2:11-13">Joel 2:11-13</ref></char>. Det är också en dag av frälsning och återupprättelse, se <char style="xt"><ref loc="JOL 2:32">Joel 2:32</ref></char>. Det är en dag då Gud griper in i historien och slutgiltigt dömer synden och upprättar tusenårsriket, se <char style="xt"><ref loc="REV 6:-1-19">Upp 6-19</ref></char>. Det är en omvälvande händelse som påverkar jorden och hela universum, se <char style="xt"><ref loc="2PE 3:10-13">2 Pet 3:10-13</ref></char>. </char></para>
+  <para style="p" vid="1TH 5:2">
+    <char style="add">Paulus hade undervisat om tidens slut och Herrens dag då han var i Thessalonike något år tidigare. Jesus undervisade också om detta ämne och använde liknande uttryck som ”en tjuv om natten” för att mana till vaksamhet, se <char style="xt"><ref loc="MAT 24:8">Matt 24:8</ref>, <ref loc="MAT 24:36-44">36-44</ref>; <ref loc="ISA 13:8">Jes 13:8</ref></char>.]</char><verse eid="1TH 5:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="1TH 5:3" />När de <char style="add">[folk som inte känner Gud]</char> säger: ”Fred och trygghet”, då drabbar undergången <char style="add">(katastrofen)</char> dem lika plötsligt som värkarna hos en kvinna som ska föda, och det finns inget, nej, inget sätt att undkomma <char style="add">(fly)</char> detta.</para>
+  <para style="b" vid="1TH 5:3" />
+  <para style="m" vid="1TH 5:3">
+    <char style="add">[Två bilder används här, en tjuv om natten och en kvinna som ska föda, se vers 2-3. Detta uttalande om fred och trygghet kan syfta på den falska fred som förutsägs i <char style="xt"><ref loc="DAN 9:27">Dan 9:27</ref></char>. Jfr även <char style="xt"><ref loc="PSA 69:23-26">Ps 69:23-26</ref></char>. För en troende kommer dock inte dagen som en överraskning, se vers 4.]</char><verse eid="1TH 5:3" /></para>
+  <para style="s2">Hur ska en kristen leva i väntan på Jesus?</para>
+  <para style="m">
+    <verse number="4" style="v" sid="1TH 5:4" />Men ni, syskon <char style="add">(bröder och systrar i tron)</char>, lever inte i mörker så att den dagen kan överraska er som en tjuv. <verse eid="1TH 5:4" /><verse number="5" style="v" sid="1TH 5:5" />Ni är alla ljusets barn och dagens barn. Vi tillhör inte natten eller mörkret. <verse eid="1TH 5:5" /><verse number="6" style="v" sid="1TH 5:6" />Låt oss därför inte sova som de andra, utan hålla oss vakna och nyktra. <verse eid="1TH 5:6" /><verse number="7" style="v" sid="1TH 5:7" />De som sover, de sover om natten, och de som berusar sig är berusade om natten. <verse eid="1TH 5:7" /><verse number="8" style="v" sid="1TH 5:8" />Men vi som tillhör dagen ska vara nyktra, iförda:</para>
+  <para style="p" vid="1TH 5:8">tron och</para>
+  <para style="p" vid="1TH 5:8">kärleken</para>
+  <para style="q2" vid="1TH 5:8">som rustning och</para>
+  <para style="p" vid="1TH 5:8">hoppet</para>
+  <para style="q2" vid="1TH 5:8">om frälsning som hjälm.</para>
+  <para style="b" vid="1TH 5:8" />
+  <para style="m" vid="1TH 5:8">
+    <char style="add">[Tron, kärleken och hoppet återfinns även i inledningen, se <char style="xt"><ref loc="1TH 1:3">1 Thess 1:3</ref></char>. I mitten av dessa tre ord, som det centrala, är kärleken.]</char><verse eid="1TH 5:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="1TH 5:9" />För Gud har inte bestämt oss till att drabbas av <char style="add">(utsättas för)</char> vredesdomen <char style="add">[som kommer över jorden på Herrens dag, se vers 2-4]</char>, utan att vinna <char style="add">(få erfara)</char> frälsning genom vår Herre Jesus den Smorde <char style="add">(Messias, Kristus)</char>. <verse eid="1TH 5:9" /><verse number="10" style="v" sid="1TH 5:10" />Han dog för oss för att vi ska leva tillsammans med honom, vare sig vi nu är vakna <char style="add">(levande)</char> eller insomnade <char style="add">(döda) [när Jesus kommer tillbaka]</char>. <verse eid="1TH 5:10" /><verse number="11" style="v" sid="1TH 5:11" />Därför ska ni uppmuntra <char style="add">(trösta, hjälpa, inbjuda)</char> varandra och bygga upp <char style="add">(stärka)</char> varandra, så som ni redan gör.</para>
+  <para style="s1" vid="1TH 5:11">Avslutande uppmaningar</para>
+  <para style="s2" vid="1TH 5:11">Värdesätt era ledare</para>
+  <para style="m" vid="1TH 5:11" />
+  <para style="m" vid="1TH 5:11">
+    <char style="add">[Den första gruppen uppmaningar (vers 12-13), av totalt fyra samlade gruppvis i vers 12-22, handlar om församlingens förhållningssätt gentemot sina ledare.]</char><verse eid="1TH 5:11" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="12" style="v" sid="1TH 5:12" />Vi uppmanar <char style="add">(ber)</char> er, kära syskon <char style="add">(bröder och systrar i tron)</char>:</para>
+  <para style="b" vid="1TH 5:12" />
+  <para style="m" vid="1TH 5:12">Att ni uppskattar <char style="add">(respekterar, ärar)</char> dem som arbetar så hårt för er,</para>
+  <para style="p" vid="1TH 5:12">de som har fått ansvaret <char style="add">(är satta framför er)</char> att vägleda <char style="add">(förmedla förståelse, milt varna, förmana)</char> er i Herren.<verse eid="1TH 5:12" /></para>
+  <para style="m">
+    <verse number="13" style="v" sid="1TH 5:13" />Att ni värdesätter dem högt i kärlek <char style="add">[som är osjälvisk och utgivande]</char> för deras arbete.</para>
+  <para style="p" vid="1TH 5:13">Lev ständigt i harmoni <char style="add">(och arbeta för frid)</char> med varandra.</para>
+  <para style="s2" vid="1TH 5:13">Hjälp de svaga</para>
+  <para style="m" vid="1TH 5:13" />
+  <para style="m" vid="1TH 5:13">
+    <char style="add">[Den andra gruppen (vers 14-15) gäller också alla i församlingen, som har ett ansvar att vägleda, uppmuntra och hjälpa varandra. Allt detta måste ske med tålamod.]</char><verse eid="1TH 5:13" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="14" style="v" sid="1TH 5:14" />Vi uppmanar er, kära syskon <char style="add">(bröder och systrar i tron)</char>:</para>
+  <para style="b" vid="1TH 5:14" />
+  <para style="m" vid="1TH 5:14">Vägled <char style="add">(förmedla förståelse, milt varna, förmana)</char></para>
+  <para style="p" vid="1TH 5:14">de odisciplinerade <char style="add">(rebelliska, som vägrar lyda auktoriteter och inte vill underordna sig)</char>.</para>
+  <para style="m" vid="1TH 5:14">Uppmuntra</para>
+  <para style="p" vid="1TH 5:14">de missmodiga <char style="add">(som tappat hoppet; har brustna hjärtan)</char>.</para>
+  <para style="m" vid="1TH 5:14">Hjälp <char style="add">(stötta)</char></para>
+  <para style="p" vid="1TH 5:14">de svaga <char style="add">(bräckliga)</char>.</para>
+  <para style="b" vid="1TH 5:14" />
+  <para style="m" vid="1TH 5:14">Ha tålamod</para>
+  <para style="p" vid="1TH 5:14">med alla <char style="add">[tappa inte hoppet även om omständigheter går emot eller du blir felaktigt behandlad av andra]</char>.<verse eid="1TH 5:14" /></para>
+  <para style="m">
+    <verse number="15" style="v" sid="1TH 5:15" />Se <char style="add">[hela tiden]</char> till att ingen lönar ont med ont <char style="add">[skulle ha gett igen med samma mynt, se <char style="xt"><ref loc="1PE 3:9">1 Pet 3:9</ref></char>]</char>,</para>
+  <para style="p" vid="1TH 5:15">utan sträva <char style="add">(jaga)</char> alltid efter att göra <char style="add">[det som är]</char> gott, både mot varandra och mot alla <char style="add">[människor]</char>.</para>
+  <para style="s2" vid="1TH 5:15">Var alltid glada</para>
+  <para style="m" vid="1TH 5:15" />
+  <para style="m" vid="1TH 5:15">
+    <char style="add">[I den tredje gruppen av uppmaningar (vers 16-18) handlar det, precis som i den allra sista gruppen (vers 19-22), om det personliga inre livet. Det finns alltid anledning till optimism och tacksägelse.]</char><verse eid="1TH 5:15" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="16" style="v" sid="1TH 5:16" />Var alltid glada <char style="add">(gläd er alltid) [över nåden; luta er i alla tider ständigt mot Gud, se <char style="xt"><ref loc="ROM 12:12">Rom 12:12</ref>; <ref loc="PHP 4:4">Fil 4:4</ref></char>]</char>.<verse eid="1TH 5:16" /></para>
+  <para style="m">
+    <verse number="17" style="v" sid="1TH 5:17" />Be oavbrutet <char style="add">(utan uppehåll) [regelbundet utan att tröttna]</char>.</para>
+  <para style="b" vid="1TH 5:17" />
+  <para style="m" vid="1TH 5:17">
+    <char style="add">[Det vanligaste ordet för att be i NT (gr. proseuchomai) används här. Det beskriver ett förtroligt samtal där man utbyter önskningar, dvs. man lägger fram sina egna önskningar inför Gud, men lyssnar också in vad Gud vill genom att verka sin vilja/önskan i den troende, se <char style="xt"><ref loc="MAT 6:9-10">Matt 6:9-10</ref>; <ref loc="PHP 2:13">Fil 2:13</ref></char>.]</char><verse eid="1TH 5:17" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="18" style="v" sid="1TH 5:18" />Tacka <char style="add">[hela tiden Gud]</char> i allt <char style="add">[i varje situation och omständighet]</char>.</para>
+  <para style="b" vid="1TH 5:18" />
+  <para style="m" vid="1TH 5:18">För detta är nämligen Guds vilja <char style="add">[det han mest av allt önskar]</char> för er i den Smorde <char style="add">(Messias, Kristus)</char> Jesus.</para>
+  <para style="s2" vid="1TH 5:18">Ha personligt ansvar i andliga frågor</para>
+  <para style="m" vid="1TH 5:18" />
+  <para style="m" vid="1TH 5:18">
+    <char style="add">[Den sista gruppen har fem uppmaningar. Först två negativa som varnar för cynism, följt av tre positiva. Vers 21 är ordagrant ”men pröva allt”.]</char><verse eid="1TH 5:18" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="19" style="v" sid="1TH 5:19" />Sluta att kväva <char style="add">(trycka ner)</char> Anden.<verse eid="1TH 5:19" /></para>
+  <para style="m">
+    <verse number="20" style="v" sid="1TH 5:20" />Sluta att förakta <char style="add">(se ner på)</char> profetior <char style="add">[profetiska uppenbarelser, uppmaningar och varningar]</char>.<verse eid="1TH 5:20" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="21" style="v" sid="1TH 5:21" />Pröva <char style="add">(utvärdera)</char> i stället allt.</para>
+  <para style="m" vid="1TH 5:21">Håll fast vid det som är gott <char style="add">(rätt, riktigt)</char>.<verse eid="1TH 5:21" /></para>
+  <para style="m">
+    <verse number="22" style="v" sid="1TH 5:22" />Håll er borta från varje form av ondska <char style="add">[oavsett hur fromt och fint det verkar vara på ytan]</char>.</para>
+  <para style="b" vid="1TH 5:22" />
+  <para style="m" vid="1TH 5:22">
+    <char style="add">[Samtidigt som man inte ska kväva och släcka ut Anden genom att förakta profetior, ska man inte bara godta allt som säger sig vara andligt. Alla andliga manifestationer och profetiska tilltal ska prövas mot Guds ord, se <char style="xt"><ref loc="ACT 17:11">Apg 17:11</ref></char>. Även gåvan att utskilja andar måste vara verksam, se <char style="xt"><ref loc="1JN 4:1">1 Joh 4:1</ref>; <ref loc="1CO 12:10">1 Kor 12:10</ref></char>. I sammanhanget refererar ”allt” främst till profetiska tilltal, se vers 20, men inkluderar även annat som också sker i församlingen.]</char><verse eid="1TH 5:22" /></para>
+  <para style="s1">Avslutning</para>
+  <para style="m">
+    <verse number="23" style="v" sid="1TH 5:23" />Fridens Gud ska själv helga er <char style="add">(avskilja varje del av varenda en av er för helig tjänst)</char>, och <char style="add">[vi ber att]</char> er</para>
+  <para style="p" vid="1TH 5:23">ande och</para>
+  <para style="p" vid="1TH 5:23">själ och</para>
+  <para style="p" vid="1TH 5:23">kropp</para>
+  <para style="m" vid="1TH 5:23">ska bevaras hela så att ni är utan fläck vid vår Herre Jesu den Smordes <char style="add">(Kristi)</char> ankomst. <verse eid="1TH 5:23" /><verse number="24" style="v" sid="1TH 5:24" />Trofast är han som kallar er till detta. Han ska också göra det <char style="add">[helga och bevara er, se vers 23]</char>.<verse eid="1TH 5:24" /></para>
+  <para style="s2">Tre personliga uppmaningar</para>
+  <para style="m">
+    <verse number="25" style="v" sid="1TH 5:25" />Syskon <char style="add">(bröder och systrar i tron)</char>,</para>
+  <para style="p" vid="1TH 5:25">be även för oss.<verse eid="1TH 5:25" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="26" style="v" sid="1TH 5:26" />Hälsa alla syskonen <char style="add">(bröderna och systrarna i tron)</char></para>
+  <para style="p" vid="1TH 5:26">med en helig kyss.</para>
+  <para style="b" vid="1TH 5:26" />
+  <para style="m" vid="1TH 5:26">
+    <char style="add">[Ett uttryck för kärlek, förlåtelse och enhet, gr. philema. Kindkyssen var och är en vanlig hälsningsform i Medelhavsområdet.]</char><verse eid="1TH 5:26" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="27" style="v" sid="1TH 5:27" />Lova mig inför Herren att brevet blir uppläst,</para>
+  <para style="p" vid="1TH 5:27">för alla <char style="add">[heliga]</char> syskon <char style="add">(bröder och systrar i tron)</char>.<verse eid="1TH 5:27" /></para>
+  <para style="s2">Välsignelse</para>
+  <para style="m">
+    <verse number="28" style="v" sid="1TH 5:28" />Nåd <char style="add">(favör) [kraft]</char> från vår Herre Jesus den Smorde <char style="add">(Messias, Kristus)</char> till er.<verse eid="1TH 5:28" /></para>
+  <chapter eid="1TH 5" />
+</usx>

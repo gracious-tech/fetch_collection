@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Gotiki olu kutifi ledami ka kofawa",
+        "local_abbrev": "",
+        "english": "Siane Komongu New Testament",
+        "english_abbrev": "KOM"
+    },
+    "year": 1991,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1991 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=snp"
+    },
+    "ids": {
+        "ebible": "snp"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/snp_usfm.zip",
+        "updated": "2012-11-24",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

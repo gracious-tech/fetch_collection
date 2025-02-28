@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "ইণ্ডিয়ান ৰিভাইচ ভাৰচন - আচামিচ",
+        "local_abbrev": "",
+        "english": "Indian Revised Version - Assamese",
+        "english_abbrev": "IRVAsm"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Bridge Connectivity Solutions Pvt. Ltd.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=d199679f805f5b29"
+    },
+    "ids": {
+        "dbl": "d199679f805f5b29",
+        "ebible": "asmfb"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=d199679f805f5b29&type=release",
+        "updated": "2022-04-13",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

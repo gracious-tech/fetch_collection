@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "American Standard Version (1901) Byzantine Text",
+        "local_abbrev": "ABT",
+        "english": "American Standard Version (1901) Byzantine Text",
+        "english_abbrev": "ABT"
+    },
+    "year": 1901,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=engasvbt"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engasvbt"
+    },
+    "ids": {
+        "ebible": "engasvbt"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engasvbt_usfm.zip",
+        "updated": "2024-11-07",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

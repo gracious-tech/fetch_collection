@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Sfanta Biblie",
+        "local_abbrev": "",
+        "english": "Bayash Bible",
+        "english_abbrev": "BAY"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ],
+        "attribution": "Anonymous",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ronBayash"
+    },
+    "ids": {
+        "ebible": "ronBayash"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ronBayash_usfm.zip",
+        "updated": "2023-10-11",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Ti Biblia",
+        "local_abbrev": "",
+        "english": "Ilocano Bible",
+        "english_abbrev": "IB"
+    },
+    "year": 2019,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2019 Door43 World Missions Community",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=iloulb"
+    },
+    "ids": {
+        "ebible": "iloulb"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/iloulb_usfm.zip",
+        "updated": "2024-08-19",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

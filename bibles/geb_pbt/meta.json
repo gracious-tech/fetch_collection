@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Fhe Bakɨmen Kaman Kameŋ",
+        "local_abbrev": "",
+        "english": "Kire New Testament",
+        "english_abbrev": "KIRNT"
+    },
+    "year": 2001,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=e8b818f49c7c2835"
+    },
+    "ids": {
+        "dbl": "e8b818f49c7c2835",
+        "ebible": "geb"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=e8b818f49c7c2835&type=release",
+        "updated": "2022-05-18",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Buki Tabu Beyabeyana",
+        "local_abbrev": "",
+        "english": "Bwanabwana Old Testament",
+        "english_abbrev": "OWB"
+    },
+    "year": 2019,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2019 Wycliffe Switzerland",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tteo"
+    },
+    "ids": {
+        "ebible": "tteo"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tteo_usfm.zip",
+        "updated": "2022-08-18",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

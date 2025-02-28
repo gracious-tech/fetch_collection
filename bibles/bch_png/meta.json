@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Deo Ele Posanga",
+        "local_abbrev": "",
+        "english": "Bariai Bible",
+        "english_abbrev": "BB"
+    },
+    "year": 2012,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2012 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=bch"
+    },
+    "ids": {
+        "ebible": "bch"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/bch_usfm.zip",
+        "updated": "2012-10-03",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

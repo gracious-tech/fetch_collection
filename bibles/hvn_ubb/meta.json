@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Maꞌu",
+        "local_abbrev": "",
+        "english": "Hawu Mark",
+        "english_abbrev": "HM"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2016 Unit Bahasa dan Budaya",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=hvn"
+    },
+    "ids": {
+        "ebible": "hvn"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/hvn_usfm.zip",
+        "updated": "2022-03-11",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

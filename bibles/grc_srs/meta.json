@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Solid Rock Greek New Testament: Scholar's Edition",
+        "english_abbrev": "SRS"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=grcsr"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=grcsr"
+    },
+    "ids": {
+        "ebible": "grcsr"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/grcsr_usfm.zip",
+        "updated": "2024-08-08",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

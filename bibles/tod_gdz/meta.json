@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "GALA Daawoo Zɛʋɛi",
+        "local_abbrev": "GDZ",
+        "english": "Toma Bible",
+        "english_abbrev": ""
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Bible Society in Guinea-Conakry",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=30cb581bcc911c45"
+    },
+    "ids": {
+        "dbl": "30cb581bcc911c45",
+        "ebible": "tod"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=30cb581bcc911c45&type=release",
+        "updated": "2023-01-24",
+        "revision": 6
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Masas Pit Jesucristowa",
+        "local_abbrev": "",
+        "english": "Awa-Cuaiquer New Testament",
+        "english_abbrev": "ACNT"
+    },
+    "year": 2002,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2002 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kwi"
+    },
+    "ids": {
+        "ebible": "kwi"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kwi_usfm.zip",
+        "updated": "2014-08-06",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

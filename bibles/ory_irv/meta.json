@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "ଇଣ୍ଡିୟାନ ରିୱାଇସ୍ଡ୍ ୱରସନ୍ - ଓଡିଆ",
+        "local_abbrev": "",
+        "english": "Indian Revised Version - Odia",
+        "english_abbrev": "IRVOry"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Bridge Connectivity Solutions Pvt. Ltd.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=03e08e889c768aa7"
+    },
+    "ids": {
+        "dbl": "03e08e889c768aa7",
+        "ebible": "ory"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=03e08e889c768aa7&type=release",
+        "updated": "2022-04-13",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

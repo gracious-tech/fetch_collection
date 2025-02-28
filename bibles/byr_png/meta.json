@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Buk Stat na Nupela Testamen long tokples Yipma long Niugini",
+        "local_abbrev": "",
+        "english": "Baruya Bible",
+        "english_abbrev": "BB"
+    },
+    "year": 1994,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1993, 1994 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=byr"
+    },
+    "ids": {
+        "ebible": "byr"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/byr_usfm.zip",
+        "updated": "2013-02-07",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

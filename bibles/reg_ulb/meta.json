@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Kara New Testament",
+        "english_abbrev": "KNT"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 Door43 World Missions Community",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=reg"
+    },
+    "ids": {
+        "ebible": "reg"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/reg_usfm.zip",
+        "updated": "2020-10-06",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

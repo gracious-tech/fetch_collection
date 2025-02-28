@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Plain English Version (Australian Aboriginal)",
+        "local_abbrev": "PEV",
+        "english": "Plain English Version (Australian Aboriginal)",
+        "english_abbrev": "PEV"
+    },
+    "year": 2019,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2019 The Plain English Project",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engPEV"
+    },
+    "ids": {
+        "ebible": "engPEV"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engPEV_usfm.zip",
+        "updated": "2024-11-07",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": ["niche"]
+}

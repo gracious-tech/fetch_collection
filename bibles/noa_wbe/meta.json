@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Ẽwandam Iek",
+        "local_abbrev": "",
+        "english": "Woun Meu New Testament",
+        "english_abbrev": "WBE"
+    },
+    "year": 2011,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2011 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=noaE"
+    },
+    "ids": {
+        "ebible": "noaE"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/noaE_usfm.zip",
+        "updated": "2014-08-06",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

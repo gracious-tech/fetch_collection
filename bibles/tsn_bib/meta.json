@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Open Lefoko: La Botshelo Kgolagano e Ntsha",
+        "local_abbrev": "OLEF",
+        "english": "Open Tswana Living New Testament",
+        "english_abbrev": ""
+    },
+    "year": 1993,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=69e6826f010ee12a"
+    },
+    "ids": {
+        "dbl": "69e6826f010ee12a",
+        "ebible": "tsn"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=69e6826f010ee12a&type=release",
+        "updated": "2024-05-02",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

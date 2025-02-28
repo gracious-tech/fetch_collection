@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Pohnpeian Bible (1882, new alphabet)",
+        "english_abbrev": "PBnew"
+    },
+    "year": 1882,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=pon-pdn"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=pon-pdn"
+    },
+    "ids": {
+        "ebible": "pon-pdn"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/pon-pdn_usfm.zip",
+        "updated": "2024-07-28",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

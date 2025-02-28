@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Anututane Wam Kwikwiu Kayuk Kaknga Jesu Kraisda",
+        "local_abbrev": "",
+        "english": "Wantoat New Testament",
+        "english_abbrev": "WNT"
+    },
+    "year": 2001,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1975, 2001 The Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=wnc"
+    },
+    "ids": {
+        "ebible": "wnc"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/wnc_usfm.zip",
+        "updated": "2012-10-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

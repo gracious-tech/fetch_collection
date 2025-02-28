@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Maaron Saveeŋ Tooni Patabuyaaŋ",
+        "local_abbrev": "",
+        "english": "Saveeng Tuam Bible",
+        "english_abbrev": "TUA"
+    },
+    "year": 2011,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2011 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tuc-t"
+    },
+    "ids": {
+        "ebible": "tuc-t"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tuc-t_usfm.zip",
+        "updated": "2017-08-31",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

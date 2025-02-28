@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Библия пэ ловарицко романы щиб",
+        "local_abbrev": "ЛРБ",
+        "english": "Lovari Romani Bible",
+        "english_abbrev": "LRB"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=4e046bd6977f26de"
+    },
+    "ids": {
+        "dbl": "4e046bd6977f26de",
+        "ebible": "rmylovari"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=f6c04124034a114e&type=release",
+        "updated": "2023-07-25",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

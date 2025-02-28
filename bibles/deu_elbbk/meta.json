@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Elberfelder Übersetzung (revidierte)",
+        "local_abbrev": "ELBBK",
+        "english": "Elberfelder Translation (revised)",
+        "english_abbrev": ""
+    },
+    "year": 2019,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Verbreitung des christlichen Glaubens e.V.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=f492a38d0e52db0f"
+    },
+    "ids": {
+        "dbl": "f492a38d0e52db0f",
+        "ebible": "deuelbbk"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=f492a38d0e52db0f&type=release",
+        "updated": "2021-11-25",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

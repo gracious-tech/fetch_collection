@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Tachi ak'õre pedee",
+        "local_abbrev": "",
+        "english": "Epena New Testament",
+        "english_abbrev": "ENT"
+    },
+    "year": 2005,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2005 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=sjaNT"
+    },
+    "ids": {
+        "ebible": "sjaNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/sjaNT_usfm.zip",
+        "updated": "2014-04-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

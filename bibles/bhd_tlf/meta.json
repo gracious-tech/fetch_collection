@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "भड्लाई बाइबिल",
+        "local_abbrev": "",
+        "english": "Bhadrawahi Bible",
+        "english_abbrev": "BHDNT"
+    },
+    "year": 2021,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Love Fellowship",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=c2d042a913068a25"
+    },
+    "ids": {
+        "dbl": "c2d042a913068a25",
+        "ebible": "bhd"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=c2d042a913068a25&type=release",
+        "updated": "2022-01-26",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

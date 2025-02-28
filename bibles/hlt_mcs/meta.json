@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Baibal Olcim",
+        "local_abbrev": "",
+        "english": "Matupi Chin Standard Bible",
+        "english_abbrev": "MCSB"
+    },
+    "year": 2019,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=hlt"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=hlt"
+    },
+    "ids": {
+        "ebible": "hlt"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/hlt_usfm.zip",
+        "updated": "2024-12-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

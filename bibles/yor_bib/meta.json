@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "ní oore ọ̀fẹ́ láti lo Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní",
+        "local_abbrev": "",
+        "english": "Open Yoruba Contemporary Bible",
+        "english_abbrev": "OYCB"
+    },
+    "year": 2017,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=b8d1feac6e94bd74"
+    },
+    "ids": {
+        "dbl": "b8d1feac6e94bd74",
+        "ebible": "yor"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=b8d1feac6e94bd74&type=release",
+        "updated": "2022-01-06",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

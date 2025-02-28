@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Beebaa Dabu",
+        "local_abbrev": "",
+        "english": "Kapingamarangi Bible",
+        "english_abbrev": "KPT"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1996, 2014 The Kapingamarangi Bible translation committee",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kpg"
+    },
+    "ids": {
+        "ebible": "kpg"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kpg_usfm.zip",
+        "updated": "2015-04-24",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

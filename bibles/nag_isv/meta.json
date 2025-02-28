@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Indian Standard Version (Nagamese)",
+        "english_abbrev": "ISV"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Bridge Connectivity Solutions Pvt. Ltd.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=e423bf8faef6643b"
+    },
+    "ids": {
+        "dbl": "e423bf8faef6643b",
+        "ebible": "nag"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=e423bf8faef6643b&type=release",
+        "updated": "2022-05-09",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Handr Taara",
+        "local_abbrev": "",
+        "english": "Borna New Testament (Latin Version)",
+        "english_abbrev": "BRNNT"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=44e37abe1fa39aab"
+    },
+    "ids": {
+        "dbl": "44e37abe1fa39aab",
+        "ebible": "bwo"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=44e37abe1fa39aab&type=release",
+        "updated": "2022-03-01",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

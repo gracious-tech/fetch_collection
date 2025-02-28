@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Біблія (пераклад В.Сёмухі)",
+        "local_abbrev": "ББЛ",
+        "english": "Bible in belarusian",
+        "english_abbrev": "BBL"
+    },
+    "year": 2017,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc",
+                "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        ],
+        "attribution": "John the Forerunner Church of Christians of Evangelical Faith of Minsk City",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=b52bc8b7af3bdc6f"
+    },
+    "ids": {
+        "dbl": "b52bc8b7af3bdc6f",
+        "ebible": "bel"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=b52bc8b7af3bdc6f&type=release",
+        "updated": "2017-04-25",
+        "revision": 7
+    },
+    "literalness": null,
+    "tags": []
+}

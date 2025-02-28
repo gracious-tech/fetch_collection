@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "QARAAKYA QUA TIMWATORA",
+        "local_abbrev": "",
+        "english": "South Tairora New Testament",
+        "english_abbrev": "STA"
+    },
+    "year": 2000,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2000 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=omw"
+    },
+    "ids": {
+        "ebible": "omw"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/omw_usfm.zip",
+        "updated": "2016-08-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

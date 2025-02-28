@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Open English Bible (American spelling)",
+        "local_abbrev": "OEB",
+        "english": "Open English Bible (American spelling)",
+        "english_abbrev": "OEB"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=engoebus"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engoebus"
+    },
+    "ids": {
+        "ebible": "engoebus"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engoebus_usfm.zip",
+        "updated": "2024-11-13",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

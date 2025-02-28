@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "ସତିଅର୍‌ ବାଟ୍‌",
+        "local_abbrev": "",
+        "english": "Sida New Testament",
+        "english_abbrev": "NTSAA"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=ef899709a85822c3"
+    },
+    "ids": {
+        "dbl": "ef899709a85822c3",
+        "ebible": "dso"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=ef899709a85822c3&type=release",
+        "updated": "2020-11-01",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

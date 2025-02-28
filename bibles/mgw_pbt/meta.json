@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Injili ya Yesu",
+        "local_abbrev": "",
+        "english": "Matumbi Bible Version",
+        "english_abbrev": "MBV"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=f638e44feb77f803"
+    },
+    "ids": {
+        "dbl": "f638e44feb77f803",
+        "ebible": "mgw"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=f638e44feb77f803&type=release",
+        "updated": "2022-09-08",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

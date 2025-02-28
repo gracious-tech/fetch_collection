@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "God's Living Word (John + John's letters)",
+        "local_abbrev": "GLW",
+        "english": "God's Living Word (John + John's letters)",
+        "english_abbrev": "GLW"
+    },
+    "year": 1996,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1996 Michael Paul Johnson",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=eng-glw"
+    },
+    "ids": {
+        "ebible": "eng-glw"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/eng-glw_usfm.zip",
+        "updated": "2018-08-24",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": ["niche"]
+}

@@ -1,0 +1,734 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
+  <book code="1TI" style="id" />
+  <para style="h">1 Timoteusbrevet</para>
+  <para style="toc2">1 Timoteusbrevet</para>
+  <para style="mt1">1 Timoteusbrevet</para>
+  <para style="imt1">Inledning</para>
+  <para style="ip">Introduktion: De tre pastoralbreven, första och andra brevet till Timoteus och Titusbrevet, är riktade till församlingsledare. I detta brev varnar Paulus för falska lärare, se <char style="xt"><ref loc="1TI 1:3">1 Tim 1:3</ref></char>, och ger även instruktioner för församlingslivet, se <char style="xt"><ref loc="1TI 3:15">1 Tim 3:15</ref></char>.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Struktur:</char></para>
+  <para style="ip">1. Församlingens lära – kap 1.</para>
+  <para style="ip">2. Församlingens gudstjänst – kap 2.</para>
+  <para style="ip">3. Församlingens ledarskap – kap 3-6.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Skrivet: </char> Troligen <char style="bd">63-66 e.Kr.</char></para>
+  <para style="ip">Flera faktorer pekar på att pastoralbreven är skrivna efter Paulus första fångenskap i Rom. Det gör att breven dateras till mitten av 60-talet e.Kr. Ett tidigare datum är svårt att passa in i Apostlagärningarnas kronologi. I <char style="xt"><ref loc="ACT 20:4-6">Apg 20:4-6</ref></char> reser visserligen Timoteus med Paulus till Efesos, men han stannar inte kvar där. I detta brev uppmanas däremot Timoteus att stanna, se <char style="xt"><ref loc="1TI 1:3">1 Tim 1:3</ref></char>. I breven som är skrivna under Paulus första fångenskap är Demas vid Paulus sida, se <char style="xt"><ref loc="COL 4:14">Kol 4:14</ref>; <ref loc="PHP 1:24">Fil 1:24</ref></char>. När Timoteusbreven skrivs har han lämnat tron, vilket gör att de måste varit skrivna senare, se <char style="xt"><ref loc="2TI 4:10">2 Tim 4:10</ref></char>. Flera kyrkofäder, t.ex. Clemens och Eusebius, skriver om att Paulus hade flera fängelsevistelser.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Till: Timoteus</char>, se vers 2, och församlingen i <char style="bd">Efesos</char>, se vers 3 och avslutningen i sista versen som använder sig av ”er” – plural, se <char style="xt"><ref loc="1TI 6:21">1 Tim 6:21</ref></char>.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Från: </char> Troligen <char style="bd">Makedonien</char>, se <char style="xt"><ref loc="1TI 1:3">1 Tim 1:3</ref></char>.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Författare: Paulus</char>, se <char style="xt"><ref loc="1TI 1:1">1 Tim 1:1</ref></char>.</para>
+  <chapter number="1" style="c" sid="1TI 1" />
+  <para style="s1">Hälsning</para>
+  <para style="m">
+    <verse number="1" style="v" sid="1TI 1:1" />
+    <char style="add">[Från:]</char> Paulus, apostel <char style="add">(sändebud, ambassadör)</char> åt den Smorde Jesus <char style="add">(Messias/Kristi Jesu apostel)</char></para>
+  <para style="p" vid="1TI 1:1">på uppdrag av Gud, vår Frälsare,</para>
+  <para style="p" vid="1TI 1:1">och den Smorde <char style="add">(Messias, Kristus)</char> Jesus, vårt hopp.<verse eid="1TI 1:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="1TI 1:2" />
+    <char style="add">[Till:]</char> Timoteus,</para>
+  <para style="m" vid="1TI 1:2">
+    <char style="add">[mitt]</char> äkta <char style="add">(sanna)</char> barn i tron.</para>
+  <para style="b" vid="1TI 1:2" />
+  <para style="m" vid="1TI 1:2">
+    <char style="add">[Det grekiska ordet för barn som används här är inte huios – en vuxen son. Istället skriver Paulus teknon, som ordagrant betyder ”att vara född av någon” och betonar relationen mellan föräldern och barnet – en älskad familjemedlem. Timoteus kom från Derbe (beläget i nuvarande centrala Turkiet) där Paulus träffade honom under sin första missionsresa. Timoteus mor var judinna och hans far var grek, se <char style="xt"><ref loc="ACT 16:1">Apg 16:1</ref></char>. Han följde med på flera av Paulus resor och blev hans närmaste medarbetare. Paulus var hans andliga far.]</char></para>
+  <para style="b" vid="1TI 1:2" />
+  <para style="m" vid="1TI 1:2">Nåd <char style="add">(oförtjänt favör) [kraft]</char>,</para>
+  <para style="p" vid="1TI 1:2">barmhärtighet <char style="add">(medlidande uttryckt i handling)</char></para>
+  <para style="p" vid="1TI 1:2">och frid</para>
+  <para style="q2" vid="1TI 1:2">från Gud Fadern och den Smorde <char style="add">(Messias, Kristus)</char> Jesus, vår Herre.</para>
+  <para style="b" vid="1TI 1:2" />
+  <para style="m" vid="1TI 1:2">
+    <char style="add">[Uttrycket nåd och frid är vanligt hos Paulus, dock finns tillägget med ”barmhärtighet” bara här i pastoralbreven. Jesus talade i Bergspredikan om att den som är barmhärtig själv kommer att möta barmhärtighet, se <char style="xt"><ref loc="MAT 5:7">Matt 5:7</ref></char>.]</char><verse eid="1TI 1:2" /></para>
+  <para style="s1">Varning för falska läror</para>
+  <para style="m">
+    <verse number="3" style="v" sid="1TI 1:3" />Som jag befallde <char style="add">(förmanade, uppmanade)</char> dig redan när jag var på väg mot Makedonien, vill jag att du stannar i Efesos och befaller <char style="add">(förmanar)</char> vissa personer där att inte lära ut andra <char style="add">[falska]</char> läror <verse eid="1TI 1:3" /><verse number="4" style="v" sid="1TI 1:4" />eller ägna sig åt myter och ändlösa släktregister. Sådant leder till strider och tjänar inte Guds frälsningsplan genom tron.</para>
+  <para style="b" vid="1TI 1:4" />
+  <para style="m" vid="1TI 1:4">
+    <char style="add">[Dessa myter var troligen spekulationer kring Gamla testamentets personer, se vers 7. Denna typ av undervisning verkar ha karaktäriserat dessa falska lärare i Efesos och på Kreta, se <char style="xt"><ref loc="2TI 4:4">2 Tim 4:4</ref>; <ref loc="TIT 1:14">Tit 1:14</ref></char>. Paulus kan också syfta på tidiga gnostiska läror som florerade i Efesos. Bland personerna kan det även ha funnits kvinnor från den kvinnodominerade Artemiskulten som förespråkade kvinnans suveränitet över mannen, se <char style="xt"><ref loc="1TI 2:12">1 Tim 2:12</ref></char>. </char></para>
+  <para style="p" vid="1TI 1:4">
+    <char style="add">Kanske ville Timoteus följa med Paulus, han hade ju rest med honom under många års tid, men han behövdes i Efesos för att konfrontera dem som lärde ut felaktiga läror.]</char><verse eid="1TI 1:4" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="5" style="v" sid="1TI 1:5" />Målet med befallningen <char style="add">(förmaningen, uppmaningen)</char> är</para>
+  <para style="p" vid="1TI 1:5">kärlek <char style="add">[som är osjälvisk och utgivande]</char> ur ett rent hjärta,</para>
+  <para style="p" vid="1TI 1:5">ett gott samvete</para>
+  <para style="p" vid="1TI 1:5">och en uppriktig <char style="add">(genuin)</char> tro.<verse eid="1TI 1:5" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="6" style="v" sid="1TI 1:6" />Det målet har vissa missat och i stället förfallit till tomt prat <char style="add">[som inte förvandlar hjärtan, se vers 5]</char>. <verse eid="1TI 1:6" /><verse number="7" style="v" sid="1TI 1:7" />De vill vara Torah-lärare <char style="add">(”lagexperter” – gr. nomo-didaskalos, se <char style="xt"><ref loc="LUK 5:17">Luk 5:17</ref></char>)</char> men förstår varken vad de säger eller vad de så säkert uttalar sig om. <verse eid="1TI 1:7" /><verse number="8" style="v" sid="1TI 1:8" />Men vi vet att lagen <char style="add">[gr. nomos]</char> är god <char style="add">[<char style="xt"><ref loc="ROM 7:12">Rom 7:12</ref></char>]</char>, om man använder den rätt <char style="add">(på ett lagligt sätt – gr. nomimos)</char>.</para>
+  <para style="b" vid="1TI 1:8" />
+  <para style="m" vid="1TI 1:8">
+    <char style="add">[Hela Guds ord är gott och visar vad som är rätt och behagar Gud, se <char style="xt"><ref loc="ROM 7:7">Rom 7:7</ref>; <ref loc="ROM 13:8-10">13:8-10</ref>; <ref loc="PSA 19:13">Ps 19:13</ref>; <ref loc="PSA 119:160">119:160</ref></char>. Det är som en spegel som ger insikt om synd, se <char style="xt"><ref loc="ROM 3:19-20">Rom 3:19-20</ref>; <ref loc="GAL 3:24">Gal 3:24</ref></char>. Hela GT pekar på Jesus, se <char style="xt"><ref loc="MAT 5:17">Matt 5:17</ref>; <ref loc="ROM 10:4">Rom 10:4</ref></char>. Fel användning är t.ex. att kräva att hedningar ska följa de delar som bara var tänkta för judar, se <char style="xt"><ref loc="ACT 15:19-21">Apg 15:19-21</ref></char>, eller vända det till ett legalistiskt system, se <char style="xt"><ref loc="ROM 8:3">Rom 8:3</ref>; <ref loc="GAL 2:16">Gal 2:16</ref>; <ref loc="GAL 3:23">3:23</ref></char>.]</char><verse eid="1TI 1:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="1TI 1:9" />Vi vet att lagen inte är till för rättfärdiga <char style="add">[som redan lever heligt och rättfärdigt]</char>, utan för:</para>
+  <para style="b" vid="1TI 1:9" />
+  <para style="m" vid="1TI 1:9">laglösa <char style="add">(gr. anomos)</char></para>
+  <para style="p" vid="1TI 1:9">och rebeller,</para>
+  <para style="m" vid="1TI 1:9">gudlösa <char style="add">(ogudaktiga, som helt saknar respekt och vördnad för Gud)</char></para>
+  <para style="p" vid="1TI 1:9">och syndare,</para>
+  <para style="m" vid="1TI 1:9">oheliga</para>
+  <para style="p" vid="1TI 1:9">och oandliga,</para>
+  <para style="b" vid="1TI 1:9" />
+  <para style="m" vid="1TI 1:9">
+    <char style="add">[Dessa tre par motsvarar de första buden som handlar om Gud. De återstående följer buden som har att göra med hur vi ska behandla våra medmänniskor.]</char></para>
+  <para style="b" vid="1TI 1:9" />
+  <para style="m" vid="1TI 1:9">fadermördare</para>
+  <para style="p" vid="1TI 1:9">och modermördare <char style="add">(de som slår och till och med dödar sina föräldrar)</char>,</para>
+  <para style="m" vid="1TI 1:9">
+    <char style="add">[motsvarar budet att hedra sina föräldrar, se <char style="xt"><ref loc="EXO 20:12">2 Mos 20:12</ref></char>]</char></para>
+  <para style="b" vid="1TI 1:9" />
+  <para style="m" vid="1TI 1:9">mördare,</para>
+  <para style="m" vid="1TI 1:9">
+    <char style="add">[motsvarar budet att inte mörda, se <char style="xt"><ref loc="EXO 20:13">2 Mos 20:13</ref></char>]</char><verse eid="1TI 1:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="1TI 1:10" />otuktiga <char style="add">(de som lever i sexuell omoral, gr. porneia)</char>,</para>
+  <para style="p" vid="1TI 1:10">praktiserande homosexuella,</para>
+  <para style="b" vid="1TI 1:10" />
+  <para style="m" vid="1TI 1:10">
+    <char style="add">[grekiska ordet arsenokoites används. Det beskriver den aktiva partnern i en manlig homosexuell relation. Ordet består av två ord, arsen som betyder man och koitai som betyder ”bädd”. Dessa två ord används i den grekiska översättningen av <char style="xt"><ref loc="LEV 18:22">3 Mos 18:22</ref></char> och det är troligt att Paulus konstruerar detta nya grekiska ord för att ge en tydlig referens till just denna vers. Motsvarar budet mot äktenskapsbrott, se <char style="xt"><ref loc="EXO 20:14">2 Mos 20:14</ref></char>.]</char></para>
+  <para style="b" vid="1TI 1:10" />
+  <para style="m" vid="1TI 1:10">slavhandlare <char style="add">(kidnappare, någon som handlar med människor)</char>,</para>
+  <para style="m" vid="1TI 1:10">
+    <char style="add">[Motsvarar budet att inte stjäla, se <char style="xt"><ref loc="EXO 20:15">2 Mos 20:15</ref></char>]</char></para>
+  <para style="b" vid="1TI 1:10" />
+  <para style="m" vid="1TI 1:10">lögnare,</para>
+  <para style="p" vid="1TI 1:10">menedare <char style="add">(som bär falsk ed, svär falskt)</char></para>
+  <para style="m" vid="1TI 1:10">
+    <char style="add">[Motsvarar budet att inte bära falskt vittnesbörd mot sin nästa, se <char style="xt"><ref loc="EXO 20:16">2 Mos 20:16</ref></char>]</char></para>
+  <para style="b" vid="1TI 1:10" />
+  <para style="m" vid="1TI 1:10">och allt annat som går emot den sunda <char style="add">(hälsosamma)</char> läran,<verse eid="1TI 1:10" /></para>
+  <para style="m">
+    <verse number="11" style="v" sid="1TI 1:11" />enligt evangeliet om den salige <char style="add">(glada, välsignade)</char> Gudens härlighet,</para>
+  <para style="b" vid="1TI 1:11" />
+  <para style="m" vid="1TI 1:11">som har anförtrotts mig.</para>
+  <para style="b" vid="1TI 1:11" />
+  <para style="m" vid="1TI 1:11">
+    <char style="add">[Lagen har ingen frälsande kraft, den är en måttstock som kan överbevisa människorna om synd och visa att det behövs en frälsare, se <char style="xt"><ref loc="GAL 3:19-25">Gal 3:19-25</ref></char>. Lagen liknas vid en skolmästare. Det grekiska ordet i Galaterbrevet, paidagogos, användes om en slav som fick uppdraget att övervaka familjens barn och leda dem till skolan. Lagen för oss fram till evangeliet – det glada budskapet om frälsningen i Jesus som dött för alla som brutit lagen.]</char><verse eid="1TI 1:11" /></para>
+  <para style="s2">Paulus erfarenhet av nåd</para>
+  <para style="m">
+    <verse number="12" style="v" sid="1TI 1:12" />Jag <char style="add">[Paulus]</char> är ständigt så tacksam till den som har gett mig all kraft jag behöver, den Smorde <char style="add">(Messias, Kristus)</char> Jesus vår Herre, eftersom han ansåg mig vara trogen, och satte mig i tjänst <char style="add">[för honom]</char>, <verse eid="1TI 1:12" /><verse number="13" style="v" sid="1TI 1:13" />trots att jag tidigare</para>
+  <para style="p" vid="1TI 1:13">var en hädare <char style="add">[som talade nedsättande om de kristna och Jesus]</char>,</para>
+  <para style="p" vid="1TI 1:13">en förföljare <char style="add">[av de kristna på grund av deras tro]</char>,</para>
+  <para style="p" vid="1TI 1:13">och en grym <char style="add">(arrogant, våldsam)</char> man <char style="add">[som överföll och misshandlade kristna människor]</char>.</para>
+  <para style="b" vid="1TI 1:13" />
+  <para style="m" vid="1TI 1:13">
+    <char style="add">[Det är en ökande skala av ondska i dessa verb. Den första synden handlar bara om ord. Den andra om handgriplig förföljelse på grund av en annan tro, för att till sist resultera i övergrepp och grymhet.]</char></para>
+  <para style="b" vid="1TI 1:13" />
+  <para style="m" vid="1TI 1:13">Trots detta mötte jag förbarmande <char style="add">(medlidande)</char> eftersom jag hade agerat utan att veta bättre i min otro. <verse eid="1TI 1:13" /><verse number="14" style="v" sid="1TI 1:14" />Vår Herres nåd <char style="add">(favör) [kraft]</char> har flödat över mig på ett oändligt mäktigt sätt, med tro och kärlek i den Smorde <char style="add">(Kristus)</char> Jesus. <char style="add">[Genom tron som förenar mig med Jesus har vår Herres oförtjänta favör sköljt över mig och gett mig osjälvisk, utgivande kärlek.]</char><verse eid="1TI 1:14" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="15" style="v" sid="1TI 1:15" />Detta är ett ord att lita på <char style="add">(trovärdigt)</char> och värt att helt ta till sig:</para>
+  <para style="b" vid="1TI 1:15" />
+  <para style="m" vid="1TI 1:15">”Den Smorde <char style="add">(Messias, Kristus)</char> Jesus har kommit till världen för att frälsa <char style="add">(rädda, hela, befria)</char> syndare”,</para>
+  <para style="p" vid="1TI 1:15">och bland dem är jag den störste <char style="add">(överst i rang)</char>.</para>
+  <para style="b" vid="1TI 1:15" />
+  <para style="m" vid="1TI 1:15">
+    <char style="add">[Denna fras ”detta är ett ord att lita på” används totalt fem gånger i pastoralbreven. De övriga fyra är: <char style="xt"><ref loc="1TI 3:1">1 Tim 3:1</ref>; <ref loc="1TI 4:9">1 Tim 4:9</ref>; <ref loc="2TI 2:11">2 Tim 2:11</ref>; <ref loc="TIT 3:8">Tit 3:8</ref></char>. Det är fundamentala sanningar i den kristna tron. </char></para>
+  <para style="p" vid="1TI 1:15">
+    <char style="add">Man kan se en tydlig utveckling i Paulus ödmjukhet när han beskriver sig själv. Omkring 55 e.Kr. kallar han sig ”den minste bland apostlarna”, se <char style="xt"><ref loc="1CO 15:9">1 Kor 15:9</ref></char>. Några år senare omkring 61 e.Kr. beskriver han sig som ”den minste bland alla heliga”, se <char style="xt"><ref loc="EPH 3:8">Ef 3:8</ref></char>. och här, i mitten på 60-talet e.Kr., kallar han sig ”den störste bland alla syndare”.]</char><verse eid="1TI 1:15" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="16" style="v" sid="1TI 1:16" />Jag mötte förbarmande <char style="add">(medlidande)</char>, och det för att den Smorde <char style="add">(Messias, Kristus)</char> Jesus skulle kunna visa allt sitt tålamod mot mig som den förste, ett exempel för <char style="add">[att uppmuntra]</char> dem som ska komma till tro på honom och vinna evigt liv.<verse eid="1TI 1:16" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="17" style="v" sid="1TI 1:17" />
+    <char style="add">[Paulus skiftar fokus från sig själv till Gud, och brister ut i en spontan lovprisning.]</char></para>
+  <para style="b" vid="1TI 1:17" />
+  <para style="m" vid="1TI 1:17">Nu till den eviga Konungen <char style="add">(evigheternas konung, han som är Herre över tiden, som alltid funnits och alltid kommer att finnas)</char>,</para>
+  <para style="p" vid="1TI 1:17">oförgänglig <char style="add">(oförstörbar, odödlig)</char>,</para>
+  <para style="p" vid="1TI 1:17">osynlig,</para>
+  <para style="p" vid="1TI 1:17">den ende Guden.</para>
+  <para style="m" vid="1TI 1:17">Hans är äran och härligheten i evigheters evigheter! Amen <char style="add">(ja, det är sant)</char>.</para>
+  <para style="b" vid="1TI 1:17" />
+  <para style="m" vid="1TI 1:17" />
+  <para style="s2" vid="1TI 1:17">Förmana så att inte fler lider skeppsbrott i tron</para>
+  <para style="m" vid="1TI 1:17" />
+  <para style="m" vid="1TI 1:17">
+    <char style="add">[Paulus återkommer nu till uppmaningen att tillrättavisa falska lärare.]</char><verse eid="1TI 1:17" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="18" style="v" sid="1TI 1:18" />Detta uppdrag att befalla <char style="add">(förmana, uppmana) [de som lär ut falska läror, se vers 3 och 5]</char> anförtror jag nu åt dig, mitt barn Timoteus, i enlighet med de profetord som en gång uttalades över dig. I kraft av dem ska du kämpa den goda <char style="add">(ärbara)</char> kampen, <verse eid="1TI 1:18" /><verse number="19" style="v" sid="1TI 1:19" />i tro och med rent samvete. Detta har vissa avvisat, och de har lidit skeppsbrott i tron. <verse eid="1TI 1:19" /><verse number="20" style="v" sid="1TI 1:20" />Bland dem är Hymeneus och Alexander, som jag har överlämnat åt Satan för att de ska tuktas så att de inte hädar.</para>
+  <para style="b" vid="1TI 1:20" />
+  <para style="m" vid="1TI 1:20">
+    <char style="add">[Uttrycket ”överlämnat åt Satan” kan syfta på att de fått lämna församlingsgemenskapen, se <char style="xt"><ref loc="1CO 5:1-5">1 Kor 5:1-5</ref></char>. Målet är alltid förlåtelse och upprättelse, se <char style="xt"><ref loc="2CO 2:5-8">2 Kor 2:5-8</ref>; <ref loc="2TH 3:14-15">2 Thess 3:14-15</ref></char>.]</char><verse eid="1TI 1:20" /></para>
+  <chapter eid="1TI 1" />
+  <chapter number="2" style="c" sid="1TI 2" />
+  <para style="s1">Instruktioner för församlingslivet</para>
+  <para style="s2">Bön</para>
+  <para style="m" />
+  <para style="m">
+    <char style="add">[Även om ett nytt stycke börjar här finns det en koppling till föregående ämne där några lidit skeppsbrott i tron. Bönen, som primärt är umgänge med Gud, håller en människa kvar på trons väg.]</char></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TI 2:1" />Därför uppmanar jag dig <char style="add">[Timoteus]</char> först av allt <char style="add">(som något mycket viktigt som måste få prioritet)</char> till</para>
+  <para style="b" vid="1TI 2:1" />
+  <para style="m" vid="1TI 2:1">böner <char style="add">(personliga specifika behov, t.o.m. under rop eller högljudd gråt, se <char style="xt"><ref loc="HEB 5:7">Heb 5:7</ref></char>)</char>,</para>
+  <para style="m" vid="1TI 2:1">förtroliga böner <char style="add">(interaktiv tvåvägsdialog, samtal, tillbedjan och hängivenhet i förtrolighet med Gud) [det vanligaste ordet för bön i NT, se vers 8]</char>,</para>
+  <para style="m" vid="1TI 2:1">förböner <char style="add">(vädjan för andras behov och att Guds vilja ska ske i deras liv)</char></para>
+  <para style="b" vid="1TI 2:1" />
+  <para style="m" vid="1TI 2:1">
+    <char style="add">[Grundordet betyder att ”träffa målet”. Verbet används i <char style="xt"><ref loc="ROM 8:26-27">Rom 8:26-27</ref></char> där Anden hjälper oss att i bön hitta Guds vilja. Substantivet används bara här och i <char style="xt"><ref loc="1TI 4:5">1 Tim 4:5</ref></char>. I den apokryfiska boken Andra Mackabéerboken 4:8 används ordet om audiens inför kungen. Förbön är ett förtroligt rådslag med Gud.]</char></para>
+  <para style="b" vid="1TI 2:1" />
+  <para style="m" vid="1TI 2:1">och tacksägelse <char style="add">[alla fyra orden är i plural i grekiskan, talar om uthållig bön]</char>,</para>
+  <para style="b" vid="1TI 2:1" />
+  <para style="m" vid="1TI 2:1">för alla <char style="add">(kategorier av)</char> människor,<verse eid="1TI 2:1" /></para>
+  <para style="p">
+    <verse number="2" style="v" sid="1TI 2:2" />för kungar och alla i ledande ställning, så att vi kan leva ett lugnt och stilla liv, på alla sätt gudfruktigt och värdigt.</para>
+  <para style="b" vid="1TI 2:2" />
+  <para style="m" vid="1TI 2:2">
+    <char style="add">[Nero var kejsare i Romarriket 54 – 68 e.Kr. Han kom till makten redan som sjuttonåring och hans liv var kantat av skandaler, se <char style="xt"><ref loc="ROM 1:27">Rom 1:27</ref></char>. Nero anklagade de kristna för den stora branden 64 e.Kr. i Rom och en grym förföljelse bröt ut. Det är i dessa turbulenta tider, i mitten på 60-talet, som Paulus skriver detta brev och vädjar till bön och tacksägelse för bl.a. Nero.]</char><verse eid="1TI 2:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="1TI 2:3" />Detta <char style="add">[att be för alla människors frälsning, oavsett status och rang]</char> är gott <char style="add">(rätt, ärbart)</char> och välbehagligt inför Gud vår Frälsare, <verse eid="1TI 2:3" /><verse number="4" style="v" sid="1TI 2:4" />som vill <char style="add">(önskar)</char> att alla människor ska bli frälsta <char style="add">(befriade, räddade, bevarade)</char> och komma till insikt om <char style="add">(känna igen; få en personlig erfarenhet av)</char> sanningen. <verse eid="1TI 2:4" /><verse number="5" style="v" sid="1TI 2:5" />För Gud är en, och en är Guds och människors medlare – en människa: den Smorde <char style="add">(Messias, Kristus)</char> Jesus – <verse eid="1TI 2:5" /><verse number="6" style="v" sid="1TI 2:6" />han som gav sig själv till lösen för alla, vittnesbördet <char style="add">[som skulle ges om Guds syften för dem]</char> när tiden <char style="add">(ordagrant: när deras egna tider)</char> var inne. <verse eid="1TI 2:6" /><verse number="7" style="v" sid="1TI 2:7" />För detta är jag satt till förkunnare och apostel – jag talar sanning och ljuger inte – en hedningarnas lärare i tro och sanning.<verse eid="1TI 2:7" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="8" style="v" sid="1TI 2:8" />Jag vill därför <char style="add">(det är min önskan)</char> att ni ber <char style="add">(samtalar förtroligt med Gud)</char>:</para>
+  <para style="b" vid="1TI 2:8" />
+  <para style="m" vid="1TI 2:8">Männen på varje plats <char style="add">[i varje husförsamling i Efesos]</char> med heliga, lyfta händer,</para>
+  <para style="p" vid="1TI 2:8">utan <char style="add">(fria från)</char> vrede <char style="add">[ett upprört inre ställningstagande mot någon/något, se <char style="xt"><ref loc="JAS 1:19-20">Jak 1:19-20</ref></char>]</char></para>
+  <para style="p" vid="1TI 2:8">och diskuterande <char style="add">[ett resonemang som inte för någonstans]</char>.</para>
+  <para style="b" vid="1TI 2:8" />
+  <para style="m" vid="1TI 2:8">
+    <char style="add">[Huvudpoängen är hjärtats inställning i bönen. Att be med lyfta händer var det vanliga judiska sättet att be på, se <char style="xt"><ref loc="1KI 8:22">1 Kung 8:22</ref>; <ref loc="2CH 6:13">2 Krön 6:13</ref>; <ref loc="PSA 28:2">Ps 28:2</ref></char>. Att stå upprätt med rena händer beskriver någon som söker Gud med ärliga motiv och ett rent hjärta, se <char style="xt"><ref loc="PSA 24:3-4">Ps 24:3-4</ref></char>.]</char><verse eid="1TI 2:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="1TI 2:9" />Kvinnorna på samma sätt,</para>
+  <para style="p" vid="1TI 2:9">smyckade med anständig klädsel, med blygsamhet och gott omdöme <char style="add">(självdisciplin)</char>, inte med <char style="add">[flätade/konstfulla]</char> håruppsättningar och guld eller pärlor eller dyrbara kläder <char style="add">[som kräver stora utgifter]</char>, <verse eid="1TI 2:9" /><verse number="10" style="v" sid="1TI 2:10" />utan så som det <char style="add">[alltid]</char> anstår kvinnor som bekänner sig till gudsfruktan: med <char style="add">(genom)</char> goda gärningar.</para>
+  <para style="b" vid="1TI 2:10" />
+  <para style="m" vid="1TI 2:10">
+    <char style="add">[Meningens konstruktion med grekiska ordet hosautos som översatts med orden ”på samma sätt” gör att verbet ”be”, som kommer först i grekiskan, troligen gäller både män och kvinnor. Det går hand i hand med Paulus brev till korintierna, som han skrev just från Efesos. Där ber och profeterar både män och kvinnor (<char style="xt"><ref loc="1CO 11:4-5">1 Kor 11:4-5</ref></char>) och Paulus tar upp detta med klädstil. Korintierna skulle följa den dåtida seden att bära huvudbonad, och det betonas att gudstjänsten skulle ske på ett ordnat sätt. Klädseln skulle inte vara stötande utifrån den rådande kulturen.]</char></para>
+  <para style="b" vid="1TI 2:10" />
+  <para style="m" vid="1TI 2:10" />
+  <para style="s2" vid="1TI 2:10">Kvinnans roll</para>
+  <para style="m" vid="1TI 2:10" />
+  <para style="m" vid="1TI 2:10">
+    <char style="add">[Följande två verser är strukturerade i ett kiastiskt mönster där ordet stillhet, gr. hesuchia, ramar in sammanhanget. Ordet används även i vers 2 om att leva i stillhet, trygghet och frid. Det beskriver en fridfull attityd där man är trygg i sig själv. Uttrycket ”att vara stilla och underordna sig” användes även inom judendomen. Det var så en rabbin blev undervisad, se <char style="xt"><ref loc="ISA 41:1">Jes 41:1</ref>; <ref loc="HAB 2:20">Hab 2:20</ref>; <ref loc="ZEC 2:13">Sak 2:13</ref></char>. Den kända strofen från <char style="xt"><ref loc="PSA 46:11">Ps 46:11</ref></char> visar på denna gudfruktiga attityd: ”Var stilla och besinna att jag är Gud.” Till skillnad från den rådande judiska traditionen uppmuntras kvinnors utbildning. Uppmaningen står i kontrast till de dåraktiga kvinnorna i <char style="xt"><ref loc="2TI 3:6-7">2 Tim 3:6-7</ref></char> som ständigt blir undervisade men aldrig lyckas komma till insikt om sanningen.]</char><verse eid="1TI 2:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="1TI 2:11" />En kvinna ska i stillhet <char style="add">(lugn och ro)</char></para>
+  <para style="q1" vid="1TI 2:11">lära sig <char style="add">(vara i lärjungaskap – gr. manthano)</char> i all underordning <char style="add">[<char style="xt"><ref loc="LUK 10:39">Luk 10:39</ref></char>]</char>.<verse eid="1TI 2:11" /></para>
+  <para style="q1">
+    <verse number="12" style="v" sid="1TI 2:12" />Att en kvinna undervisar</para>
+  <para style="q2" vid="1TI 2:12">tillåter jag inte,</para>
+  <para style="q1" vid="1TI 2:12">inte heller dominera <char style="add">(gr. authenteo)</char> mannen,</para>
+  <para style="m" vid="1TI 2:12">utan hon ska vara i stillhet <char style="add">(lugn och ro)</char>.</para>
+  <para style="b" vid="1TI 2:12" />
+  <para style="m" vid="1TI 2:12">
+    <char style="add">[Denna vers är en av de mer kontroversiella i Bibeln. Anledningen är att beroende på översättning påverkas kvinnans roll att undervisa. Eftersom kvinnan Priscilla undervisade Apollos här i Efesos, och Timoteus blev undervisad av sin mor och mormor, kan inte versen förbjuda kvinnor att undervisa, se <char style="xt"><ref loc="2TI 1:5">2 Tim 1:5</ref>; <ref loc="ACT 18:26">Apg 18:26</ref></char>. I så fall skulle Paulus motsäga Jesus, som sände några kvinnor med uppdrag att berätta för lärjungarna om sin uppståndelse, se <char style="xt"><ref loc="JHN 20:17-18">Joh 20:17-18</ref></char>, och även GT där Huldah, Deborah och Mirjam var gudfruktiga kvinnliga ledare. </char></para>
+  <para style="p" vid="1TI 2:12">
+    <char style="add">Ofta delas versen upp i två delar. Först verkar Paulus förbjuda en kvinna att undervisa, sedan kommer ordet ”eller” följt av det andra förbudet: att ha auktoritet över en man. Problemet med den tolkningen är att ordet ”eller” (gr. oude, som återfinns 31 gånger i Paulus brev) alltid används för att kombinera två tankar till en helhet. Den kiastiska strukturen gör att betydelsen också kan vara ”undervisa dominerande”. </char></para>
+  <para style="p" vid="1TI 2:12">
+    <char style="add">Vad som också försvårar tolkningen är att Paulus inte använder det vanliga ordet exousia för auktoritet. I stället väljer han authenteo som bara används här i hela Bibeln. Även i antika källor är ordet ovanligt. I skrifter från ett par hundra år f.Kr. verkar ordet syfta på den som är ansvarig för någons död, och ha sexuella anspelningar, medan det i modernare texter verkar syfta på kontroll och auktoritet. Ordets ursprung har att göra med ”den som utför något och den som är ansvarig”. Ordet användes även inom gnosticismen, och genom att använda detta ord kan Paulus specifikt syftat på tidiga gnostiska läror som florerade i Efesos tillsammans med den kvinnodominerande Artemiskulten. De lärde att Eva existerade andligt före Adam, och att hon inte blev bedragen utan i stället upplyst av ormen. Att formen ”kvinna” i singular används här, kan kanske syfta på en specifik kvinna i Efesos. I <char style="xt"><ref loc="1TI 1:19">1 Tim 1:19</ref></char> namnges två män. I inledningen i <char style="xt"><ref loc="1TI 1:3">1 Tim 1:3</ref></char> refereras inte bara till män, utan också till kvinnor. I grannstaden Thyatira lärde en kvinna ut ”djupa sanningar om Satan” och förledde många, se <char style="xt"><ref loc="REV 2:20-24">Upp 2:20-24</ref></char>.]</char><verse eid="1TI 2:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="1TI 2:13" />För Adam skapades först</para>
+  <para style="p" vid="1TI 2:13">och sedan Eva.<verse eid="1TI 2:13" /></para>
+  <para style="m">
+    <verse number="14" style="v" sid="1TI 2:14" />Det var inte Adam</para>
+  <para style="p" vid="1TI 2:14">som blev förledd,</para>
+  <para style="p" vid="1TI 2:14">utan det var kvinnan <char style="add">[Eva]</char> som blev förledd,</para>
+  <para style="m" vid="1TI 2:14">och föll i överträdelse.</para>
+  <para style="b" vid="1TI 2:14" />
+  <para style="m" vid="1TI 2:14">
+    <char style="add">[Till skillnad från Artemiskulten som hade sitt säte i Efesos där kvinnan hyllades som alltings ursprung var det Gud som hade skapat människan. De gnostiska myterna har stora variationer men gemensamt är att det finns flera andliga nivåer där Bibelns Gud är en av de lägre gudarna. Ormen och Eva är frälsarfigurer som räddar Adam. De upplyser honom om den andliga världen som är långt högre än den materiella. Eva sägs också vara skapad före Adam och mor till olika söner genom olika fäder, varav en son var Adam. Det finns ändlösa variationer, men temat är detsamma. Eva var ursprunget och den som upplyste Adam och gav honom kunskap, gr. gnosis. Det kan vara denna typ av falska läror, myter och ändlösa släktregister som Paulus refererar till i <char style="xt"><ref loc="1TI 1:3-4">1 Tim 1:3-4</ref></char>.]</char><verse eid="1TI 2:14" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="15" style="v" sid="1TI 2:15" />Men hon ska bli frälst genom barnafödandet <char style="add">[trots förbannelsen, se <char style="xt"><ref loc="GEN 3:16">1 Mos 3:16</ref></char>]</char>,</para>
+  <para style="p" vid="1TI 2:15">om de <char style="add">[kvinnorna]</char> fortsätter att leva i</para>
+  <para style="q2" vid="1TI 2:15">tro,</para>
+  <para style="q2" vid="1TI 2:15">kärlek <char style="add">[som är osjälvisk och utgivande]</char></para>
+  <para style="q2" vid="1TI 2:15">och helgelse</para>
+  <para style="p" vid="1TI 2:15">med gott omdöme.</para>
+  <para style="b" vid="1TI 2:15" />
+  <para style="m" vid="1TI 2:15">
+    <char style="add">[Det grekiska ordet sophrosyne beskriver ett välbalanserat sinne som karaktäriseras av självdisciplin och självinsikt.]</char></para>
+  <para style="b" vid="1TI 2:15" />
+  <para style="m" vid="1TI 2:15">
+    <char style="add">[I vers 14 syftade ”kvinnan” specifikt på Eva; här breddas betydelsen till kvinnan i allmänhet. Ordet ”genom” har inte betydelsen att det är på grund av barnafödandet som en kvinna blir frälst. Det är helt klart eftersom nästa fras uttryckligen säger att hon måste ”fortsätta leva i tro, kärlek och helgelse”. Vad Paulus verkar betona är att barnafödande och moderskap inte är syndigt utan något fint och moraliskt rent. Anledningen kan vara att det fanns vissa i Efesos som förbjöd äktenskap och lärde ut att celibat var nödvändigt för frälsning, se <char style="xt"><ref loc="1TI 4:3">1 Tim 4:3</ref></char>. Paulus talar positivt om familjelivet och uppmanar änkor att gifta om sig, se <char style="xt"><ref loc="1TI 5:14">1 Tim 5:14</ref></char>. </char></para>
+  <para style="p" vid="1TI 2:15">
+    <char style="add">En annan tolkning är att detta är en referens till ”kvinnans säd” i <char style="xt"><ref loc="GEN 3:15">1 Mos 3:15</ref></char> som är Messias – världens frälsare.]</char><verse eid="1TI 2:15" /></para>
+  <chapter eid="1TI 2" />
+  <chapter number="3" style="c" sid="1TI 3" />
+  <para style="s1">Församlingens ledarskap</para>
+  <para style="m" />
+  <para style="m">
+    <char style="add">[Församlingen behöver ledarskap. Den bibliska modellen visar alltid på ett delat ledarskap: Jesus sände ut lärjungarna två och två; det finns fem tjänstegåvor i <char style="xt"><ref loc="EPH 4:11">Ef 4:11</ref></char>; församlingsledarna omnämns alltid i plural, se <char style="xt"><ref loc="ACT 20:17">Apg 20:17</ref></char>. Det grekiska ordet för församlingsledare är episkopos (singular) – ”en som vakar över” och beskriver en församlingsledares uppgift. Samma män, från Efesos, som i <char style="xt"><ref loc="ACT 20:17">Apg 20:17</ref></char> kallas äldste, gr. presbyterous (plural), kallas i <char style="xt"><ref loc="ACT 20:28">Apg 20:28</ref></char> episkopous (plural). Även här i brevet till Timoteus används båda dessa grekiska ord i plural synonymt, se <char style="xt"><ref loc="1TI 5:17">1 Tim 5:17</ref></char>.]</char></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TI 3:1" />Detta är ett ord att lita på <char style="add">(trovärdigt)</char>:</para>
+  <para style="b" vid="1TI 3:1" />
+  <para style="m" vid="1TI 3:1">”Den som längtar <char style="add">(söker, sträcker sig)</char> efter att vara en församlingsledare <char style="add">(gr. episkopos – ”en som vakar över”)</char></para>
+  <para style="p" vid="1TI 3:1">eftersträvar en god <char style="add">(ädel)</char> uppgift.”</para>
+  <para style="b" vid="1TI 3:1" />
+  <para style="m" vid="1TI 3:1">
+    <char style="add">[Det primära i församlingens ledarskap är Guds Ande som kallar ledare och lägger denna längtan på hjärtat, se <char style="xt"><ref loc="ACT 20:28">Apg 20:28</ref></char>. Det är församlingens uppgift att se och bekräfta dem som är kallade till denna uppgift, se <char style="xt"><ref loc="1TH 5:12">1 Thess 5:12</ref></char>. Detta är andra gången denna fras, ”detta är ett ord att lita på”, används av totalt fem gånger i pastoralbreven. De övriga fyra är: <char style="xt"><ref loc="1TI 1:15">1 Tim 1:15</ref>; <ref loc="1TI 4:9">1 Tim 4:9</ref>; <ref loc="2TI 2:11">2 Tim 2:11</ref>; <ref loc="TIT 3:8">Tit 3:8</ref></char>.]</char></para>
+  <para style="b" vid="1TI 3:1" />
+  <para style="m" vid="1TI 3:1" />
+  <para style="s2" vid="1TI 3:1">Kvalifikationer för församlingsledare</para>
+  <para style="m" vid="1TI 3:1" />
+  <para style="m" vid="1TI 3:1">
+    <char style="add">[Först och främst måste viljan och längtan att vilja leda en församling finnas, men det räcker inte. De områden som behöver prövas, se vers 10, är ledarens personliga karaktär, förmåga att ta hand om sin familj, lämplighet att undervisa och erfarenhet.]</char><verse eid="1TI 3:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="1TI 3:2" />En församlingsledare måste vara:</para>
+  <para style="b" vid="1TI 3:2" />
+  <para style="m" vid="1TI 3:2">oklanderlig <char style="add">(inte finnas något att anmärka på)</char>,</para>
+  <para style="b" vid="1TI 3:2" />
+  <para style="m" vid="1TI 3:2">
+    <char style="add">[Ledaren måste ha ett gott rykte både i och utanför församlingen. Det innebär inte att han är syndfri. Det handlar om en attityd där ledaren är snabb att be Gud och människor om förlåtelse. Det handlar om ett liv som inte är kantat med skandaler och ouppklarade tvister; på frukten ska trädet kännas igen, se <char style="xt"><ref loc="MAT 7:15-20">Matt 7:15-20</ref></char>.]</char></para>
+  <para style="b" vid="1TI 3:2" />
+  <para style="m" vid="1TI 3:2">en enda kvinnas man,</para>
+  <para style="b" vid="1TI 3:2" />
+  <para style="m" vid="1TI 3:2">
+    <char style="add">[Det är troligt att begreppet ”en enda kvinnas man” talar om trohet till sin maka och en som inte flörtar med andra kvinnor. Det är en ”en-enda-kvinna” typ av man. Motsvarande term ”en enda mans kvinna” används i <char style="xt"><ref loc="1TI 5:9">1 Tim 5:9</ref></char> om kvinnor. I samma stycke uppmanar Paulus yngre änkor att gifta om sig då mannen dött, se <char style="xt"><ref loc="1TI 5:14">1 Tim 5:14</ref>; <ref loc="ROM 7:2-3">Rom 7:2-3</ref>; <ref loc="1CO 7:39">1 Kor 7:39</ref></char>. Paulus själv var ogift, se <char style="xt"><ref loc="1CO 7:7-8">1 Kor 7:7-8</ref></char>, och hans rekommendationer, se <char style="xt"><ref loc="1CO 7:1">1 Kor 7:1</ref>; <ref loc="1CO 7:32-35">7:32-35</ref></char>, verkar tala för att en ogift man också är kvalificerad.]</char></para>
+  <para style="b" vid="1TI 3:2" />
+  <para style="m" vid="1TI 3:2">nykter <char style="add">(vaken, alert, samlad, balanserad)</char>,</para>
+  <para style="b" vid="1TI 3:2" />
+  <para style="m" vid="1TI 3:2">
+    <char style="add">[Ordet handlar om självkontroll, och gäller alkohol, men även alla andra områden. Det beskriver någon som har ett klart perspektiv, kan tänka objektivt och inte gör tvära kast och kastas hit och dit.]</char></para>
+  <para style="b" vid="1TI 3:2" />
+  <para style="m" vid="1TI 3:2">förståndig <char style="add">(gott omdöme, seriös, har ett sunt sinne)</char>,</para>
+  <para style="b" vid="1TI 3:2" />
+  <para style="m" vid="1TI 3:2">
+    <char style="add">[Det grekiska ordet sophrosyne beskriver ett välbalanserat sinne som karaktäriseras av självdisciplin och självinsikt.]</char></para>
+  <para style="b" vid="1TI 3:2" />
+  <para style="m" vid="1TI 3:2">aktad <char style="add">(ordnad)</char>,</para>
+  <para style="m" vid="1TI 3:2">gästfri <char style="add">(välkomnande, ta emot främlingar)</char>,</para>
+  <para style="m" vid="1TI 3:2">en god lärare.</para>
+  <para style="m" vid="1TI 3:2">
+    <char style="add">[I <char style="xt"><ref loc="EPH 4:11">Ef 4:11</ref></char> hör tjänstegåvorna herde och lärare ihop.]</char><verse eid="1TI 3:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="1TI 3:3" />inte missbruka vin <char style="add">(ordagrant ”inte någon som sitter länge vid vinet”)</char>,</para>
+  <para style="m" vid="1TI 3:3">inte vara våldsam <char style="add">(stridslysten)</char>,</para>
+  <para style="p" vid="1TI 3:3">utan ska vara vänlig <char style="add">(förstående, förlåtande)</char>,</para>
+  <para style="m" vid="1TI 3:3">fridsam,</para>
+  <para style="m" vid="1TI 3:3">fri från penningbegär <char style="add">(inte älska pengar och vara girig, ordagrant ”inte vän med silvermynt”)</char>.<verse eid="1TI 3:3" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="4" style="v" sid="1TI 3:4" />Han ska ta väl hand om sin familj och se till att barnen <char style="add">[yngre barn som fortfarande bor hemma]</char> lyder och visar all respekt.<verse eid="1TI 3:4" /></para>
+  <para style="m">
+    <verse number="5" style="v" sid="1TI 3:5" />För om någon inte förstår att ta hand om sin egen familj, hur ska han då kunna ta hand om Guds församling?<verse eid="1TI 3:5" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="6" style="v" sid="1TI 3:6" />Han får inte vara en nyomvänd <char style="add">(ordagrant en ”ung planta” eller ”nyplanterad”)</char>,</para>
+  <para style="p" vid="1TI 3:6">så att han blir högmodig <char style="add">(utvecklar stolthet)</char> och faller under samma dom som djävulen <char style="add">[en gång]</char> gjorde.</para>
+  <para style="m" vid="1TI 3:6">
+    <char style="add">[Då han i högmod ville bli som Gud, se <char style="xt"><ref loc="EZK 28:17">Hes 28:17</ref></char>.]</char><verse eid="1TI 3:6" /></para>
+  <para style="m">
+    <verse number="7" style="v" sid="1TI 3:7" />Han måste också ha gott anseende bland de utomstående,</para>
+  <para style="p" vid="1TI 3:7">så att han inte får dåligt rykte och fastnar i djävulens snara.<verse eid="1TI 3:7" /></para>
+  <para style="b" />
+  <para style="m" />
+  <para style="s2">Kvalifikationer för församlingstjänare</para>
+  <para style="m">
+    <verse number="8" style="v" sid="1TI 3:8" />Församlingstjänarna ska på samma sätt</para>
+  <para style="b" vid="1TI 3:8" />
+  <para style="m" vid="1TI 3:8">vara värdiga respekt,</para>
+  <para style="m" vid="1TI 3:8">inte vara hycklare <char style="add">(falska)</char>,</para>
+  <para style="m" vid="1TI 3:8">inte missbruka vin,</para>
+  <para style="m" vid="1TI 3:8">inte vara ute efter pengar,<verse eid="1TI 3:8" /></para>
+  <para style="m">
+    <verse number="9" style="v" sid="1TI 3:9" />hålla fast vid trons mysterium <char style="add">(hemlighet) [som tidigare varit dold, men nu är uppenbarad, se <char style="xt"><ref loc="ROM 16:25">Rom 16:25</ref>; <ref loc="1CO 2:7-10">1 Kor 2:7-10</ref></char>]</char> med rent samvete.<verse eid="1TI 3:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="1TI 3:10" />Men även de ska först prövas. Sedan kan de bli församlingstjänare om det inte finns något att anföra mot dem.<verse eid="1TI 3:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="1TI 3:11" />Kvinnorna <char style="add">[kan syfta på församlingstjänarnas hustrur eller kvinnliga församlingstjänare]</char> ska på samma sätt vara</para>
+  <para style="b" vid="1TI 3:11" />
+  <para style="m" vid="1TI 3:11">värdiga respekt,</para>
+  <para style="m" vid="1TI 3:11">inte förtala någon <char style="add">(ordagrant gr. diabolos – djävulens namn; dvs. någon som söndrar och splittrar och agerar djävulskt)</char>,</para>
+  <para style="m" vid="1TI 3:11">förståndiga <char style="add">[samma ord som i <char style="xt"><ref loc="1TI 3:2">1 Tim 3:2</ref></char> för en församlingsledare]</char>,</para>
+  <para style="m" vid="1TI 3:11">nyktra</para>
+  <para style="m" vid="1TI 3:11">och trogna i allt.</para>
+  <para style="b" vid="1TI 3:11" />
+  <para style="m" vid="1TI 3:11">
+    <char style="add">[Samma grekiska ord gyne används både för kvinna och hustru, det är sammanhanget som avgör hur det ska översättas. På frågan om en kvinna kan tjäna som församlingstjänare gör Paulus det tydligt när han skriver till de kristna i Rom. Av de nio personer han kallar medarbetare är fem kvinnor, se <char style="xt"><ref loc="ROM 16:3-16">Rom 16:3-16</ref></char>. Febe, som levererade brevet till Rom, var uttryckligen en församlingstjänare i staden Kenkrea, den östra hamnen i Korint, se <char style="xt"><ref loc="ROM 16:1">Rom 16:1</ref></char>.]</char><verse eid="1TI 3:11" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="12" style="v" sid="1TI 3:12" />En församlingstjänare <char style="add">(gr. diakonos)</char> ska</para>
+  <para style="b" vid="1TI 3:12" />
+  <para style="m" vid="1TI 3:12">vara en enda kvinnas man <char style="add">[samma uttryck som i vers 2]</char>,</para>
+  <para style="m" vid="1TI 3:12">ta väl hand om sina barn och sin familj.<verse eid="1TI 3:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="1TI 3:13" />De som tjänar <char style="add">(gr. diakoneo)</char> väl <char style="add">(på ett gott och ädelt sätt)</char></para>
+  <para style="m" vid="1TI 3:13">
+    <char style="add">[syftar främst på församlingstjänare, men gäller även församlingsledare]</char></para>
+  <para style="p" vid="1TI 3:13">vinner en god ställning <char style="add">[ett gott rykte, inflytande i församlingen]</char></para>
+  <para style="p" vid="1TI 3:13">och får stor frimodighet i tron på den Smorde <char style="add">(Messias, Kristus)</char> Jesus.</para>
+  <para style="b" vid="1TI 3:13" />
+  <para style="m" vid="1TI 3:13">
+    <char style="add">[Paulus avslutar detta stycke på samma sätt som han börjar i vers 1, att det är ett gott uppdrag att vara ledare. Samma ord för god används i vers 1 och 13 och ramar in detta stycke. Det återfinns också centralt i vers 7.]</char><verse eid="1TI 3:13" /></para>
+  <para style="s1">Sanningen</para>
+  <para style="s2">Församlingen är sanningens pelare och grundval</para>
+  <para style="m">
+    <verse number="14" style="v" sid="1TI 3:14" />Detta skriver jag <char style="add">[Paulus]</char> till dig <char style="add">[Timoteus]</char> i hopp om att snart kunna komma till dig.</para>
+  <para style="b" vid="1TI 3:14" />
+  <para style="m" vid="1TI 3:14">
+    <char style="add">[Ungefär samtidigt som Paulus skriver detta brev till Timoteus i Efesos, skriver han också till Titus att han planerar för att tillbringa vintern i Nikopolis, se <char style="xt"><ref loc="TIT 3:12">Tit 3:12</ref></char>. Nikopolis ligger på nuvarande Greklands östra kust. Förmodligen hoppades Paulus att besöka Timoteus innan han begav sig vidare österut, men vi vet inte om han gjorde det.]</char><verse eid="1TI 3:14" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="15" style="v" sid="1TI 3:15" />Men om jag dröjer vill jag att du ska veta hur man ska uppföra sig i Guds hus, som är</para>
+  <para style="p" vid="1TI 3:15">den levande Gudens församling,</para>
+  <para style="p" vid="1TI 3:15">sanningens pelare</para>
+  <para style="p" vid="1TI 3:15">och grundval.<verse eid="1TI 3:15" /></para>
+  <para style="m">
+    <verse number="16" style="v" sid="1TI 3:16" />Det är erkänt stort <char style="add">(alla håller med om, bekänner)</char> att det förut gömda mysteriet <char style="add">(hemligheten)</char> i vår tro innehåller en fantastisk uppenbarelse om honom <char style="add">[Jesus]</char> som blev:</para>
+  <para style="b" vid="1TI 3:16" />
+  <para style="m" vid="1TI 3:16">uppenbarad <char style="add">(synlig)</char> i köttet <char style="add">[då Jesus föddes som människa]</char>,</para>
+  <para style="p" vid="1TI 3:16">bevisad rättfärdig genom Anden <char style="add">(i Anden)</char>,</para>
+  <para style="m" vid="1TI 3:16">sedd av änglar <char style="add">(budbärare)</char>,</para>
+  <para style="p" vid="1TI 3:16">predikad <char style="add">(öppet proklamerad)</char> bland hedningarna <char style="add">(de icke-judiska folken)</char>,</para>
+  <para style="m" vid="1TI 3:16">trodd på i världen,</para>
+  <para style="p" vid="1TI 3:16">upptagen i härlighet.</para>
+  <para style="b" vid="1TI 3:16" />
+  <para style="m" vid="1TI 3:16">
+    <char style="add">[Dessa sex strofer är antagligen delar av en dåtida lovsång.]</char><verse eid="1TI 3:16" /></para>
+  <para style="b" />
+  <chapter eid="1TI 3" />
+  <chapter number="4" style="c" sid="1TI 4" />
+  <para style="s2">Sanningen kommer att attackeras</para>
+  <para style="m" />
+  <para style="m">
+    <char style="add">[Som sanningens pelare och grundval, se <char style="xt"><ref loc="1TI 3:14">1 Tim 3:14</ref></char>, är det viktigt att förstå att församlingen är utsatt för den ondes attack.]</char></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TI 4:1" />Men Anden säger tydligt att i de sista tiderna <char style="add">[inte någon avlägsen tid, utan ganska snart efter det att Paulus skrivit detta, se <char style="xt"><ref loc="ACT 20:29">Apg 20:29</ref></char>]</char> kommer några att överge <char style="add">(avfalla från)</char> tron och följa <char style="add">(ägna sig åt)</char> villoandar och onda andars läror, <verse eid="1TI 4:1" /><verse number="2" style="v" sid="1TI 4:2" />förledda av hycklande lögnare som är brännmärkta i sina samveten <char style="add">(utan medkänsla kan de förtrycka och skada människor)</char>.<verse eid="1TI 4:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="1TI 4:3" />De förbjuder folk att gifta sig och befaller dem att avstå från mat som Gud har skapat för att tas emot med tacksägelse av dem som tror och känner sanningen. <verse eid="1TI 4:3" /><verse number="4" style="v" sid="1TI 4:4" />Allt som Gud har skapat <char style="add">[syftar här främst på mat]</char> är gott <char style="add">[<char style="xt"><ref loc="GEN 1:31">1 Mos 1:31</ref></char>]</char>, och inget är förkastligt när det tas emot med tacksägelse <char style="add">[vid måltider, se <char style="xt"><ref loc="MRK 6:41">Mark 6:41</ref>; <ref loc="MRK 8:6">8:6</ref></char>]</char>. <verse eid="1TI 4:4" /><verse number="5" style="v" sid="1TI 4:5" />Det helgas genom Guds ord och förbön <char style="add">[samma ovanliga ord används också i <char style="xt"><ref loc="1TI 2:1">1 Tim 2:1</ref></char>]</char>.</para>
+  <para style="b" vid="1TI 4:5" />
+  <para style="m" vid="1TI 4:5">
+    <char style="add">[Dessa falska lärare som härjade i Efesos var föregångare till andra århundradets gnostiker. Redan här syns den starka dualismen där anden är god och allt mänskligt är ont. Man lärde att alla kroppens behov var onda, vilket Paulus går emot. Självklart kan människan missbruka sexualiteten och mat, men i sig självt är detta något gott om det används som Gud har tänkt det.]</char><verse eid="1TI 4:5" /></para>
+  <para style="s2">En tjänares ansvar</para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TI 4:6" />När du lägger fram detta för syskonen <char style="add">(bröderna och systrarna i tron)</char> är du en god tjänare till den Smorde <char style="add">(Messias, Kristus)</char> Jesus som hämtar näring ur trons och den goda lärans ord som du har följt. <verse eid="1TI 4:6" /><verse number="7" style="v" sid="1TI 4:7" />Men gudlösa och gamla kvinnors myter <char style="add">(fabler, sägner)</char> ska du avvisa <char style="add">(undvika, inte ha något med att göra)</char>.</para>
+  <para style="b" vid="1TI 4:7" />
+  <para style="m" vid="1TI 4:7">
+    <char style="add">[Kan syfta på judiska legender som apokryferna eller gnostiska tankegångar. Just i Efesos fanns en utbredd dyrkan av moder jord. Uttrycket ”gamla kvinnor” användes också för ”visa kvinnor”. De var kvinnliga prästinnor som förde vidare dessa legender i de här religionerna.]</char></para>
+  <para style="b" vid="1TI 4:7" />
+  <para style="m" vid="1TI 4:7">Träna dig i stället i gudsfruktan.<verse eid="1TI 4:7" /></para>
+  <para style="m">
+    <verse number="8" style="v" sid="1TI 4:8" />”Fysisk träning är nyttig <char style="add">(hjälper)</char></para>
+  <para style="p" vid="1TI 4:8">till viss del <char style="add">(ger en liten kortvarig förtjänst)</char>,</para>
+  <para style="m" vid="1TI 4:8">medan gudsfruktan <char style="add">(vördnadsfull tillbedjan)</char> är nyttig <char style="add">(hjälper)</char></para>
+  <para style="p" vid="1TI 4:8">på alla sätt,</para>
+  <para style="m" vid="1TI 4:8">för den har löfte om liv,</para>
+  <para style="p" vid="1TI 4:8">både i detta livet och det kommande.”</para>
+  <para style="b" vid="1TI 4:8" />
+  <para style="m" vid="1TI 4:8">
+    <char style="add">[Fysisk träning är det grekiska ordet gymnasia. Det kan syfta på fysisk träning i allmänhet eller på asketism, se vers 3, där man tvingar kroppen till lydnad för att uppnå en högre andlighet.]</char><verse eid="1TI 4:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="1TI 4:9" />Detta är ett ord att lita på <char style="add">(trovärdigt)</char> och värt att helt ta till sig.</para>
+  <para style="b" vid="1TI 4:9" />
+  <para style="m" vid="1TI 4:9">
+    <char style="add">[Frasen ”Detta är ett ord att lita på” syftar troligtvis på vers 8 och då främst sista delen, men kan också syfta vers 10. Frasen används totalt fem gånger i pastoralbreven. Tidigare i <char style="xt"><ref loc="1TI 1:15">1 Tim 1:15</ref>; <ref loc="1TI 3:1">3:1</ref></char>, och även i <char style="xt"><ref loc="2TI 2:11">2 Tim 2:11</ref></char> och <char style="xt"><ref loc="TIT 3:8">Tit 3:8</ref></char>.]</char><verse eid="1TI 4:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="1TI 4:10" />Det är därför vi ständigt arbetar och kämpar <char style="add">(ger vårt yttersta)</char>, för vi har satt vårt hopp till den levande Guden som är Frälsaren för alla människor, först och främst för dem som tror. <verse eid="1TI 4:10" /><verse number="11" style="v" sid="1TI 4:11" />Detta ska du inskärpa och lära ut.<verse eid="1TI 4:11" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="12" style="v" sid="1TI 4:12" />Ingen får förakta dig för att du är ung, utan var <char style="add">(fortsätt att bli)</char> ett föredöme för de troende i</para>
+  <para style="p" vid="1TI 4:12">ord och handling <char style="add">(uppförande, sätt att leva sitt liv)</char>,</para>
+  <para style="q2" vid="1TI 4:12">i kärlek <char style="add">[som är osjälvisk och utgivande]</char>,</para>
+  <para style="p" vid="1TI 4:12">tro <char style="add">(trofasthet)</char> och renhet.</para>
+  <para style="b" vid="1TI 4:12" />
+  <para style="m" vid="1TI 4:12">
+    <char style="add">[I den här kulturen var man ung upp till 40 års ålder. Om Timoteus var omkring 15 år när Paulus tog med sig honom på sin andra resa, se <char style="xt"><ref loc="ACT 16:1">Apg 16:1</ref></char>, var han nu i 30-årsåldern. </char></para>
+  <para style="p" vid="1TI 4:12">
+    <char style="add">Av dessa fem egenskaper är de två första yttre egenskaper som är lätta att se. Paulus ville att Timoteus skulle vara känd för att tala visa ord i stället för ogenomtänkta hetsiga ord och också leva som han lärde. De två sista egenskaperna, tro och renhet, är inte direkt synliga, utan har mer med inre karaktär att göra. Ordet tro syftar både på tron på Gud och på trofasthet i ett uppdrag. Centralt, i mitten av dessa fem egenskaper, finns den osjälviska, utgivande kärleken som drivkraft för allt en kristen gör. Det bästa sättet att visa på den rätta vägen är att leva efter den själv.]</char><verse eid="1TI 4:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="1TI 4:13" />Tills jag kommer, fortsätt att</para>
+  <para style="p" vid="1TI 4:13">läsa högt ur Skriften <char style="add">[främst GT, men även vissa NT-brev fanns i omlopp, se <char style="xt"><ref loc="2PE 3:16">2 Pet 3:16</ref></char>.]</char>,</para>
+  <para style="p" vid="1TI 4:13">uppmuntra <char style="add">(trösta, hjälpa, komma till någons sida, förmana)</char></para>
+  <para style="p" vid="1TI 4:13">och undervisa <char style="add">(lära, instruera)</char>.</para>
+  <para style="b" vid="1TI 4:13" />
+  <para style="m" vid="1TI 4:13">
+    <char style="add">[Den kristna gudstjänsten följde samma mönster som den judiska samlingen i synagogan där någon efter textläsningen lade ut ordet. Jesus följde det mönstret i Nasaret och Paulus och Barnabas gjorde på samma sätt i Antiokia i Pisidien, se <char style="xt"><ref loc="LUK 4:16-20">Luk 4:16-20</ref>; <ref loc="ACT 13:15">Apg 13:15</ref></char>. Uppmuntran och undervisning hör ihop. Båda orden finns tillsammans i <char style="xt"><ref loc="ROM 12:7-8">Rom 12:7-8</ref></char>.]</char><verse eid="1TI 4:13" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="14" style="v" sid="1TI 4:14" />Försumma inte nådegåvan i dig, den som du fick genom profetord när de äldste lade händerna på dig.</para>
+  <para style="b" vid="1TI 4:14" />
+  <para style="m" vid="1TI 4:14">
+    <char style="add">[Handpåläggning var ett sätt att avskilja någon till tjänst, se <char style="xt"><ref loc="1TI 1:18">1 Tim 1:18</ref>; <ref loc="1TI 5:22">5:22</ref>; <ref loc="2TI 1:6">2 Tim 1:6</ref>; <ref loc="ACT 6:6">Apg 6:6</ref></char>. Ett exempel på detta finns i <char style="xt"><ref loc="ACT 13:1-3">Apg 13:1-3</ref></char>. Gåvan kan vara att vara ledarskap, urskiljning eller kanske evangelisk gåva, se <char style="xt"><ref loc="2TI 4:5">2 Tim 4:5</ref>, <ref loc="2TI 4:8">8</ref>; <ref loc="EPH 4:11">Ef 4:11</ref></char>.]</char><verse eid="1TI 4:14" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="15" style="v" sid="1TI 4:15" />Tänk på detta, lev i detta så att alla kan se dina framsteg. <verse eid="1TI 4:15" /><verse number="16" style="v" sid="1TI 4:16" />Var noga med dig själv <char style="add">[hur du lever ditt liv]</char> och din undervisning <char style="add">[din teologi]</char> och håll troget ut i detta <char style="add">[din tjänst, se vers 13-14]</char>. <char style="add">[Ordningen är viktig, det personliga livet kommer före vad någon undervisar.]</char> När du gör det, frälser <char style="add">(räddar)</char> du både dig själv och dem som lyssnar på dig.</para>
+  <para style="b" vid="1TI 4:16" />
+  <para style="m" vid="1TI 4:16">
+    <char style="add">[Det bästa motgiftet mot falska läror är att presentera och undervisa sanningen och själv leva i sanning, se vers 6-7.]</char><verse eid="1TI 4:16" /></para>
+  <chapter eid="1TI 4" />
+  <chapter number="5" style="c" sid="1TI 5" />
+  <para style="s1">Instruktioner till olika grupper i församlingen (5:1-6:2)</para>
+  <para style="s2">Behandla församlingen som din egen familj</para>
+  <para style="m" />
+  <para style="m">
+    <char style="add">[Hur vi ser på människor påverkar hur vi talar till dem. Paulus uppmanar Timoteus att relatera till alla i församlingen som om det vore hans egen familj. Dessa instruktioner hjälper Timoteus med hur han ska tillrättavisa och tala sanning på ett kärleksfullt sätt, se <char style="xt"><ref loc="1TI 4:12">1 Tim 4:12</ref></char>.]</char></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TI 5:1" />Var inte hård <char style="add">(ordagrant ”slå inte ner”, tala inte hårda ord)</char> mot en äldre man,</para>
+  <para style="p" vid="1TI 5:1">uppmuntra honom <char style="add">(förmana, kom vid hans sida)</char> som <char style="add">[du skulle tala till]</char> en far,</para>
+  <para style="m" vid="1TI 5:1">
+    <char style="add">[förmana och uppmuntra]</char></para>
+  <para style="p" vid="1TI 5:1">yngre män som bröder,<verse eid="1TI 5:1" /></para>
+  <para style="p">
+    <verse number="2" style="v" sid="1TI 5:2" />äldre kvinnor som mödrar</para>
+  <para style="p" vid="1TI 5:2">och yngre kvinnor som systrar i all renhet.</para>
+  <para style="s1" vid="1TI 5:2">Änkor</para>
+  <para style="m" vid="1TI 5:2" />
+  <para style="m" vid="1TI 5:2">
+    <char style="add">[Genom hela Bibeln syns Guds omsorg om änkor och faderlösa. Församlingen ska ta hand om dem, se <char style="xt"><ref loc="DEU 10:18">5 Mos 10:18</ref>; <ref loc="DEU 14:29">14:29</ref>; <ref loc="DEU 24:17-21">24:17-21</ref></char>. Redan i församlingen i Jerusalem organiserades hjälpen till just änkor, se <char style="xt"><ref loc="ACT 6:1-7">Apg 6:1-7</ref></char>. Nu, trettio år senare, upptog denna hjälp en stor del av församlingens verksamhet, och Paulus är noga med att identifiera vilka som verkligen behöver hjälp.]</char><verse eid="1TI 5:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="1TI 5:3" />Hedra <char style="add">(värdesätt, ge finansiellt stöd till)</char> änkor, dem som verkligen är änkor.</para>
+  <para style="b" vid="1TI 5:3" />
+  <para style="m" vid="1TI 5:3">
+    <char style="add">[Ordet hedra används bara på ett ställe till av Paulus. Där är det ett direkt citat av budet att hedra sin far och mor, se <char style="xt"><ref loc="EPH 6:2">Ef 6:2</ref></char>. Ordet blir som ett eko av de uppmaningar angående änkor som finns i Gamla testamentet, se <char style="xt"><ref loc="EXO 22:22">2 Mos 22:22</ref>; <ref loc="DEU 24:17">5 Mos 24:17</ref></char>.]</char><verse eid="1TI 5:3" /></para>
+  <para style="s2">Vem är en verklig änka?</para>
+  <para style="m">
+    <verse number="4" style="v" sid="1TI 5:4" />Men om en änka har barn eller barnbarn, ska dessa först och främst lära sig att visa respekt för sin egen familj och ge tillbaka vad de är skyldiga sina föräldrar, för detta är <char style="add">[gott, rätt och]</char> välbehagligt inför Gud.<verse eid="1TI 5:4" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="5" style="v" sid="1TI 5:5" />Den som nu verkligen är änka, och har blivit ensam <char style="add">(ensamstående, isolerad)</char>, har satt sitt hopp till <char style="add">(har sin förväntan på)</char> Gud och håller ut <char style="add">(stannar kvar; framhärdar) [fortsätter att stå på sig]</char> i åkallan <char style="add">[i de böner som bes för specifika behov]</char> och bön <char style="add">[i tillbedjan, hängivenhet och förtrolighet med Gud]</char> natt och dag. <verse eid="1TI 5:5" /><verse number="6" style="v" sid="1TI 5:6" />Men den <char style="add">[änka]</char> som lever för lyx <char style="add">[som alltid hänger sig åt slösaktig överdådighet och lättsinnig vällust]</char> är levande död <char style="add">(ordagrant: har dött)</char>.<verse eid="1TI 5:6" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="7" style="v" sid="1TI 5:7" />Lär dem <char style="add">[syftar troligen på änkorna]</char> detta så att ingen kan anklaga dem <char style="add">(det inte finns något att anmärka på)</char>.<verse eid="1TI 5:7" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="8" style="v" sid="1TI 5:8" />
+    <char style="add">[Nu följer en varning till familjerna i församlingen:]</char></para>
+  <para style="m" vid="1TI 5:8">Om någon inte tar hand om <char style="add">(försörjer, planerar för, ordagrant ”tänker på förhand om”)</char> sina närmaste, och särskilt sin egen familj, så har han förnekat tron och är värre än den som inte tror.</para>
+  <para style="b" vid="1TI 5:8" />
+  <para style="m" vid="1TI 5:8">
+    <char style="add">[Paulus hade tidigare skrivit till efesierna och särskilt uppmanat barnen att hedra sina föräldrar, se <char style="xt"><ref loc="EPH 6:2">Ef 6:2</ref></char>. Jesus själv såg till att hans mor blev försörjd när han dog, se <char style="xt"><ref loc="JHN 19:26-27">Joh 19:26-27</ref></char>.]</char><verse eid="1TI 5:8" /></para>
+  <para style="s2">Församlingsänka</para>
+  <para style="m">
+    <verse number="9" style="v" sid="1TI 5:9" />För att räknas som församlingsänka <char style="add">(registrerad änka) [för att tas upp på förteckningen över änkor som ska få understöd]</char> måste hon</para>
+  <para style="p" vid="1TI 5:9">vara minst sextio år</para>
+  <para style="p" vid="1TI 5:9">och varit en enda mans kvinna.</para>
+  <para style="b" vid="1TI 5:9" />
+  <para style="m" vid="1TI 5:9">
+    <char style="add">[Termen ”en enda mans kvinna” motsvarar uttrycket ”en enda kvinnas man”, se <char style="xt"><ref loc="1TI 3:2">1 Tim 3:2</ref></char>. Troligen syftar ordet på trohet till sin make, och inte på att kvinnan bara varit gift en gång, eftersom Paulus uppmuntrar omgifte vid dödsfall, se vers 14. Sextio år var den ålder då man räknades som gammal i antiken.]</char><verse eid="1TI 5:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="1TI 5:10" />Hon ska vara känd för goda <char style="add">(ärbara)</char> gärningar:</para>
+  <para style="p" vid="1TI 5:10">uppfostrat barn <char style="add">[sina egna, eller tagit hand om föräldralösa barn]</char>,</para>
+  <para style="p" vid="1TI 5:10">visat gästfrihet,</para>
+  <para style="p" vid="1TI 5:10">tvättat de heligas fötter <char style="add">[varit villig att betjäna andra]</char>,</para>
+  <para style="p" vid="1TI 5:10">hjälpt nödlidande</para>
+  <para style="p" vid="1TI 5:10">och använt varje tillfälle att göra gott.</para>
+  <para style="b" vid="1TI 5:10" />
+  <para style="m" vid="1TI 5:10">
+    <char style="add">[Det är inte helt klart om dessa församlingsänkor också fick understöd. Kanske hade de också en funktion i församlingen, i vers 5 nämns förbönstjänsten. Det finns gravinskriptioner från Rom, dock några hundra år senare, där det står att en församlingsänka vid namn Regina inte var en börda för församlingen. Ett annat argument för att änkorna inte bara blev omhändertagna utan också hade en funktion är de olika kvalifikationer som änkan förväntas ha. Olika kvalifikationer nämns nämligen också för äldste och diakoner, den tydligaste parallellen är ”en enda mans kvinna”. I en syrisk text från början av 200-talet, Didascalia Apostolorum, regleras olika funktioner i församlingen. Där förbjuds kvinnor att undervisa, och då särskilt änkor. Detta tyder på att änkor faktiskt undervisade och att texten vill motverka att detta sker.]</char><verse eid="1TI 5:10" /></para>
+  <para style="s2">Yngre änkor</para>
+  <para style="m">
+    <verse number="11" style="v" sid="1TI 5:11" />Yngre änkor <char style="add">[yngre än sextio år, men troligen mycket yngre än så, se vers 14]</char> ska du däremot avvisa <char style="add">[att bli församlingsänkor, se vers 9]</char>.</para>
+  <para style="b" vid="1TI 5:11" />
+  <para style="m" vid="1TI 5:11">Det är lätt att de dras in i en promiskuös livsstil <char style="add">(börjar drivas av begär)</char> och förs bort från den Smorde <char style="add">(Messias, Kristus)</char> och vill gifta sig. <verse eid="1TI 5:11" /><verse number="12" style="v" sid="1TI 5:12" />På så sätt drar de en dom över sig eftersom de förnekat sin första tro <char style="add">(trohet)</char>.</para>
+  <para style="b" vid="1TI 5:12" />
+  <para style="m" vid="1TI 5:12">
+    <char style="add">[Ordet tro kan syfta antingen på tron på Jesus, eller på trohet och då syfta på ett trohetslöfte om att inte gifta sig som dessa församlingsänkor gav. Dock är det inte omgiftet i sig som är problemet, Paulus uppmanar till det i vers 14. Det verkar mer ha att göra med hur de levde sina liv och att de kanske gifte sig med icke-troende män. Som nästa vers visar var huvudproblemet en utsvävande livsstil som påverkade många negativt.]</char><verse eid="1TI 5:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="1TI 5:13" />Samtidigt lär de sig <char style="add">[dessa yngre änkor]</char> att vara lata när de går omkring i husen. De blir inte bara lata, utan dessutom skvallriga och nyfikna och pratar om sådant som inte passar sig.</para>
+  <para style="b" vid="1TI 5:13" />
+  <para style="m" vid="1TI 5:13">
+    <char style="add">[Pastorala hembesök kan ha ingått i en församlingsänkas roll. Denna frihet att röra och besöka och betjäna andra kunde missbrukas. I <char style="xt"><ref loc="1TI 4:7">1 Tim 4:7</ref></char> varnade Paulus just för fabler, sägner och heretisk undervisning från kvinnor. Även i nästa brev kommer denna varning, se <char style="xt"><ref loc="2TI 3:7">2 Tim 3:7</ref></char>. Kanske var denna grupp extra utsatt att bli influerad av tidiga gnostiska läror. </char></para>
+  <para style="p" vid="1TI 5:13">
+    <char style="add">Följande exempel från den romerska satirdiktaren Juvenalis ger en inblick i vilken typ av skvaller som förekom bland kvinnor vid den här tiden: ”Hon vet allt som händer i världen ... Hon vet vem som är kär i vem, och vilken casanova kvinnorna strider om, hon kan berätta vem som gjorde vilken änka med barn, i vilken månad, hur varje kvinna beter sig med sin älskare och vad hon säger till dem ...”]</char><verse eid="1TI 5:13" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="14" style="v" sid="1TI 5:14" />Jag vill därför <char style="add">[som en generell regel]</char> att yngre änkor gifter sig, föder barn, sköter hemmet och inte ger motståndaren <char style="add">[djävulen eller motståndare till församlingen, se <char style="xt"><ref loc="1CO 16:9">1 Kor 16:9</ref></char>]</char> något tillfälle att tala illa om dem. <verse eid="1TI 5:14" /><verse number="15" style="v" sid="1TI 5:15" />Några har redan vänt sig bort och börjat följa Satan.</para>
+  <para style="b" vid="1TI 5:15" />
+  <para style="m" vid="1TI 5:15">
+    <char style="add">[Om dessa yngre änkor fick fortsätta i sin livsstil, med understöd av församlingen, skadade det hela kyrkans rykte i samhället. Det var nödvändigt för Timoteus att adressera dessa unga änkors beteende i all renhet, se vers 2. Uppmaning om att gifta sig står inte i motsats till det som Paulus skriver i Första Korintierbrevet 7 där han rekommenderar att änkor bör förbli ensamma. Det avgörande i sammanhanget är om den som lever ensam har gåvan att göra detta, se <char style="xt"><ref loc="1CO 7:7">1 Kor 7:7</ref></char>.]</char><verse eid="1TI 5:15" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="16" style="v" sid="1TI 5:16" />
+    <char style="add">[Uppmaningen i vers 8 gäller även välbärgade kvinnor som hade eget hushåll:]</char></para>
+  <para style="m" vid="1TI 5:16">Om en troende kvinna har änkor hos sig ska hon ta hand om dem och inte belasta församlingen, så att den kan ta hand om dem som verkligen är änkor.</para>
+  <para style="b" vid="1TI 5:16" />
+  <para style="m" vid="1TI 5:16">
+    <char style="add">[Ett exempel på en kvinna som tog hand om änkor var Dorkas i Joppe, se <char style="xt"><ref loc="ACT 9:36">Apg 9:36</ref>, <ref loc="ACT 9:39">39</ref></char>. Ett annat exempel på en välbärgad kvinna är Lydia som kom från staden Thyatira bara tio mil från Efesos, se <char style="xt"><ref loc="ACT 16:14">Apg 16:14</ref></char>.]</char><verse eid="1TI 5:16" /></para>
+  <para style="s1">Äldste</para>
+  <para style="s2">Arbetaren är värd sin lön</para>
+  <para style="m">
+    <verse number="17" style="v" sid="1TI 5:17" />De äldste som sköter sin ledaruppgift väl ska ni anse värda dubbel heder <char style="add">[tillräckligt finansiellt stöd, kanske dubbelt så mycket stöd som en änka fick, se vers 3]</char>, särskilt dem som arbetar med predikan och undervisning. <verse eid="1TI 5:17" /><verse number="18" style="v" sid="1TI 5:18" />Skriften säger:</para>
+  <para style="b" vid="1TI 5:18" />
+  <para style="m" vid="1TI 5:18">Du ska inte binda för munnen <char style="add">(sätta munkorg)</char> på oxen som tröskar <char style="add">[<char style="xt"><ref loc="DEU 25:4">5 Mos 25:4</ref>; <ref loc="1CO 9:9">1 Kor 9:9</ref></char>]</char></para>
+  <para style="b" vid="1TI 5:18" />
+  <para style="m" vid="1TI 5:18">och</para>
+  <para style="b" vid="1TI 5:18" />
+  <para style="m" vid="1TI 5:18">arbetaren är värd sin lön. <char style="add">[<char style="xt"><ref loc="DEU 24:15">5 Mos 24:15</ref>; <ref loc="MAT 10:10">Matt 10:10</ref>; <ref loc="LUK 10:7">Luk 10:7</ref></char>]</char></para>
+  <para style="b" vid="1TI 5:18" />
+  <para style="m" vid="1TI 5:18" />
+  <para style="s2" vid="1TI 5:18">Anklagelser och tillrättavisning</para>
+  <para style="m" vid="1TI 5:18" />
+  <para style="m" vid="1TI 5:18">
+    <char style="add">[Paulus hade redan nämnt att församlingen behövde vara på sin vakt mot sådana som talade illa om dess ledare, se <char style="xt"><ref loc="1TI 3:2">1 Tim 3:2</ref>, <ref loc="1TI 3:7">7</ref></char>. Här är riktlinjerna för hur man skiljer mellan falska och äkta anklagelser. Det är samma princip som finns genom hela Bibeln med flera vittnen, se <char style="xt"><ref loc="DEU 19:15">5 Mos 19:15</ref>; <ref loc="MAT 18:16">Matt 18:16</ref></char>.]</char><verse eid="1TI 5:18" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="19" style="v" sid="1TI 5:19" />Ta inte upp en anklagelse mot någon av de äldste om det inte finns två eller tre vittnen. <verse eid="1TI 5:19" /><verse number="20" style="v" sid="1TI 5:20" />Dem <char style="add">[de församlingsledare]</char> som syndar <char style="add">(en pågående handling, medvetet fortsätter att agera fel)</char> inför alla ska du tillrättavisa inför alla så att även de andra tar varning.<verse eid="1TI 5:20" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="21" style="v" sid="1TI 5:21" />Jag uppmanar dig allvarligt inför Gud och den Smorde <char style="add">(Messias, Kristus)</char> Jesus och de utvalda budbärarna <char style="add">(änglarna)</char>: ta vara på <char style="add">(skydda)</char> detta <char style="add">[dessa regler]</char> utan förutfattade meningar och utan att handla partiskt.<verse eid="1TI 5:21" /></para>
+  <para style="s2">Att utse ledare</para>
+  <para style="m">
+    <verse number="22" style="v" sid="1TI 5:22" />Var inte för snabb med att lägga händerna på någon. <char style="add">[Ersätta en äldste som avsatts, eller insätta någon ny som äldste.]</char> Gör dig inte delaktig i andras synder.</para>
+  <para style="b" vid="1TI 5:22" />
+  <para style="m" vid="1TI 5:22">
+    <char style="add">[Ett sätt att skydda sig från en situation där en ledare måste tillrättavisas är att inte för snabbt sätta in någon i en ledande ställning. Den som är med och tillsätter en församlingsledare för hastigt, innan personen visat sig vara trofast, är delaktig i de negativa konsekvenser som så lätt kan uppkomma. I Antiokia i Syrien bad och fastade man innan man avskilde Barnabas och Paulus till att resa på den första missionsresan, se <char style="xt"><ref loc="ACT 13:3">Apg 13:3</ref></char>.]</char></para>
+  <para style="b" vid="1TI 5:22" />
+  <para style="m" vid="1TI 5:22">Håll dig själv ren.<verse eid="1TI 5:22" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="23" style="v" sid="1TI 5:23" />
+    <char style="add">[Paulus verkar bli påmind om att detta uttalande om renhet kan övertolkas, så han ger ett personligt råd till Timoteus.]</char></para>
+  <para style="m" vid="1TI 5:23">Drick inte längre bara vatten,</para>
+  <para style="p" vid="1TI 5:23">utan använd lite vin för din mage <char style="add">(gr. stomachos)</char> och dina återkommande sjukdomar <char style="add">(svagheter)</char>.</para>
+  <para style="b" vid="1TI 5:23" />
+  <para style="m" vid="1TI 5:23">
+    <char style="add">[Ett av problemen med de falska lärarna i Efesos var att de lärde ut asketism. De förbjöd giftermål och avhöll sig från viss mat och dryck, se <char style="xt"><ref loc="1TI 4:3">1 Tim 4:3</ref></char>. Kanske hade Timoteus blivit influerad av dem och behövde Paulus råd på detta område. I kvalifikationerna för både församlingsledare och församlingstjänare finns ett krav på måttlighet vad gäller alkohol, se <char style="xt"><ref loc="1TI 3:3">1 Tim 3:3</ref>, <ref loc="1TI 3:8">8</ref></char>. Det verkar som om Timoteus inte drack vin alls utan bara vatten, så Paulus tvingas uppmana Timoteus att faktiskt dricka lite vin för hälsans skull. Det är möjligt att läkaren Lukas fanns vid Paulus sida när han skrev detta, se <char style="xt"><ref loc="2TI 4:11">2 Tim 4:11</ref></char>. I vissa regioner och städer med dålig tillgång på färskt vatten (där man istället sparade vatten från vinterregnen i reservoarer) var detta ofta ohälsosamt med bakterier, och vin var säkrare att dricka.]</char><verse eid="1TI 5:23" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="24" style="v" sid="1TI 5:24" />
+    <char style="add">[Tillbaka till diskussionen om varför man inte ska vara för snabb att utse nya äldste:]</char></para>
+  <para style="m" vid="1TI 5:24">Vissa människors synder</para>
+  <para style="p" vid="1TI 5:24">är uppenbara och får sin dom i förväg,</para>
+  <para style="p" vid="1TI 5:24">andras synder kommer fram först senare.<verse eid="1TI 5:24" /></para>
+  <para style="m">
+    <verse number="25" style="v" sid="1TI 5:25" />På samma sätt är de goda <char style="add">(ärbara)</char> gärningarna uppenbara,</para>
+  <para style="p" vid="1TI 5:25">och de som inte är det kan ändå inte förbli gömda <char style="add">[för alltid, de blir synliga]</char>.<verse eid="1TI 5:25" /></para>
+  <chapter eid="1TI 5" />
+  <chapter number="6" style="c" sid="1TI 6" />
+  <para style="s1">Slavar</para>
+  <para style="m" />
+  <para style="m">
+    <char style="add">[Paulus har gett instruktioner till olika grupper i församlingen, se kapitel 5. Den sista gruppen är slavar. Det romerska samhället var beroende av slavar. Under den första tiden var omkring nittio procent av befolkningen slavar. Även om slaveriet hade minskat var omkring hälften av den romerska befolkningen slavar, när Paulus skriver detta brev. De slavar som arbetade i gruvor och på fälten hade det ofta väldigt svårt, medan de som tjänade i hemmen kunde ha det mer drägligt. Vissa av dessa slavar var väl utbildade och tjänade som skrivare och läkare. Paulus hade tidigare skrivit att i Jesus är ingen längre slav eller fri, se <char style="xt"><ref loc="COL 3:11">Kol 3:11</ref></char>. Vad innebar det uttalandet i en församling som växte och bestod av både slavar och slavägare?]</char></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="1TI 6:1" />Alla som bär slaveriets ok ska anse sina härskare <char style="add">(gr. despotes)</char> värda all respekt, så att Guds namn och läran inte smädas. <verse eid="1TI 6:1" /><verse number="2" style="v" sid="1TI 6:2" />De som har troende härskare ska inte se ner på dem för att de är bröder <char style="add">[i tron]</char>, utan tvärtom tjäna dem så mycket villigare eftersom de som tar emot deras goda tjänst är troende och älskade. Så ska du undervisa och förmana.<verse eid="1TI 6:2" /></para>
+  <para style="s1">Avslutande uppmaningar</para>
+  <para style="s2">Högmod och girighet är ofta drivkraften bakom osunda läror</para>
+  <para style="m">
+    <verse number="3" style="v" sid="1TI 6:3" />Om någon sprider andra läror och inte håller sig till vår Herre Jesu den Smordes <char style="add">(Kristi)</char> sunda <char style="add">(hälsosamma)</char> ord och den lära som hör till gudsfruktan <char style="add">[evangeliet, till skillnad från myter, se <char style="xt"><ref loc="1TI 4:7-10">1 Tim 4:7-10</ref></char>]</char>, <verse eid="1TI 6:3" /><verse number="4" style="v" sid="1TI 6:4" />så är han högmodig och okunnig. Han har en sjuklig lust <char style="add">(ohälsosam stark iver)</char> att diskutera <char style="add">(debattera)</char> och strida om ord.</para>
+  <para style="b" vid="1TI 6:4" />
+  <para style="m" vid="1TI 6:4">Sådant leder till</para>
+  <para style="p" vid="1TI 6:4">avund <char style="add">(missunnsamhet)</char>,</para>
+  <para style="p" vid="1TI 6:4">bråk <char style="add">(grupperingar, splittring)</char>,</para>
+  <para style="p" vid="1TI 6:4">förtal <char style="add">(fiendskap)</char>,</para>
+  <para style="p" vid="1TI 6:4">ondskefulla misstankar <char style="add">(en inställning där man alltid tänker det värsta om människor)</char><verse eid="1TI 6:4" /></para>
+  <para style="m">
+    <verse number="5" style="v" sid="1TI 6:5" />och ständiga strider <char style="add">(konflikter)</char> mellan människor med fördärvat sinne</para>
+  <para style="q2" vid="1TI 6:5">som har tappat bort <char style="add">(blivit bedragna)</char> sanningen</para>
+  <para style="p" vid="1TI 6:5">när de menar att gudsfruktan ska ge vinst.</para>
+  <para style="b" vid="1TI 6:5" />
+  <para style="m" vid="1TI 6:5">
+    <char style="add">[Det är slående hur dessa egenskaper står i skarp kontrast till kvalifikationerna för en ledare i församlingen, se <char style="xt"><ref loc="1TI 3:2-12">1 Tim 3:2-12</ref></char>. Paulus utvecklar nu faran med materialismen. Ämnet tas upp i följande stycken, se vers 6-10, men även i vers 17-19. Brevet har en kiastisk struktur vilket gör att ämnet återkommer och hör ihop.]</char><verse eid="1TI 6:5" /></para>
+  <para style="s2">Förnöjsamhet</para>
+  <para style="m">
+    <verse number="6" style="v" sid="1TI 6:6" />Men gudsfruktan förenad med förnöjsamhet är verkligen en stor vinst.<verse eid="1TI 6:6" /></para>
+  <para style="m">
+    <verse number="7" style="v" sid="1TI 6:7" />Vi har inte tagit med oss något in i denna världen,</para>
+  <para style="m" vid="1TI 6:7">därför kan vi inte heller ta med oss någonting härifrån.<verse eid="1TI 6:7" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="8" style="v" sid="1TI 6:8" />Har vi mat och kläder ska vi vara nöjda med det.<verse eid="1TI 6:8" /></para>
+  <para style="s2">Kärleken till pengar är farlig</para>
+  <para style="m">
+    <verse number="9" style="v" sid="1TI 6:9" />Men de som vill <char style="add">(strävar, planerar för och har som enda ambition att)</char> bli rika, faller i frestelser och snaror och många ovisa och skadliga begär som drar människorna ner i fördärv och undergång.<verse eid="1TI 6:9" /></para>
+  <para style="m">
+    <verse number="10" style="v" sid="1TI 6:10" />För vänskapen <char style="add">(kärleken)</char> till pengar <char style="add">(ordagrant ”vänskap med silvermynt”)</char></para>
+  <para style="p" vid="1TI 6:10">är en rot till all <char style="add">(alla sorters)</char> ondska <char style="add">[plural, som nyss nämnts i vers 4-5, 9]</char>.</para>
+  <para style="b" vid="1TI 6:10" />
+  <para style="m" vid="1TI 6:10">
+    <char style="add">[Ofta citeras detta ordspråk felaktigt med att ”pengar är roten till allt ont”, vilket inte är sant. Ett exempel är syndafallet, innan det ens fanns pengar, se <char style="xt"><ref loc="GEN 3">1 Mos 3</ref></char>. Paulus konstaterar i stället att det är vänskapen och kärleken till pengarna, som är roten till den ondska som nämns i föregående verser. Det är girigheten och habegäret som orsakar avund, förtal, splittringar, tvister, frestelser och skadliga begär.]</char></para>
+  <para style="b" vid="1TI 6:10" />
+  <para style="m" vid="1TI 6:10">Somliga har i sina försök <char style="add">(längtan efter något då man inte väjer för något)</char> vandrat från tron och genomborrat sig själva med många smärtor <char style="add">(samvetskval)</char>.</para>
+  <para style="s2" vid="1TI 6:10">Fly vissa saker – kämpa för andra</para>
+  <para style="m" vid="1TI 6:10" />
+  <para style="m" vid="1TI 6:10">
+    <char style="add">[En människa som vill följa Gud behöver fly från vissa saker, följa efter andra och kämpa trons goda kamp för att behålla dem. Man skulle kunna översätta de tre första verben med ord som alla börjar på bokstaven f: fly, följ och fajtas. Paulus uppmanar nu sin andlige son Timoteus:]</char><verse eid="1TI 6:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="1TI 6:11" />Men du gudsman <char style="add">(du som tillhör Gud, som är avskild för hans tjänst)</char>:</para>
+  <para style="b" vid="1TI 6:11" />
+  <para style="m" vid="1TI 6:11">Fly <char style="add">(ständigt)</char></para>
+  <para style="p" vid="1TI 6:11">allt detta <char style="add">[ordstrider och kärleken till pengar, se vers 3-10]</char>.</para>
+  <para style="b" vid="1TI 6:11" />
+  <para style="m" vid="1TI 6:11">Följ <char style="add">(sträva ständigt efter)</char>:</para>
+  <para style="p" vid="1TI 6:11">rättfärdighet <char style="add">(att leva rätt, i fullkomlig harmoni med Guds vilja)</char>,</para>
+  <para style="p" vid="1TI 6:11">gudsfruktan,</para>
+  <para style="p" vid="1TI 6:11">tro,</para>
+  <para style="p" vid="1TI 6:11">kärlek <char style="add">[som är osjälvisk och utgivande]</char>,</para>
+  <para style="p" vid="1TI 6:11">uthållighet <char style="add">(ståndaktighet) [karaktär som står fast även under prövningar]</char>,</para>
+  <para style="p" vid="1TI 6:11">mildhet <char style="add">(saktmod; balanserad och kontrollerad styrka som är fri från hämndlystnad och bitterhet)</char>.<verse eid="1TI 6:11" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="12" style="v" sid="1TI 6:12" />Kämpa <char style="add">(fajtas) [var ständigt delaktig i]</char></para>
+  <para style="p" vid="1TI 6:12">trons goda <char style="add">(ärbara)</char> kamp <char style="add">(fajt) [som på ett slagfält eller i en tävling på en olympisk arena]</char>!</para>
+  <para style="b" vid="1TI 6:12" />
+  <para style="m" vid="1TI 6:12">Håll fast vid <char style="add">(fånga; grip tag i, få tag på) [sök verkligen vinna]</char> det eviga livet som du blev kallad till <char style="add">(ut i)</char> och som du också bekände dig till genom att avge den goda bekännelsen inför <char style="add">[ögonen på]</char> många vittnen. <char style="add">[Syftar troligen på Timoteus dop eller ordination till tjänst.]</char><verse eid="1TI 6:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="1TI 6:13" />Jag <char style="add">[Paulus]</char> befaller dig <char style="add">[Timoteus]</char></para>
+  <para style="b" vid="1TI 6:13" />
+  <para style="m" vid="1TI 6:13">inför Gud <char style="add">(i hans närvaro)</char>, som ständigt ger liv åt allt levande,</para>
+  <para style="q2" vid="1TI 6:13">och inför Jesus den Smorde <char style="add">(Messias, Kristus)</char>,</para>
+  <para style="m" vid="1TI 6:13">som vittnade med den goda bekännelsen inför Pontius Pilatus.</para>
+  <para style="m" vid="1TI 6:13">
+    <char style="add">[Jesu uppdrag var att vittna om sanningen, se <char style="xt"><ref loc="JHN 18:33-37">Joh 18:33-37</ref></char>.]</char><verse eid="1TI 6:13" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="14" style="v" sid="1TI 6:14" />
+    <char style="add">[Detta är vad jag befaller dig:]</char></para>
+  <para style="m" vid="1TI 6:14">Håll detta bud <char style="add">(ditt uppdrag)</char></para>
+  <para style="p" vid="1TI 6:14">obefläckat <char style="add">(rent)</char></para>
+  <para style="p" vid="1TI 6:14">och oklanderligt <char style="add">(så att det inte finns något att anmärka på)</char>.</para>
+  <para style="m" vid="1TI 6:14">
+    <char style="add">[Var sann, lev det på ett sådant sätt att ingen kan kritisera det.]</char></para>
+  <para style="b" vid="1TI 6:14" />
+  <para style="m" vid="1TI 6:14">Gör detta tills vår Herre Jesus den Smorde <char style="add">(Messias, Kristus)</char> uppenbaras <char style="add">[då han kommer tillbaka för att regera här på jorden]</char>.<verse eid="1TI 6:14" /></para>
+  <para style="m">
+    <verse number="15" style="v" sid="1TI 6:15" />Hans uppenbarelse kommer att bli synlig vid hans rätta tider.</para>
+  <para style="m" vid="1TI 6:15">
+    <char style="add">[Pluralformen av tider antyder att Guds rike uppenbaras successivt i flera steg, se <char style="xt"><ref loc="ACT 1:7">Apg 1:7</ref></char>.]</char></para>
+  <para style="m" vid="1TI 6:15">Han som är den salige <char style="add">(glada, välsignade)</char>, ende Mäktige <char style="add">(gr. dunastes) [den enda regerande dynastin]</char>,</para>
+  <para style="p" vid="1TI 6:15">kungarnas Kung och herrarnas Herre.<verse eid="1TI 6:15" /></para>
+  <para style="m">
+    <verse number="16" style="v" sid="1TI 6:16" />Han som ensam är odödlig och bor i ett oåtkomligt ljus,</para>
+  <para style="p" vid="1TI 6:16">han som ingen människa har sett eller kan se –</para>
+  <para style="m" vid="1TI 6:16">honom tillhör ära och evig makt. Amen <char style="add">(låt det ske)</char>.<verse eid="1TI 6:16" /></para>
+  <para style="b" />
+  <para style="m" />
+  <para style="s2">Uppmaning till de rika</para>
+  <para style="m">
+    <verse number="17" style="v" sid="1TI 6:17" />Uppmana dem som är rika i den här tidsåldern <char style="add">(världen)</char> att inte vara högmodiga eller sätta sitt hopp till något så osäkert som rikedom, utan till Gud som rikligt ger oss allt att njuta av. <verse eid="1TI 6:17" /><verse number="18" style="v" sid="1TI 6:18" />Uppmana dem att göra gott, att vara rika på goda <char style="add">(ärbara)</char> gärningar, att vara generösa och dela med sig. <verse eid="1TI 6:18" /><verse number="19" style="v" sid="1TI 6:19" />Då samlar de åt sig en skatt som är en god grund för framtiden <char style="add">(ordagrant: för det som kommer) [i den kommande tidsåldern]</char>, så att de kan vinna <char style="add">(hålla fast vid; få tag på, se vers 12)</char> det verkliga livet.<verse eid="1TI 6:19" /></para>
+  <para style="s2">Förbli trofast</para>
+  <para style="m">
+    <verse number="20" style="v" sid="1TI 6:20" />Käre Timoteus, bevara det som har anförtrotts dig <char style="add">(finansiell term för något som har satts in på ett konto)</char>.</para>
+  <para style="b" vid="1TI 6:20" />
+  <para style="m" vid="1TI 6:20">Vänd dig bort från det oandliga, tomma pratet och invändningarna från det som kallas kunskap <char style="add">(gr. gnosis)</char> utan att vara det. <verse eid="1TI 6:20" /><verse number="21" style="v" sid="1TI 6:21" />Några har bekänt sig till detta, och har kommit bort från tron.</para>
+  <para style="b" vid="1TI 6:21" />
+  <para style="m" vid="1TI 6:21">Nåden vare med er.</para>
+  <para style="b" vid="1TI 6:21" />
+  <para style="m" vid="1TI 6:21">
+    <char style="add">[Paulus avslutar brevet med att rikta sig till ”er”, plural, vilket indikerar att brevet var riktat till Timoteus, men lästes upp för alla de troende i husförsamlingarna i Efesos.]</char><verse eid="1TI 6:21" /></para>
+  <chapter eid="1TI 6" />
+</usx>

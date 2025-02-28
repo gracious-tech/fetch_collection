@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Xotei ido Sam Mak ana Inggrengalox",
+        "local_abbrev": "",
+        "english": "Sam Gospel of Mark",
+        "english_abbrev": "SM"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=snx"
+    },
+    "ids": {
+        "ebible": "snx"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/snx_usfm.zip",
+        "updated": "2022-08-18",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

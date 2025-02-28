@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Tiwi Gospels",
+        "english_abbrev": "TG"
+    },
+    "year": 2000,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2000 Wycliffe Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tiw"
+    },
+    "ids": {
+        "ebible": "tiw"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tiw_usfm.zip",
+        "updated": "2021-11-29",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

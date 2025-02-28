@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "মুক্তভাবে বাংলা সমকালীন সংস্করণের",
+        "local_abbrev": "",
+        "english": "Open Bengali Contemporary Version",
+        "english_abbrev": "OBCV"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=efd8a351a07d4264"
+    },
+    "ids": {
+        "dbl": "efd8a351a07d4264",
+        "ebible": "benobcv"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=efd8a351a07d4264&type=release",
+        "updated": "2024-04-26",
+        "revision": 7
+    },
+    "literalness": null,
+    "tags": []
+}

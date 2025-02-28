@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Alla la Kitabu Seniman",
+        "local_abbrev": "AKS",
+        "english": "Sankaran Translation",
+        "english_abbrev": "STP"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=4ffcec8e8f3c33e7"
+    },
+    "ids": {
+        "dbl": "4ffcec8e8f3c33e7",
+        "ebible": "msc"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=4ffcec8e8f3c33e7&type=release",
+        "updated": "2022-09-29",
+        "revision": 5
+    },
+    "literalness": null,
+    "tags": []
+}

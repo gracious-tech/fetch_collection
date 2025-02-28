@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "PIIPILI ƖSƆ TƆM TAKƎLAƔA",
+        "local_abbrev": "",
+        "english": "Lokpa Bible",
+        "english_abbrev": "LB"
+    },
+    "year": 1999,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1999 SIM",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=dop"
+    },
+    "ids": {
+        "ebible": "dop"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/dop_usfm.zip",
+        "updated": "2017-10-16",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

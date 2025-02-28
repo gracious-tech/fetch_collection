@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Sanskrit Bible in ISO Script",
+        "english_abbrev": "SBISO"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "SanskritBible.in",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=d4599ff3c6b97f3a"
+    },
+    "ids": {
+        "dbl": "d4599ff3c6b97f3a",
+        "ebible": "saniso"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=d4599ff3c6b97f3a&type=release",
+        "updated": "2018-09-26",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

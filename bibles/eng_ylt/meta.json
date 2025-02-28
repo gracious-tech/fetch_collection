@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Young's Literal Translation (1898)",
+        "local_abbrev": "YLT",
+        "english": "Young's Literal Translation (1898)",
+        "english_abbrev": "YLT"
+    },
+    "year": 1898,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=engylt"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engylt"
+    },
+    "ids": {
+        "ebible": "engylt"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engylt_usfm.zip",
+        "updated": "2019-10-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "ANOUBA WAREPNABA",
+        "local_abbrev": "",
+        "english": "Meitei: Roman Script",
+        "english_abbrev": "RSM"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=e3cd1d240c384e91"
+    },
+    "ids": {
+        "dbl": "e3cd1d240c384e91",
+        "ebible": "mni"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=e3cd1d240c384e91&type=release",
+        "updated": "2022-03-09",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

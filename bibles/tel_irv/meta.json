@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "ఇండియన్ రివైజ్డ్ వెర్షన్ - తెలుగు",
+        "local_abbrev": "",
+        "english": "Indian Revised Version - Telugu",
+        "english_abbrev": "IRVTel"
+    },
+    "year": 2019,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Bridge Connectivity Solutions Pvt. Ltd.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=5b835ce16a1703ff"
+    },
+    "ids": {
+        "dbl": "5b835ce16a1703ff",
+        "ebible": "tel2017"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=5b835ce16a1703ff&type=release",
+        "updated": "2022-04-13",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

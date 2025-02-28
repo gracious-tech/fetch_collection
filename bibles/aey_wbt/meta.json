@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "BAL CEHEC JE HAUN",
+        "local_abbrev": "",
+        "english": "Amele Genesis",
+        "english_abbrev": "AG"
+    },
+    "year": 1997,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1997 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=aey"
+    },
+    "ids": {
+        "ebible": "aey"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/aey_usfm.zip",
+        "updated": "1997-01-01",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

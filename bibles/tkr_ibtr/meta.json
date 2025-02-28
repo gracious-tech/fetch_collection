@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Tsakhur",
+        "local_abbrev": "TKR",
+        "english": "",
+        "english_abbrev": ""
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Institute for Bible Translation, Russia",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=00cdf9001d68edfa"
+    },
+    "ids": {
+        "dbl": "00cdf9001d68edfa",
+        "ebible": "tkr"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=00cdf9001d68edfa&type=release",
+        "updated": "2024-01-30",
+        "revision": 9
+    },
+    "literalness": null,
+    "tags": []
+}

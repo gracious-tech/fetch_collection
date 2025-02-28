@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Yaubada wasana: Buka Hauhauna tupwana",
+        "local_abbrev": "",
+        "english": "Saliba New Testament",
+        "english_abbrev": "SNT"
+    },
+    "year": 2013,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2007, 2013, 2017, 2021 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=sbe"
+    },
+    "ids": {
+        "ebible": "sbe"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/sbe_usfm.zip",
+        "updated": "2024-04-26",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

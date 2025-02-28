@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Leb-Thur",
+        "local_abbrev": "Thur",
+        "english": "Thur Bible",
+        "english_abbrev": "THURM"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=2d75eb8fe5beaceb"
+    },
+    "ids": {
+        "dbl": "2d75eb8fe5beaceb"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=2d75eb8fe5beaceb&type=release",
+        "updated": "2024-10-09",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

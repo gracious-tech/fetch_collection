@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Buki Pilabumaboma Kabutubogwa Deli Kabutuvau",
+        "local_abbrev": "",
+        "english": "Kilivila: Buki Pilabumaboma Kabutubogwa Deli Kabutuvau Bible",
+        "english_abbrev": "KBPKD"
+    },
+    "year": 1984,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1984 Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kij"
+    },
+    "ids": {
+        "ebible": "kij"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kij_usfm.zip",
+        "updated": "2022-03-04",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

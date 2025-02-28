@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Brenton Septuagint Translation",
+        "local_abbrev": "BST",
+        "english": "Brenton Septuagint Translation",
+        "english_abbrev": "BST"
+    },
+    "year": 1851,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=eng-Brenton"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=eng-Brenton"
+    },
+    "ids": {
+        "ebible": "eng-Brenton"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/eng-Brenton_usfm.zip",
+        "updated": "2024-09-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

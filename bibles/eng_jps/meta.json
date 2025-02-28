@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "The Jewish Bible (1917)",
+        "local_abbrev": "JPS",
+        "english": "The Jewish Bible (1917)",
+        "english_abbrev": "JPS"
+    },
+    "year": 1917,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=engjps"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engjps"
+    },
+    "ids": {
+        "ebible": "engjps"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engjps_usfm.zip",
+        "updated": "2023-09-19",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

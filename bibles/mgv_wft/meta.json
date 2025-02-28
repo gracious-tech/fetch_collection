@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Amatengu",
+        "local_abbrev": "",
+        "english": "New Testament in Matengo",
+        "english_abbrev": "NTMBL"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=40d98e98134138dc"
+    },
+    "ids": {
+        "dbl": "40d98e98134138dc"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=40d98e98134138dc&type=release",
+        "updated": "2024-07-25",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

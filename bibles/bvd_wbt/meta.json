@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Na Alangaia Falu 'ana Baea 'i Baegu",
+        "local_abbrev": "",
+        "english": "Baegu New Testament",
+        "english_abbrev": "BNT"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2016 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=bvd"
+    },
+    "ids": {
+        "ebible": "bvd"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/bvd_usfm.zip",
+        "updated": "2017-11-09",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

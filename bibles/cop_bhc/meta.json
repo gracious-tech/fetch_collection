@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "القبطية البحيرية العهد الجديد",
+        "local_abbrev": "",
+        "english": "Coptic Boharic New Testament",
+        "english_abbrev": "BHC"
+    },
+    "year": 1000,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=copbhc"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=copbhc"
+    },
+    "ids": {
+        "ebible": "copbhc"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/copbhc_usfm.zip",
+        "updated": "2014-09-16",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

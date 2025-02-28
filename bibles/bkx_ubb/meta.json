@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Naꞌ Markus",
+        "local_abbrev": "",
+        "english": "Baikeno Mark",
+        "english_abbrev": "BM"
+    },
+    "year": 2004,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2004 Unit Bahasa dan Budaya",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=bkx"
+    },
+    "ids": {
+        "ebible": "bkx"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/bkx_usfm.zip",
+        "updated": "2022-03-11",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

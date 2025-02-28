@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Text-Critical English New Testament",
+        "local_abbrev": "TCE",
+        "english": "Text-Critical English New Testament",
+        "english_abbrev": "TCE"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2022 Robert Adam Boyd",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engtcent"
+    },
+    "ids": {
+        "ebible": "engtcent"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engtcent_usfm.zip",
+        "updated": "2024-11-07",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

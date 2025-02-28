@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Nauəuə Asim Rəha Uhgɨn Nəmtətiən Vi",
+        "local_abbrev": "",
+        "english": "Whitesands New Testament",
+        "english_abbrev": "WNT"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2014 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tnp"
+    },
+    "ids": {
+        "ebible": "tnp"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tnp_usfm.zip",
+        "updated": "2022-03-11",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

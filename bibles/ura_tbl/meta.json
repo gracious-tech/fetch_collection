@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Cana Coaunera Ere",
+        "local_abbrev": "",
+        "english": "Urarina New Testament",
+        "english_abbrev": "UNT"
+    },
+    "year": 2008,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2008 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=uraNT"
+    },
+    "ids": {
+        "ebible": "uraNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/uraNT_usfm.zip",
+        "updated": "2014-04-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Open Persian Contemporary Bible",
+        "english_abbrev": "OPCB"
+    },
+    "year": 2022,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=7cd100148df29c08"
+    },
+    "ids": {
+        "dbl": "7cd100148df29c08",
+        "ebible": "pesopcb"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=7cd100148df29c08&type=release",
+        "updated": "2024-04-30",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

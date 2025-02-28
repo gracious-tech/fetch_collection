@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Louis Segond (1910)",
+        "local_abbrev": "LSG",
+        "english": "Louis Segond Bible (1910)",
+        "english_abbrev": "LSG"
+    },
+    "year": 1910,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=fraLSG"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=fraLSG"
+    },
+    "ids": {
+        "ebible": "fraLSG"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/fraLSG_usfm.zip",
+        "updated": "2024-11-13",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

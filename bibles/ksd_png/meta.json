@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "A BUK TABU A MAULANA KUNUBU ma A KALAMANA KUNUBU",
+        "local_abbrev": "",
+        "english": "Kauana Bible",
+        "english_abbrev": "KB"
+    },
+    "year": 1983,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1882-1983 Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ksd"
+    },
+    "ids": {
+        "ebible": "ksd"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ksd_usfm.zip",
+        "updated": "2015-01-26",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

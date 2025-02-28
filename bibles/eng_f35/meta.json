@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "The New Testament according to Family 35",
+        "local_abbrev": "F35",
+        "english": "The New Testament according to Family 35",
+        "english_abbrev": "F35"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2016 Wilbur N. Pickering, ThM, PhD",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engf35"
+    },
+    "ids": {
+        "ebible": "engf35"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engf35_usfm.zip",
+        "updated": "2024-11-07",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": ["niche"]
+}

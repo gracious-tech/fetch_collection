@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Biblia Traducerea Fidela",
+        "local_abbrev": "",
+        "english": "Romanian BTF Bible",
+        "english_abbrev": "BTF"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=ronbtf"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ronbtf"
+    },
+    "ids": {
+        "ebible": "ronbtf"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ronbtf_usfm.zip",
+        "updated": "2024-04-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "PULU YEMONGA UNGU KONDEMO",
+        "local_abbrev": "",
+        "english": "Umbu-Ungu Andelale New Testament",
+        "english_abbrev": "AND"
+    },
+    "year": 1998,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1998 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ubu-andelale"
+    },
+    "ids": {
+        "ebible": "ubu-andelale"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ubu-andelale_usfm.zip",
+        "updated": "2012-10-04",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

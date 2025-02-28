@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Riveduta Bibbia",
+        "local_abbrev": "",
+        "english": "Riveduta Bible",
+        "english_abbrev": "RB"
+    },
+    "year": 1927,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=ita1927"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ita1927"
+    },
+    "ids": {
+        "ebible": "ita1927"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ita1927_usfm.zip",
+        "updated": "2019-12-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

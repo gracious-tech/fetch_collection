@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Відкрита Новий Переклад Українською",
+        "local_abbrev": "ВНПУ",
+        "english": "Open New Ukrainian Translation",
+        "english_abbrev": "ONUT"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=6c696cd1d82e2723"
+    },
+    "ids": {
+        "dbl": "6c696cd1d82e2723",
+        "ebible": "ukronpu"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=6c696cd1d82e2723&type=release",
+        "updated": "2024-05-02",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

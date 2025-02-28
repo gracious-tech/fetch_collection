@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="2.6">
+  <book code="REV" style="id">- Maale Project</book>
+  <para style="h">ዮሓኒሴም ፆኦሲ ፔጋሲ ዻዌ ባኮ</para>
+  <para style="toc3">ዮሓ. ፆፔዻ</para>
+  <para style="toc2">ዮሓኒሴም ፆኦሲ ፔጋሲ ዻዌ ባኮ</para>
+  <para style="toc1">ዮሓኒሴም ፆኦሲ ፔጋሲ ዻዌ ባኮ</para>
+  <para style="mt">ዮሓኒሴም ፆኦሲ ፔጋሲ ዻዌ ባኮ</para>
+  <para style="imt">ዓይፆ ካሮ''</para>
+  <para style="ip">ዮሓኒሴም ፆኦሲ ፔጋሲ ዻዌ ባካ ፃኣፒንቴሢ ኪሪስቶሴ ጉሙርቃዞንሢ፡ ዬሱስ ኪሪስቶሴ ፔኤኮ ጎዳ ማሂ ሃሣ ፆኦሲም ዱማዼያ ማዒ ናንጋሢሮ ዒፂንቲ ዳኪንቲ፥ ዔያታ ሜታዻ ዎዶ''ናኬ፤ ፃኣፔ ዓሢኮ ዼኤፖ ማሊፃ' ናባባ ዓሶኮ ሃጊ ማዓንዳ ዎዛ'' ጎኔ ዎዛ ማዓንዳጉዲ ዶዲሻኒና ዔያቶ ሄሌ'' ዒፂንቲ ዳኪንቲፆ ሜታሢዳ ዔያታ ፆኦሲ ጉሙርቂፆና ዶዳንዳጉዲኬ።</para>
+  <para style="ip">ማፃኣፔሎኮ ባሼሢ፡ ሚርጌ ሃሣ ዎሊ ሄሊ'' ሄሊ'' ዓኣ ባካ ዮሓኒሴም ፆኦሲ ፔጋሲ ዻዌ ባኮ ኬኤዛያ ማዓዛ ዬንሢ፥ ዮሓኒሴም ፆኦሲ ፔጋሲ ዻዌ ባኮንሢ ዬኖ ዎዶ''ና ዓኣ ኪሪስቶሴ ጉሙርቃ ዓሶ ማኣዳ''ኒ ዳንዳዓያ፥ ሜሌ'' ዓሶም ጋዓንቴ ዓኣሺንቴ ባኣዚ'' ማዒ ማሊሲ ጌስቶናያኬ። ዓይኑሞኮ ላሚ ላሚ ጌይንታ ማሊፆጉዲ ሓኖ'' ማፃኣፖኮ ጌሊፆ ካራ'' ካራ'' ጉቤ ዱማ ዱማ ፆኦሲ ዮሓኒሴም ፔጋሲ ዻዌ ባካ ዱማ ዱማ ጎይሢና ላሚ ላሚ ኬኤዚንቴኔ፤ ማፃኣፔሎኮ ቡሊ''ፆይዳ ዱማ ዱማ ማሊሢ ዓኣያታቴያ ዼኤፖ ማሊፃ ጋዓንቴ ዔርቴያኬ፤ ዬይያ «ጎዳ ማዔ፥ ኪሪስቶሴ ዛሎ''ና ፆኦሲ ላሚሱዋ ጎይሢ ፔቴ''ና ፃላሄንታ ቃሲ'' ሜሌ'' ሞርኮዋ ቢያ ባሻንዳኔ፤ ዒ ባሼ ዎዶ''ና ዒዛም ጉሙርቂንታያ ማዔ፥ ዒጊኖንሢም ዓኪ ጫሪንቺና ዓኪ ሳዓናኮ ዓንጆ ዔያቶም ዒንጋንዳኔ» ጋዓያኬ።</para>
+  <para style="iot">ማፃኣፔላ ዱማ ዱማ ዓርቄ ባኮ</para>
+  <para style="io">ዓይፆ ካሮ'' 1፥1-8</para>
+  <para style="io">ላንካዎ ሺኢጲፆ ማኣሮም ዳኪንቴ ኪኢቶ'' 1፥9—3፥22</para>
+  <para style="io">ላንካዎ ዔርዛ ማላቶና ማሪንቴ ማፃኣፖ 4፥1—8፥1</para>
+  <para style="io">ላንካዎ ዛያሢ ዛሎ'' 8፥2—11፥19</para>
+  <para style="io">ዼኤፖ ሾኦዣሢና ላምዖ ቦዖንሢና ዛሎ'' 12፥1—13፥18</para>
+  <para style="io">ፆኦሲ ዮሓኒሴም ፔጋሲ ዻዌ ዱማ ዱማ ባኮ 14፥1—15፥8</para>
+  <para style="io">ላንካዎ ፆኦሲኮ ጎሪ''ንቶ ዑዦ 16፥1-21</para>
+  <para style="io">ባብሎኔኮ ባይሲንቶ፤ ሃሣ ቦዖንታ ሉኡዙሞና ፆኦሲ ማሊፆ ኬኤዛያ ማላ ዓሶንታ ፃላሄንታኮ ባሺንቲፆ 17፥1—20፥10</para>
+  <para style="io">ጋፒንፆ ዎጎ 20፥11-15</para>
+  <para style="io">ዓኮ ጫሪንጮንታ ዓኮ ሳዖንታ ዓኮ ዬሩሳላሜ ካታሜሎንታ ዛሎ'' 21፥1—22፥5</para>
+  <para style="io">ጋፒንሢ ማሊሢ 22፥6-21</para>
+  <chapter number="1" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>ሓይ ዮሓኒሴም ፆኦሲ ፔጋሲ ዻዌ ባካ፦ ዑኬ ማዓንዳ ባኮ ፆኦሲ ፔኤም ማዻዞንሢም ዻዋንዳጉዲ ዬሱስ ኪሪስቶሴም ዻዌያኬ፤ ዬሱስ ኪሪስቶሴያ ፔ ኪኢታንቻሢ ዳኪ ዒዛም ማዻ ዮሓኒሴም ሃያ ባኮ ፔጋሲ ዻዌኔ። <verse number="2" style="v"/>ዮሓኒሴያ ፆኦሲ ቃኣሎ''ና ዬሱስ ኪሪስቶሴ ማርካዼ ባኮ ዛሎ'' ቢያ፤ ሓሣ ዒ ዛጌ ባኮዋ ቢያ ፔኤሮ ማርካዺ ኬኤዜኔ። <verse number="3" style="v"/>ዬይ ቢያ ማዓንዳሢ ዑኬ ዎዴይዳታሢሮ ሃኖ' ፆኦሲ ማሊፆ ኬኤዛ ማፃኣፖ ናባባ ዓሢ ዓንጆ ዎዛ ዴንቃንዳኔ፤ ዬያጉዲ ኬኤዚንቴ ፆኦሲ ማሊፆ ዋይዛዞንሢና ፃኣፒንቴሢ ኩንሣሢ ቢያ ዓንጆ ዎዛ ዴንቃንዳኔ።</para>
+  <para style="s">ዒሲያ ዓጫ'' ዓኣ ላንካዎ ሺኢጲፆ ማኣሮንሢም ዳኪንቴ ሳራሥሢ</para>
+  <para style="p">
+    <verse number="4-5" style="v"/>ዒሲያይዳ ዓኣ፥ ላንካዎ ሺኢጲፆ ማኣሮ ዓሶም ዮሓኒሴይዳፓ ዳኪንቴ ሳራሥሢ፦</para>
+  <para style="p">ሓሢ ዓኣሢ፥ ሚናፓ ናንጋሢና ሃጊ ሙካንዳ ፆኦሲዳፓ፥ ፆኦሲ ካኣቱሞ ዖይቶ ቤርታ ዓኣ ላንካዎ ዓያኖንሢዳፓ፤ ሃሣ ጉሙርቂንታያ ማዔሢዳፓ፥ ሓይቢፓ ዔቂፆና ኮይሪ ማዔሢዳፓ፥ ዓጮ'' ካኣቶ'' ዎይሣያ ማዔ፥ ዬሱስ ኪሪስቶሴይዳፓ ኮሹሞና ዎዛና ዒንሢም ማዖንጎ።</para>
+  <para style="p">ኑና ናሽኬሢም፥ ፔ ሱጉፆና ሻንቂ ጎማፓ ኑና ጌኤሼሢም፥ <note caller="-" style="x"><char style="xo" closed="false">1፥4 </char><char style="xt" closed="false"><ref loc="EXO 3:14">ኬሲ. ማፃ 3፥14</ref>፤ <ref loc="REV 4:5">ዮሓ. ፆፔዻ 4፥5</ref>።</char></note> <note caller="-" style="x"><char style="xo" closed="false">1፥4 </char><char style="xt" closed="false"><ref loc="ISA 55:4">ዒሲ. 55፥4</ref>፤ <ref loc="PSA 89:27">ዓይኑ. 89፥27</ref>።</char></note> <verse number="6" style="v"/>ዒዛኮ ዓዳሢ ማዔ፥ ፆኦዛሢም ኑኡኒ ቄኤሴ ማዒ ማዻንዳጉዲ ካኣቱሞ ኑም ዒንጌ፥ ዬሱስ ኪሪስቶሴም ቦንቾና ዎልቄና ናንጊና ማዖንጎ፤ ዓኣሜን። <note caller="-" style="x"><char style="xo" closed="false">1፥6 </char><char style="xt" closed="false"><ref loc="EXO 19:6">ኬሲ. ማፃ 19፥6</ref>፤ <ref loc="REV 5:10">ዮሓ. ፆፔዻ 5፥10</ref>።</char></note></para>
+  <para style="q">
+    <verse number="7" style="v"/>ዒዚ ሻኣሬና ሙካንዳኔ፤</para>
+  <para style="q2">ዒዛ ጫርጌ ዓሳኣ ዓቱዋዖ ዓሲ ቢያ ዒዛ ዛጋንዳኔ፤</para>
+  <para style="q2">ሳዖይዳ ዓኣ ዴራ'' ቢያ ዒዛ ዛሎ''ና ዬኤካንዳኔ፤</para>
+  <para style="q">ሂዮ! ዬይ ባካ ቢያ ጎኔ ማዓንዳኔ፤ ዓኣሜን። <note caller="-" style="x"><char style="xo" closed="false">1፥7 </char><char style="xt" closed="false"><ref loc="DAN 7:13">ዳኣኔ. 7፥13</ref>፤ <ref loc="MAT 24:30">ማቲ. 24፥30</ref>፤ <ref loc="MRK 13:26">ማር. 13፥26</ref>፤ <ref loc="LUK 21:27">ሉቃ. 21፥27</ref>፤ <ref loc="1TH 4:17">1ቴስ. 4፥17</ref>፤ <ref loc="ZEC 12:10">ዛካ. 12፥10</ref>፤ <ref loc="JHN 19:34">ዮሓ. 19፥34</ref>።</char></note></para>
+  <para style="p">
+    <verse number="8" style="v"/>«ሓሢ ዓኣሢንታ ሚናፓ ናንጋሢ ሃሣ ሓጊያ ሙካንዳሢ፥ ቢያ ባኣዚ'' ዳንዳዓ ጎዳ ማዔ ፆኦሲ ዔኤቢ ቢያ ዓርቃሢና ጋፒሳሢና ታናኬ» ጋዓኔ። <note caller="-" style="x"><char style="xo" closed="false">1፥8 </char><char style="xt" closed="false"><ref loc="REV 22:13">ዮሓ. ፆፔዻ 22፥13</ref>፤ <ref loc="EXO 3:14">ኬሲ. ማፃ 3፥14</ref>።</char></note></para>
+  <para style="s">ኪሪስቶሴኮ ፔጋዺ ጴዺፆ</para>
+  <para style="p">
+    <verse number="9" style="v"/>ታኣኒ ዒንሢኮ ዒሻሢ ማዔሢ፥ ዒንሢና ዎላ'' ኪሪስቶሴኮ ሜታሢና ዓኣ ካኣቱሞና ሃሣ ጊቢ'' ዳንዳዒፆና ዴንቃያ ማዔ፥ ዮሓኒሴ ፆኦሲ ቃኣሎ''ና ዬሱሴ ዛሎ''ናሮ ማርካዻሢሮ ፒፂሞ ጌይንታ ዋኣፆ ሳዛ'' ዓኣ ዓጬሎይዳ ቱኡቲ ዓኣዖ፦ <verse number="10" style="v"/>ጎዳ ኬሎ''ና<note caller="+" style="f"><char style="fr">1፥10</char> <char style="fk">ጎዳ ኬሎ''ና፦</char> ጌይፃ ጎዳ ሓይባ''ፓ ዔቄ ኬሎ''ኬ፤ ሃሣ ኪሪስቶሴ ጉሙርቃ ዓሳኣ ካኣዦ ካኣሽካ ኬሎ''ኬ።</note> ዓያና ጌኤሺኮ ዎልቆ ጋሮ ጌሊ ታ ዓኣንቴ ዛዬ ዑኡሲጉዴ ዼኤፒ ዑኡሲ ታኣኮ ጊንሢና፦ <verse number="11" style="v"/>«ኔ ዛጋ ባኮ ማፃኣፔይዳ ፃኣፒ ላንካዎ ሺኢጲፆ ማኣሮም ጌይፃ፦ ዔፕሶኔም፥ ሴሜርኔሴም፥ ጴርጋሞኔም፥ ቲያፂሮኔም፥ ሴርዴሴም፥ ፒላዴልፒያና ሎዶቂያናም ዳኬ» ጋዓንቴ ታ ዋይዜኔ።</para>
+  <para style="p">
+    <verse number="12" style="v"/>ዬያ ታኣም ዖ ኬኤዛቴያ ዔራኒ ጊንሢም ታ ሺሬኔ፤ ዬማና ላንካይ ዎርቄፓ ኮሾ''ና ፖዒ ጌሦ ሻርና ታ ዴንቄኔ፤ <verse number="13" style="v"/>ዬንሢ ሻርኖ ባኣካ'' ዓሲ ናዓሢ ማላ ዓሲ ታ ዴንቄኔ፤ ዒዚያ ቶኮ ሄላ'' ዖዶሲ ማኣዖ ማይንቴያ፥ ዳዶ''ይዳ ዎርቄይዳፓ ኮሺ''ንቴ ቃልሾ ቱኪ'' ዓኣኔ። <note caller="-" style="x"><char style="xo" closed="false">1፥13 </char><char style="xt" closed="false"><ref loc="DAN 7:13">ዳኣኔ. 7፥13</ref>፤ <ref loc="DAN 10:5">10፥5</ref>።</char></note> <verse number="14" style="v"/>ዒዛኮ ቶኦኮ''ንታ ቶኦኮ'' ጋፓኖንታ ቦኦሬ ማራይ ጋፓኔጉዴያ ሃሣ ሻቺጉዲ ቦኦሬኬ፤ ዓኣፓኣ ዔኤታ ታሚጉዲኬ፤ <note caller="-" style="x"><char style="xo" closed="false">1፥14 </char><char style="xt" closed="false"><ref loc="DAN 7:9">ዳኣኔ. 7፥9</ref>፤ <ref loc="DAN 10:6">10፥6</ref>።</char></note> <verse number="15" style="v"/>ቶካ ጊንሣ ታሚዳ ዓጊ፥ ጊልፒ ዞቂሶና ዓንጊ ማላያኬ፤ ዑኡዛ ሃሣ ዼኤፒ ሶኦሪንታ ዋኣሢ ጉኡማያጉዲኬ። <note caller="-" style="x"><char style="xo" closed="false">1፥15 </char><char style="xt" closed="false"><ref loc="EZK 1:24">ሂዚ. 1፥24</ref>፤ <ref loc="EZK 43:2">43፥2</ref>።</char></note> <verse number="16" style="v"/>ሚዛቆ ኩጮይዳ ዒዚ ላንካይ ዦኦጌ ዓርቂ ዓኣኔ፤ ዻንጋፓ ዒዛኮ ቢያ ዛላ'' ዓጬ ማዔ፥ ጬንቻ ዓፓሮ ኬስካኔ፤ ሃሣ ዒዛኮ ዓኣፖ ካራ'' ሚርጌና ፖዓ ዓቢጉዲ ፖዓያኬ። <verse number="17" style="v"/>ዬያ ታ ዛጋዖ ዶሊንቲ፥ ቶኮ ዴማ'' ዒዛኮ ሎኦማዛ ዒዚ ጋዓንቴ ሚዛቆ ኩጮ ታ ዑፃ ጌሣዖ፦ «ዒጊጪፖ፤ ዔኤቢ ቢያ ዓርቃሢና ጋፒሳሢና ታናኬ፤ <note caller="-" style="x"><char style="xo" closed="false">1፥17 </char><char style="xt" closed="false"><ref loc="ISA 44:6">ዒሲ. 44፥6</ref>፤ <ref loc="ISA 48:12">48፥12</ref>፤ <ref loc="REV 2:8">ዮሓ. ፆፔዻ 2፥8</ref>፤ <ref loc="REV 22:13">22፥13</ref>።</char></note> <verse number="18" style="v"/>ሼምፔና ታ ናንጋያኬ፤ ሓያኮ ቤርታ ታ ሓይቄኔ፤ ጋዓንቴ ሓይሾ ታኣኒ ናንጊና ሓይቁዋዖ ናንጋያ ማዔኔ፤ ሓይቢና ሓይቄ ዓሳ ዴዓ ቤዞናይዳ ቢታንቶ ታኣኮ ዓኣኔ» ታኣም ጌዔኔ። <verse number="19" style="v"/>ሓሣ ዒ ኬኤዛዖ፦ «ዓካሪ ኔ ዛጌሢና ሃሢ ዓኣ ባኮና ሃጊ ማዺንታንዳ ባኮና ፃኣፔ፤ <verse number="20" style="v"/>ታኣኮ ሚዛቆ ኩጫ ኔ ዛጌ፥ ላንካዎ ዦኦጎንሢና ፖዖ ጌሦ ላንካዎ ዎርቆ ሻርኖንሢኮ ዓኣሺንቴ ማሊፃ ያዺኬ፤ ላንካዎ ዦኦጎንሢ፦ ላንካዎ ሺኢጲፆ ማኣሮኮ ኪኢታንቾኬ፤ ላንካዎ ፖዖ ጌሦ ሻርኖንሢ፦ ላንካዎ ሺኢጲፆ ማኣሮኬ» ጌዔኔ።</para>
+  <chapter number="2" style="c"/>
+  <para style="s">ዔፕሶኔ ሺኢጲፆ ማኣሮም ኬኤዚንቴ ባኣዚ''</para>
+  <para style="p">
+    <verse number="1" style="v"/>ሓሣ ኬኤዛዖ፦ «ዔፕሶኔ ሺኢጲፆ ማኣሮ ኪኢታንቻሢም ሂዚ ጌይ ፃኣፔ፤</para>
+  <para style="p">«ሓይ፡ ላንካዎ ዦኦጋሢ ፔኤኮ ሚዛቆ ኩጫ ዓርቄሢና ላንካዎ ዎርቆ ሻርኖ ባኣኮ''ይዳ ሃንታ ዓሢ ኬኤዜያኬ፤ <verse number="2" style="v"/>ኔኤኮ ማዾ''፥ ዶዲ ኔ ማዻ ማዾ'' ሃሣ ጊቢ'' ዳንዳዒፆዋ ታ ኔኤሲ'' ዔራኔ፤ ፑርቶ ዓሶ ዛጊ ኔ ዚቲ ጌይባኣሢ፤ ሃሣ ፆኦሲ ማዾ''ም ዳኪንቲባኣያታዖ ‹ኑ ዳኪንቴያኬ› ፔና ጋዓዞንሢ ዛጊ ዱማሲ ሉኡዚ ዔያታ ማዔሢ ኔ ዔሬሢያ ታ ዔራኔ። <verse number="3" style="v"/>ዬያጉዲ ጊቢ'' ዳንዳዒ፥ ኔኤኮ ዶዲፆና ታ ሱ'ንፆሮ ቤልፃዹዋዖ ዶዲ ሜታሢ ኔ ዔኬሢ ታ ዔራኔ። <verse number="4" style="v"/>ጋዓንቴ ፔቴ'' ታ ኔኤኮ ቦሃ ባኣዚ'' ዓኣኔ፤ ዬና ዓይጎዳይ ጌዔቴ ኔኤኮ ቤርታኣ ናሹሞ ኔ ሃሼ''ኔ፤ <verse number="5" style="v"/>ዓካሪ ኔ ሓኣዒ ሎኦማንዳሢኮ ቤርታ ዎካ ኔ ዓኣቴያ ማሊ ጶቂሤ፥ ጎሞዋ ኔኤኮ ቡኡፄ፤ ቤርታ ማዻሢጉዲ ማዼ፤ ዬያ ቢያ ኔ ማዺባኣቴ ታ ኔ ኮይላ'' ሙካንዳኔ፤ ጎሞዋ ኔ ቡኡፂባኣቴ ፖዖ ጌሦ ሻርኖ ቤዛፓ ታ ኔኤኮ ሺኢሻንዳኔ። <verse number="6" style="v"/>ጋዓንቴ ታ ኔና ሄርሻ ፔቴ'' ባኣዚ'' ዓኣኔ፤ ዬና፦ ታኣኒ ዒፃ፥ ኒቆላ ዓሶኮ ማዾ'' ኔኤኒያ ዒፄሢኬ።</para>
+  <para style="p">
+    <verse number="7" style="v"/>«ሺኢጲፆ ማኣሮ ዓሶም ዓያና'' ጋዓ ባኮ ዋይዛ ዋይዚ ዓኣሢ ዋይዞንጎ! ዖሎና ባሼሢ፡ ፆኦሲ ኮሼ''፥ ኮዦ ቤዛ ዓኣ ሼምፖ ዒንጋ ሚፃሢ ዓኣፖ ታ ሙኡዛንዳኔ።» <note caller="-" style="x"><char style="xo" closed="false">2፥7 </char><char style="xt" closed="false"><ref loc="GEN 2:9">ማዢ. ማፃ 2፥9</ref>፤ <ref loc="EZK 28:13">ሂዚ. 28፥13</ref>፤ <ref loc="EZK 31:8">31፥8</ref>።</char></note></para>
+  <para style="s">ሴሜርኔሴ ሺኢጲፆ ማኣሮም ኬኤዚንቴ ባኣዚ''</para>
+  <para style="p">
+    <verse number="8" style="v"/>ሃሣ ዒዚ ኬኤዛዖ፦ «ሴሜርኔሴ ሺኢጲፆ ማኣሮ ኪኢታንቻሢም ሂዚ ጌዒ ፃኣፔ፤ <note caller="-" style="x"><char style="xo" closed="false">2፥8 </char><char style="xt" closed="false"><ref loc="ISA 44:6">ዒሲ. 44፥6</ref>፤ <ref loc="ISA 48:12">48፥12</ref>፤ <ref loc="REV 1:17">ዮሓ. ፆፔዻ 1፥17</ref>፤ <ref loc="REV 22:13">22፥13</ref>።</char></note></para>
+  <para style="p">«ሓይ፡ ዓይፃሢና ጋፒንፃሢና ማዔያ ሃሣ ሃይቄዖዋ ሼምፖና ዓኣያ ማዔሢ ኬኤዜያኬ፤ <verse number="9" style="v"/>ኔኤኮ ሜታሢና ማንቃቶና ታ ዔራኔ፤ ያዺ ማዔቴያ ኔ ዖርጎቺኬ፤ ዓይሁዴ ዓሲቱዋዖ ‹ኑ ዓይሁዴኬ› ፔና ጋዓ ዓሶንታ ፃላሄ ዓሲ ማዔ ዓሶንታ ሱ'ንፆ ኔኤኮ ፑርቲሳሢ ታ ዔራኔ፤ <verse number="10" style="v"/>ኔና ሄላ''ንዳ ሜታሢ ዒጊጪፖ፤ ሓኣዛጉዋቴ፡ ፃላሄ ዒንሢ ዎይታቴያ ዛጋኒ ዒንሢዳፓ ፔቴ'' ፔቴ'' ዓሶ ቱኡሲ ማኣሪ ጌልዚ ቱኪ''ሴም፥ ታጶ ኬሊ'' ዒንሢ ሜታዻንዳኔ፤ ጋዓንቴ ሓይቢ ሄላ''ንዳኣና ጉሙርቂንታያ ማዔ፤ ቦንቺ ዒንጎ ባኣዚ'' ማሂ ዒንጊንታ ናንጎ ታ ኔኤም ዒንጋንዳኔ።</para>
+  <para style="p">
+    <verse number="11" style="v"/>«ሺኢጲፆ ማኣሮም ዓያና'' ጋዓ ባኮ ዋይዛ ዋይዚ ዓኣሢ ዋይዞንጎ! ዖሎና ባሼሢ፡ ላምዓሳ ሓይባ'' ዎኦታንዳ ባኣዚ'' ባኣሴ» ጌዔኔ። <note caller="-" style="x"><char style="xo" closed="false">2፥11 </char><char style="xt" closed="false"><ref loc="REV 20:14">ዮሓ. ፆፔዻ 20፥14</ref>፤ <ref loc="REV 21:8">21፥8</ref>።</char></note></para>
+  <para style="s">ጴርጋሞኔ ሺኢጲፆ ማኣሮም ኬኤዚንቴ ባኣዚ''</para>
+  <para style="p">
+    <verse number="12" style="v"/>ሓሣ ዒ ኬኤዛዖ፦ «ጴርጋሞኔ ሺኢጲፆ ማኣሮ ኪኢታንቻሢም ሂዚ ጌዒ ፃኣፔ፤</para>
+  <para style="p">«ሓይ፡ ላምዖ ዛላ'' ዋርቂንቴ ጬንቾ ዓፓሮ ዓርቄሢ ኬኤዜያኬ፤ <verse number="13" style="v"/>ኔኤኒ ፃላሄኮ ካኣቱሞ ዖይታ'' ዓኣ ቤዛ ዓኣሢ ታ ዔራኔ፤ ያዺ ማዔቴያ ታ ሱ'ንፆ ዶዲ ኔ ዓርቄኔ፤ ካኣዦዋ ኔ ሃሺ''ባኣሴ፤ ሃሣ ታኣኮ ጉሙርቂንታ ማርካ ማዔ ዓንቲጳሴ ዬያ ፃላሄ ካኣታዼ፥ ዒንሢ ካታማ ዎዺንቴ ዎዶ''ናታዖ ኔ ታና ጉሙርቂፆ ሃሺ''ባኣሴ። <verse number="14" style="v"/>ያዺ ማዔቴያ ታ ኔኤኮ ቦሃ ፔቴ'' ፔቴ'' ባኣዚ'' ዓኣኔ፤ ዬና ዓይጎዳይ ጌዔቴ ባኣላኣሜ ጎዖሢኮ ዔርዚፆ ዓርቄ ፔቴ'' ፔቴ'' ዓሲ ዒንሢ ባኣካ'' ዓኣኔ፤ ዬይ ባኣላኣሜ ዒስራዔኤሌ ዴራ'' ሜሌ'' ካኣሺም ሹኪንቴ ዓሽኮ ሙዓንዳጉዲና ማቾ ሃሣ ዓኒ ማዒባኣያና ላሂ፥ ዻቢንታንዳጉዲ ማሆም ጌዒ ባኣላኣቄ ጎዖሢ ዒ ዞሬ ዞሮ''ኬ። <note caller="-" style="x"><char style="xo" closed="false">2፥14 </char><char style="xt" closed="false"><ref loc="NUM 22:5">ፓይ. ማፃ 22፥5</ref>፤ <ref loc="NUM 7">7</ref>፤ <ref loc="NUM 31:16">31፥16</ref>፤ <ref loc="DEU 23:4">ላሚ. ዎማ 23፥4</ref>፤ <ref loc="NUM 25:1-3">ፓይ. ማፃ 25፥1-3</ref>።</char></note> <verse number="15" style="v"/>ዬያጉዲ ሃሣ ኒቆላ ዓሶኮ ዔርዚፆ ዓርቄ ዓሲያ ዒንሢ ባኣካ'' ዓኣኔ፤ <verse number="16" style="v"/>ዬያሮ ጎሞ ኔኤኮ ቡኡፄ! ሃንጎ ዑኬና ታ ኔ ኮይላ'' ሙኪ፥ ታ ዻንጋፓ ኬስካ ጬንቾ ዓፓሮና ታ ዔያቶ ጫርጋንዳኔ።</para>
+  <para style="p">
+    <verse number="17" style="v"/>«ሺኢጲፆ ማኣሮም ዓያና'' ጋዓ ባኮ ዋይዛ ዋይዚ ዓኣሢ ዋይዞንጎ! ዖሎና ባሼሢም ዓኣቺ ጌሦና፥ ማና'' ጌይንታ ሙዖ ታ ዒንጋንዳኔ፤ ሃሣ ጊንሣ ዓኪ ሱ'ንሢ ጊዳ'' ፃኣፒንቴ፥ ቦኦሬ ሹቺ ታ ዒዛም ዒንጋንዳኔ፤ ዬኖ ዔኬ ዓሢዳፓ ዓታዛ ሜሌ'' ዖኦኒያ ዬኖ ሱንፄሎ ዔራንዳያ ባኣሴ» ጌዔኔ። <note caller="-" style="x"><char style="xo" closed="false">2፥17 </char><char style="xt" closed="false"><ref loc="EXO 16:14-15">ኬሲ. ማፃ 16፥14-15</ref>፤ <ref loc="EXO 16:33-34">16፥33-34</ref>፤ <ref loc="JHN 6:48-50">ዮሓ. 6፥48-50</ref>፤ <ref loc="ISA 62:2">ዒሲ. 62፥2</ref>፤ <ref loc="ISA 65:15">65፥15</ref>።</char></note></para>
+  <para style="s">ቲያፂሮኔ ሺኢጲፆ ማኣሮም ኬኤዚንቴ ባኣዚ''</para>
+  <para style="p">
+    <verse number="18" style="v"/>ሓሣ ዒ ኬኤዛዖ፦ «ቲያፂሮኔ ሺኢጲፆ ማኣሮ ኪኢታንቻሢም ሂዚ ጌዒ ፃኣፔ፤</para>
+  <para style="p">«ሓይ፡ ዔኤታ'' ታሚ ማላ ዓኣፒ ዓኣያ፤ ሃሣ ታሚዳ ዓጊ፥ ጊልፒ ዞቂሶና ዓንጊ ማላ ቶኪ ዓኣ፥ ፆኦሲ ናዓሢ ኬኤዜያኬ፤ <verse number="19" style="v"/>ታ ኔኤኮ ማዾ''፥ ናሹሞ፥ ጉሙርቂፆ ሃሣ ኔኤኒ ዔኤዒ ማዻ ማዾ''ንታ ጊቢ'' ዳንዳዒ ዶዲፆንታ ዔራኔ፤ ቤርታኣስካፓ ሃሢ ኔ ባሼ ማዻሢያ ታ ዔራኔ። <verse number="20" style="v"/>ጋዓንቴ ፔቴ'' ታ ኔኤኮ ቦሃ ባኣዚ'' ዓኣኔ፤ ዬና፦ ‹ፆኦሲ ማሊሢ ታ ኬኤዛያኬ› ጋዓ ላኣሌሎ፥ ዔልዛቤሎኮ ማዾ'' ኔ ዛጊ ዚቲ ጌዔኔ፤ ዒዛ ጋዓንቴ ታኣም ማዻ ዓሳ ማቾ ሃሣ ዓኒ ማዒባኣያና ላሃንዳጉዲና ሜሌ'' ካኣሺም ሹኪንቴ ዓሽኮ ሙዓንዳጉዲ ዔርዚሢና ዓሶ ዻቢሼኔ። <note caller="-" style="x"><char style="xo" closed="false">2፥20 </char><char style="xt" closed="false"><ref loc="1CH 16:31">1ካኣቶ''. ማ 16፥31</ref>፤ <ref loc="2CH 9:22">2ካኣቶ''. ማ 9፥22</ref>፤ <ref loc="2CH 30">30</ref>።</char></note> <verse number="21" style="v"/>ዒዛ ጎሞ ፔኤኮ ቡኡፃንዳጉዲ ቤሲ ታ ዒዞም ጌሤኔ፤ ዒዛ ጋዓንቴ ጎሞ ፔኤሲ'' ቡኡፃኒ ኮይባኣሴ። <verse number="22" style="v"/>ዬያሮ ሃርጊሺ ታ ዒዞ ላይሣንዳኔ፤ ዒዞና ዎላ'' ማዼ ፑርቶ ማዾ'' ቡኡፂ ሃሺ''ባኣቴ ዒዞና ዎላ'' ላሄ ዓሶ ቢያሢዳ ዼኤፒ ሜቶ ታ ዔኪ ዬዓንዳኔ፤ <verse number="23" style="v"/>ዒዞና ዎላ'' ዬያ ማዻ ዓሶ ታ ዎዻንዳኔ፤ ሺኢጲፆ ማኣሮ ዓሳ ቢያ ዓሲኮ ዒኔ ማሊሢ ጋፒሲ ዛጊ ታኣኒ ዔራያ ማዔሢ ዔራንዳኔ፤ ዒንሢ ፔቴ'' ፔቴ''ሢም ዒንሢኮ ማዾ'' ጎይፆ ታ ዒንጋንዳኔ።</para>
+  <para style="p">
+    <verse number="24" style="v"/>«ዒንሢ፡ ቲያፂሮኔይዳ ዓኣያታዖ ሓያ ፑርቶ ዔርዚፆ ዔኪ ባኣዞንሢም ቢያ ዬያጉዲ ፔቴ'' ፔቴ''ዞንሢ ‹ፃላሄኮ ሃይ ዓኣሺንቴ ማሊሢኬ› ጋዓ ማሊፆይዳ ጌሊባኣዞንሢም፥ ሜሌ'' ዴኤሢ ዓይሥሢ ታ ዒንሢም ዓይሣዓኬ፤ <verse number="25" style="v"/>ጋዓንቴ ታኣኒ ሙካዳንያ ሄላ''ንዳኣና ዒንሢኮ ዓኣ ጉሙርቂፆ ዶዲሺ ዓርቁዋቴ ታ ጋዓኔ። <verse number="26" style="v"/>ዖሎና ባሼሢና ታኣኮ ማዾ'' ጋፒንሢ ሄሊ''ሲ ዶዲ ማዼሢም ሜሌ'' ዴሮ'' ዑፃ ቢታንቶ ታ ዒንጋንዳኔ፤</para>
+  <para style="q">
+    <verse number="27" style="v"/>‹ዒዚ ዔያቶ ሄ'ርቂ ዎይሣንዳኔ፤</para>
+  <para style="q2">ዓጪና ማዦና ሜሄጉዲ ዎዺ ዒ ጋኣጫንዳኔ›</para>
+  <para style="q">ዬይ ቢታንታ ታኣኒ ታ ዓዶይዳፓ ዔኬ ጎይፆጉዴያኬ፤</para>
+  <para style="p">
+    <verse number="28" style="v"/>«ዒ ባሻያ ማዒፆ ዔርዛኒ ካሪፆ ዦኦጎ ታ ዒዛም ዒንጋንዳኔ።</para>
+  <para style="p">
+    <verse number="29" style="v"/>«ሺኢጲፆ ማኣሮም ዓያና'' ጋዓ ባኮ ዋይዛ ዋይዚ ዓኣሢ ዋይዞንጎ!» ጌዔኔ።</para>
+  <chapter number="3" style="c"/>
+  <para style="s">ሴርዴሴ ሺኢጲፆ ማኣሮም ኬኤዚንቴ ባኣዚ''</para>
+  <para style="p">
+    <verse number="1" style="v"/>ሓሣ ዒ ኬኤዛዖ፦ «ሴርዴሴ ሺኢጲፆ ማኣሮ ኪኢታንቻሢም ሂዚ ጌዒ ፃኣፔ፤</para>
+  <para style="p">«ሓይ፡ ፆኦሲኮ ላንካዎ ዓያኖንሢና ላንካዎ ዦኦጎንሢ ኩጫ ዓርቄሢ ኬኤዜያኬ፤ ማዾ'' ታ ኔኤኮ ዔራኔ፤ ሱ'ንፆና ኔኤኒ ዋሊ''ኬ፤ ጋዓንቴ ኔ ሓይቄያኬ። <verse number="2" style="v"/>ዬያሮ ጴጬ! ኔኤኮ ማዻ'' ታ ፆኦዛሢ ቤርታ ፒዜ ማዔም ታ ዴንቂባኣሢሮ ሓይቃኒ ዑኪ ዓኣ፥ ዓቴ'' ባኮ ኔኤኮ ዶዲሼ። <verse number="3" style="v"/>ዓካሪ፡ ቤርታ ኔ ዎዚጉዴ ዔራቶ ዔኬያታቶዋ ሃሣ ዋይዜያታቶዋ ማሊ ጶቂሢ ካፔ፤ ጎሞዋ ኔኤኮ ቡኡፄ፤ ጋዓንቴ ኔ ጴጪባኣያ ማዔቴ ዉሲጉዲ፥ ኔ ዔሩዋንቴ ታ ሙካንዳኣኬ፤ ዎማ ዎዴ ታ ሙካንዳቴያ ኔ ዔራዓኬ። <note caller="-" style="x"><char style="xo" closed="false">3፥3 </char><char style="xt" closed="false"><ref loc="MAT 24:43-44">ማቲ. 24፥43-44</ref>፤ <ref loc="LUK 12:39-40">ሉቃ. 12፥39-40</ref>፤ <ref loc="REV 16:15">ዮሓ. ፆፔዻ 16፥15</ref>።</char></note> <verse number="4" style="v"/>ጋዓንቴ ፔኤኮ ማኣዓሢ ኪንቂሲባኣ፥ ዻካ'' ዻካ'' ዓሲ ኔኤና ዎላ'' ሴርዴሴይዳ ዓኣኔ፤ ታኣና ዎላ'' ዔያታ ዓኣዻንዳያ ኮይሳያታሢሮ ቦኦሬ ማኣዖ ማይንቲ ታኣና ዎላ'' ዓኣዻንዳኔ። <verse number="5" style="v"/>ዖሎና ባሼሢ' ዔያቶጉዲ ቦኦሬ ዓፒላ ማይንታንዳኔ፤ ሱ'ንፆ ዒዛኮ ታኣኒ ታ ዓዶና ኪኢታንቾናም ዔርዛንዳኔ፤ ናንጊና ናንጋ ዓሶኮ ሱ'ንፃ ፃኣፒንቲ ዓኣ፥ ናንጎ ማፃኣፖይዳፓ ሱ'ንፆ ታ ዒዛኮ ባይዛዓኬ። <note caller="-" style="x"><char style="xo" closed="false">3፥5 </char><char style="xt" closed="false"><ref loc="EXO 32:32-33">ኬሲ. ማፃ 32፥32-33</ref>፤ <ref loc="PSA 69:28">ዓይኑ. 69፥28</ref>፤ <ref loc="REV 20:12">ዮሓ. ፆፔዻ 20፥12</ref>፤ <ref loc="MAT 10:32">ማቲ. 10፥32</ref>፤ <ref loc="LUK 12:8">ሉቃ. 12፥8</ref>።</char></note></para>
+  <para style="p">
+    <verse number="6" style="v"/>«ሺኢጲፆ ማኣሮም ዓያና'' ጋዓ ባኮ ዋይዛ ዋይዚ ዓኣሢ ዋይዞንጎ!» ጌዔኔ።</para>
+  <para style="s">ፒላዴልፒያ ሺኢጲፆ ማኣሮም ኬኤዚንቴ ባኣዚ''</para>
+  <para style="p">
+    <verse number="7" style="v"/>ሓሣ ኬኤዛዖ፦ «ፒላዴልፒያ ሺኢጲፆ ማኣሮ ኪኢታንቻሢም ሂዚ ጌዒ ፃኣፔ፤</para>
+  <para style="p">«ሓይ፡ ፆኦሲም ዱማዼያ ሃሣ ጎኔ ማዔ፥ ካኣቲ ዳውቴ ቁልፖ ኩጫ ዓርቄሢ ኬኤዜያኬ፤ ዒዚ ቡሌ''ሢ ዖኦኒያ ዎዹዋሴ፤ ዒዚ ዎዼሢ ዖኦኒያ ቡሉ''ዋሴ። <note caller="-" style="x"><char style="xo" closed="false">3፥7 </char><char style="xt" closed="false"><ref loc="ISA 22:22">ዒሲ. 22፥22</ref>፤ <ref loc="JOB 12:14">ዒዮ. 12፥14</ref>።</char></note> <verse number="8" style="v"/>ማዾ'' ታ ኔኤኮ ዔራኔ፤ ሓይሾ፡ ዖኦኒያ ዎዻኒ ዳንዳዑዋ ቡሊ''ንቴ ካራ ታ ኔ ቤርታ ጌሤኔ፤ ዎልቃ ኔኤኮ ዻካ'' ማዔሢ ታ ዔራኔ፤ ማዔቴያ ታ ቃኣሎ'' ኔ ካፔኔ፤ ታ ሱ'ንፆዋ ኔ ‹ዔሩዋሴ› ጌይ ሃሺ''ባኣሴ። <note caller="-" style="x"><char style="xo" closed="false">3፥8 </char><char style="xt" closed="false"><ref loc="ISA 49:23">ዒሲ. 49፥23</ref>፤ <ref loc="ISA 60:14">60፥14</ref>፤ <ref loc="ISA 43:4">43፥4</ref>።</char></note> <verse number="9" style="v"/>ዓካሪ፡ ዓይሁዴ ማዒባኣዖ ‹ኑ ዓይሁዴኬ› ጋዓ ዓሶና ፃላሄ ዓሲ ማዔዞንሢና ሃሣ ሉኡቃዞንሢ ሙኪ ኔ ቶኮ ዴማ'' ሎኦሚ ኔኤም ዚጋንዳጉዲ ታ ማሃንዳኔ፤ ታ ኔና ናሽካያታሢ ዔያቶ ታ ዔርዛንዳኔ። <verse number="10" style="v"/>‹ጊቢ'' ዳንዳዓያ ማዔ› ታ ኔኤም ጌዔሢ ኔ ካፔሢሮ ሳዖይዳ ናንጋ ዓሳ ዎይታቴያ ዛጋኒ ጌዒ ዓጮ'' ቢያይዳ ሙካንዳ ሜታሢዳፓ ታ ኔና ካፓንዳኔ። <verse number="11" style="v"/>ታኣኒ ዑኬና ሙካንዳኔ፤ ቦንቺ ኔኤም ዒንጎ ባኮ ዖኦኒያ ኔኤሲ'' ዔኩዋጉዲ ኔኤኮ ዓኣ ባኮ ዶዲሺ ዓርቄ። <verse number="12" style="v"/>ዖሎና ባሼሢ፡ ታ ፆኦዛሢኮ ጌኤዦ ማኣሮይዳ ቱርቱሮ ታ ማሃንዳኔ፤ ዬካፓ ዒ ዓጊፃዓኬ፤ ታ ፆኦዛሢኮ ሱ'ንፆንታ ታ ፆኦዛሢኮ ካታሞ ሱ'ንፆንታ ዒዛይዳ ታ ፃኣፓንዳኔ፤ ዬና ካታሜላ ጫሪንጮ፥ ታ ፆኦዛሢ ኮራፓ ኬዳ''ንዳ ዓኮ ዬሩሳላሜኬ፤ ታኣኮዋ ዓኮ ሱ'ንፆ ዒዛ ዑፃ ታ ፃኣፓንዳኔ። <note caller="-" style="x"><char style="xo" closed="false">3፥12 </char><char style="xt" closed="false"><ref loc="REV 21:2">ዮሓ. ፆፔዻ 21፥2</ref>፤ <ref loc="ISA 62:2">ዒሲ. 62፥2</ref>፤ <ref loc="ISA 65:15">65፥15</ref>።</char></note></para>
+  <para style="p">
+    <verse number="13" style="v"/>«ሺኢጲፆ ማኣሮም ዓያና'' ጋዓ ባኮ ዋይዛ ዋይዚ ዓኣሢ ዋይዞንጎ!» ጌዔኔ።</para>
+  <para style="s">ሎዶቂያ ሺኢጲፆ ማኣሮም ኬኤዚንቴ ባኣዚ''</para>
+  <para style="p">
+    <verse number="14" style="v"/>ሓሣ ዒ ኬኤዛዖ፦ «ሎዶቂያ ሺኢጲፆ ማኣሮ ኪኢታንቻሢም ሂዚ ጌዒ ፃኣፔ፤</para>
+  <para style="p">«ሓይ፡ ጎኔ ማዔያ፥ ጉሙርቂንታያ፥ ጎኔ ማርካ ማዔያ፤ ሃሣ ፆኦሲ ማዢንታ ቢያ ዒዛ ዛሎ''ና ማዔሢ ኬኤዜያኬ፤ <note caller="-" style="x"><char style="xo" closed="false">3፥14 </char><char style="xt" closed="false"><ref loc="JDG 8:22">ሱኡጎ. ማ 8፥22</ref>።</char></note> <verse number="15" style="v"/>ኔኤኮ ማዾ'' ታ ዔራኔ፤ ሺሜታቴ ሺሜ፥ ዖይዺታቴያ ኔ ዖይዺቱዋሴ፤ ኔኤኒ ሺሜ ሃንጎ ዖይዺታቴ ኮሺታዖ ዓቴ''ኔ፤ <verse number="16" style="v"/>ያዺ ኔ ማዑዋዖ ጉሪ ቦልዕ ቦልዕ ጋዓያታሢሮ ዻንጋፓ ታ ኔና ጩታኒኬ፤ <verse number="17" style="v"/>‹ታኣኒ ዖርጎቺኬ፤ ሚርጌ ቆሎ ታኣኮ ዓኣኔ፤ ታኣም ፓጬ፥ ዓይጎ ባኣዚ''ያ ባኣሴ› ኔ ጋዓኔ፤ ጋዓንቴ ኔ ሜታዻያ፥ ማንቃቶና ዓሲኮ ዎልቃ ጌላያ፥ ዔኤቢባኣ ማንቆ፥ ዓኣፒ ባይቄያ፤ ሃሣ ካሎ''ታሢያ ኔ ኔና ዔሩዋሴ፤ <verse number="18" style="v"/>ኔኤኒ ዖርጎጫኒ፡ ታሞይዳ ዓጊንቲ ጎኑማ ዔርቴ ዎርቆንታ ኔኤኮ ቦርሳ ካሉ''ሞ ዓኣቻኒ ቦኦሬ ዓፒላንታ ታ ጊዳ''ፓ ኔ ሻንቃንዳጉዲ፥ ዛጋኒያ ዓኣፖ ቲሽኮ ዼኤሾ ኔ ሻንቂ ቲሽካንዳጉዲ ታ ኔና ዞራኔ። <verse number="19" style="v"/>ታኣኒ ናሽካዞንሢ ቢያ፡ ሜቶ ዒንጊ ጎራ''ኔ፤ ዬያሮ ዶዴ፤ ጎሞዋ ኔኤኮ ቡኡፄ። <note caller="-" style="x"><char style="xo" closed="false">3፥19 </char><char style="xt" closed="false"><ref loc="PRO 3:12">ኮኦኪ. 3፥12</ref>፤ <ref loc="HEB 12:6">ዔብ. 12፥6</ref>።</char></note> <verse number="20" style="v"/>ሓይሾ፡ ታኣኒ ካራ'' ዔቂ ‹ማኣሪ ዓሲዮ› ጌይ ዔኤሊ''ንታኔ፤ ዖኦኒያ ታኣኮ ዑኡዞ ዋይዚ ካሮ'' ታኣም ቡሌ''ቴ ዒዛ ባንሢ ታ ጌሊ ዒዛና ዎላ'' ሙኡዚ'' ሙዓንዳኔ፤ ዒዚያ ታኣና ዎላ'' ሙዓንዳኔ፤ <verse number="21" style="v"/>ታኣኒ ዖሎ ባሺ ታ ዓዶና ዎላ'' ታ ዓዶኮ ካኣቱሞ ዖይታ'' ዴዔሢጉዲ፥ ዖሎ ባሼሢያ ታኣና ዎላ'' ታ ካኣቱሞ ዖይቶይዳ ታ ዴይሣንዳኔ።</para>
+  <para style="p">
+    <verse number="22" style="v"/>«ሺኢጲፆ ማኣሮም ዓያና'' ጋዓ ባኮ ዋይዛ ዋይዚ ዓኣሢ ዋይዞንጎ!» ጌዔኔ።</para>
+  <chapter number="4" style="c"/>
+  <para style="s">ጫሪንጮይዳ ፆኦሲኮ ካኣቱሞ ዖይቶና ዒኢካ ሺኢቂንታ ሺኢጲፆ</para>
+  <para style="p">
+    <verse number="1" style="v"/>ዬካፓ ጫሪንጮይዳ ቡሊ''ንቲ ዓኣ ካራ ታ ዴንቄኔ፤ ዬማና ዛዬ ዑኡሲጉዲ ኬኤዛ ቤርታኣ ዑኡዛሢ፦ «ሓኒ፥ ሃንጋ ኬስኬ፤ ሓይፓ ሴካ፥ ቤርታ ማዓንዳ ባኣዚ'' ታ ኔና ዻዋንዳኔ» ታኣም ጋዓዛ፥ <verse number="2" style="v"/>ቤዞማና ታኣኒ ዓያና ጌኤሺ ማሊሢዳ ጌሌኔ፤ ዓካሪ ዒማ''ና ጫሪንጮይዳ ካኣታ'' ዴዓ ዖይታ ጌሢንቲ ዓኣንቴ ታ ዴንቄኔ፤ <verse number="3" style="v"/>ዬኖ ዖይቶይዳ ዴዒ ዓኣሢኮ ዓውካራ ሚርጌ ሚዛጳ ዒያስጲዴና ሴርዲኖኔ ጌይንታ ሹጮ ዑፆ ማላያኬ፤ ካኣቱሞ ዖይቶኮ ኮይላ'' ሜሬጊዴ ጌይንታ ሹጮ ዑፆ ማላ ሚዛጲ ዡኡሎ ዓኣኔ። <note caller="-" style="x"><char style="xo" closed="false">4፥3 </char><char style="xt" closed="false"><ref loc="EZK 1:26-28">ሂዚ. 1፥26-28</ref>፤ <ref loc="EZK 10:1">10፥1</ref>።</char></note> <verse number="4" style="v"/>ዬያጉዲ ሃሣ ካኣቱሞ ዖይቶ ኮይላ'' ሜሌ'' ላማታሚ'' ዖይዶ ካኣቱሞ ዖይታ ዓኣኔ፤ ዬንሢ ዖይቶንሢዳ ቦኦሬ ማኣዖ ማይንቴያ ሃሣ ቶኦኮ''ይዳኣ ዎርቄፓ ኮሾ''ና ቦንቾም ዓጎ ባኮ ዓጌ ላማታሚ'' ዖይዶ ጋርቺ ዴዒ ዓኣኔ። <verse number="5" style="v"/>ካኣቱሞ ዖይታሢዳፓ ዜኤሊንሢና ዑኡሲና ሃሣ ጉጉንሢያ ኬስኬኔ፤ ሃሣ ዬያ ዖይታሢኮ ቤርታ ፖዒ ፖዓ ላንካይ ፆምፔ ዓኣኔ፤ ዬያታ ላንካዎ ፆኦሲ ዓያኖንሢኬ። <note caller="-" style="x"><char style="xo" closed="false">4፥5 </char><char style="xt" closed="false"><ref loc="EXO 19:16">ኬሲ. ማፃ 19፥16</ref>፤ <ref loc="REV 8:5">ዮሓ. ፆፔዻ 8፥5</ref>፤ <ref loc="REV 11:19">11፥19</ref>፤ <ref loc="REV 16:18">16፥18</ref>፤ <ref loc="EZK 1:13">ሂዚ. 1፥13</ref>፤ <ref loc="REV 1:4">ዮሓ. ፆፔዻ 1፥4</ref>፤ <ref loc="ZEC 4:2">ዛካ. 4፥2</ref>።</char></note> <verse number="6" style="v"/>ሓሣ ዬያ ዖይታ''ሢ ቤርታ ሌማሌኤሼጉዲ፥ ጌኤሽኪ ጴዻ ባዚ'' ዓኣኔ።</para>
+  <para style="p">ካኣቱሞ ዖይቶ ኮይሎይዳ ዖይዶ ዛላ'' ሚርጌ ዓኣፒ ዓኣ ዖይዶ ዱማ ዱማ ማዢንቲ ዓኣኔ። <verse number="7" style="v"/>ቤርታኣ ባካሢ ዞቢ'' ማላያ፥ ላምዓሳሢ ጌማይ ማላያ፥ ሃይሣሳሢ ጊንሣ ዓሲ ዓኣፒ ካራ ማላ ዓውካሬ ዓኣያኬ፤ ዖይዳሳ፥ ጋፒንፃሢ ባራና ኮኦኬ ማላያኬ። <note caller="-" style="x"><char style="xo" closed="false">4፥7 </char><char style="xt" closed="false"><ref loc="EZK 1:22">ሂዚ. 1፥22</ref>፤ <ref loc="EZK 1:5-10">1፥5-10</ref>፤ <ref loc="EZK 10:14">10፥14</ref>።</char></note> <verse number="8" style="v"/>ዬንሢ ዖይዶ ባኮንሢኮ ላሆ'' ላሆ'' ጋኣሲ ዓኣኔ፤ ዬያቶኮ ዙሎ''ና ጋሮናይዳ ዺቢ ዓኣፒ ዓኣያኬ፤ ዔያታ ዋንቶና ሮኦሮና፦</para>
+  <para style="q">«ፆኦሲም ዱማዼሢዮ! ዱማዼሢዮ! ዱማዼሢዮ!</para>
+  <para style="q2">ቢያ ባኣዚ'' ዳንዳዓ፥ ጎዳ ማዔ ፆኦዛሢዮ!</para>
+  <para style="q2">ሓሢ ዓኣሢና ሚናፓኣ ናንጋሢዮ</para>
+  <para style="q">ሓጊያ ሙካንዳሢዮ!»</para>
+  <para style="m">ጋዓኔ፤ ዬያ ዔያታ ሃሹ''ዋዖ ጋዓኔ። <note caller="-" style="x"><char style="xo" closed="false">4፥8 </char><char style="xt" closed="false"><ref loc="EZK 1:18">ሂዚ. 1፥18</ref>፤ <ref loc="EZK 10:12">10፥12</ref>፤ <ref loc="ISA 6:2-3">ዒሲ. 6፥2-3</ref>።</char></note></para>
+  <para style="p">
+    <verse number="9" style="v"/>ዬንሢ ባኮንሢ ካኣቱሞ ዖይቶይዳ ዴዔሢም፥ ናንጊና ናንጋሢም፤ ቦንቾ፥ ሄርሺሢ፥ ጋላታኣ ሺኢሻ ዎዶ''ና ቢያ፥ <verse number="10" style="v"/>ላማታሞ ዖይዶ ጋርቾንሢ ናንጎና ናንጋሢም፥ ካኣቱሞ ዖይቶይዳ ዴዔሢም ጉምዓቲ ዚጋኔ፤ ዔያቶኮ ቶኦካ'' ዓጎ፥ ቦንቾ ባኮ ካኣቱሞ ዖይቶ ቤርታ ጌሢ፦</para>
+  <para style="q">
+    <verse number="11" style="v"/>«ኑ ጎዳ ማዔ ኑ ፆኦዛሢዮ!</para>
+  <para style="q2">ቢያ ባኣዚ'' ኔ ማዤሢሮ</para>
+  <para style="q">ቢያ ባካ ማዢንቴሢና ማዔሢ፥</para>
+  <para style="q">ኔ ማሊፆና ማዔሢሮ</para>
+  <para style="q2">ቦንቾና ሄርሺሢና ዎልቄያ ኔኤም ኮይሳያኬ»</para>
+  <para style="m">ዔያታ ጋዓኔ።</para>
+  <chapter number="5" style="c"/>
+  <para style="s">ማሪንቴ ማፃኣፖና ማራዓሢና ዛላ</para>
+  <para style="p">
+    <verse number="1" style="v"/>ካኣቱሞ ዖይቶይዳ ዴዔሢኮ ሚዛቆ ኩጫ፡ ጋሮና ዙሎ''ናይዳ ቢያ ፃኣፒንቴያ ሃሣ ላንካይ ዔርዛ ማላታ ዑፃ ዖኦኒያ ቡሉ''ዋጉዲ ዓይሦና ማሪንቴ ማፃኣፔ ታ ዛጌኔ፤ <note caller="-" style="x"><char style="xo" closed="false">5፥1 </char><char style="xt" closed="false"><ref loc="EZK 2:9-10">ሂዚ. 2፥9-10</ref>፤ <ref loc="ISA 29:11">ዒሲ. 29፥11</ref>።</char></note> <verse number="2" style="v"/>ፔቴ'' ዼኤፒ፥ ኪኢታንቾስኬይ ዼ'ጊ ጌዔ ዑኡሲና፦ «ዬንሢ ዔርዛ ማላቶንሢ ቡላ''ኒና ማፃኣፖዋ ቡላ''ኒ ዳንዳዓሢ ዖናዳይ?» ጋዓንቴ ታ ዛጌኔ። <verse number="3" style="v"/>ጋዓንቴ ጫሪንጮይዳ ሳዖይዳ ሃሣ ሳዖኮዋ ዴማ'' ማፃኣፖ ቡሊ'' ጋሮይዳ ዓኣ ባኮ ዛጋኒ ዳንዳዓ ዓሲ ዖኦኒያ ባኣያ ማዔኔ፤ <verse number="4" style="v"/>ማፃኣፓሢ ቡሊ'' ጋሮ ዛጋኒ ዳንዳዓ ዓሲ ጴዺባኣያ ማዔሢ ታ ዴንቄ ዎዶ''ና ሜርጌና ዬኤኬኔ፤ <verse number="5" style="v"/>ዬማና ጋርቾንሢዳፓ ፔቴ''ይ፦ «ዬኤኪፖ፤ ሓኣዛጌ፡ ዪሁዳ ማኣራፓ ማዔ፥ ዞባ''ሢ፥ ዳውቴ ፃጳሢ ዖሎና ባሼያ ማዔሢሮ ዒዚ ማፃኣፓሢና ላንካዎ ‹ቡሎ''ፓ› ጌይንቴ ማላቶንሢ ቡላ''ኒ ዳንዳዓያኬ» ታኣም ጌዔኔ። <note caller="-" style="x"><char style="xo" closed="false">5፥5 </char><char style="xt" closed="false"><ref loc="GEN 49:9">ማዢ. ማፃ 49፥9</ref>፤ <ref loc="ISA 11:1">ዒሲ. 11፥1</ref>፤ <ref loc="ISA 10">10</ref>።</char></note></para>
+  <para style="p">
+    <verse number="6" style="v"/>ዬካፓ ካኣቱሞ ዖይቶና ዖይዶ ባኮንሢናኮ ሓሣ ጪሞንሢኮዋ ባኣካ'' ዎዾናያ ማላ ማራይ ዔቂ ዓኣንቴ ታ ዛጌኔ፤ ዬያ ማራዓሢኮ ላንካይ ጉራኒና ላንካይ ዓኣፒና ዓኣኔ፤ ዬያታ ዓጮ'' ቢያ ዳኪንቴ ላንካዎ ፆኦሲ ዓያኖንሢኬ። <note caller="-" style="x"><char style="xo" closed="false">5፥6 </char><char style="xt" closed="false"><ref loc="ISA 53:7">ዒሲ. 53፥7</ref>፤ <ref loc="ZEC 4:10">ዛካ. 4፥10</ref>።</char></note> <verse number="7" style="v"/>ማራዓሢ ሙኪ ካኣቱሞ ዖይቶይዳ ዴዔሢኮ ሚዛቆ ኩጫ ዓኣ፥ ማፃኣፓሢ ዔኬኔ፤ <verse number="8" style="v"/>ዒዚ ማፃኣፖ ዔካማና ዖይዶ ባኮንሢንታ ላማታሞ ዖይዶ ጪሞንሢንታ ማራዓሢኮ ቤርታ ጉምዓቲ፥ ባሊቶና ሂርኪ ጌዒ ዚጌኔ፤ ዬያታ ፔቴ'' ፔቴ''ሢ ኩጮይዳ ጎኦላ'' ዔኪ ሃሣ ፆኦሲም ዱማዼ ዓሶኮ ሺኢጲፆ ማዔ ዑንጆ ዓርቄያ ዎርቄና ኮሾ''ና ዔቴ ማዔ ዻካ'' ሳኣኔ ዔኪ ዓኣኔ። <note caller="-" style="x"><char style="xo" closed="false">5፥8 </char><char style="xt" closed="false"><ref loc="PSA 141:2">ዓይኑ. 141፥2</ref>።</char></note> <verse number="9" style="v"/>ዔያታ ቤርታ ጌይንቲ ቤቂባኣ ፆኦሲ ቦንቾም ማዓ ዓይኑሞ፦</para>
+  <para style="q">«ማፃኣፓሢ ዔካኒና</para>
+  <para style="q2">‹ቡሎ''ፖ› ጌይንቴ ማላቶንሢያ ቡላ''ኒ</para>
+  <para style="q2">ኔ ዳንዳዓያ ማዔኔ፤</para>
+  <para style="q">ዎይቲ ጌዔቴ ኔኤኒ ዎዺንቴኔ፤</para>
+  <para style="q2">ኔኤኮ ሱጉፆና ዱማ ዱማ ቶኦካ''ፓ</para>
+  <para style="q2">ዱማ ሙኡቺ ጌስታ ዓሶፓ፥ ዜርፃፓ</para>
+  <para style="q2">ሓሣ ዓሲ ቢያ ባኣካ''ፓ ዱማሲ</para>
+  <para style="q2">ዓሶ ፆኦሲም ኔ ጊንሣ ማሂ ሻንቄኔ፤ <note caller="-" style="x"><char style="xo" closed="false">5፥9 </char><char style="xt" closed="false"><ref loc="PSA 33:3">ዓይኑ. 33፥3</ref>፤ <ref loc="PSA 98:1">98፥1</ref>፤ <ref loc="ISA 42:10">ዒሲ. 42፥10</ref>።</char></note></para>
+  <para style="q">
+    <verse number="10" style="v"/>ኑ ፆኦዛሢማኣ ቄኤሴ ማዒ</para>
+  <para style="q2">ዔያታ ማዻንዳጉዲ ኔ ማሄኔ፤</para>
+  <para style="q2">ሳዖይዳኣ ዔያታ ካኣታዻንዳኔ»</para>
+  <para style="m">ጌዒ ጌዒ ዓይናዼኔ። <note caller="-" style="x"><char style="xo" closed="false">5፥10 </char><char style="xt" closed="false"><ref loc="EXO 19:6">ኬሲ. ማፃ 19፥6</ref>፤ <ref loc="REV 1:6">ዮሓ. ፆፔዻ 1፥6</ref>።</char></note></para>
+  <para style="p">
+    <verse number="11" style="v"/>ዬካፓ ሃሣ ታ ዛጋዖ ካኣቱሞ ዖይቶና ዖይዶ ባኮንሢና ጪሞንሢናኮ ኮይላ'' ሚርጌ ኪኢታንቾኮ ዑኡሲ ታ ዋይዜኔ፤ ዬያቶኮ ሚርጉማ ሚርጌ ሺያፓ ዑሣ ሃሣ ፓይዲንታኒያ ዳንዳዒንቱዋያኬ፤ <note caller="-" style="x"><char style="xo" closed="false">5፥11 </char><char style="xt" closed="false"><ref loc="DAN 7:10">ዳኣኔ. 7፥10</ref>።</char></note> <verse number="12" style="v"/>ዬያታ ዼኤፒ ዑኡሲና፦</para>
+  <para style="q">«ዎዺንቴ ማራዓሢም ዎልቄ፥ ቆሎ</para>
+  <para style="q2">ዔራቶ፥ ዶዱሞ፥ ቦንቾንታ ሄርሺሢንታ</para>
+  <para style="q2">ጋላታንታ ኮይሳያኬ» ጌይ ዓይናዼኔ።</para>
+  <para style="p">
+    <verse number="13" style="v"/>ዬካፓ ጫሪንጮና ሳዖናይዳ፥ ሳዖኮዋ ዴማ'' ሓሣ ዼኤፖ ባዞ''ናይዳ፥ ዬያ ባኮ ቢያይዳ ዓኣ ማዢንታ ቢያ፦</para>
+  <para style="q">«ካኣቱሞ ዖይቶይዳ ዴዔሢና ማራዓሢናም</para>
+  <para style="q2">ጋላታ፥ ቦንቾ፥ ሄርሺሢንታ ዎልቄንታ</para>
+  <para style="q2">ናንጊና ማዖንጎ» ጌይ ዓይናዻንቴ ታ ዋይዜኔ።</para>
+  <para style="p">
+    <verse number="14" style="v"/>ዖይዶ ባኮንሢያ «ዓኣሜን» ጌዔኔ፤ ጋርቾንሢ ጊንሣ ባሊቶ ሳዖ ባንሢ ሂርኪዲ ጉምዓቲ ዚጌኔ።</para>
+  <chapter number="6" style="c"/>
+  <para style="s">«ቡሎ''ፖ» ጌይ ዓይሦና ዔርዛ ማላቶንሢኮ ቡሊ''ንቲፆ</para>
+  <para style="p">
+    <verse number="1" style="v"/>ዬካፓ ማራዓሢ ላንካዎ «ቡሎ''ፖ» ጌይ ዓይሦና ዔርዛ ማላቶንሢዳፓ ቤርታሳዞ ቡላ''ንቴ ታ ዛጌኔ፤ ዒማ''ና ዖይዶ ባኮንሢዳፓ ፔቴ''ሢ ጉጉንሢጉዴ ዑኡሲና «ሓኒ ዬዔ!» ጋዓንቴ ታ ዋይዜኔ። <verse number="2" style="v"/>ዒማ''ና ቦኦሬ ፓሮ ታ ዴንቄኔ፤ ዬያ ፓራሢ ዓኣዛ ዓርቄ ዓሲ ቶጊ ዓኣኔ፤ ዒዛም ቦንቾሮ ቶኦካ'' ዓጎ ባካ ዒንጊንቴኔ፤ ዒዚያ ዖሎና ባሻያ ማዒ ባሺ ባሺ ዓኣዻኒ ኬስኬኔ። <note caller="-" style="x"><char style="xo" closed="false">6፥2 </char><char style="xt" closed="false"><ref loc="ZEC 1:8">ዛካ. 1፥8</ref>፤ <ref loc="ZEC 6:3">6፥3</ref>፤ <ref loc="ZEC 6">6</ref>።</char></note></para>
+  <para style="p">
+    <verse number="3" style="v"/>ማራዓሢ ላምዓሳ ዔርዛ ማላቶ ቡሌ'' ዎዶ''ና ላምዓሳ ባካሢ «ሓኒ ዬዔ!» ጋዓንቴ ታ ዋይዜኔ። <verse number="4" style="v"/>ሓሣ ሜሌ'' ሱጉሢጉዲ ዞቄ ፓራ ኬስኬኔ፤ ዬያ ቶጌሢም ሳዖይዳ ኮሺ ናንጊ ባይዛንዳጉዲና ዓሲ ዎሊ ዎዻንዳጉዲ ማሃንዳ ቢታንቶ ዒንጊንቴኔ፤ ዼኤፒ ጬንቻ ዓፓሮዋ ዒዛም ዒንጊንቴኔ። <note caller="-" style="x"><char style="xo" closed="false">6፥4 </char><char style="xt" closed="false"><ref loc="ZEC 1:8">ዛካ. 1፥8</ref>፤ <ref loc="ZEC 6:2">6፥2</ref>።</char></note></para>
+  <para style="p">
+    <verse number="5" style="v"/>ማራዓሢ ሃይሣሳ ዔርዛ ማላቶ ቡሌ'' ዎዶ''ና ሃይሣሳ ባካሢ «ሓኒ ዬዔ!» ጋዓንቴ ታ ዋይዜኔ፤ ዒማ''ና ታ ሃሣ ካርሢ ፓሮ ዴንቄኔ፤ ዬያ ፓራሢ ቶጌሢ ኩጫ ዴኤሡሞ ዔርዛ ባኣዚ'' ዔኪ ዓኣኔ። <note caller="-" style="x"><char style="xo" closed="false">6፥5 </char><char style="xt" closed="false"><ref loc="ZEC 6:2">ዛካ. 6፥2</ref>፤ <ref loc="ZEC 6">6</ref>።</char></note> <verse number="6" style="v"/>ዬካፓ ዖይዶ ባኮንሢ ባኣካ''ፓ ዑኡሲጉዴ ባኣዚ'' ታኣም ዋይዚንቴያ ማሌኔ፤ ዬና ዑኡዛ «ዛላ ኪሎ ማዓ ዛርጌ ፔቴ'' ኬሊ'' ማዾና ማዾ'' ዛላ ዒንጊንታያ፥ ፔቴ'' ኪሎና ዛላና ማዓ ዔልዓ ዬኖ ጎይፆ ፔቴ'' ኬሊ'' ማዾ ማዼም ዒንጊንታያ ማዖም፤ ዛይቶና ዎይናፓ ኮሾ''ና ዑዦና ጋዓንቴ ፑርቲሲ፥ ባይዚፖ» ጋዓንቴ ታ ዋይዜኔ።</para>
+  <para style="p">
+    <verse number="7" style="v"/>ማራዓሢ ዖይዳሳ ዔርዛ ማላቶ ቡሌ'' ዎዶ''ና ዖይዳሳ ባካሢ «ሓኒ ዬዔ!» ጋዓንቴ ታ ዋይዜኔ፤ <verse number="8" style="v"/>ዬማና ጋላፒ ፓሮ ታ ዴንቄኔ፤ ዬያ ቶጊ ዓኣ፥ ዓሢኮ ሱ'ንፃ ሓይቢ ጌይንታያኬ፤ ዒዛኮ ጊንፆ ዓርቂ ሓይቄ ዓሳ ኬዳ'' ቤዛ ሙኪ ሙኪ ዓኣኔ፤ ዔያቶም ሳዖኮ ዛሎ''ኮ ዛሎ'' ዖልዚና፥ ናይዚና፥ ፑርታ ዶርዖና ሃሣ ካይዚ ቦዖና ዎዺሺ ባይዛንዳጉዲ ቢታንቶ ዒንጊንቴኔ። <note caller="-" style="x"><char style="xo" closed="false">6፥8 </char><char style="xt" closed="false"><ref loc="EZK 14:21">ሂዚ. 14፥21</ref>።</char></note></para>
+  <para style="p">
+    <verse number="9" style="v"/>ዶንጋሳ ዔርዛ ማላቶ ዒ ቡሌ'' ዎዶ''ና ፆኦሲ ቃኣሎ''ና ዔያታ ማርካዼ ማርካቶ ዛሎ''ናሮ ጌይ ዎዾና ዓሶኮ ሼምፓሢ ፆኦሲም ዒንጊ ካኣሽኮ ቤዞኮ ዴማ'' ዓኣንቴ ታ ዴንቄኔ፤ <verse number="10" style="v"/>ዔያታ ዼ'ጊ ጌዔ ዑኡሲና፦ «ዱማዼያ ሃሣ ጎኔ ማዔያ፥ ቢያሢኮ ዑፃ ማዔ ጎዳሢዮ! ሳዖይዳ ዓኣ ዓሶይዳ ኔ ዎጉዋኣሢና ኑ ሱጉፆ ዛሎ''ዋ ኮሞ ኔ ዔኩዋኣሢ ዎማ ሄላ''ንዳኣናዳይ!» ጌዒ ጌዒ ዒላታኔ። <verse number="11" style="v"/>ዬካፓ ፔቴ'' ፔቴ''ዞንሢም ቦኦሬ ማኣዓ ዒንጊንቴኔ፤ ሃጊ ዔያቶጉዲ ዎዾንዶ፥ ፆኦሲም ማዻያ ማዔ፥ ዔያቶኮ ላጎ ሃሣ ዒሾንሢ ማዔዞንሢኮ ፓይዳ'' ኩማንዳያ ሄላ''ንዳኣና ዻካ'' ዔያታ ጊቢ'' ዳንዳዒ ዴዓንዳጉዲ ዔያቶም ኬኤዚንቴኔ።</para>
+  <para style="p">
+    <verse number="12" style="v"/>ዬካፓ ማራዓሢ ላሃ''ሳ ዔርዛ ማላቶ ቡላ''ንቴ ታ ዛጌኔ፤ ዬማና ሳዓ ሚርጌና ዓጊፄኔ፤ ዓባ'' ካርሢ ዓፒላጉዲ ካርታዛ ዓጊና ጉቤና ሱጉሢጉዲ ዞቄኔ፤ <note caller="-" style="x"><char style="xo" closed="false">6፥12 </char><char style="xt" closed="false"><ref loc="REV 11:13">ዮሓ. ፆፔዻ 11፥13</ref>፤ <ref loc="REV 16:18">16፥18</ref>፤ <ref loc="ISA 13:10">ዒሲ. 13፥10</ref>፤ <ref loc="JOL 2:10">ዒዩ. 2፥10</ref>፤ <ref loc="JOL 3:15">3፥15</ref>፤ <ref loc="MAT 24:29">ማቲ. 24፥29</ref>፤ <ref loc="MRK 13:24-25">ማር. 13፥24-25</ref>፤ <ref loc="LUK 21:25">ሉቃ. 21፥25</ref>።</char></note> <verse number="13" style="v"/>ዼኤፒ ዢባሬ ቤሌሴ ሚፆ ዓጊሣ ዎዶ''ና ካፂባኣ ዓኣፓ ሚፃፓ ዲኢናሢጉዲ ጫሪንጮ ዦኦጋሢያ ዲኢኔኔ። <note caller="-" style="x"><char style="xo" closed="false">6፥13 </char><char style="xt" closed="false"><ref loc="ISA 34:4">ዒሲ. 34፥4</ref>።</char></note> <verse number="14" style="v"/>ጫሪንጫ፡ ማሪንቴ ማፃኣፖጉዲ ማዒ፥ ማርቲ ዴንዴኔ፤ ሃሣ ዹኮ''ንታ ዋኣፆ ሳዛ'' ዓኣ ዓጫ'' ዓኣ ቤዛፓ ሺኢኪ ባይቄኔ። <note caller="-" style="x"><char style="xo" closed="false">6፥14 </char><char style="xt" closed="false"><ref loc="REV 16:20">ዮሓ. ፆፔዻ 16፥20</ref>።</char></note> <verse number="15" style="v"/>ዓጮ''ኮ ዱማ ዱማ ካኣታ''፥ ዎይሣ ዓሳ፥ ፖኦሊሶ ዓይሣ ዓሳ፥ ዖርጎጮ ዓሳ፥ ዶዶ ዓሳ፥ ዴማ'' ማዒ ማዻ ዓሶንታ ማዺሻ ዓሶንታ ቢያ ዴኖ ባኣካ'' ዓኣ ዔቶና ዹኮ''ና ሃሣ ላሎ ቆኦፖናይዳ ዓኣሺንቴኔ፤ <note caller="-" style="x"><char style="xo" closed="false">6፥15 </char><char style="xt" closed="false"><ref loc="ISA 2:19-21">ዒሲ. 2፥19-21</ref>።</char></note> <verse number="16" style="v"/>ዬካፓ ዹኮ''ና ላሎናም፦ «ኑ ዑፆይዳ ዶዑዋቴ! ካኣቱሞ ዖይቶይዳ ዴዔሢና ማራዓሢናኮ ጎሪ''ንታፓ ኑና ዓኣቹዋቴ! <note caller="-" style="x"><char style="xo" closed="false">6፥16 </char><char style="xt" closed="false"><ref loc="HOS 10:8">ሆሴ. 10፥8</ref>፤ <ref loc="LUK 23:30">ሉቃ. 23፥30</ref>።</char></note> <verse number="17" style="v"/>ዓይጎሮ ጌዔቴ ዼኤፖ ዔያቶኮ ጎሪ''ንቶ ኬላ'' ሙኬሢሮ ዖኦኒ ዬያኮ ቤርታ ዔቃኒ ዳንዳዓንዳይ?» ጌዔኔ። <note caller="-" style="x"><char style="xo" closed="false">6፥17 </char><char style="xt" closed="false"><ref loc="JOL 2:11">ዒዩ. 2፥11</ref>፤ <ref loc="MAL 3:2">ሚል. 3፥2</ref>።</char></note></para>
+  <chapter number="7" style="c"/>
+  <para style="s">144000 ዒስራዔኤሌ ዓሶ</para>
+  <para style="p">
+    <verse number="1" style="v"/>ዬካፓ ዖይዶ ኪኢታንቻ ዓጮ''ኮ ዖይዶ ዛሎ''ና ዔቂ ዓኣንቴ ታ ዴንቄኔ፤ ዔያታ ሳዖይዳ ማዖም ባዞ''ይዳ ሃሣ ሚፆይዳ ዓይጎ ዢባሬያ ዢባርሹዋጉዲ ዓጮ''ኮ ዖይዶ ዛላ''ፓ ሙካ ዢባሮ ቢያ ላኣጊ ዓርቄኔ። <note caller="-" style="x"><char style="xo" closed="false">7፥1 </char><char style="xt" closed="false"><ref loc="JER 49:36">ዔር. 49፥36</ref>፤ <ref loc="DAN 7:2">ዳኣኔ. 7፥2</ref>፤ <ref loc="ZEC 6:5">ዛካ. 6፥5</ref>።</char></note> <verse number="2" style="v"/>ሓሣ ጊንሣ ናንጊና ናንጋ ፆኦዛሢኮ ዔርዛ ማላቶ ኩጫ ዔኬ፥ ሜሌ'' ፆኦሲ ኪኢታንቻ ዓባ'' ኬስካ ዛላ''ፓ ሙካንቴ ታ ዴንቄኔ፤ ዒዚያ ሳዖና ባዞ''ና ባይዛንዳጉዲ ቢታንታ ዒንጊንቴ ዖይዶ ኪኢታንቾንሢም ዼኤፒ ዑኡሲና፦ <verse number="3" style="v"/>«ኑ ፆኦዛሢም ማዻ ዓሶኮ ባሊቶይዳ ዱማሲ ዔርዛ ማላቶ ኑ ዓይሣንዳያ ሄላ''ንዳኣና ሳዖ ማዔቴያ ባዞ''፤ ሃሣ ሚፆዋ ዔኤቢ ዎኦቲፖቴ» ጌዔኔ። <note caller="-" style="x"><char style="xo" closed="false">7፥3 </char><char style="xt" closed="false"><ref loc="EZK 9:4">ሂዚ. 9፥4</ref>፤ <ref loc="EZK 6">6</ref>።</char></note> <verse number="4" style="v"/>ዔርዛ ማላቶ ዓይሢንቴ ዓሶኮ ፓይዶ'' ታ ዋይዜኔ፤ ዬያታ ዒስራዔኤሌ ፃጶ ቢያይዳፓ ማዔያ ፄኤታና ዖይዲታሚ'' ዖይዶ ሺያ ዓሲኬ። <verse number="5-8" style="v"/>ዪሁዳ ፃጳፓ፥ ሮኦቤኤሌ ፃጳፓ፥ ጋኣዴ ፃጳፓ፥ ዓሴኤሬ ፃጳፓ፥ ኒፕታኣሌኤሜ ፃጳፓ፥ ሚናኣሴ ፃጳፓ፥ ሲሞኦኔ ፃጳፓ፥ ሌዊ ፃጳፓ፥ ዪሳኮኦሬ ፃጳፓ፥ ዛብሎኦኔ ፃጳፓ፥ ዮሴፔና ቢኢኒያሜና ፃጳፓ፤ ዬያ ፔቴ'' ፔቴ''ሢ ፃጳፓ ታጶ ላምዖ ሺያ፥ ሺያ ዓሲም ማላታ ዓይሢንቴኔ።</para>
+  <para style="s">ቦኦሬ ማኣዖ ማይንቴ ሚርጌ ዴሬ</para>
+  <para style="p">
+    <verse number="9" style="v"/>ዬካፓ ዖኦኒያ ፓይዳኒ ዳንዳዑዋ፥ ሚርጌ ዓሲ ታ ዴንቄኔ፤ ዬያታ ዱማ ዱማ ዴሬይዳፓ፥ ቶኦኪዳፓ፥ ዜርሢዳፓ፥ ሙኡቺ ጌስታ ዓሲዳፓ ቡኬ ዓሲኬ፤ ዔያታ ቦኦሬ ማኣዖ ማይንቲ፥ ሜኤፄ ዒላሺያ ፔ ኩጫ ዓርቂ ካኣቱሞ ዖይቶና ማራዓሢና ቤርታ ዔቃዖ፥ <verse number="10" style="v"/>ዼኤፒ ዑኡሲና፦</para>
+  <para style="q">«ዻቂንታ ኑም ጴዼሢ ካኣቱሞ ዖይቶይዳ ዴዔ፥</para>
+  <para style="q2">ኑ ፆኦዛሢና ማራዓሢናይዳፓኬ» ጌዒ ጌዒ ዒላታኔ።</para>
+  <para style="p">
+    <verse number="11" style="v"/>ኪኢታንቻ ቢያ ሃሣ ካኣቱሞ ዖይቶና ጋርቾንሢና ሃሣ ዖይዶ ባኮንሢኮ ዓጫ ዔቂ፥ ካኣቱሞ ዖይቶ ቤርታ ባሊቶና ሂርኪ ጌዒ ፆኦሲም ዚጋዖ፥ <verse number="12" style="v"/>ሂዚ ጌዔኔ፦</para>
+  <para style="q">«ዓኣሜን፤ ሄርሺሢና ቦንቾና ዔራቶና፥</para>
+  <para style="q2">ጋላታና ዼኤፒሲሢና ዎልቄና ዶዱሞና፥</para>
+  <para style="q2">ኑ ፆኦዛሢም ናንጊና ማዖንጎ፤ ዓኣሜን።»</para>
+  <para style="p">
+    <verse number="13" style="v"/>ዬማና ጋርቾንሢዳፓ ፔቴ'' ታ ባንሢ ሺራዖ፦ «ሓንሢ ቦኦሬ ማኣዓሢ ማይንቴዞንሢ ዖናንሢዳይ? ዓንካፓ ዔያታ ሙኬይ?» ጌዒ ታና ዖኦጬኔ።</para>
+  <para style="p">
+    <verse number="14" style="v"/>ታኣኒያ ማሃዖ፦ «ጎዳሢዮ! ኔ ዔራኔ» ጋዓዛ፥ ዒዚ «ሓንሢ ዼኤፖ ሜታሢ ጊዴና ኬስኪ ሙኬዞንሢኬ፤ ዔያታ ፔኤኮ ማኣዓሢያ ማራዓሢ ሱጉፆና ማስኪ ቦኦሪሼኔ፤ <note caller="-" style="x"><char style="xo" closed="false">7፥14 </char><char style="xt" closed="false"><ref loc="DAN 12:1">ዳኣኔ. 12፥1</ref>፤ <ref loc="MAT 24:21">ማቲ. 24፥21</ref>፤ <ref loc="MRK 13:19">ማር. 13፥19</ref>።</char></note> <verse number="15" style="v"/>ዬያሮ ፆኦሲ ካኣቱሞ ዖይቶ ቤርታ ዋንቴና ሮኦሪና ጌኤዦ ማኣሮይዳ ዒዛም ማዻኔ፤ ካኣቱሞ ዖይቶይዳ ዴዔሢ ዔያቶ ባኣካ'' ማዒ ዔያቶኮ ሺባ''ሢ ማዓንዳኔ። <verse number="16" style="v"/>ሓካፓ ሴካ ዔያታ ናይዺንታዓኬ፤ ዼኤቢያ ዼኤቢንታዓኬ፤ ዓቢ ዔያቶ ሚቻዓኬ፤ ሩኡጲያ ዔያቶ ሄላ''ዓኬ፤ <note caller="-" style="x"><char style="xo" closed="false">7፥16 </char><char style="xt" closed="false"><ref loc="ISA 49:10">ዒሲ. 49፥10</ref>።</char></note> <verse number="17" style="v"/>ዓይጎሮ ጌዔቴ ካኣቱሞ ዖይቶ ባኣካ'' ዓኣ ማራዓሢ ዔያቶኮ ሄንቃሢ ማዓንዳኔ፤ ናንጎ ዓልቃ ዋኣፆ ባንሢያ ዔያቶ ዒ ዔኪ ዓኣዻንዳኔ፤ ፆኦሲ ዔያቶኮ ዓቢፆ ዓኣፓፓ ቢያ ዑጫንዳኔ» ታኣም ጌዔኔ። <note caller="-" style="x"><char style="xo" closed="false">7፥17 </char><char style="xt" closed="false"><ref loc="PSA 23:1">ዓይኑ. 23፥1</ref>፤ <ref loc="EZK 34:23">ሂዚ. 34፥23</ref>፤ <ref loc="PSA 23:2">ዓይኑ. 23፥2</ref>፤ <ref loc="ISA 49:10">ዒሲ. 49፥10</ref>፤ <ref loc="ISA 25:8">25፥8</ref>።</char></note></para>
+  <chapter number="8" style="c"/>
+  <para style="s">ቡሊ''ንቶፓ ጌይ ዓይሦና ላንካሳዞኮ ቡሊ''ንቲፆ</para>
+  <para style="p">
+    <verse number="1" style="v"/>ማራዓሢ ቡሊ''ንቶፓ ጌይ ዓይሦና ላንካሳ፥ ባኬሎ ቡሌ'' ዎዶ''ና ጫሪንጫ ዋይዚንታ ባኣዚ'' ባኣያ ማዒ፥ ዻካ'' ዚቲዮ ጌዔኔ፤ <verse number="2" style="v"/>ዬካፓ ፆኦሲ ቤርታ ዔቃ፥ ላንካዎ ኪኢታንቾ ታ ዴንቄኔ፤ ዔያቶም ዒማ''ና ላንካይ ዛዬ ዒንጊንቴኔ።</para>
+  <para style="p">
+    <verse number="3" style="v"/>ዑንጆ ጩቢሶያ ዎርቄና ኮሺ''ንቴ ሱሢ ኩንዔ ኩጫ ዔኬ፥ ኪኢታንቻ ሙካዖ ፆኦሲም ዒንጎ ባካ ዒንጊንታ ቤዞ ኮይላ'' ዔቃዛ ካኣቱሞ ዖይቶ ቤርታ ዓኣ፥ ዎርቆና ኮሺ''ንቴ ፆኦሲም ዒንጎ ባኮ ዒንጎ ቤዛ፥ ፆኦሲም ዱማዼ ዓሶኮ ሺኢጲፆና ዎላ'' ፆኦሲ ቤርቶ ሺኢሻንዳጉዲ ሚርጌ ዑንጄ ዒዛም ዒንጊንቴኔ። <note caller="-" style="x"><char style="xo" closed="false">8፥3 </char><char style="xt" closed="false"><ref loc="AMO 9:1">ዓሞ. 9፥1</ref>፤ <ref loc="EXO 30:1">ኬሲ. ማፃ 30፥1</ref>፤ <ref loc="EXO 3">3</ref>።</char></note> <verse number="4" style="v"/>ዑንጆኮ ጩባ'' ፆኦሲም ዱማዼ ዓሶኮ ሺኢጲፆና ዎላ'' ኪኢታንቻሢ ኩጫፓ ፆኦሲ ቤርቶ ኬስኬኔ። <verse number="5" style="v"/>ዬካፓ ኪኢታንቻሢ ጩቢሶ፥ ሱፆ ኩንዖ ዔኪ ፆኦሲም ዒንጎ ባኮ ዒንጎ ቤዛፓ ታሚ ካኣሺ ሱፆ ኩንዖይዳ ኩንሤስካፓ ሳዖ ባንሢ ኬኤራዛ ጉጉንሢና ዼኤፒ ዑኡሲና ሓሣ ዜኤሊንሢያ ዜኤሊንሤም ሳዓ ዓጊፄኔ። <note caller="-" style="x"><char style="xo" closed="false">8፥5 </char><char style="xt" closed="false"><ref loc="LEV 16:12">ሌዊ. ዓኬ 16፥12</ref>፤ <ref loc="EZK 10:2">ሂዚ. 10፥2</ref>፤ <ref loc="EXO 19:16">ኬሲ. ማፃ 19፥16</ref>፤ <ref loc="REV 11:19">ዮሓ. ፆፔዻ 11፥19</ref>፤ <ref loc="REV 16:18">16፥18</ref>።</char></note></para>
+  <para style="s">ኪኢታንቻ ዛያሢ ዋርቄሢ</para>
+  <para style="p">
+    <verse number="6" style="v"/>ዬካፓ ላንካይ ዛዬ ኩጫ ዔኬ፥ ላንካይ ኪኢታንቾስኬንሢ ዛያሢ ዋርቃኒ ጊኢጊንቴኔ።</para>
+  <para style="p">
+    <verse number="7" style="v"/>ቤርታሳ ኪኢታንቻሢ ዛያሢ ዋርቃዛ፥ ሱጉሢ ሲኢሪንቴ ሻቺና ታሚና ሳዓ ኬዴ''ኔ፤ ዬማና ዛላኮ ዛላ ጊንሢ ማዓ ሳዓ ሚጬኔ፤ ሚፆንታ ዓኣዔ ማኣቶንታኮዋ ዛላኮ ዛላ ማዓይ ቢያ ሚጬኔ። <note caller="-" style="x"><char style="xo" closed="false">8፥7 </char><char style="xt" closed="false"><ref loc="EXO 9:23-25">ኬሲ. ማፃ 9፥23-25</ref>፤ <ref loc="EZK 38:22">ሂዚ. 38፥22</ref>።</char></note></para>
+  <para style="p">
+    <verse number="8" style="v"/>ሃሣ ላምዓሳ ኪኢታንቻሢ ዛያሢ ዋርቃዛ ታሚ ዔኤታ፥ ዼኤፒ ዹካ ማላ ባኣዚ'' ባዞ''ይዳ ኬዳ''ዛ ዛላኮ ዛላ ጊንሢ ማዓይ ቢያ ባዞ''ኮ ሱጉሢ ማዔኔ፤ <verse number="9" style="v"/>ባዞ''ይዳ ናንጋ፥ ሼምፓ ዓኣ ባኮኮ ዛላኮ ዛላ ማዓይ ቢያ ሓይቄኔ፤ ሃሣ ዋኣፆ ካኣሚሎኮዋ ዛላኮ ዛላ ጊንሢ ማዓይ ቢያ ፑርቲ ጋፔኔ።</para>
+  <para style="p">
+    <verse number="10" style="v"/>ሃይሣሳ ኪኢታንቻሢ ዛያሢ ዋርቃዛ ፆምፔጉዲ ዔኤታ ዼኤፒ ዦኦጌ ጫሪንጫፓ ዎሮ ዋኣፆና ዓልቃ ዋኣፆናኮ ዛላኮ ዛላ ማዓ ጊንፆይዳ ኬዴ''ኔ። <note caller="-" style="x"><char style="xo" closed="false">8፥10 </char><char style="xt" closed="false"><ref loc="ISA 14:12">ዒሲ. 14፥12</ref>።</char></note> <verse number="11" style="v"/>ዬያ ዦኦጋሢኮ ሱ'ንፃ «ዋላንጋ» ጌይንታያኬ፤ ዬያሮ ዋኣፆኮ ዛላኮ ዛላ ጊንሢ ማዓይ ቢያ ጫንቺ ማዔኔ፤ ዋኣፆኮ ጫንቂፆይዳፓ ዔቄያና ሚርጌ ዓሲ ሓይቄኔ። <note caller="-" style="x"><char style="xo" closed="false">8፥11 </char><char style="xt" closed="false"><ref loc="JER 9:15">ዔር. 9፥15</ref>።</char></note></para>
+  <para style="p">
+    <verse number="12" style="v"/>ዖይዳሳ ኪኢታንቻሢ ዛያሢ ዋርቃዛ ዓቦ''ንታ ዓጊኖንታ ዦኦጋሢንታኮ ዛላኮ ዛላ ጊንሢ ማዓይ ቢያ ዹይንቴኔ፤ ሮኦሮንታ ዒባኖንታኮ ዛላኮ ዛላ ማዓ ጊንፆይዳ ፖዒ ፖዑዋጉዲ ላኣጊንቴኔ። <note caller="-" style="x"><char style="xo" closed="false">8፥12 </char><char style="xt" closed="false"><ref loc="ISA 13:10">ዒሲ. 13፥10</ref>፤ <ref loc="EZK 32:7">ሂዚ. 32፥7</ref>፤ <ref loc="JOL 2:10">ዒዩ. 2፥10</ref>፤ <ref loc="JOL 3:15">3፥15</ref>።</char></note></para>
+  <para style="p">
+    <verse number="13" style="v"/>ዬካፓ ሃሣ ፔቴ'' ኮኦኬ ጫሪንጫ ባራናንቴ ታ ዴንቄኔ፤ ዬይ ዼኤፒ ዑኡሲና፦ «ዓቴ'' ሓይሦ ኪኢታንቾንሢ ዛያሢ ዋርቃዛ ዋይዚንታንዳ ዑኡዞ ዛሎ''ና ሳዖይዳ ናንጋ ዓሶም ባዴዔ! ባዴዔ! ባዴዔ!» ጋዓንቴ ታ ዋይዜኔ።</para>
+  <chapter number="9" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>ዶንጋሳ ኪኢታንቻሢ ዛያሢ ዋርቃዛ፥ ዒማ''ና ጫሪንጫፓ ሳዓ ኬዴ'' ፔቴ'' ዦኦጌ ታ ዴንቄኔ፤ ዬያ ዦኦጋሢም ዼኤፖ፥ ዒጊቻ ዔቶ<note caller="+" style="f"><char style="fr">9፥1</char> <char style="fk">ዼኤፖ፥ ዒጊቻ ዔቶ፦</char> ጌይፃ ሳዖኮ ዴማ'' ፃላሆ ዓያና'' ጋፒንፆ ዎጎ ኬሎ'' ሄላ''ንዳኣና ዴዒ ዓኣ ቤዞኬ።</note> ቡሎ'' ቁልፔ ዒንጊንቴኔ። <verse number="2" style="v"/>ዒዚ ዔቶ ቡሌ'' ዎዶ''ና ዓንሢ ታሚፓ ኬስካ፥ ጩቢጉዴ ጩቢ ዔታፓ ኬስኬኔ፤ ዬይ ዔታፓ ኬስካ ጩባ'' ዓቦ''ንታ ጫሪንጮንታ ቢያ ዹሚሼኔ፤ <note caller="-" style="x"><char style="xo" closed="false">9፥2 </char><char style="xt" closed="false"><ref loc="GEN 19:28">ማዢ. ማፃ 19፥28</ref>።</char></note> <verse number="3" style="v"/>ዬያ ጩቦ'' ባኣካ''ፓ ዓቢሢ ሳዖይዳ ኬዴ''ኔ፤ ዬያቶም ሳዖይዳ ዓኣ ኮርናሢም ዒንጊንቴ ዎልቆጉዴ ዎልቄ ዒንጊንቴኔ፤ <note caller="-" style="x"><char style="xo" closed="false">9፥3 </char><char style="xt" closed="false"><ref loc="EXO 10:12-15">ኬሲ. ማፃ 10፥12-15</ref>።</char></note> <verse number="4" style="v"/>ሳዖይዳ ዓኣ ማኣቶ''ንታ ዋርቂ ዓኣ ዒላሺንታ ሃሣ ዱማ ዱማ ሚፆ ዔያታ ካኣሙዋጉዲ ዔያቶም ኬኤዚንቴኔ፤ ጋዓንቴ ዔያታ ሜታሳንዳጉዲ ጌይንቴሢ ባሊቶይዳ ፆኦሲሮ ማዒፆ ዔርዛ ማላታባኣ ዓሶኬ። <note caller="-" style="x"><char style="xo" closed="false">9፥4 </char><char style="xt" closed="false"><ref loc="EZK 9:4">ሂዚ. 9፥4</ref>።</char></note> <verse number="5" style="v"/>ዬያቶዋ ዶንጎ ዓጊኒ ሌሊ ሜታሳንዳጉዲ ማዓንዳኣፓዓቴም ዎዻንዳጉዲ ዎልቄ ዒንጊቦኦሴ፤ ዔያታ ሜታሳንዳ ጎይፃ ኮርና ዓሲ ዻዓዖ ሜታሳሢ ጎይፆ ሜታሳንዳጉዲኬ። <verse number="6" style="v"/>ዬንሢ ኬሎ''ንሢዳ ዬና ዓሳ ሓይቃኒ ኮዓንዳኔ፤ ጋዓንቴ ዔያቶም ማዓዓኬ፤ ሓይቢ ዔያታ ሱኡካዻንዳኔ፤ ጋዓንቴ ሓይቢ ዔያቶ ኮይላ''ፓ ዴንዲ ባይቃንዳኔ። <note caller="-" style="x"><char style="xo" closed="false">9፥6 </char><char style="xt" closed="false"><ref loc="JOB 3:21">ዒዮ. 3፥21</ref>፤ <ref loc="JER 8:3">ዔር. 8፥3</ref>።</char></note></para>
+  <para style="p">
+    <verse number="7" style="v"/>ዓቢፃ ዖልዚም ጊኢጌ ፓሮ ማላኔ፤ ዔያቶኮ ቶኦኮ''ይዳ ዓጎያ፥ ዎርቄና ኮሺ''ንቴ ቦንቾሮ ዓጎ ባካ ዓኣኔ፤ ዓኣፖ ካራ'' ዔያቶኮ ዓሲሮ ማላያኬ፤ <note caller="-" style="x"><char style="xo" closed="false">9፥7 </char><char style="xt" closed="false"><ref loc="JOL 2:4">ዒዩ. 2፥4</ref>።</char></note> <verse number="8" style="v"/>ዔያቶኮ ቶኦኮ'' ጋፓና ላኣሊሮ ማላኔ፤ ዓጫ ዔያቶኮ ዞቢ'' ዓቺ ማላያኬ፤ <note caller="-" style="x"><char style="xo" closed="false">9፥8 </char><char style="xt" closed="false"><ref loc="JOL 1:16">ዒዩ. 1፥16</ref>።</char></note> <verse number="9" style="v"/>ዓንጊና ኮሺ''ንታ ዖሎ ማኣዓሢ ማላ፥ ማኣዓ ዔያቶኮ ዓኣኔ፤ ዔያቶ ጋኣዞኮ ዑኡዛ ዖልዚሮ ዓኣዻ ሚርጌ ፓሮና ሳርጌላ ዖይታናኮ ካኣኒ ማላያኬ። <note caller="-" style="x"><char style="xo" closed="false">9፥9 </char><char style="xt" closed="false"><ref loc="JOL 2:5">ዒዩ. 2፥5</ref>።</char></note> <verse number="10" style="v"/>ኮርኖጉዲ ዑንኪና ዻዓ፥ ቤልሢ ዔያቶኮ ዓኣኔ፤ ዓሶ ዔያታ ዶንጎ ዓጊኒ ሜታሳንዳ ዎልቃ ዔያቶኮ ዑንኮይዳ ዓኣኔ። <verse number="11" style="v"/>ዔያቶ ዎይሣ ካኣቲ ዔያቶኮ ዓኣኔ፤ ዒዚ ዼኤፖ፥ ዒጊቻ ዔቶኮ ኪኢታንቻሢኬ፤ ሱ'ንፃ ዒዛኮ ዔብሬ ዓሶ ሙኡጮና «ዓብዶኔ»፥ ጊሪኬ ዓሶ ሙኡጮና «ዓጲሎኔ» ጌይንታኔ፤ ዬና ጌይፃ «ባይዛ» ጌይሢኬ።</para>
+  <para style="p">
+    <verse number="12" style="v"/>ቤርታሳ ሜቶ'' ዎዳ'' ጋፔኔ፤ ዓካሪ ሃሣ ሜሌ'' ላምዖ ሜቶ ዎዴ ሙካንዳኔ።</para>
+  <para style="p">
+    <verse number="13" style="v"/>ላሃ''ሳ ኪኢታንቻሢ ዛያሢ ዋርቃዛ፥ ፆኦሲ ቤርታ ዓኣ ዎርቆና ኮሺ''ንቴ ፆኦሲም ዒንጎ ቤዞኮ ዖይዶ ዛላ'' ዓኣ፥ ጉራኖ ማላ ባካፓ ዑኡሲ ኬስካንቴ ታ ዋይዜኔ፤ <note caller="-" style="x"><char style="xo" closed="false">9፥13 </char><char style="xt" closed="false"><ref loc="EXO 30:1-3">ኬሲ. ማፃ 30፥1-3</ref>።</char></note> <verse number="14" style="v"/>ዬና ዑኡዛ ዛያሢ ዔኪ ዓኣ፥ ላሃ''ሳ ኪኢታንቻሢም፦ «ዼኤፖ ዔፕራፂሴ ዎሮይዳ ቱኡቴ፥ ዖይዶ ኪኢታንቾንሢ ቡሌ''!» ጌዔኔ። <verse number="15" style="v"/>ዬኖ ኬሎ''ና፥ ዬኖ ዎዶ''ና፥ ዬኖ ዓጊኖና፥ ዬኖ ሌዖናም ጊኢጊንቴ ዖይዶ ኪኢታንቾንሢ ዓሶይዳፓ ዛላኮ ዛላ ማዓ ዓሲ ዎዻንዳጉዲ ቱኡዛፓ ቡሊ''ንቴኔ። <verse number="16" style="v"/>ፓራሢና ዖላ ዓሶኮ ሚርጉማ ዺቢ ሺያና ፓይዲንታያ ኮሺ'' ዺቢታሢ ፓይዶ'' ታ ዔያቶኮ ዋይዜኔ። <verse number="17" style="v"/>ፓራሢና ፓራሢ ቶጊ ዓኣ ዓሶና ፆኦሲ ታና ዻዌም ታኣኒ ዛጋንቴ ያዺኬ፦ ዳዳ ዔያቶኮ ዖሎሮ ዔያታ ማኣዔ ባካ ታሚጉዲ ዞቄ ሃሣ ጮልዔ ጊንሣ ጪኢጬ ቡኒጉዲ ጋላፒኬ፤ ፓሮንሢኮ ቶኦካ'' ዞቢ'' ቶኦኪ ማላያ፥ ዔያቶኮ ዻንጋፓ ታሚና ጩቢና ዓንሢ ፂኢሊ''ጉዴ ፂኢሊ''ያ ኬስካኔ፤ <verse number="18" style="v"/>ዔያቶኮ ዻንጋፓ ኬስኪ «ባይዞም» ጎዖና ባኮና ጌይፃ፦ ታሞና ጩቦና ሃሣ ፂኢሎ''ና ዓሶኮ ዛላኮ ዛላ ጊንሢ ማዓያ ቢያ ዎዼኔ። <verse number="19" style="v"/>ፓሮንሢኮ ዎልቃ ዔያቶኮ ዻንጎና ዑንኮናይዳኬ፤ ዑንካ ዔያቶኮ ሾኦሺ ማላኔ፤ ሃሣ ሾኦሺ ቶኦኪጉዴ ቶኦኪ ዔያቶኮ ዓኣኔ፤ ዓሶ ዔያታ ሜታሲ ዎዻሢ ዬያናኬ።</para>
+  <para style="p">
+    <verse number="20" style="v"/>ዬንሢ «ባይዞም» ጌይንቴ ባኮንሢ ዎዹዋንቴ ዓቴ'' ዓሳ ፔኤኮ ማዼ ፑርቶ ማዾ'' ቡኡፂ ሃሺ''ባኣሴ፤ ዬይያ፦ ፃላሄንታ ዎርቄይዳፓ፥ ቢራ ዓንጊዳፓ፥ ሞኦኖ ዓንጋፓ፥ ሹቺፓ ሃሣ ሚሢፓ ኮሺ''ንቴያ፥ ዛጋኒያ ዋይዛኒያ፤ ሃሣ ዓጊፂ ሃንታኒያ ዳንዳዑዋ ካኣሽኮ ባኮንታ ዔያታ ካኣሽኪፆ ሓሺ''ባኣሴ ጌይሢኬ። <note caller="-" style="x"><char style="xo" closed="false">9፥20 </char><char style="xt" closed="false"><ref loc="PSA 115:4-7">ዓይኑ. 115፥4-7</ref>፤ <ref loc="PSA 135:15-17">135፥15-17</ref>፤ <ref loc="DAN 5:23">ዳኣኔ. 5፥23</ref>።</char></note> <verse number="21" style="v"/>ዬያጉዲ ሃሣ ሼምፖ ዎዺሢ፥ ማርሻ ማርሺሢ፥ ማቾ ሃሣ ዓኒ ማዒባኣያና ላሂሢ፥ ዉሱሞ፤ ዬያ ባኮ ዔያታ ቡኡፂ ሓሺ''ባኣሴ ጌይሢኬ።</para>
+  <chapter number="10" style="c"/>
+  <para style="s">ኪኢታንቻሢና ዻኮ'' ማሪንቴ ማፃኣፔሎና</para>
+  <para style="p">
+    <verse number="1" style="v"/>ዬካፓ ሃሣ ሻኣሬ ማይንቴያ፥ ሜሌ'' ዼኤፒ ኪኢታንቻ ጫሪንጫፓ ኬዳ''ንቴ ታ ዴንቄኔ፤ ዒዛኮ ቶኦኮ'' ዓጮ ሺሬ፥ ዡኡሎ ዓኣኔ፤ ዬያኮ ዓኣፖ ካራ'' ዓቢጉዴያ፥ ቶካ ዒዛኮ ሃሣ ቱርቱሪጉዲ ዔቄ ታሚ ማላያኬ፤ <verse number="2" style="v"/>ዒዚ ኩጮይዳ ዻካ'' ቡሊ''ንቲ ዓኣ፥ ማሪንቴ ማፃኣፔ ዔኪ ዓኣኔ፤ ዒማ''ና ዒ ሚዛቆ ቶኮና ባዞ''ይዳ፥ ሻውሎ ቶኮና ሳዖይዳ ሄ'ርቂ ዔቂ ዓኣኔ፤ <verse number="3" style="v"/>ሓሣ ዒ ዞቢ'' ዑኡሲ ማላ፥ ዼኤፒ ዑኡሲና ዒላቴኔ፤ ዒዚ ዒላታዛ ላንካዎ ጉጉንፆንሢ ፔ ዑኡዞና ዑኡዞና ጌስቴኔ። <verse number="4" style="v"/>ዬያታ ፔ ዑኡዞና ጌስቴ ዎዶ''ና ታኣኒ ፃኣፓኒ ማሌኔ፤ ጋዓንቴ፦ «ላንካዎ ጉጉንፆንሢ ጌስቴ ባኮ ዓኣቺ ዓርቄ፤ ፃኣፒፖ» ጋዓ ዑኡሲ ጫሪንጫፓ ታ ዋይዜኔ።</para>
+  <para style="p">
+    <verse number="5" style="v"/>ዬካፓ ባዞ''ና ሳዖናይዳ ሄ'ርቂ ዔቂ ዓኣንቴ ታ ዛጌ ኪኢታንቻሢ ፔኤኮ ሚዛቆ ኩጮ ሌካ ጫሪንጮ ባንሢ ዔቂሳዖ፥ <verse number="6" style="v"/>ዒዚ ናንጊና ናንጋሢ፥ ጫሪንጮና ሳዖና ባዞ''ና ዬያቶይዳ ዓኣ ባኮ ቢያ ማዤ ፆኦዛሢ ሱ'ንፆና ጫኣቄኔ፤ ዒ ጫኣቄሢ፦ «ዓካሪ ማይ ኔጋዓኬ! <verse number="7" style="v"/>ጋዓንቴ ላንካሳ ኪኢታንቻሢ ዛያሢ ዋርቃ ኬሎ''ንሢና ፆኦሲም ማዻ፥ ዒዛ ማሊፆ ኬኤዛዞንሢም ፔጋሲ ዔርዜ ጎይፆና ዒዛኮ ዓኣሺንቴ ማሊፃ ኩማንዳኔ» ጌይኬ። <note caller="-" style="x"><char style="xo" closed="false">10፥7 </char><char style="xt" closed="false"><ref loc="EXO 20:11">ኬሲ. ማፃ 20፥11</ref>፤ <ref loc="DEU 32:40">ላሚ. ዎማ 32፥40</ref>፤ <ref loc="DAN 12:7">ዳኣኔ. 12፥7</ref>፤ <ref loc="AMO 3:7">ዓሞ. 3፥7</ref>።</char></note></para>
+  <para style="p">
+    <verse number="8" style="v"/>ዬካፓ ጫሪንጫፓ ታ ዋይዜ ዑኡዛ፦ «ባዞ''ና ሳዖናይዳ ሄ'ርቂ ዔቂ ዓኣ ኪኢታንቻሢ ፔ ኩጫ ዔኬ፥ ቡሊ''ንቲ ዓኣ፥ ማሪንቴ ማፃኣፔሎ ዴንዲ ዔኬ» ጌይ ላሚ ሃሣ ታኣም ኬኤዜኔ።</para>
+  <para style="p">
+    <verse number="9" style="v"/>ዬማና ታኣኒ ኪኢታንቻሢ ባንሢ ዓኣዺ፦ «ዻኮ''፥ ማሪንቴ ማፃኣፔሎ ታኣም ዒንጌ» ጋዓዛ፥ ዒዚያ፦ «ዔኪጋፓ፥ ዒዞ ሙዔ፤ ጎጶም ዒዛ ኔኤኮ ጫንቃንዳኔ፤ ዻንጋ ኔኤኮ ጋዓንቴ ዔኤሲጉዲ ዓኣፃንዳኔ» ታኣም ጌዔኔ።</para>
+  <para style="p">
+    <verse number="10" style="v"/>ታኣኒ ዻኮ''፥ ማሪንቴ ማፃኣፔሎ ኪኢታንቻሢ ኩጫፓ ዔኪ ሙዓዛ ዻንጋ ታኣም ዔኤሲጉዲ ዓኣፄኔ፤ ጊንፃፓ ታኣኮ ጎጳ ዒዛ ጫንቄኔ። <note caller="-" style="x"><char style="xo" closed="false">10፥10 </char><char style="xt" closed="false"><ref loc="EZR 2:8-33">ዒዝ. 2፥8-33</ref>።</char></note> <verse number="11" style="v"/>ዬካፓ ሃሣ፦ «ሚርጌ ዓሶ ዜርፆ ዛሎ''፥ ዱማ ዱማ ዴሮ''ና ዱማ ሙኡጮ ጌስታ ዓሶና ካኣቶ''ና ዛሎ'' ላሚ ሃሣ ፆኦሲ ማሊሢ ኬኤዛንዳያ ኔና ኮይሳኔ» ታኣም ጌይንቴኔ።</para>
+  <chapter number="11" style="c"/>
+  <para style="s">ላምዖ ማርካ</para>
+  <para style="p">
+    <verse number="1" style="v"/>ዬካፓ ዖዶሱሞና ዳልጉሞና ሃሣ ዔጶና ዋርቆያ ዎኦሺ ማላ ሚሢ ታኣም ዒንጊንታዖ፦ «ዓኣዺ፥ ፆኦሲኮ ጌኤዦ ማኣሮና ፆኦሲም ዒንጊፆ ዒንጎ ቤዞና ዋርቄ፤ ሃሣ ዒኢካ ካኣሽካ ዓሶዋ ፓይዴ፤ <note caller="-" style="x"><char style="xo" closed="false">11፥1 </char><char style="xt" closed="false"><ref loc="EZK 40:3">ሂዚ. 40፥3</ref>፤ <ref loc="ZEC 2:1-2">ዛካ. 2፥1-2</ref>።</char></note> <verse number="2" style="v"/>ጌኤዦ ማኣሮኮ ዙላ'' ዓኣ ጶኦኮ'' ጋዓንቴ ዋርቂፖ፥ ሃሼ''፤ ዬይ፦ ሜሌ'' ዴሮ''ም ዒንጊንቴ ቤሲኬ፤ ዔያታ ፆኦሲም ዱማዼ ካታሜሎ ዖይዲታሚ'' ላምዖ ዓጊኒ ጉቤ ባሺ ዎይሣንዳኔ፤ <note caller="-" style="x"><char style="xo" closed="false">11፥2 </char><char style="xt" closed="false"><ref loc="LUK 21:24">ሉቃ. 21፥24</ref>።</char></note> <verse number="3" style="v"/>ላምዖ ታኣኮ ማርኮንሢ ሲዬ ፓቲሌ ማይንቲ ፔቴ'' ሺያና ላምዖ ፄኤታና ላሂ''ታሚ'' ኬሊ'' ታ ማሊሢ ኬኤዛንዳጉዲ ዎልቄ ታ ዔያቶም ዒንጋንዳኔ» ጌይንቴኔ።</para>
+  <para style="p">
+    <verse number="4" style="v"/>ዬንሢ ማርኮንሢ ሳዖይዳ ጎዳ ቤርታ ዔቃ፥ ላምዖ ሪሚቶ ሚፆንሢና ላምዖ ፖዖ ጌሦ ሻርኖንሢናኬ፤ <note caller="-" style="x"><char style="xo" closed="false">11፥4 </char><char style="xt" closed="false"><ref loc="ZEC 4:3">ዛካ. 4፥3</ref>፤ <ref loc="ZEC 4:11-14">4፥11-14</ref>።</char></note> <verse number="5" style="v"/>ዖኦኒያ ዔያቶ ማኣሳንሣኒ ማሌቶ ታሚ ዔያቶ ዻንጋፓ ኬስኪ ዬያቶ ሚቻንዳኔ፤ ዔያቶ ማኣሳንሣኒ ኮዓሢ ቢያ ሓይቃንዳ ጎይፃ ዬያይዲኬ። <verse number="6" style="v"/>ዔያታ ታ ማሊፆ ኬኤዛ ዎዶ''ንሢዳ ዒርዚ ዋርቁዋጉዲ ጫሪንጮ ዲርቃኒ ዔያቶኮ ቢታንቶ ዓኣኔ፤ ዬያጉዲ ዋኣፆ ሱጉሢ ማሂ ላኣማኒ ኮዔ ዎዶ''ና ቢያ ዓይጎ ባኣዚ''ናኣ ማዖም ሳዖ ባይዛንዳ ባኣዚ''ና ጳርቃኒ ቢታንቶ ዔያቶኮ ዓኣኔ። <note caller="-" style="x"><char style="xo" closed="false">11፥6 </char><char style="xt" closed="false"><ref loc="1CH 17:1">1ካኣቶ''. ማ 17፥1</ref>፤ <ref loc="EXO 7:17-19">ኬሲ. ማፃ 7፥17-19</ref>፤ <ref loc="1SA 4:8">1ሳሙ. 4፥8</ref>።</char></note></para>
+  <para style="p">
+    <verse number="7" style="v"/>ዔያታ ፔኤኮ ማርካቶ ጋፒሴሢኮ ጊንፃ ዼኤፖ፥ ዒጊቻ ዔታፓ ኬስካንዳ ቦዓሢ ዔያቶና ዖልቲ ባሻንዳኔ፤ ዎዺያ ዔያቶ ዎዻንዳኔ። <note caller="-" style="x"><char style="xo" closed="false">11፥7 </char><char style="xt" closed="false"><ref loc="DAN 7:7">ዳኣኔ. 7፥7</ref>፤ <ref loc="REV 13:5-7">ዮሓ. ፆፔዻ 13፥5-7</ref>፤ <ref loc="REV 17:8">17፥8</ref>።</char></note> <verse number="8" style="v"/>ሌዛ ዔያቶኮ ኮኦኪንሢና ሶዶኦሜ፥ ሃሣ ጊብፄ ጌይንታ ዼኤፖ ካታሜሎኮ ዓሳ ቡካ ጶኦካ'' ኬኤሪንታንዳኔ፤ ዬና ካታሜላ ዔያቶኮ ጎዳሢ ሱፂንቴ ካታሜሎኬ። <note caller="-" style="x"><char style="xo" closed="false">11፥8 </char><char style="xt" closed="false"><ref loc="ISA 1:9-10">ዒሲ. 1፥9-10</ref>።</char></note> <verse number="9" style="v"/>ዱማ ዱማ ዜርፃፓ፥ ቶኦካ''ፓ ሓሣ ዱማ ዱማ ሙኡቺ ጌስታ ዓሶና ዴሮ''ናይዳፓ ማዔ ዓሳ ሓይሦ ኬሊ''ና ዛላና ማዓንዳኣና ሌዞ ዔያቶኮ ዒኢካ ዓኣንቴ ዛጋንዳኔ፤ ሌዛ ዔያቶኮ ዱኡኪንቱዋጉዲ ላኣጊንታያ ማዓንዳኔ፤ <verse number="10" style="v"/>ዬንሢ፥ ላምዖ፥ ፆኦሲ ማሊፆ ኬኤዛዞንሢ ሳዖይዳ ናንጋ ዓሶ ሜታሴሢሮ ሳዖይዳ ናንጋ ዓሳ ዔያታ ሓይቄሢሮ ዎዛዻንዳኔ፤ ዬያ ዎዛ''ፓ ዔቄያና ዔያቶኮ ሓይቦ'' ኬሎ'' ቦንቾ ኬሊ'' ማሂ፥ ዎሊም ዒንጎ ባኣዚ''ያ ዒንጋንዳኔ፤ <verse number="11" style="v"/>ሓይሦ ኬሊ''ና ዛላና ማዔሢኮ ጊንፃ ጋዓንቴ ሼምፖ ዒንጋ፥ ፆኦሲኮ ዑኡዛ ፆኦሲዳፓ ሙኪ ሌዛ ዔያቶኮ ጌሌም፥ ዔያታ ዔቄሢሮ ዔያቶ ዛጌ ዓሳ ሚርጌና ዒጊጬኔ። <note caller="-" style="x"><char style="xo" closed="false">11፥11 </char><char style="xt" closed="false"><ref loc="EZK 37:10">ሂዚ. 37፥10</ref>።</char></note> <verse number="12" style="v"/>ዬካፓ ላምዖ ፆኦሲ ማሊፆ ኬኤዛዞንሢ፦ «ሓንጋ ኬስኩዋቴ!» ጋዓ ዼኤፒ ዑኡሲ ጫሪንጫፓ ዋይዜኔ፤ ዬማና ዔያቶኮ ሞርካ ዔያቶ ዛጋ ጎይሣ ዓኣንቴ ሻኣሬና ሌካ ጫሪንጮ ዔያታ ዓኣዼኔ። <note caller="-" style="x"><char style="xo" closed="false">11፥12 </char><char style="xt" closed="false"><ref loc="2CH 2:11">2ካኣቶ''. ማ 2፥11</ref>።</char></note> <verse number="13" style="v"/>ዒማ''ና ሳዓ ሚርጌ ዓጊፄኔ፤ ካታሜሎኮዋ ታጶይዳፓ ፔቴ''ማ ማዓ፥ ቤዛ ቢያ ዶዒ ጋፔኔ፤ ዬያይዲ ዓጊፂፆና ላንካይ ሺያ ዓሲ ሓይቄኔ፤ ሓይባ''ፓ ዓቴዞንሢ ሚርጌና ዒጊጪ፥ ጫሪንጮ ፆኦዛሢ ጋላቲ፥ ቦንቼኔ። <note caller="-" style="x"><char style="xo" closed="false">11፥13 </char><char style="xt" closed="false"><ref loc="REV 6:12">ዮሓ. ፆፔዻ 6፥12</ref>፤ <ref loc="REV 16:18">16፥18</ref>።</char></note></para>
+  <para style="p">
+    <verse number="14" style="v"/>ላምዓሳ ሜታሢ ዎዳ'' ጋፔኔ፤ ሓይሾ ዓካሪ ሃይሣሳ ሜታሢ ዎዳ'' ዑኬና ዬዓንዳኔ።</para>
+  <para style="s">ኪኢታንቻሢ ዋርቄ ላንካሳ ዛያሢ</para>
+  <para style="p">
+    <verse number="15" style="v"/>ላንካሳ ኪኢታንቻሢ ዛያሢ ዋርቃዛ፥ ጫሪንጮይዳ፦</para>
+  <para style="q">«ዓጮ'' ካኣቱማ</para>
+  <para style="q2">ኑ ጎዳሢ ማዔ ፆኦዛሢና ዒዛኮ ሜሲሔናም ማዔኔ፤</para>
+  <para style="q2">ዒዚያ ናንጊና ካኣታዻንዳኔ» ጋዓ ዼኤፒ፥ ዼኤፒ ዑኡሲ ዋይዚንቴኔ። <note caller="-" style="x"><char style="xo" closed="false">11፥15 </char><char style="xt" closed="false"><ref loc="EXO 15:18">ኬሲ. ማፃ 15፥18</ref>፤ <ref loc="DAN 2:44">ዳኣኔ. 2፥44</ref>፤ <ref loc="DAN 7:14">7፥14</ref>።</char></note></para>
+  <para style="p">
+    <verse number="16" style="v"/>ፆኦሲ ቤርታ፥ ካኣቱሞ ዖይቶይዳ ዴዒ ዓኣ፥ ላማታሞ ዖይዶ ጋርቾንሢ ባሊቶና ሳዖ ባንሢ ሂርኪ ጌዒ ጉምዓቲ ፆኦሲም ዚጌኔ፤</para>
+  <para style="p">
+    <verse number="17" style="v"/>ዔያታ ዚጋ ዎዶ''ና፦</para>
+  <para style="q">«ሓሢ ዓኣያ ሚናፓ ናንጋያ</para>
+  <para style="q2">ቢያ ባኣዚ'' ዳንዳዓ ጎዳ ማዔ ፆኦዛሢዮ!</para>
+  <para style="q2">ዼኤፖ ዎልቆ፥ ኔኤሮ ኔ ማሄሢሮ</para>
+  <para style="q2">ሓሣ ኔ ካኣታዼሢሮዋ ኔና ኑ ጋላታኔ።</para>
+  <para style="q">
+    <verse number="18" style="v"/>ሜሌ'' ዴራ'' ሚርጌና ዻጋዼኔ፤</para>
+  <para style="q2">ሃሣ ኔ ዻጋ''ኣ ሙኬኔ፤</para>
+  <para style="q2">ሓይቄ ዓሶይዳ ኔ ዎጋ ዎዳ''ኣ ሄሌ''ኔ።</para>
+  <para style="q">ኔኤም ማዻ፥ ኔ ማሊፆ ኬኤዛዞንሢና</para>
+  <para style="q2">ኔኤም ዱማዼዞንሢና ሱ'ንፆዋ ኔኤኮ ቦንቻዞንሢም</para>
+  <para style="q2">ዻኮ''ና ዼኤፖ ማዔዞንሢናም</para>
+  <para style="q">ዔያታ ማዼሢ ዛሎ'' ማሂ ኔ ዒንጋንዳ ዎዳ''</para>
+  <para style="q2">ሓሣ ዓጮ'' ባይዜዞንሢያ ኔ ባይዛንዳ ዎዳ'' ሄሌ''ኔ» ጌዔኔ። <note caller="-" style="x"><char style="xo" closed="false">11፥18 </char><char style="xt" closed="false"><ref loc="PSA 2:5">ዓይኑ. 2፥5</ref>፤ <ref loc="PSA 110:5">110፥5</ref>፤ <ref loc="PSA 115:13">115፥13</ref>።</char></note></para>
+  <para style="p">
+    <verse number="19" style="v"/>ዬካፓ ጫሪንጫ ዓኣ፥ ፆኦሲኮ ጌኤዦ ማኣራ ቡሊ''ንታዛ ጋሮይዳ ዒዛኮ ጫኣቁሞ ሳኣፂና ዓኣያ ማዒ ጴዼኔ፤ ዬማና ዜኤሊንሢ ዜኤሊንሤኔ፥ ዼኤፒ ዑኡሲ ዋይዚንቴኔ፥ ጉጉንሢያ ጉጉንሤኔ፥ ሳዓኣ ዓጊፄኔ፥ ዼኤፒ ሻቺያ ኬዴ''ኔ። <note caller="-" style="x"><char style="xo" closed="false">11፥19 </char><char style="xt" closed="false"><ref loc="REV 8:5">ዮሓ. ፆፔዻ 8፥5</ref>፤ <ref loc="REV 16:18">16፥18</ref>፤ <ref loc="REV 21">21</ref>።</char></note></para>
+  <chapter number="12" style="c"/>
+  <para style="s">ላኣሌሎና ዼኤፖ ሾኦዣሢና</para>
+  <para style="p">
+    <verse number="1" style="v"/>ዬካፓ ዼኤፒ ሃሣ ዲቃሢ ሄርሺሳ ማላታ ጫሪንጮይዳ ጴዼኔ፤ ዒኢካ ዓቢ ማኣዖጉዲ ማይንቲ፥ ዓጊኖ ቶኪና ሄ'ርቂ ዔቂ፥ ሃሣ ታጶ ላምዖ ዦኦጌ ቦንቾሮ ዓጎ ባኮጉዲ ፔኤኮ ቶኦካ'' ዓጊንቲ ዓኣ ፔቴ'' ላኣሊስኬና ጴዼኔ። <verse number="2" style="v"/>ዒዛ ጎጲና ዓኣያታዖ ሾይቺ ዓርቄም ሜታዺ ዒላቴኔ፤</para>
+  <para style="p">
+    <verse number="3" style="v"/>ዬያጉዲ ሃሣ ሜሌ'' ማላታ ማዔ ባኣዚ'' ጫሪንጫ ጴዼኔ፤ ዬይያ፦ ላንካይ ቶኦኪና ታጶ ጉራኒና ዓኣ፥ ዼኤፒ ዞቄ ፑኡፒ ሾኦሺ ጴዼኔ፤ ዒዚ ቶኦካ'' ቶኦካ'' ላንካይ ቦንቾሮ ዓጎ ባኮ ዓጊ ዓኣኔ፤ <note caller="-" style="x"><char style="xo" closed="false">12፥3 </char><char style="xt" closed="false"><ref loc="DAN 7:7">ዳኣኔ. 7፥7</ref>።</char></note> <verse number="4" style="v"/>ዒዚ ፔኤኮ ዑንኮና ዛላኮ ዛላ ጊንሢ ማዓ ዦኦጎ ቢያ ጫሪንጫፓ ጎቺ ዔኪ ሳዓ ኬኤሬኔ፤ ዬካፓ ላኣሌላ ሾዓዛ፥ ናዖ ሙዓኒ ላኣሌሎኮ ቤርታ ዔቄኔ፤ <note caller="-" style="x"><char style="xo" closed="false">12፥4 </char><char style="xt" closed="false"><ref loc="DAN 8:10">ዳኣኔ. 8፥10</ref>።</char></note> <verse number="5" style="v"/>ላኣሌላ ዓጮ'' ዴሮ'' ቢያ ባሺ፥ ዎይሣንዳ ዓቲንቄ ናይ ሾዔኔ፤ ናዓሢ ጋዓንቴ ሌካ ፆኦሲኮ ካኣቱሞ ዖይቶ ባንሢ ዔውቴኔ፤ <note caller="-" style="x"><char style="xo" closed="false">12፥5 </char><char style="xt" closed="false"><ref loc="ISA 66:7">ዒሲ. 66፥7</ref>፤ <ref loc="PSA 2:9">ዓይኑ. 2፥9</ref>።</char></note> <verse number="6" style="v"/>ዒማ''ና ላኣሌላ ዓሲ ናንጉዋ ዳውሎ'' ዓኣሺንቲ ዓኣዼኔ፤ ዒኢካ ፔቴ'' ሺያና ላምዖ ፄኤታና ላሂ''ታሚ'' ኬሊ'' ኮይሳ ባኣዚ'' ቢያ ዒንጊ ካፒንታንዳ ቤሲ ፆኦሲ ዒዞም ጊኢጊሼኔ።</para>
+  <para style="p">
+    <verse number="7" style="v"/>ዬካፓ ጫሪንጮይዳ ዖልዚ ዔቄኔ፤ ዒኢካ ሚካዔኤሌ ጌይንታ ኪኢታንቻሢና ዒዛም ዓይሢንቲ ማዻ ኪኢታንቻ ዼኤፖ ሾኦዣሢና ዒዛኮ ኪኢታንቾና ዎላ'' ዖልቲሢ ዓርቄኔ፤ <note caller="-" style="x"><char style="xo" closed="false">12፥7 </char><char style="xt" closed="false"><ref loc="DAN 10:13">ዳኣኔ. 10፥13</ref>፤ <ref loc="DAN 12:1">12፥1</ref>፤ <ref loc="JUD 1:9">ዪሁ. 9</ref>።</char></note> <verse number="8" style="v"/>ጋዓንቴ ዼኤፖ ሾኦዣሢና ዒዛኮ ኪኢታንቾና ባሺንቴኔ፤ ዬማፓ ጫሪንጫ ዔያቶኮ ቤሲ ባይቄኔ። <verse number="9" style="v"/>ዼኤፖ ሾኦዣሢ ሊካ ሳዓ ኬኤሪንቴኔ፤ ዬይ፦ ዓሶ ቢያ ዻቢሻሢ፥ ዲያቢሎሴ ሃሣ ጊንሣ ፃላሄ ጌይንታ ሚናኣ ሾኦዣሢኬ፤ ዒዛና ዎላ'' ዒዛኮ ኪኢታንቻኣ ኬኤሪንቴኔ። <note caller="-" style="x"><char style="xo" closed="false">12፥9 </char><char style="xt" closed="false"><ref loc="GEN 3:1">ማዢ. ማፃ 3፥1</ref>፤ <ref loc="LUK 10:18">ሉቃ. 10፥18</ref>።</char></note></para>
+  <para style="p">
+    <verse number="10" style="v"/>ዬካፓ ፔቴ'' ዼኤፒ ዑኡሲ ጫሪንጮይዳ፦</para>
+  <para style="q">«ዓካሪ፥ ዻቂሺሢና ዎልቄና</para>
+  <para style="q2">ሃሣ ካኣቱሞዋ ኑ ፆኦዛሢም ማዔኔ፤</para>
+  <para style="q2">ቢታንቶዋ ሜሲሔም ማዔኔ!</para>
+  <para style="q">ዎይቲ ጌዔቴ ኑ ዒሾንሢና ኑ ሚሾንሢና</para>
+  <para style="q2">ኑ ፆኦዛሢ ቤርታ ዋንቴና ሮኦሪና</para>
+  <para style="q2">‹ዔያታ ዻቤያኬ› ጌዒ ፑሽካሢ ኬኤሪንቴኔ። <note caller="-" style="x"><char style="xo" closed="false">12፥10 </char><char style="xt" closed="false"><ref loc="JOB 1:9-11">ዒዮ. 1፥9-11</ref>፤ <ref loc="ZEC 3:1">ዛካ. 3፥1</ref>።</char></note></para>
+  <para style="q">
+    <verse number="11" style="v"/>ዔያታ ማራዓሢኮ ሱጉፆና</para>
+  <para style="q2">ሃሣ ዔያታ ማርካዼ ማርካቶና</para>
+  <para style="q2">ዖሊ ዔያታ ዒዛ ባሼኔ፤</para>
+  <para style="q">ፔ ሼምፓሢ ሃሣ ዔያታ ሚጪንቱዋዖ</para>
+  <para style="q2">ፔና ሃይቢም ዓኣሢ ዒንጌኔ፤</para>
+  <para style="q">
+    <verse number="12" style="v"/>ዬያሮ ጫሪንጮና ዒኢካ ናንጋዞንሢዮ ዎዛዹዋቴ!</para>
+  <para style="q2">ሳዖንታ ባዞ''ንታ ዒንሢም ጋዓንቴ ባዴዔቴ!</para>
+  <para style="q">ዓይጎሮ ጌዔቴ ዲያቢሎኦሴ ዒ ማዻንዳ ዎዳ'' ዻካ'' ሌሊ ዓቴ''ሢ ዔሪ</para>
+  <para style="q2">ዼኤፒ ዻጋና ዒንሢ ባንሢ ኬዴ''ኔ» ጋዓንቴ ታ ዋይዜኔ።</para>
+  <para style="p">
+    <verse number="13" style="v"/>ዼኤፖ ሾኦዣሢ ሳዖይዳ ኬኤሪንቴሢ ዛጋዖ ዓቲንቆ ናዓሢ ሾዔ ላኣሌሎ ዳውሴኔ፤ <verse number="14" style="v"/>ዬማና ላኣሌላ ዓሲ ናንጉዋ ዳውሎይዳ ዒዞም ጊኢጊሾና ቤዞ ባራኒ ዓኣዻንዳጉዲ ዼኤፒ፥ ኮኦኬ ጋኣሲ ማላ ላምዖ ጋኣሲ ዒዞም ዒንጊንቴኔ፤ ዬይያ፦ ዒኢካ ሾኦዣሢዳፓ ሃኪ ሓይሦ ሌዔና ዛላና ኮይሳ ባኣዚ'' ዒዞም ዒንጊንቴም ሜታ ባኣያ ናንጋንዳጉዲኬ። <note caller="-" style="x"><char style="xo" closed="false">12፥14 </char><char style="xt" closed="false"><ref loc="DAN 7:25">ዳኣኔ. 7፥25</ref>፤ <ref loc="DAN 12:7">12፥7</ref>።</char></note> <verse number="15" style="v"/>ላኣሌሎ ዲጲ ሙዓንዳጉዲ ሾኦዣሢ ዎርዚ ዋኣሢጉዴ፥ ዺቢ ዋኣሢ ዻንጋፓ ኬሲ'' ላኣሌሎ ጊንፆ ጮኦሽኬኔ። <verse number="16" style="v"/>ሳዓ ጋዓንቴ ላኣሌሎ ማኣዳ''ኒ ሾኦኪንቲ፥ ዼኤፖ ሾኦዣሢ ፔ ዻንጋፓ ኬሲ'' ላኣሌ ዋኣፆ ዑሽኬኔ። <verse number="17" style="v"/>ዒማ''ና ሾኦዣሢ ላኣሌሎይዳ ዻጋዺ ፆኦሲ ዓይሢፆ ካፓዞንሢና ዬሱሴም ጉሙርቂንታያ ማዒ ማርካዻ፥ ዒዞ ዜርፃፓ ዓቴዞንሢና ዖልታኒ ዓኣዼኔ። <verse number="18" style="v"/>ዼኤፖ ሾኦዣሢ ባዞ'' ዓጫ ዓኣ፥ ማኣሻላ'' ዔቄኔ።</para>
+  <chapter number="13" style="c"/>
+  <para style="s">ባዞ''ና ሳዖናፓ ኬስኬ ላምዖ ቦዖንሢ</para>
+  <para style="p">
+    <verse number="1" style="v"/>ዬካፓ ፔቴ'' ቦዖ ባዛ''ፓ ኬስካንቴ ታ ዛጌኔ፤ ዬያኮ ታጶ ጉራኒና ላንካይ ቶኦኪና ዓኣያ ማዓዛ፥ ዒዛኮ ጉራኖይዳ ታጶ ቦንቾሮ ዓጎ ባካ ዓጊንቲ ዓኣኔ፤ ሃሣ ዒዛኮ ቶኦኮ''ንሢዳ ጫሺ ሱ'ንሢ ፃኣፒንቲ ዓኣኔ። <note caller="-" style="x"><char style="xo" closed="false">13፥1 </char><char style="xt" closed="false"><ref loc="DAN 7:3">ዳኣኔ. 7፥3</ref>፤ <ref loc="REV 17:3">ዮሓ. ፆፔዻ 17፥3</ref>፤ <ref loc="REV 17:7-12">17፥7-12</ref>።</char></note> <verse number="2" style="v"/>ዬይ ታ ዛጌ ቦዓሢ ማኣኪ ማላያኬ፤ ቶካ ዒዛኮ ጋዓንቴ ጉዱሪ ማላ «ዲቤ» ጌይንታ ቦዖ ቶኪ ማላያ፥ ዻንጋ ሃሣ ዒዛኮ ዞቢ'' ዻንጋ ማላያኬ። ዼኤፖ ሾኦዣሢ ፔኤኮ ዎልቆና ፔኤኮ ካኣቱሞ ዖይቶ ሃሣ ዼኤፖ ቢታንቶዋ ዬያ ቦዓሢም ዒንጌኔ። <note caller="-" style="x"><char style="xo" closed="false">13፥2 </char><char style="xt" closed="false"><ref loc="DAN 7:4-6">ዳኣኔ. 7፥4-6</ref>።</char></note> <verse number="3" style="v"/>ዒዛ ቶኦኮኮ ፔቴ''ማይዳ ዎዻንዳያ ማላ ኪሢ ዓኣያ ታ ዛጌኔ። ጋዓንቴ ዬይ ኪፃ ፓፄም፥ ዓጮ'' ዓሳ ቢያ ዲቃቲ ሄርሺ ሄርሺ ዒዛ ጊንፆ ዓኣዼኔ። <verse number="4" style="v"/>ቦዓሢም ዒዚ ቢታንቶ ዒንጌሢሮ ዓሳ ቢያ ዼኤፖ ሾኦዣሢም ዚጌኔ፤ ዔያታ ዚጋሢ፦ «ቦዓሢጉዲ ማዓንዳይ ዖናዳይ? ዒዛና ዎላ'' ዖልታንዳሢ ዖናዳይ?» ጌዒ ጌዒኬ።</para>
+  <para style="p">
+    <verse number="5" style="v"/>ዖቶርቂ ጌስታንዳያና ጫሺ ጫሽካንዳ ዻንጋ ቦዓሢም ዒንጊንቴኔ፤ ሃሣ ዖይዲታሚ'' ላምዖ ዓጊኒያ ዒዚ ቢታንቶና ማዻንዳጉዲ ዒዛም ዓይሢንቴኔ። <verse number="6" style="v"/>ዒዚ ፆኦሲንታ ፆኦሲ ሱ'ንፆንታ ፆኦሲ ናንጋ ቤዞንታ ሃሣ ጫሪንጫ ናንጋዞንሢያ ጫሽኪሢ ዓርቄኔ። <note caller="-" style="x"><char style="xo" closed="false">13፥6 </char><char style="xt" closed="false"><ref loc="DAN 7:8">ዳኣኔ. 7፥8</ref>፤ <ref loc="DAN 11:36">11፥36</ref>።</char></note> <verse number="7" style="v"/>ፆኦሲም ዱማዼ ዓሶ ዒ ዖላንዳጉዲና ዖሊያ ባሻንዳ ቢታንቶ ዒዛም ዒንጊንቴኔ። ዱማ ዱማ ዜርፆ፥ ቶኦኮ''፥ ዱማ ሙኡቺ ጌስታ ዓሶ፥ ዱማ ዱማ ዴሮ'' ዑፃ ቢታንቶ ዒዛም ዒንጊንቴኔ። <note caller="-" style="x"><char style="xo" closed="false">13፥7 </char><char style="xt" closed="false"><ref loc="DAN 7:21">ዳኣኔ. 7፥21</ref>።</char></note> <verse number="8" style="v"/>ሳዓ ማዢንቴማፓ ዓርቃዖ ዎዾና ማራዓሢኮ ናንጎ ማፃኣፓ ሱ'ንፃ ፃኣፒንቲባኣያ፥ ሳዖይዳ ናንጋ ዓሳ ቢያ ቦዓሢም ዚጊ ካኣሽካንዳኔ። <note caller="-" style="x"><char style="xo" closed="false">13፥8 </char><char style="xt" closed="false"><ref loc="PSA 69:28">ዓይኑ. 69፥28</ref>።</char></note></para>
+  <para style="p">
+    <verse number="9" style="v"/>«ዋይዛ ዋይዚ ዓኣይ ዓኣቶ ዋይዞንጎ!</para>
+  <para style="q">
+    <verse number="10" style="v"/>ዖኦኒያ ዲዒንታኒ ዓኣይ ዓኣቴ ዲዒንታንዳኔ፤</para>
+  <para style="q2">ጬንቻ ዓፓሮና ሓይቃንዳይ ዓኣቶዋ</para>
+  <para style="q2">ጬንቾና ሓይቃንዳኔ»</para>
+  <para style="m">ዓካሪ፥ ፆኦሲም ዱማዼ ዓሶኮ ጊቢ'' ዳንዳዒፆና ጉሙርቂፆና ዔርታንዳሢ ዬኖ ዎዶ''ናኬ። <note caller="-" style="x"><char style="xo" closed="false">13፥10 </char><char style="xt" closed="false"><ref loc="JER 15:2">ዔር. 15፥2</ref>፤ <ref loc="JER 43:11">43፥11</ref>።</char></note></para>
+  <para style="p">
+    <verse number="11" style="v"/>ዬካፓ ሃሣ ሜሌ'' ቦዖ ሳዓፓ ኬስካንቴ ታ ዛጌኔ፤ ዬያኮ ማራይ ጉራኒ ማላ፥ ላምዖ ጉራኒ ዓኣኔ፤ ዒ ጌስታ ጎይፃ ዼኤፖ ሾኦዣሢ ጎይፆኬ። <verse number="12" style="v"/>ቤርታኣ ቦዓሢ ሱ'ንፆና ጉቤ ቢታንቶ ዓኣያ ማዒ ዒ ማዻኔ፤ ሳዖና ዒኢካ ናንጋ ዓሳ ቢያ ዎዻኒ ዑኬ ኪፃ ፓፄ፥ ቤርታኣ ቦዓሢም ዚጊ ካኣሽካንዳጉዲ ዓሶ ማሄኔ። <verse number="13" style="v"/>ዬይ ላምዓሳ ቦዓሢ ዓሶ ቤርታ ጫሪንጫፓ ታሚ ኬይሳንዳያ ሄላ''ንዳኣና ዒዛኮ ዓኣ ቢታንቶና ዼኤፒ ዼኤፒ ማላታ ዻዋኔ። <verse number="14" style="v"/>ቤርታኣ ቦዓሢ ሱ'ንፆና ዒ ማዻንዳጉዲ ቢታንቶ ዒዛም ዒንጊንቴያታሢሮ ዒ ዻዋ ማላቶ ዛሎ''ና ሳዓ ናንጋ ዓሶ ቢያ ዻቢሻኔ፤ ሃሣ ጬንቾ ዓፓሮና ኪፃሶናንቴ ዻቄ፥ ቦዓሢኮ ማላታ ማዣንዳጉዲ ዓሶ ዓይሤኔ። <verse number="15" style="v"/>ዬያ ቦዓሢም ቤርታኣ ቦዓሢኮ ማላቶም ሼምፖ ዒንጋ ዑኡሲ ዒንጋንዳጉዲ ቢታንቶ ዒንጊንቴኔ፤ ዬይ ቢታንታ ዒንጊንቴሢ ማላታ ጌስታንዳጉዲና ዬያ ማላቶም ዚጊ ካኣሽኩዋ ዓሳ ሓይቃንዳጉዲ ማሆም ጌይኬ። <verse number="16" style="v"/>ዬያጉዲ ሃሣ ዻኮ'' ማዔቴያ ዼኤፓ፥ ዖርጎጮ ዓሶ ማዔቴያ ማንቆ ዓሳ፥ ማዺሻሢ ማዔቴያ ማዻ ዓሳ ቢያ ፔኤኮ ሚዛቆ ኩጮይዳታቴያ ባሊቶይዳ ማላቶ ጌሣንዳንጉዲ ዓሶይዳ ዎልቃዼኔ፤ <verse number="17" style="v"/>ዬይ ያዺ ማዔሢ ቦዓሢ ሱ'ንፆ ማዔ፥ ማላታ ሃሣ ጊንሣ ፓይዳ''ባኣ ዓይጎ ዓሲያ ዔኤቢ ሻንቻኒና ሻንቃኒያ ዳንዳዑዋጉዲኬ።</para>
+  <para style="p">
+    <verse number="18" style="v"/>ዬይ ዔራቶ ኮይሳያኬ፤ ዒኔና ጪንጫ ማዔሢ ቦዓሢኮ ፓይዶ'' ፓይዲ ዔሮንጎ፤ ዓይጎሮ ጌዔቴ ፓይዳ'' ዓሲ ፓይዲ ማዔሢሮኬ፤ ዬና ፓይዳ'' ላሆ'' ፄኤታና ላሂ''ታሚ'' ላሆ''ኬ።</para>
+  <chapter number="14" style="c"/>
+  <para style="s">ማራዓሢንታ ፄኤታና ዖይዲታሚ'' ዖይዶ ሺዮ ዓሶ</para>
+  <para style="p">
+    <verse number="1" style="v"/>ዬካፓ ሓሣ ማራዓሢ ፂዮኔ ዹኮ''ይዳ ዔቂ ዓኣንቴ ታ ዛጌኔ፤ ዒዛና ዎላ'' ዒዛ ሱ'ንፆና ዒዛኮ ዓዶ ሱፆና ባሊታ ፃኣፒንቲ ዓኣ፥ ፄኤታና ዖይዲታሚ'' ዖይዶ ሺያ ዓሲ ዓኣኔ። <note caller="-" style="x"><char style="xo" closed="false">14፥1 </char><char style="xt" closed="false"><ref loc="EZK 9:4">ሂዚ. 9፥4</ref>፤ <ref loc="REV 7:3">ዮሓ. ፆፔዻ 7፥3</ref>።</char></note> <verse number="2" style="v"/>ዬኖና ጫሪንጮይዳፓ ዼኤፒ ሶኦሪንታ ዋኣሢ ዑኡሲ ሃሣ ዼኤፒ ጉጉንሢ ማላ ዑኡሲ ታ ዋይዜኔ፤ ዬይ ታ ዋይዜ ዑኡዛ ጎኦሎ'' ዓይናዺ ዋርቃ ዓሳ ጎኦሎ'' ዋርቃዛ ዋይዚንታ ዑኡዞጉዴያኬ። <verse number="3" style="v"/>ካኣቱሞ ዖይቶና ዖይዶ ባኮንሢና ሃሣ ጋርቾንሢ ቤርታ ዬና ዺቦ'' ዓሳ ቤርታ ጌይንቲ ቤቂባኣያ፥ ፆኦሲ ቦንቾም ማዓ ዓይኑሞ ዓይናዼኔ፤ ዬያ ዓይኑሞ ዓጮ'' ቢያይዳፓ ሻንቂ፥ ዱማሲ ዔኮና ፄኤታና ዖይዲታሚ'' ዖይዶ ሺዮ ዓሶፓ ዓታዛ ሜሌ'' ዖኦኒያ ዔሪ ጋዓኒ ዳንዳዒባኣሴ። <verse number="4" style="v"/>ዬያታ ኩሙሢ ማዔሢሮ ላኣሊና ዒኢቲባኣያኬ፤ ዔያታ ማራዓሢ ዓኣዻ ቤዞ ቢያ ዒዛ ጊንፆ ዓኣዻያኬ፤ ሃሣ ዔያታ ፆኦሲና ማራዓሢናኮ ቶይዶ ማዓኒ ዓሶ ባኣካ''ፓ ሻንቂ፥ ዱማሲ ዔኮና ዓሶኬ። <verse number="5" style="v"/>ዔያታ ሉኡዙሞ ሉኡቂ ዔሩዋያኬ፤ ሃሣ ዔያቶ ቦሂሳ ባኣዚ''ያ ባኣያኬ።</para>
+  <para style="s">ሃይሦ ፆኦሲ ኪኢታንቾንሢ</para>
+  <para style="p">
+    <verse number="6" style="v"/>ዬካፓ ሳዖይዳ ናንጋ ዴሮ''ና ዜርፆና ዱማ ሙኡጮ ጌስታ ዓሶና ዱማ ዱማ ቶኦኮ''ናም ቢያ ናንጊና ባይቁዋ ኮዦ ሓይሶ ኬኤዛኒ ኮሺ ሃይሴ ዔኪ ዓኣ፥ ሜሌ'' ኪኢታንቾ ጫሪንጫ ባራናንቴ ታ ዛጌኔ፤ <verse number="7" style="v"/>ዬይ ዼኤፒ ዑኡሲና፦ «ፆኦሲ ዒጊጩዋቴ፤ ሃሣ ቦንቹዋቴ፤ ዓይጎሮ ጌዔቴ ዒዛኮ ዎጎ ዎጎ ዎዳ'' ሄሌ''ኔ፤ ጫሪንጮና ሳዖና ባዞ''ና ዓልቃ ዋኣፆና ማዤ ፆኦዛሢም ዚጉዋቴ!» ጌዔኔ።</para>
+  <para style="p">
+    <verse number="8" style="v"/>ሜሌ'' ላምዓሳ ኪኢታንቻሢ፦ «ፑርታ፥ ዒኢሳ ማዾ ማዺሻ፥ ማሣ ዳጋፆ ዴሮ'' ቢያ ዑሼ፥ ዼኤፖ ባብሎኔ ካታሜላ ዶዔኔ! ዶዔኔ!» ጌዒ ጌዒ ቤርታኣ ኪኢታንቻሢ ጊንፆ ዓኣዼኔ። <note caller="-" style="x"><char style="xo" closed="false">14፥8 </char><char style="xt" closed="false"><ref loc="ISA 21:9">ዒሲ. 21፥9</ref>፤ <ref loc="JER 51:8">ዔር. 51፥8</ref>፤ <ref loc="REV 18:2">ዮሓ. ፆፔዻ 18፥2</ref>።</char></note></para>
+  <para style="p">
+    <verse number="9" style="v"/>ሓይሣሳ ኪኢታንቻስኬይ ሃሣ ዼኤፒ ዑኡሲና፦ «ቦዓሢና ዒዛኮ ማላቶናም ዚጊ ካኣሽካሢ ሃሣ ማላቶዋ ባሊታታቴያ ኩጮ ዑፃ ዓይሤሢ ቢያ፥ <verse number="10" style="v"/>ዓይጎ ባኣዚ''ናኣ ሲኢሪንቲባኣ፥ ፆኦሲኮ ጎሪ''ንቶ ዑዦ ዓንጎይዳ ኩንሦና ጎሪ''ንቶ ዳጋፆ ዑዦ ዑሽካንዳኔ፤ ዬያጉዲ ሃሣ ፆኦሲም ዱማዼ ኪኢታንቾና ማራዓሢና ቤርታ ታሚና ታሚ ፂኢሊ''ናይዳ ዓጊንቲ ሜታዻንዳኔ፤ <note caller="-" style="x"><char style="xo" closed="false">14፥10 </char><char style="xt" closed="false"><ref loc="ISA 51:17">ዒሲ. 51፥17</ref>፤ <ref loc="GEN 19:24">ማዢ. ማፃ 19፥24</ref>፤ <ref loc="EZK 38:22">ሂዚ. 38፥22</ref>።</char></note> <verse number="11" style="v"/>ዔያቶ ሜታሳ ታሞይዳፓ ኬስካ ጩባ'' ናንጊና ባይቁዋዖ ጩቢ ዴዓያ ማዓንዳኔ፤ ቦዓሢና ዒዛኮ ማላቶናም ዚጊ፥ ዒዛኮ ሱ'ንፆ ማላቶዋ ዔኪ ዓኣዞንሢኮ ቢያ ሮኦሪና ዋንቴና ሓውሾ ባኣያ ማዓንዳኔ» ጌዒ ጌዒ ሓንጎዋቶ ጊንፆ ሃሣ ዓኣዼኔ። <note caller="-" style="x"><char style="xo" closed="false">14፥11 </char><char style="xt" closed="false"><ref loc="ISA 34:10">ዒሲ. 34፥10</ref>።</char></note></para>
+  <para style="p">
+    <verse number="12" style="v"/>ፆኦሲ ዓይሢፆ ካፓዞንሢና ዬሱሴም ጉሙርቂንታያ ማዒ፥ ዶዳዞንሢኮ ጊቢ'' ዳንዳዒፃ ዔርታንዳሢ ዒኢካኬ።</para>
+  <para style="p">
+    <verse number="13" style="v"/>ዒማ''ና ሃሣ ጫሪንጮይዳፓ፦ « ‹ሓይካፓ ሴካ ጎዳ ዬሱሴሮ ማዒ ሓይቃዞንሢ ባሊቲና ዓኣያኬ› ጌዒ ፃኣፔ» ጋዓ ዑኡሲ ታ ዋይዜኔ። ዓያኖ ጌኤዣ፦ «ሂዮ፥ ዔያቶኮ ማዻ'' ዔያቶና ዎላ'' ዓኣዻንዳሢሮ ላቢ''ፃፓ ዔያታ ሃውሻንዳኔ» ጋዓኔ።</para>
+  <para style="p">
+    <verse number="14" style="v"/>ዬካፓ ቦኦሬ ሻኣሬ ታ ዛጌኔ፤ ዒማ''ና ሻኣሮ ዑፆይዳ ዓሲ ናዓሢ ማላ ዓሲ ዴዒ ዓኣኔ፤ ዒዚ ቶኦኮ''ይዳ ዎርቄና ኮሺ''ንቴ፥ ቦንቾሮ ዓጎ ባኮ ዓጊ ዓኣኔ፤ ኩጮይዳኣ ሃሣ ዓጬ ባኣቺ ዓርቂ ዓኣኔ። <note caller="-" style="x"><char style="xo" closed="false">14፥14 </char><char style="xt" closed="false"><ref loc="DAN 7:13">ዳኣኔ. 7፥13</ref>።</char></note> <verse number="15" style="v"/>ሜሌ'' ኪኢታንቾ ሃሣ ጌኤዦ ማኣራፓ ኬስካዖ ሻኣሮ ዑፃ ዴዔሢም ዼኤፒ ዑኡሲና፦ «ሳዓ፡ ጮኦሮንዶያጉዲ ካፄኔ፤ ጮኦሮንዶ ዎዳ''ኣ ሄሌ''ሢሮ ጮኦሮ ባኣጮና ጮኦሬ» ጋዓዛ፥ <note caller="-" style="x"><char style="xo" closed="false">14፥15 </char><char style="xt" closed="false"><ref loc="JOL 3:13">ዒዩ. 3፥13</ref>።</char></note> <verse number="16" style="v"/>ሻኣሮ ዑፃ ዴዒ ዓኣሢ ባኣጮ ሳዖ ባንሢ ዳካዛ ሳዓ ጮኦሪንቴኔ።<note caller="+" style="f"><char style="fr">14፥16</char> <char style="fk">ሳዓ ጮኦሪንቴኔ፦</char> ጌይንቴሢ ጋፒንፆ ዎጎ ኬሎ''ና ኪኢታንቻ ሳዖይዳ ዓኣ ዓሶ ዔኪ ፆኦሲ ቤርቶ ሺኢሻንዳሢ ዛላ ኬኤዞናያኬ።</note></para>
+  <para style="p">
+    <verse number="17" style="v"/>ዬያጉዲ ሜሌ'' ኪኢታንቻ ሃሣ ጫሪንጫ ዓኣ፥ ጌኤዦ ማኣራፓ ኬስኬኔ፤ ዒዚያ ዓጬ ባኣቺ ዔኪ ዓኣኔ።</para>
+  <para style="p">
+    <verse number="18" style="v"/>ሜሌ'' ጊንሣ ታሚ ዑፃ ቢታንቶ ዓኣ፥ ኪኢታንቻ ፆኦሲም ዒንጊ ካኣሽኮ ቤዛፓ ኬስካዖ፥ ዓጬ ባኣጮ ዔኪ ዓኣ ኪኢታንቻሢም፦ «ሳዖይዳ ዓኣ ዎይኖ ዓኣፖኮ ካፂፆ ሶያ ዔርዛሢሮ ሳዖይዳፓ ዎይኖ ቲቂ ቲቂ ዔኬ» ጌዒ ዼኤፒ ዑኡሲና ዒላቴኔ። <verse number="19" style="v"/>ኪኢታንቻሢ ዒማ''ና ባኣጮ ሳዖ ባንሢ ዳኪ ዎይኖኮ ሶዮ ቲቂ ቲቂ ዔኬስካፓ ፆኦሲ ዻጎና ዎይኖ ሄ'ርቂ ጩኡጳ ቤዛ ዓጌኔ። <verse number="20" style="v"/>ዬይ ዎይና ካታሞኮ ዙላ''፥ ዎይኖ ሄ'ርቂ ጩኡጶ ቤዛ፥ ጩኡጲንቴኔ፤ ዬካፓ ኬስኬ ሱጉፃ ሓይሦ ዋዻ ማዓንዳያ ሳዓፓ ዼ'ጊ ጌዔኔ፤ ሃሣ ሱጉፃ ጎዒ ዴንዴ ዖዶሱማ ሃይሦ ፄኤታ ሺያ ታኣካ'' ሄላ''ያ ማዔኔ። <note caller="-" style="x"><char style="xo" closed="false">14፥20 </char><char style="xt" closed="false"><ref loc="ISA 63:3">ዒሲ. 63፥3</ref>፤ <ref loc="LAM 1:15">ዔር. ቃ 1፥15</ref>፤ <ref loc="REV 19:15">ዮሓ. ፆፔዻ 19፥15</ref>።</char></note></para>
+  <chapter number="15" style="c"/>
+  <para style="s">ጋፒንፆ ማዔ ባይዛ ባኮ ዔኪ ዓኣ ኪኢታንቾንሢ</para>
+  <para style="p">
+    <verse number="1" style="v"/>ዬካፓ ሜሌ'' ዼኤፒ ሃሣ ዲቃሢ ሄርሺሳ ማላታ ጫሪንጫ ታ ዛጌኔ፤ ዬይያ፦ ፆኦሲ ዻጋ'' ዔያቶና ኩማያ ማዔ፥ ላንካይ ባይዛ ባኣዚ'' ዔኪ ዓኣ፥ ላንካይ ኪኢታንቾ ታ ዛጌኔ።</para>
+  <para style="p">
+    <verse number="2" style="v"/>ዒማ''ና ሃሣ ታሚ ሲኢሪንቴያ ሌማሌኤሼ ባዚ'' ማላያ ታ ዴንቄኔ፤ ዒኢካ ባዞ'' ዓጫ ቦዓሢና ቦዓሢኮ ማላቶና ሃሣ ዒዛ ሱ'ንፆ ፓይዶ'' ዖሊ ባሼ ዓሳ ዔቂ ዓኣንቴ ታ ዴንቄኔ፤ ዔያታ ፆኦሲዳፓ ዒንጊንቴ ጎኦላ'' ዔኪ ዓኣኔ፤ <verse number="3" style="v"/>ዔያታ ፆኦሲም ማዻ፥ ሙሴ ዓይኑሞና ማራዓሢናኮ ዓይኑሞ፦</para>
+  <para style="q">«ቢያ ባኣዚ'' ዳንዳዓ ጎዳ ማዔ ፆኦዛሢዮ!</para>
+  <para style="q2">ማዻ'' ኔኤኮ ዼኤፒ ሃሣ ዲቃሢ ሄርሺሳያኬ፤</para>
+  <para style="q">ሚርጌ ዴሮ''ኮ ካኣታ''ሢዮ!</para>
+  <para style="q2">ኔኤኮ ጎይፃ ፒዜ ሃሣ ጎኔኬ። <note caller="-" style="x"><char style="xo" closed="false">15፥3 </char><char style="xt" closed="false"><ref loc="EXO 15:1">ኬሲ. ማፃ 15፥1</ref>።</char></note></para>
+  <para style="q">
+    <verse number="4" style="v"/>ጎዳሢዮ! ኔና ዒጊጩዋያ</para>
+  <para style="q2">ሓሣ ሱ'ንፆዋ ኔኤኮ ቦንቹዋይ ዖናዳይ?</para>
+  <para style="q2">ኔኤኒ ሌሊ ዱማዼያኬ።</para>
+  <para style="q">ኔኤኮ ፒዜ ማዻ'' ፔጋዺ ዔርቴሢሮ</para>
+  <para style="q2">ዺቦ'' ዴራ'' ቢያ ሙኪ ኔ ቤርታ ኔኤም ዚጋንዳኔ»</para>
+  <para style="m">ጌዒ ጌዒ ዓይናዻኔ። <note caller="-" style="x"><char style="xo" closed="false">15፥4 </char><char style="xt" closed="false"><ref loc="JER 10:7">ዔር. 10፥7</ref>፤ <ref loc="PSA 86:9">ዓይኑ. 86፥9</ref>።</char></note></para>
+  <para style="p">
+    <verse number="5" style="v"/>ዬካፓ ሃሣ ዓፒላና ማዢንቴ፥ ፆኦሲም ዱማዼ፥ ጌኤሺ ማኣሪ ጫሪንጫ ቡሊ''ንቲ ዓኣንቴ ታ ዛጌኔ፤ <note caller="-" style="x"><char style="xo" closed="false">15፥5 </char><char style="xt" closed="false"><ref loc="EXO 38:21">ኬሲ. ማፃ 38፥21</ref>።</char></note> <verse number="6" style="v"/>ዒማ''ና ላንካዎ ባይዛ ባኮንሢ ዔኪ ዓኣ፥ ላንካይ ኪኢታንቻ ጌኤዦ ማኣራፓ ኬስኬኔ፤ ዬያታ ዓኣፒዳ ዱካ ቦኦሬ ማኣዖ ማይንቲ ዓኣኔ፤ ሃሣ ዳዶ''ይዳኣ ዎርቄና ኮሺ''ንቴ ቃልሾ ቱኡቲ ዓኣኔ። <verse number="7" style="v"/>ዬኖና ዖይዶ ባኮንሢዳፓ ፔቴ''ሢ ናንጊና ናንጋ ፆኦዛሢኮ ዻጋ'' ኩሚ ዓኣ፥ ዎርቆና ኮሺ''ንቴ ላንካይ ዑሺ ዓንጊ ላንካዎ ኪኢታንቾንሢም ዒንጌኔ፤ <verse number="8" style="v"/>ሃሣ ጌኤዦ ማኣራ ፆኦሲኮ ቦንቾና ዎልቆናይዳፓ ኬስካ ጩቦ''ና ኩሜኔ፤ ላንካዎ ኪኢታንቾንሢኮ ላንካዎ ባይዛ ባኮንሢ ማዺንቲ ኩማንዳያ ሄላ''ንዳኣና ዖኦኒያ ጌኤዦ ማኣሮ ጌላኒ ዳንዳዒባኣሴ። <note caller="-" style="x"><char style="xo" closed="false">15፥8 </char><char style="xt" closed="false"><ref loc="EXO 40:34">ኬሲ. ማፃ 40፥34</ref>፤ <ref loc="1CH 8:10-11">1ካኣቶ''. ማ 8፥10-11</ref>፤ <ref loc="2KI 5:13-14">2ፆኦሲ. ዓሃኬ 5፥13-14</ref>፤ <ref loc="ISA 6:4">ዒሲ. 6፥4</ref>።</char></note></para>
+  <chapter number="16" style="c"/>
+  <para style="s">ፆኦሲኮ ዻጋ'' ኩሜ ላንካዎ ዑዦ ዓንጎ</para>
+  <para style="p">
+    <verse number="1" style="v"/>ዬካፓ ላንካዎ ኪኢታንቾንሢም ዼኤፒ ዑኡሲና፦ «ዓኣዹዋቴ! ፆኦሲኮ ዻጋ'' ኩሜ፥ ዑዦ ዓንጎይዳ ዓኣ ዑዦ ሳዖይዳ ላኣሉዋቴ» ጌኤዦ ማኣራፓ ጋዓንቴ ታ ዋይዜኔ።</para>
+  <para style="p">
+    <verse number="2" style="v"/>ዒማ''ና ቤርታሳ ኪኢታንቻሢ ዴንዳዖ፥ ዑዦ ዓንጎይዳ ዓኣ ዑዦ ሳዖይዳ ላኣላዛ ቦዓሢኮ ማላቶ ዔኪ ዓኣ ዓሶና ዬያ ማላቶም ዚጊ ካኣሽካ ዓሶናይዳ ፑርታ ሜታሳ ኪሢ ኬዴ''ኔ። <note caller="-" style="x"><char style="xo" closed="false">16፥2 </char><char style="xt" closed="false"><ref loc="EXO 9:10">ኬሲ. ማፃ 9፥10</ref>።</char></note></para>
+  <para style="p">
+    <verse number="3" style="v"/>ላምዓሳ ኪኢታንቻሢ ዑዦ ዓንጎይዳ ዓኣ ዑዦ ባዞ'' ዋኣፆይዳ ላኣላዛ፥ ዋኣፃ ሓይቄ ዓሲ ሱጉሢጉዲ ካርቴ ሱጉሢ ማዔኔ፤ ባዞ''ይዳ ዓኣ፥ ሼምፔና ናንጋ ባካ ቢያ ሓይቄኔ።</para>
+  <para style="p">
+    <verse number="4" style="v"/>ሓይሣሳ ኪኢታንቻሢ ዑዦ ዓንጎይዳ ዓኣ ዑዦ ዎሮ ዋኣፆንታ ዓልቃ ዋኣፆንታይዳ ላኣላዛ፥ ዬይያ ሱጉሢ ማዔኔ፤ <verse number="5" style="v"/>ዬካፓ ዋኣፆ ዑፃ ቢታንታ ዓኣ፥ ኪኢታንቻሢ፦</para>
+  <para style="q">«ሓሢያ ዓኣያ ሚናፓ ናንጋ ዱማዼ ጎዳሢዮ!</para>
+  <para style="q2">ሓያይዲ ኔ ዎጌሢሮ</para>
+  <para style="q2">ኔኤኒ ፂሎ''ኬ፤</para>
+  <para style="q">
+    <verse number="6" style="v"/>ዓሳ ኔኤም ዱማዼዞንሢንታ ኔ ማሊፆ ኬኤዛዞንሢያ</para>
+  <para style="q2">ዎዺ ሱጉፆ ላኣሌሢሮ</para>
+  <para style="q">ኔኤኒ ዔያቶ ሱጉሢ ዑሼ''ኔ፤</para>
+  <para style="q">ዬይ ዔያቶም ኮይሳያኬ»</para>
+  <para style="m">ጋዓንቴ ታ ዋይዜኔ።</para>
+  <para style="p">
+    <verse number="7" style="v"/>ዬያጉዲ ሃሣ ፆኦሲም ዒንጊ ካኣሽኮ ቤዞይዳፓ፦</para>
+  <para style="q">«ሂዮ፤ ቢያ ባኣዚ'' ዳንዳዓ ጎዳ ማዔ ፆኦዛሢዮ!</para>
+  <para style="q2">ኔኤኮ ዎጊፃ ጎኔ፥ ሃሣ ፒዜኬ» ጋዓ ዑኡሲ ታ ዋይዜኔ።</para>
+  <para style="p">
+    <verse number="8" style="v"/>ዖይዳሳ ኪኢታንቻሢ ዑዦ ዓንጎይዳ ዓኣ ዑዦ ዓባ'' ላኣላዛ፥ ዓቦ''ም ዓሶ ዓዳ'' ታሚጉዲ ሚቻንዳ ዎልቄ ዒንጊንቴኔ፤ <verse number="9" style="v"/>ዬያሮ ዓሳ ዼኤፒ ሩኡጲና ሚቺንቴኔ፤ ዬንሢ ባይዛ ባኮንሢ ዑፃ ቢታንቶ ዓኣ፥ ፆኦዛሢኮ ሱ'ንፆ ዔያታ ጫሽኬኔ፤ ጎሞ ፔኤኮ ቡኡፂ፥ ዒዛ ቦንቺፆዋ ዔያታ ዒፄኔ።</para>
+  <para style="p">
+    <verse number="10" style="v"/>ዶንጋሳ ኪኢታንቻሢ ዑዦ ዓንጎይዳ ዓኣ ዑዦ ቦዓሢኮ ካኣቱሞ ዖይቶይዳ ላኣላዛ፥ ቦዓሢኮ ካኣቱማ ዹሚ ማዔኔ፤ ዓሳ ኮሺ'' ሜታዺ ሜታሢዳፓ ዔቄያና ዒንዲርዞ ፔኤኮ ዻዓኔ፤ <verse number="11" style="v"/>ሓሣ ዔያቶኮ ሜታዺፆና ኪፃዺፆናይዳፓ ዔቄያና ጫሪንጮ ፆኦዛሢ ዔያታ ጫሽኬኔ፤ ዔያታ ማዼ፥ ዻቢንቶ ቡኡፂባኣሴ።</para>
+  <para style="p">
+    <verse number="12" style="v"/>ላሃ''ሳ ኪኢታንቻሢ ዑዦ ዓንጎይዳ ዓኣ ዑዦ ዼኤፖ ዎሮ፥ ዔፕራፂሴይዳ ላኣላዛ ዓባ'' ኬስካ ዛላ''ፓ ሙካ ካኣቶ''ም ጎይሢ ማዓንዳጉዲ ዎሮ ዋኣፃ ሚጬኔ። <verse number="13" style="v"/>ዼኤፖ ሾኦዣሢ ዻንጎና ቦዓሢ ዻንጎና ሃሣ ሉኡዙሞና ፆኦሲ ማሊፆ ኬኤዛያ ማሊሳሢ ዻንጋፓ ፓንቆ ማላ፥ ሓይሦ ፑርታ ዓያና ኬስካንቴ ታ ዛጌኔ። <verse number="14" style="v"/>ዔያታ ዱማ ዓኪ ባኣዚ'' ማዻ ፃላሄ ዓያናኬ፤ ዬንሢ ሓይሦ ዓያኖንሢ ቢያ ባኮ ዳንዳዓ ፆኦዛሢኮ ዼኤፖ ኬሎ''ና ኬስካንዳ ዖሎም ዓሶ ቡኩሳኒ ዓጮ'' ካኣቶ'' ቢያሢ ባንሢ ዓኣዻኔ።</para>
+  <para style="p">
+    <verse number="15" style="v"/>«ታኣኒ ዉሲጉዲ ዔሩዋንቴ ዬዓንዳኔ፤ ካሎ'' ማዑዋጉዲና ካሉ''ሞዋ ዓሲ ዛጉዋጉዲ ጴጪ ፔኤኮ ማኣዓሢ ካፓሢ ዓንጆ ዎዛ ዴንቃንዳኔ» <note caller="-" style="x"><char style="xo" closed="false">16፥15 </char><char style="xt" closed="false"><ref loc="MAT 24:43-44">ማቲ. 24፥43-44</ref>፤ <ref loc="LUK 12:30-40">ሉቃ. 12፥30-40</ref>፤ <ref loc="REV 3:3">ዮሓ. ፆፔዻ 3፥3</ref>።</char></note></para>
+  <para style="p">
+    <verse number="16" style="v"/>ዬንሢ ዓያኖንሢ ዓጮ'' ካኣቶ'' ቢያ ዔብሬ ዓሶ ሙኡቺና ዓርማጌዶኔ ጌይንታ ቤዞይዳ ቡኩሲ ዖሎም ጊኢጊሼኔ። <note caller="-" style="x"><char style="xo" closed="false">16፥16 </char><char style="xt" closed="false"><ref loc="2KI 23:29">2ፆኦሲ. ዓሃኬ 23፥29</ref>፤ <ref loc="ZEC 12:11">ዛካ. 12፥11</ref>።</char></note></para>
+  <para style="p">
+    <verse number="17" style="v"/>ላንካሳ ኪኢታንቻሢ ዑዦ ዓንጎይዳ ዓኣ ዑዦ ዢባሮይዳ ላኣላዛ፥ ጌኤዦ ማኣራ ዓኣ ካኣቱሞ ቤዛፓ፦ «ዓካሪ ቢያ ባካ ማዺንቲ ኩሜኔ!» ጋዓ ዼኤፒ ዑኡሲ ዋይዚንቴኔ። <verse number="18" style="v"/>ዒማ''ና ዜኤሊንሢ ዜኤሊንሤኔ፥ ዼኤፒ ዑኡሲያ ዋይዚንቴኔ፥ ጉጉንሢ ጉጉንሤኔ ሃሣ ሳዓኣ ሚርጌና ዓጊፄኔ፤ ዬያጉዴ ሳዓ ዓጊፂሢ ዓሲ ማዢንቴማፓ ዓርቃዖ ዓጊፂ ቤቂባኣሴ። <note caller="-" style="x"><char style="xo" closed="false">16፥18 </char><char style="xt" closed="false"><ref loc="REV 8:5">ዮሓ. ፆፔዻ 8፥5</ref>፤ <ref loc="REV 11:13">11፥13</ref>፤ <ref loc="REV 19">19</ref>።</char></note> <verse number="19" style="v"/>ዼኤፖ ካታሜላ ሃይሦ ቤሲ ዱጲ ዱጲ ፓቂንቴኔ፤ ሜሌ'' ዓጮ'' ዓሶ ካታማኣ ቢያ ዶዔኔ፤ ፆኦሲ ዼኤፖ፥ ባብሎኔ ካታሜሎ ጶቂሢ ዒዛኮ ዼኤፖ ዻጎ ዑዦ ኩንሦና ዑዦ ዑሽካንዳጉዲ ዒዞም ዒንጌኔ። <note caller="-" style="x"><char style="xo" closed="false">16፥19 </char><char style="xt" closed="false"><ref loc="ISA 51:17">ዒሲ. 51፥17</ref>።</char></note> <verse number="20" style="v"/>ዋኣፆ ሳዛ'' ዓኣ ዓጫ'' ዓኣዺ ባይቄኔ፤ ሃሣ ዹካ''ኣ ቢያ ዓኣ ቤዛፓ ባይቄኔ። <note caller="-" style="x"><char style="xo" closed="false">16፥20 </char><char style="xt" closed="false"><ref loc="REV 6:14">ዮሓ. ፆፔዻ 6፥14</ref>።</char></note> <verse number="21" style="v"/>ዴኤሡማ ፔቴ'' ዼኤፒ ዎንሢ ሹቺጉዴ ሻቺ ጫሪንጫፓ ዓሶይዳ ኬዴ''ኔ፤ ዬይ ባይዞም ዳኪንቴ ባካ ሚርጌ ካራ ባይዚ ሜታሴያ ማዔሢሮ ዓሳ ፆኦሲ ጫሽኬኔ። <note caller="-" style="x"><char style="xo" closed="false">16፥21 </char><char style="xt" closed="false"><ref loc="EXO 9:23">ኬሲ. ማፃ 9፥23</ref>፤ <ref loc="REV 11:19">ዮሓ. ፆፔዻ 11፥19</ref>።</char></note></para>
+  <chapter number="17" style="c"/>
+  <para style="s">ዞኦስካ ኮኦማ ላኣሊ</para>
+  <para style="p">
+    <verse number="1" style="v"/>ላንካዎ ዑዦ ዓንጎ ዔኪ ዓኣ፥ ላንካዎ ኪኢታንቾንሢፓ ፔቴ''ይ ታ ባንሢ ሙካዖ ታኣም፦ «ሓኒ ሙኬ፤ ሚርጌ ዋኣፆ ዑፃ ዴዒ ዓኣ፥ ዞኦዛ ኮኦማ ላኣሌሎም ዒንጊንታንዳ ሜታሢ ታ ኔና ዻዋንዳኔ፤ <note caller="-" style="x"><char style="xo" closed="false">17፥1 </char><char style="xt" closed="false"><ref loc="JER 51:13">ዔር. 51፥13</ref>።</char></note> <verse number="2" style="v"/>ዓጮ'' ካኣታ'' ዒዞና ዎላ'' ዞኦዛ ኮኦሜኔ፤ ሃሣ ዓጮ''ይዳ ናንጋ ዓሳ ዒዞኮ ዬያ ፑርቶ ሱኡኮ ማዾ'' ዑዦና ማሢንቴኔ» ጌዔኔ። <note caller="-" style="x"><char style="xo" closed="false">17፥2 </char><char style="xt" closed="false"><ref loc="ISA 23:17">ዒሲ. 23፥17</ref>፤ <ref loc="JER 51:7">ዔር. 51፥7</ref>።</char></note></para>
+  <para style="p">
+    <verse number="3" style="v"/>ዬካፓ ኪኢታንቻሢ ዓያና ጌኤሺ ማሊፆይዳ ታና ጌልዚ፥ ዓሲ ናንጉዋ ዳውሎ'' ዔኪ ዓኣዼኔ፤ ዒኢካ ጫሺ ዑፆይዳ ቢያ ፃኣፒንቲ ዓኣ፥ ላንካይ ቶኦኪና ታጶ ጉራኒና ዓኣ፥ ዞቄ ቦዖስኬያኮ ዑፃ ዴዒ ዓኣ ፔቴ'' ላኣሊ ታ ዴንቄኔ። <note caller="-" style="x"><char style="xo" closed="false">17፥3 </char><char style="xt" closed="false"><ref loc="REV 13:1">ዮሓ. ፆፔዻ 13፥1</ref>።</char></note> <verse number="4" style="v"/>ላኣሌላ ጮልዔ ዲንኪ ማኣዖና ዞቄ ማኣዖና ማይንቲ ዓኣኔ፤ ጊንሣ ዎርቄና ዱማ ዱማ ሚዛጶ ሹጮና ፓልሚንቲ ዓኣኔ፤ ኩጮይዳ ሃሣ ዒዛ ሻኣካ ባኣዚ''ና ዒዞኮ ፑርቶ ሱኡኮ ማዾ''ና ኩሜያ፥ ዎርቄና ኮሺ''ንቴ ዑሺ ዓንጊ ዔኪ ዓኣኔ። <note caller="-" style="x"><char style="xo" closed="false">17፥4 </char><char style="xt" closed="false"><ref loc="JER 51:7">ዔር. 51፥7</ref>።</char></note> <verse number="5" style="v"/>ዒዞኮ ባሊቶይዳ፦ «ዞኦዛ ኮኦማ ዓሶና ዓጮ''ይዳ ፑርቶ፥ ዒኢቴ ማዾ''ናኮ ዒንዶ ማዔ ዼኤፖ ካታሜሎ ባብሎኔ» ጌይንታያ ዓኣሺንታያ፥ ዔርቱዋ ሱ'ንሢ ፃኣፒንቲ ዓኣኔ። <verse number="6" style="v"/>ዬና ላኣሌላ ፆኦሲም ዱማዼ ዓሶኮ ሱጉፆና ዬሱስ ኪሪስቶሴ ዛሎ'' ማርካዻ ዓሶኮ ሱጉፆና ማሢንቲ ዓኣንቴ ታ ዛጌኔ፤ ታ ዒዞ ዴንቃዖ ሚርጌና ዲቃቲ ሄርሼኔ። <verse number="7" style="v"/>ኪኢታንቻሢ ጋዓንቴ ታኣም፦ «ዓይጎሮ ኔ ዲቃቲ ሄርሻይ? ላኣሌሎና ዒዛ ዴዒ ዓኣ፥ ላንካዎ ቶኦኮ''ና ታጶ ጉራኖና ዓኣ ቦዓሢናኮ ዓኣሺንታያ ማዔ ዔርቱዋ ባኮ ታ ኔኤም ጋፒሲ ኬኤዛንዳኔ፤ <verse number="8" style="v"/>ኔኤኒ ዛጌ ቦዓሢ ቤርታ ዓኣያኬ፤ ሃሢ ጋዓንቴ ባኣሴ፤ ሃጊ ዼኤፖ፥ ዒጊቻ ዔቶይዳፓ ኬስኪ ባይቆሮ ዓኣዻንዳኔ፤ ዒማ''ና ሳዓ ማዢንቴማፓ ዓርቃዖ ሱ'ንፃ ናንጎ ማፃኣፖይዳ ፃኣፒንቲባኣያ፥ ሳዖይዳ ናንጋ ዓሳ፦ ቦዓሢ ቤርታ ዓኣያ፤ ሃሢ ጋዓንቴ ባኣያ ጊንፃፓ ሙካንዳያታሢ ዛጋዖ ዲቃቲ ሄርሻንዳኔ። <note caller="-" style="x"><char style="xo" closed="false">17፥8 </char><char style="xt" closed="false"><ref loc="DAN 7:7">ዳኣኔ. 7፥7</ref>፤ <ref loc="REV 11:7">ዮሓ. ፆፔዻ 11፥7</ref>፤ <ref loc="PSA 69:28">ዓይኑ. 69፥28</ref>።</char></note></para>
+  <para style="p">
+    <verse number="9" style="v"/>«ዔሪ ማላ ዒኔና ዓኣያ ማዓኒ ኮይሳሢ ዒማ''ናኬ፤ ላኣሌላ ዴዒ ዓኣ ቶኦኮ''ንሢ ላንካይ ዹካኬ፤ <verse number="10" style="v"/>ዔያታ ላንካይ ካኣቶ''ኬ፤ ዔያቶይዳፓ ዶንጋሢ ሎኦሜኔ፤ ፔቴ''ሢ ሃሢ ዓኣኔ፤ ባጋሢ ጋዓንቴ ሃጊ ሙኪባኣሴ፤ ዒ ሙካዖ ካኣታዺ ዴዓኒ ኮይሳሢ ዻካ'' ዎዴሮ ሌሊኬ። <verse number="11" style="v"/>ቤርታ ዓኣያ፥ ሃሢባኣ ቦዓሢ ሳላ''ሳ ካኣታ''ሢኬ፤ ዒዚ ላንካዎ ካኣቶ''ንሢፓ ፔቴ''ሢኬ፤ ዒዚያ ባይቆሮ ዓኣዻኔ።</para>
+  <para style="p">
+    <verse number="12" style="v"/>«ኔኤኒ ዛጌ ታጶ ጉራና ሓጊ ካኣታዺባኣ፥ ታጶ ካኣቶ''ኬ፤ ጋዓንቴ ኮሺ'' ዻካ'' ዎዴ ቦዓሢና ዎላ'' ካኣታዻንዳ ቢታንቶ ዔያታ ዴንቃንዳኔ። <note caller="-" style="x"><char style="xo" closed="false">17፥12 </char><char style="xt" closed="false"><ref loc="DAN 7:24">ዳኣኔ. 7፥24</ref>።</char></note> <verse number="13" style="v"/>ዬንሢ ካኣቶ''ንሢኮ ማሊፃ ፔቴ''ኬ፤ ዔያታ ፔኤኮ ዎልቆና ቢታንቶና ቦዓሢም ዒንጋንዳኔ፤ <verse number="14" style="v"/>ዬያታ ማራዓሢና ዎላ'' ዖልታንዳኔ፤ ጋዓንቴ ማራዓሢ ጎዳቶኮ ጎዳ ሃሣ ካኣቶ''ኮዋ ካኣቲ ማዔሢሮ ዖሎና ዔያቶ ባሻንዳኔ፤ ዒዛና ዎላ'' ዓኣ፥ ዔኤሊ''ንቴዞንሢንታ ዶኦሪንቴዞንሢንታ ሃሣ ጉሙርቂንታዞንሢያ ዖሎና ባሻያ ማዓንዳኔ» ጌዔኔ።</para>
+  <para style="p">
+    <verse number="15" style="v"/>ሓሣ ኪኢታንቻሢ ታኣም፦ «ዞኦዛ ኮኦማ ላኣሌላ ዴዒ ዓኣንቴ ኔ ዛጌ ዋኣፃ' ዱማ ዱማ ዜርሢ፥ ቶኦኪ፥ ዴሬ ሃሣ ዱማ ሙኡቺ ጌስታ ዺቢ ዓሲኬ፤ <verse number="16" style="v"/>ቦዓሢና ኔ ዛጌ ታጶ ጉራኖንሢና ዬኖ ዞኦዛ ኮኦማ ላኣሌሎ ዒፂ፥ ጉሪ ካሎ'' ዒዞ ዓይሳንዳኔ፤ ዒዞኮ ዓሽኮዋ ሙዒ፥ ታሚና ዒዞ ዔያታ ሚቻንዳኔ። <verse number="17" style="v"/>ፆኦሲ ፔኤኮ ማሊፆ ዔያታ ኩንሣንዳጉዲ ዬያ ዔያቶ ዒኖይዳ ጌሤኔ፤ ዓይጎሮ ጌዔቴ ፆኦሲ ቃኣላ'' ማዺንቲ ኩማንዳያ ሄላ''ንዳኣና ዔያታ ፔቴ'' ማሊሢና ዎላ'' ጊኢጊ፥ ዔያቶኮ ካኣቱሞ ቢታንቶ ቦዓሢም ዒንጋንዳጉዲኬ።</para>
+  <para style="p">
+    <verse number="18" style="v"/>«ዬና ኔ ዛጌ ላኣሌላ ዓጮ'' ካኣቶ'' ዑፃ ካኣታዻንዳ፥ ዼኤፖ ካታሜሎኬ» ጌዔኔ።</para>
+  <chapter number="18" style="c"/>
+  <para style="s">ባብሎኔ ካታሞኮ ሎኦሚፆ</para>
+  <para style="p">
+    <verse number="1" style="v"/>ዬካፓ ሃሣ ዼኤፒ ቢታንቶ ዓኣ፥ ሜሌ'' ኪኢታንቾስኬይ ጫሪንጫፓ ኬዳ''ንዳቴ ታ ዛጌኔ፤ ዒዛኮ ቦንቾ ፖዖ ሼኤሪፃፓ ዔቄያና ሳዓ ፖዔኔ፤ <verse number="2" style="v"/>ዒዚ ዼኤፒ ዑኡሲና፦</para>
+  <para style="q">«ዼኤፖ፥ ባብሎኔ ካታሜላ ሎኦሜኔ! ሎኦሜኔ!</para>
+  <para style="q2">ፃላሄኮዋ ናንጊ ቤሲ ማዔኔ!</para>
+  <para style="q2">ሃሣ ፑርቶ ዓያኖኮዋ ዎይሢ ቤሲ ማዔኔ፤</para>
+  <para style="q">ፑርታ ሃሣ ሻኣካያ ማዔ፥ ካፖኮ ቢያ</para>
+  <para style="q2">ዎይሢ ቤሲ ማዔኔ። <note caller="-" style="x"><char style="xo" closed="false">18፥2 </char><char style="xt" closed="false"><ref loc="ISA 13:21">ዒሲ. 13፥21</ref>፤ <ref loc="ISA 21:9">21፥9</ref>፤ <ref loc="JER 50:39">ዔር. 50፥39</ref>፤ <ref loc="JER 51:8">51፥8</ref>፤ <ref loc="REV 14:8">ዮሓ. ፆፔዻ 14፥8</ref>።</char></note></para>
+  <para style="q">
+    <verse number="3" style="v"/>ዴራ'' ቢያ ዒዞኮ</para>
+  <para style="q2">ፑርቶ ሱኡኮ ማዾ'' ዑዦ ዑሽኬኔ፤</para>
+  <para style="q2">ዓጮ'' ካኣታ'' ዒዞና ዎላ'' ዞኦዛ ኮኦሜኔ፤</para>
+  <para style="q">ሃሣ ዓጮ''ይዳ ኮርሞ ኮርማ ዓሳኣ</para>
+  <para style="q2">ዑሣ ዓኣዼ ዒዛ ሳኣ ናንጊም ጊኢጋያታሢሮ ዖርጎጬኔ»</para>
+  <para style="m">ጌዒ ዒላቴኔ። <note caller="-" style="x"><char style="xo" closed="false">18፥3 </char><char style="xt" closed="false"><ref loc="ISA 23:17">ዒሲ. 23፥17</ref>፤ <ref loc="JER 51:7">ዔር. 51፥7</ref>።</char></note></para>
+  <para style="q">
+    <verse number="4" style="v"/>ሓሣ ሜሌ'' ዑኡሲ ጫሪንጫፓ፦</para>
+  <para style="q2">«ታ ዴሬዮቴ! ዒዛ ማዻ ጎሞ ዒንሢ ማዹዋጉዲ</para>
+  <para style="q2">ዒዞም ዓጎና ባይሲንቶና ዒንሢያ ባይቁዋጉዲ፤</para>
+  <para style="q">ዒዞይዳፓ ኬስኩዋቴ። <note caller="-" style="x"><char style="xo" closed="false">18፥4 </char><char style="xt" closed="false"><ref loc="ISA 48:20">ዒሲ. 48፥20</ref>፤ <ref loc="JER 50:8">ዔር. 50፥8</ref>፤ <ref loc="JER 51:6">51፥6</ref>፤ <ref loc="JER 45">45</ref>።</char></note></para>
+  <para style="q">
+    <verse number="5" style="v"/>ዓይጎሮ ጌዔቴ ጎማ ዒዞኮ ኩሊንቲ</para>
+  <para style="q2">ጫሪንጮ ሄሌ''ሢሮ</para>
+  <para style="q">ፆኦሲ ዒዞኮ ፑርቱሞ ጶቂሤሢሮኬ። <note caller="-" style="x"><char style="xo" closed="false">18፥5 </char><char style="xt" closed="false"><ref loc="GEN 18:20-21">ማዢ. ማፃ 18፥20-21</ref>፤ <ref loc="JER 51:9">ዔር. 51፥9</ref>።</char></note></para>
+  <para style="q">
+    <verse number="6" style="v"/>ዒዛ ዒንጌማጉዲ ማሂ ዒንጉዋቴ፤</para>
+  <para style="q2">ዒዛ ማዼ ማዾ''ኮዋ ጳንጬ ዒዞም ማሁዋቴ፤</para>
+  <para style="q">ዒዛ ሲኢሪ ዒንጌ ዑዦ፥ ጳንጬ ማሂ</para>
+  <para style="q2">ሲኢሪ ዒዞም ዒንጉዋቴ። <note caller="-" style="x"><char style="xo" closed="false">18፥6 </char><char style="xt" closed="false"><ref loc="PSA 137:8">ዓይኑ. 137፥8</ref>፤ <ref loc="JER 50:29">ዔር. 50፥29</ref>።</char></note></para>
+  <para style="q">
+    <verse number="7" style="v"/>ዒዛ ፔና ቦንቺሲ ሳኣ ናንጊም ጊኢጋያ ማሄማጉዲ</para>
+  <para style="q2">ዒዞ ሜታሲ ዖዪሱዋቴ፤</para>
+  <para style="q">ዒዛ ፔኤኮ ዒኖና፦</para>
+  <para style="q">‹ታኣኒ ካኣቲ ማዒ ዴዔኔ፤</para>
+  <para style="q2">ዓኒ ታኣኮ ሓይቄያቱዋሴ፤</para>
+  <para style="q2">ፔቴ''ታዖ ዖዪያ ታ ዖዩዋሴ›</para>
+  <para style="m">ጌዒ ጌዒ ሄርሺንታኔ።</para>
+  <para style="q">
+    <verse number="8" style="v"/>ዬያሮ ዒዞም ዓጎና ባይሲንታ</para>
+  <para style="q2">ፔቴ'' ኬሊ'' ዒዞ ሄላ''ንዳኔ፤</para>
+  <para style="q2">ሓይቢና ዖዪሢና ናይዚና ዒዞ ሄላ''ንዳኔ፤</para>
+  <para style="q">ዒዞይዳ ዎጋ ጎዳ ማዔ ፆኦዛሢ ዼኤፒ ማዔሢሮ</para>
+  <para style="q2">ታሚና ዒዛ ሚቺንታንዳኔ»</para>
+  <para style="m">ጋዓንቴ ታ ዋይዜኔ።</para>
+  <para style="p">
+    <verse number="9" style="v"/>ዒዞና ዎላ'' ዞኦዛ ኮኦሚ፥ ጊኢጋ ናንጊ ናንጌ፥ ሳዖ ካኣታ'' ዒዛ ሚቺንታ ዎዶ''ና ኬስካ ጩቦ'' ዛጊ ዒዞሮ ዒላቲ ዒላቲ ዬኤካንዳኔ። <verse number="10" style="v"/>ዔያታ ዒዞይዳ ሄሌ'' ሜታሢ ዛጎ ዒጊጪ፥ ሃኬ ዔቂ፦</para>
+  <para style="q">«ኔኤኒ ሓና'' ዼኤፖ ካታሜሌ!</para>
+  <para style="q2">ኔኤኒ ሓና'' ፑኡፒ ማዔ፥ ባብሎኔ!</para>
+  <para style="q">ፑርቶ ዎጋ'' ኔ ጊዳ'' ዑኬና ሙኬሢሮ</para>
+  <para style="q2">ባዴዔ ኔና! ባዴዔ ኔና!»</para>
+  <para style="m">ጋዓንዳኔ። <note caller="-" style="x"><char style="xo" closed="false">18፥10 </char><char style="xt" closed="false"><ref loc="EZK 26:16-17">ሂዚ. 26፥16-17</ref>።</char></note></para>
+  <para style="p">
+    <verse number="11" style="v"/>ዔያቶኮ ዋኣፆ ካኣሚላ ጫኣኔ ባኮ ሃካፓ ሴካ ሻንቃ ዓሲ ባኣሢሮ፥ ሳዖይዳ ኮርሞ ኮርማ ዓሳ ዒዞ ዛሎ'' ዬኤኪ ዖያንዳኔ፤ <note caller="-" style="x"><char style="xo" closed="false">18፥11 </char><char style="xt" closed="false"><ref loc="EZK 27:31-36">ሂዚ. 27፥31-36</ref>።</char></note> <verse number="12" style="v"/>ዔያታ ዋኣፆ ካኣሚሎይዳ ጫኣኔ ባካ፦ ዎርቄ፥ ቢራ ዓንጊ፥ ቦንቺንታ ሹቺ፥ ሚዛጲ ሹቺ፥ ቦኦሬ ሻኣዣ ዓፒላ፥ ጮልዔ ዲንኪ ማኣዓ፥ ሱኡፔ ዓፒላ፥ ዞቄ ዓፒላ፥ ቃራ ሳውቃ ዱማ ዱማ ሚሢ፥ ዳርሲ ዓቺንታ ሚርጌ ሚኢሼ ዔካ ሚሢንታ ሞኦና ዓንጊንታ ሜሌ'' ዓንጎንታ ቦኦሬ ሚዛጶ ሹጮንታይዳፓ ኮሺ''ንቴ ባካ ቢያ፥ <verse number="13" style="v"/>ሳውቃ ሚሢ ቁኡሪ፥ ዱማ ዱማ ሳውቃ ዼኤሻ፥ ካርቤ፥ ቲሺ፥ ዑንጄ፥ ዎይኖ ዑዣ፥ ሪሚቶ ዛይታ፥ ሺኢቺ ዺኢሊ፥ ዛርጌ፥ ባይ፥ ማራይ፥ ፓራ፥ ሳርጌላ ዖይታ፤ ዬያጉዲ ሃሣ ዓይሎ'' ማዔ ዓሶንታ ዖሎና ዲዒ ዔኮና ዓሶንታኬ። <note caller="-" style="x"><char style="xo" closed="false">18፥13 </char><char style="xt" closed="false"><ref loc="EZK 27:12">ሂዚ. 27፥12</ref>፤ <ref loc="EZK 13">13</ref>፤ <ref loc="EZK 22">22</ref>።</char></note> <verse number="14" style="v"/>ዬንሢ ኮርሞ ኮርማዞንሢ፦ «ኔኤኒ ናሽካ ኮዦ ባካ ቢያ ኔ ጊዳ''ፓ ቤቲ፥ ዴንዴኔ፤ ኔኤኮ ዖርጎቹሞና ፓልሞና ቢያ ባይቄኔ፤ ማይ ዬይ ባካ ኔኤም ጊንሣ ጴዻዓኬ» ዒዞም ጋዓኔ። <verse number="15" style="v"/>ዬያ ባኮ ዒዞይዳፓ ሻንቂ ኮርሚ ዖርጎጬ ኮርማ ዓሳ ዒዞይዳ ሄሌ'' ሜቶ'' ዒጊጪሢና ሃኬ ዒዞኮ ዔቃንዳኔ፤ ሃሣ ዔያታ ዒዞ ዛሎ'' ዬኤኪ ዬኤኪ ዖያንዳኔ፤ <note caller="-" style="x"><char style="xo" closed="false">18፥15 </char><char style="xt" closed="false"><ref loc="EZK 27:31">ሂዚ. 27፥31</ref>፤ <ref loc="EZK 36">36</ref>።</char></note> <verse number="16" style="v"/>ዑኡዞዋ ዔያታ ዼ'ጊዲ፦</para>
+  <para style="q">«ሻኣዦ ዓፒሎንታ ዲንኮ ዞቄ ዓፒሎንታ ማይንታዞ</para>
+  <para style="q2">ዎርቆና ሚዛጶ ሹጮና ፓልሚንቴዞ</para>
+  <para style="q2">ዼኤፖ፥ ካታሜሎ ባብሎኔም ባዴዔ! ባዴዔ!</para>
+  <para style="q">
+    <verse number="17" style="v"/>ዬይ ቆላ'' ቢያ ኔጉዋዖ ኔኤኮ ባይቂባይ!» ጋዓንዳኔ።</para>
+  <para style="p">ዋኣፆ ካኣሚሎኮ ሱኡጋ ቢያ፥ ዋኣፆ ካኣሚሎ ቶጊ ዓኣዻ ዓሳ ቢያ፥ ዋኣፆ ካኣሚሎይዳ ማዻ ዓሶንታ ባዞ'' ዑፃ ሃንቲ ሃንቲ ኮርማ ዓሳ ቢያ ዒዞኮ ሃኬ ዔቃንዳኔ፤ <note caller="-" style="x"><char style="xo" closed="false">18፥17 </char><char style="xt" closed="false"><ref loc="ISA 23:14">ዒሲ. 23፥14</ref>፤ <ref loc="EZK 27:26-30">ሂዚ. 27፥26-30</ref>።</char></note> <verse number="18" style="v"/>ዒዛ ሚቺንታኣና ኬስካ ጩቦ'' ዛጋዖ፦ «ሃኖ' ዼኤፖ ካታሜሎጉዴያ ሜሌ'' ካታማ ዎካዳይ?» ጌይ ጌይ ዔያታ ዒላቴኔ። <note caller="-" style="x"><char style="xo" closed="false">18፥18 </char><char style="xt" closed="false"><ref loc="EZK 27:32">ሂዚ. 27፥32</ref>።</char></note> <verse number="19" style="v"/>ሃሣ ዔያታ ፔኤኮ ቶኦካ'' ሲላሊ ዋሂ፥ ዖዪ ዬኤኪ ዬኤኪ፦</para>
+  <para style="q">«ባዞ''ይዳ ዋኣፆ ካኣሚላ ዓኣ ዓሳ ቢያ</para>
+  <para style="q2">ዒዞ ቆሎ''ና ዖርጎጬ ዓሳ</para>
+  <para style="q">ዼኤፖ ካታሜላ ዑኬና፥ ኔጉዋዖ ባይቄሢሮ</para>
+  <para style="q">ባዴዔ! ባዴዔ! <note caller="-" style="x"><char style="xo" closed="false">18፥19 </char><char style="xt" closed="false"><ref loc="EZK 27:30-34">ሂዚ. 27፥30-34</ref>።</char></note></para>
+  <para style="q">
+    <verse number="20" style="v"/>ጫሪንቺዮ! ዒዛ ባይቄሢሮ ዎዛዼ፤</para>
+  <para style="q2">ዒንሢ ፆኦሲም ዱማዼዞንሢና ፆኦሲ ማዾ''ም ዳኪንቴዞንሢዮ</para>
+  <para style="q2">ሓሣ ፆኦሲ ማሊፆ ኬኤዛዞንሢዮ ዎዛዹዋቴ፤</para>
+  <para style="q">ዓይጎሮ ጌዔቴ፦</para>
+  <para style="q2">ፆኦሲ ዒንሢዳ ዒዛ ሄሊ''ሴ ሜቶ''ሮ ጌዒ</para>
+  <para style="q2">ዒዞ ፑርታና ዎጌኔ» ጌይ ጌይ ዒላቴኔ። <note caller="-" style="x"><char style="xo" closed="false">18፥20 </char><char style="xt" closed="false"><ref loc="DEU 32:43">ላሚ. ዎማ 32፥43</ref>፤ <ref loc="JER 51:48">ዔር. 51፥48</ref>።</char></note></para>
+  <para style="p">
+    <verse number="21" style="v"/>ዬካፓ ሃሣ ፔቴ'' ዼኤፒ ኪኢታንቻስኬይ ፑኡፒ ዎንሢ ሹቺጉዴ ሹቺ ዔኪ ባዞ''ይዳ ኬኤራዖ፦ «ዼኤፖ ካታሜላ፥ ባብሎኔ ሓኣዺዲ ዎልቄና ኬኤሪንታንዳኔ፤ ሓካፓ ሴካ ዒዛ ጴዻዓኬ፤ <note caller="-" style="x"><char style="xo" closed="false">18፥21 </char><char style="xt" closed="false"><ref loc="JER 51:63-64">ዔር. 51፥63-64</ref>፤ <ref loc="EZK 26:21">ሂዚ. 26፥21</ref>።</char></note></para>
+  <para style="q">
+    <verse number="22" style="v"/>ጎኦሎ'' ዋርቃ ዓሶንታ ዓይኑሞ ዓይናዻ ዓሶ ዑኡዛ</para>
+  <para style="q2">ሹሉንጎንታ ዛያሢንታ ዋርቃ ዓሶ ዑኡዛ</para>
+  <para style="q2">ላሚ ኔ ጊዳ'' ማይ ዋይዚንታዓኬ፤</para>
+  <para style="q">ዱማ ዱማ ባኣዚ'' ሃኣማቶና ማዻ ዓይጎ ዓሲያ</para>
+  <para style="q2">ሃይፓ ሴካ ኔ ጊዳ'' ጴዻዓኬ፤</para>
+  <para style="q2">ዎንሢ ዎዺንታያኣ ማይ ኔ ጊዳ'' ዋይዚንታዓኬ። <note caller="-" style="x"><char style="xo" closed="false">18፥22 </char><char style="xt" closed="false"><ref loc="EZK 26:13">ሂዚ. 26፥13</ref>፤ <ref loc="ISA 24:8">ዒሲ. 24፥8</ref>።</char></note></para>
+  <para style="q">
+    <verse number="23" style="v"/>ፖዓ፥ ፖዒያ ኔ ጊዳ''</para>
+  <para style="q2">ሓይፓ ሴካ ፖዓዓኬ፤</para>
+  <para style="q2">ዔፒ ሃይሴያ ሃይፓ ሴካ ኔ ጊዳ'' ዋይዚንታዓኬ።</para>
+  <para style="q">ኔ ዓጮ''ኮ ኮርሞ ኮርማ ዓሳ</para>
+  <para style="q2">ዓጮ'' ቢያይዳ ዔርቴ ዼኤፖ ዓሶኬ፤</para>
+  <para style="q2">ኔኤኮ ማርሾና ዓሶ ቢያ ኔ ዻቢሼኔ። <note caller="-" style="x"><char style="xo" closed="false">18፥23 </char><char style="xt" closed="false"><ref loc="JER 7:34">ዔር. 7፥34</ref>፤ <ref loc="JER 25:10">25፥10</ref>።</char></note></para>
+  <para style="q">
+    <verse number="24" style="v"/>ዒዞይዳ ፆኦሲ ማሊፆ ኬኤዛዞንሢንታ</para>
+  <para style="q2">ፆኦሲም ዱማዼዞንሢንታ</para>
+  <para style="q2">ሳዖይዳ ዎዺንቴ ዓሶኮዋ ቢያ ሱጉፃ ጴዼኔ» ጌዔኔ። <note caller="-" style="x"><char style="xo" closed="false">18፥24 </char><char style="xt" closed="false"><ref loc="JER 51:49">ዔር. 51፥49</ref>።</char></note></para>
+  <chapter number="19" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>ዬካፓ ሚርጌ ዓሲ ዑኡሲ ማላ፥ ዼኤፒ ዑኡሲ ጫሪንጮይዳ፦</para>
+  <para style="q">«ፆኦሲም ጋላታ!</para>
+  <para style="q2">ዻቂሺሢና ቦንቾና ሃሣ ዎልቄያ ኑ ፆኦዛሢሮ ማዔኔ፤</para>
+  <para style="q">
+    <verse number="2" style="v"/>ዒዚ ዎጋ ዎጊፃ ጎኔ፤ ሃሣ ፒዜኬ።</para>
+  <para style="q2">ዞኦዛ ኮኦሚፆና ሳዖ ዒኢሴ</para>
+  <para style="q2">ዞኦዛ ኮኦማ ዼኤፔሎ ፑርታና ዒ ዎጌኔ፤</para>
+  <para style="q">ዒዞ ፑርታና ዎጊፆና</para>
+  <para style="q2">ዒዛም ማዻ ዓሶኮ ሱጉፆ ማሄኔ፤ <note caller="-" style="x"><char style="xo" closed="false">19፥2 </char><char style="xt" closed="false"><ref loc="DEU 32:43">ላሚ. ዎማ 32፥43</ref>፤ <ref loc="2CH 9:7">2ካኣቶ''. ማ 9፥7</ref>።</char></note></para>
+  <para style="q">
+    <verse number="3" style="v"/>ላሚ ሃሣ</para>
+  <para style="q2">ፆኦሲም ጋላታ! ዒዞይዳፓ ጩባ'' ናንጊና ጩቢ ጩቢ ኬስካኔ»</para>
+  <para style="m">ጋዓ ዑኡሲ ታ ዋይዜኔ። <note caller="-" style="x"><char style="xo" closed="false">19፥3 </char><char style="xt" closed="false"><ref loc="ISA 34:10">ዒሲ. 34፥10</ref>።</char></note></para>
+  <para style="p">
+    <verse number="4" style="v"/>ዒማ''ና ላማታሚ'' ዖይዶ ጋርቾንሢና ዖይዶ ባኮንሢ ካኣቱሞ ዖይታ'' ዴዒ ዓኣ፥ ፆኦዛሢም ባሊቶና ሳዖ ባንሢ ሂርኪ ጌይ፦</para>
+  <para style="q">«ዓኣሜን፤ ፆኦሲም ጋላታ!» ጌዒ ጌዒ ዚጌኔ።</para>
+  <para style="s">ማራዓሢኮ ዔፖ ሙዖ</para>
+  <para style="p">
+    <verse number="5" style="v"/>ዬካፓ፦</para>
+  <para style="q">«ዒዛ ዒጊጪ፥ ዒዛም ማዻ</para>
+  <para style="q">ዻኮ''ንታ ዼኤፖንታ ቢያ</para>
+  <para style="q2">ኑ ፆኦዛሢ ጋላቱዋቴ!»</para>
+  <para style="m">ጋዓ ዑኡሲ ካኣቱሞ ዖይታ'' ዓኣ ቤዛፓ ዋይዚንቴኔ። <note caller="-" style="x"><char style="xo" closed="false">19፥5 </char><char style="xt" closed="false"><ref loc="PSA 115:13">ዓይኑ. 115፥13</ref>።</char></note></para>
+  <para style="p">
+    <verse number="6" style="v"/>ሃሣ ጊንሣ ሚርጌ ዓሲ ዑኡሲ፥ ዼኤፒ ዎታ'' ዎርዚ ዋኣሢና ዼኤፒ ጉጉንሢ ዑኡሲ ማላ ዑኡሲ፦</para>
+  <para style="q">«ቢያ ባኣዚ'' ዳንዳዓ ጎዳ ማዔ ፆኦዛሢ</para>
+  <para style="q2">ካኣታዼሢሮ ጋላቱዋቴ! <note caller="-" style="x"><char style="xo" closed="false">19፥6 </char><char style="xt" closed="false"><ref loc="EZK 1:24">ሂዚ. 1፥24</ref>፤ <ref loc="PSA 93:1">ዓይኑ. 93፥1</ref>፤ <ref loc="PSA 97:1">97፥1</ref>፤ <ref loc="PSA 99:1">99፥1</ref>።</char></note></para>
+  <para style="q">
+    <verse number="7" style="v"/>ማራዓሢኮ ዔፓ ሄሌ''ሢሮ</para>
+  <para style="q2">ዒዛኮ ዑኡቴላ ጊኢጊንቴሢሮ</para>
+  <para style="q">ዎዛ ኑም ማዖንጎ፥ ኑ ዎዛዾም፤</para>
+  <para style="q2">ቦንቺያ ዒዛ ኑ ቦንቾም።</para>
+  <para style="q">
+    <verse number="8" style="v"/>ዓኣፒዳ ዱካያ፥ ጌኤሺ ማዔ</para>
+  <para style="q2">ሻኣዣ ዓፒላ ማይንታንዳጉዲ ዒዞም ዒንጊንቴኔ፤</para>
+  <para style="q">ዬይ ቦኦሬ ሻኣዦ ዓፒላ ፆኦሲም ዱማዼ ዓሶኮ</para>
+  <para style="q">ፂሉ''ሞ ማዾ''ኬ» ጋዓንቴ ታ ዋይዜኔ።</para>
+  <para style="p">
+    <verse number="9" style="v"/>ኪኢታንቻሢ ሃሣ፦ « ‹ማራዓሢኮ ዔፖ ሙዖም ዔኤሊ''ንቴ ዓሳ ባሊቲና ዓኣያኬ› ጌይ ፃኣፔ» ታኣም ጌዔኔ፤ ሄሊ''ሳዖ ሃሣ፦ «ሓይ ፆኦሲኮ ጎኔ ቃኣላኬ» ጌዔኔ። <note caller="-" style="x"><char style="xo" closed="false">19፥9 </char><char style="xt" closed="false"><ref loc="MAT 22:2-3">ማቲ. 22፥2-3</ref>።</char></note></para>
+  <para style="p">
+    <verse number="10" style="v"/>ታኣኒ ዬያ ኪኢታንቻሢም ዚጋኒ ዒዛ ቶኮ ዴማ'' ባሊቶና ሂርኪ ጋዓዛ፥ ዒዚ ጋዓንቴ፦ «ሃሼ''! ሓያይዲፖ! ታኣኒያ ኔናንታ ዬሱሴ ዛሎ'' ማርካዻ ዒሾንሢንታ ዎላ'' ማማዻያኬ፤ ፆኦሲም ዚጌ።</para>
+  <para style="p">«ዬሱሴ ፔጋሲ ዻዌ ጎኑማ ፆኦሲ ማሊፆ ኬኤዛ ዓሶ ዻንጎና ኬኤዛ ዓያኖኬ» ጌዔኔ።</para>
+  <para style="s">ቦኦሬ ፓራሢ ቶጊ ዓኣ ዓሢ</para>
+  <para style="p">
+    <verse number="11" style="v"/>ዬካፓ ጫሪንጫ ቡሊ''ንቴም፥ ዒኢካ ቦኦሬ ፓሮ ታ ዴንቄኔ፤ ፓራሢ ቶጌሢ፦ «ጉሙርቂንታያ ሃሣ ጎኔ ዓሲ» ጌይንታያኬ፤ ዒዚ ፂሉ''ሞና ዎጋያ ሃሣ ዖልታያኬ። <note caller="-" style="x"><char style="xo" closed="false">19፥11 </char><char style="xt" closed="false"><ref loc="EZK 1:1">ሂዚ. 1፥1</ref>፤ <ref loc="PSA 96:13">ዓይኑ. 96፥13</ref>፤ <ref loc="ISA 11:4">ዒሲ. 11፥4</ref>።</char></note> <verse number="12" style="v"/>ዓኣፓ ዒዛኮ ዔኤታ ታሚ ማላኔ፤ ሃሣ ዒዛኮ ቶኦኮ''ይዳ ቦንቾሮ ዓጎ ባካ ሚርጌ ዓጊንቲ ዓኣኔ፤ ዒዛይዳፓ ዓታዛ ሜሌ'' ዖኦኒያ ዔሩዋያ፥ ፃኣፒንቴ ሱ'ንሢ ዒዛይዳ ዓኣኔ፤ <note caller="-" style="x"><char style="xo" closed="false">19፥12 </char><char style="xt" closed="false"><ref loc="DAN 10:6">ዳኣኔ. 10፥6</ref>።</char></note> <verse number="13" style="v"/>ዒዚ ሱጉሢ ሄሊ'' ፑርቲሴ ማኣዖ ማይንቲ ዓኣኔ፤ ዒዛኮ ሱ'ንፃ «ፆኦሲ ቃኣላ» ጌይንታያኬ። <verse number="14" style="v"/>ዒማ''ና ቦኦሬ ፓሮ ቶጌ፥ ቦኦሬ ጌኤሺ ዓፒላ ማይንቴ፥ ጫሪንጫ ዓኣ ዖሎ ዓሳ ዒዛ ጊንፆ ዓኣዻኔ፤ <verse number="15" style="v"/>ሜሌ'' ዴሮ'' ዖሊ ባሻንዳ ዓጬ፥ ጬንቻ ዓፓሮ ዒዛኮ ዻንጋፓ ኬስኬኔ፤ ዒዚ ሚጪንቱዋዖ ሄ'ርቂ ዔያቶ ዎይሣንዳኔ፤ ሃሣ ዒዚ ቢያ ባኣዚ'' ዳንዳዓ ፆኦዛሢኮ ዼኤፖ ዻጎና ዎይኖ ሄ'ርቂ ጩኡጶ ቤዛ ዎይኖ ሄ'ርቃንዳኔ፤ <note caller="-" style="x"><char style="xo" closed="false">19፥15 </char><char style="xt" closed="false"><ref loc="PSA 2:9">ዓይኑ. 2፥9</ref>፤ <ref loc="ISA 63:3">ዒሲ. 63፥3</ref>፤ <ref loc="JOB 3:13">ዒዮ. 3፥13</ref>፤ <ref loc="REV 14:20">ዮሓ. ፆፔዻ 14፥20</ref>።</char></note> <verse number="16" style="v"/>ዒዛኮ ማኣዓሢና ጉባዞ''ናይዳ፦ «ካኣቶ''ኮ ካኣቲ፥ ጎዳቶኮ ጎዳ» ጋዓ ሱ'ንሢ ፃኣፒንቲ ዓኣኔ።</para>
+  <para style="p">
+    <verse number="17" style="v"/>ዬካፓ ሃሣ ፔቴ'' ፆኦሲኮ ኪኢታንቻ ዓቦ'' ዑፃ ዔቂ ዓኣንቴ ታ ዛጌኔ፤ ዒዚ ጫሪንጮይዳ ባራና ካፖም ዼኤፒ ዑኡሲና፦ «ፆኦሲ ጊኢጊሼ፥ ዼኤፖ ሙዖ ሙዓኒ ቡኪንቱዋቴ፤ <verse number="18" style="v"/>ዒንሢ ቡኪንታሢ ካኣቶ'' ዓሽኮ፥ ፖኦሊሶ ዓይሣ ዓሶ ዓሽኮ፥ ዖሎ ዖላ ዶዶ ዓሶ ዓሽኮ፥ ፓራሢ ቶጊ ዖላ ዓሶና ፓራሢና ዓሽኮ፥ ዎይሣ ዓሶና ዴማ'' ማዒ ዎርቃ ዓሶናኮ ዓሽኮ፥ ዻኮ'' ዓሶና ዼኤፖ ዓሶና ዓሽኮ፤ ዬያጉዲ ዓሲ ቢያኮ ዓሽኮ ሙዓኒኬ» ጌይ ዒላቴኔ።</para>
+  <para style="p">
+    <verse number="19" style="v"/>ሓሣ ቦዓሢንታ ሳዖ ካኣቶ''ንታ ፔኤኮ ዖላ ዓሶና ዎላ'' ቦኦሬ ፓራሢ ቶጌሢና ዒዛኮ ዖላ ዓሶና ዖልታኒ ቡኪንቲ ዓኣንቴ ታ ዛጌኔ፤ <verse number="20" style="v"/>ጋዓንቴ ቦዓሢ ዓዺንቴኔ፤ ሃሣ ዒዛና ዎላ'' ዒዛ ቤርታ ዱማ ዱማ ዓኪ ባኣዚ'' ማዻ፥ ሉኡዙሞና ፆኦሲ ማሊፆ ኬኤዛሢያ ዓዺንቴኔ፤ ዒዚ ቦዓሢ ማላቶ ዔኪ ዓኣዞንሢና ዬያም ዚጋዞንሢ ዱማ ዱማ ዓኪ ባኣዚ'' ማዺ ዻዊሢና ዻቢሻኔ፤ ዒማ''ና ዬንሢ ላምዖንሢ ሼምፔና ዓኣ ጎይሣ ዓኣንቴ ዔኤታ ታሞ ባዞ''ይዳ ዓጊንቴኔ። <note caller="-" style="x"><char style="xo" closed="false">19፥20 </char><char style="xt" closed="false"><ref loc="REV 13:1-18">ዮሓ. ፆፔዻ 13፥1-18</ref>።</char></note> <verse number="21" style="v"/>ዓቴዞንሢ ሃሣ ቦኦሬ ፓራሢ ቶጌ ዓሢኮ ዻንጋፓ ኬስካ፥ ጬንቾ ዓፓራ ዎዼኔ፤ ዒማ''ና ካፓ ቢያ ዓሽኮ ዔያቶኮ ሙይ ሚሽኬኔ።</para>
+  <chapter number="20" style="c"/>
+  <para style="s">ሺዮ ሌዖ ካኣታዾንዶ ካኣቱሞ</para>
+  <para style="p">
+    <verse number="1" style="v"/>ዬካፓ ሃሣ ዼኤፖ፥ ዒጊቻ ዔቶ ካሮ'' ቡሎ'' ቁልፔና ዼኤፒ ካኒ ቢራታና ዔኪ ዓኣ፥ ኪኢታንቾስኬይ ጫሪንጫፓ ኬዳ''ንቴ ታ ዛጌኔ፤ <verse number="2" style="v"/>ዒዚ፡ ዼኤፖ ሾኦዣሢ ዓርቂ ሺያ ሌዔ ቱኬ''ኔ፤ ዬይ ዼኤፖ ሾኦዣሢ ዲያብሎሴ፥ ሃሣ ጊንሣ ፃላሄ ጌይንቴ ቤርታኣ ሾኦዣሢኬ፤ <note caller="-" style="x"><char style="xo" closed="false">20፥2 </char><char style="xt" closed="false"><ref loc="GEN 3:1">ማዢ. ማፃ 3፥1</ref>።</char></note> <verse number="3" style="v"/>ዬይ ሺዮ ሌዓ ጋፓንዳያ ሄላ''ንዳኣና ማይ ዴሮ'' ዻቢሹዋጉዲ ፆኦሲኮ ኪኢታንቻሢ ዒዛ ዼኤፖ ዒጊቻ ዔታ'' ዓጊ፥ ካሮ'' ዖኦኒያ ቡሉ''ዋጉዲ ዔርዛ ማላቶና ዓይሤኔ፤ ጋዓንቴ ዬካፓ ዻካ'' ዎዴም ዒ ቡሊ''ንታንዳያ ኮይሳኔ።</para>
+  <para style="p">
+    <verse number="4" style="v"/>ዬካፓ ካኣታ'' ዴዓ ሚርጌ ዖይታ ታ ዴንቄኔ፤ ዬኖ ዖይቶይዳ ዎጌ ዎጋኒ ቢታንቶ ዒንጊንቴ ዓሲ ዴዒ ዴዒ ዓኣንቴ ታ ዛጌኔ፤ ሃሣ ዬሱሴ ዛሎ''ና ፆኦሲ ቃኣሎ'' ኬኤዜሢ ዛሎ''ናሮ ጬንቾ ዓፓሮና ዎዾና ዓሶኮ ሼምፓሢ ታ ዴንቄኔ፤ ዔያታ ቦዓሢና ዒዛኮ ማላቶናም ዚጊባኣያ ሃሣ ዬያ ማላቶ ባሊታ ማዔቴያ ኩጫ ጌሢባኣ ዓሶኬ፤ ዔያታ ሓይባ''ፓ ዔቂ ኪሪስቶሴና ዎላ'' ሺያ ሌዔ ካኣታዻንዳኔ። <note caller="-" style="x"><char style="xo" closed="false">20፥4 </char><char style="xt" closed="false"><ref loc="DAN 7:9">ዳኣኔ. 7፥9</ref>።</char></note> <verse number="5" style="v"/>ዓቴ'' ሓይቄ ዓሳ ጋዓንቴ ዬይ ሺዮ ሌዓ ጋፓንዳያ ሄላ''ንዳኣና ሃይባ''ፓ ዔቂባኣሴ። ዬና ቤርታሳ ሃይባ''ፓ ዔቂፆኬ። <verse number="6" style="v"/>ቤርታሳ ሓይባ''ፓ ዔቂፆ ዔቄዞንሢኮ ዓንጆ ዎዛ ዓኣያ፥ ሃሣ ፆኦሲማኣ ዔያታ ዱማዼያኬ፤ ላምዓሳ ሓይባ'' ዔያቶ ዎኦታንዳ ባኣዚ''ያ ባኣሴ፤ ዔያታ ፆኦሲና ኪሪስቶሴናኮ ማዻ ቄኤሶ ማዒ፥ ኪሪስቶሴና ዎላ'' ሺያ ሌዔ ካኣታዻንዳኔ።</para>
+  <para style="s">ፃላሄኮ ዖሎና ባሺንቲፆ</para>
+  <para style="p">
+    <verse number="7" style="v"/>ዬና ሺዮ ሌዓ ጋፔሢኮ ጊንፃ ፃላሄ ቱኡዛፓ ቡሊ''ንታንዳኔ፤ <verse number="8" style="v"/>ዬካፓ ዒ ዓጮ'' ቢያይዳ ዓኣ፥ ጎኦጌና ማኣጎኦጌ ጌይንታ ዴሮ'' ዻቢሺ ዖልዚሮዋ ዔያቶ ዔኪ ኬስካንዳኔ፤ ዬያ ዴሮ''ኮ ፓይዳ'' ባዞ'' ዓጫ ዓኣ ማኣሻሎጉዲኬ። <note caller="-" style="x"><char style="xo" closed="false">20፥8 </char><char style="xt" closed="false"><ref loc="EZK 7:2">ሂዚ. 7፥2</ref>፤ <ref loc="EZK 38:2">38፥2</ref>፤ <ref loc="EZK 9">9</ref>፤ <ref loc="EZK 15">15</ref>።</char></note> <verse number="9" style="v"/>ዔያታ ዓጮ'' ቢያ ኬስኪ ዴንዳዖ ፆኦሲም ዱማዼ ዓሳ ናንጋ ጉርዶና ዒዚ ናሽካ ካታሜሎዋ ማንጌኔ፤ ጋዓንቴ ጫሪንጫፓ ታሚ ኬዲ'' ዔያቶ ሙዔኔ። <verse number="10" style="v"/>ዔያቶ ዻቢሼ ፃላሄና ቦዓሢና ሃሣ ሉኡዙሞና ፆኦሲ ማሊፆ ኬኤዛያ ማላሢ ዓኣ ቤዞ፥ ፂኢሎ'' ኬስኪ ዔኤታ ታሞ ባዞ''ይዳ ዔያታ ዓጊንቴኔ፤ ዒኢካ ዔያታ ዋንቶንታ ሮኦሮንታ ናንጊና ጋፑዋ ሜቶ ናንጊ ናንጋንዳኔ።</para>
+  <para style="s">ጋፒንፆ ዎጎ</para>
+  <para style="p">
+    <verse number="11" style="v"/>ዬካፓ ቦኦሬ፥ ዼኤፒ፥ ካኣቱሞ ዖይታና ዬያ ዖይቶይዳ ዴዒ ዓኣ ዓሲ ታ ዴንቄኔ፤ ዒማ''ና ሳዖና ጫሪንጮና ዒዛ ቤርታፓ ዓኣሺንቴኔ፤ ቤሲያ ዔያቶኮ ጴዺባኣሴ፤ <verse number="12" style="v"/>ዼኤፖንታ ዻኮ''ንታ ማዔ፥ ሓይቄ ዓሳ ካኣቱሞ ዖይቶ ቤርታ ዔቂ ዓኣንቴ ታ ዛጌኔ፤ ዒማ''ና ማፃኣፔ ቡሊ''ንቴኔ፤ ሜሌ'' ናንጊ ማፃኣፔ ማዔ፥ ማፃኣፔያ ቡሊ''ንቴኔ፤ ሓይቄ ዓሳ ዒማ''ና ማፃኣፖይዳ ፃኣፒንቲ ዓኣ፥ ፔኤኮ ማዾ'' ጎይፆ ዎጎ ዔኬኔ። <note caller="-" style="x"><char style="xo" closed="false">20፥12 </char><char style="xt" closed="false"><ref loc="DAN 7:9-10">ዳኣኔ. 7፥9-10</ref>።</char></note> <verse number="13" style="v"/>ባዞ''ይዳ ጌሊ ሙይንቲ ሓይቄ ዓሶ ባዛ'' ኬሲ'' ዒንጌኔ፤ ሓይቢንታ ሃይቄ ዓሳ ናንጋ ቤዞንታ ዔያቶ ኮይላ'' ዓኣ ሓይቄ ዓሶ ኬሲ'' ኬሲ'' ዒንጌኔ፤ ዬያይዲ ፔቴ'' ፔቴ'' ዓሳ ፔኤኮ ማዾ'' ጎይፆ ዎጎ ዔኬኔ። <verse number="14" style="v"/>ዬካፓ ሓይቢንታ ሓይቄ ዓሳ ናንጋ ቤዞንታ ታሞ ባዞ''ይዳ ዓጊንቴኔ፤ ዬይ ታሞ ባዛ'' ላምዓሳ ሓይቦኬ፤ <verse number="15" style="v"/>ሱ'ንፃ ናንጎ ማፃኣፓ ፃኣፒንቲ ጴዺባኣሢ ቢያ ታሞ ባዞ''ይዳ ዓጊንቴኔ።</para>
+  <chapter number="21" style="c"/>
+  <para style="s">ዓኪ ጫሪንቺና ዓኪ ሳዓና</para>
+  <para style="p">
+    <verse number="1" style="v"/>ዬካፓ ዓኪ ጫሪንቺና ዓኪ ሳዓና ታ ዛጌኔ፤ ዎይቲ ጌዔቴ ቤርታኣ ጫሪንጮና ቤርታኣ ሳዖና ባይቄሢሮኬ፤ ባዚ''ያ ባኣያ ማዔኔ። <note caller="-" style="x"><char style="xo" closed="false">21፥1 </char><char style="xt" closed="false"><ref loc="ISA 65:17">ዒሲ. 65፥17</ref>፤ <ref loc="ISA 66:22">66፥22</ref>፤ <ref loc="2PE 3:13">2ጴፂ. 3፥13</ref>።</char></note> <verse number="2" style="v"/>ፆኦሲም ዱማዼ ካታሜላ፥ ዓኮ ዬሩሳላሜ ዓኒም ሎዓኒ ፓልሚ፥ ጊኢጊንቴያ ማዒ ፆኦሲ ኮይሎ ጫሪንጫፓ ኬዳ''ንቴ ታ ዛጌኔ፤ <note caller="-" style="x"><char style="xo" closed="false">21፥2 </char><char style="xt" closed="false"><ref loc="ISA 52:1">ዒሲ. 52፥1</ref>፤ <ref loc="ISA 61:10">61፥10</ref>፤ <ref loc="REV 3:12">ዮሓ. ፆፔዻ 3፥12</ref>።</char></note> <verse number="3" style="v"/>ካኣቱሞ ዖይታ'' ዓኣ ቤዛፓ፦ «ፆኦሲኮ ዎይፆ ቤዛ ዓሶ ባኣካኬ፤ ዒዚያ ዔያቶና ዎላ'' ናንጋንዳኔ፤ ዔያታ ዒዛ ዓሲ ማዓንዳኔ፤ ፆኦሲ ፔ ቶኦኪና ዔያቶና ዎላ'' ማዓንዳኔ፤ ፆኦዛሢያ ዔያቶኮ ዒዛ ማዓንዳኔ፤ <note caller="-" style="x"><char style="xo" closed="false">21፥3 </char><char style="xt" closed="false"><ref loc="EZK 37:27">ሂዚ. 37፥27</ref>፤ <ref loc="LEV 26:11-12">ሌዊ. ዓኬ 26፥11-12</ref>።</char></note> <verse number="4" style="v"/>ሓሣ ዓቢፆ ቢያ ዔያቶኮ ዓኣፓፓ ዒ ዑጫንዳኔ፤ ሓይቢ ማዔቴያ ዖዪሢ፥ ዬኤፒ ማዔቴያ ሜታ ማይ ዔያቶኮ ባኣሴ፤ ዓይጎሮ ጌዔቴ ቤርታኣ ባካ ቢያ ዓኣዼኔ» ዼኤፒ ዑኡሲና ጋዓንቴ ታ ዋይዜኔ። <note caller="-" style="x"><char style="xo" closed="false">21፥4 </char><char style="xt" closed="false"><ref loc="ISA 25:8">ዒሲ. 25፥8</ref>፤ <ref loc="ISA 35:10">35፥10</ref>፤ <ref loc="ISA 65:19">65፥19</ref>።</char></note></para>
+  <para style="p">
+    <verse number="5" style="v"/>ዒማ''ና ካኣቱሞ ዖይቶይዳ ዴዔሢ፦ «ዓካሪ፥ ታ ቢያ ባኮ ዓካሳንዳኔ» ጌዔኔ፤ ዬካፓ ሃሣ፦ «ሓይ ቃኣላ'' ጉሙርቂንታያ፤ ጊንሣ ጎኔ ማዔሢሮ ፃኣፔ» ታኣም ጌዔኔ። <verse number="6" style="v"/>ሃሣ ዒዚ፦ «ዓካሪ ቢያ ባካ ጋፔኔ! ዔኤቢኮ ቢያ ዓርቃሢና ጋፒሳሢና ታናኬ፤ ዼኤቢንቴሢም ናንጎ ዋኣፆይዳፓ ጪጎ ባኣዚ'' ባኣንቴ፥ ጉሪ ታ ዒንጋንዳኔ፤ <note caller="-" style="x"><char style="xo" closed="false">21፥6 </char><char style="xt" closed="false"><ref loc="ISA 55:1">ዒሲ. 55፥1</ref>።</char></note> <verse number="7" style="v"/>ዖሎና ባሼሢ ዬያ ቢያ ዴንቃንዳኔ፤ ታ ዒዛኮ ፆኦሲ ማዓንዳኔ፤ ዒ ታኣኮ ናዖ ማዓንዳኔ፤ <note caller="-" style="x"><char style="xo" closed="false">21፥7 </char><char style="xt" closed="false"><ref loc="2SA 7:14">2ሳሙ. 7፥14</ref>፤ <ref loc="PSA 89:26-27">ዓይኑ. 89፥26-27</ref>።</char></note> <verse number="8" style="v"/>ጋዓንቴ ዒጊጫ ዓሳ፥ ጉሙርቁዋ ዓሳ፥ ዒኢቴያ ማዔ ፑርቶ ዓሳ፥ ዓሶ ዎዻ ዓሳ፥ ማቾ ሃሣ ዓኒ ማዒባኣያና ላሃ ዓሳ፥ ማርሾ ማርሻ ዓሳ፥ ሜሌ'' ፆኦዞ ካኣሽካ ዓሶንታ ሉኡቃ ዓሶንታኮ ቢያ ዔያታ ጌላንዳ ቤዛ ፂኢሊ'' ኬስኪ ዔኤታ ታሞ ባዞ''ይዳኬ፤ ዬይያ፦ ላምዓሳ ሓይቦ''ኬ» ታኣም ጌዔኔ።</para>
+  <para style="s">ዓኮ ዬሩሳላሜ</para>
+  <para style="p">
+    <verse number="9" style="v"/>ጋፒንሢ ማዔ፥ ባይዛ ባኮ ላንካዎንሢ ኩንሦና ላንካዎ ዑዦ ዓንጎ ዔኪ ዓኣ ላንካዎ ኪኢታንቾንሢዳፓ ፔቴ''ሢ ታ ኮይላ'' ሙካዖ፦ «ማራዓሢኮ ማቾ ማዓ፥ ዑኡቴሎ ታ ኔና ዻዋንዳኔ» ጌዔኔ። <verse number="10" style="v"/>ዓያና ጌኤሺ ማሊሢ ጋሮ ታኣኒ ጌሊ ዓኣንቴ ዒዚ ፔቴ''፥ ዼኤፒ ዹካ ታና ዔኪ ዓኣዻዖ ፆኦሲም ዱማዼ፥ ዬሩሳላሜ ካታሜላ ፆኦሲ ኮይሎ፥ ጫሪንጫፓ ኬዳ''ያ ታና ዻዌኔ፤ <note caller="-" style="x"><char style="xo" closed="false">21፥10 </char><char style="xt" closed="false"><ref loc="EZK 40:2">ሂዚ. 40፥2</ref>።</char></note> <verse number="11" style="v"/>ፆኦሲኮ ቦንቻ ዒዞም ፖዓኔ፤ ዒዞኮ ፖዓ ሚርጌና ሚዛጳያ ማዔ፥ ዒያስጲዴ ጌይንታ ሹጮጉዲ ኮሺ'' ፖዓያ፤ ሃሣ ጌኤሺ ሌማሌኤሼጉዲ ፖዓያኬ፤ <verse number="12" style="v"/>ታጶ ላምዖ ጌሎ ካራ ዓኣ፥ ዼኤፒ ሃሣ ሹቺና ኬልቆና ዼ'ጌ ኬኤሌ'' ዲሢ ዒዞኮ ዓኣኔ፤ ዬኖ ታጶ ላምዖ ጌሎ ካሮ''ይዳ ታጶ ላምዖ ኪኢታንቻ ዔቂ ዓኣኔ፤ ዒኢካ ሃሣ ታጶ ላምዖ ዒስራዔኤሌ ፃጶ ሱ'ንፃ ፃኣፒንቲ ዓኣኔ። <verse number="13" style="v"/>ዓባ'' ኬስካ ዛሎ''ና ሃይሦ ካራ፥ ኬዶ'' ዛሎ''ና ሃይሦ፥ ዾኦሎ'' ዛሎ''ና ሃይሦ፥ ዓባ'' ጌላ ዛሎ''ናኣ ሃይሦ ካራ ዓኣኔ። <note caller="-" style="x"><char style="xo" closed="false">21፥13 </char><char style="xt" closed="false"><ref loc="EZK 48:30-35">ሂዚ. 48፥30-35</ref>።</char></note> <verse number="14" style="v"/>ካታሜሎ ሹጮና ኬልቂ፥ ዲርቆና ዲፆኮ ዶዲሻኒ ዴማ'' ጌሢ ማዦና ታጶ ላምዖ ሹቺ ዓኣኔ፤ ዬያቶ ዑፆይዳ ማራዓሢ ማዾ''ም ዳኪንቴ፥ ታጶ ላምዖንሢኮ ሱ'ንፃ ፃኣፒንቲ ዓኣኔ፤ <verse number="15" style="v"/>ዒማ''ና ታኣና ጌስታ ኪኢታንቻሢ ካታሞንታ ካታሞኮ ጌሎ ካሮ''ንታ ሹጮና ኬልቂ ዲርቆና ዲፆዋ ዋርቆ፥ ዎርቄና ኮሺ''ንቴ ዖዶሲ ዓንጊ ኮኦሎ'' ዔኪ ዓኣኔ፤ <note caller="-" style="x"><char style="xo" closed="false">21፥15 </char><char style="xt" closed="false"><ref loc="EZK 40:3">ሂዚ. 40፥3</ref>።</char></note> <verse number="16" style="v"/>ካታሜሎኮ ዖዱሱሞና ዳልጉሞና ዖይዶ ዛሎ''ና ቢያ ሄኮ ማዔያኬ፤ ኪኢታንቻሢያ ካታሜሎ ዬኖ ዓንጌሎና ዋርቃዛ ዒዞኮ ዖዶሱማ ታጶ ላምዖ ሺያ ሚራፔ <note caller="+" style="f"><char style="fr">21፥16</char> <char style="fk">ሚራፔ፦</char> ጌይፃ ሚናኣ ዎዶ''ና ዔኤቢኮ ዖዶሱሞንታ ዳልጉሞንታ ዔጲንታ ዋርቂ ዔሮያ ማዓዛ ፔቴ'' ሚራፔ' ፔቴ'' ፄኤታና ሳሊ''ታሚ'' ዶንጎ ታኣኪሢ ማዓያኬ።</note> ማዔኔ፤ ዒዞኮ ዳልጉሞና ዔጶና ዬኖ ጎይፆ ማዔኔ፤ <verse number="17" style="v"/>ኪኢታንቻሢ ሹጮና ኬልቂ ዲርቆና ዲፆ ዋርቄኔ፤ ዋርቃዛ ዖዶሱማ ኪኢታንቻሢ ዋርቃ፥ ዔርቴ ዋርቆ ባኮና ፄኤታና ዖይዲታሚ'' ዖይዶ ዋዻ ማዔኔ። <verse number="18" style="v"/>ዬይ ኮሾ''ና ኬኤሎ'' ዲራ፥ ዒያስጲዴ ሹጮና ኮሾ''ናያኬ፤ ካታሜላ ሌማሌኤሼጉዴ ጌኤሺ ዎርቄና ማዦናያኬ፤ <note caller="-" style="x"><char style="xo" closed="false">21፥18 </char><char style="xt" closed="false"><ref loc="ISA 54:11-12">ዒሲ. 54፥11-12</ref>።</char></note> <verse number="19" style="v"/>ካታሜሎኮ ኬኤሎ'' ዲፆ ዶዲሻንዳጉዲ ዴማ'' ጌሢ ማዦና ሹጫ ዱማ ዱማ ሹጮና ቢያ ማይሊ ጊኢጊሾናያኬ፤ ቤርታሲ ዒያሲጲዴ፥ ላምዓሶ ሴንፔሬ፥ ሃይሣሶ ኬልቂዶኔ፥ ዖይዳሶ ሜሬጊዴ፥ <verse number="20" style="v"/>ዶንጋሶ ሴርዴንክሴ፥ ላሃ''ሶ ሴርዲዮኔ፥ ላንካሶ ኪሪስቶሎቤ፥ ሳላ''ሶ ቢሬሌ፥ ታዞጳሶ ዌራዊሬ፥ ታጳሶ ኪሪስጲራሲሴ፥ ታጶ ፔታ''ሶ ያኪንቴ፥ ታጶ ላምዓሶ ዓሜቴስፂሮ ጌይንታ ሹጮ ጌሢ ማዢንቴያኬ። <verse number="21" style="v"/>ታጶ ላምዖ ካሮ''ይዳ ታጶ ላምዖ ሚዛጲ ሹቺ ዓኣኔ፤ ፔቴ'' ፔቴ'' ካራ'' ፔቴ'' ፔቴ'' ሚዛጲ ሹቺና ማዢንቴያኬ፤ ካታሜሎኮ ሳዞ'' ዼኤፖ ጎይፃ ሌማሌኤሼጉዲ ፖዓ፥ ጌኤሺ ዎርቄና ኮሾ''ናያኬ።</para>
+  <para style="p">
+    <verse number="22" style="v"/>ቢያ ባኣዚ'' ዳንዳዓ ጎዳ ማዔ ፆኦዛሢና ማራዓሢና ዬኖ ካታሜሎኮ ጌኤዦ ማኣሮ ማዔሢሮ ካታሞይዳ ጌኤሺ ማኣሪ ታ ዴንቂባኣሴ። <verse number="23" style="v"/>ፆኦሲኮ ቦንቾ ፖዓ፥ ዒዞም ፖዓሢሮና ሓሣ ማራዓሢያ ዒዞኮ ፖዓሢ ማዔሢሮ ካታሜሎም ዓቢያ ማዖም ዓጊኒያ ፖዓንዳጉዲ ኮይሱዋሴ። <note caller="-" style="x"><char style="xo" closed="false">21፥23 </char><char style="xt" closed="false"><ref loc="ISA 60:19-20">ዒሲ. 60፥19-20</ref>።</char></note> <verse number="24" style="v"/>ዴራ'' ዒዞ ፖዖና ሃንታንዳኔ፤ ሓሣ ዓጮ'' ካኣታ'' ፔኤኮ ዓኣ ባኮ ዒዞ ባንሢ ዔኪ ዬዓንዳኔ። <note caller="-" style="x"><char style="xo" closed="false">21፥24 </char><char style="xt" closed="false"><ref loc="ISA 60:3">ዒሲ. 60፥3</ref>።</char></note> <verse number="25" style="v"/>ዒኢካ ዹሚ ባኣያታሢሮ ካታሜሎኮ ካራ'' ቢያ ዎዴ ዎዺንቱዋዖ ዴዓኔ። <verse number="26" style="v"/>ዴሮ''ኮ ዓኣ ባካ ቢያ ዒዞ ጋሮ ጌላንዳኔ፤ <note caller="-" style="x"><char style="xo" closed="false">21፥26 </char><char style="xt" closed="false"><ref loc="ISA 60:11">ዒሲ. 60፥11</ref>።</char></note> <verse number="27" style="v"/>ፑርታ፥ ሻኣካ ባኣዚ'' ማዔያ ፔቴ''ታዖ ዒዞ ካታሜሎ ጌላዓኬ፤ ሃሣ ፔና ዒኢሳ ማዾ ማዻያና ሉኡቃ ዓሲ ፔቴ''ታዖ ዒኢካ ጌላዓኬ፤ ዒኢካ ጌላንዳዞንሢ ሱ'ንፃ ማራዓሢኮ ናንጎ ማፃኣፖይዳ ፃኣፒንቴዞንሢ ሌሊኬ። <note caller="-" style="x"><char style="xo" closed="false">21፥27 </char><char style="xt" closed="false"><ref loc="ISA 52:1">ዒሲ. 52፥1</ref>፤ <ref loc="EZK 44:9">ሂዚ. 44፥9</ref>።</char></note></para>
+  <chapter number="22" style="c"/>
+  <para style="p">
+    <verse number="1" style="v"/>ዬካፓ ኪኢታንቻሢ ፆኦሲና ማራዓሢናኮ ካኣቱሞ ዖይቶይዳፓ ኬስካ፥ ጌኤሺ ሌማሌኤሼጉዲ ጌኤሽካ ናንጊ ዋኣሢ ዎርዚ ታና ዻዌኔ፤ <note caller="-" style="x"><char style="xo" closed="false">22፥1 </char><char style="xt" closed="false"><ref loc="EZK 47:1">ሂዚ. 47፥1</ref>፤ <ref loc="ZEC 14:8">ዛካ. 14፥8</ref>።</char></note> <verse number="2" style="v"/>ዬይ ዎራሢ ካታሜሎኮ ሳዛ'' ዓኣ ዼኤፖ ጎይፆ ጊዴና ዓኣዻያኬ፤ ዎሮኮ ሻውሎና ሚዛቆናይዳ ዓጊና ዓጊና ዓኣፒ ዓኣፓያ፥ ሌዖይዳ ታጶ ላምዒ ማይንቲ ዓኣፓ ናንጊ ሚሢ ዓኣኔ፤ ዬያ ሚፃሢኮ ዒላዣ ዴሮ''ኮ ዼኤሻኬ፤ <note caller="-" style="x"><char style="xo" closed="false">22፥2 </char><char style="xt" closed="false"><ref loc="GEN 2:9">ማዢ. ማፃ 2፥9</ref>፤ <ref loc="EZK 47:12">ሂዚ. 47፥12</ref>።</char></note> <verse number="3" style="v"/>ሓይካፓ ሴካ ማይ ጋዳማ ባኣያ ማዓንዳኔ፤ ፆኦሲና ማራዓሢናኮ ካኣቱሞ ዖይታ ካታሜሎይዳ ማዓንዳኔ፤ ዒዛም ማዻዞንሢያ ዒዛ ካኣሽካንዳኔ፤ <note caller="-" style="x"><char style="xo" closed="false">22፥3 </char><char style="xt" closed="false"><ref loc="ZEC 14:11">ዛካ. 14፥11</ref>።</char></note> <verse number="4" style="v"/>ዒዛኮ ዓውካሮዋ ዔያታ ዛጋንዳኔ፤ ዒዛኮ ሱ'ንፃኣ ዔያቶኮ ባሊታ ፃኣፒንቴያ ማዓንዳኔ፤ <verse number="5" style="v"/>ዬካፓ ሴካ ዹሚያ ዹማዓ፤ ናንጊና ናንጋ ጎዳ ማዔ ፆኦዛሢ ዔያቶም ፖዓንዳሢሮ ፖዒ ፖዓ ባኣዚ''ታቴያ ዓቢያ ዔያቶም ኮይሱዋያኬ፤ ናንጊና ዔያታ ካኣታዼ ጎይሣ ናንጋንዳኔ። <note caller="-" style="x"><char style="xo" closed="false">22፥5 </char><char style="xt" closed="false"><ref loc="ISA 60:19">ዒሲ. 60፥19</ref>፤ <ref loc="DAN 7:18">ዳኣኔ. 7፥18</ref>።</char></note></para>
+  <para style="s">ዬሱሴኮ ማዒ ሙኪፆ ዛላ</para>
+  <para style="p">
+    <verse number="6" style="v"/>ዬካፓ ሃሣ ኪኢታንቻሢ፦ «ሃንሢ ጌይንቴ ባኮንሢ ጉሙርቂንታያ ሃሣ ጎኔኬ፤ ፔ ዓያኖ ዒዛ ማሊፆ ኬኤዛ ዓሶም ዒንጋ ጎዳ ማዔ ፆኦዛሢ ዻካ'' ዎዴኮ ጊንፃፓ ማዓንዳ ባኮ ዒዛም ማዻዞንሢም ፔጋሲ ዻዋኒ ፔኤኮ ኪኢታንቻሢ ዳኬኔ» ታኣም ጌዔኔ።</para>
+  <para style="p">
+    <verse number="7" style="v"/>ዬሱሴ ታኣም ኬኤዛዖ፦ «ታ ዑኬና ዬዓንዳኔ፤ ሓኖ' ማፃኣፖይዳ ኬኤዚንቴ ፆኦሲ ማሊፆ ካፒ፥ ማዺ ኩንሣሢ ዓንጆ ዎዛ ዴንቃንዳኔ» ጌዔኔ።</para>
+  <para style="p">
+    <verse number="8" style="v"/>ሓያ ባኮ ዋይዜሢና ዛጌሢ ታና ዮሓኒሴኬ፤ ዬንሢ ታ ዋይዛዖ ሓሣ ዛጋዖ ዬንሢ ባኮንሢ ታኣም ዻዌ ኪኢታንቻሢም ዚጋኒ ዒዛኮ ቶኮ ዴማ'' ሎኦሜኔ። <verse number="9" style="v"/>ኪኢታንቻሢ ጋዓንቴ፦ «ሓሼ''! ሓያይዲፖ! ታኣኒ ኔናንታ ኔኤኮ ጌርሲንሢንታ ማዔ፥ ፆኦሲ ማሊፆ ኬኤዛዞንሢና ዎላ''፤ ሃሣ ሓያ ማፃኣፓ ጌይንቴ ባኮ ካፓዞንሢና ዎላ'' ማማዻያኬ፤ ፆኦሲም ዚጊ ካኣሽኬ» ታኣም ጌዔኔ። <verse number="10" style="v"/>ሓሣ ዒዚ ኬኤዛዖ፦ «ቢያ ባካ ማዺንቲ ኩማንዳ ዎዳ'' ዑኬያ ማዔሢሮ ሓያ ማፃኣፖይዳ ፆኦሲ ማሊፆና ኬኤዚንቴ ባኮ ዓሲም ዔርቱዋጉዲ ዓኣቺፖ፤ <verse number="11" style="v"/>ዓካሪ፡ ፑርቶ ማዻሢ ፑርቶ ማማዾንጎ፤ ፔና ዒኢሳ ባኣዚ'' ማዻሢያ ማማዾንጎ፤ ፂላ''ሢያ ፂፂሎ''ንጎ፤ ፆኦሲም ዱማዼሢያ ፔና ዱዱማሶንጎ» ጌዔኔ። <note caller="-" style="x"><char style="xo" closed="false">22፥11 </char><char style="xt" closed="false"><ref loc="DAN 12:10">ዳኣኔ. 12፥10</ref>።</char></note></para>
+  <para style="p">
+    <verse number="12" style="v"/>ዬሱሴ ዒማ''ና ታኣም፦ «ታኣኒ ዑኬ ዬዓንዳኔ፤ ፔቴ'' ፔቴ''ሢም ፔ ማዾ''ጉዴያ ታ ዒንጋንዳ ባካ ታ ኮይላ'' ዓኣኔ፤ <note caller="-" style="x"><char style="xo" closed="false">22፥12 </char><char style="xt" closed="false"><ref loc="ISA 40:10">ዒሲ. 40፥10</ref>፤ <ref loc="ISA 62:11">62፥11</ref>፤ <ref loc="PSA 28:4">ዓይኑ. 28፥4</ref>፤ <ref loc="JER 17:10">ዔር. 17፥10</ref>።</char></note> <verse number="13" style="v"/>ቤርታሳሢና ጋፒንፃሢና፥ ዔኤቢ ቢያ ዓርቃሢና ጋፒሳሢያ ታናኬ።»<note caller="-" style="x"><char style="xo" closed="false">22፥13 </char><char style="xt" closed="false"><ref loc="REV 1:8">ዮሓ. ፆፔዻ 1፥8</ref>፤ <ref loc="REV 17">17</ref>፤ <ref loc="REV 2:8">2፥8</ref>፤ <ref loc="ISA 44:6">ዒሲ. 44፥6</ref>፤ <ref loc="ISA 48:12">48፥12</ref>።</char></note></para>
+  <para style="p">
+    <verse number="14" style="v"/>ናንጎ ሚፆ ዓኣፖ ሙዓኒና ካታሜሎ ጌሎ ካሮ''ና ጌላኒ ዳንዳዓያ ማዓኒ ማኣዓሢ ፔኤኮ ማስኬዞንሢ ባሊቲና ዓኣያኬ። <note caller="-" style="x"><char style="xo" closed="false">22፥14 </char><char style="xt" closed="false"><ref loc="GEN 2:9">ማዢ. ማፃ 2፥9</ref>፤ <ref loc="GEN 3:22">3፥22</ref>።</char></note> <verse number="15" style="v"/>ጌኔ ማዾ ማዻይ፥ ማርሻ ማርሻይ፥ ዓኒ ሃሣ ማቾ ማዒባኣያና ላሃይ፥ ዓሲ ዎዻይ፥ ሜሌ'' ፆኦዞ ካኣሽካይ፥ ሉኡዙሞ ናሽካያና ሉኡቃ ዓሲ ቢያ ካታሜሎኮ ዙላ'' ማዓንዳኔ።</para>
+  <para style="p">
+    <verse number="16" style="v"/>«ታኣኒ፥ ዬሱሴ ሓያ ማርካቶ ማርካዻንዳጉዲ ታኣኮ ኪኢታንቻሢ ሺኢጲፆ ማኣሮ ዓሶም ታ ዳኬኔ፤ ታኣኒ ዳውቴ ዜርሢ ሃሣ ፃጲኬ፤ ዬያጉዲ ታኣኒ ፖፖዓ ካሪሢ ዦኦጌኬ» ጌዔኔ። <note caller="-" style="x"><char style="xo" closed="false">22፥16 </char><char style="xt" closed="false"><ref loc="ISA 11:1">ዒሲ. 11፥1</ref>፤ <ref loc="ISA 10">10</ref>።</char></note></para>
+  <para style="p">
+    <verse number="17" style="v"/>ዓያኖ ጌኤዦና ዑኡቴሎና «ሙኬ» ጋዓኔ፤ ሓያ ዋይዛሢያ «ሙኬ» ጎዖንጎ፤ ዼኤቢንቴሢያ ሙኮንጎ፤ ዑሽካኒ ኮዓሢያ ቢያ ናንጎ ዋኣፆ ዔኤቢ ጪጉዋዖ ጉሪ ዑሽኮንጎ። <note caller="-" style="x"><char style="xo" closed="false">22፥17 </char><char style="xt" closed="false"><ref loc="ISA 55:1">ዒሲ. 55፥1</ref>።</char></note></para>
+  <para style="p">
+    <verse number="18" style="v"/>ሃያ ማፃኣፖይዳ ፃኣፒንቴ ፆኦሲ ማሊፆ ዋይዛዞንሢም ቢያ ታ ላታኔ፤ ዖኦኒያ ሃያ ቃኣሎ''ይዳ ፔቴ'' ባኣዚ'' ቃሴ''ቴ ፆኦሲ ሓያ ማፃኣፖይዳ ፃኣፒንቴ ባይሲንቶ ዒዛይዳ ቃሲ'' ቃሲ'' ሄሊ''ሳንዳኔ። <verse number="19" style="v"/>ዖኦኒያ ሓያ ፆኦሲ ማሊፆ ኬኤዛ ቃኣሎ''ይዳፓ ፔቴ'' ባኣዚ'' ፓጪሴቴ ሃያ ማፃኣፖይዳ ኬኤዚንቴ ናንጎ ሚፆ ዓኣፖና ፆኦሲም ዱማዼ ካታሜሎናይዳፓ ዒዛ ሄላ''ንዳ ባኮ ፆኦሲ ፓጪሳንዳኔ። <note caller="-" style="x"><char style="xo" closed="false">22፥19 </char><char style="xt" closed="false"><ref loc="DEU 4:2">ላሚ. ዎማ 4፥2</ref>፤ <ref loc="DEU 12:32">12፥32</ref>።</char></note></para>
+  <para style="p">
+    <verse number="20" style="v"/>ሓንሢ ባኮ ማርካዻሢ፦ «ሂዮ፤ ታ ዑኬ ዬዓንዳኔ» ጋዓኔ።</para>
+  <para style="p">ዓኣሜን፤ ጎዳ ዬሱሴ ሙኬ!</para>
+  <para style="p">
+    <verse number="21" style="v"/>ጎዳ ዬሱሴኮ ኮሹሞ ዒንጊፃ ዒንሢ ቢያሢና ዎላ'' ማዖንጎ፤ ዓኣሜን።</para>
+</usx>

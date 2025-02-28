@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Bíblia Livre",
+        "local_abbrev": "BL",
+        "english": "Free Bible (update of 1819 Almeida translation)",
+        "english_abbrev": ""
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2018 Diego Santos, Mario Sérgio, e Marco Teles",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=porbr2018"
+    },
+    "ids": {
+        "ebible": "porbr2018"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/porbr2018_usfm.zip",
+        "updated": "2022-03-08",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

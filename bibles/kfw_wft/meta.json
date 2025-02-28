@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "The New Testament in Kharam",
+        "english_abbrev": "KHMNT"
+    },
+    "year": 2021,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=f258cb39615c351d"
+    },
+    "ids": {
+        "dbl": "f258cb39615c351d",
+        "ebible": "kfw"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=f258cb39615c351d&type=release",
+        "updated": "2023-04-05",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

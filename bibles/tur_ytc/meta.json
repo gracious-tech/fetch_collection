@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Yorumsuz Türkçe Çeviri",
+        "local_abbrev": "",
+        "english": "Turkish Bible",
+        "english_abbrev": "YTC"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2023, 2024 İsmail Serinken and eBible.org",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=turytc"
+    },
+    "ids": {
+        "ebible": "turytc"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/turytc_usfm.zip",
+        "updated": "2024-12-06",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

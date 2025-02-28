@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Kombio Yanimoi Bible",
+        "english_abbrev": "YAN"
+    },
+    "year": 2002,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2002 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=xbi-y"
+    },
+    "ids": {
+        "ebible": "xbi-y"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/xbi-y_usfm.zip",
+        "updated": "2013-08-21",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

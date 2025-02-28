@@ -1,0 +1,34 @@
+{
+    "name": {
+        "local": "PATHEN LEKHABU THENG",
+        "local_abbrev": "",
+        "english": "Chongthu Bible",
+        "english_abbrev": "CHO"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 Chongthu Bible Translation Team",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tczchongthu"
+    },
+    "ids": {
+        "ebible": "tczchongthu"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tczchongthu_usfm.zip",
+        "updated": "2024-11-13",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": [],
+    "modified": true,
+    "notes": "SNG 6:14 marker removed so text is part of 6:13"
+}

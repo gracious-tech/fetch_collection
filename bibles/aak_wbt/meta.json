@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Xwɨyí̵á Gorɨxoyá Sɨŋí̵pɨrɨnɨ",
+        "local_abbrev": "",
+        "english": "Minaifia New Testament",
+        "english_abbrev": "MNT"
+    },
+    "year": 1990,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1990 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=aak"
+    },
+    "ids": {
+        "ebible": "aak"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/aak_usfm.zip",
+        "updated": "2012-10-03",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

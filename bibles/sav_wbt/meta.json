@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Saafi-Saafi Scripture",
+        "english_abbrev": "SSS"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=15ff63b842ada9e3"
+    },
+    "ids": {
+        "dbl": "15ff63b842ada9e3",
+        "ebible": "sav"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=15ff63b842ada9e3&type=release",
+        "updated": "2024-09-10",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

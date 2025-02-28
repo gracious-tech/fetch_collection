@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Topura (Wedau) Mark",
+        "local_abbrev": "",
+        "english": "Wedau Topura Mark",
+        "english_abbrev": "TOP"
+    },
+    "year": 2010,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2010 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=wed-topura"
+    },
+    "ids": {
+        "ebible": "wed-topura"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/wed-topura_usfm.zip",
+        "updated": "2014-12-11",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

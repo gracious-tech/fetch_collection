@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Metiu ge Efeso",
+        "local_abbrev": "",
+        "english": "Saisai Matthew + Ephesians",
+        "english_abbrev": "SWB"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2016 Wycliffe Bible Translators, inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=nmws"
+    },
+    "ids": {
+        "ebible": "nmws"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/nmws_usfm.zip",
+        "updated": "2023-08-25",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

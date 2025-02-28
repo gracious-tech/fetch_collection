@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "God Da Gaga Reka Re",
+        "local_abbrev": "",
+        "english": "Baruga New Testament",
+        "english_abbrev": "BNT"
+    },
+    "year": 2017,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2017 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=bjz"
+    },
+    "ids": {
+        "ebible": "bjz"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/bjz_usfm.zip",
+        "updated": "2023-04-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

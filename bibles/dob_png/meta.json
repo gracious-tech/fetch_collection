@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Loina Tabu Auwauna",
+        "local_abbrev": "",
+        "english": "Dobu New Testament",
+        "english_abbrev": "DNT"
+    },
+    "year": 1985,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1985 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=dob"
+    },
+    "ids": {
+        "ebible": "dob"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/dob_usfm.zip",
+        "updated": "2015-01-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

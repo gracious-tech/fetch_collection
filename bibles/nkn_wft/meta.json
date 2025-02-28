@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Nkangala Bible Translation",
+        "english_abbrev": "NBT"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=81c7138182ee69f2"
+    },
+    "ids": {
+        "dbl": "81c7138182ee69f2"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=81c7138182ee69f2&type=release",
+        "updated": "2024-10-15",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

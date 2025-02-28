@@ -1,0 +1,457 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
+  <book code="GAL" style="id" />
+  <para style="h">Galaterbrevet</para>
+  <para style="toc2">Galaterbrevet</para>
+  <para style="mt1">Galaterbrevet</para>
+  <para style="imt1">Inledning</para>
+  <para style="ip">Introduktion: Detta är ett av Paulus tidigaste brev, kanske det första bevarade. Området som brevet riktar sig till är troligen den romerska provinsen Galatien, i nuvarande centrala Turkiet. Sedan Paulus lämnat de nystartade församlingarna har falska lärare smugit sig in och undervisat troende hedningar att följa judiska lärosystem. Paulus måste påminna om att frälsningen är given av nåd. Frågan gällde omskärelse, själva initieringen i judendomen, men sammanfattar hela frågeställningen om gärningar kontra nåd. Det är lika mycket synd och slaveri i religiös lagiskhet som i syndfullt hedonistiskt leverne, bara Jesus kan ge sann frihet.</para>
+  <para style="ip">Det finns två teorier om vart brevet skickades: den romerska provinsen Galatien eller ett äldre landskap vid samma namn i norr. Innehållsmässigt spelar det ingen roll om brevet riktades till den södra delen i den romerska provinsen eller det mindre landskapet i norra delen av samma område. Dock påverkar det dateringen av brevet.</para>
+  <para style="ip">Är brevet skrivet till det norra landskapet Galatien är brevet skrivet på 50-talet då Paulus befann sig i Efesos eller kanske Makedonien. Eftersom Paulus inte tydligt refererar till mötet i Jerusalem, som skedde omkring 49 e.Kr., är det troligast att brevet skrevs innan dess. Kärnbibelns kommentarer följer den sydliga hypotesen att brevet skrevs tidigt efter den första missionsresan och riktade sig till den sydliga delen av den romerska provinsen Galatien.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Struktur:</char></para>
+  <para style="ip">Brevet har tre huvuddelar med två kapitel vardera. Stilen är argumenterande och Paulus använder många frågor.</para>
+  <para style="ip">1. Sann frihet – Paulus försvar, kapitel 1-2.</para>
+  <para style="ip">2. Fallgropar med lagiskhet – teologi om nåd och tro, kapitel 3-4.</para>
+  <para style="ip">3. Frihet under ansvar – praktiska konsekvenser, kapitel 5-6.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Skrivet: </char> Omkring år <char style="bd">45-48 e.Kr.</char></para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Till: </char> Romerska provinsen <char style="bd">Galatien</char>.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Från: </char> Troligtvis <char style="bd">Antiokia</char> i Syrien, se <char style="xt"><ref loc="GAL 2:11">Gal 2:11</ref></char>.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Författare: Paulus</char>, se <char style="xt"><ref loc="GAL 1:1">Gal 1:1</ref></char>.</para>
+  <chapter number="1" style="c" sid="GAL 1" />
+  <para style="s1">Inledning (1:1-10)</para>
+  <para style="s2">Hälsning</para>
+  <para style="m">
+    <verse number="1" style="v" sid="GAL 1:1" />
+    <char style="add">[Från:]</char> Paulus <char style="add">[betyder liten]</char>, apostel <char style="add">(sändebud, ambassadör)</char>,</para>
+  <para style="m" vid="GAL 1:1">
+    <char style="add">[min auktoritet och mitt budskap fick jag]</char></para>
+  <para style="p" vid="GAL 1:1">inte från människor eller genom någon människa <char style="add">[som förmedlade den till mig från Gud]</char>,</para>
+  <para style="p" vid="GAL 1:1">utan genom Jesus den Smorde <char style="add">(Messias, Kristus)</char> och Gud Fadern,</para>
+  <para style="q2" vid="GAL 1:1">som uppväckte honom från de döda.<verse eid="GAL 1:1" /></para>
+  <para style="m">
+    <verse number="2" style="v" sid="GAL 1:2" />Jag och alla syskon <char style="add">(bröder och systrar i tron)</char> som är med mig hälsar</para>
+  <para style="p" vid="GAL 1:2">till församlingarna <char style="add">(de utkallade – gr. ekklesia)</char> i Galatien <char style="add">[område mitt i dagens Turkiet]</char>.<verse eid="GAL 1:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="GAL 1:3" />Nåd <char style="add">(oförtjänt favör)</char> och frid <char style="add">(harmoni, lycka, välgång)</char></para>
+  <para style="p" vid="GAL 1:3">till er från Gud vår Fader och vår Herre Jesus den Smorde <char style="add">(Messias, Kristus)</char>,<verse eid="GAL 1:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="GAL 1:4" />som offrade sig själv för våra synder,</para>
+  <para style="p" vid="GAL 1:4">för att rädda oss från den nuvarande onda tidsåldern <char style="add">(världsordningen)</char>,</para>
+  <para style="p" vid="GAL 1:4">efter vår Guds och Faders vilja <char style="add">(önskan, behag, längtan)</char>.<verse eid="GAL 1:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="GAL 1:5" />Honom tillhör äran <char style="add">(all majestät, härlighet)</char> i evigheters evigheter <char style="add">(genom alla tidsåldrar som varit och i de som kommer)</char>!</para>
+  <para style="m" vid="GAL 1:5">Amen <char style="add">(låt det bli så, det är sant, sannerligen)</char>.<verse eid="GAL 1:5" /></para>
+  <para style="s2">Orsaken till brevet</para>
+  <para style="m">
+    <verse number="6" style="v" sid="GAL 1:6" />Jag är förundrad <char style="add">(förvånad)</char> över att ni så snabbt <char style="add">(plötsligt) [kort efter det att Paulus lämnat dem, eller kort efter det att de hört den falska undervisningen]</char> vänder er <char style="add">(förflyttar er position)</char> bort från honom som kallade <char style="add">(inbjöd)</char> er genom den Smordes <char style="add">(Kristi)</char> nåd <char style="add">(oförtjänta favör)</char> till ett helt annat evangelium <char style="add">[helt annan källa och innehåll]</char>.</para>
+  <para style="b" vid="GAL 1:6" />
+  <para style="m" vid="GAL 1:6">
+    <char style="add">[Ordet för att vända sig bort är metatithemi, ordet användes i klassisk grekiska för någon som vänder kappan efter vinden. I <char style="xt"><ref loc="ACT 7:16">Apg 7:16</ref></char> att förflytta någon från en plats till en annan. Verbformen presens medium/passiv visar att galaterna är i en process av att ändra sig och att det är på grund av yttre påverkan. Hade Paulus använt perfekt hade de redan ändrat sig. Detta indikerar att Paulus har hopp om att hans brev ska påverka dem på ett positivt sätt.]</char> <verse eid="GAL 1:6" /><verse number="7" style="v" sid="GAL 1:7" />Inte för att det finns något annat <char style="add">[äkta evangelium, glatt budskap]</char>. Däremot finns det somliga som hela tiden förvillar <char style="add">(skapar oro, sår in tvivel hos)</char> er och vill förvränga den Smordes <char style="add">(Kristi)</char> evangelium <char style="add">(ändra det glada budskapet till något helt motsatt)</char>.<verse eid="GAL 1:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="GAL 1:8" />Men även om vi eller om så vore en ängel <char style="add">(budbärare)</char> från himlen skulle predika ett annat <char style="add">(parallellt)</char> evangelium än det vi har predikat för er, så låt honom vara under förbannelse <char style="add">[bli ställd under Guds dom – gr. anathema]</char>! <verse eid="GAL 1:8" /><verse number="9" style="v" sid="GAL 1:9" />Som vi sagt förut, så säger jag igen: Om någon predikar ett annat evangelium än det ni fick från oss, låt honom vara under förbannelse!<verse eid="GAL 1:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="GAL 1:10" />För <char style="add">[hur är det nu]</char>, är det människor jag här försöker övertala <char style="add">(övertyga; bli vän med)</char> – eller Gud? Eller försöker jag <char style="add">(söker jag efter att)</char> behaga människor <char style="add">[ständigt möta människors förväntningar]</char>? Om jag fortfarande behagade människor <char style="add">(vore människor till lags; höll mig väl med folk) [och gjorde dem nöjda]</char> skulle jag nog <char style="add">(gr. an)</char> inte vara en tjänare <char style="add">(slav, livegen)</char> till den Smorde <char style="add">(Messias, Kristus)</char>. <char style="add">[<char style="xt"><ref loc="1TH 2:5-6">1 Thess 2:5-6</ref></char>]</char></para>
+  <para style="b" vid="GAL 1:10" />
+  <para style="m" vid="GAL 1:10">
+    <char style="add">[Den lilla grekiska partikeln an anger en förmodan och något hypotetiskt – ”i så fall, om det vore så”.]</char></para>
+  <para style="s1" vid="GAL 1:10">Paulus försvarar sin auktoritet (1:11-2:14)</para>
+  <para style="m" vid="GAL 1:10" />
+  <para style="m" vid="GAL 1:10">
+    <char style="add">[Paulus berättar nu hur han kom till tro. Stycket har fem sektioner med händelser fram tills brevet skrivs. Den femte och sista sektionen inleds i <char style="xt"><ref loc="GAL 2:11">Gal 2:11</ref></char> med att Petrus kommer till Antiokia, vilket antyder att det är där Paulus befinner sig när han skriver detta brev.]</char><verse eid="GAL 1:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="GAL 1:11" />Nu vill jag klargöra <char style="add">(intyga, bestyrka)</char> för er, syskon <char style="add">(bröder och systrar i tron)</char>, att det evangelium jag förkunnade har inte mänskligt ursprung <char style="add">(är inte av mänsklig natur)</char>. <verse eid="GAL 1:11" /><verse number="12" style="v" sid="GAL 1:12" />Jag tog inte emot det, eller blev undervisad om det av någon människa, utan det kom till mig genom en uppenbarelse från Jesus den Smorde <char style="add">(Messias, Kristus)</char>.<verse eid="GAL 1:12" /></para>
+  <para style="s2">Tidigare liv</para>
+  <para style="m">
+    <verse number="13" style="v" sid="GAL 1:13" />Ni har ju hört om mitt tidigare liv då jag utövade den judiska religionen <char style="add">[judaismen]</char>, hur jag ständigt utöver det vanliga <char style="add">(utan jämförelse, obehärskat, fanatiskt)</char> förföljde <char style="add">(jagade)</char> Guds församling för att förgöra <char style="add">(utrota)</char> den. <verse eid="GAL 1:13" /><verse number="14" style="v" sid="GAL 1:14" />Jag gick längre i den judiska religionen än många av mina landsmän i samma ålder <char style="add">(jag var en föregångare, banade nya vägar)</char>, och var än mer fanatisk <char style="add">(entusiastisk)</char> i mina förfäders <char style="add">[judiska]</char> traditioner <char style="add">(stadgar)</char> än de. <char style="add">[Lukas beskriver också hur Paulus, då känd under sitt hebreiska namn Saul, dödade och angrep de troende, se <char style="xt"><ref loc="ACT 8:1-3">Apg 8:1-3</ref></char>.]</char><verse eid="GAL 1:14" /></para>
+  <para style="s2">Omvändelse och kallelse</para>
+  <para style="m">
+    <verse number="15" style="v" sid="GAL 1:15" />Men när han – som utvalde mig innan jag var född och kallade <char style="add">(avskilde, helgade)</char> mig genom sin nåd <char style="add">(oförtjänta favör)</char> – beslöt <char style="add">(när det behagade honom)</char> <verse eid="GAL 1:15" /><verse number="16" style="v" sid="GAL 1:16" />att uppenbara sin Son inom mig, för att jag skulle förkunna honom för hedningarna <char style="add">(den icke-judiska världen) [<char style="xt"><ref loc="ACT 9:15">Apg 9:15</ref>; <ref loc="ACT 22:21">22:21</ref></char>]</char>, så rådfrågade jag inte kött och blod på en gång <char style="add">[diskuterade jag inte detta med någon människa]</char>. <verse eid="GAL 1:16" /><verse number="17" style="v" sid="GAL 1:17" />Jag gick inte heller upp till Jerusalem, till dem som var apostlar före mig, utan gick i stället till Arabien <char style="add">[öknen, ödemarken; Aravaöknen]</char>, och efter det kom jag tillbaka till Damaskus.</para>
+  <para style="b" vid="GAL 1:17" />
+  <para style="m" vid="GAL 1:17">
+    <char style="add">[Lukas beskriver Saulus livsomvandlande möte med Jesus på vägen till Damaskus i <char style="xt"><ref loc="ACT 9:1-40">Apg 9:1-40</ref></char>. Arabia är den stora öknen öster och söder om Damaskus, som motsvarar dagens Saudiarabien. Här är Paulus i tre år, se vers 18. Intressant att det är ungefär lika lång tid som de tolv apostlarna spenderade tillsammans med Jesus.]</char></para>
+  <para style="s2" vid="GAL 1:17">Första besöket i Jerusalem</para>
+  <para style="m" vid="GAL 1:17" />
+  <para style="m" vid="GAL 1:17">
+    <char style="add">[Detta är det första av två besök i Jerusalem som nämns i Galaterbrevet, det andra nämns i <char style="xt"><ref loc="GAL 2:1">Gal 2:1</ref></char>. Detta första besök är samma första besök som nämns i <char style="xt"><ref loc="ACT 9:26-30">Apg 9:26-30</ref></char>.]</char><verse eid="GAL 1:17" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="18" style="v" sid="GAL 1:18" />Sedan, efter <char style="add">(gr. meta)</char> tre år <char style="add">[efter omvändelsen]</char>, gick jag upp till Jerusalem <char style="add">[från Damaskus, se vers 17]</char> för att personligen träffa <char style="add">(lära känna, samtala med)</char> Kefas <char style="add">(Petrus)</char>, och jag stannade hos honom i femton dagar. <char style="add">[Jerusalem är högt beläget och man går alltid ”upp” till staden.]</char> <verse eid="GAL 1:18" /><verse number="19" style="v" sid="GAL 1:19" />Men jag träffade ingen av de andra apostlarna förutom Jakob, Herrens broder. <verse eid="GAL 1:19" /><verse number="20" style="v" sid="GAL 1:20" />Nu skriver jag detta som om jag stod inför Guds ansikte, jag ljuger inte!<verse eid="GAL 1:20" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="21" style="v" sid="GAL 1:21" />Sedan reste jag till området kring Syrien och Kilikien <char style="add">[två romerska provinser vid Medelhavets nordöstra bukt, kuststaden Tarsus i Kilikien var Paulus hemstad]</char>. <verse eid="GAL 1:21" /><verse number="22" style="v" sid="GAL 1:22" />Men jag var ett okänt ansikte för den Smordes <char style="add">(Kristi)</char> församlingar <char style="add">[de messianska församlingarna]</char> i Judéen. <char style="add">[Kan syfta på området kring Jerusalem, eller hela den judiska provinsen i Romarriket som bestod av Iduméen, Judéen, Samarien och Galileen.]</char> <verse eid="GAL 1:22" /><verse number="23" style="v" sid="GAL 1:23" />De hade bara hört det sägas <char style="add">[gång på gång]</char>: ”Han som förut ständigt förföljde oss, predikar nu de glada nyheterna <char style="add">(gr. euaggelizo)</char> om den tro som han förut försökte förgöra <char style="add">(utrota)</char>.” <verse eid="GAL 1:23" /><verse number="24" style="v" sid="GAL 1:24" />Så nu prisade <char style="add">(ärade)</char> de gång på gång Gud för min skull <char style="add">[för den förändring som Gud hade gjort i mig]</char>.</para>
+  <para style="b" vid="GAL 1:24" />
+  <para style="m" vid="GAL 1:24">
+    <char style="add">[Det är när Paulus är i Tarsus i Kilikien som Barnabas söker upp honom och tar med honom till Antiokia, se <char style="xt"><ref loc="ACT 11:25-26">Apg 11:25-26</ref></char>.]</char><verse eid="GAL 1:24" /></para>
+  <chapter eid="GAL 1" />
+  <chapter number="2" style="c" sid="GAL 2" />
+  <para style="s2">Andra besöket i Jerusalem</para>
+  <para style="m" />
+  <para style="m">
+    <char style="add">[Paulus fortsätter sin berättelse som han började i <char style="xt"><ref loc="GAL 1:11">Gal 1:11</ref></char>. Ibland har händelserna här i <char style="xt"><ref loc="GAL 2:1-10">Gal 2:1-10</ref></char> förknippats med apostlamötet i <char style="xt"><ref loc="ACT 15">Apg 15</ref></char>, men apostlamötet skedde vid det tredje av de fem besöken i Jerusalem som omnämns i Apostlagärningarna. Troligare är att detta är det andra besöket för överlämnandet av insamlade medel under den rådande hungersnöden i området, se <char style="xt"><ref loc="ACT 11:27-30">Apg 11:27-30</ref></char>. Om mötet som beskrivs i <char style="xt"><ref loc="ACT 15">Apg 15</ref></char> redan inträffat skulle Paulus ha refererat till beslutet och brevet som skrevs då, vilket han inte gör här i Galaterbrevet. </char></para>
+  <para style="p">
+    <char style="add">Paulus fem besök i Jerusalem som nämns i Apostlagärningarna: </char></para>
+  <para style="mi">
+    <char style="add">- Kort besök efter omvändelsen i Damaskus, se <char style="xt"><ref loc="ACT 9:26-30">Apg 9:26-30</ref></char>. Motsvarar <char style="xt"><ref loc="GAL 1:18-20">Gal 1:18-20</ref></char>. </char></para>
+  <para style="mi">
+    <char style="add">- Resa från Antiokia med finansiellt stöd, se <char style="xt"><ref loc="ACT 11:27-30">Apg 11:27-30</ref></char>. </char></para>
+  <para style="mi">
+    <char style="add">- Apostlamötet i Jerusalem, se <char style="xt"><ref loc="ACT 15:1-30">Apg 15:1-30</ref></char>. </char></para>
+  <para style="mi">
+    <char style="add">- Besök i slutet på den andra missionsresan, se <char style="xt"><ref loc="ACT 18:22">Apg 18:22</ref></char>. </char></para>
+  <para style="mi">
+    <char style="add">- Det sista besöket som resulterar i Paulus fängslande i Caesarea Maritima, se <char style="xt"><ref loc="ACT 21:15-23:35">Apg 21:15-23:35</ref></char>.</char></para>
+  <para style="b" />
+  <para style="m">
+    <char style="add">De fjorton år som nämns i vers 1 kan syfta på det tidigare besöket i Jerusalem, tre år efter hans omvändelse. Dock används det grekiska ordet dia här, inte meta som i <char style="xt"><ref loc="GAL 1:18">Gal 1:18</ref></char>, vilket gör att de fjorton åren också kan räknas från hans omvändelse, inte efter de tre åren.]</char></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="GAL 2:1" />Sedan, efter <char style="add">[ett intervall på – gr. dia]</char> fjorton år gick jag åter upp till Jerusalem tillsammans med Barnabas och tog även med mig Titus. <verse eid="GAL 2:1" /><verse number="2" style="v" sid="GAL 2:2" />Jag gick på grund av <char style="add">(i lydnad till)</char> en uppenbarelse. Jag lade fram det evangelium som jag predikar bland hedningarna. Dock presenterade jag det först i ett enskilt möte med de av högt anseende <char style="add">(de inflytelserika personerna)</char>, detta för att jag inte skulle springa eller ha sprungit i onödan <char style="add">[mitt arbete inte skulle vara fruktlöst]</char>. <verse eid="GAL 2:2" /><verse number="3" style="v" sid="GAL 2:3" />Men <char style="add">[allt gick bra]</char> inte ens Titus som följde med mig, som ju var grek, behövde omskära sig <char style="add">[som några hade trott]</char>.<verse eid="GAL 2:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="GAL 2:4" />Denna fråga <char style="add">[om huruvida alla ska omskära sig]</char> uppstod på grund av några falska bröder som i hemlighet hade smugit sig in <char style="add">[i församlingen]</char> för att spionera på den frihet vi har i den Smorde <char style="add">(Messias, Kristus)</char> Jesus, för att åter föra oss in i slaveriet <char style="add">[under lagen]</char>. <verse eid="GAL 2:4" /><verse number="5" style="v" sid="GAL 2:5" />Men vi böjde oss inte för dem, inte för ett ögonblick. Detta för att evangeliets sanning skulle bevaras för er <char style="add">[i sanning]</char>.<verse eid="GAL 2:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="GAL 2:6" />Vidare, <char style="add">[inga nya krav gavs från]</char> de som har anseende <char style="add">[de ledare som har inflytande i Jerusalem]</char>, om de har anseende eller inte spelar ingen roll för mig, Gud har inte anseende till personen <char style="add">(har inga favoriter som han särbehandlar, Gud är inte imponerad av mänskliga positioner)</char>. Dessa ledare lade inte till något till mitt budskap. <verse eid="GAL 2:6" /><verse number="7" style="v" sid="GAL 2:7" />Tvärtom, de såg <char style="add">(fick en klar förståelse av)</char> att jag blivit betrodd med evangeliet <char style="add">(det glada budskapet)</char> till de oomskurna <char style="add">[hedningarna, icke-judarna]</char>, på samma sätt som Petrus blivit betrodd åt de omskurna <char style="add">[judarna]</char>. <verse eid="GAL 2:7" /><verse number="8" style="v" sid="GAL 2:8" />För den som verkade genom <char style="add">(motiverade, gav sin kraft till)</char> Petrus och hans tjänst som apostel för de omskurna, verkade också <char style="add">(motiverade, arbetade)</char> genom mig för de oomskurna.<verse eid="GAL 2:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="GAL 2:9" />När Jakob, Kefas <char style="add">(Petrus)</char> och Johannes som var kända som <char style="add">(hade ryktet om sig att vara)</char> pelare <char style="add">[i Jerusalems församling]</char> kände <char style="add">(förstod, hade en personlig erfarenhet av)</char> Guds nåd som jag fått ta emot, räckte de mig och Barnabas handen för samarbete. Vi kom överens om att vi <char style="add">[jag och Barnabas]</char> skulle gå till hedningarna och de till de omskurna <char style="add">(judarna)</char>. <verse eid="GAL 2:9" /><verse number="10" style="v" sid="GAL 2:10" />Deras enda önskan var att vi skulle komma ihåg de fattiga, just det som jag själv verkligen ihärdigt <char style="add">(uthålligt)</char> arbetat för.</para>
+  <para style="b" vid="GAL 2:10" />
+  <para style="m" vid="GAL 2:10">
+    <char style="add">[Detta andra besök i Jerusalem verkar vara samma besök som nämns i <char style="xt"><ref loc="ACT 11:30">Apg 11:30</ref>; <ref loc="ACT 12:25">12:25</ref></char>, där Barnabas och Saulus överlämnar de finansiella gåvorna till församlingen i Jerusalem.]</char></para>
+  <para style="s2" vid="GAL 2:10">Paulus tillrättavisar Petrus</para>
+  <para style="m" vid="GAL 2:10" />
+  <para style="m" vid="GAL 2:10">
+    <char style="add">[Som sista argument för sitt apostlaskap tar Paulus upp ett tillfälle då han tillrättavisade Petrus, som också kallas Kefas. Om Paulus inte var en apostel skulle han inte kunnat göra detta.]</char><verse eid="GAL 2:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="GAL 2:11" />När Kefas <char style="add">(Petrus)</char> kom till Antiokia, protesterade jag öppet mot honom, för han var uppenbarligen fel ute <char style="add">(hade dömt sig själv)</char>. <verse eid="GAL 2:11" /><verse number="12" style="v" sid="GAL 2:12" />Innan vissa personer från Jakob var där hade han för vana att äta med hedningarna. Men när männen <char style="add">[från Jerusalem]</char> kom, drog han sig gradvis undan <char style="add">[från hedningarna]</char>, eftersom han fruktade dem som var för omskärelse <char style="add">[den grupp judar som lärde att en hedning var tvungen att omskära sig innan han blev en kristen]</char>. <verse eid="GAL 2:12" /><verse number="13" style="v" sid="GAL 2:13" />De andra troende judarna anslöt sig till honom och förställde sig <char style="add">(spelade med i detta falska spel)</char>. Det resulterade i att också Barnabas drogs med i deras hyckleri. <verse eid="GAL 2:13" /><verse number="14" style="v" sid="GAL 2:14" />Men när jag såg <char style="add">(förstod, fick klart för mig)</char> att de inte vandrade rakt fram i enlighet med evangeliets sanning <char style="add">(inte agerade i linje med evangeliet)</char>, sa jag till Kefas i allas närvaro:</para>
+  <para style="b" vid="GAL 2:14" />
+  <para style="m" vid="GAL 2:14">”Om du <char style="add">[Petrus]</char> som är född jude, lever som en hedning och inte som en jude, varför tvingar du hedningarna att leva som judarna <char style="add">[genom att återinföra judaismens ritualer]</char>?<verse eid="GAL 2:14" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="15" style="v" sid="GAL 2:15" />Vi <char style="add">[Paulus inkluderar sig själv och Petrus, Barnabas, m.fl.]</char> är judar av naturen <char style="add">(vi är födda judar)</char> och inte hedniska syndare. <verse eid="GAL 2:15" /><verse number="16" style="v" sid="GAL 2:16" />Ändå vet vi att en människa inte blir rättfärdig <char style="add">[skuldfri, har det rätt ställt med Gud]</char> genom att i egen kraft följa lagen <char style="add">[på ett legalistiskt sätt följa Torah]</char>, utan bara på grund av tron på den Smorde <char style="add">(Messias, Kristus)</char> Jesus <char style="add">(hans trofasthet)</char>. Vi själva har satt vår tro till Jesus den Smorde, för att vi ska bli rättfärdiga genom den Smordes <char style="add">(Kristi)</char> trofasthet och inte för att vi i egen kraft följer lagen. För på grund av laggärningar <char style="add">(religiösa ritualer, eget arbete)</char> kan ingen människa bli rättfärdig <char style="add">(inget kött bli utan skuld och få frid med Gud)</char>.<verse eid="GAL 2:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="GAL 2:17" />Men om vi, när vi ständigt söker att bli rättfärdiga i den Smorde <char style="add">(Messias, Kristus)</char>, själva har visat oss vara syndare, är den Smorde <char style="add">(Kristus)</char> då en som uppmanar till synd <char style="add">(en representant för den)</char>? Självklart inte <char style="add">(låt det aldrig ske, motsatsen till amen)</char>!<verse eid="GAL 2:17" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="18" style="v" sid="GAL 2:18" />För om jag återigen bygger upp det som jag själv <char style="add">[en gång]</char> rev ner <char style="add">[detta att man skulle bli frälst genom laggärningar]</char>, gör jag mig själv till en överträdare <char style="add">[framstår jag själv som en lagöverträdare som bryter mot Guds bud]</char>. <verse eid="GAL 2:18" /><verse number="19" style="v" sid="GAL 2:19" />För jag <char style="add">[för min del]</char> har genom lagen <char style="add">(gr. nomos)</char> dött bort från lagen <char style="add">[det judiska lärosystemet]</char> för att jag skulle leva för Gud <char style="add">[i direkt relation med honom]</char>. Jag är korsfäst <char style="add">(har korsfästs tillsammans)</char> med den Smorde <char style="add">(Messias, Kristus) [eftersom jag tillhör honom delar jag hans död]</char>, <verse eid="GAL 2:19" /><verse number="20" style="v" sid="GAL 2:20" />nu <char style="add">(dessutom)</char> lever inte längre jag <char style="add">[gr. ego – här betonar Paulus med eftertryck sitt eget jag, precis som i början av vers 19]</char>, utan den Smorde <char style="add">(Messias, Kristus)</char> lever i mig. Och det <char style="add">[liv]</char> som jag nu lever i köttet <char style="add">(i kroppen)</char>, lever jag genom tron från <char style="add">[på]</char> Guds Son <char style="add">(det lever jag i Guds Sons tro) [jag får ta del av hans förtröstan]</char>, han som <char style="add">[osjälviskt]</char> älskade mig och utgav sig själv för mig. <char style="add">[<char style="xt"><ref loc="PHP 3:10">Fil 3:10</ref>; <ref loc="GAL 5:24">Gal 5:24</ref>; <ref loc="GAL 6:14">6:14</ref></char>]</char> <verse eid="GAL 2:20" /><verse number="21" style="v" sid="GAL 2:21" />Jag förkastar inte <char style="add">(slänger inte bort; ogiltigförklarar inte)</char> Guds nåd <char style="add">(favör)</char>, för om rättfärdighet kom genom <char style="add">[att hålla]</char> lagen, då dog <char style="add">[ju]</char> den Smorde <char style="add">(Messias, Kristus)</char> i onödan <char style="add">(förgäves, gratis) [då skulle hans död vara meningslös]</char>.”</para>
+  <para style="b" vid="GAL 2:21" />
+  <para style="m" vid="GAL 2:21">
+    <char style="add">[Eftersom grekiskan inte har citattecken är det inte helt säkert var Paulus respons till Petrus (som började i vers 14) slutar. Utifrån de pronomen som används, verkar det som om svaret följer en rytm med du, vi och jag, se vers 14, 15-17, 18-21. I så fall slutar citatet här i vers 21.]</char><verse eid="GAL 2:21" /></para>
+  <para style="b" />
+  <chapter eid="GAL 2" />
+  <chapter number="3" style="c" sid="GAL 3" />
+  <para style="s1">TEOLOGI – nåd och tro (3:1-4:31)</para>
+  <para style="s2">Nåd</para>
+  <para style="s3">Nåden i ert eget liv</para>
+  <para style="m">
+    <verse number="1" style="v" sid="GAL 3:1" />Ni oförstående <char style="add">(tanklösa)</char> galater!</para>
+  <para style="m" vid="GAL 3:1">Vem har förhäxat <char style="add">(kastat en förbannelse på, charmat, lurat)</char> er?</para>
+  <para style="m" vid="GAL 3:1">Mitt framför era ögon var Jesus den Smorde <char style="add">(Messias, Kristus)</char> tydligt beskriven <char style="add">(som ett plakat, oförglömligt)</char> som korsfäst.<verse eid="GAL 3:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="GAL 3:2" />En sak vill jag förstå <char style="add">(oavsett andra argument, låt mig ställa denna fråga)</char>:</para>
+  <para style="b" vid="GAL 3:2" />
+  <para style="m" vid="GAL 3:2">
+    <char style="add">[Paulus tar nu ett huvudargument som handlar om tro eller lag. Frågan ramas in i ett kiastiskt mönster i vers 2b och 5, med en utvidgning och beskrivning i vers 3-4.]</char></para>
+  <para style="b" vid="GAL 3:2" />
+  <para style="m" vid="GAL 3:2">Tog ni emot den helige Ande genom att hålla lagen <char style="add">[följa Moseböckernas alla bestämmelser]</char></para>
+  <para style="p" vid="GAL 3:2">eller på grund av tro <char style="add">(förtröstan) [tillit till evangeliet]</char>? <char style="add">[Självklart var det genom tro!]</char><verse eid="GAL 3:2" /></para>
+  <para style="m">
+    <verse number="3" style="v" sid="GAL 3:3" />Är ni så oförstående <char style="add">(tanklösa)</char>?</para>
+  <para style="m" vid="GAL 3:3">Ni som började <char style="add">[ert nya liv]</char> i Anden,</para>
+  <para style="p" vid="GAL 3:3">ska ni nu sluta i köttet <char style="add">(försöka nå målet genom egen mänsklig kraft)</char>?<verse eid="GAL 3:3" /></para>
+  <para style="m">
+    <verse number="4" style="v" sid="GAL 3:4" />Har ni genomlidit så mycket helt i onödan?</para>
+  <para style="p" vid="GAL 3:4">Om det nu verkligen varit förgäves ...</para>
+  <para style="b" vid="GAL 3:4" />
+  <para style="m" vid="GAL 3:4">
+    <char style="add">[Även om situationen hos de troende var illa, lämnar Paulus en förhoppning om att det inte var förgäves. Ordet ”genomlidit”, gr. pascho, betyder oftast lidande. Ibland kan det också betyda att genomgå erfarenheter, både bra och dåliga. Vanligtvis används fler beskrivande ord som förtydligar betydelsen, men det görs inte här. I Paulus andra brev används alltid detta ord för lidande, så det är troligt att det används här också. Paulus kanske ser tillbaka på den förföljelse och det lidande som drabbade honom och Barnabas i Galatien, se <char style="xt"><ref loc="ACT 14:2">Apg 14:2</ref>, <ref loc="ACT 14:5">5</ref>, <ref loc="ACT 14:19">19</ref>, <ref loc="ACT 14:22">22</ref></char>.]</char><verse eid="GAL 3:4" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="5" style="v" sid="GAL 3:5" />Han som ger er <char style="add">(förser er med)</char> Anden och utför kraftfulla mirakler bland er – är det på grund av laggärningar <char style="add">[att ni legalistiskt följer Moseböckernas förordningar och alla rabbinska tillägg]</char>, eller för att ni lyssnar <char style="add">[på evangeliet]</char> i tro <char style="add">(har förtröstan, tillit till det)</char>?</para>
+  <para style="s3" vid="GAL 3:5">Nåden i Skriften</para>
+  <para style="m" vid="GAL 3:5" />
+  <para style="m" vid="GAL 3:5">
+    <char style="add">[Paulus inledde kapitlet med några personliga frågor till galaterna. Nu följer sex citat från Bibeln vilket visar på en viktig princip. Andliga erfarenheter är värdefulla, men måste stödjas av Skriften. Eftersom dessa judaister försökte föra de troende tillbaka under lagen, citerar Paulus lagen.]</char><verse eid="GAL 3:5" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="6" style="v" sid="GAL 3:6" />På samma sätt var det med Abraham:</para>
+  <para style="b" vid="GAL 3:6" />
+  <para style="m" vid="GAL 3:6">”Han trodde <char style="add">(litade)</char> på Gud <char style="add">[om löftet om en son]</char></para>
+  <para style="p" vid="GAL 3:6">och därför räknades han som rättfärdig <char style="add">(skuldfri)</char>.”</para>
+  <para style="b" vid="GAL 3:6" />
+  <para style="m" vid="GAL 3:6">
+    <char style="add">[<char style="xt"><ref loc="GEN 15:6">1 Mos 15:6</ref></char>. Paulus citerar samma vers i <char style="xt"><ref loc="ROM 4:3">Rom 4:3</ref></char> där han ännu mer detaljerat lägger ut texten. Romarbrevet 4 är den bästa kommentaren till Galaterbrevet 3.]</char><verse eid="GAL 3:6" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="7" style="v" sid="GAL 3:7" />Förstå därför <char style="add">(låt er få en personlig erfarenhet av)</char> att det är de människor som tror <char style="add">(de som lever i tro)</char> som är Abrahams <char style="add">[verkliga]</char> barn. <verse eid="GAL 3:7" /><verse number="8" style="v" sid="GAL 3:8" />Eftersom Skriften gång på gång förutsåg att Gud skulle rättfärdiggöra hedningarna genom tro, berättade den i förväg de glada nyheterna <char style="add">(evangeliet)</char> för Abraham genom att säga:</para>
+  <para style="b" vid="GAL 3:8" />
+  <para style="m" vid="GAL 3:8">”I dig ska alla folk <char style="add">(nationer, folkgrupper)</char> bli välsignade.” <char style="add">[<char style="xt"><ref loc="GEN 12:3">1 Mos 12:3</ref>; <ref loc="GEN 18:18">1 Mos 18:18</ref></char>]</char><verse eid="GAL 3:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="GAL 3:9" />Därför blir de som är av tro <char style="add">(litar, lutar sig emot Gud)</char> välsignade tillsammans med den troende Abraham <char style="add">(som trodde, litade, lutade sig emot Gud)</char>. <verse eid="GAL 3:9" /><verse number="10" style="v" sid="GAL 3:10" />För alla de som förlitar sig på <char style="add">[utgår från; förutsätter; ”är av”]</char> laggärningar är under förbannelse <char style="add">[är dömda till förkastelse – som resulterar i det straff som måste komma ner]</char>, för det står:</para>
+  <para style="b" vid="GAL 3:10" />
+  <para style="m" vid="GAL 3:10">”Förbannad är var och en som inte fortsätter att göra <char style="add">[inte ständigt praktiserar och lever efter; som inte gör och förblir vid]</char> allt det <char style="add">[i plural]</char> som är skrivet i <char style="add">[den älskade]</char> lagens bok <char style="add">(skriftrulle)</char>.” <char style="add">[<char style="xt"><ref loc="DEU 27:26">5 Mos 27:26</ref></char>]</char></para>
+  <para style="b" vid="GAL 3:10" />
+  <para style="m" vid="GAL 3:10">
+    <char style="add">[Här används diminutiva formen av biblos – biblion – dvs. att det är en liten bok eller rulle och troligen även med innebörden att den är älskad.]</char><verse eid="GAL 3:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="GAL 3:11" />Men att ingen blir rättfärdig <char style="add">(rättfärdiggjord)</char> inför Gud genom lagen är uppenbart <char style="add">(helt klarlagt)</char>,</para>
+  <para style="b" vid="GAL 3:11" />
+  <para style="m" vid="GAL 3:11">för den ”rättfärdige ska leva av <char style="add">(utifrån)</char> tro”. <char style="add">[<char style="xt"><ref loc="HAB 2:4">Hab 2:4</ref></char>]</char></para>
+  <para style="m" vid="GAL 3:11">
+    <char style="add">[Den som är trofast och förtröstar på Gud förklaras som rättfärdig inför honom och får full tillgång till Guds överflödande och äkta liv.]</char><verse eid="GAL 3:11" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="12" style="v" sid="GAL 3:12" />Men lagen kommer inte från tro <char style="add">(baseras, vilar inte på tro)</char>, för det står:</para>
+  <para style="b" vid="GAL 3:12" />
+  <para style="m" vid="GAL 3:12">”Den som gör dessa gärningar <char style="add">[som lagen föreskriver]</char></para>
+  <para style="p" vid="GAL 3:12">ska leva genom dem <char style="add">[inte genom tro]</char>.” <char style="add">[<char style="xt"><ref loc="LEV 18:5">3 Mos 18:5</ref></char>]</char><verse eid="GAL 3:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="GAL 3:13" />Den Smorde <char style="add">(Messias, Kristus)</char> har friköpt oss <char style="add">(betalt ett pris för vår frihet)</char> från lagens förbannelse, genom att bli ett med förbannelsen i vårt ställe, för det står skrivet:</para>
+  <para style="b" vid="GAL 3:13" />
+  <para style="m" vid="GAL 3:13">”Under förbannelse är alla som hängs upp på trä <char style="add">(ett kors)</char>.” <char style="add">[<char style="xt"><ref loc="DEU 21:23">5 Mos 21:23</ref></char>]</char><verse eid="GAL 3:13" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="14" style="v" sid="GAL 3:14" />Den Smorde <char style="add">(Messias, Kristus)</char> gjorde detta för att Abrahams välsignelse <char style="add">[<char style="xt"><ref loc="GEN 12:2-3">1 Mos 12:2-3</ref></char>]</char> skulle komma över hedningarna genom Jesus den Smorde <char style="add">(Messias, Kristus)</char>, så att vi <char style="add">[både jude och hedning]</char> genom tro skulle få den utlovade Anden.<verse eid="GAL 3:14" /></para>
+  <para style="s2">Arvet kommer genom tro</para>
+  <para style="m">
+    <verse number="15" style="v" sid="GAL 3:15" />Syskon <char style="add">(bröder och systrar i tron)</char>, låt mig ta ett exempel från vardagslivet <char style="add">(låt mig tala om mänskliga relationer)</char>. När ett förbund <char style="add">(testamente, en sista vilja)</char> trätt i kraft, även om det bara så är ett mänskligt, kan ingen ta bort eller lägga till något.</para>
+  <para style="b" vid="GAL 3:15" />
+  <para style="m" vid="GAL 3:15">
+    <char style="add">[Det grekiska ordet för förbund är diatheke. Ordet i sin verbform betyder ”att placera mellan två”. Det beskriver ett förbund och avtal mellan två parter. Ordet kan också översättas med testamente. Det är därför Bibelns delar kallas testamenten.]</char><verse eid="GAL 3:15" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="16" style="v" sid="GAL 3:16" />Nu gavs löftena till Abraham och hans avkomma <char style="add">(säd, arvinge)</char>. Han <char style="add">[Gud, Skriften]</char> säger inte, ”och åt dina avkomlingar”, som när man talar om många, i stället talas det om en, ”och åt din avkomling”. Det är den Smorde <char style="add">(Messias, Kristus)</char>. <verse eid="GAL 3:16" /><verse number="17" style="v" sid="GAL 3:17" />Detta är vad jag menar, lagen som kom 430 år senare <char style="add">[än löftet till Abraham]</char> kan inte annullera ett tidigare förbund <char style="add">(testamente)</char> från Gud, så att löftet blir ogiltigt. <verse eid="GAL 3:17" /><verse number="18" style="v" sid="GAL 3:18" />För om arvet berodde på <char style="add">[att bara lyda]</char> lagen <char style="add">[som dessa falska lärare vill få er att tro]</char>, skulle det inte längre bero på löftet, men Gud gav arvet till Abraham genom ett löfte.<verse eid="GAL 3:18" /></para>
+  <para style="s3">Skriften visar vad synd är</para>
+  <para style="m">
+    <verse number="19" style="v" sid="GAL 3:19" />Vad var syftet med lagen? Den lades till <char style="add">[senare, efter löftet]</char> på grund av överträdelserna <char style="add">(synden, lagbrotten) [för att vara en måttstock och överbevisa människorna om synd]</char>, för att gälla fram tills arvingen skulle komma, han som löftet getts till. Lagen gavs <char style="add">(dikterades, befalldes, påbjöds)</char> av änglar via en medlares hand <char style="add">[Mose, en medlare mellan Gud och människan]</char>. <verse eid="GAL 3:19" /><verse number="20" style="v" sid="GAL 3:20" />En medlare företräder fler än en, men Gud var ensam <char style="add">[när han gav löftet till Abraham]</char>.</para>
+  <para style="b" vid="GAL 3:20" />
+  <para style="m" vid="GAL 3:20">
+    <char style="add">[Lagen var ett kontrakt, mellan Israel och Gud, som krävde att båda parter höll det. Löftet däremot beror bara på Gud.]</char><verse eid="GAL 3:20" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="21" style="v" sid="GAL 3:21" />Motsäger sig lagen Guds löften? Nej, absolut inte! Om en lag i sig självt kunde ge <char style="add">[andligt]</char> liv, då hade med säkerhet rättfärdighet kommit genom lagen. <verse eid="GAL 3:21" /><verse number="22" style="v" sid="GAL 3:22" />I stället har Skriften visat att alla <char style="add">[hela skapelsen och mänskligheten]</char> är fängslade av synd <char style="add">(helt instängda utan hopp om att själva kunna bli befriade)</char>, för att det som var lovat <char style="add">[arvet, välsignelsen]</char> skulle ges, på grund av Jesu den Smordes <char style="add">(Kristi)</char> trofasthet, till dem som tror <char style="add">(litar, lutar sig emot honom)</char>.<verse eid="GAL 3:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="GAL 3:23" />Men innan tron kom <char style="add">[på Jesu död och uppståndelse]</char>, var vi under uppsikt <char style="add">(bevakades vi)</char> av lagen, instängda tills <char style="add">[fram till dess att]</char> tron skulle <char style="add">[till att]</char> uppenbaras. <verse eid="GAL 3:23" /><verse number="24" style="v" sid="GAL 3:24" />Så har alltså lagen blivit vår <char style="add">[judarnas]</char> skolmästare <char style="add">(instruktör, uppfostrare, övervakare; stränga beskyddare) [som skulle föra oss]</char> fram till den Smorde <char style="add">(Messias, Kristus)</char>, så att vi skulle bli <char style="add">(förklaras)</char> rättfärdiga av <char style="add">(utifrån)</char> tro. <verse eid="GAL 3:24" /><verse number="25" style="v" sid="GAL 3:25" />När nu tron har kommit står <char style="add">(är)</char> vi inte längre under en skolmästare.</para>
+  <para style="b" vid="GAL 3:25" />
+  <para style="m" vid="GAL 3:25">
+    <char style="add">[Ordet skolmästare (gr. paidagogos) användes i grekiskan för en slav med gott anseende som fick uppdraget att övervaka familjens barn fram tills de blev vuxna. Han följde dem till skolan, skyddade dem från faror och frestelser, såg till att de kom dit de skulle och inte gjorde några hyss. Lagen liknas vid en sådan skolmästare som i detalj styr vad barnen får och inte får göra tills de växt upp. Lagen leder den troende fram till evangeliet – det glada budskapet om frälsningen i Jesus som dött och uppstått för alla som brutit mot lagen.]</char><verse eid="GAL 3:25" /></para>
+  <para style="s3">Del i arvet</para>
+  <para style="m">
+    <verse number="26" style="v" sid="GAL 3:26" />I den Smorde <char style="add">(Messias, Kristus)</char> Jesus <char style="add">(förenade med honom)</char> är ni alla Guds söner genom tron. <verse eid="GAL 3:26" /><verse number="27" style="v" sid="GAL 3:27" />Alla ni som blivit döpta in i den Smorde <char style="add">(till Kristus)</char> har iklätt er den Smorde <char style="add">(Kristus)</char>. <verse eid="GAL 3:27" /><verse number="28" style="v" sid="GAL 3:28" /><char style="add">[I Guds familj råder inte längre åtskillnad mellan nationalitet, samhällsklass och kön.]</char></para>
+  <para style="b" vid="GAL 3:28" />
+  <para style="m" vid="GAL 3:28">Det är inte:</para>
+  <para style="p" vid="GAL 3:28">jude eller grek <char style="add">(hedning)</char>,</para>
+  <para style="p" vid="GAL 3:28">slav eller fri,</para>
+  <para style="p" vid="GAL 3:28">man och kvinna,</para>
+  <para style="m" vid="GAL 3:28">för ni är alla ett i den Smorde <char style="add">(Messias, Kristus)</char> Jesus.</para>
+  <para style="b" vid="GAL 3:28" />
+  <para style="m" vid="GAL 3:28">
+    <char style="add">[I Talmud (en judisk skrift som sammanfattar och kommenterar Gamla testamentet) finns böner för den judiska synagogans liturgi. I morgonbönen tackar mannen Gud för att han inte är skapad till en hedning, en slav eller en kvinna. Som rättrogen jude hade Paulus säkerligen bett denna bön varje morgon under många år och det gör dessa ord ännu starkare – alla är vi ett i Jesus! </char></para>
+  <para style="p" vid="GAL 3:28">
+    <char style="add">Ordet ”och” finns bara mellan den sista gruppen. Det kan anspela på <char style="xt"><ref loc="GEN 1:27">1 Mos 1:27</ref></char> där det står att Gud skapade dem till ”man och kvinna”, och att båda könen finns med i de två första grupperingarna.]</char><verse eid="GAL 3:28" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="29" style="v" sid="GAL 3:29" />Om ni tillhör den Smorde <char style="add">(Messias, Kristus) [är i honom som är Abrahams arvinge]</char>, är ni också Abrahams barn <char style="add">(avkomma, säd)</char> och arvingar enligt löftet.<verse eid="GAL 3:29" /></para>
+  <chapter eid="GAL 3" />
+  <chapter number="4" style="c" sid="GAL 4" />
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="GAL 4:1" />Vad jag menar är att så länge arvingen är ett barn <char style="add">(omoget barn, 5-9 år gammal)</char>, är det ingen skillnad mellan honom och en slav, även om han är herre över allt. <verse eid="GAL 4:1" /><verse number="2" style="v" sid="GAL 4:2" />Han står under förmyndare <char style="add">(som överser barnen)</char> och förvaltare <char style="add">(som överser hushållet)</char> fram till den dag hans far har bestämt. <verse eid="GAL 4:2" /><verse number="3" style="v" sid="GAL 4:3" />På samma sätt är det med oss <char style="add">[alla, judar, kristna eller hedningar]</char>, när vi var omogna barn var vi slavar under den grundläggande läran i ett strukturerat system av regler och lagar <char style="add">(världen – gr. kosmos)</char>. <char style="add">[De judiska reglerna och ritualerna eller hedniska religioner.]</char> <verse eid="GAL 4:3" /><verse number="4" style="v" sid="GAL 4:4" />Men när tiden var fullbordad sände Gud sin Son, född av en kvinna, och född in under lagen, <verse eid="GAL 4:4" /><verse number="5" style="v" sid="GAL 4:5" />för att friköpa dem som står under lagen, för att vi ska kunna välja att bli söner <char style="add">[bli adopterade och få söners rätt]</char>. <verse eid="GAL 4:5" /><verse number="6" style="v" sid="GAL 4:6" />Eftersom ni nu är <char style="add">[Guds]</char> söner sände Gud sin Sons Ande in i våra hjärtan, som ropar: Abba <char style="add">(pappa)</char>! Fader! <char style="add">[Abba betyder pappa på arameiska som var det språk Jesus och hans lärjungar talade till vardags. De första ord ett litet barn lär sig säga är pappa och mamma, abba och imma. Uttrycket ”Abba Fader” visar att vi får vara Guds barn och ha en nära familjerelation till vår himmelske Fader.]</char> <verse eid="GAL 4:6" /><verse number="7" style="v" sid="GAL 4:7" />Därför är du inte längre slav utan son, och om du är son, då är du också arvinge genom Gud. <char style="add">[<char style="xt"><ref loc="ROM 8:15">Rom 8:15</ref></char>]</char><verse eid="GAL 4:7" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="8" style="v" sid="GAL 4:8" />Tidigare, när ni inte kände <char style="add">(såg med era hjärtans ögon, hade en klar förståelse av)</char> Gud, var ni <char style="add">[hedningar]</char> slavar under gudar <char style="add">[avgudar av trä och sten]</char> som i verkligheten inte finns <char style="add">(i sin natur inte är gudar)</char>. <verse eid="GAL 4:8" /><verse number="9" style="v" sid="GAL 4:9" />Men nu, när ni har lärt känna <char style="add">(fått en personlig erfarenhet av)</char> Gud, eller snarare, Gud har lärt känna <char style="add">(fått en personlig relation med)</char> er, hur kan ni då vända tillbaka till dessa svaga och tomma krafter <char style="add">(element, primitiva religioner, vidskepelse)</char>? Vill ni bli slavar under dem igen? <verse eid="GAL 4:9" /><verse number="10" style="v" sid="GAL 4:10" />Ni iakttar noga <char style="add">[särskilda]</char> dagar och månader, och tider <char style="add">(tidsperioder)</char> och år! <verse eid="GAL 4:10" /><verse number="11" style="v" sid="GAL 4:11" />Ni skrämmer mig <char style="add">(jag är orolig för er)</char>, jag är rädd att allt mitt hårda arbete hos er är helt bortkastat.<verse eid="GAL 4:11" /></para>
+  <para style="s2">Paulus personliga vädjan</para>
+  <para style="m">
+    <verse number="12" style="v" sid="GAL 4:12" />Syskon <char style="add">(bröder och systrar i tron)</char>, jag ber er: Bli som jag <char style="add">[fri från slaveriet av de judiska ceremoniella lagarna]</char>, för jag har blivit som ni är <char style="add">[en hedning]</char>! Ni har inte sårat mig. <verse eid="GAL 4:12" /><verse number="13" style="v" sid="GAL 4:13" />Ni vet att det var på grund av kroppslig svaghet som jag <char style="add">[var kvar och]</char> predikade evangeliet för er den första gången, <verse eid="GAL 4:13" /><verse number="14" style="v" sid="GAL 4:14" />och även om mitt fysiska tillstånd måste ha frestat er <char style="add">[att inte respektera och lyssna på mig]</char>, så föraktade ni mig inte eller förkastade <char style="add">(stötte bort)</char> mig, i stället tog ni emot mig som en Guds ängel <char style="add">(budbärare)</char>, som om jag var den Smorde <char style="add">(Messias, Kristus)</char> Jesus själv! <verse eid="GAL 4:14" /><verse number="15" style="v" sid="GAL 4:15" />Vad har hänt med er glädje <char style="add">(saligprisning) [i det jag undervisade er om]</char>? Jag kan vittna om hur ni då skulle ha rivit ut era ögon och gett dem till mig om det var möjligt. <verse eid="GAL 4:15" /><verse number="16" style="v" sid="GAL 4:16" />Har jag nu blivit er ovän <char style="add">(fiende)</char> eftersom jag ständigt <char style="add">(gång på gång)</char> säger er sanningen?<verse eid="GAL 4:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="GAL 4:17" />Dessa <char style="add">[de falska lärarna som undervisar om regler och lagar]</char> brinner av iver för er, men deras motiv är fel. Vad de vill är att isolera er <char style="add">[från oss]</char>, så att ni ivrigt följer dem. <verse eid="GAL 4:17" /><verse number="18" style="v" sid="GAL 4:18" />Det är gott <char style="add">(bra)</char> att ha någon som brinner av iver för er <char style="add">[galater]</char>, i det som är gott <char style="add">(rätt)</char>, <char style="add">[det gäller]</char> alltid, och inte bara när jag är med er. <char style="add">[Paulus har inget emot att andra leder dem, bara de gör det av rätt motiv.]</char> <verse eid="GAL 4:18" /><verse number="19" style="v" sid="GAL 4:19" />Mina barn <char style="add">[älskade unga familjemedlemmar i tron]</char>, som jag på nytt känner födslovånda över, tills den Smorde <char style="add">(Messias, Kristus)</char> tagit form i er <char style="add">(ni blivit lika Jesus)</char>. <verse eid="GAL 4:19" /><verse number="20" style="v" sid="GAL 4:20" />Jag önskar jag var hos er <char style="add">(ansikte mot ansikte)</char> och kunde förändra mitt röstläge, för jag vet inte vad jag ska göra med er.<verse eid="GAL 4:20" /></para>
+  <para style="s2">Två förbund</para>
+  <para style="m">
+    <verse number="21" style="v" sid="GAL 4:21" />Säg mig, ni som vill stå under lagen, lyssnar <char style="add">(förstår)</char> ni på vad lagen säger? <verse eid="GAL 4:21" /><verse number="22" style="v" sid="GAL 4:22" />Det står ju att Abraham hade två söner, en med slavkvinnan <char style="add">[Hagar]</char> och en med den fria kvinnan <char style="add">[Sarah, sin hustru]</char>. <verse eid="GAL 4:22" /><verse number="23" style="v" sid="GAL 4:23" />Slavkvinnans son var född på naturligt sätt <char style="add">(efter köttet)</char>, däremot var den fria kvinnans son född genom löftet.<verse eid="GAL 4:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="GAL 4:24" />Nu, låt oss ta en bild <char style="add">(analogi)</char> från detta. Ett förbund <char style="add">(testamente)</char> har sitt ursprung från berget Sinai <char style="add">[där lagen gavs]</char> och föder sina barn in i slaveri, detta är Hagar. <verse eid="GAL 4:24" /><verse number="25" style="v" sid="GAL 4:25" />Ordet Hagar representerar berget Sinai i Arabien <char style="add">[öknen; Arava]</char>, det är också en bild av det nuvarande Jerusalem, för hon tjänar som en slav tillsammans med sina barn. <char style="add">[Jerusalem var ockuperat och förslavat dels under Romarriket, dels under ett religiöst slaveri som huvudstad för judendomen med alla dess lagar och förordningar.]</char> <verse eid="GAL 4:25" /><verse number="26" style="v" sid="GAL 4:26" />Men det högre <char style="add">(övre)</char> Jerusalem <char style="add">[Jesu rike]</char> är fritt, och hon är vår moder. <verse eid="GAL 4:26" /><verse number="27" style="v" sid="GAL 4:27" />För det står ju skrivet <char style="add">[<char style="xt"><ref loc="ISA 54:1">Jes 54:1</ref></char>]</char>:</para>
+  <para style="b" vid="GAL 4:27" />
+  <para style="m" vid="GAL 4:27">Gläd dig, du ofruktsamma kvinna som inte fött några barn,</para>
+  <para style="m" vid="GAL 4:27">brist ut och jubla högt, du som inte har födslovåndor,</para>
+  <para style="m" vid="GAL 4:27">för den ensamma kvinnan har många fler barn än den som har en man.<verse eid="GAL 4:27" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="28" style="v" sid="GAL 4:28" />Syskon <char style="add">(bröder och systrar i tron)</char>, vi är nu barn <char style="add">[inte naturliga barn som Ismael, utan]</char> som Isak, barn från ett löfte. <verse eid="GAL 4:28" /><verse number="29" style="v" sid="GAL 4:29" />Men på samma sätt som det var då, att barnet som fötts på naturligt sätt <char style="add">[efter köttet av slavkvinnan]</char> förföljde <char style="add">(trakasserade)</char> den som var född genom Anden, så är det också nu. <verse eid="GAL 4:29" /><verse number="30" style="v" sid="GAL 4:30" />Men vad säger Skriften? Kasta ut slavkvinnan och hennes son, för slavkvinnans son ska inte dela arvet med den fria kvinnans son. <char style="add">[<char style="xt"><ref loc="GEN 21:10">1 Mos 21:10</ref></char>]</char><verse eid="GAL 4:30" /></para>
+  <para style="p">
+    <verse number="31" style="v" sid="GAL 4:31" />Alltså, mina syskon <char style="add">(bröder och systrar i tron)</char>, vi <char style="add">[som är födda på nytt]</char> är inte barn till slavkvinnan, utan till den fria kvinnan.<verse eid="GAL 4:31" /></para>
+  <chapter eid="GAL 4" />
+  <chapter number="5" style="c" sid="GAL 5" />
+  <para style="s1">PRAKTISKA KONSEKVENSER (5:1-6:10)</para>
+  <para style="s2">Hur lever man det kristna livet i nåd?</para>
+  <para style="m">
+    <verse number="1" style="v" sid="GAL 5:1" />Till <char style="add">[den]</char> friheten befriade <char style="add">(frigjorde)</char> den Smorde <char style="add">(Messias, Kristus)</char> oss. Stå därför <char style="add">[fortsatt]</char> fasta och låt inte ett nytt slavok läggas på er <char style="add">(låt er inte snärjas under ett slavok igen)</char>.</para>
+  <para style="b" vid="GAL 5:1" />
+  <para style="m" vid="GAL 5:1">
+    <char style="add">[Omskärelsen av judiska pojkar är ett tecken på Guds eviga förbund med Abraham, se <char style="xt"><ref loc="GEN 17:10-12">1 Mos 17:10-12</ref></char>. Redan på Moses tid gjorde Gud klart att det inte räckte med det fysiska tecknet – hjärtat behövde också omskäras, se <char style="xt"><ref loc="DEU 10:16">5 Mos 10:16</ref>; <ref loc="DEU 30:6">30:6</ref>; <ref loc="JER 4:4">Jer 4:4</ref></char>.]</char><verse eid="GAL 5:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="GAL 5:2" />Se <char style="add">(lyssna noga nu)</char>, jag Paulus säger er, om ni låter er omskäras så blir den Smorde <char style="add">(Messias, Kristus)</char> till ingen nytta för er. <verse eid="GAL 5:2" /><verse number="3" style="v" sid="GAL 5:3" />Jag försäkrar er igen att den som låter sig omskäras är skyldig att fullgöra hela lagen. <verse eid="GAL 5:3" /><verse number="4" style="v" sid="GAL 5:4" />Ni som försöker bli förklarade rättfärdiga genom lagen har blivit separerade från den Smorde <char style="add">(Messias, Kristus)</char>. <char style="add">[Han kan inte verka i er.]</char> Ni har förlorat <char style="add">(fallit ur)</char> nåden. <verse eid="GAL 5:4" /><verse number="5" style="v" sid="GAL 5:5" />För genom <char style="add">[den helige]</char> Anden, genom tro <char style="add">(förtröstan)</char>, väntar vi <char style="add">(hoppas vi ivrigt)</char> på rättfärdigheten som är vårt hopp. <verse eid="GAL 5:5" /><verse number="6" style="v" sid="GAL 5:6" />För <char style="add">[om vi är]</char> i den Smorde <char style="add">(Messias, Kristus)</char> betyder omskuren eller oomskuren ingenting. Det enda som spelar någon roll är om vi har en tro som ständigt visar sig <char style="add">(gång på gång kommer till uttryck)</char> genom osjälviskt utgivande kärlek.<verse eid="GAL 5:6" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="7" style="v" sid="GAL 5:7" />Ni löpte loppet väl, vem har hindrat er <char style="add">(gjort att ni ändrat riktning)</char> från att följa sanningen? <verse eid="GAL 5:7" /><verse number="8" style="v" sid="GAL 5:8" />Denna övertalning <char style="add">(som förleder er)</char> är inte från honom som har kallat er <char style="add">[till friheten i Jesus]</char>. <verse eid="GAL 5:8" /><verse number="9" style="v" sid="GAL 5:9" />Det räcker med lite jäst <char style="add">[ett litet fel, några få falska lärare]</char> för att hela degen ska jäsa <char style="add">(syras) [hela tron ska förvrängas, eller hela församlingen bli missledd]</char>. <verse eid="GAL 5:9" /><verse number="10" style="v" sid="GAL 5:10" />Jag har förtroende för er i Herren att ni tänker på annat sätt. Men den som ständigt förvirrar er <char style="add">(stör er frid, rör upp era känslor)</char>, vem det nu än är, så ska han få bära sin dom.<verse eid="GAL 5:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="GAL 5:11" />Syskon <char style="add">(bröder och systrar i tron)</char>, om jag fortfarande predikade omskärelse <char style="add">[som några anklagar mig för]</char>, varför förföljs jag fortfarande? I så fall skulle korsets stötesten vara borta. <verse eid="GAL 5:11" /><verse number="12" style="v" sid="GAL 5:12" />Jag önskar att de som sprider oro bland er <char style="add">(skapar förvirring, försöker driva bort er från tron) [gick hela vägen och]</char> kastrerade sig.<verse eid="GAL 5:12" /></para>
+  <para style="s3">Anden – inte köttet!</para>
+  <para style="m">
+    <verse number="13" style="v" sid="GAL 5:13" />För ni är kallade till <char style="add">(ni kallades ju på grund av)</char> frihet, syskon <char style="add">(bröder och systrar i tron)</char>, men inte till den frihet som ger köttet något tillfälle <char style="add">[som leder till en startpunkt för den gamla mänskliga naturen]</char>, utan tjäna i stället <char style="add">[ständigt]</char> varandra genom <char style="add">[den osjälviskt utgivande]</char> kärleken. <verse eid="GAL 5:13" /><verse number="14" style="v" sid="GAL 5:14" />För hela lagen <char style="add">[allt vad Mose undervisade]</char> har uppfyllts i detta enda ord <char style="add">[kan sammanfattas i budordet]</char>:</para>
+  <para style="b" vid="GAL 5:14" />
+  <para style="m" vid="GAL 5:14">”Du ska <char style="add">[osjälviskt och utgivande]</char> älska din nästa <char style="add">(din medmänniska)</char> som dig själv.” <char style="add">[<char style="xt"><ref loc="LEV 19:18">3 Mos 19:18</ref></char>]</char><verse eid="GAL 5:14" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="15" style="v" sid="GAL 5:15" />Men om ni <char style="add">[kontinuerligt]</char> biter och sliter i <char style="add">(ordagrant: biter och ”äter ner”/förtär)</char> varandra, se <char style="add">[då hela tiden]</char> till att ni inte uppslukas av <char style="add">(förbrukar; gör slut på)</char> varandra.<verse eid="GAL 5:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="GAL 5:16" />Jag säger er: vandra <char style="add">(gr. peripateo)</char> hela tiden <char style="add">[lev ständigt]</char> i Anden, så kommer ni <char style="add">[absolut]</char> inte att ge efter för <char style="add">(så skulle ni aldrig vilja uppfylla)</char> köttets begär <char style="add">(lust, åtrå) [tillfredsställa den fallna människans fokuserade längtan och passionerade lust]</char>. <verse eid="GAL 5:16" /><verse number="17" style="v" sid="GAL 5:17" />För köttet <char style="add">[den fallna mänskliga naturen]</char> har <char style="add">[ständigt]</char> en stark längtan att undertrycka Anden, och Anden <char style="add">[har ständigt en stark längtan]</char> att undertrycka köttet. De står emot varandra <char style="add">[motarbetar varandra och ligger i konstant konflikt]</char> så att ni inte kan göra de saker ni skulle vilja. <verse eid="GAL 5:17" /><verse number="18" style="v" sid="GAL 5:18" />Men om ni leds av Anden, står <char style="add">(är)</char> ni inte under lagen. <char style="add">[<char style="xt"><ref loc="GAL 3:23-25">Gal 3:23-25</ref></char>]</char></para>
+  <para style="s3" vid="GAL 5:18">Köttets gärningar</para>
+  <para style="m" vid="GAL 5:18" />
+  <para style="m" vid="GAL 5:18">
+    <char style="add">[Paulus utvecklar genom två olika uppräkningar skillnaden mellan kött och Ande. Femton onda gärningar (flera i plural och ”annat”, se vers 21) står i skarp kontrast till de nio egenskaper som kollektivt utgör Andens frukt i vers 22-23. Sättet på vilket köttets gärningar presenteras – som kan tyckas vara utan någon större struktur – visar också på den oreda som ondskan ställer till med. Andens frukt däremot är fint strukturerad i tre tripletter.]</char><verse eid="GAL 5:18" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="19" style="v" sid="GAL 5:19" />Nu är köttets gärningar <char style="add">[den mänskliga naturens handlingar]</char> uppenbara <char style="add">(välkända)</char>. De är:</para>
+  <para style="b" vid="GAL 5:19" />
+  <para style="m" vid="GAL 5:19">sexuell omoral <char style="add">(otukt – gr. porneia)</char>,</para>
+  <para style="b" vid="GAL 5:19" />
+  <para style="m" vid="GAL 5:19">
+    <char style="add">[Porneia härstammar från ett grekiskt ord för att sälja, som i sin tur kommer från ett verb som betyder ”att trafikera” och som inbegrep slavhandel. Pornografi – porneia och grafo (där det senare betyder ”något skrivet eller tecknat”) är en beskrivning av någon som säljer sin kropp.]</char></para>
+  <para style="b" vid="GAL 5:19" />
+  <para style="m" vid="GAL 5:19">orenhet <char style="add">(smutsighet) [här avses troligen rituell orenhet som kom av olika tillstånd som gjorde en person oren, men även ens orena ”uppblandade” tankar/sinne]</char>,</para>
+  <para style="m" vid="GAL 5:19">lössläppthet <char style="add">(tygellöshet, sensualitet – gr. aselgeia) [vältrande lyx; ett sexuellt utsvävande liv i orgier; total frånvaro av avhållsamhet – den primära synden i Sodom och Gomorra, se <char style="xt"><ref loc="1PE 4:3">1 Pet 4:3</ref>; <ref loc="2PE 2:6">2 Pet 2:6</ref></char>]</char>,<verse eid="GAL 5:19" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="20" style="v" sid="GAL 5:20" />avgudadyrkan <char style="add">[tillbedjan av en mänskligt framställd bild, avbild, avgud eller idol, dvs. något som tar Guds rättmätiga plats]</char>,</para>
+  <para style="m" vid="GAL 5:20">drogbruk <char style="add">(ockultism, trolldom – gr. pharmakeia)</char>,</para>
+  <para style="b" vid="GAL 5:20" />
+  <para style="m" vid="GAL 5:20">
+    <char style="add">[Det grekiska ordet för drog, medicin eller medicinsk behandling är pharmakon och kommer ursprungligen av att ge dryck med hjälp av trollformler. Ordet för apotekare är pharmakeus. Det beskrev någon som tillredde droger eller gifter och som i förlängningen även kunde kallas trollkarl. Droger användes vid hednatemplen för att försätta sig i trans]</char></para>
+  <para style="b" vid="GAL 5:20" />
+  <para style="m" vid="GAL 5:20">fientligheter <char style="add">[hat, avsky, bitterhet och ovänskap]</char>,</para>
+  <para style="m" vid="GAL 5:20">gräl <char style="add">(kiv, ordstrider, gnabb) [som orsakar splittring i sin iver och stridslystenhet]</char>,</para>
+  <para style="m" vid="GAL 5:20">avund <char style="add">(avundsjuka, svartsjuka, ofördragsamhet; ordagrant: hetta – gr. zelos)</char>,</para>
+  <para style="m" vid="GAL 5:20">vredesutbrott <char style="add">[temperamentsfulla, okontrollerade och upprörda känsloyttringar]</char>,</para>
+  <para style="m" vid="GAL 5:20">intriger <char style="add">(stridigheter, partikäbbel) [rivalitet och själviska ambitioner för egen vinnings skull]</char>,</para>
+  <para style="m" vid="GAL 5:20">splittringar <char style="add">(meningsskiljaktigheter, delningar, uppdelningar) [som resulterar i att man lämnar någon man varit lojal mot, att man överger och agerar rebelliskt och uppviglande]</char>,</para>
+  <para style="m" vid="GAL 5:20">falska läror <char style="add">(villoläror, partier – gr. haireseis) [elittänkande sekter som föredrar slutenhet i grupp]</char>,<verse eid="GAL 5:20" /></para>
+  <para style="m">
+    <verse number="21" style="v" sid="GAL 5:21" />känslor av missunnsamhet <char style="add">[starka känslor av avund – eller svartsjuka, en illvilja som leder till en önskan att ta ifrån någon annan det den har]</char>,</para>
+  <para style="m" vid="GAL 5:21">fyllerier <char style="add">(berusningsmedel – gr. methai) [alkohol eller drogkonsumtion]</char>,</para>
+  <para style="m" vid="GAL 5:21">supkalas <char style="add">(gr. – komoi) [vilt firande som bara gick ut på att i onyktert tillstånd få sina begär tillfredsställda, se <char style="xt"><ref loc="1PE 4:3">1 Pet 4:3</ref></char>]</char></para>
+  <para style="m" vid="GAL 5:21">och <char style="add">[allt]</char> annat sådant <char style="add">(liknande saker)</char></para>
+  <para style="b" vid="GAL 5:21" />
+  <para style="m" vid="GAL 5:21">som jag <char style="add">[redan nu]</char> i förväg säger er <char style="add">[varnar er angående]</char> – precis som jag <char style="add">[också]</char> sa förut: de som verkligen gör <char style="add">[sig skyldiga till]</char> sådana saker <char style="add">[rutinmässigt ger sig hän åt köttets gärningar – sexuell omoral, avgudadyrkan, hat, omåttlighet osv., se vers 19-21]</char> ska inte ärva Guds rike <char style="add">(kungarike)</char>. <char style="add">[<char style="xt"><ref loc="ACT 10:42">Apg 10:42</ref></char>]</char><verse eid="GAL 5:21" /></para>
+  <para style="s3">Andens frukt</para>
+  <para style="m">
+    <verse number="22" style="v" sid="GAL 5:22" />Men Andens frukt <char style="add">[resultatet av Andens verk]</char> är:</para>
+  <para style="b" vid="GAL 5:22" />
+  <para style="m" vid="GAL 5:22">kärlek <char style="add">[som är utgivande, osjälvisk och rättfärdig]</char>,</para>
+  <para style="m" vid="GAL 5:22">glädje <char style="add">[gr. chara – här finns roten char från det grekiska ordet för nåd (charis) med – dvs. en glädje ”som lutar sig mot” nåden, se <char style="xt"><ref loc="1PE 4:13">1 Pet 4:13</ref></char>]</char>,</para>
+  <para style="m" vid="GAL 5:22">frid <char style="add">(ro, stillhet, vila, harmoni, helhet, endräkt) [<char style="xt"><ref loc="JHN 14:27">Joh 14:27</ref></char>]</char>,</para>
+  <para style="b" vid="GAL 5:22" />
+  <para style="m" vid="GAL 5:22">tålamod <char style="add">(tålighet, långmodighet, fördragsamhet, överseende, skonsamhet)</char>,</para>
+  <para style="m" vid="GAL 5:22">vänlighet <char style="add">(godhet, välvilja) [som på ett milt sätt bistår verkliga behov]</char>,</para>
+  <para style="m" vid="GAL 5:22">godhet <char style="add">(dygd, välgörenhet) [inneboende godhet och karaktärsfasthet som verkar i generositet gentemot andra]</char>,</para>
+  <para style="b" vid="GAL 5:22" />
+  <para style="m" vid="GAL 5:22">trofasthet <char style="add">(tro, tillit, förtröstan, övertygelse)</char>,<verse eid="GAL 5:22" /></para>
+  <para style="m">
+    <verse number="23" style="v" sid="GAL 5:23" />mildhet <char style="add">(saktmod) [balanserad och kontrollerad styrka som är fri från hämndlystnad och bitterhet]</char>,</para>
+  <para style="m" vid="GAL 5:23">självbehärskning <char style="add">(avhållsamhet, återhållsamhet, måttlighet, nykterhet) [förmågan att behärska sina känslor och impulser]</char>.</para>
+  <para style="b" vid="GAL 5:23" />
+  <para style="m" vid="GAL 5:23">
+    <char style="add">[Det grekiska ordet för frukt (karpos) står i singular. Den helige Ande producerar bara en sorts frukt och den presenteras här med nio komponenter där kärleken står främst. De tre första bor i den troendes hjärta, de följande tre har mer att göra med förhållandet till andra människor och de tre sista är generella inre kvaliteter för att möjliggöra ett liv i helgelse. Precis som vid uppräkningen av köttets gärningar finns inte heller här konjunktionen ”och” mellan punkterna. Detta skrivsätt (som kallas asyndeton) betonar därför slutsatsen:]</char></para>
+  <para style="b" vid="GAL 5:23" />
+  <para style="m" vid="GAL 5:23">Mot <char style="add">[allting]</char> sådant <char style="add">[alla dessa egenskaper och kvaliteter i Andens frukt]</char> finns ingen lag <char style="add">(är inte lagen)</char>.</para>
+  <para style="b" vid="GAL 5:23" />
+  <para style="m" vid="GAL 5:23">
+    <char style="add">[Däremot är Moseböckernas undervisning emot varje köttslig gärning. Den som bryter mot ett enda bud är skyldig i allt, se <char style="xt"><ref loc="JAS 2:10">Jak 2:10</ref></char>.]</char><verse eid="GAL 5:23" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="24" style="v" sid="GAL 5:24" />Och de som tillhör den Smorde <char style="add">(Messias, Kristus)</char> Jesus har korsfäst <char style="add">(korsfäste)</char> sitt kött <char style="add">[sin fallna mänskliga natur]</char> med dess lidelser <char style="add">(impulser)</char> och begär <char style="add">(lustar, åtrå)</char>. <char style="add">[<char style="xt"><ref loc="ROM 6:6">Rom 6:6</ref>; <ref loc="GAL 2:20">Gal 2:20</ref>; <ref loc="GAL 6:14">6:14</ref></char>]</char> <verse eid="GAL 5:24" /><verse number="25" style="v" sid="GAL 5:25" />Om vi lever <char style="add">[Guds rika liv]</char> genom Anden, ska <char style="add">(skulle, borde)</char> vi också marschera <char style="add">(följa; vandra i linje) [vara synkroniserade]</char> med Anden.</para>
+  <para style="b" vid="GAL 5:25" />
+  <para style="m" vid="GAL 5:25">
+    <char style="add">[Här används ett annat ord för att vandra än i vers 16. Grekiskans stoicheo härstammar från ordet för ”rad” och är en militär term för att marschera i takt på raka led. Varje steg är aldrig kortare, aldrig längre, utan alltid exakt anpassat till personen framför. På samma sätt ska den troende följa den helige Ande i jämn takt. Ordet beskriver ett lärjungaskap och ett liv som rättar sig efter Jesus, under Andens ledning.]</char><verse eid="GAL 5:25" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="26" style="v" sid="GAL 5:26" />Låt oss inte söka tom ära <char style="add">(förgänglig härlighet; vara egenkära/fåfänga)</char>, inte heller utmana <char style="add">(provocera; kalla fram sig själv – gr. prokaleo) [och tävla mot]</char> varandra eller avundas <char style="add">(vara missunnsamma mot)</char> varandra.</para>
+  <para style="b" vid="GAL 5:26" />
+  <para style="m" vid="GAL 5:26">
+    <char style="add">[Som en motpol till att leva och vandra i Anden refererar Paulus till stridigheterna som han nämner om i vers 15, och i nästa stycke ger instruktioner för, se <char style="xt"><ref loc="GAL 6:1-10">Gal 6:1-10</ref></char>. Eftersom Galaterbrevet skickades som ett rundbrev till flera församlingar inom samma område, gäller uppmaningen även rivalitet mellan olika församlingar som är förödande för Jesu kropp.]</char><verse eid="GAL 5:26" /></para>
+  <chapter eid="GAL 5" />
+  <chapter number="6" style="c" sid="GAL 6" />
+  <para style="s2">Ett liv i tjänst för andra</para>
+  <para style="m">
+    <verse number="1" style="v" sid="GAL 6:1" />Mina syskon <char style="add">(bröder och systrar i tron)</char>, även om någon skulle bli påkommen <char style="add">(ertappad, upptäckt, överraskad)</char> med något felsteg <char style="add">(överträdelse; kan också tolkas som: råka bli överraskad eller missledd att begå något felsteg, överträdelse)</char>, ska ni som är andliga människor <char style="add">(har Anden)</char>, i mildhet <char style="add">(rätt balans av känslor, fri från hämndlystnad och bitterhet)</char> återupprätta <char style="add">(återanpassa, hela)</char> en sådan – samtidigt som du ser till att inte också du själv blir <char style="add">(skulle bli)</char> frestad <char style="add">[och falla i samma synd]</char>! <char style="add">[Återupprätta är samma ord som används i <char style="xt"><ref loc="MAT 4:21">Matt 4:21</ref></char> för att laga ett trasigt nät.]</char><verse eid="GAL 6:1" /></para>
+  <para style="p">
+    <verse number="2" style="v" sid="GAL 6:2" />Bär <char style="add">[alltid, gång på gång]</char> varandras <char style="add">[särskilt betungande personliga]</char> bördor <char style="add">(tyngder, tunga vikter) [<char style="xt"><ref loc="ROM 15:1">Rom 15:1</ref></char>]</char> så <char style="add">(på detta sätt)</char> kommer ni <char style="add">[fortsätta]</char> att uppfylla <char style="add">(fullfölja, fullborda)</char> den Smordes <char style="add">(Messias, Kristi)</char> lag <char style="add">[Jesu bud och undervisning]</char>. <char style="add">[<char style="xt"><ref loc="GAL 5:6">Gal 5:6</ref>, <ref loc="GAL 5:14">14</ref>; <ref loc="JHN 13:34">Joh 13:34</ref>; <ref loc="ROM 13:8-10">Rom 13:8-10</ref>; <ref loc="1CO 9:21">1 Kor 9:21</ref>; <ref loc="1JN 4:21">1 Joh 4:21</ref>; <ref loc="HEB 8:10">Heb 8:10</ref></char>.]</char> <verse eid="GAL 6:2" /><verse number="3" style="v" sid="GAL 6:3" />För om någon tror <char style="add">(tycker)</char> sig vara något, fast han ingenting är <char style="add">[tycker sig vara förmer än andra och inte vill bära sin broders börda]</char>, bedrar han sig själv.</para>
+  <para style="b" vid="GAL 6:3" />
+  <para style="m" vid="GAL 6:3">
+    <char style="add">[Det grekiska ordet för börda i vers 2 är baros – en tung vikt eller sten som någon måste bära en längre sträcka. Det blev ett begrepp för att beskriva hårt arbete och svåra situationer, som i t.ex. <char style="xt"><ref loc="MAT 20:12">Matt 20:12</ref></char> där Jesus talar om vingårdsarbetarna som slet i hettan en hel dag. Här ligger betoningen på ”varandras bördor”. Paulus skriver om att man kan bedra sig själv – ordet har en grundbetydelse i sin substantivform ”en som förleder sinnet”, dvs. någon som vilseför sättet att tänka.]</char><verse eid="GAL 6:3" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="4" style="v" sid="GAL 6:4" />Men var och en ska pröva <char style="add">(undersöka, testa)</char> sina egna gärningar <char style="add">(handlingar)</char> och sedan bara hålla sin stolthet för sig själv <char style="add">[orsaken till varför man är stolt – det man kan ståta med och berömma sig av]</char> utan att jämföra sig med någon annan. <verse eid="GAL 6:4" /><verse number="5" style="v" sid="GAL 6:5" />För var och en måste bära <char style="add">(lyfta)</char> sin egen börda <char style="add">(portion, packning, en militärisk term för den utrustning som en soldat normalt själv bar)</char>.</para>
+  <para style="b" vid="GAL 6:5" />
+  <para style="m" vid="GAL 6:5">
+    <char style="add">[Här i vers 2-5 finns många sanningar: </char></para>
+  <para style="p" vid="GAL 6:5">
+    <char style="add">• Alla, även kristna, kommer att möta problem och svårigheter – det är verkligheten i en fallen värld, se <char style="xt"><ref loc="ROM 8:18-28">Rom 8:18-28</ref></char>. </char></para>
+  <para style="m" vid="GAL 6:5">
+    <char style="add">• En kristen behöver finnas med i en församlingsgemenskap. I ett individualistiskt samhälle är det lätt att tro att ”ensam är stark”. Att ensam bära sin börda är inte ett uttryck för tapperhet, utan snarare ett tecken på stolthet, något som vers 3 belyser. </char></para>
+  <para style="m" vid="GAL 6:5">
+    <char style="add">• Vers 5 tar upp den andra ytterligheten, den som utgår från att man förväntar sig att andra ska göra allt. Här använder Paulus ett annat grekiskt ord för börda, nämligen phortion (jfr med vers 2), som ofta översätts packning – t.ex. om en soldats ryggsäck. Det används även för skeppslast, se <char style="xt"><ref loc="ACT 27:10">Apg 27:10</ref></char> och kan betyda faktura eller räkning. När det kommer stora bördor – kriser i livet – då hjälps vi åt, men var och en bär sin egen ryggsäck och betalar sin egen räkning. Det kan och ska ingen annan göra. I ett annat brev förtydligar Paulus sitt budskap till de kristna som var odisciplinerade och levde på andra: ”den som inte arbetar, ska inte heller äta”, se <char style="xt"><ref loc="2TH 3:10">2 Thess 3:10</ref></char>.]</char><verse eid="GAL 6:5" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="6" style="v" sid="GAL 6:6" />Låt den som undervisas i ordet <char style="add">[evangeliet – det glada budskapet, se <char style="xt"><ref loc="EPH 1:13">Ef 1:13</ref></char>]</char> dela med sig till <char style="add">(delta med)</char> den som undervisar i allt gott <char style="add">(i varje god sak)</char>. <char style="add">[Det grekiska substantivet koinonos beskriver en kompanjon/ partner – någon som är gemensamt delaktig och delar med sig.]</char> <verse eid="GAL 6:6" /><verse number="7" style="v" sid="GAL 6:7" />Bli inte vilseledda <char style="add">(lurade, bedragna)</char>! Gud låter sig inte förlöjligas <char style="add">(föraktas, bli fnyst åt)</char> – för vad en människa sår <char style="add">[om hon skulle så]</char>, det ska hon också skörda.<verse eid="GAL 6:7" /></para>
+  <para style="m">
+    <verse number="8" style="v" sid="GAL 6:8" />Den som sår i <char style="add">(in i)</char> sitt kött <char style="add">[som gång på gång föder sin gamla onda mänskliga natur]</char></para>
+  <para style="p" vid="GAL 6:8">får av <char style="add">(ska utifrån/ur)</char> köttet skörda förgängelse <char style="add">(undergång; andligt förfall)</char>,</para>
+  <para style="m" vid="GAL 6:8">men den som sår <char style="add">[och fortsätter att så]</char> i <char style="add">(in i)</char> Anden</para>
+  <para style="p" vid="GAL 6:8">får av <char style="add">(ska utifrån/ur)</char> Anden skörda evigt liv.<verse eid="GAL 6:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="GAL 6:9" />Och låt oss inte tröttna på att <char style="add">[vi borde inte vara så dåliga på att alltid]</char> göra gott, för när tiden är inne <char style="add">(i sinom tid) [gr. kairo ideo, dvs. i vars och ens egen unika tid och när rätt säsong/tillfälle kommer]</char> får vi skörda om vi inte ger upp <char style="add">(ger efter, släpper taget) [slutar att göra gott]</char>.<verse eid="GAL 6:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="GAL 6:10" />Så låt oss <char style="add">(vi borde)</char> därför, medan vi har <char style="add">(äger)</char> tillfälle <char style="add">(gr. kairos) [när rätt tid/säsong är inne]</char>, göra <char style="add">(verka)</char> gott mot alla <char style="add">[hjälpa varje människa – göra det som bygger upp, är moraliskt rätt och ger glädje åt andra]</char>, och särskilt <char style="add">(speciellt; mest av allt)</char> mot dem som är våra medsyskon i tron <char style="add">(ordagrant: ”mot dem av trons hushåll/familjer”) [i synnerhet mot dem som tillhör de troende familjerna]</char>.</para>
+  <para style="b" vid="GAL 6:10" />
+  <para style="m" vid="GAL 6:10">
+    <char style="add">[Paulus tillämpar nu lagen (principen) om sådd och skörd (utifrån utläggningen i vers 7-9) när han åter igen använder det grekiska ordet kairos (som beskriver tid, säsong och tillfälle). På samma sätt som skörden kommer vid rätt säsong så finns det en lämplig tid att så i Anden. ”Att ha” (gr. echo) har även innebörden att äga, vilket gör att betydelsen inte bara behöver vara att göra gott mot andra när möjlighet ges, utan också söka efter tillfällen att göra gott. Precis som en lantbrukare ivrigt söker det bästa och mest gynnsamma tillfället att beså sina fält.]</char><verse eid="GAL 6:10" /></para>
+  <para style="s1">Avslutning</para>
+  <para style="m">
+    <verse number="11" style="v" sid="GAL 6:11" />Se med vilka stora bokstäver jag nu skriver med egen hand till er.</para>
+  <para style="b" vid="GAL 6:11" />
+  <para style="m" vid="GAL 6:11">
+    <char style="add">[Det var vanligt att brev dikterades, se <char style="xt"><ref loc="1CO 16:21">1 Kor 16:21</ref>; <ref loc="2CO 10:1">2 Kor 10:1</ref>; <ref loc="2TH 3:17">2 Thess 3:17</ref>; <ref loc="COL 4:18">Kol 4:18</ref></char>. Nu fattar Paulus själv pennan och skriver med versaler, för att sammanfatta och betona huvudpunkten i brevet: Jesu kors!]</char><verse eid="GAL 6:11" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="12" style="v" sid="GAL 6:12" />De som vill visa upp en fin yttre fasad <char style="add">(alla de som önskar få ett gott anseende)</char> i köttet försöker tvinga <char style="add">(tvingar)</char> er att bli omskurna, bara för att de inte ska bli förföljda för den Smordes <char style="add">(Messias, Kristi)</char> kors. <verse eid="GAL 6:12" /><verse number="13" style="v" sid="GAL 6:13" />För inte ens de som själva låter omskära sig håller <char style="add">(vaktar)</char> undervisningen <char style="add">(gr. nomos) [de följer inte alla förordningar i Moseböckerna]</char>, men de vill att ni blir omskurna så att de kan skryta med er kropp <char style="add">(berömma sig av ert kött) [få ära för att ni böjer er för deras yttre riter]</char>. <verse eid="GAL 6:13" /><verse number="14" style="v" sid="GAL 6:14" />Men vad gäller mig – må det aldrig ske att jag skulle berömma mig av något annat än av vår Herre Jesu den Smordes <char style="add">(Messias, Kristi)</char> kors, genom vilket världen har blivit korsfäst för mig, och jag för världen. <char style="add">[Jag har inte längre något intresse av den här världens system (med dess lockelser och mänskliga gärningslära) och världens intresse för mig är också dött.]</char> <verse eid="GAL 6:14" /><verse number="15" style="v" sid="GAL 6:15" />För varken omskärelse eller förhud <char style="add">[den oomskurna delen]</char> betyder <char style="add">(är)</char> något, däremot handlar det om <char style="add">[att vara]</char> en ny skapelse <char style="add">[i Jesus, se <char style="xt"><ref loc="2CO 5:17">2 Kor 5:17</ref></char>.]</char> <verse eid="GAL 6:15" /><verse number="16" style="v" sid="GAL 6:16" />Åt alla dem som vill <char style="add">(kommer att)</char> vandra efter denna regel <char style="add">(leva i linje med denna ordning; följa denna princip, se <char style="xt"><ref loc="GAL 5:25">Gal 5:25</ref></char>)</char>: Frid och barmhärtighet över dem, och <char style="add">(ja)</char> över Guds Israel <char style="add">[Jesu efterföljare oavsett om man varit jude eller hedning före omvändelsen]</char>.<verse eid="GAL 6:16" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="17" style="v" sid="GAL 6:17" />I fortsättningen <char style="add">(härefter; den tid som är kvar)</char> får ingen orsaka mig oro <char style="add">(slag på slag)</char>, för jag bär Jesu märken på min kropp.</para>
+  <para style="b" vid="GAL 6:17" />
+  <para style="m" vid="GAL 6:17">
+    <char style="add">[Paulus brukar här samma grekiska ord som användes om de bomärken slavar och djur brännmärktes med av sin ägare. Rent symboliskt, men även fysiskt, var han märkt som Jesu egendom och hade ofta blivit misshandlad och slagen för det budskap han frambar. En del av brevets mottagare i Galatien kunde själva komma ihåg hur Paulus varit nära att bli dödad när han kom till dem, se <char style="xt"><ref loc="ACT 14:19">Apg 14:19</ref></char>.]</char><verse eid="GAL 6:17" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="18" style="v" sid="GAL 6:18" />Må vår Herre Jesu den Smordes <char style="add">(Messias, Kristi)</char> nåd <char style="add">(favör)</char> vara med er ande, mina syskon <char style="add">(bröder och systrar i tron)</char>.</para>
+  <para style="b" vid="GAL 6:18" />
+  <para style="m" vid="GAL 6:18">Amen <char style="add">(låt det ske så)</char>.<verse eid="GAL 6:18" /></para>
+  <chapter eid="GAL 6" />
+</usx>

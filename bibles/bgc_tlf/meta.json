@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "हरियाणवी बाइबिल",
+        "local_abbrev": "",
+        "english": "Haryanvi Bible",
+        "english_abbrev": "BGCNT"
+    },
+    "year": 2021,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Love Fellowship",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=2ef130d3485d3fe4"
+    },
+    "ids": {
+        "dbl": "2ef130d3485d3fe4",
+        "ebible": "bgc"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=2ef130d3485d3fe4&type=release",
+        "updated": "2021-02-24",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

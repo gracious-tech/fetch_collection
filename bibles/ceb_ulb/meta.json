@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Balaan nga Bibliya",
+        "local_abbrev": "",
+        "english": "Cebuano Bible",
+        "english_abbrev": "CB"
+    },
+    "year": 2019,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2019 Door43 World Missions Community",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=cebulb"
+    },
+    "ids": {
+        "ebible": "cebulb"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/cebulb_usfm.zip",
+        "updated": "2020-06-08",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

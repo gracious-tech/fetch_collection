@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Buk Baibel long Anuki",
+        "local_abbrev": "",
+        "english": "Anuki Bible Portions",
+        "english_abbrev": "ABP"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2010-2016 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=aui"
+    },
+    "ids": {
+        "ebible": "aui"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/aui_usfm.zip",
+        "updated": "2014-06-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

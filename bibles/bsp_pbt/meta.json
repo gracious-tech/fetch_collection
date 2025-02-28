@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Kitabu ka Kanu",
+        "local_abbrev": "KKK",
+        "english": "Baga Translation",
+        "english_abbrev": "BAGA"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=71d2075d284c4eae"
+    },
+    "ids": {
+        "dbl": "71d2075d284c4eae",
+        "ebible": "bsp"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=71d2075d284c4eae&type=release",
+        "updated": "2023-06-27",
+        "revision": 6
+    },
+    "literalness": null,
+    "tags": []
+}

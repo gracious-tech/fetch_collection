@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Aadi keyri: linjiila iisaa almasiihu",
+        "local_abbrev": "",
+        "english": "Maasina Fulfulde New Testament",
+        "english_abbrev": "MFNT"
+    },
+    "year": 2005,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2005 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ffm"
+    },
+    "ids": {
+        "ebible": "ffm"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ffm_usfm.zip",
+        "updated": "2015-03-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

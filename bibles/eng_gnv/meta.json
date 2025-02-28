@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Geneva Bible (1599)",
+        "local_abbrev": "GNV",
+        "english": "Geneva Bible (1599)",
+        "english_abbrev": "GNV"
+    },
+    "year": 1599,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=enggnv"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=enggnv"
+    },
+    "ids": {
+        "ebible": "enggnv"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/enggnv_usfm.zip",
+        "updated": "2024-03-16",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

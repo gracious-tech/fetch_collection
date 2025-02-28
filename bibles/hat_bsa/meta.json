@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Bib Sen An: Kreyòl Ayisyen",
+        "local_abbrev": "BSA",
+        "english": "Haitian Creole Bible",
+        "english_abbrev": "HCB"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Bib Sen An",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=496cafdffc23197b"
+    },
+    "ids": {
+        "dbl": "496cafdffc23197b",
+        "ebible": "hatbsa"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=496cafdffc23197b&type=release",
+        "updated": "2024-10-28",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

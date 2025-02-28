@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Gofa New Testament",
+        "english_abbrev": "GNT"
+    },
+    "year": 2013,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=e9f42a314db2ec15"
+    },
+    "ids": {
+        "dbl": "e9f42a314db2ec15",
+        "ebible": "gofwftw"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=ba74d885b27806bb&type=release",
+        "updated": "2019-04-24",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

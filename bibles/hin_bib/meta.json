@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "हिंदी समकालीन संस्करण-स्वतंत्र उपलब्धि",
+        "local_abbrev": "",
+        "english": "Open Hindi Contemporary Version",
+        "english_abbrev": "OHCV"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=2133003bb8b5e62b"
+    },
+    "ids": {
+        "dbl": "2133003bb8b5e62b",
+        "ebible": "hincv"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=2133003bb8b5e62b&type=release",
+        "updated": "2024-04-30",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

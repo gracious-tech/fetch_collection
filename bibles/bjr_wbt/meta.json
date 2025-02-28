@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Fúka Moodaanaki Kira Ufa Afaqínaasa Ufa",
+        "local_abbrev": "",
+        "english": "Binumarien Bible",
+        "english_abbrev": "BB"
+    },
+    "year": 2001,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1983, 2001, 2017 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=bjr"
+    },
+    "ids": {
+        "ebible": "bjr"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/bjr_usfm.zip",
+        "updated": "2013-08-10",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

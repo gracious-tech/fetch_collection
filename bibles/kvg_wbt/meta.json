@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Mbumbukiam-qa Manqat Mbomambaqape",
+        "local_abbrev": "",
+        "english": "Kuni-Boazi Bible",
+        "english_abbrev": "KBB"
+    },
+    "year": 2015,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2015 Wycliffe Switzerland",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kvg"
+    },
+    "ids": {
+        "ebible": "kvg"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kvg_usfm.zip",
+        "updated": "2024-12-04",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

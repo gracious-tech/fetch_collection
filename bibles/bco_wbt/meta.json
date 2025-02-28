@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Godeya꞉ To Nafayo꞉ We",
+        "local_abbrev": "",
+        "english": "Kaluli Bible portions",
+        "english_abbrev": "KB"
+    },
+    "year": 1998,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1998-2022 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=bco"
+    },
+    "ids": {
+        "ebible": "bco"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/bco_usfm.zip",
+        "updated": "2024-09-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

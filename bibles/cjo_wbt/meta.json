@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Iwaperite tajorentsi ikenkithatakoetziri awinkatharite Jesokirishito: owakirari inimotakiri tajorentsi",
+        "local_abbrev": "",
+        "english": "Asheninka Pajonal New Testament",
+        "english_abbrev": "APNT"
+    },
+    "year": 2008,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2008 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=cjoNT"
+    },
+    "ids": {
+        "ebible": "cjoNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/cjoNT_usfm.zip",
+        "updated": "2014-04-21",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

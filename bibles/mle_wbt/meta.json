@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Nupela Testamen long Manambu",
+        "local_abbrev": "",
+        "english": "Manabu New Testament",
+        "english_abbrev": "MNT"
+    },
+    "year": 2001,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2001 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=mle"
+    },
+    "ids": {
+        "ebible": "mle"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/mle_usfm.zip",
+        "updated": "2023-02-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

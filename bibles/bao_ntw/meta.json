@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "U̶mʉreco pacʉ wederique",
+        "local_abbrev": "",
+        "english": "Waimaha New Testament",
+        "english_abbrev": "NTW"
+    },
+    "year": 2010,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2010 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=baoNT"
+    },
+    "ids": {
+        "ebible": "baoNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/baoNT_usfm.zip",
+        "updated": "2023-04-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

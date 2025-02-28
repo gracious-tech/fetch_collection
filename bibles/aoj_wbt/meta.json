@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Basef Buꞌwafi Godi",
+        "local_abbrev": "",
+        "english": "Mufian New Testament",
+        "english_abbrev": "MNT"
+    },
+    "year": 1998,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1998 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=aoj"
+    },
+    "ids": {
+        "ebible": "aoj"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/aoj_usfm.zip",
+        "updated": "2013-07-19",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

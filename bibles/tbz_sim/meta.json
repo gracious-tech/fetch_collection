@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Bibiri Kuyie Nnɑ́ɑǹtì Pɑ́tíri",
+        "local_abbrev": "",
+        "english": "Ditammari Bible",
+        "english_abbrev": "DB"
+    },
+    "year": 2001,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2001 SIM International",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tbzsim"
+    },
+    "ids": {
+        "ebible": "tbzsim"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tbzsim_usfm.zip",
+        "updated": "2022-05-31",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

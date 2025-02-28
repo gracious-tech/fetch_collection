@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Библия Думитру Корнилеску (1924)",
+        "local_abbrev": "БДК",
+        "english": "Romanian Bible (Cyrillic, 1924)",
+        "english_abbrev": "1924"
+    },
+    "year": 1924,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=ron1924"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ron1924"
+    },
+    "ids": {
+        "ebible": "ron1924"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ron1924_usfm.zip",
+        "updated": "2022-01-13",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

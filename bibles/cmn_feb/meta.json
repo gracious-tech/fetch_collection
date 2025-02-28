@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "免费的易读圣经",
+        "local_abbrev": "",
+        "english": "Free Easy-to-read Bible",
+        "english_abbrev": "FEB"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Free Bible Ministry, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=04fb2bec0d582d1f"
+    },
+    "ids": {
+        "dbl": "04fb2bec0d582d1f",
+        "ebible": "cmnfeb"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=04fb2bec0d582d1f&type=release",
+        "updated": "2022-08-02",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

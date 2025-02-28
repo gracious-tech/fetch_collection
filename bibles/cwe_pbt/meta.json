@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Biblia Ching'hwele",
+        "local_abbrev": "",
+        "english": "Kwere Bible Version",
+        "english_abbrev": "KBV"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=dca01eb41e39d25d"
+    },
+    "ids": {
+        "dbl": "dca01eb41e39d25d",
+        "ebible": "cwe"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=dca01eb41e39d25d&type=release",
+        "updated": "2023-11-30",
+        "revision": 6
+    },
+    "literalness": null,
+    "tags": []
+}

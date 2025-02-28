@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Soso Kitaabuie: Tawureta, Yabura, Inyila",
+        "local_abbrev": "Soso",
+        "english": "Susu Translation",
+        "english_abbrev": ""
+    },
+    "year": 2015,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Mission Evangélique Réformée Néerlandaise",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=bbeb583cd75c6356"
+    },
+    "ids": {
+        "dbl": "bbeb583cd75c6356",
+        "ebible": "sus"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=bbeb583cd75c6356&type=release",
+        "updated": "2022-04-29",
+        "revision": 6
+    },
+    "literalness": null,
+    "tags": []
+}

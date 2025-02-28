@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "BUK TAABU MATAKIN",
+        "local_abbrev": "",
+        "english": "Ramoaaina New Testament",
+        "english_abbrev": "RNT"
+    },
+    "year": 2006,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2006 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=rai"
+    },
+    "ids": {
+        "ebible": "rai"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/rai_usfm.zip",
+        "updated": "2016-09-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

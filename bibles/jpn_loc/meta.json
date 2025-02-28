@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "新改訳新約聖書(1965年版)",
+        "local_abbrev": "",
+        "english": "New Japanese New Testament (1965)",
+        "english_abbrev": "NJNT"
+    },
+    "year": 1965,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=jpn1965"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=jpn1965"
+    },
+    "ids": {
+        "ebible": "jpn1965"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/jpn1965_usfm.zip",
+        "updated": "2023-02-24",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

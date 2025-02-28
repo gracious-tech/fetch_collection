@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Meupiya ne panugtulen: Bibliya ne Matigsalug",
+        "local_abbrev": "",
+        "english": "Matigsalug Manobo New Testament",
+        "english_abbrev": "MMNT"
+    },
+    "year": 2010,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2010 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=mbtNT"
+    },
+    "ids": {
+        "ebible": "mbtNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/mbtNT_usfm.zip",
+        "updated": "2014-04-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

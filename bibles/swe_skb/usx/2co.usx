@@ -1,0 +1,930 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
+  <book code="2CO" style="id" />
+  <para style="h">2 Korintierbrevet</para>
+  <para style="toc2">2 Korintierbrevet</para>
+  <para style="mt1">2 Korintierbrevet</para>
+  <para style="imt1">Inledning</para>
+  <para style="ip">Introduktion: Detta är ett av de mer personliga breven som Paulus skriver. I brevet blir hans kärlek och herdehjärta tydliga för en församling som hamnat på avvägar. Paulus hade grundat församlingen omkring 52 e.Kr. under sin andra missionsresa. Han verkade där i ett och ett halvt år, se <char style="xt"><ref loc="ACT 18:11">Apg 18:11</ref></char>. Paulus skrev minst tre, kanske upp till fem brev till församlingen, där bara två är bevarade. Under denna period besöker han församlingen två eller tre gånger. Den vanligaste sekventiella sammanställningen av händelserna är:</para>
+  <para style="ip">1. Paulus kommer till Korint under sin andra missionsresa, församlingen grundas och han stannar där 18 månader, se <char style="xt"><ref loc="ACT 18:1-18">Apg 18:1-18</ref></char>.</para>
+  <para style="ip">2. Under Paulus tredje missionsresa, i början på den treåriga vistelsen i Efesos, skriver han ett första brev till Korint som inte finns bevarat, se <char style="xt"><ref loc="1CO 5:9-10">1 Kor 5:9-10</ref></char>.</para>
+  <para style="ip">3. Korintierna svarar på detta brev, se <char style="xt"><ref loc="1CO 7:1">1 Kor 7:1</ref></char>, och Paulus skriver ett andra brev från Efesos – som kallas 1 Korintierbrevet.</para>
+  <para style="ip">4. Paulus gör en kort resa över havet som blir ett andra ”plågsamt besök”, se <char style="xt"><ref loc="2CO 2:1">2 Kor 2:1</ref></char>.</para>
+  <para style="ip">5. Väl tillbaka i Efesos skriver Paulus ett tredje ”tårarnas brev”, som inte längre finns kvar, se <char style="xt"><ref loc="2CO 2:4">2 Kor 2:4</ref></char>.</para>
+  <para style="ip">6. Ett fjärde brev – som vi kallar 2 Korintierbrevet – skrivs från Makedonien.</para>
+  <para style="ip">7. Ett tredje besök.</para>
+  <para style="ip">Korint var en stor handelsstad med omkring 50 000 invånare från många folkslag. Det var ett religiöst centrum med många tempel. Kärleksgudinnan Afrodite tillbads här och i hennes tempel tjänstgjorde enligt antika källor 1 000 prostituerade. Staden fick till och med ett grekiskt verb uppkallat efter sig, ordet ”korintisera” som betydde att praktisera sexuell omoral. Kulten av vinguden Dionysus, som romarna kallade Bacchus, var sannolikt mycket stor i Korint. Anhängarna drack sig berusade av vin och det förekom dans, extas och visioner. Alla sexuella relationer var tillåtna. Influenser från denna kult kan ha smugit sig in i församlingen.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Struktur:</char></para>
+  <para style="ip">1. Paulus förklarar sin tjänst, kapitel 1-7.</para>
+  <para style="ip">2. Insamling till Jerusalem, kapitel 8-9.</para>
+  <para style="ip">3. Paulus försvarar sin tjänst, kapitel 10-13.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Skrivet: </char> ca <char style="bd">56 e.Kr.</char>, ett år efter 1 Korintierbrevet.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Till: Korint</char>.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Från: Makedonien</char>, antingen från staden Filippi eller Thessalonike medan Paulus är på väg till Korint från Efesos. Vissa tidiga manuskript nämner Filippi.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Författare: Paulus</char>, se <char style="xt"><ref loc="2CO 1:1">2 Kor 1:1</ref></char>.</para>
+  <para style="ip">Budbärare: kanske <char style="bd">Titus</char>, se <char style="xt"><ref loc="2CO 8:17">2 Kor 8:17</ref></char>.</para>
+  <chapter number="1" style="c" sid="2CO 1" />
+  <para style="s1">INTRODUKTION (1:1-11)</para>
+  <para style="s2">Hälsning</para>
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 1:1" />Från Paulus, genom Guds vilja apostel <char style="add">(sändebud, ambassadör)</char> åt den Smorde <char style="add">(Messias, Kristus)</char> Jesus, och <char style="add">[från]</char> brodern Timoteus.</para>
+  <para style="b" vid="2CO 1:1" />
+  <para style="m" vid="2CO 1:1">
+    <char style="add">[Timoteus hade besökt Korint flera gånger, se <char style="xt"><ref loc="ACT 18:5">Apg 18:5</ref>; <ref loc="1CO 4:17">1 Kor 4:17</ref>; <ref loc="1CO 16:10">16:10</ref>; <ref loc="2CO 1:19">2 Kor 1:19</ref></char>. Han är troligtvis inte sekreterare på samma sätt som Tertius, se <char style="xt"><ref loc="ROM 16:22">Rom 16:22</ref></char>. Han är nog inte heller medförfattare, snarare finns han med som ett vittne för att visa att Paulus inte är helt ensam i dessa påståenden, se <char style="xt"><ref loc="DEU 19:15">5 Mos 19:15</ref>; <ref loc="2CO 13:1">2 Kor 13:1</ref></char>.]</char></para>
+  <para style="b" vid="2CO 1:1" />
+  <para style="m" vid="2CO 1:1">Till Guds församling <char style="add">(gr. ekklesia)</char> i Korint och alla de heliga i hela Achaia. <char style="add">[Korint var huvudort i den romerska provinsen Achaia i södra Grekland.]</char></para>
+  <para style="b" vid="2CO 1:1" />
+  <para style="m" vid="2CO 1:1">
+    <char style="add">[Det enda som separerar församlingarna i Nya testamentet är geografisk placering. De troende på en ort, även om de träffades i olika hem, benämns alltid som en enhet.]</char><verse eid="2CO 1:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 1:2" />Nåd vare med er och frid från Gud vår Far och Herren Jesus den Smorde <char style="add">(Messias, Kristus)</char>.</para>
+  <para style="s2" vid="2CO 1:2">Tacksägelse för Guds omsorg</para>
+  <para style="m" vid="2CO 1:2" />
+  <para style="m" vid="2CO 1:2">
+    <char style="add">[Paulus inledande hälsning utgörs av en klassisk judisk välsignelse. Dock med den skillnaden att han identifierar Gud som Jesu Fader. Gud är inte längre bara Israels Fader. Genom Jesus har alla, både jude och grek, tillgång till Fadern, se <char style="xt"><ref loc="EPH 2:18">Ef 2:18</ref></char>. Jesus är den största välsignelse som Gud har skänkt mänskligheten, se <char style="xt"><ref loc="COL 1:12">Kol 1:12</ref></char>. Paulus använder det grekiska ordet paraklesis (som kan översättas uppmuntran, maning, förmaning, hjälp, mod och tröst) 29 gånger i detta brev. Bara här i inledningen (vers 3-11) förekommer ordet hela tio gånger. Gud motiverar och ledsagar den som möter svårigheter på ett mycket personligt sätt.]</char><verse eid="2CO 1:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 1:3" />Välsignad är vår Herre Jesu den Smordes <char style="add">(Messias, Kristi)</char> Gud och Fader,</para>
+  <para style="p" vid="2CO 1:3">barmhärtighetens Fader <char style="add">[som har sympati och medlidande – det grekiska ordet oiktirmos står i plural]</char> och all uppmuntrans Gud <char style="add">[källan till allt mod och all tröst]</char>,<verse eid="2CO 1:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="2CO 1:4" />han som <char style="add">[ständigt]</char> uppmuntrar <char style="add">[kommer till vår sida och hjälper]</char> oss i all vår nöd <char style="add">(vårt lidande och betryck)</char>,</para>
+  <para style="p" vid="2CO 1:4">för att vi ska kunna uppmuntra <char style="add">(hjälpa, trösta)</char> dem som är i all slags nöd</para>
+  <para style="p" vid="2CO 1:4">genom den uppmuntran som vi själva blir uppmuntrade med av Gud.<verse eid="2CO 1:4" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 1:5" />För på samma sätt som den Smordes <char style="add">(Kristi)</char> lidande i överflödande mått kommer över oss, så överflödar vi också av uppmuntran <char style="add">(hjälp, tröst)</char> genom Jesus.<verse eid="2CO 1:5" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 1:6" />Om vi är hårt pressade <char style="add">(förföljs, får lida)</char>, så är det till er uppmuntran och befrielse <char style="add">(frälsning)</char>. Om vi får uppmuntran <char style="add">(hjälp, tröst)</char>, så är det till er uppmuntran. Den verkar <char style="add">(arbetar)</char> i er, när ni uthålligt <char style="add">(ståndaktigt, tålmodigt)</char> utstår samma lidande som vi utstår. <verse eid="2CO 1:6" /><verse number="7" style="v" sid="2CO 1:7" />Vårt hopp för er står helt fast, för vi vet att på samma sätt som ni är delaktiga i våra lidanden, är ni också delaktiga i vår uppmuntran <char style="add">(hjälp, tröst)</char>.<verse eid="2CO 1:7" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 1:8" />Kära syskon <char style="add">(bröder och systrar i tron)</char>, jag vill inte att ni ska vara okunniga om den nöd vi fick utstå i <char style="add">[provinsen]</char> Asien <char style="add">[nuvarande västra Turkiet där Efesos var huvudorten]</char>, hur vi var så nedtyngda <char style="add">(pressade)</char>, långt över vår kraft att vi till och med misströstade om livet <char style="add">(det fanns ingen utväg)</char>. <verse eid="2CO 1:8" /><verse number="9" style="v" sid="2CO 1:9" />Ja, det kändes som om vi hade fått en dödsdom över oss. Detta för att vi inte skulle förtrösta på oss själva, utan på Gud som uppväcker de döda. <verse eid="2CO 1:9" /><verse number="10" style="v" sid="2CO 1:10" />Han räddade oss <char style="add">(drog oss till sig själv)</char> från en sådan fruktansvärd död, och han kommer att rädda oss igen. Vi har satt vårt hopp till honom, att han ska rädda oss även i fortsättningen, <verse eid="2CO 1:10" /><verse number="11" style="v" sid="2CO 1:11" />under tiden som ni också hjälper oss <char style="add">(arbetar tillsammans med oss)</char> genom er förbön. Resultatet blir många <char style="add">[glada]</char> ansikten som tackar Gud för den nåd <char style="add">(favör, gåva) [kraft]</char> vi får, eftersom många har bett för oss.</para>
+  <para style="s1" vid="2CO 1:11">PAULUS FÖRKLARAR SIN TJÄNST (1:12-7:16)</para>
+  <para style="s2" vid="2CO 1:11">Ärlighet och öppenhet</para>
+  <para style="m" vid="2CO 1:11" />
+  <para style="m" vid="2CO 1:11">
+    <char style="add">[Paulus använder sig av ordet ”stolthet” 29 gånger i detta brev, mer än i alla andra brev totalt. Ordet har ofta en negativ klang, men Paulus förståelse utgår ifrån <char style="xt"><ref loc="JER 9:23-24">Jer 9:23-24</ref></char>, som han delvis citerar i <char style="xt"><ref loc="2CO 10:17">2 Kor 10:17</ref></char>. Att skryta om sina egna mänskliga resultat är fel; däremot är en stolthet över vad Gud har gjort något gott.]</char><verse eid="2CO 1:11" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 1:12" />Detta är vår stolthet <char style="add">(vad vi skryter över)</char> och vi kan med ett rent samvete säga <char style="add">(vårt samvetes vittnesbörd är)</char>: här i världen, och särskilt mot er <char style="add">[i Korint]</char>, har vi uppträtt heligt och rent inför Gud och inte varit ledda av världslig visdom utan av Guds nåd <char style="add">(kraft, favör)</char>. <verse eid="2CO 1:12" /><verse number="13" style="v" sid="2CO 1:13" />Det vi skriver till er är inget annat än det ni läser och kan förstå. <char style="add">[Det är inga dolda hemligheter.]</char> Jag hoppas att ni till slut ska förstå <verse eid="2CO 1:13" /><verse number="14" style="v" sid="2CO 1:14" />det ni redan delvis har förstått om oss: att vi är er stolthet, liksom ni är vår, på Herren Jesu dag <char style="add">[domens dag, då Jesus kommer tillbaka för att döma världen]</char>.</para>
+  <para style="s2" vid="2CO 1:14">Paulus försvarar sina ändrade resplaner</para>
+  <para style="m" vid="2CO 1:14" />
+  <para style="m" vid="2CO 1:14">
+    <char style="add">[Efter Paulus första besök i Korint uttrycker han sin längtan att komma tillbaka till dem, men tillägger ”om Herren vill”, se <char style="xt"><ref loc="1CO 4:18-19">1 Kor 4:18-19</ref>; <ref loc="ACT 18:21">Apg 18:21</ref></char>. Paulus besök dröjer och hans motståndare beskyller honom för att vara opålitlig. Paulus förklarar nu i första kapitlet i brevet att de förändrade resplanerna inte beror på tillfälligheter och plötsliga infall från hans sida, utan på hans kärlek och omtanke om dem. Han vill att de ska få tid på sig att reda upp de allvarliga missförhållanden som rådde där innan han personligen kommer till dem, se vers 23.]</char><verse eid="2CO 1:14" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 1:15" />Fullt övertygad om detta <char style="add">[att korintierna gladde sig över Paulus och inte ifrågasatte hans uppriktighet]</char> tänkte jag komma till er först, för att ni sedan skulle få välsignelsen av ett andra besök. <verse eid="2CO 1:15" /><verse number="16" style="v" sid="2CO 1:16" />Jag tänkte <char style="add">[det var min ursprungliga plan]</char> att besöka er på väg till Makedonien, och sedan <char style="add">[på nytt på tillbakavägen]</char> från Makedonien komma till er, för att hos er få hjälp med min resa till Judéen. <char style="add">[Antagligen hjälp med boende och bön inför resan och inte ekonomiskt stöd, se <char style="xt"><ref loc="2CO 11:7-10">2 Kor 11:7-10</ref></char>.]</char><verse eid="2CO 1:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="2CO 1:17" />När jag då tänkte <char style="add">[komma till er]</char> och uttryckte mina planer, var det då bara ett lättsinnigt infall? Eller fattar jag mina beslut efter köttet <char style="add">(på ett världsligt sätt)</char> så att jag <char style="add">[samtidigt]</char> säger ”ja, ja” och ”nej, nej”? <verse eid="2CO 1:17" /><verse number="18" style="v" sid="2CO 1:18" />Så sant som Gud är trofast och menar vad han säger, har inte vårt tal till er varit ”ja och nej”. <char style="add">[Vi har inte sagt ”ja, vi kommer”, men egentligen menat ”nej, vi kommer inte”.]</char> <verse eid="2CO 1:18" /><verse number="19" style="v" sid="2CO 1:19" />För Guds Son, Jesus den Smorde <char style="add">(Messias, Kristus)</char>, som blev predikad hos er av mig, Silvanus <char style="add">[samma man som i <char style="xt"><ref loc="ACT 15:22">Apg 15:22</ref></char> kallas Silas]</char> och Timoteus, var inte både ja och nej, i honom finns bara ett ja.<verse eid="2CO 1:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="2CO 1:20" />Alla Guds löften, de har sitt ja <char style="add">[svar]</char> i honom <char style="add">[Jesus]</char>. När vi uttalar vårt ”amen” <char style="add">(ja, låt det ske)</char>, ger vi ära till Gud genom honom. <verse eid="2CO 1:20" /><verse number="21" style="v" sid="2CO 1:21" />Det är Gud som ständigt stärker både er och oss i <char style="add">[vår relation med]</char> den Smorde <char style="add">(Messias, Kristus) (gör den mer grundad och rotad)</char>, och som har smort oss <char style="add">[gett oss andliga gåvor]</char>. <verse eid="2CO 1:21" /><verse number="22" style="v" sid="2CO 1:22" />Han har också satt sitt sigill på oss och gett oss Anden som en handpenning i våra hjärtan. <char style="add">[Anden liknas vid en förskottsbetalning som garanterar att det fulla kapitalet ska betalas, som är den eviga härligheten.]</char><verse eid="2CO 1:22" /></para>
+  <para style="s2">Anledningen till det uteblivna besöket</para>
+  <para style="m">
+    <verse number="23" style="v" sid="2CO 1:23" />Jag tar Gud till vittne över min själ att det är för att skona er som jag inte har kommit än till Korint. <verse eid="2CO 1:23" /><verse number="24" style="v" sid="2CO 1:24" />Inte så att vi skulle vara herrar över er tro, men vi är medarbetare till er glädje, eftersom ni står fasta i tron.<verse eid="2CO 1:24" /></para>
+  <chapter eid="2CO 1" />
+  <chapter number="2" style="c" sid="2CO 2" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 2:1" />Jag hade nämligen bestämt mig för att inte komma och göra er sorgsna igen.</para>
+  <para style="b" vid="2CO 2:1" />
+  <para style="m" vid="2CO 2:1">
+    <char style="add">[Texten antyder att Paulus gjorde ett kort ”plågsamt” besök efter det första besöket som beskrivs i <char style="xt"><ref loc="ACT 18:1-17">Apg 18:1-17</ref></char>. Han skriver även att han är beredd att komma ”en tredje gång” vilket antyder att det funnits ett andra besök, se <char style="xt"><ref loc="2CO 12:14">2 Kor 12:14</ref></char>.]</char><verse eid="2CO 2:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 2:2" />För om jag gör er sorgsna, vem kan då göra mig glad om inte just den jag gjort sorgsen? <char style="add">[Paulus hade en äkta genuin kärlek till församlingen.]</char> <verse eid="2CO 2:2" /><verse number="3" style="v" sid="2CO 2:3" />Jag skrev som jag gjorde <char style="add">[i tidigare brev, troligen ett ”tårarnas brev” som skrevs efter Första Korintierbrevet]</char> för att inte behöva komma och få sorg av dem som skulle ge mig glädje, för jag litade på att min glädje är allas er glädje. <verse eid="2CO 2:3" /><verse number="4" style="v" sid="2CO 2:4" /><char style="add">[Paulus gladde sig inte över att behöva gå tillrätta med församlingen i Korint.]</char> Det var i djup nöd <char style="add">(med mycket smärta och sorg)</char> med ångest i hjärtat och med många tårar som jag skrev till er. Jag ville inte göra er sorgsna, målet var att ni skulle förstå vilken överflödande kärlek <char style="add">[som är osjälvisk och utgivande]</char> jag ständigt har för er.</para>
+  <para style="b" vid="2CO 2:4" />
+  <para style="m" vid="2CO 2:4">
+    <char style="add">[Paulus ger fyra motiv till sitt brev: Ge glädje, se <char style="xt"><ref loc="2CO 2:3">2 Kor 2:3</ref></char>. Visa sin kärlek, se <char style="xt"><ref loc="2CO 2:4">2 Kor 2:4</ref>; <ref loc="2CO 3:2">3:2</ref>; <ref loc="2CO 12:15">12:15</ref>; <ref loc="1CO 16:24">1 Kor 16:24</ref></char>. Pröva deras trofasthet, se <char style="xt"><ref loc="2CO 2:9">2 Kor 2:9</ref></char>. Visa hur han bryr sig om dem, se <char style="xt"><ref loc="2CO 7:11-12">2 Kor 7:11-12</ref></char>.]</char><verse eid="2CO 2:4" /></para>
+  <para style="s2">Förlåtelse för syndaren</para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 2:5" />Om en viss person <char style="add">[mannen som levde tillsammans med sin fars hustru, se <char style="xt"><ref loc="1CO 5:1">1 Kor 5:1</ref></char>]</char> har orsakat sorg, så är det inte mig han har gett sorg utan i viss mån er alla, för att inte säga <char style="add">(tynga ner er)</char> för mycket. <char style="add">[Denna synd påverkade inte bara honom själv utan hela församlingen, se <char style="xt"><ref loc="1CO 5:6">1 Kor 5:6</ref></char>.]</char> <verse eid="2CO 2:5" /><verse number="6" style="v" sid="2CO 2:6" />Det räcker med det straff <char style="add">(den varning)</char> han har fått av de flesta.</para>
+  <para style="b" vid="2CO 2:6" />
+  <para style="m" vid="2CO 2:6">
+    <char style="add">[Det stora flertalet medlemmar i församlingen i Korint hade följt Paulus råd och tagit avstånd från mannen och hans handlingar, se <char style="xt"><ref loc="1CO 5:1-6">1 Kor 5:1-6</ref></char>. Målet är alltid upprättelse, se <char style="xt"><ref loc="GAL 6:1-2">Gal 6:1-2</ref></char>. Paulus tydlighet och stränga korrigering i kärlek hade gett resultat. Mannen hade omvänt sig.]</char><verse eid="2CO 2:6" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 2:7" />Nu får ni i stället förlåta och trösta <char style="add">(uppmuntra, ge nytt mod till)</char> honom så att han inte går under <char style="add">(drunknar)</char> i sin djupa sorg. <verse eid="2CO 2:7" /><verse number="8" style="v" sid="2CO 2:8" />Därför uppmanar jag er nu att ge honom bevis på <char style="add">[upprättelse och]</char> er kärlek <char style="add">[som är förlåtande, osjälvisk och utgivande]</char>.</para>
+  <para style="b" vid="2CO 2:8" />
+  <para style="m" vid="2CO 2:8">
+    <char style="add">[I all förlåtelse krävs två steg för en fullständig upprättelse. Vår förebild, Jesus, förlät oss medan vi fortfarande var syndare, se <char style="xt"><ref loc="ROM 5:8">Rom 5:8</ref></char>, men relationen med honom blir först upprättad när den förlåtelsen tas emot. På samma sätt måste vi förlåta den som syndat mot oss, se <char style="xt"><ref loc="MAT 6:14-15">Matt 6:14-15</ref></char>. Förlåtelse är första steget som befriar från bitterhet och hat. Däremot kan inte relationen bli fullständigt upprättad innan det skett en omvändelse hos den andra parten. Tillrättavisning, förlåtelse och upprättelse hör ihop, se <char style="xt"><ref loc="MAT 18:15-35">Matt 18:15-35</ref></char>.]</char><verse eid="2CO 2:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 2:9" />När jag skrev till er var det också för att se om ni skulle bestå provet och vara lydiga i allt <char style="add">[även i svåra frågor]</char>. <verse eid="2CO 2:9" /><verse number="10" style="v" sid="2CO 2:10" />Den som ni förlåter, förlåter också jag. <char style="add">[Paulus visar att förlåtelse är en viljehandling.]</char> Det jag har förlåtit, om jag haft något att förlåta, det har jag gjort inför den Smordes <char style="add">(Kristi)</char> ansikte för er skull, <verse eid="2CO 2:10" /><verse number="11" style="v" sid="2CO 2:11" />för att vi inte ska bli överlistade <char style="add">(rånade)</char> av Satan. Hans avsikter <char style="add">(planer, intentioner)</char> känner vi till.</para>
+  <para style="b" vid="2CO 2:11" />
+  <para style="m" vid="2CO 2:11">
+    <char style="add">[Satans plan är splittring. Bitterhet och oförlåtelse är ett av de vanligaste sätten djävulen bedrar på och får ingång i människors liv, se <char style="xt"><ref loc="MAT 6:14-15">Matt 6:14-15</ref>; <ref loc="MAT 18:35">18:35</ref>; <ref loc="MRK 11:25-26">Mark 11:25-26</ref>; <ref loc="1CO 11:29-30">1 Kor 11:29-30</ref>; <ref loc="JAS 3:16">Jak 3:16</ref></char>. Satans plan var att stjäla en broder från församlingen. Både en ovilja att omvända sig och en ovilja att upprätta den som ångrat sig gynnar djävulen.]</char></para>
+  <para style="s2" vid="2CO 2:11">Resan mot Korint via Makedonien</para>
+  <para style="m" vid="2CO 2:11" />
+  <para style="m" vid="2CO 2:11">
+    <char style="add">[Paulus återgår till ämnet i vers 4 där han förklarar sina ändrade resplaner. Han har rest norrut till Troas för att vänta på Titus som var på väg tillbaka från Korint. På samma sätt som i Aten kunde Paulus inte bara sitta still, han börjar predika, se <char style="xt"><ref loc="ACT 17:16-17">Apg 17:16-17</ref></char>. Troas är en kuststad vid Egeiska havet, i nuvarande nordvästra Turkiet. Staden hade fått sitt namn från Alexander den store och hette egentligen Alexandria, men för att inte förväxlas med de femton andra städerna med samma namn kom den att kallas Alexandria Troas, eller bara Troas. Anledningen till namnet var att den låg nära staden Troja som Homeros skrev om i Iliaden och Odysséen. Paulus hade varit här på sin andra missionsresa, se <char style="xt"><ref loc="ACT 16:9-10">Apg 16:9-10</ref></char>.]</char><verse eid="2CO 2:11" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 2:12" />När jag kom till Troas på grund av evangeliet <char style="add">(det glada budskapet)</char> om den Smorde <char style="add">(Messias, Kristus)</char> hade en dörr öppnats för mig av Herren där. <verse eid="2CO 2:12" /><verse number="13" style="v" sid="2CO 2:13" />Trots det fick jag ingen ro i min ande eftersom jag inte fann min broder Titus där. <char style="add">[Titus hade troligen med sig en insamlad gåva, Paulus kan vara orolig för att han råkat ut för rånare.]</char> Så jag tog avsked av dem och for till Makedonien.</para>
+  <para style="b" vid="2CO 2:13" />
+  <para style="m" vid="2CO 2:13">
+    <char style="add">[Titus har varit i Korint och är på väg tillbaka landvägen över Makedonien. Paulus kan inte vänta på att få träffa honom och få en uppdatering på läget i församlingen. Paulus beger sig över till norra Grekland där Titus snart möter honom med en glädjande rapport, se <char style="xt"><ref loc="2CO 7:5-7">2 Kor 7:5-7</ref></char>.]</char></para>
+  <para style="s2" vid="2CO 2:13">Guds segertåg</para>
+  <para style="m" vid="2CO 2:13" />
+  <para style="m" vid="2CO 2:13">
+    <char style="add">[Paulus använder sig nu av en militär liknelse där en segrande general kommer hem och marscherar runt i ett triumftåg i sin hemstad.]</char><verse eid="2CO 2:13" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 2:14" />Men vi tackar Gud,</para>
+  <para style="p" vid="2CO 2:14">som ständigt för oss fram i den Smordes <char style="add">(Kristi)</char> triumferande segertåg</para>
+  <para style="p" vid="2CO 2:14">och sprider sin kunskaps doft genom oss överallt.<verse eid="2CO 2:14" /></para>
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 2:15" />Vi är den Smordes <char style="add">(Kristi)</char> väldoft inför Gud</para>
+  <para style="p" vid="2CO 2:15">bland dem som blir frälsta</para>
+  <para style="p" vid="2CO 2:15">och bland dem som går förlorade:<verse eid="2CO 2:15" /></para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 2:16" />för några en doft av död till död,</para>
+  <para style="p" vid="2CO 2:16">för andra en doft av liv till liv.</para>
+  <para style="m" vid="2CO 2:16">Vem är kvalificerad <char style="add">(duglig, räcker till för att stå i den här tjänsten)</char>? <char style="add">[Svaret ges i <char style="xt"><ref loc="2CO 3:5-6">2 Kor 3:5-6</ref></char>: det är inte i egen styrka utan genom Guds Ande!]</char></para>
+  <para style="b" vid="2CO 2:16" />
+  <para style="m" vid="2CO 2:16">
+    <char style="add">[Tankarna går till tidernas främste fältherre – makedoniern Alexander den store, som tre hundra år tidigare just från detta område hade skapat världshistoriens största imperium. Det grekiska ordet för triumfera, thriambeuo, beskriver det triumftåg där generalen går först, följd av präster som bär rökelsekar med välluktande rökelse. Den tillfångatagna fiendekungen går bakom i bojor, helt avklädd utan vapen. På samma sätt har evangeliet segrat över döden och offentligt visat att han inte längre har någon makt över Jesus! För dem som är frälsta är det en väldoft som leder till liv, medan för motståndarna är det en doft som leder till död.]</char><verse eid="2CO 2:16" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="17" style="v" sid="2CO 2:17" />Vi är inte som många andra <char style="add">[falska apostlar, se <char style="xt"><ref loc="2CO 11:13">2 Kor 11:13</ref></char>]</char>, som säljer Guds ord för egen vinning.</para>
+  <para style="b" vid="2CO 2:17" />
+  <para style="m" vid="2CO 2:17">
+    <char style="add">[Ordet beskriver en försäljare som bjuder ut sina dagligvaror på marknaden. Ordet har en negativ klang och antyder både girighet och stora mellanskillnader. Sanningen står inte högt i kurs, överdrifter och lögner används obehindrat. Paulus motsäger inte att en predikant får betalt, det talar han för i <char style="xt"><ref loc="1CO 9:1-18">1 Kor 9:1-18</ref></char>. Problemet är om det finns orena motiv.]</char></para>
+  <para style="b" vid="2CO 2:17" />
+  <para style="m" vid="2CO 2:17">Nej, i den Smorde <char style="add">(Kristus)</char> predikar vi med rent sinne inför Gud det som kommer från Gud.<verse eid="2CO 2:17" /></para>
+  <chapter eid="2CO 2" />
+  <chapter number="3" style="c" sid="2CO 3" />
+  <para style="s2">Korintierna är Paulus rekommendationsbrev!</para>
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 3:1" />Måste vi rekommendera oss själva igen <char style="add">(lägga fram våra meriter)</char>?</para>
+  <para style="m" vid="2CO 3:1">Behöver vi, som vissa andra <char style="add">[falska apostlar, se <char style="xt"><ref loc="2CO 2:17">2 Kor 2:17</ref></char>]</char>, rekommendationsbrev till er eller från er?</para>
+  <para style="b" vid="2CO 3:1" />
+  <para style="m" vid="2CO 3:1">
+    <char style="add">[Det var inte ovanligt med rekommendationsbrev. Några exempel i NT är: Apollos, <char style="xt"><ref loc="ACT 18:27">Apg 18:27</ref></char>; Timoteus, <char style="xt"><ref loc="1CO 16:10">1 Kor 16:10</ref></char>; Febe, <char style="xt"><ref loc="ROM 16:1">Rom 16:1</ref></char>; Johannes Markus, <char style="xt"><ref loc="COL 4:10">Kol 4:10</ref></char>; Titus, <char style="xt"><ref loc="2CO 8:22">2 Kor 8:22</ref></char>. Paulus känner sorg över att relationen med vissa i Korint har sjunkit så lågt att han skulle behöva rekommendationsbrev från en tredje part. Han hade ju varit med och fört många av korintierna till tro!]</char><verse eid="2CO 3:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 3:2" />Nej, ni är vårt brev, skrivet i våra hjärtan, känt och läst av alla människor. <verse eid="2CO 3:2" /><verse number="3" style="v" sid="2CO 3:3" />Det är uppenbart att ni är ett brev från den Smorde <char style="add">(ett Kristusbrev)</char> skrivet genom vår tjänst, inte med bläck utan med den levande Gudens Ande, inte på tavlor av sten utan på tavlor av kött i era hjärtan.<verse eid="2CO 3:3" /></para>
+  <para style="s2">Gud har utrustat oss till tjänst</para>
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 3:4" />En sådan tillit har vi till Gud genom den Smorde <char style="add">(Messias, Kristus)</char>, <verse eid="2CO 3:4" /><verse number="5" style="v" sid="2CO 3:5" />inte så att vi på egen hand är kvalificerade <char style="add">(dugliga)</char> att hävda att någonting kommer från oss själva. Vår förmåga <char style="add">(kvalifikation)</char> kommer i stället från Gud, <verse eid="2CO 3:5" /><verse number="6" style="v" sid="2CO 3:6" />som har kvalificerat <char style="add">(utrustat)</char> oss att vara tjänare till ett helt nytt <char style="add">(bättre)</char> förbund <char style="add">[frälsningen genom Jesus]</char>, inte tjänare för bokstaven <char style="add">[skriven i lagen]</char>, utan tjänare för Anden, för bokstaven <char style="add">[i lagen]</char> dödar, men Anden ger liv.<verse eid="2CO 3:6" /></para>
+  <para style="s2">Den gamla och den nya tjänsten</para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 3:7" />Om nu redan dödens tjänst <char style="add">(ämbete, lärosystem, ordning)</char> – som byggde på inristade bokstäver på stentavlor – kom i sådan härlighet <char style="add">(glans, ära, prakt)</char> att Israels söner <char style="add">(barn)</char> inte kunde se på Mose ansikte på grund av dess kortvariga strålglans <char style="add">[gudsnärvaro]</char> som försvann, <verse eid="2CO 3:7" /><verse number="8" style="v" sid="2CO 3:8" />hur mycket större härlighet <char style="add">(atmosfär av mättad gudsnärvaro)</char> ska då inte Andens tjänst <char style="add">(ämbete)</char> ha!<verse eid="2CO 3:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="2CO 3:9" />För om redan den <char style="add">[gammaltestamentliga]</char> tjänst som gav fördömelse hade härlighet, hur mycket mer härlighet överflödar då inte den <char style="add">[nytestamentliga]</char> tjänst som ger rättfärdighet <char style="add">(ett frikännande, ett liv som resulterar i rättfärdiga handlingar)</char>! <verse eid="2CO 3:9" /><verse number="10" style="v" sid="2CO 3:10" />Ja, faktiskt, det som såg ut att ha härlighet <char style="add">[det gamla ämbetet, som Mose ansikte utstrålade]</char> har ingen härlighet alls i jämförelse med den överväldigande härligheten <char style="add">[det nya förbundets ljus som Jesu ansikte utstrålar]</char>. <verse eid="2CO 3:10" /><verse number="11" style="v" sid="2CO 3:11" />För om det <char style="add">[gamla]</char> som nu är i en process att upphöra <char style="add">[genom att evangeliet predikas]</char> hade härlighet, hur mycket större framträder då inte den härlighet som består <char style="add">(är permanent)</char>?<verse eid="2CO 3:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="2CO 3:12" />När vi nu har ett sådant <char style="add">(i sanning har detta)</char> hopp <char style="add">[har en trosviss förväntan av detta slag]</char>, är vi mycket frimodiga <char style="add">(använder vi oss av stor frimodighet) [talar vi helt fritt, handlar öppet och uppriktigt]</char> <verse eid="2CO 3:12" /><verse number="13" style="v" sid="2CO 3:13" />och gör inte som <char style="add">(just så som)</char> Mose, som satte en slöja för sitt ansikte för att Israels söner <char style="add">(barn)</char> inte skulle se <char style="add">(observera)</char> slutet på det som <char style="add">[bleknade bort och helt]</char> försvann <char style="add">[<char style="xt"><ref loc="EXO 34:29-35">2 Mos 34:29-35</ref></char>]</char>. <verse eid="2CO 3:13" /><verse number="14" style="v" sid="2CO 3:14" />Men deras sinnen blev förhärdade <char style="add">(blev hårda) [de förlorade förmågan att förstå]</char>, för än i dag finns samma slöja kvar när man läser <char style="add">[när var och en vid föreläsningen på ett personligt sätt återknyter och lever sig in i]</char> gamla förbundets texter, och den lyfts inte bort, eftersom den <char style="add">[först]</char> försvinner i den Smorde <char style="add">(Messias, Kristus)</char>. <verse eid="2CO 3:14" /><verse number="15" style="v" sid="2CO 3:15" />Ja, än i dag ligger istället en slöja över deras hjärta när nu Mose läses <char style="add">[då man läser ur de fem Moseböckerna – Torah]</char>, <verse eid="2CO 3:15" /><verse number="16" style="v" sid="2CO 3:16" />men när <char style="add">[och om]</char> man återvänder <char style="add">(skulle omvända sig)</char> till Herren, tas slöjan <char style="add">[den heltäckande slöjan för ansiktet]</char> bort.<verse eid="2CO 3:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="2CO 3:17" />Och Herren är Anden, och där Herrens Ande är <char style="add">[närvarande]</char>, där är frihet. <verse eid="2CO 3:17" /><verse number="18" style="v" sid="2CO 3:18" />Och alla vi som har fått slöjan för ansiktet borttagen reflekterar <char style="add">[nu]</char> Herrens härlighet <char style="add">(ser – skådar själv – Herrens härlighet som i en spegel)</char>, vi förvandlas <char style="add">(genomgår en metamorfos) [<char style="xt"><ref loc="ROM 12:2">Rom 12:2</ref></char>]</char> till en och samma bild <char style="add">(avbild, spegelbild) [i hans likhet]</char> – från härlighet till härlighet – som just på detta sätt <char style="add">(som just så)</char> kommer från Herren, <char style="add">[som är]</char> Anden.<verse eid="2CO 3:18" /></para>
+  <chapter eid="2CO 3" />
+  <chapter number="4" style="c" sid="2CO 4" />
+  <para style="s2">Inga hemligheter i vår tjänst</para>
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 4:1" />Därför, när vi genom Guds barmhärtighet har denna tjänst <char style="add">(detta ämbete – gr. diakonia)</char>, så ger vi inte upp <char style="add">(tappar vi inte modet, är vi inte försagda)</char>. <verse eid="2CO 4:1" /><verse number="2" style="v" sid="2CO 4:2" />Vi har tagit avstånd från allt hemligt och skamligt, vi använder inga knep <char style="add">[samma ord används för Satans list i <char style="xt"><ref loc="2CO 11:3">2 Kor 11:3</ref></char>]</char>, vi förfalskar <char style="add">(förvränger)</char> inte Guds ord. I stället lägger vi öppet fram sanningen och överlämnar oss inför Gud åt varje människas samvete. <char style="add">[Till skillnad från falska lärare med oärliga metoder, se <char style="xt"><ref loc="2CO 2:17">2 Kor 2:17</ref>; <ref loc="2CO 3:1">3:1</ref>; <ref loc="2CO 11:13-15">11:13-15</ref></char>.]</char> <verse eid="2CO 4:2" /><verse number="3" style="v" sid="2CO 4:3" />Även om vårt evangelium är dolt <char style="add">[som om det var täckt med en slöja som hindrar människor att förstå de glada nyheterna]</char>, är det dolt bara för dem som går förlorade <char style="add">[som har en slöja för sitt hjärta, se <char style="xt"><ref loc="2CO 3:14">2 Kor 3:14</ref></char>]</char>. <verse eid="2CO 4:3" /><verse number="4" style="v" sid="2CO 4:4" />Den här tidsålderns gud <char style="add">[djävulen]</char> har förblindat sinnet <char style="add">(tankarna)</char> hos dem som inte tror, så att de inte ser evangeliets <char style="add">(klara strålande)</char> ljus om härligheten hos den Smorde <char style="add">(Messias, Kristus)</char>, Guds avbild.<verse eid="2CO 4:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="2CO 4:5" />Vi predikar inte oss själva, utan Jesus den Smorde. Han är Herre, och vi är era tjänare <char style="add">(livegna, som frivilligt sålt oss själva som slavar)</char> för Jesu skull. <verse eid="2CO 4:5" /><verse number="6" style="v" sid="2CO 4:6" />För <char style="add">[samma]</char> Gud, som <char style="add">[i begynnelsen, i <char style="xt"><ref loc="GEN 1:3">1 Mos 1:3</ref></char>, se även <char style="xt"><ref loc="ISA 9:2">Jes 9:2</ref>; <ref loc="JHN 8:12">Joh 8:12</ref>; <ref loc="JAS 1:1">Jak 1:1</ref></char>]</char> sa: ”Ljus ska lysa fram ur mörkret”, har låtit ljuset skina i våra hjärtan, för att kunskapen om <char style="add">(en personlig erfarenhet av)</char> Guds härlighet, som strålar från <char style="add">(kan ses i)</char> Jesu den Smordes <char style="add">(Kristi)</char> ansikte, ska lysa fram <char style="add">(sprida sitt sken)</char>.<verse eid="2CO 4:6" /></para>
+  <para style="s2">Guds kraft blir synlig i jordiska kärl</para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 4:7" />Men denna skatt <char style="add">[ljuset som skiner i hjärtat – att personligen få känna Jesus]</char> har vi i <char style="add">[bräckliga mänskliga]</char> lerkärl, för att det ska vara tydligt att den överväldigande <char style="add">(enormt stora)</char> kraften kommer från Gud och inte från oss själva.</para>
+  <para style="b" vid="2CO 4:7" />
+  <para style="m" vid="2CO 4:7">
+    <char style="add">[Den mänskliga kroppen, den yttre människan, liknas vid ömtåliga lerkärl, se <char style="xt"><ref loc="2CO 4:10">2 Kor 4:10</ref>, <ref loc="2CO 4:16">16</ref>; <ref loc="2CO 5:1">5:1</ref></char>. Kroppen åldras och bryts ner. Den troende utsätts för hård yttre press, som vers 8-9 beskriver, men Gud har valt att visa sin härlighet genom vanliga människor, vilket Gideons berättelse om lerkärlen med facklorna i är en bild för, se <char style="xt"><ref loc="JDG 7:16-20">Dom 7:16-20</ref>, <ref loc="JDG 7:22">22</ref></char>. I kontrast till enkla lerkärl står utsmyckade dyrbara kärl av metall, se <char style="xt"><ref loc="2TI 2:20">2 Tim 2:20</ref></char>.]</char><verse eid="2CO 4:7" /></para>
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 4:8" />Vi är på alla sätt hårt pressade <char style="add">(det är problem på varje område)</char>,</para>
+  <para style="p" vid="2CO 4:8">men vi är inte krossade <char style="add">(vi har utrymme, det finns en utväg)</char>.</para>
+  <para style="m" vid="2CO 4:8">Vi är rådvilla <char style="add">(hittar ingen utväg, har inga resurser)</char>,</para>
+  <para style="p" vid="2CO 4:8">men vi är inte helt rådlösa <char style="add">(det finns hopp)</char>.<verse eid="2CO 4:8" /></para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 4:9" />Vi är förföljda <char style="add">(jagade av fiender)</char>,</para>
+  <para style="p" vid="2CO 4:9">men inte övergivna <char style="add">(inte utlämnade till deras makt)</char>.</para>
+  <para style="m" vid="2CO 4:9">Vi är slagna till marken,</para>
+  <para style="p" vid="2CO 4:9">men inte dödade <char style="add">(utslagna, förlorade)</char>.<verse eid="2CO 4:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 4:10" />Vi bär alltid Herren Jesu död i vår kropp <char style="add">(vi är ständigt hotade till döden på samma sätt som Jesus var det)</char>. Detta för att också Jesu liv ska uppenbaras i vår kropp. <verse eid="2CO 4:10" /><verse number="11" style="v" sid="2CO 4:11" />Ja, vi som lever utlämnas ständigt åt döden för Jesu skull, för att också Jesu liv ska uppenbaras i vår dödliga kropp <char style="add">(kött)</char>. <verse eid="2CO 4:11" /><verse number="12" style="v" sid="2CO 4:12" />Så verkar döden i oss, men livet verkar i er. <verse eid="2CO 4:12" /><verse number="13" style="v" sid="2CO 4:13" />Ändå har vi samma trons ande, som det står skrivet:</para>
+  <para style="b" vid="2CO 4:13" />
+  <para style="m" vid="2CO 4:13">”Jag trodde,</para>
+  <para style="p" vid="2CO 4:13">därför talade jag.” <char style="add">[<char style="xt"><ref loc="PSA 116:10">Ps 116:10</ref></char>]</char></para>
+  <para style="b" vid="2CO 4:13" />
+  <para style="m" vid="2CO 4:13">Vi tror också, och därför talar vi <char style="add">[därför predikar vi evangeliet – det glada budskapet]</char>. <verse eid="2CO 4:13" /><verse number="14" style="v" sid="2CO 4:14" />Vi <char style="add">[talar eftersom vi]</char> vet att han som uppväckt Herren Jesus ska uppväcka oss tillsammans med Jesus och låta oss träda fram tillsammans med er <char style="add">[troende i Korint]</char>. <verse eid="2CO 4:14" /><verse number="15" style="v" sid="2CO 4:15" />Allt <char style="add">[mitt lidande]</char> sker för er skull, för att nåden <char style="add">(Guds kraft, favör)</char> ska nå allt fler och få tacksägelsen att flöda över till Guds ära.<verse eid="2CO 4:15" /></para>
+  <para style="s2">Ett evighetsperspektiv</para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 4:16" />Därför <char style="add">(genom detta) [se vers 7-15 om Paulus trosvisshet trots mycket svåra omständigheter]</char> tappar vi inte modet <char style="add">(tröttnar vi inte; ger vi inte upp)</char>. Och även om vår yttre människa bryts ner <char style="add">(tynar bort)</char>, så förnyas vår inre människa dag för dag. <verse eid="2CO 4:16" /><verse number="17" style="v" sid="2CO 4:17" />För vårt <char style="add">[nuvarande]</char> tillfälliga <char style="add">(kortvariga)</char>, lätta lidande <char style="add">(betryck)</char> bereder <char style="add">(producerar)</char> åt oss – bortom all jämförelse – härlighetens eviga tyngd <char style="add">[som är långt mer överskridande]</char>.</para>
+  <para style="b" vid="2CO 4:17" />
+  <para style="m" vid="2CO 4:17">
+    <char style="add">[Paulus ger exempel på lidanden som fängelse och fysisk misshandel i <char style="xt"><ref loc="2CO 11:23-30">2 Kor 11:23-30</ref></char>. Detta var verkligen svåra lidanden. Att han här kallar lidandet lätt beror på hans inställning och förhållningssätt till det.]</char><verse eid="2CO 4:17" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="18" style="v" sid="2CO 4:18" />Vi ser <char style="add">(fokuserar)</char> inte <char style="add">[varken nu eller framöver]</char> på det som syns <char style="add">[kan ses fysiskt]</char>, utan på det som inte syns. För det som syns är temporärt <char style="add">(förgängligt, kortvarigt; till en viss tid)</char>, men det som inte syns är evigt <char style="add">(de ting som inte syns är eviga)</char>.<verse eid="2CO 4:18" /></para>
+  <chapter eid="2CO 4" />
+  <chapter number="5" style="c" sid="2CO 5" />
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 5:1" />För vi <char style="add">[alla troende]</char> vet <char style="add">(med all säkerhet)</char> att om vårt jordiska tält <char style="add">[som är en bild för att vår kropp är temporär]</char> rivs ner så har vi en <char style="add">[permanent]</char> byggnad från Gud, en evig boning i himlen som inte är gjord av människohand.</para>
+  <para style="b" vid="2CO 5:1" />
+  <para style="m" vid="2CO 5:1">
+    <char style="add">[Johannes använder en liknande bild för hur Jesus bodde, ordagrant ”tältade” här på jorden, se <char style="xt"><ref loc="JHN 1:14">Joh 1:14</ref></char>. Frasen ”vi vet” syftar på det Paulus tidigare undervisat korintierna om i <char style="xt"><ref loc="1CO 15">1 Kor 15</ref></char>.]</char><verse eid="2CO 5:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 5:2" />Därför suckar vi i vårt tält och längtar att få iklä oss vår himmelska boning, <verse eid="2CO 5:2" /><verse number="3" style="v" sid="2CO 5:3" />för när vi väl är klädda i den ska vi inte stå där nakna. <verse eid="2CO 5:3" /><verse number="4" style="v" sid="2CO 5:4" />Ja, vi som bor i detta tält suckar tungt. Vi vill ju inte bli avklädda utan påklädda, så att det som är dödligt uppslukas av livet. <verse eid="2CO 5:4" /><verse number="5" style="v" sid="2CO 5:5" />Och den som berett oss för just detta är Gud, som har gett oss Anden som en garant.<verse eid="2CO 5:5" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 5:6" />
+    <char style="add">[Vers 6-8 formar en kiasm där det centrala ordet är ”vandrar”, och ramas in av borta/bort, kroppen och hemma.]</char></para>
+  <para style="m" vid="2CO 5:6">Därför är vi alltid vid gott mod <char style="add">(frimodiga) [även under prövningar]</char>.</para>
+  <para style="m" vid="2CO 5:6">Vi vet att så länge vi är hemma i kroppen, är vi borta från Herren.<verse eid="2CO 5:6" /></para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 5:7" />För i <char style="add">(genom, av)</char> tro</para>
+  <para style="p" vid="2CO 5:7">vandrar vi <char style="add">[lever vi vårt liv här på jorden]</char>,</para>
+  <para style="m" vid="2CO 5:7">inte i <char style="add">(genom, av)</char> det vi ser <char style="add">(det yttre som syns och har tagit form)</char>.<verse eid="2CO 5:7" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 5:8" />Men vi är ändå vid gott mod <char style="add">(frimodiga)</char></para>
+  <para style="m" vid="2CO 5:8">och skulle hellre flytta bort från kroppen och vara hemma hos Herren.<verse eid="2CO 5:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 5:9" />Därför sätter vi en ära i att vara till behag för honom, vare sig vi är hemma eller borta. <verse eid="2CO 5:9" /><verse number="10" style="v" sid="2CO 5:10" />Vi måste alla träda fram inför den Smordes <char style="add">(Kristi)</char> domstol, för att var och en ska få igen vad han har gjort här i livet, gott eller ont.<verse eid="2CO 5:10" /></para>
+  <para style="s2">Budskapet</para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 5:11" />Vi vet alltså vad det är att frukta <char style="add">(vörda, respektera)</char> Herren, och därför försöker vi vinna människor. För Gud är det uppenbart hurdana vi är, och jag hoppas att det också är uppenbart för era samveten. <verse eid="2CO 5:11" /><verse number="12" style="v" sid="2CO 5:12" />Vi vill inte rekommendera oss själva igen inför er, bara ge er tillfälle att vara stolta över oss. Då har ni något att svara dem som skryter med det yttre och inte med det som finns i hjärtat. <verse eid="2CO 5:12" /><verse number="13" style="v" sid="2CO 5:13" />Har vi varit från våra sinnen, så var det för Gud. Är vi sansade och samlade, så är det för er. <verse eid="2CO 5:13" /><verse number="14" style="v" sid="2CO 5:14" /><char style="add">[Paulus förklarar nu orsaken till varför han gett hela sitt liv till att tjäna Gud.]</char> Det är den Smordes <char style="add">(Kristi)</char> kärlek som motiverar oss <char style="add">(hans osjälviska, utgivande kärlek pressar på från alla sidor och lämnar oss inget annat val)</char>, eftersom vi har förstått att om en har dött i allas ställe, då har alla dött. <char style="add">[Den som tagit emot Jesus har dött bort från synden, sig själv och sina egna planer för att leva i Jesus, se <char style="xt"><ref loc="GAL 2:20">Gal 2:20</ref></char>.]</char> <verse eid="2CO 5:14" /><verse number="15" style="v" sid="2CO 5:15" />Han har dött för alla för att de som lever inte ska leva för sin egen skull, utan för honom som dog för dem och uppstod <char style="add">[från de döda]</char>.<verse eid="2CO 5:15" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 5:16" />Därför bedömer jag inte längre någon på människors vis <char style="add">(efter köttet)</char>. Även om vi också har uppfattat den Smorde <char style="add">(Messias, Kristus)</char> på det sättet <char style="add">[före frälsningen]</char>, så gör jag det inte nu längre. <verse eid="2CO 5:16" /><verse number="17" style="v" sid="2CO 5:17" />Därför, om någon är i den Smorde <char style="add">(Messias, Kristus)</char> – <char style="add">[är han/finns]</char> en ny skapelse! Det gamla <char style="add">(de ting som var från början) [allt det som var förut]</char> är förbi <char style="add">(borta; har passerat åt sidan)</char>. Se, något <char style="add">[helt]</char> nytt har kommit <char style="add">(skett; nya ting har blivit till) [allt har blivit nytt]</char>!</para>
+  <para style="b" vid="2CO 5:17" />
+  <para style="m" vid="2CO 5:17">
+    <char style="add">[Frasen ”en ny skapelse” saknar pronomen i grekiskan och skulle därför både kunna syfta på det större eskatologiska skiftet efter Jesu död och uppståndelse (<char style="xt"><ref loc="ISA 49:8">Jes 49:8</ref></char>) och på det personliga skiftet som sker när någon omvänder sig. De grekiska adjektiven (i plural) archaia (gamla, ursprungliga) och kaina (nya; tidigare okända) kan användas om människor, saker, tider, tillstånd och omständigheter. När en människa är ”i den Smorde” innebär det att hon är född på nytt och iklädd Jesu rättfärdighet. Hennes ande har fått liv och gemenskap med Guds Ande, som för fram henne inför Fadern.]</char><verse eid="2CO 5:17" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="18" style="v" sid="2CO 5:18" />Allt detta kommer <char style="add">[är en gåva]</char> från Gud, som genom Jesus den Smorde <char style="add">(Messias, Kristus)</char> försonade <char style="add">(återupprättade)</char> oss med sig själv <char style="add">[gjorde så att vi kunde få frid med Gud]</char> och gav oss försoningens tjänst <char style="add">(ämbete – gr. diakonia)</char>. <verse eid="2CO 5:18" /><verse number="19" style="v" sid="2CO 5:19" />Det var Gud <char style="add">[personligen]</char> som i den Smorde försonade <char style="add">(återupprättade)</char> världen med sig själv. Han ställde inte människorna till svars för deras överträdelser, och han anförtrodde oss budskapet om denna försoning. <verse eid="2CO 5:19" /><verse number="20" style="v" sid="2CO 5:20" />Nu är vi ambassadörer för den Smorde <char style="add">(Messias, Kristus) [som representerar Jesu konungarike]</char>, som om det är Gud som inbjuder <char style="add">(uppmuntrar, manar)</char> genom oss. Vi ber er på den Smordes <char style="add">(Kristi)</char> vägnar: Försona er med Gud <char style="add">(ta vara på nåden att bli upprättad med Gud)</char>. <verse eid="2CO 5:20" /><verse number="21" style="v" sid="2CO 5:21" />Den som inte <char style="add">[genom egen personlig erfarenhet]</char> visste vad synd var, honom gjorde han till <char style="add">[gjorde Gud till ett med]</char> synd för vår skull, så att vi i honom skulle bli <char style="add">[ett med]</char> Guds rättfärdighet. <char style="add">[<char style="xt"><ref loc="ISA 53:9-11">Jes 53:9-11</ref>; <ref loc="1PE 2:22">1 Pet 2:22</ref>; <ref loc="GAL 3:13">Gal 3:13</ref></char>]</char><verse eid="2CO 5:21" /></para>
+  <chapter eid="2CO 5" />
+  <chapter number="6" style="c" sid="2CO 6" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 6:1" />Som <char style="add">[Guds]</char> medarbetare uppmanar <char style="add">(uppmuntrar)</char> vi er också att inte kasta bort Guds nåd <char style="add">(låta Guds favör bli till ingen nytta)</char>. <verse eid="2CO 6:1" /><verse number="2" style="v" sid="2CO 6:2" />För han säger ju:</para>
+  <para style="b" vid="2CO 6:2" />
+  <para style="m" vid="2CO 6:2">”Jag har bönhört <char style="add">(lyssnat och svarat)</char> dig i precis rätt tid,</para>
+  <para style="p" vid="2CO 6:2">och på befrielsens dag <char style="add">[då du var ansatt av ofredande fiender]</char> hjälpte jag dig <char style="add">(rusade jag till din hjälp)</char>.” <char style="add">[<char style="xt"><ref loc="ISA 49:8">Jes 49:8</ref></char>]</char></para>
+  <para style="b" vid="2CO 6:2" />
+  <para style="m" vid="2CO 6:2">Nu är det rätt tid <char style="add">[då du blir välkomnad och accepterad av Gud]</char>, nu är det befrielsens dag.<verse eid="2CO 6:2" /></para>
+  <para style="s1">Den kristna tjänsten</para>
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 6:3" />Vi vill inte på något sätt väcka anstöt hos <char style="add">(lägga ut hinder för)</char> någon <char style="add">[göra så att någon snubblar och faller]</char>, för att tjänsten <char style="add">[de praktiska handlingarna som hjälper församlingen]</char> inte ska smutskastas <char style="add">(bli nedfläckad)</char>. <verse eid="2CO 6:3" /><verse number="4" style="v" sid="2CO 6:4" />I stället vill vi i allt <char style="add">[på alla områden]</char> visa att vi är <char style="add">(visa oss ”stå tillsammans” som)</char> Guds tjänare:</para>
+  <para style="s2" vid="2CO 6:4">1. Tjänsten är uthållig under lidanden</para>
+  <para style="m" vid="2CO 6:4" />
+  <para style="b" vid="2CO 6:4" />
+  <para style="m" vid="2CO 6:4">I stor uthållighet <char style="add">(ståndaktighet)</char>,</para>
+  <para style="b" vid="2CO 6:4" />
+  <para style="m" vid="2CO 6:4">i lidanden <char style="add">(nöd, betryck, problem)</char>,</para>
+  <para style="m" vid="2CO 6:4">i nöd <char style="add">(ytterst svåra tvingande omständigheter)</char>,</para>
+  <para style="m" vid="2CO 6:4">i ångest <char style="add">(trångmål, begränsningar, svårigheter – ”smala passager, små hoptryckta områden”)</char>,<verse eid="2CO 6:4" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 6:5" />i misshandel <char style="add">(under hugg och slag)</char>,</para>
+  <para style="m" vid="2CO 6:5">i fångenskap,</para>
+  <para style="m" vid="2CO 6:5">i upplopp <char style="add">(kravaller, tumult) [politisk instabilitet]</char>,</para>
+  <para style="b" vid="2CO 6:5" />
+  <para style="m" vid="2CO 6:5">i utmattning <char style="add">(fysisk och mental trötthet av hårt fysiskt arbete)</char>,</para>
+  <para style="m" vid="2CO 6:5">i nattvak <char style="add">(vakor)</char>,</para>
+  <para style="m" vid="2CO 6:5">i fastor.<verse eid="2CO 6:5" /></para>
+  <para style="b" />
+  <para style="m" />
+  <para style="s2">2. Tjänstens karaktärsdrag – hur den utförs</para>
+  <para style="m" />
+  <para style="b" />
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 6:6" />I renhet <char style="add">(oklanderlig dygd och integritet)</char>,</para>
+  <para style="m" vid="2CO 6:6">i kunskap <char style="add">(insikt baserad på personlig erfarenhet)</char>,</para>
+  <para style="m" vid="2CO 6:6">i tålamod <char style="add">(tålighet, långmodighet, fördragsamhet, överseende, skonsamhet)</char>,</para>
+  <para style="m" vid="2CO 6:6">i vänlighet <char style="add">(godhet) [genom att möta reella behov på Guds anpassade sätt]</char></para>
+  <para style="p" vid="2CO 6:6">i den helige Ande,</para>
+  <para style="m" vid="2CO 6:6">i uppriktig <char style="add">(okonstlad, genuin)</char> kärlek <char style="add">[som är osjälvisk, utgivande och rättfärdig]</char>,<verse eid="2CO 6:6" /></para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 6:7" />i sanningens ord <char style="add">(budskap) [en förkunnelse efter Guds ord]</char>,</para>
+  <para style="m" vid="2CO 6:7">i Guds kraft <char style="add">(förmåga) [med den kapacitet Gud har, se <char style="xt"><ref loc="1CO 2:4-5">1 Kor 2:4-5</ref></char>]</char>.</para>
+  <para style="b" vid="2CO 6:7" />
+  <para style="m" vid="2CO 6:7" />
+  <para style="s2" vid="2CO 6:7">3. Tjänstens kontraster</para>
+  <para style="m" vid="2CO 6:7" />
+  <para style="b" vid="2CO 6:7" />
+  <para style="m" vid="2CO 6:7">Med rättfärdighetens högra och vänstra vapen</para>
+  <para style="b" vid="2CO 6:7" />
+  <para style="m" vid="2CO 6:7">
+    <char style="add">[svärdet för attack och skölden för försvar, se <char style="xt"><ref loc="EPH 6:16-17">Ef 6:16-17</ref>; <ref loc="HEB 4:12">Heb 4:12</ref>; <ref loc="1JN 5:4">1 Joh 5:4</ref></char> – ett rättfärdigt liv är det bästa vapnet för både anfall och försvar]</char>,<verse eid="2CO 6:7" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 6:8" />genom <char style="add">[tider av]</char> ära</para>
+  <para style="p" vid="2CO 6:8">och vanära,</para>
+  <para style="p" vid="2CO 6:8">genom <char style="add">[tider av]</char> förtal <char style="add">(klander; dåligt rykte)</char></para>
+  <para style="m" vid="2CO 6:8">och anseende <char style="add">(lovord; gott rykte)</char>,</para>
+  <para style="b" vid="2CO 6:8" />
+  <para style="m" vid="2CO 6:8">som vilseledande <char style="add">[kringvandrande bedragare – villolärare – som stryker omkring och utnyttjar andra]</char></para>
+  <para style="p" vid="2CO 6:8">och ändå sanna <char style="add">(sanningsenliga, autentiska)</char>,<verse eid="2CO 6:8" /></para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 6:9" />som okända <char style="add">[ignorerade, utan några referenser]</char>,</para>
+  <para style="p" vid="2CO 6:9">och ändå erkända <char style="add">(välkända) [som visas tacksamhet, förståelse och uppskattning]</char>,</para>
+  <para style="m" vid="2CO 6:9">som döende <char style="add">[likt några som håller på att dö bort]</char>,</para>
+  <para style="p" vid="2CO 6:9">och ändå – se, vi lever,</para>
+  <para style="m" vid="2CO 6:9">som tuktade <char style="add">(disciplinerade)</char>,</para>
+  <para style="p" vid="2CO 6:9">och ändå inte till döds <char style="add">(avrättade)</char>,<verse eid="2CO 6:9" /></para>
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 6:10" />som bedrövade,</para>
+  <para style="p" vid="2CO 6:10">men ändå alltid <char style="add">(ständigt, oavbrutet)</char> glada <char style="add">[över nåden, se <char style="xt"><ref loc="GAL 5:22">Gal 5:22</ref>; <ref loc="1PE 4:13">1 Pet 4:13</ref></char>]</char>,</para>
+  <para style="m" vid="2CO 6:10">som fattiga,</para>
+  <para style="p" vid="2CO 6:10">men ändå gör vi många rika,</para>
+  <para style="m" vid="2CO 6:10">utan någonting,</para>
+  <para style="p" vid="2CO 6:10">och ändå äger vi allt.<verse eid="2CO 6:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 6:11" />Vi har talat öppet <char style="add">(ärligt, frispråkigt)</char> till er <char style="add">[vi har berättat sanningen utan att dölja något för er]</char>, korintier. Våra hjärtan är vidöppna <char style="add">(har vidgats till än större bredd med sympati och förståelse för er situation)</char>. <char style="add">[Detta är enda gången i brevet som Paulus direkt adresserar korintierna. Det förstärker hans starka känslor för dem.]</char> <verse eid="2CO 6:11" /><verse number="12" style="v" sid="2CO 6:12" />Ni har en stor plats <char style="add">[i våra hjärtan]</char>, men i era hjärtan är det trångt. <verse eid="2CO 6:12" /><verse number="13" style="v" sid="2CO 6:13" />Gör som vi – nu talar jag som till barn – och öppna också ni era hjärtan.<verse eid="2CO 6:13" /></para>
+  <para style="s1">Gå inte i par med de otroende</para>
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 6:14" />Gå inte som omaka par i ok</para>
+  <para style="p" vid="2CO 6:14">med dem som inte tror.</para>
+  <para style="b" vid="2CO 6:14" />
+  <para style="m" vid="2CO 6:14">
+    <char style="add">[Paulus syftar troligen på <char style="xt"><ref loc="DEU 22:10">5 Mos 22:10</ref></char> som talar om att inte plöja med oxe och åsna tillsammans. Det är en av flera praktiska exempel som illustrerar israeliternas avstånd till andra folk och deras onda vanor. Bilden beskriver något som inte drar jämnt, en kristen ska inte gå in i en nära relation och samarbete med en otroende. Äktenskapet är ett sådant område där denna princip gäller, se även <char style="xt"><ref loc="1CO 7:10-16">1 Kor 7:10-16</ref></char>. Ett annat är kompanjonskap i affärsvärlden. Nu följer fem frågor som alla har det självklara svaret ingen/inget.]</char></para>
+  <para style="b" vid="2CO 6:14" />
+  <para style="m" vid="2CO 6:14">Vad har rättfärdighet</para>
+  <para style="p" vid="2CO 6:14">med orättfärdighet att göra,</para>
+  <para style="m" vid="2CO 6:14">eller vad har ljus</para>
+  <para style="p" vid="2CO 6:14">gemensamt med mörker?<verse eid="2CO 6:14" /></para>
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 6:15" />Vilken enhet <char style="add">(harmoni, samstämmighet)</char> har den Smorde <char style="add">(Messias, Kristus)</char></para>
+  <para style="p" vid="2CO 6:15">med Beliar <char style="add">[judiskt namn på Satan, ordagrant ”den värdelöse”]</char>,</para>
+  <para style="m" vid="2CO 6:15">eller vad kan den som tror</para>
+  <para style="p" vid="2CO 6:15">dela med den som inte tror?<verse eid="2CO 6:15" /></para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 6:16" />Vilken gemenskap kan det vara mellan Guds tempel</para>
+  <para style="p" vid="2CO 6:16">och avgudarna <char style="add">(avbilderna) [<char style="xt"><ref loc="EXO 20:4">2 Mos 20:4</ref></char>]</char>?</para>
+  <para style="b" vid="2CO 6:16" />
+  <para style="m" vid="2CO 6:16">Vi är den levande Gudens tempel, för Gud har sagt:</para>
+  <para style="b" vid="2CO 6:16" />
+  <para style="m" vid="2CO 6:16">”Jag ska bo hos dem och vandra bland dem</para>
+  <para style="p" vid="2CO 6:16">och vara deras Gud,</para>
+  <para style="p" vid="2CO 6:16">och de ska vara mitt folk.” <char style="add">[<char style="xt"><ref loc="LEV 26:12">3 Mos 26:12</ref>; <ref loc="JER 32:38">Jer 32:38</ref>; <ref loc="EZK 37:27">Hes 37:27</ref></char>]</char><verse eid="2CO 6:16" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="17" style="v" sid="2CO 6:17" />Därför säger Herren:</para>
+  <para style="b" vid="2CO 6:17" />
+  <para style="m" vid="2CO 6:17">”Gå ut från dem och skilj er från dem,</para>
+  <para style="p" vid="2CO 6:17">och rör inte vid något orent.</para>
+  <para style="m" vid="2CO 6:17">Då ska jag ta emot er.” <char style="add">[<char style="xt"><ref loc="ISA 52:11">Jes 52:11</ref>; <ref loc="EZK 20:41">Hes 20:41</ref></char>]</char><verse eid="2CO 6:17" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="18" style="v" sid="2CO 6:18" />”Jag ska vara er Fader</para>
+  <para style="p" vid="2CO 6:18">och ni ska vara mina söner och döttrar,</para>
+  <para style="m" vid="2CO 6:18">säger Herren den Allsmäktige.” <char style="add">[<char style="xt"><ref loc="2SA 7:14">2 Sam 7:14</ref></char>]</char><verse eid="2CO 6:18" /></para>
+  <para style="b" />
+  <chapter eid="2CO 6" />
+  <chapter number="7" style="c" sid="2CO 7" />
+  <para style="m" />
+  <para style="m">
+    <char style="add">[Paulus fortsätter med bilden av församlingen som Guds tempel, se <char style="xt"><ref loc="2CO 6:15-17">2 Kor 6:15-17</ref></char>. På samma sätt som templet har reningsceremonier, se <char style="xt"><ref loc="EXO 30:17-21">2 Mos 30:17-21</ref></char>, har de troende ett ansvar att helga sina liv från det som orenar dem. Dessa ritualer i det äldre förbundet är skuggbilder på omvändelse och Paulus tillämpar denna princip i det kristna livet. Även om riterna inte observeras på samma sätt i Nya testamentet så består den andliga sanningen.]</char></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 7:1" />När vi nu har dessa löften <char style="add">[från GT, att vi är Guds tempel]</char>, mina älskade, så låt oss rena oss från allt som befläckar kropp <char style="add">(kött)</char> och ande och fullborda vår helgelse i fruktan för <char style="add">(vördnadsfull tillbedjan av)</char> Gud.</para>
+  <para style="b" vid="2CO 7:1" />
+  <para style="m" vid="2CO 7:1">
+    <char style="add">[Den som vördar och respekterar Gud tar inte lätt på synden och ondskan, se även <char style="xt"><ref loc="MAT 5:29-30">Matt 5:29-30</ref>; <ref loc="MAT 10:28">10:28</ref></char>. Det som orenar kroppen är yttre handlingar som sexuella synder, dryckenskap, tungans missbruk, se <char style="xt"><ref loc="JAS 3:6">Jak 3:6</ref></char>. Det som orenar människans inre är onda tankar, högmod, irrläror, se <char style="xt"><ref loc="2CO 11:4">2 Kor 11:4</ref></char>.]</char><verse eid="2CO 7:1" /></para>
+  <para style="s1">Glädje över församlingens omvändelse</para>
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 7:2" />Ge oss rum i <char style="add">(öppna)</char> era hjärtan. <char style="add">[Temat om ömsesidig kärlek från <char style="xt"><ref loc="2CO 6:11-13">2 Kor 6:11-13</ref></char> återupptas.]</char> Vi har inte gjort orätt mot någon, inte skadat någon eller utnyttjat någon. <verse eid="2CO 7:2" /><verse number="3" style="v" sid="2CO 7:3" />Det säger jag inte för att fördöma er. Jag har redan sagt att ni har en plats i våra hjärtan så att vi både dör och lever tillsammans. <verse eid="2CO 7:3" /><verse number="4" style="v" sid="2CO 7:4" />Jag har stort förtroende för er, jag är mycket stolt över er. Jag är uppfylld av tröst och har glädje i överflöd mitt i all vår nöd.<verse eid="2CO 7:4" /></para>
+  <para style="s2">Goda nyheter genom Titus</para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 7:5" />När vi kom till Makedonien <char style="add">[<char style="xt"><ref loc="2CO 1:16">2 Kor 1:16</ref></char>]</char> fick vi ingen ro. Vi var trängda på alla sätt, utifrån av konflikter och inifrån av oro. <verse eid="2CO 7:5" /><verse number="6" style="v" sid="2CO 7:6" />Men Gud som tröstar de modlösa tröstade oss genom att Titus kom <char style="add">[<char style="xt"><ref loc="2CO 2:13">2 Kor 2:13</ref></char>]</char>. <verse eid="2CO 7:6" /><verse number="7" style="v" sid="2CO 7:7" />Vi blev uppmuntrade inte bara av hans ankomst <char style="add">(närvaro)</char> utan också genom trösten han fått hos er. Han berättade för oss om er längtan <char style="add">[att få se Paulus igen]</char>, er klagan <char style="add">[sorg över hur de behandlat Paulus under hans senaste besök, se <char style="xt"><ref loc="2CO 1:23">2 Kor 1:23</ref>; <ref loc="2CO 2:1">2:1</ref></char>]</char> och er iver för mitt bästa, och då gladde jag mig ännu mer.<verse eid="2CO 7:7" /></para>
+  <para style="s2">Bedrövelse som leder till omvändelse</para>
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 7:8" />För även om jag gjorde er ledsna <char style="add">(bedrövade)</char> med mitt brev så ångrar jag det inte. <char style="add">[Kan syfta på Första Korintierbrevet, där Paulus konfronterar dem för att de tillät ett incestförhållande mitt i församlingen, se <char style="xt"><ref loc="1CO 5:1-13">1 Kor 5:1-13</ref></char>. Det kan också vara ett annat brev, kanske ”tårarnas brev” som refereras i <char style="xt"><ref loc="2CO 2:4">2 Kor 2:4</ref></char>.]</char> Först ångrade jag det, jag inser ju att brevet bedrövade er, åtminstone för en tid. <verse eid="2CO 7:8" /><verse number="9" style="v" sid="2CO 7:9" />Men nu är jag glad, inte därför att ni blev bedrövade <char style="add">(sorgsna)</char> utan för att bedrövelsen ledde till omvändelse <char style="add">(ett förvandlat tänkesätt)</char>. Ni blev ju bedrövade på det sätt som Gud ville, och skadades därför inte på grund av vad vi gjorde.<verse eid="2CO 7:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="2CO 7:10" />För den bedrövelse <char style="add">(sorg)</char> som är efter Guds vilja <char style="add">(ordagrant: enligt Gud)</char>, åstadkommer <char style="add">(producerar)</char> en omvändelse <char style="add">[ett förvandlat tänkesätt som leder]</char> till frälsning <char style="add">(en räddning/befrielse)</char> som man inte ångrar. Men världens bedrövelse <char style="add">[då man sörjer över det straff synden ger, istället för att känna sorg över att man har syndat]</char> åstadkommer <char style="add">(producerar) [däremot en avgjord och slutgiltig]</char> död.</para>
+  <para style="b" vid="2CO 7:10" />
+  <para style="m" vid="2CO 7:10">
+    <char style="add">[Bedrövelse, sorg och tårar är i sig själva inga dygder. Världens bedrövelse är självcentrerad och sörjer något den själv vill ha. Den tänker varken på Gud eller på andra människor som blivit skadade, och den leder till självömkan, hopplöshet, förtvivlan och slutligen till död. Ett exempel är de köpmän som sörjer över att de inte längre kan sälja mänskliga slavar när Babylon straffas, se <char style="xt"><ref loc="REV 18:9-11">Upp 18:9-11</ref>, <ref loc="REV 18:13">13</ref></char>. Den bedrövelse som Gud däremot tillåter en människa att drabbas av leder till omvändelse, gottgörelse för synder och en förnyad vilja att leva för Gud.]</char><verse eid="2CO 7:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 7:11" />Tänk vad mycket gott det kommit från att Gud tillät er att känna bedrövelse:</para>
+  <para style="b" vid="2CO 7:11" />
+  <para style="m" vid="2CO 7:11">Vilken hängivenhet <char style="add">(iver)</char> har det inte fört med sig bland er <char style="add">[till skillnad från er tidigare apati]</char>.</para>
+  <para style="m" vid="2CO 7:11">Vilket försvar <char style="add">[gr. apologia – hur de nu argumenterar mot synden]</char>.</para>
+  <para style="m" vid="2CO 7:11">Vilken upprördhet <char style="add">[över synden, och att ni tillåtit den få pågå]</char>.</para>
+  <para style="m" vid="2CO 7:11">Vilken fruktan <char style="add">[för Gud och kanske att Paulus skulle besöka dem]</char>.</para>
+  <para style="m" vid="2CO 7:11">Vilken längtan <char style="add">[efter Gud, ett besök av Paulus och att synden skulle konfronteras]</char>.</para>
+  <para style="m" vid="2CO 7:11">Vilken iver <char style="add">[efter Guds härlighet och upprättelse av syndaren]</char>.</para>
+  <para style="m" vid="2CO 7:11">Vilken bestraffning <char style="add">[gjorde upp med synden]</char>.</para>
+  <para style="b" vid="2CO 7:11" />
+  <para style="m" vid="2CO 7:11">På allt sätt har ni visat att ni är oskyldiga i den här saken. <verse eid="2CO 7:11" /><verse number="12" style="v" sid="2CO 7:12" />När jag skrev till er var det alltså inte med tanke på den man som hade gjort fel <char style="add">[sonen som hade ingått i ett förhållande med sin fars hustru, se <char style="xt"><ref loc="1CO 5:1">1 Kor 5:1</ref></char>]</char> eller med tanke på den man som fått lida <char style="add">[hans far]</char>, utan för att det skulle stå klart för er inför Gud hur ivrigt <char style="add">(hängivet)</char> ni bryr er om oss.<verse eid="2CO 7:12" /></para>
+  <para style="s2">Titus uppmuntrad</para>
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 7:13" />Därför har vi blivit uppmuntrade. Och inte nog med det, utöver vår egen uppmuntran kom den ännu större glädjen att se Titus så lycklig, eftersom hans ande har förnyats <char style="add">(blivit styrkt)</char> genom er. <verse eid="2CO 7:13" /><verse number="14" style="v" sid="2CO 7:14" />Om jag har berömt er inför honom, så har jag inte behövt skämmas för det. Nej, liksom allt vi har sagt er är sant, så har också vårt beröm inför Titus visat sig vara sant. <verse eid="2CO 7:14" /><verse number="15" style="v" sid="2CO 7:15" />Hans hjärta klappar nu ännu varmare för er, när han minns hur ni alla lydde <char style="add">[råden han kom med]</char> och hur ni tog emot honom med respekt och vördnad. <verse eid="2CO 7:15" /><verse number="16" style="v" sid="2CO 7:16" />Jag gläder mig eftersom jag nu kan lita på er <char style="add">(vara djärv och modig)</char> i allt.<verse eid="2CO 7:16" /></para>
+  <chapter eid="2CO 7" />
+  <chapter number="8" style="c" sid="2CO 8" />
+  <para style="s1">INSAMLING TILL JERUSALEM (kap 8-9)</para>
+  <para style="s2">Goda exempel på generöst givande</para>
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 8:1" />Vi vill berätta för er, syskon <char style="add">(bröder och systrar i tron)</char>, vilken nåd <char style="add">(kraft, favör)</char> Gud har gett församlingarna <char style="add">[här]</char> i Makedonien <char style="add">[där Paulus befinner sig när han skriver detta brev]</char>.</para>
+  <para style="b" vid="2CO 8:1" />
+  <para style="m" vid="2CO 8:1">
+    <char style="add">[Första gången Paulus hade kommit till Makedonien, i nuvarande norra Grekland, var under hans andra missionsresa, se <char style="xt"><ref loc="ACT 16:12-17:14">Apg 16:12-17:14</ref></char>. Han tar församlingarna i städerna Filippi, Thessalonike och Berea som goda exempel på generösa givande församlingar. Paulus tänkte nog speciellt på församlingen i Filippi, se <char style="xt"><ref loc="PHP 4:15-16">Fil 4:15-16</ref></char>.]</char><verse eid="2CO 8:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 8:2" />Trots deras många hårda prövningar har ändå deras översvallande glädje och deras djupa fattigdom gjort dem överflödande rika på uppriktig hängivenhet. <verse eid="2CO 8:2" /><verse number="3" style="v" sid="2CO 8:3" />Jag kan personligen intyga att de har gett efter sin förmåga, ja, över sin förmåga, och det helt frivilligt <char style="add">(spontant helt på eget initiativ)</char>.<verse eid="2CO 8:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="2CO 8:4" />Ivrigt vädjade de och bad oss om nåden <char style="add">(förmånen)</char> att få vara med i den gemensamma hjälpen till de heliga <char style="add">(Guds folk)</char>. <verse eid="2CO 8:4" /><verse number="5" style="v" sid="2CO 8:5" />De gav inte bara det vi hade hoppats, utan de gav sig själva, först och främst åt Herren och sedan åt oss efter Guds vilja. <verse eid="2CO 8:5" /><verse number="6" style="v" sid="2CO 8:6" />Därför bad vi Titus, som redan hade påbörjat insamlingen, att fullborda denna kärleksgåva hos er. <char style="add">[Titus hade påbörjat insamlingen när han var i Korint, se <char style="xt"><ref loc="2CO 2:13">2 Kor 2:13</ref></char>.]</char><verse eid="2CO 8:6" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 8:7" />På samma sätt som ni överflödar,</para>
+  <para style="p" vid="2CO 8:7">i allt:</para>
+  <para style="q2" vid="2CO 8:7">i tro <char style="add">[<char style="xt"><ref loc="1CO 12:9">1 Kor 12:9</ref></char>]</char>,</para>
+  <para style="q2" vid="2CO 8:7">och tal <char style="add">[som tungomål, profetia, se <char style="xt"><ref loc="1CO 1:5">1 Kor 1:5</ref></char>]</char></para>
+  <para style="q2" vid="2CO 8:7">och kunskap <char style="add">[insikt i andliga frågor, se <char style="xt"><ref loc="1CO 13:2">1 Kor 13:2</ref></char>]</char>,</para>
+  <para style="p" vid="2CO 8:7">med all</para>
+  <para style="q2" vid="2CO 8:7">hängivenhet <char style="add">[iver i att göra det som är gott]</char></para>
+  <para style="q2" vid="2CO 8:7">och kärlek som ni känner för oss,</para>
+  <para style="p" vid="2CO 8:7">se därför till att ni också överflödar i denna nåd <char style="add">[finansiella gåva]</char>.</para>
+  <para style="b" vid="2CO 8:7" />
+  <para style="m" vid="2CO 8:7">
+    <char style="add">[Paulus ger räknar upp sex gåvor uppdelade i två grupper om tre: </char></para>
+  <para style="p" vid="2CO 8:7">
+    <char style="add">tro, tal, kunskap; </char></para>
+  <para style="p" vid="2CO 8:7">
+    <char style="add">hängivenhet, kärlek, nåd. </char></para>
+  <para style="m" vid="2CO 8:7">
+    <char style="add">Varje grupp börjar med det grekiska ordet pas som översätts ”i all” eller ”med all”.]</char><verse eid="2CO 8:7" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 8:8" />Detta säger jag inte som en befallning, utan för att pröva äktheten i er kärlek <char style="add">[som är osjälvisk och utgivande]</char> när andra visar en sådan iver.<verse eid="2CO 8:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 8:9" />Ni känner <char style="add">(har själva erfarit)</char> vår Herre Jesu den Smordes <char style="add">(Kristi)</char> nåd <char style="add">(oförtjänta favör, gåva, kraft och välsignelse)</char>:</para>
+  <para style="b" vid="2CO 8:9" />
+  <para style="m" vid="2CO 8:9">Han som var rik,</para>
+  <para style="p" vid="2CO 8:9">blev fattig <char style="add">(helt utblottad)</char> för er skull,</para>
+  <para style="m" vid="2CO 8:9">för att ni skulle bli rika</para>
+  <para style="p" vid="2CO 8:9">genom hans fattigdom. <char style="add">[Se även <char style="xt"><ref loc="PHP 2:6-8">Fil 2:6-8</ref></char>.]</char></para>
+  <para style="b" vid="2CO 8:9" />
+  <para style="m" vid="2CO 8:9" />
+  <para style="s2" vid="2CO 8:9">Råd att fullfölja den påbörjade insamlingen</para>
+  <para style="m" vid="2CO 8:9" />
+  <para style="m" vid="2CO 8:9">
+    <char style="add">[Församlingen i Jerusalem led hungersnöd. De kristna i Korint hade påbörjat en insamling, men falska lärare hade anklagat Paulus för att inte vara ärlig med pengar, se <char style="xt"><ref loc="2CO 7:2">2 Kor 7:2</ref></char>, så insamlingen kom av sig. När Paulus nu tar upp detta i sitt brev är han noga med att inte ge en ”befallning”. I stället uppmanar han dem i denna sak och ger dem ett ”råd”, så de kan ge av glädje utan olust eller av tvång, se <char style="xt"><ref loc="2CO 9:7">2 Kor 9:7</ref></char>.]</char><verse eid="2CO 8:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 8:10" />I fjol var ni de första som ville göra någonting och ni påbörjade insamlingen <char style="add">[till församlingen i Jerusalem]</char>. <verse eid="2CO 8:10" /><verse number="11" style="v" sid="2CO 8:11" />Fullfölj nu det ni påbörjat, så att er entusiastiska start motsvarar och överensstämmer med er förmåga <char style="add">(den kapacitet ni har)</char>.<verse eid="2CO 8:11" /></para>
+  <para style="s2">Principen för givande – jämvikt</para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 8:12" />För om viljan <char style="add">(ivern, beslutsamheten)</char> finns, så är gåvan välkommen <char style="add">(accepterad)</char> utifrån de tillgångar någon har, inte utifrån vad han inte har.</para>
+  <para style="b" vid="2CO 8:12" />
+  <para style="m" vid="2CO 8:12">
+    <char style="add">[Paulus uppmanar till den generella principen om proportionellt givande; samtidigt prisar han makedonierna som offrat och gett över sin förmåga.]</char><verse eid="2CO 8:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 8:13" />För det är inte tänkt att andra ska bli lättade <char style="add">[från sitt ansvar]</char> och ni ska bli tyngda <char style="add">(bli pressade, få svårigheter)</char> utan att det ska bli jämvikt. <verse eid="2CO 8:13" /><verse number="14" style="v" sid="2CO 8:14" />Just nu kommer ert överflöd att möta deras behov, en annan gång kommer deras överflöd att möta ert behov. På så sätt sker en utjämning, <verse eid="2CO 8:14" /><verse number="15" style="v" sid="2CO 8:15" />för det står skrivet:</para>
+  <para style="b" vid="2CO 8:15" />
+  <para style="m" vid="2CO 8:15">”Den som samlade mycket <char style="add">[manna]</char> fick ingenting över,</para>
+  <para style="p" vid="2CO 8:15">och den som samlade lite saknade ingenting.” <char style="add">[<char style="xt"><ref loc="EXO 16:18">2 Mos 16:18</ref></char>]</char><verse eid="2CO 8:15" /></para>
+  <para style="b" />
+  <para style="m" />
+  <para style="s2">Tre bröder kommer och förbereder insamlingen</para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 8:16" />Vi tackar Gud som har väckt samma iver <char style="add">(entusiasm)</char> för er i Titus hjärta. <verse eid="2CO 8:16" /><verse number="17" style="v" sid="2CO 8:17" />Han lyssnade till vår maning och blev så ivrig att han av egen fri vilja gav sig i väg till er.</para>
+  <para style="b" vid="2CO 8:17" />
+  <para style="m" vid="2CO 8:17">
+    <char style="add">[Titus som var en grek från Antiokia i Syrien hade rest tillsammans med Paulus och Barnabas, se <char style="xt"><ref loc="GAL 2:1-3">Gal 2:1-3</ref></char>. Han har nyss kommit från Korint och mött Paulus med goda nyheter, se <char style="xt"><ref loc="2CO 7:13">2 Kor 7:13</ref></char>. Han är nu på väg tillbaka till Korint och är troligen också den som tar med sig detta brev. Titus är den som har huvudansvaret för insamlingen, tillsammans med honom reser också två bröder. Den förste kallas ”en broder” och den andre ”vår broder”. Det antyder att den förste kom från en annan region, medan den andre var känd för de troende i Makedonien där Paulus befann sig när han skrev detta brev. Paulus uttalande i <char style="xt"><ref loc="2CO 9:4">2 Kor 9:4</ref></char> antyder att ingen av dessa bröder var från Makedonien. Att de inte namnges kan vara för att skydda deras identitet och förhindra onödiga risker för rån. Breven lästes högt och utomstående hörde detta, se <char style="xt"><ref loc="1CO 14:23">1 Kor 14:23</ref></char>.]</char><verse eid="2CO 8:17" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="18" style="v" sid="2CO 8:18" />Tillsammans med honom har vi sänt den broder som får beröm i alla församlingarna för sitt arbete i evangeliets tjänst. <char style="add">[Han var en välkänd evangelist.]</char> <verse eid="2CO 8:18" /><verse number="19" style="v" sid="2CO 8:19" />Och inte bara det, han är också vald av församlingarna till att följa med oss på resan med gåvan som vi förmedlar till Herrens ära och som bevis på vår goda vilja. <char style="add">[De som reste med Paulus var Lukas, Sopater, Aristarchus, Secundus, Gaius, Timoteus, Tychikus och Trofimus, se <char style="xt"><ref loc="ACT 20:4">Apg 20:4</ref></char>. Det är troligt att den onämnda brodern är någon av dessa.]</char> <verse eid="2CO 8:19" /><verse number="20" style="v" sid="2CO 8:20" />Så undviker vi att någon kritiserar oss för hur vi förmedlar den frikostiga gåvan. <verse eid="2CO 8:20" /><verse number="21" style="v" sid="2CO 8:21" />Vi är nämligen noga med att göra det som är rätt, inte bara inför Herren utan också inför människor.<verse eid="2CO 8:21" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="22" style="v" sid="2CO 8:22" />Tillsammans med dem har vi sänt vår broder <char style="add">[den tredje personen som följer med Titus tillbaka till Korint, kanske Tychikus]</char>. Han har ofta och på många sätt prövats och funnits hängiven, särskilt nu eftersom han har så stort förtroende för er.<verse eid="2CO 8:22" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="23" style="v" sid="2CO 8:23" />När det gäller Titus <char style="add">[om det finns några frågor kring honom]</char>, så är han min vän och medarbetare i arbetet för er. Vad gäller bröderna <char style="add">[om det är några frågor kring de två bröderna]</char>, så är de församlingarnas sändebud <char style="add">(apostlar, ambassadörer)</char> till den Smordes <char style="add">(Kristi)</char> ära <char style="add">(som gör Jesus känd, reflekterar honom, se även <char style="xt"><ref loc="2CO 2:15">2 Kor 2:15</ref></char>)</char>.</para>
+  <para style="b" vid="2CO 8:23" />
+  <para style="m" vid="2CO 8:23">
+    <char style="add">[De två bröderna som reser med Titus finns med som trovärdiga vittnen. Det finns en transparens och öppenhet med de insamlade medlen, så att allt går rätt till.]</char><verse eid="2CO 8:23" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="24" style="v" sid="2CO 8:24" />Ge dem nu inför församlingarna bevis på er kärlek och på att vi hade rätt när vi berömde er inför dem.<verse eid="2CO 8:24" /></para>
+  <chapter eid="2CO 8" />
+  <chapter number="9" style="c" sid="2CO 9" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 9:1" />När det gäller hjälpen till de heliga <char style="add">[de troende i Jerusalem]</char>, behöver jag egentligen inte skriva till er.</para>
+  <para style="b" vid="2CO 9:1" />
+  <para style="m" vid="2CO 9:1">
+    <char style="add">[Ordagrant börjar meningen ”för att börja med”, vilket binder ihop denna vers med den föregående. Paulus förklarar nu varför han i andra församlingar skrutit om korintiernas kärlek och givmildhet, se <char style="xt"><ref loc="2CO 8:24">2 Kor 8:24</ref></char>.]</char><verse eid="2CO 9:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 9:2" />Jag vet hur villiga ni <char style="add">[korintier]</char> är, och inför makedonierna <char style="add">[i nuvarande norra Grekland]</char> brukar jag berömma er och berätta att Achaia <char style="add">[den romerska provinsen i södra Grekland]</char> har varit redo sedan i fjol. Er iver <char style="add">(entusiasm)</char> har sporrat <char style="add">(i positiv bemärkelse provocerat)</char> de flesta av dem. <verse eid="2CO 9:2" /><verse number="3" style="v" sid="2CO 9:3" />Nu skickar jag ändå bröderna för att vårt beröm av er i denna sak inte ska visa sig vara tomt prat och för att ni ska vara förberedda, som jag redan nämnt. <verse eid="2CO 9:3" /><verse number="4" style="v" sid="2CO 9:4" />Annars får vi – för att inte säga ni – stå där och skämmas när makedonierna som kommer med mig <char style="add">[på Paulus tredje resa till Korint, se <char style="xt"><ref loc="2CO 13:1">2 Kor 13:1</ref></char>]</char> ser att ni är oförberedda trots vårt förtroende för er. <verse eid="2CO 9:4" /><verse number="5" style="v" sid="2CO 9:5" />Därför tyckte jag mig behöva be bröderna <char style="add">[Titus och de två bröderna, se <char style="xt"><ref loc="2CO 8:16-24">2 Kor 8:16-24</ref></char>]</char> resa till er och förbereda er utlovade gåva, så att den kan ligga färdig som en gåva och inte blir ett krav.<verse eid="2CO 9:5" /></para>
+  <para style="s2">Givandets välsignelser</para>
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 9:6" />Dessutom <char style="add">[säger Skriften]</char> detta:</para>
+  <para style="b" vid="2CO 9:6" />
+  <para style="m" vid="2CO 9:6">Den som sår sparsamt</para>
+  <para style="p" vid="2CO 9:6">får <char style="add">(ska)</char> också skörda sparsamt,</para>
+  <para style="m" vid="2CO 9:6">och den som sår rikligt <char style="add">[efter principen om välsignelser]</char></para>
+  <para style="p" vid="2CO 9:6">får <char style="add">(ska)</char> också <char style="add">[efter principen om välsignelser]</char> skörda rikligt,<verse eid="2CO 9:6" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 9:7" />var och en <char style="add">[ska så, dvs. ge]</char> precis <char style="add">[så mycket]</char> som han har bestämt <char style="add">(föreslagit; lagt fram)</char> i sitt hjärta <char style="add">(ordagrant: i hjärtat)</char>, inte utav olust <char style="add">(motvilja)</char> eller tvång <char style="add">[som något obligatoriskt]</char>,</para>
+  <para style="b" vid="2CO 9:7" />
+  <para style="m" vid="2CO 9:7">för Gud älskar <char style="add">(föredrar)</char> en glad <char style="add">(beredvillig, förnöjsam; välvilligt inställd)</char> givare.</para>
+  <para style="b" vid="2CO 9:7" />
+  <para style="m" vid="2CO 9:7">
+    <char style="add">[Här citerar Paulus fritt från den andra delen av <char style="xt"><ref loc="PRO 22:8">Ords 22:8</ref></char> i den grekiska översättningen Septuaginta där det står: ”Gud älskar en glad man och givare”. Principen om sådd och skörd och om givandets välsignelser finns också i <char style="xt"><ref loc="PRO 11:24-26">Ords 11:24-26</ref></char> och i <char style="xt"><ref loc="DEU 15:7-11">5 Mos 15:7-11</ref></char>. Paulus sammanfattning av denna ”lag” har ibland förminskats till en slug investeringsstrategi där man genom att ge mycket förväntar sig en större välsignelse tillbaka för att leva gott för egen del. Om det är drivkraften blir resultatet bara ännu djupare andlig fattigdom. Paulus gör klart att Gud vill se alla sina barns behov uppfyllda. Herren lönar generositet genom att möjliggöra för ännu mer generositet.]</char><verse eid="2CO 9:7" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 9:8" />Och Gud förmår <char style="add">(har ju kraft; är dessutom mäktig)</char> att låta all nåd <char style="add">(varje slags favör)</char> överflöda till <char style="add">[nå fram och vida omge]</char> er, så att ni alltid i allt <char style="add">[vid varje tidpunkt och i varje omständighet]</char> har nog <char style="add">(tillräcklig mängd – gr. autarkeia)</char> av allt och kan överflöda till <char style="add">[skulle nå fram och vida omge]</char> varje gott verk <char style="add">(varje god gärning)</char>. <char style="add">[<char style="xt"><ref loc="PHP 4:11">Fil 4:11</ref>, <ref loc="PHP 4:19">19</ref></char>]</char></para>
+  <para style="b" vid="2CO 9:8" />
+  <para style="m" vid="2CO 9:8">
+    <char style="add">[Inom stoisk livsfilosofi användes autarkeia i betydelsen att vara självförsörjande, och därigenom vara oberoende av andra människor. Paulus använder ordet i betydelsen att ha tillräckligt av allt för att också kunna ge vidare till andra (och på så sätt göra människor beroende av varandra). Detta förstärks av att verbet perisseuo – vars innebörd är att överflöda runtomkring – både står före och efter det grekiska ordet för tillräcklig mängd. Att adjektivet pas (all, allt, varje) förekommer fyra gånger i versen visar att Paulus verkligen vill betona att Gud i sin omsorg både kan och vill låta sitt överskott nå oss på alla sidor – detta så att det räcker mer än väl och blir över till att dela med sig av.]</char><verse eid="2CO 9:8" /></para>
+  <para style="m">
+    <verse number="9" style="v" sid="2CO 9:9" />Precis som det står skrivet:</para>
+  <para style="b" vid="2CO 9:9" />
+  <para style="m" vid="2CO 9:9">”Han <char style="add">[den rättfärdige]</char> strör ut <char style="add">(är generös, sår rikligt)</char>, han ger till de fattiga,</para>
+  <para style="p" vid="2CO 9:9">hans rättfärdighet <char style="add">(hans gärningar av rättvisa, medmänsklighet, och godhet)</char> varar i evighet.” <char style="add">[<char style="xt"><ref loc="PSA 112:9">Ps 112:9</ref></char>]</char><verse eid="2CO 9:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 9:10" />Han <char style="add">[Gud]</char> som ger säd till såningsmannen och bröd för att äta, ska också ge och mångdubbla <char style="add">(multiplicera)</char> ditt förråd av utsäde <char style="add">[det du ger ifrån]</char> och låta rättfärdighetens skörd växa <char style="add">[ge frukt som visar sig i godhet, vänlighet och givmildhet]</char>. <verse eid="2CO 9:10" /><verse number="11" style="v" sid="2CO 9:11" />Då blir ni rika på allt och kan vara generösa i allt, och det väcker tacksamhet till Gud när vi överlämnar gåvan.<verse eid="2CO 9:11" /></para>
+  <para style="s2">Resultatet – Gud blir ärad</para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 9:12" />Den hjälp ni ger i denna insamling fyller inte bara de heligas behov, utan bär också rik frukt genom många tacksägelser till Gud <char style="add">(att många tackar Gud)</char>. <verse eid="2CO 9:12" /><verse number="13" style="v" sid="2CO 9:13" />När ni visar er äkthet genom denna hjälp prisar de Gud för att ni så lydigt följer er bekännelse till den Smordes <char style="add">(Kristi)</char> evangelium och så godhjärtat delar gemenskapen med dem och med alla. <verse eid="2CO 9:13" /><verse number="14" style="v" sid="2CO 9:14" />De kommer också att be för er och längta efter er på grund av Guds överväldigande nåd mot er.<verse eid="2CO 9:14" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 9:15" />
+    <char style="add">[Paulus brister ut i lovprisning:]</char> Gud vare tack för hans obeskrivligt rika gåva! <char style="add">[Ord är helt otillräckliga för att beskriva Guds gåva – att hans Son kom till jorden.]</char><verse eid="2CO 9:15" /></para>
+  <chapter eid="2CO 9" />
+  <chapter number="10" style="c" sid="2CO 10" />
+  <para style="s1">PAULUS FÖRSVARAR SIN TJÄNST (kap 10-13)</para>
+  <para style="s2">En vädjan</para>
+  <para style="m" />
+  <para style="m">
+    <char style="add">[Efter en längre undervisning om givande där han uppmanar korintierna att förnya sin iver för insamlingen till de troende i Jerusalem, tar Paulus upp sin egen roll som apostel. Paulus börjar detta stycke med auktoritet och tydlighet. Han har blivit anklagad av falska apostlar för att vara djärv när han skriver brev på avstånd, men feg väl på plats, se vers 10. Nu i brevets sista kapitel besvarar han den kritiken.]</char></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 10:1" />Jag, Paulus, vädjar personligen vid den Smordes <char style="add">(Kristi)</char> mildhet och godhet, jag som <char style="add">[enligt vissa, se vers 10]</char> är så ”ödmjuk” när jag möter er ansikte mot ansikte, men ”modig” när jag är långt borta <char style="add">[och skriver mina brev]</char>. <verse eid="2CO 10:1" /><verse number="2" style="v" sid="2CO 10:2" />Jag bönfaller er <char style="add">[det starkaste ordet för vädjan]</char>, att när jag kommer <char style="add">[till er korintier]</char> ska jag inte behöva vara så modig och bestämd mot några som menar att vi vandrar efter köttet <char style="add">(lever på världens sätt, har mänskliga motiv)</char>. <verse eid="2CO 10:2" /><verse number="3" style="v" sid="2CO 10:3" />För även om vi lever i världen <char style="add">(vandrar i köttet)</char>, strider vi inte på världens sätt <char style="add">(strider inte efter köttet med mänskliga vapen)</char>. <verse eid="2CO 10:3" /><verse number="4" style="v" sid="2CO 10:4" />För våra stridsvapen är inte köttsliga <char style="add">[av denna världen]</char>, utan kraftfulla <char style="add">(starka)</char> inför Gud till att bryta <char style="add">(riva)</char> ner fästen. <verse eid="2CO 10:4" /><verse number="5" style="v" sid="2CO 10:5" />Vi bryter ner <char style="add">[med våra stridsvapen raserar vi]</char> tankebyggnader <char style="add">(resonemang, beräkningar, spekulationer, argument)</char> och varje hög mur <char style="add">(all höghet)</char> som reser sig upp <char style="add">[lite i taget, mer och mer]</char> mot kunskapen om Gud <char style="add">(Guds kunskap)</char> – och vi leder varje tanke som en fånge in i lydnad för den Smorde <char style="add">(Messias – ordagrant: in i/fram till Kristi lydnad)</char>.</para>
+  <para style="b" vid="2CO 10:5" />
+  <para style="m" vid="2CO 10:5">
+    <char style="add">[Bilden som målas upp är en romersk soldat som tvingas ta fram svärdet för att få en omedgörlig fånge att lyda. Slagfältet är sinnet där tankar och resonemang som strider mot Guds ord måste tas till fånga och överlämnas till Jesus, vår Befälhavare. I nästa vers fortsätter Paulus att använda militära termer.]</char><verse eid="2CO 10:5" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 10:6" />Vi är beredda att straffa all olydnad så snart er lydnad <char style="add">[som församling]</char> blivit fullständig.</para>
+  <para style="s2" vid="2CO 10:6">Falska apostlar</para>
+  <para style="m" vid="2CO 10:6" />
+  <para style="m" vid="2CO 10:6">
+    <char style="add">[Hittills har Paulus mest i förbifarten nämnt att det finns motståndare till honom i Korint, se <char style="xt"><ref loc="2CO 3:1">2 Kor 3:1</ref></char>. Nu riktar han sig till dessa falska apostlar. Vi förstår att de var judar som predikade ett falskt evangelium, se <char style="xt"><ref loc="2CO 11:4">2 Kor 11:4</ref>, <ref loc="2CO 11:22">22</ref></char>.]</char><verse eid="2CO 10:6" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 10:7" />Se vad som sker mitt framför er <char style="add">(vad som är helt uppenbart)</char>! <char style="add">[Frasen kan också översättas ”Ni ser bara det som är på ytan” och syfta på de falska apostlarnas vältalighet och retorik.]</char> Om någon är övertygad om att han tillhör den Smorde <char style="add">(Messias, Kristus)</char>, då ska han ha klart för sig att vi tillhör den Smorde lika mycket som han. <verse eid="2CO 10:7" /><verse number="8" style="v" sid="2CO 10:8" />Ja, även om jag skulle vara ännu frimodigare med den auktoritet som Herren har gett oss för att bygga upp er, inte för att bryta ner er, så skulle jag inte behöva skämmas. <verse eid="2CO 10:8" /><verse number="9" style="v" sid="2CO 10:9" />Jag vill inte att det ska verka som att jag vill skrämma er med mina brev. <verse eid="2CO 10:9" /><verse number="10" style="v" sid="2CO 10:10" />Han <char style="add">[syftar troligen på den som ledde motståndet mot Paulus i Korint]</char> säger:</para>
+  <para style="b" vid="2CO 10:10" />
+  <para style="m" vid="2CO 10:10">”Hans brev har tyngd och kraft <char style="add">[se <char style="xt"><ref loc="2CO 7:8">2 Kor 7:8</ref></char>]</char>,</para>
+  <para style="p" vid="2CO 10:10">men när han kommer själv är han svag <char style="add">(hans fysiska utseende och framförande imponerar inte)</char></para>
+  <para style="p" vid="2CO 10:10">och man föraktar hans ord.”</para>
+  <para style="b" vid="2CO 10:10" />
+  <para style="m" vid="2CO 10:10">
+    <char style="add">[Det finns utombibliska källor från 200-talet som beskriver Paulus som kortväxt, flintskallig med stora ögonbryn. Vi kan dock inte veta hur han såg ut. I jämförelse mellan Paulus och Barnabas kan det tolkas som att Barnabas var mer tilltalande, eftersom han liknades vid Zeus, den störste guden, och att Paulus var hans talesman, se <char style="xt"><ref loc="ACT 14:8-12">Apg 14:8-12</ref></char>. Inom antika talkonsten ansågs ett attraktivt utseende lika viktigt som talet. Den grekisk-romerska stoiska filosofen Epiktetos skriver om detta i ”Handbok i livets konst” omkring 125 e.Kr.]</char><verse eid="2CO 10:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 10:11" />Den som säger så ska veta att sådana vi är i ord, i våra brev på håll, sådana är vi också i handling när vi är hos er.<verse eid="2CO 10:11" /></para>
+  <para style="s2">En ofrivillig jämförelse</para>
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 10:12" />Inte så att vi vågar jämföra eller mäta oss med vissa av dem som rekommenderar sig själva. De mäter sig med sig själva och jämför sig med sig själva, men de förstår ingenting.</para>
+  <para style="b" vid="2CO 10:12" />
+  <para style="m" vid="2CO 10:12">
+    <char style="add">[I den antika världen var jämförelse med andra ett vanligt retoriskt grepp som praktiserades flitigt.]</char><verse eid="2CO 10:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 10:13" />Vi däremot berömmer oss inte gränslöst <char style="add">(utan förbehåll)</char>, utan håller oss inom gränsen för det område <char style="add">(gr. kanon, den måttstock, norm)</char> som Gud har tilldelat oss, att vi skulle nå fram även till er. <verse eid="2CO 10:13" /><verse number="14" style="v" sid="2CO 10:14" />Vi går inte för långt i vårt beröm, som om vi aldrig hade nått fram till er. Vi var ju de första som nådde er med den Smordes <char style="add">(Kristi)</char> evangelium. <char style="add">[Paulus grundade församlingen i Korint, se <char style="xt"><ref loc="1CO 3:6">1 Kor 3:6</ref></char>.]</char> <verse eid="2CO 10:14" /><verse number="15" style="v" sid="2CO 10:15" />Vi vill inte berömma oss gränslöst av andras arbete. Men när er tro växer hoppas vi att vårt arbetsfält <char style="add">(vårt inflytande)</char> hos er ska utvidgas kraftigt. <verse eid="2CO 10:15" /><verse number="16" style="v" sid="2CO 10:16" />Då kan vi förkunna evangeliet i områden bortom ert och behöver inte berömma oss av det som redan är uträttat på någon annans område.<verse eid="2CO 10:16" /></para>
+  <para style="m">
+    <verse number="17" style="v" sid="2CO 10:17" />Den som berömmer sig</para>
+  <para style="p" vid="2CO 10:17">måste berömma sig i Herren.</para>
+  <para style="b" vid="2CO 10:17" />
+  <para style="m" vid="2CO 10:17">
+    <char style="add">[Paulus summerar <char style="xt"><ref loc="JER 9:23-24">Jer 9:23-24</ref></char>, som varnar för att skryta om sin egen visdom och förmåga. Allt beröm måste ske i ljuset av vad Gud har gjort. Samma citat ges också i <char style="xt"><ref loc="1CO 1:31">1 Kor 1:31</ref></char>. Se även <char style="xt"><ref loc="PRO 27:2">Ords 27:2</ref></char>.]</char><verse eid="2CO 10:17" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="18" style="v" sid="2CO 10:18" />Det är ju inte den som rekommenderar sig själv som består provet, utan den som Herren rekommenderar.<verse eid="2CO 10:18" /></para>
+  <chapter eid="2CO 10" />
+  <chapter number="11" style="c" sid="2CO 11" />
+  <para style="s2">Ni är trolovade med Jesus</para>
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 11:1" />Hoppas ni kan stå ut med lite <char style="add">[så kallad]</char> dårskap från min sida. Visst står ni ut med mig! <verse eid="2CO 11:1" /><verse number="2" style="v" sid="2CO 11:2" />För jag brinner för er med Guds iver. Jag har trolovat er med en enda man, den Smorde <char style="add">(Messias, Kristus)</char>, och vill föra fram en ren jungfru till honom. <verse eid="2CO 11:2" /><verse number="3" style="v" sid="2CO 11:3" />Men jag är rädd att liksom ormen med sin list förledde Eva <char style="add">[<char style="xt"><ref loc="GEN 3:1-6">1 Mos 3:1-6</ref></char>]</char>, så kan också era sinnen förföras och vändas bort från den uppriktiga och rena troheten mot den Smorde <char style="add">(Messias, Kristus)</char>.</para>
+  <para style="b" vid="2CO 11:3" />
+  <para style="m" vid="2CO 11:3">
+    <char style="add">[Paulus använder bilden av äktenskap och den judiska trolovningen som var mycket mer bindande än dagens förlovning. Paulus var som en far för församlingen i Korint, se <char style="xt"><ref loc="1CO 4:15">1 Kor 4:15</ref></char>. Jesus liknas ofta vid Adam, se <char style="xt"><ref loc="ROM 15:14">Rom 15:14</ref>; <ref loc="1CO 15:21-22">1 Kor 15:21-22</ref>, <ref loc="1CO 15:45">45</ref></char>. Här liknas församlingen i Korint vid Eva. Församlingen är trolovad med Jesus. I stället för att stå emot djävulen, se <char style="xt"><ref loc="JAS 4:7">Jak 4:7</ref></char>, hade korintierna lyssnat på djävulens representanter som förlett dem, se <char style="xt"><ref loc="2CO 11:13-15">2 Kor 11:13-15</ref>; <ref loc="2CO 4:2">4:2</ref></char>.]</char><verse eid="2CO 11:3" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 11:4" />För om någon kommer och</para>
+  <para style="p" vid="2CO 11:4">predikar en annan Jesus</para>
+  <para style="q2" vid="2CO 11:4">än den vi har predikat,</para>
+  <para style="p" vid="2CO 11:4">eller om ni tar emot en annan ande</para>
+  <para style="q2" vid="2CO 11:4">än den ni har fått</para>
+  <para style="p" vid="2CO 11:4">eller predikar ett annat evangelium</para>
+  <para style="q2" vid="2CO 11:4">än det ni tidigare tagit emot,</para>
+  <para style="m" vid="2CO 11:4">då accepterar ni det gärna.</para>
+  <para style="b" vid="2CO 11:4" />
+  <para style="m" vid="2CO 11:4">
+    <char style="add">[Vi vet inte exakt vad dessa falska apostlar predikade; vi vet dock att Paulus predikade Jesus som korsfäst, se <char style="xt"><ref loc="1CO 1:23">1 Kor 1:23</ref></char>, och Herre, se <char style="xt"><ref loc="2CO 4:5">2 Kor 4:5</ref></char>.]</char><verse eid="2CO 11:4" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 11:5" />Jag menar att jag inte på något sätt är underlägsen dessa ”superapostlar”.</para>
+  <para style="b" vid="2CO 11:5" />
+  <para style="m" vid="2CO 11:5">
+    <char style="add">[Paulus lägger till förstärkningsordet ”hyper”, som betyder ”mer”, framför ordet apostel. Dessa ”superapostlar” ansåg sig vara förmer och större än andra apostlar. Paulus motståndare i Korint upphöjde sig själva till skyarna.]</char><verse eid="2CO 11:5" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 11:6" />Även om jag inte är någon vältalare <char style="add">[inte följer de grekiska filosofernas retoriska stil]</char> saknar jag inte kunskap, och den har vi alltid och på alla sätt lagt fram för er.<verse eid="2CO 11:6" /></para>
+  <para style="s2">Var det en synd att predika utan ersättning?</para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 11:7" />Var det en synd jag begick när jag ödmjukade mig för att ni skulle upphöjas och predikade Guds evangelium för er utan ersättning? <verse eid="2CO 11:7" /><verse number="8" style="v" sid="2CO 11:8" />Andra församlingar <char style="add">[i Makedonien]</char> plundrade jag genom att ta emot lön för att kunna betjäna er. <char style="add">[Silas och Timoteus kom med finansiellt stöd till Paulus under hans första vistelse i Korint, se <char style="xt"><ref loc="ACT 18:5">Apg 18:5</ref></char>.]</char> <verse eid="2CO 11:8" /><verse number="9" style="v" sid="2CO 11:9" />När jag var hos er och saknade något låg jag ingen till last, för bröderna som kom från Makedonien försåg mig med det jag behövde. På alla sätt aktade jag mig för att bli en <char style="add">[finansiell]</char> börda för er, och det tänker jag fortsätta med <char style="add">[eftersom det för med sig sociala förpliktelser mot givarna och hindrar mig från att predika fritt]</char>.</para>
+  <para style="b" vid="2CO 11:9" />
+  <para style="m" vid="2CO 11:9">
+    <char style="add">[En dåtida antik filosof var inte trovärdig om han inte kunde leva på sin filosofi. Det som förbryllade korintierna var hur en apostel för den uppståndne Jesus samtidigt måste arbeta för sitt uppehälle, se <char style="xt"><ref loc="1TH 2:9">1 Thess 2:9</ref></char>. Hans motståndare använde detta som ett argument för att han inte var någon verklig apostel. Termen ”börda” handlar inte bara om att bli en ekonomisk börda för korintierna, utan också de sociala förpliktelser som förväntades mot givaren. Hade Paulus tagit emot gåvor från de välbärgade korintierna hade de rätt att styra över vad Paulus skulle predika. Andra grupper kunde också misstänka att han var ”köpt” om han tog ställning i en fråga där det fanns olika intressen.]</char><verse eid="2CO 11:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 11:10" />Så sant den Smordes <char style="add">(Kristi)</char> sanning finns i mig <char style="add">[om det nu skulle vara en synd att predika utan att ta betalt, se vers 7]</char> ska ingen i Achaias områden ta ifrån mig den stoltheten. <char style="add">[Achaia motsvarar nuvarande södra Grekland med städerna Korint, Kenkrea och Aten.]</char> <verse eid="2CO 11:10" /><verse number="11" style="v" sid="2CO 11:11" />Varför? För att jag inte älskar er? Det vet Gud att jag gör. <verse eid="2CO 11:11" /><verse number="12" style="v" sid="2CO 11:12" />Och jag tänker fortsätta göra som jag gör <char style="add">[predika utan att ta betalt]</char>, för att hindra dem som söker ett tillfälle att framstå som våra jämlikar i vad de skryter med. <verse eid="2CO 11:12" /><verse number="13" style="v" sid="2CO 11:13" />Sådana människor är falska apostlar, oärliga arbetare förklädda till den Smordes <char style="add">(Kristi)</char> apostlar <char style="add">(budbärare)</char>. <verse eid="2CO 11:13" /><verse number="14" style="v" sid="2CO 11:14" />Och inte undra på det, Satan själv förklär sig till en ljusets ängel <char style="add">(budbärare)</char>. <verse eid="2CO 11:14" /><verse number="15" style="v" sid="2CO 11:15" />Då är det inte underligt om även hans tjänare förklär sig till rättfärdighetens tjänare. <char style="add">[De som lever ett rättfärdigt liv är ”rättfärdighetens tjänare”, inte de som utger sig för att vara det eller predikar för andra om rättfärdighet. Ett av kännetecknen på ett falskt budskap är att mörker sägs vara ljus.]</char> Men de ska få det slut som deras gärningar förtjänar.<verse eid="2CO 11:15" /></para>
+  <para style="s2">Motvilligt beröm</para>
+  <para style="m">
+    <verse number="16" style="v" sid="2CO 11:16" />Jag upprepar: ingen får ta mig för en dåre. Men om ni nu gör det, ta då emot mig som en dåre så att också jag får berömma mig lite. <verse eid="2CO 11:16" /><verse number="17" style="v" sid="2CO 11:17" />Det jag nu talar – det är inte som Herren skulle tala, utan som en dåre – i den fasta övertygelsen att jag har skäl att berömma mig. <verse eid="2CO 11:17" /><verse number="18" style="v" sid="2CO 11:18" />När många berömmer sig på människors vis <char style="add">(efter köttet)</char> vill också jag göra det. <verse eid="2CO 11:18" /><verse number="19" style="v" sid="2CO 11:19" />Ni står ju gärna ut med dårar, ni som är så kloka. <verse eid="2CO 11:19" /><verse number="20" style="v" sid="2CO 11:20" />Ni accepterar att man gör er till slavar, att man suger ut och plundrar er, att man uppträder överlägset och slår er i ansiktet. <verse eid="2CO 11:20" /><verse number="21" style="v" sid="2CO 11:21" />Till min skam måste jag säga att vi har varit för svaga för det. Men vad andra vågar skryta med – jag talar som en dåre – det vågar jag också.<verse eid="2CO 11:21" /></para>
+  <para style="m">
+    <verse number="22" style="v" sid="2CO 11:22" />Är de hebréer?</para>
+  <para style="p" vid="2CO 11:22">Det är jag också.</para>
+  <para style="m" vid="2CO 11:22">Är de israeliter?</para>
+  <para style="p" vid="2CO 11:22">Det är jag också.</para>
+  <para style="m" vid="2CO 11:22">Är de Abrahams barn?</para>
+  <para style="p" vid="2CO 11:22">Det är jag också.<verse eid="2CO 11:22" /></para>
+  <para style="m">
+    <verse number="23" style="v" sid="2CO 11:23" />Är de den Smordes <char style="add">(Kristi)</char> tjänare?</para>
+  <para style="p" vid="2CO 11:23">Nu talar jag som en galning:</para>
+  <para style="p" vid="2CO 11:23">Jag är det ännu mer.</para>
+  <para style="b" vid="2CO 11:23" />
+  <para style="m" vid="2CO 11:23">
+    <char style="add">[”Ännu mer” är samma ord ”hyper” som används om ”superapostlarna” i vers 5. Paulus är tvungen att avbryta sig själv här innan han fortsätter. Det är absurt och helt galet att jämföra vem som tjänar Jesus mest, men för att rädda korintierna från dessa falska ”superapostlar” tvingar han sig att fortsätta.]</char></para>
+  <para style="b" vid="2CO 11:23" />
+  <para style="m" vid="2CO 11:23">Jag har arbetat mer,</para>
+  <para style="m" vid="2CO 11:23">suttit i fängelse mer,</para>
+  <para style="m" vid="2CO 11:23">fått hugg och slag i överflöd</para>
+  <para style="p" vid="2CO 11:23">och ofta varit i livsfara.<verse eid="2CO 11:23" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="24" style="v" sid="2CO 11:24" />Av judarna har jag fem gånger fått fyrtio rapp minus ett.</para>
+  <para style="m" vid="2CO 11:24">
+    <char style="add">[Judarna piskade trettionio slag för att ha en säkerhetsmarginal så att inte budet i <char style="xt"><ref loc="DEU 25:3">5 Mos 25:3</ref></char> överträddes.]</char><verse eid="2CO 11:24" /></para>
+  <para style="m">
+    <verse number="25" style="v" sid="2CO 11:25" />Tre gånger har jag blivit piskad med spö.</para>
+  <para style="m" vid="2CO 11:25">
+    <char style="add">[Detta var ett romerskt straff, ett tillfälle var i Filippi, se <char style="xt"><ref loc="ACT 16:23">Apg 16:23</ref></char>.]</char></para>
+  <para style="m" vid="2CO 11:25">En gång har jag blivit stenad.</para>
+  <para style="m" vid="2CO 11:25">
+    <char style="add">[Detta skedde i staden Lystra under Paulus första resa, se <char style="xt"><ref loc="ACT 14:19">Apg 14:19</ref></char>.]</char></para>
+  <para style="m" vid="2CO 11:25">Tre gånger har jag lidit skeppsbrott,</para>
+  <para style="p" vid="2CO 11:25">ett helt dygn har jag drivit på öppet hav.</para>
+  <para style="m" vid="2CO 11:25">
+    <char style="add">[Totalt var Paulus med om minst fyra skeppsbrott. Det fjärde sker efter att detta brev har skrivits när han är på väg till Rom, se <char style="xt"><ref loc="ACT 27:13-44">Apg 27:13-44</ref></char>.]</char><verse eid="2CO 11:25" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="26" style="v" sid="2CO 11:26" />Många gånger på mina resor har jag varit utsatt för:</para>
+  <para style="p" vid="2CO 11:26">faror på floder <char style="add">[troligen farliga vadställen på översvämmade floder]</char>,</para>
+  <para style="p" vid="2CO 11:26">faror bland rövare,</para>
+  <para style="p" vid="2CO 11:26">faror från <char style="add">[judiska]</char> landsmän,</para>
+  <para style="p" vid="2CO 11:26">faror från hedningar,</para>
+  <para style="p" vid="2CO 11:26">faror i städer,</para>
+  <para style="p" vid="2CO 11:26">faror i öknar,</para>
+  <para style="p" vid="2CO 11:26">faror på hav,</para>
+  <para style="p" vid="2CO 11:26">faror på grund av falska bröder.<verse eid="2CO 11:26" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="27" style="v" sid="2CO 11:27" />Allt <char style="add">[detta]</char> under möda och slit,</para>
+  <para style="p" vid="2CO 11:27">ofta under vaknätter,</para>
+  <para style="p" vid="2CO 11:27">ofta under hunger och törst,</para>
+  <para style="p" vid="2CO 11:27">ofta fastande,</para>
+  <para style="p" vid="2CO 11:27">ofta frusen och naken.<verse eid="2CO 11:27" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="28" style="v" sid="2CO 11:28" />Förutom allt annat <char style="add">[alla andra fysiska lidanden som Paulus inte nämnt i denna lista]</char>,</para>
+  <para style="p" vid="2CO 11:28">finns det dagliga ansvaret <char style="add">(pressen från alla håll)</char> och omsorgen om <char style="add">(oron för)</char> alla församlingarna.</para>
+  <para style="b" vid="2CO 11:28" />
+  <para style="m" vid="2CO 11:28">
+    <char style="add">[Paulus var en sann herde som kände med folket i församlingarna. Denna psykologiska press var minst lika svår att bära. I detta brev läser vi hur Paulus inte stannar i Troas, just på grund av oron över hur det gått för Titus och Paulus iver att få höra nyheter från Korint, se <char style="xt"><ref loc="2CO 2:12-13">2 Kor 2:12-13</ref></char>. Nu kommer två exempel:]</char><verse eid="2CO 11:28" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="29" style="v" sid="2CO 11:29" />Vem är svag</para>
+  <para style="p" vid="2CO 11:29">utan att jag blir svag?</para>
+  <para style="m" vid="2CO 11:29">Vem faller</para>
+  <para style="p" vid="2CO 11:29">utan att det bränner i mig?<verse eid="2CO 11:29" /></para>
+  <para style="b" />
+  <para style="m" />
+  <para style="s1">Guds kraft blir synlig i svaghet</para>
+  <para style="m">
+    <verse number="30" style="v" sid="2CO 11:30" />Om jag måste berömma mig, vill jag berömma mig av min svaghet. <char style="add">[Vilket visar på att det är Gud som verkat och han är den som får äran!]</char></para>
+  <para style="s2" vid="2CO 11:30">Nedfirad i en korg</para>
+  <para style="m" vid="2CO 11:30" />
+  <para style="m" vid="2CO 11:30">
+    <char style="add">[Inför nästa uttalande inleder Paulus med en ed där han åkallar Herrens namn. Det kan tyckas märkligt, eftersom det inte är någon stor bedrift han berömmer sig av, snarare tvärtom. Troligtvis är det ett retoriskt grepp som visar att det som nu följer är ironi. Även nästa exempel, som är motsatsen till att bli nedfirad i en korg, hör till samma kategori, som är en parodi på superapostlarnas hisnande berättelser, se vers 5.]</char><verse eid="2CO 11:30" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="31" style="v" sid="2CO 11:31" />Herren Jesu Gud och Far, välsignad i evighet, vet att jag inte ljuger: <verse eid="2CO 11:31" /><verse number="32" style="v" sid="2CO 11:32" />I Damaskus lät kung Aretas ståthållare bevaka staden för att gripa mig, <verse eid="2CO 11:32" /><verse number="33" style="v" sid="2CO 11:33" />och jag firades ner i en korg genom en öppning i muren och kom undan hans grepp.</para>
+  <para style="b" vid="2CO 11:33" />
+  <para style="m" vid="2CO 11:33">
+    <char style="add">[Denna händelse skedde tidigt i Paulus tjänst, se <char style="xt"><ref loc="ACT 9:23-25">Apg 9:23-25</ref></char>. Denna flykt från Damaskus i en korg var inget att skryta över, dock har den flera paralleller i Gamla testamentet. Josuas utsända spioner firades ner i ett rep av Rahab, se <char style="xt"><ref loc="JOS 2:15">Jos 2:15</ref></char>. David flydde från Sauls soldater genom ett fönster, se <char style="xt"><ref loc="1SA 19:12">1 Sam 19:12</ref></char>. Båda dessa händelser ledde dock till stora segrar, se <char style="xt"><ref loc="JOS 6:1-25">Jos 6:1-25</ref>; <ref loc="1SA 23:1-14">1 Sam 23:1-14</ref></char>. På samma sätt visade sig Paulus förödmjukande början bli startskottet på en världsvid väckelse för Guds rike.]</char><verse eid="2CO 11:33" /></para>
+  <chapter eid="2CO 11" />
+  <chapter number="12" style="c" sid="2CO 12" />
+  <para style="s2">Uppryckt till paradiset</para>
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 12:1" />Jag måste <char style="add">[motvilligt]</char> berömma mig, trots att det inte hjälper.</para>
+  <para style="b" vid="2CO 12:1" />
+  <para style="m" vid="2CO 12:1">
+    <char style="add">[Paulus påminner korintierna igen att det är galenskap att jämföra sig med varandra. Dock måste han göra det för att visa hur befängt hans rivaler i Korint agerat. Paulus fortsätter från ”en förödmjukande nedsänkning för att undkomma människor” i föregående verser till ”ett dramatiskt uppryckande till Guds tron”. De falska apostlarna verkar ha berättat hisnande historier om sina syner och drömmar som fängslat en del av korintierna. Visioner var en viktig del i den hedniska kulturen och det är möjligt att man hade kvar det tänkesättet. Paulus tvingas nu ta upp detta ämne. Dock får denna berättelse en snöplig upplösning; Paulus kan inte berätta någonting om upplevelserna i paradiset.]</char></para>
+  <para style="b" vid="2CO 12:1" />
+  <para style="m" vid="2CO 12:1">Nu kommer jag till syner och uppenbarelser från Herren. <verse eid="2CO 12:1" /><verse number="2" style="v" sid="2CO 12:2" />Jag vet en man som tillhör den Smorde <char style="add">(en människa som är i Kristus)</char> som för fjorton år sedan blev uppryckt ända till tredje himlen. Om det var i kroppen eller utanför kroppen vet jag inte, Gud vet.</para>
+  <para style="b" vid="2CO 12:2" />
+  <para style="m" vid="2CO 12:2">
+    <char style="add">[Paulus berättar i tredje person, men det är troligt att det handlar om honom, se <char style="xt"><ref loc="2CO 12:1">2 Kor 12:1</ref>, <ref loc="2CO 12:5">5</ref>, <ref loc="2CO 12:7">7</ref></char>. Anledningen kan vara att han såg sig själv i synen, eller att han inte vill berömma sig. Händelsen inträffade fjorton år tidigare någon gång omkring 42 e.Kr. Det var före missionsresorna som beskrivs i Apostlagärningarna då Paulus befann sig i Antiokia i Syrien, se <char style="xt"><ref loc="ACT 11:25-26">Apg 11:25-26</ref></char>.]</char><verse eid="2CO 12:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 12:3" />Jag vet att den mannen – om det var i kroppen eller utanför kroppen vet jag inte, Gud vet - <verse eid="2CO 12:3" /><verse number="4" style="v" sid="2CO 12:4" />blev uppryckt till paradiset och fick höra ord som ingen människa kan eller får uttala.</para>
+  <para style="b" vid="2CO 12:4" />
+  <para style="m" vid="2CO 12:4">
+    <char style="add">[Ordet ”paradiset” har persiskt ursprung och beskriver en anlagd trädgård eller park. Det är en rofylld och glädjerik plats och används i den grekiska översättningen av Gamla testamentet om Edens lustgård, se <char style="xt"><ref loc="GEN 2:8">1 Mos 2:8</ref></char>. Ordet används tre gånger i Nya testamentet. I <char style="xt"><ref loc="LUK 23:43">Luk 23:43</ref></char> beskriver det platsen efter döden för de rättfärdiga, och i <char style="xt"><ref loc="REV 2:7">Upp 2:7</ref></char> syftar det på det återupprättade Edens lustgård. Paradiset här är troligen en parallell till ”tredje himlen” i vers 2. Om den första himlen är luften och atmosfären kring jorden, och den andra universum, så refererar den tredje himlen till den plats där Gud bor. I judisk och utombiblisk litteratur finns sju himlar beskrivna, men det är inte troligt att Paulus skulle använda dessa referenser.]</char><verse eid="2CO 12:4" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 12:5" />Den mannen vill jag berömma mig av, men av mig själv vill jag inte berömma mig förutom mina svagheter.</para>
+  <para style="b" vid="2CO 12:5" />
+  <para style="m" vid="2CO 12:5">
+    <char style="add">[Dessa svagheter ”skröt” Paulus om i förra kapitlet, se <char style="xt"><ref loc="2CO 11:22-30">2 Kor 11:22-30</ref></char>. Paulus använder samma ord, ”svaghet”, när han beskriver hur han första gången kom till korintierna. Där syftar hans ”svaghet” på att han inte följde de dåtida filosofiska retoriska greppen. Anledningen var att deras tro inte skulle bygga på mänsklig visdom utan på Guds kraft, se <char style="xt"><ref loc="1CO 2:3-5">1 Kor 2:3-5</ref></char>.]</char><verse eid="2CO 12:5" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="6" style="v" sid="2CO 12:6" />Om jag ville berömma mig vore jag ändå ingen dåre, jag skulle bara säga sanningen. Men jag avstår, för att ingen ska tänka högre om mig än man gör när man ser eller hör mig.<verse eid="2CO 12:6" /></para>
+  <para style="s2">En tagg i mitt kött</para>
+  <para style="m">
+    <verse number="7" style="v" sid="2CO 12:7" />För att jag inte ska förhäva mig efter dessa väldiga uppenbarelser <char style="add">[som Paulus just beskrivit, se vers 1-6]</char> har jag fått en tagg <char style="add">(en vass påle)</char> i mitt kött <char style="add">(min kropp)</char>, en budbärare <char style="add">(ängel)</char> från Satan som ska slå mig <char style="add">(med knytnävsslag)</char>, så att jag inte förhäver mig.</para>
+  <para style="b" vid="2CO 12:7" />
+  <para style="m" vid="2CO 12:7">
+    <char style="add">[Uttrycket ”en tagg i mitt kött” talar inte bokstavligt om en tagg som gjorde ont och hindrade Paulus på hans resa. Det är en bild på något som var irriterande och besvärande för Paulus, som en tagg från en växt. Texten innehåller även fler bilder som gör det uppenbart att texten måste tolkas, en tagg kan inte slå med knytnävsslag. Det har spekulerats i allt från blindhet till någon dold synd. Ett vanligt antagande är att det var en fysisk sjukdom, men utifrån Paulus livsverk kan man fråga sig om en fysiskt svag person kunnat göra alla dessa resor. </char></para>
+  <para style="p" vid="2CO 12:7">
+    <char style="add">Uttrycket ”törntagg” används flera gånger i GT. Där refererar det alltid till människor som besvärade och plågade israeliterna, se <char style="xt"><ref loc="NUM 33:55">4 Mos 33:55</ref>; <ref loc="JOS 23:13">Jos 23:13</ref>; <ref loc="JDG 2:3">Dom 2:3</ref></char>. Föregående kapitel handlar om Paulus lidande, och tittar man närmare är detta lidande orsakat av människor. När Paulus i vers 8-10 ber Gud att ta bort denna ”svaghet”, används samma ord som beskrev förföljelsen i <char style="xt"><ref loc="2CO 11:30">2 Kor 11:30</ref></char>. Uttrycket ”en Satans budbärare” förklaras också i kapitlet innan. De falska apostlarna och oärliga arbetarna liknas vid förklädda budbärare från Satan, se <char style="xt"><ref loc="2CO 11:13-14">2 Kor 11:13-14</ref></char>. I <char style="xt"><ref loc="GAL 4:13-14">Gal 4:13-14</ref></char> där Paulus kom i ”kroppslig svaghet” till galaterna beskriver han hur de tog emot honom som ”en Guds budbärare”. Det kan referera till händelserna i Galatien som beskrivs i <char style="xt"><ref loc="ACT 14:19-21">Apg 14:19-21</ref></char>. I Lystra blev Paulus stenad av judar som följt efter honom. När han nästa dag gick till Derbe tog folket emot honom trots hans blåslagna ansikte och kropp. Paulus tagg i köttet skulle alltså kunna vara en eller flera personer som följde efter i hans fotspår och skapade misstro mot honom överallt där han predikade evangelium. I Apostlagärningarna återfinns genomgående detta mönster där Paulus förföljs av onda människor. När Paulus bad att Gud skulle ta bort denna ”svaghet” från honom, blir svaret att Guds nåd och kraft räcker. Paulus själv hade ju varit en som förföljde kristna. Gud verkar inte ta bort förföljelse, men han ger kraft till de troende mitt i lidandet! </char></para>
+  <para style="p" vid="2CO 12:7">
+    <char style="add">Ingen kan med säkerhet säga vad Paulus tagg i köttet var. Detta gör att troende i alla tider och kulturer kan läsa in sina egna plågor och besvär i texten och så få tro på att Guds kraft kan fullkomnas just i deras svaghet.]</char><verse eid="2CO 12:7" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="8" style="v" sid="2CO 12:8" />För denna saks skull vädjade jag tre gånger till Herren att den skulle lämna <char style="add">(dra sig bort från; ordagrant: avstå från) [låta bli]</char> mig. <char style="add">[Här finns en koppling till hur Jesus bad tre gånger i Getsemane, se <char style="xt"><ref loc="MRK 14:32-42">Mark 14:32-42</ref></char>.]</char> <verse eid="2CO 12:8" /><verse number="9" style="v" sid="2CO 12:9" />Men han har svarat mig:</para>
+  <para style="b" vid="2CO 12:9" />
+  <para style="m" vid="2CO 12:9">”Tillräcklig</para>
+  <para style="q1" vid="2CO 12:9">för dig</para>
+  <para style="q2" vid="2CO 12:9">är min nåd <char style="add">(favör)</char>,</para>
+  <para style="q2" vid="2CO 12:9">för kraften <char style="add">[min styrka]</char></para>
+  <para style="q1" vid="2CO 12:9">genom <char style="add">[din]</char> svaghet</para>
+  <para style="m" vid="2CO 12:9">fullkomnas <char style="add">[för kraften fullkomnas i din bräcklighet]</char>.”</para>
+  <para style="b" vid="2CO 12:9" />
+  <para style="m" vid="2CO 12:9">
+    <char style="add">[Ordföljden i grekiskan formar en kiasm som ramas in av orden tillräcklig och fullkomnas. Ordet ”dig” och ”genom/i svaghet” (Paulus otillräcklighet) leder in till de två centrala orden nåd och kraft! Frasen ”han har svarat” är i perfekt indikativ, vilket betyder att uttalandet fortfarande står fast och gäller. Detta är det enda citatet från Jesu ord i Paulus brev.]</char></para>
+  <para style="b" vid="2CO 12:9" />
+  <para style="m" vid="2CO 12:9">Därför vill jag, mer än gärna, hellre berömma mig av mina svagheter, för att den Smordes <char style="add">(Messias, Kristi)</char> kraft ska vila <char style="add">(tälta, ”tabernakla”)</char> över mig.<verse eid="2CO 12:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="2CO 12:10" />Därför gläder jag mig</para>
+  <para style="p" vid="2CO 12:10">i svaghet <char style="add">(svagheter)</char>,</para>
+  <para style="p" vid="2CO 12:10">i förolämpningar <char style="add">(förakt)</char>,</para>
+  <para style="p" vid="2CO 12:10">i nöd <char style="add">(tvingande omständigheter)</char>,</para>
+  <para style="p" vid="2CO 12:10">i förföljelser och svårigheter <char style="add">(trångmål, ångest, begränsningar, ”smala passager”)</char></para>
+  <para style="m" vid="2CO 12:10">för den Smordes <char style="add">(Kristi)</char> skull.</para>
+  <para style="b" vid="2CO 12:10" />
+  <para style="m" vid="2CO 12:10">
+    <char style="add">[Paulus svagheter var svårigheter som han utsattes för på grund av att han predikade evangelium. Denna uppräkning, där varje ord står i plural, är en sammanfattning av den mer detaljerade beskrivningen i <char style="xt"><ref loc="2CO 11:23-30">2 Kor 11:23-30</ref></char>.]</char></para>
+  <para style="b" vid="2CO 12:10" />
+  <para style="m" vid="2CO 12:10">
+    <char style="add">[Jag är vid gott mod i allt detta:]</char> För när jag är svag,</para>
+  <para style="p" vid="2CO 12:10">då är jag stark <char style="add">[när jag egentligen skulle vara svag, då – vid det tillfället – orkar jag alltid med]</char>.<verse eid="2CO 12:10" /></para>
+  <para style="s2">Tecken på en sann apostel</para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 12:11" />Jag har blivit en dåre. Ni har tvingat mig till det. Egentligen borde ni ha talat väl om mig. Jag är inte på något sätt underlägsen dessa ”superapostlar”, även om jag ingenting är. <verse eid="2CO 12:11" /><verse number="12" style="v" sid="2CO 12:12" />Det som kännetecknar en apostel har blivit utfört hos er med all uthållighet <char style="add">(ståndaktighet, tålamod) [karaktär som står fast även under prövningar]</char>:</para>
+  <para style="p" vid="2CO 12:12">genom tecken <char style="add">[gr. semeion, fokus är mer på en andlig princip och betydelsen än själva undret i sig]</char>,</para>
+  <para style="p" vid="2CO 12:12">under <char style="add">(ovanliga under som väcker förundran över Guds storhet)</char></para>
+  <para style="p" vid="2CO 12:12">och kraftgärningar <char style="add">(mirakler som bekräftar Guds makt)</char>.</para>
+  <para style="b" vid="2CO 12:12" />
+  <para style="m" vid="2CO 12:12">
+    <char style="add">[Vi vet inte exakt vilka tecken, under och kraftgärningar som skedde i Korint. Skulle Paulus nämna dem vore han inte bättre än sina motståndare. I Apostlagärningarna kan vi läsa hur Gud verkade genom honom vid andra tillfällen. I Lystra helades en förlamad man, se <char style="xt"><ref loc="ACT 14:8-10">Apg 14:8-10</ref></char>, och i Filippi befriades en slavflicka från en ond ande, se <char style="xt"><ref loc="ACT 16:16-18">Apg 16:16-18</ref></char>. Inte så långt efter att Paulus skriver detta brev uppväcks en ung man till livet i Troas, se <char style="xt"><ref loc="ACT 20:9-10">Apg 20:9-10</ref></char>.]</char><verse eid="2CO 12:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 12:13" />På vilket sätt blev ni sämre behandlade än de andra församlingarna, förutom att jag själv <char style="add">[till skillnad från de falska apostlarna]</char> inte låg er till last <char style="add">[genom att kräva finansiellt stöd]</char>? <char style="add">[Paulus avslutar nu ironiskt:]</char> Förlåt mig den oförrätten!</para>
+  <para style="s2" vid="2CO 12:13">Genuin kärlek till församlingen</para>
+  <para style="m" vid="2CO 12:13" />
+  <para style="m" vid="2CO 12:13">
+    <char style="add">[Ett tecken på en sann apostel är den genuina kärleken till församlingen. De troende utnyttjas inte och ses inte som potentiella understödjare för egna projekt och idéer.]</char><verse eid="2CO 12:13" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="14" style="v" sid="2CO 12:14" />Det är nu tredje gången jag är redo att komma till er, och jag ska inte ligga någon till last. Jag söker inte det som är ert, utan er själva. <char style="add">[Paulus liknar sig själv vid en förälder som älskar sina barn. Han har använt sig av liknande bilder förut när han undervisat och gett dem andlig mjölk i stället för fast föda, se <char style="xt"><ref loc="1CO 3:2">1 Kor 3:2</ref></char>.]</char></para>
+  <para style="b" vid="2CO 12:14" />
+  <para style="m" vid="2CO 12:14">Barnen är ju inte skyldiga att spara åt sina föräldrar,</para>
+  <para style="p" vid="2CO 12:14">utan föräldrarna åt sina barn.</para>
+  <para style="b" vid="2CO 12:14" />
+  <para style="m" vid="2CO 12:14">
+    <char style="add">[I den grekisk-romerska kulturen var det självklart att föräldrarna sparade åt sina barn. Som mottagare av livet och allt föräldrarna gav, förväntades barnen betala genom att ge tillbaka kärlek och respekt. Otacksamhet för givna gåvor ansågs vara en grov synd.]</char><verse eid="2CO 12:14" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="15" style="v" sid="2CO 12:15" />Jag ska med glädje offra allt och själv låta mig offras för era själars skull. Blir jag då mindre älskad för att jag älskar er så högt? <verse eid="2CO 12:15" /><verse number="16" style="v" sid="2CO 12:16" />Jag har alltså inte varit någon börda för er.</para>
+  <para style="b" vid="2CO 12:16" />
+  <para style="m" vid="2CO 12:16">
+    <char style="add">[Paulus hade aldrig begärt något materiellt stöd för egen del. Det verkar dock finnas rykten om att Paulus inte var ärlig med insamlingen till Jerusalem och kanske tog en del av medlen för egen del.]</char></para>
+  <para style="b" vid="2CO 12:16" />
+  <para style="m" vid="2CO 12:16">Men slug som jag är kanske jag har fångat er med list?<verse eid="2CO 12:16" /></para>
+  <para style="m">
+    <verse number="17" style="v" sid="2CO 12:17" />Har jag utnyttjat er genom någon av dem som jag sände till er?<verse eid="2CO 12:17" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="18" style="v" sid="2CO 12:18" />Jag bad Titus resa och sände en broder med honom.</para>
+  <para style="b" vid="2CO 12:18" />
+  <para style="m" vid="2CO 12:18">Har Titus utnyttjat er?</para>
+  <para style="m" vid="2CO 12:18">Har vi inte handlat i samma anda?</para>
+  <para style="m" vid="2CO 12:18">Har vi inte gått i samma fotspår?</para>
+  <para style="m" vid="2CO 12:18" />
+  <para style="s2" vid="2CO 12:18">Omvända roller</para>
+  <para style="m" vid="2CO 12:18" />
+  <para style="m" vid="2CO 12:18">
+    <char style="add">[Brevet liknar en rättegång där Paulus har blivit anklagad och får försvara sig. På en punkt skiljer sig den judiska rättsprocessen från den här tiden mot dagens rättegångar. Om det visade sig att den anklagade var oskyldig, kunde rollerna omedelbart bli ombytta. Den anklagade hade då rätt att anklaga dem som först hade gått emot honom.]</char><verse eid="2CO 12:18" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="19" style="v" sid="2CO 12:19" />Har ni hela tiden trott att vi försvarar oss <char style="add">(håller ett försvarstal)</char> inför er?</para>
+  <para style="b" vid="2CO 12:19" />
+  <para style="m" vid="2CO 12:19">Nej, vi talar inför Gud i den Smorde <char style="add">(Messias, Kristus) [i hans närvaro]</char>, och allt är till er uppbyggelse, mina älskade. <verse eid="2CO 12:19" /><verse number="20" style="v" sid="2CO 12:20" />För jag är rädd att jag inte ska finna er sådana som jag skulle önska när jag kommer, och att ni inte ska finna mig sådan som ni skulle önska. Jag är rädd att jag ska finna</para>
+  <para style="p" vid="2CO 12:20">stridigheter <char style="add">(grupperingar, gräl)</char>,</para>
+  <para style="p" vid="2CO 12:20">avund <char style="add">(viljan att få vad någon annan har, med den sjuka önskan att också den andre ska förlora vad den har)</char>,</para>
+  <para style="p" vid="2CO 12:20">okontrollerat temperament <char style="add">(ilska, vrede)</char>,</para>
+  <para style="p" vid="2CO 12:20">själviskhet <char style="add">(självupptagenhet)</char>,</para>
+  <para style="p" vid="2CO 12:20">förtal,</para>
+  <para style="p" vid="2CO 12:20">skvaller,</para>
+  <para style="p" vid="2CO 12:20">högmod <char style="add">(uppblåsthet, arrogans)</char></para>
+  <para style="p" vid="2CO 12:20">och oordning</para>
+  <para style="m" vid="2CO 12:20">bland er. <verse eid="2CO 12:20" /><verse number="21" style="v" sid="2CO 12:21" />Ja, jag är rädd att min Gud ska förödmjuka mig inför er när jag kommer tillbaka, och att jag måste sörja över många som tidigare har syndat och inte omvänt sig från den</para>
+  <para style="p" vid="2CO 12:21">orenhet <char style="add">(sexuell orenhet i tanke och handling, utsvävande liv, mer fokus på den moraliska orenheten än den fysiska akten)</char>,</para>
+  <para style="p" vid="2CO 12:21">sexuell lössläppthet <char style="add">(otukt)</char> och sensualitet <char style="add">(lösaktighet, egen njutningslystnad utan några moraliska gränser)</char>, som de tidigare har praktiserat <char style="add">(ägnat sig åt)</char>.<verse eid="2CO 12:21" /></para>
+  <chapter eid="2CO 12" />
+  <chapter number="13" style="c" sid="2CO 13" />
+  <para style="s1">Paulus tredje besök</para>
+  <para style="m" />
+  <para style="m">
+    <char style="add">[Paulus ger mycket av sin tid och energi till församlingen i Korint. Han grundade församlingen och var med dem i ett och halvt år. Senare gjorde han ett kortare smärtsamt andra besök och nu är han på väg till dem en tredje gång, se även <char style="xt"><ref loc="2CO 2:1">2 Kor 2:1</ref>; <ref loc="2CO 12:14">12:14</ref></char>. Däremellan har korintierna skrivit flera brev som Paulus besvarat. Detta brev är troligen det fjärde brevet som Paulus skriver till dem.]</char></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="2CO 13:1" />Det är nu tredje gången jag ska komma till er.</para>
+  <para style="b" vid="2CO 13:1" />
+  <para style="m" vid="2CO 13:1">Efter två eller tre vittnens ord</para>
+  <para style="p" vid="2CO 13:1">ska varje sak avgöras.</para>
+  <para style="b" vid="2CO 13:1" />
+  <para style="m" vid="2CO 13:1">
+    <char style="add">[Citat från <char style="xt"><ref loc="DEU 19:15">5 Mos 19:15</ref></char>. Samma vers citeras också i <char style="xt"><ref loc="MAT 18:16">Matt 18:16</ref></char> och <char style="xt"><ref loc="1TI 5:19">1 Tim 5:19</ref></char>. Användningen i dessa ställen, där en privat konflikt har blivit en allmän fråga för hela församlingen, indikerar att Paulus nu offentligt kommer att konfrontera dem som utger sig för att vara apostlar, men inte är det.]</char><verse eid="2CO 13:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="2CO 13:2" />När jag var hos er den andra gången varnade jag dem som syndade och alla andra, och nu när jag inte är hos er varnar jag er igen: När jag kommer tillbaka ska jag inte skona er.</para>
+  <para style="b" vid="2CO 13:2" />
+  <para style="m" vid="2CO 13:2">
+    <char style="add">[Paulus är tydlig med att han inte kommer att tolerera ryktesspridning och splittring i församlingen. Han hade varnat dem flera gånger och är det fortfarande stridigheter och synd kommer han att konfrontera dem som är involverade. De flesta som sår in splittring gör det i det fördolda. Vi vet inte vad som hände när Paulus väl kom till Korint. I <char style="xt"><ref loc="ACT 20:2-3">Apg 20:2-3</ref></char> framkommer att Paulus kom en tredje gång till Grekland, där Korint var huvudstaden, och stannade där i tre månader.]</char><verse eid="2CO 13:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="2CO 13:3" />Ni vill ju ha <char style="add">(kräver)</char> bevis på att den Smorde <char style="add">(Messias, Kristus)</char> talar genom mig.</para>
+  <para style="b" vid="2CO 13:3" />
+  <para style="m" vid="2CO 13:3">Han är inte svag mot er</para>
+  <para style="p" vid="2CO 13:3">utan mäktig <char style="add">(visar sin kraft)</char> bland er.<verse eid="2CO 13:3" /></para>
+  <para style="m">
+    <verse number="4" style="v" sid="2CO 13:4" />Han blev korsfäst i svaghet,</para>
+  <para style="p" vid="2CO 13:4">men lever genom Guds kraft.</para>
+  <para style="m" vid="2CO 13:4">Så är också vi svaga i honom,</para>
+  <para style="p" vid="2CO 13:4">men vi ska leva med honom</para>
+  <para style="p" vid="2CO 13:4">genom Guds kraft som ni ska få känna.<verse eid="2CO 13:4" /></para>
+  <para style="s1">Pröva er själva</para>
+  <para style="m">
+    <verse number="5" style="v" sid="2CO 13:5" />Utvärdera <char style="add">(granska, rannsaka)</char> er själva för att se om ni lever i tron <char style="add">(är i tro)</char>. Ja, pröva <char style="add">(verifiera äktheten hos)</char> er själva. Känner ni inte <char style="add">(utifrån en personlig erfarenhet och relation som hela tiden växer och utvecklas)</char> att Jesus den Smorde <char style="add">(Messias, Kristus)</char> är i er? Gör ni inte det, består ni inte provet. <verse eid="2CO 13:5" /><verse number="6" style="v" sid="2CO 13:6" />Vi hoppas ni ska förstå att vi inte är diskvalificerade <char style="add">[att vi bestått provet att vara ledare över er på rätt sätt]</char>.<verse eid="2CO 13:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="2CO 13:7" />Vi ber till Gud att ni inte ska göra fel <char style="add">(agera på ett ondskefullt sätt i någon detalj) [<char style="xt"><ref loc="ROM 12:20-21">Rom 12:20-21</ref></char>]</char>, inte för att det ska se ut som om vi klarar provet, utan för att ni ska göra det rätta <char style="add">(det som är ärofyllt)</char>, även om det ser ut som om vi inte skulle hålla måttet. <verse eid="2CO 13:7" /><verse number="8" style="v" sid="2CO 13:8" />Vi kan inte göra någonting <char style="add">(agera)</char> mot sanningen, bara för sanningen. <char style="add">[Evangeliet är sanningen. Det går att hindra och hålla ner sanningen med onda gärningar, men i slutändan vinner sanningen, se <char style="xt"><ref loc="ROM 1:18">Rom 1:18</ref></char>.]</char> <verse eid="2CO 13:8" /><verse number="9" style="v" sid="2CO 13:9" />Vi är glada när vi är svaga, och ni är starka. <char style="add">[Då behöver vi inte vara ”starka ledare” som måste tala skarpt och strängt för att bygga upp er.]</char> Just detta ber vi om, att ni blir helt fullkomnade <char style="add">(återupprättade, försonade med varandra, ordagrant en medicinsk term för att stadga ett brutet ben så att det läker ihop)</char>. <verse eid="2CO 13:9" /><verse number="10" style="v" sid="2CO 13:10" />Därför skriver jag detta innan jag kommer, för att inte behöva gå hårt fram hos er i kraft av den auktoritet som Herren har gett mig för att bygga upp, inte för att riva ner.<verse eid="2CO 13:10" /></para>
+  <para style="s1">Sluthälsningar</para>
+  <para style="m">
+    <verse number="11" style="v" sid="2CO 13:11" />Till sist, syskon <char style="add">(bröder och systrar i tron)</char>:</para>
+  <para style="p" vid="2CO 13:11">var glada,</para>
+  <para style="p" vid="2CO 13:11">bli upprättade <char style="add">(låt er upprättas, helas, som när ett trasigt nät lagas)</char>,</para>
+  <para style="p" vid="2CO 13:11">bli uppmuntrade <char style="add">(förmedla förståelse, undervisa, förmana)</char>,</para>
+  <para style="p" vid="2CO 13:11">var eniga <char style="add">(ha samma planer, mål)</char> och</para>
+  <para style="p" vid="2CO 13:11">lev i fred <char style="add">(harmoni, frid)</char>.</para>
+  <para style="m" vid="2CO 13:11">Då ska kärlekens och fridens Gud vara med er.<verse eid="2CO 13:11" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="12" style="v" sid="2CO 13:12" />Hälsa varandra med en helig kyss. <char style="add">[Ett uttryck för kärlek, förlåtelse och enhet, gr. philema. Kindkyssen var och är en vanlig hälsningsform i Medelhavsområdet.]</char></para>
+  <para style="b" vid="2CO 13:12" />
+  <para style="m" vid="2CO 13:12">Alla de heliga <char style="add">[här i Makedonien, troligen Filippi]</char> hälsar till er.<verse eid="2CO 13:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="2CO 13:13" />Vår Herre Jesu den Smordes <char style="add">(Kristi)</char> nåd,</para>
+  <para style="p" vid="2CO 13:13">Guds kärlek</para>
+  <para style="p" vid="2CO 13:13">och den helige Andes gemenskap</para>
+  <para style="q2" vid="2CO 13:13">vare med er alla.</para>
+  <para style="b" vid="2CO 13:13" />
+  <para style="m" vid="2CO 13:13">
+    <char style="add">[Den sista hälsningen nämner alla tre personerna i treenigheten utifrån deras roll i förhållande till den troende. Treenigheten innebär att det finns en Gud, och denne Gud existerar i tre ”personer” – Fadern, Sonen och Anden. De är åtskilda och samtidigt ett.]</char><verse eid="2CO 13:13" /></para>
+  <chapter eid="2CO 13" />
+</usx>

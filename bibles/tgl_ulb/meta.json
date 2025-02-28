@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "banal na Bibliya",
+        "local_abbrev": "",
+        "english": "Tagalog Bible",
+        "english_abbrev": "TB"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2018 Door43 World Missions Community",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tglulb"
+    },
+    "ids": {
+        "ebible": "tglulb"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tglulb_usfm.zip",
+        "updated": "2020-06-10",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

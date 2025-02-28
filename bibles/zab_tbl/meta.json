@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Xtiidx Dios cun ditsa",
+        "local_abbrev": "",
+        "english": "San Juan Guelavia Zapotec New Testament",
+        "english_abbrev": "SJGZ"
+    },
+    "year": 1995,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 1995 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=zabNT"
+    },
+    "ids": {
+        "ebible": "zabNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/zabNT_usfm.zip",
+        "updated": "2014-04-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Fulfulfe Burkina, Dewtere Laamɗo Amaana Keso",
+        "local_abbrev": "",
+        "english": "Fulfulde Burkina New Testament",
+        "english_abbrev": "FBNT"
+    },
+    "year": 2012,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2012 SIM International",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=fuhbkf"
+    },
+    "ids": {
+        "ebible": "fuhbkf"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/fuhbkf_usfm.zip",
+        "updated": "2014-10-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

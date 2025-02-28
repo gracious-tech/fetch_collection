@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Djesuwalaŋuwuy latjuꞌ dhäwuꞌ Markkuŋu wukirriwuy",
+        "local_abbrev": "",
+        "english": "Dhuwaya Bible Portions",
+        "english_abbrev": "DMA"
+    },
+    "year": 2019,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2019, 2023 Bible Society of Australia + Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=dwy"
+    },
+    "ids": {
+        "ebible": "dwy"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/dwy_usfm.zip",
+        "updated": "2024-07-29",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

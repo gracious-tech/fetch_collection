@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Bible Ni Thothup",
+        "local_abbrev": "",
+        "english": "Yapese Bible",
+        "english_abbrev": "BSM"
+    },
+    "year": 2007,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2007 Bible Society of Micronesia",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=yap"
+    },
+    "ids": {
+        "ebible": "yap"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/yap_usfm.zip",
+        "updated": "2017-12-21",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

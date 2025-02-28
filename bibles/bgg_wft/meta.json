@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Iwo Surua Mua Wie Pha Bible",
+        "local_abbrev": "",
+        "english": "Bugun Bible Translation",
+        "english_abbrev": "BUG"
+    },
+    "year": 2019,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=5a19af0cfc57ff3a"
+    },
+    "ids": {
+        "dbl": "5a19af0cfc57ff3a",
+        "ebible": "bgg"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=5a19af0cfc57ff3a&type=release",
+        "updated": "2023-04-05",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

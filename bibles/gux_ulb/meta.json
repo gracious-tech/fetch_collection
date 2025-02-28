@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Le Nouveau Testament en langue Gourmantche du Togo",
+        "local_abbrev": "",
+        "english": "Gourmantche New Testament",
+        "english_abbrev": "GNT"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 Door 43 world-wide mission community",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=guxg"
+    },
+    "ids": {
+        "ebible": "guxg"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/guxg_usfm.zip",
+        "updated": "2020-08-13",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

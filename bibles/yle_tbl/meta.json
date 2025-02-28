@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "NMÎ MÎ U KÓPU DYUU",
+        "local_abbrev": "",
+        "english": "Rossel New Testament",
+        "english_abbrev": "RNT"
+    },
+    "year": 1998,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1998 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=yle"
+    },
+    "ids": {
+        "ebible": "yle"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/yle_usfm.zip",
+        "updated": "2009-11-03",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

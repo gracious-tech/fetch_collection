@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Tataroha Diana i Sulie Aalaha Ikie a Jisas Kraes",
+        "local_abbrev": "",
+        "english": "Sa'a New Testament",
+        "english_abbrev": "SNT"
+    },
+    "year": 2005,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2005 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=apb"
+    },
+    "ids": {
+        "ebible": "apb"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/apb_usfm.zip",
+        "updated": "2023-04-22",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

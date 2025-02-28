@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "YAUBADA BONANA VEYAO IVAGUNA Bona Iduna",
+        "local_abbrev": "",
+        "english": "Iduna New Testament",
+        "english_abbrev": "INT"
+    },
+    "year": 2003,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1983, 2003 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=viv"
+    },
+    "ids": {
+        "ebible": "viv"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/viv_usfm.zip",
+        "updated": "2012-11-26",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

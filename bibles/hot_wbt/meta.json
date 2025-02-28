@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Wapômbêŋ Anêŋ Abô Matheŋ",
+        "local_abbrev": "",
+        "english": "Malei-Hote New Testament",
+        "english_abbrev": "MHNT"
+    },
+    "year": 2010,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2010 Wycliffe Bible Translators, Inc. and The Malê people",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=hot"
+    },
+    "ids": {
+        "ebible": "hot"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/hot_usfm.zip",
+        "updated": "2015-01-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

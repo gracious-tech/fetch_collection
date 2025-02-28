@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "God Wonana Kaoaobaisiyena",
+        "local_abbrev": "",
+        "english": "Are Bible",
+        "english_abbrev": "AB"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2011-2016 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=mwc"
+    },
+    "ids": {
+        "ebible": "mwc"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/mwc_usfm.zip",
+        "updated": "2012-01-19",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

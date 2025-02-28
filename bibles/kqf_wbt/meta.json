@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Giu visuvisuna",
+        "local_abbrev": "",
+        "english": "Kakabai Bible portions",
+        "english_abbrev": "KB"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2010-2023 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kqf"
+    },
+    "ids": {
+        "ebible": "kqf"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kqf_usfm.zip",
+        "updated": "2024-10-11",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

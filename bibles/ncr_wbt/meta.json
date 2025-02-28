@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Nchane New Testament",
+        "english_abbrev": "NNT"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=ce3f125d36c1f562"
+    },
+    "ids": {
+        "dbl": "ce3f125d36c1f562"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=ce3f125d36c1f562&type=release",
+        "updated": "2023-09-14",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

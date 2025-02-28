@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Baibala Hemolele",
+        "local_abbrev": "",
+        "english": "Hawaiian Bible (1868)",
+        "english_abbrev": "1868"
+    },
+    "year": 1868,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=haw1868"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=haw1868"
+    },
+    "ids": {
+        "ebible": "haw1868"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/haw1868_usfm.zip",
+        "updated": "2015-11-10",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

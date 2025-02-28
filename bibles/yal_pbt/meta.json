@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Kisin Kiraan Kitabuna",
+        "local_abbrev": "",
+        "english": "Yalunka Bible",
+        "english_abbrev": "UNKA"
+    },
+    "year": 2012,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=afe8f67d8ba9025c"
+    },
+    "ids": {
+        "dbl": "afe8f67d8ba9025c",
+        "ebible": "yal"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=afe8f67d8ba9025c&type=release",
+        "updated": "2022-05-03",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

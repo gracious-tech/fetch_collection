@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Nzuwulai n Sa'avu na̱ Tsishingini na̱ a̱ɗiva̱ a na a ɗangulai a Nzuwulai mu Ufaru",
+        "local_abbrev": "",
+        "english": "Tsishingini New Testament",
+        "english_abbrev": "TNT"
+    },
+    "year": 2011,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2011 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tswNT"
+    },
+    "ids": {
+        "ebible": "tswNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tswNT_usfm.zip",
+        "updated": "2019-08-09",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Wurkapm a Maur Wailen",
+        "local_abbrev": "",
+        "english": "Urim: Wurkapm a Maur Wailen Portions",
+        "english_abbrev": "UWMWP"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2016 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=uri"
+    },
+    "ids": {
+        "ebible": "uri"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/uri_usfm.zip",
+        "updated": "2021-07-12",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

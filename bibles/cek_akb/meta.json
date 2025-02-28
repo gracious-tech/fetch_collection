@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Asang Khongca Bible",
+        "local_abbrev": "",
+        "english": "Asang Khongca Bible",
+        "english_abbrev": "AKB"
+    },
+    "year": 2019,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=cekak"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=cekak"
+    },
+    "ids": {
+        "ebible": "cekak"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/cekak_usfm.zip",
+        "updated": "2020-09-24",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

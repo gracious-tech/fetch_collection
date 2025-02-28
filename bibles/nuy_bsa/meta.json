@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Ana-Maṉngulg Ana-Wubiba -- Anu-gadhuwa Ana-lhaawu",
+        "local_abbrev": "",
+        "english": "Wubuy Shorter Bible",
+        "english_abbrev": "WSB"
+    },
+    "year": 2010,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2010 Bible Society of Australia",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=nuy"
+    },
+    "ids": {
+        "ebible": "nuy"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/nuy_usfm.zip",
+        "updated": "2021-11-12",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

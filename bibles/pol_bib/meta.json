@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Słowo Życia, otwarty dostęp",
+        "local_abbrev": "",
+        "english": "Open Polish Living New Testament",
+        "english_abbrev": "OPL"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=fbb8b0e1943b417c"
+    },
+    "ids": {
+        "dbl": "fbb8b0e1943b417c",
+        "ebible": "polsz"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=fbb8b0e1943b417c&type=release",
+        "updated": "2024-05-02",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

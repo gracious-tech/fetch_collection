@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Fau Alanga'inga Faolu Ana Ala'anga Kwara'ae",
+        "local_abbrev": "",
+        "english": "Kwara'ae Bible",
+        "english_abbrev": "KB"
+    },
+    "year": 2003,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2003 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kwf"
+    },
+    "ids": {
+        "ebible": "kwf"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kwf_usfm.zip",
+        "updated": "2017-11-14",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

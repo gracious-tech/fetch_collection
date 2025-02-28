@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Baibol Tores Streit Yumplatok",
+        "local_abbrev": "",
+        "english": "Yumplatok Bible",
+        "english_abbrev": "YB"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2016 Wycliffe Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tcs"
+    },
+    "ids": {
+        "ebible": "tcs"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tcs_usfm.zip",
+        "updated": "2024-04-12",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Tetun Alkitab",
+        "local_abbrev": "",
+        "english": "Tetun Bible",
+        "english_abbrev": "TB"
+    },
+    "year": 2013,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2013 Unit Bahasa dan Budaya",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tet"
+    },
+    "ids": {
+        "ebible": "tet"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tet_usfm.zip",
+        "updated": "2022-03-11",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

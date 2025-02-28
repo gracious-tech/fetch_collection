@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Diosa' kiika; Génesis, Éxodo y El Nuevo Testamento",
+        "local_abbrev": "",
+        "english": "Chachi Bible",
+        "english_abbrev": "CB"
+    },
+    "year": 2008,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2008 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=cbiNTpo"
+    },
+    "ids": {
+        "ebible": "cbiNTpo"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/cbiNTpo_usfm.zip",
+        "updated": "2014-12-03",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

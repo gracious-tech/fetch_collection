@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "JINI WEN BΛ T'AN",
+        "local_abbrev": "",
+        "english": "Chol de Tila Bible",
+        "english_abbrev": "CTI"
+    },
+    "year": 2008,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2008 La Liga Bíblica",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ctucti"
+    },
+    "ids": {
+        "ebible": "ctucti"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ctucti_usfm.zip",
+        "updated": "2016-06-08",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

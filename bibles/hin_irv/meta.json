@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "इंडियन रिवाइज्ड वर्जन - हिंदी",
+        "local_abbrev": "",
+        "english": "Indian Revised Version - Hindi",
+        "english_abbrev": "IRVHin"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Bridge Connectivity Solutions Pvt. Ltd.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=1e8ab327edbce67f"
+    },
+    "ids": {
+        "dbl": "1e8ab327edbce67f",
+        "ebible": "hin2017"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=1e8ab327edbce67f&type=release",
+        "updated": "2022-04-13",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

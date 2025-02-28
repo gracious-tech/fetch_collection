@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Tinaung Takluem",
+        "local_abbrev": "",
+        "english": "Siyin Chin New Testament",
+        "english_abbrev": "SKB"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 Siyin KJV Bible Team",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=csy"
+    },
+    "ids": {
+        "ebible": "csy"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/csy_usfm.zip",
+        "updated": "2020-12-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Douay-Rheims American Edition (1899)",
+        "local_abbrev": "DRAE",
+        "english": "Douay-Rheims American Edition (1899)",
+        "english_abbrev": "DRAE"
+    },
+    "year": 1899,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=engDRA"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engDRA"
+    },
+    "ids": {
+        "ebible": "engDRA"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engDRA_usfm.zip",
+        "updated": "2022-11-03",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

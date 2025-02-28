@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Thiên Ban Kinh Thánh Hiện Đại",
+        "local_abbrev": "KTHĐ",
+        "english": "Open Vietnamese Contemporary Bible",
+        "english_abbrev": "OVCB"
+    },
+    "year": 2015,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=5cc7093967a0a392"
+    },
+    "ids": {
+        "dbl": "5cc7093967a0a392",
+        "ebible": "vieovcb"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=5cc7093967a0a392&type=release",
+        "updated": "2021-04-30",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

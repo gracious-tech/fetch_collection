@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Unlocked Literal Bible",
+        "local_abbrev": "ULB",
+        "english": "Unlocked Literal Bible",
+        "english_abbrev": "ULB"
+    },
+    "year": 2017,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2017 Door43 World Missions Community",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engULB"
+    },
+    "ids": {
+        "ebible": "engULB"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engULB_usfm.zip",
+        "updated": "2020-12-04",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

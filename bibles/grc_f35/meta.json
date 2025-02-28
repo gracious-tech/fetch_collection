@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Greek New Testament according to Family 35",
+        "english_abbrev": "F35"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 Wilbur N. Pickering",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=grcf35"
+    },
+    "ids": {
+        "ebible": "grcf35"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/grcf35_usfm.zip",
+        "updated": "2024-11-07",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Ka꞉dle Yu",
+        "local_abbrev": "",
+        "english": "Kamula Bible",
+        "english_abbrev": "KB"
+    },
+    "year": 2005,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2005 The Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=xla"
+    },
+    "ids": {
+        "ebible": "xla"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/xla_usfm.zip",
+        "updated": "2012-01-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

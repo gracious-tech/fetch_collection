@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "George Noyes Bible (1869)",
+        "local_abbrev": "NOY",
+        "english": "George Noyes Bible (1869)",
+        "english_abbrev": "NOY"
+    },
+    "year": 1869,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=engnoy"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engnoy"
+    },
+    "ids": {
+        "ebible": "engnoy"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engnoy_usfm.zip",
+        "updated": "2019-10-24",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

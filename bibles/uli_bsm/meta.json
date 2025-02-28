@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Bogtag we ye Tefoy",
+        "local_abbrev": "",
+        "english": "Ulithian New Testament",
+        "english_abbrev": "BSM"
+    },
+    "year": 1995,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1995 Bible Society of Micronesia",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=uli"
+    },
+    "ids": {
+        "ebible": "uli"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/uli_usfm.zip",
+        "updated": "2023-10-19",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

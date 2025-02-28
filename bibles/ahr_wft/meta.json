@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "प्रेम संदेश",
+        "local_abbrev": "",
+        "english": "Ahirani New Testament",
+        "english_abbrev": "NTAII"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=472735b48a27b402"
+    },
+    "ids": {
+        "dbl": "472735b48a27b402",
+        "ebible": "ahr"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=472735b48a27b402&type=release",
+        "updated": "2020-10-27",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

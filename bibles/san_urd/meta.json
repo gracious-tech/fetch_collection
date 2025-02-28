@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Sanskrit Bible in Urdu Script",
+        "english_abbrev": "SBUrdu"
+    },
+    "year": 2018,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "SanskritBible.in",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=51b16e0b4b7c9825"
+    },
+    "ids": {
+        "dbl": "51b16e0b4b7c9825",
+        "ebible": "sanurd"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=51b16e0b4b7c9825&type=release",
+        "updated": "2018-09-27",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

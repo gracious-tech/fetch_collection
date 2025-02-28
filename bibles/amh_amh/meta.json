@@ -1,0 +1,36 @@
+{
+    "name": {
+        "local": "መጽሐፍ ቅዱስ",
+        "local_abbrev": "",
+        "english": "Amharic New Testament",
+        "english_abbrev": "AMH"
+    },
+    "year": 2003,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [{
+            "license": {
+                "forbid_attributionless": true,
+                "forbid_derivatives": true,
+                "forbid_commercial": true,
+                "forbid_limitless": false,
+                "forbid_other": false
+            },
+            "url": "https://ebible.org/Scriptures/details.php?id=amh"
+        }],
+        "attribution": "Copyright © 1962, 2003 United Bible Societies",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=amh"
+    },
+    "ids": {
+        "ebible": "amh"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/amh_usfm.zip",
+        "updated": "2014-09-09",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

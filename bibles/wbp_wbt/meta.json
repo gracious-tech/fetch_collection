@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Warlpiri Bible",
+        "english_abbrev": "WB"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2014 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=wbp"
+    },
+    "ids": {
+        "ebible": "wbp"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/wbp_usfm.zip",
+        "updated": "2024-07-01",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

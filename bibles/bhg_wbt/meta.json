@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "God da Ge Wasiride",
+        "local_abbrev": "",
+        "english": "Binandere New Testament",
+        "english_abbrev": "BNT"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2014-2021 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=bhg"
+    },
+    "ids": {
+        "ebible": "bhg"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/bhg_usfm.zip",
+        "updated": "2021-05-31",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

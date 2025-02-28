@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Nyangumarta English Bible",
+        "local_abbrev": "NEB",
+        "english": "Nyangumarta English Bible",
+        "english_abbrev": "NEB"
+    },
+    "year": 2010,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1980-2010 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engnna"
+    },
+    "ids": {
+        "ebible": "engnna"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engnna_usfm.zip",
+        "updated": "2020-12-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": ["niche"]
+}

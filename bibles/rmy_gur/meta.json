@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Lačho lafi taro Luka",
+        "local_abbrev": "",
+        "english": "Gurbet Luke",
+        "english_abbrev": "GL"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2018 Pioneers",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=rmyGurbet"
+    },
+    "ids": {
+        "ebible": "rmyGurbet"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/rmyGurbet_usfm.zip",
+        "updated": "2024-12-18",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

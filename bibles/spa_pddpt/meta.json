@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Palabra de Dios para ti",
+        "local_abbrev": "PdDpt",
+        "english": "Spanish Bible (God's Word for You)",
+        "english_abbrev": ""
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ],
+        "attribution": "Latinamerican Textual Bible Foundation Inc",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=48acedcf8595c754"
+    },
+    "ids": {
+        "dbl": "48acedcf8595c754",
+        "ebible": "spapddpt"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=48acedcf8595c754&type=release",
+        "updated": "2024-04-09",
+        "revision": 8
+    },
+    "literalness": null,
+    "tags": []
+}

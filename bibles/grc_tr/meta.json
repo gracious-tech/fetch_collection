@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Textus Receptus (collated from editions from 1550, 1624, and 1881)",
+        "english_abbrev": "TR"
+    },
+    "year": 1881,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=grctr"
+            }
+        ],
+        "attribution": "Robert Adam Boyd",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=grctr"
+    },
+    "ids": {
+        "ebible": "grctr"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/grctr_usfm.zip",
+        "updated": "2024-11-07",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

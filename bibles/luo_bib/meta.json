@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Ochiw Thuolo Motingʼo Loko Manyien",
+        "local_abbrev": "",
+        "english": "Open New Luo Translation",
+        "english_abbrev": "ONLT"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=4d4df8722134c5ee"
+    },
+    "ids": {
+        "dbl": "4d4df8722134c5ee",
+        "ebible": "luo"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=4d4df8722134c5ee&type=release",
+        "updated": "2022-01-07",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

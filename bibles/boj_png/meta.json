@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Yesus Aqa Anjam Bole (2000)",
+        "local_abbrev": "",
+        "english": "Anjam New Testament (2000)",
+        "english_abbrev": "ANT"
+    },
+    "year": 2000,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2000 The Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=boj"
+    },
+    "ids": {
+        "ebible": "boj"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/boj_usfm.zip",
+        "updated": "2001-01-01",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

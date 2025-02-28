@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Chimpoto",
+        "local_abbrev": "",
+        "english": "The New Testament in Mpoto",
+        "english_abbrev": "NTMPBL"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=7e4317b668bc7a70"
+    },
+    "ids": {
+        "dbl": "7e4317b668bc7a70"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=7e4317b668bc7a70&type=release",
+        "updated": "2024-08-30",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

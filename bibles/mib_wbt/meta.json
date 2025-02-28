@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Nuevo Testamento en mixteco",
+        "local_abbrev": "",
+        "english": "Atatlahuca Mixtec New Testament",
+        "english_abbrev": "AM"
+    },
+    "year": 1973,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 1973 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=mibNT"
+    },
+    "ids": {
+        "ebible": "mibNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/mibNT_usfm.zip",
+        "updated": "2014-04-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

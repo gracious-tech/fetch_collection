@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "ITOU NOMO HILOU BEELE",
+        "local_abbrev": "",
+        "english": "Ogea New Testament",
+        "english_abbrev": "ONT"
+    },
+    "year": 2013,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2013 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=eri"
+    },
+    "ids": {
+        "ebible": "eri"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/eri_usfm.zip",
+        "updated": "2016-12-01",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

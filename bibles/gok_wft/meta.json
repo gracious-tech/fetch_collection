@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "ದೆವಾಚಿ ಖರಿ ಕಬರ್",
+        "local_abbrev": "",
+        "english": "Gawli Marathi Bible",
+        "english_abbrev": "GMB"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=28d256cb603137cd"
+    },
+    "ids": {
+        "dbl": "28d256cb603137cd"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=28d256cb603137cd&type=release",
+        "updated": "2023-08-28",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

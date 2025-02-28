@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Alafuuna Fa'alu Ala Saena 'I Wala",
+        "local_abbrev": "",
+        "english": "Wala New Testament",
+        "english_abbrev": "WNT"
+    },
+    "year": 2008,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2008 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=lgl"
+    },
+    "ids": {
+        "ebible": "lgl"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/lgl_usfm.zip",
+        "updated": "2017-11-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

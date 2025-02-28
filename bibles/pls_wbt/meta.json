@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Tti jian joajné Jesucristo",
+        "local_abbrev": "",
+        "english": "San Marcos Tlalcoyalco Popoloca New Testament",
+        "english_abbrev": "SMTPN"
+    },
+    "year": 1982,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 1982 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=plsNT"
+    },
+    "ids": {
+        "ebible": "plsNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/plsNT_usfm.zip",
+        "updated": "2018-11-16",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

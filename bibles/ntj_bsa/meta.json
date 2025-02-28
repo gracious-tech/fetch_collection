@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Mama Kuurrku Wangka",
+        "local_abbrev": "",
+        "english": "Ngaanyatjarra Shorter Bible",
+        "english_abbrev": "NSB"
+    },
+    "year": 2007,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2007 Bible Society of Australia",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ntj"
+    },
+    "ids": {
+        "ebible": "ntj"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ntj_usfm.zip",
+        "updated": "2021-11-12",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

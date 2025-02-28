@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Sei di Uka Ago Ruaka",
+        "local_abbrev": "",
+        "english": "Doromu-Koki Bible",
+        "english_abbrev": "DKB"
+    },
+    "year": 2013,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2011-2016 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kqc"
+    },
+    "ids": {
+        "ebible": "kqc"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kqc_usfm.zip",
+        "updated": "2017-03-15",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Lilangano lya Sambano",
+        "local_abbrev": "",
+        "english": "Yao Bible Version",
+        "english_abbrev": "YNT"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=6fc8bb188318063d"
+    },
+    "ids": {
+        "dbl": "6fc8bb188318063d",
+        "ebible": "yao"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=6fc8bb188318063d&type=release",
+        "updated": "2020-03-10",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

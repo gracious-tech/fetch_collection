@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "परमेश्वरला बचन छार कबुल",
+        "local_abbrev": "",
+        "english": "Eastern Tamang New Testament",
+        "english_abbrev": "ETNT"
+    },
+    "year": 2011,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2011 Eastern Tamang Language Team",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=taj"
+    },
+    "ids": {
+        "ebible": "taj"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/taj_usfm.zip",
+        "updated": "2015-03-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

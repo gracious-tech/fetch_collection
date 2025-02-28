@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Opna Lifandi Orð Nýja testamentið og Sálmarnir",
+        "local_abbrev": "OLO",
+        "english": "Open Icelandic Living New Testament and Psalms",
+        "english_abbrev": ""
+    },
+    "year": 1995,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=e4581313051f2861"
+    },
+    "ids": {
+        "dbl": "e4581313051f2861",
+        "ebible": "isl"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=e4581313051f2861&type=release",
+        "updated": "2024-04-30",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

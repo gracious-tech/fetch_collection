@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Nyitott Újszövetség: élet, igazság és világosság",
+        "local_abbrev": "NEIV",
+        "english": "Open Hungarian New Testament",
+        "english_abbrev": ""
+    },
+    "year": 2015,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=fcfc25677b0a53c9"
+    },
+    "ids": {
+        "dbl": "fcfc25677b0a53c9",
+        "ebible": "hun"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=fcfc25677b0a53c9&type=release",
+        "updated": "2024-04-30",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

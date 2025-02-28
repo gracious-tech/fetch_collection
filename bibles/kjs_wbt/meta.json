@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Gotena Epe Agale",
+        "local_abbrev": "",
+        "english": "East Kewa New Testament",
+        "english_abbrev": "EKNT"
+    },
+    "year": 2004,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2004 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kjs"
+    },
+    "ids": {
+        "ebible": "kjs"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kjs_usfm.zip",
+        "updated": "2012-01-18",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

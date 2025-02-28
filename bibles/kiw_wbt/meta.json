@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Pai meai Ruka-ro iꞌati emerai-ka",
+        "local_abbrev": "",
+        "english": "Kope Luke",
+        "english_abbrev": "KL"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2022 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kiw"
+    },
+    "ids": {
+        "ebible": "kiw"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kiw_usfm.zip",
+        "updated": "2023-07-05",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

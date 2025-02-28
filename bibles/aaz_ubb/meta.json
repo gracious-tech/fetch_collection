@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Uisneno In Kabin ma Prenat: Rais Manba'an Fe'u nok Reta' Ahun-hunut",
+        "local_abbrev": "",
+        "english": "Amarasi Bible",
+        "english_abbrev": "AB"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1999-2014 Unit Bahasa dan Budaya, Kupang NTT, Indonesia",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=aaz"
+    },
+    "ids": {
+        "ebible": "aaz"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/aaz_usfm.zip",
+        "updated": "2022-03-11",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

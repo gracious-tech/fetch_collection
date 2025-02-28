@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Gotna Kudi",
+        "local_abbrev": "",
+        "english": "Ambulas Maprik New Testament",
+        "english_abbrev": "MAP"
+    },
+    "year": 1983,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1983 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=abt-maprik"
+    },
+    "ids": {
+        "ebible": "abt-maprik"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/abt-maprik_usfm.zip",
+        "updated": "2013-01-04",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

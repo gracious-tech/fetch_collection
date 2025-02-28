@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "La Biblia en Español Sencillo",
+        "local_abbrev": "",
+        "english": "The Holy Bible in Simple Spanish",
+        "english_abbrev": "SS"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2018, 2019 AudioBiblia.org /Irma Flores",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=spabes"
+    },
+    "ids": {
+        "ebible": "spabes"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/spabes_usfm.zip",
+        "updated": "2024-12-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

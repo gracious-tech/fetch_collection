@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Alkitab Terjemahan Sederhana Indonesia, Edisi Ketiga",
+        "local_abbrev": "",
+        "english": "Indonesian TSI Bible",
+        "english_abbrev": "TSI"
+    },
+    "year": 2015,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2021 oleh Yayasan Alkitab BahasaKita (Albata)",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ind"
+    },
+    "ids": {
+        "ebible": "ind"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ind_usfm.zip",
+        "updated": "2023-11-24",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

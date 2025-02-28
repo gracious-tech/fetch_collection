@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Se aɖeke mebla Biblia zazã o Agbenya La",
+        "local_abbrev": "OAL",
+        "english": "Open Ewe Contemporary Scriptures",
+        "english_abbrev": "OECS"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=ac90bfebd4ee9c4d"
+    },
+    "ids": {
+        "dbl": "ac90bfebd4ee9c4d",
+        "ebible": "ewe"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=ac90bfebd4ee9c4d&type=release",
+        "updated": "2024-04-30",
+        "revision": 5
+    },
+    "literalness": null,
+    "tags": []
+}

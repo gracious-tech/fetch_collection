@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Vwanji Bible",
+        "local_abbrev": "",
+        "english": "Vwanji New Testament",
+        "english_abbrev": "VNT"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 Door43 World Mission Community",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=wbi"
+    },
+    "ids": {
+        "ebible": "wbi"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/wbi_usfm.zip",
+        "updated": "2020-11-10",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

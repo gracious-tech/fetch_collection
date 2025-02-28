@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Diiloŋ-nelma Tobisĩfɛlɛnni",
+        "local_abbrev": "",
+        "english": "New Testament in Cerma",
+        "english_abbrev": "NTW"
+    },
+    "year": 2011,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2011 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=cmeNT"
+    },
+    "ids": {
+        "ebible": "cmeNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/cmeNT_usfm.zip",
+        "updated": "2014-04-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

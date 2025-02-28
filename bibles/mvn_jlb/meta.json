@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Awaeha Vovouna Minaveha Movia",
+        "local_abbrev": "",
+        "english": "Minaveha New Testament",
+        "english_abbrev": "JLB"
+    },
+    "year": 2008,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2008 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=mvn"
+    },
+    "ids": {
+        "ebible": "mvn"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/mvn_usfm.zip",
+        "updated": "2018-04-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

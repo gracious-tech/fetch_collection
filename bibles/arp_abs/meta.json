@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Hethadenee waunauyaunee vadan Luke Vanenāna",
+        "local_abbrev": "",
+        "english": "Arapaho Luke",
+        "english_abbrev": "ABS"
+    },
+    "year": 1903,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=arp"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=arp"
+    },
+    "ids": {
+        "ebible": "arp"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/arp_usfm.zip",
+        "updated": "2015-05-06",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

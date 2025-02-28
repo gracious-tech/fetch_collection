@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Kote New Testament",
+        "local_abbrev": "",
+        "english": "Kote Bible",
+        "english_abbrev": "KB"
+    },
+    "year": 2008,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2005-2008 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=eko"
+    },
+    "ids": {
+        "ebible": "eko"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/eko_usfm.zip",
+        "updated": "2016-06-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

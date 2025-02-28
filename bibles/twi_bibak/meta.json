@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Wonhia ɛho kwamma nhoma Akuapem Twi Nkwa Asɛm",
+        "local_abbrev": "WAKNA",
+        "english": "Open Akuapem Twi Contemporary Bible",
+        "english_abbrev": "OAKCB"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=b6aee081108c0bc6"
+    },
+    "ids": {
+        "dbl": "b6aee081108c0bc6",
+        "ebible": "twi"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=b6aee081108c0bc6&type=release",
+        "updated": "2024-04-26",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

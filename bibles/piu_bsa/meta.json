@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Luritja Bible",
+        "english_abbrev": "LB"
+    },
+    "year": 2006,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2006 Bible Society of Australia",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=piu2006"
+    },
+    "ids": {
+        "ebible": "piu2006"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/piu2006_usfm.zip",
+        "updated": "2020-01-06",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

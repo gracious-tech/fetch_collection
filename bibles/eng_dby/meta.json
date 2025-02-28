@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Darby Translation (1884)",
+        "local_abbrev": "DBY",
+        "english": "Darby Translation (1884)",
+        "english_abbrev": "DBY"
+    },
+    "year": 1884,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=engDBY"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engDBY"
+    },
+    "ids": {
+        "ebible": "engDBY"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engDBY_usfm.zip",
+        "updated": "2019-11-15",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

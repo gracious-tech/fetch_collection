@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "O evanđelje e Lukasoro",
+        "local_abbrev": "",
+        "english": "Arli Luke",
+        "english_abbrev": "AL"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2018 anonymous",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=rmyArli"
+    },
+    "ids": {
+        "ebible": "rmyArli"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/rmyArli_usfm.zip",
+        "updated": "2024-12-18",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

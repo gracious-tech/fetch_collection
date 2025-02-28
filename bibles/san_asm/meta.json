@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Sanskrit Bible in Assamese Script",
+        "english_abbrev": "SBAsm"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "SanskritBible.in",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=bb3df4b7c8587c77"
+    },
+    "ids": {
+        "dbl": "bb3df4b7c8587c77",
+        "ebible": "sanasm"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=bb3df4b7c8587c77&type=release",
+        "updated": "2018-09-26",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

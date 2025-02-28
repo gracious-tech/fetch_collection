@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Mi Namani Tino",
+        "local_abbrev": "",
+        "english": "Mandara Bible",
+        "english_abbrev": "MAN"
+    },
+    "year": 2008,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2008 Wycliffe Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tbf"
+    },
+    "ids": {
+        "ebible": "tbf"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tbf_usfm.zip",
+        "updated": "2023-04-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

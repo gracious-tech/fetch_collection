@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Got Nga Nambuha Ik Kai",
+        "local_abbrev": "",
+        "english": "Melpa New Testament",
+        "english_abbrev": "MNT"
+    },
+    "year": 1995,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1995 The Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=med"
+    },
+    "ids": {
+        "ebible": "med"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/med_usfm.zip",
+        "updated": "2012-10-18",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

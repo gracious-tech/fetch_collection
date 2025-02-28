@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Textbibel von Kautzsch und Weizsäcker (1906)",
+        "local_abbrev": "",
+        "english": "Translation by Kautzsch and Weizsacker (1906)",
+        "english_abbrev": "TKW"
+    },
+    "year": 1906,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=deutkw"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=deutkw"
+    },
+    "ids": {
+        "ebible": "deutkw"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/deutkw_usfm.zip",
+        "updated": "2018-12-19",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

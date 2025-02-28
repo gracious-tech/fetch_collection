@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Parmeswar ke naawa poestak",
+        "local_abbrev": "",
+        "english": "Caribbean Hindustani New Testament",
+        "english_abbrev": "CHNT"
+    },
+    "year": 2010,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2010 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=hnsNT"
+    },
+    "ids": {
+        "ebible": "hnsNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/hnsNT_usfm.zip",
+        "updated": "2014-04-25",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

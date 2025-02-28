@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "ጌኤዦ ማፃኣፖ",
+        "local_abbrev": "ጌኤ.ማፃ",
+        "english": "MAALE Bible",
+        "english_abbrev": "MB"
+    },
+    "year": 2015,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Bible Society of Ethiopia",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=385573d4ba3ff72a"
+    },
+    "ids": {
+        "dbl": "385573d4ba3ff72a",
+        "ebible": "mdyeth"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=385573d4ba3ff72a&type=release",
+        "updated": "2022-09-27",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

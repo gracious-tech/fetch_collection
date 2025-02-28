@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "ŎKHS' I TSĬN IK SĬN NI ST. MATTHEW OT SĬN AI PI.",
+        "local_abbrev": "",
+        "english": "Blackfoot Matthew",
+        "english_abbrev": "CMS"
+    },
+    "year": 1890,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=bla"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=bla"
+    },
+    "ids": {
+        "ebible": "bla"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/bla_usfm.zip",
+        "updated": "2017-10-09",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "RIBA HARIHARIUNA",
+        "local_abbrev": "",
+        "english": "Suau Bible",
+        "english_abbrev": "SB"
+    },
+    "year": 1998,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1998 The Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=swp"
+    },
+    "ids": {
+        "ebible": "swp"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/swp_usfm.zip",
+        "updated": "2013-08-19",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

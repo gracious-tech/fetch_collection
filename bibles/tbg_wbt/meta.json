@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Kotira Uva",
+        "local_abbrev": "",
+        "english": "North Tairora",
+        "english_abbrev": "NT"
+    },
+    "year": 2009,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1979, 1994, 2005, 2008, 2009, 2012 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tbg"
+    },
+    "ids": {
+        "ebible": "tbg"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tbg_usfm.zip",
+        "updated": "2021-05-26",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

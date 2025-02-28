@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Glavda New Testament Portion",
+        "english_abbrev": "GNT"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=e3f3c722ead9ea74"
+    },
+    "ids": {
+        "dbl": "e3f3c722ead9ea74"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=e3f3c722ead9ea74&type=release",
+        "updated": "2024-11-27",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

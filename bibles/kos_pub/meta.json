@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "BIBLE MUTAL",
+        "local_abbrev": "",
+        "english": "Kosraean Bible",
+        "english_abbrev": "PUB"
+    },
+    "year": 1928,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=kos"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kos"
+    },
+    "ids": {
+        "ebible": "kos"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kos_usfm.zip",
+        "updated": "2024-02-09",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Maale New Testament",
+        "english_abbrev": "MNT"
+    },
+    "year": 2007,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Bible Society of Ethiopia",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=bed82ba57f117c16"
+    },
+    "ids": {
+        "dbl": "bed82ba57f117c16"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=bed82ba57f117c16&type=release",
+        "updated": "2019-08-06",
+        "revision": 5
+    },
+    "literalness": null,
+    "tags": []
+}

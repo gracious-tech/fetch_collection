@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Takwane do Novo Testamento",
+        "local_abbrev": "",
+        "english": "Takwane New Testament",
+        "english_abbrev": "TNT"
+    },
+    "year": 2009,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2007-2009 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tke"
+    },
+    "ids": {
+        "ebible": "tke"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tke_usfm.zip",
+        "updated": "2016-06-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

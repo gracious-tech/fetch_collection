@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "बघल्याणी  नवां विधान",
+        "local_abbrev": "",
+        "english": "Baghlayani New Testament",
+        "english_abbrev": "BGHNT"
+    },
+    "year": 2021,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Love Fellowship",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=e051b4f945d52400"
+    },
+    "ids": {
+        "dbl": "e051b4f945d52400",
+        "ebible": "bfz"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=e051b4f945d52400&type=release",
+        "updated": "2021-05-25",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

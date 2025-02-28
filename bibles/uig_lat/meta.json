@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Muqeddes Kalam (latin yéziq)",
+        "local_abbrev": "",
+        "english": "Uyghur Bible (modern latin script)",
+        "english_abbrev": "LAT"
+    },
+    "year": 2010,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2010 Mukeddes Kalam - Uyghur Bible Translation Committee",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=uiglat"
+    },
+    "ids": {
+        "ebible": "uiglat"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/uiglat_usfm.zip",
+        "updated": "2021-09-11",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

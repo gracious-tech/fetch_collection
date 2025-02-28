@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Nkomine Fal Ritɛlɛ́",
+        "local_abbrev": "",
+        "english": "Sola New Testament",
+        "english_abbrev": "SNT"
+    },
+    "year": 2010,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2010 UEEB/SIM au Benin",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=soy"
+    },
+    "ids": {
+        "ebible": "soy"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/soy_usfm.zip",
+        "updated": "2014-10-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

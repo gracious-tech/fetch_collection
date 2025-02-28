@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Free Bible Version",
+        "local_abbrev": "FBV",
+        "english": "Free Bible Version",
+        "english_abbrev": "FBV"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Free Bible Ministry, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=65eec8e0b60e656b"
+    },
+    "ids": {
+        "dbl": "65eec8e0b60e656b",
+        "ebible": "engfbv"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=65eec8e0b60e656b&type=release",
+        "updated": "2023-02-16",
+        "revision": 9
+    },
+    "literalness": null,
+    "tags": []
+}

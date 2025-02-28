@@ -1,0 +1,36 @@
+{
+    "name": {
+        "local": "NET Bible (2016)",
+        "local_abbrev": "NET",
+        "english": "NET Bible (2016)",
+        "english_abbrev": "NET"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [{
+            "license": {
+                "forbid_attributionless": true,
+                "forbid_derivatives": true,
+                "forbid_commercial": true,
+                "forbid_limitless": false,
+                "forbid_other": false
+            },
+            "url": "https://netbible.com/copyright/"
+        }],
+        "attribution": "Copyright © 1996-2016 Biblical Studies Press, L. L. C.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engnet"
+    },
+    "ids": {
+        "ebible": "engnet"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engnet_usfm.zip",
+        "updated": "2021-05-19",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "God Ami Alokso Weng",
+        "local_abbrev": "",
+        "english": "Tifal New Testament",
+        "english_abbrev": "TNT"
+    },
+    "year": 1998,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1998 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tif"
+    },
+    "ids": {
+        "ebible": "tif"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tif_usfm.zip",
+        "updated": "2016-09-06",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

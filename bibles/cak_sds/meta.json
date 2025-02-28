@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Ri utzilaj rutzij ri Dios pa kachʼabel",
+        "local_abbrev": "",
+        "english": "Kaqchikel Sur de Sacatepequez New Testament",
+        "english_abbrev": "SDS"
+    },
+    "year": 1993,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 1993 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=cakNT"
+    },
+    "ids": {
+        "ebible": "cakNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/cakNT_usfm.zip",
+        "updated": "2014-04-27",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

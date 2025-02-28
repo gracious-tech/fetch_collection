@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Fanamaket Baibel",
+        "local_abbrev": "",
+        "english": "Fanamaket New Testament",
+        "english_abbrev": "FNT"
+    },
+    "year": 2012,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2011-2021 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=bjp"
+    },
+    "ids": {
+        "ebible": "bjp"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/bjp_usfm.zip",
+        "updated": "2023-03-15",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Londona Biblio",
+        "local_abbrev": "",
+        "english": "The Holy Bible in Esperanto (1910)",
+        "english_abbrev": "LB"
+    },
+    "year": 1910,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=epo"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=epo"
+    },
+    "ids": {
+        "ebible": "epo"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/epo_usfm.zip",
+        "updated": "2020-02-13",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

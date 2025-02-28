@@ -1,0 +1,34 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Garrwa Shorter New Testament",
+        "english_abbrev": "GSNT"
+    },
+    "year": 1983,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1983 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=wrk"
+    },
+    "ids": {
+        "ebible": "wrk"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/wrk_usfm.zip",
+        "updated": "2021-11-12",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": [],
+    "modified": true,
+    "notes": "Fixed JHN 9:14 which was moved to the wrong location several lines up"
+}

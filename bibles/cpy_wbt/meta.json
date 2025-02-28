@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Las Escrituras en Ashéninka Ucayali del Sur del Perú",
+        "local_abbrev": "",
+        "english": "South Ucayali Asheninka Bible",
+        "english_abbrev": "SUAB"
+    },
+    "year": 2008,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2008 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=cpy"
+    },
+    "ids": {
+        "ebible": "cpy"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/cpy_usfm.zip",
+        "updated": "2016-06-08",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

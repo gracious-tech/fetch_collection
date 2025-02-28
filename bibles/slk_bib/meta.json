@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Nádej pre každého, verejne dostupné",
+        "local_abbrev": "",
+        "english": "Open Slovak New Testament",
+        "english_abbrev": "OSNT"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=7d49326ef827c7d1"
+    },
+    "ids": {
+        "dbl": "7d49326ef827c7d1"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=7d49326ef827c7d1&type=release",
+        "updated": "2024-05-02",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

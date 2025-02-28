@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "AIREPA VAE REO OVOI",
+        "local_abbrev": "",
+        "english": "Rotokas New Testament",
+        "english_abbrev": "RNT"
+    },
+    "year": 1982,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1982 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=roo"
+    },
+    "ids": {
+        "ebible": "roo"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/roo_usfm.zip",
+        "updated": "2016-09-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

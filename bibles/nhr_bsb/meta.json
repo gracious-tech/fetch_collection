@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Ka̱bas Qae-xg'ae sa",
+        "local_abbrev": "",
+        "english": "Naro New Testament",
+        "english_abbrev": "BSB"
+    },
+    "year": 2012,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2012 The Bible Society of Botswana",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=nhr"
+    },
+    "ids": {
+        "ebible": "nhr"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/nhr_usfm.zip",
+        "updated": "2016-08-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

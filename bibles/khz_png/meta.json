@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "VEKAPAWAI VALIGUNA",
+        "local_abbrev": "",
+        "english": "Keapara Kalo New Testament",
+        "english_abbrev": "KKNT"
+    },
+    "year": 2005,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2005 The Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=khz"
+    },
+    "ids": {
+        "ebible": "khz"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/khz_usfm.zip",
+        "updated": "2012-01-18",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

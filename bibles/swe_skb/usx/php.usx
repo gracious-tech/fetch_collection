@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
+  <book code="PHP" style="id" />
+  <para style="h">Filipperbrevet</para>
+  <para style="toc2">Filipperbrevet</para>
+  <para style="mt1">Filipperbrevet</para>
+  <para style="imt1">Inledning</para>
+  <para style="ip">Introduktion: Paulus riktar här ett stort tack till församlingen i Filippi (den församling som han själv en gång grundat), som på nytt bidragit finansiellt till Paulus tjänst. De hade gett frikostigt med ett glatt hjärta trots att de själva inte var rika (<char style="xt"><ref loc="2CO 8:1-3">2 Kor 8:1-3</ref></char>). De var kända för att vara givmilda och detta var inte första gången de visat Paulus sådan omsorg. De skickade hjälp till honom när han var i Thessalonike och Korint, se <char style="xt"><ref loc="PHP 4:14-16">Fil 4:14-16</ref>; <ref loc="2CO 11:9">2 Kor 11:9</ref></char>. De grekiska orden för glädje (chara), vara glad (chairo) och glädja sig tillsammans (synchairo) används 16 gånger. Och den grekiska titeln Christos (som på hebreiska är Messias och betyder ”den Smorde”), tillsammans med namnet Jesus, används hela 50 gånger. Detta visar tydligt på brevets tema – glädjen i den Smorde Jesus!</para>
+  <para style="ip">Ungefär tio år tidigare hade Paulus under sin andra missionsresa kommit till Filippi. Tillsammans med honom var också Timoteus, Silas och Lukas, se <char style="xt"><ref loc="ACT 16:12-40">Apg 16:12-40</ref></char>. En församling grundades och några av de första kristna var den välbärgade kvinnan Lydia och hennes familj, en slavflicka och den romerska fångvaktaren med sin familj.</para>
+  <para style="ip">Staden fick sitt namn efter Filip II som då han intog staden (360 f.Kr.) namngav den efter sig själv. Han är dock mer känd genom sin son som han fick fyra år senare – Alexander den store. Filippi kallades ofta för ”lilla Rom” eftersom Augustus 42 f.Kr. hade gjort staden till en provins där invånarna hade samma rättigheter som i Rom. Staden var också en militärkoloni och befolkningen bestod av många pensionerade romerska soldater. Brevet innehåller många termer och liknelser med militär koppling: evangeliet har framgång (<char style="xt"><ref loc="PHP 1:12">Fil 1:12</ref></char>), Jesus stred och segrade (<char style="xt"><ref loc="PHP 2:8-11">Fil 2:8-11</ref></char>), man kämpar tillsammans i tron och segrar (<char style="xt"><ref loc="PHP 1:27-28">Fil 1:27-28</ref>; <ref loc="PHP 3:12">3:12</ref></char>) osv.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Struktur:</char></para>
+  <para style="ip">1. Jesus vårt föredöme, kapitel 1-2.</para>
+  <para style="ip">2. Kraften i Jesus, kapitel 3-4.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Skrivet: </char> Omkring år <char style="bd">61 e.Kr. </char> Det faktum att filipperna hört att Paulus var i Rom, hunnit samla in ett ekonomiskt understöd, skickat i väg Epafroditus och slutligen fått höra att Epafroditus blivit svårt sjuk, innebär att brevet är skrivet i slutet av Paulus tvååriga fängelsevistelse i Rom.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Till: Filippi</char>.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Från: Rom</char>. Troligen under Paulus tvååriga fångenskap i Rom, se <char style="xt"><ref loc="PHP 1:13">Fil 1:13</ref>, <ref loc="PHP 1:22">22</ref>; <ref loc="ACT 28:30">Apg 28:30</ref></char>.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Författare: Paulus</char>, se <char style="xt"><ref loc="PHP 1:1">Fil 1:1</ref></char>.</para>
+  <para style="ip">Budbärare: <char style="bd">Epafroditus</char>, se <char style="xt"><ref loc="PHP 2:25">Fil 2:25</ref></char>.</para>
+  <chapter number="1" style="c" sid="PHP 1" />
+  <para style="s1">Hälsning</para>
+  <para style="m">
+    <verse number="1" style="v" sid="PHP 1:1" />
+    <char style="add">[Från:]</char> Paulus och Timoteus,</para>
+  <para style="p" vid="PHP 1:1">Jesu den Smordes <char style="add">(Messias, Kristi)</char> tjänare <char style="add">(slavar, livegna – gr. doulos)</char>.</para>
+  <para style="b" vid="PHP 1:1" />
+  <para style="m" vid="PHP 1:1">Till: alla de heliga i Jesus den Smorde <char style="add">(Messias, Kristus)</char> som bor i Filippi <char style="add">[i Makedonien, nuvarande norra Grekland]</char>,</para>
+  <para style="p" vid="PHP 1:1">tillsammans med församlingsledarna <char style="add">(”de som vakar över” – gr. episkopous)</char></para>
+  <para style="p" vid="PHP 1:1">och församlingstjänarna <char style="add">(diakonerna, de som tjänar i praktiska tjänster i församlingen)</char>.</para>
+  <para style="b" vid="PHP 1:1" />
+  <para style="m" vid="PHP 1:1">
+    <char style="add">[Detta är det enda brev där Paulus inte använder någon titel. Han känner församlingen i Filippi väl och de har en djup vänskap. Timoteus, som är Paulus närmaste medarbetare och som finns vid hans sida i Rom, skickar med sina hälsningar. Han är inte medförfattare eftersom Paulus skriver ”jag” i vers 3. Kanske fungerade han som sekreterare. Timoteus fanns också med när Paulus kom till Filippi första gången och var ett välbekant ansikte för dem, se <char style="xt"><ref loc="ACT 16:1-2">Apg 16:1-2</ref>; <ref loc="ACT 16:12-40">16:12-40</ref></char>. Det har nu gått omkring tio år sedan församlingen grundades, och den har växt och är väl strukturerad med ledare och församlingstjänare. Här används grekiska episkopous (plural av episkopos) som beskriver församlingsledarnas funktion att ”vaka över”. Ordet används synonymt med äldste (gr. presbyterous), se <char style="xt"><ref loc="ACT 20:17">Apg 20:17</ref>, <ref loc="ACT 20:28">28</ref></char>.]</char><verse eid="PHP 1:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="PHP 1:2" />Nåd <char style="add">(oförtjänt favör)</char> till <char style="add">[vare med]</char> er och frid från Gud vår Fader och Herren Jesus den Smorde <char style="add">(Messias, Kristus)</char>.</para>
+  <para style="s1" vid="PHP 1:2">Tacksägelse och bön för församlingen</para>
+  <para style="m" vid="PHP 1:2" />
+  <para style="m" vid="PHP 1:2">
+    <char style="add">[Några av de första troende i Filippi var den välbärgade kvinnan Lydia och hennes familj, en slavflicka som befriats från en ond ande och föreståndaren för fängelset och hans familj, se <char style="xt"><ref loc="ACT 16:13-18">Apg 16:13-18</ref>, <ref loc="ACT 16:29-34">29-34</ref>, <ref loc="ACT 16:40">40</ref></char>. Det är troligtvis dessa (och andra i församlingen som Paulus har lärt känna under sina besök) som han tänker på när han skriver denna hälsning.]</char><verse eid="PHP 1:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="PHP 1:3" />Jag tackar min Gud varje gång jag tänker på er <char style="add">[är tacksam över varje personligt minne]</char>, <verse eid="PHP 1:3" /><verse number="4" style="v" sid="PHP 1:4" />när jag i all min bön <char style="add">[i varje enskild vädjan]</char> för er alla alltid ber <char style="add">(vädjar; framlägger min bön)</char> med glädje, <verse eid="PHP 1:4" /><verse number="5" style="v" sid="PHP 1:5" />på grund av ert gemensamma engagemang <char style="add">(aktiva deltagande, finansiella bidrag; ert partnerskap)</char> för evangeliet <char style="add">(det goda budskapet; de glada nyheterna)</char>, från <char style="add">[den allra]</char> första dagen <char style="add">[när Lydia öppnade sitt hem för evangeliet, se <char style="xt"><ref loc="ACT 16:15">Apg 16:15</ref></char>]</char> ända till nu <char style="add">[när ni skickade denna gåva]</char>. <verse eid="PHP 1:5" /><verse number="6" style="v" sid="PHP 1:6" />Och jag är övertygad om just detta, att han som har börjat <char style="add">(påbörjat, inlett)</char> ett gott verk <char style="add">(arbete)</char> i <char style="add">(inom; bland, hos)</char> er, <char style="add">[också]</char> ska <char style="add">(kommer att)</char> fullborda <char style="add">(slutföra)</char> det fram till den Smordes <char style="add">(Messias, Kristi)</char> Jesu dag <char style="add">[då han kommer tillbaka]</char>. <char style="add">[<char style="xt"><ref loc="JHN 6:29">Joh 6:29</ref></char>]</char><verse eid="PHP 1:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="PHP 1:7" />Det är inte mer än rätt att jag känner så för er, eftersom ni finns i mitt hjärta. <char style="add">[Kan också översättas ”eftersom jag finns i ert hjärta”. Den tvetydiga formuleringen kan vara medveten eftersom den förstärker att omtanken och engagemanget i evangeliet var ömsesidigt.]</char> Ni är delaktiga både i min fångenskap och när jag försvarar <char style="add">(argumenterar för)</char> och befäster <char style="add">(stärker, ger bevis för)</char> evangeliet. <verse eid="PHP 1:7" /><verse number="8" style="v" sid="PHP 1:8" />Gud är mitt vittne hur jag längtar efter er med den Smordes <char style="add">(Kristi)</char> Jesu djupa, innerliga kärlek. <char style="add">[Paulus hjärta är så uppfyllt av Jesu kärlek att han känner det som om han bär Jesu hjärta för sina troende syskon i Filippi.]</char><verse eid="PHP 1:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="PHP 1:9" />Och detta ber jag:</para>
+  <para style="b" vid="PHP 1:9" />
+  <para style="m" vid="PHP 1:9">att er <char style="add">[osjälviska och utgivande]</char> kärlek mer och mer ska överflöda <char style="add">[skulle välla fram som en flod, men samtidigt begränsas av flodbankar]</char></para>
+  <para style="p" vid="PHP 1:9">i rätt kunskap <char style="add">(verklig insikt) [som kommer av personlig erfarenhet]</char></para>
+  <para style="p" vid="PHP 1:9">och all urskillning <char style="add">(omdöme i varje situation) [<char style="xt"><ref loc="PSA 119:66">Ps 119:66</ref></char>]</char>,<verse eid="PHP 1:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="PHP 1:10" />för att ni <char style="add">[alltid]</char> ska kunna avgöra <char style="add">(undersöka, pröva)</char> vad som är bäst <char style="add">[genuint; vad som kommer att bära hela vägen igenom]</char></para>
+  <para style="q1" vid="PHP 1:10">och vara rena <char style="add">[i ljuset bedömda som äkta]</char></para>
+  <para style="q2" vid="PHP 1:10">och oklanderliga <char style="add">[dvs. inte väcka anstöt eller förorsaka någons fall]</char></para>
+  <para style="q2" vid="PHP 1:10">– fram till den Smordes <char style="add">(Messias, Kristi)</char> dag,<verse eid="PHP 1:10" /></para>
+  <para style="m">
+    <verse number="11" style="v" sid="PHP 1:11" />då ni har blivit fyllda med rättfärdighetens frukt <char style="add">[<char style="xt"><ref loc="GAL 5:22">Gal 5:22</ref></char>]</char></para>
+  <para style="q1" vid="PHP 1:11">som kommer genom Jesus den Smorde <char style="add">(Messias, Kristus)</char>, Gud till ära och pris. <char style="add">[Målet är att Gud blir förhärligad, manifesterad, att han får äran, blir prisad och känd.]</char></para>
+  <para style="b" vid="PHP 1:11" />
+  <para style="m" vid="PHP 1:11">
+    <char style="add">[Paulus ordval målar upp en bild för hur kärleken ska överflöda, men inte helt okontrollerat. På samma sätt som en flod har flodbankar så måste kärleken ledas fram genom kunskap och urskillning, annars når den inte sitt mål. I vers 10 förstärks denna bild i ”vad som är bäst”, som här står i plural och förutom innebörden ”vilka saker som bär och tar med igenom”, också bl.a. används i betydelsen ”vilka driver och flyter fram och tillbaka”. Senare i detta brev tar Paulus upp felaktiga motiv och varnar även för falska lärare, se <char style="xt"><ref loc="PHP 1:15-18">Fil 1:15-18</ref>; <ref loc="PHP 3:2">3:2</ref></char>. Det är därför han vädjar för dem att deras kärlek ska växa och mogna. De får inte vara naiva och okritiskt acceptera allt som sägs.]</char><verse eid="PHP 1:11" /></para>
+  <para style="s1">Budskapet kan inte låsas in!</para>
+  <para style="m">
+    <verse number="12" style="v" sid="PHP 1:12" />Syskon <char style="add">(bröder och systrar i tron)</char>, nu efter att noga ha funderat på detta, vill jag att ni får veta <char style="add">(får del av min erfarenhet)</char> att det som hänt mig snarare har lett till evangeliets <char style="add">(det glada budskapets)</char> framgång.<verse eid="PHP 1:12" /></para>
+  <para style="s2">Evangeliet sprids</para>
+  <para style="m">
+    <verse number="13" style="v" sid="PHP 1:13" />Det är öppet känt i hela pretoriet <char style="add">(det romerska militära högkvarteret)</char> och för alla andra att det är på grund av den Smorde <char style="add">(Messias, Kristus)</char> som jag bär mina bojor, <verse eid="PHP 1:13" /><verse number="14" style="v" sid="PHP 1:14" />och de flesta syskonen <char style="add">(bröderna och systrarna i tron)</char> har genom mina bojor fått ny frimodighet, och de vågar nu mer än någonsin tala <char style="add">(berätta, predika)</char> Guds ord <char style="add">[vågar bryta tystnaden och agera oavsett konsekvenserna]</char>.</para>
+  <para style="b" vid="PHP 1:14" />
+  <para style="m" vid="PHP 1:14">
+    <char style="add">[Pretoriet syftade ursprungligen på generalens tält i ett romerskt militärläger. Ordet praetor betyder ordagrant ”den som går i spetsen”. På Paulus tid hade betydelsen utvidgats till att beskriva både det militära högkvarteret i Rom och i provinshuvudstäderna. Samma ord, pretoriet, används för den plats där Jesus förhörs av Pilatus, vilket troligen är i Antoniaborgen norr om templet i Jerusalem, se <char style="xt"><ref loc="JHN 18:28">Joh 18:28</ref></char>. Förutom platsen kunde ordet också syfta på soldaterna som ingick i det kejserliga livgardet. I denna specialstyrka ingick flera tusen soldater. Antalet varierar för varje kejsare, ursprungligen var de 8 000. Under kejsar Neros styre, när Paulus skriver detta brev, var de omkring 5 000. Paulus satt fängslad i Rom och var troligen fastkedjad, i handen eller vristen, vid en soldat i fyratimmarspass. Ryktet om honom spred sig bland alla dessa i livgardet och även till ”alla andra” soldater och tjänstefolk där, se vers 13. Många verkar ha blivit troende eftersom ”de som hör till kejsarens hus” hälsar i brevets avslutning, se <char style="xt"><ref loc="PHP 4:22">Fil 4:22</ref></char>. </char></para>
+  <para style="p" vid="PHP 1:14">
+    <char style="add">Det finns flera kopplingar mellan pretoriet och Filippi. Många pensionerade soldater bodde i Filippi. Man har också hittat kopparmynt i Filippi från den här tiden med inskriptionen Kohor prae Phil. På svenska ”Pretoriets kohort i Filippi”, där en kohort var en bataljon bestående av 600 soldater. Detta antyder att många av de pensionerade soldaterna i Filippi kom just från det kejserliga livgardet. Nyheten att Paulus var känd av hela det kejserliga livgardet i Rom, måste ha glatt veteranerna i Filippi. De tänkte förmodligen på sina yngre kollegor som fortfarande tjänstgjorde där, som nu hade fått höra evangeliet.]</char><verse eid="PHP 1:14" /></para>
+  <para style="s2">Jesus blir predikad!</para>
+  <para style="m">
+    <verse number="15" style="v" sid="PHP 1:15" />Visst finns det de som predikar den Smorde <char style="add">(Messias, Kristus)</char>, bara på grund av avundsjuka <char style="add">[för den uppmärksamhet jag fått]</char> och för att försöka splittra, men andra gör det med rätt uppsåt. <verse eid="PHP 1:15" /><verse number="16" style="v" sid="PHP 1:16" />De gör det i kärlek <char style="add">[som är osjälvisk och utgivande]</char>, eftersom de vet att jag är satt att försvara <char style="add">(argumentera för)</char> evangeliet. <verse eid="PHP 1:16" /><verse number="17" style="v" sid="PHP 1:17" />De förstnämnda <char style="add">[som är avundsjuka och vill splittra]</char> predikar den Smorde <char style="add">(Messias, Kristus)</char> av själviska motiv <char style="add">(rivalitet; själviska ambitioner)</char>, inte av rena motiv, bara för att göra det svårare för mig i min fångenskap.<verse eid="PHP 1:17" /></para>
+  <para style="s2">Paulus attityd</para>
+  <para style="m">
+    <verse number="18" style="v" sid="PHP 1:18" />Än sen <char style="add">(vad är min åsikt om detta)</char>? Resultatet är att i båda fallen, vare sig det är av fel motiv eller i sanning, blir den Smorde <char style="add">(Messias, Kristus)</char> predikad, och det är jag glad för. Ja, och det ska jag fortsätta att glädja mig åt hädanefter också, <verse eid="PHP 1:18" /><verse number="19" style="v" sid="PHP 1:19" />för jag vet att detta kommer att leda till min befrielse <char style="add">(bevarande, helande och upprättelse)</char>, tack vare era förböner och all generös hjälp från Jesu den Smordes <char style="add">(Messias, Kristi)</char> Ande <char style="add">(som försörjer alla mina behov)</char>. <char style="add">[Ordet befrielse, gr. soteria, används inte bara för den eviga frälsningen som Gud ger, utan också om kroppsligt helande och välmående, se <char style="xt"><ref loc="MAT 9:21-22">Matt 9:21-22</ref>; <ref loc="MRK 15:30-31">Mark 15:30-31</ref></char>. I så fall syftar det på att Paulus är säker på att han kommer att bli frisläppt. Hela detta stycke har också en parallell i <char style="xt"><ref loc="JOB 13:13-18">Job 13:13-18</ref></char>. Paulus kommer också en dag att stå inför Gud och bli förklarad rättfärdig.]</char> <verse eid="PHP 1:19" /><verse number="20" style="v" sid="PHP 1:20" />Det är min innerliga längtan <char style="add">(intensiva förväntan) [som när man sträcker på huvudet för att få se det man kan ana, se <char style="xt"><ref loc="ROM 8:19">Rom 8:19</ref></char>]</char> och mitt hopp <char style="add">(säkra förväntan)</char> att jag inte ska komma på skam på något sätt – utan i all frimodighet ska den Smorde <char style="add">(Messias, Kristus)</char>, nu som alltid, bli förhärligad i min kropp, vare sig jag lever eller dör. <char style="add">[Döden var ett verkligt hot eftersom Paulus satt fängslad, se vers 13.]</char> <verse eid="PHP 1:20" /><verse number="21" style="v" sid="PHP 1:21" />För min del är den Smorde <char style="add">(Messias, Kristus)</char> själva livet <char style="add">[hans liv är i mig – han är enda anledningen till att jag lever]</char>, och döden <char style="add">[ordagrant: ”att ha dött”, dvs. livet efter döden]</char> är en vinst för mig.<verse eid="PHP 1:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="PHP 1:22" />Men om jag fortsätter livet i kroppen <char style="add">(köttet)</char>, så betyder det fortsatt fruktbärande <char style="add">(produktivt)</char> arbete <char style="add">[i min tjänst för evangeliet]</char>. Kunde jag välja, vet jag inte vad jag skulle föredra. <verse eid="PHP 1:22" /><verse number="23" style="v" sid="PHP 1:23" />Jag dras åt båda hållen. Min längtan är att bryta upp <char style="add">(plocka ner tältet för att resa vidare)</char> och vara hos den Smorde <char style="add">(Messias, Kristus)</char>, vilket är långt mycket bättre, <verse eid="PHP 1:23" /><verse number="24" style="v" sid="PHP 1:24" />men att jag är kvar i min kropp <char style="add">(köttet)</char> är nödvändigt för er skull. <verse eid="PHP 1:24" /><verse number="25" style="v" sid="PHP 1:25" />Övertygad om detta, vet jag att jag ska leva kvar och vara med er alla, för er framgång <char style="add">(utveckling, fördjupning)</char> och glädje i tron, <verse eid="PHP 1:25" /><verse number="26" style="v" sid="PHP 1:26" />så att när jag kommer till er igen, så har ni ännu större anledning att vara stolta <char style="add">(glada)</char> i den Smorde <char style="add">(Messias, Kristus)</char> Jesus, på grund av vad han gör genom mig.</para>
+  <para style="s1" vid="PHP 1:26">Stå tillsammans och var enade</para>
+  <para style="m" vid="PHP 1:26" />
+  <para style="m" vid="PHP 1:26">
+    <char style="add">[Vers 27-30 är en mening i grekiskan. Filippi var en romersk koloni. Trots det långa avståndet till Rom gällde romerska lagar i staden och staden var befriad från större skatter. Paulus bild- och ordval i vers 27, ”lev som medborgare”, förstods väl av brevets mottagare.]</char><verse eid="PHP 1:26" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="27" style="v" sid="PHP 1:27" />Vare sig jag kommer och besöker er, eller om jag förblir frånvarande, lev era liv som <char style="add">[himmelska]</char> medborgare på ett sätt som är värdigt evangeliet om den Smorde <char style="add">(Messias, Kristus)</char>, så att jag får höra detta om er:</para>
+  <para style="b" vid="PHP 1:27" />
+  <para style="m" vid="PHP 1:27">Att ni står fasta i samma ande</para>
+  <para style="p" vid="PHP 1:27">och samma sinne <char style="add">(tanke)</char></para>
+  <para style="m" vid="PHP 1:27">och sida vid sida kämpar <char style="add">(tävlar tillsammans som i en lagsport – gr. synathleo)</char></para>
+  <para style="p" vid="PHP 1:27">för tron på evangeliet <char style="add">[sprider det glada budskapet]</char>,<verse eid="PHP 1:27" /></para>
+  <para style="m">
+    <verse number="28" style="v" sid="PHP 1:28" />utan att ens för ett ögonblick bli rädda för motståndarna <char style="add">(skrämda – som en häst som skenar)</char>,</para>
+  <para style="m" vid="PHP 1:28">en sådan djärvhet blir för dem ett tydligt tecken på deras egen undergång,</para>
+  <para style="p" vid="PHP 1:28">och <char style="add">[ett säkert tecken]</char> på er befrielse <char style="add">(frälsning)</char> och att detta är av Gud.<verse eid="PHP 1:28" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="29" style="v" sid="PHP 1:29" />Ni har nämligen fått förmånen <char style="add">(glädjen och privilegiet)</char> att inte bara tro på <char style="add">(vara trofast)</char> den Smorde <char style="add">(Messias, Kristus)</char>, utan att också lida för hans skull, <verse eid="PHP 1:29" /><verse number="30" style="v" sid="PHP 1:30" />eftersom ni har samma kamp <char style="add">(tävling)</char> att utkämpa som ni såg i mig <char style="add">[som jag hade]</char>, och som ni nu hör att jag <char style="add">[fortfarande]</char> har.<verse eid="PHP 1:30" /></para>
+  <chapter eid="PHP 1" />
+  <chapter number="2" style="c" sid="PHP 2" />
+  <para style="s1">Jesus – det största exemplet!</para>
+  <para style="m" />
+  <para style="m">
+    <char style="add">[Paulus använder nu formuleringen ”om det finns” fyra gånger, inte i en ifrågasättande ton, utan i betydelsen att sporra till eftertänksamhet och vad allt han räknar upp är tänkt att generera.]</char></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="PHP 2:1" />Om det nu finns någon uppmuntran <char style="add">(uppmaning, vägledning, tröst)</char></para>
+  <para style="p" vid="PHP 2:1">i den Smorde <char style="add">(Messias, Kristus)</char>,</para>
+  <para style="m" vid="PHP 2:1">om det finns någon tröst <char style="add">(uppmuntran)</char></para>
+  <para style="p" vid="PHP 2:1">i kärleken <char style="add">[vänliga uppbyggande ord i den kärlek som är osjälvisk och utgivande]</char>,</para>
+  <para style="m" vid="PHP 2:1">om det finns någon gemenskap <char style="add">(delaktighet) [gemensamt mål]</char></para>
+  <para style="p" vid="PHP 2:1">i Anden,</para>
+  <para style="m" vid="PHP 2:1">om det finns några ömhetskänslor <char style="add">[mjuka hjärtan]</char></para>
+  <para style="p" vid="PHP 2:1">och medkänsla <char style="add">[plural; uttryck av barmhärtighet som leder till praktiska kärleksfulla handlingar]</char> –<verse eid="PHP 2:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="PHP 2:2" />gör då min glädje fullkomlig genom att ha samma sinnesinställning <char style="add">(attityd, tänkesätt, förståelse)</char> och samma <char style="add">[osjälviska och utgivande]</char> kärlek – att vara ett i själ och sinne <char style="add">[förenade i samförstånd som syskon i Herren]</char>.</para>
+  <para style="b" vid="PHP 2:2" />
+  <para style="m" vid="PHP 2:2" />
+  <para style="m" vid="PHP 2:2">
+    <char style="add">[Nu följer stegen för att uppnå sann enhet:]</char><verse eid="PHP 2:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="PHP 2:3" />Låt ingenting ske utifrån <char style="add">[motiveras av]</char> självhävdelse <char style="add">(rivalitet, partikäbbel, konflikt) [<char style="xt"><ref loc="PHP 1:17">Fil 1:17</ref></char>]</char></para>
+  <para style="p" vid="PHP 2:3">och fåfänglig <char style="add">(tom)</char> ära,</para>
+  <para style="p" vid="PHP 2:3">utan var istället ödmjuka och sätt andra högre än er själva.<verse eid="PHP 2:3" /></para>
+  <para style="m">
+    <verse number="4" style="v" sid="PHP 2:4" />Se inte var och en <char style="add">[bara]</char> till ert eget <char style="add">[enskilda bästa]</char>,</para>
+  <para style="p" vid="PHP 2:4">utan även till andras <char style="add">[enskilda behov]</char>.<verse eid="PHP 2:4" /></para>
+  <para style="m">
+    <verse number="5" style="v" sid="PHP 2:5" />Låt samma <char style="add">[ödmjuka]</char> sinnesinställning <char style="add">(hjärtelag; attityd, insikt, perspektiv)</char> finnas hos <char style="add">(i)</char> er</para>
+  <para style="m" vid="PHP 2:5">
+    <char style="add">[detta tänkesätt]</char> som också fanns hos <char style="add">(i)</char> den Smorde <char style="add">(Messias, Kristus)</char> Jesus.</para>
+  <para style="b" vid="PHP 2:5" />
+  <para style="m" vid="PHP 2:5">
+    <char style="add">[Inledningen på vers 3 lyder ordagrant: ”ingenting ner/utifrån självhävdelse och inte heller ner/utifrån fåfänglig ära”. Avsaknaden av verb förstärker uttalandet som inkluderar handlingar, men framför allt betonar de bakomliggande motiven och att inte låta sig drivas av själviska ambitioner, utan tvärtom ha ”samma sinnesställning”, se vers 2 och 5.]</char></para>
+  <para style="qc" vid="PHP 2:5">______<verse eid="PHP 2:5" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="6" style="v" sid="PHP 2:6" />
+    <char style="add">[Vers 6-11 innehåller några ovanliga grekiska ord och har en poetisk form som liknar en sång. Detta är antagligen en tidig kristen hymn eller dikt som Paulus citerar, liknande exempel finns i <char style="xt"><ref loc="1TI 3:16">1 Tim 3:16</ref></char> och <char style="xt"><ref loc="2TI 2:11-13">2 Tim 2:11-13</ref></char>.]</char></para>
+  <para style="b" vid="PHP 2:6" />
+  <para style="m" vid="PHP 2:6">Han som var till <char style="add">(existerade; preexisterade)</char> i Guds gestalt <char style="add">[iklädd Guds väsen – hade Guds hela fullhet, se <char style="xt"><ref loc="JHN 12:41">Joh 12:41</ref>; <ref loc="ISA 6:1">Jes 6:1</ref></char>]</char>,</para>
+  <para style="p" vid="PHP 2:6">men inte räknade det som en trofé <char style="add">(ett segerbyte; en skatt att gripa tag i och hålla fast vid)</char> att vara jämlik Gud,<verse eid="PHP 2:6" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="7" style="v" sid="PHP 2:7" />utan <char style="add">[istället]</char> tömde sig själv <char style="add">[avsade sig alla sina privilegier]</char></para>
+  <para style="p" vid="PHP 2:7">när han antog <char style="add">(villigt tog/mottog)</char> en tjänares <char style="add">(en slavs, en livegens)</char> gestalt,</para>
+  <para style="q2" vid="PHP 2:7">då han blev till i människors likhet. <char style="add">[Här finns det kiastiska centrumet i vers 7-8.]</char></para>
+  <para style="p" vid="PHP 2:7">Och sedan han till det yttre blev som <char style="add">(befanns vara)</char> en människa,<verse eid="PHP 2:7" /></para>
+  <para style="m">
+    <verse number="8" style="v" sid="PHP 2:8" />ödmjukade <char style="add">(böjde)</char> han sig och <char style="add">(när han)</char> blev lydig intill <char style="add">(ända till)</char> döden – ja, döden på ett kors.<verse eid="PHP 2:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="PHP 2:9" />Därför har också <char style="add">(av den orsaken har)</char> Gud upphöjt honom <char style="add">[till den högsta positionen]</char></para>
+  <para style="p" vid="PHP 2:9">och gett honom namnet över varje namn,<verse eid="PHP 2:9" /></para>
+  <para style="m">
+    <verse number="10" style="v" sid="PHP 2:10" />för att, i Jesu namn, varje knä ska böjas,</para>
+  <para style="p" vid="PHP 2:10">i himlarna, på jorden och under jorden,<verse eid="PHP 2:10" /></para>
+  <para style="m">
+    <verse number="11" style="v" sid="PHP 2:11" />för att varje tunga ska bekänna <char style="add">(öppet erkänna, säga samma sak som Gud)</char></para>
+  <para style="p" vid="PHP 2:11">att Jesus den Smorde <char style="add">(Messias, Kristus)</char> är Herren <char style="add">[<char style="xt"><ref loc="ROM 10:9">Rom 10:9</ref></char>]</char>,</para>
+  <para style="p" vid="PHP 2:11">till ära för Gud Fadern.</para>
+  <para style="b" vid="PHP 2:11" />
+  <para style="m" vid="PHP 2:11" />
+  <para style="qc" vid="PHP 2:11">______<verse eid="PHP 2:11" /></para>
+  <para style="b" />
+  <para style="m" />
+  <para style="s1">Var ljus i en mörk värld</para>
+  <para style="m">
+    <verse number="12" style="v" sid="PHP 2:12" />Därför, mina älskade, precis som ni alltid <char style="add">[uppmärksamt]</char> har lyssnat <char style="add">[lytt mina råd]</char>, inte bara i min närvaro utan <char style="add">[ännu]</char> mycket mer nu i min frånvaro:</para>
+  <para style="b" vid="PHP 2:12" />
+  <para style="m" vid="PHP 2:12">arbeta <char style="add">[fullt ut]</char> på er egen frälsning <char style="add">(räddning, befrielse; ert eget bevarande) [låt er fullkomnas]</char></para>
+  <para style="p" vid="PHP 2:12">med fruktan <char style="add">[gudsfruktan]</char> och bävan <char style="add">[varsamhet för hur ni lever]</char>.</para>
+  <para style="m" vid="PHP 2:12">
+    <char style="add">[Lev i helgelse (<char style="xt"><ref loc="1TH 4:1-12">1 Thess 4:1-12</ref></char>), var vaksamma (<char style="xt"><ref loc="1CO 10:12-14">1 Kor 10:12-14</ref></char>) och var medvetna om att hjärtat är bedrägligt (<char style="xt"><ref loc="JER 17:9-10">Jer 17:9-10</ref></char>).]</char><verse eid="PHP 2:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="PHP 2:13" />För Gud är den som <char style="add">[ständigt]</char> verkar i er både <char style="add">[när det gäller]</char> att vilja och att verka efter hans välbehag <char style="add">(glädje; goda vilja)</char>. <char style="add">[Gud förser sina barn med kraft så att de alltid vill arbeta energiskt och effektivt för hans syften.]</char><verse eid="PHP 2:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="PHP 2:14" />Gör allt utan att lågmält muttra i tysthet och sprida missnöje <char style="add">(driva ifrågasättande diskussioner med en underton av tvivel på Gud) [<char style="xt"><ref loc="EXO 15:24">2 Mos 15:24</ref></char>]</char> <verse eid="PHP 2:14" /><verse number="15" style="v" sid="PHP 2:15" />så att ni blir fläckfria och rena, Guds oskyldiga barn mitt i ett falskt och fördärvat släkte, där ni lyser som stjärnor i världen <verse eid="PHP 2:15" /><verse number="16" style="v" sid="PHP 2:16" />när ni håller fast vid livets ord <char style="add">[evangeliet – det glada budskapet]</char>. Då blir ni till ära för mig <char style="add">(jag kan vara stolt)</char> på den Smordes <char style="add">(Kristi)</char> dag <char style="add">[domens dag]</char>. Jag har inte löpt förgäves <char style="add">[som en löpare i ett sprinterlopp som inte vunnit]</char> eller arbetat förgäves. <verse eid="PHP 2:16" /><verse number="17" style="v" sid="PHP 2:17" />Ja, även om mitt blod skulle utgjutas medan er tro bärs fram som ett offer är jag glad och gläds med er alla. <verse eid="PHP 2:17" /><verse number="18" style="v" sid="PHP 2:18" />På samma sätt är ni glada och gläds med mig.<verse eid="PHP 2:18" /></para>
+  <para style="s1">Två goda exempel på medarbetare</para>
+  <para style="s2">Timoteus är som en son för mig</para>
+  <para style="m">
+    <verse number="19" style="v" sid="PHP 2:19" />Jag hoppas nu i Herren Jesus att snart kunna skicka Timoteus till er, så att även jag blir vid gott mod <char style="add">(uppmuntrad)</char> när jag får veta hur ni har det. <char style="add">[Timoteus var med Paulus i Rom, se <char style="xt"><ref loc="PHP 1:1">Fil 1:1</ref></char>. Under perioder fanns även flera personer där, se <char style="xt"><ref loc="COL 4:10-14">Kol 4:10-14</ref>; <ref loc="PHP 1:24">Fil 1:24</ref></char>.]</char> <verse eid="PHP 2:19" /><verse number="20" style="v" sid="PHP 2:20" />Jag har ingen som han <char style="add">(som är så ”likasinnad”, som är så lik mig)</char>, ingen som så uppriktigt kommer att bry sig om er <char style="add">(genuint intresserad av ert bästa)</char>. <verse eid="PHP 2:20" /><verse number="21" style="v" sid="PHP 2:21" />Alla söker de sitt, inte det som gagnar Jesus den Smorde <char style="add">(Messias, Kristus)</char>. <char style="add">[Syftar troligen på Demas som övergav Paulus för världsliga intressen och for till Thessalonike, se <char style="xt"><ref loc="2TI 4:10">2 Tim 4:10</ref></char>.]</char> <verse eid="PHP 2:21" /><verse number="22" style="v" sid="PHP 2:22" />Men ni vet hur äkta Timoteus är. Som en son vid sin fars sida har han arbetat tillsammans med mig för evangeliet <char style="add">(det glada budskapet)</char>. <verse eid="PHP 2:22" /><verse number="23" style="v" sid="PHP 2:23" />Honom hoppas jag alltså kunna skicka så snart jag fått se hur det går för mig, <verse eid="PHP 2:23" /><verse number="24" style="v" sid="PHP 2:24" />även om jag i Herren är övertygad om att snart kunna komma själv.<verse eid="PHP 2:24" /></para>
+  <para style="s2">Välkomna tillbaka Epafroditus som en hjälte</para>
+  <para style="m">
+    <verse number="25" style="v" sid="PHP 2:25" />Jag tyckte dock det var nödvändigt att skicka tillbaka Epafroditus till er, min broder, medarbetare och medkämpe <char style="add">(ordagrant ”medsoldat”)</char> som ni sände för att hjälpa mig med vad jag behövde.</para>
+  <para style="b" vid="PHP 2:25" />
+  <para style="m" vid="PHP 2:25">
+    <char style="add">[Epafroditus var Paulus medarbetare i Filippi. Hans namn betyder ”vacker”, och ordet härstammar från den grekiska kärlekens och skönhetens gudinna Afrodite. Hans föräldrar var antagligen hedniska greker som tyckte det var ett passande namn. Eftersom man inte hittat något Afroditetempel i Filippi, är det troligt att han inte var född i staden utan flyttat dit senare. Paulus kallar Epafroditus medsoldat trots att Paulus själv inte var soldat i den romerska armén. Det kan finnas en dubbelmening i detta uttalande vilket talar för att Epafroditus kan ha varit en pensionerad soldat.]</char><verse eid="PHP 2:25" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="26" style="v" sid="PHP 2:26" />Epafroditus har längtat efter <char style="add">(saknat)</char> er alla och varit orolig, eftersom ni har hört att han blivit sjuk. <verse eid="PHP 2:26" /><verse number="27" style="v" sid="PHP 2:27" />Ja, han var verkligen sjuk, nära döden. Men Gud förbarmade sig över honom, och inte bara över honom utan också över mig så att jag inte skulle få sorg på sorg. <verse eid="PHP 2:27" /><verse number="28" style="v" sid="PHP 2:28" />Därför är jag så mycket mer angelägen att skicka honom <char style="add">[tillbaka till Filippi]</char>, så att ni får glädjen att återse honom och jag själv får känna lättnad.</para>
+  <para style="b" vid="PHP 2:28" />
+  <para style="m" vid="PHP 2:28">
+    <char style="add">[Epafroditus hade kommit med en gåva till Paulus i Rom från församlingen Filippi. Troligen hade han resesällskap, dels för att skydda pengarna, dels för att det skulle finnas vittnen på att allt gått rätt till. Under den långa resan eller väl framme i Rom hade Epafroditus blivit svårt sjuk och kunde inte hjälpa Paulus som det var tänkt. Dessutom hade Paulus hört hur två kvinnor, Evodia och Syntyche, i församlingen i Filippi inte kom överens, se <char style="xt"><ref loc="PHP 4:2">Fil 4:2</ref></char>. Hade Epafroditus dött skulle det bli sorg på sorg för Paulus, men Gud helade Epafroditus. Paulus sände hem Epafroditus och skickade med detta brev. Mellan Rom och Filippi är det 125 mil. Sträckan tog två månader att vandra längs med de romerska huvudvägarna Via Appia och Via Egnatia. Med tanke på att bud hann nå både Filippi och Rom om Paulus fångenskap och Epafroditus hälsa, se vers 26, skrevs detta brev sannolikt i slutet på Paulus tvååriga fängelsevistelse i Rom.]</char><verse eid="PHP 2:28" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="29" style="v" sid="PHP 2:29" />Ta nu emot honom i Herren med all glädje. Visa uppskattning för sådana som han, <verse eid="PHP 2:29" /><verse number="30" style="v" sid="PHP 2:30" />för han var nära döden i sitt arbete för den Smorde <char style="add">(Messias, Kristus)</char>. Han satte sitt liv på spel för att ge mig den hjälp som ni inte kunde ge.</para>
+  <para style="b" vid="PHP 2:30" />
+  <para style="m" vid="PHP 2:30">
+    <char style="add">[För att undvika att filipperna skulle se Epafroditus som en svag vekling som misslyckats med delar av sitt uppdrag att stanna kvar hos Paulus och hjälpa honom, säger Paulus att han är en hjälte. Uttrycket ”satte sitt liv på spel” anspelar på Epafroditus namn som härstammar från gudinnan Afrodite. Innan en spelare kastade tärningen åkallade han ofta Afrodite. Epafroditus åkallade inte en hednisk Gud utan den levande Guden – Jesus den Smorde!]</char><verse eid="PHP 2:30" /></para>
+  <chapter eid="PHP 2" />
+  <chapter number="3" style="c" sid="PHP 3" />
+  <para style="s1">Sann och falsk rättfärdighet</para>
+  <para style="s2">Varning för falska lärare</para>
+  <para style="m">
+    <verse number="1" style="v" sid="PHP 3:1" />Till sist <char style="add">(för övrigt; vad gäller fortsättningen)</char>, mina syskon <char style="add">(bröder och systrar i tron)</char>, gläd er <char style="add">[ständigt]</char> i Herren <char style="add">[fortsätt att fröjda er över nåden – luta er hela tiden mot honom]</char>! <char style="add">[<char style="xt"><ref loc="ROM 12:12">Rom 12:12</ref>; <ref loc="PHP 4:4">Fil 4:4</ref></char>]</char></para>
+  <para style="b" vid="PHP 3:1" />
+  <para style="m" vid="PHP 3:1">
+    <char style="add">[För en kristen beror inte glädjen på att alla yttre omständigheter är problemfria. Den glädje i Herren som Paulus talar om kommer inifrån och är baserad på Jesu fullbordade verk. Att Paulus skriver dessa rader från ett fängelse är i sig ett bevis på detta! Filipperna kände mycket väl till det också – det var ju i denna stad som Paulus och Silas sjungit lovsånger efter att ha blivit pryglade och fängslade, se <char style="xt"><ref loc="ACT 16:25">Apg 16:25</ref></char>.]</char></para>
+  <para style="b" vid="PHP 3:1" />
+  <para style="m" vid="PHP 3:1">För mig är det inget besvär att skriva samma sak till er igen, och för er är det <char style="add">[också]</char> tryggt <char style="add">(gr. asphales)</char>.</para>
+  <para style="b" vid="PHP 3:1" />
+  <para style="m" vid="PHP 3:1">
+    <char style="add">[Ordvalet ”igen” antyder att Paulus har skrivit minst ett tidigare brev till församlingen i Filippi. Glädjen i Herren ger en trygghet – de står stadigt och vacklar inte och faller, utan är vaksamma mot falska lärare, se vers 2.]</char><verse eid="PHP 3:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="PHP 3:2" />Se upp för vildhundarna!</para>
+  <para style="m" vid="PHP 3:2">Se upp för de onda arbetarna! <char style="add">[<char style="xt"><ref loc="2CO 11:13">2 Kor 11:13</ref></char>]</char></para>
+  <para style="m" vid="PHP 3:2">Se upp för de sönderskurna! <char style="add">[Ett sarkastiskt uttryck.]</char></para>
+  <para style="b" vid="PHP 3:2" />
+  <para style="m" vid="PHP 3:2">
+    <char style="add">[Paulus varnar nu för en välkänd grupp judaister som ansåg att hedningarnas väg in till tron gick genom judendomen. De omnämns redan i <char style="xt"><ref loc="ACT 15:1">Apg 15:1</ref></char> och har kanske ännu inte varit i Filippi. Hunden var ett orent djur för judar. Även bland romare och greker användes uttrycket nedsättande för någon som var oren och ohelig, se dock <char style="xt"><ref loc="MAT 15:26-28">Matt 15:26-28</ref></char>. Paulus använder nu en sarkastisk ton och vänder på uttrycket och kallar dessa judaiserande lärare för vildhundar. För dessa falska lärare hade omskärelsen blivit en ceremoni utan någon förståelse av dess underliggande betydelse om hjärtats omvändelse. De vidhöll att även hedniska män var tvungna att omskära sig för att räknas som troende, en lära som Paulus starkt motsätter sig.]</char><verse eid="PHP 3:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="PHP 3:3" />Det är vi som är de omskurna, vi som tjänar Gud genom hans Ande och har vår ära i den Smorde <char style="add">(Messias, Kristus)</char> Jesus och inte förlitar oss på köttet <char style="add">(egna gärningar och meriter)</char>. <verse eid="PHP 3:3" /><verse number="4" style="v" sid="PHP 3:4" />Fast nog hade också jag kunnat förlita mig på det yttre. För om någon tycker att han kan förlita sig på det yttre, så kan jag det ännu mer:<verse eid="PHP 3:4" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="5" style="v" sid="PHP 3:5" />
+    <char style="add">[1]</char> Omskuren på åttonde dagen <char style="add">[enligt <char style="xt"><ref loc="LEV 12:3">3 Mos 12:3</ref></char>; i jämförelse med proselyter som var omskurna vid vuxen ålder]</char>,</para>
+  <para style="m" vid="PHP 3:5">
+    <char style="add">[2]</char> av Israels folk <char style="add">[född jude – inte proselyt, se vers 1-3]</char>,</para>
+  <para style="m" vid="PHP 3:5">
+    <char style="add">[3]</char> från Benjamins stam <char style="add">[vars mor var Rakel – inte en bihustru; Saulus var namngiven efter Israels första kung Saul – också en benjaminit]</char>,</para>
+  <para style="m" vid="PHP 3:5">
+    <char style="add">[4]</char> en hebré född av hebréer <char style="add">[Paulus föräldrar var hebréer; han var uppväxt med det hebreiska språket och kulturen]</char>,</para>
+  <para style="m" vid="PHP 3:5">
+    <char style="add">[5]</char> i fråga om <char style="add">[att följa]</char> undervisningen <char style="add">[gr. nomos – Torah]</char> en farisé,<verse eid="PHP 3:5" /></para>
+  <para style="m">
+    <verse number="6" style="v" sid="PHP 3:6" />
+    <char style="add">[6]</char> i fråga om iver – en förföljare av församlingen <char style="add">[de kristna]</char>,</para>
+  <para style="m" vid="PHP 3:6">
+    <char style="add">[7]</char> i fråga om rättfärdighet genom läran <char style="add">(lagen – gr. nomos) [fariséernas tolkning av Moseböckernas bud]</char></para>
+  <para style="p" vid="PHP 3:6">– en oklanderlig man.<verse eid="PHP 3:6" /></para>
+  <para style="m">
+    <verse number="7" style="v" sid="PHP 3:7" />Men allt detta som var en vinst för mig <char style="add">[de sju kvalifikationerna i vers 5-6]</char>,</para>
+  <para style="m" vid="PHP 3:7">har jag räknat <char style="add">[betraktar jag nu]</char> som förlust för den Smordes <char style="add">(Messias, Kristi)</char> skull.<verse eid="PHP 3:7" /></para>
+  <para style="m">
+    <verse number="8" style="v" sid="PHP 3:8" />Ja, istället räknar <char style="add">(anser)</char> jag verkligen också allting vara en förlust</para>
+  <para style="b" vid="PHP 3:8" />
+  <para style="m" vid="PHP 3:8">jämfört med det överlägsna <char style="add">(ofattbara)</char></para>
+  <para style="m" vid="PHP 3:8">att känna <char style="add">[ha en personlig relation med]</char> den Smorde Jesus, min Herre.</para>
+  <para style="b" vid="PHP 3:8" />
+  <para style="m" vid="PHP 3:8">På grund av honom förlorade jag allt</para>
+  <para style="b" vid="PHP 3:8" />
+  <para style="m" vid="PHP 3:8">och räknar dessa saker som dynga <char style="add">(avskräde)</char>, så att jag kan vinna den Smorde <char style="add">(Messias, Kristus)</char><verse eid="PHP 3:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="PHP 3:9" />och bli funnen i honom, inte med min egen rättfärdighet, den som kommer från <char style="add">(utav)</char> läran <char style="add">(lagen – gr. nomos) [genom att legalistiskt följa alla Moseböckernas bud]</char>,</para>
+  <para style="b" vid="PHP 3:9" />
+  <para style="m" vid="PHP 3:9">utan <char style="add">[med]</char> den <char style="add">[rättfärdighet]</char> som kommer genom den Smordes tro <char style="add">(trofasthet; förtröstan från Messias/Kristus)</char>, rättfärdigheten från <char style="add">(utav)</char> Gud på grund av tron <char style="add">(som är baserad på trofasthet/tillit/förtröstan)</char> –<verse eid="PHP 3:9" /></para>
+  <para style="m">
+    <verse number="10" style="v" sid="PHP 3:10" />
+    <char style="add">[med målet]</char> att känna <char style="add">(personligen få erfara)</char> honom och hans uppståndelses kraft</para>
+  <para style="q1" vid="PHP 3:10">och att få dela hans lidanden <char style="add">(ordagrant: och gemenskapen med hans umbäranden)</char>,</para>
+  <para style="q1" vid="PHP 3:10">genom att jag blir <char style="add">[mer och mer]</char> lik honom i hans död <char style="add">[ständigt tar form och gestaltar honom i en död som hans]</char>,<verse eid="PHP 3:10" /></para>
+  <para style="m">
+    <verse number="11" style="v" sid="PHP 3:11" />om jag så skulle kunna nå <char style="add">[i hopp om att komma]</char> fram till uppståndelsen från de döda.<verse eid="PHP 3:11" /></para>
+  <para style="s1">Fokusera på målet</para>
+  <para style="m">
+    <verse number="12" style="v" sid="PHP 3:12" />Inte för att jag redan har uppnått det <char style="add">[en andlig kunskap då det inte finns något mer att lära]</char>, eller redan blivit fullkomlig, men jag strävar efter att vinna <char style="add">(lägga beslag på)</char> det, på samma sätt som den Smorde <char style="add">(Messias, Kristus)</char> Jesus har vunnit mig <char style="add">(gjort mig till sin egen)</char>.<verse eid="PHP 3:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="PHP 3:13" />Syskon <char style="add">(bröder och systrar i tron)</char>, när jag ser tillbaka <char style="add">(på mitt liv och summerar allt jag gjort)</char> anser jag inte att jag redan vunnit det <char style="add">(förstått allt, gjort allting rätt)</char>, men en sak gör jag: Jag glömmer det som ligger bakom <char style="add">[både framgångar och motgångar]</char> och sträcker mig mot det som är framför mig. <verse eid="PHP 3:13" /><verse number="14" style="v" sid="PHP 3:14" />Jag jagar <char style="add">(pressar mig)</char> mot målet, för att vinna segerpriset <char style="add">[från himlen]</char>, <char style="add">[som är]</char> Guds högre kallelse <char style="add">(inbjudan)</char> genom Jesus den Smorde <char style="add">(Messias, Kristus)</char>.<verse eid="PHP 3:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="PHP 3:15" />Låt oss alla som är andligt mogna <char style="add">[och strävar efter fullkomlighet]</char> ha ett sådant tänkesätt <char style="add">[vara fokuserade på målet och segerpriset, se vers 13]</char>. Om ni tänker annorlunda i något avseende <char style="add">[funderar över hur man ska leva helhjärtat för Jesus]</char> ska Gud uppenbara <char style="add">(klargöra)</char> även det för er! <verse eid="PHP 3:15" /><verse number="16" style="v" sid="PHP 3:16" />Hur som helst, låt oss hålla fast vid det vi redan har uppnått <char style="add">[den sträcka vi redan löpt mot målet]</char>, och marschera <char style="add">(vandra i linje)</char> framåt!<verse eid="PHP 3:16" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="17" style="v" sid="PHP 3:17" />Syskon <char style="add">(bröder och systrar i tron)</char>, ta mig till föredöme och se på dem som lever efter den förebild ni har i oss. <verse eid="PHP 3:17" /><verse number="18" style="v" sid="PHP 3:18" />Många vandrar ... <char style="add">[meningen är ogrammatisk, här avbryts den abrupt och Paulus blir känslosam och fyller i]</char> som jag ofta sagt till er, och nu igen måste säga under tårar – <char style="add">[de vandrar, lever sina liv]</char> som fiender till den Smordes <char style="add">(Kristi)</char> kors. <verse eid="PHP 3:18" /><verse number="19" style="v" sid="PHP 3:19" />De kommer att sluta i fördärvet. De har buken till sin gud och sätter sin ära i det som är deras skam, dessa som bara tänker på det jordiska. <verse eid="PHP 3:19" /><verse number="20" style="v" sid="PHP 3:20" />Men vårt medborgarskap är <char style="add">(har alltid varit, och är nu fast förankrat)</char> i himlen.</para>
+  <para style="b" vid="PHP 3:20" />
+  <para style="m" vid="PHP 3:20">
+    <char style="add">[Ordet för medborgarskap, gr. politeuma, klingade speciellt för brevets mottagare i Filippi som bodde i en romersk koloni, se <char style="xt"><ref loc="ACT 16:12">Apg 16:12</ref></char>. Filippi var som ett ”litet Rom”, här kunde man äta romersk mat, romerska regler gällde osv. Det var här som Paulus använde sitt romerska medborgarskap för första gången, se <char style="xt"><ref loc="ACT 16:22-39">Apg 16:22-39</ref></char>. En kristen har sitt hemland i himlen men lever här på jorden som i en ”himmelsk koloni”, se <char style="xt"><ref loc="HEB 11:16">Heb 11:16</ref>; <ref loc="HEB 13:14">13:14</ref></char>.]</char></para>
+  <para style="b" vid="PHP 3:20" />
+  <para style="m" vid="PHP 3:20">Därifrån <char style="add">[med den vetskapen att vårt medborgarskap är i himlen]</char> ser vi ivrigt fram emot <char style="add">(fokuserar vi helt på, väntar vi tålmodigt på)</char> Herren Jesus den Smorde <char style="add">(Messias, Kristus)</char>, Frälsaren <char style="add">(den som befriar, bevarar, upprättar och helar)</char>, <verse eid="PHP 3:20" /><verse number="21" style="v" sid="PHP 3:21" />som ska förvandla vår ömkliga kropp <char style="add">(mänskliga natur, yttre form som blivit förnedrad genom synd och död, den ska genomgå en permanent förändring)</char> till att likna hans härlighetskropp med den kraft som har auktoritet att lägga allt under honom.<verse eid="PHP 3:21" /></para>
+  <chapter eid="PHP 3" />
+  <chapter number="4" style="c" sid="PHP 4" />
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="PHP 4:1" />Stå därför <char style="add">[eftersom ni har ett himmelskt medborgarskap och ett hopp om en Frälsare]</char> fasta i Herren, älskade vänner! Ni är mina syskon <char style="add">(bröder och systrar i tron)</char> och kära älskade vänner som jag av hela hjärtat längtar efter att få se, ni är min glädje och min krona <char style="add">(segerkrans)</char>.<verse eid="PHP 4:1" /></para>
+  <para style="s1">Uppmaningar</para>
+  <para style="s2">Var eniga</para>
+  <para style="m">
+    <verse number="2" style="v" sid="PHP 4:2" />Evodia <char style="add">[vars namn betyder ”säker resa”]</char> uppmanar <char style="add">(förmanar, uppmuntrar)</char> jag och Syntyche <char style="add">[vars namn betyder ”trevlig bekantskap”]</char> uppmanar <char style="add">(förmanar, uppmuntrar)</char> jag att vara eniga <char style="add">(vara av samma sinne; att komma överens)</char> i Herren.</para>
+  <para style="b" vid="PHP 4:2" />
+  <para style="m" vid="PHP 4:2">
+    <char style="add">[Dessa två kvinnor, tillsammans med Lydia, var troligtvis med i den grupp kvinnor som var med när Paulus först kom till Filippi, se <char style="xt"><ref loc="ACT 16:13">Apg 16:13</ref></char>. Det grekiska ordet för att uppmana (parakaleo – att vädja till någon, kalla på nära intill) används två gånger i denna vers, en gång efter varje namn, vilket gör Paulus vädjan individuell. Konflikten gällde inte läror eller tron (de var båda skrivna i livets bok, se vers 3). Om de inte själva kunde lösa konflikten uppmanar Paulus nu en tredje part, troligtvis en av ledarna i församlingen, att medla. Se även <char style="xt"><ref loc="MAT 18:15-18">Matt 18:15-18</ref></char>.]</char><verse eid="PHP 4:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="PHP 4:3" />Ja, även dig, genuine kompanjon <char style="add">(genuint ”sammanokade” – gr. gnesie syzyge) [min äkta, verklige och rättmätige samarbetspartner]</char> ber jag <char style="add">[om en tjänst]</char>:</para>
+  <para style="b" vid="PHP 4:3" />
+  <para style="m" vid="PHP 4:3">Hjälp <char style="add">(”ta tag gemensamt med” – gr. syllambano)</char> dessa kvinnor <char style="add">[systrar i Herren]</char></para>
+  <para style="p" vid="PHP 4:3">som har kämpat med mig <char style="add">(som tillsammans med mig har brottats) [som atleter]</char> i evangeliets tjänst,</para>
+  <para style="p" vid="PHP 4:3">och så även med Klemens <char style="add">(Clemens) [betyder: ”mild, nådefull”]</char></para>
+  <para style="p" vid="PHP 4:3">och resten av mina medarbetare</para>
+  <para style="q2" vid="PHP 4:3">som har sina namn <char style="add">(vars namn är)</char> i livets bok <char style="add">(i en ”bok av liv” – gr. biblio zoes) [<char style="xt"><ref loc="REV 20:12">Upp 20:12</ref></char>]</char>.</para>
+  <para style="b" vid="PHP 4:3" />
+  <para style="m" vid="PHP 4:3">
+    <char style="add">[Grekiskans syzygus (som avser någon som delar bördan under ett ok) kan vara ett namn på en man i församlingen, eller möjligen Epafroditus, troligt är dock att Paulus här riktar sig till en viss person som hör brevet läsas upp. Kanske Timoteus, Silas eller någon annan ledare, se <char style="xt"><ref loc="ACT 15:40">Apg 15:40</ref>; <ref loc="ACT 16:19">16:19</ref></char>. Klemens, som här nämns först av medarbetarna (”de samarbetade” – gr. synergos) var ett vanligt namn. Ibland har den som Paulus här nämner antagits vara den tredje biskopen i Rom som skrev Första Klemensbrevet till församlingen i Korint omkring 95 e.Kr.]</char><verse eid="PHP 4:3" /></para>
+  <para style="s2">Glädje i Guds frid</para>
+  <para style="m">
+    <verse number="4" style="v" sid="PHP 4:4" />Gläd er alltid i Herren <char style="add">[fortsätt att alltid fröjda er över nåden; luta er i alla tider ständigt mot honom]</char>.</para>
+  <para style="p" vid="PHP 4:4">Igen vill jag <char style="add">(kommer jag att)</char> säga: Gläd er!</para>
+  <para style="m" vid="PHP 4:4">
+    <char style="add">[<char style="xt"><ref loc="PHP 3:1">Fil 3:1</ref>; <ref loc="ROM 12:12">Rom 12:12</ref>; <ref loc="1TH 5:16">1 Thess 5:16</ref></char>]</char></para>
+  <para style="b" vid="PHP 4:4" />
+  <para style="m" vid="PHP 4:4">
+    <char style="add">[Det grekiska ordet för att glädja sig och vara glad (chairo), glädje (chara) och glädja sig tillsammans (synchairo) delar rot med ordet för nåd (charis). Roten char har en innebörd av att vara välvilligt inställd och luta sig emot. I detta brev talar Paulus om glädjen i någon form hela 16 gånger (<char style="xt"><ref loc="PHP 1:4">Fil 1:4</ref>, <ref loc="PHP 1:18">18</ref>, <ref loc="PHP 1:25">25</ref>; <ref loc="PHP 2:2">2:2</ref>, <ref loc="PHP 2:17">17</ref>, <ref loc="PHP 2:18">18</ref>, <ref loc="PHP 2:28">28</ref>, <ref loc="PHP 2:29">29</ref>; <ref loc="PHP 3:1">3:1</ref>; <ref loc="PHP 4:1">4:1</ref>, <ref loc="PHP 4:4">4</ref>, <ref loc="PHP 4:10">10</ref></char>). Han inleder med den glädje som produceras i och genom förbönens omsorger och avslutar med hur Gud i glädje tar emot slutresultatet (dvs. den gåva som blivit till en frukt av Paulus lydnad och omsorg) som en ljuvlig doft och ett rätt offer. Paulus både inleder och avslutar brevet med att proklamera Herrens nåd för sina trossyskon se <char style="xt"><ref loc="PHP 1:2">Fil 1:2</ref>; <ref loc="PHP 4:23">4:23</ref></char>.]</char><verse eid="PHP 4:4" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="5" style="v" sid="PHP 4:5" />Låt alla människor få veta <char style="add">(personligen få erfara)</char> er osjälviskhet <char style="add">(omtanke, fördragsamhet, förlåtande attityd)</char>. Herren är nära. <char style="add">[Uttrycket har en dubbel betydelse. Herren finns nära den troende och hjälper, men är också nära och kommer snart tillbaka.]</char><verse eid="PHP 4:5" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="6" style="v" sid="PHP 4:6" />Oroa <char style="add">(bekymra)</char> er inte <char style="add">[”gå inte i bitar” – stressa inte upp er]</char> för någonting <char style="add">[<char style="xt"><ref loc="MAT 6:25">Matt 6:25</ref>; <ref loc="LUK 12:22">Luk 12:22</ref></char>]</char>, utan låt era önskningar i allting <char style="add">[i varje detalj ni nämner och frågar efter]</char> bli kända inför Gud, genom <char style="add">[hängiven och förtrolig]</char> bön och vädjan <char style="add">(ödmjuk och enträgen bön)</char> med tacksägelse <char style="add">[över Guds goda nåd]</char>. <verse eid="PHP 4:6" /><verse number="7" style="v" sid="PHP 4:7" />Då ska Guds frid, som övergår <char style="add">[som alltid är mer värd, som regerar och håller sig över]</char> allt förstånd, skydda <char style="add">(bevara, vakta)</char> era hjärtan och era tankar <char style="add">(sinnen)</char> i den Smorde <char style="add">(Messias, Kristus)</char> Jesus.<verse eid="PHP 4:7" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="8" style="v" sid="PHP 4:8" />Till sist, syskon <char style="add">(bröder och systrar i tron)</char>:</para>
+  <para style="p" vid="PHP 4:8">allt som är sant <char style="add">(verkligt, äkta, ärligt)</char>,</para>
+  <para style="p" vid="PHP 4:8">allt som är värdigt <char style="add">(hedervärt, ärbart, ädelt)</char>,</para>
+  <para style="p" vid="PHP 4:8">allt som är rätt <char style="add">(moraliskt rätt; rättfärdigt)</char>,</para>
+  <para style="p" vid="PHP 4:8">allt som är rent <char style="add">[som inte är besudlat med synd]</char>,</para>
+  <para style="p" vid="PHP 4:8">allt som är älskvärt <char style="add">(”för vänskapen” – gr. prophiles) [som verkar och leder till omsorg och tillgiven kärlek]</char>,</para>
+  <para style="p" vid="PHP 4:8">allt som är lovvärt <char style="add">(värt att tala väl om) [som är konstruktivt och uppbyggande; goda rapporter]</char> –</para>
+  <para style="p" vid="PHP 4:8">om det finns någon dygd <char style="add">(godhet som praktiseras)</char> och</para>
+  <para style="p" vid="PHP 4:8">om det finns något lovord <char style="add">(något som förtjänar beröm)</char> –</para>
+  <para style="m" vid="PHP 4:8">tänk på <char style="add">(fundera över)</char> sådana saker <char style="add">[fokusera på allt detta så att det formar era tankar och era handlingar]</char>.<verse eid="PHP 4:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="PHP 4:9" />Och vad ni <char style="add">[allt detta som ni en gång]</char></para>
+  <para style="p" vid="PHP 4:9">lärde er,</para>
+  <para style="p" vid="PHP 4:9">och tog emot <char style="add">(tog till er)</char>,</para>
+  <para style="p" vid="PHP 4:9">och hörde,</para>
+  <para style="p" vid="PHP 4:9">och såg i <char style="add">(hos)</char> mig –</para>
+  <para style="m" vid="PHP 4:9">praktisera dessa saker <char style="add">[regelbundet]</char>, så ska fridens Gud vara med er!</para>
+  <para style="b" vid="PHP 4:9" />
+  <para style="m" vid="PHP 4:9">
+    <char style="add">[Paulus beskriver de fyra stegen i omvänd kronologisk ordning och påminner om hur de alltid kan leva i gemenskap och frid med Gud. Församlingen i Filippi hade sett hur Paulus och Silas blivit frigivna från fängelset, se <char style="xt"><ref loc="ACT 16:22-31">Apg 16:22-31</ref></char>. De hade hört Paulus budskap och tagit emot evangeliet. De hade också lärt sig att leva av tro och därmed fått en levande relation med Jesus.]</char><verse eid="PHP 4:9" /></para>
+  <para style="s1">Gud förser</para>
+  <para style="s2">Förnöjsamhet</para>
+  <para style="m">
+    <verse number="10" style="v" sid="PHP 4:10" />Men jag gladde mig mycket <char style="add">(storligen – gr. megalos)</char> i Herren över att ni nu äntligen förnyade er omtanke om mig <char style="add">[att ni nu till slut lät omsorgen om mig blomma upp]</char>. Visst tänkte ni på mig förut också, men då hade ni inget <char style="add">[lägligt]</char> tillfälle <char style="add">(då saknade ni möjlighet) [att visa det]</char>.</para>
+  <para style="b" vid="PHP 4:10" />
+  <para style="m" vid="PHP 4:10">
+    <char style="add">[Epafroditus har nyligen överlämnat en gåva från församlingen i Filippi till Paulus (som satt fängslad, se vers 18). Eftersom Paulus med största sannolikhet vid det här tillfället befann sig i Rom, kan en av anledningarna till att det dröjt vara att det först nu var någon som hade vägarna förbi så långt västerut. Paulus hade innan dess också varit fängslad i Caesarea Maritima i två år, rest över Medelhavet och blivit strandsatt på Malta, se <char style="xt"><ref loc="ACT 25:-1-28">Apg 25-28</ref></char>.]</char><verse eid="PHP 4:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="PHP 4:11" />Jag säger inte detta för att <char style="add">[antyda att]</char> jag saknar något <char style="add">(lider brist; ordagrant: inte så att jag talar på grund av brist/nöd/fattigdom)</char>. För jag har lärt mig <char style="add">[och har för vana]</char> att vara nöjd <char style="add">(tillfreds, harmonisk)</char> oavsett <char style="add">[yttre]</char> omständigheter.<verse eid="PHP 4:11" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="12" style="v" sid="PHP 4:12" />Jag vet <char style="add">(har sett/förstått)</char> hur man lever enkelt <char style="add">(gr. tapeinoo) [i förödmjukande låg standard]</char>.</para>
+  <para style="m" vid="PHP 4:12">Jag vet <char style="add">(har sett/förstått)</char> hur det är att leva i överflöd <char style="add">(ordagrant: att överflöda)</char> –</para>
+  <para style="b" vid="PHP 4:12" />
+  <para style="m" vid="PHP 4:12">genom allt, och genom alla <char style="add">(i allt och i alla)</char> omständigheter har jag lärt mig <char style="add">(blivit invigd i)</char> hemligheten –</para>
+  <para style="b" vid="PHP 4:12" />
+  <para style="m" vid="PHP 4:12">att vara mätt</para>
+  <para style="p" vid="PHP 4:12">eller hungrig <char style="add">(att hungra)</char>,</para>
+  <para style="m" vid="PHP 4:12">att ha överflöd <char style="add">(att överflöda)</char></para>
+  <para style="p" vid="PHP 4:12">eller lida brist <char style="add">(gr. hustereo)</char>.</para>
+  <para style="b" vid="PHP 4:12" />
+  <para style="m" vid="PHP 4:12">
+    <char style="add">[Vers 11–12 ramas in av kontraster som handlar om att vara nöjd oavsett omständigheter. Ordningen på kontrasterna är först enkelt/överflöd (in mot centrum) för att sedan bli omvänd ordning mätt/hungrig och överflöd/brist. Paulus lånar ett verb och ett uttryck från dåtida initieringsriter av hedniska mysterier, nämligen gr. mueo som kommer från ordet för mysterium och hemlig lära/doktrin (gr. mysterion). Genom sina erfarenheter har han tränats, utbildats och blivit invigd i detta ”mysterium” att kunna befinna sig i olika omständigheter och samtidigt bottna i en förnöjsamhet, förtröstan och tacksamhet till Herren som förser.]</char><verse eid="PHP 4:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="PHP 4:13" />Allt förmår jag <char style="add">(kan jag övervinna; klarar jag av) [har jag nödvändig kraft – omedelbar och tvingande styrka – att bemöta och besegra]</char> i honom <char style="add">[den Smorde]</char> som ger mig kraft <char style="add">(genom honom som styrker mig – gr. endynamounti me)</char>.</para>
+  <para style="b" vid="PHP 4:13" />
+  <para style="m" vid="PHP 4:13">
+    <char style="add">[Jesus både förökar styrkan och bemyndigar Paulus och ger honom auktoritet och fullmakt så att han kan klara av alla omständigheter, se vers 12. Det grekiska ordet för att förmå (ischuo) innebär att besegra och strida med omedelbar och tvingande styrka, se <char style="xt"><ref loc="JAS 5:16">Jak 5:16</ref></char>.]</char><verse eid="PHP 4:13" /></para>
+  <para style="s2">Givandets välsignelser</para>
+  <para style="m">
+    <verse number="14" style="v" sid="PHP 4:14" />Men ni gjorde rätt <char style="add">(något vackert)</char> när ni var delaktiga <char style="add">(assisterade, delade med er)</char> i mina svårigheter <char style="add">(min pressade situation)</char>.<verse eid="PHP 4:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="PHP 4:15" />Ni vet ju själva, filipper, att när evangeliet <char style="add">(det glada budskapet)</char> var nytt och jag hade lämnat Makedonien, då var det ingen annan församling än er som gick in i gemenskap med mig <char style="add">(partnerskap)</char> och öppnade upp ett konto så att man kunde föra bok över utgivet och mottaget.<verse eid="PHP 4:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="PHP 4:16" />För även när jag var i Thessalonike skickade ni <char style="add">[gåvor]</char> till mina behov, inte bara en utan två gånger. <verse eid="PHP 4:16" /><verse number="17" style="v" sid="PHP 4:17" />Inte så att jag söker själva gåvan, utan vad jag söker är att ni ska få en riklig frukt av gåvan ni ger. <verse eid="PHP 4:17" /><verse number="18" style="v" sid="PHP 4:18" />Jag har fått allt och det i överflöd. Jag har mer än nog när jag nu genom Epafroditus har fått er gåva – en ljuvlig doft, ett välbehagligt offer som Gud tar emot med glädje. <verse eid="PHP 4:18" /><verse number="19" style="v" sid="PHP 4:19" />Så ska min Gud fylla <char style="add">[helt och fullt uppfylla]</char> alla era <char style="add">[andliga och fysiska]</char> behov efter sin härliga rikedom <char style="add">[på ett överflödande och överväldigande sätt]</char> i den Smorde <char style="add">(Messias, Kristus)</char> Jesus. <verse eid="PHP 4:19" /><verse number="20" style="v" sid="PHP 4:20" />Vår Gud och Far tillhör äran i evigheters evighet. Amen.<verse eid="PHP 4:20" /></para>
+  <para style="s1">Hälsningar</para>
+  <para style="m">
+    <verse number="21" style="v" sid="PHP 4:21" />Hälsa alla heliga i den Smorde <char style="add">(Messias, Kristus)</char> Jesus. De troende <char style="add">(bröderna och systrarna)</char> här hos mig hälsar till er. <verse eid="PHP 4:21" /><verse number="22" style="v" sid="PHP 4:22" />Alla de heliga <char style="add">[de troende i Rom, några av dem nämns vid namn i <char style="xt"><ref loc="ROM 16:3-16">Rom 16:3-16</ref></char>]</char>, särskilt de som hör till kejsarens hus <char style="add">[syftar troligtvis på kristna soldater och tjänare som tjänstgjorde hos kejsaren]</char>, hälsar till er.</para>
+  <para style="b" vid="PHP 4:22" />
+  <para style="m" vid="PHP 4:22">
+    <char style="add">[På grund av Filippis nära koppling till Rom, som koloni och finansiellt centrum, fanns det många band mellan dessa städer, se även <char style="xt"><ref loc="PHP 1:13-14">Fil 1:13-14</ref></char>.]</char><verse eid="PHP 4:22" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="23" style="v" sid="PHP 4:23" />Herren Jesu den Smordes <char style="add">(Kristi)</char> nåd vare med er ande.<verse eid="PHP 4:23" /></para>
+  <chapter eid="PHP 4" />
+</usx>

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "God so Sokior-ok Iwon",
+        "local_abbrev": "",
+        "english": "Abau New Testament",
+        "english_abbrev": "ANT"
+    },
+    "year": 2006,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2006 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=aau"
+    },
+    "ids": {
+        "ebible": "aau"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/aau_usfm.zip",
+        "updated": "2013-01-03",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

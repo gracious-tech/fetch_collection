@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "'Abi'uai Apa'uana Mahamahana",
+        "local_abbrev": "",
+        "english": "Waima New Testament",
+        "english_abbrev": "WNT"
+    },
+    "year": 2002,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2002 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=rro"
+    },
+    "ids": {
+        "ebible": "rro"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/rro_usfm.zip",
+        "updated": "2016-09-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

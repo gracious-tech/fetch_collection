@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Text-Critical Greek New Testament",
+        "english_abbrev": "TCG"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=grctcgnt"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=grctcgnt"
+    },
+    "ids": {
+        "ebible": "grctcgnt"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/grctcgnt_usfm.zip",
+        "updated": "2024-11-13",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

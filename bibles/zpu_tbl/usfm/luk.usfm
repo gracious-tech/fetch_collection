@@ -1,0 +1,2398 @@
+\id LUK  
+\h San Lucas 
+\toc1 DIꞌLL WEN DANꞌ BZOJ SAN LUCAS 
+\toc2 San Lucas 
+\toc3 Lc. 
+\mt1 DIꞌLL WEN DANꞌ BZOJ SAN LUCAS 
+\c 1  
+\s1 Da ni bzoj San Lucas ke Teófilo 
+\p  
+\v 1 Beꞌnn zan ba gokraꞌll akeꞌ wllia akeꞌ yich danꞌ gok radjtoꞌ ni, le naken to da li,  
+\v 2 naꞌ llonen bien wayojen kon kanꞌ bzejnieꞌ beꞌnn kaꞌ, breꞌe da nellte kanꞌ goken. Leakeꞌn gok rallnaꞌa akeꞌ wzejnieꞌ akreꞌn beꞌnne.  
+\v 3 Nadaꞌ leskaꞌ ba bnnabyollaꞌ kwasro, akrenꞌ gok ka bxhen da nellte. Ke len naꞌ, nnaꞌ llzojaꞌn koꞌo rweꞌ, Teófilo, llapaꞌ rweꞌ baraꞌnne,  
+\v 4 nench wayoll nnezroꞌ ka nak da linꞌ ba nnézkzeroꞌn. 
+\s1 To angl bdixjweꞌreꞌ garj Juan beꞌnnenꞌ bchoa beꞌnn nis 
+\p  
+\v 5 Kanꞌ llnebiaꞌ beꞌnnenꞌ golle Herodes ganꞌ nziꞌi Judea, bzo to bxoz re Zacarías. Zacaríasenꞌ nakeꞌ txhen bxoz kaꞌ nziꞌi Abías. Naꞌ noꞌr ke Zacaríasenꞌ re Elisabet, naꞌ nakeꞌ xhiꞌnn dialla ke da Aarón, beꞌnnenꞌ gok bxoz nelle.  
+\v 6 Llon akeꞌ doxhen kanꞌ ne ley ke Diosenꞌ, naꞌ beꞌnn wen kwis nak akeꞌ, to nono bi ne ke akeꞌ.  
+\v 7 Nono xhiꞌnn akeꞌ niꞌte, le Elisabetenꞌ nakeꞌ beꞌnn will, naꞌ ba nak akeꞌ beꞌnn gore. 
+\p  
+\v 8 Kate bllin lla bayaꞌl Zacaríasenꞌ ren beꞌnn lwelljeꞌ kaꞌ, choꞌ akeꞌ yodaꞌon.  
+\v 9 Naꞌ kanꞌ llonkze bxoz kaꞌ, llbej twej twej akeꞌ nench lloeꞌ lljazeyeꞌ yar rao bkoy yodaꞌon. Naꞌ bayaꞌlkze Zacaríasenꞌ goneꞌn.  
+\v 10 Chak lley yarenꞌ rao bkoy yodaꞌon, beꞌnn zan llaꞌa liaꞌre llalwill akeꞌ Dios.  
+\v 11 Bixha bllinkze to angl ke Xanllo Dios ganꞌ ze Zacaríasenꞌ, naꞌ jasé anglenꞌ kwit bkoy ganꞌ llzeyeꞌ yarenꞌ.  
+\v 12 Ka breꞌe Zacaríasenꞌ anglenꞌ, to gokllejlaꞌllzeꞌ, le llebrazenꞌ bllebeꞌ.  
+\v 13 Naꞌll anglenꞌ golleꞌ leꞌe: 
+\p —Bi lleboꞌ Zacarías, Diosenꞌ ba bzenayeꞌ ke danꞌ llnnaboꞌn, naꞌ nnaꞌ noꞌr koꞌo Elisabetenꞌ so to xhiꞌnneꞌ, naꞌ wsiꞌobeꞌ Juan.  
+\v 14 Naꞌ soꞌo nbaraz, yeweroꞌ, naꞌ beꞌnn zan yewerén akreꞌ reꞌ katenꞌ ba gorjbeꞌn.  
+\v 15 Bidaꞌon gakbeꞌ bi zaꞌk rao Dios, bi yeꞌjbeꞌ xis uva, naꞌ billre da llsolle beꞌnne, naꞌ sorén Spíritu ke Diosenꞌ lebeꞌ ka za garjterbeꞌ.  
+\v 16 Naꞌ gonbeꞌ nench beꞌnn zan beꞌnn Israel kaꞌ, wayechj akeꞌ weꞌrao akeꞌ Dios.  
+\v 17 Naꞌ kwiaraobeꞌ rao Xanllonꞌ, naꞌ Diosenꞌ weꞌebeꞌ Spíritu keꞌen, naꞌ gonbeꞌ kanꞌ ben Elías, beꞌnnenꞌ beꞌe xtiꞌll Diosenꞌ kanaꞌ. Beꞌnn dilrén xhiꞌnneꞌ, gonbeꞌ waniꞌt akeꞌ wen; beꞌnn bi llzenay, gonbeꞌ nench wzenayeꞌ. Naꞌ gonbeꞌ nench beꞌnn kaꞌ nniꞌt akeꞌ xhnid, weꞌrao akeꞌ Xanllonꞌ katenꞌ yedeꞌn. 
+\p  
+\v 18 Naꞌll Zacaríasenꞌ lleꞌe anglenꞌ: 
+\p —¿Akxha gak nnezraꞌ chaꞌ da li gak kanꞌ ba bneꞌo nga? Le ba nakaꞌ beꞌnn gore, leskaꞌ noꞌr kiaꞌn ba ngoreꞌ. 
+\p  
+\v 19 Naꞌll lle anglenꞌ leꞌe: 
+\p —Nadaꞌn nakaꞌ angl Gabriel, naꞌ llonaꞌ xchin Dios, Leꞌen bseꞌleꞌ nadaꞌ nench zadtixjweꞌraꞌ rweꞌ diꞌll wen nga.  
+\v 20 Naꞌ nnaꞌ gaꞌnnoꞌ blloje, bi gak nneꞌo llinte katenꞌ garj xhiꞌnnoꞌn, le bi byejleꞌo kanꞌ bniaꞌn, le da li da gakten. 
+\p  
+\v 21 Beꞌnn zan kaꞌ llaꞌa liaꞌre, llbexh akeꞌ Zacaríasenꞌ, naꞌ llabán akreꞌ danꞌ bi llallojzeꞌ lo yodaꞌon.  
+\v 22 Bixha kate ballojeꞌn, kere gokll nneꞌe, naꞌ lloneꞌ zre senze, naꞌ bayakbeꞌe beꞌnn kaꞌ, breꞌdaꞌoreꞌn. 
+\p  
+\v 23 Ka bayoll xhman keꞌen naꞌ zayejeꞌ rilleꞌ.  
+\v 24 Bde naꞌ, biaꞌa xhiꞌnn Elisabet noꞌr ke Zacaríasenꞌ. Gaꞌy beꞌo bzozeꞌ yoꞌ keꞌe, bi bllojkzeꞌ, naꞌll lloeꞌrén kwineꞌ diꞌll neꞌe:  
+\v 25 “Nnaꞌll ba ben Diosenꞌ wen kiaꞌ, ba bakeꞌe yel zdoꞌ kiaꞌn, nollno nne kiaꞌ nna nakllaꞌ beꞌnn will.” 
+\s1 Anglenꞌ leskaꞌ bdixjweꞌreꞌ garj Cristonꞌ 
+\p  
+\v 26 Ba gok xop beꞌo noaꞌ Elisabetenꞌ bdaꞌo keꞌen, kate bseꞌl Diosenꞌ anglenꞌ re Gabriel to yell da nziꞌi Nazaret ganꞌ nbane Galilea.  
+\v 27 Bseꞌleꞌ leꞌe ga zo to noꞌr daꞌo, re María, ba naken siꞌi to beꞌnn re José leꞌe, naꞌ Josénꞌ nakeꞌ xhiꞌnn dialla rey David.  
+\v 28 Ka byoꞌ anglenꞌ lo yoꞌ ganꞌ zo Maríanꞌ, lleꞌe leꞌe: 
+\p —¡Padiox, Dios zoreneꞌ rweꞌ, nnaꞌ goneꞌ wen koꞌo, gonlaꞌyeꞌ rweꞌ wdetere ka noꞌr kaꞌ yelaꞌ! 
+\p  
+\v 29 Maríanꞌ bllebeꞌ kwis, naꞌ llakreꞌ bixchen lleze anglenꞌ leꞌe kaꞌ.  
+\v 30 Naꞌ anglenꞌ lleꞌe leꞌe: 
+\p —María, bi lleboꞌ, Diosenꞌ ba brejeꞌ rweꞌ, naꞌ goneꞌ wen koꞌo.  
+\v 31 Goꞌo bdaꞌo, so to xhiꞌnnoꞌ, naꞌ wsiꞌobeꞌ Jesús.  
+\v 32 Naꞌ Jesúsenꞌ gakeꞌ to beꞌnn brao, wsiꞌi akeꞌ Leꞌe Xhiꞌnn Dios beꞌnn zo yebá. Naꞌ Xanllo Diosenꞌ goneꞌ nench nnebieꞌ kanꞌ bnebiaꞌ David xozxtaꞌweꞌn.  
+\v 33 Nnebieꞌ ganꞌ nziꞌi Israel ke chnare, naꞌ bi te yel llnebiaꞌ keꞌen. 
+\p  
+\v 34 Naꞌll lle Maríanꞌ anglenꞌ: 
+\p —¿Akxha gakrizen le bi nna wchaynaꞌa? 
+\p  
+\v 35 Naꞌll goll anglenꞌ leꞌe: 
+\p —Yed Spíritu ke Diosenꞌ choꞌn yichjraꞌlldaꞌon, naꞌ yel wak ke Dios beꞌnn zo yebá son kweꞌjen rweꞌ, ke len naꞌ bidaꞌon garjenꞌ gakbeꞌ bi ke Dios, naꞌ wsiꞌi akebeꞌ Xhiꞌnn Dios.  
+\v 36 Leskaꞌ noꞌr biroꞌ, Elisabetenꞌ, noꞌrenꞌ nak noꞌr will batnaꞌ, ba gok xop beꞌo nnaꞌ, noeꞌ bdaꞌo laꞌkze ba nakeꞌ beꞌnn gore.  
+\v 37 Le bibi de da nak bniꞌ, da bi gak gon Diosenꞌ. 
+\p  
+\v 38 Naꞌll lle Maríanꞌ anglenꞌ: 
+\p —Ni zoaꞌ nakaꞌ beꞌnn wen llin keꞌe, wakse gon Diosenꞌ kiaꞌ kanꞌ ba bneꞌo nga. 
+\p Kaꞌ gok, naꞌ bazaꞌa anglenꞌ zayejeꞌ. 
+\s1 María jaraꞌnneꞌ Elisabet 
+\p  
+\v 39 Bde chop chonn lla, le byejte Maríanꞌ to yell da llia rao yaꞌ ganꞌ nbane Judea.  
+\v 40 Naꞌ bllineꞌ rill Zacaríasenꞌ, naꞌ byoeꞌ bwapeꞌ Elisabetenꞌ lliox.  
+\v 41 Bixha kate bene Elisabetenꞌ balwill Maríanꞌ leꞌe, le bxhiꞌtte bdaꞌo keꞌen lo leꞌen, naꞌ Spíritu ke Diosenꞌ byoꞌn yichjraꞌlldaꞌweꞌ.  
+\v 42 Naꞌ bawereꞌ kwis bnneꞌe zillj, lleꞌe Maríanꞌ: 
+\p —Dios ba benlaꞌyeꞌ rweꞌ rao yeololte noꞌre, leskaꞌ bdaꞌo koꞌon nak laꞌybeꞌ.  
+\v 43 Xhnaꞌ Xanllo ba nakoꞌ, ker bi zaꞌkandaꞌ. ¿Bixchen zadraꞌnnzoꞌ nadaꞌ?  
+\v 44 Kate bnneꞌon, le bxhiꞌtte bdaꞌo kiaꞌn lo liaꞌn bawebeꞌ.  
+\v 45 Nbaraz koꞌo rweꞌ ba byejleꞌo, da li gonte Diosenꞌ kanꞌ ba golleꞌ rweꞌn. 
+\p  
+\v 46 Naꞌll bne Maríanꞌ lloeꞌraweꞌ Dios: 
+\q1 Lloeꞌrawaꞌ Diosenꞌ do yichj do raꞌllaꞌ. 
+\q1  
+\v 47 Naꞌ lo yichjraꞌlldaꞌwaꞌ llaweraꞌ, le Diosenꞌ nakeꞌ wasrá kiaꞌ. 
+\q1  
+\v 48 Laꞌkze nakaꞌ ka to beꞌnn wen llin, bibi zaꞌkaꞌ, Diosenꞌ bayaꞌchraꞌlleꞌ nadaꞌ. 
+\q1 Naꞌ beꞌnn zan beꞌnn llaꞌa nnaꞌ, naꞌ beꞌnn za chaꞌa yellrio ni, nne akeꞌ kiaꞌ: 
+\q1 “Nbaraz ke noꞌrenꞌ.” 
+\q1  
+\v 49 Diosenꞌ nakeꞌ beꞌnn wen, napeꞌ yel wak xhen, ba beneꞌ da wen kwis kiaꞌ. 
+\q1 ¡Leꞌe nak laꞌye kwis! 
+\q1  
+\v 50 Noteze beꞌnn llape Diosenꞌ baraꞌnne, 
+\q1 leskaꞌ Diosenꞌ wayaꞌchraꞌlleꞌ leakeꞌ. 
+\q1  
+\v 51 Naꞌll ba broeꞌreꞌ yel wak xhen keꞌen, 
+\q1 naꞌ bachinnjeꞌ xhbab ke beꞌnn yaꞌraꞌll kaꞌ. 
+\q1  
+\v 52 Beꞌnn llnebiaꞌ, beꞌnn llon ka beꞌnn brao, ba blliꞌyeꞌ beꞌnn kaꞌ kaꞌle, 
+\q1 naꞌ blepeꞌ beꞌnn yaꞌch, beꞌnn nexjraꞌll kaꞌ. 
+\q1  
+\v 53 Beꞌnn yaꞌche, beꞌnn don, ba beꞌe leakeꞌ ka yerj akreꞌ, 
+\q1 zan beꞌnn wniaꞌ kaꞌ, laꞌkze bze taꞌk akeꞌ, bibi beꞌe leakeꞌ. 
+\q1  
+\v 54 Ba gokreneꞌ Israelenꞌ, le yell keꞌen, 
+\q1 le jadinraꞌlleꞌ wayaꞌchraꞌlleꞌ leakeꞌ. 
+\q1  
+\v 55 Ka diꞌll beꞌreneꞌ xozxtaꞌollo Abraham, bneꞌe gonlaꞌyeꞌ yeolol xhiꞌnneꞌ za chaꞌa. 
+\p  
+\v 56 Chonn beꞌo bzorén Maríanꞌ Elisabetenꞌ, naꞌll bazeꞌe zayej rilleꞌ. 
+\s1 Ka gok gorj Juan beꞌnnenꞌ bchoa nis 
+\p  
+\v 57 Bixha kate bllin lla garj bdaꞌo ke Elisabetenꞌ, bzo to bidaꞌo byio.  
+\v 58 Ka gokbeꞌe biꞌch lwelljeꞌ kaꞌ, naꞌ beꞌnn wrill ke akeꞌ, kanꞌ ba gokrén Diosenꞌ Elisabetenꞌ, ren akeꞌ bawerén akreꞌ leꞌe.  
+\v 59 Gok xoꞌn lla naꞌ, jweꞌebeꞌ bzobeꞌ sen danꞌ nziꞌi circuncisión. Naꞌ gokraꞌll akeꞌ wsiꞌi akebeꞌ kanꞌ re xabeꞌn, Zacarías.  
+\v 60 Naꞌ xhnaꞌbeꞌn bneꞌe: 
+\p —Kaꞌa, bi siꞌbeꞌ kaꞌ, Juan, siꞌbeꞌ. 
+\p  
+\v 61 Naꞌ lle akeꞌ leꞌe: 
+\p —¿Bixchen? Nono biꞌch lwelljre llraꞌ beꞌnn re kaꞌ. 
+\p  
+\v 62 Naꞌll ben akeꞌ sen rao xabeꞌn, llnnab akreꞌ leꞌe akre lleꞌnreꞌ siꞌi bdaꞌon.  
+\v 63 Naꞌ bnnabeꞌ to bray daꞌo, naꞌ bzojeꞌn bllieꞌn: “Juan, siꞌbeꞌ.” Yeolol beꞌnn kaꞌ llabán akreꞌ.  
+\v 64 Naꞌ le gokte banné Zacaríasenꞌ, le bzoraote lloeꞌraweꞌ Dios.  
+\v 65 Yeolol beꞌnn wrill ke akeꞌ kaꞌ, blleb akeꞌ kwis, naꞌ yeolol yell kaꞌ zjalliꞌ radj yaꞌ kaꞌ, doxhen yaꞌn ganꞌ nbane Judeanꞌ, goslas diꞌll kanꞌ goken.  
+\v 66 Naꞌ yeolol beꞌnn kaꞌ llene diꞌllenꞌ, da xhen llayón akeꞌ xhbab lo yichjraꞌlldaꞌo akeꞌ, ne akeꞌ: 
+\p —¿Notek gak bidaꞌon? 
+\p Le nakbieꞌtekze llonlaꞌy Diosenꞌ lebeꞌ tlla tlla. 
+\s1 Diꞌll da beꞌe Zacarías 
+\p  
+\v 67 Spíritu ke Diosenꞌ byoꞌn yichjraꞌlldaꞌo Zacaríasenꞌ, naꞌ benen nench beꞌe diꞌll ki: 
+\q1  
+\v 68 Nak laꞌy kwis Xanllo Diosenꞌ ke lliꞌo beꞌnn Israel, 
+\q1 le ba breꞌe nench yesreꞌe lliꞌo nakllo yell keꞌe. 
+\q1  
+\v 69 Rao dialla David beꞌnn ben xchin Dios batnaꞌ, 
+\q1 ba bliseꞌ to beꞌnn nap yel wak nench yesreꞌe lliꞌo. 
+\q1  
+\v 70 Ka diꞌllenꞌ beꞌrén Diosenꞌ beꞌnn kaꞌ, beꞌe xtiꞌlleꞌn kanaꞌ, 
+\q1 le leakeꞌn bzejnieꞌ akreꞌ beꞌnn xtiꞌlleꞌn. 
+\q1  
+\v 71 Bchebeꞌ yesreꞌe lliꞌo rao naꞌa beꞌnn kaꞌ, bi zorén lliꞌo wen, 
+\q1 naꞌ rao naꞌa beꞌnn kaꞌ, llwie lliꞌo. 
+\q1  
+\v 72 Naꞌ bchebeꞌ wayaꞌchraꞌlleꞌ xozxtaꞌollo kaꞌ, 
+\q1 naꞌ bi kwej yichjeꞌ ka diꞌllenꞌ beꞌreneꞌ leakeꞌn. 
+\q1  
+\v 73 Leskaꞌ golleꞌ xozxtaꞌollo Abraham naꞌ, 
+\q1  
+\v 74 wllin lla kate yesreꞌe lliꞌo rao naꞌa beꞌnn kaꞌ llwie lliꞌon, 
+\q1 nench gak weꞌraolloeꞌ, billbi nxholl sollo chaꞌ gonllo xchineꞌn. 
+\q1  
+\v 75 Naꞌllenꞌ gonllo da wen, 
+\q1 gakllo rallneꞌe ke chnare. 
+\q1  
+\v 76 Naꞌ rweꞌ, xhiꞌnnaꞌ, beꞌnn lloeꞌ xtiꞌll Dios beꞌnn zo yebá, nne akeꞌ koꞌo, 
+\q1 rweꞌ kwiarao rao Xanllonꞌ, gonchaꞌo gonoꞌ xhnid ganꞌ tieꞌn. 
+\q1  
+\v 77 Rweꞌ wzejnieꞌroꞌ beꞌnn Israel kaꞌ, 
+\q1 kanꞌ lleꞌne Diosenꞌ yeziꞌxheneꞌ da xhinnj ke akeꞌn, naꞌ kanꞌ lleꞌnreꞌ yesreꞌe leakeꞌ. 
+\q1  
+\v 78 Dios kellonꞌ, yel llayaꞌchraꞌll keꞌen ba beneꞌ, 
+\q1 nnaꞌ reꞌllo beniꞌn zaꞌa yebá. 
+\q1  
+\v 79 Beꞌnn llaꞌa xchole, ka ga de yel got, reꞌe akreꞌ beniꞌ keꞌen, 
+\q1 naꞌllenꞌ reꞌllo garenꞌ kaꞌllo, 
+\q1 naꞌ chejnieꞌllo ka gonllo nench chaꞌllo wen. 
+\p  
+\v 80 Bixha bidaꞌon zjaze ll-lliꞌobeꞌ, llejnieꞌtebeꞌ doxhen kanꞌ lleꞌne Diosenꞌ, naꞌ bzoteze bzobeꞌ yiꞌxe ga nak latj dach, bllinte lla broeꞌraobeꞌ beꞌnn Israel kaꞌ. 
+\c 2  
+\s1 Ka gok gorj Jesúsenꞌ 
+\r (Mt. 1:18‑25) 
+\p  
+\v 1 Gok kanꞌ llnebiaꞌ beꞌnnenꞌ re Augusto César ganꞌ nziꞌi Roma, bdixjweꞌreꞌ llayaꞌl kwia yich, yeolol beꞌnn kaꞌ llaꞌa doxhen ganꞌ nbanreꞌn.  
+\v 2 Naꞌ naken da nell kwia beꞌnn yiche. Le kanaꞌ beꞌnnenꞌ re Cirenio, llnebieꞌ ganꞌ nziꞌi Siria.  
+\v 3 Naꞌ beneꞌn bien yeolol beꞌnn bayej rall akeꞌ, jallia akeꞌ yiche. 
+\p  
+\v 4 Naꞌ Josénꞌ bzeꞌe Nazaret ga nbane Galilea, naꞌ bayejeꞌ Belén ga nbane Judea yell ke David, le xhiꞌnn dialla David naꞌ leꞌe.  
+\v 5 Zancheꞌteꞌ Maríanꞌ nench kwia akeꞌ yiche, ba naken siꞌi lwellj akeꞌ. Naꞌ ba noaꞌ Maríanꞌ bdaꞌo.  
+\v 6 Naꞌ zo akteꞌ Belén naꞌ, bllin lla saneꞌ.  
+\v 7 Naꞌ gorj bdaꞌo keꞌen, gokbeꞌ bidaꞌo byio, bi nelle, naꞌ braꞌllebeꞌ to raꞌlle, naꞌ jaxoeꞌbeꞌ ganꞌ ll-llaꞌa akeꞌ da llao bayiꞌxe, le bibi latj bllel akreꞌ ga weꞌe akeꞌ waziꞌraꞌll akeꞌ. 
+\s1 To angl bdixjweꞌreꞌ gop xhiꞌr kaꞌ ba gorj Cristonꞌ 
+\p  
+\v 8 Rao yer naꞌ, awllo Belén naꞌ, llaꞌa bal beꞌnn llnnaꞌ akeꞌ yer, llap xhiꞌr ke akeꞌ.  
+\v 9 Kate to angl ke Xanllonꞌ bllineꞌ ganꞌ llaꞌa akeꞌn, to yiꞌ xhen bseniꞌn ganꞌ llaꞌa akeꞌn, naꞌ blleb akeꞌ kwis.  
+\v 10 Naꞌ anglenꞌ golleꞌ leakeꞌ: 
+\p —Bi llebre, naꞌ llyixjweꞌraꞌ reꞌ to da wen, da wayoꞌraꞌll yeolol beꞌnne.  
+\v 11 Nnaꞌ gorj to wasrá, gorjeꞌ rao yell ke David, naꞌ reꞌe Cristo beꞌnn nak Xanllo.  
+\v 12 Chaꞌ chejre, ki nak nench yellélere bdaꞌon: llelbeꞌ to raꞌll, naꞌ xhoabeꞌ ga ll-llaꞌa akeꞌ da llao bayiꞌx ake. 
+\p  
+\v 13 Nna nete anglenꞌ kaꞌ, kate bllinkze angl zanll ganꞌ ze anglenꞌ to, naꞌ angl zan kaꞌ, lloeꞌrao akeꞌ Dios ne akeꞌ: 
+\q1  
+\v 14 ¡Doweꞌrao Dios beꞌnn zo yebá! 
+\q1 ¡Naꞌ beꞌnn kaꞌ llaꞌa rao yellrionꞌ, chaꞌa akchgueꞌ xhbab wen, naꞌ kaꞌ bibi wdil kweꞌ! 
+\p  
+\v 15 Ka bazaꞌa angl kaꞌ zayej akeꞌ yebá, gop xhiꞌr kaꞌ lle lwellj akeꞌ: 
+\p —Chejkello Belén naꞌ, lljawiallo bixhanꞌ gokse, ka danꞌ bdixjweꞌ Xanllonꞌ lliꞌo. 
+\p  
+\v 16 Naꞌ broꞌdo akeꞌ nez, ka bllin akeꞌn, naꞌ jadiꞌ akreꞌ Maríanꞌ ren Josénꞌ ren bdaꞌon, xhoabeꞌ ganꞌ ll-llaꞌa akeꞌ da llao bayiꞌx kaꞌ.  
+\v 17 Ka breꞌe gop xhiꞌr kaꞌ bdaꞌon, bzorao lloeꞌ akeꞌ diꞌll doxhen kanꞌ goll anglenꞌ leakeꞌ ke bdaꞌon.  
+\v 18 Yeolol beꞌnn kaꞌ bene diꞌllenꞌ lloeꞌ akeꞌn, llabán akreꞌ kwis.  
+\v 19 Maríanꞌ broꞌ yichjeꞌ kanꞌ bne beꞌnn kaꞌ, naꞌ lloneꞌ xhbab lo raꞌlldaꞌweꞌ.  
+\v 20 Bde naꞌ, zayej gop xhiꞌr kaꞌ, lloeꞌrao akeꞌ Dios kon ba jawiá akeꞌ, naꞌ ba ben aktereꞌ kanꞌ goll anglenꞌ leakeꞌ. 
+\s1 Ka jwaꞌa akeꞌ Jesúsenꞌ yodaꞌo 
+\p  
+\v 21 Ka gok xoꞌn lla naꞌ, bzoeꞌ bdaꞌon sen danꞌ nziꞌi circuncisión, naꞌ bsiꞌi akebeꞌ Jesús, kanꞌ goll anglenꞌ leakeꞌ ka za garjterbeꞌ. 
+\p  
+\v 22 Bde ba bayak Maríanꞌ ren bdaꞌon yall kon kanꞌ ne ley danꞌ bzoj da Moisésenꞌ, naꞌ jweꞌebeꞌ yodaꞌo Jerusalén naꞌ, ga gakbeꞌ rallnaꞌa Dios.  
+\v 23 Le kanꞌ ne ley ke Xanllo Diosenꞌ: “Noteze bidaꞌo byio garj bi nelle, da bien naꞌ gakbeꞌ rallnaꞌa Dios.”  
+\v 24 Naꞌ byej akeꞌ beꞌrao akeꞌ Dios, ben akeꞌ kanꞌ ne ley keꞌen, ganꞌ nen ki: “Llayaꞌl gotre chop plom xtir o chaꞌ chop plom yiꞌx daꞌo.” 
+\p  
+\v 25 Naꞌ Jerusalén naꞌ, zo to beꞌnn re Simeón, naꞌ nakeꞌ to beꞌnn wen, naꞌ nxenraꞌlleꞌ Dios, bzoteze bzoeꞌ brexheꞌ katenꞌ llin lla gakrén Diosenꞌ beꞌnn Israel kaꞌ, naꞌ zorén Spíritu ke Diosenꞌ leꞌe.  
+\v 26 Spíritu ke Diosenꞌ bdixjweꞌn leꞌe ke za gattereꞌ, dekz de reꞌreꞌ Cristo beꞌnnenꞌ wseꞌl Diosenꞌ.  
+\v 27 Leskaꞌ Spíritu naꞌ, benen nench byejeꞌ yodaꞌo braonꞌ. Yodaꞌo naꞌ zoeꞌ kate bllin xaxhnaꞌ Jesúsenꞌ gon akeꞌ kanꞌ ne ley ke Diosenꞌ.  
+\v 28 Simeón naꞌ bnnabeꞌ bidaꞌon bdeꞌlebeꞌ, naꞌ beꞌraweꞌ Diosenꞌ bneꞌe: 
+\q1  
+\v 29 Ba gokse nnaꞌ Dios kiaꞌ, 
+\q1 baziꞌchga nadaꞌ wen, nakaꞌ beꞌnn wen llin koꞌo, kon ka diꞌllenꞌ beꞌrenoꞌ nadaꞌ. 
+\q1  
+\v 30 Rawaꞌ ki nnaꞌ llreꞌren beꞌnnenꞌ yesrá netoꞌn. 
+\q1  
+\v 31 Naꞌ ba benoꞌ to da reꞌte beꞌnn zan. 
+\q1  
+\v 32 Bidaꞌon gakbeꞌ beniꞌ, nench chejnieꞌ beꞌnn bi nak beꞌnn Israel, 
+\q1 naꞌ Lebeꞌ gon nench siꞌi yell koꞌo Israelenꞌ yel baraꞌnn xhen. 
+\p  
+\v 33 Naꞌll xaxhnaꞌ Jesúsenꞌ llabán akreꞌ, ka llen akreꞌ diꞌllenꞌ lloeꞌ Simeón naꞌ ke bdaꞌon.  
+\v 34 Simeón naꞌ, bnnabeꞌ rao Dios gonlaꞌyeꞌ leakeꞌ. Naꞌll lleꞌe Maríanꞌ: 
+\p —Ni ke bidaꞌon beꞌnn zan beꞌnn Israel kaꞌ kweyiꞌ akeꞌ, naꞌ beꞌnn zan yerá akeꞌ. Lebeꞌ gakbeꞌ to da wroeꞌn danꞌ bseꞌl Diosenꞌ Lebeꞌ, naꞌ beꞌnn zan bi choꞌraꞌll akeꞌ danꞌ ben Diosenꞌ kaꞌ.  
+\v 35 Leskaꞌ gonbeꞌ nench gaꞌtbiaꞌ nore beꞌnn llaꞌa xhbab wen, naꞌ nore llaꞌa xhbab da bi nak wen. Naꞌ rweꞌ, kaꞌkze to da látit chaz lo raꞌlldaꞌon, katek wallayraoꞌ ke bidaꞌon. 
+\p  
+\v 36 Leskaꞌ bzo to noꞌr re Ana, Jerusalén naꞌ. Naꞌ Ananꞌ lloeꞌ xtiꞌll Dios, nakeꞌ xhiꞌnn Fanuel, beꞌnn nak xhiꞌnn dialla beꞌnnenꞌ re Aser. Naꞌ ba nakeꞌ beꞌnn gor, gall iz bzorén xhyiweꞌn leꞌe.  
+\v 37 Naꞌ bgaꞌnneꞌ wazeb got xhyiweꞌn, ba gok tapralj tap (84) iz. Naꞌ yeo lla bzoteze bzoeꞌ yodaꞌo braonꞌ, lloeꞌraweꞌ Dios, llalwilleꞌ Dios do lla do yere, naꞌ lloneꞌ was.  
+\v 38 Naꞌ goken jabiꞌyeꞌ ganꞌ ze Josénꞌ ren Maríanꞌ, naꞌ lloeꞌ yel llioxken ke Dios, naꞌ bzorao lloeꞌ xtiꞌll bidaꞌon rao yeolol beꞌnn kaꞌ llaꞌa, lloeꞌreneꞌ diꞌllenꞌ yeololte beꞌnn llbexh, batenꞌ wseꞌl Diosenꞌ beꞌnnenꞌ gakrén leakeꞌn. 
+\p  
+\v 39 Ka bayoll ben Maríanꞌ ren Josénꞌ yeolol kanꞌ ne ley ke Diosenꞌ, naꞌ zayej akeꞌ Nazaret ganꞌ nbane Galilea.  
+\v 40 Naꞌ Jesúsenꞌ zejze ll-lliꞌweꞌ, naꞌ zejzell llejnieꞌreꞌ tlla tlla, naꞌ kaꞌ llakrente Diosenꞌ Leꞌe. 
+\s1 Da ben Jesúsenꞌ ka byejeꞌ yodaꞌo brao Jerusalén naꞌ 
+\p  
+\v 41 Naꞌ ganꞌ nziꞌi Jerusalén naꞌ llon beꞌnn Israel kaꞌ lnni danꞌ ne paskw, naꞌ xaxhnaꞌ Jesúsenꞌ yeo iz lljakeꞌ lnninꞌ.  
+\v 42 Ka goke Jesúsenꞌ chllinn (12) iz, bcheꞌe akeꞌ Leꞌe lnni Jerusalén naꞌ, kanꞌ llon akseꞌ.  
+\v 43 Ka bde lnninꞌ bazaꞌa akeꞌ, naꞌ bi gokbeꞌe Josénꞌ ren Maríanꞌ, bagaꞌnn Jesúsenꞌ Jerusalén naꞌze.  
+\v 44 Llak akreꞌ chaꞌ zazaꞌreneꞌ beꞌnn kaꞌ yelaꞌ. Ba gokte tlla bagoꞌ akeꞌ nezenꞌ ka gokbeꞌe akreꞌ, naꞌ bzorao llayirj akeꞌ Leꞌe radj biꞌch lwellj akeꞌ kaꞌ, naꞌ beꞌnn nombiaꞌ akreꞌ.  
+\v 45 Naꞌ bi llallel akreꞌ Leꞌe, naꞌ babiꞌ akeꞌ Jerusalén naꞌ, da yobre llayirj akeꞌ Leꞌe. 
+\p  
+\v 46 Bixha bayónn lla kate ballel akreꞌ Leꞌe lo yodaꞌo braonꞌ, naꞌ llieꞌ radj beꞌnn siꞌn kaꞌ, llroeꞌ xtiꞌll Diosenꞌ, llzenayeꞌ xtiꞌll akeꞌn, naꞌ llnnabyollreꞌ leakeꞌ.  
+\v 47 Beꞌnn kaꞌ llaꞌa llzenayenꞌ, llabán akreꞌ katkenꞌ llejnieꞌreꞌn, naꞌ kanꞌ llallieꞌ xtiꞌll beꞌnn siꞌn kaꞌ.  
+\v 48 Bixha ka breꞌe xaxhneꞌe kaꞌ Leꞌen, llabán akreꞌ, naꞌ goll xhneꞌen Leꞌe: 
+\p —Xhiꞌnnaꞌ, ¿bixchen ba benzroꞌ netoꞌ kaꞌ? Xaꞌon naꞌ ren nadaꞌ, le ba bdatoꞌ bayirjtoꞌ rweꞌ. 
+\p  
+\v 49 Naꞌll Jesúsenꞌ lleꞌe leakeꞌ: 
+\p —¿Bixchen llayirjzre nadaꞌ? ¿Bi nnézere xchin Xaꞌ naꞌn llayaꞌl gonaꞌ? 
+\p  
+\v 50 Bixha xaxhneꞌe kaꞌ, bi byejnieꞌ akreꞌ bixchen golleꞌ leakeꞌ kaꞌ. 
+\p  
+\v 51 Naꞌ kaꞌ, zayej akeꞌ Nazaretenꞌ zancheꞌe akteꞌ Jesúsenꞌ, naꞌ bzenayteze bzenayeꞌ ke akeꞌ. Naꞌ Maríanꞌ kon lloneꞌ xhbab lo yichjraꞌlldaꞌweꞌ kanꞌ llaken.  
+\v 52 Naꞌ kaꞌ, blliꞌo Jesúsenꞌ llejnieꞌreꞌ, Diosenꞌ naꞌ ren beꞌnn ak, llayoꞌraꞌll akeꞌ kanꞌ lloneꞌn. 
+\c 3  
+\s1 Juan beꞌnnenꞌ bchoa nis bdixjweꞌreꞌ Diꞌll Wen ke Diosenꞌ 
+\r (Mt. 3:1‑12; Mr. 1:1‑8; Jn. 1 :19‑28) 
+\p  
+\v 1 Kanꞌ ba gok chiꞌno (15) iz llia beꞌnnenꞌ re Tiberio César, beꞌnnenꞌ nak zerao wnebiaꞌ ganꞌ nbane Roma, Poncio Pilatonꞌ leskaꞌ llnebieꞌ ganꞌ nziꞌi Judea, naꞌ Herodesenꞌ llnebieꞌ ganꞌ nziꞌi Galilea, naꞌ biꞌch Herodes beꞌnnenꞌ re Felipe nakeꞌ beꞌnnenꞌ llnebiaꞌ ganꞌ nziꞌi Iturea, naꞌ ganꞌ nziꞌi Traconite, naꞌ beꞌnnenꞌ re Lisanias nakeꞌ beꞌnnenꞌ llnebiaꞌ ganꞌ nziꞌi Abilinia.  
+\v 2 Naꞌll Anás naꞌ, naꞌ Caifás naꞌ, nak akeꞌ bxoz brao ke beꞌnn Israel kaꞌ. Iz naꞌ, beꞌrén Diosenꞌ Juan xhiꞌnn Zacaríasenꞌ diꞌlle ganꞌ zoeꞌ yiꞌxenꞌ, ganꞌ nak latj dachenꞌ.  
+\v 3 Naꞌll byejeꞌ toto yell kaꞌ lliꞌ to lloaꞌ yeo Jordán naꞌ, llyixjweꞌreꞌ beꞌnne llayaꞌl wayat akreꞌ ke da xhinnj non akeꞌ, naꞌ choa akeꞌ nis nench waziꞌxhen Diosenꞌ ke akeꞌ.  
+\v 4 Llak kanꞌ bzoj Isaías beꞌnn beꞌe xtiꞌll Diosenꞌ kanaꞌ, bneꞌe ke Juan naꞌ: 
+\q1 To beꞌnn llosiaꞌ lyiꞌxenꞌ neꞌe: 
+\q1 “Legón xhnid, legonchaꞌo nez ganꞌ te Xanllonꞌ, 
+\q1 lewsarj yichjraꞌlldaꞌore ka llon to beꞌnn llsarj to nez li. 
+\q1  
+\v 5 Ga nak lotj, llayaꞌl wallaꞌn yo, 
+\q1 ga de nez da llep llaze, llayaꞌl wayaꞌten li. 
+\q1 Ga bi nak lixheje, wayaꞌt linꞌ, 
+\q1 naꞌ nez da niꞌt yej, llayaꞌl wayej lben. 
+\q1  
+\v 6 Yeolol beꞌnn llaꞌa yellrio ni, reꞌe akreꞌ kanꞌ yesrá Diosenꞌ beꞌnne.” 
+\p  
+\v 7 Beꞌnn zan jakeꞌ rao Juan naꞌ, nench wchoeꞌ leakeꞌ nis, naꞌll benreꞌ leakeꞌ znia bneꞌe: 
+\p —¡Reꞌ nakre beꞌnn zban beꞌnn wxhiyeꞌe, llonre ka bele! ¿No bzejnieꞌ reꞌ, wak warare rao danꞌ wseꞌl Diosenꞌ katenꞌ goneꞌ yel koxchis ke beꞌnnachenꞌ?  
+\v 8 Chaꞌ rennere ba bayátere ke da xhinnjenꞌ nonre naꞌ, llayaꞌl gonre da wen nench gakbeꞌe beꞌnne ba ballaꞌa yichjraꞌlldaꞌore. Bi gonzre xhbab nnere: “Xhiꞌnn dia lla Abraham netoꞌ.” Yej kaꞌ niꞌt nga, wakte gon Diosenꞌ wayaken xhiꞌnn dialla Abraham.  
+\v 9 Leskaꞌ ba noꞌxteꞌ banchenꞌ xhnid, yeolol yay da bi llbia daxhix wen, wchoyeꞌ do roe, gaken waye da wzeyeꞌ. 
+\p  
+\v 10 Naꞌll beꞌnn kaꞌ llaꞌa naꞌ, lle akeꞌ leꞌe: 
+\p —¿Akxha llayaꞌl gontoꞌ nnaꞌ chaꞌ? 
+\p  
+\v 11 Naꞌll Juan naꞌ, lleꞌe leakeꞌ: 
+\p —Chaꞌ de chop xherk kere, leweꞌe to xherk ke beꞌnn bibi de keꞌe. Naꞌ beꞌnn de da llaweꞌ, leskaꞌ weꞌe ke beꞌnn bi de da gaweꞌ. 
+\p  
+\v 12 Naꞌ beꞌnn kaꞌ nak wachixhj, jabiꞌy akeꞌ lleꞌn akreꞌ choa akeꞌ nis, naꞌ lle akeꞌ leꞌe: 
+\p —Maestro, ¿Bixha gon netoꞌ? 
+\p  
+\v 13 Naꞌll lle Juan naꞌ leakeꞌ: 
+\p —Bi llayaꞌl wchixhjre da xhenll. 
+\p  
+\v 14 Leskaꞌ beꞌnn wakaꞌa ya kaꞌ bnnab akeꞌ, lle akeꞌ Leꞌe: 
+\p —¿Bi llayaꞌl gon netoꞌ? 
+\p Naꞌ lleꞌe leakeꞌ: 
+\p —Bi wxoare koꞌll beꞌnne da wxhiyeꞌe, naꞌ bi wkaꞌre bi da de ke beꞌnne. Legón banez ka to da llonre gan. 
+\p  
+\v 15 Naꞌ beꞌnn zan beꞌnn Israel kaꞌ, ba llaꞌa akeꞌ dá nne, llon akeꞌ xhbab chaꞌ Juan naꞌ nak Cristonꞌ.  
+\v 16 Naꞌll Juan naꞌ, lleꞌe beꞌnn zan kaꞌ llaꞌn: 
+\p —Da li nadaꞌ llchoaꞌ beꞌnn nis, naꞌ za yed to beꞌnn naplle yel wak ka nadaꞌ, bi zaꞌkaꞌ nadaꞌ ka Leꞌe, ni gaz da wadiaꞌ xhereꞌ bi zaꞌkaꞌ. Leꞌe wchoeꞌ beꞌnn nis kon ren Spíritu ke Diosenꞌ, da gon ka llon yiꞌ.  
+\v 17 Katenꞌ yedeꞌn, goneꞌ ka llon beꞌnn kate llsoeꞌ trigo, llazieꞌ trigonꞌ, naꞌ llzeyeꞌ yixh bebe ken. Leꞌe napeꞌ to yiꞌ da bi wayorkze. 
+\p  
+\v 18 Naꞌ kaꞌ, diꞌll zan da beꞌe Juan naꞌ, llyixjweꞌreꞌ Diꞌll Wen ke Xanllonꞌ.  
+\v 19 Juan naꞌ, leskaꞌ lleꞌe Herodes beꞌnnenꞌ llnebiaꞌ Judeanꞌ, ka da xhinnj xhen naꞌ noneꞌ, zoreneꞌ Herodías noꞌr ke biꞌcheꞌn re Felipe. Leskaꞌ lleteꞌ leꞌe ka nak billre da xhinnj lloneꞌ.  
+\v 20 Naꞌ Herodes naꞌ, basyolleꞌ beneꞌ ye to da xhinnj xhen, broeꞌ Juan naꞌ rill ya. 
+\s1 Jesúsenꞌ blloeꞌ nis 
+\r (Mt. 3:13‑17; Mr. 1:9‑11) 
+\p  
+\v 21 Bixha chak nna llchoa Juan naꞌ beꞌnn kaꞌ nis, leskaꞌ bllin Jesúsenꞌ, naꞌ bchoa Juan naꞌ Leꞌe nis. Bixha chak llalwill Jesúsenꞌ Dios naꞌn, byarj yebánꞌ,  
+\v 22 naꞌ Spíritu ke Diosenꞌ betjen bzorenen Leꞌe, naꞌ nak Spíritunꞌ ka to plom daꞌo, naꞌ ben akreꞌ be xhnne ke Diosenꞌ bneꞌe: 
+\p —Rweꞌ nakoꞌ xhiꞌnnaꞌ nllieꞌraꞌ, llaweraꞌ llazraꞌllaꞌ kwis. 
+\s1 Xozxtaꞌo Jesucristonꞌ 
+\r (Mt. 1:1‑17) 
+\p  
+\v 23 Chilloa (30) ize Jesúsenꞌ, kanꞌ bzoraweꞌ lloneꞌ xchineꞌ danꞌ zadyeneꞌ rao yellrionꞌ, kon kanꞌ bne akeꞌ, gokeꞌ xhiꞌnn José, naꞌ Josénꞌ gokeꞌ xhiꞌnn Elí, 
+\q1  
+\v 24 Elí naꞌ gokeꞌ xhiꞌnn Matat, 
+\q1 Matat naꞌ gokeꞌ xhiꞌnn Leví, 
+\q1 Levínꞌ naꞌ gokeꞌ xhiꞌnn Melqui, naꞌ Melqui naꞌ gokeꞌ xhiꞌnn Jana, 
+\q1 Jana naꞌ gokeꞌ xhiꞌnn José. 
+\q1  
+\v 25 José naꞌ gokeꞌ xhiꞌnn Matatías, naꞌ Matatías naꞌ gokeꞌ xhiꞌnn Amós, 
+\q1 Amós naꞌ gokeꞌ xhiꞌnn Nahum, 
+\q1 Nahum naꞌ gokeꞌ xhiꞌnn Esli, naꞌ Esli naꞌ gokeꞌ xhiꞌnn Nagai, 
+\q1  
+\v 26 Nagai naꞌ gokeꞌ xhiꞌnn Maat, naꞌ Maat naꞌ gokeꞌ xhiꞌnn Matatías, 
+\q1 Matatías naꞌ gokeꞌ xhiꞌnn Semei, 
+\q1 Semei naꞌ gokeꞌ xhiꞌnn José, naꞌ José naꞌ gokeꞌ xhiꞌnn Judá. 
+\q1  
+\v 27 Judá naꞌ gokeꞌ xhiꞌnn Joana, 
+\q1 Joana naꞌ gokeꞌ xhiꞌnn Resa, naꞌ Resa naꞌ gokeꞌ xhiꞌnn Zorobabel, 
+\q1 Zorobabel naꞌ gokeꞌ xhiꞌnn Salatiel, 
+\q1 Salatiel naꞌ gokeꞌ xhiꞌnn Neri. 
+\q1  
+\v 28 Naꞌ Neri naꞌ gokeꞌ xhiꞌnn Melqui, 
+\q1 Melqui naꞌ gokeꞌ xhiꞌnn Adi, 
+\q1 Adi naꞌ gokeꞌ xhiꞌnn Cosam, naꞌ Cosam naꞌ gokeꞌ xhiꞌnn Elmodam, 
+\q1 Elmodam naꞌ gokeꞌ xhiꞌnn Er. 
+\q1  
+\v 29 Er naꞌ gokeꞌ xhiꞌnn Josué, naꞌ Josué naꞌ gokeꞌ xhiꞌnn Eliezer, 
+\q1 Eliezer naꞌ gokeꞌ xhiꞌnn Jorim, 
+\q1 Jorim naꞌ gokeꞌ xhiꞌnn Matat. 
+\q1  
+\v 30 Naꞌ Matat naꞌ gokeꞌ xhiꞌnn Leví, 
+\q1 Leví naꞌ gokeꞌ xhiꞌnn Simeón, 
+\q1 Simeón naꞌ gokeꞌ xhiꞌnn Judá, naꞌ Judá naꞌ gokeꞌ xhiꞌnn José, 
+\q1 José naꞌ gokeꞌ xhiꞌnn Jonán, 
+\q1 Jonán naꞌ gokeꞌ xhiꞌnn Eliaquim. 
+\q1  
+\v 31 Naꞌ Eliaquim naꞌ gokeꞌ xhiꞌnn Melea, 
+\q1 Melea naꞌ gokeꞌ xhiꞌnn Mainán, 
+\q1 Mainán naꞌ gokeꞌ xhiꞌnn Matata, naꞌ Matata naꞌ gokeꞌ xhiꞌnn Natán. 
+\q1  
+\v 32 Natán naꞌ gokeꞌ xhiꞌnn David, 
+\q1 David naꞌ gokeꞌ xhiꞌnn Isaí, naꞌ Isaí naꞌ gokeꞌ xhiꞌnn Obed, 
+\q1 Obed naꞌ gokeꞌ xhiꞌnn Booz, 
+\q1 Booz naꞌ gokeꞌ xhiꞌnn Salmón, naꞌ Salmón naꞌ gokeꞌ xhiꞌnn Naasón. 
+\q1  
+\v 33 Naasón naꞌ gokeꞌ xhiꞌnn Aminadab, 
+\q1 Aminadab nanꞌ gokeꞌ xhiꞌnn Aram, naꞌ Aram naꞌ gokeꞌ xhiꞌnn Esrom, 
+\q1 Esrom naꞌ gokeꞌ xhiꞌnn Fares, 
+\q1 Fares naꞌ gokeꞌ xhiꞌnn Judá. 
+\q1  
+\v 34 Naꞌ Judá naꞌ gokeꞌ xhiꞌnn Jacob, 
+\q1 Jacob naꞌ gokeꞌ xhiꞌnn Isaac, 
+\q1 Isaac naꞌ gokeꞌ xhiꞌnn Abraham, naꞌ Abraham naꞌ gokeꞌ xhiꞌnn Taré, 
+\q1 Taré naꞌ gokeꞌ xhiꞌnn Nacor. 
+\q1  
+\v 35 Nacor naꞌ gokeꞌ xhiꞌnn Serug, naꞌ Serug naꞌ gokeꞌ xhiꞌnn Ragau, 
+\q1 Ragau naꞌ gokeꞌ xhiꞌnn Peleg, 
+\q1 Peleg naꞌ gokeꞌ xhiꞌnn Heber, naꞌ Heber naꞌ gokeꞌ xhiꞌnn Sala. 
+\q1  
+\v 36 Sala naꞌ gokeꞌ xhiꞌnn Cainán, 
+\q1 Cainán naꞌ gokeꞌ xhiꞌnn Arfaxad, naꞌ Arfaxad naꞌ gokeꞌ xhiꞌnn Sem, 
+\q1 Sem naꞌ gokeꞌ xhiꞌnn Noé, 
+\q1 Noé naꞌ gokeꞌ xhiꞌnn Lamec. 
+\q1  
+\v 37 Naꞌ Lamec naꞌ gokeꞌ xhiꞌnn Matusalén, 
+\q1 Matusalén naꞌ gokeꞌ xhiꞌnn Enoc, 
+\q1 Enoc naꞌ gokeꞌ xhiꞌnn Jared, naꞌ Jared naꞌ gokeꞌ xhiꞌnn Mahalaleel, 
+\q1 Mahalaleel naꞌ gokeꞌ xhiꞌnn Cainán. 
+\q1  
+\v 38 Cainán naꞌ gokeꞌ xhiꞌnn Enós, naꞌ Enós naꞌ gokeꞌ xhiꞌnn Set, 
+\q1 Set naꞌ gokeꞌ xhiꞌnn Adán, naꞌ Adán naꞌ gokeꞌ xhiꞌnn Dios. 
+\c 4  
+\s1 Gokraꞌll daxiꞌon wkoꞌyelen Jesúsenꞌ goneꞌ da xhinnj 
+\r (Mt. 4:1‑11; Mr. 1:12‑13) 
+\p  
+\v 1 Naꞌ Jesúsenꞌ kon ren Spíritu ke Diosenꞌ llnebiaꞌtezen yichjraꞌlldaꞌweꞌn, bazeꞌe yeo Jordán naꞌ, naꞌ Spíritunꞌ benen nench byej Jesúsenꞌ latj dachenꞌ.  
+\v 2 Choa (40) lla bzoeꞌ naꞌ, naꞌ rao choa lla naꞌ, daxiꞌon bkoꞌyelen Leꞌe goneꞌ da xhinnj. Naꞌ beneꞌ was, bi bdaokzeꞌ da choa lla naꞌ, bde naꞌ bdoneꞌ.  
+\v 3 Naꞌ jabiꞌy daxiꞌon llen Leꞌe: 
+\p —Chaꞌ da li nakoꞌ Xhiꞌnn Dios, bayonchk yej ki yet xtir. 
+\p  
+\v 4 Naꞌll balliꞌi Jesúsenꞌ xtiꞌll daxiꞌon, lleꞌen: 
+\p —Ki nyoj xtiꞌll Diosenꞌ: “Kere toze yet xtir danꞌ gaollo naꞌn, llonn yel nban ke lliꞌo beꞌnnach, renkze diꞌll danꞌ ll-lloj lloaꞌ Diosenꞌ nbanrenllo.” 
+\p  
+\v 5 Naꞌll bcheꞌe daxiꞌon Leꞌe to rao yaꞌ sibe, naꞌ broeꞌn Leꞌe yeolol yell zjalliꞌ rao yellrionꞌ.  
+\v 6 Naꞌ llen Leꞌe: 
+\p —Doxhen yel banez yel llnebiaꞌ ke yell ki, gonnaꞌ rweꞌ, le kiaꞌn naken, naꞌ kon no llazraꞌllaꞌ waꞌan.  
+\v 7 Chaꞌ rweꞌ wcheꞌk xhiboꞌ weꞌraoꞌ nadaꞌ, doxhenen gonnaꞌ rweꞌ. 
+\p  
+\v 8 Naꞌll lle Jesúsenꞌ daxiꞌon: 
+\p —Byej kaꞌle daxiꞌo, ki nyoj xtiꞌll Diosenꞌ: “Llayaꞌl gonliraꞌlloꞌ Diosenꞌ, naꞌ toze Leꞌen weꞌraꞌo.” 
+\p  
+\v 9 Naꞌ bcheꞌn Leꞌe yichjo yodaꞌo brao Jerusalén naꞌ, jasé akteꞌ ga zerao nak sib, naꞌ llen Leꞌe: 
+\p —Chaꞌ da li nakoꞌ Xhiꞌnn Dios, bxhiꞌtchke ganni lljasoteꞌo lleꞌle,  
+\v 10 le ki nyoj xtiꞌll Diosenꞌ: 
+\q1 Diosenꞌ wseꞌleꞌ beꞌnn kaꞌ nak angl keꞌe, gakrén akeꞌ rweꞌ. 
+\q1  
+\v 11 Naꞌ goꞌx akeꞌ rweꞌ, 
+\q1 nench ke lljacheꞌo yej. 
+\p  
+\v 12 Naꞌll goll Jesúsenꞌ len: 
+\p —Leskaꞌ nyojen: “Bi llayaꞌl nnabroꞌ Diosenꞌ chaꞌ rennreꞌ kanꞌ neꞌen.” 
+\p  
+\v 13 Bayoll kate billbi ballele daxiꞌon, akre ka wkoꞌyelen Leꞌe, naꞌ blleꞌyiꞌllen to chiꞌi. 
+\s1 Jesúsenꞌ bzoraweꞌ llyixjweꞌreꞌ xtiꞌll Diosenꞌ 
+\r (Mt. 4:12‑17; Mr. 1:14‑15) 
+\p  
+\v 14 Naꞌ ka llnebiaꞌteze Spíritu ke Diosenꞌ yichjraꞌlldaꞌo Jesúsenꞌ, bayejeꞌ ganꞌ nbane Galileanꞌ, yeolol yell kaꞌ zjalliꞌ do naꞌ, bze ke Jesúsenꞌ.  
+\v 15 Naꞌ llzejnieꞌreꞌ beꞌnn toto yell ga zo yodaꞌo ga lladop beꞌnn Israel kaꞌ, naꞌ yeolol beꞌnn kaꞌ lloeꞌrao akeꞌ Leꞌe. 
+\s1 Jesúsenꞌ ballineꞌ Nazaret 
+\r (Mt. 13:53‑58; Mr. 6:1‑6) 
+\p  
+\v 16 Naꞌ ballineꞌ Nazaret ganꞌ blliꞌweꞌ. To lla llap beꞌnn Israel kaꞌ baraꞌnne, byejeꞌ yodaꞌo ganꞌ lladop beꞌnn Israel kaꞌ kanꞌ llonkzeꞌ, naꞌ bzolleꞌe beleꞌ yichenꞌ.  
+\v 17 Naꞌ bgoꞌx akeꞌ Leꞌe danꞌ bzoj da Isaías beꞌnn beꞌe xtiꞌll Dios kanaꞌ, naꞌ bsarjeꞌn, naꞌ jadiꞌreꞌ ganꞌ nen ki: 
+\q1  
+\v 18 Spíritu ke Xanllonꞌ zorenen nadaꞌ, 
+\q1 brejeꞌ nadaꞌ nench chixjweꞌraꞌ Diꞌll Wen keꞌen beꞌnn yaꞌch; 
+\q1 bseꞌleꞌ nadaꞌ nench wayonaꞌ beꞌnn bi zo wen, naꞌ beꞌnn zo yaꞌche. 
+\q1 Chixjweꞌraꞌ beꞌnn kaꞌ nzap daxiꞌon, Diosenꞌ yesreꞌe leakeꞌ, 
+\q1 waxaꞌ rao beꞌnn lchole, 
+\q1 wasraꞌ beꞌnn llsaꞌkziꞌ da xhinnjenꞌ leakeꞌ. 
+\q1  
+\v 19 Chixjweꞌraꞌ ba bllin lla gakrén Diosenꞌ beꞌnnachenꞌ. 
+\p  
+\v 20 Naꞌ batobeꞌ yichenꞌ, naꞌ bayoeꞌn beꞌnnenꞌ nak rallnaꞌa len naꞌ, naꞌ jallieꞌ. Yeolol beꞌnn kaꞌ llaꞌa lo yodaꞌon, llwiachich akeꞌ Leꞌe.  
+\v 21 Naꞌll lleꞌe leakeꞌ: 
+\p —Nnaꞌ llak kanꞌ llia leꞌ yichenꞌ. 
+\p  
+\v 22 Beꞌnn kaꞌ bene xtiꞌlleꞌn, llabán akreꞌ katek nbaraz nak xtiꞌlleꞌn, naꞌ bnne akeꞌ wen keꞌe. Naꞌ lle lwellj akeꞌ: 
+\p —¿Kere beꞌnn ninꞌ xhiꞌnn José? 
+\p  
+\v 23 Naꞌll lle Jesúsenꞌ leakeꞌ: 
+\p —Cheke nnaꞌ yere nadaꞌ diꞌllenꞌ ne ki: “Wen rmell rweꞌ, bayonchk rmell kwinoꞌ”. Naꞌ leskaꞌ yere nadaꞌ: “Da kaꞌ ba bénetoꞌ benoꞌ Capernaum naꞌ, gonchkoꞌn ralloꞌ ni nnaꞌ.” 
+\p  
+\v 24 Naꞌll bneꞌe da yobre: 
+\p —Da li llniaꞌ, ni to beꞌnn lloeꞌ xtiꞌll Diosenꞌ, bi choꞌraꞌll akeꞌ leꞌe ralleꞌ.  
+\v 25 Da li llniaꞌ, zan noꞌr wazeb llaꞌa Israelenꞌ, kanꞌ bzo Elías beꞌnnenꞌ beꞌe xtiꞌll Diosenꞌ kanaꞌ. Kanaꞌn chonn iz xop beꞌo bi gok yej, naꞌ gok win rao yellrionꞌ,  
+\v 26 naꞌ Diosenꞌ bi bseꞌleꞌ Elíasenꞌ ganꞌ zjazó noꞌr wazeb Israel kaꞌ, zan bseꞌleꞌ leꞌe to yell da nziꞌi Sarepta ga nbane Sidón, gannaꞌte bzo to noꞌr wazeb gokreneꞌ.  
+\v 27 Leskaꞌ beꞌnn zan beꞌnn llen yillweꞌ danꞌ ne lepra, bllaꞌa Israelenꞌ kanꞌ bzo Eliseo, ni toeꞌ bi bayak, toze beꞌnnenꞌ re Naamán beꞌnn Siria, lezeꞌ bayak. 
+\p  
+\v 28 Ka ben akreꞌ diꞌll ki, yeolol beꞌnn kaꞌ llaꞌa lo yodaꞌon, gokllaꞌa akeꞌ kwis.  
+\v 29 Naꞌ bzollaꞌdo akeꞌ, naꞌ brej akeꞌ Leꞌe yell, bcheꞌe akeꞌ Leꞌe to rao yaꞌ awllo ganꞌ lliꞌ yellenꞌ, gokraꞌll akeꞌ wllix akeꞌ Leꞌe.  
+\v 30 Naꞌ bi gok, llwia akteꞌ badieꞌ radj akeꞌn zayejeꞌ. 
+\s1 Jesúsenꞌ bayoneꞌ to beꞌnn yoꞌ daxiꞌo yichjraꞌlldaꞌweꞌ 
+\r (Mr. 1:21‑28) 
+\p  
+\v 31 Naꞌ jasoeꞌ yell danꞌ re Capernaum ga nbane Galilea, naꞌ toto lla llap beꞌnn Israel kaꞌ baraꞌnne, llzejnieꞌreꞌ beꞌnn kaꞌ.  
+\v 32 Naꞌ llabán akreꞌ kanꞌ llzejnieꞌreꞌn, le nakbieꞌze nnezreꞌ kwasro, naꞌ nseꞌe yel llnebiaꞌ ke Diosenꞌ ka nak lloeꞌ diꞌllenꞌ. 
+\p  
+\v 33 Bixha lo yodaꞌo ganꞌ lladop akeꞌ naꞌ, lliꞌ to beꞌnn yoꞌ daxiꞌo yichjraꞌlldaꞌweꞌ, naꞌ bzorao llosieꞌ,  
+\v 34 bneꞌe: 
+\p —Byej kaꞌle, ¿bixchen zadchixkoꞌ ren netoꞌ, Jesús beꞌnn Nazaret? ¿Zaꞌo zadlleyiꞌo netoꞌn? Nnézkzeraꞌ no rweꞌ, rweꞌn Beꞌnn Nak Laꞌy bseꞌl Dios. 
+\p  
+\v 35 Naꞌ benreꞌ daxiꞌon znia, golleꞌn: 
+\p —¡Llakia llonoꞌ! ¡Lla balloj yichjraꞌlldaꞌo beꞌnnenꞌ! 
+\p Naꞌll bllixtolen beꞌnnenꞌ, naꞌ ballojen, naꞌ bibi goke beꞌnnenꞌ.  
+\v 36 Yeolol beꞌnn kaꞌ llaꞌn, llabán akreꞌ, lle lwellj akeꞌ: 
+\p —¿Bitk diꞌllenꞌ ne beꞌnnenꞌ? Napeꞌ yel llnebiaꞌ, naꞌ yel wak, naꞌllenꞌ lleꞌe daxiꞌo kaꞌ yelloj aken, naꞌ llalloj akten. 
+\p  
+\v 37 Yeolol yell kaꞌ zjalliꞌ do naꞌ, bze ke Jesúsenꞌ. 
+\s1 Jesúsenꞌ bayoneꞌ xhnaꞌ noꞌr ke Simón Pedro 
+\r (Mt. 8:14‑15; Mr. 1:29‑31) 
+\p  
+\v 38 Jesúsenꞌ bazolleꞌe zayejeꞌ, naꞌ byejeꞌ rill to beꞌnn re Simón. Naꞌ xhnaꞌ noꞌr ke Simón naꞌ, yoeꞌ da la, naꞌ goll akeꞌ Jesúsenꞌ wayoneꞌ noꞌrenꞌ.  
+\v 39 Naꞌ Jesúsenꞌ jabiꞌyeꞌ ganꞌ xhoa beꞌnn weꞌen, naꞌ blleꞌkeꞌ, naꞌ balwilleꞌ da lanꞌ. Naꞌ le bayakte noꞌrenꞌ, le bayasteꞌ llsinieꞌ da gao akeꞌ. 
+\s1 Jesúsenꞌ bayoneꞌ beꞌnn zan 
+\r (Mt. 8:16‑17; Mr. 1:32‑34) 
+\p  
+\v 40 Ka ba llen willenꞌ, jwaꞌa akeꞌ beꞌnn zan llak biteze yillweꞌ rao Jesúsenꞌ, naꞌ bxoa taꞌkeꞌn yichj toto akeꞌ, naꞌ bayoneꞌ leakeꞌ.  
+\v 41 Leskaꞌ balloj daxiꞌo kaꞌ lo yichjraꞌlldaꞌo beꞌnn zan ak, llosiaꞌ aken, nen: 
+\p —¡Rweꞌ nakoꞌ Xhiꞌnn Dios! 
+\p Naꞌ benreꞌ daxiꞌo kaꞌ znia, bi beꞌe latj nne aken, le nnez akren Leꞌen Cristonꞌ. 
+\s1 Jesúsenꞌ bdeꞌe doxhen Galilea llyixjweꞌreꞌ xtiꞌll Diosenꞌ 
+\r (Mr. 1:35‑39) 
+\p  
+\v 42 Bateyó ka byeniꞌ, bllojeꞌ byejeꞌ to latj dach. Naꞌ beꞌnn kaꞌ llayirj akeꞌ Leꞌe, ka ballel akreꞌ Leꞌen, bzaꞌy akeꞌ Leꞌe, bi gokraꞌll akeꞌ chejeꞌ ga yobre.  
+\v 43 Naꞌll golleꞌ leakeꞌ: 
+\p —Llonen bien chaꞌa yell kaꞌ yelaꞌ, lljatixjweꞌraꞌ Diꞌll Wen ke Diosenꞌ, le ke len naꞌ bseꞌleꞌ nadaꞌ. 
+\p  
+\v 44 Naꞌ kaꞌ toto ga zo yodaꞌo ganꞌ lladop beꞌnn Israel kaꞌ doxhen ganꞌ nbane Galileanꞌ, llejeꞌ llzejnieꞌreꞌ leakeꞌ. 
+\c 5  
+\s1 Danꞌ ben Jesúsenꞌ lo nisdaꞌo 
+\r (Mt. 4:18‑22; Mr. 1:16‑20) 
+\p  
+\v 1 Gok ka ze Jesúsenꞌ lloaꞌ nisdaꞌo da nziꞌi Genesaret, naꞌ beꞌnn zan kwis llaꞌa, to llchiꞌd akeꞌ Leꞌe, lleꞌn akreꞌ wzenay akeꞌ xtiꞌll Diosenꞌ.  
+\v 2 Naꞌ breꞌreꞌ awlloze lloaꞌ nisenꞌ, lliꞌ chop barco, naꞌ wxhen belyaꞌ kaꞌ, ba balloj akeꞌ loenꞌ, llayib yixj bel ke akeꞌn.  
+\v 3 Naꞌ byoeꞌ to lo barco ke Simón naꞌ, naꞌ golleꞌ leꞌe, wlliꞌyeꞌn raꞌt kaꞌle lo nisenꞌ. Naꞌ bllieꞌ bzejnieꞌreꞌ beꞌnn kaꞌ llaꞌn.  
+\v 4 Ka bayoll broeꞌreꞌ beꞌnn kaꞌ, lleꞌe Simón naꞌ: 
+\p —Blliꞌy barconꞌ lo nis ganꞌ nak zitj naꞌ, naꞌ lewzaꞌl yixj bel kerénꞌ nench senre bel. 
+\p  
+\v 5 Naꞌll goll Simón naꞌ Leꞌe: 
+\p —Maestro, do yer ba bentoꞌ llin, ni to gaz bel bi bdoꞌletoꞌ, nnaꞌ kone xtiꞌlloꞌ ni wzaꞌlchektoꞌn. 
+\p  
+\v 6 Naꞌ bzaꞌl yixj bel ke akeꞌn lo nisenꞌ, ba zan belyaꞌ kaꞌ bzapen, to lleꞌne yixjenꞌ cheꞌzen.  
+\v 7 Naꞌll goxh akeꞌ beꞌnn lwellj akeꞌ kaꞌ, llaꞌa lo barconꞌ ye to nench lljakrén akeꞌ leakeꞌ, naꞌ byej akeꞌ, naꞌ basllaꞌchochj akteꞌ barco kaꞌ, to llon aken da yiꞌch aken lo nisenꞌ.  
+\v 8 Ka breꞌe Simón Pedronꞌ kanꞌ goken, bcheꞌk xhibeꞌn rao Jesúsenꞌ lleꞌe Leꞌe: 
+\p —¡Blleꞌyiꞌll kaꞌle Xanaꞌ, beꞌnn wen da xhinnjze nadaꞌ! 
+\p  
+\v 9 Bne Simón naꞌ kaꞌ, le bllebeꞌ kwis ren beꞌnn kaꞌ yelaꞌ, ke nak danꞌ bxhen akeꞌ belyaꞌ zan kaꞌ.  
+\v 10 Leskaꞌ Jacobo, naꞌ Juan xhiꞌnn beꞌnnenꞌ re Zebedeo, llabán akreꞌ kwis, le nak akeꞌ txhen toz ka llin llon akeꞌ ren Simón naꞌ. Naꞌll goll Jesúsenꞌ Simón naꞌ: 
+\p —Bi lleboꞌ, nnaꞌ soraoꞌ weꞌo xtiꞌllaꞌn; kanꞌ llonoꞌ daꞌo wxhen belenꞌ, kaꞌ gonoꞌ taꞌo wtopoꞌ beꞌnne. 
+\p  
+\v 11 Ka jalek akeꞌ barco kaꞌ yo billenꞌ, naꞌ bsanraꞌll xchinraz akeꞌn, naꞌ bnao akeꞌ Leꞌe. 
+\s1 Jesúsenꞌ bayoneꞌ to beꞌnn llen yillweꞌ danꞌ ne lepra 
+\r (Mt. 8:1‑4; Mr. 1:40‑45) 
+\p  
+\v 12 Bixha gok ka dá Jesúsenꞌ to rao yell, byej to beꞌnn llen yillweꞌ danꞌ ne lepra raweꞌn. Ka breꞌe beꞌnnenꞌ Jesúsenꞌ, bcheꞌk xhibeꞌ, blleꞌktekzeꞌ rao yonꞌ, goꞌtyoereꞌ Leꞌe, lleꞌe Leꞌe: 
+\p —Xanaꞌ, chaꞌ lleꞌnroꞌ, wakse wakaꞌo yillweꞌ kiaꞌ ni. 
+\p  
+\v 13 Naꞌll Jesúsenꞌ bli neꞌen, naꞌ bdaneꞌ leꞌe, naꞌ bneꞌe: 
+\p —Lleꞌnkzraꞌ, bayak. 
+\p Sete le bagaꞌte yillweꞌ ke beꞌnnenꞌ.  
+\v 14 Jesúsenꞌ goꞌtyoereꞌ leꞌe, ni to beꞌnn bi weꞌreneꞌ diꞌll kanꞌ bayoneꞌ leꞌen, lleꞌe leꞌe: 
+\p —Byej rao bxozenꞌ, naꞌ beꞌe danꞌ nllia da Moisésenꞌ biaꞌa, nench yeyakoꞌ yall rao leyenꞌ. Kaꞌ ben nench yeolol beꞌnne nnez akreꞌ ba bayakoꞌ. 
+\p  
+\v 15 Yeolol yell kaꞌ, yezikre bze ke Jesúsenꞌ. Naꞌ beꞌnn zan kwis lldop llzenay akeꞌ xtiꞌlleꞌn, naꞌ lljakeꞌ nench wakeꞌe biteze yillweꞌ llak akeꞌ.  
+\v 16 Naꞌ Leꞌen ka llonkzeꞌ, llbeꞌyiꞌlleꞌ beꞌnn zan kaꞌ, llejeꞌ to latj dach, naꞌ lloeꞌreneꞌ Diosenꞌ diꞌlle. 
+\s1 Jesúsenꞌ bayoneꞌ to beꞌnn bi dá niaꞌneꞌe 
+\r (Mt. 9:1‑8; Mr. 2:1‑12) 
+\p  
+\v 17 Gok to lla ka llzejnieꞌ Jesúsenꞌ beꞌnne, naꞌ lliꞌ beꞌnn kaꞌ nziꞌi fariseo, naꞌ ren beꞌnn kaꞌ llroeꞌ ley danꞌ bzoj da Moisésenꞌ, beꞌnn zaꞌk doxhen yell kaꞌ ganꞌ nbane Galilea, naꞌ Judea, naꞌ beꞌnn zaꞌk Jerusalén. Naꞌ yel wak ke Xanllo Dios zorenen Leꞌe nench llayoneꞌ beꞌnn llak yillweꞌ.  
+\v 18 Bixha ka bllinkze txhonnj beꞌnn, noaꞌ akeꞌ to beꞌnn bi dá niaꞌneꞌe, nxoa akeꞌ leꞌe to rao bray. Lleꞌn akreꞌ choꞌ akeꞌ lo yoꞌn, lljwaꞌa akeꞌ beꞌnn weꞌen rao Jesúsenꞌ.  
+\v 19 Naꞌ ziꞌtere beꞌnn zan llaꞌa, kere llak choꞌ akeꞌ, naꞌ byep akeꞌ yichjore, bkaꞌa akeꞌ dex kaꞌ, naꞌ bletj akeꞌ beꞌnn weꞌen do ka nakeꞌ, naꞌ bdixj akeꞌ leꞌe rao Jesúsenꞌ.  
+\v 20 Ka breꞌe Jesúsenꞌ kanꞌ ben akeꞌn, gokbeꞌreꞌ nxenraꞌll akeꞌ Leꞌe, naꞌll lleꞌe beꞌnn weꞌen: 
+\p —Beꞌnne, ni llaziꞌxhenaꞌ da xhinnj koꞌon. 
+\p  
+\v 21 Naꞌll beꞌnn kaꞌ llsedre ke ley danꞌ bzoj da Moisésenꞌ, naꞌ beꞌnn fariseo kaꞌ, ka ben akreꞌ kanꞌ bne Jesúsenꞌ, ben akeꞌ xhbab, bne akeꞌ: “¿No beꞌnnenꞌ nezeꞌ kaꞌ? Llkadieꞌ ke Diosenꞌ, neꞌe kaꞌ. Nollno gak yeziꞌxhen da xhinnj ke beꞌnne, le zeraoze Dios.” 
+\p  
+\v 22 Naꞌ Jesúsenꞌ gokbeꞌreꞌ kanꞌ llake lo yichjraꞌlldaꞌo akeꞌn, naꞌll lleꞌe leakeꞌ: 
+\p —¿Bixchen llake lo yichjraꞌlldaꞌorenꞌ kaꞌ?  
+\v 23 Llákere chaꞌ bi zaꞌk xtiꞌllaꞌ danꞌ llepaꞌ beꞌnnenꞌ: “Ni llaziꞌxhenaꞌ da xhinnj koꞌo naꞌn.” ¿Akxha gonre xhbab chaꞌ yepeꞌ: “Bayas naꞌ bayej”?  
+\v 24 Zan ni wroeꞌraꞌ reꞌ, nadaꞌ Beꞌnnenꞌ Gorj Radj Beꞌnnach, napaꞌ yel wak nench wayonaꞌ beꞌnne, naꞌ leskaꞌ naptiaꞌ yel llnebiaꞌ nench yeziꞌxhenaꞌ da xhinnj ke beꞌnne. 
+\p Naꞌll goll Jesúsenꞌ beꞌnn xhinnjenꞌ: 
+\p —Ni llepaꞌ rweꞌ, bayas, baziꞌi ganꞌ bxhoaꞌon, naꞌ bayej rilloꞌ. 
+\p  
+\v 25 Le bayaste beꞌnn xhinnjenꞌ, llwiate beꞌnn kaꞌ bazieꞌ ganꞌ bxhoeꞌn, naꞌ zayejeꞌ rilleꞌ lloeꞌraweꞌ Dios.  
+\v 26 Yeolol beꞌnn kaꞌ llabán akreꞌ kwis, naꞌ lloeꞌrao akeꞌ Dios, do llebtit akeꞌ ne akeꞌ: 
+\p —Nnaꞌ lla breꞌllo to da yel wan kwis. 
+\s1 Ka gok brej Jesúsenꞌ Leví 
+\r (Mt. 9:9‑13; Mr. 2:13‑17) 
+\p  
+\v 27 Bde naꞌ, blloj Jesúsenꞌ, naꞌ breꞌreꞌ to beꞌnn wachixhj beꞌnn re Leví. Llieꞌ ganꞌ llchixhjeꞌn, naꞌ goll Jesúsenꞌ leꞌe: 
+\p —Da nnao nadaꞌ. 
+\p  
+\v 28 Naꞌ le bzollaꞌteꞌ bsanraꞌlleꞌ yeolol xchinrazeꞌ, naꞌ bnaweꞌ Jesúsenꞌ. 
+\p  
+\v 29 Naꞌll ben Levínꞌ to lnni xhen, naꞌ jak beꞌnn zan beꞌnn wachixhje, naꞌ ren yezikre beꞌnne. Naꞌ blleꞌ akeꞌ llao akeꞌ.  
+\v 30 Naꞌ beꞌnn kaꞌ llsedre ke ley danꞌ bzoj da Moisésenꞌ, naꞌ fariseo kaꞌ, llaꞌdyiꞌ akeꞌ beꞌnn kaꞌ non Leꞌe txhen naꞌ, lle akeꞌ leakeꞌ: 
+\p —¿Bixchen llaorenre beꞌnn wachixhj, naꞌ ren yezikre beꞌnn wen da xhinnj kaꞌ txhen? 
+\p  
+\v 31 Naꞌll goll Jesúsenꞌ leakeꞌ: 
+\p —Beꞌnn bibi yillweꞌ llake, bi yalljreꞌ beꞌnn wen rmell, zan beꞌnnenꞌ llak yillweꞌn, leꞌen yalljreꞌ beꞌnn wen rmellenꞌ.  
+\v 32 Kere zaꞌa zadyexhaꞌ beꞌnn wen akenꞌ, zan zaꞌa zadwiaꞌ beꞌnn wayatre ke da xhinnj ba ben akeꞌ. 
+\s1 Jesúsenꞌ bzejnieꞌreꞌ bixchen bi llon beꞌnn kaꞌ non Leꞌen txhen naꞌ was 
+\r (Mt. 9:14‑17; Mr. 2:18‑22) 
+\p  
+\v 33 Naꞌll bal beꞌnn goll akeꞌ Jesúsenꞌ: 
+\p —¿Bixchen beꞌnn kaꞌ nao Juan beꞌnnenꞌ bchoa beꞌnn nis, naꞌ beꞌnn kaꞌ nao beꞌnn fariseo kaꞌ, llonteze llon akeꞌ was, naꞌ llalwill akeꞌ Dios, naꞌ beꞌnn kaꞌ nao rweꞌn lleꞌj llao akseꞌ kwasro? 
+\p  
+\v 34 Naꞌll lleꞌe leakeꞌ: 
+\p —¿Bixha wak gon beꞌnn kaꞌ was, beꞌnn kaꞌ llon akeꞌ yexh ga llak yel wachaynaꞌa chak lliꞌrén wachaynaꞌn leakeꞌ?  
+\v 35 Zan wllin lla kate wagaꞌa beꞌnn byionꞌ, kanaꞌllenꞌ gon akeꞌ was. 
+\p  
+\v 36 Naꞌ beꞌreneꞌ leakeꞌ to diꞌll, bneꞌe: 
+\p —Ni to beꞌnne, kate wadeꞌe to raꞌll xha da gor, wxhoxhjeꞌ to raꞌll kob wadeꞌen. Chaꞌ kaꞌ goneꞌ, wlleyiꞌ raꞌll raꞌn kobenꞌ. Naꞌ leskaꞌ bi watilen to raꞌll kob ren to raꞌll gore.  
+\v 37 Ni to beꞌnn leskaꞌ bi kaꞌchaꞌozeꞌ xis uva kobenꞌ to lo blloy yid gore. Chaꞌ kaꞌ goneꞌ, wcheꞌz xis uva kobenꞌ blloy yid gorenꞌ, naꞌ kaꞌ larj xis uva keꞌen, naꞌ kweyiꞌte blloy yidenꞌ.  
+\v 38 Zan xis uva kobenꞌ kaꞌchaꞌweꞌn lo blloy yid kobe, naꞌllenꞌ bibi gaken.  
+\v 39 Naꞌ beꞌnnenꞌ bayoꞌraweꞌ lleꞌjeꞌ xis uva gorenꞌ, bill yeꞌnreꞌ yeꞌjeꞌ xis uva kobenꞌ, naꞌ nneꞌe: “Nakll xis uva gorenꞌ sia.” 
+\c 6  
+\s1 Beꞌnn kaꞌ nao Jesúsenꞌ blechj akeꞌ dao ke trigo to lla nbaꞌnne 
+\r (Mt. 12:1‑8; Mr. 2:23‑28) 
+\p  
+\v 1 Gok to lla nbaꞌnne ke beꞌnn Israel kaꞌ, ka yoꞌ akeꞌ nez, bde akeꞌ ga naz akeꞌ trigo, naꞌ beꞌnn kaꞌ non Jesúsenꞌ txhen naꞌ, bzorao ll-lechj akeꞌ dao ke trigonꞌ, naꞌ bxhoꞌb akeꞌn, naꞌ bdao akeꞌn.  
+\v 2 Naꞌ breꞌe beꞌnn fariseo kaꞌ kanꞌ llon akeꞌn, naꞌll lle akeꞌ leakeꞌ: 
+\p —¿Bixchen llonre kaꞌ? Llonre da bi llayaꞌl gonllo lla nbaꞌnne. 
+\p  
+\v 3 Naꞌll lle Jesúsenꞌ beꞌnn fariseo kaꞌ: 
+\p —¿Bixha bi nna golre ganꞌ llian, ka ben da Davidenꞌ ren beꞌnn lwelljeꞌ kaꞌ ka bdon akeꞌ?  
+\v 4 Kanꞌ byoeꞌ lo yodaꞌon, naꞌ bxhieꞌ yet xtir da ba nak laꞌy, da bi de latj gao noteze beꞌnne, toze bxoz kaꞌ gak gao len, naꞌ Davidenꞌ bdaweꞌn, naꞌ leskaꞌ bdaorén beꞌnn kaꞌ zejrén leꞌe txhen naꞌ len. 
+\p  
+\v 5 Naꞌ leskaꞌ golleꞌ leakeꞌ: 
+\p —Nadaꞌ, Beꞌnnenꞌ Gorj Radj Beꞌnnach, leskaꞌ nakaꞌ xan llanꞌ llapre baraꞌnne. 
+\s1 Jesúsenꞌ bayoneꞌ to beꞌnn nxhoꞌn chlaꞌ neꞌe 
+\r (Mt. 12:9‑14; Mr. 3:1‑6) 
+\p  
+\v 6 Gok ye to lla nbaꞌnne, ka byoꞌ Jesúsenꞌ to lo yodaꞌo ke beꞌnn Israel kaꞌ, naꞌ llzejnieꞌreꞌ leakeꞌ. Naꞌ lliꞌ to beꞌnn nxhoꞌn neꞌe chaꞌwe.  
+\v 7 Naꞌ beꞌnn fariseo kaꞌ, naꞌ beꞌnn kaꞌ llsedre ke ley danꞌ bzoj da Moisésenꞌ, lliꞌ akeꞌ lliꞌnao akeꞌ chaꞌ wayoneꞌ beꞌnnenꞌ rao lla llap akeꞌ baraꞌnne, naꞌ kaꞌ gaꞌt da lljatao akeꞌ xhia nench wlliayiꞌll akeꞌ Leꞌe.  
+\v 8 Jesúsenꞌ llakbeꞌtereꞌ kanꞌ llon akeꞌ xhbabenꞌ, naꞌll golleꞌ beꞌnnenꞌ nat chlaꞌ taꞌkeꞌn: 
+\p —Bazollaꞌa, naꞌ jasé kllole naꞌ. 
+\p Naꞌ bzollaꞌa beꞌnnenꞌ.  
+\v 9 Naꞌll goll Jesúsenꞌ beꞌnn kaꞌ: 
+\p —Ni wnnabkeraꞌ reꞌ: ¿Bi llayaꞌl gonllo lla nbaꞌnnenꞌ, gonllo da wen o chaꞌ gonllo da xhinnj? ¿Wak yesrallo beꞌnn o chaꞌ weꞌllo latj kwiayieꞌ? 
+\p  
+\v 10 Llwiateze yeolol beꞌnn kaꞌ, golleꞌ beꞌnnenꞌ: 
+\p —Bli naꞌon. 
+\p Naꞌ bli naꞌa beꞌnnenꞌ, le bayakte neꞌen.  
+\v 11 Gokllaꞌa beꞌnn kaꞌ kwis, naꞌ lloeꞌrén lwellj akeꞌ diꞌll akre gon akeꞌ ke Jesúsenꞌ. 
+\s1 Jesúsenꞌ brejeꞌ postl kaꞌ ben Leꞌe txhen 
+\r (Mt. 10:1‑4; Mr. 3:13‑19) 
+\p  
+\v 12 To lla byej Jesúsenꞌ to rao yaꞌ jalwilleꞌ Diosenꞌ, naꞌ do yer beꞌreneꞌ Leꞌe diꞌlle.  
+\v 13 Kate byeniꞌ naꞌ, batopeꞌ beꞌnn kaꞌ non Leꞌe txhen naꞌ, naꞌ brejeꞌ chllinn (12) beꞌnn nne lo razeꞌ, naꞌ bsieꞌ leakeꞌ postl.  
+\v 14 Ki re beꞌnn chllinn kaꞌ: Simón beꞌnnenꞌ bsieꞌ Pedronꞌ, naꞌ biꞌcheꞌn re Andrés, Jacobo, naꞌ Juan, Felipe, naꞌ Bartolomé,  
+\v 15 Mateo, Tomás, Jacobo xhiꞌnn beꞌnnenꞌ re Alfeo, Simón beꞌnnenꞌ ben txhen beꞌnn kaꞌ nziꞌi Zelote,  
+\v 16 Judas biꞌch Jacobo, naꞌll Judas Iscariote beꞌnnenꞌ, kanꞌ bllin lla, beneꞌ Jesúsenꞌ rallnaꞌa beꞌnn kaꞌ llwie Leꞌen. 
+\s1 Jesúsenꞌ broeꞌ bsedreꞌ beꞌnn zan 
+\r (Mt. 4:23‑25) 
+\p  
+\v 17 Ka llayetjreneꞌ leakeꞌ leꞌ yaꞌn, naꞌ ballín akeꞌ ganꞌ nak raꞌche, naꞌ bze Jesúsenꞌ ren beꞌnn kaꞌ non Leꞌen txhen naꞌ, le ba llaꞌa beꞌnn zan zaꞌk doxhen ga nbane Judea, naꞌ Jerusalén, naꞌ yell kaꞌ re Tiro, naꞌ Sidón danꞌ lliꞌ lloaꞌ nisdaꞌo. Llaꞌa akeꞌ wzenay akeꞌ xtiꞌlleꞌn, leskaꞌ wayoneꞌ yillweꞌ llak akeꞌ.  
+\v 18 Ren beꞌnn yoꞌ akeꞌ daxiꞌo, bayoneꞌ leakeꞌ.  
+\v 19 Yeolol beꞌnn kaꞌ, lleꞌn akreꞌ lljatan akeꞌ Leꞌe, le ne ka lljatan akeꞌ Leꞌen, ll-lloj yel wak keꞌen, naꞌ llayak akteꞌ biteze yillweꞌ llak akeꞌ. 
+\s1 Beꞌnn kaꞌ so nbaraz, naꞌ beꞌnn kaꞌ zaꞌkziꞌ 
+\r (Mt. 5:1‑12) 
+\p  
+\v 20 Jesúsenꞌ blis raweꞌn bwieꞌ beꞌnn kaꞌ non Leꞌe txhen, naꞌll golleꞌ leakeꞌ: 
+\p —Nbaraz ke reꞌ beꞌnn yaꞌche, reꞌ gonre Diosenꞌ txhen katenꞌ nnebieꞌn. 
+\p  
+\v 21 ’Nbaraz ke reꞌ nnaꞌ bil donre, reꞌ gon Diosenꞌ ka yérjere kwasro. 
+\p ’Nbaraz ke reꞌ nnaꞌ bellre, wllin lla kate yewere. 
+\p  
+\v 22 ’Nbaraz ke reꞌ kate beꞌnn llwie akreꞌ reꞌ, naꞌ waraꞌa akeꞌ reꞌ, naꞌ ziꞌchiꞌll akeꞌ reꞌ, naꞌ llreꞌe akreꞌ reꞌ ka beꞌnn wen da xhinnj, ni ke danꞌ naore nadaꞌ Beꞌnnenꞌ Gorj Radj Beꞌnnach.  
+\v 23 Katenꞌ gon akreꞌ reꞌ kaꞌ, leyewé, yel banez xhen de keré kate wallinre ganꞌ zo Diosenꞌ. Kaꞌkzenꞌ ben akreꞌ beꞌnn kaꞌ beꞌe xtiꞌll Diosenꞌ bllaꞌa kanaꞌ. 
+\p  
+\v 24 ’Zan nyaꞌchraz naken ke reꞌ, beꞌnn wniaꞌ, le nnaꞌzenꞌ ziꞌre banez. 
+\p  
+\v 25 ’Nyaꞌchraz naken ke reꞌ, nnaꞌ nérjere kwasro, za llin lla tonrenꞌ. 
+\p ’Nyaꞌchraz naken ke reꞌ, llawere nnaꞌ, za wallayraorenꞌ, za llin lla gosiaꞌre. 
+\p  
+\v 26 ’Nyaꞌchraz naken ke reꞌ, chaꞌ llon beꞌnn kaꞌ reꞌ xhen, leskaꞌ ben xozxtaꞌo akeꞌ kaꞌ, ben akeꞌ xhen beꞌnn kaꞌ bxhiyeꞌe batnaꞌ, beꞌnn kaꞌ bne lloeꞌ akeꞌ xtiꞌll Diosenꞌ. 
+\s1 Llieꞌllo beꞌnn llwie lliꞌo 
+\r (Mt. 5:38‑48; 7:12) 
+\p  
+\v 27 ’Naꞌ reꞌ llzenay, ni llniaꞌ reꞌ: Lellieꞌ beꞌnn ll-lliayiꞌll reꞌ, legón wen ke beꞌnn llwie reꞌ.  
+\v 28 Lewnnab gak wen ke beꞌnn yichjbieꞌ keré, naꞌ lewnnab gakrén Diosenꞌ beꞌnn llxoa da xhinnj koꞌllre.  
+\v 29 Beꞌnn kape chlaꞌ xaꞌyoꞌn, bze danꞌ ye chlaꞌ naꞌ kapeꞌn. Chaꞌ beꞌnn yeꞌnzreꞌ wkeꞌe xherk koꞌon, beꞌe latj wkaꞌa rente xhaꞌon.  
+\v 30 Chaꞌ beꞌnn bi da nnabre reꞌ, leweꞌn, naꞌ chaꞌ beꞌnn wkeꞌe bi da de keré, bi yennabren.  
+\v 31 Kon yeolol da wen da lleꞌnere gon beꞌnn kaꞌ ke reꞌ, kaꞌkze legón ke akeꞌ. 
+\p  
+\v 32 ’Chaꞌ reꞌ nllieꞌre beꞌnn nllieꞌzre reꞌ, ¿bixha zaꞌken naꞌ kaꞌ? Leskaꞌ llon beꞌnn wen da xhinnj kaꞌ, nllieꞌ akreꞌ beꞌnn nllieꞌre leakeꞌ.  
+\v 33 Chaꞌ llonre wen ke beꞌnn llone reꞌ wen, ¿bixha zaꞌken naꞌ kaꞌ? Leskaꞌ llon beꞌnn wen da xhinnj kaꞌ.  
+\v 34 Reꞌ kate bi da llbejre, naꞌ kat bi lloeꞌre beꞌnne, nnézere wayonneꞌn, naꞌllenꞌ lloeꞌren, ¿bixha zaꞌken naꞌ kaꞌ? Leskaꞌ llon beꞌnn wen da xhinnj kaꞌ, llakrén akeꞌ beꞌnn wagoꞌ wzon ke akeꞌ.  
+\v 35 Lellieꞌ beꞌnn kaꞌ llwie reꞌ, legón da wen, leweꞌe beꞌnne bi da de keré, bi kwexhzre wayónn akeꞌn, naꞌllenꞌ gakre xhiꞌnn Dios beꞌnnenꞌ zo yebá, Leꞌe gonneꞌ reꞌ yel baraꞌnn xhen kate wallinre ganꞌ zoeꞌn. Leꞌe lloneꞌ wen ke yeolol beꞌnne, laꞌkze nak akeꞌ beꞌnn wen da xhinnj.  
+\v 36 Lewayaꞌchraꞌll, kanꞌ llon Xallo Diosenꞌ llayaꞌchraꞌlleꞌ noteze beꞌnn. 
+\s1 Bi llayaꞌl wchoybiaꞌllo ke beꞌnne 
+\r (Mt. 7:1‑5) 
+\p  
+\v 37 ’Bi wlliayiꞌllre beꞌnne nench ke wlliayiꞌll Diosenꞌ reꞌ, naꞌ bi wchoybiaꞌre ke beꞌnne nench ke wchoybiaꞌ Diosenꞌ ke reꞌ. Lewaziꞌxhen ke beꞌnne, naꞌ kaꞌ waziꞌxhen Diosenꞌ keré.  
+\v 38 Leweꞌe, chaꞌ bi weꞌre beꞌnne, ker da nnitrao kaꞌzenꞌ, da wayonnte Xanllo Diosenꞌ, wa llaꞌchochjte wayonneꞌ, kon ka weꞌllo, kon ka zánello weꞌllo, leskaꞌn wayónn Diosenꞌ lliꞌo. 
+\p  
+\v 39 Naꞌll beꞌreneꞌ leakeꞌ to diꞌll, bneꞌe: 
+\p —¿Wak to beꞌnn lchol wseꞌe ye to beꞌnn lchol yobre? Chaꞌ kaꞌ goneꞌ, llop akeꞌ lljabix.  
+\v 40 Ka to bidaꞌo llsede, kere zaꞌkll lebeꞌ kerke beꞌnnenꞌ llsede lebeꞌn, zan chaꞌ lebeꞌ weꞌlaꞌllbeꞌ wsedbeꞌ, gonkzbeꞌ ka beꞌnnenꞌ llsede lebeꞌn. 
+\p  
+\v 41 ’¿Bixchen llwiazoꞌ beb daꞌon yoꞌ lo rao beꞌnn biꞌchoꞌn, naꞌ bi llwiaꞌo beb xhen naꞌ, yoꞌ lo rao rweꞌ?  
+\v 42 ¿Bixchen yezoꞌ bibiꞌchoꞌn: “Anchk wabejkeraꞌ beb daꞌon yoꞌ lo raoꞌn?” ¿Bixha danꞌ yoꞌ lo rao rweꞌ, beꞌnn chop rao? Zgaꞌtek babej beb xhen naꞌ, yoꞌ lo rao rweꞌ, naꞌllenꞌ yereꞌroꞌ kwasro, naꞌ gak wabejoꞌ yixh bebenꞌ yoꞌ lo rao beꞌnn biꞌchoꞌn. 
+\s1 Danꞌ llon beꞌnn kaꞌ gakbeꞌllo kanꞌ nak akeꞌn 
+\r (Mt. 7:17‑20; 12:34‑35) 
+\p  
+\v 43 ’Gaga zo yay wen da llbia daxhix da bi nak wen, leskaꞌ yay da bi nak wen, bi llbian daxhix wen.  
+\v 44 Kon da xhixenꞌ llbia yay naꞌn, nnézello ka nak yayenꞌ. Bi llbia higo rao yay yeꞌche, leskaꞌ bi llbia yay yeꞌche uvas.  
+\v 45 Beꞌnnenꞌ nak beꞌnn wen, yichjraꞌlldaꞌweꞌn naken ka to ga llaꞌa da chaꞌo, naꞌn llchacheꞌ da wen kaꞌ lloneꞌn. Naꞌ beꞌnnenꞌ nak beꞌnn wen da xhinnj, lo yichjraꞌlldaꞌweꞌ naꞌn, llchacheꞌ da ke nxhia kaꞌ lloneꞌn. Kon ke danꞌ llaꞌa yichjraꞌlldaꞌollo naꞌn, len naꞌn ll-llach lloaꞌllonꞌ kate nnello. 
+\s1 Ka nak ke chop ran yoꞌ 
+\r (Mt. 7:24‑27) 
+\p  
+\v 46 ’¿Bixchen llezre nadaꞌ: “Xantoꞌ” naꞌ bi llonre kanꞌ niaꞌn?  
+\v 47 Ni wzejnieꞌkeraꞌ reꞌ, ka llon beꞌnnenꞌ llzenay xtiꞌllaꞌn, naꞌ lloneꞌ kaꞌn niaꞌn.  
+\v 48 Wsaꞌkrebeꞌ ka beꞌnn llon rilleꞌ, naꞌ brekweꞌ ranen to rao yej war. Naꞌ gok yejsiꞌo, babia nis, blloj yeo waꞌa byechjen ganꞌ zo yoꞌn, naꞌ bibi goke yoꞌn, le llian rao yej war.  
+\v 49 Naꞌ beꞌnnenꞌ kon llenreꞌ, naꞌ bi lloneꞌ kanꞌ niaꞌn, wsaꞌkrebeꞌ ka beꞌnnenꞌ ben rilleꞌ rao yo cholj, naꞌ bi bcheꞌnneꞌ ranen zitj, naꞌ ke blloj yeo waꞌa xhen naꞌ, bzalen yoꞌn kaꞌle, naꞌ blleyiꞌn. 
+\c 7  
+\s1 Jesúsenꞌ bayoneꞌ to beꞌnn wen llin ke to xan wakaꞌa ya kaꞌ 
+\r (Mt. 8:5‑13) 
+\p  
+\v 1 Bayoll beꞌrén Jesúsenꞌ beꞌnn kaꞌ diꞌll ki, naꞌ bayoeꞌ yell Capernaum naꞌ.  
+\v 2 Rao yell naꞌ zo to beꞌnn nak xan beꞌnn kaꞌ, nak wakaꞌa ya, naꞌ zo to beꞌnn wen llin keꞌe beꞌnn nllieꞌreꞌ kwis, naꞌ llak beꞌnnenꞌ yillweꞌ, ba llontekzen zi goten leꞌe.  
+\v 3 Naꞌ xaneꞌn benreꞌ ke Jesúsenꞌ, naꞌ bseꞌleꞌ chop chonn beꞌnn gor brao ke beꞌnn Israel kaꞌ, nench lljalwill akeꞌ Jesúsenꞌ, chejeꞌ wayoneꞌ beꞌnnenꞌ llak yillweꞌn.  
+\v 4 Ka bllin beꞌnn kaꞌ rao Jesúsenꞌ, goꞌtyoe akreꞌ Leꞌe nench chejeꞌ wayoneꞌ beꞌnn weꞌen, lle akeꞌ Leꞌe: 
+\p —Beꞌnnenꞌ bseꞌl netoꞌ nakeꞌ to beꞌnn wen, naꞌ llayaꞌl gakrenoeꞌ,  
+\v 5 le nllieꞌreꞌ yell kellonꞌ, naꞌ kone xhmelleꞌ beneꞌ to yodaꞌo ketoꞌ. 
+\p  
+\v 6 Jesúsenꞌ byejreneꞌ leakeꞌ, ba zejteꞌ awlloze, kate bseꞌl beꞌnnenꞌ nak xan wakaꞌa yanꞌ, beꞌnn yobre beꞌnn nakeꞌ txhen, naꞌ jatil akeꞌ Jesúsenꞌ, lle akeꞌ Leꞌe: 
+\p —Xantoꞌ, ne beꞌnnenꞌ: “Bi weꞌlaꞌlltkoꞌ, le bi zaꞌkaꞌ choꞌo lo yoꞌ rillaꞌn.  
+\v 7 Ke len naꞌ bi bayaxhjraꞌ yed kwinaꞌ yedtilaꞌ rweꞌ. To bneze diꞌllenꞌ, naꞌ wayakte beꞌnn wen llin kiaꞌn.  
+\v 8 Nadaꞌ zo beꞌnn llnebiaꞌ nadaꞌ, naꞌ lekze niꞌt beꞌnn wakaꞌa ya kiaꞌ llnebiaꞌ akeꞌ. Kate llepaꞌ toeꞌ: Byej, naꞌ llejteꞌ, naꞌ kate llepaꞌ ye toeꞌ: Da, naꞌ le lledteꞌ, naꞌ kate llepaꞌ beꞌnn wen llin kiaꞌn: Da ni gonoꞌ, naꞌ le llonteꞌn.” 
+\p  
+\v 9 Ka bene Jesúsenꞌ diꞌll ki, llabanreꞌ kwis ke beꞌnnenꞌ, naꞌ bayechjeꞌ, lleꞌe beꞌnn kaꞌ nao Leꞌen: 
+\p —Chak daꞌa radj beꞌnn Israel ki, gatga nna lljadiꞌraꞌ to beꞌnn wxenraꞌlle katkenꞌ nxenraꞌll beꞌnnenꞌ. 
+\p  
+\v 10 Naꞌ zayej beꞌnn kaꞌ, ka ballín akeꞌ yoꞌn, ba bayakte beꞌnn wen llin ke beꞌnnenꞌ. 
+\s1 Jesúsenꞌ basbaneꞌ xhiꞌnn to noꞌr wazeb 
+\p  
+\v 11 Bde naꞌ, byej Jesúsenꞌ to yell da nziꞌi Naín ren beꞌnn kaꞌ non Leꞌe txhen naꞌ, ren beꞌnn zan beꞌnn yobre.  
+\v 12 Ka le choꞌteꞌ yellenꞌ, kate zaꞌk beꞌnn zan beꞌnn bllach yellenꞌ, nlen akeꞌ to beꞌnn wat, beꞌnn watenꞌ nakbeꞌ bi tiꞌch rao xhnaꞌbeꞌ, naꞌ xhnaꞌbeꞌ naꞌ nakeꞌ noꞌr wazeb. Beꞌnn zan beꞌnn rao yellenꞌ, non akeꞌ leꞌe txhen zjakeꞌ zjakwaꞌch akebeꞌ.  
+\v 13 Ka breꞌe Xanllonꞌ noꞌrenꞌ, bayaꞌchraꞌlleꞌ leꞌe, naꞌ golleꞌ leꞌe: 
+\p —Bi kwelloꞌ. 
+\p  
+\v 14 Naꞌll jabiꞌy Jesúsenꞌ jataneꞌ yiꞌnn ke bi watenꞌ, naꞌ beꞌnn kaꞌ nlen yiꞌnnenꞌ brexh akeꞌ. Naꞌ bneꞌe: 
+\p —Beꞌnn weꞌo, bayas. 
+\p  
+\v 15 Naꞌ bi watenꞌ bayasbeꞌ, blleꞌbeꞌ, naꞌ bzorao llannebeꞌ, naꞌ Jesúsenꞌ bayoeꞌbeꞌ beꞌnnenꞌ nak xhnaꞌbeꞌn.  
+\v 16 Yeolol beꞌnn kaꞌ blleb akeꞌ kwis, naꞌ lloeꞌrao akeꞌ Dios ne akeꞌ: 
+\p —Ba braꞌ to beꞌnn brao xhen, beꞌnn lloeꞌ xtiꞌll Diosenꞌ rao rall-llonꞌ, nnaꞌll ba jadinraꞌll Diosenꞌ lliꞌo, naꞌ ba zadraꞌnneꞌ yell keꞌen. 
+\p  
+\v 17 Doxhen ganꞌ nbane Judeanꞌ ben akreꞌ kanꞌ beneꞌn, naꞌ yeolol yell kaꞌ lliꞌ do naꞌ, bze ke Jesúsenꞌ. 
+\s1 Juan beꞌnnenꞌ bchoa nis bseꞌleꞌ beꞌnn kaꞌ nak leꞌe txhen ganꞌ zo Jesúsenꞌ 
+\r (Mt. 11:2‑19) 
+\p  
+\v 18 Beꞌnn kaꞌ nao Juan naꞌ, jazén akreꞌ leꞌe yeolol ke da kaꞌ llon Jesúsenꞌ. Naꞌ goxh Juan naꞌ, chop beꞌnn kaꞌ non leꞌe txhen naꞌ.  
+\v 19 Naꞌ lleꞌe leakeꞌ: 
+\p —Lechej ganꞌ zo Jesúsenꞌ, naꞌ yereꞌ: “¿Rweꞌn beꞌnnenꞌ ne Diosenꞌ wseꞌleꞌ o chaꞌ kwexhtoꞌ beꞌnn yobre?” 
+\p  
+\v 20 Kate bllin akeꞌ ganꞌ zo Jesúsenꞌ, lle akeꞌ Leꞌe: 
+\p —Juan beꞌnnenꞌ llchoaꞌ nis, bseꞌleꞌ netoꞌ, le lleꞌnreꞌ nnezreꞌ chaꞌ rweꞌn beꞌnnenꞌ wseꞌl Diosenꞌ o chaꞌ kwexhtoꞌ beꞌnn yobre. 
+\p  
+\v 21 Rao lla naꞌ, bayón Jesúsenꞌ beꞌnn zan beꞌnn llak biteze yillweꞌ. Bayoneꞌ beꞌnn yoꞌ daxiꞌo, naꞌ leskaꞌ beꞌnn lchol bayoneꞌ.  
+\v 22 Naꞌll balliꞌi Jesúsenꞌ xtiꞌll beꞌnn kaꞌ bseꞌl Juan naꞌ, lleꞌe leakeꞌ: 
+\p —Lewayej, naꞌ lelljayell Juan naꞌ, yeolol da kaꞌ ba bénere, naꞌ ba breꞌre ganni: beꞌnn lchol llareꞌe akreꞌ, beꞌnn xhinnj lladá akeꞌ, beꞌnn llen yillweꞌ danꞌ ne lepra llayak akeꞌ, beꞌnn bi llene ba llayén akreꞌ, beꞌnn wat llabán akeꞌ, naꞌ beꞌnn yaꞌch llzenay akeꞌ Diꞌll Wen ke Diosenꞌ.  
+\v 23 ¡Nbaraz ke beꞌnnenꞌ bi llakganreꞌ, naꞌ yezikre llejleꞌ kiaꞌ! 
+\p  
+\v 24 Ka ba zayej beꞌnn kaꞌ bseꞌl Juan naꞌ, Jesúsenꞌ bzorao lloeꞌ xtiꞌll Juan naꞌ, ren beꞌnn kaꞌ zjallaꞌn, lleꞌe leakeꞌ: 
+\p —¿No beꞌnnenꞌ jawiare latj dachenꞌ? ¿To beꞌnn nak ka yia da zo lleꞌ da le llta beꞌ?  
+\v 25 ¿Bixha jawiakzre? ¿To beꞌnn nakeꞌ raꞌll chaꞌo? Kaꞌa, beꞌnn nakeꞌ raꞌll chaꞌon, yoꞌ wen zo akeꞌ, naꞌ rill beꞌnn llnebiaꞌ zjallaꞌa akeꞌ lleꞌj llao akeꞌ kwasro.  
+\v 26 ¿Bixha jawiakzre chaꞌ? ¿To beꞌnn lloeꞌ xtiꞌll Dios? Awaꞌ, ni llepaꞌ reꞌ, wdetere ka beꞌnn lloeꞌ xtiꞌll Diosenꞌ.  
+\v 27 Ke beꞌnn ninꞌ nyoj xtiꞌll Diosenꞌ ganꞌ nen: 
+\q1 Wseꞌlaꞌ to beꞌnn kwiaraweꞌ raoꞌn, weꞌe xtiꞌlloꞌn, 
+\q1 nench yeweꞌ xhnneze ganꞌ teꞌon. 
+\m  
+\v 28 Ni llniaꞌ, gatga nna so to beꞌnn nak beꞌnn braoll, ka Juan beꞌnnenꞌ bchoa nisenꞌ. Naꞌ nnaꞌ noteze beꞌnn llzenay ke Dios, nench nnebiaꞌ Diosenꞌ yichjraꞌlldaꞌweꞌn, laꞌkze nakeꞌ beꞌnne le zeraoze beꞌnne bibi zaꞌke, gaklleꞌ beꞌnn braoll ka Juan naꞌ. 
+\p  
+\v 29 Beꞌnn zan beꞌnn yell, naꞌ ren wachixhj kaꞌ, ka ben akreꞌ xtiꞌll Juan naꞌ, blloa akeꞌ nis le byejnieꞌ akreꞌ nak akeꞌ beꞌnn wen da xhinnj rao Dios.  
+\v 30 Zan beꞌnn fariseo kaꞌ, naꞌ beꞌnn kaꞌ llsed llroeꞌ ley danꞌ bzoj da Moisésenꞌ, bi gokraꞌll akeꞌ wchoa Juan naꞌ leakeꞌ nis, bi beꞌe akeꞌ latj gon Diosenꞌ da wen naꞌ llwieꞌ goneꞌ ke akeꞌ.  
+\v 31 Naꞌ bne Jesúsenꞌ da yobre: 
+\p —¿Akre ka wsaꞌkrebaꞌ beꞌnn ki llaꞌa nnaꞌ? ¿Akre nak akeꞌ?  
+\v 32 Ka bidaꞌo kate yitj akbeꞌ do lao yaꞌa, naꞌ lle lwellj akbeꞌ: “Ba bkwelltoꞌ bllej, naꞌ bi byaꞌre, naꞌ ba beltoꞌ da llon nyaꞌchraz, naꞌ ni ke bllellzre.”  
+\v 33 Ka nak ba bed Juan naꞌ, bi weꞌe bdaochaꞌweꞌ, naꞌ bnere keꞌe: “Daxiꞌon yoꞌ beꞌnnenꞌ.”  
+\v 34 Naꞌ nadaꞌ Beꞌnnenꞌ Gorj Radj Beꞌnnach, ba bedaꞌ rao yellrionꞌ, naꞌ lleꞌj llawaꞌ kwasro, naꞌ nere kiaꞌ: “Le lleꞌj llaoxen beꞌnnenꞌ, naꞌ lloneꞌ txhen beꞌnn wachixhj kaꞌ, ren yezikre beꞌnn wen da xhinnj kaꞌ.”  
+\v 35 Zan zjallaꞌa akse beꞌnn llzenay ke Diosenꞌ. Leakeꞌ llroeꞌ akreꞌ kanꞌ nak yel siꞌn ke Diosenꞌ. 
+\s1 Jesúsenꞌ byejeꞌ rill to beꞌnn fariseonꞌ 
+\p  
+\v 36 To beꞌnn fariseo re Simón, beneꞌ Jesúsenꞌ yexh nench chejeꞌ rilleꞌn lljataweꞌ, naꞌ ka bllin Jesúsenꞌ rill beꞌnn fariseonꞌ, bllieꞌ ganꞌ gao akeꞌn.  
+\v 37 Naꞌ rao yell naꞌ, zo to noꞌr wen da xhinnj, naꞌ bnnezreꞌ ka bllin Jesúsenꞌ rill beꞌnnenꞌ. Ka ba lliꞌ Jesúsenꞌ ren beꞌnn kaꞌ yelaꞌ llao akeꞌ, jabiꞌy noꞌrenꞌ noꞌxeꞌ to lmet da yoll nis da laꞌ xhix.  
+\v 38 Naꞌ blleꞌk noꞌrenꞌ xhniaꞌ Jesúsenꞌ, bzorao belleꞌ kwis, naꞌ kone nis raweꞌn, llasbiseꞌ niaꞌ Jesúsenꞌ, naꞌ llachechteꞌn ren yich yichjeꞌ, naꞌ llnoꞌpeꞌ nieꞌn, naꞌll lltopteꞌn nis danꞌ la xhixenꞌ.  
+\v 39 Ka breꞌe Simón naꞌ, beꞌnnenꞌ ben Jesúsenꞌ yexhenꞌ, beneꞌ xhbab: “Chenak beꞌnn ni nakeꞌ beꞌnn lloeꞌ xtiꞌll Dios, wayakbeꞌreꞌ noꞌr wen da xhinnjze, noꞌrenꞌ llone leꞌe kaꞌ.”  
+\v 40 Naꞌll goll Jesúsenꞌ leꞌe: 
+\p —Simón, de to da lleꞌnraꞌ nniaꞌ rweꞌ. 
+\p Naꞌll bne Simón naꞌ: 
+\p —Bne, maestro. 
+\p  
+\v 41 Naꞌll lle Jesúsenꞌ leꞌe: 
+\p —To beꞌnne llbej mell, bzo chop beꞌnn llbaꞌy xhmelleꞌ. To beꞌnnenꞌ llbaꞌyeꞌ gaꞌy gayoa (500) mell da nziꞌi denario, naꞌ beꞌnnenꞌ ye to llbaꞌyeꞌ chiyon (50) denario.  
+\v 42 Llopte beꞌnn kaꞌ bibi de ke akeꞌ wayixhj akeꞌ xhianꞌ, naꞌ beꞌnnenꞌ brej leakeꞌ mellenꞌ, bnitraweꞌn kaꞌze. Bnechk nadaꞌ, ¿nore beꞌnn ki chop bllieꞌllreꞌ xan mellenꞌ? 
+\p  
+\v 43 Naꞌ bne Simón naꞌ: 
+\p —Cheke beꞌnnenꞌ baziꞌxheneꞌ ke da xhenll. 
+\p Naꞌll bne Jesúsenꞌ: 
+\p —Da li kwis kanꞌ bneꞌon. 
+\p  
+\v 44 Naꞌll bayechjeꞌ bwieꞌ noꞌrenꞌ, naꞌ lleꞌe Simón naꞌ: 
+\p —¿Llreꞌroꞌ noꞌrenꞌ? Byoaꞌ rilloꞌn, bi bennoꞌ nis chib niaꞌ, naꞌ noꞌrenꞌ, kone nis raweꞌ naꞌ, ba bdibeꞌ niaꞌn, naꞌ llachechteꞌn ren yich yichjeꞌ. 
+\p  
+\v 45 Bi bnoꞌpoꞌ nadaꞌ, naꞌ noꞌrenꞌ, ka braꞌtiaꞌ llnoꞌpeꞌ niaꞌn. 
+\p  
+\v 46 Bi btopoꞌ nadaꞌ ceit, zan noꞌrenꞌ ba btopeꞌ niaꞌn to nis da laꞌ xhix.  
+\v 47 Ni llniaꞌ rweꞌ, laꞌkze nakeꞌ noꞌr wen da xhinnj, de yel llaziꞌxhen keꞌe, le da xhen naꞌ nllieꞌreꞌ. Beꞌnn llbaꞌyeꞌ raꞌtze, raꞌtze de waziꞌxhenllo keꞌe, kaꞌ raꞌtze nllieꞌreꞌ. 
+\p  
+\v 48 Naꞌll lleꞌe noꞌrenꞌ: 
+\p —Ba baziꞌxhenaꞌ yeolol da xhinnj koꞌon. 
+\p  
+\v 49 Beꞌnn kaꞌ lliꞌ llaoreneꞌ txhen naꞌ, bzorao lle lwellj akeꞌ: 
+\p —¿Noxha beꞌnnenꞌ llaziꞌxhenzeꞌ da xhinnj ke beꞌnne? 
+\p  
+\v 50 Naꞌll Jesúsenꞌ golleꞌ noꞌrenꞌ da yobre: 
+\p —Danꞌ nxenraꞌlloꞌ naꞌn ba basrá rweꞌ, bayejchga wen nnaꞌ. 
+\c 8  
+\s1 Txhonnj noꞌr gokrén akeꞌ Jesúsenꞌ 
+\p  
+\v 1 Bde naꞌ, byej Jesúsenꞌ toto yell, yell xhen, naꞌ yell daꞌo, jateꞌe jatixjweꞌreꞌ Diꞌll Wen ke Diosenꞌ ren beꞌnn chllinn kaꞌ.  
+\v 2 Leskaꞌ txhonnj noꞌr nao Leꞌe, beꞌnn kaꞌ bakeꞌe yillweꞌ llak akeꞌ, naꞌ noꞌr babejeꞌ daxiꞌo yoꞌ akeꞌ. Naꞌ ren to noꞌr re María beꞌnn Magdala, babej Jesúsenꞌ gall daxiꞌo yoeꞌ.  
+\v 3 Naꞌ ren ye to noꞌr re Xhuan, noꞌr ke to beꞌnn re Chuza, naꞌ Chuzanꞌ nak rallneꞌe yoꞌ ke Herodes, naꞌ ren to beꞌnn re Susana, naꞌ ye to chop noꞌr yobre. Noꞌr ki gokrén akeꞌ Jesúsenꞌ kon da de ke akeꞌ. 
+\s1 Jesúsenꞌ bsaꞌkrebreꞌ kanꞌ llon to beꞌnn goz goꞌnne 
+\r (Mt. 13:1‑9; Mr. 4:1‑9) 
+\p  
+\v 4 Naꞌll badop beꞌnn zan, beꞌnn zak toto yell kaꞌ, naꞌ kone da bsaꞌkrebreꞌ bi da kaꞌ bzejnieꞌreꞌ leakeꞌ, bneꞌe: 
+\p  
+\v 5 —To beꞌnn bllojeꞌ zejeꞌ goz trigo, naꞌ rawe zejeꞌ lloseꞌ nbaz kaꞌ, balen jeꞌten lloaꞌ nez, naꞌ brejchekw beꞌnn len, naꞌ byinn kaꞌ dá rao lla, bdao akbaꞌn.  
+\v 6 Naꞌ balen jeꞌten rao yej, braꞌ akten, naꞌ byechen le bibi goꞌp detek rao yejenꞌ.  
+\v 7 Naꞌ balen jagoꞌnnen lo yay yeꞌche; naꞌ ka braꞌn naꞌ, bagaꞌrente yeꞌch kaꞌ, naꞌ benen len roe.  
+\v 8 Naꞌ balen jeꞌten rao yo chaꞌo, naꞌ nbaraz braꞌn, naꞌ bayoeꞌkazen nbaz kaꞌ to gayoa (100) wej toton. 
+\p Bayoll beꞌe diꞌll ki, bneꞌe zillj: 
+\p —Reꞌ zo nayre, lewzenay xtiꞌllaꞌ ni. 
+\s1 Jesúsenꞌ beꞌe diꞌll bixchen bsaꞌkrebreꞌ bi da kaꞌ kanꞌ bzejnieꞌreꞌ leakeꞌ 
+\r (Mt. 13:10‑17; Mr. 4:10‑12) 
+\p  
+\v 9 Naꞌll beꞌnn kaꞌ non Leꞌe txhen naꞌ, bnnab akreꞌ Leꞌe, lle akeꞌ Leꞌe: 
+\p —¿Akre chejnieꞌllo ka diꞌllenꞌ bayoll bneꞌon? 
+\p  
+\v 10 Naꞌ Jesúsenꞌ lleꞌe leakeꞌ: 
+\p —Reꞌ, ba brej Diosenꞌ nench nnézere da bi bnneze beꞌnn bllaꞌa kanaꞌ, kanꞌ llnebiaꞌ Diosenꞌ, zan yezikre beꞌnn bi llejleꞌ, wsaꞌkrebraꞌ bi da kaꞌ weꞌrén akeꞌ diꞌlle. Laꞌkze wia akeꞌ, bi gakbeꞌe akreꞌ bi da kaꞌ; laꞌkze yen akreꞌ, naꞌ bi chejnieꞌ akreꞌn. 
+\s1 Jesúsenꞌ bzejnieꞌreꞌ ke danꞌ bsaꞌkrebreꞌ ke beꞌnn gozenꞌ 
+\r (Mt. 13:18‑23; Mr. 4:13‑20) 
+\p  
+\v 11 ’Ni wzejnieꞌraꞌ reꞌ ka diꞌllenꞌ beꞌrenaꞌ reꞌ: nbaz danꞌ bes beꞌnnenꞌ, xtiꞌll Dios naꞌn.  
+\v 12 Naꞌ da kaꞌ jeꞌt lloaꞌ nezenꞌ, naken ka beꞌnnenꞌ kon llenreꞌ xtiꞌll Diosenꞌ; naꞌll ll-llin daxiꞌon llabejen xtiꞌll Diosenꞌ danꞌ ba yoꞌ lo yichjraꞌlldaꞌweꞌn, naꞌ kaꞌ bi llejleꞌ nench naꞌ yereꞌe.  
+\v 13 Naꞌ da kaꞌ jeꞌt rao yejenꞌ, naken ka beꞌnnenꞌ llawereꞌ kwis llzenayeꞌ xtiꞌll Diosenꞌ; naꞌ bi nyin roe zitj, chollze llejleꞌ, naꞌ kate llak bi da llak keꞌe, le llsanteꞌ bill llnaweꞌ Diosenꞌ.  
+\v 14 Naꞌ da kaꞌ jeꞌt radj yay yeꞌchenꞌ, naken ka beꞌnn kaꞌ llzenay xtiꞌll Diosenꞌ, naꞌ da zed, naꞌ yel llawé danꞌ de rao yellrionꞌ, naꞌ yel llzeraꞌll mell, bi lloeꞌn latj chiꞌweꞌ rao xhnnez Diosenꞌ.  
+\v 15 Naꞌ da kaꞌ jeꞌt rao yo wen naꞌ, naken ka beꞌnn kaꞌ nak raꞌlldaꞌo wen; ka llzenay akeꞌ xtiꞌll Diosenꞌ, ziꞌi akeꞌn, naꞌ llon akeꞌ kanꞌ lleꞌne Diosenꞌ, laꞌkze biteze llak ke akeꞌ. 
+\s1 Da ngaꞌche llinkze lla llroeꞌrawe 
+\r (Mr. 4:21‑25) 
+\p  
+\v 16 ’Ni to beꞌnne kate wxhenzeꞌ to yiꞌ, wdoꞌszeꞌn to yeꞌs leo, naꞌ ni ke wkwaꞌchzeꞌn xhanre ganꞌ llxhoeꞌ lltaseꞌ, zan lldeꞌen sibe, naꞌllenꞌ wseniꞌn ke yeolol beꞌnn llaꞌa lo yoꞌn.  
+\v 17 Le gatga de to da ngaꞌche da bi wroeꞌrawe, naꞌ to da llon beꞌnn llillize da bi nneze beꞌnne. 
+\p  
+\v 18 ’Lewiayaꞌnn kanꞌ niaꞌ ni, le chaꞌ to beꞌnn llejnieꞌreꞌ, yezikre chejnieꞌllreꞌ; zan beꞌnnenꞌ bi lleꞌnreꞌ chejnieꞌreꞌ, ka to da daꞌo raꞌtenꞌ ba llejnieꞌreꞌn wagaꞌa. 
+\s1 Xhnaꞌ Jesúsenꞌ ren biꞌcheꞌ kaꞌ bllin akeꞌ ganꞌ zoeꞌn 
+\r (Mt. 12:46‑50; Mr. 3:31‑35) 
+\p  
+\v 19 Xhnaꞌ Jesúsenꞌ ren biꞌcheꞌ kaꞌ, bllin akeꞌ ganꞌ zoeꞌn, naꞌ gokraꞌll akeꞌ choꞌ akeꞌ lo yoꞌn, kere gok, le ziꞌtere beꞌnn zan llaꞌa.  
+\v 20 Naꞌ goll akeꞌ Leꞌe: 
+\p —Xhnaꞌo ren beꞌnn biꞌchoꞌ kaꞌ, ze akteꞌ liaꞌ naꞌ, naꞌ lleꞌn akreꞌ reꞌe akreꞌ rweꞌ. 
+\p  
+\v 21 Naꞌ Jesúsenꞌ golleꞌ leakeꞌ: 
+\p —Beꞌnn kaꞌ llzenay xtiꞌll Diosenꞌ, naꞌ llon akeꞌ kanꞌ niaꞌn, leakeꞌn nak xhnaꞌ, leakeꞌn biꞌchaꞌ. 
+\s1 Jesúsenꞌ brekllieꞌ to beꞌ xhen lo nisdaꞌon 
+\r (Mt. 8:23‑27; Mr. 4:35‑41) 
+\p  
+\v 22 Bixha gok to lla Jesúsenꞌ byoeꞌ to lo barco, ren beꞌnn kaꞌ non Leꞌe txhen naꞌ, naꞌll golleꞌ leakeꞌ: 
+\p —Laꞌyllo ye chlaꞌre nisdaꞌon. 
+\p Naꞌll bsaꞌa akeꞌ barconꞌ.  
+\v 23 Rawe zjakeꞌ rao nis naꞌn, btas Jesúsenꞌ. Naꞌ bzorao dá to beꞌ xhen rao nisenꞌ, naꞌ bzorao lloll nis lo barconꞌ, ba llontekzen nxholl kwis.  
+\v 24 Naꞌll basbando akeꞌ Jesúsenꞌ, lle akeꞌ Leꞌe: 
+\p —¡Maestro! ¡Maestro, ba llbeyiꞌllo! 
+\p Naꞌll byaseꞌ balwilleꞌ beꞌn ren nisdaꞌon; chollze babeꞌlli akten.  
+\v 25 Naꞌll lleꞌe leakeꞌ: 
+\p —¿Ganꞌ danꞌ nere nxenraꞌllre Dios? 
+\p To lleb akeꞌ, naꞌ llabán akreꞌ kwis, lle lwellj akeꞌ: 
+\p —¿Noxha beꞌnnenꞌ? Rente kaze beꞌ, naꞌ ren nisdaꞌo naꞌ llzenayen keꞌe. 
+\s1 To beꞌnn rao yellenꞌ nziꞌi Gadara yoeꞌ daxiꞌo 
+\r (Mt. 8:28‑34; Mr. 5:1‑20) 
+\p  
+\v 26 Naꞌ bllin akeꞌ to yell da re Gadara, naꞌ lliꞌ Gadaranꞌ chlaꞌ nisdaꞌo ganꞌ nbane Galilea.  
+\v 27 Ka balloj Jesúsenꞌ lo barconꞌ, to beꞌnn rao yellenꞌ jatileꞌ Leꞌe, naꞌ beꞌnnenꞌ ba gok scha yoꞌ daxiꞌo yichjraꞌlldaꞌweꞌ. Naꞌ kon ba dazeꞌ bill llakze xharaꞌneꞌ; bill llzokzeꞌ rilleꞌ, naꞌ ba zotekzeꞌ do ganꞌ lljakwaꞌch akeꞌ beꞌnn wat ake.  
+\v 28 Ka breꞌreꞌ Jesúsenꞌ, zillj kwis besieꞌ; naꞌ bcheꞌk xhibeꞌ raweꞌn bneꞌe: 
+\p —¿Bi de koꞌo kone nadaꞌ, Jesús? Rweꞌ Xhiꞌnn Dios zo yebá. Bi wsaꞌkziꞌo nadaꞌ. 
+\p  
+\v 29 Neꞌe kaꞌ le Jesúsenꞌ llchieꞌreꞌ daxiꞌon yellojen, le ba gok scha llnebiaꞌn yichjraꞌlldaꞌo beꞌnnenꞌ. Laꞌkze ba bchej akeꞌ leꞌe kon gden, llchoyyaꞌnneꞌ gden naꞌ, naꞌ llxhonnjeꞌ llgoꞌ daxiꞌon leꞌe yiꞌxre.  
+\v 30 Naꞌ Jesúsenꞌ golleꞌ beꞌnnenꞌ: 
+\p —¿Bi reꞌo? 
+\p Naꞌ bneꞌe: 
+\p —Nyantoꞌ. 
+\p Bneꞌe kaꞌ le da zan daxiꞌo kaꞌn llaꞌa yichjraꞌlldaꞌweꞌn.  
+\v 31 Naꞌ goꞌtyoe daxiꞌo kaꞌ Jesúsenꞌ, bi wseꞌleꞌn gabil.  
+\v 32 Naꞌ awlloze gannaꞌ zo to leꞌ yaꞌ, llaꞌa kuch zan llao akbaꞌ yiꞌxe, naꞌ daxiꞌo kaꞌ, lle aken Jesúsenꞌ weꞌe latj lljachoꞌ aken lo kuch kaꞌ, naꞌ beꞌe latj.  
+\v 33 Ka balloj daxiꞌo kaꞌ yichjraꞌlldaꞌo beꞌnnenꞌ, jachoꞌ aken lo kuch kaꞌ. Naꞌll to gokllejlaꞌllze kuch kaꞌ, bdol akbaꞌ to leꞌ bdinnj, naꞌ wix akbaꞌ lo nisdaꞌon, naꞌ got akbaꞌ weꞌj akbaꞌ nis. 
+\p  
+\v 34 Beꞌnn kaꞌ llap kuch kaꞌ, ka breꞌe akreꞌ kanꞌ goken, baxhonnjdo akeꞌ jatixjweꞌ akreꞌ beꞌnn, do lyell do lyiꞌxe kanꞌ goken.  
+\v 35 Naꞌ ka bene beꞌnn kaꞌ xtiꞌll gop kuch kaꞌ, byej akeꞌ jawiá akeꞌ kanꞌ goken. Naꞌ jadiꞌ akreꞌ beꞌnnenꞌ byoꞌ daxiꞌo kaꞌ yichjraꞌlldaꞌon, ba llieꞌ xhniaꞌ Jesúsenꞌ ba bayak xharaꞌneꞌ, naꞌ ba bazoeꞌ wen. Naꞌ blleb beꞌnn kaꞌ kwis.  
+\v 36 Beꞌnn kaꞌ breꞌen, beꞌrén akeꞌ beꞌnn kaꞌ bllin naꞌ diꞌll, kanꞌ bayak beꞌnnenꞌ.  
+\v 37 Yeolol beꞌnn kaꞌ llaꞌa doxhen ganꞌ nbane Gadaranꞌ, goꞌtyoe akreꞌ Jesúsenꞌ yezeꞌe rall akeꞌn, le lleb akeꞌ kwis. Jesúsenꞌ bayoeꞌ lo barconꞌ, naꞌ bazeꞌe.  
+\v 38 Naꞌ ka za wayoeꞌ lo barconꞌ, beꞌnnenꞌ balloj daxiꞌo kaꞌ yichjraꞌlldaꞌon, goꞌtyoereꞌ Jesúsenꞌ weꞌe latj nnaweꞌ Leꞌe. Bixha Jesúsenꞌ bi beꞌe latj, naꞌ golleꞌ beꞌnnenꞌ: 
+\p  
+\v 39 —Bayej rilloꞌ, naꞌ jazene beꞌnne katek wen naꞌ ba ben Diosenꞌ koꞌo. 
+\p Naꞌ zayej beꞌnnenꞌ, jateꞌe doxhen yell jazenreꞌ beꞌnne, katek da xhen naꞌ gokrén Jesúsenꞌ leꞌe. 
+\s1 Jesúsenꞌ basbaneꞌ xhiꞌnn Jairo, naꞌ bayak ye to noꞌre bdan xheꞌen 
+\r (Mt. 9:18‑26; Mr. 5:21‑43) 
+\p  
+\v 40 Ka ballín Jesúsenꞌ Capernaum naꞌ, beꞌnn zan ba llaꞌa llbexh Leꞌe, llawé akreꞌ ballineꞌ.  
+\v 41 Naꞌ bllin to beꞌnn re Jairo, beꞌnn nak rallneꞌe yodaꞌo ke yellenꞌ, naꞌ bcheꞌk xhibeꞌ goꞌtyoereꞌ Leꞌe chejeꞌ rilleꞌ,  
+\v 42 le zo tiꞌch xhiꞌnneꞌ noꞌre bi de chllinn (12) iz llakbeꞌ yillweꞌ, naꞌ ba llatbeꞌ. Chak zejeꞌ rill Jaironꞌ, beꞌnn zan kwis nao Leꞌe, to llchiꞌd akeꞌ Leꞌe. 
+\p  
+\v 43 Bixha to noꞌre, leskaꞌ ba gok chllinn (12) iz llakeꞌ yillweꞌ, bzoeꞌ waꞌa, ba beneꞌ gaxt doxhen xhmelleꞌ, llejeꞌ rao wen rmell, naꞌ bi llayakseꞌ.  
+\v 44 Naꞌ jabiꞌyeꞌ koꞌllre Jesúsenꞌ jataneꞌ xharaꞌneꞌn. Ka bdaneꞌ xharaꞌneꞌn, le brexhte yillweꞌ keꞌen.  
+\v 45 Naꞌll le bnete Jesúsenꞌ: 
+\p —¿Nonꞌ bdan nadaꞌ? 
+\p Ni toeꞌ bi bachebeꞌ, naꞌll Pedronꞌ ren beꞌnn kaꞌ zjakrén leꞌe txhen naꞌ, bne akeꞌ: 
+\p —Maestro, beꞌnn zan beꞌnn kaꞌ llchiꞌd rweꞌ, naꞌ nechkoꞌ: “¿No bdan nadaꞌ?” 
+\p  
+\v 46 Naꞌll bnekzeꞌ da yobre: 
+\p —Zo to beꞌnn bdan nadaꞌ; gokbeꞌteraꞌ ben yel wak kiaꞌn llin. 
+\p  
+\v 47 Ka breꞌe noꞌrenꞌ gokbeꞌte Jesúsenꞌ kanꞌ jataneꞌ Leꞌen, to xhizeꞌ, to llebeꞌ jabiꞌyeꞌ raweꞌn, bcheꞌk xhibeꞌ, naꞌ beꞌe diꞌll rao yeolol beꞌnn kaꞌ kanꞌ gok bdaneꞌ xharaꞌneꞌn, naꞌ bagaꞌte yillweꞌ keꞌen.  
+\v 48 Naꞌ lle Jesúsenꞌ leꞌe: 
+\p —Xhiꞌnnaꞌ, danꞌ nxenraꞌlloꞌ naꞌn, ba basrá rweꞌ. Bayejchga wen. 
+\p  
+\v 49 Naꞌ lloeꞌteꞌ diꞌllenꞌ, kate bllin to beꞌnn bzaꞌa rill Jaironꞌ, naꞌ lleꞌe Jaironꞌ: 
+\p —Bill wchieꞌroꞌ Maestronꞌ, ba gotte xhiꞌnnoꞌn. 
+\p  
+\v 50 Ka bene Jesúsenꞌ kanꞌ bne beꞌnnenꞌ, naꞌll golleꞌ Jaironꞌ: 
+\p —Bi lleboꞌ, kon bxenraꞌlle, naꞌ wayakse xhiꞌnnoꞌn. 
+\p  
+\v 51 Ka byoeꞌ lo yoꞌn, nono beꞌkzeꞌ latj choꞌ ren Leꞌe lete Pedro naꞌze, naꞌ Jacobo, naꞌ Juan, naꞌ ren xaxhnaꞌ bidaꞌo noꞌr naꞌ.  
+\v 52 Yeolol beꞌnn kaꞌ llaꞌn, bell akeꞌ llak akreꞌ bidaꞌon, naꞌll lle Jesúsenꞌ leakeꞌ: 
+\p —Bi kwellre, kere gotbeꞌn, taszbeꞌn. 
+\p  
+\v 53 Naꞌ bxhill akeꞌ keꞌe, le nnez akreꞌ kwasro ba gotbeꞌn.  
+\v 54 Naꞌll beꞌxeꞌ naꞌa bidaꞌo noꞌr watenꞌ, naꞌ bneꞌe: 
+\p —Bidaꞌo noꞌre, bayas. 
+\p  
+\v 55 Naꞌ babán bidaꞌo noꞌrenꞌ, le bayástebeꞌ, naꞌ goll Jesúsenꞌ leakeꞌ, weꞌe akeꞌ da gaobeꞌ.  
+\v 56 Naꞌll xaxhnaꞌ bidaꞌon llabán akreꞌ kwis, naꞌ Jesúsenꞌ golleꞌ leakeꞌ nono weꞌrén akeꞌ diꞌll danꞌ goken. 
+\c 9  
+\s1 Jesúsenꞌ bseꞌleꞌ beꞌnn chllinn kaꞌ jatixjweꞌ akreꞌ xtiꞌlleꞌn 
+\r (Mt. 10:5‑15; Mr. 6:7‑13) 
+\p  
+\v 1 Naꞌ batop Jesúsenꞌ beꞌnn chllinn kaꞌ, beꞌnn kaꞌ non Leꞌe txhen naꞌ, naꞌ beꞌe leakeꞌ yel wak, naꞌ yel llnebiaꞌ nench yebej akeꞌ daxiꞌo yoꞌ yichjraꞌlldaꞌo beꞌnne, naꞌ wayón akeꞌ beꞌnn llak yillweꞌ.  
+\v 2 Naꞌll bseꞌleꞌ leakeꞌ chixjweꞌ akreꞌ beꞌnne kanꞌ nak yel llnebiaꞌ ke Diosenꞌ, naꞌ wayón akeꞌ beꞌnn llak yillweꞌ.  
+\v 3 Naꞌll golleꞌ leakeꞌ: 
+\p —Bitbi goꞌxzre ke tnez, bi wayirjzre yay wchiꞌchre, ni bzod, ni yet, ni mell, ni ye chkweꞌ xharaꞌnre bi goꞌxre.  
+\v 4 Yell ga llinre, toz yoꞌ sore chak sore rao yellenꞌ.  
+\v 5 Chaꞌ to yell ga llinre bi siꞌi akeꞌ xtiꞌllrenꞌ, lewalloj yellenꞌ, lewabibte niaꞌre nench wallib bichtenꞌ blliare naꞌ, naꞌ gakbeꞌe akreꞌ da xhinnj xhen naꞌ llon akeꞌ. 
+\p  
+\v 6 Naꞌll bzaꞌa beꞌnn kaꞌ, byej akeꞌ toto yell, llyixjweꞌ akreꞌ Diꞌll Wen ke Diosenꞌ, naꞌ llayón akeꞌ beꞌnn llak yillweꞌ. 
+\s1 Kanꞌ gok bet akeꞌ Juan beꞌnnenꞌ bchoa nis 
+\r (Mt. 14:1‑12; Mr. 6:14‑29) 
+\p  
+\v 7 Herodes, beꞌnnenꞌ llnebiaꞌ Galileanꞌ to llakeꞌ tore, ka llenreꞌ yeolol da kaꞌ llon Jesúsenꞌ, naꞌ da xhen llakganreꞌ ka nak llenreꞌ ne beꞌnn kaꞌ: “Cheke Juan naꞌ babanrizeꞌ.”  
+\v 8 Ye bal akeꞌ ne: “Cheke Elíasenꞌ, ba baraꞌ rao yellrionꞌ da yobre.” Naꞌ llaꞌa beꞌnn ne akeꞌ: “To beꞌnn kaꞌ beꞌe xtiꞌll Dios, beꞌnn bzo kanaꞌn ba babán, naꞌllenꞌ lloneꞌ kaꞌ.”  
+\v 9 Naꞌll Herodesenꞌ bneꞌe: 
+\p —Nadaꞌ bseꞌlaꞌ beꞌnn ak bchoy akeꞌ yen Juan naꞌ, ¿noxha beꞌnnenꞌ ne akeꞌ kaꞌ? 
+\p Naꞌ le lleꞌne Herodesenꞌ reꞌreꞌ Jesúsenꞌ. 
+\s1 Jesúsenꞌ bwaweꞌ gaꞌy mir beꞌnne 
+\r (Mt. 14:13‑21; Mr. 6:30‑44; Jn. 6 :1‑14) 
+\p  
+\v 10 Ka ballín postl kaꞌ ganꞌ zo Jesúsenꞌ, beꞌrén akeꞌ Leꞌe diꞌll kanꞌ jen akeꞌn. Naꞌ bcheꞌe leakeꞌ to latj dach ganꞌ nbane yellenꞌ re Betsaida.  
+\v 11 Ka gokbeꞌe beꞌnn yell kaꞌ ba broeꞌ nez, naꞌ bnao akeꞌ Leꞌe. Ka breꞌe Jesúsenꞌ leakeꞌ goxheꞌ leakeꞌ, naꞌll bzejnieꞌreꞌ leakeꞌ kanꞌ llnebiaꞌ Diosenꞌ, naꞌ bayoneꞌ beꞌnn llak yillweꞌ. 
+\p  
+\v 12 Naꞌ ba llonen ba wlleꞌ, naꞌ beꞌnn chllinn kaꞌ jabiꞌy akeꞌ, lle akeꞌ Leꞌe: 
+\p —Bseꞌl beꞌnn ki lljakeꞌ yell kaꞌ lliꞌ do naꞌ, nench chirj akeꞌ ga tas akeꞌ, naꞌ llel da gao akeꞌ, le ker bi de ganni, naken to latj dach. 
+\p  
+\v 13 Naꞌ lle Jesúsenꞌ beꞌnn kaꞌ non Leꞌe txhen naꞌ: 
+\p —Reꞌ llayaꞌl weꞌre da gao akeꞌ. 
+\p Naꞌll bne akeꞌ: 
+\p —Gaꞌy ze yet xtir, naꞌ ye chopze belyaꞌ daꞌo de kello, lete chaꞌ lliꞌo lljeꞌollo da gao beꞌnn ki. 
+\p  
+\v 14 Naꞌ nak ka do gaꞌy mir zre beꞌnn byio. Naꞌ goll Jesúsenꞌ beꞌnn kaꞌ non Leꞌe txhen naꞌ: 
+\p —Leyé akeꞌ kweꞌ chiyon (50) wej akeꞌ, kwen kwenze. 
+\p  
+\v 15 Naꞌ kaꞌ ben akeꞌ, naꞌ blleꞌ yeolol beꞌnn kaꞌ.  
+\v 16 Naꞌ bxhieꞌ yet xtir gaꞌy kaꞌ, naꞌ belyaꞌ kaꞌ ye chop, naꞌ le bwiateꞌ leꞌ yebáre, benlaꞌyeꞌn, naꞌ beꞌe yel llioxken ke Dios, naꞌll bxhoxhjeꞌn beꞌe beꞌnn kaꞌ non Leꞌen txhen naꞌ, naꞌ leakeꞌn le beꞌe akteꞌn beꞌnn kaꞌ.  
+\v 17 Yeolol akeꞌ bdao to berj aktereꞌ, naꞌ batop akeꞌ da laꞌo kaꞌ bagoꞌnnenꞌ, naꞌ goken ye chllinn (12) llom. 
+\s1 Pedronꞌ bneꞌe Jesúsenꞌ nakeꞌ Cristo beꞌnnenꞌ bseꞌl Diosenꞌ llnebieꞌ 
+\r (Mt. 16:13‑19; Mr. 8:27‑29) 
+\p  
+\v 18 Gok ye to ka niꞌt beꞌnn kaꞌ non Jesúsenꞌ txhen ren Leꞌe, naꞌ Leꞌe lloeꞌreneꞌ Diosenꞌ diꞌlle to wraze. Naꞌll golleꞌ leakeꞌ: 
+\p —¿Bi ne beꞌnn kaꞌ no nakaꞌ? 
+\p  
+\v 19 Naꞌ lle akeꞌ Leꞌe: 
+\p —Llaꞌa beꞌnn ne akeꞌ Juan beꞌnnenꞌ bchoa nis rweꞌ, naꞌ ye baleꞌ ne akeꞌ Elías rweꞌ, naꞌ ye baleꞌ neꞌe, kon to beꞌnn kaꞌ beꞌe xtiꞌll Dios kanaꞌ babán. 
+\p  
+\v 20 Naꞌll lleꞌe leakeꞌ: 
+\p —¿Bixha ne reꞌ, nonꞌ nakaꞌ? 
+\p Naꞌll ne Pedronꞌ: 
+\p —Rweꞌn Cristo beꞌnn bseꞌl Dios. 
+\s1 Jesúsenꞌ bzorao llyixjweꞌreꞌ gateꞌ 
+\r (Mt. 16:20‑28; Mr. 8:30‑9:1) 
+\p  
+\v 21 Naꞌ Jesúsenꞌ goꞌtyoereꞌ leakeꞌ, ni to beꞌnn bi weꞌrén akeꞌ diꞌll chaꞌ Leꞌen Cristonꞌ.  
+\v 22 Naꞌll lleꞌe leakeꞌ: 
+\p —Nadaꞌ Beꞌnnenꞌ Gorj Radj Beꞌnnach, da xhen za wallayrawaꞌ, kaꞌn llayaꞌl gak. Ka nak beꞌnn gor kaꞌ llnebiaꞌ Israelenꞌ, naꞌ bxoz wnebiaꞌ kaꞌ, naꞌ beꞌnn kaꞌ llsedre ke ley danꞌ bzoj da Moisésenꞌ, bi choꞌraꞌll akeꞌ xtiꞌllaꞌn, naꞌ got akeꞌ nadaꞌ, naꞌ wayónn lla wabanaꞌ. 
+\p  
+\v 23 Naꞌtell lleꞌe beꞌnn kaꞌ llaꞌn: 
+\p —Noteze beꞌnne chaꞌ lleꞌnreꞌ gakeꞌ nadaꞌ txhen, llayaꞌl wsanraꞌll kwineꞌ, naꞌ goneꞌ ka to beꞌnn noaꞌ cruz keꞌe, naꞌ naweꞌ nadaꞌ.  
+\v 24 Noteze beꞌnn lleꞌnreꞌ yesrá yel nban ke kwineꞌ yellrio ni, wniteꞌn, naꞌ noteze wnit yel nban keꞌen ni kiaꞌ nadaꞌ, leꞌen gaꞌt yel nban zejlikane keꞌe.  
+\v 25 ¿Bixha zaꞌken naꞌ, chaꞌ to beꞌnne goneꞌ gan doxhente da de rao yellrio, naꞌ kweyieꞌ, bi gaꞌt yel nban zejlikane keꞌe?  
+\v 26 Chaꞌ noteze beꞌnn wayeꞌreꞌ nadaꞌ, naꞌ ke xtiꞌllaꞌn, leskaꞌ nadaꞌ Beꞌnnenꞌ Gorj Radj Beꞌnnach, wayeꞌraꞌ nniaꞌ nakeꞌ nadaꞌ txhen, katenꞌ yedaꞌ da yobre nsaꞌa yel beniꞌ xhen kiaꞌn, naꞌ yel beniꞌ ke Xaꞌn ren ke angl kaꞌ.  
+\v 27 Da li niaꞌ reꞌ, balre llaꞌa ganni, bire nna llin lla gatre kate reꞌre nnebiaꞌ Diosenꞌ. 
+\s1 Jesúsenꞌ gokeꞌ ka to beniꞌ 
+\r (Mt. 17:1‑8; Mr. 9:2‑8) 
+\p  
+\v 28 Gok ka to xhman ka beꞌe diꞌll ki, byejeꞌ to rao yaꞌ jeꞌreneꞌ Diosenꞌ diꞌlle, naꞌ ncheꞌe Pedronꞌ ren Jacobo, ren Juan naꞌ.  
+\v 29 Chak lloeꞌreneꞌ Diosenꞌ diꞌllenꞌ, bllaꞌa yichjraweꞌn, naꞌ gok xharaꞌneꞌn llich kwis, to llaktiten.  
+\v 30 Le bllinte da Moisés, naꞌ da Elías, beꞌnn kaꞌ bzo kanaꞌ, naꞌ lloeꞌrén akeꞌ Jesúsenꞌ diꞌlle.  
+\v 31 Naꞌ nechj beniꞌ xhen ke Diosenꞌ leakeꞌ, naꞌ lloeꞌ akeꞌ diꞌll ke nak chej Jesúsenꞌ Jerusalén, naꞌ wallayraweꞌ naꞌ gateꞌ.  
+\v 32 Pedronꞌ ren beꞌnn kaꞌ ye chop, le nen btas ke akeꞌ; bixha bi btas akeꞌ, naꞌ breꞌe akreꞌ Jesúsenꞌ ren beniꞌ xhen keꞌen, naꞌ ren beꞌnn kaꞌ chop zerén Leꞌen.  
+\v 33 Naꞌ ka ba llazaꞌ da Moisésenꞌ ren da Elíasenꞌ, Pedronꞌ golleꞌ Jesúsenꞌ: 
+\p —Maestro, le wen zollo ganni, naꞌ gonllo chonn yoꞌ de yixh, to koꞌo rweꞌ, to Moisés naꞌ, naꞌ ye to Elías. 
+\p Bneꞌe kaꞌ le ker llakbeꞌreꞌ binꞌ neꞌen.  
+\v 34 Naꞌ neteꞌ kaꞌn, kate to bej byechjen leakeꞌ, naꞌll blleb Pedronꞌ kwis ren beꞌnn lwelljeꞌ kaꞌ.  
+\v 35 Kate ben akreꞌ bnne Diosenꞌ lo bejenꞌ, bneꞌe: 
+\p —Beꞌnn ninꞌ Xhiꞌnnaꞌ, beꞌnn nllieꞌraꞌ; Leꞌen wzenayre keꞌe. 
+\p  
+\v 36 Ka bayoll ben akreꞌ be xhnne ke Diosenꞌ, naꞌ breꞌe akreꞌ ye toze Jesúsenꞌ zeꞌe. Nono beꞌrén akzeꞌ diꞌll ke danꞌ breꞌe akreꞌn, bzo akeꞌ llize. 
+\s1 Jesúsenꞌ bayoneꞌ to bidaꞌo llen xhgot 
+\r (Mt. 17:14‑21; Mr. 9:14‑29) 
+\p  
+\v 37 Bateyó ka llayetj akeꞌ leꞌ yaꞌn, beꞌnn zan jatil leakeꞌ ganꞌ llayetj akeꞌn.  
+\v 38 Naꞌ blloj to beꞌnn radj beꞌnn zan kaꞌ, bnneꞌe zillj lleꞌe Jesúsenꞌ: 
+\p —Maestro, ben okré bwia xhiꞌnnaꞌn, tiꞌchze lebeꞌn nak.  
+\v 39 Llzap daxiꞌon lebeꞌ, naꞌ to ka zezbeꞌ llosiaꞌbeꞌ, naꞌ llxizen lebeꞌ, naꞌ llonen llarj pep blliꞌn lloaꞌbeꞌ; lltolen lebeꞌ, naꞌ ni ke llallojzen.  
+\v 40 Ba gollaꞌ beꞌnn kaꞌ non rweꞌ txhen naꞌ, wabej akeꞌ daxiꞌon, naꞌ bi gok akeꞌ. 
+\p  
+\v 41 Naꞌll bne Jesúsenꞌ: 
+\p —Reꞌ nakre beꞌnn wen da xhinnj, naꞌ bi llejleꞌre, ¿battenꞌ naꞌ zerenaꞌ reꞌ? 
+\p Naꞌll lleꞌe beꞌnnenꞌ: 
+\p —Da waꞌa xhiꞌnnoꞌn ni. 
+\p  
+\v 42 Chak zej bidaꞌon raweꞌ naꞌn, bllixtol daxiꞌon lebeꞌ ziꞌllo, naꞌ Jesúsenꞌ bdileꞌ daxiꞌon, naꞌ ballojen, naꞌ bayak bidaꞌon, naꞌ bayoeꞌbeꞌ xabeꞌn.  
+\v 43 Yeolol beꞌnn kaꞌ llabán akreꞌ, kanꞌ llreꞌe akreꞌ yel wak ke Diosenꞌ. 
+\s1 Jesúsenꞌ bdixjweꞌreꞌ da yobre gateꞌ 
+\r (Mt. 17:22‑23; Mr. 9:30‑32) 
+\p Nna zete beꞌnn kaꞌ, llabán akreꞌ danꞌ llon Jesúsenꞌ, kate golleꞌ beꞌnn kaꞌ non Leꞌe txhen naꞌ: 
+\p  
+\v 44 —Legón bien nench diꞌll ki choꞌn yichjraꞌlldaꞌore, le nadaꞌ, Beꞌnnenꞌ Gorj Radj Beꞌnnach, wllin lla gakaꞌ rallnaꞌa beꞌnn kaꞌ llwie nadaꞌn. 
+\p  
+\v 45 Naꞌ beꞌnn kaꞌ nao Leꞌen, bi byejnieꞌ akreꞌ bixchen neꞌe kaꞌ, le nna ngaꞌchen rao akeꞌn, naꞌ leskaꞌ bi llayaxhj akreꞌ wnnab akreꞌ Leꞌe. 
+\s1 Gokyoll beꞌnn kaꞌ non Jesúsenꞌ txhen nore gakll beꞌnn brao 
+\r (Mt. 18:1‑5; Mr. 9:33‑37) 
+\p  
+\v 46 Beꞌnn kaꞌ nao Jesúsenꞌ bzorao lloeꞌrén lwellj akeꞌ diꞌll, norenꞌ gakll beꞌnn brao.  
+\v 47 Jesúsenꞌ gokbeꞌreꞌ kanꞌ llon akeꞌ xhbabenꞌ, naꞌ goxheꞌ to bidaꞌo bzebeꞌ kwiteꞌn.  
+\v 48 Naꞌll lleꞌe leakeꞌ: 
+\p —Notezre chaꞌ gakrenre ka bidaꞌon gonre wen kebeꞌ, danꞌ llonliraꞌllbeꞌ nadaꞌ, nadkzaꞌn gonre wen kiaꞌ chet kaꞌ. Naꞌ beꞌnnenꞌ llakren nadaꞌ, Diosenꞌ, beꞌnnenꞌ bseꞌl nadaꞌn, llakreneꞌ chet kaꞌ. Naꞌ beꞌnnenꞌ bi llonxhen kwineꞌ, leꞌen nak beꞌnn brao. 
+\s1 Beꞌnn bi llwie lliꞌo, txhen naꞌ lloneꞌ lliꞌo 
+\r (Mr. 9:38‑40) 
+\p  
+\v 49 Naꞌll Juan naꞌ golleꞌ Leꞌe: 
+\p —Maestro, breꞌtoꞌ to beꞌnn llabejeꞌ daxiꞌo yoꞌ yichjraꞌlldaꞌo beꞌnne kone raꞌo naꞌ. Naꞌ golltoeꞌ bill goneꞌ kaꞌ, le bi nakeꞌ lliꞌo txhen. 
+\p  
+\v 50 Naꞌll Jesúsenꞌ lleꞌe leꞌe: 
+\p —Bi wllonre goneꞌ kaꞌ. Chaꞌ to beꞌnne bi llwiereꞌ lliꞌo, txhenkzenꞌ nakeꞌ lliꞌo. 
+\s1 Jesúsenꞌ bdileꞌ Jacobo ren Juan 
+\p  
+\v 51 Bixha ka ba zo llin lla, wayejeꞌ waziꞌi Diosenꞌ Leꞌe, naꞌ bchoyraꞌlleꞌ chejeꞌ Jerusalén naꞌ.  
+\v 52 Naꞌ bseꞌleꞌ to chop beꞌnn blliarao raweꞌn, lljen akeꞌ xhnid ganꞌ llineꞌn. Beꞌnn kaꞌ bseꞌleꞌn, byoꞌ akeꞌ to yell ga nbane Samaria.  
+\v 53 Naꞌ beꞌnn Samaria kaꞌ, bi gokraꞌll akeꞌ choeꞌ yell ke akeꞌn, ni ke danꞌ llwia akeꞌ lloneꞌ ka beꞌnn zej Jerusalénre.  
+\v 54 Naꞌ Juan naꞌ, ren Jacobonꞌ, ka breꞌe akreꞌ kanꞌ bene beꞌnn kaꞌ Jesúsenꞌ, goll akeꞌ Leꞌe: 
+\p —Xantoꞌ, ¿Lleꞌnroꞌ, gontoꞌ kanꞌ ben da Elías beꞌnnenꞌ beꞌe xtiꞌll Dios kanaꞌ, wnnabtoꞌ yetj yiꞌ zaꞌa yebá, wzeyen beꞌnn ki? 
+\p  
+\v 55 Naꞌ bayechjeꞌ bdileꞌ leakeꞌ, bneꞌe: 
+\p —Bi llakbeꞌre bi Spíritu xhinnje llnebiaꞌ reꞌ.  
+\v 56 Le nadaꞌ, Beꞌnnenꞌ Gorj Radj Beꞌnnach, kere bedaꞌ nench wlleyiaꞌ beꞌnnenꞌ, bedaꞌ nench yesrá akreꞌn. 
+\p Bayoll bneꞌe kaꞌ, naꞌll zjakeꞌ yell yobre. 
+\s1 Kanꞌ goll Jesúsenꞌ beꞌnn kaꞌ gokraꞌll gon Leꞌe txhen 
+\r (Mt. 8:19‑22) 
+\p  
+\v 57 Chak zjakeꞌ naꞌn, to beꞌnn golleꞌ Jesúsenꞌ: 
+\p —Xanaꞌ, wnawaꞌ rweꞌ gateze chejoꞌ. 
+\p  
+\v 58 Naꞌll lle Jesúsenꞌ leꞌe: 
+\p —Beꞌz kaꞌ zo ga llallín akbaꞌ lltas akbaꞌ, naꞌ ba kaꞌ zo xir dá rao lla, llia xoꞌnn akbaꞌ, zan nadaꞌ, nakaꞌ Beꞌnnenꞌ Gorj Radj Beꞌnnach, bitbi zo ga yeziꞌraꞌllaꞌ. 
+\p  
+\v 59 Naꞌ Jesúsenꞌ golleꞌ ye to beꞌnn yobre: 
+\p —Da nnao nadaꞌ. 
+\p Naꞌ beꞌnnenꞌ golleꞌ Leꞌe: 
+\p —Xanaꞌ, zgaꞌtek benn latj wkwaꞌchaꞌ xaꞌn kate gateꞌ, naꞌll nnawaꞌ rweꞌ. 
+\p  
+\v 60 Naꞌll lle Jesúsenꞌ leꞌe: 
+\p —Bkwaꞌnn beꞌnn wat kaꞌ, wkwaꞌchze lwellj beꞌnn wat kaꞌ, zan rweꞌ byej jatixjweꞌ xtiꞌll Diosenꞌ. 
+\p  
+\v 61 Naꞌll to beꞌnn yobre golleꞌ Jesúsenꞌ: 
+\p —Wnawaꞌ rweꞌ Xanaꞌ, zgaꞌtek ben latj lljayeꞌrenaꞌ biꞌch lwelljaꞌ diꞌlle. 
+\p  
+\v 62 Naꞌ Jesúsenꞌ golleꞌ leꞌe: 
+\p —Chaꞌ to beꞌnn llwaꞌnneꞌ belle, naꞌ nchiꞌcheꞌ radenꞌ nawebaꞌ; kere wayechjeꞌ, naꞌ llwiazeꞌ ganꞌ ba bdeꞌe naꞌ, beꞌnnenꞌ gon kaꞌ rao xhnnez Diosenꞌ bi gakeꞌ nnaweꞌn. 
+\c 10  
+\s1 Jesúsenꞌ bseꞌleꞌ wyon chi (70) beꞌnn jatixjweꞌ xtiꞌlleꞌn 
+\p  
+\v 1 Bde naꞌ, Xanllonꞌ brejeꞌ wyon chi beꞌnne, naꞌ golleꞌ leakeꞌ kwiarao akeꞌ raweꞌn, naꞌ chej chop wej akeꞌ toto yell ganꞌ za tieꞌ naꞌ. 
+\p  
+\v 2 Naꞌ lleꞌe leakeꞌ: 
+\p —Da li niaꞌ reꞌ, ka beꞌnn gon wrapenꞌ gonllo, da xhen llin naꞌ de, naꞌ to chopze beꞌnn wrap kaꞌ nak. Lennabe Dios beꞌnnenꞌ nak xan llin naꞌ, wseꞌleꞌ yezikre beꞌnn wen llin rao llin naꞌ.  
+\v 3 Lechej, ni llseꞌlaꞌ reꞌ, ka llseꞌleꞌ xhiꞌr daꞌo radj beꞌkw yiꞌo.  
+\v 4 Bi goꞌxre bzod ni mell, ni ye chkweꞌ xher-re, naꞌ bi sezre scha wapre beꞌnn lliox tnez.  
+\v 5 Yoꞌ ganꞌ llinre, ka choꞌrenꞌ zgaꞌtek nnere: “Sochgare wen.”  
+\v 6 Chaꞌ lo yoꞌ naꞌ zo to beꞌnn nak raꞌlldaꞌo wen, gonkze Diosenꞌ gak wen keꞌe. Chaꞌ nono llraꞌ beꞌnn nak raꞌlldaꞌo wen, bi gak kanꞌ yerenꞌ.  
+\v 7 Yoꞌ ga llinre, gannaꞌze sore, yeꞌj gaotezre kon da gonn akeꞌ. Ka to beꞌnn wen llin llayaꞌl siꞌkze raxhjeꞌ, kaꞌkze ke reꞌ; bi tasre toto yoꞌ.  
+\v 8 Chaꞌ to yell ga llinre, kon da gonn akeꞌ llayaꞌl gaore.  
+\v 9 Lennab yeyak chaꞌ beꞌnn llak yillweꞌ, naꞌ leyé akeꞌ: “Ba bllin lla reꞌllo kanꞌ llnebiaꞌ Diosenꞌ.”  
+\v 10 Chaꞌ to yell ga llinre bi wreb akeꞌ reꞌ, lechej do lyell, leyé akeꞌ:  
+\v 11 “Bichte danꞌ bllia lo niaꞌtoꞌn rao yell keré naꞌ, llabibtoꞌn nench waxhoan koꞌllre, naꞌ llayaꞌl nnézere ke yel llnebiaꞌ ke Diosenꞌ, ba braꞌ rao rallrenꞌ.”  
+\v 12 Ni llniaꞌ reꞌ, kate llin lla gon Diosenꞌ yel koxchis ke yeolol beꞌnne, da xhenll yellayrao beꞌnn ki, kerke beꞌnn Sodoma kaꞌ. 
+\s1 Da gak ke beꞌnn kaꞌ bi llzenay ke Diosenꞌ 
+\r (Mt. 11:20‑24) 
+\p  
+\v 13 ’¡Nyaꞌchraz ke reꞌ beꞌnn Corazín! ¡Naꞌ nyaꞌchraz ke reꞌ beꞌnn Betsaida! Chenake broeꞌraꞌ beꞌnn kaꞌ niꞌt yell kaꞌ nziꞌi Tiro, naꞌ Sidón yel wak kiaꞌn ka danꞌ ba broeꞌraꞌ reꞌ, batnaꞌ ba bayechj akeꞌ banao akeꞌ Diosenꞌ chenake, naꞌ llak akeꞌ to raꞌll gasj da nak zeꞌch, naꞌ llwazj kwin akeꞌ no de da llroeꞌn ba bayat akreꞌ chenake.  
+\v 14 Kate llin lla gak yel koxchis ke yeolol beꞌnne, da xhenll yellayraore kerke beꞌnn Tiro, naꞌ beꞌnn Sidón kaꞌ.  
+\v 15 Naꞌ reꞌ beꞌnn Capernaum, llákere ba zekzre yebá, ga lleꞌle gor wazaꞌleꞌ reꞌ, ga yellayraore. 
+\p  
+\v 16 Naꞌll lleꞌe beꞌnn kaꞌ non Leꞌe txhen: 
+\p —Beꞌnn wzenayeꞌ xtiꞌllrenꞌ, kiaꞌ nadkzaꞌn wzenayeꞌ chet kaꞌ; naꞌ beꞌnnenꞌ bi wzenayeꞌ xtiꞌllrenꞌ, kiaꞌ nadkzaꞌn bi wzenayeꞌ. Naꞌ beꞌnnenꞌ bi wzenayeꞌ kiaꞌ nadaꞌ, ke Dios beꞌnnenꞌ bseꞌl nadaꞌn, bi wzenayeꞌ ke chet kaꞌ. 
+\s1 Ka ballín beꞌnn wyon chi kaꞌ 
+\p  
+\v 17 Bixha gok kate ballín beꞌnn wyon chi kaꞌ, llawé akreꞌ ballín akeꞌ, lle akeꞌ Jesúsenꞌ: 
+\p —¡Xantoꞌ, rente daxiꞌo kaꞌ, llzenay aken ketoꞌ kate llwaꞌltoꞌ raꞌon! 
+\p  
+\v 18 Naꞌll lle Jesúsenꞌ leakeꞌ: 
+\p —To breꞌkazraꞌ llaz daxiꞌon lleꞌle, ka llaz yiꞌ bziꞌo ka nak llnit yel llnebiaꞌ ken.  
+\v 19 Ganni llonnaꞌ reꞌ yel wak, nench wrejchekwre no bele, no xhban leo, naꞌ wrejchekwre doxhen yel wak ke da lleꞌne wlliayiꞌ lliꞌo, naꞌ reꞌ bibi gákere.  
+\v 20 Naꞌ bi wawétekere, ni ke danꞌ llzenay daxiꞌon keré, zan leyewé le ba nllia Diosenꞌ rarenꞌ leꞌ libr keꞌen yebá. 
+\s1 Bawé Jesúsenꞌ 
+\r (Mt. 11:25‑27; Mr. 13:16‑17) 
+\p  
+\v 21 Rawe naꞌ bawé Jesúsenꞌ, ka nak zorén Spíritu ke Diosenꞌ Leꞌen, naꞌ bneꞌe: 
+\p —Lloeꞌrawaꞌ rweꞌ Dios Xa, rweꞌn llnebiaꞌo yebá naꞌ yellrionꞌ, bkwaꞌchoꞌ da ki, bi byejnieꞌ beꞌnn siꞌn kaꞌ len, naꞌ broeꞌroꞌn beꞌnn nak nexjraꞌlle. Benoꞌ kaꞌ Xa, le kaꞌn byoꞌraꞌlloꞌ. 
+\p  
+\v 22 ’Yeololte da de, Xaꞌn ba beneꞌn rallnaꞌ, naꞌ nono nombiaꞌ Xhiꞌnneꞌn, toz Xaꞌ naꞌ nombieꞌ Leꞌe, naꞌ nono nombiaꞌ Xaꞌn, toz nadaꞌ nak Xhiꞌnneꞌ nombieꞌ, naꞌ kon no llbejaꞌ nadaꞌ llroeꞌreꞌ kanꞌ nak Xaꞌn. 
+\p  
+\v 23 Naꞌ bayechjeꞌ golleꞌ beꞌnn kaꞌ non Leꞌe txhen to wraz akzeꞌ: 
+\p —Nbaraz ke reꞌ llreꞌre nadaꞌ, naꞌ da kaꞌ llonaꞌn.  
+\v 24 Le beꞌnn zan beꞌnn beꞌe xtiꞌll Diosenꞌ, naꞌ beꞌnn llnebiaꞌ bllaꞌa kanaꞌ, le gokraꞌll akeꞌ reꞌe akreꞌ ka da kaꞌ llreꞌre nnaꞌ, naꞌ bi breꞌe akreꞌn; naꞌ le gokraꞌll akeꞌ yen akreꞌ ke danꞌ llénere nnaꞌ, naꞌ bi ben akreꞌn. 
+\s1 Diꞌll da beꞌe Jesúsenꞌ ke to beꞌnn wen 
+\p  
+\v 25 Naꞌ bzollaꞌa to beꞌnn llsed llroeꞌ ley danꞌ bzoj da Moisésenꞌ, gokraꞌlleꞌ kwejeꞌ Jesúsenꞌ diꞌlle, lleꞌe Leꞌe: 
+\p —Maestro, ¿Bi llayaꞌl gonaꞌ nench gaꞌt yel nban zejlikane kiaꞌ? 
+\p  
+\v 26 Naꞌll lle Jesúsenꞌ leꞌe: 
+\p —¿Akxha nyoj leꞌ leyenꞌ? ¿Akre nen? 
+\p  
+\v 27 Naꞌll beꞌnnenꞌ llejnieꞌ leyenꞌ kwasro bneꞌe: 
+\p —“Llieꞌroꞌ Dios do yichj do raꞌlloꞌ, naꞌ llieꞌroꞌ beꞌnn lwelljoꞌ, kaꞌkze nllieꞌroꞌ kwinoꞌ.” 
+\p  
+\v 28 Naꞌll Jesúsenꞌ lleꞌe leꞌe: 
+\p —Da li kanꞌ bneꞌon, kaꞌn ben, naꞌll banoꞌ zejlikane. 
+\p  
+\v 29 Naꞌ beꞌnnenꞌ, gokraꞌlleꞌ wroeꞌreꞌ dakze lixheje, naꞌ lleꞌe Jesúsenꞌ: 
+\p —¿Ka noxha beꞌnnenꞌ nak beꞌnn lwelljaꞌn, naꞌ llieꞌreꞌ? 
+\p  
+\v 30 Naꞌll bne Jesúsenꞌ: 
+\p —To beꞌnn bzeꞌe Jerusalén, naꞌ zejeꞌ Jericó, bixha gok bllayreꞌ beꞌnn wan, naꞌ bkaꞌa akeꞌ bi keꞌe da nseꞌe, ben akeꞌ ziꞌ keꞌe, naꞌ bkwaꞌnn akeꞌ leꞌe tnezenꞌ ye zre ke bet akzeꞌ leꞌe.  
+\v 31 Kaꞌ goken, kate bde to bxoz tnezenꞌ, ka breꞌreꞌ beꞌnn weꞌen, naꞌ bdieꞌ ye chlaꞌre nezenꞌ zejzeꞌ.  
+\v 32 Naꞌll bde ye to beꞌnn kaꞌ nziꞌi levita, lleꞌnen nen beꞌnn llakrén lo yodaꞌo, leskaꞌ ka breꞌreꞌ beꞌnn weꞌen, le bdeteꞌ ye chlaꞌre.  
+\v 33 Bixha to beꞌnn Samaria, bdieꞌ tnezenꞌ; ka breꞌreꞌ beꞌnn weꞌen, bayaꞌchraꞌlleꞌ leꞌe.  
+\v 34 Naꞌ jabiꞌyeꞌ kwiteꞌ, naꞌ bdibeꞌ weꞌe keꞌen, btopeꞌn ceit, naꞌ blloneꞌn xis uva, naꞌ beneꞌn rmell, naꞌ bchejeꞌn to raꞌlle. Naꞌ bleneꞌ leꞌe bllieꞌ leꞌe koꞌll burr keꞌen, naꞌ bcheꞌe leꞌe ga zo to yoꞌ ga lltas beꞌnn yoꞌ nez. Gannaꞌ basyolleꞌ bwieꞌ leꞌe.  
+\v 35 Bateyó ka yeweꞌ nezenꞌ, brejeꞌ chop mell danꞌ nziꞌi denario, naꞌ beꞌen xan yoꞌn, lleꞌe leꞌe: “Ben gokre bwia beꞌnnenꞌ, chaꞌ billre da gonoꞌ gaxt, naꞌ wayixhjaꞌn kate zazaꞌa naꞌ.” 
+\p  
+\v 36 Naꞌll goll Jesúsenꞌ beꞌnnenꞌ: 
+\p —Bnechk rweꞌ, ¿nore beꞌnn ki chonne, gokreꞌ ke beꞌnnenꞌ bran akeꞌn nakeꞌ beꞌnn lwelljeꞌ? 
+\p  
+\v 37 Naꞌ bne beꞌnnenꞌ llsed llroeꞌ leyenꞌ: 
+\p —Beꞌnnenꞌ bayaꞌchraꞌll beꞌnn weꞌen bran akeꞌn. 
+\p Naꞌll lle Jesúsenꞌ leꞌe: 
+\p —Lekze kaꞌn llayaꞌl gonoꞌ rweꞌ, wayaꞌchraꞌlloꞌ yeolol beꞌnne. 
+\s1 Jesúsenꞌ jaraꞌnneꞌ Marta ren María 
+\p  
+\v 38 Naꞌ Jesúsenꞌ baweꞌ nez da yobre, naꞌ bllin akeꞌ to yell, naꞌ rao yell naꞌ, zo to noꞌr re Marta, naꞌ beneꞌ Jesúsenꞌ yexh chejeꞌ rilleꞌ.  
+\v 39 Naꞌ zo to bir Martanꞌ, naꞌ re María, naꞌ Maríanꞌ le blleꞌteꞌ xhniaꞌ Jesúsenꞌ llzenayeꞌ xtiꞌlleꞌn.  
+\v 40 Naꞌ Martanꞌ llaral-llreꞌ llsinieꞌ da gao akeꞌ, kate jabiꞌyeꞌ kwit Jesúsenꞌ, lleꞌe Leꞌe: 
+\p —Xanaꞌ, ¿bi llakbeꞌroꞌ bi biraꞌn tozaꞌ bkwaꞌnnbeꞌ, llsiniaꞌ ganni? Gollbeꞌ gakrenbeꞌ nadaꞌ. 
+\p  
+\v 41 Naꞌll Jesúsenꞌ lleꞌe Martanꞌ: 
+\p —Marta, Marta, le lliꞌ yichjoꞌ danꞌ llsiniaꞌon, naꞌ llakllejlaꞌlloꞌ danꞌ nyan da zed koꞌon.  
+\v 42 Zan toze da de da nak lliarao gonllo, len naꞌ ba brej Maríanꞌ lloneꞌ, naꞌ nono gak wakaꞌa len. 
+\c 11  
+\s1 Jesúsenꞌ broeꞌreꞌ ka weꞌrén akeꞌ Diosenꞌ diꞌlle 
+\r (Mt. 6:9‑15; 7:7‑11) 
+\p  
+\v 1 Gok ka zo Jesúsenꞌ to latj ga lloeꞌreneꞌ Diosenꞌ diꞌlle, bayoll naꞌ to beꞌnn kaꞌ non Leꞌe txhen, golleꞌ Leꞌe: 
+\p —Xantoꞌ, bsede netoꞌ akrenꞌ weꞌrentoꞌ Diosenꞌ diꞌll, kanꞌ ben Juan beꞌnnenꞌ bchoa nis, broeꞌreꞌ beꞌnn kaꞌ bnao leꞌen. 
+\p  
+\v 2 Naꞌll lleꞌe leakeꞌ: 
+\p —Kate weꞌrenre Diosenꞌ diꞌll, ki nnere: 
+\q1 Xa, rweꞌ lliaꞌo yebá, nak laꞌy raꞌon. 
+\q1 Yedchga yel llnebiaꞌ koꞌon. 
+\q1 Gakchga kanꞌ lleꞌnroꞌ rao yellrionꞌ, kanꞌ llak yebá naꞌ. 
+\q1  
+\v 3 Naꞌ danꞌ gaotoꞌ tlla tlla, bennchgan nnaꞌ. 
+\q1  
+\v 4 Naꞌ baziꞌxhen ketoꞌ, 
+\q1 kanꞌ llon netoꞌ, llaziꞌxhentoꞌ ke beꞌnn biteze da llon akreꞌ netoꞌ. 
+\q1 Bi wsanraꞌlloꞌ netoꞌ, yexjtoꞌ rao da xhinnjenꞌ, 
+\q1 bkwas brekyiꞌll netoꞌ rao da xhinnjenꞌ. 
+\p  
+\v 5 Naꞌll leskaꞌ lleꞌe leakeꞌ: 
+\p —Bixha chaꞌ reꞌ, zo to beꞌnn nombiaꞌre kwasro, naꞌ chejre rilleꞌn llere, naꞌ yereꞌ: “Beꞌnn nllieꞌraꞌ, ben gokre brej nadaꞌ chonn yet xtir;  
+\v 6 braꞌ to beꞌnn nllieꞌraꞌ beꞌnn zaꞌa ziꞌte, naꞌ bikzbi de kiaꞌ waꞌa gaweꞌ.”  
+\v 7 Naꞌ beꞌnnenꞌ walliꞌ kerénꞌ ganꞌ deꞌe naꞌ, yeꞌe reꞌ: “Bi gonroꞌ nadaꞌ zede, ¿bi llwiaꞌo ba neyj yoꞌn, naꞌ ren xhiꞌnnaꞌ ki ba tastoꞌ, naꞌ bi gak chasaꞌ gonnaꞌn?”  
+\v 8 Ni niaꞌ reꞌ, laꞌkze bi nnen ke chaseꞌ gonneꞌn, naꞌ danꞌ zere llchieꞌre naꞌ, wyaskzeꞌ gonneꞌ danꞌ llnnabrenꞌ.  
+\v 9 Ke len naꞌ niaꞌ reꞌ: Lewnnab, chaꞌ bi wnnabre, gonnkze Diosenꞌ len; lechirj, chaꞌ bi chirjre, wllelkzen; lewseꞌkw, naꞌ wyarjkze choꞌre.  
+\v 10 Le noteze beꞌnne bi da llnnabeꞌ, wziꞌkzeꞌn; naꞌ beꞌnn llyirjeꞌ, wllelkzereꞌn; naꞌ beꞌnn llnneꞌe, llsarj akseꞌ keꞌe. 
+\p  
+\v 11 ’Chaꞌ reꞌ zo to xhiꞌnnre, naꞌ wnnábebeꞌ reꞌ to yet xtir, kere weꞌzrebeꞌ to yej. Chaꞌ wnnábebeꞌ reꞌ to belyaꞌ, kere weꞌzrebeꞌ to bele.  
+\v 12 Naꞌ chaꞌ wnnábebeꞌ reꞌ to xchit bellj, kere weꞌzrebeꞌ to xhban leo.  
+\v 13 Chaꞌ reꞌ naktere beꞌnn wen da xhinnj, nnézere llayaꞌl weꞌe xhiꞌnnre da wen, gonntell Xare beꞌnnenꞌ zo yebá, gonneꞌ reꞌ Spíritu keꞌen kon chaꞌ wnnabren. 
+\s1 Bne akeꞌ ke Jesúsenꞌ babejeꞌ daxiꞌo kone yel wak ke daxiꞌon 
+\r (Mt. 12:22‑30; Mr. 3:19‑27) 
+\p  
+\v 14 Bixha gok ka llabej Jesúsenꞌ to daxiꞌo yoꞌ to beꞌnn blloj; ka balloj daxiꞌon, le bannete beꞌnn bllojenꞌ. Naꞌll llabanre beꞌnn kaꞌ llaꞌn.  
+\v 15 Naꞌ bal beꞌnn kaꞌ bne akeꞌ: 
+\p —Llabejeꞌ daxiꞌo kaꞌ kone yel wak ke Beelzebú danꞌ llnebiaꞌ daxiꞌo kaꞌ. 
+\p  
+\v 16 Naꞌ ye baleꞌ, kon llnnab akeꞌ wroeꞌreꞌ yel wak keꞌen, goneꞌ to da goneꞌ leꞌ yebá, nench gaꞌt da wxoa akeꞌ doꞌl koꞌlleꞌ.  
+\v 17 Jesúsenꞌ llakbeꞌtereꞌ kanꞌ nak xhbab ke akeꞌn, naꞌll lleꞌe leakeꞌ: 
+\p —Chaꞌ beꞌnn llaꞌa to yell gak akeꞌ chopre, wllin lla kate kwiayiꞌ yellenꞌ. Naꞌ chaꞌ beꞌnn llaꞌa to lo yoꞌ, nak akeꞌ chopre, leskaꞌ wllin lla kate waran akeꞌ.  
+\v 18 Leskaꞌ daxiꞌo kaꞌ, chaꞌ nak aken chopre, les bi gak soyib aken scha chet kaꞌ. Le kanꞌ nere llabejaꞌ daxiꞌo yoꞌ yichjraꞌlldaꞌo beꞌnne kone yel wak ke Beelzebúnꞌ.  
+\v 19 Chaꞌ naken kanꞌ nerenꞌ, ¿bixha xhiꞌnnre kaꞌ, bi kone llabej akeꞌ daxiꞌo kaꞌ yichjraꞌlldaꞌo beꞌnne? ¿Kone yel wak ke Beelzebú naꞌn llon akeꞌ kaꞌ? Leakeꞌ wroeꞌ akreꞌ, krerenꞌ nak xhbab kerénꞌ.  
+\v 20 Zan chaꞌ llabejaꞌ daxiꞌo kaꞌ kone yel wak ke Dios, len naken to da llroeꞌ ba bzorao llroeꞌ Diosenꞌ yel llnebiaꞌ keꞌen ganꞌ llaꞌrenꞌ. 
+\p  
+\v 21 ’Kate to beꞌnn war, llapeꞌ rilleꞌn kon ren ya, notno gak choꞌ rilleꞌn.  
+\v 22 Zan chaꞌ llin to beꞌnn nak beꞌnn warlle tilreneꞌ leꞌe, naꞌ goneꞌ leꞌe gan, naꞌ wkeꞌe ya keꞌen danꞌ nxenraꞌlleꞌn, naꞌ wkaꞌteꞌ yeolol da de keꞌe, naꞌ chisen weꞌe beꞌnn kaꞌ nakeꞌ txhen. 
+\p  
+\v 23 ’Beꞌnn bi lloneꞌ nadaꞌ txhen, llwiereꞌ nadaꞌn. Naꞌ beꞌnn bi llakreneꞌ nench wzenay beꞌnn kaꞌ kiaꞌ, yezikre lloneꞌ nench nono wzenaykze kiaꞌ. 
+\s1 Daxiꞌon lljalloꞌn da yobre lo yichjraꞌlldaꞌo beꞌnne 
+\r (Mt. 12:43‑45) 
+\p  
+\v 24 ’Kate to daxiꞌo llallojen yichjraꞌlldaꞌo beꞌnnenꞌ, naꞌ dan llayirjen ga lljachoꞌn ga yobre. Naꞌ chaꞌ bi ll-llelen to latj ga yeziꞌraꞌllen, naꞌll nnen: “Wayaꞌchkaꞌ lljawiaꞌ ganꞌ ballojaꞌn, chaꞌ gak lljalloaꞌ da yobre.”  
+\v 25 Naꞌll llayejen lljawian ganꞌ zo beꞌnnenꞌ, naꞌ kate reꞌren raꞌlldaꞌo beꞌnnenꞌ, naken ka to yoꞌ da nxhi nloa, naꞌ ndachen.  
+\v 26 Naꞌll lljatopen ye gall daxiꞌo da llonll ka len, naꞌll yellaꞌa aken txhen lo raꞌlldaꞌo beꞌnnenꞌ. Naꞌ chaꞌ kaꞌ ba ben akeꞌn, naꞌll yezikre gakll ke beꞌnnenꞌ, kere kanꞌ gok keꞌe kanaꞌ. 
+\s1 Nbaraz ke beꞌnnenꞌ llzenayeꞌ ke Diosenꞌ 
+\p  
+\v 27 Chak lloeꞌ Jesúsenꞌ diꞌll ki, to noꞌr ren radj beꞌnn kaꞌ llaꞌa llzenay xtiꞌlleꞌn, bnneꞌe lleꞌe Jesúsenꞌ: 
+\p —Nbaraz ke noꞌrenꞌ bxhan rweꞌ, naꞌ bwaꞌlleꞌ rweꞌ. 
+\p  
+\v 28 Naꞌ bne Jesúsenꞌ: 
+\p —Nakllen nbaraz ke beꞌnnenꞌ llzenay xtiꞌll Diosenꞌ, naꞌ lloneꞌn. 
+\s1 Beꞌnn kaꞌ bi llzenay ke Diosenꞌ bnnab akeꞌ gon Jesúsenꞌ yel wak 
+\r (Mt. 12:38‑42; Mr. 8:12) 
+\p  
+\v 29 Naꞌ ka badop beꞌnn zanll kwit Jesúsenꞌ, naꞌll lleꞌe leakeꞌ: 
+\p —Beꞌnn kaꞌ llaꞌa nnaꞌ, nak akeꞌ beꞌnn wen da xhinnj kwis, llnnab akeꞌ to da gonaꞌ nench wroeꞌraꞌ yel wak kiaꞌn, naꞌ chejleꞌ akeꞌ kiaꞌ; zan bi gak kanꞌ llnnab akeꞌn, toze kanꞌ gok ke da Jonás beꞌnnenꞌ beꞌe xtiꞌll Diosenꞌ kanaꞌ, kaꞌkzenꞌ gak kiaꞌ.  
+\v 30 Ka danꞌ gok ke Jonásenꞌ, len naꞌ breꞌe beꞌnn Nínive kaꞌ, naꞌ bayakbeꞌe akreꞌ Diosenꞌ bseꞌl leꞌe. Kaꞌn gok keꞌe naꞌ, kaꞌkzenꞌ gak kiaꞌ nadaꞌ Beꞌnnenꞌ Gorj Radj Beꞌnnach, naꞌ gaken to da reꞌe beꞌnn kaꞌ llaꞌa nnaꞌ.  
+\v 31 Noꞌrenꞌ bnebiaꞌ yellenꞌ re Sabá, kate llin lla gak yel koxchis ke yeolol beꞌnne, wabanreneꞌ txhen beꞌnn ki llaꞌa nnaꞌ, naꞌ wchoybieꞌ ke akeꞌ, le leꞌen ziꞌt kwis bedeꞌ badzenayeꞌ yel siꞌn ke da Salomón naꞌ, naꞌ nadaꞌ zaꞌktellaꞌ kerke Salomón naꞌ.  
+\v 32 Beꞌnn Nínive kaꞌ, kate llin lla gak yel koxchis ke yeolol beꞌnne, wabanrén akeꞌ beꞌnn ki llaꞌa nnaꞌ, naꞌ wchoybiaꞌ akeꞌ ke akeꞌ, le leakeꞌn ka ben akreꞌ xtiꞌll da Jonásenꞌ, bayat akreꞌ ke da xhinnj ke akeꞌn, naꞌ nadaꞌ zaꞌktellaꞌ kerke da Jonásenꞌ. 
+\s1 Beniꞌ ke yichjraꞌlldaꞌollo 
+\r (Mt. 5:15; 6:22‑23) 
+\p  
+\v 33 ’Ni to beꞌnne kate wxhenzeꞌ to yiꞌ, wkwaꞌchzeꞌn o chaꞌ wdoꞌszeꞌn to llom, zan lldeꞌen sibe nench llseniꞌn ke yeolol beꞌnne.  
+\v 34 Yejraore llian naken ka to beniꞌ nench reꞌre. Chaꞌ bibi llaken, llreꞌkzere kwasro. Zan chaꞌ yejraorenꞌ bi naken wen, doxhenre ncholen chet kaꞌ.  
+\v 35 Lewiayaꞌnn ke nnebiaꞌ da xcholenꞌ reꞌ, leweꞌe latj choꞌ beniꞌ ke Diosenꞌ yichjraꞌlldaꞌorenꞌ.  
+\v 36 Chaꞌ bill yoꞌllo ni raꞌt da xcholenꞌ, naꞌ doxhen yichjraꞌlldaꞌollo yoꞌn beniꞌn ke Dios, kanaꞌllenꞌ chejnieꞌllo kanꞌ nak xhnnez Diosenꞌ, gonen kaꞌkze ga llseniꞌ to yiꞌ xhen rao nezenꞌ. 
+\s1 Jesúsenꞌ golleꞌ beꞌnn fariseo kaꞌ, naꞌ beꞌnn kaꞌ llsedre ke leyenꞌ de doꞌl ke akeꞌ 
+\r (Mt. 23:1‑36; Mr. 12:38‑40; Lc. 20:45‑47) 
+\p  
+\v 37 Ka bayoll beꞌe Jesúsenꞌ diꞌll ki, to beꞌnn fariseonꞌ beneꞌ Leꞌe yexh rilleꞌ lljataweꞌ. Ka byoꞌ Jesúsenꞌ rill beꞌnnenꞌ, naꞌ bllieꞌ ganꞌ gao akeꞌn.  
+\v 38 Beꞌnn fariseonꞌ llabanreꞌ ka breꞌreꞌ kere bnaꞌa taꞌk Jesúsenꞌ zan ras, kanꞌ llon leakeꞌn ka nak gaweꞌn.  
+\v 39 Naꞌll goll Xanllonꞌ leꞌe: 
+\p —Reꞌ beꞌnn fariseo ake, ka beꞌnn llayib to koꞌllze tas yeꞌnnenꞌ llonre. Yichjraozrenꞌ nak yall, zan lo yichjraꞌlldaꞌorenꞌ llaꞌn da ke nxhia, llzeraꞌllre bi da de ke beꞌnne.  
+\v 40 ¡Beꞌnn ke llejnieꞌn nakre! ¿Kere Diosenꞌ beꞌnnenꞌ ben yichjraorenꞌ, lekze Leꞌen beneꞌ yichjraꞌlldaꞌorenꞌ?  
+\v 41 Leweꞌe lmoxh, legakrén beꞌnne, naꞌllenꞌ gakre yall doxhenre. 
+\p  
+\v 42 ’¡Nyaꞌchraz ke reꞌ beꞌnn fariseo! Lloeꞌre Diosenꞌ to raꞌt wej rao chi kwen ke yeolol da daꞌo bixhj, ke nak no yixh kwan da llaziꞌre lo reꞌj keré, da kaꞌ nziꞌi menta naꞌ rud, naꞌ llbej yichjrenꞌ gonre da nak lliarao, ka nak danꞌ llieꞌllo Diosenꞌ, naꞌ gonllo da wen. Da li da llayaꞌl weꞌre da ki, naꞌ bi wsanre yel nllieꞌ ke Diosenꞌ. 
+\p  
+\v 43 ’¡Nyaꞌchraz ke reꞌ, beꞌnn fariseo! Reꞌ ll-lanre siy nell kaꞌ niꞌt lo yodaꞌon, naꞌ do lao yaꞌa, llawere weꞌrao beꞌnn reꞌ. 
+\p  
+\v 44 ’¡Nyaꞌchraz naken keré llsedre ke ley danꞌ bzoj da Moisésenꞌ, naꞌ reꞌ beꞌnn fariseo! ¡Nakre beꞌnn chop rao! Reꞌ nakre ka ba ke beꞌnn wat, da bi nlaꞌ; beꞌnn dá rawenꞌ, ni ke llakbeꞌe akzreꞌ akre nak loe. 
+\p  
+\v 45 Naꞌll to beꞌnn kaꞌ llsedre ke leyenꞌ golleꞌ Jesúsenꞌ: 
+\p —Maestro, rente netoꞌ llaꞌdyiꞌo neꞌo kaꞌ. 
+\p  
+\v 46 Naꞌll lle Jesúsenꞌ leꞌe: 
+\p —Leskaꞌ reꞌ llsedre ke leyenꞌ, nyaꞌchraz ke reꞌ, ka nak llroeꞌre leyenꞌ beꞌnn yobre, llonrenꞌ ka to yoaꞌ ziꞌ da bi llzoe akreꞌ, naꞌ reꞌ, ni ke lldaꞌbaꞌyzre la kanzeren. 
+\p  
+\v 47 ’¡Nyaꞌchraz ke reꞌ, ka nak llayonchaꞌore rao ba ke beꞌnn beꞌe xtiꞌll Diosenꞌ kanaꞌ, le xozxtaꞌore kaꞌn bet leakeꞌ!  
+\v 48 Kone kaꞌ llroeꞌre naksre xozxtaꞌore kaꞌ txhen, le leakeꞌn bet akeꞌ beꞌnn kaꞌ, naꞌ reꞌ llayonchaꞌore ba ke akeꞌn. 
+\p  
+\v 49 ’Ke len naꞌ, rao yel siꞌn ke Diosenꞌ bneꞌe kaꞌn batnaꞌte: “Wseꞌlaꞌ beꞌnn chixjweꞌ xtiꞌllaꞌn, naꞌ beꞌnn nne lo razaꞌ, bal akeꞌ got akeꞌ, naꞌ ye baleꞌ koꞌ akeꞌ rill ya.”  
+\v 50 Reꞌ llonre kanꞌ bneꞌen, naꞌ reꞌ llaꞌa nnaꞌ yellayraore, ni ke xchen beꞌnn kaꞌ bet akeꞌn, kanꞌ bxhe yellrio llinte nnaꞌ lla.  
+\v 51 Da bzoraozen kanꞌ bet beꞌnnenꞌ re Caín biꞌcheꞌn re Abel, bllinte kanꞌ gok ke Zacarías, beꞌnnenꞌ bet akeꞌ radj yodaꞌo za llinl-llo ganꞌ zo bkoyenꞌ, reꞌ llaꞌa nnaꞌ yellayraore ke yeolol beꞌnn ki gotenꞌ. 
+\p  
+\v 52 ’¡Nyaꞌchraz ke reꞌ llsed llroeꞌ leyenꞌ! Reꞌ ll-lanre nnézere yel siꞌn ke Diosenꞌ, ni reꞌ bi nnézeren kwasro, naꞌ beꞌnn llazraꞌlleꞌ nnezreꞌn, bi lloeꞌre latj nnezreꞌn. 
+\p  
+\v 53 Ka bayoll beꞌe Jesúsenꞌ diꞌll ki, beꞌnn fariseo kaꞌ, naꞌ beꞌnn kaꞌ llsedre ke ley danꞌ bzoj da Moisésenꞌ, bzorao ziꞌchiꞌll akeꞌ Leꞌe, naꞌ llbej akeꞌ Leꞌe diꞌll.  
+\v 54 Naꞌ kaꞌ lliꞌnao akeꞌ bi diꞌllenꞌ lloj lloeꞌ, nench saꞌke gao akeꞌ xhia keꞌe. 
+\c 12  
+\s1 Da llzejnieꞌ beꞌnn fariseo kaꞌ naken ka kwa binn 
+\p  
+\v 1 Naꞌ gok, beꞌnn zan kwis badop, naꞌ ka nak badop beꞌnn zan naꞌ, to llrejchekw niaꞌ lwellj akeꞌ, naꞌll Jesúsenꞌ golleꞌ zgaꞌtek beꞌnn kaꞌ non Leꞌe txhen naꞌ: 
+\p —Lewiayaꞌnn kanꞌ llon beꞌnn fariseo kaꞌ, llon akeꞌ ka kwa binn danꞌ llchixeꞌ yezj yet xtirenꞌ, nench llonen yet xtirenꞌ nbaraz. To koꞌllzen nlaꞌ akeꞌ beꞌnn wen, naꞌ llaꞌa da xhinnj lo raꞌlldaꞌo akeꞌ.  
+\v 2 Le bibi de da ngaꞌche da nello bi wroeꞌrawe, naꞌ bi de da nello nono yenneze len.  
+\v 3 Naꞌllenꞌ biteze da nnere ga ngaꞌche, beꞌnn zan yene len, naꞌ diꞌll da weꞌre lo yoꞌ keré, leskaꞌ beꞌnn yell nneze len. 
+\s1 Nonꞌ llayaꞌl llebllo 
+\r (Mt. 10:28‑31) 
+\p  
+\v 4 ’Ni llniaꞌ reꞌ beꞌnn nllieꞌraꞌ, bi llebre chaꞌ beꞌnn got akeꞌ reꞌ, kwerp naꞌzenꞌ got akeꞌ chet kaꞌ, te naꞌ billbi gak gon akeꞌ.  
+\v 5 Ni llniaꞌ reꞌ, nonꞌ llayaꞌl llebre, lelleb Dios, Leꞌen kate ba bakeꞌe yel nban kerénꞌ, ye to chiꞌi waseꞌleꞌ reꞌ lo yiꞌ gabil, Leꞌen llayaꞌl llebre. 
+\p  
+\v 6 ’Lewiake byinn daꞌo kaꞌ, chop chonnze mell llaꞌollo tap gaꞌybaꞌ, le bi zaꞌkbaꞌ da xhen. Naꞌ Diosenꞌ ni tobaꞌ bi nsanraꞌlleꞌ.  
+\v 7 Rente yich yichjre kaꞌ nrab Diosenꞌ. Naꞌllenꞌ niaꞌ bi llebre, zaꞌkll reꞌ kerke txhonnj byinn daꞌo kaꞌ. 
+\s1 Beꞌnn wchebeꞌ naweꞌ Jesúsenꞌ 
+\r (Mt. 10:32‑33; 12:32; 10:19‑20) 
+\p  
+\v 8 ’Ni llniaꞌ reꞌ, noteze beꞌnn chaꞌ wchebeꞌ nnaweꞌ nadaꞌ, leskaꞌ nadaꞌ, Beꞌnnenꞌ Gorj Radj Beꞌnnach, wachebaꞌ nakeꞌ nadaꞌ txhen rao angl ke Dios llaꞌa yebá.  
+\v 9 Naꞌ beꞌnnenꞌ bi wchebeꞌ nnaweꞌ nadaꞌ, leskaꞌ nadaꞌ bi wachebaꞌ nakeꞌ nadaꞌ txhen rao angl ke Dios. 
+\p  
+\v 10 ’Noteze beꞌnne chaꞌ bi nne bi zille kiaꞌ nadaꞌ, Beꞌnnenꞌ Gorj Radj Beꞌnnach, de yel llaziꞌxhen keꞌe; zan chaꞌ to beꞌnn nne ke Spíritu ke Diosenꞌ, kbat yeziꞌxhen Diosenꞌ keꞌe. 
+\p  
+\v 11 ’Kate wcheꞌe akzeꞌ reꞌ rao beꞌnn kaꞌ llnebiaꞌ yodaꞌon, naꞌ rao koxchis, bi weꞌlaꞌllre akre ka gonre, naꞌ akre ka nnere,  
+\v 12 wzerenkze Spíritu ke Diosenꞌ reꞌ, naꞌ wroeꞌren reꞌ kanꞌ gonre, naꞌ akre nnere. 
+\s1 To beꞌnn wniaꞌ ke llejnieꞌraz 
+\p  
+\v 13 Radj beꞌnn zan kaꞌ llaꞌa rao Jesúsenꞌ, blloj to beꞌnn golleꞌ Leꞌe: 
+\p —Maestro, goll bi biꞌchaꞌn wlaꞌtoꞌ bien danꞌ bkwaꞌnn xaxhnaꞌtoꞌn. 
+\p  
+\v 14 Naꞌ Jesúsenꞌ lleꞌe leꞌe: 
+\p —¿No goll reꞌ, nadaꞌ llonaꞌ yel koxchis, naꞌ ll-laꞌ bi da de ke beꞌnne? 
+\p  
+\v 15 Naꞌll lleꞌe leakeꞌ: 
+\p —Lewiá bi seraꞌllre bi gaꞌt keré, le kere kon ka da dérellonꞌ, kaꞌ gaꞌtte yel nban kellonꞌ. 
+\p  
+\v 16 Naꞌ beꞌreneꞌ leakeꞌ to diꞌll, bneꞌe: 
+\p —Bzo to beꞌnn wniaꞌ, de yellrionꞌ ga gozeꞌ, naꞌ barapeꞌ da xhen.  
+\v 17 Naꞌ beneꞌ xhbab bneꞌe: “¿Akxha gonaꞌ? Billbi latj de ga wllaꞌchaꞌwaꞌ danꞌ barapaꞌn.”  
+\v 18 Naꞌll bneꞌe da yobre: “To da gonaꞌ, yechinnjaꞌ yoꞌ ganꞌ nllaꞌchaꞌwaꞌ kiaꞌn, naꞌ gonaꞌn da xhenll, naꞌ wllaꞌchaꞌwaꞌ danꞌ barapaꞌn, naꞌ ren yeolol da de kiaꞌ.  
+\v 19 Naꞌllenꞌ yeyep kwinaꞌ: Lla nnaꞌ biꞌchaꞌ, bxhiꞌi banez, weꞌe bdao, bzo nbaraz, da xhen da yoꞌchaꞌo koꞌ rweꞌ de da gaoꞌ zan iz.”  
+\v 20 Naꞌ Diosenꞌ golleꞌ leꞌe: “Beꞌnn ke llejnieꞌ, nnaꞌ lleꞌ gatoꞌ, ¿no gao danꞌ nllaꞌchaꞌon?”  
+\v 21 Naꞌ kanꞌ naken ke beꞌnnenꞌ zeraꞌlleꞌ chraoze bi gaꞌt keꞌe yellrio ni, naꞌ bibi yel wniaꞌ keꞌe de rao Dios. 
+\s1 Diosenꞌ llap llwieꞌ xhiꞌnneꞌ kaꞌ 
+\r (Mt. 6:25‑34) 
+\p  
+\v 22 Naꞌll goll Jesúsenꞌ beꞌnn kaꞌ non Leꞌe txhen: 
+\p —Llniaꞌ reꞌ, bi kwek yichjre chraoze da yeꞌj gaore chak nbanrenꞌ, leskaꞌ bi kwek yichjre chraoze xharaꞌnre.  
+\v 23 Zaꞌkll yel nban kellonꞌ kerke danꞌ yeꞌj gaollonꞌ, naꞌ zaꞌkll kwerp kellonꞌ kerke raꞌll danꞌ llakllo naꞌ.  
+\v 24 Lewiake bechj kaꞌ, ni ke llaz llarap akzbaꞌ, ni ke zoze daꞌ xhoaꞌ kebaꞌ, naꞌ Diosenꞌ llwaokzebaꞌ. Zaꞌkll reꞌ kerke bechj kaꞌ.  
+\v 25 Ni to reꞌ bi gak yesdón kwinre ye tchit, chaꞌ kon kwek yichjzre gakre beꞌnn tonne.  
+\v 26 Naꞌ chaꞌ da daꞌo naꞌ, nakten da ke nxhia bi llak gonre, ¿bixchen choꞌzre billre da zed yobre? 
+\p  
+\v 27 ’Lewiake yej tiꞌl kaꞌ, bibi llin llon aken, ni ke llabzen yere, naꞌ ni llniaꞌ reꞌ, ni gaz beꞌnnenꞌ golle Salomón, ren yel wniaꞌ xhen keꞌen, bi gok xharaꞌneꞌ nbaraz kanꞌ nak yej daꞌo kaꞌ.  
+\v 28 Chaꞌ kaꞌ llone Diosenꞌ yej daꞌo kaꞌ, nench llzon nbaraz, laꞌkze nnaꞌzenꞌ zon, wxe ba byechen, naꞌ cheyen, gontell Diosenꞌ ke reꞌ nench zore nbaraz chenak wxenraꞌllre.  
+\v 29 Reꞌ, bi choꞌre da zed, ni ke danꞌ yeꞌj gaore naꞌze, leskaꞌ bi gakllejlaꞌllre.  
+\v 30 Le beꞌnn ki llaꞌa yellrionꞌ, lezen naꞌ yoꞌ yichj akeꞌ, zan reꞌ, Xare beꞌnn zo yebá, ba nnézkzereꞌ kanꞌ yálljere da ki.  
+\v 31 Llayaꞌl kweꞌ yichjre naꞌ wzenayre ke Diosenꞌ, nench nnebieꞌ yichjraꞌlldaꞌorenꞌ, naꞌ yeolol da kaꞌ yálljerenꞌ, Dios naꞌkze gonneꞌn. 
+\s1 Yel wniaꞌ da de yebá 
+\r (Mt. 6:19‑21) 
+\p  
+\v 32 ’Bi llebre laꞌkze nak to chopzre, Xallo Diosenꞌ ba brejeꞌ reꞌ, nench nnebiaꞌ renre Leꞌe.  
+\v 33 Lewayoꞌte bi da de kere, leweꞌe beꞌnn chaꞌ bi yalljreꞌ, chaꞌ gonre kaꞌ, naꞌllenꞌ gaꞌt yel wniaꞌ xhen keré yebá da bi te ke, naꞌ da bi kwiayiꞌ. Gannaꞌ nono beꞌnn wan llraꞌ, nono badaꞌo llaꞌa wtebaꞌn.  
+\v 34 Le ganꞌ ngoꞌchaꞌore danꞌ llazraꞌllre naꞌn, gannaꞌn zokze yichjraꞌlldaꞌorenꞌ. 
+\s1 To beꞌnn wen llin llayaꞌl soeꞌ xhnid ka yellín xaneꞌn 
+\p  
+\v 35 ’Lesoteze xhnid ka beꞌnn llbexh sorao gon llin, ba nkaꞌchoch leꞌe, naꞌ danꞌ llseniꞌ keꞌen llaꞌltezen.  
+\v 36 Llayaꞌl gonre ka beꞌnn wen llin, llaꞌa akeꞌ llbexh akeꞌ xan akeꞌn, zejeꞌ ga llak to wchaynaꞌa. Kate yellineꞌn, naꞌ nneꞌe, le ze akteꞌ xhnid wsarj akeꞌ.  
+\v 37 Nbaraz ke beꞌnn wen llin kaꞌ, katenꞌ yellín xan akeꞌn, lljadiꞌreꞌ leakeꞌ llnnaꞌ akeꞌ yere; da li llniaꞌ reꞌ, kanaꞌll gonchieꞌ leakeꞌ, kwineꞌ wsinieꞌ da gao akeꞌ.  
+\v 38 Nbaraz ke beꞌnn kaꞌ katenꞌ, laꞌkze llinte llere, naꞌ llinte bale, chaꞌa akeꞌ xhnid, llnnaꞌ akeꞌ yere.  
+\v 39 Leskaꞌ, lewayón ke xhbab, chenak to xan yoꞌ, nnezreꞌ batkrenꞌ chej beꞌnn wan kaꞌ rilleꞌn, da li, ni ke taszeꞌ do yere, le kere weꞌe latj choꞌ beꞌnn wan kaꞌ rilleꞌn.  
+\v 40 Leskaꞌ reꞌ, lesó xhnid, le katenꞌ llonrenꞌ xhbab bi yedaꞌ, kanaꞌn yedaꞌ da yobre, nadaꞌ Beꞌnnenꞌ Gorj Radj Beꞌnnach. 
+\s1 Beꞌnn wen llin bi llon wen 
+\r (Mt. 24:45‑51) 
+\p  
+\v 41 Naꞌ Pedronꞌ lleꞌe Leꞌe: 
+\p —Xantoꞌ, ¿danꞌ llsaꞌkrebroꞌ da ki naken ke netoꞌn o chaꞌ ke yeolol beꞌnnenꞌ? 
+\p  
+\v 42 Naꞌll bne Jesúsenꞌ: 
+\p —Naksen ke noteze beꞌnne, chaꞌ goneꞌ ka to beꞌnn wen llin beꞌnn llejnieꞌ; xaneꞌn, beneꞌ rallneꞌe yoꞌ keꞌen, naꞌ beneꞌ rallneꞌe beꞌnn wen llin kaꞌ yelaꞌ, naꞌ kweꞌe xhnneze bi llin da llak, naꞌ kate llin hor gao akeꞌ naꞌ, waweꞌ leakeꞌ.  
+\v 43 Nbaraz ke beꞌnnenꞌ, chaꞌ kate yellín xaneꞌn, lljadiꞌreꞌ leꞌe lloneꞌ ka danꞌ bkwaꞌnneꞌ rallneꞌe goneꞌ.  
+\v 44 Da li llniaꞌ, kanaꞌ goneꞌ rallneꞌe yeolol da de keꞌe.  
+\v 45 Zan chaꞌ beꞌnn wen llin naꞌ, nneꞌe lo yichjraꞌlldaꞌweꞌ: “Cheke wlleje xanaꞌn”, naꞌ sorao chineꞌ beꞌnn kaꞌ yelaꞌ, naꞌ yeꞌj gaoxeneꞌ, naꞌ sollreꞌ.  
+\v 46 Bixha yellinkze xaneꞌ kat lla ke llwieꞌ yellineꞌ, kanaꞌ wzap xaneꞌn leꞌe, chintateꞌ leꞌe, naꞌ wseꞌleꞌ leꞌe ga yellayraweꞌ ga llaꞌa beꞌnn kaꞌ bi llzenay ke Dios. 
+\p  
+\v 47 ’Naꞌ beꞌnn wen llin naꞌ, chaꞌ nnezreꞌ kwasro bi danꞌ llayaꞌl goneꞌ, naꞌ bi lloneꞌn, bi soeꞌ xhnid kate yellín xaneꞌn, naꞌ chintateꞌ leꞌe.  
+\v 48 Naꞌ beꞌnnenꞌ bi nnezreꞌ binꞌ nllia xaneꞌn biaꞌa goneꞌ, naꞌ gonkzeꞌ ke da llayaꞌl chineꞌ leꞌe, raꞌtze chineꞌ leꞌe, le bi nnezreꞌn. Le beꞌnnenꞌ beꞌe Diosenꞌ leꞌe da xhen, leskaꞌ da xhen wannabreꞌ leꞌe, naꞌ beꞌnnenꞌ bxenraꞌll Diosenꞌ leꞌe, beneꞌ rallneꞌe da xhen, leze da xhenll wannabreꞌ leꞌe. 
+\s1 Gak akeꞌ chopre ni ke Jesúsenꞌ 
+\r (Mt. 10:34‑36) 
+\p  
+\v 49 ’Ka beꞌnn badxhen to yiꞌ da wzey da de rao yellrio ninꞌ badyenaꞌ, le lleꞌnkazraꞌ sorao gaꞌlnninnen.  
+\v 50 De to da war da gak kiaꞌ, naꞌ llakraꞌ kwis, llbexhaꞌ kate llin lla gak kiaꞌ kaꞌ.  
+\v 51 ¿Llákere chaꞌ bedaꞌ nench beꞌnn kaꞌ llaꞌa yellrionꞌ gak akeꞌ tozeꞌn? Kaꞌa, choprenꞌ gak akeꞌ.  
+\v 52 Soraozen nnaꞌ, chaꞌ to lo yoꞌ nak gaꞌy akeꞌ, gak akeꞌ chopre, naꞌ chonneꞌ gakyollrene chopeꞌ, chopeꞌ gakyollrene chonneꞌ.  
+\v 53 Beꞌnn byionꞌ tilreneꞌ xhiꞌnneꞌ byionꞌ, naꞌ xhiꞌnneꞌ byionꞌ tilreneꞌ xeꞌen; noꞌrenꞌ tilreneꞌ xhiꞌnneꞌ noꞌrenꞌ, naꞌ xhiꞌnneꞌ noꞌrenꞌ tilreneꞌ xhneꞌen; noꞌrenꞌ tilreneꞌ xhorilleꞌ, naꞌ xhorilleꞌn tilreneꞌ tawxhiꞌnneꞌn. 
+\s1 Bi gokbeꞌe beꞌnn kaꞌ binꞌ ba llak ganꞌ zo akeꞌn 
+\r (Mt. 16:1‑4; Mr. 8:11‑13) 
+\p  
+\v 54 Naꞌll goll Jesúsenꞌ beꞌnn zan kaꞌ llaꞌn: 
+\p —Kate llreꞌre ba ze bej ganꞌ llen willenꞌ, naꞌ nere: “Wak yejw.” Naꞌ llakte yej.  
+\v 55 Naꞌ kate llénere dá beꞌ da zaꞌa lleꞌle, naꞌ nere: “Wak zeꞌye nnaꞌ.” Naꞌ llakte zeꞌye.  
+\v 56 ¡Beꞌnn chop rao ak! Llwiare yebánꞌ, naꞌ yellrionꞌ, naꞌ llakbeꞌre chaꞌ gak zay o chaꞌ gak zeꞌye, naꞌ bi llakbeꞌre binꞌ ba llak ganꞌ ba zore nnaꞌ. 
+\s1 Llayaꞌl koꞌllo xhnneze chaꞌ bi de ke lwelljllo 
+\r (Mt. 5:25‑26) 
+\p  
+\v 57 ’¿Bixchen ke llayonre xhbab, akre ka gonre da wen?  
+\v 58 Kate beꞌnn lljataweꞌ xhia rao koxchis, llxoa akeꞌ doꞌl koꞌllre, lekoꞌ xhnneze ka za llinre rao koxchisenꞌ, laꞌkze ba yoꞌtere nez, leweꞌlaꞌll lekoꞌ xhnneze, le chaꞌ llinre rao koxchisenꞌ, naꞌ koxchisenꞌ goneꞌ reꞌ rao naꞌ xaꞌy kaꞌ, naꞌ koꞌ akeꞌ reꞌ lo rill ya.  
+\v 59 Ni llniaꞌ reꞌ, kere wabejeꞌ reꞌ chaꞌ bi chixhjre doxhen danꞌ llbaꞌyre. 
+\c 13  
+\s1 Lewayate ke da xhinnjenꞌ nench ke kwiayiꞌre 
+\p  
+\v 1 Rao lla naꞌ, bal beꞌnn kaꞌ llaꞌa ganꞌ llroeꞌ Jesúsenꞌ, beꞌrén akeꞌ Leꞌe diꞌlle kanꞌ ben Pilatonꞌ, bseꞌleꞌ beꞌnn bet akeꞌ txhonnj beꞌnn Galilea kaꞌ, kanꞌ llaꞌa akeꞌ lo yodaꞌo llot akeꞌ bayiꞌx lloeꞌrao akeꞌ Dios, naꞌ bchixeꞌ xchen akeꞌn ren ke bayiꞌx kaꞌ. 
+\p  
+\v 2 Naꞌll balliꞌi Jesúsenꞌ xtiꞌll akeꞌn, lleꞌe leakeꞌ: 
+\p —Llákere chaꞌ danꞌ gok ke beꞌnn kaꞌ kaꞌn, nak aklleꞌ beꞌnn wen da xhinnjll, kerke beꞌnn Galilea kaꞌ yelaꞌ.  
+\v 3 Kere kaꞌn; ni llepaꞌ reꞌ, chaꞌ reꞌ bi wayátere ke da xhinnj kerénꞌ, wllin lla kwiayiꞌre kanꞌ gok ke beꞌnn kaꞌ.  
+\v 4 Beꞌnn kaꞌ chiꞌn chonne (18), got akeꞌ bdekw akeꞌ to zeꞌe sibe ganꞌ nziꞌi Siloé, ¿leskaꞌ llákere nak aklleꞌ beꞌnn wen da xhinnjll, kerke beꞌnn kaꞌ yelaꞌ llaꞌa Jerusalén naꞌ, naꞌllenꞌ gok ke akeꞌ kaꞌ?  
+\v 5 Kere kaꞌn; ni llniaꞌ reꞌ, chaꞌ reꞌ bi wayátere ke da xhinnj kerénꞌ, wllin lla leskaꞌ kwiayiꞌre kanꞌ gok ke beꞌnn kaꞌ. 
+\s1 Jesúsenꞌ bsaꞌkrebreꞌ ka llon to yay da bi llbia 
+\p  
+\v 6 Naꞌll Jesúsenꞌ bsaꞌkrebreꞌ bneꞌe: 
+\p —Bzo to beꞌnne, naꞌ lo reꞌj keꞌe ga nazeꞌ uvas, zo to yay higo; naꞌ jawieꞌ chaꞌ llian daxhix, naꞌ bibi llian.  
+\v 7 Naꞌ golleꞌ beꞌnnenꞌ llap reꞌjenꞌ: “Ba gok chonn iz lladwiaꞌ yayenꞌ chaꞌ llian daxhix, naꞌ bikzbi llbian; wenkre bchoyen, ke da zozen nlanen yellrionꞌ.”  
+\v 8 Naꞌ goll beꞌnnenꞌ leꞌe: “Xanaꞌ kwexhkello ye choll, la ye twiz rize; wcheꞌnnkeraꞌ xhane, naꞌ wllaꞌn beꞌn.  
+\v 9 Chaꞌ kwian daxhix, naꞌ wkwaꞌnnllon, naꞌ chaꞌ bi kwiakzen, naꞌll wchoyllon.” 
+\s1 Jesúsenꞌ bayoneꞌ to noꞌre lla nbaꞌnne ke beꞌnn Israel kaꞌ 
+\p  
+\v 10 Gok to lla, lla llap beꞌnn Israel kaꞌ baraꞌnne, byej Jesúsenꞌ lo yodaꞌon, naꞌ jazejnieꞌreꞌ leakeꞌ.  
+\v 11 Naꞌ lliꞌ to noꞌre lo yoꞌn; ba gok chiꞌn chonn (18) iz nleo koꞌlleꞌ, le byoꞌ to daxiꞌo kwerp keꞌen, naꞌ kere gokll wazeꞌe lilla.  
+\v 12 Ka breꞌe Jesúsenꞌ noꞌrenꞌ, goxheꞌ leꞌe, naꞌ lleꞌe leꞌe: 
+\p —Noꞌre, nnaꞌ wayakoꞌ ke yillweꞌ koꞌon. 
+\p  
+\v 13 Naꞌll bxoa taꞌk Jesúsenꞌ koꞌll noꞌrenꞌ, naꞌ le bazete noꞌrenꞌ lilla barí koꞌlleꞌn. Naꞌ bzorao lloeꞌraweꞌ Dios.  
+\v 14 Naꞌ beꞌnnenꞌ llnebiaꞌ yoꞌn, goklleꞌe kwis danꞌ bayón Jesúsenꞌ noꞌrenꞌ to rao lla llap akeꞌ baraꞌnne. Naꞌll beꞌnnenꞌ golleꞌ beꞌnn kaꞌ niꞌt lo yoꞌn: 
+\p —Xop lla llayaꞌl gonllo llin; rao xop lla kaꞌ yedre, chaꞌ lleꞌnere wayakre, zan bi yedre lla llapllo baraꞌnne. 
+\p  
+\v 15 Naꞌll Xanllonꞌ golleꞌ beꞌnnenꞌ: 
+\p —¡Beꞌnn chop rao ake! Laꞌkze nak lla llapre baraꞌnne, dekz de llsellre bell keré, burr keré, lljaweꞌjrebaꞌ nis.  
+\v 16 Naꞌ noꞌrenꞌ naktekeꞌ xhiꞌnn dialla ke xozxtaꞌollo, Abraham, ¿kere leskaꞌ llayaꞌl wayelle ke danꞌ nchej daxiꞌon leꞌe ba gok chiꞌn chonn iz? 
+\p  
+\v 17 Ka bayoll bne Jesúsenꞌ kaꞌ, le llakzbane beꞌnn kaꞌ llwie Leꞌen. Naꞌ beꞌnn kaꞌ yelaꞌ llayoꞌraꞌll akeꞌ kwis kanꞌ lloneꞌn, le naken da wen. 
+\s1 Yel llnebiaꞌ ke Diosenꞌ naken ka nbaz ke mostaz 
+\r (Mt. 13:31‑32; Mr. 4:30‑32) 
+\p  
+\v 18 Naꞌ bne Jesúsenꞌ: 
+\p —¿Akre ka wsaꞌkrebaꞌ kanꞌ llnebiaꞌ Diosenꞌ?  
+\v 19 Wsaꞌkrebaꞌn ka nbaz ke mostaz da goz beꞌnn lo reꞌj keꞌen, naꞌ ke braꞌn naꞌ, blliꞌon gokten to yay xhen, naꞌ byinn daꞌo kaꞌ jachia akbaꞌ rawen, ben xoꞌnn akbaꞌ. 
+\s1 Jesúsenꞌ bsaꞌkrebreꞌ ka nak kwa binn 
+\r (Mt. 13:33) 
+\p  
+\v 20 Naꞌll bne Jesúsenꞌ da yobre: 
+\p —¿Akre ka wsaꞌkrebaꞌ kanꞌ llnebiaꞌ Diosenꞌ?  
+\v 21 Wsaꞌkrebaꞌn ka kwa binn da bxhiꞌi to noꞌre, naꞌ bchixeꞌn trob yezj, naꞌ baslliꞌon kwa ke yet xtir naꞌ. 
+\s1 Llayaꞌl choꞌllo lloaꞌ reyj yoꞌ danꞌ nchoꞌpen 
+\r (Mt. 7:13‑14, 21‑23) 
+\p  
+\v 22 Jesúsenꞌ bzejnieꞌreꞌ beꞌnne toto yell ganꞌ bdieꞌn, ka nak zejeꞌ Jerusalén naꞌ.  
+\v 23 To beꞌnn golleꞌ Leꞌe: 
+\p —Xantoꞌ, ¿to chopze beꞌnn kaꞌ yeránꞌ? 
+\p Naꞌll golleꞌ beꞌnnenꞌ: 
+\p  
+\v 24 —Leweꞌlaꞌll, lechoꞌo gan zo reyj yoꞌ danꞌ nchoꞌpen, le llniaꞌ reꞌ, beꞌnn zan yeꞌn akreꞌ choꞌ akeꞌ, naꞌ bi saꞌk akreꞌ.  
+\v 25 Naꞌ gonen kate te naꞌ, xan yoꞌn wsejeꞌ reyj yoꞌn, naꞌ sorao gosiaꞌre leꞌ reyj yoꞌn, nnere: “Xantoꞌ, bsarj choꞌtoꞌ.” Naꞌll yeꞌe reꞌ: “Bi nombiaꞌ reꞌ, bi nnezraꞌ ga beꞌnne reꞌ.”  
+\v 26 Naꞌll sorao nnere: “Weꞌe bdaorentetoꞌ rweꞌ, naꞌ bdateꞌo broeꞌroꞌ xtiꞌlloꞌn do lao yaꞌa ralltoꞌn.”  
+\v 27 Naꞌ da yobre yeꞌe reꞌ: “¿Kere ba bnetiaꞌ, bi nnezraꞌ ga zaꞌre? Lewayej kaꞌle, reꞌ beꞌnn wen da xhinnj.”  
+\v 28 Kanaꞌ kwellyaꞌchre, gaoxoxj layre kate reꞌre Abraham naꞌ, naꞌ Isaac, naꞌ Jacob, naꞌ yeolol beꞌnn kaꞌ beꞌe xtiꞌll Diosenꞌ kanaꞌ, llaꞌa akeꞌ ganꞌ llnebiaꞌ Diosenꞌ yebánꞌ; naꞌ reꞌ bi renre.  
+\v 29 Beꞌnn zan beꞌnn zaꞌk doxhen yellrio, yellín akeꞌ yebá ganꞌ llnebiaꞌ Diosenꞌ, naꞌ kweꞌrén akeꞌ Leꞌe lloaꞌ mes keꞌen.  
+\v 30 Naꞌ ganni niaꞌ reꞌ, beꞌnn zan nak akeꞌ ka beꞌnn lliarao nnaꞌ, wllin lla kat yeyak akeꞌ ka beꞌnn zaꞌa xhante, naꞌ beꞌnn kaꞌ nak akeꞌ ka beꞌnn zaꞌa xhante nnaꞌ, leakeꞌn yeyak akeꞌ ka beꞌnn lliarao. 
+\s1 Jesúsenꞌ gokreꞌ kwis ni ke beꞌnn Jerusalén kaꞌ 
+\r (Mt. 23:37‑39) 
+\p  
+\v 31 Naꞌ llak rao lla naꞌ, bllin bal beꞌnn fariseo kaꞌ raweꞌn, lle akeꞌ Leꞌe: 
+\p —Baxhonnj, bayej do ga yobre, le Herodes naꞌ, lleꞌnreꞌ goteꞌ rweꞌ. 
+\p  
+\v 32 Naꞌ lleꞌe leakeꞌ: 
+\p —Lelljayell beꞌzenꞌ: “Ye chop chonn llazenꞌ nna dakzaꞌ llabejaꞌ daxiꞌo yoꞌ yichjraꞌlldaꞌo beꞌnne, naꞌ llayonaꞌ beꞌnn llak yillweꞌ, naꞌtell wayoll xchinaꞌn.”  
+\v 33 Dekz de wasyollkzaꞌ gonaꞌ danꞌ llonaꞌn nnaꞌ, wxe, willj la llintekzaꞌ Jerusalén naꞌ, le chaꞌ to beꞌnn lloeꞌ xtiꞌll Diosenꞌ gateꞌ, Jerusalén naꞌkze llayaꞌl gateꞌ. 
+\p  
+\v 34 ’Reꞌ beꞌnn Jerusalén, llotre beꞌnn kaꞌ ba bseꞌl Diosenꞌ lladzejnieꞌre reꞌ xtiꞌlleꞌn, naꞌ ba bchekwre leakeꞌ yej. Da zan ras gokraꞌllaꞌ yetopaꞌ reꞌ, ka llon to bellj ba ncheꞌe xhiꞌnne, llatobbaꞌ leakbaꞌ lo xirbaꞌn, naꞌ bi gokraꞌllre.  
+\v 35 Naꞌ nnaꞌ tach rillrenꞌ, gaꞌnnen ka ga nono llraꞌkze. Ni llniaꞌ reꞌ, bill reꞌkzere nadaꞌ llinte lla nnere: “Nbaraz ba zaꞌa beꞌnnenꞌ nseꞌl Xanllo Diosenꞌ ganni nnebieꞌ.” 
+\c 14  
+\s1 Jesúsenꞌ bayoneꞌ to beꞌnn yoꞌ yi 
+\p  
+\v 1 Gok to lla llap beꞌnn Israel kaꞌ baraꞌnne, Jesúsenꞌ byejeꞌ rill to beꞌnn fariseo beꞌnn llnebiaꞌ, naꞌ jataweꞌ, naꞌ bal beꞌnn fariseo kaꞌ bdop rill beꞌnnenꞌ, lliꞌnao akeꞌ Leꞌe.  
+\v 2 Naꞌ rawe naꞌ, lliꞌ to beꞌnn yoeꞌ yi.  
+\v 3 Naꞌ goll Jesúsenꞌ beꞌnn kaꞌ llsedre ke ley danꞌ bzoj da Moisésenꞌ, naꞌ beꞌnn fariseo kaꞌ: 
+\p —¿Bi ne leyenꞌ? ¿De latj wayonllo beꞌnn lla nbaꞌnne o chaꞌ bi de latj? 
+\p  
+\v 4 Naꞌ ni to akeꞌ bi balliꞌi xtiꞌlleꞌn. Naꞌll Jesúsenꞌ beꞌxeꞌ taꞌk beꞌnnenꞌ, naꞌ bayoneꞌ leꞌe, naꞌll lleꞌe leꞌe: 
+\p —Bayej nnaꞌ, ba bayakoꞌ. 
+\p  
+\v 5 Naꞌll lle Jesúsenꞌ beꞌnn kaꞌ llaꞌa rill beꞌnn fariseonꞌ: 
+\p —Nekxha reꞌ, chaꞌ to burr keré o chaꞌ bell keré lljabixbaꞌ to lo yelle, ¿kere sete lljarejrebaꞌ, laꞌkze nak lla nbaꞌnne? 
+\p  
+\v 6 Naꞌ billkze bi llallel akreꞌ ka ye akeꞌ Leꞌe. 
+\s1 Beꞌnn kaꞌ llak yexh ga llak yel wachaynaꞌa 
+\p  
+\v 7 Chak lliꞌ Jesúsenꞌ rill beꞌnn fariseonꞌ, llwieꞌ kanꞌ llon bal beꞌnn kaꞌ, ll-lan akeꞌ lljacheꞌ akeꞌ raote ga ba nak kweꞌ beꞌnn brao, naꞌll beꞌreneꞌ leakeꞌ to diꞌll, bneꞌe: 
+\p  
+\v 8 —Kate gon akeꞌ reꞌ yexh chejre ga llak yel wchaynaꞌa, bi lljacheꞌre raote ga lljacheꞌ beꞌnn brao, ke gonzen llin beꞌnnenꞌ nak beꞌnn braoll.  
+\v 9 Naꞌll xan lnni yeꞌe reꞌ: “Leyezollaꞌa, leweꞌe latj kweꞌ beꞌnn ni.” Naꞌ yesolleꞌe reꞌ, lljalekwteꞌ reꞌ xhante, naꞌ siꞌre zdoꞌ.  
+\v 10 Zan kate gon akeꞌ reꞌ yexh, wenre lelljacheꞌ xhante, naꞌ kate reꞌe xan lnninꞌ reꞌ, naꞌllenꞌ chaꞌ yeꞌe reꞌ: “Da nile blleꞌ.” Naꞌ lljalekweꞌ reꞌ raote, naꞌllenꞌ siꞌre yel baraꞌnne.  
+\v 11 Le beꞌnnenꞌ chaꞌ lleꞌnreꞌ gakeꞌ beꞌnn brao, yezikre wayexjeꞌ yegaꞌnnteꞌ xhane, naꞌ beꞌnnenꞌ llakreꞌ bi zaꞌke, leꞌen gak beꞌnn brao. 
+\p  
+\v 12 Naꞌ golleꞌ beꞌnnenꞌ ben Leꞌe yexhenꞌ: 
+\p —Kate gonoꞌ wao, bi gonoꞌ yexh toze beꞌnn nllieꞌroꞌ, no biꞌch lwelljoꞌ, no beꞌnn wrill koꞌo beꞌnn nak beꞌnn wniaꞌ, le leskaꞌ wayón akeꞌ rweꞌ yexhe, naꞌ kaꞌ wayoꞌteꞌ wzon koꞌo.  
+\v 13 Zan kate gonoꞌ wao, goxh beꞌnn yaꞌche, beꞌnn nxhinnj niaꞌnaꞌa, naꞌ beꞌnn lchole.  
+\v 14 Naꞌ kaꞌ soꞌo nbaraz, le leakeꞌn bi gak wayón akeꞌ rweꞌ yexhe. Naꞌ kate llin lla wasbán Diosenꞌ beꞌnn wat, kanaꞌ gon Diosenꞌ wen koꞌo. 
+\s1 Jesúsenꞌ bsaꞌkrebreꞌ ka ben to beꞌnn ben wao 
+\p  
+\v 15 To beꞌnn lliꞌrén Jesúsenꞌ txhen ganꞌ llao akeꞌn, ka benreꞌ xtiꞌlleꞌn, bneꞌe: 
+\p —Nbaraz ke beꞌnnenꞌ kwieꞌ gaoreneꞌ Diosenꞌ txhen, katenꞌ ba llnebieꞌn. 
+\p  
+\v 16 Naꞌ goll Jesúsenꞌ leꞌe: 
+\p —Bzo to beꞌnne, beneꞌ to wao xhen, naꞌ beꞌnn zan beneꞌ yexhe.  
+\v 17 Ka bllin lla gao akeꞌn, bseꞌl xan waonꞌ to beꞌnn wen llin keꞌen, lljatixjweꞌreꞌ beꞌnn kaꞌ beneꞌ yexhenꞌ, naꞌ lleꞌe leakeꞌ: “Ledá nnaꞌ, ba bsiniaꞌte danꞌ gaollonꞌ.”  
+\v 18 Naꞌ beꞌnn kaꞌ, dete da lldeꞌ akreꞌ nechkze bi lljakeꞌ waonꞌ. Toeꞌ bneꞌe: “Za bxhiaꞌ to yellrio, naꞌ len chaꞌa lljawiaꞌ. Yeꞌo xanoꞌn bi gak yedaꞌ.”  
+\v 19 Naꞌ ye toeꞌ bneꞌe: “Bxhiꞌzaꞌ gaꞌy kweꞌ belle, naꞌ za lljawiachkaꞌ akre llon akbaꞌ. Yechgoꞌ xanoꞌn, siꞌxheneꞌ bi gak yedaꞌ.”  
+\v 20 Naꞌ ye toeꞌ bneꞌe: “Za bchaynaꞌ, naꞌ bi gak yedaꞌ.”  
+\v 21 Beꞌnn wen llin naꞌ, zayejeꞌ jayelleꞌ xaneꞌn kanꞌ bne beꞌnn kaꞌ, naꞌ gokllaꞌa xan yoꞌn kwis, naꞌll golleꞌ beꞌnn wen llin keꞌen: “Byej do lao yaꞌa, jatateze do lyell, jaxiꞌi beꞌnn yaꞌch, beꞌnn xhinnj, beꞌnn lchole.”  
+\v 22 Bayoll beneꞌ kaꞌ, naꞌll golleꞌ xaneꞌn: “Xanaꞌ, ba benaꞌ kanꞌ bneꞌon, naꞌ nna dellkze latj.”  
+\v 23 Naꞌll beꞌnnenꞌ golleꞌ leꞌe: “Byejkze da yobre kon ga xhoa nez, naꞌ jaxiꞌi yezikre beꞌnne, ben bien choꞌ akeꞌ, le lleꞌnraꞌ yellaꞌte yoꞌ kiaꞌn.  
+\v 24 Le ni to beꞌnn kaꞌ benaꞌ yexh da nellenꞌ, bill gak gao akeꞌ danꞌ bsiniaꞌn.” 
+\s1 Akre llayaꞌl gonllo chaꞌ lleꞌnello nnaollo Cristonꞌ 
+\p  
+\v 25 Beꞌnn zan kwis nao Jesúsenꞌ, naꞌll bayechjeꞌ lleꞌe leakeꞌ: 
+\p  
+\v 26 —Chaꞌ reꞌ nllieꞌllre xare, xhnaꞌre, noꞌr keré, xhiꞌnnre, biꞌchre, zanre, naꞌ nllieꞌllre kwinre kerke nadaꞌ, bi gak gonre nadaꞌ txhen.  
+\v 27 Naꞌ beꞌnnenꞌ bi lloneꞌ ka to beꞌnn noaꞌ cruz keꞌe, naꞌ nnaweꞌ nadaꞌ, bi gak goneꞌ nadaꞌ txhen.  
+\v 28 Chaꞌ notezre lleꞌnere gonre to yoꞌ, ¿kere zgaꞌtek kwejbiaꞌre ka to gaxt gonen, naꞌllenꞌ gonren?  
+\v 29 Ke gonrizen kon wxere rane naꞌze, naꞌ bi soere yesyollren; naꞌ reꞌe beꞌnne, naꞌ wtitj akreꞌ reꞌ,  
+\v 30 ne akeꞌ: “Kon bxe beꞌnnenꞌ yoꞌ keꞌen; kere bzoereꞌ yesyolleꞌn.”  
+\v 31 Chaꞌ to rey llwieꞌ chejeꞌ rao wdil, zgaꞌtek wyi wsaꞌkeꞌ chaꞌ gak soyibeꞌ; leꞌen napeꞌ chi mir wakaꞌa ya, naꞌ beꞌnnenꞌ tilreneꞌn napeꞌ galj mireꞌ.  
+\v 32 Naꞌ chaꞌ llwieꞌ bi soereꞌ, ka nna zaꞌte beꞌnnenꞌ tilreneꞌn ziꞌte, wseꞌleꞌ to beꞌnn lljadieꞌ xtiꞌlleꞌn, naꞌ wnnabeꞌ yeniꞌt akeꞌ wen.  
+\v 33 Kaꞌn naken, chaꞌ reꞌ bi kwej yichjre yeolol da de keré, bi gak gonre nadaꞌ txhen. 
+\s1 Jesúsenꞌ bsaꞌkrebreꞌ ka llon zeꞌde 
+\r (Mt. 5:13; Mr. 9:50) 
+\p  
+\v 34 Naꞌll bne Jesúsenꞌ da yobre: 
+\p —Da wen kwis zeꞌdenꞌ, zan chaꞌ wnit yel zich keꞌen, bikzbi de gónellon nench yeyaken zich da yobre.  
+\v 35 Kate bill naken zichenꞌ, bill gak gonen llin, ni ke gakze gakrenen yellrionꞌ gaken beꞌn, naꞌll lljachoꞌnnllon yeo. Reꞌ zo nayre yénere lewzenay. 
+\c 15  
+\s1 Jesúsenꞌ bsaꞌkrebreꞌ ka gok ke xhiꞌr daꞌo ba gokllejlaꞌlle 
+\r (Mt. 18:10‑14) 
+\p  
+\v 1 Naꞌ bdop no beꞌnn wachixhj, naꞌ yezikre no beꞌnn wen da xhinnj rao Jesúsenꞌ, naꞌ llzenay akeꞌ xtiꞌlleꞌn.  
+\v 2 Naꞌ beꞌnn fariseo kaꞌ, naꞌ beꞌnn kaꞌ llsedre ke ley danꞌ bzoj da Moisésenꞌ, ka breꞌe akreꞌ kaꞌ, naꞌll bne akeꞌ: 
+\p —Beꞌnnenꞌ llontezeꞌ beꞌnn wen da xhinnj kaꞌ txhen, naꞌ llaorenteꞌ leakeꞌ. 
+\p  
+\v 3 Naꞌll Jesúsenꞌ beꞌe to diꞌll, bneꞌe: 
+\p  
+\v 4 —Chaꞌ reꞌ niꞌt to gayoa (100) xhiꞌr keré, naꞌ nnit tobaꞌ, ¿kere kwaꞌnnre ba tapralj twalj kaꞌ (99) lo reꞌj ke akbaꞌn, naꞌ chejre lljadirjre ba tiꞌchenꞌ kon ka wallélerebaꞌ?  
+\v 5 Kate yellélerebaꞌn, yewere kwis waxoadorebaꞌ xhichjre.  
+\v 6 Ka yellinre rillrenꞌ, yetopre beꞌnn wrill keré, ye akreꞌ: “Leyewé ren nadaꞌ, le ba ballélteraꞌ xhiꞌr kiaꞌn bnitenꞌ.”  
+\v 7 Ni niaꞌ reꞌ, leskaꞌ llawelle Diosenꞌ, naꞌ angl kaꞌ llaꞌa yebánꞌ, kate to beꞌnn wen da xhinnj llayatreꞌ ke da xhinnj ba beneꞌ, naꞌ llanaweꞌ Diosenꞌ, kerke tapralj twalj beꞌnn wen, beꞌnn bibi doꞌl ke akeꞌ de da wayat akreꞌ. 
+\s1 Jesúsenꞌ bsaꞌkrebreꞌ ka mell da bnite 
+\p  
+\v 8 ’Naꞌ chaꞌ to noꞌr de chi mell plat keꞌe, naꞌ nnit ton, ¿kere naꞌ waꞌleꞌ to yiꞌ, naꞌ wloeꞌ kwasro lo yoꞌ keꞌen to walléltereꞌn?  
+\v 9 Kate yellelen naꞌ, yetopeꞌ noꞌre nakeꞌ txhen, naꞌ no beꞌnn wrill keꞌe, naꞌ yeꞌe leakeꞌ: “Leyewé ren nadaꞌ, ba ballélteraꞌ mell kiaꞌn bnitenꞌ.”  
+\v 10 Ni niaꞌ reꞌ, leskaꞌ llawé angl ke Diosenꞌ kate to beꞌnn wen da xhinnj, llayatreꞌ bi da xhinnj beneꞌ. 
+\s1 Beꞌe diꞌll ke beꞌnnenꞌ benditjereꞌ bi da goꞌt keꞌe 
+\p  
+\v 11 Leskaꞌ bne Jesúsenꞌ: 
+\p —Bzo to beꞌnn, naꞌ bzo chop xhiꞌnneꞌ byio.  
+\v 12 Naꞌ binꞌ naꞌchenꞌ gollbeꞌ xabeꞌn: “Xa, benntega nadaꞌ danꞌ llayaꞌlaꞌ siaꞌn.” Naꞌll xa akbeꞌn bleꞌe da de keꞌe beꞌen leakbeꞌ.  
+\v 13 Ker gok scha kate binꞌ naꞌchenꞌ, batopbeꞌ yeolol da nake kebeꞌ, naꞌll broꞌbeꞌ nez byejbeꞌ to yell ziꞌte. Naꞌ benditjebeꞌ xhmellbeꞌn, benbeꞌ da ke nxhia.  
+\v 14 Bixha kate bllin lla bayá xhmellbeꞌn, naꞌ le gokte to win xhen doxhen do ganꞌ zobeꞌn. Naꞌ billbi mell kebeꞌ de, siꞌbeꞌ da gaobeꞌ.  
+\v 15 Naꞌ bdirjbeꞌ llin gonbeꞌ, naꞌ bllinbeꞌ ga zo to beꞌnn beꞌe xchinbeꞌ, naꞌ bseꞌlebeꞌ lyiꞌxe ga llaꞌa kuch zan keꞌe, naꞌ benbeꞌ gop kuch.  
+\v 16 Naꞌ llebraz donbeꞌ, to lleꞌnebeꞌ gaobeꞌ danꞌ llao kuch kaꞌ, ni len nono lloeꞌ lebeꞌ.  
+\v 17 Kate jadinraꞌllbeꞌ naꞌ bnebeꞌ: “Beꞌnn zan beꞌnn wen llin ke xaꞌ zjallaꞌa, deteze de da llao akeꞌ, naꞌ nadaꞌ lliꞌchkaꞌ ganni donaꞌ kwis.  
+\v 18 To da gonaꞌ nnaꞌ, wayaꞌllaꞌ ganꞌ zo xaꞌn, naꞌ yepeꞌ: Xa, ba benaꞌ da xhinnj rao Dios, naꞌ rao rweꞌ.  
+\v 19 Bill zaꞌkaꞌ nench naꞌ nneꞌo nakaꞌ ka xhiꞌnnoꞌ, ben nadaꞌ ka to beꞌnn wen llin koꞌo.”  
+\v 20 Naꞌ netebeꞌ kaꞌn, bazollaꞌbeꞌ bagoꞌbeꞌ nez, zayejbeꞌ ganꞌ zo xabeꞌn. 
+\p ’Ka za yellinterbeꞌ, breꞌe xabeꞌn lebeꞌ, naꞌ bayaꞌchraꞌllebeꞌ, naꞌ bzollaꞌdoeꞌ jatileꞌ xhiꞌnneꞌn bdeꞌlchochjebeꞌ, naꞌ bnoꞌpebeꞌ.  
+\v 21 Naꞌll gollbeꞌ xabeꞌn: “Xa, ba benaꞌ da xhinnj rao Dios, naꞌ rao rweꞌ, bill zaꞌkaꞌ gonlloꞌ nadaꞌ ka xhiꞌnnoꞌ.”  
+\v 22 Naꞌ xabeꞌn le gollteꞌ beꞌnn wen llin keꞌe kaꞌ: “Lekwej chkweꞌ raꞌll chaꞌo lewakbeꞌ, lekoꞌ to da chaꞌo xhbenbeꞌ, naꞌ lewdé chkweꞌ xherbeꞌ.  
+\v 23 Naꞌ lelljaxhiꞌi to bell banꞌ zerao llaꞌraꞌll, naꞌ legotbaꞌ gaollobaꞌ, gonllo lnni.  
+\v 24 Le xhiꞌnnaꞌn llakraꞌ chaꞌ ba gotbeꞌn, zan nbanbeꞌ; llakraꞌ chaꞌ ba bnitbeꞌn, naꞌ ba ballerbeꞌ.” Naꞌ bzorao llon akeꞌ lnni. 
+\p  
+\v 25 ’Xhiꞌnneꞌ bi wakenꞌ, datebeꞌ lyiꞌxe ke naken llak kaꞌ, naꞌ ka zazaꞌbeꞌ lyiꞌxenꞌ, ka le yellintebeꞌ yoꞌ naꞌn, bénebeꞌ llak llakia, llak wakwell, naꞌ llak wayaꞌa.  
+\v 26 Naꞌ goxhbeꞌ to beꞌnn wen llin kaꞌ, naꞌ bnnabbeꞌ bixchen llak lnni.  
+\v 27 Naꞌ beꞌnnenꞌ lleꞌebeꞌ: “Bi biꞌchoꞌn baraꞌ, naꞌ xaꞌon ba beteꞌ to bell ba zerao llaꞌraꞌll, danꞌ baraꞌbeꞌ wen naꞌ.”  
+\v 28 Naꞌ gokllaꞌbeꞌ kwis, naꞌ bi gokraꞌllbeꞌ wayoꞌbeꞌ yoꞌ, naꞌ blloj xabeꞌn, goꞌtyoerebeꞌ wayoꞌbeꞌ.  
+\v 29 Naꞌ bi ni gollbeꞌ xabeꞌn: “Ba gok scha zorenaꞌ rweꞌ, llonaꞌ xchinoꞌn, naꞌ llzenayaꞌ koꞌo, naꞌ ni to gaz to chiv daꞌo bi nna gonnoꞌ nadaꞌ, nench gonaꞌ lnni gaorenaꞌ beꞌnn kaꞌ nakaꞌ txhen.  
+\v 30 Naꞌ kate baraꞌ xhiꞌnnoꞌn binꞌ benditja da de koꞌo, naꞌ bdarenbeꞌ noꞌr wen da xhinnj ak, betteꞌo to bell ba llaꞌraꞌll kebeꞌ.”  
+\v 31 Naꞌll lle xabeꞌn lebeꞌ: “Xhiꞌnnaꞌ, zorenkzoꞌ rweꞌ nadaꞌ, yeolol da de kiaꞌ koꞌkzoꞌn.  
+\v 32 Zan llayaꞌl yewello ke bibiꞌchoꞌn, le za baraꞌbeꞌn, gokraꞌ chaꞌ ba gotbeꞌn, zan nbanbeꞌ, llakraꞌ chaꞌ ba bnitkzbeꞌn, naꞌ nnaꞌ ba ballerbeꞌ.” 
+\c 16  
+\s1 Beꞌe diꞌll ke to beꞌnne bi bdapeꞌ da de ke xaneꞌ 
+\p  
+\v 1 Naꞌll leskaꞌ goll Jesúsenꞌ beꞌnn kaꞌ non Leꞌe txhen: 
+\p —Bzo to beꞌnn wniaꞌ, naꞌ bzo to beꞌnn wen llin keꞌe, beꞌnn nak rallneꞌe yeolol da de keꞌe; bllin lla kate jatao akeꞌ xhia rao beꞌnn wniaꞌn, goll akeꞌ leꞌe, beꞌnn wen llin keꞌen le ll-lleyieꞌ da kaꞌ nak rallneꞌen.  
+\v 2 Naꞌ beꞌnn wniaꞌn goxheꞌ beꞌnnenꞌ, naꞌ lleꞌe leꞌe: “Ba benraꞌ doxhen kanꞌ llonoꞌn. Llayaꞌl wiaꞌ bixhanꞌ llonkzoꞌ, zerao nnaꞌ gonnaꞌ xchinoꞌ chet kaꞌ.”  
+\v 3 Naꞌll beꞌnnenꞌ bayoneꞌ xhbab, naꞌ bneꞌe: “¿Akxha gonaꞌ nnaꞌ, ba bne xanaꞌn bill gonneꞌ xchinaꞌ? Naꞌ kere llak gonaꞌ llin war, naꞌ llayeꞌraꞌ wnnabaꞌ lmoxh.  
+\v 4 Ba nnezraꞌ to da gonaꞌ nench kate xanaꞌn bill gonneꞌ xchinaꞌn, ba zjallaꞌa beꞌnn wreb akeꞌ nadaꞌ rill akeꞌn.”  
+\v 5 Naꞌ goxheꞌ toto beꞌnn kaꞌ llbaꞌy xhmell xaneꞌn, naꞌll lleꞌe beꞌnn nellenꞌ bllin naꞌ: “¿Arke llbaꞌyoꞌ ke xanaꞌn?”  
+\v 6 Naꞌ bne beꞌnnenꞌ: “To gayoa (100) yeꞌs ceitenꞌ llbaꞌyaꞌ.” Naꞌll bne beꞌnn wen llin naꞌ, nak rallnaꞌa da kaꞌ: “Blleꞌkeroꞌ, naꞌ de yich koꞌon, bzoj da yobre ke chiyonzen naꞌ (50), llbaꞌyoꞌ.”  
+\v 7 Naꞌll lleꞌe beꞌnn wllope: “¿Bixha rweꞌ, arkenꞌ llbaꞌyoꞌ ke xanaꞌn?” Naꞌ bne beꞌnnenꞌ: “To gayoa (100) rrob trigonꞌ llbaꞌyaꞌ.” Le bnete beꞌnnenꞌ nak rallnaꞌa da kaꞌ: “Naꞌ de yich koꞌon, bzoj ganni tapraljzen naꞌ (80), llbaꞌyoꞌ.”  
+\v 8 Naꞌ beꞌnn wniaꞌn, ka gokbeꞌreꞌ kanꞌ ben beꞌnn wen llin keꞌen, llabanreꞌ kwis katek llejnieꞌreꞌ, laꞌkze nake to beꞌnn wen llin ke nxhia, lleꞌe xhbab beneꞌ kaꞌ. 
+\p Naꞌll bne Jesúsenꞌ: 
+\p —Naꞌ kaꞌ, beꞌnn kaꞌ lloꞌraꞌll danꞌ de rao yellrio nize, llayirjlaꞌll aklleꞌ, akre ka gon akeꞌ gan beꞌnne, kerke beꞌnn kaꞌ ba dá rao beniꞌ ke Dios. 
+\p  
+\v 9 ’Naꞌ llniaꞌ reꞌ, legonrenteze llin mell danꞌ de rao yellrionꞌ, nench gakrenre beꞌnne, naꞌ kate llin lla bill gon mellenꞌ llin, ba nllaꞌre beꞌnn wreb akeꞌ reꞌ yebá ga sore ke chnare. 
+\p  
+\v 10 ’Beꞌnnenꞌ lloneꞌ da lixhej kone da daꞌo raꞌt da de keꞌe, naꞌ llroeꞌn kaꞌkze goneꞌ chaꞌ de da xhen keꞌe. Naꞌ beꞌnnenꞌ bi goneꞌ da lixhej kon ren da daꞌo raꞌten, kaꞌkze goneꞌ chaꞌ gaꞌt da xhen keꞌe.  
+\v 11 Naꞌ chaꞌ reꞌ, bi gonre da nak lixhej kon ren da de kere rao yellrionꞌ da te chelteze, ¿akxha gon Diosenꞌ rallnaꞌre da zaꞌkll da bi te ke?  
+\v 12 Naꞌ chaꞌ ke nollre beꞌnn yobre, bi gaprenꞌ baraꞌnn, ¿akxha wxenraꞌll no beꞌnne gonneꞌ reꞌ da nak keré? 
+\p  
+\v 13 ’Nono gak gon llin ren chopre xaneꞌ to chiꞌze, le chaꞌ kaꞌ goneꞌ, wiereꞌ to xan llin naꞌ, naꞌ llieꞌreꞌ beꞌnnenꞌ ye to; naꞌ goneꞌ llin ke toeꞌ do yichj do raꞌlleꞌ, naꞌ ke beꞌnnenꞌ ye to, goneꞌn kaꞌze raꞌlleꞌ. Kaꞌkze ke reꞌ bi gak gonre xchin Diosenꞌ, naꞌ waráltere gonre llin seraꞌllre gakre beꞌnn wniaꞌ. 
+\p  
+\v 14 Beꞌnn fariseo kaꞌ, nak akeꞌ beꞌnn llzeraꞌll mell, ka ben akreꞌ kanꞌ bne Jesúsenꞌ, bzorao lltitj akreꞌ Leꞌe.  
+\v 15 Naꞌll goll Jesúsenꞌ leakeꞌ: 
+\p —To wrazrenꞌ llonxhen kwinre, naꞌ llonre ka beꞌnn wen tegar nechkze reꞌe beꞌnne, zan Dios nnezreꞌ kwasro ka nak yichjraꞌlldaꞌorenꞌ. Le de da llake beꞌnne, naken da wen, zan rao Diosenꞌ naken da zban. 
+\s1 Ley danꞌ bzoj da Moisésenꞌ naꞌ yel llnebiaꞌ ke Diosenꞌ 
+\p  
+\v 16 ’Ley danꞌ bzoj da Moisésenꞌ, naꞌ danꞌ bzoj beꞌnn kaꞌ beꞌe xtiꞌll Diosenꞌ kanaꞌ, benen llin zerao ka braꞌ Juan beꞌnnenꞌ bchoa nis. Bzoraozen kanꞌ braꞌ Juan naꞌ, ba llnneze beꞌnne kanꞌ nak yel llnebiaꞌ ke Diosenꞌ, naꞌ beꞌnn zan llon akeꞌn ga zerao zaꞌk akreꞌ, nench nnebiaꞌ Diosenꞌ yichjraꞌlldaꞌo akeꞌ. 
+\p  
+\v 17 ’Ka nak yellrionꞌ, naꞌ da kaꞌ llia leꞌ yebánꞌ, wllin lla kwiayiꞌ aken, zan ke nak doxhen kanꞌ ne ley ke Diosenꞌ, dekz de gak kanꞌ nen naꞌ. 
+\s1 Jesúsenꞌ broeꞌreꞌ bi naken wen wsan xhoꞌr xhyio beꞌnne 
+\r (Mt. 19:1‑12; Mr. 10:1‑12) 
+\p  
+\v 18 ’Noteze beꞌnn chaꞌ wsanraꞌll xhoꞌreꞌ, naꞌ sieꞌ ye to noꞌr yobre, llonkzeꞌ ka beꞌnn zo xto. Naꞌ noteze beꞌnn yechaynaꞌreneꞌ to noꞌre beꞌnn bsan xhyiweꞌn leꞌe, rebze llonkzeꞌ ka llon beꞌnnenꞌ darén xhoꞌr beꞌnne. 
+\s1 To beꞌnn wniaꞌ naꞌ to beꞌnn yaꞌch re Lázaro 
+\p  
+\v 19 ’Bzo to beꞌnn wniaꞌ zre raꞌll chaꞌo llakeꞌ, naꞌ yeo lla llontekzeꞌ ka to lnnire danꞌ llaochaꞌweꞌ.  
+\v 20 Naꞌ leskaꞌ bzo to beꞌnn yaꞌch re Lázaro, naꞌ blleꞌtezeꞌ bllieꞌ lloaꞌ yoꞌ ke beꞌnn wniaꞌn, naꞌ le llieꞌ yeꞌlle.  
+\v 21 To lleꞌne Lázaronꞌ lljatopeꞌ blaꞌa kaꞌ, llexj ganꞌ lliꞌ beꞌnn wniaꞌn llaweꞌ, naꞌ beꞌkw ake lljaleꞌ akbaꞌ weꞌe keꞌen.  
+\v 22 Bixha kate got beꞌnn yaꞌchenꞌ, naꞌ angl kaꞌ bacheꞌe akeꞌ leꞌe ganꞌ nak to latj wen ganꞌ zo Abraham naꞌ. Naꞌ leskaꞌ got beꞌnn wniaꞌn, naꞌ bkwaꞌch akeꞌ leꞌe.  
+\v 23 Lo gabil ganꞌ ballín beꞌnn wniaꞌn llallayraweꞌ, kate blis raweꞌn, naꞌ breꞌreꞌ Abraham naꞌ, ren Lázaronꞌ, llaꞌa akeꞌ to latj naꞌ naken ziꞌte.  
+\v 24 Naꞌll besiaꞌ beꞌnn wniaꞌn zillj bneꞌe: “Xa Abraham, bayaꞌchraꞌll nadaꞌ, bseꞌl Lázaronꞌ wasbis xhbeneꞌn, naꞌ wakoleꞌ raꞌt rollaꞌn, le llallayrawaꞌ lo yiꞌn.”  
+\v 25 Naꞌll Abraham naꞌ, golleꞌ leꞌe: “Xhiꞌnnaꞌ, jadinraꞌlle, bxhiꞌo rweꞌ banez bzoꞌo yellrionꞌ, naꞌ Lázaronꞌ ballayraweꞌ bxhaꞌkzieꞌ, naꞌ nnaꞌ llazieꞌ banez, naꞌ rweꞌ llallayraoꞌ.  
+\v 26 Naꞌ leskaꞌ to bdinnj xhen, nlaꞌn lliꞌo, naꞌ ni ke gakze yedtoꞌ ganꞌ llaꞌrenꞌ, ni reꞌ bi gak yedre ganꞌ llaꞌtoꞌ ni.”  
+\v 27 Naꞌll bne beꞌnnenꞌ: “Ben gokre chaꞌ, xa Abraham, baseꞌleꞌ rill xaꞌn,  
+\v 28 Le nna zo gaꞌy beꞌnn biꞌchaꞌ, naꞌ chixjweꞌreꞌ leakeꞌ nench ke wayed akeꞌ ganni yellayrao akeꞌ.”  
+\v 29 Naꞌll lle Abraham naꞌ leꞌe: “Naꞌ dekze yich danꞌ bzoj da Moisésenꞌ, naꞌ danꞌ bzoj beꞌnn kaꞌ beꞌe xtiꞌll Diosenꞌ kanaꞌ, len wzenay akeꞌ ke chet kaꞌ.”  
+\v 30 Naꞌll bne beꞌnnenꞌ: “Bi wzenay akeꞌ kaꞌ, xa Abraham, zan chaꞌ to beꞌnn yebaneꞌ radj beꞌnn wat kaꞌ, naꞌ weꞌreneꞌ leakeꞌ diꞌlle, naꞌll chejleꞌ akeꞌ, naꞌ wayechj akeꞌ.”  
+\v 31 Naꞌll goll Abraham naꞌ leꞌe: “Chaꞌ bi chejleꞌ akeꞌ xtiꞌll Dios danꞌ ba dekze, leskaꞌ ni ke chejleꞌ akzeꞌ, laꞌkze yebán to beꞌnn wat.” 
+\c 17  
+\s1 Llayaꞌl wiallo ke wlliꞌyllo beꞌnne goneꞌ da xhinnj 
+\r (Mt. 18:6‑7, 21‑22; Mr. 9:42) 
+\p  
+\v 1 Naꞌll lle Jesúsenꞌ beꞌnn kaꞌ non Leꞌe txhen: 
+\p —Dekz de chaz da xhinnjenꞌ radjrenꞌ, zan nyaꞌchraz ke beꞌnnenꞌ wchizeꞌ da xhinnjenꞌ.  
+\v 2 Nakteren wen wchej akeꞌ yeneꞌn to yej xhen, naꞌ wzaꞌl akeꞌ leꞌe lo nisdaꞌo, kerke da goneꞌ bix to bidaꞌo ki nxenraꞌll nadaꞌ gonbeꞌ da xhinnjenꞌ.  
+\v 3 Lewiá, chaꞌ to beꞌnn lwelljoꞌ, bi gonzreꞌ rweꞌ, byej beꞌreneꞌ diꞌll nench wayakbeꞌreꞌ binꞌ beneꞌ, naꞌ chaꞌ wayatreꞌ, baziꞌxhen keꞌe.  
+\v 4 Naꞌ chaꞌ gall ras goneꞌ bi da goneꞌ koꞌo rao tlla, naꞌ gall ras zaꞌteꞌ yeꞌe rweꞌ: “Llayatraꞌ kanꞌ benaꞌn, baziꞌxhen kiaꞌ”, llayaꞌl yeziꞌxhenoꞌ keꞌe. 
+\s1 Llnnab akeꞌ gakreneꞌ leakeꞌ nench wxenraꞌll aklleꞌ 
+\p  
+\v 5 Naꞌll postl kaꞌ, goll akeꞌ Xanllonꞌ: 
+\p —Gokrén netoꞌ nench yezikre wxenraꞌlltoꞌ. 
+\p  
+\v 6 Naꞌ lle Xanllonꞌ leakeꞌ: 
+\p —Chenak danꞌ llejleꞌre naken ka to nak nbaz ke mostaz, gakte yere yayenꞌ zo ganni: “Bkwas ganni, naꞌ jasó lo nisdaꞌo naꞌle,” wzenayten keré. 
+\s1 Da llayaꞌl gon to beꞌnn wen llin 
+\p  
+\v 7 Leskaꞌ bne Jesúsenꞌ: 
+\p —Reꞌ yoꞌraore llonre, kate beꞌnn wen llin keré llejeꞌ wawaꞌnn belle o chaꞌ gop belle, kate llareꞌe yoꞌ kerénꞌ, kere naꞌ llereꞌ: “Blleꞌdo gaoꞌ xcheꞌ.”  
+\v 8 Yezikre llereꞌ: “Bsiniaꞌkeroꞌ da gawaꞌ; yedawaꞌ naꞌ, naꞌll gaoꞌ rweꞌ.”  
+\v 9 Leskaꞌ kere llereꞌ: “Llioxkenoꞌ”, kate ba bayoll bsinieꞌ danꞌ bdaorenꞌ.  
+\v 10 Leskaꞌ naken ke reꞌ, naore nadaꞌ, kate ba benre doxhen kanꞌ ba bniaꞌ gonre, kanaꞌ nnere: “Beꞌnn wen llin ke nxhia naktoꞌ, gannenꞌ ba bentoꞌ danꞌ bneꞌo gontoꞌ naꞌze.” 
+\s1 Jesúsenꞌ bayoneꞌ chi beꞌnn llak yillweꞌ danꞌ ne lepra 
+\p  
+\v 11 Bixha chak zej Jesúsenꞌ Jerusalén naꞌ, bdieꞌ ga zerao nbane Galileanꞌ ren Samaria.  
+\v 12 Ka bllineꞌ to lloaꞌ yell daꞌo, naꞌ blloj chi beꞌnn llak yillweꞌ danꞌ ne lepra, naꞌ jatil akeꞌ Leꞌe, bze akteꞌ ziꞌtre,  
+\v 13 besiaꞌ akeꞌ lle akeꞌ Leꞌe: 
+\p —¡Jesús, Maestro, bayaꞌchraꞌll netoꞌ! 
+\p  
+\v 14 Ka breꞌe Jesúsenꞌ leakeꞌn, golleꞌ leakeꞌ: 
+\p —Lechej rao bxoz kaꞌ, naꞌ wia akeꞌ reꞌ. 
+\p Bixha chak zjakeꞌ naꞌn, bayak akeꞌ.  
+\v 15 Toeꞌ, ka gokbeꞌreꞌ ba bayakeꞌn, naꞌ babieꞌ llosieꞌ zillj lloeꞌraweꞌ Dios.  
+\v 16 Ka ballineꞌ rao Jesúsenꞌ, bcheꞌk xhibeꞌ lloeꞌ yel llioxken keꞌe, beꞌnnenꞌ ben kaꞌ nakeꞌ beꞌnn Samaria.  
+\v 17 Ka breꞌe Jesúsenꞌ beꞌnn tiꞌchenꞌ, bneꞌe: 
+\p —¿Kere chi beꞌnn kinꞌ bayak? ¿Gannxha beꞌnn ga kaꞌ yelaꞌ?  
+\v 18 ¿Tiꞌchga beꞌnn ziꞌt ni, babieꞌ lloeꞌraweꞌ Dios? 
+\p  
+\v 19 Naꞌ lleꞌe beꞌnnenꞌ: 
+\p —Bayas, naꞌ bayej, danꞌ nxenraꞌlloꞌ naꞌn, ba basrá rweꞌ. 
+\s1 Kate llin lla wroeꞌ yel llnebiaꞌ ke Diosenꞌ 
+\r (Mt. 24:23‑28, 36‑41) 
+\p  
+\v 20 Gok ka bnnabe beꞌnn fariseo kaꞌ Jesúsenꞌ, batenꞌ sorao nnebiaꞌ Diosenꞌ. Naꞌll lleꞌe leakeꞌ: 
+\p —Ke nake sorao nnebiaꞌ Diosenꞌ, ni ke no gakbeꞌze katenꞌ sorawen.  
+\v 21 Ni ke no nneze: “Ganni ba llnebieꞌ”, naꞌ “Gannaꞌ ba llnebieꞌ”. Ba llnebiaꞌkze Diosenꞌ do radjrenꞌ nnaꞌ. 
+\p  
+\v 22 Naꞌll lleꞌe beꞌnn kaꞌ non Leꞌe txhen naꞌ: 
+\p —Wllin lla kate le yeꞌnere reꞌre la tllaze kanꞌ gon Beꞌnnenꞌ Gorj Radj Beꞌnnachenꞌ, naꞌ reꞌ bi gak kanꞌ lleꞌnerenꞌ.  
+\v 23 Laꞌkze ye akeꞌ reꞌ: “Ba zoteꞌ ganni”, o “Gannaꞌ ba zoeꞌ”; bi chejleꞌre ke beꞌnn kaꞌ, naꞌ bi nnao akreꞌ.  
+\v 24 Kanꞌ llak kate llep yes, lloꞌnnte beniꞌ ken ye chlaꞌre yellrio to sete, kanꞌ gakse katenꞌ yedaꞌ nadaꞌ, Beꞌnnenꞌ Gorj Radj Beꞌnnach, katenꞌ llin llanꞌ.  
+\v 25 Naꞌ zgaꞌtek llayaꞌl wallayrawaꞌ, naꞌ beꞌnn kaꞌ llaꞌa nnaꞌ, bi chejleꞌ akeꞌ kiaꞌ.  
+\v 26 Kanꞌ gokse ka bzo da Noé, kanꞌ gakse katenꞌ llin lla yed Beꞌnnenꞌ Gorj Radj Beꞌnnachenꞌ da yobre.  
+\v 27 Kanꞌ bzo da Noénꞌ, llao akeꞌ, lleꞌj akeꞌ, llak wchaynaꞌa nile naꞌle, bllinte lla byoꞌ da Noénꞌ lo barco xhen naꞌ, naꞌll gok yejsiꞌo xhen, naꞌ blleyiꞌ beꞌnn kaꞌ.  
+\v 28 Leskaꞌ gok kanꞌ bzo beꞌnnenꞌ golle Lot, llao akeꞌ, lleꞌj akeꞌ, lloꞌt akeꞌ, llaꞌo akeꞌ, goz akeꞌ, baral akllreꞌ benchaꞌo rill akeꞌ.  
+\v 29 Bixha ka balloj da Lotenꞌ yell Sodomanꞌ, naꞌ bzorao llyinnj yiꞌ barje, bexj da nak ka yoran, naꞌ bzeyen yeolol beꞌnn kaꞌ llaꞌa rao yellenꞌ.  
+\v 30 Kaꞌkzenꞌ gak katenꞌ yed Beꞌnnenꞌ Gorj Radj Beꞌnnach da yobre rao yellrionꞌ. 
+\p  
+\v 31 ’Naꞌ katenꞌ llin llanꞌ, chaꞌ to beꞌnn deꞌe yichjore, naꞌ llaꞌa xchinraze lo yoꞌn, bi llayaꞌl wayetjeꞌ lljaxhiꞌi xchinrazeꞌ kaꞌ. Naꞌ chaꞌ to beꞌnn zejeꞌ lyiꞌxe, leskaꞌ bi llayaꞌl wabieꞌ wayej rilleꞌ.  
+\v 32 Lelljadinraꞌll kanꞌ gok ke noꞌr ke da Lot.  
+\v 33 Beꞌnnenꞌ yeꞌnreꞌ yesrá yel nban ke kwineꞌ, leꞌen wniteꞌn, naꞌ beꞌnnenꞌ wsanraꞌlleꞌ yel nban keꞌen ni kiaꞌ nadaꞌ, leꞌen yerá. 
+\p  
+\v 34 ’Ni llniaꞌ reꞌ, lleꞌ naꞌ chaꞌ chop beꞌnn de akeꞌ txhen, toeꞌn yeziꞌi Diosenꞌ naꞌ ye toeꞌ gaꞌnneꞌ.  
+\v 35 Chop noꞌr lliꞌ akeꞌ llot akeꞌ, toeꞌn yeziꞌi Diosenꞌ, naꞌ ye toeꞌ gaꞌnne.  
+\v 36 Chop beꞌnn chaꞌ da akeꞌ txhen lyiꞌxe, toeꞌn yeziꞌi Diosenꞌ, naꞌ ye toeꞌ gaꞌnneꞌ. 
+\p  
+\v 37 Naꞌll goll beꞌnn kaꞌ non Leꞌe txhen naꞌ Leꞌe: 
+\p —¿Gaxhanꞌ gak kaꞌ, Xantoꞌ? 
+\p Naꞌll lleꞌe leakeꞌ: 
+\p —Naꞌ gonen ka ke beꞌnnenꞌ neꞌe: “Ganꞌ de ba wat naꞌ, gannaꞌn wadopkze chod kaꞌ.” 
+\c 18  
+\s1 Ka gok ke to noꞌr wazeb naꞌ ye to beꞌnn bi llon yel koxchis lixheje 
+\p  
+\v 1 Naꞌ beꞌrén Jesúsenꞌ leakeꞌ diꞌll, bsaꞌkrebreꞌ ka gok ke to noꞌr, nench broeꞌreꞌ leakeꞌ da lliarao xhen naꞌ, weꞌrén akeꞌ Diosenꞌ diꞌll, naꞌ bi gatraꞌll akeꞌ.  
+\v 2 Naꞌ bneꞌe: 
+\p —Rao yell naꞌ bzo to beꞌnn llon yel koxchis, nono llapkzeꞌ baraꞌnne, ni Dios, ni lwellj beꞌnne.  
+\v 3 Naꞌ leskaꞌ rao yell naꞌ zo to noꞌr wazeb, naꞌ weltze llej noꞌrenꞌ rao beꞌnn wen yel koxchisenꞌ, lleꞌe leꞌe: “Ben yel koxchis kiaꞌ, zo to beꞌnn le llsaꞌkzieꞌ nadaꞌ.”  
+\v 4 Naꞌ gokte scha, bi broꞌkzeꞌ xhnneze kanꞌ llak ke noꞌrenꞌ. Bixha kate bllin lla bneꞌe: “Laꞌkze bi llapaꞌ baraꞌnne Dios ni beꞌnne,  
+\v 5 gonllaꞌ yel koxchis keꞌen, nench ke yesdó noꞌrenꞌ yel llxhenraꞌll kiaꞌn, le ziꞌte zed lloneꞌ.” 
+\p  
+\v 6 Naꞌll bne Xanllonꞌ: 
+\p —Lewayón ke xhbab kanꞌ bne beꞌnn wen yel koxchisenꞌ, nakteꞌ beꞌnn llon da bi zej lixheje.  
+\v 7 ¿Kere leskaꞌ gon Diosenꞌ yel koxchis ke beꞌnn kaꞌ ba brejeꞌ llonliraꞌll Leꞌen, chaꞌ llalwill akeꞌ Leꞌe do lla do yere? ¿O chaꞌ wllereꞌ bi gakrenzeꞌ leakeꞌ?  
+\v 8 Ni llniaꞌ reꞌ, sete goneꞌ yel koxchis ke akeꞌ. Zan katenꞌ llin lla yedaꞌ nadaꞌ, Beꞌnn Gorj Radj Beꞌnnach, da yobre, ¿llaꞌrize beꞌnn nna nxenraꞌll Dios? 
+\s1 Ka ben to beꞌnn fariseo naꞌ to wachixhj 
+\p  
+\v 9 Naꞌ llaꞌa bal beꞌnn le nxenraꞌll kwin akeꞌ, naꞌ llak akreꞌ nak akseꞌ beꞌnn wen, naꞌ llon akeꞌ kaze nollre beꞌnn yobre, naꞌ beꞌe Jesúsenꞌ diꞌll bsaꞌkrebreꞌ bneꞌe: 
+\p  
+\v 10 —Chop beꞌnn zjakeꞌ yodaꞌo brao, lljeꞌrén akeꞌ Diosenꞌ diꞌlle, toeꞌ nakeꞌ beꞌnn fariseo, naꞌ ye toeꞌ nakeꞌ beꞌnn wachixhj.  
+\v 11 Beꞌnn fariseonꞌ zellatezeꞌ llalwilleꞌ Diosenꞌ, lloeꞌrao kwineꞌ neꞌe: “Dios, llioxkenoꞌ, le bi nakaꞌ beꞌnn wen da xhinnj, ka beꞌnn kaꞌ yelaꞌ, beꞌnn wan, beꞌnn laꞌkze zo noꞌr ke akeꞌ, darén akeꞌ noꞌr yobre, naꞌ ni ke nakzaꞌ kanꞌ nak wachixhj ni.  
+\v 12 Naꞌ chop ras rao to xhman llonaꞌ was, naꞌ da llonaꞌ gan, llbejaꞌ to kwenen rao chi kwen, naꞌ lljwaꞌan yodaꞌon.”  
+\v 13 Naꞌ beꞌnn wachixhjenꞌ bzeteꞌ ziꞌtre, to ni ke llayaxhjzreꞌ wlis raweꞌ yebá, naꞌ llbaꞌll lchoeꞌ neꞌe: “¡Dios bayaꞌchraꞌll nadaꞌ, nakaꞌ beꞌnn wen da xhinnj!”  
+\v 14 Ni llniaꞌ reꞌ, beꞌnn wachixhjenꞌ, baziꞌxhente Diosenꞌ keꞌe, naꞌ zayejteꞌ rilleꞌ nbaraz kerke beꞌnn fariseonꞌ. Le beꞌnnenꞌ lloeꞌrao kwineꞌ, Diosenꞌ goneꞌ ka sieꞌ yel zdoꞌ, naꞌ gakbeꞌreꞌ bi zaꞌke, naꞌ beꞌnnenꞌ llakreꞌ bibi zaꞌke, Diosenꞌ goneꞌ ka sieꞌ yel baraꞌnne. 
+\s1 Jesúsenꞌ benlaꞌyeꞌ bidaꞌo ak 
+\r (Mt. 19:13‑15; Mr. 10:13‑16) 
+\p  
+\v 15 Naꞌ jwaꞌa akeꞌ bidaꞌo rao Jesúsenꞌ nench wxoa taꞌkeꞌn yichj akbeꞌ. Naꞌ breꞌe beꞌnn kaꞌ non Leꞌe txhen kanꞌ llon akeꞌn, naꞌ bdil akeꞌ beꞌnn kaꞌ.  
+\v 16 Naꞌ Jesúsenꞌ goxheꞌ bidaꞌo kaꞌ, naꞌll bneꞌe: 
+\p —Leweꞌe latj yed bidaꞌo kaꞌ rawaꞌn, bi wllonre, le beꞌnn kaꞌ nak ka bidaꞌo ki, leakeꞌn nak Diosenꞌ txhen beꞌnn llnebiaꞌ.  
+\v 17 Da li niaꞌ reꞌ, noteze beꞌnne chaꞌ bi goneꞌ ka llon bidaꞌo ki nxenraꞌll akbeꞌ nadaꞌ, ni ke gakzeꞌ gakeꞌ Diosenꞌ txhen beꞌnnenꞌ llnebiaꞌ. 
+\s1 Beꞌnn weꞌo nak beꞌnn wniaꞌ 
+\r (Mt. 19:16‑30; Mr. 10:17‑31) 
+\p  
+\v 18 To beꞌnn brao beꞌnn wniaꞌ, golleꞌ Jesúsenꞌ: 
+\p —Maestro, rweꞌ nakoꞌ beꞌnn wen; bne nadaꞌ, ¿bi llayaꞌl gonaꞌ nench gaꞌt yel nban zejlikane kiaꞌ? 
+\p  
+\v 19 Jesúsenꞌ lleꞌe leꞌe: 
+\p —¿Bixchen llezoꞌ nadaꞌ beꞌnn wen? Nono llraꞌ beꞌnn nak beꞌnn wen, toze Dios naꞌn nak beꞌnn wen.  
+\v 20 Rweꞌ nnezroꞌ binꞌ ne Diosenꞌ gonllo: “Bi tarenoꞌ noꞌr yobre, bi gotoꞌ beꞌnne, bi kwanoꞌ, bi wtobroꞌ beꞌnn bi da ke beneꞌ, bdap baraꞌnn xaxhnaꞌo.” 
+\p  
+\v 21 Naꞌll bne beꞌnn weꞌon: 
+\p —Yeolol da kaꞌ ba benaꞌ ka nna naktiaꞌ xkwiꞌde. 
+\p  
+\v 22 Ka bene Jesúsenꞌ kanꞌ bne beꞌnnenꞌ, naꞌll lleꞌe leꞌe: 
+\p —De ye to da llayaꞌl gonoꞌ, jayeꞌt yeolol da de koꞌo, naꞌ mell danꞌ goꞌtoꞌn naꞌ, beꞌen beꞌnn yaꞌch, naꞌll gaꞌt yel wniaꞌ koꞌo yebá, naꞌtell yedoꞌ nnaoꞌ nadaꞌ. 
+\p  
+\v 23 Ka bene beꞌnnenꞌ kanꞌ bne Jesúsenꞌ, le gokreꞌ, bzoyaꞌcheꞌ le nakeꞌ beꞌnn wniaꞌ.  
+\v 24 Ka breꞌe Jesúsenꞌ gokyaꞌche beꞌnnenꞌ kwis, naꞌll bneꞌe: 
+\p —¡Bniꞌ kwis naken ke to beꞌnn wniaꞌ, weꞌe latj nnebiaꞌ Diosenꞌ yichjraꞌlldaꞌweꞌ!  
+\v 25 Sétere te to bayiꞌxe banꞌ nziꞌi camello lo nay yeꞌchich, kerke to beꞌnn wniaꞌ weꞌe latj nnebiaꞌ Diosenꞌ yichjraꞌlldaꞌweꞌn. 
+\p  
+\v 26 Beꞌnn kaꞌ ka ben akreꞌ kanꞌ bne Jesúsenꞌ, ben akeꞌ yel wan kwis, ne akeꞌ: 
+\p —¿Ka noxha yerakzenꞌ chaꞌ? 
+\p  
+\v 27 Naꞌll lleꞌe leakeꞌ: 
+\p —Da li de da bi gak gon beꞌnnachenꞌ to wrazeꞌ, zan wak gon Diosenꞌ len. 
+\p  
+\v 28 Naꞌll bne Pedronꞌ: 
+\p —Netoꞌ ba bsanraꞌlltoꞌ yeolol da de ketoꞌ, naꞌ ba naotoꞌ rweꞌ. 
+\p  
+\v 29 Naꞌ lleꞌe leakeꞌ: 
+\p —Da li niaꞌ reꞌ, noteze beꞌnne, chaꞌ bsanraꞌlleꞌ rilleꞌ, xaxhneꞌe, biꞌcheꞌ, noꞌr keꞌe, xhiꞌnneꞌ, ni ke danꞌ ba llnebiaꞌ Diosenꞌ yichjraꞌlldaꞌweꞌ,  
+\v 30 da zaꞌktell weꞌe Diosenꞌ leꞌe nnaꞌ, rao yellrionꞌ, naꞌ kate llin lla naꞌ, weꞌe yel nban zejlikane keꞌe. 
+\s1 Da yobre bdixjweꞌ Jesúsenꞌ gateꞌ 
+\r (Mt. 20:17‑19; Mr. 10:32‑34) 
+\p  
+\v 31 Jesúsenꞌ goxheꞌ beꞌnn chllinn kaꞌ chlaꞌre, naꞌ lleꞌe leakeꞌ: 
+\p —Naꞌ chejllo Jerusalén naꞌ, gannaꞌ soaꞌ diꞌll doxhen kanꞌ bzoj beꞌnn kaꞌ beꞌe xtiꞌll Diosenꞌ batnaꞌ kanꞌ gak kiaꞌ nadaꞌ, Beꞌnn Gorj Radj Beꞌnnach.  
+\v 32 Gannaꞌ gon akeꞌ nadaꞌ rallnaꞌa beꞌnn ziꞌt kaꞌ, naꞌ wtitj akreꞌ nadaꞌ, gaꞌdyiꞌ akeꞌ nadaꞌ, naꞌ wxiꞌt akeꞌ xheꞌn rawaꞌ.  
+\v 33 Naꞌll chintat akeꞌ nadaꞌ, naꞌ got akeꞌ nadaꞌ, naꞌ wayónn lla wabanaꞌ. 
+\p  
+\v 34 Naꞌ beꞌnn kaꞌ nao Leꞌen, ni ke byejnieꞌ akzreꞌ bixchen bneꞌe kaꞌ, nna nchol yichjraꞌlldaꞌo akeꞌn, naꞌllenꞌ bi llejnieꞌ akreꞌ. 
+\s1 Jesúsenꞌ bayoneꞌ to beꞌnn lchol 
+\r (Mt. 20:29‑34; Mr. 10:46‑52) 
+\p  
+\v 35 Bixha gok ka le choꞌte Jesúsenꞌ yell danꞌ re Jericó, to beꞌnn lchol llieꞌ lloaꞌ nezenꞌ, llnnabeꞌ lmoxh.  
+\v 36 Ka benreꞌ llde beꞌnn zan tnezenꞌ, bnnabeꞌ binꞌ llak.  
+\v 37 Naꞌ goll akeꞌ leꞌe: 
+\p —Jesús beꞌnn Nazaretenꞌ lldieꞌ ganni nnaꞌsteke. 
+\p  
+\v 38 Naꞌll besieꞌ zillj, bneꞌe: 
+\p —¡Jesús, Xhiꞌnn dia lla David, bayaꞌchraꞌll nadaꞌ! 
+\p  
+\v 39 Beꞌnn kaꞌ lliarao rao Jesúsenꞌ, ben akreꞌ leꞌe znia nench bi goneꞌ llakia, naꞌ leꞌen yezikre besieꞌ zillj, bneꞌe da yobre: 
+\p —¡Xhiꞌnn dia lla David, bayaꞌchraꞌll nadaꞌ! 
+\p  
+\v 40 Naꞌ Jesúsenꞌ brexheꞌ, naꞌ golleꞌ beꞌnn kaꞌ lljwaꞌa akeꞌ leꞌe raweꞌn. Ka bllin beꞌnn lcholenꞌ raweꞌn, lleꞌe leꞌe: 
+\p  
+\v 41 —Bnechk, ¿bixhanꞌ lleꞌnroꞌ gonaꞌ? 
+\p Naꞌll bneꞌe: 
+\p —Xanaꞌ, lleꞌnraꞌ yereꞌraꞌ. 
+\p  
+\v 42 Naꞌ goll Jesúsenꞌ leꞌe: 
+\p —Bareꞌe, danꞌ bxenraꞌlloꞌ naꞌn, ba basrá rweꞌ. 
+\p  
+\v 43 Naꞌ le bareꞌte beꞌnnenꞌ, naꞌ bnaweꞌ Jesúsenꞌ lloeꞌraweꞌ Dios. Ka breꞌe yeolol beꞌnn yell kanꞌ bayakeꞌn, naꞌ beꞌrao akeꞌ Diosenꞌ. 
+\c 19  
+\s1 Jesús naꞌ Zaqueo 
+\p  
+\v 1 Ka byoꞌ Jesúsenꞌ yellenꞌ re Jericó, naꞌ bdieꞌ kllol yellenꞌ.  
+\v 2 Jericó, naꞌ zo to beꞌnn re Zaqueo, naꞌ nakeꞌ beꞌnn llnebiaꞌ wachixhj kaꞌ, naꞌ nakeꞌ beꞌnn wniaꞌ.  
+\v 3 Naꞌ le lleꞌnreꞌ reꞌreꞌ Jesúsenꞌ, naꞌ kize llak le beꞌnn zan naꞌ nao Jesúsenꞌ; naꞌ bi gok wieꞌ Leꞌe, le Zaqueonꞌ nakeꞌ to beꞌnn bcheko daꞌo.  
+\v 4 Naꞌll bzaꞌdoeꞌ blliaraweꞌ rao beꞌnn zan kaꞌ, naꞌ byepeꞌ to rao yay ganꞌ le tete Jesúsenꞌ.  
+\v 5 Ka bllin Jesúsenꞌ xhan yayenꞌ, blis raweꞌn, naꞌ breꞌreꞌ Zaqueonꞌ, naꞌ lleꞌe leꞌe: 
+\p —Zaqueo, sete bayetj, rilloꞌ naꞌ tasaꞌ nnaꞌ lleꞌ. 
+\p  
+\v 6 Naꞌ bayetjdoeꞌ, llawereꞌ kwis bacheꞌe Leꞌe rilleꞌ.  
+\v 7 Ka breꞌe beꞌnn kaꞌ kaꞌ, bzorao nne akeꞌ ke Jesúsenꞌ danꞌ bllineꞌ byoeꞌ rill to beꞌnn wen da xhinnj.  
+\v 8 Naꞌ Zaqueonꞌ bzelleꞌe, naꞌ lleꞌe Jesúsenꞌ: 
+\p —Xanaꞌ, achj da deraꞌ waꞌan beꞌnn yaꞌche, naꞌ chaꞌ no beꞌnn bxoayayaꞌ bchixhjeꞌ da xhenll, wakse wayoaꞌ keꞌen laꞌkze tap rasre ke to danꞌ bkaꞌan. 
+\p  
+\v 9 Jesúsenꞌ lleꞌe leꞌe: 
+\p —Naꞌ bllin lla yerá beꞌnn kaꞌ, llaꞌa lo yoꞌ ni, le leskaꞌ beꞌnn ni nakeꞌ xhiꞌnn Abraham.  
+\v 10 Le nadaꞌ Beꞌnnenꞌ Gorj Radj Beꞌnnach zaddirjaꞌ, naꞌ yesraꞌa yeolol beꞌnn ba bnit. 
+\s1 Jesúsenꞌ bsaꞌkrebreꞌ ka ben beꞌnn beꞌe beꞌnn wen llin keꞌe kaꞌ mell 
+\p  
+\v 11 Naꞌ chak llen akreꞌ diꞌll ki, Jesúsenꞌ beꞌe diꞌll ka nak ba zjakeꞌ awlloze Jerusalén naꞌ, le beꞌnn kaꞌ nao Leꞌen, llak akreꞌ le llnebiaꞌte Diosenꞌ. 
+\p  
+\v 12 Naꞌ bneꞌe: 
+\p —To beꞌnn nak beꞌnn brao, bllojeꞌ zejeꞌ to yell ziꞌte ga weꞌe akeꞌ leꞌe yel llnebiaꞌ, naꞌtell wabieꞌ nnebieꞌ yell keꞌen.  
+\v 13 Ka za koꞌtereꞌ nez, goxheꞌ chi beꞌnn wen llin keꞌe, naꞌ beꞌe toto akeꞌ mell, naꞌ golleꞌ leakeꞌ: “Legonrén mellenꞌ llin chak zazaꞌa naꞌ.”  
+\v 14 Naꞌll beꞌnn wrall keꞌe kaꞌ llwie leꞌe, ka breꞌe akreꞌ ba broeꞌ nezenꞌ, bseꞌl akeꞌ beꞌnn bnao leꞌe, nench lljayell akeꞌ beꞌnnenꞌ weꞌe leꞌe yel llnebiaꞌn: “Bi lleꞌnetoꞌ nnebiaꞌ beꞌnnenꞌ netoꞌ.”  
+\v 15 Bixha kate bllin lla ballín beꞌnnenꞌ ralleꞌn, ba nakeꞌ beꞌnn wnebiaꞌ, naꞌ goxheꞌ beꞌnn wen llin kaꞌ beꞌe mellenꞌ, le lleꞌnreꞌ nnezreꞌ akre ben akeꞌ mellenꞌ bkwaꞌnnreneꞌ leakeꞌn.  
+\v 16 Beꞌnn nellenꞌ bllineꞌ raweꞌn, lleꞌe leꞌe: “Xanaꞌ, xhmelloꞌn benen gan ye chi rasre ke to danꞌ bkwaꞌnnoꞌn.”  
+\v 17 Naꞌll golleꞌ beꞌnnenꞌ: “Da wen benoꞌ, nakoꞌ beꞌnn wen llin wen, ren da daꞌo raꞌt naꞌ, ba broeꞌroꞌ nakoꞌ beꞌnn wen. Naꞌ nnaꞌ nnebiaꞌo chi yell.”  
+\v 18 Naꞌll bllin beꞌnn yobre bneꞌe: “Xanaꞌ, xhmelloꞌn benen gan gaꞌy rasre ke to danꞌ bkwaꞌnnoꞌn.”  
+\v 19 Leskaꞌ golleꞌ leꞌe: “Leskaꞌ rweꞌ nnebiaꞌo gaꞌy yell.”  
+\v 20 Naꞌ bllin ye toeꞌ, bneꞌe: “Xanaꞌ, nna de xhmelloꞌn danꞌ bennoꞌn, broꞌchaꞌozaꞌn braꞌlltiaꞌn to bay,  
+\v 21 bllebaꞌ rweꞌ, le nakoꞌ to beꞌnn znia, llaziꞌo da bi benoꞌ, naꞌ llrapoꞌ ga ke llazoꞌ.”  
+\v 22 Naꞌ bne beꞌnn wnebiaꞌn: “Beꞌnn wen llin mellian, ka diꞌllenꞌ ll-lloj lloaꞌon, kaꞌ gonkzaꞌ koꞌo. Chaꞌ nnezroꞌ nakaꞌ beꞌnn znia, naꞌ llaziaꞌ da bi benaꞌ, naꞌ llrapaꞌ ga ke llazaꞌ,  
+\v 23 ¿bixchen ke jaloꞌ xhmellaꞌn ga choꞌchaꞌon naꞌ gonen gan chak zazaꞌa naꞌ, naꞌ nna yeziaꞌn ba xhoa la raꞌtze yichje?”  
+\v 24 Naꞌll golleꞌ beꞌnn kaꞌ zjallaꞌa kwiteꞌn: “Lewakaꞌa mellenꞌ noꞌxeꞌn, naꞌ leweꞌn beꞌnnenꞌ ben gan ye chi ke to danꞌ bieꞌn.”  
+\v 25 Naꞌ goll beꞌnn kaꞌ leꞌe: “¡Xantoꞌ, ba napkzeꞌ danꞌ beneꞌ gan naꞌ!”  
+\v 26 Naꞌ goll beꞌnn wnebiaꞌn leakeꞌ: “Llniaꞌ reꞌ, beꞌnnenꞌ ba napkzeꞌ da napeꞌ, yezikre weꞌe da yobre, naꞌ beꞌnnenꞌ bibi de keꞌe, rente da daꞌo raꞌt, chaꞌ de keꞌe, yekaꞌa.  
+\v 27 Naꞌ ka nak beꞌnn kaꞌ llwie nadaꞌ naꞌ, bi gokraꞌll akeꞌ gakaꞌ beꞌnn wnebiaꞌ, lelljaxiꞌi akeꞌ, naꞌ lewchoy yen akeꞌ rawaꞌ nga.” 
+\s1 Jesúsenꞌ byoeꞌ Jerusalén 
+\r (Mt. 21:1‑11; Mr. 11:1‑11; Jn. 12 :12‑19) 
+\p  
+\v 28 Ka bayoll beꞌe Jesúsenꞌ diꞌll ki, naꞌ broeꞌ nez zejeꞌ Jerusalén.  
+\v 29 Ka ba zejeꞌ kwit yellenꞌ re Betfagé naꞌ Betania, ganꞌ zo yaꞌn ganꞌ nziꞌi Yaꞌ Olivos, bseꞌleꞌ chop beꞌnn kaꞌ non Leꞌe txhen,  
+\v 30 lleꞌe leakeꞌ: 
+\p —Lechej yellenꞌ lliꞌ chlaꞌ naꞌ, kate choꞌre yellenꞌ reꞌre to burr daꞌbaꞌ yay, ba nono nna kwia, lewsellbaꞌ, naꞌ wcheꞌterebaꞌ.  
+\v 31 Naꞌ chaꞌ lloj beꞌnn yeꞌe reꞌ: “¿Bixchen llsellre burrenꞌ?”, leyeꞌe: “Xantoꞌ naꞌn yallje lebaꞌ.” 
+\p  
+\v 32 Naꞌ broꞌ beꞌnn kaꞌ nez, naꞌ gokte kanꞌ golleꞌ leakeꞌn.  
+\v 33 Ka llsell akeꞌ burrenꞌ, bllin xanbaꞌn lleꞌe leakeꞌ: 
+\p —¿Bixchen llsellre burrenꞌ? 
+\p  
+\v 34 Naꞌ goll beꞌnn kaꞌ chopenꞌ leꞌe: 
+\p —Xantoꞌ naꞌn yallje lebaꞌ. 
+\p  
+\v 35 Naꞌ le bacheꞌe aktebaꞌ ganꞌ ze Jesúsenꞌ, naꞌ bxoa akeꞌ raꞌll da nak akeꞌ koꞌll burrenꞌ, naꞌ bllia akeꞌ Jesúsenꞌ koꞌllbaꞌn.  
+\v 36 Ka nak zjakeꞌ naꞌn, llchirj akeꞌ no sab ke akeꞌ tnezenꞌ.  
+\v 37 Naꞌ ka le llin akteꞌ letj leꞌ yaꞌ ganꞌ nziꞌi Yaꞌ Olivos, naꞌ ba naken awlloze Jerusalén naꞌ, bzorao beꞌnn kaꞌ non Leꞌe txhen naꞌ, llosiaꞌ akeꞌ zillj llawé akreꞌ, lloeꞌrao akeꞌ Dios, ka nak breꞌe akreꞌ yel wak ke Jesúsenꞌ,  
+\v 38 ne akeꞌ: 
+\p —¡Nak laꞌy Rey beꞌnnenꞌ zaꞌa nnaꞌ, beꞌnn bseꞌl Xanllo Dios! ¡Doweꞌrao Diosenꞌ txhen ren beꞌnn kaꞌ llaꞌa yebánꞌ, nnaꞌ ba bllin lla yeniꞌtrenlloeꞌ wen! 
+\p  
+\v 39 Radj beꞌnn zan kaꞌ nao Jesúsenꞌ, ren beꞌnn kaꞌ nak beꞌnn fariseo, naꞌ goll akeꞌ Jesúsenꞌ: 
+\p —Maestro, bdil beꞌnn kaꞌ nao rweꞌn. 
+\p  
+\v 40 Naꞌll balliꞌi Jesúsenꞌ xtiꞌll akeꞌn: 
+\p —Llniaꞌ reꞌ, chaꞌ beꞌnn ki so akeꞌ llize, yej ki le gosiaꞌn weꞌrao akeꞌn nadaꞌ. 
+\p  
+\v 41 Ka bllin Jesúsenꞌ awlloze Jerusalén naꞌ, breꞌreꞌ yell Jerusalén naꞌ, naꞌ bllelleꞌ,  
+\v 42 naꞌ bneꞌe: 
+\p —¡Chenak reꞌ llayakbeꞌre, nnaꞌtek de latj nench wazore wen ren Diosenꞌ! Zan bi llakbeꞌre, le nna ngaꞌchen rao reꞌ.  
+\v 43 Wllin lla kate beꞌnn kaꞌ llwie reꞌ, yedchaꞌa akeꞌ wayechjte ganꞌ llaꞌrenꞌ, nono gakse lloje.  
+\v 44 Naꞌ yechinnj akeꞌ yellenꞌ, got akeꞌ yeolol reꞌ llaꞌa rao yellenꞌ. Ni to yej da ndil lwellje bi yegaꞌnne, kaꞌn gak keré, le bi byejnieꞌre bi llanꞌ bed Diosenꞌ, zadyakreneꞌ reꞌ chenake. 
+\s1 Jesúsenꞌ bachacheꞌ beꞌnn llon yaꞌa liaꞌ yodaꞌo braonꞌ 
+\r (Mt. 21:12‑17; Mr. 11:15‑19; Jn. 2 :13‑22) 
+\p  
+\v 45 Ka bllin Jesúsenꞌ Jerusalén naꞌ, byoeꞌ yodaꞌo braonꞌ, naꞌ bachacheꞌ yeolol beꞌnn kaꞌ llon yaꞌa liaꞌ yodaꞌon,  
+\v 46 naꞌ lleꞌe leakeꞌ: 
+\p —Ki nyoj xtiꞌll Diosenꞌ: “Rillaꞌn, naken yoꞌ ga llayaꞌl yelwill beꞌnn nadaꞌ”, naꞌ reꞌ ba nonren ka broj ke beꞌnn wan. 
+\p  
+\v 47 Yeo lla llzejnieꞌ Jesúsenꞌ leakeꞌ do liaꞌ yodaꞌo braonꞌ, naꞌ bxoz wnebiaꞌ kaꞌ, naꞌ beꞌnn kaꞌ llsedre ke leyenꞌ, naꞌ ye bal beꞌnn brao ke beꞌnn Israel kaꞌ, llayirjlaꞌll akeꞌ akre ka gon akeꞌ got akeꞌ Leꞌe.  
+\v 48 Naꞌ ni ke llallel akzreꞌ akre ka gon akeꞌ, le beꞌnn yell yel wan xhen llon akeꞌ, ka nak llzenay akeꞌ xtiꞌlleꞌn. 
+\c 20  
+\s1 Yel llnebiaꞌ ke Jesúsenꞌ 
+\r (Mt. 21:23‑27; Mr. 11:27‑33) 
+\p  
+\v 1 Gok to lla ka llzejnieꞌ Jesúsenꞌ beꞌnn kaꞌ yodaꞌo braonꞌ, llroeꞌreꞌ Diꞌll Wen ke Xanllo Diosenꞌ, kate bllin bxoz wnebiaꞌ kaꞌ, naꞌ beꞌnn kaꞌ llsedre ke ley danꞌ bzoj da Moisésenꞌ, naꞌ beꞌnn gor brao ke beꞌnn Israel kaꞌ,  
+\v 2 lle akeꞌ Leꞌe: 
+\p —Bnechk netoꞌ, ¿bi yel llnebiaꞌ napoꞌ llonoꞌ da ki? ¿No benn yel llnebiaꞌn llonoꞌn? 
+\p  
+\v 3 Naꞌll balliꞌi Jesúsenꞌ xtiꞌll akeꞌn, bneꞌe: 
+\p —Leskaꞌ nadaꞌ wnnabraꞌ reꞌ, lennechk,  
+\v 4 ¿nonꞌ bseꞌl Juan beꞌnnenꞌ bchoa nis? ¿Diosenꞌ bseꞌl leꞌe o chaꞌ nollre beꞌnnachenꞌ? 
+\p  
+\v 5 Naꞌ bzorao lloeꞌrén lwellj akeꞌ diꞌll, ne akeꞌ: 
+\p —¿Akxha nnello? Chaꞌ nnello Diosenꞌ bseꞌl leꞌe, naꞌ yeꞌe lliꞌo: “¿Bixchen bi byejleꞌre keꞌe chaꞌ?”  
+\v 6 Chaꞌ nnello lwellj beꞌnnkzllonꞌ bseꞌl leꞌe, nxholl wchekw beꞌnn ki lliꞌo yej, le ne akeꞌ Juan naꞌn gokeꞌ to beꞌnn bseꞌl Dios. 
+\p  
+\v 7 Naꞌll goll akeꞌ Jesúsenꞌ bi nnez akreꞌ no bseꞌl Juan naꞌ.  
+\v 8 Naꞌll lle Jesúsenꞌ leakeꞌ: 
+\p —Leskaꞌ nadaꞌ, bi nniaꞌ non benn nadaꞌ yel llnebiaꞌn nench llonaꞌ da ki. 
+\s1 Jesúsenꞌ beꞌe diꞌll ka ben beꞌnn wen llin beꞌnn bi llon wen 
+\r (Mt. 21:33‑34; Mr. 12:1‑11) 
+\p  
+\v 9 Naꞌ bne Jesúsenꞌ to diꞌll llzejnieꞌreꞌ beꞌnn kaꞌ llaꞌa llzenay xtiꞌlleꞌn: 
+\p —To beꞌnne, gozeꞌ lba uvas rao yellrio xhen keꞌen, naꞌ beneꞌn rallnaꞌa beꞌnne, naꞌ broeꞌ nez zejeꞌ ga yobre ga jasoeꞌ scha.  
+\v 10 Ka bllin lla llalis beꞌnn kaꞌ da kaꞌ llaz akeꞌn, beꞌnnenꞌ nak xaneꞌn bseꞌleꞌ to beꞌnn wen llin keꞌen, nench wazieꞌ ke to da llayaꞌleꞌ. Naꞌ ka bllin beꞌnnenꞌ, ben akeꞌ ziꞌ keꞌe, naꞌ bibi beꞌe akeꞌ leꞌe.  
+\v 11 Naꞌll beꞌnnenꞌ bseꞌleꞌ ye to beꞌnn wen llin keꞌe beꞌnn yobre, leskaꞌ goꞌdyiꞌ akeꞌ leꞌe, naꞌ ben akeꞌ ziꞌ keꞌe, naꞌ bibi beꞌe akseꞌ leꞌe.  
+\v 12 Naꞌll bseꞌlkzeꞌ beꞌnn yobre, naꞌ bentat akeꞌ ziꞌ keꞌe, ben akteꞌ leꞌe weꞌe, jazaꞌl akteꞌ leꞌe latj yobre. 
+\p  
+\v 13 ’Naꞌll xan yellrionꞌ bneꞌe: “¿Akxha gonaꞌ nnaꞌ? Wseꞌlchekaꞌ xhiꞌnnaꞌ binꞌ nllieꞌraꞌ naꞌ, cheke gap akebeꞌ baraꞌnne.”  
+\v 14 Bixha beꞌnn wen llin kaꞌ, ka breꞌe akreꞌ xhiꞌnn beꞌnnenꞌ, lle lwellj akeꞌ: “Beꞌnn ninꞌ xhiꞌnn xan yellrionꞌ, leꞌen llayaꞌl siꞌi bien naꞌ, ledá gotlloeꞌ, naꞌ gak danꞌ kello.”  
+\v 15 Naꞌ brej akeꞌ leꞌe lo reꞌjenꞌ, naꞌ bet akeꞌ leꞌe. 
+\p Naꞌll bne Jesúsenꞌ: 
+\p —¿Akre llákere, akre gon xan yellrionꞌ ke beꞌnn kaꞌ llon llin rao yellrionꞌ?  
+\v 16 Chejeꞌ, naꞌ lljeteꞌ leakeꞌ, naꞌ goneꞌ yellrionꞌ rallnaꞌa beꞌnn yobre. 
+\p Ka bayoll bene beꞌnn kaꞌ ka diꞌllenꞌ, bne akeꞌ: 
+\p —¡Dios gakreneꞌ lliꞌo bi gonllo kaꞌ! 
+\p  
+\v 17 Naꞌll Jesúsenꞌ llwiatezeꞌ leakeꞌ, bneꞌe: 
+\p —¿Ka akxha chejnieꞌllo ganꞌ nyoj xtiꞌll Diosenꞌ, nen ki?: 
+\q1 Yej danꞌ bi byoꞌraꞌll beꞌnn wen yoꞌ kaꞌ, gonrén akeꞌ llin, 
+\q1 len naꞌ ba naken yej skin. 
+\p  
+\v 18 Beꞌnn bixe, naꞌ lljagoꞌnneꞌ rao yejenꞌ, gachjtineꞌ, naꞌ beꞌnnenꞌ chaꞌ yej naꞌ bixen wxejen leꞌe, wxhoxhjtinten leꞌe. 
+\s1 Danꞌ llayaꞌl gaxhj rao beꞌnn llnebiaꞌ 
+\r (Mt. 21:45‑46; 22:15‑22; Mr. 12:12‑17) 
+\p  
+\v 19 Bayoll bne Jesúsenꞌ kaꞌ, bxoz wnebiaꞌ kaꞌ, naꞌ beꞌnn kaꞌ llsedre ke leyenꞌ, le gokraꞌll akteꞌ goꞌx akeꞌ Leꞌe, le byejnieꞌ akreꞌ ni ke leakeꞌn beꞌe diꞌllenꞌ kaꞌ, naꞌ blleb akeꞌ beꞌnn yell. 
+\p  
+\v 20 Naꞌ bseꞌl akeꞌ beꞌnn blleꞌnao Leꞌe, beꞌnn ben ka llon Leꞌe txhenre, nench naꞌ kweꞌnao akeꞌ chaꞌ bi diꞌll lloj lloeꞌ, naꞌ saꞌke gon akeꞌ Leꞌe rallnaꞌa beꞌnn wnebiaꞌn.  
+\v 21 Naꞌ beꞌnn kaꞌ goll akeꞌ Jesúsenꞌ: 
+\p —Maestro, nnézetoꞌ lloeꞌo diꞌll li llroeꞌroꞌ lixheje, naꞌ toz ka llonoꞌ ren noteze beꞌnne, naꞌ llzejnieꞌroꞌ kanꞌ nak xhnnez Diosenꞌ.  
+\v 22 Lleꞌnetoꞌ nnézetoꞌ, ¿naken wen chixhjtoꞌ danꞌ llnnab beꞌnnenꞌ le zeraoze nak wnebiaꞌ, beꞌnnenꞌ llia Roma o chaꞌ bi naken wen? 
+\p  
+\v 23 Naꞌ Jesúsenꞌ bayakbeꞌreꞌ kere do raꞌll akeꞌn llnnab akeꞌ, naꞌll lleꞌe leakeꞌ: 
+\p —¿Bixchen lleꞌnzere gonreꞌre nadaꞌ?  
+\v 24 Lewroeꞌ nadaꞌ to xhmellrenꞌ. 
+\p Ka beꞌe akeꞌ Leꞌe mellenꞌ, naꞌ bneꞌe: 
+\p —¿Noxha raonꞌ daꞌa leꞌ mell ni? ¿No ranꞌ nyoj le ni? 
+\p Naꞌll bne akeꞌ: 
+\p —César beꞌnnenꞌ llnebiaꞌ Roma naꞌn. 
+\p  
+\v 25 Naꞌll lleꞌe leakeꞌ: 
+\p —Da nake ke César lewayoeꞌn leꞌe; naꞌ da llayaꞌl weꞌre Dios, leweꞌn Dios. 
+\p  
+\v 26 Naꞌ bi llakse gon akeꞌ lloj to diꞌll krere lloaꞌ Jesúsenꞌ rao beꞌnn kaꞌ llaꞌn, naꞌ llabán akreꞌ kanꞌ llallieꞌ xtiꞌll akeꞌn, llazé akteꞌ llize. 
+\s1 Bnnab akeꞌ akrenꞌ gak kat yebán beꞌnn wat kaꞌ 
+\r (Mt. 22:23‑33; Mr. 12:18‑27) 
+\p  
+\v 27 Naꞌll bllin bal beꞌnn kaꞌ nziꞌi saduceo, beꞌnn kaꞌ bi llejleꞌ yebán beꞌnn wat kaꞌ. Naꞌ goll akeꞌ Leꞌe: 
+\p  
+\v 28 —Maestro, danꞌ bzoj da Moisésenꞌ, gannaꞌ nllian biaꞌa, chaꞌ to beꞌnn wchayneꞌe, naꞌ gateꞌ, naꞌ nono xhiꞌnneꞌ bzo, to beꞌnn biꞌcheꞌ wazieꞌ noꞌrenꞌ nench wazó lo raz beꞌnn watenꞌ.  
+\v 29 Ki gok bzo gall beꞌnne, beꞌnn nellenꞌ bxhieꞌ noꞌrenꞌ, naꞌ goteꞌ bi bzo xhiꞌnneꞌ.  
+\v 30 Naꞌll biꞌcheꞌ, beꞌnn wllopenꞌ bazieꞌ noꞌrenꞌ, naꞌ leskaꞌ goteꞌ nono xhiꞌnn akeꞌ bzokze.  
+\v 31 Naꞌll beꞌnn wyonne bazieꞌ noꞌrenꞌ, leskaꞌ goteꞌ, naꞌ kaꞌ yeolol akeꞌ bzorén noꞌrenꞌ, naꞌ yeolol akeꞌ got, ni to xhiꞌnn akeꞌ bi bzo.  
+\v 32 Naꞌll got ren noꞌrenꞌ.  
+\v 33 Kate llin lla yebán beꞌnn wat kaꞌ, ¿nore beꞌnn ki gakse beꞌnn ke noꞌrenꞌ, le yeololeꞌn bzorén leꞌe? 
+\p  
+\v 34 Naꞌ goll Jesúsenꞌ leakeꞌ: 
+\p —Beꞌnn kaꞌ llaꞌa rao yellrio ni, llchaynaꞌa akeꞌ, naꞌ llchaynaꞌa no xhiꞌnn akeꞌ.  
+\v 35 Zan ka nak beꞌnn kaꞌ ba nbej Diosenꞌ nench yebán akeꞌ, naꞌ yellín akeꞌ yebánꞌ, kere wchaynaꞌll beꞌnn kaꞌ, naꞌ nollno wchaynaꞌkze.  
+\v 36 Le kere naꞌ gat akeꞌ da yobrenꞌ, ka angl ke Diosenꞌ wayak akeꞌ, gak akeꞌ xhiꞌnn Dios dogarje, le ke len naꞌ ba basbaneꞌ leakeꞌ.  
+\v 37 Ka nak danꞌ de yebán beꞌnn wat kaꞌ, kwin da Moisésenꞌ bzejnieꞌreꞌn ka nak bzojeꞌ kanꞌ balwill Diosenꞌ leꞌe to lo xhis yeꞌche, naꞌ bne Diosenꞌ nakeꞌ Dios ke Abraham, Dios ke Isaac naꞌ Dios ke Jacob, le nban beꞌnn kinꞌ, naꞌllenꞌ bneꞌe kaꞌ.  
+\v 38 Ka nak Diosenꞌ, bi nakeꞌ Dios ke beꞌnn wat, Dios ke beꞌnn ban naꞌ nakeꞌ, naꞌ yeolol beꞌnn nxenraꞌlleꞌ Diosenꞌ, laꞌkze ba got akeꞌ, nban akseꞌ rao Leꞌe. 
+\p  
+\v 39 Naꞌ bal beꞌnn kaꞌ llsedre ke ley danꞌ bzoj da Moisésenꞌ, goll akeꞌ Leꞌe: 
+\p —Da li kanꞌ bneꞌon, Maestro. 
+\p  
+\v 40 Naꞌ bill bayaxhj akreꞌ wnnab akllreꞌ Leꞌe billre da yobre. 
+\s1 ¿No nak dialla Cristonꞌ? 
+\r (Mt. 22:41‑46; Mr. 12:35‑37) 
+\p  
+\v 41 Naꞌ lle Jesúsenꞌ leakeꞌ: 
+\p —¿Bixchen ne akzeꞌ, Cristonꞌ nakeꞌ xhiꞌnn da rey Davidenꞌ?  
+\v 42 Renchaꞌ kwin Davidenꞌ bzojeꞌ leꞌ yich ke Salmos ki: 
+\q1 Xanllo Diosenꞌ golleꞌ Xanaꞌn: 
+\q1 “Blleꞌ kwitaꞌn, 
+\q1  
+\v 43 llinte lla ka gonaꞌ yeolol beꞌnn kaꞌ llwie rweꞌn, 
+\q1 nniꞌt akeꞌ xhniaꞌon.” 
+\m  
+\v 44 Chaꞌ Davidenꞌ bneꞌe Cristonꞌ nakeꞌ Xaneꞌ, ¿akxha gakze Cristonꞌ xhiꞌnn dialla ke Davidenꞌ chet kaꞌ? 
+\s1 Jesúsenꞌ golleꞌ beꞌnn kaꞌ llsedre ke leyenꞌ de doꞌl ke akeꞌ 
+\r (Mt. 23:1‑36; Mr. 12:38‑40; Lc. 11:37‑54) 
+\p  
+\v 45 Beꞌnn zan llaꞌa llzenay xtiꞌll Jesúsenꞌ, naꞌll golleꞌ beꞌnn kaꞌ non Leꞌe txhen naꞌ: 
+\p  
+\v 46 —Lewiayaꞌnn kanꞌ llon beꞌnn kaꞌ llsedre ke ley danꞌ bzoj da Moisésenꞌ, llawé akreꞌ llak akeꞌ to raꞌll tonn, naꞌ llawé akreꞌ gap beꞌnn leakeꞌ baraꞌnne do tnez, do lao yaꞌa, naꞌ do lo yodaꞌo. Leskaꞌ ga llak no wao, ll-lan akeꞌ ga ba nak kweꞌ beꞌnn brao.  
+\v 47 Naꞌ llkaꞌa akeꞌ rill noꞌr wazebe, naꞌ da lldeꞌ akreꞌ, scha llze akeꞌ kate llalwill akeꞌ Diosenꞌ nechkze ten kaꞌze. Da xhen da de saꞌkziꞌ beꞌnn kaꞌ kanꞌ llon akeꞌn. 
+\c 21  
+\s1 To noꞌr wazeb beꞌe mell 
+\r (Mr. 12:41‑44) 
+\p  
+\v 1 Ka zo Jesúsenꞌ yodaꞌon, breꞌreꞌ ka llgoꞌ beꞌnn wniaꞌ kaꞌ mell danꞌ lldop lo yodaꞌon.  
+\v 2 Leskaꞌ breꞌreꞌ ka bllin to noꞌr yaꞌch noꞌr wazeb, broeꞌ chop mell daꞌo.  
+\v 3 Naꞌll bne Jesúsenꞌ: 
+\p —Da li llniaꞌ, noꞌr wazeb yaꞌch ni, da xhenll ba broeꞌ kerke yeolol beꞌnn kaꞌ yelaꞌ.  
+\v 4 Le broꞌ akeꞌ da ba bgoꞌnn billbi de gon akreꞌn, zan ka nak noꞌrenꞌ, rao yel yaꞌch keꞌen beꞌe ka da lallibe de keꞌe. 
+\s1 Jesúsenꞌ bdixjweꞌreꞌ wllin lla yechinnj akeꞌ yodaꞌo braonꞌ 
+\r (Mt. 24:1‑2; Mr. 13:1‑2) 
+\p  
+\v 5 Naꞌ bal beꞌnn kaꞌ llaꞌn, lloeꞌ akeꞌ diꞌll katek nbaraz nak yodaꞌo braonꞌ, naꞌ ka wallajllo nak yej kaꞌ naken naꞌ, naꞌ billre da non len nbaraz da lloeꞌ akeꞌ ke yodaꞌon. Naꞌ bne Jesúsenꞌ: 
+\p  
+\v 6 —Ka nak da kaꞌ llreꞌre nga, wllin lla kat ni to yej ki zjankwaꞌa ganni, noꞌx lwellje bi yegaꞌnnen. Yeololen yeyinnj aken. 
+\s1 Kanꞌ gak kat ba zo rez wayoll yellrionꞌ 
+\r (Mt. 24:3‑28; Mr. 13:3‑23) 
+\p  
+\v 7 Naꞌll bzorao llnnab akreꞌ Jesúsenꞌ, lle akeꞌ Leꞌe: 
+\p —Maestro, ¿batenꞌ gak kaꞌ? ¿Bixha gak katenꞌ ba zo rez gak kanꞌ bneꞌon? 
+\p  
+\v 8 Naꞌll lleꞌe leakeꞌ: 
+\p —Lewiá ke nench ke no siyeꞌz reꞌ, naꞌ kaꞌre nez yobre, le beꞌnn zan beꞌnn wxhiyeꞌe raꞌ, naꞌ nne akeꞌ: “Nadaꞌn Cristonꞌ”, naꞌ “Ye chollze le yellayraote beꞌnn llaꞌa yellrionꞌ.” Bi chejleꞌre ke akeꞌ.  
+\v 9 Kate yénere gak wdile, naꞌ yénere do ga yobre ba llak wdil, bi llebre, da llayaꞌl gakse da ki, naꞌ ker le wayollte yellrio naꞌn. 
+\p  
+\v 10 Naꞌll bneꞌe: 
+\p —Naꞌ til to yell ren ye to yell, naꞌ yell xhen ren ye to yell xhen.  
+\v 11 Naꞌll xoꞌ gateze, naꞌ gak win, naꞌ raꞌ yillweꞌ, naꞌ beꞌnn kaꞌ lleb akeꞌ kwis kanꞌ gaken, naꞌll biteze gak leꞌ yebánꞌ da yebán akreꞌ. 
+\p  
+\v 12 ’Naꞌ ka za gaktere da ki, goꞌx akeꞌ reꞌ, naꞌ siꞌchiꞌll akeꞌ reꞌ, naꞌ xobxexj akeꞌ reꞌ, wcheꞌe akeꞌ reꞌ ga zo no yodaꞌo ga lladop akeꞌ, naꞌ koꞌ akeꞌ reꞌ rill ya, naꞌ lljwaꞌa akeꞌ reꞌ no rao rey, rao koxchis, ni ke danꞌ nxenraꞌllre nadaꞌ.  
+\v 13 Ka nake gon akeꞌ kaꞌ, naꞌ gaꞌt latj weꞌre xtiꞌllaꞌn.  
+\v 14 Bi gonre xhbab akre ka nnere, kate llinre rao beꞌnn wnebiaꞌ kaꞌ,  
+\v 15 nadaꞌ gonnaꞌ diꞌll, naꞌ gonnaꞌ reꞌ yel siꞌn nench gak walliꞌre xtiꞌll akeꞌn, ni ke no soeze reꞌ.  
+\v 16 Naꞌ danꞌ llebraz wie akreꞌ reꞌn, kwin xaxhnaꞌre, biꞌchre, biꞌch lwelljre, naꞌ beꞌnn kaꞌ nonre txhen, gon akeꞌ reꞌ rallnaꞌa beꞌnn kaꞌ llwie reꞌn, naꞌ balre got akeꞌ.  
+\v 17 Yeolol beꞌnn wie akreꞌ reꞌ, ni ke danꞌ nxenraꞌllre nadaꞌn,  
+\v 18 zan ni to yich yichjre bi kwiayiꞌ rao Dios.  
+\v 19 Lesé war, naꞌ legap yel llxhenraꞌlle, naꞌ gonre gan. 
+\p  
+\v 20 ’Kate reꞌre ba llaꞌa wakaꞌa ya ba nechj akeꞌ Jerusalén naꞌ, nnézello ba zo rez kwiayiꞌn naꞌ.  
+\v 21 Reꞌ llaꞌa ganꞌ nbane Judeanꞌ, lewxhonnj lechej yaꞌ xhen, naꞌ reꞌ llaꞌa Jerusalén naꞌ, lellache; reꞌ zej lyiꞌxe, bi yeꞌnzere wayoꞌre yell.  
+\v 22 Le ba bllin lla yellayrao beꞌnn kaꞌ, naꞌ soa diꞌll kanꞌ nyoj xtiꞌll Diosenꞌ.  
+\v 23 ¡Nyaꞌchraz ke noꞌr noaꞌ bdaꞌo, naꞌ noꞌr nkaꞌ bdaꞌo kanaꞌ! Doxhen rao yellrionꞌ wallayrao beꞌnne, naꞌ yeolol beꞌnn kaꞌ llaꞌa ganꞌ nbane Judeanꞌ, Diosenꞌ goneꞌ yellayrao akeꞌ.  
+\v 24 Beꞌnn zan gat rao wdilenꞌ, naꞌ beꞌnn zan wchach akeꞌ, naꞌ wcheꞌe akteꞌ leakeꞌ rao yeolol yell xhen kaꞌ zjalliꞌ rao yellrionꞌ, naꞌ beꞌnn ziꞌt bi nak beꞌnn Israel, chaꞌa akeꞌ wrejchekw akeꞌ Jerusalén naꞌ, llinte lla bill nnebiaꞌ beꞌnn kaꞌ bi nak beꞌnn Israel. 
+\s1 Kanꞌ gak katenꞌ yed Jesucristonꞌ da yobre 
+\r (Mt. 24:29‑35, 42‑44; Mr. 13:24‑37) 
+\p  
+\v 25 ’Naꞌ bi gak bi nne leꞌ yebánꞌ, willenꞌ, beꞌon naꞌ berj kaꞌ, naꞌ beꞌnn kaꞌ llaꞌa rao yellrionꞌ, to gak akeꞌ tore le llebraz lleb akeꞌ ka yen akreꞌ gon nisdaꞌon llakia, ka nak wlis beꞌn len.  
+\v 26 Naꞌ danꞌ lleb akeꞌn, to gatzi akeꞌ kanꞌ gak rao yellrionꞌ, le kanaꞌ wroeꞌrao doxhen yel wak da bi naꞌ reꞌllo leꞌ yebánꞌ.  
+\v 27 Naꞌtellenꞌ reꞌe akreꞌ Beꞌnnenꞌ Gorj Radj Beꞌnnachenꞌ, zeꞌe to lo bej nseꞌe yel wak xhen keꞌen, naꞌ beniꞌ xhen keꞌen.  
+\v 28 Kate ba bzorao llak da ki, legondipraꞌlle, naꞌ leyewé le ba zo rez yesrá Diosenꞌ reꞌ. 
+\p  
+\v 29 Naꞌll bsaꞌkrebreꞌ llroeꞌreꞌ leakeꞌ: 
+\p —Lewiá ke yay higo, naꞌ biteze yay,  
+\v 30 kate ba llagaꞌ xhlaꞌyen, naꞌ llakbeꞌre ba zo rez choꞌre rao ba.  
+\v 31 Leskaꞌkzenꞌ, katenꞌ ba llreꞌre llak da kaꞌ ba bniaꞌ ni, ba nnézere ba zo rez nnebiaꞌ Diosenꞌ. 
+\p  
+\v 32 ’Da li llniaꞌ reꞌ, beꞌnn kaꞌ llaꞌa nnaꞌ, nna nban akteꞌ kate sorao gak da ki.  
+\v 33 Ka nak yebánꞌ ren yellrionꞌ wllin lla kat te ke, zan ka nake xtiꞌllaꞌn kere da te ke kaꞌzenꞌ. 
+\p  
+\v 34 ’Naꞌ lewiá, ke yeꞌj gaoxenre, sollere, naꞌ kwiare ria, naꞌ choꞌ yichjre chraoze da de rao yellrionꞌ, naꞌ bi gakbeꞌre katenꞌ llin llanꞌ.  
+\v 35 Ka llak ke to bayiꞌx daꞌo, ni ke llakbeꞌzebaꞌ lljabixbaꞌ ga lldoꞌlbaꞌ, kanꞌ gak ke beꞌnn kaꞌ llaꞌa rao yellrionꞌ.  
+\v 36 Lewnnaꞌ yere, lewalwill Diosenꞌ nench gakreneꞌ reꞌ katenꞌ llin lla naꞌ, naꞌ gak wallinre lljazere rao Beꞌnnenꞌ Gorj Radj Beꞌnnach. 
+\p  
+\v 37 Kaꞌ, yeo lla, Jesúsenꞌ llzejnieꞌreꞌ beꞌnn kaꞌ do liaꞌ yodaꞌo braonꞌ, naꞌ yeo lleꞌ llayejteꞌ yaꞌ ganꞌ nziꞌi Yaꞌ Olivos.  
+\v 38 Naꞌ kate lleniꞌ beꞌnn zan lladop yodaꞌo braonꞌ, naꞌ lljazejnieꞌreꞌ leakeꞌ. 
+\c 22  
+\s1 Beꞌe akeꞌ diꞌll yesoꞌt akeꞌ Jesúsenꞌ 
+\r (Mt. 26:1‑5, 14‑16; Mr. 14:1‑2, 10‑11; Jn. 11 :45‑53) 
+\p  
+\v 1 Bixha ba zo rez gaꞌl lnni danꞌ ne paskw Jerusalén naꞌ, katenꞌ llao akeꞌ yet xtir danꞌ bi nchix kwa binn.  
+\v 2 Naꞌ bxoz wnebiaꞌ kaꞌ, naꞌ beꞌnn kaꞌ llsedre ke ley danꞌ bzoj da Moisésenꞌ, bzorao llyirjlaꞌll akeꞌ akre gon akeꞌ nench got akeꞌ Jesúsenꞌ, le lleb akeꞌ beꞌnn yell. 
+\p  
+\v 3 Naꞌ daxiꞌon byoꞌn yichjraꞌlldaꞌo Judas, beꞌnnenꞌ nsiꞌi akeꞌ Iscariote, beꞌnnenꞌ nak txhen beꞌnn chllinn kaꞌ.  
+\v 4 Naꞌll byejeꞌ jeꞌreneꞌ bxoz wnebiaꞌ kaꞌ diꞌlle, naꞌ ren beꞌnn kaꞌ nak xan beꞌnn kaꞌ llap yodaꞌon, kanꞌ goneꞌ Jesúsenꞌ rallnaꞌa akeꞌ.  
+\v 5 Bawé beꞌnn kaꞌ kwis, naꞌ beꞌe akeꞌ diꞌll weꞌe akeꞌ leꞌe mell.  
+\v 6 Judas naꞌ bchebeꞌ wdieꞌ Jesúsenꞌ rao naꞌa akeꞌ, naꞌ bzorao lliꞌnaweꞌ gaꞌt latj goneꞌ Leꞌe rao naꞌa beꞌnn kaꞌ, kate bi gakbeꞌe beꞌnn yell. 
+\s1 Jesúsenꞌ broeꞌreꞌ kanꞌ gon akeꞌ lljasaꞌraꞌll akeꞌ yel got keꞌen 
+\r (Mt. 26:17‑29; Mr. 14:12‑25; Jn. 13 :21‑30; 1Co. 11 :23‑26) 
+\p  
+\v 7 Naꞌ ka bllin lla, ka llao akeꞌ yet xtir danꞌ bi nchix kwa binn, naꞌ leskaꞌ llot akeꞌ xhiꞌr kanꞌ llaꞌl lnni Paskw.  
+\v 8 Jesúsenꞌ bseꞌleꞌ Pedronꞌ ren Juan naꞌ, lleꞌe leakeꞌ: 
+\p —Lechej lelljén xhnid, lelljasiniaꞌ danꞌ gaollo lnni paskwnꞌ. 
+\p  
+\v 9 Naꞌll goll akeꞌ Leꞌe: 
+\p —¿Gaxha lleꞌnroꞌ lljasiniaꞌtoꞌn? 
+\p  
+\v 10 Naꞌ lleꞌe leakeꞌ: 
+\p —Kate choꞌre yellenꞌ, naꞌ walláyere to beꞌnne zanzoeꞌ to lleꞌ nis xhichjeꞌ, lennaweꞌ, kon ga choꞌ leꞌe, gannaꞌ choꞌre.  
+\v 11 Kate choꞌrenꞌ, leyé xan yoꞌn: “Maestronꞌ, neꞌe: ¿Ga zo yoꞌ ganꞌ gaotoꞌ xcheꞌ, ren beꞌnn kaꞌ non nadaꞌ txhen lnni paskw ni?”  
+\v 12 Naꞌ wroeꞌreꞌ reꞌ to yoꞌ da zo chkwia, naꞌ ba de yeolol da kaꞌ yálljellonꞌ, gannaꞌ wsiniaꞌre danꞌ gaollonꞌ. 
+\p  
+\v 13 Naꞌ bzaꞌa akeꞌ, gokte kanꞌ golleꞌ leakeꞌn, naꞌ bsiniaꞌ akeꞌ danꞌ gao akeꞌn. 
+\p  
+\v 14 Ka bllin gao akeꞌ xcheꞌn, blleꞌ Jesúsenꞌ ren postl keꞌe kaꞌ.  
+\v 15 Naꞌ golleꞌ leakeꞌ: 
+\p —¡Le ba bzeraꞌllkazaꞌ gaorenaꞌ reꞌ, lnni paskwnꞌ ka za gataꞌ!  
+\v 16 Ni llniaꞌ reꞌ, zerao nnaꞌ llaorenaꞌn reꞌ. Kate ba gok doxhen danꞌ llroeꞌraꞌ ni, naꞌ ba llnebiaꞌ Diosenꞌ, kanaꞌll gaorenaꞌ reꞌ da yobre. 
+\p  
+\v 17 Naꞌ beꞌxeꞌ leo daꞌon, beꞌe yel llioxken ke Dios, bneꞌe: 
+\p —Lesiꞌi da ni, naꞌ leyeꞌj raꞌt wejen yeololre.  
+\v 18 Llniaꞌ reꞌ, zerao nnaꞌ lleꞌjaꞌ xis uvanꞌ, llinte lla kate ba llnebiaꞌ Diosenꞌ; kanaꞌll yeyeꞌjaꞌn da yobre. 
+\p  
+\v 19 Naꞌll bxhieꞌ yet xtirenꞌ, naꞌ beꞌe yel llioxken ke Diosenꞌ, naꞌll bxhoxhjeꞌn beꞌen leakeꞌ, naꞌ bneꞌe: 
+\p —Da ninꞌ naken kwerp kiaꞌ, ke nak nnaꞌ llsanraꞌllaꞌn ni ke reꞌ, kaꞌ gonre gaoren nench lljasaꞌraꞌllre nadaꞌ. 
+\p  
+\v 20 Naꞌ ka badaweꞌ xcheꞌn, beꞌxeꞌ leo daꞌon bneꞌe: 
+\p —Danꞌ yoll lo leo daꞌo ni, naken to da llroeꞌn, nnaꞌ sorao to da kob, danꞌ bcheb Diosenꞌ gakreneꞌ reꞌ, ke len naꞌ, larj xchenaꞌn nench gaken da li.  
+\v 21 Beꞌnnenꞌ gon nadaꞌ rallnaꞌa beꞌnn kaꞌ got nadaꞌ, leskaꞌ rawe ganꞌ lliꞌllo ni, nxoa taꞌkeꞌ.  
+\v 22 Da li, nadaꞌ, Beꞌnnenꞌ Gorj Radj Beꞌnnach, ba naksen gak kiaꞌ kaꞌ, zan nyaꞌchraz ke beꞌnnenꞌ gon nadaꞌ rao naꞌa beꞌnn kaꞌ got nadaꞌn. 
+\p  
+\v 23 Naꞌ beꞌnn kaꞌ non Leꞌe txhen naꞌ, bzorao llnnabe lwellj akeꞌ, nor akeꞌn gon Leꞌe rallnaꞌa beꞌnn kaꞌ llwie Leꞌen. 
+\s1 Lloeꞌrén lwellj akeꞌ diꞌll norenꞌ gak beꞌnn brao 
+\p  
+\v 24 Leskaꞌ bzorao lloeꞌrén lwellj akeꞌ diꞌll, norenꞌ gakll beꞌnn brao.  
+\v 25 Naꞌll lle Jesúsenꞌ leakeꞌ: 
+\p —Beꞌnn kaꞌ llnebiaꞌ toto yell xhen, llawé akreꞌ gon beꞌnn kaꞌ kon da nez leakeꞌ, naꞌ leskaꞌ llawé akreꞌ nne beꞌnne, nak akeꞌ beꞌnn wen.  
+\v 26 Zan reꞌ, bi gonre kaꞌ, beꞌnnenꞌ yeꞌnzreꞌ gakeꞌ beꞌnn brao, llayaꞌl gakeꞌ ka beꞌnn bibi nneze, naꞌ beꞌnnenꞌ yeꞌnzreꞌ nnebieꞌ radjrenꞌ, llayaꞌl gakeꞌ ka to beꞌnn wen llin keré.  
+\v 27 Lennechk, ¿nore beꞌnnenꞌ nak beꞌnn brao, beꞌnnenꞌ lliꞌ llao naꞌ, o chaꞌ beꞌnnenꞌ llsiniaꞌ danꞌ gaweꞌ naꞌn? Nakbieꞌkze beꞌnnenꞌ lliꞌ llao naꞌ, nak beꞌnn brao. Zan nadaꞌ ziaꞌ ganni ka beꞌnn wen llin keré, naꞌ ziaꞌ nench gakrenaꞌ reꞌ biteze da gak keré. 
+\p  
+\v 28 ’Laꞌkze biteze da ba gok kiaꞌ, reꞌ ba bzerenre nadaꞌ.  
+\v 29 Leskaꞌ gonaꞌ nench nnebiaꞌre katenꞌ gonn Xaꞌn yel llnebiaꞌ keꞌen nadaꞌ,  
+\v 30 nench kweꞌrenre nadaꞌ, naꞌ yeꞌj gaollo txhen katenꞌ ba llnebiaꞌn, leskaꞌ gonaꞌ to latj ga kweꞌre nench gonre yel koxchis, naꞌ wchoybiaꞌre ke beꞌnn Israel kaꞌ. 
+\s1 Jesúsenꞌ bneꞌe kanꞌ gon Pedronꞌ bi wchebeꞌ chaꞌ nombieꞌ Leꞌe 
+\r (Mt. 26:31‑35; Mr. 14:27‑31; Jn. 13 :36‑38) 
+\p  
+\v 31 Leskaꞌ goll Xanllonꞌ Simón Pedronꞌ: 
+\p —Simón, Simón ba bnnab daxiꞌon nench gonreꞌren reꞌ, gonen reꞌ ka llon beꞌnn llrobe trigo.  
+\v 32 Nadaꞌ ba bnnabaꞌ rao Dios gakreneꞌ rweꞌ nench bi gakganroꞌ, naꞌ kate ba benoꞌ gan naꞌ, gakrenchgoꞌ beꞌnn biꞌchoꞌ ki. 
+\p  
+\v 33 Naꞌll Pedronꞌ lleꞌe Leꞌe: 
+\p —Xanaꞌ, ba bchoyraꞌllaꞌ kere lo rill yaze saꞌrenaꞌ rweꞌ, gatrentekzaꞌ rweꞌ chet kaꞌ. 
+\p  
+\v 34 Naꞌll lleꞌe Pedronꞌ: 
+\p —Pedro, llniaꞌ rweꞌ, bire nne kwell lekwnꞌ nnaꞌ lleꞌ, llinte gak chonn ras bi weꞌo diꞌll nombiaꞌo nadaꞌ. 
+\s1 Ba zo rez yellayrao Jesúsenꞌ 
+\p  
+\v 35 Naꞌ lle Jesúsenꞌ beꞌnn kaꞌ non Leꞌe txhen: 
+\p —Kanꞌ bseꞌlaꞌ reꞌ, kaꞌn bibi beꞌxkzre, ni mell, ni bzod, ni ye chkweꞌ xher-re; lennechk, ¿bi byálljere? 
+\p Naꞌ lle akeꞌ Leꞌe: 
+\p —Bitbi byálljetoꞌ. 
+\p Naꞌll bneꞌe: 
+\p  
+\v 36 —Zan nnaꞌ, chaꞌ reꞌ de mell keré, lewaꞌn; leskaꞌ chaꞌ napre bzod, legoꞌxen; naꞌ reꞌ bi napre spad, legoꞌt no xherk keré, naꞌ lesiꞌi ton.  
+\v 37 Le llniaꞌ reꞌ, dekz de gak kiaꞌ kanꞌ nyoj xtiꞌll Diosenꞌ ganꞌ nen ki: “Ben akreꞌ leꞌe ka llon akreꞌ beꞌnn wen da xhinnj.” Le danꞌ nyoj gak kiaꞌn dekz de gaken. 
+\p  
+\v 38 Naꞌll bne beꞌnn kaꞌ nao Leꞌen: 
+\p —Xantoꞌ, naꞌ de chop spad. 
+\p Naꞌ lleꞌe leakeꞌ: 
+\p —Ba gokse to kate. 
+\s1 Jesúsenꞌ balwilleꞌ Diosenꞌ lo reꞌj ganꞌ nziꞌi Getsemaní 
+\r (Mt. 26:36‑46; Mr. 14:32‑42) 
+\p  
+\v 39 Naꞌ blloj Jesúsenꞌ zejeꞌ yaꞌn ganꞌ nziꞌi Yaꞌ Olivos, ka llonkzeꞌ, naꞌ beꞌnn kaꞌ non Leꞌe txhen bnao akeꞌ Leꞌe.  
+\v 40 Ka bllin akeꞌ latjenꞌ, lleꞌe leakeꞌ: 
+\p —Lewalwill Diosenꞌ nench ke gon da xhinnjenꞌ reꞌ gan. 
+\p  
+\v 41 Naꞌll Leꞌen bdeteꞌ zejeꞌ, ke to ga llin to yej da llzaꞌl-llo, naꞌ bcheꞌk xhibeꞌ balwilleꞌ Diosenꞌ,  
+\v 42 bneꞌe: 
+\p —Xa, chaꞌ rweꞌ lleꞌnroꞌ, benchga bi wallayrawaꞌ, zan bi gak kon ka nniaꞌ nadaꞌ, gak kanꞌ nnekzoꞌ rweꞌ. 
+\p  
+\v 43 Naꞌ betj to angl zaꞌa yebánꞌ bllineꞌ ganꞌ ncheꞌk xhibeꞌn, naꞌ btipraꞌlle Leꞌe.  
+\v 44 Naꞌ llallayraweꞌ kwis llake yichjraꞌlldaꞌweꞌn, naꞌ llalwilleꞌ Diosenꞌ, kate bzorao llayakloljeꞌ, naꞌ nis yes keꞌen naktekzen llen ll-llonen rao yonꞌ. 
+\p  
+\v 45 Bixha ka bayoll beꞌreneꞌ Diosenꞌ diꞌllenꞌ, bazolleꞌe. Ka ballineꞌ ganꞌ niꞌt beꞌnn kaꞌ non Leꞌe txhen naꞌ, jadiꞌreꞌ leakeꞌ tas akeꞌ danꞌ llak akreꞌ.  
+\v 46 Naꞌll lleꞌe leakeꞌ: 
+\p —¿Bixchen tasre? Lechas, naꞌ lewalwill Dios nench ke gon da xhinnjenꞌ reꞌ gan. 
+\s1 Kanꞌ gok kanꞌ beꞌx akeꞌ Jesúsenꞌ 
+\r (Mt. 26:47‑56; Mr. 14:43‑50; Jn. 18 :2‑11) 
+\p  
+\v 47 Naꞌ zete Jesúsenꞌ lloeꞌ diꞌllenꞌ, kate bllin Judas beꞌnnenꞌ nak txhen ren beꞌnn chllinn kaꞌ, ncheꞌteꞌ beꞌnn zan, naꞌ jabiꞌyeꞌ kwit Jesúsenꞌ bnoꞌpeꞌ Leꞌe.  
+\v 48 Jesúsenꞌ golleꞌ Judasenꞌ: 
+\p —Judas, ¿llnoꞌpteꞌo nadaꞌ, Beꞌnnenꞌ Gorj Radj Beꞌnnach, nechkze gonoꞌ nadaꞌ rallnaꞌa beꞌnn kaꞌ llwie nadaꞌn? 
+\p  
+\v 49 Bixha ka breꞌe beꞌnn kaꞌ nao Leꞌen, goꞌx akeꞌ Leꞌen, bne akeꞌ: 
+\p —Xantoꞌ, naꞌ de spad, ¿wzoyibllo? 
+\p  
+\v 50 Toeꞌ bdineꞌ spad keꞌen, bchoyteꞌ yid nay chaꞌwe beꞌnn wen llin ke bxoz braonꞌ.  
+\v 51 Naꞌ goll Jesúsenꞌ leꞌe: 
+\p —Bi gonoꞌ kaꞌ. 
+\p Naꞌll bdaneꞌ nay beꞌnnenꞌ, naꞌ bayakeꞌn.  
+\v 52 Naꞌll goll Jesúsenꞌ bxoz wnebiaꞌ kaꞌ, naꞌ beꞌnnenꞌ nak xan beꞌnn kaꞌ llap yodaꞌo braonꞌ, naꞌ beꞌnn gor brao ke beꞌnn Israel kaꞌ, zjake lljeꞌx Leꞌen: 
+\p —Ka beꞌnn lljeꞌx to beꞌnn wan, zaꞌre noꞌxre yay naꞌ spad.  
+\v 53 Yeo lla blleꞌrenaꞌ reꞌ yodaꞌo braonꞌ, naꞌ bi beꞌxre nadaꞌ, zan nnaꞌ bllin lla gak kanꞌ lleꞌnerenꞌ, nnaꞌ nnebiaꞌ da xcholenꞌ. 
+\s1 Pedronꞌ bi bchebeꞌ chaꞌ nombieꞌ Jesúsenꞌ 
+\r (Mt. 26:57‑58, 69‑75; Mr. 14:53‑54,66‑72; Jn. 18 :12‑18, 25‑27) 
+\p  
+\v 54 Naꞌ beꞌx akeꞌ Jesúsenꞌ, naꞌ bcheꞌe akeꞌ Leꞌe rill bxoz braonꞌ, Pedronꞌ bnaweꞌ Leꞌe ziꞌt ziꞌt.  
+\v 55 Beꞌnn kaꞌ bxhen akeꞌ to yiꞌ xhen liaꞌ ke bxozenꞌ, naꞌ blleꞌrén Pedronꞌ leakeꞌ lloaꞌ yiꞌn.  
+\v 56 To noꞌr nak wete, ka breꞌreꞌ Pedronꞌ llieꞌ lloaꞌ yiꞌn, naꞌ bwieꞌ leꞌe, naꞌ bneꞌe: 
+\p —Beꞌnn ni leskaꞌ nakeꞌ txhen Jesúsenꞌ. 
+\p  
+\v 57 Naꞌ Pedronꞌ bi bchebeꞌ, naꞌ bneꞌe: 
+\p —Noꞌre, bi nombiaꞌ beꞌnnenꞌ. 
+\p  
+\v 58 Gok choll kate beꞌnn yobre breꞌreꞌ leꞌe, naꞌ bneꞌe: 
+\p —Renkze rweꞌn nakoꞌ beꞌnn kaꞌ txhen. 
+\p Naꞌll bne Pedronꞌ: 
+\p —Beꞌnne, bi nak akeꞌ txhen. 
+\p  
+\v 59 Bixha ka gok choll kate beꞌnn yobre bneꞌe: 
+\p —Da likze, beꞌnn ninꞌ nakeꞌ txhen ren Jesúsenꞌ, le nakeꞌ beꞌnn Galilea. 
+\p  
+\v 60 Naꞌ Pedronꞌ golleꞌ beꞌnnenꞌ: 
+\p —Beꞌnne, bi nnezraꞌ bi diꞌllenꞌ lloeꞌo. 
+\p Naꞌ neteꞌ kaꞌn, kate le bllellte lekwnꞌ.  
+\v 61 Xanllonꞌ le bayechjteꞌ bwieꞌ Pedronꞌ, naꞌ jadinraꞌll Pedronꞌ kanꞌ goll Jesúsenꞌ leꞌe: “Bire nne kwell lekwnꞌ nnaꞌ lleꞌ, llinte gak chonn ras, bi weꞌo diꞌll nombiaꞌo nadaꞌ.”  
+\v 62 Pedronꞌ ballojeꞌ ganꞌ llaꞌa beꞌnn kaꞌ, da xhen gokreꞌ, naꞌ bllelleꞌ kwis. 
+\s1 Bsaꞌkziꞌ akeꞌ Jesúsenꞌ naꞌ bdin akeꞌ Leꞌe 
+\r (Mt. 26:67‑68; Mr. 14:65) 
+\p  
+\v 63 Beꞌnn kaꞌ llap Jesúsenꞌ, bzorao lltitj akreꞌ Leꞌe, naꞌ llon akeꞌ ziꞌ keꞌe.  
+\v 64 Bchej akeꞌ to raꞌll raweꞌn, naꞌ llbaꞌll akeꞌ yichjraweꞌn, naꞌ lle akeꞌ Leꞌe: 
+\p —Banneyaꞌchk, ¿nonꞌ braꞌll rweꞌ? 
+\p  
+\v 65 Naꞌ da zan da lle akeꞌ Leꞌe, llaꞌdyiꞌ akeꞌ Leꞌe. 
+\s1 Bcheꞌe akeꞌ Jesúsenꞌ ganꞌ gak yel koxchisenꞌ 
+\r (Mt. 26:59‑66; Mr. 14:55‑64; Jn. 18 :19‑24) 
+\p  
+\v 66 Ka byeniꞌn, badop beꞌnn gor brao ke beꞌnn Israel kaꞌ, naꞌ bxoz wnebiaꞌ kaꞌ, naꞌ beꞌnn kaꞌ llsedre ke ley danꞌ bzoj da Moisésenꞌ, naꞌll goxh akeꞌ Jesúsenꞌ ganꞌ ze akeꞌn, le leakeꞌn llon yel koxchisenꞌ. Ka bllineꞌn lle akeꞌ Leꞌe: 
+\p  
+\v 67 —Bne chaꞌ, ¿rweꞌn Cristonꞌ? Chaꞌ rweꞌn, bne netoꞌ kwasro. 
+\p Naꞌ lleꞌe leakeꞌ: 
+\p —Chenak nniaꞌ reꞌ, ni ke chejleꞌzre.  
+\v 68 Chenak nadaꞌ wnnabraꞌ reꞌ, ni ke yelliꞌzre xtiꞌllaꞌn, ni ke yesanzre nadaꞌ.  
+\v 69 Naꞌ soraozen nnaꞌ, Beꞌnnenꞌ Gorj Radj Beꞌnnach lljachieꞌ kwit Diosenꞌ, beꞌnn nak yel wak xhen. 
+\p  
+\v 70 Yeolol akeꞌ goll akeꞌ Leꞌe: 
+\p —¿Rweꞌn Xhiꞌnn Diosenꞌ chaꞌ? 
+\p Naꞌll bneꞌe: 
+\p —Reꞌn nere kaꞌ, naꞌ kaꞌn naksen. 
+\p  
+\v 71 Naꞌll bne akeꞌ: 
+\p —Nollno beꞌnn yálljello gao xhia keꞌe; kwinllo ba bénello kanꞌ bneꞌen. 
+\c 23  
+\s1 Bcheꞌe akeꞌ Jesúsenꞌ rao Pilatonꞌ 
+\r (Mt. 27:1‑2, 11‑14; Mr. 15:1‑5; Jn. 18 :28‑38) 
+\p  
+\v 1 Yeolol beꞌnn kaꞌ llaꞌn bzollaꞌa akeꞌ, naꞌ bcheꞌe akeꞌ Jesúsenꞌ jwaꞌa akeꞌ Leꞌe rao Poncio Pilato, beꞌnnenꞌ llnebiaꞌ Judea.  
+\v 2 Naꞌ bzorao llao akeꞌ xhia, llxoa akeꞌ doꞌl koꞌll Jesúsenꞌ rao Pilatonꞌ, ne akeꞌ: 
+\p —Beꞌnn ni deꞌe llonchixreꞌ beꞌnne, naꞌ ll-lloneꞌ chixhjtoꞌ danꞌ llnnab Césarenꞌ, neꞌe leꞌen Cristonꞌ, naꞌ nakeꞌ to beꞌnn wnebiaꞌ. 
+\p  
+\v 3 Naꞌll Pilatonꞌ bnnabreꞌ Leꞌe: 
+\p —¿Rweꞌn nakoꞌ Rey ke beꞌnn Israel kaꞌ? 
+\p Naꞌll ballieꞌ xtiꞌll Pilatonꞌ, bneꞌe: 
+\p —Kanꞌ bnekzoꞌ naꞌ nakaꞌ. 
+\p  
+\v 4 Naꞌll Pilatonꞌ lleꞌe bxoz wnebiaꞌ kaꞌ, naꞌ beꞌnn kaꞌ llaꞌa naꞌ: 
+\p —Ni to da xhinnj bi non beꞌnnenꞌ. 
+\p  
+\v 5 Naꞌ yezikre llchieꞌ akreꞌ, ne akeꞌ: 
+\p —Llonchixreꞌ beꞌnne doxhen ganꞌ nbane Judea, bzoraozeꞌ Galilea naꞌte, naꞌ ba braꞌte ganni. 
+\s1 Jwaꞌa akeꞌ Jesúsenꞌ rao Herodes 
+\p  
+\v 6 Ka bene Pilatonꞌ bwaꞌl akeꞌ Galilea, naꞌ bnnabeꞌ chaꞌ beꞌnn Galilea Jesúsenꞌ.  
+\v 7 Ka bnnezreꞌ beꞌnn Galilea Jesúsenꞌ, naꞌll bseꞌleꞌ Leꞌe rao Herodes naꞌ, le leꞌen llnebiaꞌ Galileanꞌ, naꞌ rao lla naꞌ zo Herodes, Jerusalén naꞌ.  
+\v 8 Herodesenꞌ ka breꞌreꞌ Jesúsenꞌ, le bawereꞌ, le batnaꞌte llenreꞌ lloeꞌ akeꞌ xtiꞌll Jesúsenꞌ, naꞌ le lleꞌnreꞌ reꞌreꞌ yel wak danꞌ lloneꞌn.  
+\v 9 Da zan da bnnabreꞌ Leꞌe, naꞌ bi balliꞌkze Jesúsenꞌ xtiꞌlleꞌn.  
+\v 10 Naꞌ le zete bxoz wnebiaꞌ kaꞌ, naꞌ beꞌnn kaꞌ llsedre ke ley danꞌ bzoj da Moisésenꞌ, llao akeꞌ xhia llchieꞌ aktekzreꞌ.  
+\v 11 Naꞌ Herodesenꞌ ren wakaꞌa ya keꞌe kaꞌ, bzorao ziꞌchiꞌll akeꞌ Jesúsenꞌ, lltitj akreꞌ Leꞌe. Naꞌ bwakw akeꞌ Leꞌe to raꞌll da llaktit, naꞌ baseꞌleꞌ Leꞌe rao Pilatonꞌ da yobre.  
+\v 12 Lla naꞌ, Pilatonꞌ ren Herodes baniꞌt akeꞌ wen, le kere zo akeꞌ wen naꞌ. 
+\s1 Bchoybiaꞌ akeꞌ gat Jesúsenꞌ 
+\r (Mt. 27:15‑26; Mr. 15:6‑15; Jn. 18 :39‑19:16) 
+\p  
+\v 13 Naꞌll Pilatonꞌ batopeꞌ bxoz kaꞌ, naꞌ beꞌnn wnebiaꞌ kaꞌ, naꞌ bal beꞌnn yell.  
+\v 14 Naꞌ lleꞌe leakeꞌ: 
+\p —Reꞌ badwaꞌre beꞌnnenꞌ rawaꞌ, naꞌ nere llonchixreꞌ beꞌnne. Llwiátere nga ba bnnabyollreꞌ, bibi da xhinnj non beꞌnnenꞌ ka danꞌ lltóberenꞌ.  
+\v 15 Ba bseꞌleꞌ rao Herodesenꞌ, leskaꞌ bibi da xhinnj breꞌreꞌ noneꞌ, bibi doꞌl keꞌe de, da llayaꞌl gateꞌ.  
+\v 16 Naꞌ wkwaꞌnneꞌ rallnaꞌa beꞌnn kaꞌ chintat akeꞌ Leꞌe, naꞌll yesaneꞌ. 
+\p  
+\v 17 Naꞌ llonen bien wsaneꞌ to beꞌnne yoꞌ rill ya lla naꞌ, kanꞌ llak toto lla lnni paskw.  
+\v 18 Naꞌ beꞌnn zan kaꞌ llaꞌn, bzorao llosiaꞌ akeꞌ ne akeꞌ: 
+\p —¡Gat beꞌnnenꞌ, naꞌ basán Barrabásenꞌ! 
+\p  
+\v 19 Barrabásenꞌ yoeꞌ rill ya, le bwiereꞌ beꞌnn kaꞌ llnebiaꞌ, bxieꞌ to wdil rao yell, naꞌ beneꞌ xhia.  
+\v 20 Pilatonꞌ lleꞌnreꞌ wsaneꞌ Jesúsenꞌ, naꞌ golleꞌ leakeꞌ chaꞌ wsaneꞌ Leꞌe.  
+\v 21 Naꞌ beꞌnn kaꞌ, yezikre besiaꞌ akeꞌ, ne akeꞌ: 
+\p —¡Bdeꞌe leꞌ yay cruz! ¡Bdeꞌe leꞌ yay cruz! 
+\p  
+\v 22 Da wyonn ras golleꞌ leakeꞌ: 
+\p —¿Bixha da xhinnj beneꞌ naꞌn? Bi nna lljadiꞌraꞌ chaꞌ bi da xhinnj beneꞌ da llayaꞌl gateꞌ. Wsaꞌkzieꞌ, naꞌll yesaneꞌ. 
+\p  
+\v 23 Naꞌ beꞌnn kaꞌ ze akeꞌ llchieꞌ akreꞌ, naꞌ llosiaꞌ akeꞌ llnnab akeꞌ gat Jesúsenꞌ leꞌ yay cruzenꞌ, naꞌ kaꞌ da bnez leakeꞌ gok.  
+\v 24 Pilatonꞌ bchoyraꞌlleꞌ gak kanꞌ lleꞌn akreꞌn.  
+\v 25 Naꞌ bsaneꞌ beꞌnnenꞌ llnnab akeꞌn, Barrabásenꞌ, beꞌnnenꞌ bxe wdil, naꞌ beneꞌ xhia. Naꞌ beneꞌ Jesúsenꞌ rallnaꞌa akeꞌ, nench gon akreꞌ Leꞌe kanꞌ lleꞌn akreꞌn. 
+\s1 Bdaꞌa akeꞌ Jesúsenꞌ leꞌ yay cruz 
+\r (Mt. 27:32‑44; Mr. 15:21‑32; Jn. 19 :17‑27) 
+\p  
+\v 26 Naꞌ bcheꞌe akeꞌ Leꞌe, brej akeꞌ Leꞌe yell Jerusalén naꞌ, naꞌ tnez naꞌ, ballay akreꞌ to beꞌnn re Simón beꞌnn Cirene zazeꞌe lyiꞌxe, naꞌ bdaꞌa akeꞌ yay cruzenꞌ koꞌlleꞌ, naꞌ noeꞌn bnaweꞌ Jesúsenꞌ. 
+\p  
+\v 27 Beꞌnn zan beꞌnn yell nao Leꞌe, naꞌ ren bal noꞌre. Naꞌ bell noꞌr kaꞌ, llak akreꞌ ke nak llwia akeꞌ kanꞌ llon akreꞌ Leꞌen.  
+\v 28 Naꞌ Jesúsenꞌ bayechjeꞌ, lleꞌe leakeꞌ: 
+\p —Reꞌ noꞌr Jerusalén, bi kwellre kiaꞌ, lekwell ke kwinre, naꞌ ke xhiꞌnnre.  
+\v 29 Le wllin lla kate nne akeꞌ: “Nbaraz ke noꞌr will, naꞌ noꞌr bi bxhan, naꞌ bi zo xhiꞌnneꞌ llwaꞌlleꞌ.”  
+\v 30 Kanaꞌ to nnab akeꞌ bix yaꞌ kaꞌ kwenen leakeꞌ, naꞌ to nnab akeꞌ kaꞌ bdinnj nench kwaꞌchen leakeꞌ.  
+\v 31 Chaꞌ ki llon akreꞌ nadaꞌ, nakaꞌ ka yay yaꞌ, gon aktellreꞌ reꞌ, nakre ka yay yeche. 
+\p  
+\v 32 Leskaꞌ ncheꞌe akeꞌ ye chop beꞌnn wen da xhinnj got akeꞌ.  
+\v 33 Ka bllin akeꞌ latj ganꞌ nziꞌi Llit Yichj Beꞌnn Wat, naꞌ bdaꞌa akeꞌ Jesúsenꞌ leꞌ yay cruzenꞌ, ren beꞌnn wen da xhinnj kaꞌ ye chope, bdaꞌa akeꞌ leakeꞌ chlaꞌ weje.  
+\v 34 Kate bne Jesúsenꞌ: 
+\p —Xa, bxhiꞌxhen ke beꞌnn ki, le bi nnez akreꞌ binꞌ llon akeꞌ. 
+\p Naꞌ bditjen akeꞌ xharaꞌneꞌn, llwia akeꞌ naraꞌchk norenꞌ llayaꞌl toto akeꞌ.  
+\v 35 Beꞌnn zan kaꞌ, ze akeꞌ ziꞌtre llwia akeꞌ, naꞌ beꞌnn kaꞌ llnebiaꞌ Israelenꞌ, leskaꞌ ren akeꞌ lltitj akreꞌ Leꞌe, ne akeꞌ: 
+\p —Beꞌnn yobre basreꞌe, yesrachke kwineꞌ nnaꞌ, chaꞌ leꞌen nak Cristonꞌ bseꞌl Dios. 
+\p  
+\v 36 Leskaꞌ wakaꞌa ya kaꞌ, lltitj akreꞌ Leꞌe, lljabiꞌy akeꞌ lljazé akeꞌ zo zichj lloeꞌ,  
+\v 37 naꞌ lleꞌ akeꞌ Leꞌe: 
+\p —¡Chaꞌ rweꞌn Rey ke beꞌnn Israel kaꞌ, basrachk kwinoꞌ! 
+\p  
+\v 38 Naꞌ bllia akeꞌ diꞌll yichj cruzenꞌ, nen: “Beꞌnn ninꞌ Rey ke beꞌnn Israel kaꞌ.” Llian diꞌll griego, naꞌ diꞌll latín, naꞌ diꞌll hebreo. 
+\p  
+\v 39 To beꞌnn wen da xhinnj kaꞌ, daꞌa leꞌ yay cruzenꞌ, leskaꞌ llaꞌdyieꞌ Jesúsenꞌ, neꞌe: 
+\p —¡Chaꞌ rweꞌn Cristonꞌ basrá kwinoꞌ, naꞌ basrá ren netoꞌ! 
+\p  
+\v 40 Naꞌ beꞌnn lwelljeꞌn ye to, benreꞌ leꞌe znia, lleꞌe leꞌe: 
+\p —Rennriz rweꞌ nneꞌo, naꞌ bi llapoꞌ Diosenꞌ baraꞌnne, llwiateꞌo leskaꞌn ba daꞌllo ganni gatllo.  
+\v 41 Lliꞌo daꞌllo ganni llallayraollo, le kaꞌ llayaꞌl gakse kellonꞌ, le da xhinnjenꞌ benllo, zan beꞌnn ni, bibi da xhinnj beneꞌ. 
+\p  
+\v 42 Naꞌll golleꞌ Jesúsenꞌ: 
+\p —Lljadinraꞌllchgoꞌ nadaꞌ katenꞌ zaꞌo nnebiaꞌon. 
+\p  
+\v 43 Naꞌll Jesúsenꞌ golleꞌ leꞌe: 
+\p —Da li llniaꞌ rweꞌ, nnaꞌ llate serenoꞌ nadaꞌ latj wen ganꞌ zo Diosenꞌ. 
+\s1 Kanꞌ gok kanꞌ got Jesúsenꞌ 
+\r (Mt. 27:45‑56; Mr. 15:33‑41; Jn. 19 :28‑30) 
+\p  
+\v 44 Kanꞌ bllin wawillenꞌ, gok xchol rao yellrionꞌ bllinte do lladá chonne.  
+\v 45 Bill bnnaꞌ willenꞌ, naꞌ raꞌll danꞌ ze lo yodaꞌo Jerusalén naꞌ, blleꞌzen goken chopre.  
+\v 46 Naꞌll Jesúsenꞌ besieꞌ zillj, bneꞌe: 
+\p —Xa, llonaꞌ rallnaꞌo Spíritu kiaꞌn. 
+\p Ka bayoll bneꞌe kaꞌn, goteꞌ. 
+\p  
+\v 47 Naꞌ ze beꞌnnenꞌ nak xan wakaꞌa ya kaꞌ, ka breꞌreꞌ kanꞌ goken, beꞌraweꞌ Dios bneꞌe: 
+\p —Da likze beꞌnn wen beꞌnnenꞌ. 
+\p  
+\v 48 Beꞌnn zan kaꞌ llaꞌa llwianꞌ, ka breꞌe akreꞌ danꞌ goken, bazaꞌa akeꞌ llbaꞌll lchoꞌ akeꞌ.  
+\v 49 Naꞌll beꞌnn kaꞌ nombiaꞌ Jesúsenꞌ, ren noꞌr kaꞌ nao Leꞌen Galileate, ze akteꞌ ziꞌtre llwia akeꞌ kanꞌ llaken. 
+\s1 Bkwaꞌch akeꞌ Jesúsenꞌ 
+\r (Mt. 27:57‑61; Mr. 15:42‑47; Jn. 19 :38‑42) 
+\p  
+\v 50 To beꞌnn re José beꞌnn Arimatea, yell ga nbane Judea, nakeꞌ txhen beꞌnn kaꞌ llnebiaꞌ Israelenꞌ, naꞌ nakeꞌ beꞌnn wen, beꞌnn wen da zej lixheje.  
+\v 51 Bzotezeꞌ brexheꞌ katenꞌ wroeꞌ Diosenꞌ yel llnebiaꞌ keꞌen, naꞌ bi beneꞌ txhen lwelljeꞌ kaꞌ, ke nak danꞌ ben akeꞌn.  
+\v 52 Byejeꞌ rao Pilatonꞌ jannabeꞌ kwerp ke Jesúsenꞌ.  
+\v 53 Naꞌ baletjeꞌ Jesúsenꞌ leꞌ yay cruzenꞌ, naꞌ braꞌlleꞌ Leꞌe to xchan, naꞌ bkwaꞌcheꞌ Leꞌe. Broeꞌ Leꞌe to lo ba kob, to broj da beneꞌ leꞌ yej ga nono nna lljachoꞌ.  
+\v 54 Naken lla llsiniaꞌ akeꞌ ke lnninꞌ, naꞌ le llinte lla nbaꞌnne. 
+\p  
+\v 55 Naꞌ noꞌr kaꞌ zaꞌa ren Jesúsenꞌ Galileate, bnaorén akeꞌ beꞌnn kaꞌ nlen Jesúsenꞌ, naꞌ breꞌe aktereꞌ ganꞌ broꞌ akeꞌ Leꞌen, naꞌ kanꞌ bxoa akeꞌ kwerp keꞌen.  
+\v 56 Bde naꞌ, bazaꞌa akeꞌ jenchaꞌo akeꞌ za da la xhix, naꞌ nis da la xhix da wtop akeꞌ kwerp ke Jesúsenꞌ. Naꞌ le byoꞌ akteꞌ lla nbane ke beꞌnn Israel kaꞌ, naꞌ baziꞌraꞌll akeꞌ kanꞌ ne leyenꞌ. 
+\c 24  
+\s1 Jesúsenꞌ babaneꞌ radj beꞌnn wat kaꞌ 
+\r (Mt. 28:1‑10; Mr. 16:1‑8; Jn. 20 :1‑10) 
+\p  
+\v 1 Ka bllin lla nell ke xhman naꞌ, ka le zaꞌte cheniꞌ, txhonnj noꞌr kaꞌ, jakeꞌ ganꞌ zo broj danꞌ nak banꞌ, noꞌx akeꞌ danꞌ benchaꞌo akeꞌ, danꞌ la xhix.  
+\v 2 Ka bllin akeꞌ naꞌ, breꞌe akreꞌ bill daꞌa yejenꞌ lloaꞌ banꞌ, ba daꞌten chlaꞌre.  
+\v 3 Ka byoꞌ akeꞌ lo banꞌ, bill ballel akreꞌ kwerp ke Jesúsenꞌ.  
+\v 4 Bixha naꞌ ze akeꞌ llon akeꞌ yel wan ke danꞌ bill xhoa kwerp ke Jesúsenꞌ, kate bllin chop beꞌnn jasé akeꞌ kwit akeꞌn, llaktit xharaꞌn beꞌnn kaꞌ kwis.  
+\v 5 Blleb noꞌr kaꞌ, naꞌ bcheꞌk xhib akeꞌ llwia akteꞌ rao yore, naꞌll goll beꞌnn kaꞌ leakeꞌ: 
+\p —To beꞌnn ban, ¿bixchen llayirjzreꞌ radj beꞌnn wat kaꞌ?  
+\v 6 Nollno xhoa ganni, ba babaneꞌ. Lelljadinraꞌll kanꞌ nna zorenteꞌ reꞌ ganꞌ nziꞌi Galilea naꞌ,  
+\v 7 bneꞌe dekz de gakeꞌ rallnaꞌa beꞌnn kaꞌ llwie Leꞌen, naꞌ got akeꞌ Leꞌe leꞌ yay cruzenꞌ, naꞌ wayónn lla yebaneꞌ. 
+\p  
+\v 8 Naꞌll jadinraꞌll noꞌr kaꞌ xtiꞌll Jesúsenꞌ.  
+\v 9 Naꞌ bazaꞌa akeꞌ lloaꞌ banꞌ, jatixjweꞌ akreꞌ beꞌnn chnej kaꞌ, naꞌ ren beꞌnn kaꞌ nak leakeꞌ txhen.  
+\v 10 Ki re noꞌr kaꞌ: María beꞌnn Magdala, Xhuan, naꞌll María xhnaꞌ Jacobo, naꞌ ye to chop noꞌr yobre, leakeꞌn bdixjweꞌ akreꞌ postl kaꞌ.  
+\v 11 Naꞌ beꞌnn chnej kaꞌ, llak akreꞌ bi diꞌll ke nxhianꞌ lloeꞌ noꞌr kaꞌ, naꞌ bi byejleꞌ akeꞌ. 
+\p  
+\v 12 Naꞌ Pedronꞌ bzollaꞌdoeꞌ byejeꞌ jawieꞌ banꞌ, naꞌ ka bllineꞌn, raꞌllenꞌ bchel akeꞌ Jesúsenꞌ, naꞌze xhoan, naꞌ bazeꞌe llabanreꞌ ka danꞌ breꞌreꞌn. 
+\s1 Jesúsenꞌ broeꞌraweꞌ chop beꞌnn kaꞌ non Leꞌe txhen 
+\r (Mr. 16:12‑13) 
+\p  
+\v 13 Lekze lla naꞌ, chop beꞌnn kaꞌ bnao Leꞌen, zjakeꞌ to yell re Emaús, naꞌ Emaúsenꞌ llgoꞌnnen ka chonn hor nez saꞌllo Jerusalén naꞌ.  
+\v 14 Zjakeꞌ lloeꞌ akeꞌ diꞌll ke da kaꞌ goken.  
+\v 15 Chak zjak akeꞌ lloeꞌ akeꞌ diꞌllenꞌ kaꞌ, kate bllin Jesúsenꞌ jabiꞌyeꞌ kwit akeꞌn, naꞌ zejreneꞌ leakeꞌ txhen.  
+\v 16 Naꞌ chaokze ben Diosenꞌ nench bi wayombiaꞌ akreꞌ Leꞌe, laꞌkze llwia akteꞌ Leꞌe.  
+\v 17 Naꞌll lleꞌe leakeꞌ: 
+\p —¿Bi diꞌllenꞌ lloeꞌre chak yoꞌre nezenꞌ? ¿Bixchen zoyaꞌchre? 
+\p  
+\v 18 To beꞌnnenꞌ re Cleofas, lleꞌe Leꞌe: 
+\p —¿Bixha tozoꞌ rweꞌ nakoꞌ beꞌnn ziꞌt zoꞌo Jerusalén naꞌ, bi bnnezroꞌ bi gok do nej nnase? 
+\p  
+\v 19 Naꞌll lleꞌe leakeꞌ: 
+\p —¿Bixha gok? 
+\p Naꞌ bne akeꞌ: 
+\p —Danꞌ gok ke Jesús beꞌnn Nazaretenꞌ, gokeꞌ to beꞌnn beꞌe xtiꞌll Dios. Beꞌnn yell bayakbeꞌe akreꞌ xtiꞌlleꞌn nsaꞌn yel wak, naꞌ yeolol danꞌ beneꞌn, beneꞌn kon ren yel wak ke Dios.  
+\v 20 Naꞌ bxoz wnebiaꞌ kaꞌ, naꞌ beꞌnn kaꞌ llnebiaꞌ netoꞌ, ben akeꞌ Leꞌe rao naꞌa beꞌnn kaꞌ llwie Leꞌen, naꞌ bchoybiaꞌ akeꞌ llayaꞌl gateꞌ, naꞌll bdaꞌa akeꞌ Leꞌe leꞌ yay cruzenꞌ.  
+\v 21 Netoꞌ lláketoꞌ Leꞌen gakreneꞌ Israelenꞌ, nench bill nnebiaꞌ beꞌnn ziꞌt kaꞌ len. Naꞌ nnaꞌ ba zejzen da wyonn lla gok kaꞌ.  
+\v 22 Naꞌ leskaꞌ llabánetoꞌ ka diꞌllenꞌ lloeꞌ noꞌr kaꞌ non netoꞌ txhen naꞌ, byej akeꞌ beꞌe bale, ka za cheniꞌ ganꞌ bkwaꞌch akeꞌ Leꞌen.  
+\v 23 Naꞌ bill breꞌe akreꞌ kwerp keꞌen, naꞌ ne akeꞌ breꞌe akreꞌ angl ak, naꞌ goll angl kaꞌ leakeꞌ nbankzeꞌn.  
+\v 24 Naꞌll bal beꞌnn byio kaꞌ naktoꞌ txhen naꞌ, byej akeꞌ lloaꞌ banꞌ, naꞌ doxhen kanꞌ ne noꞌr kaꞌ, kaꞌ nakten nono Jesúsenꞌ breꞌe akreꞌ. 
+\p  
+\v 25 Naꞌll goll Jesúsenꞌ leakeꞌ: 
+\p —¡Yichj war kwis nakre, bi llejleꞌre danꞌ bzoj beꞌnn kaꞌ beꞌe xtiꞌll Diosenꞌ kanaꞌ!  
+\v 26 ¿Kere llian, zgaꞌtek wallayrao Cristonꞌ, naꞌtellenꞌ wroeꞌreꞌ yel llnebiaꞌ keꞌen? 
+\p  
+\v 27 Naꞌ bzorao llroeꞌreꞌ leakeꞌ xtiꞌll Diosenꞌ ganꞌ llian lloeꞌn diꞌll ke Leꞌe. Bxhiꞌzen yich danꞌ bzoj da Moisésenꞌ, naꞌll danꞌ bzoj beꞌnn kaꞌ beꞌe xtiꞌll Diosenꞌ kanaꞌ, bzorao llroeꞌreꞌ leakeꞌ. 
+\p  
+\v 28 Naꞌ llakte kaꞌn, kate bllin akeꞌ yellenꞌ ganꞌ zjakeꞌn, naꞌ Leꞌen beneꞌ ka beꞌnn zej ye raꞌte ziꞌtre.  
+\v 29 Naꞌ goꞌtyoe akreꞌ Leꞌe, nench gaꞌyreneꞌ leakeꞌ, lle akeꞌ Leꞌe: 
+\p —Goꞌyrén netoꞌ, ba wlleꞌ nnaꞌ, la galte. 
+\p Naꞌll goꞌyreneꞌ leakeꞌ.  
+\v 30 Bixha gok, ka blleꞌ akeꞌ ganꞌ gao akeꞌ naꞌ, bxhieꞌ yet xtirenꞌ, naꞌ beꞌe yel llioxken ke Dios, naꞌ bxhoxhjeꞌn beꞌen leakeꞌ.  
+\v 31 Kanaꞌll gok akeꞌ ka beꞌnn baxhaꞌ rao, bayombiaꞌ akreꞌ Leꞌe. Naꞌ Leꞌen to baranzeꞌ rao akeꞌn, bill breꞌe akreꞌ Leꞌe.  
+\v 32 Naꞌll lle lwellj akeꞌ: 
+\p —To llawé raꞌlldaꞌollonꞌ ke nak zaꞌllo tnezenꞌ, llroeꞌreꞌ lliꞌo kwasro xtiꞌll Diosenꞌ. 
+\p  
+\v 33 Naꞌ ne akteꞌ kaꞌ bazaꞌdo akeꞌ zayej akeꞌ Jerusalén naꞌ, kaꞌ ballín akeꞌ ganꞌ llaꞌa beꞌnn chnej kaꞌ, ren beꞌnn kaꞌ yelaꞌ.  
+\v 34 Naꞌ goll beꞌnn chnej kaꞌ leakeꞌ: 
+\p —Da likzenꞌ babán Xanllonꞌ, ba broeꞌraweꞌ Simón naꞌ. 
+\p  
+\v 35 Naꞌ beꞌnn kaꞌ chop, leskaꞌ beꞌe akeꞌ diꞌll kanꞌ gok zjakeꞌ tnezenꞌ, naꞌ kanꞌ gok ka bxhoxhjeꞌ yet xtir naꞌ, bayombiaꞌ akreꞌ Leꞌe. 
+\s1 Jesúsenꞌ broeꞌraweꞌ beꞌnn kaꞌ non Leꞌe txhen 
+\r (Mt. 28:16‑20; Mr. 16:14‑18; Jn. 20 :19‑23) 
+\p  
+\v 36 Naꞌ llaꞌa akteꞌ lloeꞌ akeꞌ diꞌllenꞌ, kate bllinkze Jesúsenꞌ jaseꞌe kllol akeꞌn, naꞌ bwapeꞌ leakeꞌ lliox, bneꞌe: 
+\p —Chaꞌchga reꞌ wen. 
+\p  
+\v 37 Blleb akeꞌ kwis, naꞌ llabán akreꞌ, llak akreꞌ chaꞌ llreꞌdaꞌo akreꞌn o chaꞌ bxen naꞌ llreꞌe akreꞌ.  
+\v 38 Naꞌ lleꞌe leakeꞌ: 
+\p —¿Bixchen llebre? ¿Bixchen llakgánere?  
+\v 39 Lewiá taꞌkaꞌ ni, naꞌ niaꞌn, nadkzaꞌn. Lekán nadaꞌ, ke nak to bxen, bill naken de llit, naꞌ beꞌre kanꞌ nakaꞌ nadaꞌn. 
+\p  
+\v 40 Ka neꞌe kaꞌn, llroeꞌtereꞌ leakeꞌ nieꞌn naꞌ taꞌkeꞌn.  
+\v 41 Naꞌll bawé akreꞌ kwis, to llon akeꞌ ka beꞌnn bi llejleꞌ, naꞌ llabán akreꞌ kwis, naꞌll Jesúsenꞌ lleꞌe leakeꞌ: 
+\p —¿Bi de raꞌt da gawaꞌ? 
+\p  
+\v 42 Naꞌll beꞌe akeꞌ Leꞌe raꞌt belyaꞌ, naꞌ raꞌt chiꞌxh beser.  
+\v 43 Llwia akteꞌ bdaweꞌ da kaꞌ.  
+\v 44 Naꞌll lleꞌe leakeꞌ da yobre: 
+\p —Kaꞌ bnetekzaꞌ kanꞌ nna zorenaꞌ reꞌ, dekz de gak kiaꞌ kanꞌ nyoj leꞌ ley danꞌ bzoj da Moisésenꞌ, naꞌ danꞌ bzoj beꞌnn kaꞌ beꞌe xtiꞌll Diosenꞌ kanaꞌ, naꞌ danꞌ llia leꞌ yich ke Salmos kaꞌ. 
+\p  
+\v 45 Naꞌll beneꞌ nench byejnieꞌ akreꞌ xtiꞌll Diosenꞌ.  
+\v 46 Naꞌ bneꞌe: 
+\p —Gok kanꞌ nyojkze gak ke Cristonꞌ, yellayraweꞌ, naꞌ gateꞌ, naꞌ yebaneꞌ wayónn lla.  
+\v 47 Naꞌtellenꞌ llayaꞌl nneze beꞌnne xtiꞌlleꞌn, siꞌzen Jerusalén naꞌ, llinte doxhen yellrio nnez akreꞌ llayaꞌl wayat akreꞌ, yebiꞌraꞌll akeꞌ nench yeziꞌxhen Diosenꞌ ke akeꞌ.  
+\v 48 Naꞌ reꞌ llayaꞌl weꞌre diꞌll ke doxhen da ki ba goken.  
+\v 49 Naꞌ wseꞌlaꞌ Spíritu ke Diosenꞌ, choꞌn lo yichjraꞌlldaꞌore, le kaꞌn bcheb Xaꞌn. Jerusalén naꞌze chaꞌre, kwexhre llinte lla siꞌre yel wak da zaꞌa yebá. 
+\s1 Jesúsenꞌ bayepeꞌ yebá 
+\r (Mr. 16:19‑20) 
+\p  
+\v 50 Naꞌ bchach Jesúsenꞌ leakeꞌ Jerusalén naꞌ, bllin akteꞌ Betania, naꞌ blis taꞌkeꞌn benlaꞌyeꞌ leakeꞌ.  
+\v 51 Bayoll benlaꞌyeꞌ leakeꞌn, naꞌ bayepeꞌ zayejteꞌ yebá, baziꞌi Diosenꞌ Leꞌe.  
+\v 52 Naꞌ beꞌrao akeꞌ Leꞌe. Bayoll naꞌ, zayej akeꞌ Jerusalén naꞌ, llawé akreꞌ kwis.  
+\v 53 Naꞌ bzeteze bze akeꞌ yodaꞌo braonꞌ lloeꞌrao akeꞌ Diosenꞌ. Kaꞌn gakchga.

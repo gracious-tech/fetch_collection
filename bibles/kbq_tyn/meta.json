@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Anumzamofo Routage Avantafere",
+        "local_abbrev": "ARA",
+        "english": "KBQ Bible",
+        "english_abbrev": ""
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Tyndale Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=3a5dafd48a13c6d9"
+    },
+    "ids": {
+        "dbl": "3a5dafd48a13c6d9",
+        "ebible": "kbq"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=3a5dafd48a13c6d9&type=release",
+        "updated": "2023-01-11",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

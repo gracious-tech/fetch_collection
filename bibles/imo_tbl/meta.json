@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "UNGU TUKUMEMU",
+        "local_abbrev": "",
+        "english": "Imbo Ungu New Testament",
+        "english_abbrev": "IUNT"
+    },
+    "year": 1997,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1997 The Bible League",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=imo"
+    },
+    "ids": {
+        "ebible": "imo"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/imo_usfm.zip",
+        "updated": "2015-01-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

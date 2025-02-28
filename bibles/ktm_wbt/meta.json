@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Kurti Baibel",
+        "local_abbrev": "",
+        "english": "Kurti Scripture Portions",
+        "english_abbrev": "KSP"
+    },
+    "year": 2011,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2011 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ktm"
+    },
+    "ids": {
+        "ebible": "ktm"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ktm_usfm.zip",
+        "updated": "2016-09-13",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

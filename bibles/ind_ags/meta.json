@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Alkitab Gratis untuk Semua",
+        "local_abbrev": "",
+        "english": "Indonesian Bible for All",
+        "english_abbrev": "IBA"
+    },
+    "year": 2021,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2021-2023 Jonathan Gallagher",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=indags"
+    },
+    "ids": {
+        "ebible": "indags"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/indags_usfm.zip",
+        "updated": "2023-08-09",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

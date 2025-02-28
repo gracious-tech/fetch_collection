@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Lologena Wo Kienane Yesu Kristo Kome Kewo",
+        "local_abbrev": "",
+        "english": "Lewo New Testament",
+        "english_abbrev": "LNT"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2016 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=lww"
+    },
+    "ids": {
+        "ebible": "lww"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/lww_usfm.zip",
+        "updated": "2022-03-11",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

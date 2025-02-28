@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "KALEIWAG KWEIVAW",
+        "local_abbrev": "",
+        "english": "Muyuw New Testament",
+        "english_abbrev": "MNT"
+    },
+    "year": 1993,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1976, 1993 The Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=myw"
+    },
+    "ids": {
+        "ebible": "myw"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/myw_usfm.zip",
+        "updated": "2016-08-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

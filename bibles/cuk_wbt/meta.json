@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Bab dummad Jesucristoba igar mesisad garda",
+        "local_abbrev": "",
+        "english": "San Blas Kuna New Testament (2009)",
+        "english_abbrev": "WB9"
+    },
+    "year": 2009,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2009 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=cuk09"
+    },
+    "ids": {
+        "ebible": "cuk09"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/cuk09_usfm.zip",
+        "updated": "2015-03-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "พระคัมภีร์ภาษาไทยฉบับ KJV",
+        "local_abbrev": "",
+        "english": "Thai KJV Bible",
+        "english_abbrev": "KJV"
+    },
+    "year": 2003,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2003 Philip Pope",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=thaKJV"
+    },
+    "ids": {
+        "ebible": "thaKJV"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/thaKJV_usfm.zip",
+        "updated": "2022-04-15",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

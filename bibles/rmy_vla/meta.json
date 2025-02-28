@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Библия пэ влахицко романи шыб",
+        "local_abbrev": "",
+        "english": "Eastern Vlakh Romani",
+        "english_abbrev": "EVR"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2021 Pioneer Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=rmyvlakh"
+    },
+    "ids": {
+        "ebible": "rmyvlakh"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/rmyvlakh_usfm.zip",
+        "updated": "2023-04-14",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Gwo Ma Arumgimis",
+        "local_abbrev": "",
+        "english": "Uduk Bible",
+        "english_abbrev": "UB"
+    },
+    "year": 2005,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2005 SIM International",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=udu"
+    },
+    "ids": {
+        "ebible": "udu"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/udu_usfm.zip",
+        "updated": "2014-10-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

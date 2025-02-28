@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Kadede Kap Pjam Akan (1882)",
+        "local_abbrev": "",
+        "english": "Pohnpeian Bible (1882)",
+        "english_abbrev": "PB"
+    },
+    "year": 1882,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=pon"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=pon"
+    },
+    "ids": {
+        "ebible": "pon"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/pon_usfm.zip",
+        "updated": "2023-07-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

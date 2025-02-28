@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Diodati Bibbia (1885)",
+        "local_abbrev": "DB1885",
+        "english": "Diodati Bible (1885)",
+        "english_abbrev": "DB1885"
+    },
+    "year": 1885,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://app.thedigitalbiblelibrary.org/entry?id=41f25b97f468e10b"
+            }
+        ],
+        "attribution": "Public domain",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=41f25b97f468e10b"
+    },
+    "ids": {
+        "dbl": "41f25b97f468e10b",
+        "ebible": "ita1885"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=41f25b97f468e10b&type=release",
+        "updated": "2020-06-24",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Brenton Septuagint (Updated by Johnson, American English)",
+        "local_abbrev": "BSTJ",
+        "english": "Brenton Septuagint (Updated by Johnson, American English)",
+        "english_abbrev": "BSTJ"
+    },
+    "year": 1851,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=eng-lxx2012"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=eng-lxx2012"
+    },
+    "ids": {
+        "ebible": "eng-lxx2012"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/eng-lxx2012_usfm.zip",
+        "updated": "2024-08-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

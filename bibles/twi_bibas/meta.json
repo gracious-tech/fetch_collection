@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm",
+        "local_abbrev": "WASNA",
+        "english": "Open Asante Twi Contemporary Bible",
+        "english_abbrev": "OASCB"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=18f6cf27f7b43297"
+    },
+    "ids": {
+        "dbl": "18f6cf27f7b43297",
+        "ebible": "twiasante"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=18f6cf27f7b43297&type=release",
+        "updated": "2024-04-26",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

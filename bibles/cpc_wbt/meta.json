@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "KAMIITHARI ÑAANTSI",
+        "local_abbrev": "",
+        "english": "Ajyininka Apurucayali New Testament",
+        "english_abbrev": "AANT"
+    },
+    "year": 2000,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2000 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=cpcNT"
+    },
+    "ids": {
+        "ebible": "cpcNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/cpcNT_usfm.zip",
+        "updated": "2014-04-21",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

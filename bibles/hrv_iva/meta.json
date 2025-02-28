@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Sveta Biblija",
+        "local_abbrev": "",
+        "english": "Croatian Bible",
+        "english_abbrev": "CB"
+    },
+    "year": 1942,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=hrv"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=hrv"
+    },
+    "ids": {
+        "ebible": "hrv"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/hrv_usfm.zip",
+        "updated": "2019-12-16",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

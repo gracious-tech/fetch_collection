@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "GOD RIITI MAJI KEPI",
+        "local_abbrev": "",
+        "english": "Washkuk New Testament",
+        "english_abbrev": "BIL"
+    },
+    "year": 1974,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1974 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kmo"
+    },
+    "ids": {
+        "ebible": "kmo"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kmo_usfm.zip",
+        "updated": "2013-01-08",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

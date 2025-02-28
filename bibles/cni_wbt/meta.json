@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Irineane tasorentsi oquenquetsatacotaqueri Avincatsarite Jesoquirishito",
+        "local_abbrev": "",
+        "english": "New Testament in Ashaninka",
+        "english_abbrev": "ANT"
+    },
+    "year": 2008,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2008 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=cniNT"
+    },
+    "ids": {
+        "ebible": "cniNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/cniNT_usfm.zip",
+        "updated": "2014-04-21",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

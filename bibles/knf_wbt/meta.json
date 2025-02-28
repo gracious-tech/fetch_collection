@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Ulibra wi Naşibaţi",
+        "local_abbrev": "",
+        "english": "Mankanya Bible",
+        "english_abbrev": "MNTOT"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2014 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=knf"
+    },
+    "ids": {
+        "ebible": "knf"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/knf_usfm.zip",
+        "updated": "2015-03-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Lilaghanu lya shonu",
+        "local_abbrev": "",
+        "english": "The New Testament in Ndamba",
+        "english_abbrev": "NDBV"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=cb0425ae772bb042"
+    },
+    "ids": {
+        "dbl": "cb0425ae772bb042",
+        "ebible": "ndj"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=cb0425ae772bb042&type=release",
+        "updated": "2014-04-24",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

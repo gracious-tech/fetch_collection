@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "IPILI NUTESAMENE",
+        "local_abbrev": "",
+        "english": "Ipili Bible",
+        "english_abbrev": "IB"
+    },
+    "year": 2008,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2008-2023 Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ipi"
+    },
+    "ids": {
+        "ebible": "ipi"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ipi_usfm.zip",
+        "updated": "2023-10-09",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

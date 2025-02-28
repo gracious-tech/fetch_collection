@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "World English Bible (British Edition)",
+        "local_abbrev": "WEBB",
+        "english": "World English Bible (British Edition)",
+        "english_abbrev": "WEBB"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=engwebpb"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engwebpb"
+    },
+    "ids": {
+        "ebible": "engwebpb"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engwebpb_usfm.zip",
+        "updated": "2024-08-08",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

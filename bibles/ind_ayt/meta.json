@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Alkitab Yang Terbuka",
+        "local_abbrev": "AYT",
+        "english": "Alkitab Yang Terbuka Bible",
+        "english_abbrev": ""
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc",
+                "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2011-2024 YLSA-AYT",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=indayt"
+    },
+    "ids": {
+        "ebible": "indayt"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/indayt_usfm.zip",
+        "updated": "2024-07-26",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

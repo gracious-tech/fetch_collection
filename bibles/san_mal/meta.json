@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Sanskrit Bible in Malayalam Script",
+        "english_abbrev": "SBMal"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "SanskritBible.in",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=119375d97b57cf04"
+    },
+    "ids": {
+        "dbl": "119375d97b57cf04",
+        "ebible": "sanmal"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=119375d97b57cf04&type=release",
+        "updated": "2018-09-26",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

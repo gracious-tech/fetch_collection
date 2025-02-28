@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Hellig Bibel (1931)",
+        "local_abbrev": "",
+        "english": "Danish Bible (1931)",
+        "english_abbrev": "DET"
+    },
+    "year": 1931,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=dan1931"
+            }
+        ],
+        "attribution": "Copyright © 1907, 1931 Det Danske Bibelselskab",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=dan1931"
+    },
+    "ids": {
+        "ebible": "dan1931"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/dan1931_usfm.zip",
+        "updated": "2021-07-19",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

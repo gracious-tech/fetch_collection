@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Kalohua Kemi ke Iesus na Polea Vitu",
+        "local_abbrev": "",
+        "english": "Vitu New Testament",
+        "english_abbrev": "VNT"
+    },
+    "year": 2019,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2019 Wyclif e Bijbelvertalers Nederland",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=wiv"
+    },
+    "ids": {
+        "ebible": "wiv"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/wiv_usfm.zip",
+        "updated": "2022-08-19",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

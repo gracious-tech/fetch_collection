@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Rote Lole Alkitab",
+        "local_abbrev": "",
+        "english": "Rote Lole Bible",
+        "english_abbrev": "RLB"
+    },
+    "year": 2004,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2004 Unit Bahasa dan Budaya",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=llg"
+    },
+    "ids": {
+        "ebible": "llg"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/llg_usfm.zip",
+        "updated": "2016-06-28",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

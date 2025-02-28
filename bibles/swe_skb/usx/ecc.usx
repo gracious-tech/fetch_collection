@@ -1,0 +1,915 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
+  <book code="ECC" style="id" />
+  <para style="h">Predikaren</para>
+  <para style="toc2">Predikaren</para>
+  <para style="mt1">Predikaren</para>
+  <para style="imt1">Inledning</para>
+  <para style="ip">Introduktion: Predikaren tar upp frågan om livets mening. Varför existerar jag? Vad är mitt syfte? Ett nyckelord är hebr. hevel som förekommer 38 gånger i boken. Den bokstavliga betydelsen är andetag, rök eller ånga och beskriver något flyktigt som hastigt avdunstar och försvinner. Ordet används 73 ggr i GT, men över 50% av förekomsterna är här i Predikaren! Det finns även en koppling till Adams och Evas andra son, Abel, vars namn på hebreiska är just Hevel, se <char style="xt"><ref loc="GEN 4:2">1 Mos 4:2</ref></char>. Hans namn är förknippat med hans död i förtid då han blev mördad av sin bror Kain, se <char style="xt"><ref loc="GEN 4:8">1 Mos 4:8</ref>, <ref loc="GEN 4:10">10</ref></char>. Även i denna bok ropar Hevels blod.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Struktur</char></para>
+  <para style="ip">Förutom inledning och sammanfattning består boken av sju enheter som formar ett kiastiskt mönster:</para>
+  <para style="ip">Introduktion (<char style="xt"><ref loc="ECC 1:1">Pred 1:1</ref></char>)</para>
+  <para style="ip"> A Poem – det flyktiga livet (<char style="xt"><ref loc="ECC 1:2-11">Pred 1:2-11</ref></char>)</para>
+  <para style="ip">  B Visdom kan inte förklara livets mening (<char style="xt"><ref loc="ECC 1:12-2:26">Pred 1:12-2:26</ref></char>)</para>
+  <para style="ip">   C Poem – tiden (<char style="xt"><ref loc="ECC 3:1-15">Pred 3:1-15</ref></char>)</para>
+  <para style="ip">    D Central del – Frukta Gud (<char style="xt"><ref loc="ECC 3:16-6:11">Pred 3:16-6:11</ref></char>)</para>
+  <para style="ip">   C Poem – tiden (<char style="xt"><ref loc="ECC 7:15-10:19">Pred 7:15-10:19</ref></char>)</para>
+  <para style="ip">  B Visdom kan inte förklara livets mening (<char style="xt"><ref loc="ECC 7:15-10:19">Pred 7:15-10:19</ref></char>)</para>
+  <para style="ip"> A Poem – det flyktiga livet (<char style="xt"><ref loc="ECC 10:20-12:8">Pred 10:20-12:8</ref></char>)</para>
+  <para style="ip">Sammanfattning (<char style="xt"><ref loc="ECC 12:9-14">Pred 12:9-14</ref></char>)</para>
+  <para style="ip">Boken består av 2 987 ord och den centrala versen är ”Detta är också fåfänglighet (tomhet; helt meningslöst) och ett jagande efter vind”, se <char style="xt"><ref loc="ECC 6:9">Pred 6:9</ref></char>. Fram till och med denna vers är det 111 verser och efter den följer också 111 verser. Dessa fem ord i 6:9b utgör det matematiska centrumet och sammanfaller också med avslutningen av det kiastiska centrumet! I denna vers finns också bokens nyckelord hevel som betyder meningslöshet och tomhet. Ordets talvärde är 37 (5+2+30). Även det totala antalet verser (222) är en multipel av 37 (6x37). Sju gånger återfinns också exakt frasen: ”Detta är också fåfänglighet (tomhet; helt meningslöst) och ett jagande efter vind” i den första halvan av boken, se <char style="xt"><ref loc="ECC 1:14">Pred 1:14</ref>; <ref loc="ECC 2:11">2:11</ref>, <ref loc="ECC 2:17">17</ref>, <ref loc="ECC 2:26">26</ref>; <ref loc="ECC 4:4">4:4</ref>, <ref loc="ECC 4:16">16</ref>; <ref loc="ECC 6:9">6:9</ref></char>. Att en snarlik fras finns en åttonde gång (i <char style="xt"><ref loc="ECC 3:19">Pred 3:19</ref></char>) visar på att det finns hopp om en ny begynnelse, se <char style="xt"><ref loc="ROM 8:19-21">Rom 8:19-21</ref></char>.</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Genre: </char> Poesi</para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Skrivet: 930 f.Kr.</char></para>
+  <para style="ib" />
+  <para style="im">
+    <char style="bd">Författare: </char> Okänd, kanske Salomo</para>
+  <para style="ip">Ingen författare anges, men beskrivningen passar in på Salomo som var Davids son, se <char style="xt"><ref loc="ECC 1:12">Pred 1:12</ref></char>. Även beskrivningen av rikedom och visdom stämmer bra, se <char style="xt"><ref loc="ECC 2:1-11">Pred 2:1-11</ref></char>. Samtidigt kan beskrivningar också indikera att boken är skriven om honom, och i så fall är datumet senare. Fynd i Qumran (4Q109) daterat till 200-175 f.Kr. visar att boken fanns med i den hebreiska Bibeln redan 400-200 f.Kr.</para>
+  <chapter number="1" style="c" sid="ECC 1" />
+  <para style="s1">Allt är flyktigt ...</para>
+  <para style="m">
+    <verse number="1" style="v" sid="ECC 1:1" />Predikarens <char style="add">(lärarens, samlarens, sökarens – hebr. Qohelets)</char> ord, son till David, kung i Jerusalem.</para>
+  <para style="b" vid="ECC 1:1" />
+  <para style="m" vid="ECC 1:1">
+    <char style="add">[Hebr. qohelet beskriver någon som sammankallar en folkskara, talar, lär ut och även söker, samlar och sammanställer. Det hebreiska ordet för folksamling är qahal. Den som talar inför den är en qohelet vilket också är det hebreiska namnet på denna bok. Det engelska namnet är Ecclesiastes, från det grekiska ordet för folksamling ekklesia. Ordet qohelet förekommer bara sju gånger i Bibeln och alla är i denna bok, se <char style="xt"><ref loc="ECC 1:1">Pred 1:1</ref>, <ref loc="ECC 1:2">2</ref>, <ref loc="ECC 1:12">12</ref>; <ref loc="ECC 7:27">7:27</ref>; <ref loc="ECC 12:8">12:8</ref>, <ref loc="ECC 12:9">9</ref>, <ref loc="ECC 12:10">10</ref></char>.]</char><verse eid="ECC 1:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="ECC 1:2" />”Fåfängans fåfängligheter <char style="add">(hebr. hevel havalim)</char>”,</para>
+  <para style="p" vid="ECC 1:2">säger <char style="add">[klagar]</char> Predikaren <char style="add">(sökaren, läraren, talmannen – hebr. Qohelet)</char>,</para>
+  <para style="m" vid="ECC 1:2">”fåfängans fåfängligheter,</para>
+  <para style="p" vid="ECC 1:2">allt är fåfängt.” <char style="add">[<char style="xt"><ref loc="ROM 8:20">Rom 8:20</ref></char>]</char></para>
+  <para style="b" vid="ECC 1:2" />
+  <para style="m" vid="ECC 1:2">
+    <char style="add">[Hebreiskans ord för fåfänga (hebr. hevel) förekommer 38 gånger i Predikaren, vilket är mer än i alla andra GT-böcker tillsammans. Ordet betyder andetag, rök eller ånga och beskriver något flyktigt som hastigt avdunstar och försvinner. Upprepningen av ordet förstärker graden av tomhet och meningslöshet. Adams och Evas andra son, Abel, är på hebreiska just Hevel, se <char style="xt"><ref loc="GEN 4:1-2">1 Mos 4:1-2</ref></char>. Kanske valet av namn reflekterade missmodet efter första sonen Kain, som inte visade sig vara löftet i <char style="xt"><ref loc="GEN 3:15">1 Mos 3:15</ref></char>.]</char></para>
+  <para style="qc" vid="ECC 1:2">______</para>
+  <para style="b" vid="ECC 1:2" />
+  <para style="m" vid="ECC 1:2" />
+  <para style="s2" vid="ECC 1:2">Dikt – det flyktiga livet!</para>
+  <para style="m" vid="ECC 1:2" />
+  <para style="m" vid="ECC 1:2">
+    <char style="add">[Vers 3-11 beskriver livets flyktighet. Genom att beskriva den mänskliga livscykeln, vattnets kretslopp och naturens gång, visar författaren hur lite individen kan påverka. Genom hela boken finns två perspektiv: under solen och under himlarna. I det första perspektivet ”under solen” (dvs. rent mänskligt – utan Gud) är livet meningslöst. Men i det högre perspektivet ”under himlarna” (när också Gud får finns med i ekvationen) finns det dock en mening, se <char style="xt"><ref loc="ECC 3:1">Pred 3:1</ref></char>!]</char><verse eid="ECC 1:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="ECC 1:3" />Vilken vinst har en man av allt sitt arbete</para>
+  <para style="p" vid="ECC 1:3">som han arbetar med under solen?<verse eid="ECC 1:3" /></para>
+  <para style="m">
+    <verse number="4" style="v" sid="ECC 1:4" />En generation går, en annan generation kommer,</para>
+  <para style="p" vid="ECC 1:4">och jorden förblir för alltid.<verse eid="ECC 1:4" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="5" style="v" sid="ECC 1:5" />Solen går upp och solen går ner,</para>
+  <para style="p" vid="ECC 1:5">och skyndar sig till den plats där den går upp.<verse eid="ECC 1:5" /></para>
+  <para style="m">
+    <verse number="6" style="v" sid="ECC 1:6" />Vinden går mot söder</para>
+  <para style="p" vid="ECC 1:6">och vänder sig om mot norr,</para>
+  <para style="m" vid="ECC 1:6">den vänder sig kontinuerligt i sitt lopp</para>
+  <para style="p" vid="ECC 1:6">och den kommer tillbaka igen i sin bana.<verse eid="ECC 1:6" /></para>
+  <para style="m">
+    <verse number="7" style="v" sid="ECC 1:7" />Alla floder rinner mot havet,</para>
+  <para style="p" vid="ECC 1:7">ändå blir havet inte fullt.</para>
+  <para style="m" vid="ECC 1:7">Till de platser där floderna rinner upp,</para>
+  <para style="p" vid="ECC 1:7">dit återvänder de igen. <char style="add">[Här beskrivs vattnets kretslopp.]</char><verse eid="ECC 1:7" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="8" style="v" sid="ECC 1:8" />Alla ord <char style="add">(saker)</char> tröttar ut,</para>
+  <para style="p" vid="ECC 1:8">en man kan inte tala <char style="add">(omfamna)</char> dem <char style="add">[alla]</char>,</para>
+  <para style="m" vid="ECC 1:8">ögat blir inte mätt <char style="add">(tillfredsställt)</char> på att se,</para>
+  <para style="p" vid="ECC 1:8">inte heller örat fullt av att höra.<verse eid="ECC 1:8" /></para>
+  <para style="m">
+    <verse number="9" style="v" sid="ECC 1:9" />Det som har varit är det som ska komma,</para>
+  <para style="p" vid="ECC 1:9">och det som har gjorts är det som ska göras <char style="add">(igen)</char>,</para>
+  <para style="p" vid="ECC 1:9">det finns ingenting nytt under solen.<verse eid="ECC 1:9" /></para>
+  <para style="m">
+    <verse number="10" style="v" sid="ECC 1:10" />Finns det någonting, om vilket man kan säga:</para>
+  <para style="p" vid="ECC 1:10">”Se, detta är nytt?”</para>
+  <para style="m" vid="ECC 1:10">Det har redan funnits i tidsåldrar före oss <char style="add">[långt före vår tid]</char>.<verse eid="ECC 1:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="ECC 1:11" />Det finns inget minne av dem som varit först <char style="add">(levt före oss)</char>,</para>
+  <para style="p" vid="ECC 1:11">inte heller kommer det att finnas något minne av dem som kommer senare,</para>
+  <para style="m" vid="ECC 1:11">bland dem som ska komma efter <char style="add">(leva efter oss)</char>.</para>
+  <para style="qc" vid="ECC 1:11">______<verse eid="ECC 1:11" /></para>
+  <para style="b" />
+  <para style="m" />
+  <para style="s1">Människan kan inte förstå livets mening (1:12-2:26)</para>
+  <para style="m">
+    <verse number="12" style="v" sid="ECC 1:12" />
+    <char style="add">[Nu följer ett stycke där Predikaren försöker förstå meningen med livet. Stilen skiftar från poesi till prosa och från tredje person till första person. Sju områden undersöks om de kan ge svaret på livets mening, men alla kommer till samma deprimerande svar. Gåtan om livets mening kvarstår.]</char></para>
+  <para style="s2" vid="ECC 1:12">1. Försök att hitta en filosofisk förklaring</para>
+  <para style="m" vid="ECC 1:12">Jag, Predikaren <char style="add">(läraren, samlaren, sökaren – hebr. Qohelet)</char>, är kung över Israel i Jerusalem. <char style="add">[Benämningen passar in på kung Salomo.]</char> <verse eid="ECC 1:12" /><verse number="13" style="v" sid="ECC 1:13" />Jag har ägnat mitt hjärta åt att leta efter och söka att förstå vad vishet är på alla områden som finns under himlarna. Det är en stor sak som Gud <char style="add">(Elohim)</char> har gett till jordens söner <char style="add">(människosläktet)</char> att förkovra sig i <char style="add">(ägna sig åt)</char>. <verse eid="ECC 1:13" /><verse number="14" style="v" sid="ECC 1:14" />Jag har sett allt arbete som görs under solen, och se, detta är också fåfänglighet <char style="add">(tomhet; helt meningslöst)</char> och ett jagande efter vind.<verse eid="ECC 1:14" /></para>
+  <para style="m">
+    <verse number="15" style="v" sid="ECC 1:15" />Det som är krokigt kan inte göras rakt</para>
+  <para style="p" vid="ECC 1:15">och det som man saknar <char style="add">(inte har)</char> kan inte räknas.</para>
+  <para style="b" vid="ECC 1:15" />
+  <para style="m" vid="ECC 1:15">
+    <char style="add">[I det första av de sju områdena visar det sig att människan själv inte filosofiskt kan förstå meningen med livet, det är bara ett jagande efter vind, se vers 14.]</char></para>
+  <para style="s2" vid="ECC 1:15">2. Sökande i kunskap</para>
+  <para style="m" vid="ECC 1:15" />
+  <para style="m" vid="ECC 1:15">
+    <char style="add">[Predikaren tar nu upp en dialog mellan sig själv och sitt hjärta. I hebreiskan står det ordagrant ”jag talar” följt av ”jag”, vilket ger en betoning och eftertryck.]</char><verse eid="ECC 1:15" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="16" style="v" sid="ECC 1:16" />Jag, jag talade själv <char style="add">[jag upprepas för att ge betoning]</char> med mitt eget hjärta och sa: ”Se, jag har fått stor <char style="add">[moralisk]</char> vishet, mer än det som tidigare funnits före mig i Jerusalem, och mitt hjärta har sett mycket <char style="add">[moralisk]</char> vishet och kunskap <char style="add">(personlig erfarenhet)</char>.” <verse eid="ECC 1:16" /><verse number="17" style="v" sid="ECC 1:17" />Jag har ägnat mitt hjärta åt att känna till <char style="add">(få personlig kunskap om)</char> vishet, och att känna till <char style="add">(vara förtrogen med)</char> dårskap och galenskap, jag insåg att det också var ett jagande efter vind.<verse eid="ECC 1:17" /></para>
+  <para style="m">
+    <verse number="18" style="v" sid="ECC 1:18" />För i mycket visdom är mycket förtret <char style="add">(sorg, ilska)</char>,</para>
+  <para style="p" vid="ECC 1:18">och han som förökar kunskapen <char style="add">(baserad på personlig erfarenhet)</char>, förökar sorgerna.</para>
+  <para style="b" vid="ECC 1:18" />
+  <para style="m" vid="ECC 1:18">
+    <char style="add">[Ordet för ”vishet” (hebr. chochmah) beskriver en moralisk vishet att kunna avgöra vad som är rätt och fel. Ordet för ”kunskap” är dat som beskriver en personlig erfarenhet och att vara väl förtrogen med något. Det är en kunskap som utforskar djupet av tingens väsen. Verbet ”känna”, som används i vers 17, används i Bibeln även för att beskriva det mest intima mänskliga umgänget, se <char style="xt"><ref loc="GEN 4:1">1 Mos 4:1</ref></char>. </char></para>
+  <para style="p" vid="ECC 1:18">
+    <char style="add">Besvikelse: Även kunskap är ett jagande efter vind, se vers 17.]</char><verse eid="ECC 1:18" /></para>
+  <chapter eid="ECC 1" />
+  <chapter number="2" style="c" sid="ECC 2" />
+  <para style="s2">3. Nöje – leva för dagen</para>
+  <para style="m">
+    <verse number="1" style="v" sid="ECC 2:1" />Jag, jag själv <char style="add">[jag upprepas för att ge betoning, se <char style="xt"><ref loc="ECC 1:16">Pred 1:16</ref></char>]</char> säger i mitt hjärta: ”Kom, jag ska pröva dig med munterhet och glädje i det goda” Och se, även detta är fåfänga <char style="add">(något som försvinner snabbt; tomhet)</char>.<verse eid="ECC 2:1" /></para>
+  <para style="m">
+    <verse number="2" style="v" sid="ECC 2:2" />Jag sa om skrattet: ”Det är dårskap”,</para>
+  <para style="p" vid="ECC 2:2">och om glädjen <char style="add">(munterheten – hebr. simchah)</char>: ”Vad gör den för nytta <char style="add">(vad tjänar det till)</char>?”</para>
+  <para style="b" vid="ECC 2:2" />
+  <para style="m" vid="ECC 2:2">
+    <char style="add">[Ordet som här översätts dårskap, delar rot med ordet för lovprisning och halleluja. Det visar oss att skrattet kan vara både det bästa och det sämsta. Eftersom detta är i ett filosofiskt resonemang bör man förmoda att motivet till skratt och munterhet är avgörande för om det ska betraktas som dårskap eller lovprisning. </char></para>
+  <para style="p" vid="ECC 2:2">
+    <char style="add">Besvikelse: Skratt och glädje ger inte heller svaret på livets mening, när allt är över så har inget åstadkommits.]</char><verse eid="ECC 2:2" /></para>
+  <para style="s2">4. Alkohol – verklighetsflykt</para>
+  <para style="m">
+    <verse number="3" style="v" sid="ECC 2:3" />Jag sökte i mitt hjärta hur jag skulle kunna skämma bort mitt kött <char style="add">(min kropp)</char> med vin, och mitt hjärta ledsagade sig självt med vishet om hur man håller fast vid dårskap, till dess jag såg vad som är bäst för människosläktets söner, vad de ska göra under himlarna de få dagarna av sina liv.</para>
+  <para style="b" vid="ECC 2:3" />
+  <para style="m" vid="ECC 2:3">
+    <char style="add">[Besvikelse: Frågan om livets mening kan inte tryckas ner med alkohol och droger.]</char><verse eid="ECC 2:3" /></para>
+  <para style="s2">5. Arbete – rikedom</para>
+  <para style="m">
+    <verse number="4" style="v" sid="ECC 2:4" />Jag gjorde mig stora planer, jag byggde hus, jag planterade mig vingårdar, <verse eid="ECC 2:4" /><verse number="5" style="v" sid="ECC 2:5" />jag gjorde mig trädgårdar och parker och jag planterade alla slags fruktträd. <verse eid="ECC 2:5" /><verse number="6" style="v" sid="ECC 2:6" />Jag gjorde mig vattendammar för att bevattna skogen som växte upp med träd. <verse eid="ECC 2:6" /><verse number="7" style="v" sid="ECC 2:7" />Jag skaffade mig tjänare och tjänarinnor och tjänare föddes i mitt hus. Jag hade också en stor boskapshjord och småboskap, förutom allt som jag hade hos mig i Jerusalem. <verse eid="ECC 2:7" /><verse number="8" style="v" sid="ECC 2:8" />Jag samlade också åt mig silver och guld och skatter, sådana som kungar och provinser har som sina egna. Jag hade manliga sångare och kvinnliga sångare och människosönernas behag – kvinnor, väldigt många. <verse eid="ECC 2:8" /><verse number="9" style="v" sid="ECC 2:9" />Jag var stor och förökades mer än alla som varit före mig i Jerusalem, även min visdom förblev befäst.<verse eid="ECC 2:9" /></para>
+  <para style="m">
+    <verse number="10" style="v" sid="ECC 2:10" />Vad än mina ögon önskade <char style="add">(begärde)</char></para>
+  <para style="p" vid="ECC 2:10">så nekade <char style="add">(hindrade)</char> jag dem inget.</para>
+  <para style="m" vid="ECC 2:10">Jag undanhöll inte <char style="add">(vägrade inte)</char> mitt hjärta någon glädje <char style="add">(hebr. simchah)</char>,</para>
+  <para style="p" vid="ECC 2:10">för mitt hjärta fann glädje i mitt arbete och detta var min del <char style="add">(vinning, lön)</char> för allt mitt arbete.<verse eid="ECC 2:10" /></para>
+  <para style="m">
+    <verse number="11" style="v" sid="ECC 2:11" />Sedan vände jag mig om <char style="add">[för att betrakta och kontemplera]</char> allt som mina händer hade gjort</para>
+  <para style="p" vid="ECC 2:11">och arbetet som jag ägnat mig åt,</para>
+  <para style="m" vid="ECC 2:11">och se, detta är också fåfänglighet <char style="add">(tomhet; helt meningslöst)</char> och ett jagande efter vind,</para>
+  <para style="p" vid="ECC 2:11">och det fanns ingen vinning under solen.</para>
+  <para style="b" vid="ECC 2:11" />
+  <para style="m" vid="ECC 2:11">
+    <char style="add">[Besvikelse: En människas arbete, livsverk och rikedom, ger inte heller varaktig tillfredsställelse med livet. Ordet glädje binder samman denna enhet med den tredje, se vers 2.]</char><verse eid="ECC 2:11" /></para>
+  <para style="s2">6. Vishet – renlärigt leverne</para>
+  <para style="m">
+    <verse number="12" style="v" sid="ECC 2:12" />Jag, jag vände mig själv <char style="add">[jag upprepas för att ge betoning, se <char style="xt"><ref loc="ECC 1:16">Pred 1:16</ref></char>]</char> till att se på visheten, dårskapen och dumheten – för vad kan människan <char style="add">(hebr. adam)</char> göra, som kommer efter kungen <char style="add">[Qohelet – Predikaren själv]</char>, förutom det som redan är gjort?</para>
+  <para style="b" vid="ECC 2:12" />
+  <para style="m" vid="ECC 2:12">
+    <char style="add">[Versen är inte helt lätt att översätta. Kungen kan syfta på Predikaren själv, kung Salomo, ”visa råd” eller Gud själv. En annan tolkning är att ”kungen” är den första människan som var Adam. Syftar det på Predikaren själv blir betydelsen till läsaren, att om han med alla sina resurser och möjligheter som kung inte lyckades hitta livets mening på dessa sju områden, ta honom på hans ord och tro inte att du själv kommer hitta det på något av dessa områden, det har redan prövats!]</char><verse eid="ECC 2:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="ECC 2:13" />Sedan insåg jag att visheten skiljer sig från <char style="add">(överglänser)</char> dårskapen</para>
+  <para style="p" vid="ECC 2:13">lika mycket som ljuset skiljer sig från <char style="add">(överglänser)</char> mörkret.<verse eid="ECC 2:13" /></para>
+  <para style="m">
+    <verse number="14" style="v" sid="ECC 2:14" />Den vise har ögon i sitt huvud <char style="add">(förmåga att se)</char>,</para>
+  <para style="p" vid="ECC 2:14">medan <char style="add">[den oresonlige]</char> dåren vandrar i mörker.</para>
+  <para style="m" vid="ECC 2:14">Ändå insåg jag <char style="add">[djupt inom mig]</char></para>
+  <para style="p" vid="ECC 2:14">– samma händelse drabbar dem båda.<verse eid="ECC 2:14" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="15" style="v" sid="ECC 2:15" />Då sa jag i mitt hjärta:</para>
+  <para style="b" vid="ECC 2:15" />
+  <para style="m" vid="ECC 2:15">”Som det händer för dåren</para>
+  <para style="p" vid="ECC 2:15">så kommer det också att hända för mig,</para>
+  <para style="p" vid="ECC 2:15">varför har jag då mer vishet?”</para>
+  <para style="m" vid="ECC 2:15">Så jag, jag talade i mitt hjärta:</para>
+  <para style="p" vid="ECC 2:15">”Detta är också fåfängt.”<verse eid="ECC 2:15" /></para>
+  <para style="m" />
+  <para style="m">
+    <verse number="16" style="v" sid="ECC 2:16" />För av den vise mannen likaväl som dåren,</para>
+  <para style="p" vid="ECC 2:16">finns inget minne för alltid,</para>
+  <para style="m" vid="ECC 2:16">för i kommande dagar <char style="add">(tider)</char></para>
+  <para style="p" vid="ECC 2:16">är allt som varit <char style="add">(ägt rum)</char> för länge sedan, bortglömt.</para>
+  <para style="m" vid="ECC 2:16">Och den vise mannen måste dö</para>
+  <para style="p" vid="ECC 2:16">precis som dåren.</para>
+  <para style="b" vid="ECC 2:16" />
+  <para style="m" vid="ECC 2:16">
+    <char style="add">[Besvikelse: Att leva vist har visst värde, men kan ändå inte förklara livets mening. Både den vise, på samma sätt som dåren, dör båda och är bortglömda. Ett nyckelord här är vishet (hebr. chochmah, se vers 12-13) som också används i sektion 2, se <char style="xt"><ref loc="ECC 1:16-18">Pred 1:16-18</ref></char>.]</char><verse eid="ECC 2:16" /></para>
+  <para style="s2">7. Filantropi – lämna ett arv för nästa generation</para>
+  <para style="m">
+    <verse number="17" style="v" sid="ECC 2:17" />Och jag hatade livet eftersom arbetet som görs under solen är smärtsamt för mig, för detta är fåfänglighet <char style="add">(tomhet; helt meningslöst)</char> och ett jagande efter vind. <verse eid="ECC 2:17" /><verse number="18" style="v" sid="ECC 2:18" />Och jag, jag hatar allt mitt arbete som jag arbetar med under solen, eftersom jag ser att jag måste lämna det till en människa som ska komma efter mig, <verse eid="ECC 2:18" /><verse number="19" style="v" sid="ECC 2:19" />och vem vet om han är en vis man eller en dåre? Oavsett kommer han att råda över allt arbete som jag har arbetat med och där jag har visat mig vis under solen.</para>
+  <para style="b" vid="ECC 2:19" />
+  <para style="m" vid="ECC 2:19">Detta är också fåfängt. <verse eid="ECC 2:19" /><verse number="20" style="v" sid="ECC 2:20" />Därför vänder jag mig helt om för att få mitt hjärta att förtvivla om allt arbete som jag har arbetat med under solen. <verse eid="ECC 2:20" /><verse number="21" style="v" sid="ECC 2:21" />Det finns en människa vars arbete är gjort med vishet och med kunskap och med skicklighet, ändå ska det lämnas som en del <char style="add">(arvedel)</char> till en människa som inte har deltagit i arbetet.</para>
+  <para style="b" vid="ECC 2:21" />
+  <para style="m" vid="ECC 2:21">Detta är också fåfängt och en stor ondska.<verse eid="ECC 2:21" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="22" style="v" sid="ECC 2:22" />Vad har en människa för allt sitt arbete och för sitt hjärtas strävan som hon har arbetat med under solen? <verse eid="ECC 2:22" /><verse number="23" style="v" sid="ECC 2:23" />Alla hennes dagar är smärta <char style="add">(fyllda med lidande)</char> och hennes sysselsättning förtret <char style="add">(arbetet är frusterande och ger besvikelse)</char>, inte ens på natten får hennes hjärta vila.</para>
+  <para style="b" vid="ECC 2:23" />
+  <para style="m" vid="ECC 2:23">Detta är också fåfängt.</para>
+  <para style="b" vid="ECC 2:23" />
+  <para style="m" vid="ECC 2:23">
+    <char style="add">[Besvikelse: Vem vet vad nästa generation kommer att göra med de resurser som sparats åt dem, de kan t.o.m. använda dem till ondska och dårskap. Salomos son var Rehabeam.]</char><verse eid="ECC 2:23" /></para>
+  <para style="s2">Slutsats</para>
+  <para style="m">
+    <verse number="24" style="v" sid="ECC 2:24" />Det finns inget bättre för en människa än att hon får äta och dricka och att hon kan låta sin själ njuta av sitt arbete. Detta såg jag också, att det är från Guds <char style="add">(Elohims)</char> hand. <verse eid="ECC 2:24" /><verse number="25" style="v" sid="ECC 2:25" />För vem kan <char style="add">(ska)</char> äta och vem kan <char style="add">(ska)</char> njuta, åtskild från honom? <verse eid="ECC 2:25" /><verse number="26" style="v" sid="ECC 2:26" />För till den människa som är god i hans åsyn ger han vishet och kunskap <char style="add">(personlig erfarenhet)</char> och glädje, men till syndaren ger han besväret att samla in och lägga på hög, för att det ska lämnas till den som är god i Guds <char style="add">(Elohims)</char> åsyn.</para>
+  <para style="b" vid="ECC 2:26" />
+  <para style="m" vid="ECC 2:26">Detta är också fåfänglighet <char style="add">(tomhet; helt meningslöst)</char> och ett jagande efter vind.<verse eid="ECC 2:26" /></para>
+  <chapter eid="ECC 2" />
+  <chapter number="3" style="c" sid="ECC 3" />
+  <para style="s1">Poem om tid</para>
+  <para style="m">
+    <verse number="1" style="v" sid="ECC 3:1" />
+    <char style="add">[Vers 1-8 är en stor kiasm. Den inleds i vers 1 där två olika ord för tid används, en bestämd tid och ett intervall av tid. Vers 2-8 består av fjorton par. De tolv första är ordnade i ett fint kiastiskt mönster. Vers 2 börjar med det positiva (födas, plantera). Vers 3-4 vänder på det och börjar med det negativa (döda, bryta ner, gråta, sörja). I mitten speglas kiasmen. Vers 5-6 har den positiva komponenten först. Vers 7 speglar vers 2 och börjar då med den negativa komponenten (riva isär, vara tyst). Vers 8 avslutar med en egen kiasm som ramas in av älska/frid och centralt finns hata och föra krig. Den hör ihop med vers 1, och tillsammans ramar de in hela stycket. Nedan är det positiva ordet fetmarkerat. </char></para>
+  <para style="p" vid="ECC 3:1">
+    <char style="add">Att se kiasmen hjälper även i tolkning. En tid att ”kasta bort” (hebr. shalach) stenar i vers 5 måste vara något positivt, och därför är troligaste tolkningen att det har att göra med att utvidga åkermark. Här finns även en kiasm i ordval, vers 6 slutar med samma hebreiska ord för att ”kasta bort” och markerar att vers 5-6 hör ihop som en mindre enhet. Dock är betydelsen i vers 6 den negativa – att kasta bort något.]</char></para>
+  <para style="qc" vid="ECC 3:1">______</para>
+  <para style="b" vid="ECC 3:1" />
+  <para style="m" vid="ECC 3:1">Till allt finns</para>
+  <para style="p" vid="ECC 3:1">en bestämd tidpunkt <char style="add">(avtalad, överenskommen tid)</char>,</para>
+  <para style="p" vid="ECC 3:1">och en lämplig tid <char style="add">(period; säsong)</char></para>
+  <para style="m" vid="ECC 3:1">till allt behagligt <char style="add">(gott; alla glädjefyllda aktiviteter)</char> under himlarna.<verse eid="ECC 3:1" /></para>
+  <para style="m">
+    <verse number="2" style="v" sid="ECC 3:2" />En tid att <char style="bd">födas</char> <char style="add">(ge födsel)</char> – och en tid att dö,</para>
+  <para style="m" vid="ECC 3:2">en tid att <char style="bd">plantera</char> – och en tid att rycka upp det som planterats,<verse eid="ECC 3:2" /></para>
+  <para style="m">
+    <verse number="3" style="v" sid="ECC 3:3" />en tid att döda <char style="add">(slakta)</char> – och en tid att <char style="bd">läka</char>,</para>
+  <para style="m" vid="ECC 3:3">en tid att bryta ner – och en tid att <char style="bd">bygga upp</char>,<verse eid="ECC 3:3" /></para>
+  <para style="m">
+    <verse number="4" style="v" sid="ECC 3:4" />en tid att gråta – och en tid att <char style="bd">skratta</char>,</para>
+  <para style="m" vid="ECC 3:4">en tid att sörja – och en tid att <char style="bd">dansa</char>,<verse eid="ECC 3:4" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="5" style="v" sid="ECC 3:5" />en tid att <char style="bd">kasta bort</char> <char style="add">(hebr. shalach)</char> stenar <char style="add">[för att bereda åkermark]</char> – och en tid att samla ihop stenar,</para>
+  <para style="m" vid="ECC 3:5">en tid att <char style="bd">omfamnas</char> <char style="add">(ta i famn, kramas)</char> – och en tid att avstå från omfamning <char style="add">(kramar)</char>,<verse eid="ECC 3:5" /></para>
+  <para style="m">
+    <verse number="6" style="v" sid="ECC 3:6" />en tid att <char style="bd">söka</char> <char style="add">(leta upp)</char> – och en tid att förlora,</para>
+  <para style="m" vid="ECC 3:6">en tid att <char style="bd">behålla</char> – och en tid att kasta bort <char style="add">(hebr. shalach)</char>,<verse eid="ECC 3:6" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="7" style="v" sid="ECC 3:7" />en tid att slita sönder – och en tid att <char style="bd">sy ihop</char>,</para>
+  <para style="m" vid="ECC 3:7">en tid att vara tyst – och en tid att <char style="bd">tala</char>,<verse eid="ECC 3:7" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="8" style="v" sid="ECC 3:8" />en tid att <char style="bd">älska</char></para>
+  <para style="p" vid="ECC 3:8">och en tid att hata,</para>
+  <para style="p" vid="ECC 3:8">en tid för krig,</para>
+  <para style="m" vid="ECC 3:8">och en tid för <char style="bd">fred</char>.</para>
+  <para style="qc" vid="ECC 3:8">______<verse eid="ECC 3:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="ECC 3:9" />Vilken vinning har den som arbetar av det han arbetar med? <verse eid="ECC 3:9" /><verse number="10" style="v" sid="ECC 3:10" />Jag har sett bestyren, som Gud <char style="add">(Elohim)</char> har gett till människans söner att utöva. <verse eid="ECC 3:10" /><verse number="11" style="v" sid="ECC 3:11" />Han har gjort allt vackert <char style="add">(lämpligt, passande)</char> för sin <char style="add">(hans)</char> tid <char style="add">[alla mänskliga bestyr (vers 10) och livets kontraster (vers 1-8) har sin fulländning i Gud]</char>, han har även gett evigheten <char style="add">(det dolda – hebr. ha olam)</char> i deras hjärtan så att människan inte kan utforska <char style="add">(hitta, förstå)</char> det arbete som Gud <char style="add">(Elohim)</char> har gjort från första början <char style="add">(ordagrant från huvudet)</char> ända till slutet.</para>
+  <para style="b" vid="ECC 3:11" />
+  <para style="m" vid="ECC 3:11">
+    <char style="add">[Här är enda gången i GT olam står i bestämd form. Detta är den fjärde (och centrala) av sju förekomster i Predikaren. Ordet olam härstammar från alam som betyder dold. En betydelse är något som är dolt och inte kan ses. Ordet har också betydelsen av tidsåldrar som har varit (<char style="xt"><ref loc="ECC 1:10">Pred 1:10</ref></char>) och framtiden och evigheten (<char style="xt"><ref loc="ECC 1:4">Pred 1:4</ref></char>). Senare judisk tolkning översätter ordet med ”världen”. Människan är skapad i Guds avbild (<char style="xt"><ref loc="GEN 1:27">1 Mos 1:27</ref></char>), och i varje människa finns en nedlagd gudslängtan (<char style="xt"><ref loc="ROM 1:19">Rom 1:19</ref></char>).]</char><verse eid="ECC 3:11" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="12" style="v" sid="ECC 3:12" />Jag vet att det inte finns något bättre för dem än att glädja sig och att vara tillfredsställda så länge som de lever. <verse eid="ECC 3:12" /><verse number="13" style="v" sid="ECC 3:13" />Men också det att varje människa ska äta och dricka och finna glädje i sitt arbete, är en gåva från Gud <char style="add">(Elohim)</char>.<verse eid="ECC 3:13" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="14" style="v" sid="ECC 3:14" />Jag vet att vad än Gud <char style="add">(Elohim)</char> gör, varar det för evigt. Ingenting kan läggas därtill, inte heller kan något dras därifrån, för så har Gud <char style="add">(Elohim)</char> gjort <char style="add">(ordnat)</char> det för att man ska vörda <char style="add">(frukta, ha gudsfruktan)</char> honom.</para>
+  <para style="b" vid="ECC 3:14" />
+  <para style="m" vid="ECC 3:14">
+    <char style="add">[Predikarens dubbla ”jag vet” (vers 12 och 14) verkar fungera som en kontrast till ”jag har sett” (vers 10, 16, 22). Det han har sett kommer från observation och erfarenhet, medan ”vetandet” kommer från intuitiv kunskap.]</char><verse eid="ECC 3:14" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="15" style="v" sid="ECC 3:15" />Vad som är har funnits sedan länge</para>
+  <para style="p" vid="ECC 3:15">och det som ska komma finns redan,</para>
+  <para style="p" vid="ECC 3:15">och Gud <char style="add">(Elohim)</char> söker det som jagas.<verse eid="ECC 3:15" /></para>
+  <para style="m">
+    <verse number="16" style="v" sid="ECC 3:16" />Dessutom såg jag under solen,</para>
+  <para style="p" vid="ECC 3:16">på rättens plats – att ondskan var där,</para>
+  <para style="p" vid="ECC 3:16">och på rättfärdighetens plats – att ondskan var där.<verse eid="ECC 3:16" /></para>
+  <para style="m">
+    <verse number="17" style="v" sid="ECC 3:17" />Jag, jag <char style="add">[jag upprepas för att ge betoning, se <char style="xt"><ref loc="ECC 1:16">Pred 1:16</ref></char>]</char> sa i mitt hjärta: ”Gud <char style="add">(Elohim)</char> ska döma <char style="add">[både]</char></para>
+  <para style="p" vid="ECC 3:17">de rättfärdiga och de onda,</para>
+  <para style="m" vid="ECC 3:17">för det finns en tid <char style="add">(period)</char> för varje önskan</para>
+  <para style="p" vid="ECC 3:17">och för varje arbete.”<verse eid="ECC 3:17" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="18" style="v" sid="ECC 3:18" />Jag, jag sa i mitt hjärta: ”Det är på grund av människans söner som Gud <char style="add">(Elohim)</char> sållar dem, för att de ska se att de i sig själva är som vilddjur.” <verse eid="ECC 3:18" /><verse number="19" style="v" sid="ECC 3:19" />För det som drabbar människans söner, drabbar vilddjuren. En sak drabbar dem – som den ene dör så dör den andre, alla har en ande <char style="add">(alternativ översättning: de andas alla)</char>. I detta har människan ingen fördel framför vilddjuret, för allt är fåfängt <char style="add">(tomhet; helt meningslöst)</char>.</para>
+  <para style="b" vid="ECC 3:19" />
+  <para style="m" vid="ECC 3:19">
+    <char style="add">[Hebreiskan har helt andra uttryckssätt än vårt språk. Men det som ligger i denna mening är att allt som andas har en ande och så länge som vi andas lever vi, när vi slutar andas dör vi. I detta avseende finns det ingen skillnad på människor och djur. Annars skiljer Bibeln noga på djur och människor, för det är enbart människan som är skapad till Guds avbild. I detta är människan unik och har inget samröre med djuren.]</char><verse eid="ECC 3:19" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="20" style="v" sid="ECC 3:20" />Alla går till en plats, alla är av stoft och alla återvänder till stoft. <char style="add">[Människan formades av stoft, se <char style="xt"><ref loc="GEN 2:7">1 Mos 2:7</ref>; <ref loc="GEN 3:19">3:19</ref></char>.]</char> <verse eid="ECC 3:20" /><verse number="21" style="v" sid="ECC 3:21" />Vem vet om människans ande går uppåt eller om vilddjurets ande går nedåt till jorden?<verse eid="ECC 3:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ECC 3:22" />Och jag har sett att det inte finns något bättre än att människan ska glädja sig i sitt arbete, för det är hennes del, för vem ska låta henne se vad som ska komma efter henne?<verse eid="ECC 3:22" /></para>
+  <chapter eid="ECC 3" />
+  <chapter number="4" style="c" sid="ECC 4" />
+  <para style="s2">Livet är fullt av lidande</para>
+  <para style="m">
+    <verse number="1" style="v" sid="ECC 4:1" />Igen såg jag <char style="add">(jag vände mig och såg på nytt)</char> alla de våldsgärningar som ständigt sker under solen.</para>
+  <para style="b" vid="ECC 4:1" />
+  <para style="m" vid="ECC 4:1">Jag ser tårarna hos dem som är förtryckta</para>
+  <para style="p" vid="ECC 4:1">och de har ingen tröstare,</para>
+  <para style="m" vid="ECC 4:1">och vid sidan av deras förtryckare är kraft <char style="add">(makt)</char>,</para>
+  <para style="p" vid="ECC 4:1">men de har ingen som tröstar dem,<verse eid="ECC 4:1" /></para>
+  <para style="m">
+    <verse number="2" style="v" sid="ECC 4:2" />varför jag prisar de döda</para>
+  <para style="p" vid="ECC 4:2">som redan har dött</para>
+  <para style="m" vid="ECC 4:2">mer än de levande</para>
+  <para style="p" vid="ECC 4:2">som fortfarande lever.<verse eid="ECC 4:2" /></para>
+  <para style="m">
+    <verse number="3" style="v" sid="ECC 4:3" />Men bättre än de båda</para>
+  <para style="p" vid="ECC 4:3">är han som ännu inte har blivit <char style="add">(är ofödd)</char>,</para>
+  <para style="m" vid="ECC 4:3">som inte har sett ondskans arbete</para>
+  <para style="p" vid="ECC 4:3">som görs under solen.<verse eid="ECC 4:3" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="4" style="v" sid="ECC 4:4" />Återigen begrundade jag allt arbete och alla som utmärker sig i sitt arbete <char style="add">(är yrkesskickliga)</char>, det är en mans tävlan <char style="add">(rivalitet)</char> med sin granne.</para>
+  <para style="b" vid="ECC 4:4" />
+  <para style="m" vid="ECC 4:4">Detta är också fåfänglighet <char style="add">(tomhet; helt meningslöst)</char> och ett jagande efter vind.<verse eid="ECC 4:4" /></para>
+  <para style="m">
+    <verse number="5" style="v" sid="ECC 4:5" />Dåren knäpper ihop sina händer</para>
+  <para style="p" vid="ECC 4:5">och äter sitt eget kött.<verse eid="ECC 4:5" /></para>
+  <para style="m">
+    <verse number="6" style="v" sid="ECC 4:6" />Bättre en handfull lugn <char style="add">(lite ro, stillhet)</char></para>
+  <para style="p" vid="ECC 4:6">än båda händerna fulla av arbete</para>
+  <para style="p" vid="ECC 4:6">och strävande efter vind.<verse eid="ECC 4:6" /></para>
+  <para style="b" />
+  <para style="m" />
+  <para style="s2">Världen är full av olyckliga människor som samlar jordiska skatter</para>
+  <para style="m">
+    <verse number="7" style="v" sid="ECC 4:7" />Igen såg jag <char style="add">(jag vände mig och såg på nytt)</char> något som är fåfängligt under solen:<verse eid="ECC 4:7" /></para>
+  <para style="m">
+    <verse number="8" style="v" sid="ECC 4:8" />Där är en ensam och han har ingen tid,</para>
+  <para style="p" vid="ECC 4:8">han har varken son eller bror,</para>
+  <para style="m" vid="ECC 4:8">och ändå är det inget slut på hans arbete,</para>
+  <para style="p" vid="ECC 4:8">inte heller är hans ögon tillfredsställda av rikedom:</para>
+  <para style="m" vid="ECC 4:8">”För vem arbetar jag då och håller min själ borta från det goda <char style="add">(berövar min själ njutning)</char>?”</para>
+  <para style="b" vid="ECC 4:8" />
+  <para style="m" vid="ECC 4:8">Detta är också fåfängt,</para>
+  <para style="p" vid="ECC 4:8">en sorglig företeelse.<verse eid="ECC 4:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="ECC 4:9" />Bättre två än en,</para>
+  <para style="p" vid="ECC 4:9">för de får god lön för sin möda <char style="add">[större vinning/avkastning för sitt arbete/slit]</char>.<verse eid="ECC 4:9" /></para>
+  <para style="m">
+    <verse number="10" style="v" sid="ECC 4:10" />För om de faller</para>
+  <para style="p" vid="ECC 4:10">kan den ene lyfta upp sin vän,</para>
+  <para style="m" vid="ECC 4:10">men ve den som är ensam när han faller</para>
+  <para style="p" vid="ECC 4:10">och inte har någon som kan lyfta upp honom.<verse eid="ECC 4:10" /></para>
+  <para style="m">
+    <verse number="11" style="v" sid="ECC 4:11" />Också om två ligger tillsammans, då har de värme,</para>
+  <para style="p" vid="ECC 4:11">men hur kan den ensamme hålla sig varm?<verse eid="ECC 4:11" /></para>
+  <para style="m">
+    <verse number="12" style="v" sid="ECC 4:12" />Och om en man övermannar honom som är ensam,</para>
+  <para style="p" vid="ECC 4:12">kan två stå emot honom,</para>
+  <para style="m" vid="ECC 4:12">och en tretvinnad tråd brister inte så snabbt <char style="add">(lätt)</char>.<verse eid="ECC 4:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="ECC 4:13" />Bättre ett fattigt och vist <char style="add">(klokt)</char> barn än en dåraktig kung som inte längre vet hur man tar emot tillrättavisning. <verse eid="ECC 4:13" /><verse number="14" style="v" sid="ECC 4:14" />Ut ur fängelset kommer han för att bli kung, likväl föddes han fattig i sitt kungarike. <verse eid="ECC 4:14" /><verse number="15" style="v" sid="ECC 4:15" />Jag betraktade allt levande som vandrar under solen, även det andra barnet <char style="add">[efterträdaren till tronen]</char> som står på hans plats. <verse eid="ECC 4:15" /><verse number="16" style="v" sid="ECC 4:16" />Där var inget slut på allt folk, på alla dem som han ledde, ändå ska inte de som kommer efter glädja sig med honom. Var övertygad – detta är också fåfänglighet <char style="add">(tomhet; helt meningslöst)</char> och ett jagande efter vind.<verse eid="ECC 4:16" /></para>
+  <para style="s2">Sann gudsfruktan</para>
+  <para style="m">
+    <verse number="17" style="v" sid="ECC 4:17" />Vakta din fot när du går till Guds <char style="add">(Elohims)</char> hus och var redo att lyssna. Det är bättre än när dårarna ger ett offer, för de vet <char style="add">(förstår)</char> inte att de gör ont.<verse eid="ECC 4:17" /></para>
+  <chapter eid="ECC 4" />
+  <chapter number="5" style="c" sid="ECC 5" />
+  <para style="m" />
+  <para style="m">
+    <verse number="1" style="v" sid="ECC 5:1" />Bli aldrig förhastad med din mun</para>
+  <para style="p" vid="ECC 5:1">och låt inte ditt hjärta ha bråttom med att yttra ett ord inför Gud <char style="add">(Elohim)</char>,</para>
+  <para style="m" vid="ECC 5:1">för Gud är i himlarna</para>
+  <para style="p" vid="ECC 5:1">och du är på jorden.</para>
+  <para style="m" vid="ECC 5:1">Låt därför dina ord vara få.<verse eid="ECC 5:1" /></para>
+  <para style="m">
+    <verse number="2" style="v" sid="ECC 5:2" />För en dröm kommer med <char style="add">(i, genom)</char> många våndor</para>
+  <para style="p" vid="ECC 5:2">och en dåres röst med <char style="add">(i, genom)</char> många ord.<verse eid="ECC 5:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="ECC 5:3" />När du ger ett löfte till Gud <char style="add">(Elohim)</char>, dröj inte med att infria det, för han har inget behag i dårar. Infria det du lovar. <verse eid="ECC 5:3" /><verse number="4" style="v" sid="ECC 5:4" />Det är bättre att du inte lovar något, än att du lovar utan att infria det. <verse eid="ECC 5:4" /><verse number="5" style="v" sid="ECC 5:5" />Tillåt inte din mun att föra in ditt kött <char style="add">(din kropp)</char> i skuld, inte heller ska du säga till budbäraren att det var ett misstag. Varför ska Gud <char style="add">(Elohim)</char> bli arg på din röst <char style="add">(det du säger i oförstånd)</char> och fördärva dina händers arbete? <verse eid="ECC 5:5" /><verse number="6" style="v" sid="ECC 5:6" />Genom en myckenhet av drömmar och fåfängligheter kommer också många ord, men vörda <char style="add">(respektera)</char> Gud <char style="add">(Elohim)</char>.<verse eid="ECC 5:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ECC 5:7" />Om du ser att den fattige förtrycks och att våldet förvränger rätten och rättfärdigheten i landet, ska du inte förvånas över detta. En auktoritet vakar över en annan auktoritet, och det finns ännu högre auktoriteter än dessa. <verse eid="ECC 5:7" /><verse number="8" style="v" sid="ECC 5:8" />Även om ett lands vinning delas av många, är en kung betjänad av fälten.<verse eid="ECC 5:8" /></para>
+  <para style="m">
+    <verse number="9" style="v" sid="ECC 5:9" />Den som älskar silver <char style="add">(pengar)</char> blir aldrig mätt på <char style="add">(tillfredsställd av)</char> silver,</para>
+  <para style="p" vid="ECC 5:9">och den som älskar rikedom <char style="add">(pompa och ståt)</char> får aldrig nog.</para>
+  <para style="b" vid="ECC 5:9" />
+  <para style="m" vid="ECC 5:9">Detta är också fåfängt <char style="add">(tomhet; helt meningslöst)</char>.<verse eid="ECC 5:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="ECC 5:10" />När förmögenheten ökar,</para>
+  <para style="p" vid="ECC 5:10">desto fler som tär på den. <char style="add">[Utgifterna ökar för att underhålla gods och ägodelar.]</char></para>
+  <para style="m" vid="ECC 5:10">Så vad vinner ägaren,</para>
+  <para style="p" vid="ECC 5:10">förutom att han får se förmögenheten med sina ögon? <char style="add">[Nej, ingenting, han får ingen glädje av den.]</char><verse eid="ECC 5:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="ECC 5:11" />En arbetares sömn är god,</para>
+  <para style="p" vid="ECC 5:11">vare sig han äter lite eller mycket,</para>
+  <para style="m" vid="ECC 5:11">men den rikes överflöd</para>
+  <para style="p" vid="ECC 5:11">ger honom ingen ro att sova.<verse eid="ECC 5:11" /></para>
+  <para style="s2">Rikedomens flyktighet</para>
+  <para style="m">
+    <verse number="12" style="v" sid="ECC 5:12" />Jag har sett något mycket ont och plågsamt <char style="add">(en sorglig ondska, vidrig sjukdom)</char> under solen:</para>
+  <para style="b" vid="ECC 5:12" />
+  <para style="m" vid="ECC 5:12">Rikedom samlad på hög för egen räkning, som blir sin ägares fördärv <char style="add">(olycka, undergång)</char>.<verse eid="ECC 5:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="ECC 5:13" />När denna rikedom går förlorad</para>
+  <para style="p" vid="ECC 5:13">genom en dålig investering <char style="add">(otur, olyckliga omständigheter)</char> och ägaren har en son,</para>
+  <para style="p" vid="ECC 5:13">då har han inget i sin hand <char style="add">[för att försörja honom och kan inte heller lämna ett arv]</char>.<verse eid="ECC 5:13" /></para>
+  <para style="m">
+    <verse number="14" style="v" sid="ECC 5:14" />Han föddes naken av sin moder,</para>
+  <para style="p" vid="ECC 5:14">lika naken måste han gå bort igen.</para>
+  <para style="m" vid="ECC 5:14">Inget av allt det som han med möda har samlat på sig,</para>
+  <para style="p" vid="ECC 5:14">kan han ta med sig i sin hand.<verse eid="ECC 5:14" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="15" style="v" sid="ECC 5:15" />Detta är också något mycket ont och plågsamt <char style="add">(en sorglig ondska; en vidrig sjukdom)</char>: På samma sätt som han kom ska han lämna. Vad har han för glädje av sin strävan efter vind? <verse eid="ECC 5:15" /><verse number="16" style="v" sid="ECC 5:16" />Alla sina dagar äter han i mörker <char style="add">[har arbetat till sent innan det är kvällsmat, har inte råd att ha tända ljus]</char> och det blir bara mer och mer förtret <char style="add">(irritation)</char>, sjukdomar och vrede <char style="add">(ilska)</char>.<verse eid="ECC 5:16" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="17" style="v" sid="ECC 5:17" />
+    <char style="add">[Slutsats – gläd dig över vad Gud har gett dig.]</char></para>
+  <para style="m" vid="ECC 5:17">Skåda det som jag har sett: Det är gott, ja det är välgörande för en man att äta och dricka och njuta av allt sitt arbete, när han strävar under solen alla sina livsdagar som Gud <char style="add">(Elohim)</char> har gett honom, för detta är hans del. <verse eid="ECC 5:17" /><verse number="18" style="v" sid="ECC 5:18" />Också för varje man som Gud <char style="add">(Elohim)</char> har gett rikedom och välstånd, så har han gett honom kraften att njuta därav och ta sin del och glädja sig över sitt arbete, detta är Guds <char style="add">(Elohims)</char> gåva. <verse eid="ECC 5:18" /><verse number="19" style="v" sid="ECC 5:19" />För de är inte många, så låt honom komma ihåg sitt livs dagar, för Gud <char style="add">(Elohim)</char> svarar honom med glädje i hjärtat.<verse eid="ECC 5:19" /></para>
+  <chapter eid="ECC 5" />
+  <chapter number="6" style="c" sid="ECC 6" />
+  <para style="s2">Livet är fyllt av orättvisor</para>
+  <para style="m">
+    <verse number="1" style="v" sid="ECC 6:1" />Det finns en ondska <char style="add">(olycka, orättvisa)</char> som jag har sett <char style="add">(observerat)</char> under solen <char style="add">[<char style="xt"><ref loc="ECC 1:3">Pred 1:3</ref></char>]</char>, och den är tung <char style="add">[är vanligt förekommande; vilar tungt]</char> över människan. <verse eid="ECC 6:1" /><verse number="2" style="v" sid="ECC 6:2" />En man som Gud <char style="add">(Elohim)</char> har gett välstånd och respekt så att han inte vill ha något <char style="add">(mer)</char> för sin själ <char style="add">(aptit – hebr. nefesh)</char> av allt han önskar, likväl ger inte Gud <char style="add">(Elohim)</char> honom kraften att äta därav utan en främling äter det. Detta är fåfänga <char style="add">[<char style="xt"><ref loc="ECC 1:2">Pred 1:2</ref></char>]</char> och det är en ond sjukdom.<verse eid="ECC 6:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="ECC 6:3" />Om en man får 100 barn och lever många år, så att dagarna av hans år är många, men hans själ <char style="add">(aptit)</char> inte har nog av det goda, och han dessutom inte har någon grav. Jag säger att en för tidig födsel <char style="add">(ett missfall)</char> är bättre än han <char style="add">(hans öde)</char>, <verse eid="ECC 6:3" /><verse number="4" style="v" sid="ECC 6:4" />för det <char style="add">[missfallet]</char> kommer i fåfänga och lämnar i mörker, och dess namn är dolt med mörker, <verse eid="ECC 6:4" /><verse number="5" style="v" sid="ECC 6:5" />dessutom har det inte sett solen och har ingen kunskap om den, det har större tillfredsställelse än den andres – <verse eid="ECC 6:5" /><verse number="6" style="v" sid="ECC 6:6" />även om han lever 1 000 år, två gånger om, glädjer han sig inte åt det goda. Går vi inte alla till en <char style="add">(och samma)</char> plats <char style="add">[graven]</char>?<verse eid="ECC 6:6" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="7" style="v" sid="ECC 6:7" />Allt människans arbete är för hennes mun</para>
+  <para style="p" vid="ECC 6:7">och ändå blir aptiten <char style="add">(själen – hebr. nefesh)</char> aldrig mätt <char style="add">[<char style="xt"><ref loc="PRO 16:26">Ords 16:26</ref></char>]</char>.<verse eid="ECC 6:7" /></para>
+  <para style="m">
+    <verse number="8" style="v" sid="ECC 6:8" />Vilken vinning har den vise</para>
+  <para style="p" vid="ECC 6:8">framför dåren? <char style="add">[Ingen, båda kommer en dag dö.]</char></para>
+  <para style="m" vid="ECC 6:8">Eller den fattige</para>
+  <para style="p" vid="ECC 6:8">som har insikt <char style="add">(intim kunskap)</char> i vandringen inför de levande?<verse eid="ECC 6:8" /></para>
+  <para style="m">
+    <verse number="9" style="v" sid="ECC 6:9" />Bättre är <char style="add">[att vara tillfreds med]</char> vad ögat ser,</para>
+  <para style="p" vid="ECC 6:9">än kringflackande önskningar <char style="add">(själens vandringar – hebr. halach nefesh)</char>.</para>
+  <para style="m" vid="ECC 6:9">Detta är också fåfänglighet <char style="add">(tomhet; helt meningslöst)</char></para>
+  <para style="p" vid="ECC 6:9">och ett jagande efter vind.</para>
+  <para style="b" vid="ECC 6:9" />
+  <para style="m" vid="ECC 6:9">
+    <char style="add">[Den andra delen av denna vers är det matematiska centrumet i hela Predikaren. Här sammanfattas hela bokens tema med hebreiska ordet hevel – tomhet och meningslöshet.]</char><verse eid="ECC 6:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="ECC 6:10" />Vad som än blir till har fått sitt namn för länge sedan,</para>
+  <para style="p" vid="ECC 6:10">och det är känt på förhand vad en människa är,</para>
+  <para style="m" vid="ECC 6:10">inte heller kan han strida</para>
+  <para style="p" vid="ECC 6:10">med honom som är mäktigare än han själv. <char style="add">[Människan kan inte strida med Gud.]</char><verse eid="ECC 6:10" /></para>
+  <para style="m">
+    <verse number="11" style="v" sid="ECC 6:11" />Det finns många ord</para>
+  <para style="p" vid="ECC 6:11">som förmerar fåfängan,</para>
+  <para style="p" vid="ECC 6:11">vilket företräde har människan?<verse eid="ECC 6:11" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="12" style="v" sid="ECC 6:12" />För vem vet vad som är gott för människan i hennes liv, alla dagar av hennes fåfänga liv som hon tillbringar som en skugga? <char style="add">[<char style="xt"><ref loc="1CH 29:15">1 Krön 29:15</ref>; <ref loc="PSA 144:4">Ps 144:4</ref>; <ref loc="JOB 8:9">Job 8:9</ref>; <ref loc="JOB 14:12">14:12</ref></char>]</char> Vem kan tala om för en människa vad som ska komma efter henne under solen?<verse eid="ECC 6:12" /></para>
+  <para style="b" />
+  <chapter eid="ECC 6" />
+  <chapter number="7" style="c" sid="ECC 7" />
+  <para style="m">
+    <verse number="1" style="v" sid="ECC 7:1" />För vem vet vad som är gott för människan i hennes liv, alla dagar av hennes fåfänga liv som hon tillbringar som en skugga? <char style="add">[<char style="xt"><ref loc="1CH 29:15">1 Krön 29:15</ref>; <ref loc="PSA 144:4">Ps 144:4</ref>; <ref loc="JOB 8:9">Job 8:9</ref>; <ref loc="JOB 14:12">14:12</ref></char>]</char> Vem kan berätta för en människa vad som ska komma efter henne under solen?<verse eid="ECC 7:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="ECC 7:2" />Bättre ett gott namn än god <char style="add">(dyrbar)</char> olja <char style="add">[kiastisk struktur; hebr. tóv shem mi shemen tóv]</char>,</para>
+  <para style="p" vid="ECC 7:2">och dagen att dö bättre än dagen att födas.<verse eid="ECC 7:2" /></para>
+  <para style="m">
+    <verse number="3" style="v" sid="ECC 7:3" />Det är bättre att gå till sorgehuset</para>
+  <para style="p" vid="ECC 7:3">än att gå till festhuset,</para>
+  <para style="m" vid="ECC 7:3">för det är slutet för alla människor,</para>
+  <para style="p" vid="ECC 7:3">och de levande ska lägga det på hjärtat.<verse eid="ECC 7:3" /></para>
+  <para style="m">
+    <verse number="4" style="v" sid="ECC 7:4" />Förargelse <char style="add">(sorg, ilska, indignation)</char> är bättre än skratt,</para>
+  <para style="p" vid="ECC 7:4">för genom ansiktets sorg kan hjärtat bli tillfredsställt <char style="add">(få glädje)</char>.<verse eid="ECC 7:4" /></para>
+  <para style="m">
+    <verse number="5" style="v" sid="ECC 7:5" />Den vises hjärta är i sorgens hus,</para>
+  <para style="p" vid="ECC 7:5">men dårens hjärta är i glädjens hus.<verse eid="ECC 7:5" /></para>
+  <para style="m">
+    <verse number="6" style="v" sid="ECC 7:6" />Det är bättre att höra den vises tillrättavisning</para>
+  <para style="p" vid="ECC 7:6">än att en man hör dårens sång.<verse eid="ECC 7:6" /></para>
+  <para style="m">
+    <verse number="7" style="v" sid="ECC 7:7" />För som sprakandet av törnen under en gryta,</para>
+  <para style="p" vid="ECC 7:7">så är dårens skratt.</para>
+  <para style="b" vid="ECC 7:7" />
+  <para style="m" vid="ECC 7:7">Detta är också fåfängt <char style="add">(tomhet; helt meningslöst)</char>.<verse eid="ECC 7:7" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="8" style="v" sid="ECC 7:8" />Förtryck vänder <char style="add">(gör)</char> en vis man till en dåre</para>
+  <para style="p" vid="ECC 7:8">och en muta fördärvar hjärtat.<verse eid="ECC 7:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="ECC 7:9" />Bättre slutet på något <char style="add">(en sak; ett ord)</char> än början,</para>
+  <para style="p" vid="ECC 7:9">bättre en tålmodig ande än en högmodig <char style="add">(stolt)</char> ande.</para>
+  <para style="b" vid="ECC 7:9" />
+  <para style="m" vid="ECC 7:9">
+    <char style="add">[Denna vers har många tillämpningsområden. Hur något avslutas är viktigare än hur det börjar, och det behövs tålamod för att nå målet. I ljuset av vers 8, som talar om hur mutor kan fördärva hjärtat och omdömet, handlar denna vers om att det är högmodigt att fälla en för snabb dom. Det är lättare att fatta ett välgrundat beslut när alla fakta finns på bordet än när något just är påbörjat.]</char><verse eid="ECC 7:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="ECC 7:10" />Låt inte din ande förhasta sig i att bli arg,</para>
+  <para style="p" vid="ECC 7:10">för ilska vilar i dårens sköte.<verse eid="ECC 7:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="ECC 7:11" />Säg inte: ”Hur kommer det sig att forna dagar var bättre än dessa?”,</para>
+  <para style="p" vid="ECC 7:11">för det är inte av vishet som du ställer dig sådana frågor <char style="add">(har sådana funderingar eller bekymmer)</char>.<verse eid="ECC 7:11" /></para>
+  <para style="m">
+    <verse number="12" style="v" sid="ECC 7:12" />Vishet är lika gott som ett arv,</para>
+  <para style="p" vid="ECC 7:12">en vinning för den som ser solen.<verse eid="ECC 7:12" /></para>
+  <para style="m">
+    <verse number="13" style="v" sid="ECC 7:13" />Vishet är ett försvar <char style="add">(en försäkring, ett skydd)</char>,</para>
+  <para style="p" vid="ECC 7:13">liksom silver <char style="add">(pengar)</char> är ett försvar <char style="add">(en försäkring, ett skydd)</char>,</para>
+  <para style="m" vid="ECC 7:13">men kunskapens förträfflighet är</para>
+  <para style="p" vid="ECC 7:13">att vishet bevarar livet hos den som har det.<verse eid="ECC 7:13" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="14" style="v" sid="ECC 7:14" />Betrakta Guds <char style="add">(Elohims)</char> gärningar,</para>
+  <para style="m" vid="ECC 7:14">för vem kan göra det rakt,</para>
+  <para style="p" vid="ECC 7:14">som han har gjort krokigt?<verse eid="ECC 7:14" /></para>
+  <para style="m">
+    <verse number="15" style="v" sid="ECC 7:15" />I tider av framgång <char style="add">(goda dagar – hebr. jom tovah)</char> var glad <char style="add">(hebr. tóv)</char>,</para>
+  <para style="p" vid="ECC 7:15">och under onda <char style="add">(hebr. raah)</char> dagar betänk <char style="add">(se – hebr. raah)</char></para>
+  <para style="m" vid="ECC 7:15">att Gud <char style="add">(Elohim)</char> har gjort den ena <char style="add">[dagen]</char></para>
+  <para style="p" vid="ECC 7:15">så väl som <char style="add">(nära, intill)</char> den andra,</para>
+  <para style="m" vid="ECC 7:15">därför kan människan inte utforska</para>
+  <para style="p" vid="ECC 7:15">sin framtid <char style="add">(hitta något efter honom)</char>.</para>
+  <para style="b" vid="ECC 7:15" />
+  <para style="m" vid="ECC 7:15">
+    <char style="add">[Ordet ond (resh–ajin–he) är snarlikt verbet för att se (resh–alef–he), bara en bokstav skiljer.]</char><verse eid="ECC 7:15" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="16" style="v" sid="ECC 7:16" />Alla ting har jag sett under mina fåfänga dagar,</para>
+  <para style="m" vid="ECC 7:16">där är en rättfärdig människa som går under i sin rättfärdighet,</para>
+  <para style="p" vid="ECC 7:16">och där är en ond människa som förlänger sitt liv i sina onda handlingar.<verse eid="ECC 7:16" /></para>
+  <para style="m">
+    <verse number="17" style="v" sid="ECC 7:17" />Var inte överambitiös i det rätta</para>
+  <para style="p" vid="ECC 7:17">och inte heller överdrivet vis.</para>
+  <para style="p" vid="ECC 7:17">Varför ska du fördärva <char style="add">(förta)</char> dig själv?<verse eid="ECC 7:17" /></para>
+  <para style="m">
+    <verse number="18" style="v" sid="ECC 7:18" />Var inte överambitiös i ondska</para>
+  <para style="p" vid="ECC 7:18">och inte heller en dåre.</para>
+  <para style="p" vid="ECC 7:18">Varför ska du dö innan det är din tid <char style="add">(att avsluta livet)</char>?<verse eid="ECC 7:18" /></para>
+  <para style="m">
+    <verse number="19" style="v" sid="ECC 7:19" />Det är gott att du tar hand om det ena,</para>
+  <para style="p" vid="ECC 7:19">men dra inte undan din hand från det andra,</para>
+  <para style="p" vid="ECC 7:19">för den som vördar <char style="add">(fruktar)</char> Gud <char style="add">(Elohim)</char> ska vara fri från ansvar i allt.</para>
+  <para style="b" vid="ECC 7:19" />
+  <para style="m" vid="ECC 7:19">
+    <char style="add">[Denna mening är svåröversatt, men talar tydligt om att vi har ansvar för både det ena och det andra under vårt liv här på jorden. Samtidigt pekar den också på att det yttersta ansvaret inte är vårt. Det betyder att om vi har det rätt ställt med Gud så blir vi frikända på domens dag.]</char><verse eid="ECC 7:19" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="20" style="v" sid="ECC 7:20" />Vishet är ett fäste för en vis man,</para>
+  <para style="p" vid="ECC 7:20">mer än tio furstar som är i en <char style="add">(befäst)</char> stad.<verse eid="ECC 7:20" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="21" style="v" sid="ECC 7:21" />Det finns inte en rättfärdig människa på jorden,</para>
+  <para style="p" vid="ECC 7:21">som gör gott, och inte syndar.<verse eid="ECC 7:21" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="22" style="v" sid="ECC 7:22" />Ge inte akt på alla ord som talas,</para>
+  <para style="p" vid="ECC 7:22">för att du inte ska höra din tjänare förbanna dig,<verse eid="ECC 7:22" /></para>
+  <para style="m">
+    <verse number="23" style="v" sid="ECC 7:23" />för många gånger vet också ditt eget hjärta</para>
+  <para style="p" vid="ECC 7:23">att du själv på samma sätt har förbannat andra.<verse eid="ECC 7:23" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="24" style="v" sid="ECC 7:24" />Allt detta har jag prövat genom vishet, jag sa:</para>
+  <para style="m" vid="ECC 7:24">”Jag ska bli vis”,</para>
+  <para style="p" vid="ECC 7:24">men den <char style="add">(visheten)</char> var fjärran från mig.<verse eid="ECC 7:24" /></para>
+  <para style="m">
+    <verse number="25" style="v" sid="ECC 7:25" />Det som är långt borta och omåttligt djupt,</para>
+  <para style="p" vid="ECC 7:25">vem kan finna <char style="add">(utforska, förstå sig på)</char> det?<verse eid="ECC 7:25" /></para>
+  <para style="m">
+    <verse number="26" style="v" sid="ECC 7:26" />Jag vände om och ägnade mitt hjärta åt att veta</para>
+  <para style="p" vid="ECC 7:26">och utforska och söka vishet och orsakerna till tingens ordning,</para>
+  <para style="m" vid="ECC 7:26">och till att veta hur man blir en dåre</para>
+  <para style="p" vid="ECC 7:26">och hur dårskapen blir till galenskap.<verse eid="ECC 7:26" /></para>
+  <para style="m">
+    <verse number="27" style="v" sid="ECC 7:27" />Och jag fann kvinnan bittrare än döden,</para>
+  <para style="p" vid="ECC 7:27">vars hjärta är snaror och nät och hennes händer som snören.</para>
+  <para style="m" vid="ECC 7:27">Den som behagar Gud <char style="add">(Elohim)</char> ska fly från henne,</para>
+  <para style="p" vid="ECC 7:27">men syndaren fångas av henne.<verse eid="ECC 7:27" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="28" style="v" sid="ECC 7:28" />Se, detta har jag funnit säger Predikaren <char style="add">(Qohelet)</char>,</para>
+  <para style="m" vid="ECC 7:28">att lägga en sak till en annan och finna anledningen <char style="add">(orsaken)</char><verse eid="ECC 7:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="ECC 7:29" />som min själ sökt <char style="add">(letat efter)</char>,</para>
+  <para style="p" vid="ECC 7:29">men jag fann den inte.</para>
+  <para style="m" vid="ECC 7:29">En människa bland tusen har jag funnit,</para>
+  <para style="p" vid="ECC 7:29">men en kvinna bland alla dessa har jag inte funnit.<verse eid="ECC 7:29" /></para>
+  <chapter eid="ECC 7" />
+  <chapter number="8" style="c" sid="ECC 8" />
+  <para style="s2">Lyd kungen</para>
+  <para style="m">
+    <verse number="1" style="v" sid="ECC 8:1" />Vem är som den vise?</para>
+  <para style="p" vid="ECC 8:1">Och vem vet <char style="add">(har en intim förståelse av)</char> hur saker och ting <char style="add">(ord – hebr. davar)</char> ska tydas och tolkas <char style="add">(få sin lösning)</char>?</para>
+  <para style="m" vid="ECC 8:1">En människas vishet får hennes ansikte att lysa <char style="add">[<char style="xt"><ref loc="PSA 119:130">Ps 119:130</ref>; <ref loc="PSA 19:9">19:9</ref></char>]</char></para>
+  <para style="p" vid="ECC 8:1">och djärvheten <char style="add">(hårdheten)</char> i hennes ansikte förändras.<verse eid="ECC 8:1" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="2" style="v" sid="ECC 8:2" />Jag <char style="add">[ger dig rådet]</char>, ge akt på kungens befallningar <char style="add">(ordagrant vakta kungens mun)</char> i respekt för Guds <char style="add">(Elohims)</char> ed. <verse eid="ECC 8:2" /><verse number="3" style="v" sid="ECC 8:3" />Var inte förhastad med att lämna hans närvaro, bibehåll inte någon ond sak, för han gör vadhelst som behagar honom. <verse eid="ECC 8:3" /><verse number="4" style="v" sid="ECC 8:4" />För kungens ord har makt <char style="add">(hebr. shilton)</char>, och kan säga till honom: ”Vad gör du?” <char style="add">[Samma fras återkommer i <char style="xt"><ref loc="ECC 9:12">Pred 9:12</ref></char> i fråga om Guds auktoritet, se <char style="xt"><ref loc="PRO 24:21">Ords 24:21</ref></char>.]</char><verse eid="ECC 8:4" /></para>
+  <para style="m">
+    <verse number="5" style="v" sid="ECC 8:5" />Den som vaktar <char style="add">(ger akt på)</char> budordet ska inte veta av något ont ting <char style="add">[skyddas från ondska]</char>,</para>
+  <para style="p" vid="ECC 8:5">och ett vist hjärta känner <char style="add">(är intimt förtroget med)</char> rättskaffenhet.<verse eid="ECC 8:5" /></para>
+  <para style="m">
+    <verse number="6" style="v" sid="ECC 8:6" />För allt <char style="add">(varje ting, sak, ärende, omständighet)</char> finns en tid och en rättvisa <char style="add">[<char style="xt"><ref loc="ECC 3:1-8">Pred 3:1-8</ref>; <ref loc="PRO 15:23">Ords 15:23</ref></char>]</char>,</para>
+  <para style="p" vid="ECC 8:6">för människans ondska är stor över henne.<verse eid="ECC 8:6" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="7" style="v" sid="ECC 8:7" />Eftersom han inte vet <char style="add">(känner till, är intimt förtrogen med)</char> vad som ska ske,</para>
+  <para style="p" vid="ECC 8:7">för även när det händer, vem ska berätta det för honom?<verse eid="ECC 8:7" /></para>
+  <para style="m">
+    <verse number="8" style="v" sid="ECC 8:8" />Det finns ingen människa som kan bemästra <char style="add">(hebr. shalit)</char> vinden så att han kan hålla kvar <char style="add">(hålla fast, styra)</char> vinden,</para>
+  <para style="p" vid="ECC 8:8">inte heller har han makt <char style="add">(hebr. shilton)</char> över dödsdagen,</para>
+  <para style="m" vid="ECC 8:8">och det finns ingen ansvarsfrihet i krig,</para>
+  <para style="p" vid="ECC 8:8">inte heller ska ondska befria honom från det som är honom givet.<verse eid="ECC 8:8" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="9" style="v" sid="ECC 8:9" />Allt detta har jag sett, även mitt hjärta har prövat det, allt arbete som görs under solen, när människan råder över en annan människa till hans skada. <verse eid="ECC 8:9" /><verse number="10" style="v" sid="ECC 8:10" />Och jag såg de onda begravas och de gick in i sin vila, men de som hade gjort rätt gick från den heliga platsen <char style="add">[templet]</char> och var glömda i staden. Detta är också fåfängt <char style="add">(tomhet; helt meningslöst)</char>. <char style="add">[Det är inte rätt att de onda lyckas i sitt liv och prisas efter att de dött.]</char><verse eid="ECC 8:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="ECC 8:11" />Eftersom domen mot det onda inte verkställs med hast, är hjärtat hos människans söner överlåtet till att göra det onda, <verse eid="ECC 8:11" /><verse number="12" style="v" sid="ECC 8:12" />eftersom en syndare gör ont hundra gånger och förlänger sina dagar, men jag vet <char style="add">(är intimt förtrogen med)</char> att det går väl för de gudfruktiga <char style="add">(de som vördar Elohim)</char>, som fruktar <char style="add">(visar vördnad)</char> inför hans ansikte. <verse eid="ECC 8:12" /><verse number="13" style="v" sid="ECC 8:13" />Men det ska inte gå väl med den onde, inte heller ska hans dagar förlängas, de är som en skugga eftersom han inte fruktar <char style="add">(vördar, visar respekt)</char> inför Guds <char style="add">(Elohims)</char> ansikte.<verse eid="ECC 8:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ECC 8:14" />Det finns en fåfänga som görs på jorden, att det finns rättfärdiga som drabbas av det som de onda gör, dessutom finns det onda som drabbas av det som de rättfärdiga gör. Jag säger att detta också är fåfängt <char style="add">(tomhet; helt meningslöst)</char>. <verse eid="ECC 8:14" /><verse number="15" style="v" sid="ECC 8:15" />Så jag anbefaller glädje, att en människa inte har något bättre under solen än att äta och dricka och vara glad, och att detta ska vara med honom i hans arbete alla de dagar i hans liv som Gud <char style="add">(Elohim)</char> har gett honom under solen.<verse eid="ECC 8:15" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="16" style="v" sid="ECC 8:16" />När jag ägnade mitt hjärta åt att förstå <char style="add">(bli intimt förtrogen med)</char> vishet, och se allt som görs på jorden – för varken dag eller natt ser deras ögon sömn – <verse eid="ECC 8:16" /><verse number="17" style="v" sid="ECC 8:17" />sedan skådade jag allt Guds <char style="add">(Elohims)</char> arbete som människan inte kan utforska, arbetet som görs under solen. För även om en människa arbetar och letar för att förstå ska hon ändå inte kunna finna det. Även om en vis man tänker att han ska känna till <char style="add">(vara intimt förtrogen med)</char> det, ska det inte vara <char style="add">(är det inte)</char> möjligt för honom att finna det.<verse eid="ECC 8:17" /></para>
+  <chapter eid="ECC 8" />
+  <chapter number="9" style="c" sid="ECC 9" />
+  <para style="s2">Samma mål för alla</para>
+  <para style="m">
+    <verse number="1" style="v" sid="ECC 9:1" />För allt detta har jag lagt på <char style="add">(tagit till, gett)</char> mitt hjärta, och till att klargöra <char style="add">(förklara)</char> allt detta, att de rättfärdiga och de visa och deras arbete är i Guds <char style="add">(Elohims)</char> hand, även kärlek, även hat. Ingen människa vet <char style="add">(har intim kunskap om)</char> allt, det <char style="add">(som)</char> är inför deras ansikten. <verse eid="ECC 9:1" /><verse number="2" style="v" sid="ECC 9:2" />Allt till alla på samma sätt, det oförutsedda händer <char style="add">(drabbar)</char> den rättfärdige och den onde, den gode, den <char style="add">(rituellt)</char> rene och den <char style="add">(rituellt)</char> orene, honom som offrar och honom som inte offrar.</para>
+  <para style="b" vid="ECC 9:2" />
+  <para style="m" vid="ECC 9:2">Som den gode,</para>
+  <para style="p" vid="ECC 9:2">sådan är syndaren,</para>
+  <para style="m" vid="ECC 9:2">och den som avger en ed</para>
+  <para style="p" vid="ECC 9:2">som den som fruktar <char style="add">(är rädd för att avlägga)</char> en ed.<verse eid="ECC 9:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="ECC 9:3" />Detta är en ondska i allt som görs under solen, att det oförutsedda händer <char style="add">(drabbar)</char> alla. Ja, även människosönernas hjärtan är fulla av ondska, och galenskap <char style="add">(dårskap)</char> är i deras hjärtan medan de lever och därefter går de till döden. <verse eid="ECC 9:3" /><verse number="4" style="v" sid="ECC 9:4" />För honom som väljer att hålla sig till allt <char style="add">(som är)</char> levande finns det hopp, för en levande hund är bättre än ett dött lejon.<verse eid="ECC 9:4" /></para>
+  <para style="m">
+    <verse number="5" style="v" sid="ECC 9:5" />Eftersom de levande vet <char style="add">[plural – vet på alla möjliga sätt, är intimt förtrogna med]</char> att de ska dö,</para>
+  <para style="p" vid="ECC 9:5">men de döda, de vet ingenting <char style="add">[har ingen förståelse alls]</char>,</para>
+  <para style="m" vid="ECC 9:5">och de har ingen mer belöning <char style="add">(lön, vinning)</char> att vänta <char style="add">[från sin möda]</char>,</para>
+  <para style="p" vid="ECC 9:5">för <char style="add">[även]</char> minnet av dem är glömt <char style="add">[borta]</char>. <char style="add">[<char style="xt"><ref loc="PSA 49:12">Ps 49:12</ref>; <ref loc="PSA 112:6">112:6</ref>; <ref loc="MAL 3:16">Mal 3:16</ref></char>]</char><verse eid="ECC 9:5" /></para>
+  <para style="m">
+    <verse number="6" style="v" sid="ECC 9:6" />Både deras kärlek och deras hat</para>
+  <para style="p" vid="ECC 9:6">och deras avund har för länge sedan tynat bort,</para>
+  <para style="m" vid="ECC 9:6">inte heller har de längre någon del</para>
+  <para style="p" vid="ECC 9:6">för alltid i de ting som görs under solen.<verse eid="ECC 9:6" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="7" style="v" sid="ECC 9:7" />Gå <char style="add">(vandra din egen utstakade väg – lev ditt liv)</char>, ät ditt bröd med glädje och drick ditt vin med ett glatt hjärta, för Gud har redan accepterat <char style="add">(sett med nåd på)</char> ditt arbete <char style="add">(det du företar dig)</char>. <verse eid="ECC 9:7" /><verse number="8" style="v" sid="ECC 9:8" />Låt alltid din klädnad vara vit och låt inte olja saknas på ditt huvud. <verse eid="ECC 9:8" /><verse number="9" style="v" sid="ECC 9:9" />Njut av livet med hustrun som du älskar alla livets fåfänga dagar som han har gett dig under solen, alla dina fåfänga dagar, och <char style="add">(njut av livet)</char> i ditt arbete som du arbetar med under solen. Det är din del i livet <char style="add">(din livslott)</char>. <verse eid="ECC 9:9" /><verse number="10" style="v" sid="ECC 9:10" />Vadhelst din hand tar tag i för att göra med din styrka, gör det, för det finns inget arbete, inget råd, ingen kunskap, ingen visdom i Sheol <char style="add">(graven, underjorden – de dödas plats)</char> dit du går.<verse eid="ECC 9:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="ECC 9:11" />Jag återvände och såg under solen</para>
+  <para style="b" vid="ECC 9:11" />
+  <para style="m" vid="ECC 9:11">att det är inte de snabba som vinner loppet,</para>
+  <para style="p" vid="ECC 9:11">inte hjältarna som vinner striden,</para>
+  <para style="m" vid="ECC 9:11">inte de visa som får bröd,</para>
+  <para style="p" vid="ECC 9:11">inte de kloka som får rikedom,</para>
+  <para style="p" vid="ECC 9:11">inte de skickliga som får nåd <char style="add">(oförtjänt kärlek)</char>.</para>
+  <para style="m" vid="ECC 9:11">Tid och tillfälle drabbar <char style="add">(sker)</char> dem alla.<verse eid="ECC 9:11" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="12" style="v" sid="ECC 9:12" />För människan känner inte till <char style="add">(saknar intim kunskap om)</char> sin tid.</para>
+  <para style="b" vid="ECC 9:12" />
+  <para style="m" vid="ECC 9:12">Som fiskarna fångas i det onda nätet</para>
+  <para style="p" vid="ECC 9:12">eller som fåglarna fångas i snaran,</para>
+  <para style="m" vid="ECC 9:12">så snärjs människans söner i en ond tid,</para>
+  <para style="p" vid="ECC 9:12">när det plötsligt kommer över dem.<verse eid="ECC 9:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="ECC 9:13" />Detta har jag också sett som vishet under solen och det är stort för mig; <verse eid="ECC 9:13" /><verse number="14" style="v" sid="ECC 9:14" />Där var en liten stad och några få män i den, och där kom en stor kung emot den och belägrade den och byggde stora belägringsvallar mot den. <verse eid="ECC 9:14" /><verse number="15" style="v" sid="ECC 9:15" />Nu fann man i den en fattig och vis man och han räddade staden med sin vishet, likväl kommer ingen människa ihåg denna fattiga man. <verse eid="ECC 9:15" /><verse number="16" style="v" sid="ECC 9:16" />Då sa jag: ”Vishet är bättre än styrka, oavsett om den fattige mannens vishet är föraktad och hans ord inte hörda <char style="add">(ingen har lyssnat på honom)</char>.”<verse eid="ECC 9:16" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="17" style="v" sid="ECC 9:17" />De visas ord talade i tysthet</para>
+  <para style="p" vid="ECC 9:17">är mer värda att lyssnas till än en furstes rop bland dårar.<verse eid="ECC 9:17" /></para>
+  <para style="m">
+    <verse number="18" style="v" sid="ECC 9:18" />Vishet är bättre än stridsvapen,</para>
+  <para style="p" vid="ECC 9:18">men en syndare fördärvar mycket <char style="add">(av det som är)</char> gott.<verse eid="ECC 9:18" /></para>
+  <chapter eid="ECC 9" />
+  <chapter number="10" style="c" sid="ECC 10" />
+  <para style="m">
+    <verse number="1" style="v" sid="ECC 10:1" />Döda flugor gör parfymerarens salvor stinkande och ruttna,</para>
+  <para style="p" vid="ECC 10:1">på samma sätt gör lite dårskap att vishet och ära övervinns <char style="add">(fördärvas, får stå tillbaka)</char>.<verse eid="ECC 10:1" /></para>
+  <para style="m">
+    <verse number="2" style="v" sid="ECC 10:2" />En vis man har sitt hjärta till höger</para>
+  <para style="p" vid="ECC 10:2">och dåren har hjärtat till vänster. <char style="add">[Den högra sidan representerar styrka och förstånd medan den vänstra dårskap och brist på styrka.]</char><verse eid="ECC 10:2" /></para>
+  <para style="m">
+    <verse number="3" style="v" sid="ECC 10:3" />Likaså när en dåre vandrar utefter vägen <char style="add">(går genom livet)</char></para>
+  <para style="p" vid="ECC 10:3">så sviker hans förstånd honom,</para>
+  <para style="p" vid="ECC 10:3">och han säger till alla att han är en dåre.<verse eid="ECC 10:3" /></para>
+  <para style="m">
+    <verse number="4" style="v" sid="ECC 10:4" />Om en ledares ande reser sig upp emot dig,</para>
+  <para style="p" vid="ECC 10:4">lämna inte din plats,</para>
+  <para style="p" vid="ECC 10:4">för mildhet stillar stora överträdelser.<verse eid="ECC 10:4" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="5" style="v" sid="ECC 10:5" />Det finns en ondska som jag har sett under solen,</para>
+  <para style="p" vid="ECC 10:5">som ett misstag som fortgår från en härskare.<verse eid="ECC 10:5" /></para>
+  <para style="m">
+    <verse number="6" style="v" sid="ECC 10:6" />Dårskap lyfts till skyarna</para>
+  <para style="p" vid="ECC 10:6">och den rike får sitta på en låg plats.<verse eid="ECC 10:6" /></para>
+  <para style="m">
+    <verse number="7" style="v" sid="ECC 10:7" />Jag har sett tjänare som rider på hästar</para>
+  <para style="p" vid="ECC 10:7">och prinsar som vandrar som tjänare på jorden.<verse eid="ECC 10:7" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="8" style="v" sid="ECC 10:8" />Han som gräver en grop ska själv falla i den,</para>
+  <para style="p" vid="ECC 10:8">och den som bryter igenom ett staket <char style="add">[olovligen går in på ett avspärrat område]</char> ska bli biten av en orm.<verse eid="ECC 10:8" /></para>
+  <para style="m">
+    <verse number="9" style="v" sid="ECC 10:9" />Den som kastar stenar kan skadas av dem,</para>
+  <para style="p" vid="ECC 10:9">och den som klyver trä är i fara när han gör det.<verse eid="ECC 10:9" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="10" style="v" sid="ECC 10:10" />Om järnet blir slött <char style="add">(trubbigt, dåligt)</char></para>
+  <para style="p" vid="ECC 10:10">och ingen skärper eggen</para>
+  <para style="m" vid="ECC 10:10">måste han använda mer kraft,</para>
+  <para style="p" vid="ECC 10:10">men vishet lönar sig för vägledning <char style="add">[man tjänar på vishetens goda råd]</char>.<verse eid="ECC 10:10" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="11" style="v" sid="ECC 10:11" />Om ormen biter innan den blivit tjusad <char style="add">(hebr. lachash) [utan förvarning]</char>,</para>
+  <para style="p" vid="ECC 10:11">har ormtjusaren <char style="add">(ordagrant: tungans mästare – hebr. baal lashon)</char> ingen vinning <char style="add">[av sin konst]</char>.<verse eid="ECC 10:11" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="12" style="v" sid="ECC 10:12" />Orden från en vis mans mun är nåd <char style="add">(vänliga, oförtjänta – hebr. chen)</char>,</para>
+  <para style="p" vid="ECC 10:12">men en dåres läppar ska sluka honom.<verse eid="ECC 10:12" /></para>
+  <para style="m">
+    <verse number="13" style="v" sid="ECC 10:13" />Början på orden från hans mun är dåraktiga</para>
+  <para style="p" vid="ECC 10:13">och slutet på hans tal är total galenskap.<verse eid="ECC 10:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ECC 10:14" />En dåre låter även orden vara många.</para>
+  <para style="b" vid="ECC 10:14" />
+  <para style="m" vid="ECC 10:14">Människan vet inte <char style="add">(saknar intim kunskap om)</char> vad som ska bli och det som kommer efter henne.</para>
+  <para style="p" vid="ECC 10:14">Vem kan berätta för henne?<verse eid="ECC 10:14" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="15" style="v" sid="ECC 10:15" />Dårarnas arbete tröttar ut dem alla,</para>
+  <para style="p" vid="ECC 10:15">för de vet inte hur de ska gå för att komma till staden.<verse eid="ECC 10:15" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="16" style="v" sid="ECC 10:16" />Ve dig, du land, när din kung är en pojke</para>
+  <para style="p" vid="ECC 10:16">och dina prinsar festar på morgonen!</para>
+  <para style="b" vid="ECC 10:16" />
+  <para style="m" vid="ECC 10:16">
+    <char style="add">[I den hebreiska kulturen prisas ålderdom framför ungdom eftersom vishet, erfarenhet och förstånd kommer med stigande ålder.]</char><verse eid="ECC 10:16" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="17" style="v" sid="ECC 10:17" />Lycklig är du, du land, när din kung är en fri man</para>
+  <para style="p" vid="ECC 10:17">och dina prinsar äter på rätt tid,</para>
+  <para style="p" vid="ECC 10:17">i styrka och inte i dryckenskap.<verse eid="ECC 10:17" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="18" style="v" sid="ECC 10:18" />Genom lättja faller takbjälkarna ner</para>
+  <para style="p" vid="ECC 10:18">och på grund av handens sysslolöshet läcker huset.<verse eid="ECC 10:18" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="19" style="v" sid="ECC 10:19" />Bröd är gjort för skratt <char style="add">(glädje)</char></para>
+  <para style="p" vid="ECC 10:19">och vin gör livet glatt</para>
+  <para style="p" vid="ECC 10:19">och pengar <char style="add">(silver)</char> är svaret på allt.<verse eid="ECC 10:19" /></para>
+  <para style="s1">Praktiska råd - då livet är kort (10:20-12:8)</para>
+  <para style="s2">Visa ord</para>
+  <para style="m">
+    <verse number="20" style="v" sid="ECC 10:20" />Förbanna inte <char style="add">(ta inte lätt på, vanära inte)</char> kungen,</para>
+  <para style="p" vid="ECC 10:20">inte ens i dina tankar <char style="add">(för dig själv)</char></para>
+  <para style="m" vid="ECC 10:20">och förbanna inte <char style="add">(ta inte lätt på, vanära inte)</char> en rik man <char style="add">[som Gud välsignat, se <char style="xt"><ref loc="PSA 112:3">Ps 112:3</ref></char>]</char>,</para>
+  <para style="p" vid="ECC 10:20">inte ens i ditt sovrum,</para>
+  <para style="m" vid="ECC 10:20">för en fågel i skyn kan bära rösten <char style="add">(viska i någons öra)</char></para>
+  <para style="p" vid="ECC 10:20">och någon med vingar kan berätta dina ord.</para>
+  <para style="b" vid="ECC 10:20" />
+  <para style="m" vid="ECC 10:20">
+    <char style="add">[Ordspråket ”en fågel har viskat i mitt öra...” härstammar från detta bibelställe. Var varsam med vad du säger, för rykten och skvaller sprids snabbt och blir lätt allmänt känt.]</char><verse eid="ECC 10:20" /></para>
+  <chapter eid="ECC 10" />
+  <chapter number="11" style="c" sid="ECC 11" />
+  <para style="b" />
+  <para style="m">
+    <verse number="1" style="v" sid="ECC 11:1" />Sänd <char style="add">(kasta)</char> ditt bröd på vattnet</para>
+  <para style="p" vid="ECC 11:1">för efter många dagar ska du finna det <char style="add">(visar det sig, kommer tillbaka)</char>.<verse eid="ECC 11:1" /></para>
+  <para style="m">
+    <verse number="2" style="v" sid="ECC 11:2" />Dela en portion i sju, ja, i åtta,</para>
+  <para style="p" vid="ECC 11:2">för du vet inte vilken ondska <char style="add">(olycka)</char> som ska komma <char style="add">(dyka upp)</char> på jorden.</para>
+  <para style="b" vid="ECC 11:2" />
+  <para style="m" vid="ECC 11:2">
+    <char style="add">[Ordspråket kan betyda att man sår på vattnet, dvs. ger godhet och är generös, och det hittar en väg tillbaka. Det kan också handla om köpmän som handlar med varor över vattnet, se <char style="xt"><ref loc="1KI 10:22">1 Kung 10:22</ref></char>.]</char><verse eid="ECC 11:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="ECC 11:3" />
+    <char style="add">[Vers 3-4 formar en kiasm med moln (3a och 4b) och fallande träd och vind (3b och 4a):]</char></para>
+  <para style="m" vid="ECC 11:3">Om molnen är fulla av regn tömmer de sig över jorden,</para>
+  <para style="b" vid="ECC 11:3" />
+  <para style="m" vid="ECC 11:3">och om ett träd faller åt söder eller åt norr, på en plats där träd faller,</para>
+  <para style="m" vid="ECC 11:3">så kommer det att ske.<verse eid="ECC 11:3" /></para>
+  <para style="m">
+    <verse number="4" style="v" sid="ECC 11:4" />Den som ger akt på <char style="add">(vakar efter)</char> vinden <char style="add">[då det är helt vindstilla]</char> kommer aldrig att så,</para>
+  <para style="b" vid="ECC 11:4" />
+  <para style="m" vid="ECC 11:4">och den som observerar molnen <char style="add">[så det inte är minsta risk för regn]</char> kommer aldrig att skörda.</para>
+  <para style="b" vid="ECC 11:4" />
+  <para style="m" vid="ECC 11:4">
+    <char style="add">[Ibland inträffar stormar och olyckshändelser, men det får inte bli till en ursäkt att aldrig våga göra något. Ordspråket riktar sig till den som är för försiktig. Den jordbrukare som väntar på det mest gynnsamma tillfället att så, när det är helt vindstilla och inget utsäde skulle riskera att blåsa bort, och skörda när det inte är någon risk för regn, kommer aldrig att så eller skörda.]</char><verse eid="ECC 11:4" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="5" style="v" sid="ECC 11:5" />Som du inte vet vilken väg som är vindens,</para>
+  <para style="p" vid="ECC 11:5">eller hur benen växer i hennes livmoder som väntar barn,</para>
+  <para style="m" vid="ECC 11:5">så känner du inte heller till <char style="add">(är intimt förtrogen med)</char> Guds arbete,</para>
+  <para style="p" vid="ECC 11:5">han som har gjort allt <char style="add">(som finns)</char>.<verse eid="ECC 11:5" /></para>
+  <para style="m">
+    <verse number="6" style="v" sid="ECC 11:6" />Så din säd på morgonen,</para>
+  <para style="p" vid="ECC 11:6">och avhåll inte din hand <char style="add">(från att så)</char> på eftermiddagen <char style="add">[då det ofta blåser]</char>,</para>
+  <para style="m" vid="ECC 11:6">för du vet inte vilket som har framgång,</para>
+  <para style="p" vid="ECC 11:6">om det är det ena eller det andra</para>
+  <para style="p" vid="ECC 11:6">eller om båda ska bli lika bra.<verse eid="ECC 11:6" /></para>
+  <para style="s2">Njut av livet, men kom ihåg att Gud en dag ska döma dig</para>
+  <para style="m">
+    <verse number="7" style="v" sid="ECC 11:7" />Ljuset är sött</para>
+  <para style="p" vid="ECC 11:7">och det är ett behagligt ting att se solen.<verse eid="ECC 11:7" /></para>
+  <para style="m">
+    <verse number="8" style="v" sid="ECC 11:8" />Om en människa lever många år,</para>
+  <para style="p" vid="ECC 11:8">låt henne fröjdas åt dem alla</para>
+  <para style="m" vid="ECC 11:8">och komma ihåg de mörka dagarna,</para>
+  <para style="p" vid="ECC 11:8">för de ska bli många.</para>
+  <para style="p" vid="ECC 11:8">Allt som kommer är fåfängt.<verse eid="ECC 11:8" /></para>
+  <para style="m">
+    <verse number="9" style="v" sid="ECC 11:9" />Gläd dig du unga i din ungdom</para>
+  <para style="p" vid="ECC 11:9">och låt ditt hjärta glädja sig i dina unga år,</para>
+  <para style="m" vid="ECC 11:9">och vandra på ditt hjärtas vägar</para>
+  <para style="p" vid="ECC 11:9">och i dina ögons åsyn,</para>
+  <para style="m" vid="ECC 11:9">men vet att för allt detta</para>
+  <para style="p" vid="ECC 11:9">kommer Gud <char style="add">(Elohim)</char> att föra dig till domen <char style="add">(hålla dig ansvarig för dina handlingar)</char>.<verse eid="ECC 11:9" /></para>
+  <para style="m">
+    <verse number="10" style="v" sid="ECC 11:10" />Ta därför bort förtret från ditt hjärta</para>
+  <para style="p" vid="ECC 11:10">och ta bort ondska från ditt kött <char style="add">(din kropp)</char>,</para>
+  <para style="p" vid="ECC 11:10">för barndom och ungdom är fåfängt.<verse eid="ECC 11:10" /></para>
+  <chapter eid="ECC 11" />
+  <chapter number="12" style="c" sid="ECC 12" />
+  <para style="s2">Poem – kom ihåg din Skapare</para>
+  <para style="m">
+    <verse number="1" style="v" sid="ECC 12:1" />Så kom ihåg din Skapare i din ungdom.</para>
+  <para style="p" vid="ECC 12:1">Innan de svåra dagarna kommer <char style="add">[då du blir gammal och får krämpor och smärta]</char>,</para>
+  <para style="p" vid="ECC 12:1">de år som du säger: ”Jag har ingen glädje.”<verse eid="ECC 12:1" /></para>
+  <para style="m">
+    <verse number="2" style="v" sid="ECC 12:2" />Innan solens, månens och stjärnornas sken slocknar,</para>
+  <para style="p" vid="ECC 12:2">då regnet följs av nya moln.</para>
+  <para style="b" vid="ECC 12:2" />
+  <para style="m" vid="ECC 12:2">
+    <char style="add">[Ljusen som slocknar kan poetiskt tala om dålig syn, eller bildligt för mörka tider och depression. Predikaren (hebr. Qohelet) verkar ha tappat tron på Gud. I stället för att kalla Gud sin Herre eller Mästare ser han honom som en opersonlig Skapare. Det är en distanserad syn på Gud och utifrån det perspektivet ges nu en poetisk bild på en åldrande människa, och då särskilt hur det är om man inte känner Gud. Ungdomens naturliga glädje och förväntan inför livet försvinner snabbt, men för den som älskar Gud finns glädje även i ålderdomen, se <char style="xt"><ref loc="ISA 46:4">Jes 46:4</ref></char>.]</char><verse eid="ECC 12:2" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="3" style="v" sid="ECC 12:3" />Den dagen då husets väktare <char style="add">[händerna]</char> darrar.</para>
+  <para style="p" vid="ECC 12:3">Då de starka männen böjer sig <char style="add">(är krökta) [fötter och ben skakar och sviktar]</char>.</para>
+  <para style="m" vid="ECC 12:3">Då malerskorna <char style="add">[tänderna]</char> slutat mala – de är för få.</para>
+  <para style="p" vid="ECC 12:3">Då det mörknar för dem som ser ut genom fönstren <char style="add">[synen blir dålig och dimmig]</char>.<verse eid="ECC 12:3" /></para>
+  <para style="m">
+    <verse number="4" style="v" sid="ECC 12:4" />Då dörrarna mot gatan <char style="add">[munnen]</char> har stängs till.</para>
+  <para style="p" vid="ECC 12:4">Då ljudet från kvarnen dämpas.</para>
+  <para style="b" vid="ECC 12:4" />
+  <para style="m" vid="ECC 12:4">
+    <char style="add">[Dörrarna kan syfta på munnen eller läpparna som stängs till; resultatet är att man tappar kontakten med samhället. Munnen liknas vid en kvarn, men tänderna är borta, och det låter inte längre när man tuggar.]</char></para>
+  <para style="b" vid="ECC 12:4" />
+  <para style="m" vid="ECC 12:4">Då man vaknar när fågeln börjar kvittra <char style="add">[är lättväckt och vaknar tidigt]</char>.</para>
+  <para style="p" vid="ECC 12:4">Då fågelsången dämpas <char style="add">[hörseln blir sämre]</char>.<verse eid="ECC 12:4" /></para>
+  <para style="m">
+    <verse number="5" style="v" sid="ECC 12:5" />Då man bävar för en backe <char style="add">(höjd)</char>,</para>
+  <para style="p" vid="ECC 12:5">och faror på gatorna. <char style="add">[Då man är rädd för att gå ut.]</char></para>
+  <para style="m" vid="ECC 12:5">Då mandelträdet lyser vitt <char style="add">[håret har vitnat]</char>.</para>
+  <para style="p" vid="ECC 12:5">Då en gräshoppa blir en stor börda.</para>
+  <para style="p" vid="ECC 12:5">Då kaprisfrukten mist sin kraft <char style="add">[all sexuell kraft och lust är borta]</char>.</para>
+  <para style="b" vid="ECC 12:5" />
+  <para style="m" vid="ECC 12:5">
+    <char style="add">[Gräshoppan kan beskriva att en liten insekt blir till en stor tyngd eller också en bild på att en åldring är som en gräshoppa som släpar sig fram. Detta är enda versen i Bibeln kaprisfrukten nämns, den användes i antiken som en lustförhöjande drog.]</char></para>
+  <para style="b" vid="ECC 12:5" />
+  <para style="m" vid="ECC 12:5">Då människan är på väg till sitt eviga hem</para>
+  <para style="p" vid="ECC 12:5">och gråtarna väntar på gatan.</para>
+  <para style="b" vid="ECC 12:5" />
+  <para style="m" vid="ECC 12:5" />
+  <para style="m" vid="ECC 12:5">
+    <char style="add">[Nu kommer avslutningen som börjar med ”innan” och syftar tillbaka på vers 1: Frukta alltså Herren och böj dig inför honom innan du dör. Här ges en poetisk bild av några vanliga dödsorsaker:]</char><verse eid="ECC 12:5" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="6" style="v" sid="ECC 12:6" />Innan silvertråden slits av <char style="add">[nervsystemet slutar fungera]</char>,</para>
+  <para style="p" vid="ECC 12:6">eller guldskålen brister <char style="add">[hjärnan slutar fungera]</char>,</para>
+  <para style="p" vid="ECC 12:6">eller krukan krossas vid källan <char style="add">[hjärtats högra kammare brister]</char>,</para>
+  <para style="p" vid="ECC 12:6">eller brunnshjulet går i bitar vid brunnen <char style="add">[hjärtats vänstra kammare brister]</char>.<verse eid="ECC 12:6" /></para>
+  <para style="m">
+    <verse number="7" style="v" sid="ECC 12:7" />Då stoftet <char style="add">[kroppen]</char> återvänder till jorden</para>
+  <para style="p" vid="ECC 12:7">som den en gång kom från,</para>
+  <para style="m" vid="ECC 12:7">och anden <char style="add">[livsanden som Gud blåste in i människan, se <char style="xt"><ref loc="GEN 2:7">1 Mos 2:7</ref></char>]</char></para>
+  <para style="p" vid="ECC 12:7">återvänder till Gud <char style="add">(Elohim)</char> som gav den.<verse eid="ECC 12:7" /></para>
+  <para style="s1">Avslutande refräng</para>
+  <para style="m">
+    <verse number="8" style="v" sid="ECC 12:8" />”Fåfängans fåfängligheter <char style="add">[hebr. hevel havalim]</char>”,</para>
+  <para style="p" vid="ECC 12:8">säger Predikaren <char style="add">(läraren, samlaren, sökaren – hebr. Qohelet)</char>,</para>
+  <para style="m" vid="ECC 12:8">”allt är fåfängt.” <char style="add">[<char style="xt"><ref loc="ECC 1:2">Pred 1:2</ref></char>]</char><verse eid="ECC 12:8" /></para>
+  <para style="s1">Avslutande epilog</para>
+  <para style="m">
+    <verse number="9" style="v" sid="ECC 12:9" />Förutom att Predikaren <char style="add">(läraren, samlaren, sökaren – hebr. Qohelet)</char> var vis, lärde han också ut kunskap till folket, ja han funderade <char style="add">(grubblade)</char> och utforskade och satte samman många ordspråk. <verse eid="ECC 12:9" /><verse number="10" style="v" sid="ECC 12:10" />Predikaren utforskade behagliga ord och det som skrivits ärligt, liksom ord med sanning.<verse eid="ECC 12:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="ECC 12:11" />De visas ord är som sporrar, och som nitar som är väl fastsatta är deras samlade ord, de är givna från en herde. <verse eid="ECC 12:11" /><verse number="12" style="v" sid="ECC 12:12" />Och dessutom, min son, låt varna dig, det finns inget slut på bokskrivandet, och mycket studerande tröttar ut köttet <char style="add">(kroppen)</char>.<verse eid="ECC 12:12" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="13" style="v" sid="ECC 12:13" />Slutordet – när allt <char style="add">(helheten av allt)</char> har avhörts <char style="add">[sammanfattningen när vi har tagit till oss hela budskapet blir då]</char>:</para>
+  <para style="p" vid="ECC 12:13">Frukta <char style="add">(vörda)</char> Gud <char style="add">(Elohim)</char> och håll hans budord <char style="add">(tydliga befallningar – hebr. mitzvot)</char>,</para>
+  <para style="p" vid="ECC 12:13">för detta gäller alla människor.</para>
+  <para style="b" vid="ECC 12:13" />
+  <para style="m" vid="ECC 12:13">
+    <char style="add">[Sista raden lyder ordagrant ”detta är alla/hela människan” och kan tolkas som att ”det gäller alla människor” (<char style="xt"><ref loc="ROM 3:29">Rom 3:29</ref></char>), ”det är alla människors plikt” eller ”detta är allt som är viktigt för människan”. I nästa mening återkommer ”alla” (hebr. kol) två gånger till. Denna fyrfaldiga upprepning betonar att det enda som verkligen betyder något är att frukta Gud och lyda honom, se även <char style="xt"><ref loc="MAT 6:33">Matt 6:33</ref></char>.]</char><verse eid="ECC 12:13" /></para>
+  <para style="b" />
+  <para style="m">
+    <verse number="14" style="v" sid="ECC 12:14" />För varje gärning <char style="add">(handling)</char> ska Gud <char style="add">(Elohim)</char> föra fram i domen,</para>
+  <para style="p" vid="ECC 12:14">även det som är dolt <char style="add">(undangömt)</char> – gott som ont.</para>
+  <para style="b" vid="ECC 12:14" />
+  <para style="m" vid="ECC 12:14">
+    <char style="add">[Predikaren slutar där Ordspråksboken börjar – med en sund gudsfruktan, se <char style="xt"><ref loc="PRO 1:7">Ords 1:7</ref></char>. Den som fruktar Gud kommer också att bry sig om hans budord. Den som fruktar Gud fruktar inget annat, men den som inte fruktar Gud fruktar allt annat. Den som fruktar Gud blir också fri från hämndbegär. Gud kommer att ge en rättvis dom och döma även det som skett i det fördolda, se <char style="xt"><ref loc="DEU 32:35">5 Mos 32:35</ref>; <ref loc="ROM 12:19">Rom 12:19</ref></char>.]</char><verse eid="ECC 12:14" /></para>
+  <chapter eid="ECC 12" />
+</usx>

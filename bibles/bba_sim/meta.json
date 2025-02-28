@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Bibeli Gusunɔn Gari",
+        "local_abbrev": "",
+        "english": "Bariba Bible",
+        "english_abbrev": "BB"
+    },
+    "year": 2013,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2013 SIM",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=bba"
+    },
+    "ids": {
+        "ebible": "bba"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/bba_usfm.zip",
+        "updated": "2014-09-10",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

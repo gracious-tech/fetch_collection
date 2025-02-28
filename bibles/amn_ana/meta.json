@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Godna mo Awai mona go",
+        "local_abbrev": "",
+        "english": "Amanab New Testament",
+        "english_abbrev": "ANA"
+    },
+    "year": 2001,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2001 The Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=amn-amanab"
+    },
+    "ids": {
+        "ebible": "amn-amanab"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/amn-amanab_usfm.zip",
+        "updated": "2013-01-07",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "انجیله یوحنا",
+        "local_abbrev": "",
+        "english": "Gilaki Gospel of John",
+        "english_abbrev": "GLK"
+    },
+    "year": 2014,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2014 gilakmedia.com",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=glk"
+    },
+    "ids": {
+        "ebible": "glk"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/glk_usfm.zip",
+        "updated": "2015-01-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

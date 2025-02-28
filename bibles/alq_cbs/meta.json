@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Kije Manido Odikido8in: Ocki Mazinaigan",
+        "local_abbrev": "",
+        "english": "Algonquin New Testament",
+        "english_abbrev": "CBS"
+    },
+    "year": 1998,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1998 Canadian Bible Society",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=alqALGNT"
+    },
+    "ids": {
+        "ebible": "alqALGNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/alqALGNT_usfm.zip",
+        "updated": "2014-04-21",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

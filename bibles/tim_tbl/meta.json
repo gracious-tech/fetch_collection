@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Yusugât Pat Âlep Den",
+        "local_abbrev": "",
+        "english": "Timbe New Testament",
+        "english_abbrev": "TNT"
+    },
+    "year": 1987,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1987 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tim"
+    },
+    "ids": {
+        "ebible": "tim"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tim_usfm.zip",
+        "updated": "2012-10-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

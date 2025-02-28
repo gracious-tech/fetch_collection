@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Awajún [Aguaruna]",
+        "local_abbrev": "",
+        "english": "Aguaruna Bible",
+        "english_abbrev": "AB"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=agr"
+    },
+    "ids": {
+        "ebible": "agr"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/agr_usfm.zip",
+        "updated": "2015-03-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

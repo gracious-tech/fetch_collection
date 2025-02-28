@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "ဓမ္မသစ်ကျမ်း ဓနုဘာသာစကား",
+        "local_abbrev": "",
+        "english": "Danu Bible",
+        "english_abbrev": "NTDNB"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=f35902ba1a82ba42"
+    },
+    "ids": {
+        "dbl": "f35902ba1a82ba42"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=f35902ba1a82ba42&type=release",
+        "updated": "2024-11-24",
+        "revision": 13
+    },
+    "literalness": null,
+    "tags": []
+}

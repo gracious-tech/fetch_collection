@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Wik Inangan Kan-Kanam God.antama",
+        "local_abbrev": "",
+        "english": "Wik-Mungkan New Testament",
+        "english_abbrev": "WMNT"
+    },
+    "year": 1984,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1984 Wycliffe Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=wim"
+    },
+    "ids": {
+        "ebible": "wim"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/wim_usfm.zip",
+        "updated": "2019-05-14",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Didza' cubi rucá'ana tsahui'",
+        "local_abbrev": "",
+        "english": "Rincon Zapotec New Testament",
+        "english_abbrev": "RZNT"
+    },
+    "year": 2009,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2009 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=zarNT"
+    },
+    "ids": {
+        "ebible": "zarNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/zarNT_usfm.zip",
+        "updated": "2014-04-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

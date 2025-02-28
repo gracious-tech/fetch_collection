@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "聖經，當代譯本開放資源",
+        "local_abbrev": "",
+        "english": "Open Chinese Contemporary Bible (Traditional)",
+        "english_abbrev": "OCCB"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=a6e06d2c5b90ad89"
+    },
+    "ids": {
+        "dbl": "a6e06d2c5b90ad89"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=a6e06d2c5b90ad89&type=release",
+        "updated": "2024-04-29",
+        "revision": 5
+    },
+    "literalness": null,
+    "tags": []
+}

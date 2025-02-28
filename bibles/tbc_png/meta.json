@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Anut san bilaluŋ foun",
+        "local_abbrev": "",
+        "english": "Takia New Testament",
+        "english_abbrev": "TNT"
+    },
+    "year": 1999,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1999 The Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tbc"
+    },
+    "ids": {
+        "ebible": "tbc"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tbc_usfm.zip",
+        "updated": "2013-12-11",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

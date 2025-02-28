@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Sanskrit Bible in Devanagari Script",
+        "english_abbrev": "SBDev"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "SanskritBible.in",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=e8b40ccabe793c0d"
+    },
+    "ids": {
+        "dbl": "e8b40ccabe793c0d",
+        "ebible": "sandev"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=e8b40ccabe793c0d&type=release",
+        "updated": "2018-09-26",
+        "revision": 6
+    },
+    "literalness": null,
+    "tags": []
+}

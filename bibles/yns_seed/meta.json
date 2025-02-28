@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Bible Iyansi",
+        "local_abbrev": "YNS",
+        "english": "",
+        "english_abbrev": ""
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=23b95e51ae5ff242"
+    },
+    "ids": {
+        "dbl": "23b95e51ae5ff242"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=23b95e51ae5ff242&type=release",
+        "updated": "2024-10-01",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

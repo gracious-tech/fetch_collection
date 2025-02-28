@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Buk Baibel long tokples Yongkom",
+        "local_abbrev": "",
+        "english": "Yongkom Bible",
+        "english_abbrev": "YNTOT"
+    },
+    "year": 2003,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2003 The Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=yon"
+    },
+    "ids": {
+        "ebible": "yon"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/yon_usfm.zip",
+        "updated": "2012-10-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

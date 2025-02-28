@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Lagano hya",
+        "local_abbrev": "",
+        "english": "The New Testament in Zigua",
+        "english_abbrev": "ZIBT"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=c9f3cf58d557a9f3"
+    },
+    "ids": {
+        "dbl": "c9f3cf58d557a9f3",
+        "ebible": "ziw"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=c9f3cf58d557a9f3&type=release",
+        "updated": "2014-04-24",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "תנ ך עברי מודרני",
+        "local_abbrev": "",
+        "english": "Franz Delitzsch Translation",
+        "english_abbrev": "FD"
+    },
+    "year": 1892,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=heb"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=heb"
+    },
+    "ids": {
+        "ebible": "heb"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/heb_usfm.zip",
+        "updated": "2022-06-14",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

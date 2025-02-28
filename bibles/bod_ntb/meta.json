@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "དམ་པའི་གསུང་རབ་བོད་འགྱུར་གསར་མ།",
+        "local_abbrev": "",
+        "english": "New Tibetan Bible",
+        "english_abbrev": "NTB"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2016-2023 New Tibetan Bible Translation Committee",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=bodn"
+    },
+    "ids": {
+        "ebible": "bodn"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/bodn_usfm.zip",
+        "updated": "2024-01-31",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

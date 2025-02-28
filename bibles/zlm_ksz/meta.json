@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Kitab Suci Zabur dan Injil",
+        "local_abbrev": "",
+        "english": "Contextualized Malay New Testament",
+        "english_abbrev": "KSZ"
+    },
+    "year": 2013,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2013 Pengamat Kitab Mulia",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=zlmKSZI"
+    },
+    "ids": {
+        "ebible": "zlmKSZI"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/zlmKSZI_usfm.zip",
+        "updated": "2014-04-01",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

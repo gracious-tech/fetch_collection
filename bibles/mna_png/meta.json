@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Anutu Sua Kini Potomaxana",
+        "local_abbrev": "",
+        "english": "Mbula Bible",
+        "english_abbrev": "MB"
+    },
+    "year": 1996,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1996 The Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=mna"
+    },
+    "ids": {
+        "ebible": "mna"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/mna_usfm.zip",
+        "updated": "2017-08-31",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

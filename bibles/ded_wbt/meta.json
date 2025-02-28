@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Yoac kekehagocac Dzadzahac gboria nga Mitiyegec",
+        "local_abbrev": "",
+        "english": "Dedua Bible",
+        "english_abbrev": "DNTP"
+    },
+    "year": 2005,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2005 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ded"
+    },
+    "ids": {
+        "ebible": "ded"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ded_usfm.zip",
+        "updated": "2015-01-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

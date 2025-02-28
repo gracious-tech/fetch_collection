@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Meriam Mir Bible",
+        "english_abbrev": "MMB"
+    },
+    "year": 1989,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1986-1989 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ulk"
+    },
+    "ids": {
+        "ebible": "ulk"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ulk_usfm.zip",
+        "updated": "2019-09-16",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

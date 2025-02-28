@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Ungbamvu Ku Abachi Azhi Ahe̲he̲ Ka",
+        "local_abbrev": "",
+        "english": "Ninzo New Testament",
+        "english_abbrev": "NNT"
+    },
+    "year": 2011,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2011 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ninNT"
+    },
+    "ids": {
+        "ebible": "ninNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ninNT_usfm.zip",
+        "updated": "2019-08-09",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

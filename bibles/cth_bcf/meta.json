@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Thai Phum Holy Bible",
+        "local_abbrev": "",
+        "english": "Thai Phum Bible",
+        "english_abbrev": "BCF"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 Batupuei Christian Fellowship",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=cth"
+    },
+    "ids": {
+        "ebible": "cth"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/cth_usfm.zip",
+        "updated": "2024-05-01",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

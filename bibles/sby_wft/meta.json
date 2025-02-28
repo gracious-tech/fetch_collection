@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Soli Bible Translation",
+        "english_abbrev": "SBT"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=31ce26b5803b75dd"
+    },
+    "ids": {
+        "dbl": "31ce26b5803b75dd",
+        "ebible": "sby"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=31ce26b5803b75dd&type=release",
+        "updated": "2018-12-05",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

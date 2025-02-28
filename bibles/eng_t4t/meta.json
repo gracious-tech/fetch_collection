@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Translation for Translators",
+        "local_abbrev": "T4T",
+        "english": "Translation for Translators",
+        "english_abbrev": "T4T"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2008-2017 Ellis W. Deibler, Jr.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=eng-t4t"
+    },
+    "ids": {
+        "ebible": "eng-t4t"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/eng-t4t_usfm.zip",
+        "updated": "2024-11-07",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": ["niche"]
+}

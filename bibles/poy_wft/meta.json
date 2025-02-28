@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Lipatanu Lya Syayi Kwa Wantu Woseri",
+        "local_abbrev": "",
+        "english": "The New Testament in Pogoro",
+        "english_abbrev": "PBV"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=355792a03079ccdd"
+    },
+    "ids": {
+        "dbl": "355792a03079ccdd",
+        "ebible": "poy"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=355792a03079ccdd&type=release",
+        "updated": "2014-02-19",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

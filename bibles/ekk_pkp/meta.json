@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Piibel Kõigile",
+        "local_abbrev": "PKP",
+        "english": "Estonian Bible",
+        "english_abbrev": "EB"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Sihtasutus Piibel Kõigile",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=e1c5cd49c0757432"
+    },
+    "ids": {
+        "dbl": "e1c5cd49c0757432",
+        "ebible": "ekkpkp"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=e1c5cd49c0757432&type=release",
+        "updated": "2023-04-04",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

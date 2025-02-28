@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "A SLURLKA AA LANGINKA AMA IAMESKA",
+        "local_abbrev": "",
+        "english": "Qaqet Bible",
+        "english_abbrev": "QB"
+    },
+    "year": 1996,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1996 Papua New Guinea Bible Translation Association",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=byx"
+    },
+    "ids": {
+        "ebible": "byx"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/byx_usfm.zip",
+        "updated": "2022-10-31",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

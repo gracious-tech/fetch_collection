@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "YAUBADA YANA VONA'AWAUFAUFA 'IVAUNA",
+        "local_abbrev": "",
+        "english": "Iamalele New Testament",
+        "english_abbrev": "INT"
+    },
+    "year": 1988,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1984, 1988 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=yml"
+    },
+    "ids": {
+        "ebible": "yml"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/yml_usfm.zip",
+        "updated": "2012-01-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

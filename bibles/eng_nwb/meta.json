@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Noah Webster Bible (1833)",
+        "local_abbrev": "NWB",
+        "english": "Noah Webster Bible (1833)",
+        "english_abbrev": "NWB"
+    },
+    "year": 1833,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=engwebster"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engwebster"
+    },
+    "ids": {
+        "ebible": "engwebster"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engwebster_usfm.zip",
+        "updated": "2024-08-01",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

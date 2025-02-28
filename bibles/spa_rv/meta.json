@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Reina Valera",
+        "local_abbrev": "RV1909",
+        "english": "Reina Valera",
+        "english_abbrev": "RV1909"
+    },
+    "year": 1909,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://app.thedigitalbiblelibrary.org/entry?id=592420522e16049f"
+            }
+        ],
+        "attribution": "Public domain",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=592420522e16049f"
+    },
+    "ids": {
+        "dbl": "592420522e16049f",
+        "ebible": "spaRV1909"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=592420522e16049f&type=release",
+        "updated": "2024-11-14",
+        "revision": 10
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Kuhane Bible",
+        "local_abbrev": "",
+        "english": "Kuhane New Testament",
+        "english_abbrev": "DOO"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 Door 43 International Mission Community",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=sbs"
+    },
+    "ids": {
+        "ebible": "sbs"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/sbs_usfm.zip",
+        "updated": "2020-08-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "American Standard Version (1901)",
+        "local_abbrev": "ASV",
+        "english": "American Standard Version (1901)",
+        "english_abbrev": "ASV"
+    },
+    "year": 1901,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=eng-asv"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=eng-asv"
+    },
+    "ids": {
+        "ebible": "eng-asv"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/eng-asv_usfm.zip",
+        "updated": "2024-11-13",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

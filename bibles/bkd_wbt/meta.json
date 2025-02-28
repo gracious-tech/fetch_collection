@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Lalang hu Dios",
+        "local_abbrev": "",
+        "english": "Binukid New Testament",
+        "english_abbrev": "BNT"
+    },
+    "year": 1986,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 1986 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=bkd"
+    },
+    "ids": {
+        "ebible": "bkd"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/bkd_usfm.zip",
+        "updated": "2014-08-06",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

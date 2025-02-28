@@ -1,0 +1,1691 @@
+\id 1TH Statistical Restoration (SR) Greek New Testament
+\rem Copyright © 2022-2024 by Alan Bunning. All rights reserved.
+\rem Released under Creative Commons Attribution 4.0 International License (CC BY 4.0).
+\rem You must give credit to Alan Bunning and the Center for New Testament Restoration, and any derivative work must likewise require that this attribution be included.
+\rem Generated on 7/16/2024.
+\usfm 3.0
+\ide UTF-8
+\h  Πρὸς Θεσσαλονικεῖς Α
+\toc1 Πρὸς Θεσσαλονικεῖς Α
+\mt1 Πρὸς Θεσσαλονικεῖς Α
+
+\c 1
+
+\p 
+\v 1
+\w Παῦλος|lemma="Παῦλος" x-koine="παυλοσ" x-strong="G39720" x-morph="Gr,N,....NMS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w Σιλουανὸς|lemma="Σιλουανός" x-koine="σιλουανοσ" x-strong="G46100" x-morph="Gr,N,....NMS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w Τιμόθεος|lemma="Τιμόθεος" x-koine="τιμοθεοσ" x-strong="G50950" x-morph="Gr,N,....NMS"\w*,
+\w τῇ|lemma="ὁ" x-koine="τη" x-strong="G35880" x-morph="Gr,E,....DFS"\w*
+\w ἐκκλησίᾳ|lemma="ἐκκλησία" x-koine="εκκλησια" x-strong="G15770" x-morph="Gr,N,....DFS"\w*
+\w Θεσσαλονικέων|lemma="Θεσσαλονικεύς" x-koine="θεσσαλονεικεων" x-strong="G23310" x-morph="Gr,N,....GMP"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+˚\w Θεῷ|lemma="θεός" x-koine="=θω" x-strong="G23160" x-morph="Gr,N,....DMS"\w*
+\w Πατρὶ|lemma="πατήρ" x-koine="πατρι" x-strong="G39620" x-morph="Gr,N,....DMS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+˚\w Κυρίῳ|lemma="κύριος" x-koine="=κω" x-strong="G29620" x-morph="Gr,N,....DMS"\w*
+˚\w Ἰησοῦ|lemma="Ἰησοῦς" x-koine="=ιυ" x-strong="G24240" x-morph="Gr,N,....DMS"\w*
+˚\w Χριστῷ|lemma="χριστός" x-koine="=χω" x-strong="G55470" x-morph="Gr,N,....DMS"\w*:
+\w χάρις|lemma="χάρις" x-koine="χαρισ" x-strong="G54850" x-morph="Gr,N,....NFS"\w*
+\w ὑμῖν|lemma="σύ" x-koine="υμιν" x-strong="G47710" x-morph="Gr,R,...2D.P"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w εἰρήνη|lemma="εἰρήνη" x-koine="ειρηνη" x-strong="G15150" x-morph="Gr,N,....NFS"\w*.
+
+\p 
+\v 2
+\w Εὐχαριστοῦμεν|lemma="εὐχαριστέω" x-koine="ευχαριστουμεν" x-strong="G21680" x-morph="Gr,V,IPA1..P"\w*
+\w τῷ|lemma="ὁ" x-koine="τω" x-strong="G35880" x-morph="Gr,E,....DMS"\w*
+˚\w Θεῷ|lemma="θεός" x-koine="=θω" x-strong="G23160" x-morph="Gr,N,....DMS"\w*
+\w πάντοτε|lemma="πάντοτε" x-koine="παντοτε" x-strong="G38420" x-morph="Gr,D,......."\w*
+\w περὶ|lemma="περί" x-koine="περι" x-strong="G40120" x-morph="Gr,P,......."\w*
+\w πάντων|lemma="πᾶς" x-koine="παντων" x-strong="G39560" x-morph="Gr,S,....GMP"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*,
+\w μνείαν|lemma="μνεία" x-koine="μνειαν" x-strong="G34170" x-morph="Gr,N,....AFS"\w*
+\w ποιούμενοι|lemma="ποιέω" x-koine="ποιουμενοι" x-strong="G41600" x-morph="Gr,V,PPM.NMP"\w*
+\w ἐπὶ|lemma="ἐπί" x-koine="επι" x-strong="G19090" x-morph="Gr,P,......."\w*
+\w τῶν|lemma="ὁ" x-koine="των" x-strong="G35880" x-morph="Gr,E,....GFP"\w*
+\w προσευχῶν|lemma="προσευχή" x-koine="προσευχων" x-strong="G43350" x-morph="Gr,N,....GFP"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+\w ἀδιαλείπτως|lemma="ἀδιαλείπτως" x-koine="αδειαλιπτωσ" x-strong="G00890" x-morph="Gr,D,......."\w*
+
+\v 3
+\w μνημονεύοντες|lemma="μνημονεύω" x-koine="μνημονευοντεσ" x-strong="G34210" x-morph="Gr,V,PPA.NMP"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GNS"\w*
+\w ἔργου|lemma="ἔργον" x-koine="εργου" x-strong="G20410" x-morph="Gr,N,....GNS"\w*
+\w τῆς|lemma="ὁ" x-koine="τησ" x-strong="G35880" x-morph="Gr,E,....GFS"\w*
+\w πίστεως|lemma="πίστις" x-koine="πιστεωσ" x-strong="G41020" x-morph="Gr,N,....GFS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+\w κόπου|lemma="κόπος" x-koine="κοπου" x-strong="G28730" x-morph="Gr,N,....GMS"\w*
+\w τῆς|lemma="ὁ" x-koine="τησ" x-strong="G35880" x-morph="Gr,E,....GFS"\w*
+\w ἀγάπης|lemma="ἀγάπη" x-koine="αγαπησ" x-strong="G00260" x-morph="Gr,N,....GFS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w τῆς|lemma="ὁ" x-koine="τησ" x-strong="G35880" x-morph="Gr,E,....GFS"\w*
+\w ὑπομονῆς|lemma="ὑπομονή" x-koine="υπομονησ" x-strong="G52810" x-morph="Gr,N,....GFS"\w*
+\w τῆς|lemma="ὁ" x-koine="τησ" x-strong="G35880" x-morph="Gr,E,....GFS"\w*
+\w ἐλπίδος|lemma="ἐλπίς" x-koine="ελπιδοσ" x-strong="G16800" x-morph="Gr,N,....GFS"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Κυρίου|lemma="κύριος" x-koine="=κυ" x-strong="G29620" x-morph="Gr,N,....GMS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+˚\w Ἰησοῦ|lemma="Ἰησοῦς" x-koine="=ιυ" x-strong="G24240" x-morph="Gr,N,....GMS"\w*
+˚\w Χριστοῦ|lemma="χριστός" x-koine="=χυ" x-strong="G55470" x-morph="Gr,N,....GMS"\w*,
+\w ἔμπροσθεν|lemma="ἔμπροσθεν" x-koine="εμπροσθεν" x-strong="G17150" x-morph="Gr,P,......."\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w Πατρὸς|lemma="πατήρ" x-koine="πατροσ" x-strong="G39620" x-morph="Gr,N,....GMS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+
+\v 4
+\w εἰδότες|lemma="εἴδω" x-koine="ειδοτεσ" x-strong="G14920" x-morph="Gr,V,PEA.NMP"\w*,
+\w ἀδελφοὶ|lemma="ἀδελφός" x-koine="αδελφοι" x-strong="G00800" x-morph="Gr,N,....VMP"\w*
+\w ἠγαπημένοι|lemma="ἀγαπάω" x-koine="ηγαπημενοι" x-strong="G00250" x-morph="Gr,V,PEP.VMP"\w*
+\w ὑπὸ|lemma="ὑπό" x-koine="υπο" x-strong="G52590" x-morph="Gr,P,......."\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*,
+\w τὴν|lemma="ὁ" x-koine="την" x-strong="G35880" x-morph="Gr,E,....AFS"\w*
+\w ἐκλογὴν|lemma="ἐκλογή" x-koine="εκλογην" x-strong="G15890" x-morph="Gr,N,....AFS"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*,
+
+\v 5
+\w ὅτι|lemma="ὅτι" x-koine="οτι" x-strong="G37540" x-morph="Gr,C,......."\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....NNS"\w*
+\w εὐαγγέλιον|lemma="εὐαγγέλιον" x-koine="ευαγγελιον" x-strong="G20980" x-morph="Gr,N,....NNS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*
+\w οὐκ|lemma="οὐ" x-koine="ουκ" x-strong="G37560" x-morph="Gr,C,......."\w*
+\w ἐγενήθη|lemma="γίνομαι" x-koine="εγενηθη" x-strong="G10960" x-morph="Gr,V,IAP3..S"\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w λόγῳ|lemma="λόγος" x-koine="λογω" x-strong="G30560" x-morph="Gr,N,....DMS"\w*
+\w μόνον|lemma="μόνον" x-koine="μονον" x-strong="G34400" x-morph="Gr,D,......."\w*,
+\w ἀλλὰ|lemma="ἀλλά" x-koine="αλλα" x-strong="G02350" x-morph="Gr,C,......."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w δυνάμει|lemma="δύναμις" x-koine="δυναμει" x-strong="G14110" x-morph="Gr,N,....DFS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+˚\w Πνεύματι|lemma="πνεῦμα" x-koine="=πνι" x-strong="G41510" x-morph="Gr,N,....DNS"\w*
+\w Ἁγίῳ|lemma="ἅγιος" x-koine="αγιω" x-strong="G00400" x-morph="Gr,A,....DNS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w πληροφορίᾳ|lemma="πληροφορία" x-koine="πληροφορια" x-strong="G41360" x-morph="Gr,N,....DFS"\w*
+\w πολλῇ|lemma="πολλός" x-koine="πολλη" x-strong="G41830" x-morph="Gr,A,....DFS"\w*,
+\w καθὼς|lemma="καθώς" x-koine="καθωσ" x-strong="G25310" x-morph="Gr,C,......."\w*
+\w οἴδατε|lemma="εἴδω" x-koine="οιδατε" x-strong="G14920" x-morph="Gr,V,IEA2..P"\w*
+\w οἷοι|lemma="οἷος" x-koine="οιοι" x-strong="G36340" x-morph="Gr,R,....NMP"\w*
+\w ἐγενήθημεν|lemma="γίνομαι" x-koine="εγενηθημεν" x-strong="G10960" x-morph="Gr,V,IAP1..P"\w*
+\w ὑμῖν|lemma="σύ" x-koine="υμιν" x-strong="G47710" x-morph="Gr,R,...2D.P"\w*
+\w διʼ|lemma="διά" x-koine="δι" x-strong="G12230" x-morph="Gr,P,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*.
+
+\v 6
+\w Καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ὑμεῖς|lemma="σύ" x-koine="υμεισ" x-strong="G47710" x-morph="Gr,R,...2N.P"\w*
+\w μιμηταὶ|lemma="μιμητής" x-koine="μιμηται" x-strong="G34020" x-morph="Gr,N,....NMP"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*
+\w ἐγενήθητε|lemma="γίνομαι" x-koine="εγενηθητε" x-strong="G10960" x-morph="Gr,V,IAP2..P"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Κυρίου|lemma="κύριος" x-koine="=κυ" x-strong="G29620" x-morph="Gr,N,....GMS"\w*,
+\w δεξάμενοι|lemma="δέχομαι" x-koine="δεξαμενοι" x-strong="G12090" x-morph="Gr,V,PAM.NMP"\w*
+\w τὸν|lemma="ὁ" x-koine="τον" x-strong="G35880" x-morph="Gr,E,....AMS"\w*
+\w λόγον|lemma="λόγος" x-koine="λογον" x-strong="G30560" x-morph="Gr,N,....AMS"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w θλίψει|lemma="θλῖψις" x-koine="θλιψει" x-strong="G23470" x-morph="Gr,N,....DFS"\w*
+\w πολλῇ|lemma="πολλός" x-koine="πολλη" x-strong="G41830" x-morph="Gr,A,....DFS"\w*
+\w μετὰ|lemma="μετά" x-koine="μετα" x-strong="G33260" x-morph="Gr,P,......."\w*
+\w χαρᾶς|lemma="χαρά" x-koine="χαρασ" x-strong="G54790" x-morph="Gr,N,....GFS"\w*
+˚\w Πνεύματος|lemma="πνεῦμα" x-koine="=πνσ" x-strong="G41510" x-morph="Gr,N,....GNS"\w*
+\w Ἁγίου|lemma="ἅγιος" x-koine="αγιου" x-strong="G00400" x-morph="Gr,A,....GNS"\w*,
+
+\v 7
+\w ὥστε|lemma="ὥστε" x-koine="ωστε" x-strong="G56200" x-morph="Gr,C,......."\w*
+\w γενέσθαι|lemma="γίνομαι" x-koine="γενεσθαι" x-strong="G10960" x-morph="Gr,V,NAM...."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w τύπους|lemma="τύπος" x-koine="τυπουσ" x-strong="G51790" x-morph="Gr,N,....AMP"\w*
+\w πᾶσιν|lemma="πᾶς" x-koine="πασιν" x-strong="G39560" x-morph="Gr,S,....DMP"\w*
+\w τοῖς|lemma="ὁ" x-koine="τοισ" x-strong="G35880" x-morph="Gr,R,....DMP"\w*
+\w πιστεύουσιν|lemma="πιστεύω" x-koine="πιστευουσιν" x-strong="G41000" x-morph="Gr,V,PPA.DMP"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w τῇ|lemma="ὁ" x-koine="τη" x-strong="G35880" x-morph="Gr,E,....DFS"\w*
+\w Μακεδονίᾳ|lemma="Μακεδονία" x-koine="μακαιδονια" x-strong="G31090" x-morph="Gr,N,....DFS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w τῇ|lemma="ὁ" x-koine="τη" x-strong="G35880" x-morph="Gr,E,....DFS"\w*
+\w Ἀχαΐᾳ|lemma="Ἀχαΐα" x-koine="αχαια" x-strong="G08820" x-morph="Gr,N,....DFS"\w*.
+
+\v 8
+\w Ἀφʼ|lemma="ἀπό" x-koine="αφ" x-strong="G05750" x-morph="Gr,P,......."\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w ἐξήχηται|lemma="ἐξηχέω" x-koine="εξηχηται" x-strong="G18370" x-morph="Gr,V,IEP3..S"\w*
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,E,....NMS"\w*
+\w λόγος|lemma="λόγος" x-koine="λογοσ" x-strong="G30560" x-morph="Gr,N,....NMS"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Κυρίου|lemma="κύριος" x-koine="=κυ" x-strong="G29620" x-morph="Gr,N,....GMS"\w*,
+\w οὐ|lemma="οὐ" x-koine="ου" x-strong="G37560" x-morph="Gr,C,......."\w*
+\w μόνον|lemma="μόνον" x-koine="μονον" x-strong="G34400" x-morph="Gr,D,......."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w τῇ|lemma="ὁ" x-koine="τη" x-strong="G35880" x-morph="Gr,E,....DFS"\w*
+\w Μακεδονίᾳ|lemma="Μακεδονία" x-koine="μακεδονια" x-strong="G31090" x-morph="Gr,N,....DFS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w τῇ|lemma="ὁ" x-koine="τη" x-strong="G35880" x-morph="Gr,E,....DFS"\w*
+\w Ἀχαΐᾳ|lemma="Ἀχαΐα" x-koine="αχαια" x-strong="G08820" x-morph="Gr,N,....DFS"\w*,
+\w ἀλλʼ|lemma="ἀλλά" x-koine="αλλ" x-strong="G02350" x-morph="Gr,C,......."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w παντὶ|lemma="πᾶς" x-koine="παντι" x-strong="G39560" x-morph="Gr,E,....DMS"\w*
+\w τόπῳ|lemma="τόπος" x-koine="τοπω" x-strong="G51170" x-morph="Gr,N,....DMS"\w*
+\w ἡ|lemma="ὁ" x-koine="η" x-strong="G35880" x-morph="Gr,E,....NFS"\w*
+\w πίστις|lemma="πίστις" x-koine="πιστισ" x-strong="G41020" x-morph="Gr,N,....NFS"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*
+\w ἡ|lemma="ὁ" x-koine="η" x-strong="G35880" x-morph="Gr,R,....NFS"\w*
+\w πρὸς|lemma="πρός" x-koine="προσ" x-strong="G43140" x-morph="Gr,P,......."\w*
+\w τὸν|lemma="ὁ" x-koine="τον" x-strong="G35880" x-morph="Gr,E,....AMS"\w*
+˚\w Θεὸν|lemma="θεός" x-koine="=θν" x-strong="G23160" x-morph="Gr,N,....AMS"\w*
+\w ἐξελήλυθεν|lemma="ἐξέρχομαι" x-koine="εξεληλυθεν" x-strong="G18310" x-morph="Gr,V,IEA3..S"\w*,
+\w ὥστε|lemma="ὥστε" x-koine="ωστε" x-strong="G56200" x-morph="Gr,C,......."\w*
+\w μὴ|lemma="μή" x-koine="μη" x-strong="G33610" x-morph="Gr,D,......."\w*
+\w χρείαν|lemma="χρεία" x-koine="χρειαν" x-strong="G55320" x-morph="Gr,N,....AFS"\w*
+\w ἔχειν|lemma="ἔχω" x-koine="εχειν" x-strong="G21920" x-morph="Gr,V,NPA...."\w*
+\w ἡμᾶς|lemma="ἐγώ" x-koine="ημασ" x-strong="G14730" x-morph="Gr,R,...1A.P"\w*
+\w λαλεῖν|lemma="λαλέω" x-koine="λαλειν" x-strong="G29800" x-morph="Gr,V,NPA...."\w*
+\w τι|lemma="τὶς" x-koine="τι" x-strong="G51000" x-morph="Gr,R,....ANS"\w*.
+
+\v 9
+\w Αὐτοὶ|lemma="αὐτός" x-koine="αυτοι" x-strong="G08460" x-morph="Gr,R,...3NMP"\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w περὶ|lemma="περί" x-koine="περι" x-strong="G40120" x-morph="Gr,P,......."\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*
+\w ἀπαγγέλλουσιν|lemma="ἀπαγγέλλω" x-koine="απαγγελλουσιν" x-strong="G05180" x-morph="Gr,V,IPA3..P"\w*
+\w ὁποίαν|lemma="ὁποῖος" x-koine="οποιαν" x-strong="G36970" x-morph="Gr,E,....AFS"\w*
+\w εἴσοδον|lemma="εἴσοδος" x-koine="εισοδον" x-strong="G15290" x-morph="Gr,N,....AFS"\w*
+\w ἔσχομεν|lemma="ἔχω" x-koine="εσχομεν" x-strong="G21920" x-morph="Gr,V,IAA1..P"\w*
+\w πρὸς|lemma="πρός" x-koine="προσ" x-strong="G43140" x-morph="Gr,P,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w πῶς|lemma="πῶς" x-koine="πωσ" x-strong="G44590" x-morph="Gr,D,......."\w*
+\w ἐπεστρέψατε|lemma="ἐπιστρέφω" x-koine="επεστρεψατε" x-strong="G19940" x-morph="Gr,V,IAA2..P"\w*
+\w πρὸς|lemma="πρός" x-koine="προσ" x-strong="G43140" x-morph="Gr,P,......."\w*
+\w τὸν|lemma="ὁ" x-koine="τον" x-strong="G35880" x-morph="Gr,E,....AMS"\w*
+˚\w Θεὸν|lemma="θεός" x-koine="=θν" x-strong="G23160" x-morph="Gr,N,....AMS"\w*
+\w ἀπὸ|lemma="ἀπό" x-koine="απο" x-strong="G05750" x-morph="Gr,P,......."\w*
+\w τῶν|lemma="ὁ" x-koine="των" x-strong="G35880" x-morph="Gr,E,....GNP"\w*
+\w εἰδώλων|lemma="εἴδωλον" x-koine="ειδωλων" x-strong="G14970" x-morph="Gr,N,....GNP"\w*,
+\w δουλεύειν|lemma="δουλεύω" x-koine="δουλευειν" x-strong="G13980" x-morph="Gr,V,NPA...."\w*
+˚\w Θεῷ|lemma="θεός" x-koine="=θω" x-strong="G23160" x-morph="Gr,N,....DMS"\w*
+\w ζῶντι|lemma="ζάω" x-koine="ζωντι" x-strong="G21980" x-morph="Gr,V,PPA.DMS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἀληθινῷ|lemma="ἀληθινός" x-koine="αληθινω" x-strong="G02280" x-morph="Gr,S,....DMS"\w*,
+
+\v 10
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἀναμένειν|lemma="ἀναμένω" x-koine="αναμενειν" x-strong="G03620" x-morph="Gr,V,NPA...."\w*
+\w τὸν|lemma="ὁ" x-koine="τον" x-strong="G35880" x-morph="Gr,E,....AMS"\w*
+\w Υἱὸν|lemma="υἱός" x-koine="υιον" x-strong="G52070" x-morph="Gr,N,....AMS"\w*
+\w αὐτοῦ|lemma="αὐτός" x-koine="αυτου" x-strong="G08460" x-morph="Gr,R,...3GMS"\w*
+\w ἐκ|lemma="ἐκ" x-koine="εκ" x-strong="G15370" x-morph="Gr,P,......."\w*
+\w τῶν|lemma="ὁ" x-koine="των" x-strong="G35880" x-morph="Gr,E,....GMP"\w*
+\w οὐρανῶν|lemma="οὐρανός" x-koine="ουρανων" x-strong="G37720" x-morph="Gr,N,....GMP"\w*,
+\w ὃν|lemma="ὅς" x-koine="ον" x-strong="G37390" x-morph="Gr,R,....AMS"\w*
+\w ἤγειρεν|lemma="ἐγείρω" x-koine="ηγειρεν" x-strong="G14530" x-morph="Gr,V,IAA3..S"\w*
+\w ἐκ|lemma="ἐκ" x-koine="εκ" x-strong="G15370" x-morph="Gr,P,......."\w*
+\w τῶν|lemma="ὁ" x-koine="των" x-strong="G35880" x-morph="Gr,E,....GMP"\w*
+\w νεκρῶν|lemma="νεκρός" x-koine="νεκρων" x-strong="G34980" x-morph="Gr,S,....GMP"\w*,
+˚\w Ἰησοῦν|lemma="Ἰησοῦς" x-koine="=ιν" x-strong="G24240" x-morph="Gr,N,....AMS"\w*,
+\w τὸν|lemma="ὁ" x-koine="τον" x-strong="G35880" x-morph="Gr,R,....AMS"\w*
+\w ῥυόμενον|lemma="ῥύομαι" x-koine="ρυομενον" x-strong="G45060" x-morph="Gr,V,PPM.AMS"\w*
+\w ἡμᾶς|lemma="ἐγώ" x-koine="ημασ" x-strong="G14730" x-morph="Gr,R,...1A.P"\w*
+\w ἐκ|lemma="ἐκ" x-koine="εκ" x-strong="G15370" x-morph="Gr,P,......."\w*
+\w τῆς|lemma="ὁ" x-koine="τησ" x-strong="G35880" x-morph="Gr,E,....GFS"\w*
+\w ὀργῆς|lemma="ὀργή" x-koine="οργησ" x-strong="G37090" x-morph="Gr,N,....GFS"\w*
+\w τῆς|lemma="ὁ" x-koine="τησ" x-strong="G35880" x-morph="Gr,R,....GFS"\w*
+\w ἐρχομένης|lemma="ἔρχομαι" x-koine="ερχομενησ" x-strong="G20640" x-morph="Gr,V,PPM.GFS"\w*.
+
+\c 2
+
+\p 
+\v 1
+\w Αὐτοὶ|lemma="αὐτός" x-koine="αυτοι" x-strong="G08460" x-morph="Gr,R,...2NMP"\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w οἴδατε|lemma="εἴδω" x-koine="οιδατε" x-strong="G14920" x-morph="Gr,V,IEA2..P"\w*,
+\w ἀδελφοί|lemma="ἀδελφός" x-koine="αδελφοι" x-strong="G00800" x-morph="Gr,N,....VMP"\w*,
+\w τὴν|lemma="ὁ" x-koine="την" x-strong="G35880" x-morph="Gr,E,....AFS"\w*
+\w εἴσοδον|lemma="εἴσοδος" x-koine="εισοδον" x-strong="G15290" x-morph="Gr,N,....AFS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*
+\w τὴν|lemma="ὁ" x-koine="την" x-strong="G35880" x-morph="Gr,R,....AFS"\w*
+\w πρὸς|lemma="πρός" x-koine="προσ" x-strong="G43140" x-morph="Gr,P,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*,
+\w ὅτι|lemma="ὅτι" x-koine="οτι" x-strong="G37540" x-morph="Gr,C,......."\w*
+\w οὐ|lemma="οὐ" x-koine="ου" x-strong="G37560" x-morph="Gr,C,......."\w*
+\w κενὴ|lemma="κενός" x-koine="κενη" x-strong="G27560" x-morph="Gr,S,....NFS"\w*
+\w γέγονεν|lemma="γίνομαι" x-koine="γεγονεν" x-strong="G10960" x-morph="Gr,V,IEA3..S"\w*,
+
+\v 2
+\w ἀλλὰ|lemma="ἀλλά" x-koine="αλλα" x-strong="G02350" x-morph="Gr,C,......."\w*
+\w προπαθόντες|lemma="προπάσχω" x-koine="προπαθοντεσ" x-strong="G43100" x-morph="Gr,V,PAA.NMP"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ὑβρισθέντες|lemma="ὑβρίζω" x-koine="υβρισθεντεσ" x-strong="G51950" x-morph="Gr,V,PAP.NMP"\w*,
+\w καθὼς|lemma="καθώς" x-koine="καθωσ" x-strong="G25310" x-morph="Gr,C,......."\w*
+\w οἴδατε|lemma="εἴδω" x-koine="οιδατε" x-strong="G14920" x-morph="Gr,V,IEA2..P"\w*,
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w Φιλίπποις|lemma="Φίλιπποι" x-koine="φιλιπποισ" x-strong="G53750" x-morph="Gr,N,....DMP"\w*
+\w ἐπαρρησιασάμεθα|lemma="παρρησιάζομαι" x-koine="επαρρησιασαμεθα" x-strong="G39550" x-morph="Gr,V,IAM1..P"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w τῷ|lemma="ὁ" x-koine="τω" x-strong="G35880" x-morph="Gr,E,....DMS"\w*
+˚\w Θεῷ|lemma="θεός" x-koine="=θω" x-strong="G23160" x-morph="Gr,N,....DMS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+\w λαλῆσαι|lemma="λαλέω" x-koine="λαλησαι" x-strong="G29800" x-morph="Gr,V,NAA...."\w*
+\w πρὸς|lemma="πρός" x-koine="προσ" x-strong="G43140" x-morph="Gr,P,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....ANS"\w*
+\w εὐαγγέλιον|lemma="εὐαγγέλιον" x-koine="ευαγγελιον" x-strong="G20980" x-morph="Gr,N,....ANS"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w πολλῷ|lemma="πολλός" x-koine="πολλω" x-strong="G41830" x-morph="Gr,A,....DMS"\w*
+\w ἀγῶνι|lemma="ἀγών" x-koine="αγωνι" x-strong="G00730" x-morph="Gr,N,....DMS"\w*.
+
+\v 3
+\w Ἡ|lemma="ὁ" x-koine="η" x-strong="G35880" x-morph="Gr,E,....NFS"\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w παράκλησις|lemma="παράκλησις" x-koine="παρακλησισ" x-strong="G38740" x-morph="Gr,N,....NFS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*
+\w οὐκ|lemma="οὐ" x-koine="ουκ" x-strong="G37560" x-morph="Gr,C,......."\w*
+\w ἐκ|lemma="ἐκ" x-koine="εκ" x-strong="G15370" x-morph="Gr,P,......."\w*
+\w πλάνης|lemma="πλάνη" x-koine="πλανησ" x-strong="G41060" x-morph="Gr,N,....GFS"\w*,
+\w οὐδὲ|lemma="οὐδέ" x-koine="ουδε" x-strong="G37610" x-morph="Gr,C,......."\w*
+\w ἐξ|lemma="ἐκ" x-koine="εξ" x-strong="G15370" x-morph="Gr,P,......."\w*
+\w ἀκαθαρσίας|lemma="ἀκαθαρσία" x-koine="ακαθαρσιασ" x-strong="G01670" x-morph="Gr,N,....GFS"\w*,
+\w οὐδὲ|lemma="οὐδέ" x-koine="ουδε" x-strong="G37610" x-morph="Gr,C,......."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w δόλῳ|lemma="δόλος" x-koine="δολω" x-strong="G13880" x-morph="Gr,N,....DMS"\w*,
+
+\v 4
+\w ἀλλὰ|lemma="ἀλλά" x-koine="αλλα" x-strong="G02350" x-morph="Gr,C,......."\w*
+\w καθὼς|lemma="καθώς" x-koine="καθωσ" x-strong="G25310" x-morph="Gr,C,......."\w*
+\w δεδοκιμάσμεθα|lemma="δοκιμάζω" x-koine="δεδοκιμασμεθα" x-strong="G13810" x-morph="Gr,V,IEP1..P"\w*
+\w ὑπὸ|lemma="ὑπό" x-koine="υπο" x-strong="G52590" x-morph="Gr,P,......."\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*,
+\w πιστευθῆναι|lemma="πιστεύω" x-koine="πιστευθηναι" x-strong="G41000" x-morph="Gr,V,NAP...."\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....ANS"\w*
+\w εὐαγγέλιον|lemma="εὐαγγέλιον" x-koine="ευαγγελιον" x-strong="G20980" x-morph="Gr,N,....ANS"\w*,
+\w οὕτως|lemma="οὕτως" x-koine="ουτωσ" x-strong="G37790" x-morph="Gr,D,......."\w*
+\w λαλοῦμεν|lemma="λαλέω" x-koine="λαλουμεν" x-strong="G29800" x-morph="Gr,V,IPA1..P"\w*,
+\w οὐχ|lemma="οὐ" x-koine="ουχ" x-strong="G37560" x-morph="Gr,C,......."\w*
+\w ὡς|lemma="ὡς" x-koine="ωσ" x-strong="G56130" x-morph="Gr,C,......."\w*
+\w ἀνθρώποις|lemma="ἄνθρωπος" x-koine="ανθρωποισ" x-strong="G04440" x-morph="Gr,N,....DMP"\w*
+\w ἀρέσκοντες|lemma="ἀρέσκω" x-koine="αρεσκοντεσ" x-strong="G07000" x-morph="Gr,V,PPA.NMP"\w*,
+\w ἀλλὰ|lemma="ἀλλά" x-koine="αλλα" x-strong="G02350" x-morph="Gr,C,......."\w*
+˚\w Θεῷ|lemma="θεός" x-koine="=θω" x-strong="G23160" x-morph="Gr,N,....DMS"\w*,
+\w τῷ|lemma="ὁ" x-koine="τω" x-strong="G35880" x-morph="Gr,R,....DMS"\w*
+\w δοκιμάζοντι|lemma="δοκιμάζω" x-koine="δοκιμαζοντι" x-strong="G13810" x-morph="Gr,V,PPA.DMS"\w*
+\w τὰς|lemma="ὁ" x-koine="τασ" x-strong="G35880" x-morph="Gr,E,....AFP"\w*
+\w καρδίας|lemma="καρδία" x-koine="καρδιασ" x-strong="G25880" x-morph="Gr,N,....AFP"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*.
+
+\v 5
+\w Οὔτε|lemma="οὔτε" x-koine="ουτε" x-strong="G37770" x-morph="Gr,C,......."\w*
+\w γάρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w ποτε|lemma="ποτέ" x-koine="ποτε" x-strong="G42180" x-morph="Gr,D,......."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w λόγῳ|lemma="λόγος" x-koine="λογω" x-strong="G30560" x-morph="Gr,N,....DMS"\w*
+\w κολακείας|lemma="κολακεία" x-koine="κολακιασ" x-strong="G28500" x-morph="Gr,N,....GFS"\w*
+\w ἐγενήθημεν|lemma="γίνομαι" x-koine="εγενηθημεν" x-strong="G10960" x-morph="Gr,V,IAP1..P"\w*,
+\w καθὼς|lemma="καθώς" x-koine="καθωσ" x-strong="G25310" x-morph="Gr,C,......."\w*
+\w οἴδατε|lemma="εἴδω" x-koine="οιδατε" x-strong="G14920" x-morph="Gr,V,IEA2..P"\w*,
+\w οὔτε|lemma="οὔτε" x-koine="ουτε" x-strong="G37770" x-morph="Gr,C,......."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w προφάσει|lemma="πρόφασις" x-koine="προφασει" x-strong="G43920" x-morph="Gr,N,....DFS"\w*
+\w πλεονεξίας|lemma="πλεονεξία" x-koine="πλεονεξιασ" x-strong="G41240" x-morph="Gr,N,....GFS"\w*
+(˚\w Θεὸς|lemma="θεός" x-koine="=θσ" x-strong="G23160" x-morph="Gr,N,....NMS"\w*
+\w μάρτυς|lemma="μάρτυς" x-koine="μαρτυσ" x-strong="G31440" x-morph="Gr,N,....NMS"\w*)
+
+\v 6
+\w οὔτε|lemma="οὔτε" x-koine="ουτε" x-strong="G37770" x-morph="Gr,C,......."\w*
+\w ζητοῦντες|lemma="ζητέω" x-koine="ζητουντεσ" x-strong="G22120" x-morph="Gr,V,PPA.NMP"\w*
+\w ἐξ|lemma="ἐκ" x-koine="εξ" x-strong="G15370" x-morph="Gr,P,......."\w*
+\w ἀνθρώπων|lemma="ἄνθρωπος" x-koine="ανθρωπων" x-strong="G04440" x-morph="Gr,N,....GMP"\w*
+\w δόξαν|lemma="δόξα" x-koine="δοξαν" x-strong="G13910" x-morph="Gr,N,....AFS"\w*,
+\w οὔτε|lemma="οὔτε" x-koine="ουτε" x-strong="G37770" x-morph="Gr,C,......."\w*
+\w ἀφʼ|lemma="ἀπό" x-koine="αφ" x-strong="G05750" x-morph="Gr,P,......."\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*,
+\w οὔτε|lemma="οὔτε" x-koine="ουτε" x-strong="G37770" x-morph="Gr,C,......."\w*
+\w ἀπʼ|lemma="ἀπό" x-koine="απ" x-strong="G05750" x-morph="Gr,P,......."\w*
+\w ἄλλων|lemma="ἄλλος" x-koine="αλλων" x-strong="G02430" x-morph="Gr,R,....GMP"\w*,
+
+\v 7
+\w δυνάμενοι|lemma="δύναμαι" x-koine="δυναμενοι" x-strong="G14100" x-morph="Gr,V,PPM.NMP"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w βάρει|lemma="βάρος" x-koine="βαρει" x-strong="G09220" x-morph="Gr,N,....DNS"\w*
+\w εἶναι|lemma="εἰμί" x-koine="ειναι" x-strong="G15100" x-morph="Gr,V,NPA...."\w*,
+\w ὡς|lemma="ὡς" x-koine="ωσ" x-strong="G56130" x-morph="Gr,C,......."\w*
+˚\w Χριστοῦ|lemma="χριστός" x-koine="=χυ" x-strong="G55470" x-morph="Gr,N,....GMS"\w*
+\w ἀπόστολοι|lemma="ἀπόστολος" x-koine="αποστολοι" x-strong="G06520" x-morph="Gr,N,....NMP"\w*.
+\w Ἀλλὰ|lemma="ἀλλά" x-koine="αλλα" x-strong="G02350" x-morph="Gr,C,......."\w*
+\w ἐγενήθημεν|lemma="γίνομαι" x-koine="εγενηθημεν" x-strong="G10960" x-morph="Gr,V,IAP1..P"\w*
+\w νήπιοι|lemma="νήπιος" x-koine="νηπιοι" x-strong="G35160" x-morph="Gr,S,....NMP"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w μέσῳ|lemma="μέσος" x-koine="μεσω" x-strong="G33190" x-morph="Gr,S,....DNS"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*,
+\w ὡς|lemma="ὡς" x-koine="ωσ" x-strong="G56130" x-morph="Gr,C,......."\w*
+\w ἐὰν|lemma="ἐάν" x-koine="εαν" x-strong="G14370" x-morph="Gr,T,......."\w*
+\w τροφὸς|lemma="τροφός" x-koine="τροφοσ" x-strong="G51620" x-morph="Gr,N,....NFS"\w*
+\w θάλπῃ|lemma="θάλπω" x-koine="θαλπη" x-strong="G22820" x-morph="Gr,V,SPA3..S"\w*
+\w τὰ|lemma="ὁ" x-koine="τα" x-strong="G35880" x-morph="Gr,E,....ANP"\w*
+\w ἑαυτῆς|lemma="ἑαυτοῦ" x-koine="εαυτησ" x-strong="G14380" x-morph="Gr,R,...3GFS"\w*
+\w τέκνα|lemma="τέκνον" x-koine="τεκνα" x-strong="G50430" x-morph="Gr,N,....ANP"\w*.
+
+\v 8
+\w Οὕτως|lemma="οὕτως" x-koine="ουτωσ" x-strong="G37790" x-morph="Gr,D,......."\w*
+\w ὁμειρόμενοι|lemma="ὁμείρομαι" x-koine="ομειρομενοι" x-strong="G24420" x-morph="Gr,V,PPM.NMP"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*,
+\w εὐδοκοῦμεν|lemma="εὐδοκέω" x-koine="ευδοκουμεν" x-strong="G21060" x-morph="Gr,V,IIA1..P"\w*
+\w μεταδοῦναι|lemma="μεταδίδωμι" x-koine="μεταδουναι" x-strong="G33300" x-morph="Gr,V,NAA...."\w*
+\w ὑμῖν|lemma="σύ" x-koine="υμιν" x-strong="G47710" x-morph="Gr,R,...2D.P"\w*,
+\w οὐ|lemma="οὐ" x-koine="ου" x-strong="G37560" x-morph="Gr,C,......."\w*
+\w μόνον|lemma="μόνον" x-koine="μονον" x-strong="G34400" x-morph="Gr,D,......."\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....ANS"\w*
+\w εὐαγγέλιον|lemma="εὐαγγέλιον" x-koine="ευαγγελιον" x-strong="G20980" x-morph="Gr,N,....ANS"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*,
+\w ἀλλὰ|lemma="ἀλλά" x-koine="αλλα" x-strong="G02350" x-morph="Gr,C,......."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w τὰς|lemma="ὁ" x-koine="τασ" x-strong="G35880" x-morph="Gr,E,....AFP"\w*
+\w ἑαυτῶν|lemma="ἑαυτοῦ" x-koine="εαυτων" x-strong="G14380" x-morph="Gr,R,...1GMP"\w*
+\w ψυχάς|lemma="ψυχή" x-koine="ψυχασ" x-strong="G55900" x-morph="Gr,N,....AFP"\w*,
+\w διότι|lemma="διότι" x-koine="διοτι" x-strong="G13600" x-morph="Gr,C,......."\w*
+\w ἀγαπητοὶ|lemma="ἀγαπητός" x-koine="αγαπητοι" x-strong="G00270" x-morph="Gr,S,....NMP"\w*
+\w ἡμῖν|lemma="ἐγώ" x-koine="ημιν" x-strong="G14730" x-morph="Gr,R,...1D.P"\w*
+\w ἐγενήθητε|lemma="γίνομαι" x-koine="εγενηθητε" x-strong="G10960" x-morph="Gr,V,IAP2..P"\w*.
+
+\p 
+\v 9
+\w Μνημονεύετε|lemma="μνημονεύω" x-koine="μνημονευετε" x-strong="G34210" x-morph="Gr,V,IPA2..P"\w*
+\w γάρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*,
+\w ἀδελφοί|lemma="ἀδελφός" x-koine="αδελφοι" x-strong="G00800" x-morph="Gr,N,....VMP"\w*,
+\w τὸν|lemma="ὁ" x-koine="τον" x-strong="G35880" x-morph="Gr,E,....AMS"\w*
+\w κόπον|lemma="κόπος" x-koine="κοπον" x-strong="G28730" x-morph="Gr,N,....AMS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w τὸν|lemma="ὁ" x-koine="τον" x-strong="G35880" x-morph="Gr,E,....AMS"\w*
+\w μόχθον|lemma="μόχθος" x-koine="μοχθον" x-strong="G34490" x-morph="Gr,N,....AMS"\w*·
+\w νυκτὸς|lemma="νύξ" x-koine="νυκτοσ" x-strong="G35710" x-morph="Gr,N,....GFS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἡμέρας|lemma="ἡμέρα" x-koine="ημερασ" x-strong="G22500" x-morph="Gr,N,....GFS"\w*
+\w ἐργαζόμενοι|lemma="ἐργάζομαι" x-koine="εργαζομενοι" x-strong="G20380" x-morph="Gr,V,PPM.NMP"\w*,
+\w πρὸς|lemma="πρός" x-koine="προσ" x-strong="G43140" x-morph="Gr,P,......."\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,R,....ANS"\w*
+\w μὴ|lemma="μή" x-koine="μη" x-strong="G33610" x-morph="Gr,D,......."\w*
+\w ἐπιβαρῆσαί|lemma="ἐπιβαρέω" x-koine="επιβαρησαι" x-strong="G19120" x-morph="Gr,V,NAA...."\w*
+\w τινα|lemma="τὶς" x-koine="τινα" x-strong="G51000" x-morph="Gr,R,....AMS"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*,
+\w ἐκηρύξαμεν|lemma="κηρύσσω" x-koine="εκηρυξαμεν" x-strong="G27840" x-morph="Gr,V,IAA1..P"\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....ANS"\w*
+\w εὐαγγέλιον|lemma="εὐαγγέλιον" x-koine="ευαγγελιον" x-strong="G20980" x-morph="Gr,N,....ANS"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*.
+
+\v 10
+\w Ὑμεῖς|lemma="σύ" x-koine="υμεισ" x-strong="G47710" x-morph="Gr,R,...2N.P"\w*
+\w μάρτυρες|lemma="μάρτυρος" x-koine="μαρτυρεσ" x-strong="G31440" x-morph="Gr,N,....NMP"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,E,....NMS"\w*
+˚\w Θεός|lemma="θεός" x-koine="=θσ" x-strong="G23160" x-morph="Gr,N,....NMS"\w*,
+\w ὡς|lemma="ὡς" x-koine="ωσ" x-strong="G56130" x-morph="Gr,D,......."\w*
+\w ὁσίως|lemma="ὁσίως" x-koine="οσιωσ" x-strong="G37430" x-morph="Gr,D,......."\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w δικαίως|lemma="δικαίως" x-koine="δικαιωσ" x-strong="G13460" x-morph="Gr,D,......."\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἀμέμπτως|lemma="ἀμέμπτως" x-koine="αμεμπτωσ" x-strong="G02740" x-morph="Gr,D,......."\w*,
+\w ὑμῖν|lemma="σύ" x-koine="υμιν" x-strong="G47710" x-morph="Gr,R,...2D.P"\w*
+\w τοῖς|lemma="ὁ" x-koine="τοισ" x-strong="G35880" x-morph="Gr,R,....DMP"\w*
+\w πιστεύουσιν|lemma="πιστεύω" x-koine="πιστευουσιν" x-strong="G41000" x-morph="Gr,V,PPA.DMP"\w*
+\w ἐγενήθημεν|lemma="γίνομαι" x-koine="εγενηθημεν" x-strong="G10960" x-morph="Gr,V,IAP1..P"\w*,
+
+\v 11
+\w καθάπερ|lemma="καθάπερ" x-koine="καθαπερ" x-strong="G25090" x-morph="Gr,D,......."\w*
+\w οἴδατε|lemma="εἴδω" x-koine="οιδατε" x-strong="G14920" x-morph="Gr,V,IEA2..P"\w*
+\w ὡς|lemma="ὡς" x-koine="ωσ" x-strong="G56130" x-morph="Gr,D,......."\w*
+\w ἕνα|lemma="εἷς" x-koine="ενα" x-strong="G15200" x-morph="Gr,S,....AMS"\w*
+\w ἕκαστον|lemma="ἕκαστος" x-koine="εκαστον" x-strong="G15380" x-morph="Gr,E,....AMS"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*,
+\w ὡς|lemma="ὡς" x-koine="ωσ" x-strong="G56130" x-morph="Gr,C,......."\w*
+\w πατὴρ|lemma="πατήρ" x-koine="πατηρ" x-strong="G39620" x-morph="Gr,N,....NMS"\w*
+\w τέκνα|lemma="τέκνον" x-koine="τεκνα" x-strong="G50430" x-morph="Gr,N,....ANP"\w*
+\w ἑαυτοῦ|lemma="ἑαυτοῦ" x-koine="εαυτου" x-strong="G14380" x-morph="Gr,R,...3GMS"\w*,
+
+\v 12
+\w παρακαλοῦντες|lemma="παρακαλέω" x-koine="παρακαλουντεσ" x-strong="G38700" x-morph="Gr,V,PPA.NMP"\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w παραμυθούμενοι|lemma="παραμυθέομαι" x-koine="παραμυθουμενοι" x-strong="G38880" x-morph="Gr,V,PPM.NMP"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w μαρτυρόμενοι|lemma="μαρτύρομαι" x-koine="μαρτυρομενοι" x-strong="G31430" x-morph="Gr,V,PPM.NMP"\w*,
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,R,....ANS"\w*
+\w περιπατεῖν|lemma="περιπατέω" x-koine="περιπατειν" x-strong="G40430" x-morph="Gr,V,NPA...."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w ἀξίως|lemma="ἀξίως" x-koine="αξιωσ" x-strong="G05160" x-morph="Gr,D,......."\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*,
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,R,....GMS"\w*
+\w καλέσαντος|lemma="καλέω" x-koine="καλεσαντοσ" x-strong="G25640" x-morph="Gr,V,PAA.GMS"\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w τὴν|lemma="ὁ" x-koine="την" x-strong="G35880" x-morph="Gr,E,....AFS"\w*
+\w ἑαυτοῦ|lemma="ἑαυτοῦ" x-koine="εαυτου" x-strong="G14380" x-morph="Gr,R,...3GMS"\w*
+\w βασιλείαν|lemma="βασιλεία" x-koine="βασιλειαν" x-strong="G09320" x-morph="Gr,N,....AFS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w δόξαν|lemma="δόξα" x-koine="δοξαν" x-strong="G13910" x-morph="Gr,N,....AFS"\w*.
+
+\p 
+\v 13
+\w Καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w διὰ|lemma="διά" x-koine="δια" x-strong="G12230" x-morph="Gr,P,......."\w*
+\w τοῦτο|lemma="οὗτος" x-koine="τουτο" x-strong="G37780" x-morph="Gr,R,....ANS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w ἡμεῖς|lemma="ἐγώ" x-koine="ημεισ" x-strong="G14730" x-morph="Gr,R,...1N.P"\w*
+\w εὐχαριστοῦμεν|lemma="εὐχαριστέω" x-koine="ευχαριστουμεν" x-strong="G21680" x-morph="Gr,V,IPA1..P"\w*
+\w τῷ|lemma="ὁ" x-koine="τω" x-strong="G35880" x-morph="Gr,E,....DMS"\w*
+˚\w Θεῷ|lemma="θεός" x-koine="=θω" x-strong="G23160" x-morph="Gr,N,....DMS"\w*
+\w ἀδιαλείπτως|lemma="ἀδιαλείπτως" x-koine="αδιαλειπτωσ" x-strong="G00890" x-morph="Gr,D,......."\w*
+\w ὅτι|lemma="ὅτι" x-koine="οτι" x-strong="G37540" x-morph="Gr,C,......."\w*
+\w παραλαβόντες|lemma="παραλαμβάνω" x-koine="παραλαβοντεσ" x-strong="G38800" x-morph="Gr,V,PAA.NMP"\w*
+\w λόγον|lemma="λόγος" x-koine="λογον" x-strong="G30560" x-morph="Gr,N,....AMS"\w*
+\w ἀκοῆς|lemma="ἀκοή" x-koine="ακοησ" x-strong="G01890" x-morph="Gr,N,....GFS"\w*
+\w παρʼ|lemma="παρά" x-koine="παρ" x-strong="G38440" x-morph="Gr,P,......."\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*,
+\w ἐδέξασθε|lemma="δέχομαι" x-koine="εδεξασθε" x-strong="G12090" x-morph="Gr,V,IAM2..P"\w*
+\w οὐ|lemma="οὐ" x-koine="ου" x-strong="G37560" x-morph="Gr,C,......."\w*
+\w λόγον|lemma="λόγος" x-koine="λογον" x-strong="G30560" x-morph="Gr,N,....AMS"\w*
+\w ἀνθρώπων|lemma="ἄνθρωπος" x-koine="ανθρωπων" x-strong="G04440" x-morph="Gr,N,....GMP"\w*,
+\w ἀλλὰ|lemma="ἀλλά" x-koine="αλλα" x-strong="G02350" x-morph="Gr,C,......."\w*
+\w καθὼς|lemma="καθώς" x-koine="καθωσ" x-strong="G25310" x-morph="Gr,C,......."\w*
+\w ἀληθῶς|lemma="ἀληθῶς" x-koine="αληθωσ" x-strong="G02300" x-morph="Gr,D,......."\w*
+\w ἐστὶν|lemma="εἰμί" x-koine="εστιν" x-strong="G15100" x-morph="Gr,V,IPA3..S"\w*,
+\w λόγον|lemma="λόγος" x-koine="λογον" x-strong="G30560" x-morph="Gr,N,....AMS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*,
+\w ὃς|lemma="ὅς" x-koine="οσ" x-strong="G37390" x-morph="Gr,R,....NMS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w ἐνεργεῖται|lemma="ἐνεργέω" x-koine="ενεργειται" x-strong="G17540" x-morph="Gr,V,IPM3..S"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w ὑμῖν|lemma="σύ" x-koine="υμιν" x-strong="G47710" x-morph="Gr,R,...2D.P"\w*
+\w τοῖς|lemma="ὁ" x-koine="τοισ" x-strong="G35880" x-morph="Gr,R,....DMP"\w*
+\w πιστεύουσιν|lemma="πιστεύω" x-koine="πιστευουσιν" x-strong="G41000" x-morph="Gr,V,PPA.DMP"\w*.
+
+\v 14
+\w Ὑμεῖς|lemma="σύ" x-koine="υμεισ" x-strong="G47710" x-morph="Gr,R,...2N.P"\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w μιμηταὶ|lemma="μιμητής" x-koine="μιμηται" x-strong="G34020" x-morph="Gr,N,....NMP"\w*
+\w ἐγενήθητε|lemma="γίνομαι" x-koine="εγενηθητε" x-strong="G10960" x-morph="Gr,V,IAP2..P"\w*,
+\w ἀδελφοί|lemma="ἀδελφός" x-koine="αδελφοι" x-strong="G00800" x-morph="Gr,N,....VMP"\w*,
+\w τῶν|lemma="ὁ" x-koine="των" x-strong="G35880" x-morph="Gr,E,....GFP"\w*
+\w ἐκκλησιῶν|lemma="ἐκκλησία" x-koine="εκκλησιων" x-strong="G15770" x-morph="Gr,N,....GFP"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*,
+\w τῶν|lemma="ὁ" x-koine="των" x-strong="G35880" x-morph="Gr,R,....GFP"\w*
+\w οὐσῶν|lemma="εἰμί" x-koine="ουσων" x-strong="G15100" x-morph="Gr,V,PPA.GFP"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w τῇ|lemma="ὁ" x-koine="τη" x-strong="G35880" x-morph="Gr,E,....DFS"\w*
+\w Ἰουδαίᾳ|lemma="Ἰουδαία" x-koine="ιουδαια" x-strong="G24490" x-morph="Gr,N,....DFS"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+˚\w Χριστῷ|lemma="χριστός" x-koine="=χω" x-strong="G55470" x-morph="Gr,N,....DMS"\w*
+˚\w Ἰησοῦ|lemma="Ἰησοῦς" x-koine="=ιυ" x-strong="G24240" x-morph="Gr,N,....DMS"\w*,
+\w ὅτι|lemma="ὅτι" x-koine="οτι" x-strong="G37540" x-morph="Gr,C,......."\w*
+\w τὰ|lemma="ὁ" x-koine="τα" x-strong="G35880" x-morph="Gr,E,....ANP"\w*
+\w αὐτὰ|lemma="αὐτός" x-koine="αυτα" x-strong="G08460" x-morph="Gr,R,....ANP"\w*
+\w ἐπάθετε|lemma="πάσχω" x-koine="επαθετε" x-strong="G39580" x-morph="Gr,V,IAA2..P"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w ὑμεῖς|lemma="σύ" x-koine="υμεισ" x-strong="G47710" x-morph="Gr,R,...2N.P"\w*
+\w ὑπὸ|lemma="ὑπό" x-koine="υπο" x-strong="G52590" x-morph="Gr,P,......."\w*
+\w τῶν|lemma="ὁ" x-koine="των" x-strong="G35880" x-morph="Gr,E,....GMP"\w*
+\w ἰδίων|lemma="ἴδιος" x-koine="ιδιων" x-strong="G23980" x-morph="Gr,E,....GMP"\w*
+\w συμφυλετῶν|lemma="συμφυλέτης" x-koine="συμφυλετων" x-strong="G48530" x-morph="Gr,N,....GMP"\w*,
+\w καθὼς|lemma="καθώς" x-koine="καθωσ" x-strong="G25310" x-morph="Gr,C,......."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w αὐτοὶ|lemma="αὐτός" x-koine="αυτοι" x-strong="G08460" x-morph="Gr,R,...3NMP"\w*
+\w ὑπὸ|lemma="ὑπό" x-koine="υπο" x-strong="G52590" x-morph="Gr,P,......."\w*
+\w τῶν|lemma="ὁ" x-koine="των" x-strong="G35880" x-morph="Gr,E,....GMP"\w*
+\w Ἰουδαίων|lemma="Ἰουδαῖος" x-koine="ιουδαιων" x-strong="G24530" x-morph="Gr,S,....GMP"\w*,
+
+\v 15
+\w τῶν|lemma="ὁ" x-koine="των" x-strong="G35880" x-morph="Gr,R,....GMP"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w τὸν|lemma="ὁ" x-koine="τον" x-strong="G35880" x-morph="Gr,E,....AMS"\w*
+˚\w Κύριον|lemma="κύριος" x-koine="=κν" x-strong="G29620" x-morph="Gr,N,....AMS"\w*
+\w ἀποκτεινάντων|lemma="ἀποκτείνω" x-koine="αποκτειναντων" x-strong="G06150" x-morph="Gr,V,PAA.GMP"\w*
+˚\w Ἰησοῦν|lemma="Ἰησοῦς" x-koine="=ιν" x-strong="G24240" x-morph="Gr,N,....AMS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w τοὺς|lemma="ὁ" x-koine="τουσ" x-strong="G35880" x-morph="Gr,E,....AMP"\w*
+\w προφήτας|lemma="προφήτης" x-koine="προφητασ" x-strong="G43960" x-morph="Gr,N,....AMP"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἡμᾶς|lemma="ἐγώ" x-koine="ημασ" x-strong="G14730" x-morph="Gr,R,...1A.P"\w*
+\w ἐκδιωξάντων|lemma="ἐκδιώκω" x-koine="εκδιωξαντων" x-strong="G15590" x-morph="Gr,V,PAA.GMP"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+˚\w Θεῷ|lemma="θεός" x-koine="=θω" x-strong="G23160" x-morph="Gr,N,....DMS"\w*
+\w μὴ|lemma="μή" x-koine="μη" x-strong="G33610" x-morph="Gr,D,......."\w*
+\w ἀρεσκόντων|lemma="ἀρέσκω" x-koine="αρεσκοντων" x-strong="G07000" x-morph="Gr,V,PPA.GMP"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w πᾶσιν|lemma="πᾶς" x-koine="πασιν" x-strong="G39560" x-morph="Gr,E,....DMP"\w*
+\w ἀνθρώποις|lemma="ἄνθρωπος" x-koine="ανθρωποισ" x-strong="G04440" x-morph="Gr,N,....DMP"\w*
+\w ἐναντίων|lemma="ἐναντίος" x-koine="εναντιων" x-strong="G17270" x-morph="Gr,S,....GMP"\w*,
+
+\v 16
+\w κωλυόντων|lemma="κωλύω" x-koine="κωλυοντων" x-strong="G29670" x-morph="Gr,V,PPA.GMP"\w*
+\w ἡμᾶς|lemma="ἐγώ" x-koine="ημασ" x-strong="G14730" x-morph="Gr,R,...1A.P"\w*
+\w τοῖς|lemma="ὁ" x-koine="τοισ" x-strong="G35880" x-morph="Gr,E,....DNP"\w*
+\w ἔθνεσιν|lemma="ἔθνος" x-koine="εθνεσιν" x-strong="G14840" x-morph="Gr,N,....DNP"\w*
+\w λαλῆσαι|lemma="λαλέω" x-koine="λαλησαι" x-strong="G29800" x-morph="Gr,V,NAA...."\w*,
+\w ἵνα|lemma="ἵνα" x-koine="ινα" x-strong="G24430" x-morph="Gr,C,......."\w*
+\w σωθῶσιν|lemma="σῴζω" x-koine="σωθωσιν" x-strong="G49820" x-morph="Gr,V,SAP3..P"\w*,
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,R,....ANS"\w*
+\w ἀναπληρῶσαι|lemma="ἀναπληρόω" x-koine="αναπληρωσαι" x-strong="G03780" x-morph="Gr,V,NAA...."\w*
+\w αὐτῶν|lemma="αὐτός" x-koine="αυτων" x-strong="G08460" x-morph="Gr,R,...3GMP"\w*
+\w τὰς|lemma="ὁ" x-koine="τασ" x-strong="G35880" x-morph="Gr,E,....AFP"\w*
+\w ἁμαρτίας|lemma="ἁμαρτία" x-koine="αμαρτιασ" x-strong="G02660" x-morph="Gr,N,....AFP"\w*
+\w πάντοτε|lemma="πάντοτε" x-koine="παντοτε" x-strong="G38420" x-morph="Gr,D,......."\w*.
+\w Ἔφθασεν|lemma="φθάνω" x-koine="εφθασεν" x-strong="G53480" x-morph="Gr,V,IAA3..S"\w*
+\w δὲ|lemma="δέ" x-koine="δε" x-strong="G11610" x-morph="Gr,C,......."\w*
+\w ἐπʼ|lemma="ἐπί" x-koine="επ" x-strong="G19090" x-morph="Gr,P,......."\w*
+\w αὐτοὺς|lemma="αὐτός" x-koine="αυτουσ" x-strong="G08460" x-morph="Gr,R,...3AMP"\w*
+\w ἡ|lemma="ὁ" x-koine="η" x-strong="G35880" x-morph="Gr,E,....NFS"\w*
+\w ὀργὴ|lemma="ὀργή" x-koine="οργη" x-strong="G37090" x-morph="Gr,N,....NFS"\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w τέλος|lemma="τέλος" x-koine="τελοσ" x-strong="G50560" x-morph="Gr,N,....ANS"\w*.
+
+\p 
+\v 17
+\w Ἡμεῖς|lemma="ἐγώ" x-koine="ημεισ" x-strong="G14730" x-morph="Gr,R,...1N.P"\w*
+\w δέ|lemma="δέ" x-koine="δε" x-strong="G11610" x-morph="Gr,C,......."\w*,
+\w ἀδελφοί|lemma="ἀδελφός" x-koine="αδελφοι" x-strong="G00800" x-morph="Gr,N,....VMP"\w*,
+\w ἀπορφανισθέντες|lemma="ἀπορφανίζω" x-koine="απορφανισθεντεσ" x-strong="G06420" x-morph="Gr,V,PAP.NMP"\w*
+\w ἀφʼ|lemma="ἀπό" x-koine="αφ" x-strong="G05750" x-morph="Gr,P,......."\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*,
+\w πρὸς|lemma="πρός" x-koine="προσ" x-strong="G43140" x-morph="Gr,P,......."\w*
+\w καιρὸν|lemma="καιρός" x-koine="καιρον" x-strong="G25400" x-morph="Gr,N,....AMS"\w*
+\w ὥρας|lemma="ὥρα" x-koine="ωρασ" x-strong="G56100" x-morph="Gr,N,....GFS"\w*,
+\w προσώπῳ|lemma="πρόσωπον" x-koine="προσωπω" x-strong="G43830" x-morph="Gr,N,....DNS"\w*
+\w οὐ|lemma="οὐ" x-koine="ου" x-strong="G37560" x-morph="Gr,D,......."\w*
+\w καρδίᾳ|lemma="καρδία" x-koine="καρδια" x-strong="G25880" x-morph="Gr,N,....DFS"\w*,
+\w περισσοτέρως|lemma="περισσοτέρως" x-koine="περισσοτερωσ" x-strong="G40560" x-morph="Gr,D,......."\w*
+\w ἐσπουδάσαμεν|lemma="σπουδάζω" x-koine="εσπουδασαμεν" x-strong="G47040" x-morph="Gr,V,IAA1..P"\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....ANS"\w*
+\w πρόσωπον|lemma="πρόσωπον" x-koine="προσωπον" x-strong="G43830" x-morph="Gr,N,....ANS"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*
+\w ἰδεῖν|lemma="ὁράω" x-koine="ιδειν" x-strong="G37080" x-morph="Gr,V,NAA...."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w πολλῇ|lemma="πολλός" x-koine="πολλη" x-strong="G41830" x-morph="Gr,A,....DFS"\w*
+\w ἐπιθυμίᾳ|lemma="ἐπιθυμία" x-koine="επιθυμια" x-strong="G19390" x-morph="Gr,N,....DFS"\w*.
+
+\v 18
+\w Διότι|lemma="διότι" x-koine="διοτι" x-strong="G13600" x-morph="Gr,C,......."\w*
+\w ἠθελήσαμεν|lemma="ἐθέλω" x-koine="ηθελησαμεν" x-strong="G23090" x-morph="Gr,V,IAA1..P"\w*
+\w ἐλθεῖν|lemma="ἔρχομαι" x-koine="ελθειν" x-strong="G20640" x-morph="Gr,V,NAA...."\w*
+\w πρὸς|lemma="πρός" x-koine="προσ" x-strong="G43140" x-morph="Gr,P,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*,
+\w ἐγὼ|lemma="ἐγώ" x-koine="εγω" x-strong="G14730" x-morph="Gr,R,...1N.S"\w*
+\w μὲν|lemma="μέν" x-koine="μεν" x-strong="G33030" x-morph="Gr,D,......."\w*
+\w Παῦλος|lemma="Παῦλος" x-koine="παυλοσ" x-strong="G39720" x-morph="Gr,N,....NMS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἅπαξ|lemma="ἅπαξ" x-koine="απαξ" x-strong="G05300" x-morph="Gr,D,......."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w δίς|lemma="δίς" x-koine="δισ" x-strong="G13640" x-morph="Gr,D,......."\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἐνέκοψεν|lemma="ἐγκόπτω" x-koine="ενεκοψεν" x-strong="G14650" x-morph="Gr,V,IAA3..S"\w*
+\w ἡμᾶς|lemma="ἐγώ" x-koine="ημασ" x-strong="G14730" x-morph="Gr,R,...1A.P"\w*
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,E,....NMS"\w*
+\w Σατανᾶς|lemma="Σατανᾶς" x-koine="σατανασ" x-strong="G45660" x-morph="Gr,N,....NMS"\w*.
+
+\v 19
+\w Τίς|lemma="τίς" x-koine="τισ" x-strong="G51010" x-morph="Gr,R,....NFS"\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*
+\w ἐλπὶς|lemma="ἐλπίς" x-koine="ελπισ" x-strong="G16800" x-morph="Gr,N,....NFS"\w*
+\w ἢ|lemma="ἤ" x-koine="η" x-strong="G22280" x-morph="Gr,C,......."\w*
+\w χαρὰ|lemma="χαρά" x-koine="χαρα" x-strong="G54790" x-morph="Gr,N,....NFS"\w*
+\w ἢ|lemma="ἤ" x-koine="η" x-strong="G22280" x-morph="Gr,C,......."\w*
+\w στέφανος|lemma="στέφανος" x-koine="στεφανοσ" x-strong="G47350" x-morph="Gr,N,....NMS"\w*
+\w καυχήσεως|lemma="καύχησις" x-koine="καυχησεωσ" x-strong="G27460" x-morph="Gr,N,....GFS"\w*;
+\w Ἢ|lemma="ἤ" x-koine="η" x-strong="G22280" x-morph="Gr,C,......."\w*
+\w οὐχὶ|lemma="οὐχί" x-koine="ουχι" x-strong="G37800" x-morph="Gr,T,......."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w ὑμεῖς|lemma="σύ" x-koine="υμεισ" x-strong="G47710" x-morph="Gr,R,...2N.P"\w*,
+\w ἔμπροσθεν|lemma="ἔμπροσθεν" x-koine="εμπροσθεν" x-strong="G17150" x-morph="Gr,P,......."\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Κυρίου|lemma="κύριος" x-koine="=κυ" x-strong="G29620" x-morph="Gr,N,....GMS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+˚\w Ἰησοῦ|lemma="Ἰησοῦς" x-koine="=ιυ" x-strong="G24240" x-morph="Gr,N,....GMS"\w*,
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w τῇ|lemma="ὁ" x-koine="τη" x-strong="G35880" x-morph="Gr,E,....DFS"\w*
+\w αὐτοῦ|lemma="αὐτός" x-koine="αυτου" x-strong="G08460" x-morph="Gr,R,...3GMS"\w*
+\w παρουσίᾳ|lemma="παρουσία" x-koine="παρουσια" x-strong="G39520" x-morph="Gr,N,....DFS"\w*;
+
+\v 20
+\w Ὑμεῖς|lemma="σύ" x-koine="υμεισ" x-strong="G47710" x-morph="Gr,R,...2N.P"\w*
+\w γάρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w ἐστε|lemma="εἰμί" x-koine="εσται" x-strong="G15100" x-morph="Gr,V,IPA2..P"\w*
+\w ἡ|lemma="ὁ" x-koine="η" x-strong="G35880" x-morph="Gr,E,....NFS"\w*
+\w δόξα|lemma="δόξα" x-koine="δοξα" x-strong="G13910" x-morph="Gr,N,....NFS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἡ|lemma="ὁ" x-koine="η" x-strong="G35880" x-morph="Gr,E,....NFS"\w*
+\w χαρά|lemma="χαρά" x-koine="χαρα" x-strong="G54790" x-morph="Gr,N,....NFS"\w*.
+
+\c 3
+
+\p 
+\v 1
+\w Διὸ|lemma="διό" x-koine="διο" x-strong="G13520" x-morph="Gr,C,......."\w*
+\w μηκέτι|lemma="μηκέτι" x-koine="μηκετι" x-strong="G33710" x-morph="Gr,D,......."\w*
+\w στέγοντες|lemma="στέγω" x-koine="στεγοντεσ" x-strong="G47220" x-morph="Gr,V,PPA.NMP"\w*,
+\w ηὐδοκήσαμεν|lemma="εὐδοκέω" x-koine="ηυδοκησαμεν" x-strong="G21060" x-morph="Gr,V,IAA1..P"\w*
+\w καταλειφθῆναι|lemma="καταλείπω" x-koine="καταλειφθηναι" x-strong="G26410" x-morph="Gr,V,NAP...."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w Ἀθήναις|lemma="Ἀθῆναι" x-koine="αθηναισ" x-strong="G01160" x-morph="Gr,N,....DFP"\w*
+\w μόνοι|lemma="μόνος" x-koine="μονοι" x-strong="G34410" x-morph="Gr,S,....NMP"\w*,
+
+\v 2
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἐπέμψαμεν|lemma="πέμπω" x-koine="επεμψαμεν" x-strong="G39920" x-morph="Gr,V,IAA1..P"\w*
+\w Τιμόθεον|lemma="Τιμόθεος" x-koine="τιμοθεον" x-strong="G50950" x-morph="Gr,N,....AMS"\w*,
+\w τὸν|lemma="ὁ" x-koine="τον" x-strong="G35880" x-morph="Gr,E,....AMS"\w*
+\w ἀδελφὸν|lemma="ἀδελφός" x-koine="αδελφον" x-strong="G00800" x-morph="Gr,N,....AMS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w διάκονον|lemma="διάκονος" x-koine="διακονον" x-strong="G12490" x-morph="Gr,N,....AMS"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w τῷ|lemma="ὁ" x-koine="τω" x-strong="G35880" x-morph="Gr,E,....DNS"\w*
+\w εὐαγγελίῳ|lemma="εὐαγγέλιον" x-koine="ευαγγελιω" x-strong="G20980" x-morph="Gr,N,....DNS"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Χριστοῦ|lemma="χριστός" x-koine="=χυ" x-strong="G55470" x-morph="Gr,N,....GMS"\w*,
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,R,....ANS"\w*
+\w στηρίξαι|lemma="στηρίζω" x-koine="στηριξαι" x-strong="G47410" x-morph="Gr,V,NAA...."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w παρακαλέσαι|lemma="παρακαλέω" x-koine="παρακαλεσαι" x-strong="G38700" x-morph="Gr,V,NAA...."\w*,
+\w ὑπὲρ|lemma="ὑπέρ" x-koine="υπερ" x-strong="G52280" x-morph="Gr,P,......."\w*
+\w τῆς|lemma="ὁ" x-koine="τησ" x-strong="G35880" x-morph="Gr,E,....GFS"\w*
+\w πίστεως|lemma="πίστις" x-koine="πιστεωσ" x-strong="G41020" x-morph="Gr,N,....GFS"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*,
+
+\v 3
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,C,....ANS"\w*
+\w μηδένα|lemma="μηδείς" x-koine="μηδενα" x-strong="G33670" x-morph="Gr,R,....AMS"\w*
+\w σαίνεσθαι|lemma="σαίνω" x-koine="σαινεσθαι" x-strong="G45250" x-morph="Gr,V,NPP...."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w ταῖς|lemma="ὁ" x-koine="ταισ" x-strong="G35880" x-morph="Gr,E,....DFP"\w*
+\w θλίψεσιν|lemma="θλῖψις" x-koine="θλιψεσι" x-strong="G23470" x-morph="Gr,N,....DFP"\w*
+\w ταύταις|lemma="οὗτος" x-koine="ταυταισ" x-strong="G37780" x-morph="Gr,E,....DFP"\w*.
+\w Αὐτοὶ|lemma="αὐτός" x-koine="αυτοι" x-strong="G08460" x-morph="Gr,R,...2NMP"\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w οἴδατε|lemma="εἴδω" x-koine="οιδατε" x-strong="G14920" x-morph="Gr,V,IEA2..P"\w*
+\w ὅτι|lemma="ὅτι" x-koine="οτι" x-strong="G37540" x-morph="Gr,C,......."\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w τοῦτο|lemma="οὗτος" x-koine="τουτο" x-strong="G37780" x-morph="Gr,R,....ANS"\w*
+\w κείμεθα|lemma="κεῖμαι" x-koine="κειμεθα" x-strong="G27490" x-morph="Gr,V,IPM1..P"\w*.
+
+\v 4
+\w Καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w ὅτε|lemma="ὅτε" x-koine="οτε" x-strong="G37530" x-morph="Gr,C,......."\w*
+\w πρὸς|lemma="πρός" x-koine="προσ" x-strong="G43140" x-morph="Gr,P,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w ἦμεν|lemma="εἰμί" x-koine="ημεν" x-strong="G15100" x-morph="Gr,V,IIA1..P"\w*,
+\w προελέγομεν|lemma="προλέγω" x-koine="προελεγομεν" x-strong="G43020" x-morph="Gr,V,IIA1..P"\w*
+\w ὑμῖν|lemma="σύ" x-koine="υμιν" x-strong="G47710" x-morph="Gr,R,...2D.P"\w*
+\w ὅτι|lemma="ὅτι" x-koine="οτι" x-strong="G37540" x-morph="Gr,C,......."\w*
+\w μέλλομεν|lemma="μέλλω" x-koine="μελλομεν" x-strong="G31950" x-morph="Gr,V,IPA1..P"\w*
+\w θλίβεσθαι|lemma="θλίβω" x-koine="θλιβεσθαι" x-strong="G23460" x-morph="Gr,V,NPP...."\w*,
+\w καθὼς|lemma="καθώς" x-koine="καθωσ" x-strong="G25310" x-morph="Gr,C,......."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w ἐγένετο|lemma="γίνομαι" x-koine="εγενετο" x-strong="G10960" x-morph="Gr,V,IAM3..S"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w οἴδατε|lemma="εἴδω" x-koine="οιδατε" x-strong="G14920" x-morph="Gr,V,IEA2..P"\w*.
+
+\v 5
+\w Διὰ|lemma="διά" x-koine="δια" x-strong="G12230" x-morph="Gr,P,......."\w*
+\w τοῦτο|lemma="οὗτος" x-koine="τουτο" x-strong="G37780" x-morph="Gr,R,....ANS"\w*
+\w κἀγὼ|lemma="κἀγώ" x-koine="καγω" x-strong="G25040" x-morph="Gr,R,...1N.S"\w*
+\w μηκέτι|lemma="μηκέτι" x-koine="μηκετι" x-strong="G33710" x-morph="Gr,D,......."\w*
+\w στέγων|lemma="στέγω" x-koine="στεγων" x-strong="G47220" x-morph="Gr,V,PPA.NMS"\w*,
+\w ἔπεμψα|lemma="πέμπω" x-koine="επεμψα" x-strong="G39920" x-morph="Gr,V,IAA1..S"\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,R,....ANS"\w*
+\w γνῶναι|lemma="γινώσκω" x-koine="γνωναι" x-strong="G10970" x-morph="Gr,V,NAA...."\w*
+\w τὴν|lemma="ὁ" x-koine="την" x-strong="G35880" x-morph="Gr,E,....AFS"\w*
+\w πίστιν|lemma="πίστις" x-koine="πιστιν" x-strong="G41020" x-morph="Gr,N,....AFS"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*,
+\w μή|lemma="μή" x-koine="μη" x-strong="G33610" x-morph="Gr,C,......."\w*
+\w πως|lemma="πώς" x-koine="πωσ" x-strong="G44580" x-morph="Gr,D,......."\w*
+\w ἐπείρασεν|lemma="πειράζω" x-koine="επειρασεν" x-strong="G39850" x-morph="Gr,V,IAA3..S"\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,R,....NMS"\w*
+\w πειράζων|lemma="πειράζω" x-koine="πειραζων" x-strong="G39850" x-morph="Gr,V,PPA.NMS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w κενὸν|lemma="κενός" x-koine="κενον" x-strong="G27560" x-morph="Gr,S,....ANS"\w*
+\w γένηται|lemma="γίνομαι" x-koine="γενηται" x-strong="G10960" x-morph="Gr,V,SAM3..S"\w*
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,E,....NMS"\w*
+\w κόπος|lemma="κόπος" x-koine="κοποσ" x-strong="G28730" x-morph="Gr,N,....NMS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*.
+
+\p 
+\v 6
+\w Ἄρτι|lemma="ἄρτι" x-koine="αρτι" x-strong="G07370" x-morph="Gr,D,......."\w*
+\w δὲ|lemma="δέ" x-koine="δε" x-strong="G11610" x-morph="Gr,C,......."\w*
+\w ἐλθόντος|lemma="ἔρχομαι" x-koine="ελθοντοσ" x-strong="G20640" x-morph="Gr,V,PAA.GMS"\w*
+\w Τιμοθέου|lemma="Τιμόθεος" x-koine="τιμοθεου" x-strong="G50950" x-morph="Gr,N,....GMS"\w*
+\w πρὸς|lemma="πρός" x-koine="προσ" x-strong="G43140" x-morph="Gr,P,......."\w*
+\w ἡμᾶς|lemma="ἐγώ" x-koine="ημασ" x-strong="G14730" x-morph="Gr,R,...1A.P"\w*
+\w ἀφʼ|lemma="ἀπό" x-koine="αφ" x-strong="G05750" x-morph="Gr,P,......."\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w εὐαγγελισαμένου|lemma="εὐαγγελίζω" x-koine="ευαγγελισαμενου" x-strong="G20970" x-morph="Gr,V,PAM.GMS"\w*
+\w ἡμῖν|lemma="ἐγώ" x-koine="ημιν" x-strong="G14730" x-morph="Gr,R,...1D.P"\w*
+\w τὴν|lemma="ὁ" x-koine="την" x-strong="G35880" x-morph="Gr,E,....AFS"\w*
+\w πίστιν|lemma="πίστις" x-koine="πιστιν" x-strong="G41020" x-morph="Gr,N,....AFS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w τὴν|lemma="ὁ" x-koine="την" x-strong="G35880" x-morph="Gr,E,....AFS"\w*
+\w ἀγάπην|lemma="ἀγάπη" x-koine="αγαπην" x-strong="G00260" x-morph="Gr,N,....AFS"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ὅτι|lemma="ὅτι" x-koine="οτι" x-strong="G37540" x-morph="Gr,C,......."\w*
+\w ἔχετε|lemma="ἔχω" x-koine="εχετε" x-strong="G21920" x-morph="Gr,V,IPA2..P"\w*
+\w μνείαν|lemma="μνεία" x-koine="μνειαν" x-strong="G34170" x-morph="Gr,N,....AFS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*
+\w ἀγαθὴν|lemma="ἀγαθός" x-koine="αγαθην" x-strong="G00180" x-morph="Gr,S,....AFS"\w*
+\w πάντοτε|lemma="πάντοτε" x-koine="παντοτε" x-strong="G38420" x-morph="Gr,D,......."\w*,
+\w ἐπιποθοῦντες|lemma="ἐπιποθέω" x-koine="επιποθουντεσ" x-strong="G19710" x-morph="Gr,V,PPA.NMP"\w*
+\w ἡμᾶς|lemma="ἐγώ" x-koine="ημασ" x-strong="G14730" x-morph="Gr,R,...1A.P"\w*
+\w ἰδεῖν|lemma="ὁράω" x-koine="ιδειν" x-strong="G37080" x-morph="Gr,V,NAA...."\w*,
+\w καθάπερ|lemma="καθάπερ" x-koine="καθαπερ" x-strong="G25090" x-morph="Gr,D,......."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w ἡμεῖς|lemma="ἐγώ" x-koine="ημεισ" x-strong="G14730" x-morph="Gr,R,...1N.P"\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*.
+
+\v 7
+\w Διὰ|lemma="διά" x-koine="δια" x-strong="G12230" x-morph="Gr,P,......."\w*
+\w τοῦτο|lemma="οὗτος" x-koine="τουτο" x-strong="G37780" x-morph="Gr,R,....ANS"\w*
+\w παρεκλήθημεν|lemma="παρακαλέω" x-koine="παρεκληθημεν" x-strong="G38700" x-morph="Gr,V,IAP1..P"\w*,
+\w ἀδελφοί|lemma="ἀδελφός" x-koine="αδελφοι" x-strong="G00800" x-morph="Gr,N,....VMP"\w*,
+\w ἐφʼ|lemma="ἐπί" x-koine="εφ" x-strong="G19090" x-morph="Gr,P,......."\w*
+\w ὑμῖν|lemma="σύ" x-koine="υμιν" x-strong="G47710" x-morph="Gr,R,...2D.P"\w*
+\w ἐπὶ|lemma="ἐπί" x-koine="επι" x-strong="G19090" x-morph="Gr,P,......."\w*
+\w πάσῃ|lemma="πᾶς" x-koine="παση" x-strong="G39560" x-morph="Gr,E,....DFS"\w*
+\w τῇ|lemma="ὁ" x-koine="τη" x-strong="G35880" x-morph="Gr,E,....DFS"\w*
+\w ἀνάγκῃ|lemma="ἀνάγκη" x-koine="αναγκη" x-strong="G03180" x-morph="Gr,N,....DFS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w θλίψει|lemma="θλῖψις" x-koine="θλιψει" x-strong="G23470" x-morph="Gr,N,....DFS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+\w διὰ|lemma="διά" x-koine="δια" x-strong="G12230" x-morph="Gr,P,......."\w*
+\w τῆς|lemma="ὁ" x-koine="τησ" x-strong="G35880" x-morph="Gr,E,....GFS"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*
+\w πίστεως|lemma="πίστις" x-koine="πιστεωσ" x-strong="G41020" x-morph="Gr,N,....GFS"\w*.
+
+\v 8
+\w Ὅτι|lemma="ὅτι" x-koine="οτι" x-strong="G37540" x-morph="Gr,C,......."\w*
+\w νῦν|lemma="νῦν" x-koine="νυν" x-strong="G35680" x-morph="Gr,D,......."\w*
+\w ζῶμεν|lemma="ζάω" x-koine="ζωμεν" x-strong="G21980" x-morph="Gr,V,IPA1..P"\w*,
+\w ἐὰν|lemma="ἐάν" x-koine="εαν" x-strong="G14370" x-morph="Gr,C,......."\w*
+\w ὑμεῖς|lemma="σύ" x-koine="υμεισ" x-strong="G47710" x-morph="Gr,R,...2N.P"\w*
+\w στήκετε|lemma="στήκω" x-koine="στηκετε" x-strong="G47390" x-morph="Gr,V,IPA2..P"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+˚\w Κυρίῳ|lemma="κύριος" x-koine="=κω" x-strong="G29620" x-morph="Gr,N,....DMS"\w*.
+
+\v 9
+\w Τίνα|lemma="τίς" x-koine="τινα" x-strong="G51010" x-morph="Gr,E,....AFS"\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w εὐχαριστίαν|lemma="εὐχαριστία" x-koine="ευχαριστιαν" x-strong="G21690" x-morph="Gr,N,....AFS"\w*
+\w δυνάμεθα|lemma="δύναμαι" x-koine="δυναμεθα" x-strong="G14100" x-morph="Gr,V,IPM1..P"\w*
+\w τῷ|lemma="ὁ" x-koine="τω" x-strong="G35880" x-morph="Gr,E,....DMS"\w*
+˚\w Θεῷ|lemma="θεός" x-koine="=θω" x-strong="G23160" x-morph="Gr,N,....DMS"\w*
+\w ἀνταποδοῦναι|lemma="ἀνταποδίδωμι" x-koine="ανταποδουναι" x-strong="G04670" x-morph="Gr,V,NAA...."\w*
+\w περὶ|lemma="περί" x-koine="περι" x-strong="G40120" x-morph="Gr,P,......."\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*,
+\w ἐπὶ|lemma="ἐπί" x-koine="επι" x-strong="G19090" x-morph="Gr,P,......."\w*
+\w πάσῃ|lemma="πᾶς" x-koine="παση" x-strong="G39560" x-morph="Gr,E,....DFS"\w*
+\w τῇ|lemma="ὁ" x-koine="τη" x-strong="G35880" x-morph="Gr,E,....DFS"\w*
+\w χαρᾷ|lemma="χαρά" x-koine="χαρα" x-strong="G54790" x-morph="Gr,N,....DFS"\w*
+\w ᾗ|lemma="ὅς" x-koine="η" x-strong="G37390" x-morph="Gr,R,....DFS"\w*
+\w χαίρομεν|lemma="χαίρω" x-koine="χαιρομεν" x-strong="G54630" x-morph="Gr,V,IPA1..P"\w*
+\w διʼ|lemma="διά" x-koine="δι" x-strong="G12230" x-morph="Gr,P,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*,
+\w ἔμπροσθεν|lemma="ἔμπροσθεν" x-koine="εμπροσθεν" x-strong="G17150" x-morph="Gr,P,......."\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*.
+
+\v 10
+\w Νυκτὸς|lemma="νύξ" x-koine="νυκτοσ" x-strong="G35710" x-morph="Gr,N,....GFS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἡμέρας|lemma="ἡμέρα" x-koine="ημερασ" x-strong="G22500" x-morph="Gr,N,....GFS"\w*,
+\w ὑπερεκπερισσοῦ|lemma="ὑπερεκπερισσοῦ" x-koine="υπερεκπερισσου" x-strong="G52385" x-morph="Gr,D,......."\w*
+\w δεόμενοι|lemma="δέω" x-koine="δεομενοι" x-strong="G12100" x-morph="Gr,V,PPM.NMP"\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,R,....ANS"\w*
+\w ἰδεῖν|lemma="ὁράω" x-koine="ιδειν" x-strong="G37080" x-morph="Gr,V,NAA...."\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....ANS"\w*
+\w πρόσωπον|lemma="πρόσωπον" x-koine="προσωπον" x-strong="G43830" x-morph="Gr,N,....ANS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w καταρτίσαι|lemma="καταρτίζω" x-koine="καταρτισαι" x-strong="G26750" x-morph="Gr,V,NAA...."\w*
+\w τὰ|lemma="ὁ" x-koine="τα" x-strong="G35880" x-morph="Gr,E,....ANP"\w*
+\w ὑστερήματα|lemma="ὑστέρημα" x-koine="υστερηματα" x-strong="G53030" x-morph="Gr,N,....ANP"\w*
+\w τῆς|lemma="ὁ" x-koine="τησ" x-strong="G35880" x-morph="Gr,E,....GFS"\w*
+\w πίστεως|lemma="πίστις" x-koine="πιστεωσ" x-strong="G41020" x-morph="Gr,N,....GFS"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*;
+
+\p 
+\v 11
+\w Αὐτὸς|lemma="αὐτός" x-koine="αυτοσ" x-strong="G08460" x-morph="Gr,R,...3NMS"\w*
+\w δὲ|lemma="δέ" x-koine="δε" x-strong="G11610" x-morph="Gr,C,......."\w*
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,E,....NMS"\w*
+˚\w Θεὸς|lemma="θεός" x-koine="=θσ" x-strong="G23160" x-morph="Gr,N,....NMS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w Πατὴρ|lemma="πατήρ" x-koine="πατηρ" x-strong="G39620" x-morph="Gr,N,....NMS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,E,....NMS"\w*
+˚\w Κύριος|lemma="κύριος" x-koine="=κσ" x-strong="G29620" x-morph="Gr,N,....NMS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+˚\w Ἰησοῦς|lemma="Ἰησοῦς" x-koine="=ισ" x-strong="G24240" x-morph="Gr,N,....NMS"\w*,
+\w κατευθύναι|lemma="κατευθύνω" x-koine="κατευθυναι" x-strong="G27200" x-morph="Gr,V,OAA3..S"\w*
+\w τὴν|lemma="ὁ" x-koine="την" x-strong="G35880" x-morph="Gr,E,....AFS"\w*
+\w ὁδὸν|lemma="ὁδός" x-koine="οδον" x-strong="G35980" x-morph="Gr,N,....AFS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*
+\w πρὸς|lemma="πρός" x-koine="προσ" x-strong="G43140" x-morph="Gr,P,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*.
+
+\v 12
+\w Ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w δὲ|lemma="δέ" x-koine="δε" x-strong="G11610" x-morph="Gr,C,......."\w*
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,E,....NMS"\w*
+˚\w Κύριος|lemma="κύριος" x-koine="=κσ" x-strong="G29620" x-morph="Gr,N,....NMS"\w*
+\w πλεονάσαι|lemma="πλεονάζω" x-koine="πλεονασαι" x-strong="G41210" x-morph="Gr,V,OAA3..S"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w περισσεύσαι|lemma="περισσεύω" x-koine="περισσευσαι" x-strong="G40520" x-morph="Gr,V,OAA3..S"\w*
+\w τῇ|lemma="ὁ" x-koine="τη" x-strong="G35880" x-morph="Gr,E,....DFS"\w*
+\w ἀγάπῃ|lemma="ἀγάπη" x-koine="αγαπη" x-strong="G00260" x-morph="Gr,N,....DFS"\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w ἀλλήλους|lemma="ἀλλήλων" x-koine="αλληλουσ" x-strong="G02400" x-morph="Gr,R,....AMP"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w πάντας|lemma="πᾶς" x-koine="παντασ" x-strong="G39560" x-morph="Gr,S,....AMP"\w*,
+\w καθάπερ|lemma="καθάπερ" x-koine="καθαπερ" x-strong="G25090" x-morph="Gr,D,......."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w ἡμεῖς|lemma="ἐγώ" x-koine="ημεισ" x-strong="G14730" x-morph="Gr,R,...1N.P"\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*,
+
+\v 13
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,R,....ANS"\w*
+\w στηρίξαι|lemma="στηρίζω" x-koine="στηριξαι" x-strong="G47410" x-morph="Gr,V,NAA...."\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*
+\w τὰς|lemma="ὁ" x-koine="τασ" x-strong="G35880" x-morph="Gr,E,....AFP"\w*
+\w καρδίας|lemma="καρδία" x-koine="καρδιασ" x-strong="G25880" x-morph="Gr,N,....AFP"\w*,
+\w ἀμέμπτους|lemma="ἄμεμπτος" x-koine="αμεμπτουσ" x-strong="G02730" x-morph="Gr,S,....AFP"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w ἁγιωσύνῃ|lemma="ἁγιωσύνη" x-koine="αγιωσυνη" x-strong="G00420" x-morph="Gr,N,....DFS"\w*
+\w ἔμπροσθεν|lemma="ἔμπροσθεν" x-koine="εμπροσθεν" x-strong="G17150" x-morph="Gr,P,......."\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w Πατρὸς|lemma="πατήρ" x-koine="πατροσ" x-strong="G39620" x-morph="Gr,N,....GMS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w τῇ|lemma="ὁ" x-koine="τη" x-strong="G35880" x-morph="Gr,E,....DFS"\w*
+\w παρουσίᾳ|lemma="παρουσία" x-koine="παρουσια" x-strong="G39520" x-morph="Gr,N,....DFS"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Κυρίου|lemma="κύριος" x-koine="=κυ" x-strong="G29620" x-morph="Gr,N,....GMS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+˚\w Ἰησοῦ|lemma="Ἰησοῦς" x-koine="=ιυ" x-strong="G24240" x-morph="Gr,N,....GMS"\w*,
+\w μετὰ|lemma="μετά" x-koine="μετα" x-strong="G33260" x-morph="Gr,P,......."\w*
+\w πάντων|lemma="πᾶς" x-koine="παντων" x-strong="G39560" x-morph="Gr,E,....GMP"\w*
+\w τῶν|lemma="ὁ" x-koine="των" x-strong="G35880" x-morph="Gr,E,....GMP"\w*
+\w ἁγίων|lemma="ἅγιος" x-koine="αγιων" x-strong="G00400" x-morph="Gr,S,....GMP"\w*
+\w αὐτοῦ|lemma="αὐτός" x-koine="αυτου" x-strong="G08460" x-morph="Gr,R,...3GMS"\w*.
+\w Ἀμήν|lemma="ἀμήν" x-koine="αμην" x-strong="G02810" x-morph="Gr,I,......."\w*!
+
+\c 4
+
+\p 
+\v 1
+\w Λοιπὸν|lemma="λοιπόν" x-koine="λοιπον" x-strong="G30630" x-morph="Gr,D,......."\w*
+\w οὖν|lemma="οὖν" x-koine="ουν" x-strong="G37670" x-morph="Gr,C,......."\w*,
+\w ἀδελφοί|lemma="ἀδελφός" x-koine="αδελφοι" x-strong="G00800" x-morph="Gr,N,....VMP"\w*,
+\w ἐρωτῶμεν|lemma="ἐρωτάω" x-koine="ερωτωμεν" x-strong="G20650" x-morph="Gr,V,IPA1..P"\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w παρακαλοῦμεν|lemma="παρακαλέω" x-koine="παρακαλουμεν" x-strong="G38700" x-morph="Gr,V,IPA1..P"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+˚\w Κυρίῳ|lemma="κύριος" x-koine="=κω" x-strong="G29620" x-morph="Gr,N,....DMS"\w*
+˚\w Ἰησοῦ|lemma="Ἰησοῦς" x-koine="=ιυ" x-strong="G24240" x-morph="Gr,N,....DMS"\w*,
+\w καθὼς|lemma="καθώς" x-koine="καθωσ" x-strong="G25310" x-morph="Gr,C,......."\w*
+\w παρελάβετε|lemma="παραλαμβάνω" x-koine="παρελαβετε" x-strong="G38800" x-morph="Gr,V,IAA2..P"\w*
+\w παρʼ|lemma="παρά" x-koine="παρ" x-strong="G38440" x-morph="Gr,P,......."\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,R,....ANS"\w*
+\w πῶς|lemma="πῶς" x-koine="πωσ" x-strong="G44590" x-morph="Gr,D,......."\w*
+\w δεῖ|lemma="δεῖ" x-koine="δει" x-strong="G12100" x-morph="Gr,V,IPA3..S"\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w περιπατεῖν|lemma="περιπατέω" x-koine="περιπατειν" x-strong="G40430" x-morph="Gr,V,NPA...."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἀρέσκειν|lemma="ἀρέσκω" x-koine="αρεσκειν" x-strong="G07000" x-morph="Gr,V,NPA...."\w*
+˚\w Θεῷ|lemma="θεός" x-koine="=θω" x-strong="G23160" x-morph="Gr,N,....DMS"\w*
+(\w καθὼς|lemma="καθώς" x-koine="καθωσ" x-strong="G25310" x-morph="Gr,C,......."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w περιπατεῖτε|lemma="περιπατέω" x-koine="περιπατειτε" x-strong="G40430" x-morph="Gr,V,IPA2..P"\w*),
+\w ἵνα|lemma="ἵνα" x-koine="ινα" x-strong="G24430" x-morph="Gr,C,......."\w*
+\w περισσεύητε|lemma="περισσεύω" x-koine="περισσευητε" x-strong="G40520" x-morph="Gr,V,SPA2..P"\w*
+\w μᾶλλον|lemma="μᾶλλον" x-koine="μαλλον" x-strong="G31230" x-morph="Gr,D,......."\w*.
+
+\v 2
+\w Οἴδατε|lemma="εἴδω" x-koine="οιδατε" x-strong="G14920" x-morph="Gr,V,IEA2..P"\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w τίνας|lemma="τίς" x-koine="τινασ" x-strong="G51010" x-morph="Gr,E,....AFP"\w*
+\w παραγγελίας|lemma="παραγγελία" x-koine="παραγγελιασ" x-strong="G38520" x-morph="Gr,N,....AFP"\w*
+\w ἐδώκαμεν|lemma="δίδωμι" x-koine="εδωκαμεν" x-strong="G13250" x-morph="Gr,V,IAA1..P"\w*
+\w ὑμῖν|lemma="σύ" x-koine="υμιν" x-strong="G47710" x-morph="Gr,R,...2D.P"\w*
+\w διὰ|lemma="διά" x-koine="δια" x-strong="G12230" x-morph="Gr,P,......."\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Κυρίου|lemma="κύριος" x-koine="=κυ" x-strong="G29620" x-morph="Gr,N,....GMS"\w*
+˚\w Ἰησοῦ|lemma="Ἰησοῦς" x-koine="=ιυ" x-strong="G24240" x-morph="Gr,N,....GMS"\w*.
+
+\v 3
+\w Τοῦτο|lemma="οὗτος" x-koine="τουτο" x-strong="G37780" x-morph="Gr,R,....NNS"\w*
+\w γάρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w ἐστιν|lemma="εἰμί" x-koine="εστιν" x-strong="G15100" x-morph="Gr,V,IPA3..S"\w*
+\w θέλημα|lemma="θέλημα" x-koine="θελημα" x-strong="G23070" x-morph="Gr,N,....NNS"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*,
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,E,....NMS"\w*
+\w ἁγιασμὸς|lemma="ἁγιασμός" x-koine="αγιασμοσ" x-strong="G00380" x-morph="Gr,N,....NMS"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*,
+\w ἀπέχεσθαι|lemma="ἀπέχω" x-koine="απεχεσθαι" x-strong="G05680" x-morph="Gr,V,NPM...."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w ἀπὸ|lemma="ἀπό" x-koine="απο" x-strong="G05750" x-morph="Gr,P,......."\w*
+\w τῆς|lemma="ὁ" x-koine="τησ" x-strong="G35880" x-morph="Gr,E,....GFS"\w*
+\w πορνείας|lemma="πορνεία" x-koine="πορνειασ" x-strong="G42020" x-morph="Gr,N,....GFS"\w*,
+
+\v 4
+\w εἰδέναι|lemma="εἴδω" x-koine="ειδεναι" x-strong="G14920" x-morph="Gr,V,NEA...."\w*
+\w ἕκαστον|lemma="ἕκαστος" x-koine="εκαστον" x-strong="G15380" x-morph="Gr,S,....AMS"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....ANS"\w*
+\w ἑαυτοῦ|lemma="ἑαυτοῦ" x-koine="εαυτου" x-strong="G14380" x-morph="Gr,R,...3GMS"\w*
+\w σκεῦος|lemma="σκεῦος" x-koine="σκευοσ" x-strong="G46320" x-morph="Gr,N,....ANS"\w*,
+\w κτᾶσθαι|lemma="κτάομαι" x-koine="κτασθαι" x-strong="G29320" x-morph="Gr,V,NPM...."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w ἁγιασμῷ|lemma="ἁγιασμός" x-koine="αγιασμω" x-strong="G00380" x-morph="Gr,N,....DMS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w τιμῇ|lemma="τιμή" x-koine="τιμη" x-strong="G50920" x-morph="Gr,N,....DFS"\w*,
+
+\v 5
+\w μὴ|lemma="μή" x-koine="μη" x-strong="G33610" x-morph="Gr,D,......."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w πάθει|lemma="πάθος" x-koine="παθει" x-strong="G38060" x-morph="Gr,N,....DNS"\w*
+\w ἐπιθυμίας|lemma="ἐπιθυμία" x-koine="επιθυμιασ" x-strong="G19390" x-morph="Gr,N,....GFS"\w*,
+\w καθάπερ|lemma="καθάπερ" x-koine="καθαπερ" x-strong="G25090" x-morph="Gr,D,......."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w τὰ|lemma="ὁ" x-koine="τα" x-strong="G35880" x-morph="Gr,E,....NNP"\w*
+\w ἔθνη|lemma="ἔθνος" x-koine="εθνη" x-strong="G14840" x-morph="Gr,N,....NNP"\w*
+\w τὰ|lemma="ὁ" x-koine="τα" x-strong="G35880" x-morph="Gr,R,....NNP"\w*
+\w μὴ|lemma="μή" x-koine="μη" x-strong="G33610" x-morph="Gr,D,......."\w*
+\w εἰδότα|lemma="εἴδω" x-koine="ειδοτα" x-strong="G14920" x-morph="Gr,V,PEA.NNP"\w*
+\w τὸν|lemma="ὁ" x-koine="τον" x-strong="G35880" x-morph="Gr,E,....AMS"\w*
+˚\w Θεόν|lemma="θεός" x-koine="=θν" x-strong="G23160" x-morph="Gr,N,....AMS"\w*,
+
+\v 6
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,R,....ANS"\w*
+\w μὴ|lemma="μή" x-koine="μη" x-strong="G33610" x-morph="Gr,D,......."\w*
+\w ὑπερβαίνειν|lemma="ὑπερβαίνω" x-koine="υπερβαινειν" x-strong="G52330" x-morph="Gr,V,NPA...."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w πλεονεκτεῖν|lemma="πλεονεκτέω" x-koine="πλεονεκτειν" x-strong="G41220" x-morph="Gr,V,NPA...."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w τῷ|lemma="ὁ" x-koine="τω" x-strong="G35880" x-morph="Gr,E,....DNS"\w*
+\w πράγματι|lemma="πρᾶγμα" x-koine="πραγματι" x-strong="G42290" x-morph="Gr,N,....DNS"\w*
+\w τὸν|lemma="ὁ" x-koine="τον" x-strong="G35880" x-morph="Gr,E,....AMS"\w*
+\w ἀδελφὸν|lemma="ἀδελφός" x-koine="αδελφον" x-strong="G00800" x-morph="Gr,N,....AMS"\w*
+\w αὐτοῦ|lemma="αὐτός" x-koine="αυτου" x-strong="G08460" x-morph="Gr,R,...3GMS"\w*,
+\w διότι|lemma="διότι" x-koine="διοτι" x-strong="G13600" x-morph="Gr,C,......."\w*
+\w ἔκδικος|lemma="ἔκδικος" x-koine="εκδικοσ" x-strong="G15580" x-morph="Gr,S,....NMS"\w*
+˚\w Κύριος|lemma="κύριος" x-koine="=κσ" x-strong="G29620" x-morph="Gr,N,....NMS"\w*
+\w περὶ|lemma="περί" x-koine="περι" x-strong="G40120" x-morph="Gr,P,......."\w*
+\w πάντων|lemma="πᾶς" x-koine="παντων" x-strong="G39560" x-morph="Gr,E,....GNP"\w*
+\w τούτων|lemma="οὗτος" x-koine="τουτων" x-strong="G37780" x-morph="Gr,R,....GNP"\w*,
+\w καθὼς|lemma="καθώς" x-koine="καθωσ" x-strong="G25310" x-morph="Gr,C,......."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w προείπαμεν|lemma="προλέγω" x-koine="προειπαμεν" x-strong="G43020" x-morph="Gr,V,IAA1..P"\w*
+\w ὑμῖν|lemma="σύ" x-koine="υμιν" x-strong="G47710" x-morph="Gr,R,...2D.P"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w διεμαρτυράμεθα|lemma="διαμαρτύρομαι" x-koine="διεμαρτυραμεθα" x-strong="G12630" x-morph="Gr,V,IAM1..P"\w*.
+
+\v 7
+\w Οὐ|lemma="οὐ" x-koine="ου" x-strong="G37560" x-morph="Gr,C,......."\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w ἐκάλεσεν|lemma="καλέω" x-koine="εκαλεσεν" x-strong="G25640" x-morph="Gr,V,IAA3..S"\w*
+\w ἡμᾶς|lemma="ἐγώ" x-koine="ημασ" x-strong="G14730" x-morph="Gr,R,...1A.P"\w*
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,E,....NMS"\w*
+˚\w Θεὸς|lemma="θεός" x-koine="=θσ" x-strong="G23160" x-morph="Gr,N,....NMS"\w*
+\w ἐπὶ|lemma="ἐπί" x-koine="επι" x-strong="G19090" x-morph="Gr,P,......."\w*
+\w ἀκαθαρσίᾳ|lemma="ἀκαθαρσία" x-koine="ακαθαρσια" x-strong="G01670" x-morph="Gr,N,....DFS"\w*,
+\w ἀλλʼ|lemma="ἀλλά" x-koine="αλλ" x-strong="G02350" x-morph="Gr,C,......."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w ἁγιασμῷ|lemma="ἁγιασμός" x-koine="αγιασμω" x-strong="G00380" x-morph="Gr,N,....DMS"\w*.
+
+\v 8
+\w Τοιγαροῦν|lemma="τοιγαροῦν" x-koine="τοιγαρουν" x-strong="G51050" x-morph="Gr,C,......."\w*
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,R,....NMS"\w*
+\w ἀθετῶν|lemma="ἀθετέω" x-koine="αθετων" x-strong="G01140" x-morph="Gr,V,PPA.NMS"\w*,
+\w οὐκ|lemma="οὐ" x-koine="ουκ" x-strong="G37560" x-morph="Gr,C,......."\w*
+\w ἄνθρωπον|lemma="ἄνθρωπος" x-koine="ανθρωπον" x-strong="G04440" x-morph="Gr,N,....AMS"\w*
+\w ἀθετεῖ|lemma="ἀθετέω" x-koine="αθετει" x-strong="G01140" x-morph="Gr,V,IPA3..S"\w*,
+\w ἀλλὰ|lemma="ἀλλά" x-koine="αλλα" x-strong="G02350" x-morph="Gr,C,......."\w*
+\w τὸν|lemma="ὁ" x-koine="τον" x-strong="G35880" x-morph="Gr,E,....AMS"\w*
+˚\w Θεὸν|lemma="θεός" x-koine="=θν" x-strong="G23160" x-morph="Gr,N,....AMS"\w*,
+\w τὸν|lemma="ὁ" x-koine="τον" x-strong="G35880" x-morph="Gr,R,....AMS"\w*
+\w διδόντα|lemma="δίδωμι" x-koine="διδοντα" x-strong="G13250" x-morph="Gr,V,PPA.AMS"\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....ANS"\w*
+˚\w Πνεῦμα|lemma="πνεῦμα" x-koine="=πνα" x-strong="G41510" x-morph="Gr,N,....ANS"\w*
+\w αὐτοῦ|lemma="αὐτός" x-koine="αυτου" x-strong="G08460" x-morph="Gr,R,...3GMS"\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....ANS"\w*
+\w Ἅγιον|lemma="ἅγιος" x-koine="αγιον" x-strong="G00400" x-morph="Gr,A,....ANS"\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*.
+
+\p 
+\v 9
+\w Περὶ|lemma="περί" x-koine="περι" x-strong="G40120" x-morph="Gr,P,......."\w*
+\w δὲ|lemma="δέ" x-koine="δε" x-strong="G11610" x-morph="Gr,C,......."\w*
+\w τῆς|lemma="ὁ" x-koine="τησ" x-strong="G35880" x-morph="Gr,E,....GFS"\w*
+\w φιλαδελφίας|lemma="φιλαδελφία" x-koine="φιλαδελφιασ" x-strong="G53600" x-morph="Gr,N,....GFS"\w*,
+\w οὐ|lemma="οὐ" x-koine="ου" x-strong="G37560" x-morph="Gr,D,......."\w*
+\w χρείαν|lemma="χρεία" x-koine="χρειαν" x-strong="G55320" x-morph="Gr,N,....AFS"\w*
+\w ἔχετε|lemma="ἔχω" x-koine="εχετε" x-strong="G21920" x-morph="Gr,V,IPA2..P"\w*
+\w γράφειν|lemma="γράφω" x-koine="γραφειν" x-strong="G11250" x-morph="Gr,V,NPA...."\w*
+\w ὑμῖν|lemma="σύ" x-koine="υμιν" x-strong="G47710" x-morph="Gr,R,...2D.P"\w*,
+\w αὐτοὶ|lemma="αὐτός" x-koine="αυτοι" x-strong="G08460" x-morph="Gr,R,...2NMP"\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w ὑμεῖς|lemma="σύ" x-koine="υμεισ" x-strong="G47710" x-morph="Gr,R,...2N.P"\w*
+\w θεοδίδακτοί|lemma="θεοδίδακτος" x-koine="θεοδιδακτοι" x-strong="G23120" x-morph="Gr,S,....NMP"\w*
+\w ἐστε|lemma="εἰμί" x-koine="εστε" x-strong="G15100" x-morph="Gr,V,IPA2..P"\w*,
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,R,....ANS"\w*
+\w ἀγαπᾶν|lemma="ἀγαπάω" x-koine="αγαπαν" x-strong="G00250" x-morph="Gr,V,NPA...."\w*
+\w ἀλλήλους|lemma="ἀλλήλων" x-koine="αλληλουσ" x-strong="G02400" x-morph="Gr,R,....AMP"\w*.
+
+\v 10
+\w Καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w ποιεῖτε|lemma="ποιέω" x-koine="ποιειτε" x-strong="G41600" x-morph="Gr,V,IPA2..P"\w*
+\w αὐτὸ|lemma="αὐτός" x-koine="αυτο" x-strong="G08460" x-morph="Gr,R,...3ANS"\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w πάντας|lemma="πᾶς" x-koine="παντασ" x-strong="G39560" x-morph="Gr,E,....AMP"\w*
+\w τοὺς|lemma="ὁ" x-koine="τουσ" x-strong="G35880" x-morph="Gr,E,....AMP"\w*
+\w ἀδελφοὺς|lemma="ἀδελφός" x-koine="αδελφουσ" x-strong="G00800" x-morph="Gr,N,....AMP"\w*,
+\w τοὺς|lemma="ὁ" x-koine="τουσ" x-strong="G35880" x-morph="Gr,R,....AMP"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w ὅλῃ|lemma="ὅλος" x-koine="ολη" x-strong="G36500" x-morph="Gr,E,....DFS"\w*
+\w τῇ|lemma="ὁ" x-koine="τη" x-strong="G35880" x-morph="Gr,E,....DFS"\w*
+\w Μακεδονίᾳ|lemma="Μακεδονία" x-koine="μακεδονια" x-strong="G31090" x-morph="Gr,N,....DFS"\w*.
+\w Παρακαλοῦμεν|lemma="παρακαλέω" x-koine="παρακαλουμεν" x-strong="G38700" x-morph="Gr,V,IPA1..P"\w*
+\w δὲ|lemma="δέ" x-koine="δε" x-strong="G11610" x-morph="Gr,C,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*,
+\w ἀδελφοί|lemma="ἀδελφός" x-koine="αδελφοι" x-strong="G00800" x-morph="Gr,N,....VMP"\w*,
+\w περισσεύειν|lemma="περισσεύω" x-koine="περισσευειν" x-strong="G40520" x-morph="Gr,V,NPA...."\w*
+\w μᾶλλον|lemma="μᾶλλον" x-koine="μαλλον" x-strong="G31230" x-morph="Gr,D,......."\w*,
+
+\v 11
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w φιλοτιμεῖσθαι|lemma="φιλοτιμέομαι" x-koine="φιλοτιμεισθαι" x-strong="G53890" x-morph="Gr,V,NPM...."\w*
+\w ἡσυχάζειν|lemma="ἡσυχάζω" x-koine="ησυχαζειν" x-strong="G22700" x-morph="Gr,V,NPA...."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w πράσσειν|lemma="πράσσω" x-koine="πρασσειν" x-strong="G42380" x-morph="Gr,V,NPA...."\w*
+\w τὰ|lemma="ὁ" x-koine="τα" x-strong="G35880" x-morph="Gr,E,....ANP"\w*
+\w ἴδια|lemma="ἴδιος" x-koine="ιδια" x-strong="G23980" x-morph="Gr,R,....ANP"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἐργάζεσθαι|lemma="ἐργάζομαι" x-koine="εργαζεσθαι" x-strong="G20380" x-morph="Gr,V,NPM...."\w*
+\w ταῖς|lemma="ὁ" x-koine="ταισ" x-strong="G35880" x-morph="Gr,E,....DFP"\w*
+\w ἰδίαις|lemma="ἴδιος" x-koine="ιδιαισ" x-strong="G23980" x-morph="Gr,E,....DFP"\w*
+\w χερσὶν|lemma="χέρ" x-koine="χερσιν" x-strong="G54950" x-morph="Gr,N,....DFP"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*,
+\w καθὼς|lemma="καθώς" x-koine="καθωσ" x-strong="G25310" x-morph="Gr,C,......."\w*
+\w ὑμῖν|lemma="σύ" x-koine="υμιν" x-strong="G47710" x-morph="Gr,R,...2D.P"\w*
+\w παρηγγείλαμεν|lemma="παραγγέλλω" x-koine="παρηγγιλαμεν" x-strong="G38530" x-morph="Gr,V,IAA1..P"\w*,
+
+\v 12
+\w ἵνα|lemma="ἵνα" x-koine="ινα" x-strong="G24430" x-morph="Gr,C,......."\w*
+\w περιπατῆτε|lemma="περιπατέω" x-koine="περιπατητε" x-strong="G40430" x-morph="Gr,V,SPA2..P"\w*
+\w εὐσχημόνως|lemma="εὐσχημόνως" x-koine="ευσχημονωσ" x-strong="G21560" x-morph="Gr,D,......."\w*
+\w πρὸς|lemma="πρός" x-koine="προσ" x-strong="G43140" x-morph="Gr,P,......."\w*
+\w τοὺς|lemma="ὁ" x-koine="τουσ" x-strong="G35880" x-morph="Gr,R,....AMP"\w*
+\w ἔξω|lemma="ἔξω" x-koine="εξω" x-strong="G18540" x-morph="Gr,D,......."\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w μηδενὸς|lemma="μηδείς" x-koine="μηδενοσ" x-strong="G33670" x-morph="Gr,R,....GNS"\w*
+\w χρείαν|lemma="χρεία" x-koine="χρειαν" x-strong="G55320" x-morph="Gr,N,....AFS"\w*
+\w ἔχητε|lemma="ἔχω" x-koine="εχητε" x-strong="G21920" x-morph="Gr,V,SPA2..P"\w*.
+
+\p 
+\v 13
+\w Οὐ|lemma="οὐ" x-koine="ου" x-strong="G37560" x-morph="Gr,D,......."\w*
+\w θέλομεν|lemma="θέλω" x-koine="θελομεν" x-strong="G23090" x-morph="Gr,V,IPA1..P"\w*
+\w δὲ|lemma="δέ" x-koine="δε" x-strong="G11610" x-morph="Gr,C,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w ἀγνοεῖν|lemma="ἀγνοέω" x-koine="αγνοειν" x-strong="G00500" x-morph="Gr,V,NPA...."\w*,
+\w ἀδελφοί|lemma="ἀδελφός" x-koine="αδελφοι" x-strong="G00800" x-morph="Gr,N,....VMP"\w*,
+\w περὶ|lemma="περί" x-koine="περι" x-strong="G40120" x-morph="Gr,P,......."\w*
+\w τῶν|lemma="ὁ" x-koine="των" x-strong="G35880" x-morph="Gr,R,....GMP"\w*
+\w κοιμωμένων|lemma="κοιμάω" x-koine="κοιμωμενων" x-strong="G28370" x-morph="Gr,V,PPP.GMP"\w*,
+\w ἵνα|lemma="ἵνα" x-koine="ινα" x-strong="G24430" x-morph="Gr,C,......."\w*
+\w μὴ|lemma="μή" x-koine="μη" x-strong="G33610" x-morph="Gr,D,......."\w*
+\w λυπῆσθε|lemma="λυπέω" x-koine="λυπησθε" x-strong="G30760" x-morph="Gr,V,SPP2..P"\w*,
+\w καθὼς|lemma="καθώς" x-koine="καθωσ" x-strong="G25310" x-morph="Gr,C,......."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w οἱ|lemma="ὁ" x-koine="οι" x-strong="G35880" x-morph="Gr,E,....NMP"\w*
+\w λοιποὶ|lemma="λοιπός" x-koine="λοιποι" x-strong="G30620" x-morph="Gr,S,....NMP"\w*,
+\w οἱ|lemma="ὁ" x-koine="οι" x-strong="G35880" x-morph="Gr,R,....NMP"\w*
+\w μὴ|lemma="μή" x-koine="μη" x-strong="G33610" x-morph="Gr,D,......."\w*
+\w ἔχοντες|lemma="ἔχω" x-koine="εχοντεσ" x-strong="G21920" x-morph="Gr,V,PPA.NMP"\w*
+\w ἐλπίδα|lemma="ἐλπίς" x-koine="ελπιδα" x-strong="G16800" x-morph="Gr,N,....AFS"\w*.
+
+\v 14
+\w Εἰ|lemma="εἰ" x-koine="ει" x-strong="G14870" x-morph="Gr,C,......."\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w πιστεύομεν|lemma="πιστεύω" x-koine="πιστευομεν" x-strong="G41000" x-morph="Gr,V,IPA1..P"\w*
+\w ὅτι|lemma="ὅτι" x-koine="οτι" x-strong="G37540" x-morph="Gr,C,......."\w*
+˚\w Ἰησοῦς|lemma="Ἰησοῦς" x-koine="=ισ" x-strong="G24240" x-morph="Gr,N,....NMS"\w*
+\w ἀπέθανεν|lemma="ἀποθνῄσκω" x-koine="απεθανεν" x-strong="G05990" x-morph="Gr,V,IAA3..S"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἀνέστη|lemma="ἀνίστημι" x-koine="ανεστη" x-strong="G04500" x-morph="Gr,V,IAA3..S"\w*,
+\w οὕτως|lemma="οὕτως" x-koine="ουτωσ" x-strong="G37790" x-morph="Gr,D,......."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,E,....NMS"\w*
+˚\w Θεὸς|lemma="θεός" x-koine="=θσ" x-strong="G23160" x-morph="Gr,N,....NMS"\w*
+\w τοὺς|lemma="ὁ" x-koine="τουσ" x-strong="G35880" x-morph="Gr,R,....AMP"\w*
+\w κοιμηθέντας|lemma="κοιμάω" x-koine="κοιμηθεντασ" x-strong="G28370" x-morph="Gr,V,PAP.AMP"\w*
+\w διὰ|lemma="διά" x-koine="δια" x-strong="G12230" x-morph="Gr,P,......."\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Ἰησοῦ|lemma="Ἰησοῦς" x-koine="=ιυ" x-strong="G24240" x-morph="Gr,N,....GMS"\w*
+\w ἄξει|lemma="ἄγω" x-koine="αξει" x-strong="G00710" x-morph="Gr,V,IFA3..S"\w*
+\w σὺν|lemma="σύν" x-koine="συν" x-strong="G48620" x-morph="Gr,P,......."\w*
+\w αὐτῷ|lemma="αὐτός" x-koine="αυτω" x-strong="G08460" x-morph="Gr,R,...3DMS"\w*.
+
+\v 15
+\w Τοῦτο|lemma="οὗτος" x-koine="τουτο" x-strong="G37780" x-morph="Gr,R,....ANS"\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w ὑμῖν|lemma="σύ" x-koine="υμιν" x-strong="G47710" x-morph="Gr,R,...2D.P"\w*
+\w λέγομεν|lemma="λέγω" x-koine="λεγομεν" x-strong="G30040" x-morph="Gr,V,IPA1..P"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w λόγῳ|lemma="λόγος" x-koine="λογω" x-strong="G30560" x-morph="Gr,N,....DMS"\w*
+˚\w Κυρίου|lemma="κύριος" x-koine="=κυ" x-strong="G29620" x-morph="Gr,N,....GMS"\w*,
+\w ὅτι|lemma="ὅτι" x-koine="οτι" x-strong="G37540" x-morph="Gr,C,......."\w*
+\w ἡμεῖς|lemma="ἐγώ" x-koine="ημεισ" x-strong="G14730" x-morph="Gr,R,...1N.P"\w*
+\w οἱ|lemma="ὁ" x-koine="οι" x-strong="G35880" x-morph="Gr,R,....NMP"\w*
+\w ζῶντες|lemma="ζάω" x-koine="ζωντεσ" x-strong="G21980" x-morph="Gr,V,PPA.NMP"\w*,
+\w οἱ|lemma="ὁ" x-koine="οι" x-strong="G35880" x-morph="Gr,R,....NMP"\w*
+\w περιλειπόμενοι|lemma="περιλείπω" x-koine="περιλειπομενοι" x-strong="G40350" x-morph="Gr,V,PPP.NMP"\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w τὴν|lemma="ὁ" x-koine="την" x-strong="G35880" x-morph="Gr,E,....AFS"\w*
+\w παρουσίαν|lemma="παρουσία" x-koine="παρουσιαν" x-strong="G39520" x-morph="Gr,N,....AFS"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Κυρίου|lemma="κύριος" x-koine="=κυ" x-strong="G29620" x-morph="Gr,N,....GMS"\w*,
+\w οὐ|lemma="οὐ" x-koine="ου" x-strong="G37560" x-morph="Gr,D,......."\w*
+\w μὴ|lemma="μή" x-koine="μη" x-strong="G33610" x-morph="Gr,D,......."\w*
+\w φθάσωμεν|lemma="φθάνω" x-koine="φθασωμεν" x-strong="G53480" x-morph="Gr,V,SAA1..P"\w*
+\w τοὺς|lemma="ὁ" x-koine="τουσ" x-strong="G35880" x-morph="Gr,R,....AMP"\w*
+\w κοιμηθέντας|lemma="κοιμάω" x-koine="κοιμηθεντασ" x-strong="G28370" x-morph="Gr,V,PAP.AMP"\w*.
+
+\v 16
+\w Ὅτι|lemma="ὅτι" x-koine="οτι" x-strong="G37540" x-morph="Gr,C,......."\w*
+\w αὐτὸς|lemma="αὐτός" x-koine="αυτοσ" x-strong="G08460" x-morph="Gr,R,...3NMS"\w*
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,E,....NMS"\w*
+˚\w Κύριος|lemma="κύριος" x-koine="=κσ" x-strong="G29620" x-morph="Gr,N,....NMS"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w κελεύσματι|lemma="κέλευσμα" x-koine="κελευσματι" x-strong="G27520" x-morph="Gr,N,....DNS"\w*,
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w φωνῇ|lemma="φωνή" x-koine="φωνη" x-strong="G54560" x-morph="Gr,N,....DFS"\w*
+\w ἀρχαγγέλου|lemma="ἀρχάγγελος" x-koine="αρχαγγελου" x-strong="G07430" x-morph="Gr,N,....GMS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w σάλπιγγι|lemma="σάλπιγξ" x-koine="σαλπιγγι" x-strong="G45360" x-morph="Gr,N,....DFS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*,
+\w καταβήσεται|lemma="καταβαίνω" x-koine="καταβησεται" x-strong="G25970" x-morph="Gr,V,IFM3..S"\w*
+\w ἀπʼ|lemma="ἀπό" x-koine="απ" x-strong="G05750" x-morph="Gr,P,......."\w*
+\w οὐρανοῦ|lemma="οὐρανός" x-koine="ουρανου" x-strong="G37720" x-morph="Gr,N,....GMS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w οἱ|lemma="ὁ" x-koine="οι" x-strong="G35880" x-morph="Gr,E,....NMP"\w*
+\w νεκροὶ|lemma="νεκρός" x-koine="νεκροι" x-strong="G34980" x-morph="Gr,S,....NMP"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+˚\w Χριστῷ|lemma="χριστός" x-koine="=χω" x-strong="G55470" x-morph="Gr,N,....DMS"\w*
+\w ἀναστήσονται|lemma="ἀνίστημι" x-koine="αναστησονται" x-strong="G04500" x-morph="Gr,V,IFM3..P"\w*
+\w πρῶτον|lemma="πρῶτον" x-koine="πρωτον" x-strong="G44120" x-morph="Gr,D,......."\w*,
+
+\v 17
+\w ἔπειτα|lemma="ἔπειτα" x-koine="επειτα" x-strong="G18990" x-morph="Gr,D,......."\w*
+\w ἡμεῖς|lemma="ἐγώ" x-koine="ημεισ" x-strong="G14730" x-morph="Gr,R,...1N.P"\w*
+\w οἱ|lemma="ὁ" x-koine="οι" x-strong="G35880" x-morph="Gr,R,....NMP"\w*
+\w ζῶντες|lemma="ζάω" x-koine="ζωντεσ" x-strong="G21980" x-morph="Gr,V,PPA.NMP"\w*,
+\w οἱ|lemma="ὁ" x-koine="οι" x-strong="G35880" x-morph="Gr,R,....NMP"\w*
+\w περιλειπόμενοι|lemma="περιλείπω" x-koine="περιλειπομενοι" x-strong="G40350" x-morph="Gr,V,PPP.NMP"\w*
+\w ἅμα|lemma="ἅμα" x-koine="αμα" x-strong="G02600" x-morph="Gr,D,......."\w*
+\w σὺν|lemma="σύν" x-koine="συν" x-strong="G48620" x-morph="Gr,P,......."\w*
+\w αὐτοῖς|lemma="αὐτός" x-koine="αυτοισ" x-strong="G08460" x-morph="Gr,R,...3DMP"\w*,
+\w ἁρπαγησόμεθα|lemma="ἁρπάζω" x-koine="αρπαγησομεθα" x-strong="G07260" x-morph="Gr,V,IFP1..P"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w νεφέλαις|lemma="νεφέλη" x-koine="νεφελαισ" x-strong="G35070" x-morph="Gr,N,....DFP"\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w ἀπάντησιν|lemma="ἀπάντησις" x-koine="απαντησιν" x-strong="G05290" x-morph="Gr,N,....AFS"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Κυρίου|lemma="κύριος" x-koine="=κυ" x-strong="G29620" x-morph="Gr,N,....GMS"\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w ἀέρα|lemma="ἀήρ" x-koine="αερα" x-strong="G01090" x-morph="Gr,N,....AMS"\w*·
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w οὕτως|lemma="οὕτως" x-koine="ουτωσ" x-strong="G37790" x-morph="Gr,D,......."\w*
+\w πάντοτε|lemma="πάντοτε" x-koine="παντοτε" x-strong="G38420" x-morph="Gr,D,......."\w*
+\w σὺν|lemma="σύν" x-koine="συν" x-strong="G48620" x-morph="Gr,P,......."\w*
+˚\w Κυρίῳ|lemma="κύριος" x-koine="=κω" x-strong="G29620" x-morph="Gr,N,....DMS"\w*
+\w ἐσόμεθα|lemma="εἰμί" x-koine="εσομεθα" x-strong="G15100" x-morph="Gr,V,IFM1..P"\w*.
+
+\v 18
+\w Ὥστε|lemma="ὥστε" x-koine="ωστε" x-strong="G56200" x-morph="Gr,C,......."\w*
+\w παρακαλεῖτε|lemma="παρακαλέω" x-koine="παρακαλειτε" x-strong="G38700" x-morph="Gr,V,MPA2..P"\w*
+\w ἀλλήλους|lemma="ἀλλήλων" x-koine="αλληλουσ" x-strong="G02400" x-morph="Gr,R,....AMP"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w τοῖς|lemma="ὁ" x-koine="τοισ" x-strong="G35880" x-morph="Gr,E,....DMP"\w*
+\w λόγοις|lemma="λόγος" x-koine="λογοισ" x-strong="G30560" x-morph="Gr,N,....DMP"\w*
+\w τούτοις|lemma="οὗτος" x-koine="τουτοισ" x-strong="G37780" x-morph="Gr,E,....DMP"\w*.
+
+\c 5
+
+\p 
+\v 1
+\w Περὶ|lemma="περί" x-koine="περι" x-strong="G40120" x-morph="Gr,P,......."\w*
+\w δὲ|lemma="δέ" x-koine="δε" x-strong="G11610" x-morph="Gr,C,......."\w*
+\w τῶν|lemma="ὁ" x-koine="των" x-strong="G35880" x-morph="Gr,E,....GMP"\w*
+\w χρόνων|lemma="χρόνος" x-koine="χρονων" x-strong="G55500" x-morph="Gr,N,....GMP"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w τῶν|lemma="ὁ" x-koine="των" x-strong="G35880" x-morph="Gr,E,....GMP"\w*
+\w καιρῶν|lemma="καιρός" x-koine="καιρων" x-strong="G25400" x-morph="Gr,N,....GMP"\w*,
+\w ἀδελφοί|lemma="ἀδελφός" x-koine="αδελφοι" x-strong="G00800" x-morph="Gr,N,....VMP"\w*,
+\w οὐ|lemma="οὐ" x-koine="ου" x-strong="G37560" x-morph="Gr,D,......."\w*
+\w χρείαν|lemma="χρεία" x-koine="χρειαν" x-strong="G55320" x-morph="Gr,N,....AFS"\w*
+\w ἔχετε|lemma="ἔχω" x-koine="εχετε" x-strong="G21920" x-morph="Gr,V,IPA2..P"\w*
+\w ὑμῖν|lemma="σύ" x-koine="υμιν" x-strong="G47710" x-morph="Gr,R,...2D.P"\w*
+\w γράφεσθαι|lemma="γράφω" x-koine="γραφεσθαι" x-strong="G11250" x-morph="Gr,V,NPP...."\w*.
+
+\v 2
+\w Αὐτοὶ|lemma="αὐτός" x-koine="αυτοι" x-strong="G08460" x-morph="Gr,R,...2NMP"\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w ἀκριβῶς|lemma="ἀκριβῶς" x-koine="ακριβωσ" x-strong="G01990" x-morph="Gr,D,......."\w*
+\w οἴδατε|lemma="εἴδω" x-koine="οιδατε" x-strong="G14920" x-morph="Gr,V,IEA2..P"\w*
+\w ὅτι|lemma="ὅτι" x-koine="οτι" x-strong="G37540" x-morph="Gr,C,......."\w*
+\w ἡμέρα|lemma="ἡμέρα" x-koine="ημερα" x-strong="G22500" x-morph="Gr,N,....NFS"\w*
+˚\w Κυρίου|lemma="κύριος" x-koine="=κυ" x-strong="G29620" x-morph="Gr,N,....GMS"\w*,
+\w ὡς|lemma="ὡς" x-koine="ωσ" x-strong="G56130" x-morph="Gr,C,......."\w*
+\w κλέπτης|lemma="κλέπτης" x-koine="κλεπτησ" x-strong="G28120" x-morph="Gr,N,....NMS"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w νυκτὶ|lemma="νύξ" x-koine="νυκτι" x-strong="G35710" x-morph="Gr,N,....DFS"\w*
+\w οὕτως|lemma="οὕτως" x-koine="ουτωσ" x-strong="G37790" x-morph="Gr,D,......."\w*
+\w ἔρχεται|lemma="ἔρχομαι" x-koine="ερχεται" x-strong="G20640" x-morph="Gr,V,IPM3..S"\w*.
+
+\v 3
+\w Ὅταν|lemma="ὅταν" x-koine="οταν" x-strong="G37520" x-morph="Gr,C,......."\w*
+\w λέγωσιν|lemma="λέγω" x-koine="λεγωσιν" x-strong="G30040" x-morph="Gr,V,SPA3..P"\w*,
+“\w Εἰρήνη|lemma="εἰρήνη" x-koine="ειρηνη" x-strong="G15150" x-morph="Gr,N,....NFS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἀσφάλεια|lemma="ἀσφάλεια" x-koine="ασφαλεια" x-strong="G08030" x-morph="Gr,N,....NFS"\w*”,
+\w τότε|lemma="τότε" x-koine="τοτε" x-strong="G51190" x-morph="Gr,D,......."\w*
+\w αἰφνίδιος|lemma="αἰφνίδιος" x-koine="αιφνιδιοσ" x-strong="G01600" x-morph="Gr,S,....NMS"\w*
+\w ἐπίσταται|lemma="ἐπίσταμαι" x-koine="επισταται" x-strong="G19870" x-morph="Gr,V,IPM3..S"\w*
+\w αὐτοῖς|lemma="αὐτός" x-koine="αυτοισ" x-strong="G08460" x-morph="Gr,R,...3DMP"\w*
+\w ὄλεθρος|lemma="ὄλεθρος" x-koine="ολεθροσ" x-strong="G36390" x-morph="Gr,N,....NMS"\w*,
+\w ὥσπερ|lemma="ὥσπερ" x-koine="ωσπερ" x-strong="G56180" x-morph="Gr,C,......."\w*
+\w ἡ|lemma="ὁ" x-koine="η" x-strong="G35880" x-morph="Gr,E,....NFS"\w*
+\w ὠδὶν|lemma="ὠδίς" x-koine="ωδειν" x-strong="G56040" x-morph="Gr,N,....NFS"\w*
+\w τῇ|lemma="ὁ" x-koine="τη" x-strong="G35880" x-morph="Gr,R,....DFS"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w γαστρὶ|lemma="γαστήρ" x-koine="γαστρι" x-strong="G10640" x-morph="Gr,N,....DFS"\w*
+\w ἐχούσῃ|lemma="ἔχω" x-koine="εχουση" x-strong="G21920" x-morph="Gr,V,PPA.DFS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w οὐ|lemma="οὐ" x-koine="ου" x-strong="G37560" x-morph="Gr,D,......."\w*
+\w μὴ|lemma="μή" x-koine="μη" x-strong="G33610" x-morph="Gr,D,......."\w*
+\w ἐκφύγωσιν|lemma="ἐκφεύγω" x-koine="εκφυγωσιν" x-strong="G16280" x-morph="Gr,V,SAA3..P"\w*.
+
+\v 4
+\w Ὑμεῖς|lemma="σύ" x-koine="υμεισ" x-strong="G47710" x-morph="Gr,R,...2N.P"\w*
+\w δέ|lemma="δέ" x-koine="δε" x-strong="G11610" x-morph="Gr,C,......."\w*,
+\w ἀδελφοί|lemma="ἀδελφός" x-koine="αδελφοι" x-strong="G00800" x-morph="Gr,N,....VMP"\w*,
+\w οὐκ|lemma="οὐ" x-koine="ουκ" x-strong="G37560" x-morph="Gr,D,......."\w*
+\w ἐστὲ|lemma="εἰμί" x-koine="εστε" x-strong="G15100" x-morph="Gr,V,IPA2..P"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w σκότει|lemma="σκότος" x-koine="σκοτει" x-strong="G46550" x-morph="Gr,N,....DNS"\w*,
+\w ἵνα|lemma="ἵνα" x-koine="ινα" x-strong="G24430" x-morph="Gr,C,......."\w*
+\w ἡ|lemma="ὁ" x-koine="η" x-strong="G35880" x-morph="Gr,E,....NFS"\w*
+\w ἡμέρα|lemma="ἡμέρα" x-koine="ημερα" x-strong="G22500" x-morph="Gr,N,....NFS"\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w ὡς|lemma="ὡς" x-koine="ωσ" x-strong="G56130" x-morph="Gr,C,......."\w*
+\w κλέπτας|lemma="κλέπτης" x-koine="κλεπτασ" x-strong="G28120" x-morph="Gr,N,....AMP"\w*
+\w καταλάβῃ|lemma="καταλαμβάνω" x-koine="καταλαβη" x-strong="G26380" x-morph="Gr,V,SAA3..S"\w*.
+
+\v 5
+\w Πάντες|lemma="πᾶς" x-koine="παντεσ" x-strong="G39560" x-morph="Gr,S,....NMP"\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w ὑμεῖς|lemma="σύ" x-koine="υμεισ" x-strong="G47710" x-morph="Gr,R,...2N.P"\w*
+\w υἱοὶ|lemma="υἱός" x-koine="υιοι" x-strong="G52070" x-morph="Gr,N,....NMP"\w*
+\w φωτός|lemma="φῶς" x-koine="φωτοσ" x-strong="G54570" x-morph="Gr,N,....GNS"\w*
+\w ἐστε|lemma="εἰμί" x-koine="εστε" x-strong="G15100" x-morph="Gr,V,IPA2..P"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w υἱοὶ|lemma="υἱός" x-koine="υιοι" x-strong="G52070" x-morph="Gr,N,....NMP"\w*
+\w ἡμέρας|lemma="ἡμέρα" x-koine="ημερασ" x-strong="G22500" x-morph="Gr,N,....GFS"\w*.
+\w Οὐκ|lemma="οὐ" x-koine="ουκ" x-strong="G37560" x-morph="Gr,C,......."\w*
+\w ἐσμὲν|lemma="εἰμί" x-koine="εσμεν" x-strong="G15100" x-morph="Gr,V,IPA1..P"\w*
+\w νυκτὸς|lemma="νύξ" x-koine="νυκτοσ" x-strong="G35710" x-morph="Gr,N,....GFS"\w*
+\w οὐδὲ|lemma="οὐδέ" x-koine="ουδε" x-strong="G37610" x-morph="Gr,C,......."\w*
+\w σκότους|lemma="σκότος" x-koine="σκοτουσ" x-strong="G46550" x-morph="Gr,N,....GNS"\w*.
+
+\v 6
+\w Ἄρα|lemma="ἄρα" x-koine="αρα" x-strong="G06860" x-morph="Gr,D,......."\w*
+\w οὖν|lemma="οὖν" x-koine="ουν" x-strong="G37670" x-morph="Gr,C,......."\w*
+\w μὴ|lemma="μή" x-koine="μη" x-strong="G33610" x-morph="Gr,C,......."\w*
+\w καθεύδωμεν|lemma="καθεύδω" x-koine="καθευδωμεν" x-strong="G25180" x-morph="Gr,V,SPA1..P"\w*
+\w ὡς|lemma="ὡς" x-koine="ωσ" x-strong="G56130" x-morph="Gr,C,......."\w*
+\w οἱ|lemma="ὁ" x-koine="οι" x-strong="G35880" x-morph="Gr,E,....NMP"\w*
+\w λοιποί|lemma="λοιπός" x-koine="λοιποι" x-strong="G30620" x-morph="Gr,S,....NMP"\w*,
+\w ἀλλὰ|lemma="ἀλλά" x-koine="αλλα" x-strong="G02350" x-morph="Gr,C,......."\w*
+\w γρηγορῶμεν|lemma="γρηγορέω" x-koine="γρηγορωμεν" x-strong="G11270" x-morph="Gr,V,SPA1..P"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w νήφωμεν|lemma="νήφω" x-koine="νηφωμεν" x-strong="G35250" x-morph="Gr,V,SPA1..P"\w*.
+
+\v 7
+\w Οἱ|lemma="ὁ" x-koine="οι" x-strong="G35880" x-morph="Gr,R,....NMP"\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w καθεύδοντες|lemma="καθεύδω" x-koine="καθευδοντεσ" x-strong="G25180" x-morph="Gr,V,PPA.NMP"\w*,
+\w νυκτὸς|lemma="νύξ" x-koine="νυκτοσ" x-strong="G35710" x-morph="Gr,N,....GFS"\w*
+\w καθεύδουσιν|lemma="καθεύδω" x-koine="καθευδουσιν" x-strong="G25180" x-morph="Gr,V,IPA3..P"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w οἱ|lemma="ὁ" x-koine="οι" x-strong="G35880" x-morph="Gr,R,....NMP"\w*
+\w μεθυσκόμενοι|lemma="μεθύσκω" x-koine="μεθυσκομενοι" x-strong="G31820" x-morph="Gr,V,PPP.NMP"\w*,
+\w νυκτὸς|lemma="νύξ" x-koine="νυκτοσ" x-strong="G35710" x-morph="Gr,N,....GFS"\w*
+\w μεθύουσιν|lemma="μεθύω" x-koine="μεθυουσιν" x-strong="G31840" x-morph="Gr,V,IPA3..P"\w*.
+
+\v 8
+\w Ἡμεῖς|lemma="ἐγώ" x-koine="ημεισ" x-strong="G14730" x-morph="Gr,R,...1N.P"\w*
+\w δὲ|lemma="δέ" x-koine="δε" x-strong="G11610" x-morph="Gr,C,......."\w*
+\w ἡμέρας|lemma="ἡμέρα" x-koine="ημερασ" x-strong="G22500" x-morph="Gr,N,....GFS"\w*
+\w ὄντες|lemma="εἰμί" x-koine="οντεσ" x-strong="G15100" x-morph="Gr,V,PPA.NMP"\w*,
+\w νήφωμεν|lemma="νήφω" x-koine="νηφωμεν" x-strong="G35250" x-morph="Gr,V,SPA1..P"\w*,
+\w ἐνδυσάμενοι|lemma="ἐνδύω" x-koine="ενδυσαμενοι" x-strong="G17460" x-morph="Gr,V,PAM.NMP"\w*
+\w θώρακα|lemma="θώραξ" x-koine="θωρακα" x-strong="G23820" x-morph="Gr,N,....AMS"\w*
+\w πίστεως|lemma="πίστις" x-koine="πιστεωσ" x-strong="G41020" x-morph="Gr,N,....GFS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἀγάπης|lemma="ἀγάπη" x-koine="αγαπησ" x-strong="G00260" x-morph="Gr,N,....GFS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w περικεφαλαίαν|lemma="περικεφαλαία" x-koine="περικεφαλαιαν" x-strong="G40300" x-morph="Gr,N,....AFS"\w*,
+\w ἐλπίδα|lemma="ἐλπίς" x-koine="ελπιδα" x-strong="G16800" x-morph="Gr,N,....AFS"\w*
+\w σωτηρίας|lemma="σωτηρία" x-koine="σωτηριασ" x-strong="G49910" x-morph="Gr,N,....GFS"\w*.
+
+\v 9
+\w Ὅτι|lemma="ὅτι" x-koine="οτι" x-strong="G37540" x-morph="Gr,C,......."\w*
+\w οὐκ|lemma="οὐ" x-koine="ουκ" x-strong="G37560" x-morph="Gr,C,......."\w*
+\w ἔθετο|lemma="τίθημι" x-koine="εθετο" x-strong="G50870" x-morph="Gr,V,IAM3..S"\w*
+\w ἡμᾶς|lemma="ἐγώ" x-koine="ημασ" x-strong="G14730" x-morph="Gr,R,...1A.P"\w*
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,E,....NMS"\w*
+˚\w Θεὸς|lemma="θεός" x-koine="=θσ" x-strong="G23160" x-morph="Gr,N,....NMS"\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w ὀργὴν|lemma="ὀργή" x-koine="οργην" x-strong="G37090" x-morph="Gr,N,....AFS"\w*,
+\w ἀλλὰ|lemma="ἀλλά" x-koine="αλλα" x-strong="G02350" x-morph="Gr,C,......."\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w περιποίησιν|lemma="περιποίησις" x-koine="περιποιησιν" x-strong="G40470" x-morph="Gr,N,....AFS"\w*
+\w σωτηρίας|lemma="σωτηρία" x-koine="σωτηριασ" x-strong="G49910" x-morph="Gr,N,....GFS"\w*
+\w διὰ|lemma="διά" x-koine="δια" x-strong="G12230" x-morph="Gr,P,......."\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Κυρίου|lemma="κύριος" x-koine="=κυ" x-strong="G29620" x-morph="Gr,N,....GMS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+˚\w Ἰησοῦ|lemma="Ἰησοῦς" x-koine="=ιυ" x-strong="G24240" x-morph="Gr,N,....GMS"\w*
+˚\w Χριστοῦ|lemma="χριστός" x-koine="=χυ" x-strong="G55470" x-morph="Gr,N,....GMS"\w*,
+
+\v 10
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,R,....GMS"\w*
+\w ἀποθανόντος|lemma="ἀποθνῄσκω" x-koine="αποθανοντοσ" x-strong="G05990" x-morph="Gr,V,PAA.GMS"\w*
+\w περὶ|lemma="περί" x-koine="περι" x-strong="G40120" x-morph="Gr,P,......."\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+\w ἵνα|lemma="ἵνα" x-koine="ινα" x-strong="G24430" x-morph="Gr,C,......."\w*
+\w εἴτε|lemma="εἴτε" x-koine="ειτε" x-strong="G15350" x-morph="Gr,C,......."\w*
+\w γρηγορῶμεν|lemma="γρηγορέω" x-koine="γρηγορωμεν" x-strong="G11270" x-morph="Gr,V,SPA1..P"\w*
+\w εἴτε|lemma="εἴτε" x-koine="ειτε" x-strong="G15350" x-morph="Gr,C,......."\w*
+\w καθεύδωμεν|lemma="καθεύδω" x-koine="καθευδωμεν" x-strong="G25180" x-morph="Gr,V,SPA1..P"\w*,
+\w ἅμα|lemma="ἅμα" x-koine="αμα" x-strong="G02600" x-morph="Gr,D,......."\w*
+\w σὺν|lemma="σύν" x-koine="συν" x-strong="G48620" x-morph="Gr,P,......."\w*
+\w αὐτῷ|lemma="αὐτός" x-koine="αυτω" x-strong="G08460" x-morph="Gr,R,...3DMS"\w*
+\w ζήσωμεν|lemma="ζάω" x-koine="ζησωμεν" x-strong="G21980" x-morph="Gr,V,SAA1..P"\w*.
+
+\v 11
+\w Διὸ|lemma="διό" x-koine="διο" x-strong="G13520" x-morph="Gr,C,......."\w*
+\w παρακαλεῖτε|lemma="παρακαλέω" x-koine="παρακαλειτε" x-strong="G38700" x-morph="Gr,V,MPA2..P"\w*
+\w ἀλλήλους|lemma="ἀλλήλων" x-koine="αλληλουσ" x-strong="G02400" x-morph="Gr,R,....AMP"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w οἰκοδομεῖτε|lemma="οἰκοδομέω" x-koine="οικοδομειτε" x-strong="G36180" x-morph="Gr,V,MPA2..P"\w*
+\w εἷς|lemma="εἷς" x-koine="εισ" x-strong="G15200" x-morph="Gr,S,....NMS"\w*
+\w τὸν|lemma="ὁ" x-koine="τον" x-strong="G35880" x-morph="Gr,E,....AMS"\w*
+\w ἕνα|lemma="εἷς" x-koine="ενα" x-strong="G15200" x-morph="Gr,S,....AMS"\w*,
+\w καθὼς|lemma="καθώς" x-koine="καθωσ" x-strong="G25310" x-morph="Gr,C,......."\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w ποιεῖτε|lemma="ποιέω" x-koine="ποιειτε" x-strong="G41600" x-morph="Gr,V,IPA2..P"\w*.
+
+\p 
+\v 12
+\w Ἐρωτῶμεν|lemma="ἐρωτάω" x-koine="ερωτωμεν" x-strong="G20650" x-morph="Gr,V,IPA1..P"\w*
+\w δὲ|lemma="δέ" x-koine="δε" x-strong="G11610" x-morph="Gr,C,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*,
+\w ἀδελφοί|lemma="ἀδελφός" x-koine="αδελφοι" x-strong="G00800" x-morph="Gr,N,....VMP"\w*,
+\w εἰδέναι|lemma="εἴδω" x-koine="ειδεναι" x-strong="G14920" x-morph="Gr,V,NEA...."\w*
+\w τοὺς|lemma="ὁ" x-koine="τουσ" x-strong="G35880" x-morph="Gr,R,....AMP"\w*
+\w κοπιῶντας|lemma="κοπιάω" x-koine="κοπιωντασ" x-strong="G28720" x-morph="Gr,V,PPA.AMP"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w ὑμῖν|lemma="σύ" x-koine="υμιν" x-strong="G47710" x-morph="Gr,R,...2D.P"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w προϊσταμένους|lemma="προΐστημι" x-koine="προισταμενουσ" x-strong="G42910" x-morph="Gr,V,PPM.AMP"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+˚\w Κυρίῳ|lemma="κύριος" x-koine="=κω" x-strong="G29620" x-morph="Gr,N,....DMS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w νουθετοῦντας|lemma="νουθετέω" x-koine="νουθετουντασ" x-strong="G35600" x-morph="Gr,V,PPA.AMP"\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*,
+
+\v 13
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἡγεῖσθαι|lemma="ἡγέομαι" x-koine="ηγεισθαι" x-strong="G22330" x-morph="Gr,V,NPM...."\w*
+\w αὐτοὺς|lemma="αὐτός" x-koine="αυτουσ" x-strong="G08460" x-morph="Gr,R,...3AMP"\w*
+\w ὑπερεκπερισσοῦ|lemma="ὑπερεκπερισσοῦ" x-koine="υπερεκπερισσου" x-strong="G52385" x-morph="Gr,D,......."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w ἀγάπῃ|lemma="ἀγάπη" x-koine="αγαπη" x-strong="G00260" x-morph="Gr,N,....DFS"\w*,
+\w διὰ|lemma="διά" x-koine="δια" x-strong="G12230" x-morph="Gr,P,......."\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....ANS"\w*
+\w ἔργον|lemma="ἔργον" x-koine="εργον" x-strong="G20410" x-morph="Gr,N,....ANS"\w*
+\w αὐτῶν|lemma="αὐτός" x-koine="αυτων" x-strong="G08460" x-morph="Gr,R,...3GMP"\w*.
+\w Εἰρηνεύετε|lemma="εἰρηνεύω" x-koine="ειρηνευετε" x-strong="G15140" x-morph="Gr,V,MPA2..P"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w ἑαυτοῖς|lemma="ἑαυτοῦ" x-koine="εαυτοισ" x-strong="G14380" x-morph="Gr,R,...2DMP"\w*.
+
+\v 14
+\w Παρακαλοῦμεν|lemma="παρακαλέω" x-koine="παρακαλουμεν" x-strong="G38700" x-morph="Gr,V,IPA1..P"\w*
+\w δὲ|lemma="δέ" x-koine="δε" x-strong="G11610" x-morph="Gr,C,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*,
+\w ἀδελφοί|lemma="ἀδελφός" x-koine="αδελφοι" x-strong="G00800" x-morph="Gr,N,....VMP"\w*,
+\w νουθετεῖτε|lemma="νουθετέω" x-koine="νουθετειτε" x-strong="G35600" x-morph="Gr,V,MPA2..P"\w*
+\w τοὺς|lemma="ὁ" x-koine="τουσ" x-strong="G35880" x-morph="Gr,E,....AMP"\w*
+\w ἀτάκτους|lemma="ἄτακτος" x-koine="ατακτουσ" x-strong="G08130" x-morph="Gr,S,....AMP"\w*,
+\w παραμυθεῖσθε|lemma="παραμυθέομαι" x-koine="παραμυθεισθε" x-strong="G38880" x-morph="Gr,V,MPM2..P"\w*
+\w τοὺς|lemma="ὁ" x-koine="τουσ" x-strong="G35880" x-morph="Gr,E,....AMP"\w*
+\w ὀλιγοψύχους|lemma="ὀλιγόψυχος" x-koine="ολιγοψυχουσ" x-strong="G36420" x-morph="Gr,S,....AMP"\w*,
+\w ἀντέχεσθε|lemma="ἀντέχω" x-koine="αντεχεσθε" x-strong="G04720" x-morph="Gr,V,MPM2..P"\w*
+\w τῶν|lemma="ὁ" x-koine="των" x-strong="G35880" x-morph="Gr,E,....GMP"\w*
+\w ἀσθενῶν|lemma="ἀσθενής" x-koine="ασθενων" x-strong="G07720" x-morph="Gr,S,....GMP"\w*,
+\w μακροθυμεῖτε|lemma="μακροθυμέω" x-koine="μακροθυμειτε" x-strong="G31140" x-morph="Gr,V,MPA2..P"\w*
+\w πρὸς|lemma="πρός" x-koine="προσ" x-strong="G43140" x-morph="Gr,P,......."\w*
+\w πάντας|lemma="πᾶς" x-koine="παντασ" x-strong="G39560" x-morph="Gr,S,....AMP"\w*.
+
+\v 15
+\w Ὁρᾶτε|lemma="ὁράω" x-koine="ορατε" x-strong="G37080" x-morph="Gr,V,MPA2..P"\w*
+\w μή|lemma="μή" x-koine="μη" x-strong="G33610" x-morph="Gr,C,......."\w*
+\w τις|lemma="τὶς" x-koine="τισ" x-strong="G51000" x-morph="Gr,R,....NMS"\w*
+\w κακὸν|lemma="κακός" x-koine="κακον" x-strong="G25560" x-morph="Gr,S,....ANS"\w*
+\w ἀντὶ|lemma="ἀντί" x-koine="αντι" x-strong="G04730" x-morph="Gr,P,......."\w*
+\w κακοῦ|lemma="κακός" x-koine="κακου" x-strong="G25560" x-morph="Gr,S,....GNS"\w*
+\w τινι|lemma="τὶς" x-koine="τινι" x-strong="G51000" x-morph="Gr,R,....DMS"\w*
+\w ἀποδῷ|lemma="ἀποδίδωμι" x-koine="αποδω" x-strong="G05910" x-morph="Gr,V,SAA3..S"\w*,
+\w ἀλλὰ|lemma="ἀλλά" x-koine="αλλα" x-strong="G02350" x-morph="Gr,C,......."\w*
+\w πάντοτε|lemma="πάντοτε" x-koine="παντοτε" x-strong="G38420" x-morph="Gr,D,......."\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....ANS"\w*
+\w ἀγαθὸν|lemma="ἀγαθός" x-koine="αγαθον" x-strong="G00180" x-morph="Gr,S,....ANS"\w*
+\w διώκετε|lemma="διώκω" x-koine="διωκετε" x-strong="G13770" x-morph="Gr,V,MPA2..P"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w ἀλλήλους|lemma="ἀλλήλων" x-koine="αλληλουσ" x-strong="G02400" x-morph="Gr,R,....AMP"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w πάντας|lemma="πᾶς" x-koine="παντασ" x-strong="G39560" x-morph="Gr,S,....AMP"\w*.
+
+\v 16
+\w Πάντοτε|lemma="πάντοτε" x-koine="παντοτε" x-strong="G38420" x-morph="Gr,D,......."\w*
+\w χαίρετε|lemma="χαίρω" x-koine="χαιρετε" x-strong="G54630" x-morph="Gr,V,MPA2..P"\w*.
+
+\v 17
+\w Ἀδιαλείπτως|lemma="ἀδιαλείπτως" x-koine="αδιαλειπτωσ" x-strong="G00890" x-morph="Gr,D,......."\w*
+\w προσεύχεσθε|lemma="προσεύχομαι" x-koine="προσευχεσθε" x-strong="G43360" x-morph="Gr,V,MPM2..P"\w*.
+
+\v 18
+\w Ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w παντὶ|lemma="πᾶς" x-koine="παντι" x-strong="G39560" x-morph="Gr,S,....DNS"\w*
+\w εὐχαριστεῖτε|lemma="εὐχαριστέω" x-koine="ευχαριστειτε" x-strong="G21680" x-morph="Gr,V,MPA2..P"\w*·
+\w τοῦτο|lemma="οὗτος" x-koine="τουτο" x-strong="G37780" x-morph="Gr,R,....NNS"\w*
+\w γὰρ|lemma="γάρ" x-koine="γαρ" x-strong="G10630" x-morph="Gr,C,......."\w*
+\w θέλημα|lemma="θέλημα" x-koine="θελημα" x-strong="G23070" x-morph="Gr,N,....NNS"\w*
+˚\w Θεοῦ|lemma="θεός" x-koine="=θυ" x-strong="G23160" x-morph="Gr,N,....GMS"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+˚\w Χριστῷ|lemma="χριστός" x-koine="=χω" x-strong="G55470" x-morph="Gr,N,....DMS"\w*
+˚\w Ἰησοῦ|lemma="Ἰησοῦς" x-koine="=ιυ" x-strong="G24240" x-morph="Gr,N,....DMS"\w*
+\w εἰς|lemma="εἰς" x-koine="εισ" x-strong="G15190" x-morph="Gr,P,......."\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*.
+
+\v 19
+\w Τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....ANS"\w*
+˚\w Πνεῦμα|lemma="πνεῦμα" x-koine="=πνα" x-strong="G41510" x-morph="Gr,N,....ANS"\w*
+\w μὴ|lemma="μή" x-koine="μη" x-strong="G33610" x-morph="Gr,D,......."\w*
+\w σβέννυτε|lemma="σβέννυμι" x-koine="σβεννυτε" x-strong="G45700" x-morph="Gr,V,MPA2..P"\w*.
+
+\v 20
+\w Προφητείας|lemma="προφητεία" x-koine="προφητειασ" x-strong="G43940" x-morph="Gr,N,....AFP"\w*
+\w μὴ|lemma="μή" x-koine="μη" x-strong="G33610" x-morph="Gr,D,......."\w*
+\w ἐξουθενεῖτε|lemma="ἐξουθενέω" x-koine="εξουθενειτε" x-strong="G18470" x-morph="Gr,V,MPA2..P"\w*.
+
+\v 21
+\w Πάντα|lemma="πᾶς" x-koine="παντα" x-strong="G39560" x-morph="Gr,S,....ANP"\w*
+\w δοκιμάζετε|lemma="δοκιμάζω" x-koine="δοκιμαζετε" x-strong="G13810" x-morph="Gr,V,MPA2..P"\w*,
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....ANS"\w*
+\w καλὸν|lemma="καλός" x-koine="καλον" x-strong="G25700" x-morph="Gr,S,....ANS"\w*
+\w κατέχετε|lemma="κατέχω" x-koine="κατεχετε" x-strong="G27220" x-morph="Gr,V,MPA2..P"\w*.
+
+\v 22
+\w Ἀπὸ|lemma="ἀπό" x-koine="απο" x-strong="G05750" x-morph="Gr,P,......."\w*
+\w παντὸς|lemma="πᾶς" x-koine="παντοσ" x-strong="G39560" x-morph="Gr,E,....GNS"\w*
+\w εἴδους|lemma="εἶδος" x-koine="ειδουσ" x-strong="G14910" x-morph="Gr,N,....GNS"\w*
+\w πονηροῦ|lemma="πονηρός" x-koine="πονηρου" x-strong="G41900" x-morph="Gr,A,....GNS"\w*
+\w ἀπέχεσθε|lemma="ἀπέχω" x-koine="απεχεσθε" x-strong="G05680" x-morph="Gr,V,MPM2..P"\w*.
+
+\p 
+\v 23
+\w Αὐτὸς|lemma="αὐτός" x-koine="αυτοσ" x-strong="G08460" x-morph="Gr,R,...3NMS"\w*
+\w δὲ|lemma="δέ" x-koine="δε" x-strong="G11610" x-morph="Gr,C,......."\w*
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,E,....NMS"\w*
+˚\w Θεὸς|lemma="θεός" x-koine="=θσ" x-strong="G23160" x-morph="Gr,N,....NMS"\w*
+\w τῆς|lemma="ὁ" x-koine="τησ" x-strong="G35880" x-morph="Gr,E,....GFS"\w*
+\w εἰρήνης|lemma="εἰρήνη" x-koine="ειρηνησ" x-strong="G15150" x-morph="Gr,N,....GFS"\w*
+\w ἁγιάσαι|lemma="ἁγιάζω" x-koine="αγιασαι" x-strong="G00370" x-morph="Gr,V,OAA3..S"\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w ὁλοτελεῖς|lemma="ὁλοτελής" x-koine="ολοτελεισ" x-strong="G36510" x-morph="Gr,S,....AMP"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ὁλόκληρον|lemma="ὁλόκληρος" x-koine="ολοκληρον" x-strong="G36480" x-morph="Gr,S,....NNS"\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....NNS"\w*
+\w πνεῦμα|lemma="πνεῦμα" x-koine="πνευμα" x-strong="G41510" x-morph="Gr,N,....NNS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w ἡ|lemma="ὁ" x-koine="η" x-strong="G35880" x-morph="Gr,E,....NFS"\w*
+\w ψυχὴ|lemma="ψυχή" x-koine="ψυχη" x-strong="G55900" x-morph="Gr,N,....NFS"\w*,
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,C,......."\w*
+\w τὸ|lemma="ὁ" x-koine="το" x-strong="G35880" x-morph="Gr,E,....NNS"\w*
+\w σῶμα|lemma="σῶμα" x-koine="σωμα" x-strong="G49830" x-morph="Gr,N,....NNS"\w*,
+\w ἀμέμπτως|lemma="ἀμέμπτως" x-koine="αμεμπτωσ" x-strong="G02740" x-morph="Gr,D,......."\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w τῇ|lemma="ὁ" x-koine="τη" x-strong="G35880" x-morph="Gr,E,....DFS"\w*
+\w παρουσίᾳ|lemma="παρουσία" x-koine="παρουσια" x-strong="G39520" x-morph="Gr,N,....DFS"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Κυρίου|lemma="κύριος" x-koine="=κυ" x-strong="G29620" x-morph="Gr,N,....GMS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+˚\w Ἰησοῦ|lemma="Ἰησοῦς" x-koine="=ιυ" x-strong="G24240" x-morph="Gr,N,....GMS"\w*
+˚\w Χριστοῦ|lemma="χριστός" x-koine="=χυ" x-strong="G55470" x-morph="Gr,N,....GMS"\w*,
+\w τηρηθείη|lemma="τηρέω" x-koine="τηρηθειη" x-strong="G50830" x-morph="Gr,V,OAP3..S"\w*.
+
+\v 24
+\w Πιστὸς|lemma="πιστός" x-koine="πιστοσ" x-strong="G41030" x-morph="Gr,S,....NMS"\w*
+\w ὁ|lemma="ὁ" x-koine="ο" x-strong="G35880" x-morph="Gr,R,....NMS"\w*
+\w καλῶν|lemma="καλέω" x-koine="καλων" x-strong="G25640" x-morph="Gr,V,PPA.NMS"\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*,
+\w ὃς|lemma="ὅς" x-koine="οσ" x-strong="G37390" x-morph="Gr,R,....NMS"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w ποιήσει|lemma="ποιέω" x-koine="ποιησει" x-strong="G41600" x-morph="Gr,V,IFA3..S"\w*.
+
+\p 
+\v 25
+\w Ἀδελφοί|lemma="ἀδελφός" x-koine="αδελφοι" x-strong="G00800" x-morph="Gr,N,....VMP"\w*,
+\w προσεύχεσθε|lemma="προσεύχομαι" x-koine="προσευχεσθε" x-strong="G43360" x-morph="Gr,V,MPM2..P"\w*
+\w καὶ|lemma="καί" x-koine="και" x-strong="G25320" x-morph="Gr,D,......."\w*
+\w περὶ|lemma="περί" x-koine="περι" x-strong="G40120" x-morph="Gr,P,......."\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*.
+
+\v 26
+\w Ἀσπάσασθε|lemma="ἀσπάζομαι" x-koine="ασπασασθε" x-strong="G07820" x-morph="Gr,V,MAM2..P"\w*
+\w τοὺς|lemma="ὁ" x-koine="τουσ" x-strong="G35880" x-morph="Gr,E,....AMP"\w*
+\w ἀδελφοὺς|lemma="ἀδελφός" x-koine="αδελφουσ" x-strong="G00800" x-morph="Gr,N,....AMP"\w*
+\w πάντας|lemma="πᾶς" x-koine="παντασ" x-strong="G39560" x-morph="Gr,E,....AMP"\w*
+\w ἐν|lemma="ἐν" x-koine="εν" x-strong="G17220" x-morph="Gr,P,......."\w*
+\w φιλήματι|lemma="φίλημα" x-koine="φιληματι" x-strong="G53700" x-morph="Gr,N,....DNS"\w*
+\w ἁγίῳ|lemma="ἅγιος" x-koine="αγιω" x-strong="G00400" x-morph="Gr,A,....DNS"\w*.
+
+\v 27
+\w Ἐνορκίζω|lemma="ἐνορκίζω" x-koine="ενορκιζω" x-strong="G17745" x-morph="Gr,V,IPA1..S"\w*
+\w ὑμᾶς|lemma="σύ" x-koine="υμασ" x-strong="G47710" x-morph="Gr,R,...2A.P"\w*
+\w τὸν|lemma="ὁ" x-koine="τον" x-strong="G35880" x-morph="Gr,E,....AMS"\w*
+˚\w Κύριον|lemma="κύριος" x-koine="=κν" x-strong="G29620" x-morph="Gr,N,....AMS"\w*,
+\w ἀναγνωσθῆναι|lemma="ἀναγινώσκω" x-koine="αναγνωσθηναι" x-strong="G03140" x-morph="Gr,V,NAP...."\w*
+\w τὴν|lemma="ὁ" x-koine="την" x-strong="G35880" x-morph="Gr,E,....AFS"\w*
+\w ἐπιστολὴν|lemma="ἐπιστολή" x-koine="επιστολην" x-strong="G19920" x-morph="Gr,N,....AFS"\w*
+\w πᾶσιν|lemma="πᾶς" x-koine="πασιν" x-strong="G39560" x-morph="Gr,E,....DMP"\w*
+\w τοῖς|lemma="ὁ" x-koine="τοισ" x-strong="G35880" x-morph="Gr,E,....DMP"\w*
+\w ἀδελφοῖς|lemma="ἀδελφός" x-koine="αδελφοισ" x-strong="G00800" x-morph="Gr,N,....DMP"\w*.
+
+\v 28
+\w Ἡ|lemma="ὁ" x-koine="η" x-strong="G35880" x-morph="Gr,E,....NFS"\w*
+\w χάρις|lemma="χάρις" x-koine="χαρισ" x-strong="G54850" x-morph="Gr,N,....NFS"\w*
+\w τοῦ|lemma="ὁ" x-koine="του" x-strong="G35880" x-morph="Gr,E,....GMS"\w*
+˚\w Κυρίου|lemma="κύριος" x-koine="=κυ" x-strong="G29620" x-morph="Gr,N,....GMS"\w*
+\w ἡμῶν|lemma="ἐγώ" x-koine="ημων" x-strong="G14730" x-morph="Gr,R,...1G.P"\w*,
+˚\w Ἰησοῦ|lemma="Ἰησοῦς" x-koine="=ιυ" x-strong="G24240" x-morph="Gr,N,....GMS"\w*
+˚\w Χριστοῦ|lemma="χριστός" x-koine="=χυ" x-strong="G55470" x-morph="Gr,N,....GMS"\w*,
+\w μεθʼ|lemma="μετά" x-koine="μεθ" x-strong="G33260" x-morph="Gr,P,......."\w*
+\w ὑμῶν|lemma="σύ" x-koine="υμων" x-strong="G47710" x-morph="Gr,R,...2G.P"\w*.
+\w Ἀμήν|lemma="ἀμήν" x-koine="αμην" x-strong="G02810" x-morph="Gr,I,......."\w*!

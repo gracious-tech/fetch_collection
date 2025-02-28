@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "آزادانہ اردو ہم عصر ترجمہ",
+        "local_abbrev": "",
+        "english": "Open Urdu Contemporary Version",
+        "english_abbrev": "OUCV"
+    },
+    "year": 2024,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=eecbca904435fce9"
+    },
+    "ids": {
+        "dbl": "eecbca904435fce9"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=eecbca904435fce9&type=release",
+        "updated": "2024-08-28",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

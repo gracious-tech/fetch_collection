@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Buk Baibel long Tok Pisin",
+        "local_abbrev": "",
+        "english": "Tok Pisin Bible with Deuterocanon",
+        "english_abbrev": "TPBD"
+    },
+    "year": 2008,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1969–2008 The Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tpi"
+    },
+    "ids": {
+        "ebible": "tpi"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tpi_usfm.zip",
+        "updated": "2024-04-18",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

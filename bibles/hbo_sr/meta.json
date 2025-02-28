@@ -1,0 +1,30 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Solid Rock Hebrew Old Testament",
+        "english_abbrev": "SR"
+    },
+    "year": 2022,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://github.com/jjmccollum/solid-rock-hb"
+            }
+        ],
+        "attribution": "Stephen L. Brown",
+        "attribution_url": "https://github.com/jjmccollum/solid-rock-hb"
+    },
+    "ids": {},
+    "source": {
+        "service": "manual",
+        "format": "usfm",
+        "url": "https://github.com/jjmccollum/solid-rock-hb/archive/refs/heads/master.zip",
+        "updated": "2024-12-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": ["recommended"]
+}

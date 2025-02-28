@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "GODE EA SIA: IDA:IWANE GALA",
+        "local_abbrev": "",
+        "english": "Bedamuni Bible",
+        "english_abbrev": "PIO"
+    },
+    "year": 2001,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2000 Tom Hoey",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=beo"
+    },
+    "ids": {
+        "ebible": "beo"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/beo_usfm.zip",
+        "updated": "2024-05-01",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

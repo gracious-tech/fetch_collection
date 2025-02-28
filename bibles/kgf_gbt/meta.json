@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "SISIPAC AC ɊELIA",
+        "local_abbrev": "",
+        "english": "Kube Bible",
+        "english_abbrev": "GBT"
+    },
+    "year": 2012,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2012 Global Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kgf"
+    },
+    "ids": {
+        "ebible": "kgf"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kgf_usfm.zip",
+        "updated": "2012-11-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Синодальный перевод",
+        "local_abbrev": "",
+        "english": "Russian Synodal Bible",
+        "english_abbrev": "SYN"
+    },
+    "year": 1876,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=russyn"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=russyn"
+    },
+    "ids": {
+        "ebible": "russyn"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/russyn_usfm.zip",
+        "updated": "2022-11-25",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Ndagano mp'ya kwa wanth'u wose",
+        "local_abbrev": "",
+        "english": "Nguu New Testament",
+        "english_abbrev": "NGBV"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=324f457845cb5d21"
+    },
+    "ids": {
+        "dbl": "324f457845cb5d21",
+        "ebible": "ngp"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=324f457845cb5d21&type=release",
+        "updated": "2014-04-24",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Bibbia Vulgata Clementina na (1598)",
+        "local_abbrev": "",
+        "english": "Clementine Vulgate (1598)",
+        "english_abbrev": "CLV"
+    },
+    "year": 1598,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=latVUC"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=latVUC"
+    },
+    "ids": {
+        "ebible": "latVUC"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/latVUC_usfm.zip",
+        "updated": "2014-08-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

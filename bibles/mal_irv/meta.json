@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "ഇന്ത്യൻ റിവൈസ്ഡ് വേർഷൻ - മലയാളം",
+        "local_abbrev": "",
+        "english": "Indian Revised Version - Malayalam",
+        "english_abbrev": "IRVMal"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Bridge Connectivity Solutions Pvt. Ltd.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=3ea0147e32eebe47"
+    },
+    "ids": {
+        "dbl": "3ea0147e32eebe47",
+        "ebible": "mal"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=3ea0147e32eebe47&type=release",
+        "updated": "2024-08-05",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

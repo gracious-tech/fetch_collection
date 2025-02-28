@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Aatasara Ioni + Maaki",
+        "local_abbrev": "",
+        "english": "South Tairora Aatasara John & Mark",
+        "english_abbrev": "AAT"
+    },
+    "year": 2012,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2012 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=omw-a"
+    },
+    "ids": {
+        "ebible": "omw-a"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/omw-a_usfm.zip",
+        "updated": "2012-02-27",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

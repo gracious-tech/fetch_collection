@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Jona long lanwis Apma",
+        "local_abbrev": "",
+        "english": "Jonah in Apma",
+        "english_abbrev": "AJ"
+    },
+    "year": 2019,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2019 Pioneer Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=app"
+    },
+    "ids": {
+        "ebible": "app"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/app_usfm.zip",
+        "updated": "2024-04-27",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

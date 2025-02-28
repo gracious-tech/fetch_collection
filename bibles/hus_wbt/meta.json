@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "An it jilchith cau cʼal i Ajatic Jesucristo",
+        "local_abbrev": "",
+        "english": "Huastec San Luis Potosi New Testament",
+        "english_abbrev": "HSLPN"
+    },
+    "year": 1971,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 1971 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=husNT1971"
+    },
+    "ids": {
+        "ebible": "husNT1971"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/husNT1971_usfm.zip",
+        "updated": "2014-04-25",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

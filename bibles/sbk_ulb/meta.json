@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Biblia Takatifu",
+        "local_abbrev": "",
+        "english": "Safwa New Testament",
+        "english_abbrev": "SNT"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 Door43 Worldwide Mission Community",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=sbk"
+    },
+    "ids": {
+        "ebible": "sbk"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/sbk_usfm.zip",
+        "updated": "2020-11-06",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

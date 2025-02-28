@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Pura Alkitab",
+        "local_abbrev": "",
+        "english": "Pura Bible",
+        "english_abbrev": "PB"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2016 Unit Bahasa dan Budaya",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=beu"
+    },
+    "ids": {
+        "ebible": "beu"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/beu_usfm.zip",
+        "updated": "2016-06-28",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

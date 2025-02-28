@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Tikinčiųjų paveldo vertimas",
+        "local_abbrev": "",
+        "english": "Lithuanian Believers' Heritage Translation",
+        "english_abbrev": "LBHT"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2022-2024 Believers' Bible Society, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=lit"
+    },
+    "ids": {
+        "ebible": "lit"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/lit_usfm.zip",
+        "updated": "2023-11-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

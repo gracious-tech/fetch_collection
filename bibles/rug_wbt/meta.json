@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Buka Hope",
+        "local_abbrev": "",
+        "english": "Roviana Bible",
+        "english_abbrev": "RB"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2016 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=rug"
+    },
+    "ids": {
+        "ebible": "rug"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/rug_usfm.zip",
+        "updated": "2017-11-06",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

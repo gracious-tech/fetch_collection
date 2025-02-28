@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "திறந்தநிலை தமிழ் சமகால பதிப்பு",
+        "local_abbrev": "",
+        "english": "Open Indian Tamil Contemporary Version",
+        "english_abbrev": "OTCV"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=032ec262506b719f"
+    },
+    "ids": {
+        "dbl": "032ec262506b719f",
+        "ebible": "tamtcv"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=032ec262506b719f&type=release",
+        "updated": "2024-04-26",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

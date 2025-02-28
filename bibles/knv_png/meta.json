@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "GODOKONO WADE TABO",
+        "local_abbrev": "",
+        "english": "Tabo Fly River New Testament",
+        "english_abbrev": "TFRNT"
+    },
+    "year": 2006,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2006, 2023 The Bible Society of Papua New Guinea and Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=knv-fly_river"
+    },
+    "ids": {
+        "ebible": "knv-fly_river"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/knv-fly_river_usfm.zip",
+        "updated": "2024-03-04",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

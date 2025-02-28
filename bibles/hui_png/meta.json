@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Habo nalolene bi gahenge lo winigo ogo",
+        "local_abbrev": "",
+        "english": "Huli Bible",
+        "english_abbrev": "HB"
+    },
+    "year": 2002,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1983, 1991, 2002 Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=hui"
+    },
+    "ids": {
+        "ebible": "hui"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/hui_usfm.zip",
+        "updated": "2014-12-11",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

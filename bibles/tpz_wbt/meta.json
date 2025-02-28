@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "SOE A TOꞌTOꞌ",
+        "local_abbrev": "",
+        "english": "Tinputz Vasui New Testament",
+        "english_abbrev": "TVNT"
+    },
+    "year": 2004,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2004 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tpz"
+    },
+    "ids": {
+        "ebible": "tpz"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tpz_usfm.zip",
+        "updated": "2013-01-08",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

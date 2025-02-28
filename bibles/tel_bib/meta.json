@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "ఉచిత తెలుగు సమకాలీన అనువాదం",
+        "local_abbrev": "",
+        "english": "Open Telugu Contemporary Version",
+        "english_abbrev": "OTSA"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=81d6933d39d343f8"
+    },
+    "ids": {
+        "dbl": "81d6933d39d343f8"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=81d6933d39d343f8&type=release",
+        "updated": "2024-08-22",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

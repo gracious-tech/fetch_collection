@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "God Da Geka Seka",
+        "local_abbrev": "",
+        "english": "Korafe Bible",
+        "english_abbrev": "KNTP"
+    },
+    "year": 1984,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1984, 2023 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kpr"
+    },
+    "ids": {
+        "ebible": "kpr"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kpr_usfm.zip",
+        "updated": "2023-09-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

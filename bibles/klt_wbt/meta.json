@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Miti yan Papia",
+        "local_abbrev": "",
+        "english": "Nukna Bible",
+        "english_abbrev": "NB"
+    },
+    "year": 2013,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2013, 2017, 2020 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=klt"
+    },
+    "ids": {
+        "ebible": "klt"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/klt_usfm.zip",
+        "updated": "2017-11-24",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Xtidxcoob Dios ni biädnä dad Jesucrist",
+        "local_abbrev": "",
+        "english": "Mitla Zapotec New Testament",
+        "english_abbrev": "MVR"
+    },
+    "year": 2006,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2006 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=zawNT"
+    },
+    "ids": {
+        "ebible": "zawNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/zawNT_usfm.zip",
+        "updated": "2014-04-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

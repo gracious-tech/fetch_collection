@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Xoiteupo Kuna",
+        "local_abbrev": "XK",
+        "english": "Sumau Garia Bible",
+        "english_abbrev": "SOMGAR"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=518c389e78cd3c2f"
+    },
+    "ids": {
+        "dbl": "518c389e78cd3c2f"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=518c389e78cd3c2f&type=release",
+        "updated": "2024-08-30",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Sanskrit Bible in ITRANS Script",
+        "english_abbrev": "SBITR"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "SanskritBible.in",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=6bc5ae3d6dd9009a"
+    },
+    "ids": {
+        "dbl": "6bc5ae3d6dd9009a",
+        "ebible": "sanitr"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=6bc5ae3d6dd9009a&type=release",
+        "updated": "2018-09-26",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

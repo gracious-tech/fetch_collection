@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Ñʼoom xco na tqueⁿ tyʼo̱o̱tsʼom cantxja ʼnaaʼ Jesucristo",
+        "local_abbrev": "",
+        "english": "New Testament in Amuzgo, Guerrero",
+        "english_abbrev": "NTAG"
+    },
+    "year": 1999,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 1999 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=amuNT"
+    },
+    "ids": {
+        "ebible": "amuNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/amuNT_usfm.zip",
+        "updated": "2024-02-11",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

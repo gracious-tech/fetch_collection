@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Monoq Gotola Gosohaq",
+        "local_abbrev": "",
+        "english": "Alekano Bible",
+        "english_abbrev": "AB"
+    },
+    "year": 1986,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1973, 1986 Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=gah"
+    },
+    "ids": {
+        "ebible": "gah"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/gah_usfm.zip",
+        "updated": "2015-01-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

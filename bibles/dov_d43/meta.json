@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Dombe New Testament",
+        "english_abbrev": "DNT"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 Door43 World Missions Community",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=dov"
+    },
+    "ids": {
+        "ebible": "dov"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/dov_usfm.zip",
+        "updated": "2020-07-06",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

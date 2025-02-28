@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "AKUS RO NA PALATUNG TANGINANG ANI IESU KARISTO",
+        "local_abbrev": "",
+        "english": "Tungag Bible",
+        "english_abbrev": "TB"
+    },
+    "year": 2011,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1998, 2011 The Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=lcm"
+    },
+    "ids": {
+        "ebible": "lcm"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/lcm_usfm.zip",
+        "updated": "2013-08-19",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "TUWA YESU KRISTORA BOWI IWAING",
+        "local_abbrev": "",
+        "english": "Zia New Testament",
+        "english_abbrev": "ZNT"
+    },
+    "year": 1982,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1982 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=zia"
+    },
+    "ids": {
+        "ebible": "zia"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/zia_usfm.zip",
+        "updated": "2022-06-21",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

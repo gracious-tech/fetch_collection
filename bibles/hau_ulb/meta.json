@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Litafi Mai-tsarki",
+        "local_abbrev": "",
+        "english": "Hausa New Testament",
+        "english_abbrev": "HNT"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 Door43 World Missions Community",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=hauulb"
+    },
+    "ids": {
+        "ebible": "hauulb"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/hauulb_usfm.zip",
+        "updated": "2020-06-19",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

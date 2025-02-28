@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "La Sainte Bible (1744)",
+        "local_abbrev": "",
+        "english": "French Ostervald Bible (1744)",
+        "english_abbrev": "OST"
+    },
+    "year": 1744,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=fra_fob"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=fra_fob"
+    },
+    "ids": {
+        "ebible": "fra_fob"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/fra_fob_usfm.zip",
+        "updated": "2024-11-13",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

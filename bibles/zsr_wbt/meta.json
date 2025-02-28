@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Didzaʼ cub rucáʼn tsahuiʼ",
+        "local_abbrev": "",
+        "english": "Southern Rincon Zapotec New Testament",
+        "english_abbrev": "SRZNT"
+    },
+    "year": 1992,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 1992 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=zsrNT"
+    },
+    "ids": {
+        "ebible": "zsrNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/zsrNT_usfm.zip",
+        "updated": "2014-04-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

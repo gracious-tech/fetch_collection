@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Ilagano lya Katali, Ilagano Linyale kwa Wanhu Weng’ha",
+        "local_abbrev": "Chividunda",
+        "english": "Vidunda Bible Version",
+        "english_abbrev": "UNDA"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=c2d40ebca6db1ec5"
+    },
+    "ids": {
+        "dbl": "c2d40ebca6db1ec5",
+        "ebible": "vid"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=c2d40ebca6db1ec5&type=release",
+        "updated": "2023-08-14",
+        "revision": 5
+    },
+    "literalness": null,
+    "tags": []
+}

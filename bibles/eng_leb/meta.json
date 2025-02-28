@@ -1,0 +1,36 @@
+{
+    "name": {
+        "local": "Lexham English Bible",
+        "local_abbrev": "LEB",
+        "english": "Lexham English Bible",
+        "english_abbrev": "LEB"
+    },
+    "year": 2012,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": {
+                    "forbid_limitless": false,
+                    "forbid_commercial": true,
+                    "forbid_derivatives": true,
+                    "forbid_attributionless": true,
+                    "forbid_other": false
+                },
+                "url": "https://lexhampress.com/LEB-License"
+            }
+        ],
+        "attribution": "Logos Bible Software",
+        "attribution_url": "https://lexhampress.com/LEB-License"
+    },
+    "ids": {},
+    "source": {
+        "service": "manual",
+        "format": "usfm",
+        "url": "https://github.com/BibleCorps/ENG-B-LEB2012-cc-USFM/archive/refs/heads/master.zip",
+        "updated": "2024-12-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

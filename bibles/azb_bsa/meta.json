@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Azərbaycan dilində Müqəddəs Kitab",
+        "local_abbrev": "",
+        "english": "Azerbaijani Bible",
+        "english_abbrev": "AB"
+    },
+    "year": 2008,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2008 Müqəddəs Kitab Sirkəti",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=azb"
+    },
+    "ids": {
+        "ebible": "azb"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/azb_usfm.zip",
+        "updated": "2018-11-09",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

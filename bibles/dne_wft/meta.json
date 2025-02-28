@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Ndendeule",
+        "local_abbrev": "",
+        "english": "The New Testament in Ndendeule",
+        "english_abbrev": "NTNDEBL"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=ee7bb119a707e1b0"
+    },
+    "ids": {
+        "dbl": "ee7bb119a707e1b0"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=ee7bb119a707e1b0&type=release",
+        "updated": "2024-07-25",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

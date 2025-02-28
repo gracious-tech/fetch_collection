@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Mussau-Emira Bible",
+        "local_abbrev": "",
+        "english": "Mussau-Emira Bible",
+        "english_abbrev": "MEB"
+    },
+    "year": 2013,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2006, 2008, 2013, 2016, 2018 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=emi"
+    },
+    "ids": {
+        "ebible": "emi"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/emi_usfm.zip",
+        "updated": "2018-11-09",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

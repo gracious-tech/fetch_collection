@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Open Slovo na cestu",
+        "local_abbrev": "OSNC",
+        "english": "Open Czech Living New Testament",
+        "english_abbrev": ""
+    },
+    "year": 2012,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=c0209b58481727a2"
+    },
+    "ids": {
+        "dbl": "c0209b58481727a2",
+        "ebible": "ceslb"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=c0209b58481727a2&type=release",
+        "updated": "2024-04-29",
+        "revision": 6
+    },
+    "literalness": null,
+    "tags": []
+}

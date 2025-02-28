@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Ca titsaʼ de laʼlabani para iyate ca enneʼ",
+        "local_abbrev": "",
+        "english": "Sierra de Juarez Zapotec New Testament",
+        "english_abbrev": "SJZNT"
+    },
+    "year": 1970,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 1970 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=zaaNT"
+    },
+    "ids": {
+        "ebible": "zaaNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/zaaNT_usfm.zip",
+        "updated": "2014-04-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Version Pular Fuuta-Jallon",
+        "local_abbrev": "VPFJ",
+        "english": "Pular Fuuta-Jallon New Testament",
+        "english_abbrev": "PFJV"
+    },
+    "year": 2010,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=9b076bc0f1856204"
+    },
+    "ids": {
+        "dbl": "9b076bc0f1856204",
+        "ebible": "fuf"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=9b076bc0f1856204&type=release",
+        "updated": "2017-11-14",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Nǝkukuǝ Ikinan",
+        "local_abbrev": "",
+        "english": "Nafe New Testament",
+        "english_abbrev": "NNT"
+    },
+    "year": 2013,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2013 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tnk"
+    },
+    "ids": {
+        "ebible": "tnk"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tnk_usfm.zip",
+        "updated": "2019-06-18",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

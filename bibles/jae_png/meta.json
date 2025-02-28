@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "BIBOLO DABUŊ",
+        "local_abbrev": "",
+        "english": "Yabem Bible",
+        "english_abbrev": "YB"
+    },
+    "year": 1980,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1980 Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=jae"
+    },
+    "ids": {
+        "ebible": "jae"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/jae_usfm.zip",
+        "updated": "2015-01-03",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

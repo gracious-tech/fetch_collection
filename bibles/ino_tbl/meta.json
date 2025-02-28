@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Anumaya Koti'a Saufa Lami'nea Ke",
+        "local_abbrev": "",
+        "english": "Inoke-Yate New Testament",
+        "english_abbrev": "IYNT"
+    },
+    "year": 1992,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1992 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ino"
+    },
+    "ids": {
+        "ebible": "ino"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ino_usfm.zip",
+        "updated": "2012-01-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

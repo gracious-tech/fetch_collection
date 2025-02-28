@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Ala wene Nggem enane vaga dirup warek",
+        "local_abbrev": "",
+        "english": "Nggem New Testament",
+        "english_abbrev": "NNT"
+    },
+    "year": 2013,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2003, 2004, 2007, 2008, 2013 Tim Penterjemah Bahasa Nggem (The Nggem Translation Team)",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=nbq"
+    },
+    "ids": {
+        "ebible": "nbq"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/nbq_usfm.zip",
+        "updated": "2022-03-11",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Toto Thovuye Loi Ghalɨŋae",
+        "local_abbrev": "",
+        "english": "Sudest Bible Portions",
+        "english_abbrev": "SBP"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2014 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tgo"
+    },
+    "ids": {
+        "ebible": "tgo"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tgo_usfm.zip",
+        "updated": "2016-09-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

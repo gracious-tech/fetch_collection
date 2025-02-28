@@ -1,0 +1,34 @@
+{
+    "name": {
+        "local": "God Nuye Kunwok",
+        "local_abbrev": "",
+        "english": "Kunwinjku Bible",
+        "english_abbrev": "KB"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2018 Bible Society of Australia",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=gup"
+    },
+    "ids": {
+        "ebible": "gup"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/gup_usfm.zip",
+        "updated": "2023-10-09",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": [],
+    "modified": true,
+    "notes": "Two \\fe elements changed to \\f to match their end tags (9:6-7)"
+}

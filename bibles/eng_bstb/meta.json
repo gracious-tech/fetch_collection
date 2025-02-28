@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Brenton Septuagint Translation (Updated by Boyd)",
+        "local_abbrev": "BSTB",
+        "english": "Brenton Septuagint Translation (Updated by Boyd)",
+        "english_abbrev": "BSTB"
+    },
+    "year": 1851,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=englxxup"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=englxxup"
+    },
+    "ids": {
+        "ebible": "englxxup"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/englxxup_usfm.zip",
+        "updated": "2020-07-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

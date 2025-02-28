@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Y CUATRO EBANGELIO SIJA YAN Y CHECHO Y APOSTOLES  YAN Y SALMO SIJA",
+        "local_abbrev": "",
+        "english": "Chamorro Gospels, Acts, and Psalms",
+        "english_abbrev": "PGA"
+    },
+    "year": 1908,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=cha"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=cha"
+    },
+    "ids": {
+        "ebible": "cha"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/cha_usfm.zip",
+        "updated": "2015-01-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

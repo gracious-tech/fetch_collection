@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Jisas Klays Takaw Teplep Ne",
+        "local_abbrev": "",
+        "english": "Tay New Testament",
+        "english_abbrev": "TAYNT"
+    },
+    "year": 2013,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=8e3b1a957009c6ca"
+    },
+    "ids": {
+        "dbl": "8e3b1a957009c6ca",
+        "ebible": "taw"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=8e3b1a957009c6ca&type=release",
+        "updated": "2022-06-01",
+        "revision": 5
+    },
+    "literalness": null,
+    "tags": []
+}

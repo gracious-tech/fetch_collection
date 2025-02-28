@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "TESTAMENTA MARRA",
+        "local_abbrev": "",
+        "english": "Dieri New Testament",
+        "english_abbrev": "LUT"
+    },
+    "year": 1897,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=dif"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=dif"
+    },
+    "ids": {
+        "ebible": "dif"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/dif_usfm.zip",
+        "updated": "2023-07-26",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

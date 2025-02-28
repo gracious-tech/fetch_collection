@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Revised Version (1895)",
+        "local_abbrev": "RV",
+        "english": "Revised Version (1895)",
+        "english_abbrev": "RV"
+    },
+    "year": 1895,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=eng-rv"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=eng-rv"
+    },
+    "ids": {
+        "ebible": "eng-rv"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/eng-rv_usfm.zip",
+        "updated": "2024-11-07",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Murrinhpatha Bible",
+        "local_abbrev": "",
+        "english": "Murrinhpatha New Testament",
+        "english_abbrev": "2018"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2018 Bible Society Australia",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=mwf2018"
+    },
+    "ids": {
+        "ebible": "mwf2018"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/mwf2018_usfm.zip",
+        "updated": "2024-08-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Sainte Bible néo-Crampon Libre",
+        "local_abbrev": "NCL",
+        "english": "Free Modernized Catholic Crampon Bible",
+        "english_abbrev": ""
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2022 Fraternité de Tibériade",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=francl"
+    },
+    "ids": {
+        "ebible": "francl"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/francl_usfm.zip",
+        "updated": "2024-11-09",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

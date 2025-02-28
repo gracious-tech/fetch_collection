@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Święta Biblia",
+        "local_abbrev": "",
+        "english": "Polish Updated Gdansk Bible",
+        "english_abbrev": "PUGB"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2018 Fundacja Wrota Nadziei",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=polubg"
+    },
+    "ids": {
+        "ebible": "polubg"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/polubg_usfm.zip",
+        "updated": "2018-10-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

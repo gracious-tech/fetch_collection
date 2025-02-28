@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Біблія в пер. П.Куліша та І.Пулюя",
+        "local_abbrev": "",
+        "english": "Ukrainian Bible (P. Kulish)",
+        "english_abbrev": "UBPK"
+    },
+    "year": 1905,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=ukr1871"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ukr1871"
+    },
+    "ids": {
+        "ebible": "ukr1871"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ukr1871_usfm.zip",
+        "updated": "2024-12-16",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

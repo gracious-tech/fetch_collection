@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Nuevo Testamento Guaraní Pe",
+        "local_abbrev": "",
+        "english": "Eastern Bolivian Guarani New Testament",
+        "english_abbrev": "EBGNT"
+    },
+    "year": 2012,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2012 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=guiNT"
+    },
+    "ids": {
+        "ebible": "guiNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/guiNT_usfm.zip",
+        "updated": "2014-04-25",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

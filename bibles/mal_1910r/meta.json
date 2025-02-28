@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "മലയാളം സത്യവേദപുസ്തകം - പരിഷ്കരിച്ച പതിപ്പ്, സമകാലിക ലിപിയിൽ",
+        "local_abbrev": "",
+        "english": "Malayalam Bible - Revised and in Contemporary Orthography",
+        "english_abbrev": "1910r"
+    },
+    "year": 1910,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ],
+        "attribution": "The Free Bible Foundation",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=805e795e07fb9422"
+    },
+    "ids": {
+        "dbl": "805e795e07fb9422",
+        "ebible": "mal2015"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=805e795e07fb9422&type=release",
+        "updated": "2024-02-08",
+        "revision": 7
+    },
+    "literalness": null,
+    "tags": []
+}

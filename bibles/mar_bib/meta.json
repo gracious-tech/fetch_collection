@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "मराठी समकालीन स्वतंत्र संस्करण",
+        "local_abbrev": "",
+        "english": "Open Marathi Contemporary Version",
+        "english_abbrev": "OMCV"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=1c825c8591183bb0"
+    },
+    "ids": {
+        "dbl": "1c825c8591183bb0"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=1c825c8591183bb0&type=release",
+        "updated": "2024-08-22",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

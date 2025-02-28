@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "ܕܝܬܩܐ ܚܕܬܐ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܘܡܙܡܘܪ̈ܐ ܒܠܫܢܐ ܐܬܘܪܝܐ",
+        "local_abbrev": "",
+        "english": "Assyrian Neo-Aramaic Bible",
+        "english_abbrev": "ABT"
+    },
+    "year": 2014,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2014 Aramaic Bible Translation, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=aii"
+    },
+    "ids": {
+        "ebible": "aii"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/aii_usfm.zip",
+        "updated": "2014-08-06",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

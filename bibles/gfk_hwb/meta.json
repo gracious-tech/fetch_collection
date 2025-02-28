@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "No Tahut na Hinhinawas",
+        "local_abbrev": "",
+        "english": "Hinsaal New Testament",
+        "english_abbrev": "HWB"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2016 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=gfkh"
+    },
+    "ids": {
+        "ebible": "gfkh"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/gfkh_usfm.zip",
+        "updated": "2022-03-03",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "KILE JWUMPE SEMƐŊI JWUMPE NINTANMPE",
+        "local_abbrev": "",
+        "english": "Supyire Senoufo New Testament",
+        "english_abbrev": "SSNT"
+    },
+    "year": 2008,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2008 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=spp"
+    },
+    "ids": {
+        "ebible": "spp"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/spp_usfm.zip",
+        "updated": "2015-03-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

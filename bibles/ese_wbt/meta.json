@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Eyacuiñajjija Esohui",
+        "local_abbrev": "",
+        "english": "Ese Ejja New Testament",
+        "english_abbrev": "EENT"
+    },
+    "year": 2012,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2012 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=eseNT"
+    },
+    "ids": {
+        "ebible": "eseNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/eseNT_usfm.zip",
+        "updated": "2014-04-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

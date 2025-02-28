@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Angkentye Mwerre",
+        "local_abbrev": "",
+        "english": "Eastern Arrente Bible",
+        "english_abbrev": "EAB"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2002-2014 Wycliffe Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=aer"
+    },
+    "ids": {
+        "ebible": "aer"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/aer_usfm.zip",
+        "updated": "2019-05-14",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

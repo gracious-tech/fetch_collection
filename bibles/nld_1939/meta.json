@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "De Heilige Schrift, Petrus Canisiusvertaling",
+        "local_abbrev": "",
+        "english": "Petrus Canisius Bible",
+        "english_abbrev": "PCB"
+    },
+    "year": 1939,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=nld1939"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=nld1939"
+    },
+    "ids": {
+        "ebible": "nld1939"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/nld1939_usfm.zip",
+        "updated": "2024-08-06",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

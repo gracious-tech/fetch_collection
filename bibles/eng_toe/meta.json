@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Translation of Targum Onkelos (Etheridge)",
+        "local_abbrev": "TOE",
+        "english": "Translation of Targum Onkelos (Etheridge)",
+        "english_abbrev": "TOE"
+    },
+    "year": 1865,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=engoke"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engoke"
+    },
+    "ids": {
+        "ebible": "engoke"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engoke_usfm.zip",
+        "updated": "2020-12-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

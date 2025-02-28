@@ -1,0 +1,36 @@
+{
+    "name": {
+        "local": "طبعة جديدة من العهد الجديد باللغة القبطية الصعيدية",
+        "local_abbrev": "",
+        "english": "Coptic Sahidic New Testament",
+        "english_abbrev": "SHC"
+    },
+    "year": 2006,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [{
+            "license": {
+                "forbid_attributionless": true,
+                "forbid_derivatives": true,
+                "forbid_commercial": true,
+                "forbid_limitless": false,
+                "forbid_other": false
+            },
+            "url": "https://ebible.org/Scriptures/details.php?id=copshc"
+        }],
+        "attribution": "Copyright © 2000-2006 J Warren Wells",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=copshc"
+    },
+    "ids": {
+        "ebible": "copshc"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/copshc_usfm.zip",
+        "updated": "2014-09-16",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

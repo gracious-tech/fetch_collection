@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "El Nuevo Testamento en mixe de Coatlán",
+        "local_abbrev": "",
+        "english": "Coatlan Mixe New Testament",
+        "english_abbrev": "CMNT"
+    },
+    "year": 1976,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 1976 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=mcoNT"
+    },
+    "ids": {
+        "ebible": "mcoNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/mcoNT_usfm.zip",
+        "updated": "2018-11-16",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

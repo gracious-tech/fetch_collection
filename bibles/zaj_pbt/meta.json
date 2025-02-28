@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Bibilia ya Kizalamo",
+        "local_abbrev": "Kizalamo",
+        "english": "Zaramo Bible Translation",
+        "english_abbrev": "ZBT"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=828bd246c8dfd883"
+    },
+    "ids": {
+        "dbl": "828bd246c8dfd883",
+        "ebible": "zaj"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=828bd246c8dfd883&type=release",
+        "updated": "2023-05-23",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

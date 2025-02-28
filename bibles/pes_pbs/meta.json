@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "ترجمه قدیم",
+        "local_abbrev": "",
+        "english": "Old Persion Bible",
+        "english_abbrev": "OPB"
+    },
+    "year": 1895,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=pesOPV"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=pesOPV"
+    },
+    "ids": {
+        "ebible": "pesOPV"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/pesOPV_usfm.zip",
+        "updated": "2015-04-21",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Djinang Bible",
+        "local_abbrev": "",
+        "english": "Djinang Bible Portions",
+        "english_abbrev": "DBP"
+    },
+    "year": 1985,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1977-2021 Wycliffe Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=dji"
+    },
+    "ids": {
+        "ebible": "dji"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/dji_usfm.zip",
+        "updated": "2023-07-26",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

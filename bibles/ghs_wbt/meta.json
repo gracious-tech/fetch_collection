@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "PORO TONGO USAQE",
+        "local_abbrev": "",
+        "english": "Guhu-Samane New Testament",
+        "english_abbrev": "GSNT"
+    },
+    "year": 1975,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1975 Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ghs"
+    },
+    "ids": {
+        "ebible": "ghs"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ghs_usfm.zip",
+        "updated": "2015-01-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

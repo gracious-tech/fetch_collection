@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "ইন্ডিয়ান রিভাইজড ভার্সন - বেঙ্গলী",
+        "local_abbrev": "",
+        "english": "Indian Revised Version - Bengali",
+        "english_abbrev": "IRVBen"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Bridge Connectivity Solutions Pvt. Ltd.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=4c3eda00cd317568"
+    },
+    "ids": {
+        "dbl": "4c3eda00cd317568",
+        "ebible": "benirv"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=4c3eda00cd317568&type=release",
+        "updated": "2022-04-13",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

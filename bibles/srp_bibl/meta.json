@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Novi srpski prevod, slobodna prava",
+        "local_abbrev": "NSP",
+        "english": "Open New Serbian Translation (Latin)",
+        "english_abbrev": "ONST"
+    },
+    "year": 2017,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=c1096b0470327a28"
+    },
+    "ids": {
+        "dbl": "c1096b0470327a28"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=c1096b0470327a28&type=release",
+        "updated": "2024-08-09",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

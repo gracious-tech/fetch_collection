@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Luqa Full Bible",
+        "english_abbrev": "LFB"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=d0fde80f8f7296ce"
+    },
+    "ids": {
+        "dbl": "d0fde80f8f7296ce"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=d0fde80f8f7296ce&type=release",
+        "updated": "2024-10-01",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

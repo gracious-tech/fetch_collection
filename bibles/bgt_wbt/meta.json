@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Na Rorongo Ke Toke Eigna a Jisas Krais",
+        "local_abbrev": "",
+        "english": "Bughotu New Testament",
+        "english_abbrev": "BNT"
+    },
+    "year": 2009,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2009 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=bgt"
+    },
+    "ids": {
+        "ebible": "bgt"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/bgt_usfm.zip",
+        "updated": "2017-11-13",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

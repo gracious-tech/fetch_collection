@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Holi Baibul",
+        "local_abbrev": "",
+        "english": "Kriol Bible",
+        "english_abbrev": "KB"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1990, 2005, 2006, 2015, 2018 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=rop"
+    },
+    "ids": {
+        "ebible": "rop"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/rop_usfm.zip",
+        "updated": "2023-06-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

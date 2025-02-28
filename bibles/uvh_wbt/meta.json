@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "ANUTUNING MIDI TOTANGAKA INGA'NI",
+        "local_abbrev": "",
+        "english": "Urii New Testament",
+        "english_abbrev": "UNT"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2016 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=uvh"
+    },
+    "ids": {
+        "ebible": "uvh"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/uvh_usfm.zip",
+        "updated": "2022-02-07",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

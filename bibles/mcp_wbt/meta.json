@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Kálaad Zɛmbî : Sɔ ̧ á Gúgwáan",
+        "local_abbrev": "",
+        "english": "Makaa New Testament",
+        "english_abbrev": "MNT"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2014 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=mcp"
+    },
+    "ids": {
+        "ebible": "mcp"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/mcp_usfm.zip",
+        "updated": "2018-11-16",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

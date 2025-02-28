@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Karaasa Yeena Rau Kioo Kuaivovee",
+        "local_abbrev": "",
+        "english": "Waffa New Testament",
+        "english_abbrev": "WNT"
+    },
+    "year": 1975,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1975 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=waj"
+    },
+    "ids": {
+        "ebible": "waj"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/waj_usfm.zip",
+        "updated": "2012-10-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

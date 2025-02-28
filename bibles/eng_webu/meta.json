@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "World English Bible (Updated)",
+        "local_abbrev": "WEBU",
+        "english": "World English Bible (Updated)",
+        "english_abbrev": "WEBU"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=engwebu"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engwebu"
+    },
+    "ids": {
+        "ebible": "engwebu"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engwebu_usfm.zip",
+        "updated": "2024-11-13",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

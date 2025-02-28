@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Bíblia Portuguesa Mundial",
+        "local_abbrev": "BPM",
+        "english": "World Portuguese Bible",
+        "english_abbrev": ""
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=porbrbsl"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=porbrbsl"
+    },
+    "ids": {
+        "ebible": "porbrbsl"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/porbrbsl_usfm.zip",
+        "updated": "2024-05-15",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

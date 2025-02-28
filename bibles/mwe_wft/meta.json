@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Malagano ga Ambi",
+        "local_abbrev": "",
+        "english": "Mwera Bible Version",
+        "english_abbrev": "MBV"
+    },
+    "year": 2021,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=ed5744967fe39c8c"
+    },
+    "ids": {
+        "dbl": "ed5744967fe39c8c",
+        "ebible": "mwe"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=ed5744967fe39c8c&type=release",
+        "updated": "2021-07-19",
+        "revision": 6
+    },
+    "literalness": null,
+    "tags": []
+}

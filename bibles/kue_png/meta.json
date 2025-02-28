@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "YESUS KAMO WAKAI",
+        "local_abbrev": "",
+        "english": "Kuman New Testament",
+        "english_abbrev": "KNT"
+    },
+    "year": 2008,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2008 The Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kue"
+    },
+    "ids": {
+        "ebible": "kue"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kue_usfm.zip",
+        "updated": "2015-01-26",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

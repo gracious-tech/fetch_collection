@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "BIBLIYA NTAGATIFU OMU MASHI",
+        "local_abbrev": "MKB",
+        "english": "BUKAVU Mashi Bible",
+        "english_abbrev": ""
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ],
+        "attribution": "BUKAVU Mashi and other Kivu Languages Bible",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=a7dcdbdeda5e289e"
+    },
+    "ids": {
+        "dbl": "a7dcdbdeda5e289e"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=a7dcdbdeda5e289e&type=release",
+        "updated": "2024-03-18",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

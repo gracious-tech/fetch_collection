@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Ya habi ni apo namalyari: Bayon tsipan - Ayta Mag-antsi",
+        "local_abbrev": "",
+        "english": "Mag-antsi Ayta New Testament",
+        "english_abbrev": "MANT"
+    },
+    "year": 2006,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2006 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=sgb"
+    },
+    "ids": {
+        "ebible": "sgb"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/sgb_usfm.zip",
+        "updated": "2015-03-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

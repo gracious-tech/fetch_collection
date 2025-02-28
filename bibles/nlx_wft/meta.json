@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "खेरलो वचन",
+        "local_abbrev": "",
+        "english": "Nahali New Testament",
+        "english_abbrev": "NTNII"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=604771cc77d9136d"
+    },
+    "ids": {
+        "dbl": "604771cc77d9136d",
+        "ebible": "nlx"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=604771cc77d9136d&type=release",
+        "updated": "2020-10-27",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

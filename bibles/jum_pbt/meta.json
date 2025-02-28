@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Meeŋka Jooŋ",
+        "local_abbrev": "",
+        "english": "Jumjum Bible Translation",
+        "english_abbrev": "JBT"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=18db7a26b5a73c74"
+    },
+    "ids": {
+        "dbl": "18db7a26b5a73c74"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=18db7a26b5a73c74&type=release",
+        "updated": "2024-10-28",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

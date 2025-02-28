@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Alkawal Kesal",
+        "local_abbrev": "",
+        "english": "Fulfulde Borgu New Testament",
+        "english_abbrev": "FBNT"
+    },
+    "year": 2011,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2011 SIM International",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=fue"
+    },
+    "ids": {
+        "ebible": "fue"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/fue_usfm.zip",
+        "updated": "2014-10-16",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "TUR GEWASIN O BAIBASIT BOUBUN",
+        "local_abbrev": "",
+        "english": "Minaifia New Testament",
+        "english_abbrev": "MNT"
+    },
+    "year": 2009,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2009 anonymous",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=aai"
+    },
+    "ids": {
+        "ebible": "aai"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/aai_usfm.zip",
+        "updated": "2022-04-14",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

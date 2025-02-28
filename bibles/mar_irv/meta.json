@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "इंडियन रीवाइज्ड वर्जन - मराठी",
+        "local_abbrev": "",
+        "english": "Indian Revised Version - Marathi",
+        "english_abbrev": "IRVMar"
+    },
+    "year": 2018,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Bridge Connectivity Solutions Pvt. Ltd.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=8c49129a458d4059"
+    },
+    "ids": {
+        "dbl": "8c49129a458d4059",
+        "ebible": "mar"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=8c49129a458d4059&type=release",
+        "updated": "2022-04-13",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

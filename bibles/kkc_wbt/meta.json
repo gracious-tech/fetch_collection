@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Godeeyo To Tekepo",
+        "local_abbrev": "",
+        "english": "Odoodee partial New Testament",
+        "english_abbrev": "ONT"
+    },
+    "year": 2006,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2006, 2015, 2017 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kkc"
+    },
+    "ids": {
+        "ebible": "kkc"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kkc_usfm.zip",
+        "updated": "2023-04-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

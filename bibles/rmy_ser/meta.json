@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Библия пы сэрвицко ромско чиб",
+        "local_abbrev": "",
+        "english": "Servi Romani Bible portions",
+        "english_abbrev": "SRB"
+    },
+    "year": 2021,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2021 Pioneer Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=rmyservi"
+    },
+    "ids": {
+        "ebible": "rmyservi"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/rmyservi_usfm.zip",
+        "updated": "2023-04-15",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Yai Wɨn Kɨbiya",
+        "local_abbrev": "",
+        "english": "Sepik Iwam New Testament",
+        "english_abbrev": "SINT"
+    },
+    "year": 1989,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1989 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=iws"
+    },
+    "ids": {
+        "ebible": "iws"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/iws_usfm.zip",
+        "updated": "2012-10-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

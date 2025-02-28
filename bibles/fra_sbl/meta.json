@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Sainte Bible libre pour le monde",
+        "local_abbrev": "SBL",
+        "english": "Free Holy Bible for the World",
+        "english_abbrev": ""
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=frasbl"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=frasbl"
+    },
+    "ids": {
+        "ebible": "frasbl"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/frasbl_usfm.zip",
+        "updated": "2024-11-13",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

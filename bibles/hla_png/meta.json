@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "U BULUNGANA U NIGA",
+        "local_abbrev": "",
+        "english": "Halia New Testament",
+        "english_abbrev": "HNT"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=hla"
+    },
+    "ids": {
+        "ebible": "hla"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/hla_usfm.zip",
+        "updated": "2022-06-08",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

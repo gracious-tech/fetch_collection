@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Gotna Kundi",
+        "local_abbrev": "",
+        "english": "Ambulas Wosera New Testament",
+        "english_abbrev": "WOS"
+    },
+    "year": 1996,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1996 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=abt-wosera"
+    },
+    "ids": {
+        "ebible": "abt-wosera"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/abt-wosera_usfm.zip",
+        "updated": "2013-01-07",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

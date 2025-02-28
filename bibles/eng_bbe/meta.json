@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Bible in Basic English (1964)",
+        "local_abbrev": "BBE",
+        "english": "Bible in Basic English (1964)",
+        "english_abbrev": "BBE"
+    },
+    "year": 1964,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=engBBE"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engBBE"
+    },
+    "ids": {
+        "ebible": "engBBE"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engBBE_usfm.zip",
+        "updated": "2020-04-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": ["archaic"]
+}

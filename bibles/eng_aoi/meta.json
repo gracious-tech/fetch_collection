@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Anindilyakwa English Bible",
+        "local_abbrev": "AEB",
+        "english": "Anindilyakwa English Bible",
+        "english_abbrev": "AEB"
+    },
+    "year": 2021,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2021 Bible Society Australia",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engaoi"
+    },
+    "ids": {
+        "ebible": "engaoi"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engaoi_usfm.zip",
+        "updated": "2021-11-23",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": ["niche"]
+}

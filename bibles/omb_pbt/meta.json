@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Waratau Siaga Tatuei mo Vilegi",
+        "local_abbrev": "WSTmV",
+        "english": "East Ambae Old Testament",
+        "english_abbrev": "EAOT"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=1f0fb3b67c603710"
+    },
+    "ids": {
+        "dbl": "1f0fb3b67c603710",
+        "ebible": "omb"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=1f0fb3b67c603710&type=release",
+        "updated": "2022-06-10",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

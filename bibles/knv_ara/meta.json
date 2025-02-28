@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "GODOKONO HIDO TABO",
+        "local_abbrev": "",
+        "english": "Tabo Aramia New Testament",
+        "english_abbrev": "ARA"
+    },
+    "year": 2006,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2006, 2023 The Bible Society of Papua New Guinea and Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=knv-aramia"
+    },
+    "ids": {
+        "ebible": "knv-aramia"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/knv-aramia_usfm.zip",
+        "updated": "2024-03-05",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

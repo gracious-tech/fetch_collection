@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Vanuvei Eo e sepinien Vatlongos na mol-Vatimol xil niutestamen e rute te oltestamen",
+        "local_abbrev": "",
+        "english": "Southeast Ambrym Bible portions",
+        "english_abbrev": "SAB"
+    },
+    "year": 2011,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2015 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=tvk"
+    },
+    "ids": {
+        "ebible": "tvk"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/tvk_usfm.zip",
+        "updated": "2016-09-06",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

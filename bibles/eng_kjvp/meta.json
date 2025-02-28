@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "King James Version (Cambridge Paragraph)",
+        "local_abbrev": "KJVP",
+        "english": "King James Version (Cambridge Paragraph)",
+        "english_abbrev": "KJVP"
+    },
+    "year": 1873,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=engkjvcpb"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engkjvcpb"
+    },
+    "ids": {
+        "ebible": "engkjvcpb"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engkjvcpb_usfm.zip",
+        "updated": "2020-12-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

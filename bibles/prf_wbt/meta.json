@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "En Maganda A Bareta Biblia",
+        "local_abbrev": "",
+        "english": "New Testament in Paranan",
+        "english_abbrev": "NTPRP"
+    },
+    "year": 2012,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2012 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=prfNT"
+    },
+    "ids": {
+        "ebible": "prfNT"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/prfNT_usfm.zip",
+        "updated": "2014-05-15",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

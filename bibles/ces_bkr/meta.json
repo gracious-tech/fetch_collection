@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Bible Kralická (1613)",
+        "local_abbrev": "",
+        "english": "Czech Kralicka Bible (1613)",
+        "english_abbrev": "CKB"
+    },
+    "year": 1613,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=ces1613"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ces1613"
+    },
+    "ids": {
+        "ebible": "ces1613"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ces1613_usfm.zip",
+        "updated": "2023-10-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "မြန်မာကျမ်းစာ",
+        "local_abbrev": "",
+        "english": "Judson Burmese Bible",
+        "english_abbrev": "JVB"
+    },
+    "year": 1840,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=myajvb"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=myajvb"
+    },
+    "ids": {
+        "ebible": "myajvb"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/myajvb_usfm.zip",
+        "updated": "2024-11-25",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

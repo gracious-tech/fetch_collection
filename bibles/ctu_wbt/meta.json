@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "I T’an Dios",
+        "local_abbrev": "",
+        "english": "Chol Tumbala Bible",
+        "english_abbrev": "CTB"
+    },
+    "year": 1977,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 1977 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ctuBl"
+    },
+    "ids": {
+        "ebible": "ctuBl"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ctuBl_usfm.zip",
+        "updated": "2014-04-22",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

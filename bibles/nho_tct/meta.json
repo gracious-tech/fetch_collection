@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Na Taratara TeAtua i naa taratara Takuu",
+        "local_abbrev": "",
+        "english": "Takuu New Testament",
+        "english_abbrev": "TCT"
+    },
+    "year": 2009,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2009 Translation Committee of Takuu, Mortlock Community",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=nho"
+    },
+    "ids": {
+        "ebible": "nho"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/nho_usfm.zip",
+        "updated": "2022-04-15",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

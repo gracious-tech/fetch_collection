@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa",
+        "local_abbrev": "BSRK",
+        "english": "Open Hausa Contemporary Bible",
+        "english_abbrev": "OHCB"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=0ab0c764d56a715d"
+    },
+    "ids": {
+        "dbl": "0ab0c764d56a715d",
+        "ebible": "hausa"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=0ab0c764d56a715d&type=release",
+        "updated": "2024-04-30",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

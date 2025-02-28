@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Yesus Aqa Anjam Bole (2014)",
+        "local_abbrev": "",
+        "english": "Anjam New Testament (2014)",
+        "english_abbrev": "ANT"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2014 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=boj2014"
+    },
+    "ids": {
+        "ebible": "boj2014"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/boj2014_usfm.zip",
+        "updated": "2016-04-28",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

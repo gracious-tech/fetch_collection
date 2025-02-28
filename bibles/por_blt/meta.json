@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Biblia Livre Para Todos",
+        "local_abbrev": "BLT",
+        "english": "Portuguese Free Bible for All",
+        "english_abbrev": "PFB"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Free Bible Ministry, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=d63894c8d9a7a503"
+    },
+    "ids": {
+        "dbl": "d63894c8d9a7a503",
+        "ebible": "porblt"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=d63894c8d9a7a503&type=release",
+        "updated": "2022-02-28",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Molima New Testament",
+        "english_abbrev": "FNS"
+    },
+    "year": 2010,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2010 Folk&Språk and Swedish Mission Alliance",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=mox"
+    },
+    "ids": {
+        "ebible": "mox"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/mox_usfm.zip",
+        "updated": "2014-12-09",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

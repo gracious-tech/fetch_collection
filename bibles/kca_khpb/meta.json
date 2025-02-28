@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Хӑнты Перевод Библии",
+        "local_abbrev": "ХБ",
+        "english": "Khanty Bible",
+        "english_abbrev": "KHPB"
+    },
+    "year": 2021,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Institute for Bible Translation, Finland",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=913473cd3c600aa8"
+    },
+    "ids": {
+        "dbl": "913473cd3c600aa8",
+        "ebible": "kca"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=913473cd3c600aa8&type=release",
+        "updated": "2021-12-13",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "an Bibl (1827)",
+        "local_abbrev": "",
+        "english": "Breton Gospels (1827)",
+        "english_abbrev": "BRG"
+    },
+    "year": 1827,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=breBRG"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=breBRG"
+    },
+    "ids": {
+        "ebible": "breBRG"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/breBRG_usfm.zip",
+        "updated": "2014-08-11",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

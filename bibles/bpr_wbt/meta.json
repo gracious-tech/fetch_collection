@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "I Falami Kasafnè",
+        "local_abbrev": "",
+        "english": "Koronadal Blaan New Testament",
+        "english_abbrev": "KBNT"
+    },
+    "year": 1995,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 1995 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=bpr"
+    },
+    "ids": {
+        "ebible": "bpr"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/bpr_usfm.zip",
+        "updated": "2014-08-06",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "新標點和合本",
+        "local_abbrev": "",
+        "english": "Chinese Union Version (traditional)",
+        "english_abbrev": "CUV"
+    },
+    "year": 1889,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=cmn-cu89t"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=cmn-cu89t"
+    },
+    "ids": {
+        "ebible": "cmn-cu89t"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/cmn-cu89t_usfm.zip",
+        "updated": "2024-12-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

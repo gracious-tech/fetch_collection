@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Bigu a tipan: I mahusay a baheta para ta panahun tam",
+        "local_abbrev": "",
+        "english": "Casiguran Dumagat Agta New Testament",
+        "english_abbrev": "CDANT"
+    },
+    "year": 1979,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 1979 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=dgc"
+    },
+    "ids": {
+        "ebible": "dgc"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/dgc_usfm.zip",
+        "updated": "2015-03-17",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

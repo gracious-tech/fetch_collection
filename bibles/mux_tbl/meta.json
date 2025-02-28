@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "PULU YILI-NGA UNG KONALE",
+        "local_abbrev": "",
+        "english": "Bo-Ung New Testament",
+        "english_abbrev": "BUNT"
+    },
+    "year": 2004,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2004 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=mux"
+    },
+    "ids": {
+        "ebible": "mux"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/mux_usfm.zip",
+        "updated": "2016-08-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Uumeleembaa Buŋa Tere Soomoŋgo Gbilia",
+        "local_abbrev": "",
+        "english": "Borong Bible",
+        "english_abbrev": "BNTOT"
+    },
+    "year": 2011,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2002, 2011 The Bible Society of Papua New Guinea",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ksr"
+    },
+    "ids": {
+        "ebible": "ksr"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ksr_usfm.zip",
+        "updated": "2015-01-26",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

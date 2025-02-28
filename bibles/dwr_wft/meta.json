@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Ooratha Caaquwaa",
+        "local_abbrev": "",
+        "english": "Dawro New Testament (Latin script)",
+        "english_abbrev": "DNT"
+    },
+    "year": 2011,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nd",
+                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=7c2039be44102b2b"
+    },
+    "ids": {
+        "dbl": "7c2039be44102b2b",
+        "ebible": "dwrNT"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=e578524a0893c6b7&type=release",
+        "updated": "2019-05-02",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

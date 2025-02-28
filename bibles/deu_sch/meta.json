@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Die Schlachter-Bibel (1951)",
+        "local_abbrev": "DSB",
+        "english": "Schlachter Bible (1951)",
+        "english_abbrev": ""
+    },
+    "year": 1951,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1951 Genfer Bibelgeschellschaft (Geneva Bible Society)",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=deu1951"
+    },
+    "ids": {
+        "ebible": "deu1951"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/deu1951_usfm.zip",
+        "updated": "2022-03-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

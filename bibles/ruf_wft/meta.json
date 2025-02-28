@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Laghano Lya Sambi Kwe Iwanu Wose",
+        "local_abbrev": "",
+        "english": "The New Testament in Lughuru",
+        "english_abbrev": "LBV"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=98d1c5bee401f80c"
+    },
+    "ids": {
+        "dbl": "98d1c5bee401f80c",
+        "ebible": "ruf"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=98d1c5bee401f80c&type=release",
+        "updated": "2014-01-22",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}

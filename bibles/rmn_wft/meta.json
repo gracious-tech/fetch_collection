@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "I Biblija ki Arli romani čhib",
+        "local_abbrev": "",
+        "english": "Romani Arli Bible",
+        "english_abbrev": "RAB"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=0a0927a2e4c58318"
+    },
+    "ids": {
+        "dbl": "0a0927a2e4c58318"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=0a0927a2e4c58318&type=release",
+        "updated": "2024-09-27",
+        "revision": 11
+    },
+    "literalness": null,
+    "tags": []
+}

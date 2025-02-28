@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Haalin Mallano",
+        "local_abbrev": "",
+        "english": "Banna New Testament",
+        "english_abbrev": "BNT"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+            }
+        ],
+        "attribution": "Copyright © 2014 SIM International",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=amf"
+    },
+    "ids": {
+        "ebible": "amf"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/amf_usfm.zip",
+        "updated": "2014-10-15",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

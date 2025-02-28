@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "God Reri Teiktem Tuma Ager",
+        "local_abbrev": "",
+        "english": "Yessan-Mayo Yamano New Testament",
+        "english_abbrev": "YAM"
+    },
+    "year": 2004,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1980, 2004 Lutheran Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=yss-yamano"
+    },
+    "ids": {
+        "ebible": "yss-yamano"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/yss-yamano_usfm.zip",
+        "updated": "2014-01-09",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

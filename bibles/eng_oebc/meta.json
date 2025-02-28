@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Open English Bible (Commonwealth Spelling)",
+        "local_abbrev": "OEBC",
+        "english": "Open English Bible (Commonwealth Spelling)",
+        "english_abbrev": "OEBC"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=engoebcw"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engoebcw"
+    },
+    "ids": {
+        "ebible": "engoebcw"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engoebcw_usfm.zip",
+        "updated": "2024-11-13",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

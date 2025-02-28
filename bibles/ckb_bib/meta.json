@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "وەشانی بێبەرامبەری کوردیی سۆرانیی ستاندەر",
+        "local_abbrev": "",
+        "english": "Open Kurdi Sorani Standard Version",
+        "english_abbrev": "OKSS"
+    },
+    "year": 2020,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=9ab28a81b9c4587d"
+    },
+    "ids": {
+        "dbl": "9ab28a81b9c4587d",
+        "ebible": "ckb"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=9ab28a81b9c4587d&type=release",
+        "updated": "2024-04-30",
+        "revision": 5
+    },
+    "literalness": null,
+    "tags": []
+}

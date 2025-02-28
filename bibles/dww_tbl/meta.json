@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Vari Verenama",
+        "local_abbrev": "",
+        "english": "Dawawa New Testament",
+        "english_abbrev": "DNT"
+    },
+    "year": 2002,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2002 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=dww"
+    },
+    "ids": {
+        "ebible": "dww"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/dww_usfm.zip",
+        "updated": "2015-01-02",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Burmese Common Language Bible",
+        "english_abbrev": "OJV"
+    },
+    "year": 2005,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=mya"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=mya"
+    },
+    "ids": {
+        "ebible": "mya"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/mya_usfm.zip",
+        "updated": "2014-03-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

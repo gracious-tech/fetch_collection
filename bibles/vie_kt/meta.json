@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Kinh Thánh (1925)",
+        "local_abbrev": "KT",
+        "english": "Vietnamese Bible (1925)",
+        "english_abbrev": "KT"
+    },
+    "year": 1925,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=vie1934"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=vie1934"
+    },
+    "ids": {
+        "ebible": "vie1934"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/vie1934_usfm.zip",
+        "updated": "2022-06-09",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

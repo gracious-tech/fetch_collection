@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "இண்டியன் ரிவைஸ்டு வெர்ஸன் - தமிழ்",
+        "local_abbrev": "",
+        "english": "Indian Revised Version - Tamil",
+        "english_abbrev": "IRVTam"
+    },
+    "year": 2019,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Bridge Connectivity Solutions Pvt. Ltd.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=03a021185023710b"
+    },
+    "ids": {
+        "dbl": "03a021185023710b",
+        "ebible": "tam2017"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=03a021185023710b&type=release",
+        "updated": "2022-04-13",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}

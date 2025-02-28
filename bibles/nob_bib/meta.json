@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Open En Levende Bok: Det Nye Testamentet",
+        "local_abbrev": "OELB",
+        "english": "Open Norwegian Living New Testament",
+        "english_abbrev": "ONL"
+    },
+    "year": 2005,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=246ad95eade0d0a1"
+    },
+    "ids": {
+        "dbl": "246ad95eade0d0a1",
+        "ebible": "noblb"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=246ad95eade0d0a1&type=release",
+        "updated": "2024-05-01",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

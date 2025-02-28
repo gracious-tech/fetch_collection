@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Bib La (1985)",
+        "local_abbrev": "",
+        "english": "Haitian Creole Bible (1985)",
+        "english_abbrev": "HCB"
+    },
+    "year": 1985,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=hat"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=hat"
+    },
+    "ids": {
+        "ebible": "hat"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/hat_usfm.zip",
+        "updated": "2020-03-10",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

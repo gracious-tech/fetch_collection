@@ -1,0 +1,33 @@
+{
+    "name": {
+        "local": "Біблія про закарпатцько романо чіб",
+        "local_abbrev": "ЗРБ",
+        "english": "Carpathian Romani Bible",
+        "english_abbrev": "ZRB"
+    },
+    "year": 2021,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=e952663db2e91691"
+    },
+    "ids": {
+        "dbl": "e952663db2e91691",
+        "ebible": "rmczrb"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=e952663db2e91691&type=release",
+        "updated": "2021-07-19",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "KO E TOHI TAPU KĀTOA",
+        "local_abbrev": "",
+        "english": "Revised West Version",
+        "english_abbrev": "RWV"
+    },
+    "year": 2014,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=ton"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ton"
+    },
+    "ids": {
+        "ebible": "ton"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ton_usfm.zip",
+        "updated": "2021-11-30",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

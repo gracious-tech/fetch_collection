@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Yareba Nupela Testamen",
+        "local_abbrev": "",
+        "english": "Yareba New Testament",
+        "english_abbrev": "YNT"
+    },
+    "year": 1987,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 1987 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=yrb"
+    },
+    "ids": {
+        "ebible": "yrb"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/yrb_usfm.zip",
+        "updated": "2012-01-20",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}

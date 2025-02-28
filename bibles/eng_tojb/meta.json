@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "The Orthodox Jewish Bible",
+        "local_abbrev": "TOJB",
+        "english": "The Orthodox Jewish Bible",
+        "english_abbrev": "TOJB"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ],
+        "attribution": "Artists for Israel International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=c89622d31b60c444"
+    },
+    "ids": {
+        "dbl": "c89622d31b60c444"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=c89622d31b60c444&type=release",
+        "updated": "2024-10-08",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": ["niche"]
+}

@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Open Knjiga O Kristu",
+        "local_abbrev": "OKOK",
+        "english": "Open Croatian New Testament",
+        "english_abbrev": ""
+    },
+    "year": 2000,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=b00de703b3d02a5a"
+    },
+    "ids": {
+        "dbl": "b00de703b3d02a5a"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=b00de703b3d02a5a&type=release",
+        "updated": "2024-05-02",
+        "revision": 2
+    },
+    "literalness": null,
+    "tags": []
+}
