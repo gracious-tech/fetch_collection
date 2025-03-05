@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="3.0">
+  <book code="JHN" style="id">- Halaba Bible Translation</book>
+  <para style="h">ያህይ እንጂለ</para>
+  <para style="toc1">ያህይ ከተቦ ቀርችኔ መሲህ ኢስ እንጂለ</para>
+  <para style="toc2">ያህይ እንጂለ</para>
+  <para style="toc3">ያህ.</para>
+  <para style="mt1">ያህይ ከተቦሃ</para>
+  <para style="mt2">ቀርችኔ መሲህ ኢስ እንጂለ</para>
+  <para style="imt1">ኣጉስ</para>
+  <para style="ip">ያህይ እንጂሉ ኢሰ ሆንጠህሰኖሁ መንቹ እክ መን በላን ደገንት ሄኣ መገን ላገተ እሁስ ለሊሶታት፤ መጻፉ ገዉንኩስ ለሊሰኖሁ ኩ እንጂሉ ከተበሞሁ አነበባእሩ ኢስ ጡምሳንቹ እክ አሜተኖ የመሞሁ መገን ቤቱ እሁስ አመዕንቶተለከ እሲን አመዕንሰ መሳን ዘላለም ሄኡ ሄአኖሰገ ደጋጋት (20፥31)</para>
+  <para style="ip">እንጂልስ ዎኔ ክፍሉ ጉዕመ ዘላለሚሃ ሄኣ መገን ላገትለከ ኢስ ሜጡ እሁስ ኣግ ደኒን ሆንጠህሾች ኤተሮን ኢስ ጡምሳንቹ እክ አሜተኖ የመሞሁ መገን ቤቱ እሁስ ለሊሳ መት-መቱ አጀብሲሰኖ ጠወ ሆንጠህሰኖ፤ ሁኩ አጀብሲሰኖ ጠዉ መሃጎር ሂርት ኩልታ ሄሱት አዎንታአ፤ ኩ መጻፉ ኩለኖሁ መት-መት መናከት ኢሳን አመዕንት እስ ካዲመተ እሁሰለከ ዎሉሰንገ ሀት ግቦስጎሬሁ እሲን አመዕንናምበአ ይቶጋት፤ ፎሎጭ 13-17 ኢስ አፈሞ ሀንከዕርተ አሳባን አቡ ደቀንሹ ሄኡስለከ ሰቀሌኖስሀኒች ሄጭ ተቃጠቤን ጠረኜኖ ላገተ ኩሎሰገ ኩልታአ። ጎፍሜ በር ኢስ አፈሙሲ፥ ፍርዲሃ ሆንጠሁሲ፥ ሰቀለሙስለከ ኬኡስ ህትን ኬዕዮች ኤተሮን አሳባተስ ለሉስ ኩልታእራን።</para>
+  <para style="ip">ያህይ ጠረኝሰኖሁ ዘላለም ሄእ ኣስቱት ደገንታኢሁ ኢሲን እሁሲት። ኩ ኣስቱት ቴሶች ኬሽ ኢስ ዎቃሃ፥ ሀንቅለከ ሄኡ አት ቶጋሀኑኡታት። ያህይ እንጂለ አደ አአኖሲሁ መገን አያነ ሀንቅ ደግሲሶተ ሮሴመለከ በር ጉዕመ ደግለሸቀማም ዊገ፥ ጣብትገ፥ ኑርገ፥ ዜማንቹ፥ ሆለተ፥ ዎይን ሀቁቹተለከ ዎይን ላልቹ አጉደኖ ምሳሌን ሆንጠህሱሃስ።</para>
+  <para style="iot">መጻፉስ አፎሃ</para>
+  <para style="io1">ኣጉስ <char style="ior">(<ref loc="JHN 1:1-18">1፥1-18</ref>)</char></para>
+  <para style="io1">ጠመቃንቾ ያህያለከ ኢስ ዎኔ አሳበተ <char style="ior">(<ref loc="JHN 1:19-51">1፥19-51</ref>)</char></para>
+  <para style="io1">ኢስ ክድመስ ጀመሩስ <char style="ior">(<ref loc="JHN 2:1-12:50">2፥1—12፥50</ref>)</char></para>
+  <para style="io1">ዬሩሳሌማንለከ አዝጋጌንከስ ጎፍማ በር <char style="ior">(<ref loc="JHN 13:1-19:42">13፥1—19፥42</ref>)</char></para>
+  <para style="io1">ቀርች ኬኡስለከ ለሉስ <char style="ior">(<ref loc="JHN 20:1-31">20፥1-31</ref>)</char></para>
+  <para style="io1">ገሊላን ለንኪሃ አዎንታሀኑኡተ ለሉስ <char style="ior">(<ref loc="JHN 21:1-25">21፥1-25</ref>)</char></para>
+  <chapter number="1" style="c" sid="JHN 1"/>
+  <para style="s1">ሄእ ላገተኔሃ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 1:1"/>ዎዕናሃ ላገት ሄኦ እቅ፤ ላገንትስ መገንሀኔን ሄኦ እቅ፤ ህት ላገንት መገኑወ እቅ። <verse eid="JHN 1:1"/><verse number="2" style="v" sid="JHN 1:2"/>እስን ዎዕኔችን ኬሽ መገንሀኔን ሄዕዮ እቅ። <verse eid="JHN 1:2"/><verse number="3" style="v" sid="JHN 1:3"/>ጉዕሙርቹንኩ እሲን አሜቾ፤ እስ ዮበኢሃ መቱርቹሁ አሜቾበአ። <verse eid="JHN 1:3"/><verse number="4" style="v" sid="JHN 1:4"/>ሁኩ አሜቾንኩ እሲን ዮእሃ ሄኡ፤ ሁኩ ሄኡንኩ መን እላተ ኑርሃን። <verse eid="JHN 1:4"/><verse number="5" style="v" sid="JHN 1:5"/>ሁኩ ኑሩንኩ ቱንስቾን ለለኖ፤ ቱንስቹንኩ ሆሮን ቄለኖስበአ።<verse eid="JHN 1:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 1:6"/>መቱ «ያህይ» ዬኖ መንቹ ሄዕዮ፤ እስን መገኑ ሶኮስየ መንቹ እቅ።<note caller="-" style="x"><char style="xo" closed="false">1፥6 </char><char style="xt" closed="false"><ref loc="MAT 3:1">ማቶ. 3፥1</ref>፤ <ref loc="MRK 1:4">ማር. 1፥4</ref>፤ <ref loc="LUK 3:1-2">ሉቃ. 3፥1-2</ref>።</char></note> <verse eid="JHN 1:6"/><verse number="7" style="v" sid="JHN 1:7"/>እስ ኑርተኔሃ መሰከሮተ አሜቾ፤ ህከን እስ መሰከሮሀኔን ጉዕሙንኩ መኑ አመዕንታአ። <verse eid="JHN 1:7"/><verse number="8" style="v" sid="JHN 1:8"/>እስ ኑርተኔሃ መሰከሮተ አሜቾኡ ቤሉ እስ ገዉስ ኑርሃበአ። <verse eid="JHN 1:8"/><verse number="9" style="v" sid="JHN 1:9"/>ሁኩ ሀንቅ ኑሩ ከ ኣዱንያ አል አሜች መኒሃ ጉዕሚንከ ኑር ለሊሰኖ እቅ።<verse eid="JHN 1:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JHN 1:10"/>እስን ከን ኣዱንያ አሌን ሄዕዮ እቅ፤ ኩ ኣዱንያንት እሲን አሜቶጎሬሁ ከን ኣዱንያ አል መኑ እሱ ደጎስበ እቅ። <verse eid="JHN 1:10"/><verse number="11" style="v" sid="JHN 1:11"/>እስን ገይስ መንቤቹ አሜቾ፤ እኮጎሬ ገይስ መኑ ቶጎስበ እቅ። <verse eid="JHN 1:11"/><verse number="12" style="v" sid="JHN 1:12"/>ጠዉ እኮጎሬ ቶጎስረለከ ሱዕሚንከስ አመዕንቶእረ መገን እለተ እካ ሹምነቱ ኣሴሰ። <verse eid="JHN 1:12"/><verse number="13" style="v" sid="JHN 1:13"/>እሰን መገኒች እለንቶኡ ቤሉ ቄጊች ህከረንገ ማል ሄዕላቸገ መን ሃሺኣቶን እለንቶበአ።<verse eid="JHN 1:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 1:14"/>ላገንት መንቹ እኮኡ፤ እሲን ኒን ሄዕዮ፤ ነኡ እስ ኬዕምኝ ለዕኖም፤ ሁኩ ኬዕምኙንኩ ሜጦ አኒች እለሞእሃን፤ እሲን ኣስቶንለከ ሀንቂን ዊሞእሃን።<verse eid="JHN 1:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="JHN 1:15"/>ያህይን « ‹ኢች ኤተሮን አሜተኖሁ ኢች በተአኑሃን፤ መሰንትስ እስ ኢች ሄጭ ሄዕዮ› ይ ኩሎንክዕኔሁ ከኒት» ይ እስተኔሃ ላገስ ጎት አዕይ ጠወዕዮ።<verse eid="JHN 1:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 1:16"/>ነኡ ጉዕሙንኩኔ እስ ኣስቶ ዊምማች ኣስቶ አሌን ኣስቱተ ደዕናም። <verse eid="JHN 1:16"/><verse number="17" style="v" sid="JHN 1:17"/>መገን ሕጉ ሙስ አዲን ኣሰሞ፤ እኮጎሬ ኣስቱትለከ ሀንቁ መሲህ አዲን አሜቾ። <verse eid="JHN 1:17"/><verse number="18" style="v" sid="JHN 1:18"/>መገኑ ለዕዮሁ አዪሁ ዮበአ፤ እሁን ቤሉ መገንሀኔን ዮ ሜጥቹስ ቤቱ ኔሳሃ ለሊሾኔ።<verse eid="JHN 1:18"/></para>
+  <para style="s1">ጠመቃንቹ ያህይ መሰከሩስ</para>
+  <para style="r">(<ref loc="MAT 3:1-12">ማቶ. 3፥1-12</ref>፤ <ref loc="MRK 1:1-8">ማር. 1፥1-8</ref>፤ <ref loc="LUK 3:1-18">ሉቃ. 3፥1-18</ref>)</para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 1:19"/>ኩን ያህይሃ ምስክርነቱ፤ አይሁድ አዎንሳኑት ዬሩሳሌም ቂሰተለከ ሌዋውያኑተ ያህይበ ሶክ «አት አዬት?» ይት ጠዕምሲሶስ ወክት <verse eid="JHN 1:19"/><verse number="20" style="v" sid="JHN 1:20"/>ያህይ «አን መሲህበአ» ይ መሰከሮ ቤሉ ካጆበአ።<verse eid="JHN 1:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="JHN 1:21"/>እሰን «ህካን እኮች አት አዬት? እልያሴትንዶ?» ይት ጠዕምቶስ፤<note caller="-" style="x"><char style="xo" closed="false">1፥21 </char><char style="xt" closed="false"><ref loc="DEU 18:15">ዘዳ. 18፥15</ref>፤ <ref loc="DEU 18">18</ref>፤ <ref loc="MAL 4:5">ሚል. 4፥5</ref>።</char></note></para>
+  <para style="p" vid="JHN 1:21">እስን «አን እሶበአ» ዬሰ።</para>
+  <para style="p" vid="JHN 1:21">እሰን «አሜተኖ ዬመ ነቢዬቹሃንዶ?» ይቶስ።</para>
+  <para style="p" vid="JHN 1:21">እስን «እሶበአ» ዬሰ።<verse eid="JHN 1:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 1:22"/>እሰን «አት አዬት? ሶኮኔ መኒሃ ኩልኖተ ገይክተኔሃ መ ይተን?» ይቶስ። <verse eid="JHN 1:22"/><verse number="23" style="v" sid="JHN 1:23"/>እስን ነቢዬቹ እስያስ ጠወዕዮገን</para>
+  <para style="q1" vid="JHN 1:23">አን « ‹ቀርች ዎቃሃ ጌጥ አዕዬ› የን</para>
+  <para style="q2" vid="JHN 1:23">ኡለ ኡድማን ያረኖ መንችተ ላገ» ዬእ።<note caller="-" style="x"><char style="xo" closed="false">1፥23 </char><char style="xt" closed="false"><ref loc="ISA 40:3">ኢሳ. 40፥3</ref>።</char></note><verse eid="JHN 1:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JHN 1:24"/>ሁኩ መኑንኩ ፈርሳዌ አዲች ሶሀንቶእረ እቅ። <verse eid="JHN 1:24"/><verse number="25" style="v" sid="JHN 1:25"/>እሰን «አት መሲህ ህከረንገ እልያሴ ህከረንገ ነቢዬቹ እክባች ሚሃት ጠመቃንቲት?» ይት ጠዕምቶስ።<verse eid="JHN 1:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 1:26"/>ያህይን ፈንቀሽ «አን ዊን ጠመቃንክዕኔ፤ ጠዉ እኮጎሬ አዕኑ ደጌንቡ በላንከክዕኔ ዮኡ። <verse eid="JHN 1:26"/><verse number="27" style="v" sid="JHN 1:27"/>እስ ኢች ኤተሮን አሜተኖ፤ ዎሉ ፈቅ አን እስ ሎከስ ጫዕመስ ወደሩ ህሮተ በቀዕበሃን» ዬእ።<verse eid="JHN 1:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JHN 1:28"/>ኩ ጉዕሙንኩ ጠዉ እኮሁ ያህይ መነ ጠመቀኖ ዮርዳኖስ ዊች አሩ ፉለኖ አዲን ሄዕዮ «ቢታንያ» ዬኖ ከተማኒት እቅ።<verse eid="JHN 1:28"/></para>
+  <para style="s1">መገን ሆልቹ</para>
+  <para style="p">
+    <verse number="29" style="v" sid="JHN 1:29"/>ለንክ በር ያህይ ኢስ እስቤቹ አሜተን ለዕይ «ኣዱንያ አል መኒች ጉዕሚችን ጩብ ከመኖ መገን ሆልቹ ሁኩዕኑን ከለዕዬ! <verse eid="JHN 1:29"/><verse number="30" style="v" sid="JHN 1:30"/>‹ኢች በተአኖ መንቹ ኢች ኤተሮን አሜተኖ፤ መሰንትስ እስ ኢች ሄጭ ሄዕዮ› ዬሚሁ ሁኩዕኑን። <verse eid="JHN 1:30"/><verse number="31" style="v" sid="JHN 1:31"/>አን ገዉንኩእ እሱ ደጋንስበ እቅ፤ ጠዉ እኮጎሬ እስራኤል መኑ እሱ ደጋገ አን ዊን ጠመቀን አሜቾም» ዬእ።<verse eid="JHN 1:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="JHN 1:32"/>ለንኪሃ ያህይ «ጠሊሉ አያኑ ሀንደዕሬገ እክ ሰሜች ድር አሌስ አፉዕለን ለዕዮም። <verse eid="JHN 1:32"/><verse number="33" style="v" sid="JHN 1:33"/>ህትን አን ገዉንኩእ ደጋንስበአ እቅ፤ ጠዉ እኮጎሬ አን ዊን ጠመቆተ ሶኮኤሁ ‹ጠሊሉ አያኑ ድረንለከ አሌስ አፉዕለን ለኣንቲሁ ጠሊለ አያኒን ጠመቀኖሁ እሶት› ይ ኩሎኤ። <verse eid="JHN 1:33"/><verse number="34" style="v" sid="JHN 1:34"/>አንን ህካን ለዕዮም፤ እስ መገን ቤቱ እሁስ መሰከራም» ይ መሰከሮ።<verse eid="JHN 1:34"/></para>
+  <para style="s1">ኢሰ አዎንቶ ዎዕኔ አሳበተ</para>
+  <para style="p">
+    <verse number="35" style="v" sid="JHN 1:35"/>ህትን ለንክ በር ያህይ ለሞንከ አሳባን ሜጡበ ኡርዮ እቅ። <verse eid="JHN 1:35"/><verse number="36" style="v" sid="JHN 1:36"/>ያህይን ኢስ ህከን ቤቺን ህገን ለዕይ «መገን ሆልቹ!» ዬእ።<verse eid="JHN 1:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="JHN 1:37"/>ያህይ ህካን የን ሞጮጭት ለሙንኩ አዎንታስሩ ኢሰ አዎንቶኡ። <verse eid="JHN 1:37"/><verse number="38" style="v" sid="JHN 1:38"/>ኢስን ህከ አዎንታረ ፈንቀል ለዕይ «መ ሀሴነንታት?» ዬሰ፤</para>
+  <para style="p" vid="JHN 1:38">እሰን «ረቢ! ሀከንቤቾን ሄኣንቲት?» ይት ጠዕምቶስ።<note caller="+" style="f"><char style="ft" closed="false">ረቢ ዩ አስተማርቹ ዩሃን።</char></note><verse eid="JHN 1:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="JHN 1:39"/>እስን «አሜቴን ሄኣም ቤቹ ለዕዬ» ዬሰ፤ እሰን አሜት ሄአኖ ቤቹ ለኦኡ፤ ህከ በር እሲን ሜጡበ ሆሶኡ፤ ሁኩ ወክቱንኩ በሬ ቶኖ ሰኣትየ ጌሰ እቅ።<verse eid="JHN 1:39"/></para>
+  <para style="p">
+    <verse number="40" style="v" sid="JHN 1:40"/>ህከ ያህይ ጠወ ሞጮጭት አዎንቶሀኑኡች መቱስ ስሞን ጴጥሮሴ አመቤቱ እንድራሴት እቅ። <verse eid="JHN 1:40"/><verse number="41" style="v" sid="JHN 1:41"/>እስን ሄጭ አመስ ቤቲን ስሞኔን ደቀም «መሲህ ደንጎም» ዬስ፤ (መሲህ ዩ ቡረሞሃ ዩሃን) <verse eid="JHN 1:41"/><verse number="42" style="v" sid="JHN 1:42"/>እንድርያስን ስሞኔ ኢስቤቹ አፍ አሜቾ፤</para>
+  <para style="p" vid="JHN 1:42">ኢስን እሱንከ ለዕይ «አት ዮነሃ ቤቱ ስሞኔት፤ አትን ‹ኬፈ› የመንታንት» ዬእ፤ (ኬፈ ዩ ጠረኘ ክኑ ዩሃን) ሁኩንን «ጠረኘ መንቹ» ዩሃን።<verse eid="JHN 1:42"/></para>
+  <para style="s1">ኢስ ፍልጶሴለከ ናትናኤለ ገኤገ</para>
+  <para style="p">
+    <verse number="43" style="v" sid="JHN 1:43"/>ለንክ በር ኢስ ገሊለተ መሮተ ሀሾ፤ እስን ፍልጶሴን ደቀም «አዎኔኤ» ዬስ። <verse eid="JHN 1:43"/><verse number="44" style="v" sid="JHN 1:44"/>ፍልጶስን እንድርያስለከ ጴጥሮስ ሄኣ «ቤተ ሳይዳ» ዬኖ ከተምየ መንቹ። <verse eid="JHN 1:44"/><verse number="45" style="v" sid="JHN 1:45"/>ፍልጶስን ናትናኤሌን ደቀም «ሙሲ ሕጋን ህትን ነቢያከት እስተኔሃ ከተቦ ዩሱፍ ቤቱ ናዝሬት ኢሰ ደንጎም» ዬስ። <verse eid="JHN 1:45"/><verse number="46" style="v" sid="JHN 1:46"/>ናትናኤልን «ናዝሬት ከተማን ጡሙርቹ ደገመኖንዶ?» ዬእ፤ ፍልጶስን «አሜት ለእ» ዬስ። <verse eid="JHN 1:46"/><verse number="47" style="v" sid="JHN 1:47"/>ኢስን ናትናኤል እስቤቹ አሜተን ለዕይ «ተንኩት ዮስበእ ሀንቅ እስራኤል መንቹ ከለዕዬ» ዬእ፤ <verse eid="JHN 1:47"/><verse number="48" style="v" sid="JHN 1:48"/>ናትናኤልን ኢሰ «ሀከኔ ደገዕኔ?» ዬስ፤ ኢስን ፈንቀሽ «ፍልጶስ ገኡዕናንኬ ሄጭ ኦድ ሀቁቾ ፎቃን ሄኦንት ወክትንከ ደጎንኬ» ዬስ። <verse eid="JHN 1:48"/><verse number="49" style="v" sid="JHN 1:49"/>ህከ ወክት ናትናኤል ፈንቀሽ «አስተማርቾ! አት መገኒየ ቤቱ፤ ህትን አት እስራኤልየ ዎመ» ዬስ።<verse eid="JHN 1:49"/></para>
+  <para style="p">
+    <verse number="50" style="v" sid="JHN 1:50"/>ህትን ኢስ «ኦድ ሀቁቾ ፎቃን ለዕዮንኬ ዬምቤቺሃ አመዕንቴኤንዶ? ከኒች በተአኖርቹ ለኣንት። <verse eid="JHN 1:50"/><verse number="51" style="v" sid="JHN 1:51"/>ሀንቅንከ ያንክዕኔ፤ ሰሞሁ ፈንተዕያን መገን መላይከት መንች ቤትበ አሜተንለከ መርተን ለኤነንተ» ዬእ።<note caller="-" style="x"><char style="xo" closed="false">1፥51 </char><char style="xt" closed="false"><ref loc="GEN 28:12">ክል. 28፥12</ref>።</char></note><verse eid="JHN 1:51"/></para>
+  <chapter eid="JHN 1"/>
+  <chapter number="2" style="c" sid="JHN 2"/>
+  <para style="s1">ኢስ ቦለች ቀኤን ዋሃ ዎይን ጠጃን ዶሩስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 2:1"/>ሰቅስ በሬን ገሊለ ቃናን ቦለቹ ሄዕዮ እቅ፤ ህከን ቤቾን ኢስ አመት መርየመ ሄኦ እቅ። <verse eid="JHN 2:1"/><verse number="2" style="v" sid="JHN 2:2"/>ህትን ኢስ አሳባንከስን ህከን ቦለቺሃ ገአሞ እቅ። <verse eid="JHN 2:2"/><verse number="3" style="v" sid="JHN 2:3"/>ዎይን ጠጁንኩ ህከን ቦለች ምኔን ጎፎ ወክት ኢሲሃ አመስ «ዎይን ጠጁ ጎፎሰ» ይቶስ። <verse eid="JHN 2:3"/><verse number="4" style="v" sid="JHN 2:4"/>ኢስን «ኪን ም ዮኤ፤ ወክቱኤ እልዮበአ» ዬሴ።<verse eid="JHN 2:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JHN 2:5"/>ህከ ወክት አመስ ህከን ቤቾን ሄኦ ካዲማተ «እስ የኖህዕኔሃ ጉዕመንከ አዕዬ» ይቶኡ።<verse eid="JHN 2:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 2:6"/>ህከንቤቾንን አይሁድ ሴር ሃሊን ነጠ እኮተ ኣዕልታ ዋሃ ዎሬኖ ሌሁ ክን ዛለት ሄኦ እቅ፤ እሰን መት-መቱስ ለሙ-ለሙ ህከረንገ ሰ-ሰሱ ኮሪ ጌሰ አፋዕረ እቅ። <verse eid="JHN 2:6"/><verse number="7" style="v" sid="JHN 2:7"/>ኢስን ህከኔ አታ ካዲማተ «ከን ሌሆንከ ዛላን ዋሃ ዊንሽዬ» ዬሰ፤ እሰን ህከን ዛላን አፎሰ ኢለ ዋሃ ዊንሽቶኡ። <verse eid="JHN 2:7"/><verse number="8" style="v" sid="JHN 2:8"/>ህከኒች ኤተሮን ኢስ «ከኒች እንኪልቴን ከን ድግስ አስናዳንቺሃ ኣስዬ» ዬሰ፤ እሰን መስት ኣቶኡ። <verse eid="JHN 2:8"/><verse number="9" style="v" sid="JHN 2:9"/>ሁኩ መንቹንኩ ዎይን ጠጀ እክ ዶራሞ ዋሃ ፊጭ ይ ለዕዮ ወክት ሀከንቢች አሜቾ ጎሬ ደጎበአ፤ ጠው እኮጎሬ ዋስ እንኪልት ዛሌን ወርቶ ካዲመት ሀከንቤቺችት ጎሬ ደጎ እቅ፤ ህካን እኮቤቺሃ ሁኩ አስናዳንቹ እዜቹ ገእ <verse eid="JHN 2:9"/><verse number="10" style="v" sid="JHN 2:10"/>«መኑ ጉዕሙንኩ ዎዕና ጡመ ወይን ጠጀ ኣሰኖ፤ ህትን መኑስ ሰከሮች ኤተሮን ሂለስ ኣሰኖ፤ ጠው እኮጎሬ አት ከ ወክት ኢለ ጡመስ ወይን ጠጀ ማጦንት» ዬስ።<verse eid="JHN 2:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 2:11"/>ኢስ ከ ዎኔስ አጀብሲሰኖ ጠወ ገሊለ ባዶን ዮ «ቃነ» ዬኖቤቾን አዕዮ፤ ህት አዕይ ኢስ ኬዕምኝስ ለልሾ፤ ህትን አሳበንት እሲን አመዕንቶኡ።<verse eid="JHN 2:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 2:12"/>ህከኒች ኤተሮን ኢስ አማንተሲ፥ አመስ ኦሶንለከ አሳባን ሜጡበ «ቅፍርናሆመ» ዬኖ ከተመ መር ህከኔ ቀው በር አገሮ።<note caller="-" style="x"><char style="xo" closed="false">2፥12 </char><char style="xt" closed="false"><ref loc="MAT 4:13">ማቶ. 4፥13</ref>።</char></note><verse eid="JHN 2:12"/></para>
+  <para style="s1">ኢስ መገን ምኔን ነገዳረ ሸሩስ</para>
+  <para style="r">(<ref loc="MAT 21:12-13">ማቶ. 21፥12-13</ref>፤ <ref loc="MRK 11:15-17">ማር. 11፥15-17</ref>፤ <ref loc="LUK 19:45-46">ሉቃ. 19፥45-46</ref>)</para>
+  <para style="p">
+    <verse number="13" style="v" sid="JHN 2:13"/>ሻሽግ ከበጃት በሩ ሆንጠኮቤቺሃ ኢስ ዬሩሰሌመ ኦሮዕዮ፤<note caller="-" style="x"><char style="xo" closed="false">2፥13 </char><char style="xt" closed="false"><ref loc="EXO 12:1-27">ፉል. 12፥1-27</ref>።</char></note> <verse eid="JHN 2:13"/><verse number="14" style="v" sid="JHN 2:14"/>መገን ምኔን ቦተተ፥ ሆለተለከ ሀንደዕርተ ህርታ መነለከ ህትን አፉዕልት ብረ ዶርታእረ ደጎ። <verse eid="JHN 2:14"/><verse number="15" style="v" sid="JHN 2:15"/>ህከ ወክት ወደር ጮርቄተ ደጅ ጉዕመንከ መነ ሆላንተሰለከ ቦታንከሰ መገን ምኒች ሸር ፉሼእ፤ ብረ ዶርታሀኑኡ ብረ ብንአዕይ ጠራጴዘ ገለበጮ። <verse eid="JHN 2:15"/><verse number="16" style="v" sid="JHN 2:16"/>ሀንደዕርተ ህርታእረ «ካን ከንቤቺች ከሜ፤ አንኤ ምኒ ንግድ ምኒ አቶኖቼ» ዬሰ። <verse eid="JHN 2:16"/><verse number="17" style="v" sid="JHN 2:17"/>ህከ ወክት አሳበት «ምኒሀክ ዮኤ ኢተት ጊረገ ቡስቶኤ» የመም ከተበሞሃ ሰውይቶኡ።<note caller="-" style="x"><char style="xo" closed="false">2፥17 </char><char style="xt" closed="false"><ref loc="PSA 69:9">መዝ. 69፥9</ref>።</char></note><verse eid="JHN 2:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JHN 2:18"/>ህካን እኮቤቺሃ አይሁድ አዎንሳኑት «አት ካን አታንት ዎልቀት ዮሄጎሬ ደንጎተ መ መላተ ለሊሰኔ?» ይቶኡ።<verse eid="JHN 2:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 2:19"/>ኢስን ፈንቀሽ «ከ ዱእ ምኒ ድጅዬ፤ አን ሰሶ በሬን ፈንቀሽ እጃራም» ዬሰ።<note caller="-" style="x"><char style="xo" closed="false">2፥19 </char><char style="xt" closed="false"><ref loc="MAT 26:61">ማቶ. 26፥61</ref>፤ <ref loc="MAT 27:40">27፥40</ref>፤ <ref loc="MRK 14:58">ማር. 14፥58</ref>፤ <ref loc="MRK 15:29">15፥29</ref>።</char></note><verse eid="JHN 2:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="JHN 2:20"/>እሰን ፈንቀሽት «ኩ መገን ምኑ ሸይልኔ ሌሆ ዘማኔን እጃረም ጎፎኡ፤ አት ህካን ሰሶ በሬን እጃርተንዶ?» ይቶስ።<verse eid="JHN 2:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="JHN 2:21"/>ጠዉ እኮጎሬ ኢስ «ዱእ ምኒ» ዬእሁ ገይስ ጅስመሲት እቅ። <verse eid="JHN 2:21"/><verse number="22" style="v" sid="JHN 2:22"/>ህካን እኮቤቺሃ ኢስ ሬሆች ኬዕዮች ኤተሮን አሳበስ ከ ጠወ ሰውይት ኢስ ጠወዕዮሃለከ ጠሊለ መጻፋን ከተበሞሃ አመዕንቶኡ።<verse eid="JHN 2:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 2:23"/>ኢስ ሻሽግ ከበጀ ወክቴን ዬሩሳሌማን አዕዮ አጀብሲሰኖ ጠውተኔሃ ልግቡ መኑ እስ ሱዕማን አመዕንቶእ። <verse eid="JHN 2:23"/><verse number="24" style="v" sid="JHN 2:24"/>ጠዉ እኮጎሬ ኢስ ጉዕመንከ መነ ደገኖቤቺሃ ጎደበ ኣስዮሰበአ እቅ። <verse eid="JHN 2:24"/><verse number="25" style="v" sid="JHN 2:25"/>እስን መን ቀልቤን ዮኢሃ ጉዕመንከ ደገኖቤቺሃ መንተኔሃ አዪሁ እሲሃ ኩሉተ ሀስሾስበአ እቅ።<verse eid="JHN 2:25"/></para>
+  <chapter eid="JHN 2"/>
+  <chapter number="3" style="c" sid="JHN 3"/>
+  <para style="s1">ኢስ ንቆድሞሴ ተማርሴገ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 3:1"/>«ንቆድሞሴ» ዬኖ መቱ መንቹ ሄዕዮ እቅ፤ እስን ፈርሳዌ አዲች አይሁድ መኒሃ ሀለቀ እቅ። <verse eid="JHN 3:1"/><verse number="2" style="v" sid="JHN 3:2"/>ሁኩ መንቹ ኢስቤቹ ሀዎሮን አሜች «ረቢ! አት መገን አዲች አሜቶንት አስተማርቹ እሁክ ደንጎም! መገኑ እሲን ሜጡበ ሄዕዮ መንች ቤሉ አት አታንት አጀብሲሰኖ ጠወ አኦተ አታለኖሁ አዪሁ ዮበአ» ዬእ።<verse eid="JHN 3:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="JHN 3:3"/>ኢስን ፈንቀሽ «ሀንቅንከ ያንኬ፤ መኑ ለንኪሃ<note caller="+" style="f"><char style="fqa" closed="false">ከን ዎልንሻን «ለንኪሃ» ይታ ላገት፦ </char><char style="ft" closed="false">ግርክ መን አፎን «አሊች» ይታ ለንክ ፍሳረት ዮሴ።</char></note> እለምባች መገን ዎምነቱ ለኦተ አታለኖበአ» ዬስ።<verse eid="JHN 3:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JHN 3:4"/>ንቆድሞስን «መኑ ባሊቆች ኤተሮን ሀት እክ እለሞተ አታለኖ? ለንኪሃ አመስ ጎደበ ፈንቀል ኣግ እለሞተ አታለኖንዶ?» ይ ጠዕሜእ።<verse eid="JHN 3:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JHN 3:5"/>ህትን ኢስ ፈንቀሽ «ሀንቅንከ ያንኬ፤ መኑ ዊችለከ ጠሊለ አያኒች እለምባች መገን ዎምነቱ ኣጎተ አታለኖበአ። <verse eid="JHN 3:5"/><verse number="6" style="v" sid="JHN 3:6"/>መኒች እለመኖሁ መንቹሃን፤ አያኒች እለመኖሁ አያነ። <verse eid="JHN 3:6"/><verse number="7" style="v" sid="JHN 3:7"/>‹ለንኪሃ እለሙ ሀስሰኖህዕኔ› ዬምሀኒን አጀብሲጭቶት። <verse eid="JHN 3:7"/><verse number="8" style="v" sid="JHN 3:8"/>ቦብሩ ሀሾ አደ ዋል ቦብርሰኖ፤ አትን ላገስ ሞጮጭታንት ቤሉ ሀከን አዲች አሜች ሀከ አደ መረኖጎሬ ደጋንትበአ፤ አያኒች እለሞሁ ህትዪንት» ዬእ።<verse eid="JHN 3:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 3:9"/>ንቆድሞስን ፈንቀሽ «ኩን ሀት እክ እሆተ አታለኖ?» ዬእ።<verse eid="JHN 3:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JHN 3:10"/>ኢስን ንቆድሞሴ «አት እስረኤል አስተማርቹ እክ ከ ጠወ ደጋንትበእንዶ? <verse eid="JHN 3:10"/><verse number="11" style="v" sid="JHN 3:11"/>ሀንቅንከ ያንኬ፤ ደንጋሚሃ ጠወዕናም፤ ህትን ለዕኖሚሃ መሰከርናም፤ ጠዉ እኮጎሬ መሰከርኖሚሃ ቶጌነንተበአ። <verse eid="JHN 3:11"/><verse number="12" style="v" sid="JHN 3:12"/>አን ከን ኣዱንያ አል ጠወ ኩላን አመዕንቴንበሩ ሰሜ ጠወ ኩሎንክዕኔ ጎሬ ሀት እኬን አመዕንቴነን? <verse eid="JHN 3:12"/><verse number="13" style="v" sid="JHN 3:13"/>ሰሜች አሜቾሀኒች ሁኩንን መንች ቤት ቤሉ ሰማ አሌ ዋል ኦሮዕዮሁ አዪሁ ዮበአ።<note caller="+" style="f"><char style="fqa" closed="false">ሰሜች አሜቾ መንች ቤት ቤሉ ሰማ ዋል ኦሮዕዮሁ አዪሁ ዮበአ፦ </char><char style="ft" closed="false">የኖሁ «ሰማን ሄአኖ መንች ቤት ቤሉ» ይታ መት-መቱ ሉህ ክታበት ዮኡ።</char></note><verse eid="JHN 3:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 3:14"/>«ሙስ ኡለ ኡድማን ዎሪቹ አሌ ዋሽ ኬሾገን ህትን መንች ቤቱሁ አሌ ዋል ኬኡ ሀስሰኖስ።<note caller="-" style="x"><char style="xo" closed="false">3፥14 </char><char style="xt" closed="false"><ref loc="NUM 21:9">ዘኁ. 21፥9</ref>።</char></note> <verse eid="JHN 3:14"/><verse number="15" style="v" sid="JHN 3:15"/>ሁኩንን እሲን አመዕነኖሁ ጉዕሙንኩ ጉዕመ ዘማኒሃ ሄአኖ ሄኡ ደኦታት።<verse eid="JHN 3:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 3:16"/>«ቤቶንከስ አመዕነኖሀኒሃ ጉዕሚንከ ዘላለሚሃ ሄአኖ ሄኡ ሄኦስታት ቤሉ በአኖበእገ መገኑ ሜጥቹስ ቤቱ ኣሶተ ኢለ ከን ኣዱንያ አል ህትን ኢቴእ። <verse eid="JHN 3:16"/><verse number="17" style="v" sid="JHN 3:17"/>መገኑ ቤቱስ ከ ኣዱንያ አል ሶኮሁ ኩ ኣዱንያት እስ አዲን ጡምቶታት ቤሉ ፈረዶታበአ።<verse eid="JHN 3:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JHN 3:18"/>«እሶን አመዕነኖሀኒሃ ፈረደመኖስበአ፤ ጠው እኮጎሬ እሲን አመዕንበሀኒሃ መገን ሜጥቾ ቤቶንከስ አመዕኒበቤቺሃ ዎዕናንከ ፈረደሞስ።<verse eid="JHN 3:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 3:19"/>«ፍርዱንኩስ ከኒት፤ ኑሩ ከ ኣዱንያ አል አሜቾ፤ ጠው እኮጎሬ መኑ ሆጉስ ሂለ እኮቤቺሃ ኑሪች በትሽ ቱንስቹ ኢቴእ። <verse eid="JHN 3:19"/><verse number="20" style="v" sid="JHN 3:20"/>ሂለርቹ አአኖሁ ጉዕሙንኩ ኑር ግበኖ፤ ሂለ ሆጉስ ለልታበእገ ኑርቤቹ አሜተኖበአ። <verse eid="JHN 3:20"/><verse number="21" style="v" sid="JHN 3:21"/>ጠው እኮጎሬ እስ አዕዮ ጡመ ሆጉት መገኒች እኮኢተ እሁሴ ደጎኖተ ሀንቅ ጠወ አአኖሁ ጉዕሙንኩ ለለኖ ቤቹ አሜተኖ» ዬእ።<verse eid="JHN 3:21"/></para>
+  <para style="s1">ጠመቃንቹ ያህይ ኢስተኔሃ መሰከሩስ</para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 3:22"/>ህከኒች ኤተሮን ኢስ አሳባንተስን ሜጡበ ይሁድ ባዱ ኦሮዕዮ፤ ህከን ቤቾን ጠመቀን እሳንን ሜጡበ ቀው ጌሰ ዱንኬእ። <verse eid="JHN 3:22"/><verse number="23" style="v" sid="JHN 3:23"/>ህከ ወክት ያህይ ልግቡ ውሁ ሄዕዮ «ሳሌመ» ዬኖ ቤች መዴን «ሄኖነ» ዬኖቤቾን ጠመቀኖት እቅ፤ ህከ ቤቹ መኑ አሜተን ጠመቀመኖት እቅ። <verse eid="JHN 3:23"/><verse number="24" style="v" sid="JHN 3:24"/>ያህይ ህከ ወክት ኡሱር ምኒ ኣጎበአ እቅ።<note caller="-" style="x"><char style="xo" closed="false">3፥24 </char><char style="xt" closed="false"><ref loc="MAT 14:3">ማቶ. 14፥3</ref>፤ <ref loc="MRK 6:17">ማር. 6፥17</ref>፤ <ref loc="LUK 3:19-20">ሉቃ. 3፥19-20</ref>።</char></note><verse eid="JHN 3:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 3:25"/>ያህይ አዎናኖለከ መቶ አይሁድ<note caller="+" style="f"><char style="fqa" closed="false">አይሁደ፦ </char><char style="ft" closed="false">የኖሁ መት-መቱ ሉህ ክታበት «ቀዎ አይሁዲን» ይታአ።</char></note> መንች በላን ሴርሰ ሃሊን ነጠ እህተኔሃ ኦደት ኬኦኡ። <verse eid="JHN 3:25"/><verse number="26" style="v" sid="JHN 3:26"/>ያህይ አዎናኑት ሆንጠክ «አስተማርቾ! ዮርዳኖስ ዊ ዉድ አዲን ኪን ሜጡበ ሄዕዮእቂሁ አት እስተኔሃ መሰከርቶንቲሁ ጠመቀኖት፤ ህትን መኑ ጉዕሙንኩ እስበ መረኖት» ይት ኩልቶስ።<verse eid="JHN 3:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JHN 3:27"/>ያህይን «ሰሜች ኣሰምባች ሀኩ መንቹሁ መቱርቹሃ ኣኦተ አታለኖበአ። <verse eid="JHN 3:27"/><verse number="28" style="v" sid="JHN 3:28"/>‹አን እሲች ሄጭ ሶሀሞም ቤሉ አን መሲህበአ› ይ ኩሎንክዕኔገን አዕኑ ገዉንኩክዕኔን ምስክርሃን።<note caller="-" style="x"><char style="xo" closed="false">3፥28 </char><char style="xt" closed="false"><ref loc="JHN 1:20">ያህ. 1፥20</ref>።</char></note> <verse eid="JHN 3:28"/><verse number="29" style="v" sid="JHN 3:29"/>እዜቹት ዮሲሁ እዜቹሃን፤ ጠዉ እኮጎሬ እዜች ጃሉ እዜች መዴን ኡር ላገስ ሞጮጨን ሙንደአኖ፤ ህትን አን ቴሱ ዊመ ሙንዲኑተ ደእዮም። <verse eid="JHN 3:29"/><verse number="30" style="v" sid="JHN 3:30"/>አን እሲች ሆፈአን እስን ኢች በተአን መሩ ሀስሰኖስ» ዬእ።<verse eid="JHN 3:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="JHN 3:31"/>አሊች አሜተኖሁ እስ ጉዕሚችን ሎረሃን፤ ከን ኡላች እሀኖሁ ጉዕሙንኩ ኡላሃን፤ ከን ኡለ አል ጠወ ጠወአኖ፤ ሰሜች አሜተኖሁ እስ ጉዕሚችን ሎረሃን። <verse eid="JHN 3:31"/><verse number="32" style="v" sid="JHN 3:32"/>እስ ለዕዮሃለከ ሞጮጬኢሃ መሰከረኖ፤ ጠዉ እኮጎሬ እስ መሰከሮሃ አዪሁ ቶገኖበአ። <verse eid="JHN 3:32"/><verse number="33" style="v" sid="JHN 3:33"/>እስ መሰከሮሃ ቶገኖሁ መገኑ ሀንቅ እሁስ ደገን ቶጎእሃን። <verse eid="JHN 3:33"/><verse number="34" style="v" sid="JHN 3:34"/>መሰንትስ መገኑ ሶኮሲሁ መገን ላገተ ጠወአኖቤቺሃ ጠሊለ አያነስ በትሽ ኣሰኖስ።<verse eid="JHN 3:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="JHN 3:35"/>አኑ ቤቱስ ኢተኖቤቺሃ ጉዕመርቹንከ አንገስ ህግሽ ኣስዮስ።<note caller="-" style="x"><char style="xo" closed="false">3፥35 </char><char style="xt" closed="false"><ref loc="MAT 11:27">ማቶ. 11፥27</ref>፤ <ref loc="LUK 10:22">ሉቃ. 10፥22</ref>።</char></note> <verse eid="JHN 3:35"/><verse number="36" style="v" sid="JHN 3:36"/>መገን ቤቶን አመዕነኖሁ ጉዕሙንኩ ዘላለሚሃ ሄአኖ ሄኡ ደአኖ፤ መገን ቤቶን አመዕንበሀን አሌን መገን ኡሙዕርት እካ ቤሉ ዘላለሚሃ ሄአኖ ሄኡ ደአኖበአ።<verse eid="JHN 3:36"/></para>
+  <chapter eid="JHN 3"/>
+  <chapter number="4" style="c" sid="JHN 4"/>
+  <para style="s1">ኢሰለከ ሰማር ባድ መንቹተ</para>
+  <para style="p">
+    <verse number="1-3" style="v" sid="JHN 4:1-3"/>ህከ ወክት ኢሳ አሳበስ ያህይ አዎናኖች በተኦገለከ ልግብ መነ ኢስ ጠመቀኖገ ፈርሳውት ሞጮጩሰ ኢስ ደጎ ወክት ይሁድ ባዱ አጉር ለንኪሃ ገሊለተ ኦሮዕዮ፤ ጠው እኮጎሬ ኢስ አሳበት ጠመቃኢት ቤሉ ኢስ ገዉስ ጠመቆበአ። <verse eid="JHN 4:1-3"/><verse number="4" style="v" sid="JHN 4:4"/>ህከ ቤቹ መረን ሰማር ባዲን ህጉ ሀስሾስ እቅ። <verse eid="JHN 4:4"/><verse number="5" style="v" sid="JHN 4:5"/>ህካን እኮቤቺሃ ያቁብ ቤትሀስ ዩሱፊሃ ኣሴ ኡለ መዴን ሰማር ባዶን ሄዕዮ «ሲካረ» ዬኖ ሰማር ከተመ አሜቾ።<note caller="-" style="x"><char style="xo" closed="false">4፥5 </char><char style="xt" closed="false"><ref loc="GEN 33:19">ክል. 33፥19</ref>፤ <ref loc="JOS 24:32">ኢያ. 24፥32</ref>።</char></note> <verse eid="JHN 4:5"/><verse number="6" style="v" sid="JHN 4:6"/>ህከን ቤቾን ያቁብ ዊ ኤሎሁ ሄዕዮ እቅ፤ ኢስ ዎቀሃ ሃም ሆጎቤቺሃ ህከን ኤሌ መዴን አፉዕሌእ፤ ወክቱስን ሌሁ ሳት እኮ እቅ።<verse eid="JHN 4:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 4:7"/>ህከ ወክት መት ሰማር ባድ መንቹት ዋሃ እንኪልቶተ አሜቶኡ፤ ኢስን ህተ መንቹተ «ዊች አግሴኤ» ዬሴ። <verse eid="JHN 4:7"/><verse number="8" style="v" sid="JHN 4:8"/>አሳበስ እቸተ ህዕርቶተ ከተመ መርቶ እቅ። <verse eid="JHN 4:8"/><verse number="9" style="v" sid="JHN 4:9"/>ህት መንቹንት ፈንቀሽት «አት አይሁድቹ እክ ኤሳሃ ሰማር ባዲተ ሀት ‹ዊች አግሴኤ› ይት ጠዕምታንቴኤት?» ይቶስ፤ ህት ይቶኢንኩ አይሁድ መኑ ሰማር መኒን ቶቀንታበእቤቺሃት።<note caller="-" style="x"><char style="xo" closed="false">4፥9 </char><char style="xt" closed="false"><ref loc="EZR 4:1-5">ኢዝ. 4፥1-5</ref>፤ <ref loc="NEH 4:12">ነህ. 4፥12</ref>።</char></note><verse eid="JHN 4:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JHN 4:10"/>ኢስን «መገን ኣስቱተለከ ‹ዊች አግሴኤ› ያኖሄሁ አዬት ጎሬ ደጎንት እቀ አት እሱ ኡጭታንትስ እቅ፤ እስንገ ህትን ሄእ ዋሃ ኣሰኖሄ እቅ» ዬሴ።<verse eid="JHN 4:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 4:11"/>መንቹንት ፈንቀሽት «ቀርቾ! ኬሳሃ እንኪልታንቲንኩ ዮሄበአ፤ ህትን ኤሎንኩስ ሂለ ጌሰ ጥዕላሸሃን፤ ከ ሄእ ዋሃ ሀከንቤቺች ኤበን? <verse eid="JHN 4:11"/><verse number="12" style="v" sid="JHN 4:12"/>ሀንቅንከ አት ከ ዊ ኤሎ ኣሴኔ አኒችኔ ያቁቢች በተአንንዶ? እስ፥ ኦሱስለከ ግዙስ ከን ኤሌ ዊች አጎኡ» ይቶኡ።<verse eid="JHN 4:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JHN 4:13"/>ህትን ኢስ «ከን ዊች አገኖሁ ጉዕሙንኩ ለንኪሃ ሰገበኖስ። <verse eid="JHN 4:13"/><verse number="14" style="v" sid="JHN 4:14"/>ጠው እኮጎሬ አን ኣሳም ዊች አገኖሁ ጉዕሙንኩ ሆሮን ሰገበኖበአ፤ መሰንትስ ኣሳም ውሁ እስ ኣዜን ዘላለም ሄአኖ ሄኡ ቡቃ ዊ ቡቁተ እሀኖ» ዬስ።<verse eid="JHN 4:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="JHN 4:15"/>መንቹንት «ቀርቾ! ከኒች ኤተሪሃ ሰገብበኤገለከ ህትን ከቤቹንከ ዋሃ እንኪሎተ አሜትበገ ህከ ዋሃ ኣሴኤ» ይቶኡ።<verse eid="JHN 4:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 4:16"/>ኢስን መንቹተ «መርት ምንክ አነ አፍ ከቤቹ አም» ዬሴ።<verse eid="JHN 4:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JHN 4:17"/>እሴን «ምኒ አኑ ዮኤበአ» እስን «ምኒ አኑ ዮኤበአ ይቶንቲሁ ሀንቅሃን። <verse eid="JHN 4:17"/><verse number="18" style="v" sid="JHN 4:18"/>ጠዉ እኮጎሬ ኦንቱ ምኒ አኑ ሄዕዮሄ እቅ፤ ህትን ቴሁ ኪን ዮኢሁ ምኒክሃ መንቹበአ፤ ህካን እኮቤቺሃ ሀንቅ ጠወኦንት» ዬሴ።<verse eid="JHN 4:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 4:19"/>መንቹንት «ቀርቾ! አት ራጋንቹ እኮንትገ ቴ ደጎም። <verse eid="JHN 4:19"/><verse number="20" style="v" sid="JHN 4:20"/>አናከክዕኔ ተን ቆታን ሰገዶኡ፤ ጠው እኮጎሬ አዕኑ አይሁዱ ‹መኑ መገኒሃ ሰገዱ ሀስሰኖሁ ዬሩሳሌማኒት› ይቴነንተ» ይቶኡ።<verse eid="JHN 4:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="JHN 4:21"/>ህትን ኢስ «ቴ መንቾ! አነ መገኒሃ ሰገዴነንተ ተን ቆተ አሌን ህከረንገ ዬሩሳሌማን እሀኖበእ ወክቱ አሜተኖገ አመዕኔኤ። <verse eid="JHN 4:21"/><verse number="22" style="v" sid="JHN 4:22"/>አዕኑ ሰማር ባድ መኑ ደጌንበሀኒሃ ሰገዴነንተ፤ ጠዉ እኮጎሬ ነኡ ጡሙ አሜተኖሁ አይሁዲች እኮቤቺሃ ደንጋም መገኒሃ ሰገንዳም። <verse eid="JHN 4:22"/><verse number="23" style="v" sid="JHN 4:23"/>ህትን ሀንቂን ሰገዳእሩ አነ መገኒሃ ዊመ አያኒንለከ ሀንቂን ሰገዳ ወክቱ አሜተኖ፤ ወክቱንኩስ ከኒት፤ አኑ መገኑንኩ ሀሰኖሁ ህት ሰገዳእራት። <verse eid="JHN 4:23"/><verse number="24" style="v" sid="JHN 4:24"/>መገኑ አያነሃን፤ ሰገዳእሩ አያኒንለከ ሀንቂን ሰገዱ ሀስሰኖሰ» ዬእ።<verse eid="JHN 4:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 4:25"/>መንቹንት « ‹መሲህ› የመመኖሁ አሜተኖገ ደጋም፤ እስ አሜቾ ወክት ጉዕመርቹንከ ኩለኖኔ» ይቶኡ።<verse eid="JHN 4:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 4:26"/>ኢስ «ቴሱ ጠወኣንኬሁ አን እሶት» ዬሴ።<verse eid="JHN 4:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JHN 4:27"/>ህከ ወክት አሳበስ መርቶ አዲች አሜቶኡ፤ እሰን ኢስ መንቾን ጠወአን ለእ አበ አጀብሲጭቶኡ፤ ጠዉ እኮጎሬ «መ ሀሶንት? ህከረንገ እሴን ሚሃ ጠወኣንቲት?» ይ ጠዕሜሲሁ አዪሁ ዮበአ።<verse eid="JHN 4:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JHN 4:28"/>ህከ ወክት መንቹት ዊ ኮሩ ህከን ቤቾን አጉርት ከተመ መርት መኒሃ <verse eid="JHN 4:28"/><verse number="29" style="v" sid="JHN 4:29"/>«አሜ! አን አዕዮም ጠወ ጉዕመንከ ኩሎኤ መንቹ ለዕዬ፤ አይደጎ እስ መሲህት ጎር?» ይት ኩልቶኡ። <verse eid="JHN 4:29"/><verse number="30" style="v" sid="JHN 4:30"/>መኑንኩ ከተሚች ፉል እስበ መረኖት እቅ።<verse eid="JHN 4:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="JHN 4:31"/>ህከ ወክትንከ አሳ «አስበስ አስተማርቾ! እቸተ እት» ይት ኡጭቶስ።<verse eid="JHN 4:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="JHN 4:32"/>ጠዉ እኮጎሬ ኢስ እሳሃ «አዕኑ ደጌንቡ አን እታም እቸት ዮኤ» ዬሰ።<verse eid="JHN 4:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="JHN 4:33"/>አሳበስ ገገዉንኩሰን «መኑ እቸተ ኤቦስጎሬ?» የቀንቶኡ። <verse eid="JHN 4:33"/><verse number="34" style="v" sid="JHN 4:34"/>ኢስን ፈንቀሽ «ኢ እቸት ሶኮኤሀን ቀልብስ ጠወ ዊንሾሃለከ ሆጉስ ሹል አኡሃን። <verse eid="JHN 4:34"/><verse number="35" style="v" sid="JHN 4:35"/>አዕኑ ‹ምዴኖ ወክቱ ኢሎተ ሾሉ አገኑ ፈቆኡ› ይቴነንታበእንዶ? እኮጎሬ አን እልክዕኔ አሌ ዋሽቴን ውጠተ ምዴኖገ ሆንጠሁስ ለእዬ ያንክዕኔ። <verse eid="JHN 4:35"/><verse number="36" style="v" sid="JHN 4:36"/>ምደኖሁ ሆጎስ ሁንክ ኣአኖ፤ ዘላለሚሃ ሄኡ እሀኖ ላልቹ ጭምአአኖ፤ ህካን እኮቤቺሃ ዉጠኖሁለከ ምደኖሁ ሜጡበ ሙንደኣአ። <verse eid="JHN 4:36"/><verse number="37" style="v" sid="JHN 4:37"/>‹መቱ ውጠኖ፤ ዎሉስንገ ምደኖ› የመሞሁ ሀንቅ እሀኖ። <verse eid="JHN 4:37"/><verse number="38" style="v" sid="JHN 4:38"/>አንን አዕኑ ኦርጨቀንቴንታበኢሃ ምዶኖተ ሶኮንክዕኔ፤ ዎሉ መኑ ህከን ሆጎን አበ ሆጎኡ፤ እሰ ሁንኪን አዕኑ ደግለሸቀንቴንታአ» ዬሰ።<verse eid="JHN 4:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="JHN 4:39"/>ህት መንቹንት «አዕዮም ጠወ ጉዕመንከ ኩሌኤ» ይት መሰከርቶ ጠወ ሞጮጭቶ ህከን ከተማን ሄኣ ልግቡ ሰማር ባድ መኑ እሲን አመዕንቶኡ። <verse eid="JHN 4:39"/><verse number="40" style="v" sid="JHN 4:40"/>ሁኩ መኑንኩ ኢስበ አሜቶ ወክት እሰቤቾን አፉዕሎተ ኡጭቶስ፤ እስን ለሙ በር ህከን ቤቾን አገሮ።<verse eid="JHN 4:40"/></para>
+  <para style="p">
+    <verse number="41" style="v" sid="JHN 4:41"/>እስ ጠወዕዮ ጠውተኔሃ ዎሉ ልግቡ መኑሁ እሲን አመዕንቶኡ። <verse eid="JHN 4:41"/><verse number="42" style="v" sid="JHN 4:42"/>እሰን መንቹተ «ነኡ ቴሱ እሱ አመዕንናሚሁ አት ኩልቶንትኔቤቺሃ እሁዕነ ነኡ ገውንኩኔ እሲች ሞጮጭኖምቤቺሃትለከ እስ ሀንቅንከ ከን ኣዱንያ አሊሃ ጡምሳንቹ እሁስ ደንጎምቤቺሃት» ይቶኡ።<verse eid="JHN 4:42"/></para>
+  <para style="s1">ኢስ ሹም ቤቱ ፈይሱስ</para>
+  <para style="p">
+    <verse number="43" style="v" sid="JHN 4:43"/>ኢስ ሰማር ባዶን ለሙ በር ዱንኬኢች ኤተሮን ገሊለ ባዱ ኦሮዕዮ። <verse eid="JHN 4:43"/><verse number="44" style="v" sid="JHN 4:44"/>ኢስ «ነብዬቹ ገይስ ባዶን ከበጀመኖበአ» ይ ጠወዕዮ እቅ።<note caller="-" style="x"><char style="xo" closed="false">4፥44 </char><char style="xt" closed="false"><ref loc="MAT 13:57">ማቶ. 13፥57</ref>፤ <ref loc="MRK 6:4">ማር. 6፥4</ref>፤ <ref loc="LUK 4:24">ሉቃ. 4፥24</ref>።</char></note> <verse eid="JHN 4:44"/><verse number="45" style="v" sid="JHN 4:45"/>ጠዉ እኮጎሬ እስ ገሊለ ባዱ አሜቾ ወክት መኑ ጡመ ሃሊን ቶጎስ፤ መሰንትስ እሰን ሻሽግ ከበጀተ ከበጅቶተ ዬሩሳሌመ መርቶ ወክት እስ ህከጴ አዕዮ ጠወ ጉዕመንከ ለኦ እቅ።<note caller="-" style="x"><char style="xo" closed="false">4፥45 </char><char style="xt" closed="false"><ref loc="JHN 2:23">ያህ. 2፥23</ref>።</char></note><verse eid="JHN 4:45"/></para>
+  <para style="p">
+    <verse number="46" style="v" sid="JHN 4:46"/>ህከኒች ኤተሮን ኢስ ዋሃ ዎይን ጠጀ አዕዮ ገሊለ ባዶን ሄዕዮ «ቃነ» ዬኖቤቹ ለንኪሃ መሮ፤ ህከ ወክት ቅፍርናሆማን ቤቱስ ጥዦ መቱ ዎም ምኒ ሹሙ ሄዕዮ እቅ።<note caller="-" style="x"><char style="xo" closed="false">4፥46 </char><char style="xt" closed="false"><ref loc="JHN 2:1-11">ያህ. 2፥1-11</ref>።</char></note> <verse eid="JHN 4:46"/><verse number="47" style="v" sid="JHN 4:47"/>እስን ኢስ ይሁድ ባዲች ገሊለ ባዱ አሜቱስ ሞጮጭ ኢስበ ኦሮዕዮ፤ ሬሀኖ ጌሰ ጥዦ ቤቱስ ቅፍርናሆመ መር ፈይሶስተ ኢሰ ኡጬስ። <verse eid="JHN 4:47"/><verse number="48" style="v" sid="JHN 4:48"/>ኢስን «አዕኑ መላተለከ አጀብሲሰኖርቹ ለኤንባች አመዕንቴነንተበአ» ዬሰ።<verse eid="JHN 4:48"/></para>
+  <para style="p">
+    <verse number="49" style="v" sid="JHN 4:49"/>ሁኩ ሹሙንኩ «ቀርቾ! ቤቱእ ሬሁዕናን ኢንን ደዕልት ኬእ» ዬእ።<verse eid="JHN 4:49"/></para>
+  <para style="p">
+    <verse number="50" style="v" sid="JHN 4:50"/>ኢስን «ምንክ ኦሮእ፤ ቤቱክ ፈየኖ» ዬስ፤ መንቹንኩ ኢስ ዬኢሃ አመዕን ምንስ ኦሮዕዮ።<verse eid="JHN 4:50"/></para>
+  <para style="p">
+    <verse number="51" style="v" sid="JHN 4:51"/>እስን ምንስ መረን ዎቄ አሌን ሄዕዮገን ካዲመስ ደቀንት «ቤቱክ ፈይዮኡ» ይቶኡ።<verse eid="JHN 4:51"/></para>
+  <para style="p">
+    <verse number="52" style="v" sid="JHN 4:52"/>መንቹንኩ ቤቱስ ፈዬኢሁ ሄንከ ሳኣቴን እኮጎር ጠዕሜሰ፤ እሰን «ደሙምት አጉርቶሲሁ ቤሬተ ለመለ ሳኣቴኒት» ይቶኡ። <verse eid="JHN 4:52"/><verse number="53" style="v" sid="JHN 4:53"/>ጩልስ አኑንኩ ኢስ «ቤቱክ ፈየኖ» ዬ ወክቴን እሁስ ደጎ፤ ህካን እኮቤቺሃ ሁኩ መንቹለከ ምንስ አበሮሱ ኢሳን አመዕንቶኡ።<verse eid="JHN 4:53"/></para>
+  <para style="p">
+    <verse number="54" style="v" sid="JHN 4:54"/>ሁኩ አጀብሲሰኖ ጠዉ ኢስ ይሁድ ባዲች ገሊለ ባዱ አሜቾ ወክት አዕዮ ለንኪሃ አጀብሲሰኖሃ ጠወ።<verse eid="JHN 4:54"/></para>
+  <chapter eid="JHN 4"/>
+  <chapter number="5" style="c" sid="JHN 5"/>
+  <para style="s1">ኢስ መቱ ናፈ መንቹ ፈይሱስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 5:1"/>ህከኒች ኤተሮን አይሁድ ከበጀት ከበጄኖ ወክቱ ኢሌቤቺሃ ኢስ ዬሩሳሌመ ኦሮዕዮ። <verse eid="JHN 5:1"/><verse number="2" style="v" sid="JHN 5:2"/>ዬሩሳሌማን ሆለ ኡሮ መዴን እብራዌ መን አፎን «ቤተ ሳይዳ» ዬኖቤቾን መት ቡቁት ሄኦ እቅ፤ ህከኔን ኣጌኖ ኦንት ጎልጌ ኡሩት ሄኦ እቅ። <verse eid="JHN 5:2"/><verse number="3" style="v" sid="JHN 5:3"/>ህከንቤቾንን ልግቡ ጥዘናመተ፥ ቆቃኑተ፥ ድናኑተለከ ናፋኑተ ህከን ህጌኖ ኦንቴ ጎልጌ ኡሮን ኦሰእ ውሁ ሌንቄቀኖገ አገርታኢት እቅ። <verse eid="JHN 5:3"/><verse number="4" style="v" sid="JHN 5:4"/>መት-መቱ ወክት ቀርች መላይኬቹ ድር ህከ ዋሃ ሌንቄቅሰኖ እቅ፤ ሁኩን ሌንቄቄኢች ኤተሮን ሄጭ ህከ ዊ ኣዝ ኣጎ መንቹ ዮስ ጥዘናች ፈየኖ እቅ።<note caller="+" style="f"><char style="fqa" closed="false">መት-መቱ ወክት ቀርች መላይኬቹ ድር ህከ ዋሃ ሌንቄቅሰኖ እቅ፤ ሁኩን ሌንቄቄች ኤተሮን ሄጭ ህከ ዊ ኣዝ ኣጎ መንቹ ጥዘናችስ ፈየኖ፦ </char><char style="ft" closed="false">የኖሃ ብርተ ሄኦ ሉህ ኪታበት ዎሊንሽ 4 ዮኢሃ በርግታበአ።</char></note> <verse eid="JHN 5:4"/><verse number="5" style="v" sid="JHN 5:5"/>ህከንቤቾንን ሰጅኔ ህዜቱ ዘማን ጥዦ ጥዘናሙ ሄዕዮ እቅ። <verse eid="JHN 5:5"/><verse number="6" style="v" sid="JHN 5:6"/>ኢስን ሁኩ መንቹ ህከኔ ኦሰዕዮሃ ለዕይ ልግብያ ዘማኒች ኬሽ ጥዦ እሁስ ደግ «ፈይቶተ ሀሰንንዶ?» ይ ጠዕሜስ።<verse eid="JHN 5:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 5:7"/>ሁኩ ጥዘናሙንኩ «ቀርቾ! ውሁ ሌንቄቄ ወክት ኤሳሃ መስ ህከን ዋን ኣግሰኖኤ መኑ ዮኤበአ፤ አን መሮተ እሀንን ዎሉ መኑ ኤሳሃ ሄጭ ኣገኖ» ዬእ።<verse eid="JHN 5:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JHN 5:8"/>ኢስን «ኬእ! ኦሰኦንት ዴሰክ እጅት ኦሮእ» ዬስ። <verse eid="JHN 5:8"/><verse number="9" style="v" sid="JHN 5:9"/>ሁኩ መንቹ ወክትንከስ ፈይ ዴሰስ እጅ ኦሮዕዮ፤ ሁኩንን እኮሁ ፎሎጭ በሬኔት እቅ። <verse eid="JHN 5:9"/><verse number="10" style="v" sid="JHN 5:10"/>ህካን እኮቤቺሃ አይሁድ አዎንሳኑት ህከን ጥዘናች ፈዬ መንቺን ደቀንት «ከበር ፎሎጬኖ በር እኮቤቺሃ ኦሰኦንት ዴሰ እጁ ሕጉ ፈቀደኖሄበአ» ይቶስ።<note caller="-" style="x"><char style="xo" closed="false">5፥10 </char><char style="xt" closed="false"><ref loc="NEH 13:19">ነህ. 13፥19</ref>፤ <ref loc="JER 17:21">ኤር. 17፥21</ref>።</char></note><verse eid="JHN 5:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 5:11"/>ጠው እኮጎሬ እስ «ኤሳሃ ፈይሾ መንቹ ‹ዴሰክ እጅት ኦሮእ› ዬኤ» ይ ፈንቀሼሰ።<verse eid="JHN 5:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 5:12"/>እሰን «ዴሰክ እጅት ኦሮእ ዬሄ መንቹ አዬት?» ይት ጠዕምቶስ።<verse eid="JHN 5:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JHN 5:13"/>ህከን ቤቾን መኑ በተዕዮቤቺሃለከ ኢስ ህከንቤቺች ዎሉቤቹ ኦሮዮቤቺሃ ሁኩ መንቹ ፈይሾሲሁ አዬት ጎር ደጎበአ እቅ።<verse eid="JHN 5:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 5:14"/>ህከኒች ኤተሮን ኢስ ህከን መንቺን መገን ምኔን ደቀም «ቴሱ ፈይቶንት፤ ከኒች ኤተሮን ባሰኖርቹ አፈኖሄበእገ ጩብ አቶት» ዬስ።<verse eid="JHN 5:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="JHN 5:15"/>ሁኩ መንቹንኩ ፈይሾሲሁ ኢሰ እሁስ መር አይሁድ ሹማተ ኩሎሰ። <verse eid="JHN 5:15"/><verse number="16" style="v" sid="JHN 5:16"/>ህትኔ ጠወ አበ በሬን አዕዮቤቺሃ አይሁድ ሹመት ኢሰ ሂለ ጠዊን ሆችታሲት እቅ። <verse eid="JHN 5:16"/><verse number="17" style="v" sid="JHN 5:17"/>ጠዉ እኮጎሬ ኢስ «አኑኤ ጉዕመረን አአኖት፤ ህትን አኒሁ አኣሚት» ይ ፈንቀሼሰ።<verse eid="JHN 5:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JHN 5:18"/>ኢስ ህት ዩስ አይሁድ አዎንሳኑት እሱ ሽቶተ አበ ኬሰንሴሰ፤ መሰንትስ እስ አበ በሬን ጠለዕል ሆጉተ አኡ እሁዕነ «መገኑ አናኤ» የን ገዉስ መገኒን ቅጥ አዕዮቤቺሃት።<verse eid="JHN 5:18"/></para>
+  <para style="s1">መገን ቤት ዳኝነቱ</para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 5:19"/>ኢስን ፈንቀሽ «ሀንቅንከ ያንክዕኔ፤ አኑ አአን ለዕዮሃ አእ ቤሉ ቤቱ ገይንከስ መቱርቹሃ አአኖበአ፤ አኑ አአኖሃ ቤቱሁ ህትን እስገን አአኖ። <verse eid="JHN 5:19"/><verse number="20" style="v" sid="JHN 5:20"/>መሰንትስ አኑ ቤቱስ ኢተኖ፤ ህትን አአኖሃ ጉዕመንከ እሲሃ ለሊሰኖ፤ አዕኑን አጀብሲጭቶኖተ ከኒች በተአኖሃ ለሊሰኖስ። <verse eid="JHN 5:20"/><verse number="21" style="v" sid="JHN 5:21"/>አኑ ሬሆች ኬሽ ሄኡ ኣሰኖሰገን ቤቱሁ ህትን ኣሶተ ሀሾ መኒሃ ሄኡ ኣሰኖ። <verse eid="JHN 5:21"/><verse number="22" style="v" sid="JHN 5:22"/>አኑ አዬ አሌኒ ፈረደኖበአ፤ ጠዉ እኮጎሬ ፈረዶተ አታለኖ ዎልቀተ ጉዕመንከ ቤቲሃ ኣስዮስ። <verse eid="JHN 5:22"/><verse number="23" style="v" sid="JHN 5:23"/>ካን አዕዮሁ መኑ ጉዕሙንኩ አነ ኬዕምሰኖገን ቤቱሃ ኬዕምሶታት፤ ቤቱ ኬዕምስባሁ ሶኮስ አነሃ ኬዕምሰኖበአ።<verse eid="JHN 5:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JHN 5:24"/>«ሀንቅንከ ያንክዕኔ፤ ላገእ ሞጮጨኖሀኒሃለከ ሶኮኤሃ አመዕነኖሀኒሃ ዘላለሚሃ ሄአኖ ሄኡ ሄአኖስ፤ እስ ሬሆች ሄኦን ህጎ ቤሉ ፈረደመኖስበአ። <verse eid="JHN 5:24"/><verse number="25" style="v" sid="JHN 5:25"/>ሀንቅንከ ያንክዕኔ፤ ሬቶእሩ መገን ቤት ላገተ ሞጮጭታ ወክቱ አሜተኖ፤ ወክቱንኩስ ከኒት፤ ሞጮጭታእሩ ፎልን ሄኣአ። <verse eid="JHN 5:25"/><verse number="26" style="v" sid="JHN 5:26"/>መሰንትስ አኑ ሄእ ቡቁተ እኮገን ቤቱሁ ሄእ ቡቁተ እሀኖገ አዕዮስ። <verse eid="JHN 5:26"/><verse number="27" style="v" sid="JHN 5:27"/>ህትን አኑ ዊመ ዎልቀተ ኣሴስ ቤቱስ እስን መንች ቤቱ የመመኖሁ ፍርደ ፈረዶተ ሹምነቱ ኣስዮስ። <verse eid="JHN 5:27"/><verse number="28" style="v" sid="JHN 5:28"/>ከኒን አጀብሲጭቶኖቼ፤ ሎድ ኣዜን ሄኦእሩ እስ ላገተ ሞጮጭት ሎዲች ፉልታ ወክቱ አሜተኖ። <verse eid="JHN 5:28"/><verse number="29" style="v" sid="JHN 5:29"/>ጡመ ሆጉተ አቶእሩ ሬሆች ኬእ ፎሊን ሄኣአ፤ ጠዉ እኮጎሬ ሂለ ሆጉተ አቶእሩ ሬሆች ኬኣን አሌሰ ፈረደመኖሰ» ዬሰ።<note caller="-" style="x"><char style="xo" closed="false">5፥29 </char><char style="xt" closed="false"><ref loc="DAN 12:2">ዳን. 12፥2</ref>።</char></note> <verse eid="JHN 5:29"/><verse number="30" style="v" sid="JHN 5:30"/>ህትን ኢስ «አን ገይእ ዎልቃን መቱርቹሃ አኦተ አታላምበአ፤ ጠዉ እኮጎሬ አኒችኤ ሞጮጬሚሃ ፈረዳም፤ ሶኮኤሀን ሃሽኣቶ ቤሉ ገይኤ ሃሽኣቱተ ዊንሻምበእቤቺሃ ፍርዱእ ሀንቅሃን።<verse eid="JHN 5:30"/></para>
+  <para style="s1">ኢስተኔ መሰከርቶ መነ</para>
+  <para style="p">
+    <verse number="31" style="v" sid="JHN 5:31"/>«አን ገይኤተኔ መሰከሮም ጎሬ ምስክሩስ ሀንቅ እሁስ ለለኖበአ። <verse eid="JHN 5:31"/><verse number="32" style="v" sid="JHN 5:32"/>ጠዉ እኮጎሬ ኢተኔሃ መሰከረኖሁ ዎሉ ዮኡ፤ እስን ኢተኔሃ መሰከረኖ ምስክሩ ሀንቅ እሁስ ደጋም። <verse eid="JHN 5:32"/><verse number="33" style="v" sid="JHN 5:33"/>አዕኑ ያህይቤቹ ሶቀማኑተ ሶኬንታአ እቅ፤ እስን ሀንቅተኔሃ ኩሎህዕኔ።<note caller="-" style="x"><char style="xo" closed="false">5፥33 </char><char style="xt" closed="false"><ref loc="JHN 1:19-27">ያህ. 1፥19-27</ref>፤ <ref loc="JHN 3:27-30">3፥27-30</ref>።</char></note> <verse eid="JHN 5:33"/><verse number="34" style="v" sid="JHN 5:34"/>አን መን ምስክር ቶጉ ሀስሰኖኤበአ እቅ፤ ጠዉ እኮጎሬ አዕኑ ጡምቶኖተ ይ ከ ጠወ ያም። <verse eid="JHN 5:34"/><verse number="35" style="v" sid="JHN 5:35"/>ያህይ ቡበኖለከ ለሊሰኖ ኩራዝጋት፤ አዕኑ ቀዎ ወክቲሃ እስ ኑሬን ሙንደኤነንተ። <verse eid="JHN 5:35"/><verse number="36" style="v" sid="JHN 5:36"/>ጠዉ እኮጎሬ ኤሳሃ ያህዪች በተአኖ ምስክሩ ዮኤ፤ ሁኩንን ሹል አኦተ አኑኤ ኣስዮኤተ ሆጉ፤ ሁኩ አን አኣም ሆጉት አኑኤ ኤሳሃ ሶሁስ ለሊሳእተ። <verse eid="JHN 5:36"/><verse number="37" style="v" sid="JHN 5:37"/>ኤሳሃ ሶኮ አኑኤ ገዉንኩስ ኢተኔሃ መሰከሮኡ፤ እኮጎሬሁ አዕኑ ላገሲ ሞጮጭቴንታበአ፤ ህትን ገዉሲ ለኤንታበአ።<note caller="-" style="x"><char style="xo" closed="false">5፥37 </char><char style="xt" closed="false"><ref loc="MAT 3:17">ማቶ. 3፥17</ref>፤ <ref loc="MRK 1:11">ማር. 1፥11</ref>፤ <ref loc="LUK 3:22">ሉቃ. 3፥22</ref>።</char></note> <verse eid="JHN 5:37"/><verse number="38" style="v" sid="JHN 5:38"/>እስ ሶኮሀኒን አመዕንቴነንተበእቤቺሃ እስ ላገት ክዕኔቤቾን ሄኣበአ። <verse eid="JHN 5:38"/><verse number="39" style="v" sid="JHN 5:39"/>አዕኑ ዘላለሚ ሄኡ ጠሊለ መጻፋች ደዕቴነንታሃ አጉጃንክዕኔ እሰተ መረመርቴነንታት፤ እሳሁ ኢተኔ መሰከርታእራን። <verse eid="JHN 5:39"/><verse number="40" style="v" sid="JHN 5:40"/>እኮጎሬሁ አዕኑ ሄኡ ደዕቶኖተ ኢቤቹ አሜቱ ግቤንታአ።<verse eid="JHN 5:40"/></para>
+  <para style="p">
+    <verse number="41" style="v" sid="JHN 5:41"/>«አን መኑ ኬዕምሶኤተ ሀሳምበአ። <verse eid="JHN 5:41"/><verse number="42" style="v" sid="JHN 5:42"/>እኮጎሬሁ ክዕኔኤ ቀልቤን መገን ኢተት ዮበኢሃ እሁስ ደጎም። <verse eid="JHN 5:42"/><verse number="43" style="v" sid="JHN 5:43"/>አን አንኤ ሱዕሚን አሜቾምጎሬሁ ቶጌንታኤበአ፤ ጠዉ እኮጎሬ ዎሉስ ገይስ ሱዕሚን አሜቻን ቶጌነንተስ። <verse eid="JHN 5:43"/><verse number="44" style="v" sid="JHN 5:44"/>አዕኑ መት-መቱክዕኔ ኬዕምሴንተሩለከ ሜጡዋ መገኒች ኬዕምኝ ሀሴንበሩ ሀት እኬን ኢን አመዕንቶኖተ አታልቴነን? <verse eid="JHN 5:44"/><verse number="45" style="v" sid="JHN 5:45"/>አን አንኤ ብሬን ኦዳሚሃ አጉዱንከህዕኔ፤ ኦደኖህዕኔሁ አዕኑ ተቢሳ አቴነንተ ሙሳት። <verse eid="JHN 5:45"/><verse number="46" style="v" sid="JHN 5:46"/>አዕኑ ሙሰ አመዕንቴንተ እቃ ኤሳሁ አመዕንቴነንተ እቅ፤ መሰንትስ እስ ኢተኔሃ ከተቦኡ። <verse eid="JHN 5:46"/><verse number="47" style="v" sid="JHN 5:47"/>እስ ከተቦሃ አመዕንቴንባች ኢ ላጋን ሀት እኬን አመዕንቶኖተ አታልቴነን?» ዬሰ።<verse eid="JHN 5:47"/></para>
+  <chapter eid="JHN 5"/>
+  <chapter number="6" style="c" sid="JHN 6"/>
+  <para style="s1">ኢስ ኦንቱ ኩሜ መነ እትሱስ</para>
+  <para style="r">(<ref loc="MAT 14:13-21">ማቶ. 14፥13-21</ref>፤ <ref loc="MRK 6:30-44">ማር. 6፥30-44</ref>፤ <ref loc="LUK 9:10-17">ሉቃ. 9፥10-17</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 6:1"/>ህከኒች ኤተሮን ኢስ «ጥባሮሰ ህከረንገ ገሊለ» ዬኖ ባር ዉድ አደ ቶሎ። <verse eid="JHN 6:1"/><verse number="2" style="v" sid="JHN 6:2"/>ኢስ ጥዘናመተ ፈይሻን አጀብሲሰኖ ጠወ ለኦ ልግቡ መኑ አዎንቶስ። <verse eid="JHN 6:2"/><verse number="3" style="v" sid="JHN 6:3"/>ኢስ ቆተ አል ፉል አሳባንተስን ሜጡበ አፉዕሌእ። <verse eid="JHN 6:3"/><verse number="4" style="v" sid="JHN 6:4"/>አይሁድ ሻሽግ ከበጃቱ ሆንጠኮ እቅ። <verse eid="JHN 6:4"/><verse number="5" style="v" sid="JHN 6:5"/>ህከ ወክት ኢስ ልግቡ መኑ እስበ አሜተን ለዕይ እልስ አሌ ዋሽ ፍልጶሴ «ካን ጉዕማንከ መኒሃ እታ እቸተ ሀከን አዲች ህዕርኖተ አታልናም?» ዬእ። <verse eid="JHN 6:5"/><verse number="6" style="v" sid="JHN 6:6"/>ኢስ ህት ዬኢሁ ፍልጶስ የኖሃ ለኦታት ቤሉ እስ አኡ ሀስሰኖሲሃ ገዉንኩስ ደገኖ እቅ።<verse eid="JHN 6:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 6:7"/>ፍልጶስን «መት-መትሀሰ ቀዉ ቀዉ እልሲሃ ለሜ ጥቤ ዲናር<note caller="+" style="f"><char style="fqa" closed="false">ዲናረ፦ </char><char style="ft" closed="false">ዩ መቱ በር ዊመ አአኖ መንቺሃ መቶ በሬሃ ባቴኖ ብርየ ጌሰ።</char></note> እቸቲ እካሰበአ» ዬእ።<verse eid="JHN 6:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JHN 6:8"/>አሳባች መቱ ስሞን ጴጥሮሴ አመቤቱ እንድርያስ <verse eid="JHN 6:8"/><verse number="9" style="v" sid="JHN 6:9"/>«ከኔ ኦንቶ ሶእ ጣብተለከ ለም ቁርጩሜተ አፎ መቱ ጩሉ ዮኡ፤ ጠው እኮጎሬ ኩን ከን ጉዕማንከ መኒሃ ሀት እክ እሀኖ?» ዬእ። <verse eid="JHN 6:9"/><verse number="10" style="v" sid="JHN 6:10"/>ኢስን «መኑ አፉዕለኖገ አዕዬ» ዬሰ፤ ህከን ቤቾን ልግቡ ህጥት ሄኦ እቅ፤ ኦንቶ ኩሜ ጌሱ ጎኑ ህከኔ አፉዕልዮ እቅ። <verse eid="JHN 6:10"/><verse number="11" style="v" sid="JHN 6:11"/>ህከኒች ኤተሮን ጣብተ ኬሽ መገኑ ገለትጭ አፉዕሌ መኒሃ ኣሴእ፤ ህትን ቁርጩሜተ ጉዕሚንከሰ ሀስሰኖሰ ጌሰ ኣሴእ። <verse eid="JHN 6:11"/><verse number="12" style="v" sid="JHN 6:12"/>ጉዕሙንኩ እት ዱቦች ኤተሮን ኢስ አሳባተስ «መቱርቹሁ ፈቁዕናን ፈቆ ፉርፉሩ መጤን ጭምአዕዬ» ዬሰ። <verse eid="JHN 6:12"/><verse number="13" style="v" sid="JHN 6:13"/>እሰን ኦንቶ ሶእ ጣብቲች መኑ እች ዱባን ፈቆ ፉርፉሩ ቶነ ለሙ መሶበ ዊመ ኬሶኡ።<verse eid="JHN 6:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 6:14"/>መኑንኩ ኢስ አዕዮ አጀብሲሰኖ ጠወ ለኦ ወክት «ሀንቅንከ ኩን ኣዱንያ አል አሜተኖሃ ነቢዬቹ» ይቶኡ። <verse eid="JHN 6:14"/><verse number="15" style="v" sid="JHN 6:15"/>እኮጎሬ ሁኩ መኑ ዎመ አቶተ ሰውይቶገ ደግ ኢስ ሜጥሀስ ቆተ አል ዋል እሳች ገበጭ ዬእ።<verse eid="JHN 6:15"/></para>
+  <para style="s1">ኢስ ባር አሌን ሃመን ኦሮዕዮገ</para>
+  <para style="r">(<ref loc="MAT 14:22-33">ማቶ. 14፥22-33</ref>፤ <ref loc="MRK 6:45-52">ማር. 6፥45-52</ref>)</para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 6:16"/>ሀዎሬ ወክት አሳበስ ገሊል ባር ቤቹ ድርቶኡ። <verse eid="JHN 6:16"/><verse number="17" style="v" sid="JHN 6:17"/>እሰን ጀልባን ኣግ ቅፍርናሆመ መርቶተ ኬኦኡ፤ ሁኩ ወክቱ ኡለት ቱንስቹሃ እቅ፤ ህትን ኢስ እሰበ አሜቾበአ እቅ። <verse eid="JHN 6:17"/><verse number="18" style="v" sid="JHN 6:18"/>ቦብሩ አበ ቦብርሰኖቤቺሃ ባሩ ሌንቄቀኖት እቅ። <verse eid="JHN 6:18"/><verse number="19" style="v" sid="JHN 6:19"/>አሳበንት ኦንቱ ህከረንገ ሌሁ ኪሎ ሜትረ ባር አሌን ሃንቶኢች ኤተሮን ኢስ ባር አሌን ሃመን ህከ ጀልብ ቤቹ ሆንጠኮ ወክት ለእ ዋጅቶኡ። <verse eid="JHN 6:19"/><verse number="20" style="v" sid="JHN 6:20"/>ጠዉ እኮጎሬ ኢስ «አኔት! ዋጅቶኖቼ» ዬሰ። <verse eid="JHN 6:20"/><verse number="21" style="v" sid="JHN 6:21"/>እሰን ሙንዲኖን ጅልብ ኣዝ ኣግሶስ፤ ጀልቡንኩ ወክትንከስ እሰ መርታቤቹ ኢልሾሰ።<verse eid="JHN 6:21"/></para>
+  <para style="s1">ኢስ ሄእ እቸተ እሁስ</para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 6:22"/>ለንክ በር ባር ዉድ አዲን ፈቆ መኑ ባር አሌን ጠለዕል መቱ ጀልቡ ፈቆገ ለኦ እቅ፤ ህትን ሜጢሃሰ አሳበት መሩሰለከ ኢስ እሳን ሜጡበ መርከባን ኣጉዕነ ፈቁስ ደጎ እቅ። <verse eid="JHN 6:22"/><verse number="23" style="v" sid="JHN 6:23"/>ጠዉ እኮጎሬ ዎሉ መርከቡ ጥባሮስ ከተሚች ኬዕይ ኢስ መገኑ ገለትጬለከ ኡመቱ ጣብተ እቶ ቤቹ መድስ አሜቶኡ። <verse eid="JHN 6:23"/><verse number="24" style="v" sid="JHN 6:24"/>ሁኩ መኑንኩ ኢስ ህከረንገ እስ አሳበት ህከን ቤቾን ሄኡ ሆጉሰ ለኦ ወክት ህከን መርከባን ኣግ ኢሰ ሀሶተ ቅፍርናሆመ መርቶኡ። <verse eid="JHN 6:24"/><verse number="25" style="v" sid="JHN 6:25"/>ባር ዉድ አዲን ደጎስ ወክት «አስተማርቾ! መ ወክት ከቤቹ ኢልት?» ይቶስ።<verse eid="JHN 6:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 6:26"/>ኢስን ፈንቀሽ «ሀንቅንከ ያንክዕኔ፤ አዕኑ ኤሳሃ ሀሴነንታሁ ጣቢተ እትሾንክዕኔቤቺሃትለከ ዱቤንተቤቺሃት ቤሉ አን ለሊሾንክዕኔ አጀብሲሰኖ ጠውሃበአ። <verse eid="JHN 6:26"/><verse number="27" style="v" sid="JHN 6:27"/>መንች ቤቱ ኣሰኖህዕኔ ዘላለሚሃ ሄኣ ሄእ እቻተ አዕዬ ቤሉ በኣ እቻተ አቶኖቼ፤ እስን አኑ መገኑ ቤቲሀስ አዕዮ ሀንቅተ መላ» ዬሰ።<verse eid="JHN 6:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JHN 6:28"/>ሁኩ መኑንኩ «መገን ሆጉተ አዕኖተ መ አኡ ሀስሰኖኔ?» ይቶስ።<verse eid="JHN 6:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="JHN 6:29"/>ኢስን ፈንቀሽ «መገን ሆጉት መገኑ ሶኮሀኒን አመዕኑሃን» ዬእ።<verse eid="JHN 6:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 6:30"/>እሰን ፈንቀሽት «ነኡ ለእን ኪን አመዕንኖተ መ መላተ አስተን? ህትን መ አተን? <verse eid="JHN 6:30"/><verse number="31" style="v" sid="JHN 6:31"/>‹እቶተ ሰሜች እቸተ ኣሴእ› የመም ከተበሞገን አናከኔ ኡለ ኡድማን ‹መና› ዬኖ እቸተ እቶኡ» ይቶስ።<note caller="-" style="x"><char style="xo" closed="false">6፥31 </char><char style="xt" closed="false"><ref loc="EXO 16:4">ፉል. 16፥4</ref>፤ <ref loc="EXO 15">15</ref>፤ <ref loc="PSA 78:24">መዝ. 78፥24</ref>።</char></note><verse eid="JHN 6:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="JHN 6:32"/>ኢስ «ሀንቅንከ ያንክዕኔ፤ ሰሜች እቸተ ኣሰኖሁ ሙሳበአ፤ ጠዉ እኮጎሬ ሀንቅ እቸተ ሰሜች ኣሰኖህዕኔሁ አናኤ። <verse eid="JHN 6:32"/><verse number="33" style="v" sid="JHN 6:33"/>መሰንትስ መገኑ ኣሰኖ እቸተ ሰሜች ድርታእተለከ ኣዱንያ አሊሃ ሄኡ ኣስታእታን» ዬሰ። <verse eid="JHN 6:33"/><verse number="34" style="v" sid="JHN 6:34"/>እሰን «ቀርቾ! ከ እቸተ ጉዕመ ወክትንከ ኣስኔ» ይቶስ።<verse eid="JHN 6:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="JHN 6:35"/>ኢስን ፈንቀሽ «ሄእ እቸት አኔት፤ ኢቤቹ አሜተኖሁ ሆሮን ጎሩ አፈኖስበአ፤ ኢን አመዕነኖሁ ሆሮን ሰገበኖበአ። <verse eid="JHN 6:35"/><verse number="36" style="v" sid="JHN 6:36"/>ጠዉ እኮጎሬ ‹አዕኑ ኤሳሃ ለኤን አመዕንቴንታበአ› ዬንክዕኔ። <verse eid="JHN 6:36"/><verse number="37" style="v" sid="JHN 6:37"/>አኑኤ ኣሰኖኤሁ ጉዕሙንኩ ኢቤቹ አሜተኖ፤ አንን ኢቤቹ አሜተኖሃ ጉዕመንከ አብል ዋሽ ቶቻንስበአ። <verse eid="JHN 6:37"/><verse number="38" style="v" sid="JHN 6:38"/>አን ሰሜች አሜቾሚሁ ሶኮኤሀን ሃሽኣቱተ ዊንሾታት ቤሉ ገይኤ ሃሽኣቱተ ዊንሾታበአ። <verse eid="JHN 6:38"/><verse number="39" style="v" sid="JHN 6:39"/>ሶኮኤሀን ሃሽኣቱት ኣሴኤ መኒች መቱሃ ቤሱዕናን ቂያመ በር ሬሆች ኬሶታት። <verse eid="JHN 6:39"/><verse number="40" style="v" sid="JHN 6:40"/>አንኤ ሃሽኣቱት ቤቱስ ለዕይ እሲን አመዕነኖሁ ጉዕሙንኩ ዘላለሚሃ ሄአኖ ሄኡ ደኦታት፤ አንን ቂያመ በር ሬሆች ኬሳንስ» ዬእ። <verse eid="JHN 6:40"/><verse number="41" style="v" sid="JHN 6:41"/>ኢስ «ሰሜች ድርቶ እቸት አኔት» ዬቤቺሃ አይሁዱ እስ አሌን ቁንቁቶኡ። <verse eid="JHN 6:41"/><verse number="42" style="v" sid="JHN 6:42"/>እሰን «ኩን ነኡ አነስለከ አመስ ደንጋም ዩሱፍሃ ቤቱ ኢሳበእንዶ? እስ ሀት ‹አን ሰሜች ድርዮምሃን› የኖት?» ይቶኡ።<verse eid="JHN 6:42"/></para>
+  <para style="p">
+    <verse number="43" style="v" sid="JHN 6:43"/>ኢስን ፈንቀሽ «መት-መቱክዕኔ ቁንቁቶኖቼ። <verse eid="JHN 6:43"/><verse number="44" style="v" sid="JHN 6:44"/>ኤሳሃ ሶኮ አኑኤ ኢ አደ ኤቦሀን ቤሉ አዪሁ ኢቤቹ አሜቶተ አታለኖበአ፤ ኢቤቹ አሜተኖሃ አንን ቂያመ በር ሬሆች ኬሳንስ። <verse eid="JHN 6:44"/><verse number="45" style="v" sid="JHN 6:45"/>ነቢያካ መጻፋን ‹ጉዕሙንኩሰ መገኒች ተማርቶረ እካአ› የመም ከተበሞኡ፤ ህካን እኮቤቺሃ መገኒች ሞጮጬኢሁለከ ተማሮሁ ጉዕሙንኩ ኢቤቹ አሜተኖ።<note caller="-" style="x"><char style="xo" closed="false">6፥45 </char><char style="xt" closed="false"><ref loc="ISA 54:13">ኢሳ. 54፥13</ref>።</char></note> <verse eid="JHN 6:45"/><verse number="46" style="v" sid="JHN 6:46"/>ጠዉ እኮጎሬ አነ ለዕዮሁ አዪሁ ዮበአ፤ መገን አዲች እኮሁ ጠለዕሉ አነ ለዕዮሃን። <verse eid="JHN 6:46"/><verse number="47" style="v" sid="JHN 6:47"/>ሀንቅንከ ያንክዕኔ፤ ኢን አመዕነኖሀኒሃ ዘላለሚሃ ጉዕሚንከ ሄአኖ ሄኡ ዮስ። <verse eid="JHN 6:47"/><verse number="48" style="v" sid="JHN 6:48"/>ሄእ እቸት አኔት። <verse eid="JHN 6:48"/><verse number="49" style="v" sid="JHN 6:49"/>አናከክዕኔ ኡለ ኡድማን ‹መና› ዬኖ እቸተ እቶኡ፤ እሰን ሬቶኡ። <verse eid="JHN 6:49"/><verse number="50" style="v" sid="JHN 6:50"/>ሰሜች ድርቶ እቸት ተኒት፤ ከኒች እተኖሁ አዪሁ ሆሮን ሬሀኖበአ። <verse eid="JHN 6:50"/><verse number="51" style="v" sid="JHN 6:51"/>ሁኩ ሰሜች ድርቶ ሄእ እቸት አኔት፤ አዪሁ ህከን እቻች እቾጎሬ ዘላለሚሃ ጉዕሚንከ ሄአኖ፤ አንን ኣዱንያ አሊሃ ኣሳም እቸት ገግኤ ማላኤ» ዬእ።<verse eid="JHN 6:51"/></para>
+  <para style="p">
+    <verse number="52" style="v" sid="JHN 6:52"/>ህከ ወክት አይሁዱ «ኩ መንቹ ማለስ እንቶተ ኣሶተ ሀት አታለኖ?» ይተን መት-መትንከሰ ኦደቀንቶኡ።<verse eid="JHN 6:52"/></para>
+  <para style="p">
+    <verse number="53" style="v" sid="JHN 6:53"/>ኢስን «ሀንቅንከ ያንክዕኔ፤ መንች ቤት ማለ እቴንባችለከ ቄጉስ አጌንባች ክዕኔሃ ሄኡ ኣዜክዕኔ ዮህዕኔበአ። <verse eid="JHN 6:53"/><verse number="54" style="v" sid="JHN 6:54"/>ኢ ማለ እተኖሀኒሃለከ ቄጉእ አገኖሀኒሃ ዘላለሚሃ ጉዕሚንከ ሄአኖ ሄኡ ዮስ፤ አንን ቂያመ በር ሬሆች ኬሳንስ። <verse eid="JHN 6:54"/><verse number="55" style="v" sid="JHN 6:55"/>መሰንትስ ማሉኤ ሀንቅተ እቸ፤ ህትን ቄጉንኩኤ ሀንቅሃ አጌኖሃን። <verse eid="JHN 6:55"/><verse number="56" style="v" sid="JHN 6:56"/>ማላኤ እተኖሁለከ ቄጉኤ አገኖሁ ኢን ሄአኖ፤ አንን እሲን ሜጡበ እሃም። <verse eid="JHN 6:56"/><verse number="57" style="v" sid="JHN 6:57"/>ሄአኖ አኑኤ ሶኮኤቤቺሃ አን እሲን ሄኣሚሃ እኮምገን ህትን ማላኤ እተኖሁ ኢ አዲን ሄአኖ። <verse eid="JHN 6:57"/><verse number="58" style="v" sid="JHN 6:58"/>ሰሜች ድርቶ እቸት ተኒት፤ ሁኩንን አናከክዕኔ እቶኢሃ አጉድበሃን፤ መሰንትስ ህከ እቸተ እቶእሩ ሬቶኡ፤ ከ እቸተ እቶእሩ ዘላለሚሃ ጉዕሚንከ ሄኣአ» ዬሰ።<verse eid="JHN 6:58"/></para>
+  <para style="p">
+    <verse number="59" style="v" sid="JHN 6:59"/>ኢስ ህካን ዬኢሁ ቅፍርናሆማን ሄዕዮ ጭምት ምኔን ተማርሰኒት።<verse eid="JHN 6:59"/></para>
+  <para style="s1">ዘላለሚሃ ሄእ ላገተ</para>
+  <para style="p">
+    <verse number="60" style="v" sid="JHN 6:60"/>አሳባች ልግቡሰ ህካን ሞጮጭቶ ወክት «ኩ ትምርቱ አበ ኬዕመኖሃን፤ ከ ትምርት አይ ቶጎተ አታለኖ?» ይቶኡ።<verse eid="JHN 6:60"/></para>
+  <para style="p">
+    <verse number="61" style="v" sid="JHN 6:61"/>ጠዉ እኮጎሬ ኢስ አሳበስ ከን ትምርትተኔሃ ቁንቁቶገ አያኒንከስ ደግ «ኩን ሉሲሰኖህዕኔንዶ? <verse eid="JHN 6:61"/><verse number="62" style="v" sid="JHN 6:62"/>መንች ቤቱ ወዕና ሄዕዮቤቹ ፈንቀል ፉለን ለኤንተጎር መ ይቶኖታት? <verse eid="JHN 6:62"/><verse number="63" style="v" sid="JHN 6:63"/>ሄኡ ኣሰኖሁ መገንየ አያነ፤ ጠዉ እኮጎሬ ማሉ ሜጡራ ደግለለኖበአ፤ አን ክዕኔሃ ጠወዕዮም ላገት አያነለከ ሄኦሃን። <verse eid="JHN 6:63"/><verse number="64" style="v" sid="JHN 6:64"/>ጠዉ እኮጎሬ ክዕኔ በሊች አመዕንትቡሩ ዮኡ» ዬሰ፤ ኢስ ካን ዬኢሁ ወዕኔችን ኬሽ አመዕንትበሩ አዬኤታጎሬ ህትን ህግሽ ኣሰኖሁ አዬት ጎሬ ደገኖቤቺሃት እቅ።<verse eid="JHN 6:64"/></para>
+  <para style="p">
+    <verse number="65" style="v" sid="JHN 6:65"/>ህትን ኢስ « ‹አኑኤ አሜተኖገ አዕዮሀን ቤሉ ዎሉ ኢ አደ አሜቶተ አታለኖበአ› ዬሚሁ ከኒሃት» ዬሰ።<verse eid="JHN 6:65"/></para>
+  <para style="p">
+    <verse number="66" style="v" sid="JHN 6:66"/>ህካን እኮቤቺሃ አሳባች ልግቡ ፈንቀልት መርቶኡ፤ ህከኒች ኤተሮን ኢሰ አዎኑ አጉርቶኡ። <verse eid="JHN 6:66"/><verse number="67" style="v" sid="JHN 6:67"/>ህካን እኮቤቺሃ ኢስ ቶነ ለሙንከ አሳበተ «አዕኑሁ መርቶኖተ ሀሴነንንዶ?» ዬሰ። <verse eid="JHN 6:67"/><verse number="68" style="v" sid="JHN 6:68"/>ስምዖን ጴጥሮስን ፈንቀሽ «ቀርቾ ነኡ ሀከቤቹ መርናም? ኬሳሃ ዘላለሚሃ ጉዕሚንከ እካ ሄእ ላገት ዮሄ። <verse eid="JHN 6:68"/><verse number="69" style="v" sid="JHN 6:69"/>ነኡ አት መገን ጠሊለ እሁክ አመዕንን ደንጎም» ዬእ።<note caller="-" style="x"><char style="xo" closed="false">6፥69 </char><char style="xt" closed="false"><ref loc="MAT 16:16">ማቶ. 16፥16</ref>፤ <ref loc="MRK 8:29">ማር. 8፥29</ref>፤ <ref loc="LUK 9:20">ሉቃ. 9፥20</ref>።</char></note> <verse eid="JHN 6:69"/><verse number="70" style="v" sid="JHN 6:70"/>ህትን ኢስ «አን ክዕኔተ ቶነ ለሙንከክዕኔ መጠርበህዕኔንዶ? ክዕኔች መቱ እልቢስሃ» ዬሰ። <verse eid="JHN 6:70"/><verse number="71" style="v" sid="JHN 6:71"/>ካን ዬኢሁ ስሞኔ ቤት አስቆሮንቶ ይሁድተኔሃት፤ መሰንትስ ይሁድ ቶነ ለሞንከ አሳባች መቱስ እኮጎሬሁ ኢሰ ህግሽ ኣሰኖሁ እሱ እኮቤቺሃት።<verse eid="JHN 6:71"/></para>
+  <chapter eid="JHN 6"/>
+  <chapter number="7" style="c" sid="JHN 7"/>
+  <para style="s1">ኢሰ ዳስ ከበጀቲሃ ዬሩሳሌመ መሮተ ጠዕሜመስገ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 7:1"/>ህከኒች ኤተሮን ኢስ ገሊለ ባዶን ሃመኖት እቅ፤ መሰንትስ አይሁድ አዎንሳኑት ሽቶተ ሀሶስቤቺሃ ይሁድ ባዶን ሃሞተ ሀሾበአ። <verse eid="JHN 7:1"/><verse number="2" style="v" sid="JHN 7:2"/>ህከ ወክት አይሁድ ዳስ በአሉ ሆንጠኮ እቅ።<note caller="-" style="x"><char style="xo" closed="false">7፥2 </char><char style="xt" closed="false"><ref loc="LEV 23:34">ሌዌ 23፥34</ref>፤ <ref loc="DEU 16:13">ዘዳ. 16፥13</ref>።</char></note> <verse eid="JHN 7:2"/><verse number="3" style="v" sid="JHN 7:3"/>ህካን እኮቤቺሃ አመስኦሱት «አዎንታሄሩ አት አታንት ሆጉተ ለኦተ ከንቤቺች ኬእ ይሁድ ባዱ ኦሮእ። <verse eid="JHN 7:3"/><verse number="4" style="v" sid="JHN 7:4"/>መሰንትስ ለሎተ ሀሰኖ መንቹ ሆጉስ ማጭ አኦተ ሀሰኖበአ፤ አት ካን ጉዕመንከ አተን ገዉክ መኒሃ ጉዕሚንከ ለሊሱ ሀስሰኖሄ» ይቶስ። <verse eid="JHN 7:4"/><verse number="5" style="v" sid="JHN 7:5"/>ህካን ይቶኢሁ ዎሉ ፈቅ አመስ ኦሱንት እሲን አመዕንትበቤቺሃት እቅ።<verse eid="JHN 7:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 7:6"/>ህካን እኮቤቺሃ ኢስ «ኢ ወክቱ ኢልዮበአ፤ ጠዉ እኮጎሬ ክዕኔሃ ጉዕሙንኩ ወክቱ መክዮእሃን። <verse eid="JHN 7:6"/><verse number="7" style="v" sid="JHN 7:7"/>ኩ ኣዱንያ አሉ ክዕኔተ ግቦህዕኔተ አታለኖበአ፤ ጠዉ እኮጎሬ ኤሳሃ ግበኖ፤ መሰንትስ አን ሆጉስ ሂለ እሁስ ኩላምቤቺሃት። <verse eid="JHN 7:7"/><verse number="8" style="v" sid="JHN 7:8"/>አዕኑ ህከ ከበጀተ ከበጄኖቤቹ አሌ ዋልቴን መሬ፤ ወክቱእ ኢልበቤቺሃ አን ህከ ቤቹ መሮተ አታላምበአ» ዬእ። <verse eid="JHN 7:8"/><verse number="9" style="v" sid="JHN 7:9"/>ኢስ ህካን ይ ገሊላን ፈቆ።<verse eid="JHN 7:9"/></para>
+  <para style="s1">ኢስ ዳስ በኣሌን ደገሙስ</para>
+  <para style="p">
+    <verse number="10" style="v" sid="JHN 7:10"/>ጠዉ እኮጎሬ አመስ ኦሱት ህከ ከበጃት ከበጄኖቤቹ መርቶች ኤተሮን እስ ህከ ቤቹ ለሉዕናን ማጠም ኦሮዕዮ። <verse eid="JHN 7:10"/><verse number="11" style="v" sid="JHN 7:11"/>ህከን ከበጀ ቤቾን አይሁድ ሹመት «እስ ሀከበ ዮኡ?» ይተን ሀሳሲት እቅ። <verse eid="JHN 7:11"/><verse number="12" style="v" sid="JHN 7:12"/>አይሁድ ኡመቱ ህከን ቤቾን እስተኔ ኩሽኩሽይተን መት-መቱሰ «እስ ጡማ መንቹ» ይተን ዎሉሰንገ «ህትጎተበአ እስ መነ ሉሲሰኖሃን» ይታሲት እቅ። <verse eid="JHN 7:12"/><verse number="13" style="v" sid="JHN 7:13"/>ጠዉ እኮጎሬ አይሁድ ሹመት ዋጅቶቤቺሃ አዪሁ እስተኔሃ ለሊሽ ጠወዕዮበአ።<verse eid="JHN 7:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 7:14"/>ህከ ከበጀት ከበጅተን ደሩ እኮሀኒን ኢስ አሌ ዋል ዱእ ምኒ መር ተማርሴእ። <verse eid="JHN 7:14"/><verse number="15" style="v" sid="JHN 7:15"/>ህከንቤቾንን አይሁድ ሹመት «ኩ መንቹ ተማርባሃ ከ ጉዕመንከ ሀት ደጎተ አታሎ?» ይተን አጀብሲጭታኢት እቅ።<verse eid="JHN 7:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 7:16"/>ህካን እኮቤቺሃ ኢስ ፈንቀሽ «አን ተማርሳሚሁ ኢች እሁዕነ ኤሳሃ ሶኮኤሀኒቺት። <verse eid="JHN 7:16"/><verse number="17" style="v" sid="JHN 7:17"/>መገን ሃሽኣቱተ አኦተ ሀሰኖሁ አዪሁ ኩ ትምህርቱ መገኒች አሜቾሃ እሁስ ህከረንገ አን ገይችኤ ጠወኣምጎሬ መለል ደገኖ። <verse eid="JHN 7:17"/><verse number="18" style="v" sid="JHN 7:18"/>ገይችስ ጠወአኖሁ ገይሀስ ኬዕምኝ ሀሰኖ፤ ጠዉ እኮጎሬ ሶኮስሀን ኬዕምኝ ሀሰኖሁ ሀንቅየ መንቹ፤ ክዝቡንኩ እሲን ዮስበአ። <verse eid="JHN 7:18"/><verse number="19" style="v" sid="JHN 7:19"/>ሙስ ሕገ ኣስዮህዕኔበእንዶ? እኮጎሬ ክዕኔኤች መቱክዕኔሁ ሕገ አገርቴንበረ፤ ሚሃት ሽቶኖኤተ ሀሴነንተኤሁ?» ዬሰ።<verse eid="JHN 7:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="JHN 7:20"/>ኡመቱንኩ ፈንቀሽ «ኬሳሃ ዱሩ አፎሄ፤ ኬሳሃ አይ ሾሄተ ሀሾሄ?» ይቶስ።<verse eid="JHN 7:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="JHN 7:21"/>ህትን ኢስ «አን መት ሆጉተ አዕዮም፤ አዕኑ ጉዕሙንኩ ህከኒን አጀብሲጭቴንታአ። <verse eid="JHN 7:21"/><verse number="22" style="v" sid="JHN 7:22"/>ሙስ ጡርከም ሴረ ኣስዮህዕኔ፤ ሁኩንን አናካቺት ቤሉ ሙሲችበአ፤ አዕኑ አበ በሬን ጡርከንቴነንታት።<note caller="-" style="x"><char style="xo" closed="false">7፥22 </char><char style="xt" closed="false"><ref loc="GEN 17:10">ክል. 17፥10</ref>፤ <ref loc="LEV 12:3">ሌዌ 12፥3</ref>።</char></note> <verse eid="JHN 7:22"/><verse number="23" style="v" sid="JHN 7:23"/>ሙሲ ሕጉ ድጀምበገ መኑ አበ በሬን ጡርከመኖ እኮች አን አበ በሬን መንች ዊመንከስ ጅስመ ፈይሾምቤቺሃ ኢን ሚሃት ኡሙዕርቴነንታት?<note caller="-" style="x"><char style="xo" closed="false">7፥23 </char><char style="xt" closed="false"><ref loc="JHN 5:9">ያህ. 5፥9</ref>።</char></note> <verse eid="JHN 7:23"/><verse number="24" style="v" sid="JHN 7:24"/>ሀንቅ ፍርደ ፈረጄ ቤሉ መን እልተ ለኤን ፈረዶኖቼ» ዬሰ።<verse eid="JHN 7:24"/></para>
+  <para style="s1">መሲህተኔሃ ኬኦ ኦደተ</para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 7:25"/>ዬሩሳሌም ከተማን ሄኦ መኒች መት-መቱሰ «ኩን ሽቶተ ሀሳስየ መንቹበእንዶ? <verse eid="JHN 7:25"/><verse number="26" style="v" sid="JHN 7:26"/>ሁኩዕኑን እስ አልባሽ ጠወአኖት፤ እሰን መቱርቹሃ ይቶስበአ፤ ሹመት ኩ መንቹ መሲህ እሁስ ሀንቅንከ ደግትንዶ ጨለይቶኢሁ? <verse eid="JHN 7:26"/><verse number="27" style="v" sid="JHN 7:27"/>ጠዉ እኮጎሬ ኩ መንቹ አሜቾቤቹ ነኡ ደንጋም፤ መሲሁ አሜተኖ ወክት እስ ሀከን አዲች አሜቾንዶ አዪሁ ደገኖበአ» ይቶኡ።<verse eid="JHN 7:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JHN 7:28"/>ህካን እኮቤቺሃ ኢስ መገን ምኔን ተማርሰን ላገስ ጎት አዕይ «አን ሀከን አዲች አሜቾምጎሬ ኤሳሃ ደጌነንተ፤ ጠዉ እኮጎሬ አን ገይንከኤ አሜቾምበአ፤ ኤሳሃ ሶኮኤንኩ ሀንቅሃ፤ አዕኑ ደጌነንተስበአ። <verse eid="JHN 7:28"/><verse number="29" style="v" sid="JHN 7:29"/>አን እስ አዲች አሜቾምቤቺሃለከ እስን ኤሳሃ ሶኮኤቤቺሃ አን እሱ ደጋም» ዬእ።<verse eid="JHN 7:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 7:30"/>ህካን እኮቤቺሃ እሰን አፎስተ ሀሶኡ፤ እኮጎሬ ወክቱስ ኢልበቤቺሃ አዪሁ አፎስበአ። <verse eid="JHN 7:30"/><verse number="31" style="v" sid="JHN 7:31"/>እኮጎሬሁ ኡመቲች ልግቡስ እሲን አመዕንት «መሲሁ አሜቾረ ኩ መንቹ አዕዮ አጀብሲሰኖ ጠዊች በተአኖሲሃ አአኖሃንዶ?» ይቶኡ።<verse eid="JHN 7:31"/></para>
+  <para style="s1">ኢሰ አፎተ ወታደረ ሶሄመገ</para>
+  <para style="p">
+    <verse number="32" style="v" sid="JHN 7:32"/>ፈርሳውት መኑ ኢስተኔሃ ኩሽኩሽ ይት ጠወአን ሞጮጭቶኡ፤ ህካን እኮቤቺሃ ቂስ አዎንሳኑትለከ ፈርሳውት ኢሰ አፍሲሶተ ወታደረ ሶኮኡ። <verse eid="JHN 7:32"/><verse number="33" style="v" sid="JHN 7:33"/>ኢስን «አን ክዕኔን ሜጡበ ቀዉ ወክት ዱንካም፤ ህከኒች ኤተሮን ሶኮኤሀኒቤቹ መራም። <verse eid="JHN 7:33"/><verse number="34" style="v" sid="JHN 7:34"/>አዕኑ ኤሳሃ ሀሴነንተ፤ እኮጎሬሁ ደጌነንተኤበአ፤ አን ዮም ቤቹንከ አዕኑ አሜቶኖተ አታልቴነንተበአ» ዬእ።<verse eid="JHN 7:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="JHN 7:35"/>ህካን እኮቤቺሃ አይሁዱ መት-መትሀሰ «ነኡ ደንግበስገ ኩ መንቹ ሀከቤቹ መሮታት? ህከረንገ ግሪክ መን በላን ሄኣ አይሁድቤቹ መር ግሪክ መነ ተማርሶታትንዶ? <verse eid="JHN 7:35"/><verse number="36" style="v" sid="JHN 7:36"/>ህትን ኤሳሃ ‹ሀሴንተኤ ጎሬ ደጌነንተኤበአ፤ አን ዮም ቤቹ አሜቶኖተ አታልቴነንተበአ› ዩስ መ ዩሃስ?» ይቶኡ።<verse eid="JHN 7:36"/></para>
+  <para style="s1">ሄእ ዊ ቡቁተ</para>
+  <para style="p">
+    <verse number="37" style="v" sid="JHN 7:37"/>ህከ ከበጀት ከበጄን ሹሌኖ ጎፍሜስ ሎረ በሬን ኢስ ኡር ላገስ ጎት አዕይ «ውሁ ሰገቦሲሁ ዮ ጎሬ ኢቤቹ አሜች አጉን።<note caller="-" style="x"><char style="xo" closed="false">7፥37 </char><char style="xt" closed="false"><ref loc="LEV 23:36">ሌዌ 23፥36</ref>።</char></note> <verse eid="JHN 7:37"/><verse number="38" style="v" sid="JHN 7:38"/>ኢን አመዕነኖሀኒች ጠሊለ መጻፋን የኖገን ሄእ ዊ ቡቁት ኣዚችስ ቡቃአ» ዬእ።<note caller="-" style="x"><char style="xo" closed="false">7፥38 </char><char style="xt" closed="false"><ref loc="EZK 47:1">ሕዝ. 47፥1</ref>፤ <ref loc="ZEC 14:8">ዘካ. 14፥8</ref>።</char></note> <verse eid="JHN 7:38"/><verse number="39" style="v" sid="JHN 7:39"/>ህት ይ ጠወዕዮንኩ እሲን አመዕንቶሩ ኣእታ ጠሊለ አያንተኔሃት እቅ፤ መሰንትስ ኢሲ ኬዕምኝ ወክቱ እሉዕነ ዮቤቺሃ ጠሊሉ አያኑ ኣሰሞበአ እቅ።<verse eid="JHN 7:39"/></para>
+  <para style="s1">ኡመት በላን መለዕለንሹ እሁስ</para>
+  <para style="p">
+    <verse number="40" style="v" sid="JHN 7:40"/>መኒች መት-መቱ ህከ ጠወ ሞጮጭቶ ወክት « ‹አሜተኖ› የመሞ ነቢዬቹ ሀንቅንከ ከኒት» ይቶኡ። <verse eid="JHN 7:40"/><verse number="41" style="v" sid="JHN 7:41"/>ህትን ዎሉሰንገ «ኩን መሲህት» ይቶኡ፤ ጠዉ እኮጎሬ መት-መቱሰ «መሲሁ ገሊለ ባዲች አሜተኖንዶ? <verse eid="JHN 7:41"/><verse number="42" style="v" sid="JHN 7:42"/>መሲሁ ደዉዴ ዘሬች እለመኖገለከ ደዉድ እለሞ ቤተልሔም ከተሚች አሜተኖገ ጠሊለ መጻፋን ከተበሞበእንዶ?» ይቶኡ።<note caller="-" style="x"><char style="xo" closed="false">7፥42 </char><char style="xt" closed="false"><ref loc="2SA 7:12">2 ሳሙ. 7፥12</ref>፤ <ref loc="MIC 5:2">ሚክ. 5፥2</ref>።</char></note> <verse eid="JHN 7:42"/><verse number="43" style="v" sid="JHN 7:43"/>ህካን እኮቤቺሃ መን በላን እስ መሳን መለዕለንሹ እኮኡ። <verse eid="JHN 7:43"/><verse number="44" style="v" sid="JHN 7:44"/>እሳችን መት-መቱሰ እሱ አፎተ ሀሶ እቅ፤ እኮጎሬ አዪሁ አፎስበአ።<verse eid="JHN 7:44"/></para>
+  <para style="s1">አይሁድ አዎንሳኑት አመዕኑ ሆጉሰ</para>
+  <para style="p">
+    <verse number="45" style="v" sid="JHN 7:45"/>ህከኒች ኤተሮን ወታደሩንኩ ቂስ አዎንሳኖበለከ ፈርሳዌቤቹ ፈንቀልት መርቶኡ፤ እሰን «እሱ ሚሃት ኤቤንታበኢሁ?» ይቶኡ።<verse eid="JHN 7:45"/></para>
+  <para style="p">
+    <verse number="46" style="v" sid="JHN 7:46"/>ወታደሩንኩ «ህከን መንችገ አዪሁ ጠወዕዮበአ» ይት ፈንቀሽቶኡ።<verse eid="JHN 7:46"/></para>
+  <para style="p">
+    <verse number="47" style="v" sid="JHN 7:47"/>ጠዉ እኮጎሬ ፈርሳውት «ክዕኔታሁ ሉስሾህዕኔንዶ? <verse eid="JHN 7:47"/><verse number="48" style="v" sid="JHN 7:48"/>ሹማች ህከረንገ ፈርሳዌች እሲን አመዕኔኢሁ ዮጎር ደጌንታእንዶ? <verse eid="JHN 7:48"/><verse number="49" style="v" sid="JHN 7:49"/>ጠዉ እኮጎሬ ኩ ሙስ ሕገ ደግቡ ኡመቱ ቦሮረሞእሃን» ይቶኡ።<verse eid="JHN 7:49"/></para>
+  <para style="p">
+    <verse number="50" style="v" sid="JHN 7:50"/>ህከን መኒችን መቱስ ከኒች ብርንተ ኢስቤቹ መሮ «ንቆድሞሴ» ዬኖ ፈርሳውቹ<note caller="-" style="x"><char style="xo" closed="false">7፥50 </char><char style="xt" closed="false"><ref loc="JHN 3:1-2">ያህ. 3፥1-2</ref>።</char></note> <verse eid="JHN 7:50"/><verse number="51" style="v" sid="JHN 7:51"/>«ሕግኔ ሃሊን መቶ መንች ጠወ ሞጮጩዕነለከ መ አዕዮ ጎሬ ደጉዕነ ፈረዱ ሀስሰኖንዶ?» ዬሰ።<verse eid="JHN 7:51"/></para>
+  <para style="p">
+    <verse number="52" style="v" sid="JHN 7:52"/>እሰን «አቲሁ ገሊለ ባዲችትንዶ? ነቢዬቹ ገሊለ ባዶን ነጶተ አታለኖበእገ መረመርት ለእ» ይቶስ። <verse eid="JHN 7:52"/><verse number="53" style="v" sid="JHN 7:53"/>እሰን መት-መቲን ምነሰ መርቶኡ።<verse eid="JHN 7:53"/></para>
+  <chapter eid="JHN 7"/>
+  <chapter number="8" style="c" sid="JHN 8"/>
+  <para style="s1">ዝነተ አተን አፌመሴ መንቹተ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 8:1"/>ህከኒች ኤተሮን ኢስ ዘይት ሀቁ ነጰኖ ቆተተ ኦሮዕዮ። <verse eid="JHN 8:1"/><verse number="2" style="v" sid="JHN 8:2"/>ለንክ በር ሱጵተ ዱእ ምኒ ፈንቀል አሜቾ፤ ኡመቱ ጉዕሙንኩ እስበ አሜች ጭምዬሃን እስ አፉዕል ተማርሱ ጀመሮ። <verse eid="JHN 8:2"/><verse number="3" style="v" sid="JHN 8:3"/>ሕገ ተማርስታእሩለከ ፈርሳውት ዝነተ አተን አፎሴ መት መንቹተ ኤብ በላንከሰ ኡርሶኡ። <verse eid="JHN 8:3"/><verse number="4" style="v" sid="JHN 8:4"/>እሰን ኢሰ «አስተማርቾ! ት መንቹት ዝነተ አተን አፈንቶእተ። <verse eid="JHN 8:4"/><verse number="5" style="v" sid="JHN 8:5"/>ህትኔ ጠወ አታ ሜንቱ ክኒን ቀሴን ሼኖገ ሙስ ሕጋን አዘዦኔ፤ አትንገ እሴተኔሃ መ ይተን?» ይቶኡ።<note caller="-" style="x"><char style="xo" closed="false">8፥5 </char><char style="xt" closed="false"><ref loc="LEV 20:10">ሌዌ 20፥10</ref>፤ <ref loc="DEU 22:22-24">ዘዳ. 22፥22-24</ref>።</char></note> <verse eid="JHN 8:5"/><verse number="6" style="v" sid="JHN 8:6"/>እሰን ህት ይቶኢሁ እሱ ኦደ ጠወ ደግ ፌተንቶተ ሀሶቤቺሃት እቅ፤ ጠዉ እኮጎሬ ኢስ ሙግይ ዙሩዕሜንከስ ኡለ አሌን ከተቡ ጀመሮ።<verse eid="JHN 8:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 8:7"/>ፈንቀላንስት ጠዕምቶስ ወክት ሙግ ዬቤቺች ጎበስ ኬሽ «ክዕኔ በሊች ጩቡ ዮስበእ መንቹ ሄጭ ክኒን ቀሱን» ዬእ። <verse eid="JHN 8:7"/><verse number="8" style="v" sid="JHN 8:8"/>ህከኒች ኤተሮን ለንኪሃ ሙግይ ኡለ አሌን ከተቡ ጀመሮ። <verse eid="JHN 8:8"/><verse number="9" style="v" sid="JHN 8:9"/>እሰን ህካን ሞጮጭቶ ወክት ባሊቂች ኬሽ ሀርድ ኢለ መት-መትን ፉልት መርቶኡ፤ ህካን እኮቤቺሃ ኢስ ብሬስ ኡርቶ መንቾን ሜጥሃስ ፈቆ። <verse eid="JHN 8:9"/><verse number="10" style="v" sid="JHN 8:10"/>ህከኒች ኤተሮን ኢስ ጎበስ ኬሽ ለዕይ «ቴ መንቾ! ከሰሰኖሄ መኑ ሀከበ ዮኡ? አሌክ ፈረጆሁ መቱሁ ዮበእንዶ?» ዬሴ።<verse eid="JHN 8:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 8:11"/>[እሴን «ቀርቾ! መቱሁ ዮበአ» ይቶኡ፤ ኢስን ፈንቀሽ «አኒሁ ፈረዳንኬበአ ኦሮእ፤ ከኒች ኤተሪሃ ጩብ አቶት» ዬሴ።]<note caller="+" style="f"><char style="ft" closed="false">ልግቡ ሉህ ኪታበት ሄጭት ሄኦ ፈሰሬመ አኔን 7፥53—8፥11 ዮእሃ በርግታአ፤ መት-መቱ ያህ. 21፥24 ኤተሮን ኣግሳአ፤ ዎሉሰንገ ሉቃ. 21፥38 ኤተሮን ኣግሳአ፤ መቱ ሉህ መጻፉ ያህ. 7፥36 ኤተሮን ኣግሶኡ።</char></note><verse eid="JHN 8:11"/></para>
+  <para style="s1">ኢስ ኣዱንያ አል ኑር እሁስ</para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 8:12"/>ለንኪሃ ኢስ «አን ከን ኣዱንያ አልሃ ኑርሃን፤ ኤሳሃ አዎነኖሁ ጉዕሙንኩ ሄእ ኑር ደአኖ ቤሉ ቱንስቾን ሃመኖበአ» ይ ጠወዕዮሰ።<note caller="-" style="x"><char style="xo" closed="false">8፥12 </char><char style="xt" closed="false"><ref loc="MAT 5:14">ማቶ. 5፥14</ref>፤ <ref loc="JHN 9:5">ያህ. 9፥5</ref>።</char></note><verse eid="JHN 8:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JHN 8:13"/>ፈርሳውት «አት ገይክተኔሃ መሰከርታንቲት፤ መሰከርቶንቲሁ ሀንቅሃበአ» ይቶኡ።<note caller="-" style="x"><char style="xo" closed="false">8፥13 </char><char style="xt" closed="false"><ref loc="JHN 5:31">ያህ. 5፥31</ref>።</char></note><verse eid="JHN 8:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 8:14"/>ኢስን «መቱርቹሃ አን ገይሀእ መሰከሮም ጎሬ አን ሀከን አዲች አሜቾም ጎሬ ህትን ሀከ አደ መራም ጎር ደጋምቤቺሃ ምስክሩእ ሀንቅሃን፤ ጠዉ እኮጎሬ አዕኑ አን ሀከን አዲን አሜቾም ጎር ህትን ሀከ አደ መራም ጎር ደጌነንተበአ። <verse eid="JHN 8:14"/><verse number="15" style="v" sid="JHN 8:15"/>አዕኑ መኬህዕኔገ ፈረዴነንተ፤ ጠዉ እኮጎሬ አን አዬ አሌኒ ፈረዳምበአ። <verse eid="JHN 8:15"/><verse number="16" style="v" sid="JHN 8:16"/>ፈረጆም ጎሬ ፍርዱእ ሀንቅሃን፤ መሰንትስ ፈረንዳሚሁ አኔትለከ አናኤ ቤሉ አን ሜጦሃኤበአ። <verse eid="JHN 8:16"/><verse number="17" style="v" sid="JHN 8:17"/>ለሙ መንቹ መሰከሮች ጠዉስ ሀንቅ እሁስ ሕጋንከክዕኔ ከተበሞኡ። <verse eid="JHN 8:17"/><verse number="18" style="v" sid="JHN 8:18"/>ህካን እኮቤቺሃ አን ገይኤተኔሃ መሰከራም፤ ህትን ኤሳሃ ሶኮኤ ኢ አኑሁ ኢተኔሃ መሰከረኖ» ይ ፈንቀሼእ። <verse eid="JHN 8:18"/><verse number="19" style="v" sid="JHN 8:19"/>እሰን «አኑክ ሀከበ ዮኡ» ይት ጠዕምቶስ፤ ኢስን «ኤሳለከ አነኤ ደጌነንተበአ፤ ኤሳሃ ደጌንታ እቃን ኢ አነሃ ደጌነንተ እቅ» ይ ፈንቀሼእ።<verse eid="JHN 8:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="JHN 8:20"/>ኢስን ህካን ጠወዕዮሁ መገን ምኔን ብረ ቶጌኖ ሳጥን መዴን አፉዕል ተማርሰኒት እቅ፤ እኮጎሬ ወክቱስ ኢልበቤቺሃ አዪሁ አፎስበአ።<verse eid="JHN 8:20"/></para>
+  <para style="s1">አመዕነቱ ሆፈዕዮቤቺሃ ኣሴመ ሸዘነተ</para>
+  <para style="p">
+    <verse number="21" style="v" sid="JHN 8:21"/>ለንኪሃ ኢስ «አን ኦሮኣም፤ አዕኑ ኤሳሃ ሀሴነንተ፤ ጠዉ እኮጎሬ ጩቢንከክዕኔን ሬቴነንተ ቤሉ አን ኦሮኣምቤቹ መርቶኖተ አታልቴነንተበአ» ዬሰ።<verse eid="JHN 8:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 8:22"/>አይሁድ አዎንሳኑት «እስ ‹አን ኦሮኣምቤቹ አዕኑ አሜቶኖተ አታልቴነንተበአ› ዩስ ገዉስ ሾታትንዶ?» የቀንቶኡ።<verse eid="JHN 8:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 8:23"/>ህከኒች ኤተሮን ኢስ «አዕኑ ወሮን ከን ኣዱንያ አሊቺት፤ እኮጎሬ አን አሊቺት ቤሉ ከን ኣዱንያ አሊችበአ። <verse eid="JHN 8:23"/><verse number="24" style="v" sid="JHN 8:24"/>አን ክዕኔተ ‹ጩቢንከክዕኔን ሬቴነንተ› ዬሚሁ ከኒሃት፤ መሰንትስ አን ኤሳሃ እሁኤ ደጌን አመዕንቴንባች ጩቢንከክዕኔን ሬቴነንተ» ዬሰ።<verse eid="JHN 8:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 8:25"/>እሰን «አት አዬት?» ይቶስ፤ ኢስን «አን ወዕኔችን ኬሽ ኩሎንክዕኔጋት። <verse eid="JHN 8:25"/><verse number="26" style="v" sid="JHN 8:26"/>አን ክዕኔተኔሃ ያምርቹለከ ፈረዳምርቹ ልግቡ ዮኤ፤ እኮጎሬ ሶኮኤሁ ሀንቅሃን፤ አን ኣዱንያ አሊሃ ጠወኣሚሁ እሲች ሞጮጬሚሃት» ዬሰ።<verse eid="JHN 8:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JHN 8:27"/>እኮጎሬ እሰ እስ አኒተኔሃ ጠወዕዮሰገ ሰውይቶበአ እቅ። <verse eid="JHN 8:27"/><verse number="28" style="v" sid="JHN 8:28"/>ህካን እኮቤቺሃ ኢስ «መንች ቤቱ መስቀላን አሌ ዋሽቴን አፉሽቴነንተ ወክት አን ኤሳሃ እሁኤ ደጌነንተ፤ ህትን ጠለዕል አኑኤ ተማርሴኤሃ ጠወዕዮምጋት ቤሉ ገይኤ ዎልቃን መቱርቹሃ አኣምበእገ ደጌነንተ። <verse eid="JHN 8:28"/><verse number="29" style="v" sid="JHN 8:29"/>ኤሳሃ ሶኮሁ ኢኒንት፤ አን ጉዕመ ወክትንከ አኣም ጠዉ እሱ ሙንዲሲሰኖቤቺሃ ኤሳሃ ሜጡእ አጉሮኤበአ» ዬሰ።<verse eid="JHN 8:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 8:30"/>ኢስ ህካን ጠወዕዮ ወክት ልግቡ መኑ እሲን አመዕንቶኡ።<verse eid="JHN 8:30"/></para>
+  <para style="s1">ጩብ ሮስማች ሰዎልድማን ፉልተኔሃ</para>
+  <para style="p">
+    <verse number="31" style="v" sid="JHN 8:31"/>ኢስ ህከን አመዕንቶ አይሁዲሃ «አዕኑ ላጋንታኤ ሄኤንተ ጎር ሀንቅንከ አዎንቴነንተኤረ። <verse eid="JHN 8:31"/><verse number="32" style="v" sid="JHN 8:32"/>አዕኑ ሀንቅንከ ደጌነንተ፤ ሀንቁንኩ ሰዎልድማን ፉሸኖህዕኔ» ዬሰ።<verse eid="JHN 8:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="JHN 8:33"/>ጠዉ እኮጎሬ እሰ «ነኡ እብራሂምተ ዘር፤ ኬንከ ኢለ አዬሁ ሮስ እንኮምበአ፤ አትንገ ‹ሰዎልድማን ፉልቴነንተ› ይታንቲሁ ሚሃት?» ይት ጠዕምቶኡ።<note caller="-" style="x"><char style="xo" closed="false">8፥33 </char><char style="xt" closed="false"><ref loc="MAT 3:9">ማቶ. 3፥9</ref>፤ <ref loc="LUK 3:8">ሉቃ. 3፥8</ref>።</char></note><verse eid="JHN 8:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="JHN 8:34"/>ኢስን «ሀንቅንከ ያንክዕኔ፤ ጩብ አአኖሁ ጉዕሙንኩ ጩብሃ ሮስቹ። <verse eid="JHN 8:34"/><verse number="35" style="v" sid="JHN 8:35"/>ካዲንቹ ቀርችስ ምኔን ዘላለሚሃ ሄአኖበአ፤ እኮጎሬ ቤቱ ዘላለሚሃ ምኔን ሄአኖ። <verse eid="JHN 8:35"/><verse number="36" style="v" sid="JHN 8:36"/>ህካን እኮቤቺሃ ቤቱ ሰዎልድማን ፉሼህዕኔች ሀንቅንከ ሰዎልድማን ፉልቴነንተ። <verse eid="JHN 8:36"/><verse number="37" style="v" sid="JHN 8:37"/>አዕኑ እብራሂም ዘርተ እሁክዕኔ ደንጋም፤ ጠዉ እኮጎሬ ኢ ላገተ ቶጌንበቤቺሃ ኤሳሃ ሽቶኖተ ሀሴነንታት። <verse eid="JHN 8:37"/><verse number="38" style="v" sid="JHN 8:38"/>አን አንኤቤቾን ለዕዮምርቹ ጠወኣም፤ አዕኑ አኒችክዕኔ ሞጮጭቴንታሃ አቴነንተ» ዬእ።<verse eid="JHN 8:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="JHN 8:39"/>እሰን «አኑኔ እብራሂማት» ይቶኡ፤ ህትን ኢስ «እብራሂም እለተ እኬንተ እቃን እብራሂም አዕዮሃ አቴነንተ እቅ። <verse eid="JHN 8:39"/><verse number="40" style="v" sid="JHN 8:40"/>ጠዉ እኮጎሬ አዕኑ መገኒች ሞጮጬም ሀንቅ ኩሎንክዕኔረ ሽቶኖኤተ ሀሴነንታት፤ እብራሂም ህት አዕዮበአ። <verse eid="JHN 8:40"/><verse number="41" style="v" sid="JHN 8:41"/>ህትን አዕኑ አንክዕኔገን አቴነንታት» ዬሰ፤ እሰን «ነኡ ህንጨረበሃበአ፤ መቱ አኑ ዮኔ፤ እስን መገኑሃ» ይቶስ።<verse eid="JHN 8:41"/></para>
+  <para style="p">
+    <verse number="42" style="v" sid="JHN 8:42"/>ህትን ኢስ «መገኑ አነክዕኔ እኮ እቃን ኤሳሃ ኢትቴነንተ እቅ፤ መሰንትስ አን መገን አዲች አሜቾም፤ ኤሳሃ እስ ሶኮኤ ቤሉ አን ገይንከእ አሜቾምበአ። <verse eid="JHN 8:42"/><verse number="43" style="v" sid="JHN 8:43"/>ሚሃት ጠወእ አጥራመቴነንተበኢሁ? ላገኤ ቶጎኖተ ሀሴንበቤቺሃበእንዶ? <verse eid="JHN 8:43"/><verse number="44" style="v" sid="JHN 8:44"/>አዕኑ እልቢስተ እለ፤ አንክዕኔ ሰውት አቶኖተ ሀሴነንተ፤ እስ ዎዕኔችን ኬሽ መነ ሸኖሃን፤ ሀንቁንኩ እሲን ዮስበእቤቺሃ ሀንቄን ኡርዮበአ፤ እስ ክዝበኘለከ ክዝብ አነ እኮቤቺሃ ክዝብ ጠወአኖሁ ገይችሲት። <verse eid="JHN 8:44"/><verse number="45" style="v" sid="JHN 8:45"/>ጠዉ እኮጎሬ ሀንቅ ጠወኣምቤቺሃ አመዕንቴነንተኤበአ። <verse eid="JHN 8:45"/><verse number="46" style="v" sid="JHN 8:46"/>ክዕኔ በሊች ኤሳሃ ‹አት ጩበኛ› ይ ጠወአኖሁ አዬት? አን ሀንቅ ጠወኣሚሃ እኮች ሚ አመዕንቴነንተኤበአ? <verse eid="JHN 8:46"/><verse number="47" style="v" sid="JHN 8:47"/>መገን አዲች እኮሁ መገን ላገተ ሞጮጨኖ፤ አዕኑ መገን አድረ እኬንበቤቺሃ መገን ላገተ ሞጮጭቴነንተበአ» ዬሰ።<verse eid="JHN 8:47"/></para>
+  <para style="s1">ኢስ እብራሂሚች ሄጭ ሄኡስ</para>
+  <para style="p">
+    <verse number="48" style="v" sid="JHN 8:48"/>አይሁዱ ፈንቀሽት «ነኡ ‹አት ሰምራውቹሃን፤ ህትን እልብሱ አፎሄ› ዩኔ ሀንቅሃበእንዶ?» ይቶስ።<verse eid="JHN 8:48"/></para>
+  <para style="p">
+    <verse number="49" style="v" sid="JHN 8:49"/>ህካን እኮቤቺሃ ኢስ «ኤሳሃ እልብሱ አፎኤበአ፤ ጠዉ እኮጎሬ አን አነኤ ኬዕምሳሚት፤ አዕኑ ኬዕምሴንታኤበአ። <verse eid="JHN 8:49"/><verse number="50" style="v" sid="JHN 8:50"/>እኮጎሬ አን ገይኤ ኬዕምኝ ሀሳምበአ፤ ኢ ኬዕምኝ ሀሰኖሁለከ ፈረደኖሁ ዎሉ ዮኡ። <verse eid="JHN 8:50"/><verse number="51" style="v" sid="JHN 8:51"/>ሀንቅንከ ያንክዕኔ፤ ላገእ አገረኖሁ ዘላለሚሃ ሬሀኖበአ» ይ ፈንቀሼእ።<verse eid="JHN 8:51"/></para>
+  <para style="p">
+    <verse number="52" style="v" sid="JHN 8:52"/>አይሁዱ «ዱሩ አፎሄገ ቴሱ ደንጎም፤ እብራሂምለከ ነቢያከት ሬቶኡ፤ እኮጎሬ አት ‹ላገኤ አገርታእሩ ሆሮን ሬታበአ› ይታንቲት። <verse eid="JHN 8:52"/><verse number="53" style="v" sid="JHN 8:53"/>ሀንቅንከ አት አናኔ እብራሂሚች በተአንንዶ? እብራሂምለከ ነቢያከት ሬቶኡ፤ እኮጎሬ አት ገዉክ አዬት ይቶታት?» ይቶስ። <verse eid="JHN 8:53"/><verse number="54" style="v" sid="JHN 8:54"/>ህትን ኢስ ፈንቀሽ «አን ገዉኤ ከበጄም ጎር መቱርቹሃ ደግለለኖበአ፤ ኤሳሃ ከበጀኖሁ አኑኔ ‹መገኑሃኔ› ይቴነንተ አናኤ። <verse eid="JHN 8:54"/><verse number="55" style="v" sid="JHN 8:55"/>ጠዉ እኮጎሬ አዕኑ እሱ ደጌንታበአ፤ አን ደጋንስ፤ አን ‹እሱ ደጋምበአ› ዬም ጎሬ ክዕኔገን ክዝበኘ እሃም፤ እኮጎሬ አን እሱ ደጋም፤ ላገሲ አገራም። <verse eid="JHN 8:55"/><verse number="56" style="v" sid="JHN 8:56"/>አንክዕኔ እብራሂም ሃሽኣቱተ አን አሜታም በር ለዕይ ሙንደኦታት እቅ፤ እስን ህካን ለዕይ ሙንደዕዮ» ዬሰ።<verse eid="JHN 8:56"/></para>
+  <para style="p">
+    <verse number="57" style="v" sid="JHN 8:57"/>ህከ ወክት አይሁዱ «አት እለንቶንቲች ኦንታሁ ዘማን እኮሄበኢሁ ‹እብራሂመ ለዕዮም› ይተንዶ?» ይቶስ። <verse eid="JHN 8:57"/><verse number="58" style="v" sid="JHN 8:58"/>ህትን ኢስ «ሀንቅንከ ያንክዕኔ፤ እብራሂም እለሙዕነ ዎዕናከ አን ዮምሃ» ይ ፈንቀሼሰ።<verse eid="JHN 8:58"/></para>
+  <para style="p">
+    <verse number="59" style="v" sid="JHN 8:59"/>ህካን እኮቤቺሃ አይሁዱ ኢሰ ቀሶተ ክኑ ኬሶኡ፤ ጠዉ እኮጎሬ ኢስ እሳች ገበጭ ይ መገን ምኒች ፉል ኦሮዕዮ።<verse eid="JHN 8:59"/></para>
+  <chapter eid="JHN 8"/>
+  <chapter number="9" style="c" sid="JHN 9"/>
+  <para style="s1">ኢስ ቆቀ መንቹ ፈይሱስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 9:1"/>መቱ በር ኢስ ዎቃን ሃመን ቆቀ እክ እለሞ መንቹ ለዕዮ። <verse eid="JHN 9:1"/><verse number="2" style="v" sid="JHN 9:2"/>ህከንቤቾንን አሳበንት ኢሰ «አስተማርቾ! ኩ መንቹ ቆቀ እክ እለሞሁ አይ አዕዮ ጩቢሃት? ገዉስ አዕዮ ጩቢንትንዶ አኑስለከ አመስ አቶ ጩቢኒት?» ይት ጠዕምቶስ።<verse eid="JHN 9:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="JHN 9:3"/>ኢስን ፈንቀሽ «ኩ መንቹ ቆቀ እኮሁ ገዉስ አዕዮ ህከረንገ አኑስለከ አመስ አቶ ጩቢሃበአ፤ ጠዉ እኮጎሬ መገን ሆጉት እስ አሌን ለሊቶታት። <verse eid="JHN 9:3"/><verse number="4" style="v" sid="JHN 9:4"/>በሩ ዮ ጌሳን ሶኮኤ ሆጉተ አኡ ሀስሰኖኤ፤ መሰንትስ አዪሁ አኦተ አታለኖበእ ሀንከዕርት አሜታአ። <verse eid="JHN 9:4"/><verse number="5" style="v" sid="JHN 9:5"/>አን ከን ኣዱንያ አሌን ሄዕዮም ጌሳን ከን ኣዱንያ አሊሃ ኑርሃን» ዬእ።<note caller="-" style="x"><char style="xo" closed="false">9፥5 </char><char style="xt" closed="false"><ref loc="MAT 5:14">ማቶ. 5፥14</ref>፤ <ref loc="JHN 8:12">ያህ. 8፥12</ref>።</char></note><verse eid="JHN 9:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 9:6"/>ህካን ጠወዕዮች ኤተሮን አንጀ ቱይ ትበ ቁፍሽ ጭቀስ ህከን ቆቀ መንች እሌን ቡር <verse eid="JHN 9:6"/><verse number="7" style="v" sid="JHN 9:7"/>«መርት ሰልሆም ዋን ኣዕል» ዬስ፤ «ሰልሆመ» ዩ «ሶቀሞሃ» ዩሃን፤ ህካን እኮቤቺሃ መንቹንኩ መር ኣዕል ፈይ ለአን ፈንቀል አሜቾ።<verse eid="JHN 9:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JHN 9:8"/>ኦሌስ መኑለከ ከኒች ብርተ አፉዕል ኡጨን ለዕዮ መኑ «ኩን አፉዕል ኡጨኖሃ መንቹበእንዶ?» ይቶኡ። <verse eid="JHN 9:8"/><verse number="9" style="v" sid="JHN 9:9"/>መት-መቱሰ «ኤ እሶት» ይቶኡ፤ ዎሉሰንገ «እሱ አጉደኖት ቤሉ እሶበአ» ይቶኡ፤ ጠዉ እኮጎሬ ሁኩ መንቹንኩ «ኤ አኔት» ዬእ። <verse eid="JHN 9:9"/><verse number="10" style="v" sid="JHN 9:10"/>መኑንኩ «እልክ ሀት እክ ፈንተኦኡ?» ይቶስ። <verse eid="JHN 9:10"/><verse number="11" style="v" sid="JHN 9:11"/>እስን « ‹ኢሰ› ዬኖ መንቹ ጭቀ ቁፍሽ እሌንከእ ቡር ‹ሰልሆም ዋን መርት ኣዕል› ዬኤ፤ አንን ህከ ቤቹ መር ኣዕል ፈዬም» ይ ፈንቀሼእ። <verse eid="JHN 9:11"/><verse number="12" style="v" sid="JHN 9:12"/>እሰን «መንቹስ ሀከበ ዮኡ?» ይቶስ፤ እስን «አን ደጎምበአ» ይ ፈንቀሼእ።<verse eid="JHN 9:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JHN 9:13"/>እሰን ህከ ቆቀ እክ እለሞ መንቹ ፈርሳዌቤቹ መስቶኡ። <verse eid="JHN 9:13"/><verse number="14" style="v" sid="JHN 9:14"/>ኢስ ጭቀ ቁፍሽ መንች እልተ ፈይሾ በሩ ፎሎጭየ በር እቅ። <verse eid="JHN 9:14"/><verse number="15" style="v" sid="JHN 9:15"/>ፈርሳውት ህከ መንቹ «ሀት እክ ለኦተ አታልት?» ይት ጠዕምቶስ፤ እስን «እሌንተእ ጭቀ ቡራን ኣዕል ለዕዮም» ዬሰ።<verse eid="JHN 9:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 9:16"/>ህከ ወክት ፈርሳዌች መት-መቱ «ኩ መንቹ ፎሎጭ በር ከበጅበቤቺሃ መገንየ መንቹበአ» ይቶኡ፤ እኮጎሬ ዎሉስ መኑ «ጩበኙ መንቹ ህትኔ አጀብሲሰኖ ጠወ ሀት አኦተ አታለኖ?» ይቶኡ፤ ህከን መሳን በላንከሰ አደዶመት እኮኡ።<verse eid="JHN 9:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JHN 9:17"/>ህካን እኮቤቺሃ ህከ ቆቀ መንቹ «ኩ መንቹ እልክ ፈይሾች አት እስተኔሃ መ ይተን?» ይት ለንኪሃ ጠዕምቶስ፤ እስን «ነቢዬቹሃን» ዬሰ። <verse eid="JHN 9:17"/><verse number="18" style="v" sid="JHN 9:18"/>አይሁድ አዎንሳኑት ሁኩ መንቹ ብርተ ቆቀ እኮሃ እሁስ ቴንገ እልስ ፈይት ፈንተኦገ አነስለከ አመስ ገእት ጠዕምቶተ ኢለ አመዕንቶበአ እቅ። <verse eid="JHN 9:18"/><verse number="19" style="v" sid="JHN 9:19"/>ህካን እኮቤቺሃ እሰን « ‹ቆቁ እለሞኡ› ይቴነንተ ቤቱክዕኔ ከንትንዶ? ቴሱ ሀት እክ ለኦተ አታሎ?» ይት አነስለከ አመስ ጠዕምቶኡ።<verse eid="JHN 9:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="JHN 9:20"/>አኑስለከ አመስ «ኩ መንቹ ቤቱኔ እሁስለከ ቆቀ እክ እለሙስ ደንጋም። <verse eid="JHN 9:20"/><verse number="21" style="v" sid="JHN 9:21"/>ጠዉ እኮጎሬ ቴሱ ሀት እክ ለአኖት ጎሬ፥ ህትን አይ እልስ ፈይሾስ ጎር ደንጋምበአ፤ እስ ገውስ ደጎ መንቹ እኮቤቺሃ ገዉንከስ ጠዕምዬስ፤ እስ ገይስተኔሃ ኩሎተ አታለኖ» ይቶኡ። <verse eid="JHN 9:21"/><verse number="22" style="v" sid="JHN 9:22"/>እሰን ህት ይቶኢሁ አይሁድ ሹመተ ዋጅቶቤቺሃት፤ መሰንትስ ኢስ «መሲህ» ይ መሰከረኖሁ ሄዕዮጎር ጭምትሰ ምኒች ፉሽቶተ ከኒች ብርተ አይሁድ ሹመት አማዕለንቶቤቺሃት። <verse eid="JHN 9:22"/><verse number="23" style="v" sid="JHN 9:23"/>ህካን እኮቤቺሃ አኑስለከ አመስ «እስ ገውስ ደጎ መንቹ እኮቤቺሃ እሱንከ ጠዕምዬስ» ይቶኡ።<verse eid="JHN 9:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JHN 9:24"/>ህከን መሳን ቆቀ እክ እለሞ መንቹ ለንኪሃ ገእት «አት መገኒሃ ኬዕምኝ ኣስ፤ ኩ መንቹ ጩበኘ እሁስ ነኡ ደንጋም» ይቶኡ።<verse eid="JHN 9:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 9:25"/>እስን «ጩበኛ እሁስ ደጋምበአ፤ አን ዎዕነ ቆቀ እሁእለከ ቴንገ ለኣምገ ጠለዕል ህካን ደጋም» ይ ፈንቀሼእ። <verse eid="JHN 9:25"/><verse number="26" style="v" sid="JHN 9:26"/>እሰን «እስ መ አዕዮሄ? እልክ ሀት አዕይ ፈይሾሄ?» ይቶስ። <verse eid="JHN 9:26"/><verse number="27" style="v" sid="JHN 9:27"/>እስን ፈንቀሽ «አን ዎዕናንከ ኩሎንክዕኔ እቅ፤ እኮጎሬ አዕኑ ሞጮጭቶኖተ ሀሴንታበአ፤ ቴንገ ሚሃ ሞጮጪ ሀሴነንታት? አዕኑ እሱ አዎንቴነንተረ እኮኖተ ሀሴነንታትንዶ?» ዬሰ። <verse eid="JHN 9:27"/><verse number="28" style="v" sid="JHN 9:28"/>እሰን እሱ ቦሮርተን «እሱ አዎንታንቲሁ አቴት፤ እኮጎሬ ነኡ ሙሰ አዎናምረ። <verse eid="JHN 9:28"/><verse number="29" style="v" sid="JHN 9:29"/>መገኑ ሙሲሃ ጠወዕዮገ ነኡ ደንጋም፤ ጠዉ እኮጎሬ ኩ መንቹ ሀከንቤቺችት ጎር ደንጋምበአ» ይቶስ።<verse eid="JHN 9:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 9:30"/>ሁኩ መንቹ እሳሃ «ኩ መንቹ ሀከንቤቺችት ጎር አዕኑ ደጉ ሆጉክህኔ አበ አጀብሲሰኖሃን! ጠዉ እኮጎሬ እልኤ ፈይሾሁ እሶት። <verse eid="JHN 9:30"/><verse number="31" style="v" sid="JHN 9:31"/>መገኑ ጩበኛኑት ይታ ጠወ ሞጮጨኖበእገ ደንጋም፤ ጠዉ እኮጎሬ መገኑ ዋጀኖሁለከ እስ ሃሽኣቱተ አአኖሁ ሄዕዮጎር ሁኩን የኖ ጠወ መገኑ ሞጮጨኖ። <verse eid="JHN 9:31"/><verse number="32" style="v" sid="JHN 9:32"/>‹ቆቀ እክ እለሞ መንች እልተ ፈይሾሁ ዮኡ› ዬን ጠወኤነን ከበሬ ኢለ ሆሮ ሞጮጨሞበአ። <verse eid="JHN 9:32"/><verse number="33" style="v" sid="JHN 9:33"/>ኩ መንቹ መገኒች እህበእቃን መቱርቹሃ አኦተ አታለኖበ እቅ» ይ ፈንቀሼሰ።<verse eid="JHN 9:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="JHN 9:34"/>እሰን «አት ጉዕሙርቹንኩክ ጩቢን እለንቶንቲሁ ኔሳሃ ተማርስተንንዶ?» ይት ጭምት ምኒች ፉሽቶስ።<verse eid="JHN 9:34"/></para>
+  <para style="s1">ቀልብ ቆቅመተኔሃ</para>
+  <para style="p">
+    <verse number="35" style="v" sid="JHN 9:35"/>ህከ መንቹ አይሁዱ ጭምት ምኒች ፉሽቶስገ ኢስ ሞጮጬእ፤ ኢስ ህከ መንቹ ደግ «መንች ቤቶን አመዕንተንንዶ?» ዬስ። <verse eid="JHN 9:35"/><verse number="36" style="v" sid="JHN 9:36"/>እስን ፈንቀሽ «ቀርቾ! አን እሶን አመዕኖተ እስ አዬት?» ዬእ። <verse eid="JHN 9:36"/><verse number="37" style="v" sid="JHN 9:37"/>ኢስን «አት እሱ ከኒች ዎዕናንከ ለኦንት፤ ህትን ቴሁ ኪን ጠወአኖንኩ እሶት» ዬስ። <verse eid="JHN 9:37"/><verse number="38" style="v" sid="JHN 9:38"/>እስን «ቀርቾ! አመዕናም» ይ ሰገጆስ። <verse eid="JHN 9:38"/><verse number="39" style="v" sid="JHN 9:39"/>ኢስን «ለእበሩ ለኦተለከ ለኣእሩ ቆቆተ አን ፈረዶተ ከን ኣዱንያ አል አሜቾም» ዬእ። <verse eid="JHN 9:39"/><verse number="40" style="v" sid="JHN 9:40"/>ህከ ወክት ኢስ መዴን ሄኦ ፈርሳውት ህካን ሞጮጭት «ነኡ ቆቃኖተንዶ?» ይቶስ። <verse eid="JHN 9:40"/><verse number="41" style="v" sid="JHN 9:41"/>ኢስ እሳሃ «ቆቃኑተ እኬንተ እቃን ጩብ እሀኖህዕኔበ እቅ፤ ጠዉ እኮጎሬ ቴሱ ለዕናሚት ይቴነንተቤቺሃ ጩብ እሀኖህዕኔ» ዬሰ።<verse eid="JHN 9:41"/></para>
+  <chapter eid="JHN 9"/>
+  <chapter number="10" style="c" sid="JHN 10"/>
+  <para style="s1">ኢስ ጡመ ዜማንቹ እሁስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 10:1"/>ኢስ «ሀንቅንከ ያንክዕኔ፤ ሆለ ጎረንች ኡሮን እሁዕነ ዎሎ አዲን ኣገኖ መንቹ ሞጋንቹሃለከ ዘራፌተ። <verse eid="JHN 10:1"/><verse number="2" style="v" sid="JHN 10:2"/>ጠዉ እኮጎሬ ኡሮን ኣገኖሁ ሆላተስ ዜማንቹሃን። <verse eid="JHN 10:2"/><verse number="3" style="v" sid="JHN 10:3"/>እሲሃ ኡሮ አገራንቹ ኡሩተ ፈነኖስ፤ ሆለንት ላገስ ሞጮጭታአ፤ እስን ገይስ ሆለተ ሱዕሚንከሰ ገአን አዎንስ አብል ፉሸኖሰ። <verse eid="JHN 10:3"/><verse number="4" style="v" sid="JHN 10:4"/>ገይስረ ጉዕመንከ ገእ ፉሼች ኤተሮን ብሬንከሰ ሃመን አዎንሰኖሰ፤ ሆለንትስ ላገስ ደጋቤቺሃ አዎንታስ። <verse eid="JHN 10:4"/><verse number="5" style="v" sid="JHN 10:5"/>ጠዉ እኮጎሬ ዎሊች ሁንታ ቤሉ አዎንታስበአ፤ መሰንትስ ዎል ላገተ ደጋበእቤቺሃት» ዬእ።<verse eid="JHN 10:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 10:6"/>ኢስ ህከ ምሳልተ ኩሎሰ፤ ጠዉ እኮጎሬ እሰ ኩሎሳሁ መሃጎሬ አጥራመቶበአ።<verse eid="JHN 10:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 10:7"/>ህካን እኮቤቺሃ ኢስ ለንኪሃ «ሀንቅንከ ያንክዕኔ፤ አን ሆለት ኣጋታ ኡሩ። <verse eid="JHN 10:7"/><verse number="8" style="v" sid="JHN 10:8"/>ኤሳሃ ሄጭት አሜቶእሩ ጉዕሙንኩ ሞጋኖተለከ ዘራፌታ፤ ጠዉ እኮጎሬ ሆለት ሞጮጭቶሰበአ። <verse eid="JHN 10:8"/><verse number="9" style="v" sid="JHN 10:9"/>አን ኣጌኖ ኡሩተ እኮምቤቺሃ ኢ አዲን ኣገኖሁ አዪሁ ጡመኖ፤ ኣገኖለከ ፉለኖ፤ ህትን ዜሜ ቤቹ ደአኖ። <verse eid="JHN 10:9"/><verse number="10" style="v" sid="JHN 10:10"/>ሞጋንቹ ሞጎተ፥ ሾተለከ ቤሶተ አሜተኖ፤ እኮጎሬ አን አሜቾሚሁ ልግብ ሄኡ ኣሶታት። <figure style="fig" alt="Sheep in sheepfold with shepherd" file="LB00014B.tif" size="span" ref="10፥7">ዜማንቹ ሆላንከስን ጎረኞን</figure><verse eid="JHN 10:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 10:11"/>«ጡሙ ዜማንቹ አኔት፤ ጡሙ ዜማንቹ ሆላተስ ነብሳስ ህግሽ ኣሰኖ። <verse eid="JHN 10:11"/><verse number="12" style="v" sid="JHN 10:12"/>ጠዉ እኮጎሬ ሆለት ገይሲረ እኩዕነ ባቴናንስ አገራኖ ዜማንቹ ሆልት አሜተን ለዕዮ ወክት አጉር ሁነኖ፤ ሆልንት ሆለተ ብንአዕይ ደመቅሽ ኣአኖ። <verse eid="JHN 10:12"/><verse number="13" style="v" sid="JHN 10:13"/>ሁኩ ዜማንቹ ሁነኖሁ ብረ ባቴናንስ አገራኖሃ እኮቤቺሃትለከ ሆላተስ አሙዝበቤቺሃት። <verse eid="JHN 10:13"/><verse number="14" style="v" sid="JHN 10:14"/>ጡሙ ዜማንቹ አኔት፤ አን ሆለእ ደጋም፤ ሆለንትኤ ኤሳሃ ደጋአ።<note caller="-" style="x"><char style="xo" closed="false">10፥14 </char><char style="xt" closed="false"><ref loc="MAT 11:27">ማቶ. 11፥27</ref>፤ <ref loc="LUK 22:33">ሉቃ. 22፥33</ref>፤ <ref loc="LEV 24:16">ሌዌ 24፥16</ref>።</char></note> <verse eid="JHN 10:14"/><verse number="15" style="v" sid="JHN 10:15"/>አን እሰተ ደጋሚሁ አኑኤ ኤሳሃ ደገኖኤገለከ አኒሁ አነኤ ደጋምሀንጋት፤ አን ሆላተኤ ነብሳእ ህግሽ ኣሳም። <verse eid="JHN 10:15"/><verse number="16" style="v" sid="JHN 10:16"/>ከን ዜሜ ኣዜን ዮበእ ዎልት ሆለት ዮኤ፤ እሰንተ ኤቡ ሀስሰኖኤ፤ ላገእ ሞጮጭታኣ፤ ህትን መቱ ዜሞሃ እካን ዜማንቹሰ መቱ እሀኖ።<verse eid="JHN 10:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JHN 10:17"/>«ህካን እኮቤቺሃ አኑኤ ኤሳሃ ኢተኖ፤ መሰንትስ አን ፈንቀሽ ኣኦተ ነብሳእ ህግሽ ኣሳምቤቺሃት። <verse eid="JHN 10:17"/><verse number="18" style="v" sid="JHN 10:18"/>ነብሳእ አን ገይኤ ኢታን ህግሽ ኣሳም ቤሉ ኢች ከም ኣአኖሁ አዪሁ ዮበአ፤ ነብሳእ ህግሽ ኣሶተለከ ፈንቀሽ ኣኦተ ዎልቀት ዮኤ፤ ከ ትዛዝ ኣኤሚሁ አኒችኤት» ዬእ።<verse eid="JHN 10:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 10:19"/>ህከን ጠዊች ኬዕዮሀንን አይሁድ በላን ለንኪሃ አደዶመት እኮኡ። <verse eid="JHN 10:19"/><verse number="20" style="v" sid="JHN 10:20"/>እሳችን ልግቡሰ «እሱ ዱሩ አፎስ፤ እስን በርገጎኡ፤ እስ ጠወአኖ ጠወ ሚሃት ሞጮጭቴነንታቲሁ?» ይቶኡ።<verse eid="JHN 10:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="JHN 10:21"/>ህትን ዎሉሰንገ «ኩ ጠዉ ዱሩ አፎስ መንች አፌች ፉለኖበአ፤ ዱሩ ቆቀ መንች እልተ ፈይሰኖንዶ?» ይቶኡ።<verse eid="JHN 10:21"/></para>
+  <para style="s1">አይሁዱ አመዕኑ ሆጉሰ</para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 10:22"/>ዬሩሳሌማን ዱእ ምኒ ሙጩሩ አኤኖ ከበጃት ከበጄኖ ወክቱ ኢልዮ እቅ፤ ወክቱንኩስ ከርምሃ እቅ። <verse eid="JHN 10:22"/><verse number="23" style="v" sid="JHN 10:23"/>ኢስን መገን ምኔን «ሱላይማን ሃመኖ ዎቃ» ዬኖቤቾን ሃመኖት እቅ። <verse eid="JHN 10:23"/><verse number="24" style="v" sid="JHN 10:24"/>ህከ ወክት አይሁድ አዎንሳኑት ኢሰ አጀብ ኡርት «ሄንኩ በሩ ኢሎተ ኢለ ሸክናምገ አተኔ? አት መሲህ እኮንትጎር ለሊስ ኩልኔ» ይቶኡ።<verse eid="JHN 10:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 10:25"/>ኢስ «አን ከኒች ብርንተ ኩሎንክዕኔ፤ እኮጎሬ አዕኑ አመዕንቴነንተበአ፤ አንኤ ሱዕሚን አኣም ሆጉት ኢተኔሃ መሰከርታአ። <verse eid="JHN 10:25"/><verse number="26" style="v" sid="JHN 10:26"/>ጠዉ እኮጎሬ አዕኑ ሆለኤ እኬንበቤቺሃ አመዕንቴነንተበአ። <verse eid="JHN 10:26"/><verse number="27" style="v" sid="JHN 10:27"/>ሆለኤ ላገኤ ደጋአ፤ አኒሁ እሰተ ደጋም፤ እሰን አዎንታኤ። <verse eid="JHN 10:27"/><verse number="28" style="v" sid="JHN 10:28"/>አን እሳሃ ዘላለሚሃ ጉዕሚንከ ሄአኖ ሄኡ ኣሳንሰ፤ ህካን እኮቤቺሃ እሰን ሆሮን በኣበአ፤ ህትን ኢ አንጋች አዪሁ ዎልቅሽ መሰኖሰበአ። <verse eid="JHN 10:28"/><verse number="29" style="v" sid="JHN 10:29"/>እሰንተ ኤሳሃ ኣሴ አኑኤ ጉዕሚችን ሎረሃን፤ አንኤ አንጋች እሰተ ዎልቅሽ ኣኦተ አታለኖሁ አዪሁ ዮበአ። <verse eid="JHN 10:29"/><verse number="30" style="v" sid="JHN 10:30"/>አንለከ አኑኤ ሜጡሃን» ዬሰ።<verse eid="JHN 10:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="JHN 10:31"/>ህከ ወክት አይሁዱ ለንኪሃ ኢሰ ቀሶተ ክኑ ኬሶኡ። <verse eid="JHN 10:31"/><verse number="32" style="v" sid="JHN 10:32"/>እኮጎሬ ኢስ ፈንቀሽ «አን ልግብ ጡመ ሆጉተ አኒችኤ ለሊሾንክዕኔ፤ ህከረ አዕኑ ኤሳሃ ክኒን ቀሴነንታሁ ህከኑኡች ሀተን ሆጎታት?» ዬሰ።<verse eid="JHN 10:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="JHN 10:33"/>እሰን «ነኡ ቀንሳንኬሁ መገን አሌን ቦሮር ላገተ ጠወኦንትቤቺሃት ቤሉ ጡመ ሆጎተክበአ፤ ህትን አት መንቹ እከን ገዉክ መገኑ አቶንትቤቺሃት» ይት ፈንቀሽቶኡ።<verse eid="JHN 10:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="JHN 10:34"/>ኢስ «ሕጋንከክዕኔ ‹ክዕኔተ ሽርኬተ ዬንክዕኔንዶ› የኖሁ ከተበሞበእንዶ?<note caller="-" style="x"><char style="xo" closed="false">10፥34 </char><char style="xt" closed="false"><ref loc="PSA 82:6">መዝ. 82፥6</ref>።</char></note> <verse eid="JHN 10:34"/><verse number="35" style="v" sid="JHN 10:35"/>መገን ላገት ህግባሃ እኮኢችለከ ሁኩ መገን ላገት አሜቶሰረ ‹ሽርክተ› ይ ገአኖ ስርኘ <verse eid="JHN 10:35"/><verse number="36" style="v" sid="JHN 10:36"/>ህካን እኮች አኑ መገኑ መጠሮሃለከ ከን ኣዱንያ አል ሶኮኤሃ ‹አን መገንየ ቤቱ› ዬምቤቺሃ ‹መገን አሌን ቦሮር ላገተ ጠወኦንት› ይቴነንንዶ? <verse eid="JHN 10:36"/><verse number="37" style="v" sid="JHN 10:37"/>አን አንኤ ሆጉተ አእባች አመዕንቶኖቼኤ። <verse eid="JHN 10:37"/><verse number="38" style="v" sid="JHN 10:38"/>አን አንኤ ሆጉተ አኣሚሃ እኮች ኢን አመዕንቴንበ ጎር ሆጎንተኤ አመዕንዬ፤ ህከኒን አኑኤ ኢን ሄኡስለከ አን አኒንከኤ ሄኡእ ደጌነንተለከ አጥራመቴነንተ» ዬሰ።<verse eid="JHN 10:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="JHN 10:39"/>እሰን ህከ ወክት አፎስተ ሀሶኡ፤ እኮጎሬ እስ አንጋችሰ ፉሸእ ኦሮዕዮ።<verse eid="JHN 10:39"/></para>
+  <para style="p">
+    <verse number="40" style="v" sid="JHN 10:40"/>ኢስ ለንኪሃ ዮርዳኖስ ዋሃ ቶል ያህይ ዎዕነ ጠመቀኖ ቤቹ አሜቾ፤ ህከኔን ዱንኬእ።<note caller="-" style="x"><char style="xo" closed="false">10፥40 </char><char style="xt" closed="false"><ref loc="JHN 1:28">ያህ. 1፥28</ref>።</char></note> <verse eid="JHN 10:40"/><verse number="41" style="v" sid="JHN 10:41"/>ልግቡ መኑ እስበ አሜት «ያህይ መቱ አጀብሲሰኖ ጠወሃ አዕዮበአ፤ ጠዉ እኮጎሬ ያህይ ከን መንችተኔሃ ጠወዕዮ ጠዉ ጉዕሙንኩ ሀንቅሃን» ይቶኡ። <verse eid="JHN 10:41"/><verse number="42" style="v" sid="JHN 10:42"/>ህከንቤቾንን ልግቡ መኑ ኢሳን አመዕንቶኡ።<verse eid="JHN 10:42"/></para>
+  <chapter eid="JHN 10"/>
+  <chapter number="11" style="c" sid="JHN 11"/>
+  <para style="s1">አልኣዛሬ ሬሁተ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 11:1"/>መቱ በር «ቢታንያ» ዬኖቤቾን ሄአኖ «አልዓዛሬ» ዬኖ መንቹ ጥዦ እቅ፤ ቢታንዩ መርየመለከ አመሴ ቤቱት ማርታ ሄኣእተ ቀእ እቅ። <verse eid="JHN 11:1"/><verse number="2" style="v" sid="JHN 11:2"/>ህት መርየመ ቀርች ሎካን ሽቱተ ቡርት ሙሚንከሴ ሺንሽቶእተ፤ ሁኩ ጥዦ አልዓዛር አመሴሃ ቤቱ። <verse eid="JHN 11:2"/><verse number="3" style="v" sid="JHN 11:3"/>ሁኩ ለሙንኩ አመኦሱት ኢስበ «ቀርቾ! ጃሉክ ጥዦኡ» ይት ሶኮኡ።<verse eid="JHN 11:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JHN 11:4"/>ኢስን ህካን ሞጮጬ ወክት «ኩ ጥዘነት ሽትበተ፤ ጠዉ እኮጎሬ መገን ኬዕምኙ ለሎተ መገን ቤቱንኩ ከን ጥዘነ መሳን ኬዕሞተ እኮእሃን» ዬእ።<verse eid="JHN 11:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JHN 11:5"/>ኢስ ማርተለከ አመሴ ቤቱተ መርየመ ህትን አመሰ ቤቱንከ አልዓዛሬ ኢተኖ እቅ። <verse eid="JHN 11:5"/><verse number="6" style="v" sid="JHN 11:6"/>እኮጎሬ አልዓዛር ጥዦገ ሞጮጬ ወክት ዮቤቾን ለሙ በር ዱንኬእ። <verse eid="JHN 11:6"/><verse number="7" style="v" sid="JHN 11:7"/>ህከኒች ኤተሮን አሳበንት «ለንኪሃ ይሁድ ባዱ መርኖ» ዬሰ።<verse eid="JHN 11:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JHN 11:8"/>አሳበንት «አስተማርቾ! አይሁድ አዎንሳኑት ግደኖ በሬች ብርተ ኬሳሃ ክኒን ቀሶሄተ ሀሳሄት እቅ፤ ቴሱንገ ህከ ቤቹ ፈንቀልት መርተንንዶ?» ይቶስ።<verse eid="JHN 11:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 11:9"/>ኢስን ፈንቀሽ «ሱጴች ኬሽ አሩ ኣጎተ ኢለ ቶነ ለሞሃ ሰኣትበእንዶ? በራን ሃመኖሁ ከን ኣዱንያ አል ኑር ለአኖቤቺሃ ቆዕለኖበአ። <verse eid="JHN 11:9"/><verse number="10" style="v" sid="JHN 11:10"/>ጠዉ እኮጎሬ ሀንከዕሬን ሃመኖሁ ኑሩ እሲን ዮበእቤቺሃ ቆዕለኖ» ዬእ። <verse eid="JHN 11:10"/><verse number="11" style="v" sid="JHN 11:11"/>ኢስ ህካን ጠወዕዮች ኤተሮን «ጃሉኔ አልዓዛር ግሾኡ፤ እኮጎሬ ግሰኛች ኬሶስተ መራም» ዬሰ። <verse eid="JHN 11:11"/><verse number="12" style="v" sid="JHN 11:12"/>አሳበንት «ቀርቾ! ግሾ ጎር ቆሀኖስ» ይቶስ። <verse eid="JHN 11:12"/><verse number="13" style="v" sid="JHN 11:13"/>ኢስ ህካን ጠወዕዮሁ አልዓዛሬ ሬሆተኔሃት እቅ፤ ጠዉ እኮጎሬ ግሰኛተኔሃ ጠወዕዮሃ አጉጆሰ። <verse eid="JHN 11:13"/><verse number="14" style="v" sid="JHN 11:14"/>ህካን እኮቤቺሃ ኢስ እሳሃ ለሊሽ «አልዓዛር ሬዮ። <verse eid="JHN 11:14"/><verse number="15" style="v" sid="JHN 11:15"/>አዕኑ አመዕንቶኖተ አን ህከን ቤቾን ሄኡ ሆጉኤ ክዕኔተኔሃ ሙንዲሲሾኤ፤ እኮጎሬ ቴሱ ነኡ እስቤቹ መርኖ» ዬሰ።<verse eid="JHN 11:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 11:16"/>ህከ ወክት «ዲዲሞስ»<note caller="+" style="f"><char style="fqa" closed="false">ዲዲሞስ፦ </char><char style="ft" closed="false">ዩ መልተተ ዩሃን።</char></note> ዬን ገኤኖ ቶማስ ዎሎ አሳባን «ነኡ እሲንን ሬኖተ መርኖ» ዬሰ።<verse eid="JHN 11:16"/></para>
+  <para style="s1">ኢስ ሬሆች ኬኡለከ ሄኡ እሁስ</para>
+  <para style="p">
+    <verse number="17" style="v" sid="JHN 11:17"/>ኢስ ህከ ቤቹ ኢለኖ ወክት አልዓዛር ሞገሞች ሾሉ በር እኮስ እቅ። <verse eid="JHN 11:17"/><verse number="18" style="v" sid="JHN 11:18"/>ቢታንዩ ዬሩሳሌም ከተሚች ሰኣት ደሬ ጌሰ ሃምሲሰኖሃ እቅ። <verse eid="JHN 11:18"/><verse number="19" style="v" sid="JHN 11:19"/>ማርተለከ መርየመ አመሰ ቤቱ ሬዮቤቺሃ ሻዛበእገ ልግቡ አይሁዱ አልፋቴን አፉዕልቶተ እሰቤቹ አሜቶኡ እቅ።<verse eid="JHN 11:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="JHN 11:20"/>ማርተ ኢስ አሜቾገ ሞጮጭቶ ወክት ቶጎስተ መርቶኡ፤ እኮጎሬ መርየመ ምኔን ፈቆኡ እቅ። <verse eid="JHN 11:20"/><verse number="21" style="v" sid="JHN 11:21"/>ማርተ ኢሰ «ቀርቾ! አት ከንቤቾን ሄኦንት እቃን አመኤቤቱ ሬሀኖበአ እቅ። <verse eid="JHN 11:21"/><verse number="22" style="v" sid="JHN 11:22"/>ጠዉ እኮጎሬ ቴሁ አት ጠዕምቶንት ጠወ ጉዕመንከ መገኑ ኣሰኖሄገ ደጋም» ይቶኡ።<verse eid="JHN 11:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 11:23"/>ኢሲን «አመክቤቱ ሬሆች ኬአኖ» ዬሴ። <verse eid="JHN 11:23"/><verse number="24" style="v" sid="JHN 11:24"/>ማርተን «ቂያመ በር ሬሆች ኬኤኖ ወክት ኬአኖገ ደጋም» ይቶስ። <verse eid="JHN 11:24"/><verse number="25" style="v" sid="JHN 11:25"/>ኢስን «ሬሆች ኬኡለከ ሄኡ አኔት፤ ኢን አመዕነኖሁ ሬዮ ጎሬሁ ሄአኖ። <verse eid="JHN 11:25"/><verse number="26" style="v" sid="JHN 11:26"/>ኢን ሄአኖሁለከ አመዕነኖሁ አዪሁ ሆሮን ሬሀኖበአ፤ ህካን እኮቤቺሃ አመዕንተንንዶ?» ዬሴ።<verse eid="JHN 11:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JHN 11:27"/>ማርተን «ኤ ቀርቾ! አት ኣዱንያ አል አሜተኖ ዬመ መሲህ መገን ቤቱ እሁክ አመዕናም» ይቶስ።<verse eid="JHN 11:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JHN 11:28"/>ማርተን ህካን ጠወኦች ኤተሮን «መርየመ» ዬኖ አመሴ ቤቶቤቹ መርት «አስተማርቹ አሜቾኡ፤ እስን ኬሳሃ ገአኖሄት» ይት ማጥ ኩልቶሴ። <verse eid="JHN 11:28"/><verse number="29" style="v" sid="JHN 11:29"/>እሴን ህካን ሞጮጭቶ ወክት ደዕልት ኬእ እስቤቹ መርቶኡ። <verse eid="JHN 11:29"/><verse number="30" style="v" sid="JHN 11:30"/>ኢስ ህከ ቀእተ ኣጉዕናን ማርታን ደቀንቶ ቤቾን ሄዕዮ እቅ። <verse eid="JHN 11:30"/><verse number="31" style="v" sid="JHN 11:31"/>መርየመ ምኔን እሴንን ሜጡበ አልፋቴን አፉዕልቶ አይሁዱ መርየመ ደዕልት ኬእ መርተንን ለኦ ወክት አልዓዛሬ ሎድበ መርት ኦኣኢሃ አጉጃንሰ እሴንተ አዎንቶሴ።<verse eid="JHN 11:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="JHN 11:32"/>መርየማን ኢስ ሄዕዮቤቹ ኢልት ለኦ ወክት ሎከስ ኡብ «ቀርቾ! አት ከንቤቾን ሄኦንት እቃን አመኤቤቱ ሬሀኖበአ እቅ» ይቶስ።<verse eid="JHN 11:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="JHN 11:33"/>እሴለከ እሴን ሜጡበ አሜቶ አይሁዱ ኦአን ኢስ ለዕይ አበ ሻዣን ጎደቡስ ሌንቄቄእ። <verse eid="JHN 11:33"/><verse number="34" style="v" sid="JHN 11:34"/>እስን «ሀከንቤቾንት ሞጌንታሁ?» ዬእ፤ እሰን «ቀርቾ! አሜት ለእ» ይቶስ።<verse eid="JHN 11:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="JHN 11:35"/>ኢስን እንጂጃተ ፉሽ ኦዕዮ። <verse eid="JHN 11:35"/><verse number="36" style="v" sid="JHN 11:36"/>ህካን እኮቤቺሃ «ሄንከ ኢተኖስ ጎር ለዕዬ» የቀንቶኡ።<verse eid="JHN 11:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="JHN 11:37"/>ጠዉ እኮጎሬ እሳች መት-መቱ «ኩን ቆቀ መን እልተ ፈኞሁ ከ መንቹ ሬህበገ አኦተ አታለኖበእንዶ?» ይቶኡ።<verse eid="JHN 11:37"/></para>
+  <para style="s1">ኢስ አልዓዛሬ ሬሆች ኬሱስ</para>
+  <para style="p">
+    <verse number="38" style="v" sid="JHN 11:38"/>ኢስ ቀልቤንከስ አበ ሻዘን ሎድቤቹ መሮ፤ ጃናዘስ አፉሼማንኩ ሎረ ክኒች ሸሄን መክሴመ ሎዳን ክኑ እፍሰሞ ሻንቃንት እቅ። <verse eid="JHN 11:38"/><verse number="39" style="v" sid="JHN 11:39"/>ህትን ኢስ «ክኑ ኬሼ» ዬእ፤ ሬዮ መንች አመቤቱት ማርተ «ቀርቾ! ሬዮች ሾሉ በር እኮስቤቺሃ ከ ወክት ቦበኖ» ይቶስ። <verse eid="JHN 11:39"/><verse number="40" style="v" sid="JHN 11:40"/>ኢስን « ‹አመዕንቶንትጎር መገን ኬዕምኝ ለኣንት› ይበሄንዶ?» ዬሴ። <verse eid="JHN 11:40"/><verse number="41" style="v" sid="JHN 11:41"/>መኑ ህከ ክኑ ኬሾ፤ ህከኒች ኤተሮን ኢስ አሌ ዋሽ ለዕይ «ኢ አነ! ሞጮጭቶንቴኤቤቺሃ ገለትጫንኬ። <verse eid="JHN 11:41"/><verse number="42" style="v" sid="JHN 11:42"/>ጉዕመረን ሞጮጭታንቴኤገ ደጋም፤ ጠዉ እኮጎሬ ካን ዬሚሁ ከኔ ኡርቶ ኡመቱ አት ኤሳሃ ሶኮንትገ አመዕንታገ ይዪት» ዬእ። <verse eid="JHN 11:42"/><verse number="43" style="v" sid="JHN 11:43"/>ኢስ ህካን ጠወዕዮች ኤተሮን «አልዓዛሬ! አም ፉል» ይ ላገስ ጎት አዕይ ጠወዕዮ። <verse eid="JHN 11:43"/><verse number="44" style="v" sid="JHN 11:44"/>ሬዮ አልዓዘርን አንገስለከ ሎከስ ከፈኒን ጣጠሞገን ሎድ ኣዚች ፉሎ፤ ሚንስ ከፈኒን ጣጠሞ እቅ፤ ኢስ «ሂርቴን አጉሬስ፤ ሃሙን» ዬሰ።<verse eid="JHN 11:44"/></para>
+  <para style="s1">ኢሰ ሾኖተ አማዕለሜመገ</para>
+  <para style="r">(<ref loc="MAT 26:1-5">ማቶ. 26፥1-5</ref>፤ <ref loc="MRK 14:1-2">ማር. 14፥1-2</ref>፤ <ref loc="LUK 22:1-2">ሉቃ. 22፥1-2</ref>)</para>
+  <para style="p">
+    <verse number="45" style="v" sid="JHN 11:45"/>መርየመቤቹ አልፋቴን አፉዕልቶተ አሜቶ አይሁዲች ልግቡሰ ኢስ አዕዮሃ ለእ አመዕንቶኡ። <verse eid="JHN 11:45"/><verse number="46" style="v" sid="JHN 11:46"/>ጠዉ እኮጎሬ እሳችን መት-መቱሰ ፈርሳዌቤቹ መርት ኢስ አዕዮ ጠወ ኩልቶኡ። <verse eid="JHN 11:46"/><verse number="47" style="v" sid="JHN 11:47"/>ህካን እኮቤቺሃ ቂስ አዎንሳኑትለከ ፈርሳውት ኦገት ባሊቅ ገእት ጭምአት «ኩ መንቹ ልግብ አጃብሲሰኖ ጠወ አአኖቤቺሃ መ አዕኖም ጎር ቆሀኖ? <verse eid="JHN 11:47"/><verse number="48" style="v" sid="JHN 11:48"/>ህትን አኦተ ሰዕም ይኖም ጎር መኑ ጉዕሙንኩ እሲን አመዕነኖ፤ ሮም ባድ መኑንኩ አሜት ከ ቤቹለከ ኡመት ጉዕመንከ ቤሳአ» ይቶኡ።<verse eid="JHN 11:48"/></para>
+  <para style="p">
+    <verse number="49" style="v" sid="JHN 11:49"/>ጠዉ እኮጎሬ እሳች መቱ ህከን ዘማን ሎሩ ቂስቹ «ቀያፈ» ዬኖሁ «አዕኑ መቱርቹሃ ደጌንታበአ። <verse eid="JHN 11:49"/><verse number="50" style="v" sid="JHN 11:50"/>ኡመቱ በአኖሀኒች መቱ መንቹ መንተኔሃ ሬዮጎር ክዕኔሃ ቆሀኖሃ እሁስ ሰውይቴነንተበእንዶ?» ዬእ። <verse eid="JHN 11:50"/><verse number="51" style="v" sid="JHN 11:51"/>እስን ህካን ጠወዕዮሁ ገይስ ቀልቢቺበአ፤ እኮጎሬ ህከ ወክት እስ ሎረ ቂስቹ እኮቤቺሃ ኢስ መንተኔሃ ሬሀኖገ ራገ ጠወዕዮ። <verse eid="JHN 11:51"/><verse number="52" style="v" sid="JHN 11:52"/>ጠዉ እኮጎሬ እስ ሬሀኖሁ ጠለዕል ኡመቲሃ እሁዕነ ብንይቶ መገን እለተ ሜጡበ ጭም አኦታት እቅ።<verse eid="JHN 11:52"/></para>
+  <para style="p">
+    <verse number="53" style="v" sid="JHN 11:53"/>ህካን እኮቤቺሃ እሰን ህከን በሬች ኬስ ኢሰ ሽቶተ አማዕለንቶኡ። <verse eid="JHN 11:53"/><verse number="54" style="v" sid="JHN 11:54"/>ህከኒች ኤተሮን ኢስ አይሁድ መን በላን አልባሽ ሃሞበአ፤ ጠዉ እኮጎሬ ህከንቤቺች ፉል ኡለ ኡድም መዴን ሄዕዮ «ኤፍሬመ» ዬኖ ከተመ ኦሮዕዮ፤ ህከን ቤቾን አሳባን አፉዕሌእ።<verse eid="JHN 11:54"/></para>
+  <para style="p">
+    <verse number="55" style="v" sid="JHN 11:55"/>አይሁድ ሻሽግ ከበጀቱ ሆንጠኮ እቅ፤ ልግቡሰ ሻሽግ ከበጀቱ ኢለኖሀኒች ሄጭት ገዉሰ ነጠ አቶተ ሄኣ ቤቺች ጉዕሚችን ዬሩሳሌም ከተመ መርቶኡ። <verse eid="JHN 11:55"/><verse number="56" style="v" sid="JHN 11:56"/>እሰን ዱእ ምኒ ኣዜን ኡርት ኢሰ ሀሰን «እስ ከ ከበጀት ከበጄኖቤቹ ሆሮን አሜተኖበእንዶ? መ ሰውይቴነን?» የቀንተን መት-መቲንከሰ ጠወኣኢት እቅ። <verse eid="JHN 11:56"/><verse number="57" style="v" sid="JHN 11:57"/>ህትን ቂስ አዎንሳኑትለከ ፈርሳውት ኢሰ አፎተ ሄአኖ ቤቹ ደገኖ መንቹ ሄዕዮ ጎሬ ኢሰ ለሊሶሰተ መነ ጉዕመንከ አዘዞ እቅ።<verse eid="JHN 11:57"/></para>
+  <chapter eid="JHN 11"/>
+  <chapter number="12" style="c" sid="JHN 12"/>
+  <para style="s1">ኢሳን ሽቱተ ቡርቶ መንቹተ</para>
+  <para style="r">(<ref loc="MAT 26:6-13">ማቶ. 26፥6-13</ref>፤ <ref loc="MRK 14:3-9">ማር. 14፥3-9</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 12:1"/>ሻሽግ ከበጃቲሃ ሌሁ በሩ ፈቆሀኔን ኢስ ቢታንያ ኦሮዕዮ፤ ሁኩ ቢታኑ ኢስ ሬሆች ኬሾስ አልዓዛር ሄአኖተ ቀዕየ እቅ። <verse eid="JHN 12:1"/><verse number="2" style="v" sid="JHN 12:2"/>እሰን ህከኔን እሲሃ ሁርባት ቅጥ አታን ማርተ ሆንጠህሳኢት እቅ፤ አልዓዛርን ኢሲን ሜጡበ ማዳን አፉዕልቶሀኑኡች መቶሃስ እቅ። <verse eid="JHN 12:2"/><verse number="3" style="v" sid="JHN 12:3"/>ህከ ወክት መርየመ ዋጉስ አበ ጤአተ እኮ ነጠ «ናርዶሰ» ዬኖ ሀቂች መክቶ መቶ ብልቃጥ ሽቱተ ኤቦኡ፤ ህካንን ኢስ ሎካን ቡርት ሙሚንከሴ ሺንሽቶኡ፤ ህከን ሽቶ አንጀነት ምኒ ኣዝ ዊንቶኡ።<note caller="-" style="x"><char style="xo" closed="false">12፥3 </char><char style="xt" closed="false"><ref loc="LUK 7:37-38">ሉቃ. 7፥37-38</ref>።</char></note> <verse eid="JHN 12:3"/><verse number="4" style="v" sid="JHN 12:4"/>ጠዉ እኮጎሬ አሳባች መቱ ኢሰ ህግሽ ኣሰኖ አስቆሮንቶ ይሁድ፥ <verse eid="JHN 12:4"/><verse number="5" style="v" sid="JHN 12:5"/>«ከ ሽቱተ ሰሴ ጥቤ ዲናረ ህሬን ሚሃ ቡጥቻኖተ ኣሴኖበአ?» ዬእ። <verse eid="JHN 12:5"/><verse number="6" style="v" sid="JHN 12:6"/>እስ ህካን ጠወዕዮሁ ቡጥቻኖተ ሻዥ እሁዕነ ሞጋንቹ እኮቤቺሃት፤ ህትን ብር ከረጢትተ አፈኖሃ እኮቤቺሃ ህከን ከረጢቴን ዎሬኖ ብሪች ኣኡ ሮሾቤቺሃት።<verse eid="JHN 12:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 12:7"/>ኢስ «ሞገማም በሬተ ተቃጠባቤቺሃ አጉሬሴ። <verse eid="JHN 12:7"/><verse number="8" style="v" sid="JHN 12:8"/>ቡጥቻኑት ጉዕመ ወክትንከ ክዕኔኤን ሜጡበ ሄኣአ፤ ጠዉ እኮጎሬ አን ክዕኔኤን ጉዕመ ወክት ሄኣምበአ» ዬእ።<note caller="-" style="x"><char style="xo" closed="false">12፥8 </char><char style="xt" closed="false"><ref loc="DEU 15:11">ዘዳ. 15፥11</ref>።</char></note><verse eid="JHN 12:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 12:9"/>ህከ ወክት ልግቡ አይሁዱ ኢስ ቢታንያን ሄዕዮገ ደግ ህከ ቤቹ አሜቶኡ፤ እሰን ህከ ቤቹ አሜቶኢሁ ጠለዕል ኢሰ ለኦተ እሁዕነ ኢስ ሬሆች ኬሾ አልዓዛሬሁ ለኦታት እቅ። <verse eid="JHN 12:9"/><verse number="10" style="v" sid="JHN 12:10"/>ቂስ አዎንሳኑንት አልዓዛሬ ሽቶተ አማዕለንቶኡ። <verse eid="JHN 12:10"/><verse number="11" style="v" sid="JHN 12:11"/>መሰንትስ ልግቡ አይሁዱ ሰውትሰ ዶርተን አልዓዛሬ መሳን ኢሳን አመዕንቶቤቺሃት።<verse eid="JHN 12:11"/></para>
+  <para style="s1">ኢስ ሎረ ኬዕምኝን ዬሩሳሌመ ኣጉስ</para>
+  <para style="r">(<ref loc="MAT 21:1-11">ማቶ. 21፥1-11</ref>፤ <ref loc="MRK 11:1-11">ማር. 11፥1-11</ref>፤ <ref loc="LUK 19:28-40">ሉቃ. 19፥28-40</ref>)</para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 12:12"/>ህከኒች ኤተሮን ሻሽግ ከበጃት ከበጅቶተ አሜቶ ልግቡ መኑ ኢስ ዬሩሳሌመ አሜተኖገ ሞጮጭቶኡ። <verse eid="JHN 12:12"/><verse number="13" style="v" sid="JHN 12:13"/>ህካን እኮቤቺሃ እሰን ኢሰ ቶጎተ ዘምባብ ሀበረ አፍ ላገሰ ጎት አት «ሆሳና! ቀርች ሱዕሚን አሜተኖ እስራኤል ዎሙ ማሰአሞእሃን» ይቶኡ።<note caller="-" style="x"><char style="xo" closed="false">12፥13 </char><char style="xt" closed="false"><ref loc="PSA 118:25-26">መዝ. 118፥25-26</ref>።</char></note><verse eid="JHN 12:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 12:14"/>ኢስ ሀሩች ዎተረ ደግ እሶን ቆጶ፤ ሁኩን እኮሁ፥<verse eid="JHN 12:14"/></para>
+  <para style="q1">
+    <verse number="15" style="v" sid="JHN 12:15"/>«አት ጽዮን ከተሙ! ዋጅቶት፤</para>
+  <para style="q1" vid="JHN 12:15">ሁኩዕኑን ዎሙክ ሀሩች ዎተራን ቆጵ አሜተኖት»<note caller="-" style="x"><char style="xo" closed="false">12፥15 </char><char style="xt" closed="false"><ref loc="ZEC 9:9">ዘካ. 9፥9</ref>።</char></note></para>
+  <para style="m" vid="JHN 12:15">የመም ከተበሞ ራጉ ዊሞታት።<verse eid="JHN 12:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 12:16"/>ሁኩ ጠዉ ሄጭ አሳባተ ኣጎሰበአ እቅ፤ ጠዉ እኮጎሬ ኢስ ኬዕምኚን ኣጎች ኤተሮን ኩ ጠዉ እስተኔ ከተበሙስለከ ጠወስ እሲሃ አኤመገ ሰውይቶኡ።<verse eid="JHN 12:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JHN 12:17"/>ኢስ አልዓዛሬ ሎዲች ገእ ሬሆች ኬሰን ኢስን ሜጡበ ሄኦ መኑ እሲሃ መሰከርቶኡ። <verse eid="JHN 12:17"/><verse number="18" style="v" sid="JHN 12:18"/>ሁኩ ኡመቱ ኢሰ ቶጎተ ፉሎሁ እስ ህከ አጀብሲሰኖ ጠወ አዕዮገ ሞጮጭቶቤቺሃት እቅ። <verse eid="JHN 12:18"/><verse number="19" style="v" sid="JHN 12:19"/>ህከ ወክት ፈርሳውት «ከለዕዬ ኣዱንያ አሉ ጉዕሙንኩ እሱ አዎነኖት፤ ነኡ መቱርቹሃ አዕኖተ አታልናምበአ» የቀንቶኡ።<verse eid="JHN 12:19"/></para>
+  <para style="s1">ግሪክ መኑ ኢሰ ለኦተ ሀሶገ</para>
+  <para style="p">
+    <verse number="20" style="v" sid="JHN 12:20"/>ህከን ሻሽግ ከበጀ ወክቴን ሰገዶተ ዬሩሳሌመ አሜቾ መን በላን መት-መቱ ግሪክ መኑ ሄኦ እቅ። <verse eid="JHN 12:20"/><verse number="21" style="v" sid="JHN 12:21"/>እሰን ገሊለ ባዶን ሄዕዮ «ቤተ ሳይዳ» ዬኖ ከተሚች አሜቾ ፍልጶሴቤቹ መርት «ቀርቾ! ነኡ ኢሰ ለዕኖተ ሀንሳም» ይቶኡ።<verse eid="JHN 12:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 12:22"/>ፍልጶስን መር እንድራሴሃ ኩሎ፤ እንድራስለከ ፍልጶስ መርት ኢሲሃ ኩልቶኡ። <verse eid="JHN 12:22"/><verse number="23" style="v" sid="JHN 12:23"/>ኢስ ፈንቀሽ «መንች ቤቱ ኬዕምሴኖስ ወክቱ ኢልዮኡ። <verse eid="JHN 12:23"/><verse number="24" style="v" sid="JHN 12:24"/>ሀንቅንከ ያንክዕኔ፤ አለስ መትት እልት ኡላን ኡብ ሬትባች ጠለዕለ ፈቃአ፤ እኮጎሬ ሬቶች ልግብ ላልቹ ላልታአ።<note caller="-" style="x"><char style="xo" closed="false">12፥24 </char><char style="xt" closed="false"><ref loc="MAT 10:39">ማቶ. 10፥39</ref>፤ <ref loc="MAT 16:25">16፥25</ref>፤ <ref loc="MRK 8:35">ማር. 8፥35</ref>፤ <ref loc="LUK 9:24">ሉቃ. 9፥24</ref>፤ <ref loc="LUK 17:33">17፥33</ref>።</char></note> <verse eid="JHN 12:24"/><verse number="25" style="v" sid="JHN 12:25"/>ነብሳስ ኢተኖሁ ነብሳስ ቤሰኖ፤ ጠዉ እኮጎሬ ከን ኣዱንያ አሌን ነብሳስ ግበኖሁ ዘላለሚሃ ጉዕሚንከ ጎፍበ ሄኡ አገዕረኖ። <verse eid="JHN 12:25"/><verse number="26" style="v" sid="JHN 12:26"/>ኤሳሃ ካደሞተ ሀሰኖሁ ዮ ጎሬ አዎኑዕኔ፤ አን ዮምቤቾን ካድንቹእ ህከን ቤቾን ሄአኖ፤ ኤሳሃ ካደመኖሃ አኑኤ ሎርሰኖስ» ዬእ።<verse eid="JHN 12:26"/></para>
+  <para style="s1">ኢስ ኢልታስ ኦርሸተለከ ሬሁስ ጠወዕዮገ</para>
+  <para style="p">
+    <verse number="27" style="v" sid="JHN 12:27"/>ህትን ኢስ «ነብሴቹእ ጨነቀንቶኡ፤ ቴንገ መ ዩ? ‹ኢ አነ! ከን ወክቲች ጡምሴኤ› ዩንዶ? ህት ይበገ አን አሜቾሚሁ ከን ወክቲሃት። <verse eid="JHN 12:27"/><verse number="28" style="v" sid="JHN 12:28"/>ኢ አና! ሱዕመክ ሎርስ» ዬእ፤</para>
+  <para style="p" vid="JHN 12:28">ሰሜችን «ሱዕመኤ ሎርስዮም፤ ህትን ቴሁ ሎርሳም» ይታ ላገት አሜቶኡ።<verse eid="JHN 12:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="JHN 12:29"/>ህከን ቤቾን ኡሬ መኑ ህካን ሞጮጬ ወክት «ኩን ጉገኛተ ላገ» ይቶኡ፤ ዎሉሰንገ «መላይኬቹ ጠወአኖሲት» ይቶኡ።<verse eid="JHN 12:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 12:30"/>ኢስ ፈንቀሽ «ኩ ላገት ክዕኔተኔሃ አሜቶኡ ቤሉ ኢተኔሃ አሜቶበአ። <verse eid="JHN 12:30"/><verse number="31" style="v" sid="JHN 12:31"/>ከን ኣዱንያ አሌን ፍርዱ እሀኖሁ ቴሶት፤ ህትን ከን ኣዱንያ አል ዳኙ ሼይጣንቹ አብል ፉል ኡበኖ ወክቱ ቴሶት። <verse eid="JHN 12:31"/><verse number="32" style="v" sid="JHN 12:32"/>አን ኡለ አሊች አሌ ዋሎም ወክት ጉዕመንከ መነ ኢ አደ አኣም» ዬእ። <verse eid="JHN 12:32"/><verse number="33" style="v" sid="JHN 12:33"/>ኢስ ህት ዩስ ሀት እክ ሬሀኖ ጎር ለሊሶታት እቅ።<verse eid="JHN 12:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="JHN 12:34"/>ህትን ኡመቱ ፈንቀሽት «ሕግ ላገች ሞጮጭኖሚሁ ‹መሲሁ ዘላለሚሃ ጉዕሚንከ ሄአኖ› የኖሃ እቅ፤ አት ሀት ‹መንች ቤቱ አሌ ዋሉ ሀስሰኖስ› ይታንትት? ኩ መንች ቤቱ አዬት ጎር?» ይቶስ።<note caller="-" style="x"><char style="xo" closed="false">12፥34 </char><char style="xt" closed="false"><ref loc="PSA 110:4">መዝ. 110፥4</ref>፤ <ref loc="ISA 9:7">ኢሳ. 9፥7</ref>፤ <ref loc="EZK 37:25">ሕዝ. 37፥25</ref>፤ <ref loc="DAN 7:14">ዳን. 7፥14</ref>።</char></note><verse eid="JHN 12:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="JHN 12:35"/>ኢስን «ቀዎ ወክቲሃ ኑሩ ክዕኔን ሜጡበ ሄአኖ፤ ቱንስቹ አፈኖህዕኔበእገ ኑሩ ሄዕዮ ጌሳን ሃሜ፤ ቱንስቾን ሃመኖሁ ሀከቤቹ መረኖጎር ደገኖበአ። <verse eid="JHN 12:35"/><verse number="36" style="v" sid="JHN 12:36"/>ኑር እለተ እኮኖተ ኑሩ ዮ ጌሳን አመዕንዬ» ዬሰ፤ ኢስ ህካን ዬች ኤተሮን እሳች አደ እክ ገበጭ ዬእ።<verse eid="JHN 12:36"/></para>
+  <para style="s1">አይሁዱ አመዕኑ ሆጉሰ</para>
+  <para style="p">
+    <verse number="37" style="v" sid="JHN 12:37"/>ኢስ አበ መላተ ብሬንከሰ አዕዮ ጎሬሁ አይሁዱ እሲን አመዕንቶበአ። <verse eid="JHN 12:37"/><verse number="38" style="v" sid="JHN 12:38"/>ሁኩንን ነቢዬቹ እስያስ</para>
+  <para style="q1" vid="JHN 12:38">«ቀርቾ! ኩልኖም ጠወ አይ አመዕንዮኔ?</para>
+  <para style="q2" vid="JHN 12:38">ህትን መገን ዎቀልት አዬሃ ለልቶኡ?»<note caller="-" style="x"><char style="xo" closed="false">12፥38 </char><char style="xt" closed="false"><ref loc="ISA 53:1">ኢሳ. 53፥1</ref>።</char></note></para>
+  <para style="m" vid="JHN 12:38">ይ ጠወዕዮ ላገት ዊንቶታት። <verse eid="JHN 12:38"/><verse number="39" style="v" sid="JHN 12:39"/>ህካን እኮቤቺሃ አመዕንቶተ አታልቶበአ፤ መሰንትስ ነቢዬቹ እስያስ ለንኪሃ<verse eid="JHN 12:39"/></para>
+  <para style="q1">
+    <verse number="40" style="v" sid="JHN 12:40"/>«እሌንከሰ ለኣበእገለከ</para>
+  <para style="q2" vid="JHN 12:40">ቀልቤንከሰ ሰውይታበእገ</para>
+  <para style="q2" vid="JHN 12:40">ኢ አደ ፈንቀልታን አን ፈይሳንሰበእገ</para>
+  <para style="q1" vid="JHN 12:40">እልሰ ቆቅሾኡ፤</para>
+  <para style="q2" vid="JHN 12:40">ህትን ቀልብንከሰ ዱድሾኡ» ዬቤቺሃት።<note caller="-" style="x"><char style="xo" closed="false">12፥40 </char><char style="xt" closed="false"><ref loc="ISA 6:10">ኢሳ. 6፥10</ref>።</char></note><verse eid="JHN 12:40"/></para>
+  <para style="p">
+    <verse number="41" style="v" sid="JHN 12:41"/>እስያስ ህካን ዬኢሁ እስ ሄጭን መሲህ ኬዕምኝ ለዕዮቤቺሃት፥ ኢስተኔሃ ጠወዕዮቤቺሃት።<verse eid="JHN 12:41"/></para>
+  <para style="p">
+    <verse number="42" style="v" sid="JHN 12:42"/>አይሁድ ሀለቃች ልግቡሰ ኢሳን አመዕንቶጎሬሁ ጭምትሰ ምኒች ፉሽታሰበእገ ፈርሳውተ ዋጅቶቤቺሃ አመዕኑሰ ለሊሶበአ እቅ። <verse eid="JHN 12:42"/><verse number="43" style="v" sid="JHN 12:43"/>መሰንትስ እሰ መገኑ ኬዕምሰኖ ኬዕምኚች መኑ ኬዕምሰኖ ኬዕምኝ ኢትቶቤቺሃት።<verse eid="JHN 12:43"/></para>
+  <para style="p">
+    <verse number="44" style="v" sid="JHN 12:44"/>ህትን ኢስ ላገስ ጎት አዕይ «ኢን አመዕነኖሁ ጠለዕል ኢን እሁዕነ ኤሳሃ ሶኮኤሀኒን አመዕንዮእሃን። <verse eid="JHN 12:44"/><verse number="45" style="v" sid="JHN 12:45"/>ኤሳሃ ለአኖሁ ኤሳሃ ሶኮኤሃ ለአኖ፤ <verse eid="JHN 12:45"/><verse number="46" style="v" sid="JHN 12:46"/>ኢን አመዕነኖሁ ጉዕሙንኩ ቱንስቾን ሄአኖበእገ አን ኑር እክ ከ ኣዱንያ አል አሜቾም። <verse eid="JHN 12:46"/><verse number="47" style="v" sid="JHN 12:47"/>ላገኤ ሞጮጭ አገርበሀን አሌን አን ፈረዳምበአ፤ መሰንትስ አን አሜቾሚሁ ከን ኣዱንያ አል ጡምሶታት ቤሉ ፈረዶታበአ። <verse eid="JHN 12:47"/><verse number="48" style="v" sid="JHN 12:48"/>ኤሳሃ ግበኔኤሁለከ ላገኤ ቶግባኤሃ ፈረደኖሁ ዮኡ፤ አን ጠወዕዮም ላገት ገይንትሴ ቂያመ በር ፈረዳስ። <verse eid="JHN 12:48"/><verse number="49" style="v" sid="JHN 12:49"/>መሰንትስ አን ገዪንከኤ ጠወዕዮምበአ፤ አን ያሚሃለከ ጠወኣሚሃ ኣሴኤሁ ኤሳሃ ሶኮኤ አናኤ ገዎንከስ። <verse eid="JHN 12:49"/><verse number="50" style="v" sid="JHN 12:50"/>እስ ትዛዙ ዘላለሚሃ ጉዕሚንከ ሄአኖ ሄኡ እሁስ ደጋም፤ ህካን እኮቤቺሃ አን ጠወኣሚሁ አኑኤ ኩሎኤሃት» ዬእ።<verse eid="JHN 12:50"/></para>
+  <chapter eid="JHN 12"/>
+  <chapter number="13" style="c" sid="JHN 13"/>
+  <para style="s1">ኢስ አሳበስ ሎከተ ኣንሹስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 13:1"/>ኢስ ሻሽግ ከበጃች ሄጭ ከን ኣዱንያ አሊች አኒስ ቤቹ ኦሮአኖ ወክቱ ኢሌገ ደጎ፤ እስን ከን ኣዱንያ አሌን ሄዕዮ ገይስ መነ ጉዕመንከ መጨረሸ ኢለ ኢቴሰ።<verse eid="JHN 13:1"/></para>
+  <para style="p">
+    <verse number="2" style="v" sid="JHN 13:2"/>ኢስለከ አሳበስ ሁርባት እታኢት እቅ፤ ስሞኔ ቤቱ አስቆሮንቶ ይሁደ ቀልብስ እልብሱ ኢሰ ህግሽ ኣሰኖገ አዕዮስ። <verse eid="JHN 13:2"/><verse number="3" style="v" sid="JHN 13:3"/>አኑ ጉዕመርቹንከ አንጋንከስ ኣሴገለከ መገን አዲን አሜቾገ ህትን መገን አደ ፈንቀል ኦሮአኖገ ኢስ ደገኖ እቅ። <verse eid="JHN 13:3"/><verse number="4" style="v" sid="JHN 13:4"/>ህካን እኮቤቺሃ ማዲች ኬዕይ ኦድኑስ አፉሽ ፎጠ ኣእ ረመዞንተስ ቆዕሬእ። <verse eid="JHN 13:4"/><verse number="5" style="v" sid="JHN 13:5"/>ህከኒች ኤተሮን ኣዕሌኖ ኦዳን ዊች ዎር አሳበ ሎከተ ኣንሸን ረመዞንተስ ቆዕሬ ፎጢን ሞሼእ። <verse eid="JHN 13:5"/><verse number="6" style="v" sid="JHN 13:6"/>ኢስን ስሞን ጴጥሮሴቤቹ ኢሌ ወክት ስሞን ጴጥሮስ «ቀርቾ! አት ኢ ሎከተ ኣንሽተንንዶ?» ዬስ። <verse eid="JHN 13:6"/><verse number="7" style="v" sid="JHN 13:7"/>ኢስን ፈንቀሽ «አን ቴሱ አኣሚሃ አት ደጋንትበአ፤ ጠዉ እኮጎሬ ኤተሮን አጥራመታንት» ዬስ። <verse eid="JHN 13:7"/><verse number="8" style="v" sid="JHN 13:8"/>ስሞን ጴጥሮስ «አት ኢ ሎከተ ሆሮን ኣንሽታንትበአ» ዬስ፤ ኢስን ፈንቀሽ «አን ሎከተ ኣንሽበጎሬ ኢች ወጡ ዮሄበአ» ዬስ። <verse eid="JHN 13:8"/><verse number="9" style="v" sid="JHN 13:9"/>ስሞን ጴጥሮስን ፈንቀሽ «ቀርቾ! ህት እኮች ጠለዕል ሎከእ እሁዕነ አንገእለከ ቡዕለእ ሜጡበ ኣንሼኤ» ዬስ። <verse eid="JHN 13:9"/><verse number="10" style="v" sid="JHN 13:10"/>ኢስን «አልስ ኣዕልሀን ጉዕሙ ጅስሙንኩስ ሙጩሩ እኮቤቺሃ ሎከስ ኣዕል ቤሉ ዎሉ ሀስሰኖስበአ፤ አዕኑ ሙጩራኖታን፤ ጠዉ እኮጎሬ ጉዕሙንኩክዕኔ ሙጩራኖተበአ» ዬስ። <verse eid="JHN 13:10"/><verse number="11" style="v" sid="JHN 13:11"/>ኢስን «አዕኑ ጉዕሙንኩክዕኔ ሙጩራኖተበአ» ዬኢሁ ህግሽ ኣሰኖሲሁ አዬት ጎር ደገኖቤቺሃት እቅ።<verse eid="JHN 13:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 13:12"/>ኢስ ሎከተ ኣንሽ ሹሎች ኤተሮን ኦድኑስ ኦደዕይ ቤቾስ ፈንቀል አፉዕል «አን ክዕኔሃ አዕዮሚሃ አጥራመቴነንንዶ?<note caller="-" style="x"><char style="xo" closed="false">13፥12 </char><char style="xt" closed="false"><ref loc="LUK 22:27">ሉቃ. 22፥27</ref>።</char></note> <verse eid="JHN 13:12"/><verse number="13" style="v" sid="JHN 13:13"/>አዕኑ ኤሳሃ ‹አስተማርቹ› ‹ቀርቹ› ይቴነንተኤ፤ አን አስተማርቹለከ ቀርቹ እኮምቤቺሃ ይቴንታሁ ሀንቅሃን። <verse eid="JHN 13:13"/><verse number="14" style="v" sid="JHN 13:14"/>ቴሱ አን ክዕኔሃ ቀርቹለከ አስተማርቹ እሀን ሎከክዕኔ ኣንሼሚች አዕኑሁ መት-መትክዕኔ ሎከተ ኣንሹ ሀስሰኖህዕኔ። <verse eid="JHN 13:14"/><verse number="15" style="v" sid="JHN 13:15"/>አን ክዕኔሃ አዕዮምገን አዕኑሁ አቶኖተ ምሳልተ ኣስዮንክዕኔ። <verse eid="JHN 13:15"/><verse number="16" style="v" sid="JHN 13:16"/>ሀንቅንከ ያንክዕኔ፤ ካዲንቹ ቀርቺች ህትን ሶቀመኖሁ ሶኮስሀኒች በተአኖበአ።<note caller="-" style="x"><char style="xo" closed="false">13፥16 </char><char style="xt" closed="false"><ref loc="MAT 10:24">ማቶ. 10፥24</ref>፤ <ref loc="LUK 6:40">ሉቃ. 6፥40</ref>፤ <ref loc="JHN 15:20">ያህ. 15፥20</ref>።</char></note> <verse eid="JHN 13:16"/><verse number="17" style="v" sid="JHN 13:17"/>ከ ጠወ ደጌን ሆጎ አሌን ሆስሴንተ ጎር ማሰአንቴንታእረ እኬነንተ። <verse eid="JHN 13:17"/><verse number="18" style="v" sid="JHN 13:18"/>አን ካን ያሚሁ ጉዕመንከክዕኔበአ፤ አን መጠሮም መነ አን ደጋም፤ ጠዉ እኮጎሬ መጻፋን ‹እቸተ ኢን ሜጡበ እቾሁ ኤሳሃ ባለጋረ እኮ› የመሞሁ ዊሞታት። <verse eid="JHN 13:18"/><verse number="19" style="v" sid="JHN 13:19"/>አን ኩ ጠዉ እሁዕናን ሄጭ ኩላንክዕኔሁ ኩ ጠዉ እኮ ወክት አዕኑሁ አን ኤሳሃ እሁኤ ደጌነንተጋት። <verse eid="JHN 13:19"/><verse number="20" style="v" sid="JHN 13:20"/>ሀንቅንከ ያንክዕኔ፤ አን ሶሃሚሃ ቶገኖሁ ኤሳሃ ቶገኖ፤ ህትን ኤሳሃ ቶገኖሁ ኤሳሃ ሶኮኤሃ ቶገኖ» ዬሰ።<note caller="-" style="x"><char style="xo" closed="false">13፥20 </char><char style="xt" closed="false"><ref loc="MAT 10:40">ማቶ. 10፥40</ref>፤ <ref loc="MRK 9:37">ማር. 9፥37</ref>፤ <ref loc="LUK 9:48">ሉቃ. 9፥48</ref>፤ <ref loc="LUK 10:16">10፥16</ref>።</char></note><verse eid="JHN 13:20"/></para>
+  <para style="s1">ኢሰ ህግሽ ኣሰኖሲሁ አዬት ጎሬ ሄጭ ጠወኡስ</para>
+  <para style="r">(<ref loc="MAT 26:20-25">ማቶ. 26፥20-25</ref>፤ <ref loc="MRK 14:17-21">ማር. 14፥17-21</ref>፤ <ref loc="LUK 22:21-23">ሉቃ. 22፥21-23</ref>)</para>
+  <para style="p">
+    <verse number="21" style="v" sid="JHN 13:21"/>ኢስ ህካን ጠወዕዮች ኤተሮን ቀልቤስ ሻዥ «ሀንቅንከ ያንክዕኔ፤ ክዕኔች መቱ ኤሳሃ ህግሽ ኣሰኖ» ይ ጠወዕዮ።<verse eid="JHN 13:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 13:22"/>አሳባችስ እስ ከ ጠወ ጠወዕዮሁ አዬሃት ጎር ደግበቤቺሃ መት-መቱሰ ለኦኡ። <verse eid="JHN 13:22"/><verse number="23" style="v" sid="JHN 13:23"/>አሳባች ኢስ ኢተኖሁ ኢስ መድ ጠምበቅይ አፉዕልዮ እቅ። <verse eid="JHN 13:23"/><verse number="24" style="v" sid="JHN 13:24"/>ስሞን ጴጥሮስ እሱ ቀቀሽ «አዬተኔሃ ጠወአኖት ጎር ጠዕምስ» ዬስ።<verse eid="JHN 13:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 13:25"/>ህካን እኮቤቺሃ እስን ጎበስ ኢስቤቹ ሆንጠህሽ «ቀርቾ! ህግሽ ኣሰኖሄሁ አዬት?» ይ ጠዕሜስ።<verse eid="JHN 13:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 13:26"/>ኢስን «ከ ጣቢተ ወጤን ቀሽ ዱሳንስሃን» ዬእ፤ ህካን ጠወዕይ ጣቢተ ወጤን ቀሽ አስቆሮንቶ ስሞኔ ቤቲ ይሁዲሃ ዱቅሾስ። <verse eid="JHN 13:26"/><verse number="27" style="v" sid="JHN 13:27"/>ይሁዲን ህካን ዱቆች ኤተሮን ቀልቤንከስ ሼይጣኑ ኣጎ፤ ኢስን ይሁደ «አቶተ ሰውይቶንቲሃ ደዕልት አእ» ዬስ። <verse eid="JHN 13:27"/><verse number="28" style="v" sid="JHN 13:28"/>ህከኔ ማዳን አፉዕሌ መኒች አዪሁ ኢስ ህካን ሚሃ ዬጎር ደጎበአ። <verse eid="JHN 13:28"/><verse number="29" style="v" sid="JHN 13:29"/>ይሁድ ብረ አፈኖሃ እኮቤቺሃ አሳባች መት-መቱሰ ኢስ ይሁደ «ሻሽግ ከበጃት ከበጅኖተ ሀስሰኖ ብረ ህከረንገ ቡጥቻኖተ ሰደቀተ ኣስ» ዬኢሃ አጉጆሰ እቅ።<verse eid="JHN 13:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 13:30"/>ይሁድን ዱቆች ኤተሮን ደዕለንስ አጉር ኦሮዕዮ፤ ሁኩ ወክቱንኩ ሀንከዕሬተ እቅ።<verse eid="JHN 13:30"/></para>
+  <para style="s1">ሃዕሮ ትዛዝ</para>
+  <para style="p">
+    <verse number="31" style="v" sid="JHN 13:31"/>ይሁድ ህከንቤቺች ፉል ኦሮዕዮ ወክት ኢስ «ቴሱ መንች ቤቱ ኬዕምኝ ደዕዮኡ፤ መገኑንኩ እስ መሳን ኬዕምኝ ደአኖ። <verse eid="JHN 13:31"/><verse number="32" style="v" sid="JHN 13:32"/>መገኑ ቤቲ መሳን ኬዕምኝ ደኤኢች መገኑ ገዉንከስ ቤቲሃስ ኬዕምኝ ደዕልን ኣሰኖ። <verse eid="JHN 13:32"/><verse number="33" style="v" sid="JHN 13:33"/>ኢ ኦሶ! ክዕኔን ሜጡበ ቀዉ ወክት ዱንካም፤ አዕኑ ሀሴነንተኤ፤ አይሁዲሃ ‹አን ኦሮኣምቤቹ አዕኑ መርቶኖተ አታልቴነንተበአ› ዬምሀኒገን ቴሁ ክዕኔሃ ህት ያም።<note caller="-" style="x"><char style="xo" closed="false">13፥33 </char><char style="xt" closed="false"><ref loc="JHN 7:34">ያህ. 7፥34</ref>።</char></note> <verse eid="JHN 13:33"/><verse number="34" style="v" sid="JHN 13:34"/>ገገዉንኩክዕኔ ኢተቀንቶኖተ ሃዕሮ ትዛዝ ኣሳንክዕኔ፤ አን ክዕኔተ ኢታምገ ገገዉንኩክዕኔ መት-መቱክዕኔ ኢትዬ።<note caller="-" style="x"><char style="xo" closed="false">13፥34 </char><char style="xt" closed="false"><ref loc="JHN 15:12">ያህ. 15፥12</ref>፤ <ref loc="JHN 17">17</ref>፤ <ref loc="1JN 3:23">1 ያህ. 3፥23</ref>፤ <ref loc="2JN 1:5">2 ያህ. 5</ref>።</char></note> <verse eid="JHN 13:34"/><verse number="35" style="v" sid="JHN 13:35"/>ገገዉንኩዕኔ ኢተቀንቴንተ ጎር አዎንቴነንተኤረ እሁክዕኔ መኑ ጉዕሙንኩ ደገኖ» ዬእ።<verse eid="JHN 13:35"/></para>
+  <para style="s1">ጴጥሮስ ለገአኖስገ ኢስ ሄጭ ጠወኡስ</para>
+  <para style="r">(<ref loc="MAT 26:31-35">ማቶ. 26፥31-35</ref>፤ <ref loc="MRK 14:27-31">ማር. 14፥27-31</ref>፤ <ref loc="LUK 22:31-34">ሉቃ. 22፥31-34</ref>)</para>
+  <para style="p">
+    <verse number="36" style="v" sid="JHN 13:36"/>ስሞን ጴጥሮስ ኢሰ «ቀርቾ! ሀከቤቹ መርተን?» ዬእ፤ ኢስን «አን መራምቤቹ ቴሱ አዎንቶኤተ አታልታንትበአ፤ ኤተሮን አዎንታንቴኤ» ይ ፈንቀሼስ።<verse eid="JHN 13:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="JHN 13:37"/>ጴጥሮስን ፈንቀሽ «ቀርቾ! ሚሃት ቴሱ አዎኖሄተ አታላምበኢሁ? አን ፎልኤ ኪተኔሃ ህግሽ ኣሳም» ዬእ።<verse eid="JHN 13:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="JHN 13:38"/>ኢስን «አት ፎልክ ኢተኔሃ ህግስ ኣተንንዶ? ሀንቅንከ ያንኬ፤ ከበር ሀንጠቦ ዎዶተ ኢለ ሰሶረ ለገኣንቴኤ» ይ ፈንቀሼስ።<verse eid="JHN 13:38"/></para>
+  <chapter eid="JHN 13"/>
+  <chapter number="14" style="c" sid="JHN 14"/>
+  <para style="s1">መገን ቤቹ መሰኖ ዎቆሁ ኢሰ እሁስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 14:1"/>ኢስ «ቀልቡክዕኔ ህልቁንከ፤ መገኖን አመዕንዬ፤ ህትን ኢን አመዕንዬ። <verse eid="JHN 14:1"/><verse number="2" style="v" sid="JHN 14:2"/>አንኤ ምኔን ልግቡ ቤቹ ዮኡ፤ ህካን እኮበእቀ ‹ቤቹ ቅጥ አኦህዕኔተ መራም› ያምበአ እቅ። <verse eid="JHN 14:2"/><verse number="3" style="v" sid="JHN 14:3"/>አን መር ቤቹ ቅጥ አዕዮንክዕኔ ወክት ፈንቀል አሜች አን ሄኣም ቤቾን አዕኑ ሄኦኖተ ኢቤቹ መሳንክዕኔ። <verse eid="JHN 14:3"/><verse number="4" style="v" sid="JHN 14:4"/>አን መራም ዎቃሃ ደጌነንተ» ዬሰ።<verse eid="JHN 14:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JHN 14:5"/>ቶማስን ኢሰ «ቀርቾ! አት መርታንትቤቹ ደንጎምበእሃ ሀት እንክ ዎቃስ ደንጎተ አታልናም?» ዬእ። <verse eid="JHN 14:5"/><verse number="6" style="v" sid="JHN 14:6"/>ኢስን ፈንቀሽ «አን ዎቃሃ፥ ሀንቂሃለከ ሄኦሃን፤ ኢ አዲን እህባች አዪሁ አነ መገን ቤቹ መሮተ አታለኖበአ። <verse eid="JHN 14:6"/><verse number="7" style="v" sid="JHN 14:7"/>ኤሳሃ ደጌንተ እቃን አነኤ ደጌነንተ እቅ፤ እኮጎሬ ከ ኤተሩ ደጌነንተስ፤ ህትን ለኤንተስ» ዬሰ።<verse eid="JHN 14:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JHN 14:8"/>ፍልጶስን «ቀርቾ! አነ መገኑ ለሊስኔ፤ ሁኩን እሀኖኔ» ዬስ።<verse eid="JHN 14:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 14:9"/>ኢስን «ፍልጶሴ! አን ኬንከ ዘማን ክዕኔኤን ሜጡበ ሄአን ኤሳሃ ደጌነንቴኤበእንዶ? ኤሳሃ ለዕዮሁ አነ መገኑ ለዕዮሃን፤ ህካን እኮች አት ሀት ‹አነ መገኑ ለሊሴኤ› ይተን? <verse eid="JHN 14:9"/><verse number="10" style="v" sid="JHN 14:10"/>አን አነ መገኖን ሄዕዮምገ ህትን አኑ መገኑሁ ኢን ሄኡስ አመዕንታንትበእንዶ? አን ክዕኔሃ ጠወኣም ላገት ገይኤ ዎልቃኒበአ፤ ጠዉ እኮጎሬ ኢን ሄአኖ አኑ መገኑ ሆጉስ አአኖ። <verse eid="JHN 14:10"/><verse number="11" style="v" sid="JHN 14:11"/>አን አነ መገኖን ሄዕዮምገን ህትን አኑ መገኑ ኢን ሄዕዮገ አመዕንዬ፤ ሁኩን ዮበእ ጎሬ ሆጎእተኔሃ አመዕንዬ። <verse eid="JHN 14:11"/><verse number="12" style="v" sid="JHN 14:12"/>ሀንቅንከ ያንክዕኔ፤ ኢን አመዕነኖሁ አን አኣም ሆጉተ አአኖ፤ ህትን አን አነ መገን ቤቹ መራምቤቺሃ ህከኒች በተአኖሃ አአኖ። <verse eid="JHN 14:12"/><verse number="13" style="v" sid="JHN 14:13"/>አኑ መገኑ ቤቲንከስ ከበጀሞተ ሱዕሚንከኤ ኡጭቴነንተ ጠወ ጉዕመንከ አኣም። <verse eid="JHN 14:13"/><verse number="14" style="v" sid="JHN 14:14"/>እኮስ ጠወሃ ሱዕሚንከኤ ኡጭቴንተ ጎር አን አኣም» ዬእ።<verse eid="JHN 14:14"/></para>
+  <para style="s1">ኢስ ጠሊለ አያንተኔሃ ኣሴ ተቢሳሃ</para>
+  <para style="p">
+    <verse number="15" style="v" sid="JHN 14:15"/>ኢስ «ኢትቴነንተኤጎር ትዛዝኤ አገሬ። <verse eid="JHN 14:15"/><verse number="16" style="v" sid="JHN 14:16"/>አኑ መገኑ ዘላለሚሃ ክዕኔኤን ሜጡበ ሄአኖ ዎሉ ጠራኝሳንቹ ኣሶህዕኔተ አን እሱ ኡጫም። <verse eid="JHN 14:16"/><verse number="17" style="v" sid="JHN 14:17"/>እሱንከ ከን ኣዱንያ አል መኑ ቶጎስበአ፤ መሰንትስ ለእበስቤቺሃለከ ደጉሆጎስቤቺሃት፤ እኮጎሬ እስ ክዕኔኤን ሜጡበ ሄአኖቤቺሃለከ ኣዜንከክዕኔ እሀኖቤቺሃ አዕኑ ደጌነንተስ።<verse eid="JHN 14:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JHN 14:18"/>«አኑለከ አመት ዮበእ እለገ ህትን አጉራንክዕኔበአ፤ ክዕኔቤቹ ፈንቀል አሜታም። <verse eid="JHN 14:18"/><verse number="19" style="v" sid="JHN 14:19"/>ቀዎ ወክቲች ኤተሮን ከን ኣዱንያ አል መኑ ሆሮን ለአኖኤበአ፤ እኮጎሬ አዕኑ ለኤነንተኤ፤ አን ሄኣምቤቺሃ አዕኑሁ ሄኤነንተ። <verse eid="JHN 14:19"/><verse number="20" style="v" sid="JHN 14:20"/>አን አኒንከኤ አዕኑ ኢን ህትን አን ክዕኔኤን ሄኡኤ ህከ በር ደጌነንተ።<verse eid="JHN 14:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="JHN 14:21"/>«ትዛዙኤ እስቤቾን ዮኢሁለከ ትዛዝኤ አገረኖሁ ኤሳሃ ኢተኖ፤ ኤሳሃ ኢተኖንከ አኑኤ ኢተኖስ፤ ህትን አኒሁ ኢታንስለከ ገዉእ እሲሃ ለሊሳንስ» ዬእ። <verse eid="JHN 14:21"/><verse number="22" style="v" sid="JHN 14:22"/>አስቆሮንቶ ይሁደ እሁዕነ ዎሉ ይሁድ ኢሰ «ቀርቾ! ገዉክ ከን ኣዱንያ አል መኒሃ እሁዕነ ኔሳሃ ለሊሳንቲሁ ሀትዪት?» ዬእ።<verse eid="JHN 14:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 14:23"/>ኢስ ፈንቀሽ «ኤሳሃ ኢተኖሁ ላገእ አገረኖ፤ አኑኤ ኢተኖስ፤ ነኡን እስቤቹ አሜንት እሲን ሜጡበ ሄዕናም። <verse eid="JHN 14:23"/><verse number="24" style="v" sid="JHN 14:24"/>ኤሳሃ ኢትባሁ ላገኤ አገረኖበአ፤ ኩ ሞጮጭቴነንተ ላገንት ኤሳሃ ሶኮኤ አኒኤተ ቤሉ ኢታበአ።<verse eid="JHN 14:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 14:25"/>«አን ቴሱ ክዕኔኤን ሜጡበ ሄአንን ከ ጠወ ኩሎንክዕኔ። <verse eid="JHN 14:25"/><verse number="26" style="v" sid="JHN 14:26"/>እኮጎሬ አኑኤ ኢ ሱዕሚን ሶሀኖ ጠራኝሳንቹ ጠሊሉ አያኑ ጉዕመርቹንከ ተማርሰኖህዕኔ፤ ህትን አን ኩሎንክዕኔ ጠወ ጉዕመንከ ሰውይቶኖተ አአኖህዕኔ።<verse eid="JHN 14:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JHN 14:27"/>«ወገሬቱኤ ክዕኔን ሄአኖ፤ አን ወገሬትኤ ኣሳንክዕኔ፤ አን ኣሳንክዕኔ ወገሬቱ ከን ኣዱንያ አሉ ኣሰኖ ወገሬትጋበአ፤ ቀልቤክዕኔ ሻዞኖቼ፤ ህትን ዋጅቶኖቼ። <verse eid="JHN 14:27"/><verse number="28" style="v" sid="JHN 14:28"/>አን ‹ኦሮኣም፤ ፈንቀል ክዕኔቤቹ አሜታም› ዬሚሃ ሞጮጭቴንታአ፤ ኢትቴነንተኤ እቃን አንኤቤቹ መሪሃኤ ሙንደኤነንተ እቅ፤ መሰንትስ አኑኤ ኢች ሎረሃን። <verse eid="JHN 14:28"/><verse number="29" style="v" sid="JHN 14:29"/>ኩን እኮ ወክት አመዕንቶኖተ ቴሱ ሄጭን ጠዉስ እሁዕነ ኩሎንክዕኔ። <verse eid="JHN 14:29"/><verse number="30" style="v" sid="JHN 14:30"/>ከኒች ኤተሮን ክዕኔኤን ልግብ ጠወኣምበአ፤ መሰንትስ ከን ኣዱንያ አል ሸይጣኑ አሜተኖ፤ እኮጎሬ ኢ አሌን እሲሃ መት ዎልቀቲ ዮስበአ። <verse eid="JHN 14:30"/><verse number="31" style="v" sid="JHN 14:31"/>ጠዉ እኮጎሬ አን አነ ኢታምገ ከን ኣዱንያ አሉ ደጎተ አኑኤ አዘዦኤገን አኣም፤ ኬዕዬ ከንቤቺች መርኖ» ዬሰ።<verse eid="JHN 14:31"/></para>
+  <chapter eid="JHN 14"/>
+  <chapter number="15" style="c" sid="JHN 15"/>
+  <para style="s1">ኢስ ሀንቅ ወይን ላልቹ እሁስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 15:1"/>ኢስ «ሀንቅ ዎይን ላልቹ አኔት፤ ካሾኤንኩ አናኤ። <verse eid="JHN 15:1"/><verse number="2" style="v" sid="JHN 15:2"/>ላልቹ ላልቡ ኢ አሌን ዮ ሀመ ጉዕመንከ አኑኤ ሙር ከመኖ፤ ላሊቹ ላለኖሃ አበ ላሎተ ጠር መክሰኖ። <verse eid="JHN 15:2"/><verse number="3" style="v" sid="JHN 15:3"/>አዕኑ አን ኩሎንክዕኔ ላገ መሳን ነጠ እኬንታእራን። <verse eid="JHN 15:3"/><verse number="4" style="v" sid="JHN 15:4"/>አዕኑ ኢን ሄዕዬ፤ አኒሁ ክዕኔኤን ሄኣም፤ ሀሙ ዎይን ላልቾን ሄእበ ጎር ጠለዕል ገዉስ ላሊቹ ላሎተ አታለኖበእገን አዕኑሁ ኢን ሄኤንባች ላሊቹ ላልቶኖተ አታልቴነንተበአ።<verse eid="JHN 15:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JHN 15:5"/>«አን ወይኒሃ ላልቹ፤ አዕኑንገ ሀመሃን፤ አን እሶን እስንገ ኢን ዮኢሁ ልግብ ላልቹ ላለኖ፤ መሰንትስ አን ሄእባሃ መቱርቹሃ አቶኖተ አታልቴነንተበአ። <verse eid="JHN 15:5"/><verse number="6" style="v" sid="JHN 15:6"/>ኢን ሄእቡ አዪሁ ሀምገ አብል ቶረም ሞለኖ፤ ህካንን ጭምአኤን ጊራን ዎሬን ቡሴኖ። <verse eid="JHN 15:6"/><verse number="7" style="v" sid="JHN 15:7"/>አዕኑ ኢን ሄኤንተ ጎሬ ኢ ላገንት ክዕኔኤን ሄኦ ጎሬ ሀሴንተርቹ ጉዕመንከ ኡጭዬ፤ ኣሰመኖህዕኔ። <verse eid="JHN 15:7"/><verse number="8" style="v" sid="JHN 15:8"/>አዕኑ ልግብ ላልቹ ላልቴንተ ጎር አኑኤ ከበጀመኖ፤ ህትን አዕኑ ኤሳሃ አዎንታረ እሁክዕኔ ለሊሴነንተ። <verse eid="JHN 15:8"/><verse number="9" style="v" sid="JHN 15:9"/>አኑኤ ኢቴኤገን አኒሁ ክዕኔተ ኢቴንክዕኔ፤ ኢተኤ ኣዜን ሄዕዬ። <verse eid="JHN 15:9"/><verse number="10" style="v" sid="JHN 15:10"/>አን አንኤ ትዛዝ አገር ኢተስ ኣዜን ሄዕዮምገን አዕኑሁ ትዛዝኤ አገርቴን ኢተኤ ኣዜን ሄኤነንተ። <verse eid="JHN 15:10"/><verse number="11" style="v" sid="JHN 15:11"/>ካን ኩሎንክዕኔሁ ሙንዲኑኤ ክዕኔኤን እኮተለከ አበ ሙንደኦኖታት። <verse eid="JHN 15:11"/><verse number="12" style="v" sid="JHN 15:12"/>ኢ ትዛዙ አን ኢቴንክዕኔገን አዕኑሁ መት-መቱክዕኔ ኢትቶኖታት።<note caller="-" style="x"><char style="xo" closed="false">15፥12 </char><char style="xt" closed="false"><ref loc="JHN 13:34">ያህ. 13፥34</ref>፤ <ref loc="JHN 15:17">15፥17</ref>፤ <ref loc="1JN 3:23">1 ያህ. 3፥23</ref>፤ <ref loc="2JN 1:5">2 ያህ. 5</ref>።</char></note> <verse eid="JHN 15:12"/><verse number="13" style="v" sid="JHN 15:13"/>መንቹ ፎልስ ጃላተስ ህግሽ ኣሲች በተኣ ኢተት ዮበአ። <verse eid="JHN 15:13"/><verse number="14" style="v" sid="JHN 15:14"/>አዕኑ አን አዘዦንክዕኔሃ አቴንተጎሬ ኢታ ጃለ። <verse eid="JHN 15:14"/><verse number="15" style="v" sid="JHN 15:15"/>ቀርቹ አአኖ ጠወ ካዲንቹ ደገኖበእቤቺሃ አን ከ ኤተሩ ክዕኔኤተ ‹ካዲመኤ› ያምበአ፤ ጠዉ እኮጎሬ አኒችኤ ሞጮጬሚሃ ጉዕመንከ ለሊሾንክዕኔቤቺሃ ‹ጃለኤ› ዬንክዕኔ። <verse eid="JHN 15:15"/><verse number="16" style="v" sid="JHN 15:16"/>አን መጠሮንክዕኔ ቤሉ አዕኑ መጠርቴንታኤበአ፤ አን ሶኮንክዕኔሁ ልግብ ላልቹ ላሊቶኖተለከ ላሊቹንኩ ሄአኖሃ እሆተ መጠሮንክዕኔ፤ ህካን እኮቤቺሃ አዕኑ ሱዕሚንከኤ ኡጭቴነንተርቹ ጉዕመንከ አኑኤ ኣሰኖህዕኔ። <verse eid="JHN 15:16"/><verse number="17" style="v" sid="JHN 15:17"/>አን አዘዛንክዕኔ ትዛዙ መት-መትንከክዕኔ ኢተቀንቶኖታት» ዬእ። <figure style="fig" alt="Branch of vine" file="HK00112B.tif" size="span" ref="15፥1-6">ዎይን ላልቹ</figure><verse eid="JHN 15:17"/></para>
+  <para style="s1">ኢስ ኣዱንያ አሉ ግበኖህዕኔገ ጠወኡስ</para>
+  <para style="p">
+    <verse number="18" style="v" sid="JHN 15:18"/>ኢስ ኩ ኣዱንያ አሉ ግቦህኔጎሬ ክዕኔኤች ብርተ ኤሳሃ ግቦሃ እሁስ ደጌ። <verse eid="JHN 15:18"/><verse number="19" style="v" sid="JHN 15:19"/>አዕኑ ከን ኣዱንያ አሊች እኬንተ እቃን ኩ ኣዱንያ አሉ ኢተኖህዕኔ እቅ፤ ጠዉ እኮጎሬ አዕኑ ከን ኣዱንያ አሊች እኬንበቤቺሃለከ አን ከን ኣዱንያ አሊች አደ አዕይ መጠሮንክዕኔቤቺሃ ኩ ኣዱንያ አሉ ግበኖህዕኔ። <verse eid="JHN 15:19"/><verse number="20" style="v" sid="JHN 15:20"/>አን ክዕኔሃ ካዲንቹ ቀርቺችስ በተአኖበአ ይ ኩሎንክዕኔ ላገተ ሰውይዬ፤ ኤሳሃ ሸርቶኢች ክዕኔታሁ ሸርታአ፤ ኢ ላገተ አገርቶ እቃን ክዕኔ ላገታ አገርታ እቅ።<note caller="-" style="x"><char style="xo" closed="false">15፥20 </char><char style="xt" closed="false"><ref loc="MAT 10:24">ማቶ. 10፥24</ref>፤ <ref loc="LUK 6:40">ሉቃ. 6፥40</ref>፤ <ref loc="JHN 13:16">ያህ. 13፥16</ref>።</char></note> <verse eid="JHN 15:20"/><verse number="21" style="v" sid="JHN 15:21"/>እኮጎሬ ኤሳሃ ሶኮሃ ደግበቤቺሃ ኢ መሳን ከ ጉዕመንከ ጠወ አታህዕኔ። <verse eid="JHN 15:21"/><verse number="22" style="v" sid="JHN 15:22"/>አን አሜች ኩሎንሰበእቃን ጩብ እሀኖሰበ እቅ፤ ጠዉ እኮጎሬ ቴሱ ጩቢሀሰ ደባቡርታርቹ ዮበአ። <verse eid="JHN 15:22"/><verse number="23" style="v" sid="JHN 15:23"/>ኤሳሃ ግበኖሁ አነኤ ግበኖ። <verse eid="JHN 15:23"/><verse number="24" style="v" sid="JHN 15:24"/>አዪሁ አእበ ሆጉተ አን እሰ በላን አዕዮምበ እቃን ጩብ እሀኖሰበ እቅ፤ ጠዉ እኮጎሬ ካን ጉዕመንከ ለእ ኤሳለከ ኢ አነ ግቦኡ። <verse eid="JHN 15:24"/><verse number="25" style="v" sid="JHN 15:25"/>ኩን እኮሁ እሰ ሕጋን ህትን ግቦኤ የመም ከተበሞሁ ዊሞታት።<verse eid="JHN 15:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 15:26"/>ጠዉ እኮጎሬ «አኒችኤ አሜተኖሁለከ አኒሁ አኒችኤ ሶሃንክዕኔ ጠራኝሳንቹ ሀንቅ አያኑ አሜቾጎር እስ ኢተኔ መሰከረኖ። <verse eid="JHN 15:26"/><verse number="27" style="v" sid="JHN 15:27"/>ህትን አዕኑ ዎዕኔችን ኢን ሜጡበ ሄኤንተቤቺሃ መሰከርቴነንተ» ዬሰ።<verse eid="JHN 15:27"/></para>
+  <chapter eid="JHN 15"/>
+  <chapter number="16" style="c" sid="JHN 16"/>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 16:1"/>ኢስ «አን ካን ጉዕመንከ ኩሎንክዕኔሁ አመዕነቲችክዕኔ ኡቤነንተበእገ ይዪት። <verse eid="JHN 16:1"/><verse number="2" style="v" sid="JHN 16:2"/>ጭምት ምናች ፉሽት ሸርታህዕኔ፤ ሀንቅንከ ክዕኔኤተ ሸኖሁ ጉዕሙንኩ መገኒሃ አአኖሃ አጉደኖ ወክቱ አሜተኖ። <verse eid="JHN 16:2"/><verse number="3" style="v" sid="JHN 16:3"/>እሰ ህካን አታኢሁ ኤሳለከ አነኤ ደጋበእቤቺሃት። <verse eid="JHN 16:3"/><verse number="4" style="v" sid="JHN 16:4"/>ጠዉ እኮጎሬ አን ካን ክዕኔሃ ኩሎንክዕኔሁ ወክቱስ ኢሌረ ከን ጠውተኔሃ መ ዬንክዕኔጎር ቃጎኖታት፤ አን ካን ከኒች ብርተ ኩልበህዕኔሁ አን ክዕኔኤን ሜጡበ ሄዕዮምቤቺሃት» ዬሰ።<verse eid="JHN 16:4"/></para>
+  <para style="s1">ጠሊለ አያን ሆጎተኔሃ</para>
+  <para style="p">
+    <verse number="5" style="v" sid="JHN 16:5"/>ኢስ «ጠዉ እኮጎሬ ቴሱ ሶኮኤሀንበ ኦሮኣም፤ እኮጎሬ ክዕኔች አዪሁ ‹ሀከቤቹ መርተን?› ይ ጠዕምዮኤበአ። <verse eid="JHN 16:5"/><verse number="6" style="v" sid="JHN 16:6"/>እኮጎሬ አን ካን ኩሎንክዕኔቤቺሃ ቀልቤንከክዕኔ ሻዙት ዊንቶኡ። <verse eid="JHN 16:6"/><verse number="7" style="v" sid="JHN 16:7"/>እሁን ቤሉ አን ሀንቅንከ ያንክዕኔ፤ ኢ ኦሮኡ ክዕኔኤሃ ደግለለኖህዕኔ፤ መሰንትስ አን ኦሮእባች ጠራኝሳንቹ ክዕኔቤቹ አሜተኖበአ፤ አን ኦሮዕዮሚች እሱ ክዕኔቤቹ ሶሃም። <verse eid="JHN 16:7"/><verse number="8" style="v" sid="JHN 16:8"/>እስ አሜቾ ወክት ከን ኣዱንያ አል መኒሃ ጩብሰ ኩሎች ኤተሮን ጩብተኔሃ፥ ጠሊልመተኔሃለከ ፍርድተኔሃ መሃጎር ለሊሽ ኩለኖ። <verse eid="JHN 16:8"/><verse number="9" style="v" sid="JHN 16:9"/>ጩብተኔሃ ኩለኖሳሁ ኢን አመዕኑ ግቦቤቺሃት። <verse eid="JHN 16:9"/><verse number="10" style="v" sid="JHN 16:10"/>ፈይመተኔሃ ኩለኖሁ አንኤቤቹ ኦሮኣምቤቺሃትለከ ከኒች ኤተሪሃ ለኤነንተበእቤቺሃት። <verse eid="JHN 16:10"/><verse number="11" style="v" sid="JHN 16:11"/>ህትን ፍርድተኔ ኩለኖሁ ከን ኣዱንያ አል ዳኝ አሌን ፈረደሞቤቺሃት።<verse eid="JHN 16:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 16:12"/>«ዎሉ ኩላንክዕኔ ልግቡ ጠዉ ዮኡ፤ እኮጎሬ ቴሱ ጠወስ ቀልቤክዕኔ አፌን አታልቴነንተበአ። <verse eid="JHN 16:12"/><verse number="13" style="v" sid="JHN 16:13"/>ሀንቅ አያኑ አሜቾ ወክት ሀንቅ ጉዕመንከ ደጌነንተገ አአኖህዕኔ፤ መሰንትስ እስ ጠወአኖሁ ሞጮጬኢሃት ቤሉ ገዪችስ መቱርቹሃ ጠወአኖበአ፤ እስን ከ ኤተሩ አሜተኖ ጠወ ኩለኖህዕኔ። <verse eid="JHN 16:13"/><verse number="14" style="v" sid="JHN 16:14"/>እስ ኢች ኣእ ኩለኖህዕኔቤቺሃ ኤሳሃ ሎርሰኖ። <verse eid="JHN 16:14"/><verse number="15" style="v" sid="JHN 16:15"/>ኢ አኒሃ እኮሁ ጉዕሙንኩ ኢሃን፤ ‹ኩ ኢች ቶግ ክዕኔሃ ኩለኖህዕኔ› ዬሚሁ ከኒሃት።<verse eid="JHN 16:15"/></para>
+  <para style="s1">ሻዙክዕኔ ሙንዲኖን ዶረሙስ</para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 16:16"/>«ቀዎ ወክቲሃ ለኤነንተኤበአ፤ ህትን ቀዎ ወክቲች ኤተሮን ለኤነንተኤ» ዬሰ።<verse eid="JHN 16:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JHN 16:17"/>አሳባችስ መት-መቱ «ኩ ‹ቀዎ ወክቲሃ ለኤነንተኤበአ› ህትን ‹ቀዎ ወክቲች ኤተሮን ለኤነንተኤ፤ አንኤቤቹ ኦሮኣም› የኖኔሁ መ ዩሃስ?» የቀንቶኡ። <verse eid="JHN 16:17"/><verse number="18" style="v" sid="JHN 16:18"/>ህትን «ኩ ‹ቀዎ ወክቲች ኤተሮን› የኖ ጠዉ መርቾሃን? መ ዩሃስጎሬ ደንጎምበአ» ይቶኡ።<verse eid="JHN 16:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 16:19"/>ኢስ እሰ ጠዕምቶስተ ሀሱሰ ደግ «ገገዉንኩክዕኔ ‹ቀዎ ወክቲሃ ለኤነንተኤበአ› ህትን ‹ቀዎ ወክቲች ኤተሮን ለኤነንተኤ› ዬምቤቺሃትንዶ መት-መቱክዕኔ ጠዕምቴነንታሁ? <verse eid="JHN 16:19"/><verse number="20" style="v" sid="JHN 16:20"/>ሀንቅንከ ያንክዕኔ፤ አዕኑ ኦኤነንተ፤ ጠው እኮጎሬ ከን ኣዱንያ አል መኑ ሙንደኣአ፤ አዕኑ ሻዜነንተ፤ እኮጎሬ ክዕኔ ሻዙት ሙንዲኖን ዶረንታአ። <verse eid="JHN 16:20"/><verse number="21" style="v" sid="JHN 16:21"/>መንቹንት እልታ ወክቱ ኢሌ ወክት ንዕጠን ሻዛአ፤ እልት ኬኦች ኤተሮን ከን ኣዱንያ አሌን ጩሉ እለሞ ሙንዲኖን ዎኔ ኦርሸተ ሀባአ። <verse eid="JHN 16:21"/><verse number="22" style="v" sid="JHN 16:22"/>ህትን አዕኑ ቴሱ ሻዜነንተ፤ ጠው እኮጎሬ አን ለንኪሃ ለኣንክዕኔ፤ ክዕኔ ቀልቡንኩ ሙንደአኖ፤ ሙንዲኑክዕኔ ክዕኔች ኣአኖሁ ዮበአ።<verse eid="JHN 16:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 16:23"/>«ህከ በር አዕኑ መቱርቹሃ ጠዕምቴነንተኤበአ፤ ሀንቅንከ ያንክዕኔ፤ አኑኤ ሱዕሚንከኤ ጠዕምቴነንተርቹ ጉዕመንከ ኣሰኖህዕኔ። <verse eid="JHN 16:23"/><verse number="24" style="v" sid="JHN 16:24"/>ቴሱ ኢለ ሱዕሚንከኤ መቱርቹሃ ጠዕምቴንታበአ፤ ሙንዲኑክዕኔ ዊመ እኮተ ዱአ አዕዬ፤ ደዕቴነንተ።<verse eid="JHN 16:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 16:25"/>«ቴሶ ኢለ ከ ጠወ ምሳሌን ኩሎንክዕኔ፤ ከ ኤተሩ ምሳሌን ኩላምበእ ወክቱ አሜተኖ፤ ጠው እኮጎሬ አንኤተኔሃ ጉዕመርቹንከ ለሊሽ ኩላንክዕኔ። <verse eid="JHN 16:25"/><verse number="26" style="v" sid="JHN 16:26"/>ህከ በር አዕኑ አነኤ ሱዕሚንከኤ ኡጭቴነንተ ቤሉ አን ‹ክዕኔ ወጥ ኡጫምበአ› <verse eid="JHN 16:26"/><verse number="27" style="v" sid="JHN 16:27"/>መሰንትስ አኑኤ ገዉንኩስ ኢተኖህዕኔቤቺሃት፤ አኑኤ ኢተኖህዕኔሁ ኤሳሃ ኢትቴንተኤቤቺሃትለከ አን መገን አዲች አሜቾምገ አመዕንቴንተቤቺሃት። <verse eid="JHN 16:27"/><verse number="28" style="v" sid="JHN 16:28"/>አን መገን አዲን ኣዱንያ አል አሜቾም፤ ቴሁ ፈንቀል ኣዱንያ አል አጉር አንኤቤቹ ኦሮኣም» ዬሰ።<verse eid="JHN 16:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="JHN 16:29"/>አሳበንት «ምሳሌን እሁዕነ ለሊስ ኩልቶንትኔ። <verse eid="JHN 16:29"/><verse number="30" style="v" sid="JHN 16:30"/>አት ጉዕመንከ ደጋንትገለከ አዪሁ ጠዕሙ ሀስሰኖበእገ ቴሱ ደንጎም፤ ህካን እኮቤቺሃ አት መገን አዲን አሜቶንትገ አመዕንናም» ይቶስ።<verse eid="JHN 16:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="JHN 16:31"/>ኢስ ፈንቀሽ «ቴሱ አመዕንቴንታንዶ? <verse eid="JHN 16:31"/><verse number="32" style="v" sid="JHN 16:32"/>ጉዕሙንኩክዕኔ ኤሳሃ ሜጢሃእ አጉርቴን ብን ይቴነንተ ወክቱ አሜተኖት፤ ወክቱንኩስ ቴሱ ኢልዮኡ፤ ጠዉ እኮጎሬ አኑኤ ኢን ሜጡበ ሄዕዮቤቺሃ አን ሜጧኤበአ። <verse eid="JHN 16:32"/><verse number="33" style="v" sid="JHN 16:33"/>ካን ክዕኔሃ ኩላሚሁ ኢን ሜጡበ ሄኤንተ ወክት ወገሬቱ እሆህዕኔታት፤ ከን ኣዱንያ አሌን ሄኤንተ ወክት ኦርሸት ዮኡ፤ ጠዉ እኮጎሬ ዋጅቶኖቼ፤ አን ከ ኣዱንያ አል ቄሎም» ዬሰ።<verse eid="JHN 16:33"/></para>
+  <chapter eid="JHN 16"/>
+  <chapter number="17" style="c" sid="JHN 17"/>
+  <para style="s1">ኢስ ዱአ አዕዮገ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 17:1"/>ኢስ ህካን ጠወዕዮች ኤተሮን ሰማ ዋሽ ለአን «ኢ አና! ወክቱ ኢልዮኡ፤ ቤቱክ ኬዕምሶሄተ አት እሱ ኬዕምሲስ። <verse eid="JHN 17:1"/><verse number="2" style="v" sid="JHN 17:2"/>ህካን እኮቤቺሃ አት ኣቶንትስ መኒሃ ጉዕሚንከ ዘላለሚሃ ሄአኖ ሄኡ ኣሶተ ጉዕማንከ መን አሌን ሹምነቱ አቶንትስቤቺሃት። <verse eid="JHN 17:2"/><verse number="3" style="v" sid="JHN 17:3"/>ዘላለሚሃ ሄኤኖ ሄኡ ዩ አት ሜጥቹክ ሀንቅ መገኑ እኮንት ኬሳለከ አት ሶኮንት መሲህ ኢሰ ደጉሃን። <verse eid="JHN 17:3"/><verse number="4" style="v" sid="JHN 17:4"/>አን አኦተ ኣቶንቴኤ ሆጉተ ሹል አዕይ ኡለ አሌን ኬዕምሾንኬ። <verse eid="JHN 17:4"/><verse number="5" style="v" sid="JHN 17:5"/>ኢ አና! ኣዱንያ አሉ ከለቀሙዕነ ሄጭ ኪቤቾን ሄዕዮኤ ኬዕምኚን ቴሱ ብሬክ ኬዕምሴኤ።<verse eid="JHN 17:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 17:6"/>«ከን ኣዱንያ አሊች ኣቶንቴኤ መኒሃ ሱዕመክ ለሊሾም፤ እሰን ኪራን፤ አት እሰንተ ኤሳሃ ኣቶንቴኤ፤ እሰን ላገክ አገርቶኡ። <verse eid="JHN 17:6"/><verse number="7" style="v" sid="JHN 17:7"/>አት ኤሳሃ ኣቶንትርቹ ጉዕሙንኩ ኪች እኮገ እሰን ቴሱ ደጋአ። <verse eid="JHN 17:7"/><verse number="8" style="v" sid="JHN 17:8"/>አት ኣቶንት ላገተ ኣስዮንሰ፤ እሰን ቶጎኡ፤ አን ኪ አዲች አሜቱእ ሀንቅንከ ደጎኡ፤ አት ኤሳሃ ሶኮንትገን አመዕንቶኡ።<verse eid="JHN 17:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 17:9"/>«አን ኡጫሚሁ እሰተኔሃት፤ ኩ ኣቶንቴኤሁ ኪሃ እኮቤቺሃ እሳንከ ዱአ አኣም፤ ጠዉ እኮጎሬ ከን ኣዱንያ አል መኒሃ ዱአ አኣምበአ። <verse eid="JHN 17:9"/><verse number="10" style="v" sid="JHN 17:10"/>ኢሃ እኮ መኑ ጉዕሙንኩ ኪረ፤ ህትን ኪሃ እኮ መኑ ጉዕሙንኩ ኢሃን፤ አን እሳን ኬዕሜም። <verse eid="JHN 17:10"/><verse number="11" style="v" sid="JHN 17:11"/>አን ከኒች ኤተሮን ከን ኣዱንያ አሌን ሄኣምበአ፤ እኮጎሬ እሰ ዮኢሁ ከን ኣዱንያ አሌኒት፤ አን ክቤቹ አሜቶታት፤ ጠሊለ ኢ አና! ንገን ሜጡ እኮተ ኣቶንቴኤ ሱዕሚንከክ አገርሰ።<note caller="+" style="f"><char style="fqa" closed="false">ኤሳሃ ኣቶንቴኤ ሱዕሚን አገርሰ፦ </char><char style="ft" closed="false">የኖሁ መት-መቱ ሉህ ክታበት «ኤሳሃ ኣቶንቴኤሃ ጉዕመንከ ሱዕሚንከክ አገርሰ» ይታአ።</char></note> <verse eid="JHN 17:11"/><verse number="12" style="v" sid="JHN 17:12"/>አን እሳን ሜጡበ ሄዕዮም ወክት አት ኣቶንቴኤ ሱዕሚንከክ አገሮንሰ፤<note caller="+" style="f"><char style="fqa" closed="false">ኣቶንቴኤ ሱዕሚን አገሮንሰ፦ </char><char style="ft" closed="false">የኖሁ መት-መቱ ሉህ ክታበት «ኣቶንቴኤ ጉዕመንከ ሱዕሚንከክ አገሮንሰ» ይታአ።</char></note> ህካን እኮቤቺሃ መገን ላገት ዊንቶተ ህከን በእ ጩል ቤሉ ሆሮን እሳች አዪሁ በዕዮበአ።<note caller="-" style="x"><char style="xo" closed="false">17፥12 </char><char style="xt" closed="false"><ref loc="PSA 41:9">መዝ. 41፥9</ref>፤ <ref loc="JHN 13:18">ያህ. 13፥18</ref>።</char></note> <verse eid="JHN 17:12"/><verse number="13" style="v" sid="JHN 17:13"/>እኮጎሬ አን ቴሁ ኪቤቹ አሜቶታት፤ አን ከን ኣዱንያ አሌን ሄአን ከን ጠወዕዮሚ ሙንዲኑእ ቀልቤንከኤ ዊንቶታት። <verse eid="JHN 17:13"/><verse number="14" style="v" sid="JHN 17:14"/>አን ላገክ ኣስዮንሰ፤ አን ከን ኣዱንያ አሊች እህበገ እሰ ከን ኣዱንያ አሊች እኮበእቤቺሃ ከን ኣዱንያ አል መኑ ግቦሰ። <verse eid="JHN 17:14"/><verse number="15" style="v" sid="JHN 17:15"/>ሂለርቺች አገርቶታት ቤሉ ከን ኣዱንያ አሊች ዎሉ አደ መስቶተ ኡጫንኬበአ። <verse eid="JHN 17:15"/><verse number="16" style="v" sid="JHN 17:16"/>አን ከን ኣዱንያ አሊች እህበሀንገን እሰ ከን ኣዱንያ አሊችበአ። <verse eid="JHN 17:16"/><verse number="17" style="v" sid="JHN 17:17"/>ሀንቅንከክ ጠሊላኑተ አእሰ፤ ላገክ ሀንቅሃን። <verse eid="JHN 17:17"/><verse number="18" style="v" sid="JHN 17:18"/>አት ኤሳሃ ኣዱንያ አል ሶኮንቴኤገን አኒሁ እሰተ ከ ኣዱንያ አል ሶኮንሰ። <verse eid="JHN 17:18"/><verse number="19" style="v" sid="JHN 17:19"/>እሰን ሀንቂን ጠሊላኑተ እኮተ አን ገዉእ እሰተኔሃ ጠሊለ እሆተ አደ አኣም።<verse eid="JHN 17:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="JHN 17:20"/>«አን ጠለዕል እሰተ እሁዕነ እሰ ላገተ ሞጮጭት ኢን አመዕንተሀኑኡተ ዱአ አኣም። <verse eid="JHN 17:20"/><verse number="21" style="v" sid="JHN 17:21"/>ዱአ አኣሚሁ ጉዕሙንኩሰ ሜጡ እኮታት፤ ህትን ኢ አና! አት ኢን አንን ኪን ሄዕዮምገን እሰ ኒን ሄኦታት፤ አት ኤሳሃ ሶኮንቴኤገ ኣዱንያ አሉ አመዕኖታት። <verse eid="JHN 17:21"/><verse number="22" style="v" sid="JHN 17:22"/>ነኡ ሜጡ እንኮምገን ሜጡ እኮተ ኤሳሃ ኣቶንቴኤ ኬዕምኝ ኣሴንሰ። <verse eid="JHN 17:22"/><verse number="23" style="v" sid="JHN 17:23"/>አን እሳን አት ኢን ሄኦንትገን እሰ ሹልት ሜጡ እካን ኣዱንያ አሉ አት ኤሳሃ ሶኮንትገለከ ኢትቶንት ጌሰ እሰንተ ኢትቶንትገ ደጋአ።<verse eid="JHN 17:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JHN 17:24"/>«ኢ አና! ኣዱንያ አሉ ከለቀሙዕነ ሄጭት ኢትቶንቴኤቤቺሃ ኣቶንቴኤ ኬዕምኝ ለእ ኩ አት ኣቶንቴኤሃ አን ሄዕዮም ቤቾን ኢን ሜጡበ ሄኦተ ሀሳም። <verse eid="JHN 17:24"/><verse number="25" style="v" sid="JHN 17:25"/>ፈየ ኢ አና! ኣዱንያ አሉ ደጎሄበአ፤ ጠዉ እኮጎሬ አን ደጋንኬ፤ ኩ መኑ ኤሳሃ ሶኮንቴኤገ ደጎኡ። <verse eid="JHN 17:25"/><verse number="26" style="v" sid="JHN 17:26"/>አት ኤሳሃ ኢትቶንት ኢተት እሳን ሄኦተለከ አን እሳን እሆተ እሰን ሱዕመክ ደጋገ አዕዮም፤ ከ ኤተሩሃ ደጋገ አኣም» ይ ዱአ አዕዮ።<verse eid="JHN 17:26"/></para>
+  <chapter eid="JHN 17"/>
+  <chapter number="18" style="c" sid="JHN 18"/>
+  <para style="s1">ኢሰ አፌመገ</para>
+  <para style="r">(<ref loc="MAT 26:47-56">ማቶ. 26፥47-56</ref>፤ <ref loc="MRK 14:43-50">ማር. 14፥43-50</ref>፤ <ref loc="LUK 22:47-53">ሉቃ. 22፥47-53</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 18:1"/>ኢስ ህካን ጠዕወዮች ኤተሮን አሳባንተስን ሜጡበ «ቄድሮነ» ዬኖ ሀጨሬች ዉድ አደ ኦሮዕዮ፤ ህከኔን ካሴመ ሀቅ ኣዝ አሳባንተስን ሜጡበ ኣጎ። <verse eid="JHN 18:1"/><verse number="2" style="v" sid="JHN 18:2"/>ኢስለከ አሳበት ህከን ቤቾን ልግብ ወክት ጭም ይታቤቺሃ ህግሽ ኣሰኖ ይሁድ ህከ ቤቹ ደገኖ እቅ። <verse eid="JHN 18:2"/><verse number="3" style="v" sid="JHN 18:3"/>ህካን እኮቤቺሃ ይሁድ ልግብ ወታደረ፥ ቂስ አዎንሳኖችለከ ፈርሳዌች ሶሀንቶ ዘበኝ ሀለቀተ አዎንስ ህከ ቤቹ አሜቾ፤ እሰን ፋኖሰ፥ ችቡተለከ በገዝ ኦደተ አፍ አሜቶኡ። <verse eid="JHN 18:3"/><verse number="4" style="v" sid="JHN 18:4"/>ኢስ አሌስ አሜተኖ ጉዕመንከ ጠወ ደግ እሰበ መር «አዬ ሀሴነንታት?» ዬሰ። <verse eid="JHN 18:4"/><verse number="5" style="v" sid="JHN 18:5"/>እሰን «ነዝሬት ኢሰ ሀንሳሚት» ይት ፈንቀሽቶኡ፤ እስን «አኔት» ዬሰ፤ ኢሰ ህግሽ ኣሴ ይሁድ እሳን ሜጡበ ኡርዮ እቅ። <verse eid="JHN 18:5"/><verse number="6" style="v" sid="JHN 18:6"/>ኢስ «አኔት» ዬሰ ወክት ኤተሩ ዋልት ኡለ አሌን ኡቦኡ። <verse eid="JHN 18:6"/><verse number="7" style="v" sid="JHN 18:7"/>ለንኪሃ ኢስ «አዬ ሀሴነንታት?» ዬሰ፤ እሰን «ናዝሬት ኢሰ ሀንሳሚት» ይቶስ። <verse eid="JHN 18:7"/><verse number="8" style="v" sid="JHN 18:8"/>እስን ፈንቀሽ «‹አኔት!› ይ ኩሎንክዕኔ፤ ሀሴነንታሁ ኤሳሂት ጎር እሰ መርቱን» ዬሰ። <verse eid="JHN 18:8"/><verse number="9" style="v" sid="JHN 18:9"/>ህካን እኮሁ ኢስ «አት ኣቶንቴኤ መኒች መቱሃ ቤሾምበአ» ዬ ላገት ዊንቶታት።<verse eid="JHN 18:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JHN 18:10"/>ስሞን ጴጥሮስን ብሰ አፎ እቅ፤ እስን ብሰ ፉሽ ሎረ ቂሲች ካዲንች መኬ አድ መጨተ ሙሮ፤ ህከን ካዲንች ሱዕሙንኩ «ማልኮሴ» ዬኖሃ እቅ። <verse eid="JHN 18:10"/><verse number="11" style="v" sid="JHN 18:11"/>ኢስ ጴጥሮሴ «ብሰክ ኮቦንተክ ዎር፤ አኑኤ ኣሴኤ ኦርሸ ጠበቴሃ ቶጉ ሀስሰኖኤበእንዶ?» ዬስ።<note caller="-" style="x"><char style="xo" closed="false">18፥11 </char><char style="xt" closed="false"><ref loc="MAT 26:39">ማቶ. 26፥39</ref>፤ <ref loc="MRK 14:36">ማር. 14፥36</ref>፤ <ref loc="LUK 22:42">ሉቃ. 22፥42</ref>።</char></note><verse eid="JHN 18:11"/></para>
+  <para style="s1">ኢሰ ሃና ዬኖ ቂሲችበ መሴመስገ</para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 18:12"/>ህከኒች ኤተሮን ዎታደሩለከ አዛዡ አይሁድ ዘበኝ ሀለቀንት ኢሰ አፍ ኡሱርቶኡ። <verse eid="JHN 18:12"/><verse number="13" style="v" sid="JHN 18:13"/>እሰን ሄጭት ሃነቤቹ መስቶስ፤ ሃነ ህከ ዘማን ሎረ ቂሲቹ እክ ሄዕዮ ቀያፍየ በሉ እቅ። <verse eid="JHN 18:13"/><verse number="14" style="v" sid="JHN 18:14"/>ቀያፍን «መቱ መንቹ መንተኔሃ ሬዮጎር ጡመሃን» ይ አይሁድ መኒሃ ሸዦሃ መንቹ እቅ።<note caller="-" style="x"><char style="xo" closed="false">18፥14 </char><char style="xt" closed="false"><ref loc="JHN 11:49-50">ያህ. 11፥49-50</ref>።</char></note><verse eid="JHN 18:14"/></para>
+  <para style="s1">ጴጥሮስ ኢሰ ለገኡስ</para>
+  <para style="r">(<ref loc="MAT 26:69-70">ማቶ. 26፥69-70</ref>፤ <ref loc="MRK 14:66-68">ማር. 14፥66-68</ref>፤ <ref loc="LUK 22:55-57">ሉቃ. 22፥55-57</ref>)</para>
+  <para style="p">
+    <verse number="15" style="v" sid="JHN 18:15"/>ስምዖን ጴጥሮስለከ መቱ ዎሉ አሳበንት ኢሰ አዎንቶኡ፤ ህከ ዎሉ አሳቤቹንከ ሎሩ ቂሲቹ ደገኖስ እቅ፤ ህካን እኮቤቺሃ እስ ኢሲንን ሜጡበ ሎረ ቂሲች ግቤ ኣዝ ኣጎ። <verse eid="JHN 18:15"/><verse number="16" style="v" sid="JHN 18:16"/>ጠዉ እኮጎሬ ጴጥሮስ ብትም ኤተር አዲን ኡርዮ እቅ፤ ሁኩ ሎሩ ቂሲቹ ደገኖስ አሳቤቹ ፈንቀል ፉል ብትመ አገርታ ሀፍቶን ኩል ጴጥሮሴ ኣዝ ኣግሾ፤ <verse eid="JHN 18:16"/><verse number="17" style="v" sid="JHN 18:17"/>ህት ብትመ አገርታ ሀፍቱት ጴጥሮሴ «አት ከ መንች አሳባች መቶሃስበእንዶ?» ይቶስ፤</para>
+  <para style="p" vid="JHN 18:17">እኮጎሬ እስ «አን አሳባችበአ» ዬእ።<verse eid="JHN 18:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JHN 18:18"/>ወክቱስ ቂዘኖ ቤቺሃ ካዲመትለከ ዘበኙ ከሰል ጊረተ ቡስት ኡርት ኢብጭታኢት እቅ፤ ጴጥሮስን እሳን ሜጡበ ኡር ኢብጨኖት እቅ።<verse eid="JHN 18:18"/></para>
+  <para style="s1">ሎረ ቂስቺች ኢሲሃ ሆንጠኮ ጠዕምቱተ</para>
+  <para style="r">(<ref loc="MAT 26:59-66">ማቶ. 26፥59-66</ref>፤ <ref loc="MRK 14:55-64">ማር. 14፥55-64</ref>፤ <ref loc="LUK 22:66-71">ሉቃ. 22፥66-71</ref>)</para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 18:19"/>ሎሩ ቂስቹንኩ ኢሰ አሳበተኔሃለከ ተማርሰኖ ትምርትተኔሃ ጠዕሜስ። <verse eid="JHN 18:19"/><verse number="20" style="v" sid="JHN 18:20"/>ኢስ «አን ጉዕማንከ መን ብሬን ጠወዕዮም፤ አይሁድ መኑ ጉዕሙንኩ ጭምይታ ቤቾን ጭምትሰ ምኔንለከ መገን ምኔን ተማርሴም፤ አን ገበጭ አዕይ ጠዕወዮም መቱ ጠዉሁ ዮበአ። <verse eid="JHN 18:20"/><verse number="21" style="v" sid="JHN 18:21"/>ኤሳሃ ሚሃ ጠዕምተን? አን ጠወአን ሞጮጭቶረ ጠዕም፤ አን ጠወዕዮሚሃ እሰ ደጋአ» ይ ፈንቀሼስ።<verse eid="JHN 18:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 18:22"/>ኢስ ህካን ጠወዕዮ ወክት ህከኔ ኡርቶ ዘበኚች መቱ «ሎረ ቂስቺሃ ፈንቀሽታንቲሁ ህትጎተንዶ?» ይ ኢሰ መጫለ ዎቀሮ።<verse eid="JHN 18:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 18:23"/>ኢስ ፈንቀሽ «ሂለ ላገተ ጠወዕዮም ጎር ሂለ ላገተ ጠወዕዮምገ መሰከር፤ እኮጎሬ ጡመ ጠወዕዮሚሁ ሀንቅ እሀን ሚሃ ዎቀርተዕኔ?» ዬእ።<verse eid="JHN 18:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JHN 18:24"/>ህከኒች ኤተሮን ሃነ ኢስ ኡሱረሞገን ሎረ ቂስች ቀያፍቤቹ ሶኮ።<verse eid="JHN 18:24"/></para>
+  <para style="s1">ጴጥሮስ ኢሰ ለንኪሃ ለገኡስ</para>
+  <para style="r">(<ref loc="MAT 26:7-75">ማቶ. 26፥7-75</ref>፤ <ref loc="MRK 14:69-72">ማር. 14፥69-72</ref>፤ <ref loc="LUK 22:58-62">ሉቃ. 22፥58-62</ref>)</para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 18:25"/>ህከኔን ስሞን ጴጥሮስ ኡር ጊረተ ኢብጨኖት እቅ፤ ህከኔ ሄዕዮ መኑንኩ ጴጥሮሴ «አት ህከ መንች አስባች መቶሃስበእንዶ?» ይቶስ፤ እስን «አን አሳባችበአ» ይ ለገዕዮ።<verse eid="JHN 18:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 18:26"/>ጴጥሮስ መጨስ ሙሮ መንች እሉ እሀኖሁ ሎረ ቂሲች ካዲማች መቱስ «ህከን ሀቅ ኣዜን እሲን ሜጡበ ለዕዮንኬበእንዶ?» ዬስ።<verse eid="JHN 18:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JHN 18:27"/>ጴጥሮስ ለንኪሃ ለገዕዮ፤ ህከ ወክትንከ ሀንጠቦ ዎጆ።<verse eid="JHN 18:27"/></para>
+  <para style="s1">ኢሰ ጵላጦሴበ መሴመስገ</para>
+  <para style="r">(<ref loc="MAT 27:1-2">ማቶ. 27፥1-2</ref>፤ 11-14፤ <ref loc="MRK 15:1-5">ማር. 15፥1-5</ref>፤ <ref loc="LUK 23:1-5">ሉቃ. 23፥1-5</ref>)</para>
+  <para style="p">
+    <verse number="28" style="v" sid="JHN 18:28"/>ህከኒች ኤተሮን ኢሰ ቀያፍ ምኒች ሮም ባድ ገሻንች ግብተ መስቶስ፤ ወክቱስ ገስመ ሱጴተ እቅ፤ አይሁዱ ሻሽግ ከበጃተ ጎረጤኖ ሆልቹ እታቤቺሃ ንጃሳበእገ ይት ባድ ገሻንች ግቤ ኣዝ ኣጎበአ። <verse eid="JHN 18:28"/><verse number="29" style="v" sid="JHN 18:29"/>ህካን እኮቤቺሃ ጲላጦስ እሰበ ፉል «ከን መንች አሌን ክሰ ሆንጠህሴንታሁ መርቾሃን?» ይ ጠዕሜሰ።<verse eid="JHN 18:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 18:30"/>እሰን «ኩ መንቹ ሂለ ጠወ አዕዮበእቀ ኬሳሃ ህግንስ ኣስናምበ እቅ» ይት ፈንቀሽቶኡ።<verse eid="JHN 18:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="JHN 18:31"/>ጵላጦስን «አዕኑ መስቴን ሕግንከክዕኔ ፈረጄ» ዬሰ፤</para>
+  <para style="p" vid="JHN 18:31">እሰን «ነኡ መነ ሽናም ዳኝነቱ ኣሰሞኔበአ» ይቶስ። <verse eid="JHN 18:31"/><verse number="32" style="v" sid="JHN 18:32"/>ካን እኮሁ ኢስ ሀትኔ ሬሁተ ሬሀኖ ጎር ጠወዕዮ ላገት ዊንቶታት እቅ።<note caller="-" style="x"><char style="xo" closed="false">18፥32 </char><char style="xt" closed="false"><ref loc="JHN 3:14">ያህ. 3፥14</ref>፤ <ref loc="JHN 12:32">12፥32</ref>።</char></note><verse eid="JHN 18:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="JHN 18:33"/>ጵላጦስን ፈንቀል ምንስ ኣግ ኢሰ ገእ «አት አይሁድየ ዎመንዶ?» ይ ጠዕሜስ።<verse eid="JHN 18:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="JHN 18:34"/>ኢስን «አት ካን ይታንቲሁ ገይችክትንዶ ህከረንገ ዎሉ መኑ ኢተኔሃ ኩሎሄ?» ይ ጠዕሜእ። <verse eid="JHN 18:34"/><verse number="35" style="v" sid="JHN 18:35"/>ጵላጦስ ፈንቀሽ «አን አይሁድቾሃንዶ? ኬሳሃ ኤሳሃ ህግስ ኣቶሄሩ ዘሬተክለከ ቂስተ አዎንሳኑ፤ አት መ አቶንት?» ይ ጠዕሜእ። <verse eid="JHN 18:35"/><verse number="36" style="v" sid="JHN 18:36"/>ኢስ «ኢ ዎምነቱ ከን ኣዱንያ አሊችበአ፤ ዎምነቱኤ ከን ኣዱንያ አሊች እኮ እቃ አይሁድ አንጋን ኣጋምበእገ ካዲመኤ ኦለንተ እቅ፤ እኮጎሬ ዎምነቱእ ከን ኣዱንያ አሊችበአ» ይ ፈንቀሼእ። <verse eid="JHN 18:36"/><verse number="37" style="v" sid="JHN 18:37"/>ጵላጦስን «ህከረ አት ዎማንዶ?» ዬእ፤ ኢስ «ዎመ እሁኤ አት ይቶንቴኤ፤ አን ከለቀሞሚሁለከ ከ ኣዱንያ አል አሜቾሚሁ ሀንቅተኔሃ መሰከሮታት፤ ሀንቅ አዲን እኮሁ ጉዕሙንኩ ላገኤ ሞጮጨኖ» ይ ፈንቀሼእ።<verse eid="JHN 18:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="JHN 18:38"/>ጵላጦስን «ሀንቁ መርቾሃን?» ዬስ፤ ህካን ጠወዕዮች ኤተሮን ጵላጦስ ለንኪሃ ፉል «አን ከን መንቾን መቱ ቤሾርቹሃ ደጎምበአ። <verse eid="JHN 18:38"/><verse number="39" style="v" sid="JHN 18:39"/>ጠዉ እኮጎሬ ሻሽግ ከበጀ ወክት ኡሱሬመ መኒች መቱ ሂራንክዕኔ ሴሩ ዮቤቺሃ አይሁድ ዎመ ሂሮተ ሀሴነንንዶ?» ዬሰ።<verse eid="JHN 18:39"/></para>
+  <para style="p">
+    <verse number="40" style="v" sid="JHN 18:40"/>እኮጎሬ እሰ «ባርባኔ ሂር ቤሉ እሱ ሂርቶት!» ይተን ሎረ ላጋን ጨንጭቶኡ፤ ባርባን ወንበዴቾሃ እቅ።<verse eid="JHN 18:40"/></para>
+  <chapter eid="JHN 18"/>
+  <chapter number="19" style="c" sid="JHN 19"/>
+  <para style="s1">ዎታደሩ ኢስ አሌን ቀለዶገ</para>
+  <para style="r">(<ref loc="MAT 27:27-32">ማቶ. 27፥27-32</ref>፤ <ref loc="MRK 15:15-21">ማር. 15፥15-21</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 19:1"/>ህከኒች ኤተሮን ጵላጦስ ኢሰ መስ ኦልሲሾ። <verse eid="JHN 19:1"/><verse number="2" style="v" sid="JHN 19:2"/>ዎታደሩንኩ ኡት አክሊለ መክስ ኢስ ቡዕላን ዎርቶኡ፤ ህትን ሰመ አጉደኖ ቢሸተ ኦድኑተ ኦዲሶስ። <verse eid="JHN 19:2"/><verse number="3" style="v" sid="JHN 19:3"/>እሰን መድስ ሆንጠክ «አይሁድ ዎመ! ወገሬቱ ኬሳሃ እሁን!» ይተን መጫለስ ዎቀርታኢት እቅ።<verse eid="JHN 19:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JHN 19:4"/>ጵላጦስ ምኒችስ አብል ፉል «ሁኩዕኑን አን ከን መንቾን መቱ ቤሱሃ ደጉ ሆጉኤ ደጎኖተ እሱ አብል ፉሻንክዕኔ» ዬሰ። <verse eid="JHN 19:4"/><verse number="5" style="v" sid="JHN 19:5"/>ህካን እኮቤቺሃ ኢስ ኡት አክሊለ ቡዕለስ አዕይ ሰመ አጉደኖ ቢሸ ኦድኑተ ኦደዕይ ፉሎ፤ ጵላጦስን «መንቹስ ሁኩዕኑን» ዬእ።<verse eid="JHN 19:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 19:6"/>ቂስ አዎንሳኑትለከ ዱእ ምኒ ዘበኙ ኢሰ ለኦ ወክት «ሰቀል! ሰቀል!» ይተን ሎረ ላጋን ጨንጭቶኡ፤</para>
+  <para style="p" vid="JHN 19:6">ጵላጦስን «አዕኑ ገዉክዕኔ መስቴን ሰቀሌ፤ መሰንትስ አን እስ አሌን መቱ ቤሱሃ ደጎምበአ» ዬሰ።<verse eid="JHN 19:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 19:7"/>አይሁዱንኩ እሲሃ ፈንቀሽት «ኔሳሃ ሕጉ ዮኔ፤ ኩ መንቹ ገዉስ መገን ቤቱ አዕዮቤቺሃ ህከን ሕግኔገ ሬሁ ሀስሰኖስ» ይቶስ። <verse eid="JHN 19:7"/><verse number="8" style="v" sid="JHN 19:8"/>ጵላጦስ ህከ ጠወ ሞጮጬ ወክት አበ ዋጄእ። <verse eid="JHN 19:8"/><verse number="9" style="v" sid="JHN 19:9"/>እስን ምኒስ ፈንቀል ኣግ ኢሰ «አት ሀከንቤቺችት?» ይ ጠዕሜስ፤</para>
+  <para style="p" vid="JHN 19:9">ጠዉ እኮጎሬ ኢስ መቱርቹሃ ፈንቀሽዮበአ። <verse eid="JHN 19:9"/><verse number="10" style="v" sid="JHN 19:10"/>ህካን እኮቤቺሃ ጵላጦስ «መቱርቹሃ ጠወኣንትበእንዶ? ኬሳሃ ሂር ገፈሮተለከ ሰቀሎተ ሹምነቱ ዮኤገ ደጋንትበእንዶ?» ዬስ።<verse eid="JHN 19:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 19:11"/>ኢስን ፈንቀሽ «መገን አዲች ሹምነቱ ኣሰሞሄበእቀ አት ኤሳሃ መቱርቹሃ አቶተ አታልታንትበአ እቅ፤ ህካን እኮቤቺሃ ኬሳሃ ህግሽ ኣሴሀን ጩቡስ በተአኖ» ዬስ።<verse eid="JHN 19:11"/></para>
+  <para style="s1">ኢስ አሌን ሬሆ ፍርዱ ፈረደሙስ</para>
+  <para style="r">(<ref loc="MAT 27:15-31">ማቶ. 27፥15-31</ref>፤ <ref loc="MRK 15:6-20">ማር. 15፥6-20</ref>፤ <ref loc="LUK 23:13-25">ሉቃ. 23፥13-25</ref>)</para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 19:12"/>ጵላጦስ ኢስ ህካን ጠወአን ሞጮጬ ወክት ሂር ገፈሮተ ሀሾ እቅ፤ እኮጎሬ አይሁዱ «ከ መንቹ ገፈርቶንት ጎሬ አት ሮም ዎሚሃ ጃለበአ፤ መሰንትስ ገዉስ ዎመ አአኖሁ ጉዕሙንኩ ሮም ዎሚሃ ዲነሃን!» ይተን ጨንጭቶኡ።<verse eid="JHN 19:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JHN 19:13"/>ጵላጦስን ህካን ሞጮጬ ወክት ኢሰ አብል ፉሽ «ሻምባቀ ክኑ» የመሞ ቤቾን ፍርድ ቦርጭማን አፉዕሌእ፤ ሁኩ ቤቹ እብራዌ መን አፎን «ገበተ» የመመኖ። <verse eid="JHN 19:13"/><verse number="14" style="v" sid="JHN 19:14"/>ሁኩ በሩንኩ ሻሽግ ከበጃቲሃ ተቃጠቤኖሃ በር እቅ፤ ወክቱስ ሌሆ ሳኣትሃ ጌሰ እቅ፤ ጵላጦስን አይሁዲሃ «ዎሙክዕኔ ሁኩዕኑን» ዬሰ። <verse eid="JHN 19:14"/><verse number="15" style="v" sid="JHN 19:15"/>ጠዉ እኮጎሬ እሰን «እሱ ከም! እሱ ከም! ሰቀል!» ይቶኡ፤ ጵላጦስን «ዎመክዕኔ ሰቀሉንዶ?» ዬሰ፤ ቂስ አዎንሳኑንት «ሮም ዎም ቤሉ ኔሳሃ ዎሉ ዎሙ ዮኔበአ» ይት ፈንቀሽቶስ።<verse eid="JHN 19:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 19:16"/>ህከ ወክት ኢሰ ሰቀሎኖተ ጵላጦስ ህግሽ ኣሴእ፤ እሰን አፍ መስቶኡ።<verse eid="JHN 19:16"/></para>
+  <para style="s1">ኢስ ሰቀለሙስ</para>
+  <para style="r">(<ref loc="MAT 27:32-44">ማቶ. 27፥32-44</ref>፤ <ref loc="MRK 15:21-32">ማር. 15፥21-32</ref>፤ <ref loc="LUK 23:26-43">ሉቃ. 23፥26-43</ref>)</para>
+  <para style="p">
+    <verse number="17" style="v" sid="JHN 19:17"/>ህከኒች ኤተሮን ኢስ ገይስ መስቀለ እጅ «ቡዕል ቁላሃ» ዬኖቤቹ ፉሎ፤ ሁኩ ቤቹ እብራዌ መን አፎን «ጎልጎተ» ዬኖሃን። <verse eid="JHN 19:17"/><verse number="18" style="v" sid="JHN 19:18"/>ህከንቤቾንን እሱ ሰቀልቶኡ፤ ህትን ዎሉ ለሙ መንቹ መቱ መኬ አዲን መቱስ ጉራ አዲን አት ኢሰ በለሰ ሰቀልቶኡ። <verse eid="JHN 19:18"/><verse number="19" style="v" sid="JHN 19:19"/>ጵላጦስን «አይሁድ ዎመ፤ ናዝሬት ኢሰ» የኖሃ ከተብ ሰቀለሞ መስቀል ቡዕል አዲን አኦኖተ አዘዦ። <verse eid="JHN 19:19"/><verse number="20" style="v" sid="JHN 19:20"/>ኢስ ሰቀለሞ ቤቹ ከተሚሃ ግደኑ እኮቤቺሃ ልግቡ አይሁዱ ከተበሞሲሃ አነበቦኡ፤ ሁኩንን እብራዌ መን አፎን፥ ላቲን አፎንለከ ግርክ አፎን ከተበሞእሃ እቅ። <verse eid="JHN 19:20"/><verse number="21" style="v" sid="JHN 19:21"/>አይሁድ ቂሰ አዎንሳኑት ጵላጦሴ « ‹አን አይሁድያ ዎመ› ዬገ ከተብ ቤሉ ‹አይሁድ ዎመ› ይት ከተቦት» ይቶስ። <verse eid="JHN 19:21"/><verse number="22" style="v" sid="JHN 19:22"/>ጵላጦስን «ከተቦሚንከ ከተቦም» ይ ፈንቀሼሰ። <figure style="fig" alt="Jesus on the cross" file="LB00324B.tif" size="span" ref="19፥17">ኢስ መስቀል አሌን</figure><verse eid="JHN 19:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 19:23"/>ዎታደሩንኩ ኢሰ ሰቀልቶች ኤተሮን ኦድኑስ መስት ቡዕለ ቡዕለሰ መት-መቱ እሎሰተ ቀምቢሰስ ፌስ ሾሉ ቤቹ ቤኮእ፤ ጠው እኮጎሬ ቀምቢሱስ አሌች ዎሮ ኢለ ጎበሙዕነ ሜጡበ ደደሞእሃ እቅ። <verse eid="JHN 19:23"/><verse number="24" style="v" sid="JHN 19:24"/>ህካን እኮቤቺሃ ዎታደሩ «አዬሃ እለኖ ጎሬ ለዕኖተ እጠ ኡጅኖ ቤሉ ቀምቢሰ ፊልኑንከ» ይቶኡ፤ ሁኩንን እኮሁ</para>
+  <para style="q1" vid="JHN 19:24">«ኦድኑኤ ቤቀንቶኡ፤</para>
+  <para style="q2" vid="JHN 19:24">ቀምቢሰኤ እጠ አቶኡ»</para>
+  <para style="m" vid="JHN 19:24">ይታ ጠሊለ መጻፍ ላገት ዊንቶታት፤ ዎተደሩንኩ ህትን አቶኡ።<note caller="-" style="x"><char style="xo" closed="false">19፥24 </char><char style="xt" closed="false"><ref loc="PSA 22:18">መዝ. 22፥18</ref>።</char></note><verse eid="JHN 19:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 19:25"/>ህከ ወክት ኢስ መስቀል መዴን አመስ፥ አመስ አመ ቤቱቲ፥ ቀሎጴ መንቹት መርየመለከ መግደል ከተም መርየመ ኡርቶ እቅ።<verse eid="JHN 19:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 19:26"/>ኢስ አመስለከ እስ ኢተኖሰ አሳበስ መዴንከስ ኡርታን ለዕዮ ወክት አመስ «ቴ መንቾ! ቤቱክ ሁኩዕኑን» ዬሴ።<verse eid="JHN 19:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JHN 19:27"/>ህትን አሳቤችሃስ «አመክ ትዕኒን» ዬስ፤ ህከን ወክቲች ኬሽ ሁኩ አሳቤቹ ኢስ አመተ ምንስ መሴእ።<verse eid="JHN 19:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JHN 19:28"/>ህከኒች ኤተሮን ኢስ ጉዕሙርቹንኩ ዊሞገ ደጎ፤ መጻፋን ከተበንቶ ላገት ዊንቶተ «ሰገቦኤ» ዬእ።<note caller="-" style="x"><char style="xo" closed="false">19፥28 </char><char style="xt" closed="false"><ref loc="PSA 69:21">መዝ. 69፥21</ref>፤ <ref loc="PSA 22:15">22፥15</ref>።</char></note><verse eid="JHN 19:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="JHN 19:29"/>ህከኔን ሆለጮ ዎይኑ ዊሞ ኦደት ሄኦ እቅ፤ ህካን እኮቤቺሃ ህከኔ ዮ መኑ ህከን ሆለጮ ወይነ ጥጢን ጬፍ አገደ አጉደኖ ሀቂን አፌስቤቹ ሆንጠህሶኡ። <verse eid="JHN 19:29"/><verse number="30" style="v" sid="JHN 19:30"/>ኢስን ህከ ሆለጮሃ ፊጭ ዬች ኤተሮን «አበቀዕዮ!» ዬእ፤ እስን ቡዕለስ ሙግ አዕይ ሬዮ።<verse eid="JHN 19:30"/></para>
+  <para style="s1">ኢሰ ምዛሹስ በገዚን ቀሴመገ</para>
+  <para style="p">
+    <verse number="31" style="v" sid="JHN 19:31"/>ህከኒች ኤተሮን አይሁዱ ሰቀለንቶ መነ ጋለ ቢጤን ድሪሶኖተ ጵላጦሴ ኡጭቶኡ፤ መሰንትስ አበተ ተቃጠቤኖ በር እኮቤቺሃለከ ሁኩ ፎሎጭ በሩ አበ ከበጄኖሃ እኮቤቺሃ ህከን አባን ሬሹሰ መስቀል አሌን እሀኖበእጋት እቅ። <verse eid="JHN 19:31"/><verse number="32" style="v" sid="JHN 19:32"/>ህካን እኮቤቺሃ ዎተደሩ መርት ኢሲን ሰቀለንቶ መን ጋለ ቢጦኡ። <verse eid="JHN 19:32"/><verse number="33" style="v" sid="JHN 19:33"/>ኢስቤቹ አሜታ ወክት እስ ሬዮገ ለእ ጋለስ ቢጦበአ። <verse eid="JHN 19:33"/><verse number="34" style="v" sid="JHN 19:34"/>ጠው እኮጎሬ ዎታደሪች መቱ ኢስ ምዛሹ በገዚን ቀሻን ህከ ወክትንከ ምዛሺችስ ቄጉለከ ውሁ ፉሎ። <verse eid="JHN 19:34"/><verse number="35" style="v" sid="JHN 19:35"/>ህካን ለዕዮሁ አዕኑ አመዕንቴነንተገ መሰከሮ፤ ምስክሩንኩ ሀንቅሃን፤ እስ ጠወአኖሁ ሀንቅ እኮገ እስን ደገኖ። <verse eid="JHN 19:35"/><verse number="36" style="v" sid="JHN 19:36"/>ሁኩን እኮሁ መጻፋን «እሲች መቱ ምቀሃ ቢጤኖበአ» የመም ጠሊለ መጻፋን ከተበሞሁ ዊሞታት።<note caller="-" style="x"><char style="xo" closed="false">19፥36 </char><char style="xt" closed="false"><ref loc="EXO 12:46">ፉል. 12፥46</ref>፤ <ref loc="NUM 9:12">ዘኁ. 9፥12</ref>፤ <ref loc="PSA 34:20">መዝ. 34፥20</ref>፤ <ref loc="PSA 119:37">119፥37</ref>፤ <ref loc="ZEC 12:10">ዘካ. 12፥10</ref>፤ <ref loc="REV 1:7">መና. 1፥7</ref>።</char></note> <verse eid="JHN 19:36"/><verse number="37" style="v" sid="JHN 19:37"/>ህትን መጻፋን ዎሎ ቤቾን «እሰን ቀሶኢሃ እሌንከሰ ለኣስ» የኖ።<verse eid="JHN 19:37"/></para>
+  <para style="s1">ኢስ ሞገሙስ</para>
+  <para style="r">(<ref loc="MAT 27:57-61">ማቶ. 27፥57-61</ref>፤ <ref loc="MRK 15:42-47">ማር. 15፥42-47</ref>፤ <ref loc="LUK 23:50-56">ሉቃ. 23፥50-56</ref>)</para>
+  <para style="p">
+    <verse number="38" style="v" sid="JHN 19:38"/>አይሁድ ሹመተ ዋጄቤቺሃ ማጠም ኢሰ አዎነኖ አርማት ከተም ዮሱፍ ኢስ ጀናዘተ ኣኦተ ጵላጦሴ ኡጬእ፤ ጵላጦስን «ኣእ» ዬሃንስ ዩሱፍ መር ጀናዘተ ድርሽ መሴእ። <verse eid="JHN 19:38"/><verse number="39" style="v" sid="JHN 19:39"/>ዎዕኔ ሀዎሮን ኢስበ ኦሮዕዮ «ንቆድሞሴ» ዬኖ መንቹ ሰጅኔ መት ክሉተ እሀኖ ሀንቀፍቱተ አጉደኖ ካርቤተለከ ቁዕረንደ ልቀለቄማሃ አእ አሜቾ።<note caller="-" style="x"><char style="xo" closed="false">19፥39 </char><char style="xt" closed="false"><ref loc="JHN 3:1-2">ያህ. 3፥1-2</ref>።</char></note> <verse eid="JHN 19:39"/><verse number="40" style="v" sid="JHN 19:40"/>እሰ ለሙንኩሰ ኢስ ጀናዘተ መስት አይሁድ ሴርገ ሽቱተ ቡርት ጥጥ ኦድኖን ከፈንቶስ። <verse eid="JHN 19:40"/><verse number="41" style="v" sid="JHN 19:41"/>ኢስ ሰቀለሞ መዴን ሀቀ ካሴኖ ቤቹ ሄዕዮ እቅ፤ ህከንቤቾንን አዪሁ ሞገምቡ ሃዕሮ ሎዱ ሄዕዮ እቅ። <verse eid="JHN 19:41"/><verse number="42" style="v" sid="JHN 19:42"/>ሁኩንን አይሁዱ አባተ ተቃጠበ በር እኮቤቺሃለከ ህከን ሎድቤቹ ግደኑ እኮቤቺሃ እሰ ኢስ ጀእዘተ ህከን ሎዳን ሞጎኡ።<verse eid="JHN 19:42"/></para>
+  <chapter eid="JHN 19"/>
+  <chapter number="20" style="c" sid="JHN 20"/>
+  <para style="s1">ኢስ ሬሆች ኬኡስ</para>
+  <para style="r">(<ref loc="MAT 28:1-8">ማቶ. 28፥1-8</ref>፤ <ref loc="MRK 16:1-8">ማር. 16፥1-8</ref>፤ <ref loc="LUK 24:1-12">ሉቃ. 24፥1-12</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 20:1"/>ሳምንት ወኔ በር ገስመ ሱጵተ አሩ ፉሉዕነ መግደል መርየመ ኢስ ሎድቤቹ መርቶኡ፤ ህከ ቤቹ ኢልቶገን ሎዱስ ጡፈሞ ክኑ ሎድ ኡሮች ፈንተዕዮሃ ለኦኡ። <verse eid="JHN 20:1"/><verse number="2" style="v" sid="JHN 20:2"/>ህካን እኮቤቺሃ እሴ ስሞን ጴጥሮሴቤቹለከ ኢስ ኢተኖስ ዎሎ አሳባቤቹ ደጉደን መርት «ቀርቹ ሎዲች ፉሽት መስቶስ፤ ሀከቤቹ መስቶስ ጎሬ ደንጎምበአ» ይቶሰ።<verse eid="JHN 20:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="JHN 20:3"/>ህከ ወክት ጴጥሮስለከ ዎሉ አሳባት ፉልት ሎድቤቹ መርቶኡ። <verse eid="JHN 20:3"/><verse number="4" style="v" sid="JHN 20:4"/>ለሙንኩሰ ሜጡበ ደጉደንን ዎሉ አሳቤቹ አበ ደጉጅ ጴጥሮሴ ሄጭ ሎድቤቹ ኢሌእ። <verse eid="JHN 20:4"/><verse number="5" style="v" sid="JHN 20:5"/>ሙግይ ሎድ ኣዝ ለአኖ ወክት ከፈኔመ ከፈኑ ህከኔ ዮኢሃ ለዕዮ፤ ጠዉ እኮጎሬ ኣዝ ኣጎበአ። <verse eid="JHN 20:5"/><verse number="6" style="v" sid="JHN 20:6"/>ስሞን ጴጥሮስ አዎኝስ አሜች ሎድ ኣዝ ኣጎ፤ እስን ከፈኔመ ኦድኑት ህከኔ ዮኢሃ ለዕዮ፤ <verse eid="JHN 20:6"/><verse number="7" style="v" sid="JHN 20:7"/>ህትን ኢስ ቡዕላን ጣጤማ ከፈኑ ዎሎ ከፈኒች አደ እክ ዎሎ ቤቾን ጣጠም ኡቦሃ ለዕዮ። <verse eid="JHN 20:7"/><verse number="8" style="v" sid="JHN 20:8"/>ህከኒች ኤተሮን ሁኩ ሄጭ ሎድቤቹ ኢሌ ዎኔ አሳቤቹ ሎድ ኣዝ ኣግ ለዕይ አመዕኔእ። <verse eid="JHN 20:8"/><verse number="9" style="v" sid="JHN 20:9"/>መሰንትስ እሰ «ሬሆች ኬኡ ሀስሰኖስ» ይታ ጠሊለ መጻፍ ላገተ አጥራመቶበአ እቅ። <verse eid="JHN 20:9"/><verse number="10" style="v" sid="JHN 20:10"/>ህከኒች ኤተሮን ለሙንኩ አሳበት ፈንቀልት ምንሰ መርቶኡ።<verse eid="JHN 20:10"/></para>
+  <para style="s1">ኢስ መግደል ከተም መርየማሃ ለሉስ</para>
+  <para style="r">(<ref loc="MAT 28:9-10">ማቶ. 28፥9-10</ref>፤ <ref loc="MRK 16:9-11">ማር. 16፥9-11</ref>)</para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 20:11"/>መግደል መርየመ ኦአን ሎዲች አብል አዲን ኡርቶ እቅ፤ ኦአንን ሙግይት ሎድ ኣዝ ለኦኡ። <verse eid="JHN 20:11"/><verse number="12" style="v" sid="JHN 20:12"/>እሴን ኢስ ጀናዘት ሄኦ ቤቾን ዋጁተ ኦድኑተ ኦደኦ ለሙ መላይካት መቱ ቡዕል አዲን መቱንገ ሎከ አዲን አፉዕልቶኢሃ ለኦኡ። <verse eid="JHN 20:12"/><verse number="13" style="v" sid="JHN 20:13"/>እሰን መርየመ «ቴ መንቾ! ሚሃት ኦኣንቲት?» ይቶሴ።</para>
+  <para style="p" vid="JHN 20:13">እሴን «ቀርቹኤ መስቶስ፤ መ አቶስጎሬ ደጎምበአ» ይቶኡ።<verse eid="JHN 20:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 20:14"/>ህካን ይት ኤተር አደ ፈንቀልት ኢስ ኡሬኢሃ ለኦኡ፤ ኢሰ እሁስ ደጎበአ። <verse eid="JHN 20:14"/><verse number="15" style="v" sid="JHN 20:15"/>ኢስን «ቴ መንቾ ሚሃት ኦኣንቲት፤ አዬ ሀሳንቲት?» ዬሴ።</para>
+  <para style="p" vid="JHN 20:15">እሴን ህከኔ ሆጉተ አአኖ መንቹ አጉጃንሴ «ቀርቾ አት መስቶንትስ ጎሬ አፉሽቶንት ቤቹ ኩሌኤ፤ አን መሳንስ» ይቶስ።<verse eid="JHN 20:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 20:16"/>ኢስን «መርየመ!» ዬሴ። እሴን እስ አደ ዘህት ዕብራዌ መን አፎን «ረቡኒ» ይቶኡ፤ ፍሳረንትስ «አስተማርቾ» ዩሃን።<verse eid="JHN 20:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JHN 20:17"/>ኢስ «አንኤቤቹ መሩዕነ ዮምቤቺሃ ኡልቶቴኤ፤ ጠዉ እኮጎሬ አመኤ ኦሶቤቹ መርት ‹አን አንኤለከ አንክዕኔበ መገንኤለከ መገንክዕኔበ አሌ መራም ይዮኡ› ይት ኩልሰ» ዬሴ።<verse eid="JHN 20:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JHN 20:18"/>ህካን እኮቤቺሃ መግደል መርየመ አሳበበ መርት ቀርቹ ለኡሴለከ እስን መ ዬሴ ጎሬ ኩልቶሰ።<verse eid="JHN 20:18"/></para>
+  <para style="s1">ኢስ አሳባተስ ለሉስ</para>
+  <para style="r">(<ref loc="MAT 28:16-20">ማቶ. 28፥16-20</ref>፤ <ref loc="MRK 16:14-18">ማር. 16፥14-18</ref>፤ <ref loc="LUK 24:36-49">ሉቃ. 24፥36-49</ref>)</para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 20:19"/>ህከን ሳምንት ዎኔ በሬን ሀዎሮን አሳበት አይሁድ ዳኛኑተ ዋጅት ኡሩተ ጡፍ ምኒ ኣዜን ጭምይቶ እቅ፤ ኡሩት ጡፈንቶሀኔን ኢስ አሳበስ ጭምይቶ ምኒ ኣጎ፤ በለሰ ኡር «ወገሬቱ ክዕኔኤሃ እሁን» ዬሰ። <verse eid="JHN 20:19"/><verse number="20" style="v" sid="JHN 20:20"/>ህካን ይ አንገስለከ ምዛሹስ ለሊሾሰ፤ አሳበንትስ ቀርቹ ለኦ ወክት ሙንደኦኡ። <verse eid="JHN 20:20"/><verse number="21" style="v" sid="JHN 20:21"/>ህከኒች ኤተሮን ኢስ ለንኪሃ «ወገሬቱ ክዕኔሃ እሁን! አኑኤ ኤሳሃ ሶኮገን አኒሁ ክዕኔተ ሶሃም» ዬሰ። <verse eid="JHN 20:21"/><verse number="22" style="v" sid="JHN 20:22"/>ህካን ይ እሰ አሌን ፎገልስ ኡፍ አዕይን «ጠሊለ አያነ ቶጎኡ፤ <verse eid="JHN 20:22"/><verse number="23" style="v" sid="JHN 20:23"/>አዕኑ ዎሎ መን ጩብ ፈቁን ይቴንታጎሬ ክዕኔ ጩቡሁ ፈቁን የመመኖህዕኔ፤ ህትን አዕኑ ዎሎ መን ጩብ ፈቁን ይቴንባች ክዕኔ ጩቡሁ ፈቁን የመመኖህዕኔበአ» ዬሰ።<note caller="-" style="x"><char style="xo" closed="false">20፥23 </char><char style="xt" closed="false"><ref loc="MAT 16:19">ማቶ. 16፥19</ref>፤ <ref loc="MAT 18:18">18፥18</ref>።</char></note><verse eid="JHN 20:23"/></para>
+  <para style="s1">ኢሰለከ ቶማሴ</para>
+  <para style="p">
+    <verse number="24" style="v" sid="JHN 20:24"/>ኢስ አሳበስበ አሜቾ ወክት ቶና ለሞ አሳባች መቱ ዲዲሞሴ ዬኖ ቶማስ እሳን ሜጡበ ሄዕዮበ እቅ። <verse eid="JHN 20:24"/><verse number="25" style="v" sid="JHN 20:25"/>ህካን እኮቤቺሃ ዎሉ አሳበንት ቶማሴ «ቀርቹ ለዕኖንስ» ይት ኩልቶስ። እኮጎሬ እስ «ሙስማሪን ቀሴመ አንገስ ለእባችለከ ቤቾንከስ ዙሩዕማኤ ኣግስባች ህትን አንገኤ ምዛሾንከስ ዮ ጡላን ኣግስባች አመዕናምበአ» ዬሰ።<verse eid="JHN 20:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 20:26"/>ሳምንቲች ኤተሮን አሳበስ ለንኪሃ ምኔን ሄኦሀኔን ቶማስ እሳን ሜጡበ ሄዕዮ እቅ፤ ኡሩት ጡፈንቶሀኔን ኢስ አሜች በለሰ ኡር «ወገሬቱ ክዕኔሃ እሁን!» ዬሰ። <verse eid="JHN 20:26"/><verse number="27" style="v" sid="JHN 20:27"/>ህከኒች ኤተሮን ቶማሴ «ዙሩዕማክ ከቤቹ ኤብ አንገኤ ለእ፤ አንገክን ኤብ ምዛሾንከኤ ኣግስ፤ አመዕን ቤሉ አመዕንባሃ እኮት» ዬስ።<verse eid="JHN 20:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JHN 20:28"/>ቶማስን «ኢ ቀርቾ! ኢ መገኖ!» ይ ፈንቀሼእ።<verse eid="JHN 20:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="JHN 20:29"/>ኢስን ቶማሴ «አት ለኦንቴኤቤቺሃ አመዕንቶንት፤ ለኡዕናን አመዕንታእሩ ማሰአንቶእራን» ዬስ።<verse eid="JHN 20:29"/></para>
+  <para style="s1">ከን መጻፍ ሰውት</para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 20:30"/>ኢስ ከን መጻፋን ከተበሞበእ ልግብ አጀብሲሰኖ ጠወ አሳበስ ለአን አዕዮኡ፤ <verse eid="JHN 20:30"/><verse number="31" style="v" sid="JHN 20:31"/>ጠዉ እኮጎሬ ኢስ መሲህ መገን ቤቱ እሁስ አመዕንቶኖተለከ አመዕንቴን እስ ሱዕሚን ሄኡ ደእቶኖተ ኩን ከተበሞኡ።<verse eid="JHN 20:31"/></para>
+  <chapter eid="JHN 20"/>
+  <chapter number="21" style="c" sid="JHN 21"/>
+  <para style="s1">ኢስ ለመላንከ አሳባተ ለሉስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JHN 21:1"/>ህከኒች ኤተሮን ኢስ ጥብራዶስ ባር መዴን አሳባተ ለንኪሃ ለሌእ፤ ለሌኢሁ ህትዪት፤ <verse eid="JHN 21:1"/><verse number="2" style="v" sid="JHN 21:2"/>ስሞን ጴጥሮስ፥ «መልተተ» የመሞ ቶመስ፥ ገሊል ባዶን ሄዕዮ «ቃነ» ዬኖ ቤች ናትናኤል፥ ዘብድዮሴ ኦሱትለከ ዎሉ ለሙ አሳበት ሜጡበ ሄኦ እቅ። <verse eid="JHN 21:2"/><verse number="3" style="v" sid="JHN 21:3"/>ስሞን ጴጥሮስ «ቁርጩሜተ ዎሻዶተ መሮታት» ዬሰ።<note caller="-" style="x"><char style="xo" closed="false">21፥3 </char><char style="xt" closed="false"><ref loc="LUK 5:5">ሉቃ. 5፥5</ref>።</char></note></para>
+  <para style="p" vid="JHN 21:3">እሰን «ኪን ሜጡበ መርናም» ይት መርት ጀልባን ኣጎኡ፤ ጠዉ እኮጎሬ ህከ ሀንከዕርተ መት ቁርጩሜተ አፎበአ። <verse eid="JHN 21:3"/><verse number="4" style="v" sid="JHN 21:4"/>ኡለት ሶዘን ኢስ ባር ገበላን ኡሬእ፤ እኮጎሬ አሳበት ኢሰ እሁስ ደጎበአ። <verse eid="JHN 21:4"/><verse number="5" style="v" sid="JHN 21:5"/>ኢስ «ኢ ኦሶ! ቁርጩሜት ዮህዕንዶ?» ዬሰ፤ እሰን «መቱርቹሁ ዮኔበአ» ይቶስ።<verse eid="JHN 21:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 21:6"/>እስን እሰንተ «ወሻደ ጀልብ መኬ አዲን ኡጅዬ፤ ደእቴነንተ» ዬሰ፤ ህካን እኮቤቺሃ ወሻደ ባር አሌን ኡጅቶኡ፤ ልግብ ቁርጩሜተ አፎቤቺሃ ወሻደሰ ጎሾሽት አታልቶበአ።<note caller="-" style="x"><char style="xo" closed="false">21፥6 </char><char style="xt" closed="false"><ref loc="LUK 5:6">ሉቃ. 5፥6</ref>።</char></note><verse eid="JHN 21:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 21:7"/>ህከ ወክት ኢስ ኢተኖስ አሳቤቹ ጴጥሮስ «ቀርቹሃን!» ዬስ። ስሞን ጴጥሮስ «ቀርቹሃ» ዬኢሃ ሞጮጬ ወክት ሆጉተ አኦተ ኦድኑስ ፉሼቤቺሃ ወክትንከስ ኦድኑስ ኦደዕይ ባር ኣዝ ኮርጅ ኣጎ። <verse eid="JHN 21:7"/><verse number="8" style="v" sid="JHN 21:8"/>እኮጎሬ ዎሉሰ አሳበት ኡላች ጠለዕል ጥቤ ሜትር ጌሰ ቄዕርቶቤቺሃ ቁርጩሜት ዊንቶ ወሻዳ ጎሾሽተን ጀልባን አሜቶኡ። <verse eid="JHN 21:8"/><verse number="9" style="v" sid="JHN 21:9"/>እሰን ጀልቢች ድርቶ ወክት ከሰል አሌን ዮ ቁርጩሜተለከ ጣቢተ ለኦኡ። <verse eid="JHN 21:9"/><verse number="10" style="v" sid="JHN 21:10"/>ኢስን «ቴሱ አፌንተ ቁርጩሜች ኤቤ» ዬሰ።<verse eid="JHN 21:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 21:11"/>ህካን እኮቤቺሃ ስሞን ጴጥሮስ ጀልባን ኣግ ጥብተ ኦንታይኔ ሰሱ ሎርሎሩ ቁርጩሜት ዊሞ ወሻደ ጎሾሽ አብል ፉሼእ፤ ልግብ ቁርጩሜተ አፎጎሬሁ ወሻዱስ ፊልተዕዮበአ። <verse eid="JHN 21:11"/><verse number="12" style="v" sid="JHN 21:12"/>ህከኒች ኤተሮን ኢስ «አሜ እቼ» ዬሰ፤ እስ ቀርቹ እሁስ ጉዕሙንኩሰ ደጎቤቺሃ አሳባች መቱሁ «አት አዬት?» ይት ጠዕምቶተ መለልቶበአ። <verse eid="JHN 21:12"/><verse number="13" style="v" sid="JHN 21:13"/>ህከኒች ኤተሮን ኢስ አሜች ጣቢተለከ ቁርጩሜተ ኬሽ ኣሴሰ።<verse eid="JHN 21:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 21:14"/>ኢስ ሬሆች ኬዕዮች ኤተሮን አሳባተስ ለሎተ ኩን ሰቅሃ ወክት እቅ።<verse eid="JHN 21:14"/></para>
+  <para style="s1">ኢስ ጴጥሮሴሃ ሆንጠህሾ ጠዕምቱተ</para>
+  <para style="p">
+    <verse number="15" style="v" sid="JHN 21:15"/>እቸተ እቶኢች ኤተሮን ኢስ ስሞን ጴጥሮሴ «ዮነ ቤቶ ስሞኔ! እሰ ኢትታኤሀኒች በትስ ኢትተዕኔንዶ?» ዬስ። እስን «ኤ ቀርቾ! አን ኢታንኬገ አትን ደጋንት» ይ ፈንቀሼስ። <verse eid="JHN 21:15"/><verse number="16" style="v" sid="JHN 21:16"/>ኢስን «ዉዕላኑኤ አላል» ዬስ። ለንኪሃ «ዮነ ቤቶ ስሞኔ! ኢትተዕኔንዶ?» ዬስ፤ እስን «ኤ ቀርቾ! ኢታንኬገ አትን ደጋንት» ዬስ፤ ኢስን «ቆርባበኤ አገር» ዬስ። <verse eid="JHN 21:16"/><verse number="17" style="v" sid="JHN 21:17"/>ሰቂሃ «ዮነ ቤቶ ስሞኔ! ኢትተዕኔንዶ?» ዬረ ሰቅ ወክት «ኢትተዕኔንዶ» ዬስቤቺሃ ጴጥሮስ ሻዥ «ቀርቾ! አት ጉዕመርቹንከ ደጋንት፤ ህትን አን ኢታንኬገ ደጋንት» ዬስ፤ ኢስን «ሆለኤ አላል። <verse eid="JHN 21:17"/><verse number="18" style="v" sid="JHN 21:18"/>ሀንቅንከ ያንኬ፤ አት ዎደልማን ዮንት ወክት ቀበቱተ ገይክ አንጋን ቆዕርት ሀሶንትቤቹ መርታንት እቅ፤ እኮጎሬ ባልቆንት ወክት አት አንገክ አሌ ዋሽት ኬሳን ዎሉ መኑ ቆርስሴኖሄ፤ መርቶተ ሀስበቤቹ መሰኖሄ» ዬስ። <verse eid="JHN 21:18"/><verse number="19" style="v" sid="JHN 21:19"/>ህካን ዬኢሁ ጴጥሮስ ሀትኔ ሬሆን መገኑ ሎርሰኖገ ለሊሶታት፤ ህከኒች ኤተሮን ጴጥሮሴ «አዎኔኤ!» ዬስ።<verse eid="JHN 21:19"/></para>
+  <para style="s1">ኢሰለከ ዎሉ አሳቤቹ</para>
+  <para style="p">
+    <verse number="20" style="v" sid="JHN 21:20"/>ጴጥሮስ ኤተሩ ዋል ለአኖረ ኢስ ኢተኖስ አሳቤቹ አዎነኖሃ ለዕዮ፤ ሁኩ አሳቤቹ መጨረሽ ሁርባት ወክቴን ኢስበ ሆንጠክ «ቀርቾ! ህግሽ ኣሰኖሄሁ አዬት?» ይ ጠዕምዮስሃ እቅ። <verse eid="JHN 21:20"/><verse number="21" style="v" sid="JHN 21:21"/>ጴጥሮስ እሱ ለዕዮ ወክት «ቀርቾ! ኩ መንቹ መ እሀኖ?» ይ ኢሰ ጠዕሜእ።<verse eid="JHN 21:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 21:22"/>ኢስን «አን አሜቶተ ኢለ ሄኦተ ሀሳምረዕኑ! ኬሳሃ ም ኦርሾሄ? አት አዎኔኤ» ዬስ።<verse eid="JHN 21:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 21:23"/>ህከን መሳን አመዕናኖ በላን «ኩ አሳቤቹ ሬሀኖበአ» ዬኖ ዱዱቡ ኢሌእ፤ ጠዉ እኮጎሬ ኢስ «አን አሜቶተ ኢለ ሄኦተ ሀሳምረዕኑ! ኬሳሃ ም ኦርሾሄ?» ዬ ቤሉ «ሬሀኖበአ» ይዮበአ። <verse eid="JHN 21:23"/><verse number="24" style="v" sid="JHN 21:24"/>ከን ጠውተኔሃ ጉዕመንከ መሰከሮሁለከ ከ ጠወ ከተቦሁ ህከን አሳቤቹ፤ እስ መሰከሮንኩ ሀንቅ እሁስ ደንጋም።<verse eid="JHN 21:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 21:25"/>ጠዉ እኮጎሬ ኢስ አዕዮ ልግቡ ዎሉ ጠዉ ዮኡ፤ ኤሳሃ አጉደኖኤሁ እስ አዕዮ ጠወ ጉዕመንከ መት-መትን ከተቤማ እቃን ከተቤመ መጻፋተ ኣዱንያ አሉ እሀኖሰበአ እቅ።<verse eid="JHN 21:25"/></para>
+  <chapter eid="JHN 21"/>
+</usx>
