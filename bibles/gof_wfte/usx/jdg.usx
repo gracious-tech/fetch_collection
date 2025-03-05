@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="3.0">
+  <book code="JDG" style="id">— GOFA FULL BIBLE</book>
+  <para style="h">አይሰይሳታ ማፃፋ</para>
+  <para style="toc1">አይሰይሳታ ማፃፋ</para>
+  <para style="toc3">አይሰ</para>
+  <para style="toc2">አይሰይሳታ</para>
+  <para style="mt">አይሰይሳታ ማፃፋ</para>
+  <para style="imt">ጋ ቆፋ</para>
+  <para style="ip">አይሰይሳታ ማፃፋይ ፃፈትዳይ፥ ፆሳይ እማና ግድ ጫቅዳ ቢታ ገልዳ እስራኤለ አሳይ ካናነ ቢታን ዋንድ ደእዳኮ፥ እያሱፐ ዶምድ ሳሜላ ሀይቁዋ ጋካናዉ ደእያ ዋና ዋና ታርከታ ቆንጭስድ በሳናሳ። እስራኤለ አሳይ ፆሳይ ኤንታዉ እምዳ ቢታን፥ ፆሳራ ኤንቲ ገልዳ ጫቁዋ መንድ፥ ኤቃ ጎይኖን ባንታና ቱንስድ፥ አይ መላ ኢትዳ ደኦ ደእዳኮ ማፃፋይ ሎይድ በሴስ።</para>
+  <para style="ip">ሄ ዎደይ እስራኤለ አሳ ታርከን ህገይ ባይና ዎደ። ሀ ታርከት “አይሰይሳታ” ጌተትያ ምኖ አሳት ኦዳባ በሶሶና። ሀ አይሰይሳታፐ ዳሮ ባጋይ ኦላ ካለያ አሳታ። ኤንታፈ ዳሮ ኤረትዳይሳት፥ ድቦራ (4:1—5:31)፤ ገድዮና (6:1—6:35)፤ ሳምሶና (13:1—16:31)።</para>
+  <para style="ip">ሀ ማፃፋፐ ኑኒ ደምያ ትምርተይ፥ እስራኤለ አሳይ ፆሳ ስንን ሳሮ ደኤይ ኤንቲ ፆሳስ አማነትድ ደእዳ ዎደ ፃላላና። ኤንቲ እያዉ አማነቶና እፅያ ዎደ ኡባን፥ ኤንታ ቦላ ቆሆይነ ዮይ ዬስ። ኤንቲ ፆሳ ቦላ ዞኮ ዛሮሶና፤ ፆሳይ አላጋ ካዎተታስ ኤንታ አድ እሜስ፤ ኤንቲ ባንታና አሻና መላ ፆሳኮ ዋሶሶና፤ ፆሳይ ኤንታ ግሾ ኦለትያነ ኤንታ አሽያ አሰ ደንስ። ሄሳፈ ኑኒ በእያባይ፥ አሳይ ፆሳስ አማነቶና እፅዳ ጋሶን ኤንታ ቦላ ቆሆይነ ዮይ ጋክኮካ፥ ኤንቲ ባንታ ናጋራ ፓፅድ እያኮ ስምዳ ዎደ ኡባን፥ ፆሳይ ኤንታ አሻናዉ ጊግድ ኡትስ።</para>
+  <para style="iot">ማፃፋ አይፈ ቆፋታ</para>
+  <para style="io1">እስራኤለ አሳይ ቢታስ ባጋ ፃላላ ኦይከ (<char style="ior"><ref loc="JDG 1:1-36">1:1-36</ref></char>)</para>
+  <para style="io1">ፆሳይ አይሰይሳታ እስራኤለ አሳስ ዶሩዋ (<char style="ior"><ref loc="JDG 2:1-3:6">2:1—3:6</ref></char>)</para>
+  <para style="io1">ጎቶንያላ፥ ናኦዳነ ሳምጋራ (<char style="ior"><ref loc="JDG 3:7-31">3:7-31</ref></char>)</para>
+  <para style="io1">ድቦራ፥ ባራቃነ ያብና (<char style="ior"><ref loc="JDG 4:1-5:30">4:1—5:30</ref></char>)</para>
+  <para style="io1">ገድዮና (<char style="ior"><ref loc="JDG 5:31-8:35">5:31—8:35</ref></char>)</para>
+  <para style="io1">አብመለከ (<char style="ior"><ref loc="JDG 9:1-57">9:1-57</ref></char>)</para>
+  <para style="io1">ቶላ፥ ያእራነ ዮፍታሄ (<char style="ior"><ref loc="JDG 10:1-12:7">10:1—12:7</ref></char>)</para>
+  <para style="io1">እብፃና፥ ኤሎና፥ አብዶና (<char style="ior"><ref loc="JDG 12:8-15">12:8-15</ref></char>)</para>
+  <para style="io1">ሳምሶና (<char style="ior"><ref loc="JDG 13:1-16:31">13:1—16:31</ref></char>)</para>
+  <para style="io1">ዳነ ኮቻነ ኤንታ ጎይኖ በሳ (<char style="ior"><ref loc="JDG 17:1-18:31">17:1—18:31</ref></char>)</para>
+  <para style="io1">ብንያመ ኮቻ ቦላ ደንድዳ ኦላ (<char style="ior"><ref loc="JDG 19:1-21:25">19:1—21:25</ref></char>)</para>
+  <chapter number="1" style="c" sid="JDG 1"/>
+  <para style="s1">አትዳ ቢታ ኦልድ ኦይከ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 1:1"/>እያሱይ ሀይቅዳፐ ጉየ እስራኤለ አሳይ፥ “ካናነ ቢታ ኦላናዉ ኑ ኮቻታፐ ኮይሮትድ ከያናይ ኦኔ?” ያግድ ጎዳ ኦይችዶሶና።<verse eid="JDG 1:1"/></para>
+  <para style="p">
+    <verse number="2" style="v" sid="JDG 1:2"/>ጎዳይ፥ “ይሁዳ ኮቻይ ኮይሮትድ ከዮ። ታኒ ቢታ እያ ኩሸን አዳ እማስ” ያግስ።<verse eid="JDG 1:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="JDG 1:3"/>ይሁዳ አሳይ ባንታ እሻታ፥ ስሞና ኮቻታ፥ “ኑኒ ካናነታ ኦላና መላ ኑና ግሾን ጋክዳ ቢታ ኑራ የተ። ኑካ ህንተና ግሾን ጋክዳ ቢታ ህንተራ ባና” ያግስ። ስሞና ኮቻይ ይሁዳ ኮቻራ እስፈ ኦላናዉ ብስ። <verse eid="JDG 1:3"/><verse number="4" style="v" sid="JDG 1:4"/>ጎዳይ ካናነታነ ፓርዘታ ኤንታ ኩሸን አድ እምን፥ ቤዘቃ ካታማን ታሙ ሙኩሉ አሳ ዎዶሶና። <verse eid="JDG 1:4"/><verse number="5" style="v" sid="JDG 1:5"/>ቤዘቃ ካታማን ካዋ አዶን-ቤዘቃ ደምድ፥ እያራ ኦለትድ ካናነታነ ፓርዘታ ፆንዶሶና። <verse eid="JDG 1:5"/><verse number="6" style="v" sid="JDG 1:6"/>አዶን-ቤዘቅ ባቃትያ ዎደ ኤንቲ የደ ኦይክድ፥ እያ ኩሽያነ እያ ቶሁዋ ዎጋ ብራታ ቃንፅዶሶና።<verse eid="JDG 1:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JDG 1:7"/>አዶን-ቤዘቅ፥ “ኩሸነ ቶሆ ዎጋ ብራታ ታኒ ቃንፅዳ ላፑን ታሙ ካዎት ታ ጋይታፐ ዎዳ ቲፍያ ማፅድ ሞሶና። ታኒ ኤንታ ቦላ ኦዳይሳዳ ፆሳይ ታ ቦላ ኦስ” ያግስ። እያ የሩሳላመ ኤህን ያን ሀይቅስ።<verse eid="JDG 1:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JDG 1:8"/>ይሁዳ አሳይ የሩሳላመ ኦል ኦይክድ አሳ ማሻን ዎድ፥ ካታማ ታማን ፁግዶሶና። <verse eid="JDG 1:8"/><verse number="9" style="v" sid="JDG 1:9"/>ሄሳፈ ጉየ፥ ይሁዳ አሳይ ደረይ ዳርያ ቢታን፥ ነገባ መላ ቢታንነ ጋን ደእያ ካናነታ ኦላናዉ ብዶሶና። <verse eid="JDG 1:9"/><verse number="10" style="v" sid="JDG 1:10"/>ካሰ ቅርያት-አርባ ጌተትያ ከብሮና ካታማን ደእያ ካናነታ ኦልድ ሰሳያ፥ አክማናነ ታልማያ ጌተትያ ኮቻታ ፆንዶሶና።<verse eid="JDG 1:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JDG 1:11"/>ያፐ ደንድድ ይሁዳ አሳይ ደብራ ካታማን ደእያ አሳ ኦላናዉ ብዶሶና። ደብራ ካታማይ ካሰ ቅርያት-ሰፈራ ጌተቴስ። <verse eid="JDG 1:11"/><verse number="12" style="v" sid="JDG 1:12"/>ካለብ፥ “ቅርያት-ሰፈራ ኦልድ ኦይክያ ኡራስ ታኒ ታ ናእዉ አክሶ እማና” ያግስ። <verse eid="JDG 1:12"/><verse number="13" style="v" sid="JDG 1:13"/>ካለባ ካሎ እሻ ቃናዛ ናአይ ጎቶንያል ሄ ካታማ ኦልድ ኦይክን፥ ካለብ ባ ናእዉ አክሶ እያዉ እሚስ።<verse eid="JDG 1:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JDG 1:14"/>አክሳ ጎቶንያላ ገልያ ዎደ፥ እ አዋይ እዉ ጋደ እማናዳ ዎሳና መላ ጎቶንያል እዮ ዞርስ። እያ ባቁሎ ቦላፈ ዎሽን ካለብ ታ ናተ፥ “አይ ኮያይ?” ያግድ ኦይችስ።<verse eid="JDG 1:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="JDG 1:15"/>እያ፥ “ታዉ ዎይቶ እማ። ኔኒ ካሰ ታዉ እምዳ ቢታይ ቃኤ ግድዳ ግሾ ሃ ፑልቶታ ታዉ እማርክ” ያጋሱ። ካለብ ቆሞ ፑልቱዋነ ጋርሳ ፑልቱዋ እዉ እሚስ።<verse eid="JDG 1:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JDG 1:16"/>ሙሰይ ቦሉዋ ቀናት ኮቻት ይሁዳ አሳራ ዛምባ ካታማ ጌተትያ እያርኮ ካታማፐ ደንድድ አራዳ ካታማፐ ዱገሀ ባጋራ፥ ነገባን ደእያ ይሁዳ መላ ቢታ ብድ ያን ደእያ አሳ ግዶን ኡትዶሶና። <verse eid="JDG 1:16"/><verse number="17" style="v" sid="JDG 1:17"/>ይሁዳ አሳይ ስሞና አሳራ እስፈ ብድ፥ ፃፋታ ካታማን ደእያ ካናነታ ፆንድ ካታማ ኩመ ይስድ፥ ሄ ካታማ ሆርማ<note caller="+" style="f"><char style="fr" closed="false">1:17 </char><char style="fq" closed="false">ሆርማ፦ </char><char style="ft" closed="false">ሀ ሱን ብርሸይ ይሶ ጉሱ።</char></note> ግድ ሱንዶሶና። <verse eid="JDG 1:17"/><verse number="18" style="v" sid="JDG 1:18"/>ይሁዳ አሳይ ጉጅድ ጋዛ፥ አስቃሎና፥ ኤቅሮናነ ኤንታ ዩሹዋን ደእያ ጉታታ ኦይክዶሶና። <verse eid="JDG 1:18"/><verse number="19" style="v" sid="JDG 1:19"/>ጎዳይ ይሁዳ አሳራ ደእያ ግሾ፥ ደረይ ዳርያ ቢታ ላትዶሶና። ሽን ደምባ ቢታን ደእያ አሳታስ ብራታፐ ኦሰትዳ ኦላ ፓራ ጋረት ደእያ ግሾ፥ ይሁዳ አሳይ ኤንታ ጎድድ ከሳናዉ ዳንዳእቦኮና። <verse eid="JDG 1:19"/><verse number="20" style="v" sid="JDG 1:20"/>ሙሰይ ኪትዳይሳዳ፥ ከብሮና ካታማ ካለባስ እምን ካለብ አናቀ ኮቸ ግድዳ ሄ ኮቻታ ጎድድ ከስስ። <verse eid="JDG 1:20"/><verse number="21" style="v" sid="JDG 1:21"/>ሽን ብንያመ ኮቻት የሩሳላመን ደእያ ያቡሰታ ጎድድ ከስቦኮና። ሄ ዎደፐ ዶምን ያቡሰት ብንያመ ኮቻታራ እስፈ የሩሳላመን ደእዶሶና።<verse eid="JDG 1:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JDG 1:22"/>ቃስ ዮሰፋ ኮቻት ቤተለ ካታማ ኦልዶሶና፤ ፆሳይ ኤንታራ ደኤስ። <verse eid="JDG 1:22"/><verse number="23" style="v" sid="JDG 1:23"/>ዮሰፋ ኮቻት ካሰ ሎዛ ጌተትያ ቤተለ ካታማ ዎችያ አሳታ ኪትዶሶና። <verse eid="JDG 1:23"/><verse number="24" style="v" sid="JDG 1:24"/>ኤንቲ ካታማፐ ከይያ እስ አድያ ደምድ፥ “ካታማ ግዶ ዋንድ ገላናዉ ዳንዳኤትያኮ ኑና በሳ፤ ኑኒ ነዉ ኬሀና” ያግዶሶና። <verse eid="JDG 1:24"/><verse number="25" style="v" sid="JDG 1:25"/>እ ኤንታ በስን ካታማን ደእያ አሳ ማሻን ቡዶሶና፤ ሽን ሄ አድያነ እያ ሶ አሳ ኡባ አሽዶሶና። <verse eid="JDG 1:25"/><verse number="26" style="v" sid="JDG 1:26"/>ጉይፐ ሄ አደይ ህተታ ቢታ ብድ፥ ያን ካታማ ኬፅድ ሎዛ ግድ ሱንስ። ሀች ጋካናዉ ሄ ካታማይ ሄ ሱንን ፄገቴስ።<verse eid="JDG 1:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JDG 1:27"/>ምናሰ ኮቻት ቤት-ሳና፥ ታናካ፥ ዶራ፥ ይብላማ ማግዶነ ኤንታ ዩሹዋን ደእያ ጉታታን ደእያ አሳታ ጎድድ ከስቦኮና። ያትን፥ ካናነት ያን ዱሱ ኦይክዶሶና። <verse eid="JDG 1:27"/><verse number="28" style="v" sid="JDG 1:28"/>እስራኤለ አሳይ ምንዳ ዎደ ካናነታ ባንታዉ ዎልቃን ኦስስዶሶና፤ ሽን ኤንታ ኩመ ቢታፈ ከስድ ጎድቦኮና። <verse eid="JDG 1:28"/><verse number="29" style="v" sid="JDG 1:29"/>ኤፍሬማ ኮቻትካ ገዘራ ካታማን ደእያ ካናነታ ጎድድ ከስቦኮና፤ ያትን፥ ካናነት ያን ኤንታራ ደእዶሶና። <verse eid="JDG 1:29"/><verse number="30" style="v" sid="JDG 1:30"/>ዛብሎና ኮቻት ቅትሮናንነ ናህላላን ደእያ አሳታ ጎድድ ከስቦኮና፤ ያትን፥ ካናነት ያን ኤንታራ እስፈ ደእዶሶና። ሽን ዛብሎና ኮቻት ኤንታ ባንታዉ ዎልቃን ኦስስዳሶና። <verse eid="JDG 1:30"/><verse number="31" style="v" sid="JDG 1:31"/>አሴራ ኮቻት አኮን፥ ስዶናን፥ አህላባን፥ አክዚባን፥ ሄልባን፥ አፌቃንነ ረሆባን ደእያ አሳታ ጎድ ከስቦኮና። <verse eid="JDG 1:31"/><verse number="32" style="v" sid="JDG 1:32"/>ካናነት ከዮና አትዳ ግሾ አሴራ ኮቻት ኤንታራ ያን እስፈ ደእዶሶና። <verse eid="JDG 1:32"/><verse number="33" style="v" sid="JDG 1:33"/>ንፍታለመ ኮቻት ቤት-ሳሜሳንነ ቤት-አናታን ደእያ አሳታ ጎድ ከስቦኮና፤ ሽን ካናነታራ ያን እስፈ ደእዶሶና። ቤት-ሳሜሳነ ቤት-አናታ አሳታ ባንታዉ ዎልቃን ኦስስዶሶና። <verse eid="JDG 1:33"/><verse number="34" style="v" sid="JDG 1:34"/>አሞረት ዳነ ኮቻታ ደረይ ዳርያ ቢታ የደዶሶና፤ ኤንቲ ደምባ ቢታ ዎና መላ ተቅዶሶና። <verse eid="JDG 1:34"/><verse number="35" style="v" sid="JDG 1:35"/>አሞረት ሄሬሳ ደርያን፥ ኤሎናንነ ሻአልብማን ዱሱ ኦይክዶሶና፤ ሽን ዮሰፋ ኮቻት ምን ምን ብድ ባንታዉ ዎልቃን ኦስስዶሶና። <verse eid="JDG 1:35"/><verse number="36" style="v" sid="JDG 1:36"/>አሞረታ ቢታ ዛዋይ ሰላአ ማታን ደእያ አክራብማ ፑደ ከዬስ።<verse eid="JDG 1:36"/></para>
+  <chapter eid="JDG 1"/>
+  <chapter number="2" style="c" sid="JDG 2"/>
+  <para style="s1">ጎዳ ኪታንቾይ ቦክማን</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 2:1"/>ጎዳ ኪታንቾይ ጋልጋላፐ ቦክማ ብድ፥ እስራኤለ አሳኮ ሀይሳዳ ያግስ፤ “ታኒ ህንተና ግብፀፈ ከሳዳ በን ህንተ ማይዛታስ እማና ጋዳ ጫቅዳ ቢታ ህንተና ገልሳዳ፥ ‘ታኒ ህንተራ ጫቅዳ ጫቁዋ መንከ፤ <verse eid="JDG 2:1"/><verse number="2" style="v" sid="JDG 2:2"/>ህንተ ሀ ቢታን ደእያ አሳታራ ጫቆፍተ፤ ኤንታ ያርሾ በሳ ላልተ’ ያጋስ። ሽን ህንተ ታዉ ኪተትበከታ፤ አይስ ሄሳ ሀንደቲ? <verse eid="JDG 2:2"/><verse number="3" style="v" sid="JDG 2:3"/>ሄሳ ግሾ፥ ታኒ ኤንታ ህንተ ስንፈ ጎድከ፤ ኤንቲ ህንተዉ ሞርከ ግዳና፤ ኤንታ ፆሳት ህንተዉ ፅሄ ግዳና” ያግስ። <verse eid="JDG 2:3"/><verse number="4" style="v" sid="JDG 2:4"/>ጎዳ ኪታንቾይ እስራኤለ አሳስ ሄሳ ኦድዳ ዎደ አሳይ ባንታ ቃላ ቁ ኦድ ዬክዶሶና። <verse eid="JDG 2:4"/><verse number="5" style="v" sid="JDG 2:5"/>ያትድ ሄ በሳ ቦክማ<note caller="+" style="f"><char style="fr" closed="false">2:5 </char><char style="fq" closed="false">ቦክማ፦ </char><char style="ft" closed="false">እብራወ ዶናን ሀ ሱን ብርሸይ ዬከይሳታ ጉሱ።</char></note> ያግድ ሱንድ ያን ጎዳስ ያርሽዶሶና።<verse eid="JDG 2:5"/></para>
+  <para style="s1">ኪተተ እፆይ ኤህያ መቶ</para>
+  <para style="p">
+    <verse number="6" style="v" sid="JDG 2:6"/>እያሱይ እስራኤለ አሳ የድዳፐ ጉየ፥ አሳይ እሶይ እሶይ ባና ጋክዳ ላታ ቢታ ኤካናዉ ብስ። <verse eid="JDG 2:6"/><verse number="7" style="v" sid="JDG 2:7"/>እያሱይ ፓፃ ደእያ ላይንነ ጎዳይ እስራኤለ አሳስ ኦዳ ግታ ኦሶ ኡባ በእዳ ጭማት ደእያ ዎደ አሳይ ጎዳስ ኪተትዶሶና።<verse eid="JDG 2:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JDG 2:8"/>ጎዳ አይለይ፥ ናወ ናአይ እያሱይ ላይይ ፄታነ ታማ ግድን ሀይቅስ። <verse eid="JDG 2:8"/><verse number="9" style="v" sid="JDG 2:9"/>ኤንቲ እያ ጋኣሳ ዙማፐ ፑደሀ ባጋን፥ ኤፍሬማ ገዘ ቢታን፥ ትምናት-ሳራሀ ጌተትያ በሳን እያ ላታ ቢታን ሞግዶሶና። <verse eid="JDG 2:9"/><verse number="10" style="v" sid="JDG 2:10"/>ሄ የለተ ኡባይ ሀይቅድ ባንታ ማይዛታን ጋሄትዶሶና። ሄሳፈ ጉየ ጎዳ ዎይኮ ጎዳይ እስራኤለ አሳስ ኦዳባ ኤሮና ሀራ የለተ ደንድስ።<verse eid="JDG 2:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JDG 2:11"/>ሄሳፈ ጉየ፥ እስራኤለ አሳይ ጎዳ ስንን ኢታባ ኦዶሶና፤ ባኣለ ኤቃ ምስለታ ጎይንዶሶና። <verse eid="JDG 2:11"/><verse number="12" style="v" sid="JDG 2:12"/>ግብፀ ቢታፈ ኤንታ ከስዳ ጎዳ፥ ባንታ ማይዛታ ፆሳ አግዶሶና። ኤንታ ዩሹዋን ደእያ አሳ ኤቃታኮ ስሚድ፥ ኤንታዉ ጎይንዶሶና፤ ሄሳን ጎዳ ሀንቀዶሶና። <verse eid="JDG 2:12"/><verse number="13" style="v" sid="JDG 2:13"/>ቃስ ጎዳ አግድ፥ ባኣለነ አስታሮተ ኤቃ ጎይንዶሶና። <verse eid="JDG 2:13"/><verse number="14" style="v" sid="JDG 2:14"/>ያትን፥ ጎዳ ሀንቆይ እስራኤለ አሳ ቦላ ኤፅስ፤ ቦንቀይሳት ኤንታ ቦንቃና መላ ኦስ። ኤንታ ዩሹዋን ደእያ ሞርከታስ አድ እሚስ። ያትን፥ ኤንቲ ባንታ ሞርከታራ ኤቀታናዉ ዳንዳእቦኮና። <verse eid="JDG 2:14"/><verse number="15" style="v" sid="JDG 2:15"/>ኤንቲ ኦለታናዉ ከይያ ዎደ ኡባን፥ ጎዳይ ካሰ ኤንታዉ ኦድዳይሳዳነ ጫቅዳይሳዳ ኤንቲ ፆነታና መላ እ ኤንታ ቦላ ደንድስ። ያትን፥ ኤንቲ ዳሮ ኡንኤትዶሶና።<verse eid="JDG 2:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JDG 2:16"/>ያትን፥ ጎዳይ አይሰይሳታ ኤንታዉ ደንን፥ ኤንቲ እስራኤለ አሳ ቦንቀይሳታ ኩሸፐ አሽዶሶና። <verse eid="JDG 2:16"/><verse number="17" style="v" sid="JDG 2:17"/>ግዶሽን እስራኤለ አሳይ ሃረይሳታስ ኪተትቦኮና፤ ጎዳስ አማነቶና እፅድ ሀራ ፆሳታ ጎይንዶሶና። ኤንታ አዋት ጎዳስ ኪተትድ ሄመትዳ ኦግያ አግድ ሀራ ሶ ስምዶሶና። <verse eid="JDG 2:17"/><verse number="18" style="v" sid="JDG 2:18"/>ጎዳይ ኤንታዉ አይሰይሳታ ደንዳ ዎደ ኡባን እ አይሰይሳታራ እስፈ ግድድ ሄ አይሰይስ ፓፃ ደእያ ላይ ኡባን ኤንታ ሞርከታ ኩሸፐ አሽስ። ኤንቲ ኡንአንነ መቶን ግድድ ጎዳኮ ዋስያ ዎደ ኡባን ጎዳይ ኤንታዉ ቃቴስ። <verse eid="JDG 2:18"/><verse number="19" style="v" sid="JDG 2:19"/>ሽን አይሰይስ ሀይቅዳፐ ጉየ፥ አሳይ ጉየ ስሚድ፥ ካሰ ኤንታ አዋት ኦዳ ኢታፐ አዳ ኢታ ኦዶሶና። ኤንቲ ሀራ ፆሳታኮ ስሚድ፥ ኤንታዉ ጎይንዶሶና። ባንታ ኢታ ኦሱዋነ ጌላ ኦግያ አጎና እፅዶሶና። <verse eid="JDG 2:19"/><verse number="20" style="v" sid="JDG 2:20"/>ጎዳይ እስራኤለ አሳ ቦላ ይሎ ኤፅድ፥ “ሀ አሳይ ታኒ ኤንታ ማይዛታስ ጫቅዳ ጫቁዋ መንዳ ግሾነ ታዉ ኪተቶና እፅዳ ግሾ፥ <verse eid="JDG 2:20"/><verse number="21" style="v" sid="JDG 2:21"/>እያሱይ ሀይቅያ ዎደ ቢታ ቦላ አትዳ ካዎተታፐ እሱዋካ ታኒ ኤንታ ስንፈ ጎዳዳ ከስከ። <verse eid="JDG 2:21"/><verse number="22" style="v" sid="JDG 2:22"/>እስራኤለ አሳይ ካሰ ባንታ ማይዛታዳ ታ ኦግያ ካልያኮነ ካሎናኮ ፓጫናዉ ታኒ ሀ አትዳ ካዎተታ ጎኤታና” ያግስ። <verse eid="JDG 2:22"/><verse number="23" style="v" sid="JDG 2:23"/>ሄሳ ግሾ፥ ጎዳይ ሄ ካዎተት ቢታፈ ጎደቶና ጋምአና መላ ኦስ። እ ኤንታ ኤለስድ ጎድ ከስቤና፤ ኤንታ እያሱስ አድ እምቤና።<verse eid="JDG 2:23"/></para>
+  <chapter eid="JDG 2"/>
+  <chapter number="3" style="c" sid="JDG 3"/>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 3:1"/>ካናነን ኦላ ሜዘትቦና እስራኤለ አሳ ፓጫናዉ ጎዳይ ካናነን አሽዳ አሳይ ሀይሳታ። <verse eid="JDG 3:1"/><verse number="2" style="v" sid="JDG 3:2"/>እ ሄሳ ኦዳይ ሀይሳፈ ካሰ ኦላ ሜዘትቦና እስራኤለ የለተ ኦላ ሂላ ታማርሳናሳ። <verse eid="JDG 3:2"/><verse number="3" style="v" sid="JDG 3:3"/>ሄሳትካ እቻሹ ፍልስፄመ ሀላቃታ፥ ካናነታ፥ ስዶናታነ ባኣል-አርሞና ዙማፐ ዶምድ ሀማታ ጋካናዉ ልባኖሰ ዙማ ቦላ ደእያ ህወታ። <verse eid="JDG 3:3"/><verse number="4" style="v" sid="JDG 3:4"/>ጎዳይ ሙሰ ባጋራ ካሰ እስራኤለ ማይዛታስ እምዳ ኪታ ኤንቲ ኪተትያኮነ ኪተቶናኮ ፓጫናዉ ኤንታ ከሶና አግስ። <verse eid="JDG 3:4"/><verse number="5" style="v" sid="JDG 3:5"/>ያትን፥ እስራኤለ አሳይ ካናነታራ፥ ህተታራ፥ አሞረታራ፥ ፓርዘታራ፥ ህወታራነ ያቡሰታራ እስፈ ደእዶሶና። <verse eid="JDG 3:5"/><verse number="6" style="v" sid="JDG 3:6"/>ኤንታ ማጫ ናይታ ባንታዉ ኤክዶሶና፤ ባንታ ማጫ ናይታ ኤንታ አደ ናይታስ እምዶሶና። ያትድ ኤንታ ፆሳታ ጎይንዶሶና።<verse eid="JDG 3:6"/></para>
+  <para style="s1">ጎቶንያላ</para>
+  <para style="p">
+    <verse number="7" style="v" sid="JDG 3:7"/>እስራኤለ አሳይ ጎዳ ስንን ኢታባ ኦዶሶና። ኤንቲ ጎዳ ባንታ ፆሳ ዶግድ፥ ባኣለነ አሼራ ጌተትያ ፆሳታ ጎይንዶሶና። <verse eid="JDG 3:7"/><verse number="8" style="v" sid="JDG 3:8"/>ሄሳ ግሾ፥ ጎዳ ሀንቆይ እስራኤለ አሳ ቦላ ኤፅስ። ጎዳይ ማሰጰፆመ ካዋ ኩሻን-ርሻታይም ኤንታ ሃራና መላ አድ እምን፥ ኤንቲ እያዉ ሆስፑን ላይ ሃረትዶሶና።<verse eid="JDG 3:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JDG 3:9"/>ሽን እስራኤለ አሳይ ጎዳኮ ዋስዳ ዎደ ኤንታ አሽያ፥ ካለባ ካሎ እሻ ቃናዘ ናኣ ጎቶንያላ ደንስ። <verse eid="JDG 3:9"/><verse number="10" style="v" sid="JDG 3:10"/>ጎዳ አያናይ እያ ቦላ ዎን፥ እ እስራኤለ ቦላ ፕርደይሳ ግድስ። እ ኦላስ ከይዳ ዎደ ጎዳይ ማሰጰፆመ ካዋ ኩሻን-ርሻታይማ እያዉ አድ እምን ፆንስ። <verse eid="JDG 3:10"/><verse number="11" style="v" sid="JDG 3:11"/>ያትን፥ ቢታይ ኦይታሙ ላይ ዎፑ ግድ ደእስ። ሄሳፈ ጉየ፥ ቃናዘ ናአይ ጎቶንያል ሀይቅስ።<verse eid="JDG 3:11"/></para>
+  <para style="s1">ናኦዳ</para>
+  <para style="p">
+    <verse number="12" style="v" sid="JDG 3:12"/>እስራኤለ አሳይ ዛሪድ ጎዳ ስንን ኢታባ ኦዶሶና። ሄሳ ግሾ፥ ጎዳይ ሞአበ ካዎይ ኤግሎን እስራኤለ ቦላ ዎልቃታናዳ ኦስ። <verse eid="JDG 3:12"/><verse number="13" style="v" sid="JDG 3:13"/>ኤግሎን አሞነታነ አማለቃታ ሺሽድ እስራኤለ አሳ ኦል ፆንድ፥ ዛምባ ካታማ እያርኮ ኦይክስ። <verse eid="JDG 3:13"/><verse number="14" style="v" sid="JDG 3:14"/>ያትን፥ እስራኤለ አሳይ ሞአበ ካዋ ኤግሎናስ ታማነ ሆስፑን ላይ ሃረትዶሶና።<verse eid="JDG 3:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="JDG 3:15"/>ሽን እስራኤለ አሳይ ጎዳኮ ዋስዳ ዎደ ኤንታ አሽያ፥ ብንያመ ኮቸ ግድዳ ጌራ ናኣ ናኦዳ፥ ሀድርሳ ኩሸን ኦይሳ ደንስ። እስራኤለ አሳይ ናኦዳ ሞአበ ካዋ ኤግሎናኮ ጊራራ ኪትስ። <verse eid="JDG 3:15"/><verse number="16" style="v" sid="JDG 3:16"/>ናኦድ ናምኡ ባጋራ ቃራትዳ እስ ዋ ማሸ ጊግስድ ኡሻቻ ባጋን ባ ማኡዋ ጋርሳን ዳንጭስ። <verse eid="JDG 3:16"/><verse number="17" style="v" sid="JDG 3:17"/>ሄሳፈ ጉየ፥ ዳሮ ኦርደ ግድዳ ሞአበ ካዋ ኤግሎናስ ጊራ ኤፍድ እሚስ። <verse eid="JDG 3:17"/><verse number="18" style="v" sid="JDG 3:18"/>ናኦድ ጊራ ካዋስ እምዳፐ ጉየ፥ ጊራ ቶክድ ብዳ አሳ ሞይዝስ። <verse eid="JDG 3:18"/><verse number="19" style="v" sid="JDG 3:19"/>ሽን ናኦድ ጋልጋላ ማታን ደእያ ማሰትዳ ሹቻታ ማታፐ ኤግሎናኮ ጉየ ስም ብድ፥ “ካዋዉ፥ ታ ነዉ ኦድያ እስ ፁር ደኤስ” ያግስ።</para>
+  <para style="p" vid="JDG 3:19">ካዎይ፥ “ስእ ጋ” ያግስ። እያ ናገይሳት ኡባይ ካረ ከይዶሶና።<verse eid="JDG 3:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="JDG 3:20"/>ሄ ዎደ ካዎይ ፖቅያ ቦላ እስ ክፍልያን ባርካ ኡትዳሽን፥ ናኦድ እያኮ ሺቅድ፥ “ፆሳይ ነዉ ኪትዳባይ ደኤስ” ያግን፥ ካዎይ ባ ኡትዳ በሳፈ ደንድ ኤቅስ። <verse eid="JDG 3:20"/><verse number="21" style="v" sid="JDG 3:21"/>ናኦድ ባ ሀድርሳ ኩሽያ የድድ፥ ኡሻቻ ባጋ ፄሳን ደእያ ማሻ ሾድድ፥ ካዋ ኡሉዋን ድርግም ኦስ። <verse eid="JDG 3:21"/><verse number="22" style="v" sid="JDG 3:22"/>ማሻ ቱይተይ አቶና ኡሎ ግዶ ገልድ፥ ዞኩዋራ ካን ከይስ። ሞይ ካምዳ ግሾ ናኦድ ማሻ ካዋ ኡሉዋፐ ሾድቦና። <verse eid="JDG 3:22"/><verse number="23" style="v" sid="JDG 3:23"/>ሄሳፈ ጉየ፥ ናኦድ ካረ ከይድ፥ ክፍልያ ፐንግያ ጎርድድ እያ ቦላ ቁልፕስ።<verse eid="JDG 3:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JDG 3:24"/>ናኦድ ብዳፐ ጉየ አይለት ይድ፥ ፐንገይ ጎርደትዳይሳ በእድ፥ “ካዎይ ግዶ ክፍልያን ሼሻስ ኡቶና አገና” ያግድ ቆፕዶሶና። <verse eid="JDG 3:24"/><verse number="25" style="v" sid="JDG 3:25"/>ኤንቲ ሳለታና ጋካናዉ ናግዶሶና። ሽን ካዎይ ፐንግያ ዶዮና እፅን፥ ቁልፐ ኤክድ ፐንግያ ዶይድ፥ ባንታ ጎዳይ ሀይቅድ፥ ዉይገን ኩንድዳይሳ በእዶሶና።<verse eid="JDG 3:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JDG 3:26"/>ኤንቲ ያን ኤቅድ ናግሽን፥ ናኦድ ከስ ኤክድ ኤቃ ሹቻታ ማታራ አድ ሳኢራ ባቃትስ። <verse eid="JDG 3:26"/><verse number="27" style="v" sid="JDG 3:27"/>እ ብድ ደረይ ዳርያ ኤፍሬማ ቢታ ጋክዳ ዎደ እስራኤለ አሳይ ኦላስ ሺቃና መላ ሞይዘ ፑንን፥ አሳይ እያ ካልድ ዱገ ዎዶሶና። <verse eid="JDG 3:27"/><verse number="28" style="v" sid="JDG 3:28"/>እ ኤንታኮ፥ “ታና ካልተ፤ ጎዳይ ህንተ ሞርከታ፥ ሞአበታ ህንተ ኩሸን አድ እሚስ” ያግስ። ኤንቲ እያ ካል ዎድ፥ ዮርዳኖሰ ሻፋ ፕንያ በሳ ኦይክዶሶና። ሞአበ አሳፐ እስ አስካ ያራ አና መላ ተቅዶሶና። <verse eid="JDG 3:28"/><verse number="29" style="v" sid="JDG 3:29"/>ሄ ዎደ ሞአበ አሳፐ ታሙ ሙኩሉ ግድያ ዶረትዳ ምኖ ኦላንቾታ ዎዶሶና፤ እስ አስካ ከስ ኤክቤና። <verse eid="JDG 3:29"/><verse number="30" style="v" sid="JDG 3:30"/>ሄ ጋላስ እስራኤለ አሳይ ሞአበ አሳ ፆንዶሶና። ቢታይ ሆስፑን ታሙ ላይ ዎፑ ግድ ደእስ።<verse eid="JDG 3:30"/></para>
+  <para style="s1">ሳምጋራ</para>
+  <para style="p">
+    <verse number="31" style="v" sid="JDG 3:31"/>ናኦዳፐ ጉየ፥ አናታ ናአይ ሳምጋር ደንድድ፥ ፍልስፄመ አሳፐ ኡሱፑን ፄቱ አሳ ቦሩ ላግያ ብራታ ፃምአን ዎድ እስራኤለ አሳ አሽስ።<verse eid="JDG 3:31"/></para>
+  <chapter eid="JDG 3"/>
+  <chapter number="4" style="c" sid="JDG 4"/>
+  <para style="s1">ድቦራነ ባራቃ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 4:1"/>ናኦድ ሀይቅዳፐ ጉየ እስራኤለ አሳይ ጎዳ ስንን ዛሪድ ኢታባ ኦዶሶና። <verse eid="JDG 4:1"/><verse number="2" style="v" sid="JDG 4:2"/>ሄሳ ግሾ፥ ጎዳይ ሀፆራ ካታማን ደእያ ካናነ ካዋ እያብሳስ ኤንታ አድ እሚስ። እያ ቶራ ሞጮናይ ሀሮሴት ሀጎይማ ካታማን ደእያ ስሳራ። <verse eid="JDG 4:2"/><verse number="3" style="v" sid="JDG 4:3"/>እያብሳስ ኡዱፉን ፄቱ ብራታ ፓራ ጋረት ደእያ ግሾነ እ እስራኤለ አሳ ቃይ ባይና ላታሙ ላይ ኡንኤዳ ግሾ ኤንቲ ማዶ ደማናዉ ጎዳኮ ዋስዶሶና።<verse eid="JDG 4:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JDG 4:4"/>ሄ ዎደ ላፍዶታ ማችያ፥ ናብያ ድቦራ እስራኤለ አሳ ካለዉስ። <verse eid="JDG 4:4"/><verse number="5" style="v" sid="JDG 4:5"/>ድቦራ ደረይ ዳርያ ኤፍሬማ ቢታን፥ ራማፐነ ቤተለፐ ግዶን ደእያ ድቦራ ዛምባ ጋርሳን ኡታዳ ፕርዳዉሱ። እስራኤለ አሳይ ፕርዳ ደማናዉ ኢኮ ዮሶና። <verse eid="JDG 4:5"/><verse number="6" style="v" sid="JDG 4:6"/>እስ ጋላስ ድቦራ አብኖማ ናኣ ባራቃ ንፍታለመ ቢታን ደእያ ቃደሳፐ ፄግሳዳ፥ “ጎዳይ እስራኤለ ፆሳይ ነና ሀይሳዳ ያግድ ኪትስ፤ ‘ንፍታለመነ ዛብሎና ዛርያፐ ታሙ ሙኩሉ አሳ ኤካዳ ታቦረ ዙማ ቦላ ከያ። <verse eid="JDG 4:6"/><verse number="7" style="v" sid="JDG 4:7"/>ታኒ ያብና ቶራ ሞጮናታ ስሳር ፓራ ጋረታነ ኦላንቾታ ኤክድ፥ ቅሶና ሻፋን ነና ኦላናዉ ያና መላ ኦና። ያን ታኒ ነዉ እያ አዳ እማና’ ያጌስ” ያጋሱ።<verse eid="JDG 4:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JDG 4:8"/>ባራቅ፥ “ኔኒ ታራ ቢኮ ታኒ ባና፤ ሽን ኔኒ ታራ ቦና እፅኮ ታኒ ቢከ” ያግስ።<verse eid="JDG 4:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JDG 4:9"/>እያ ዛራዳ፥ “ኤሮ፥ ታኒ ኔራ ባና፤ ሽን ጎዳይ ስሳራ ማጫሳ ኩሸን አድ እማና ግሾ ታ ቡሳይ ነዉ ቦንቾ ግደና” ያጋሱ። ሄሳ ግሾ ድቦራ ደንዳዳ፥ ባራቃራ ቃደሳ ባሱ። <verse eid="JDG 4:9"/><verse number="10" style="v" sid="JDG 4:10"/>ባራቅ ንፍታለመነ ዛብሎና ኮቻታ ቃደሳ ፄግን፥ ታሙ ሙኩሉ አስ እያ ካልድ ከይስ፤ ድቦራካ እያራ ባሱ።<verse eid="JDG 4:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JDG 4:11"/>ሄ ዎደ ቄና አስ ግድዳ ሄቤር፥ ሙሰ ቦሎይ፥ ሆባባ ያራይ ሀራ ቄናታፐ ሻከትድ ቃደሳ ማታን ዘናንመን ደእያ ዎላ ማታን ባ ዱንካንያ ቶክስ።<verse eid="JDG 4:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JDG 4:12"/>አብኖማ ናአይ ባራቅ ታቦረ ዙማ ብዳይሳ ስሳር ስእዳ ዎደ፥ <verse eid="JDG 4:12"/><verse number="13" style="v" sid="JDG 4:13"/>ኡዱፉን ፄቱ ብራታ ፓራ ጋረታነ ባራ ደእያ አሳ ኡባ ፄግስድ፥ ሀሮሴት-ሀጎይማፐ ቅሶና ሻፋ ሺሽስ።<verse eid="JDG 4:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JDG 4:14"/>ያትን ድቦር ባራቃኮ፥ “ሀች ጎዳይ ስሳራ ነ ኩሸን አድ እምያ ጋላስ ግድያ ግሾ ደንዳ። ሄኮ፥ ጎዳይ ነዉ ስን አስ” ያጋሱ። ባራቅ ታሙ ሙኩሉ ኦላንቾታ ካለድ፥ ታቦረ ዙማፐ ዎስ። <verse eid="JDG 4:14"/><verse number="15" style="v" sid="JDG 4:15"/>ጎዳይ ስሳራ፥ እያ ፓራ ጋረታነ እያ ኦላንቾታ ኡባ ባራቃ ማሻስ አድ እሚስ። ያትን፥ ስሳር ባ ፓራ ጋርያፐ ዎድ ቶሆን ባቃትስ። <verse eid="JDG 4:15"/><verse number="16" style="v" sid="JDG 4:16"/>ባራቅ ፓራ ጋረታነ ኦላንቾታ ሀሮሴት-ሀጎይማ ጋካናዉ የደስ። ስሳራ ኦላንቾት ኡባይ ማሻን ሀይቅዶሶና፤ እስ አስካ አትቤና።<verse eid="JDG 4:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JDG 4:17"/>ሄ ዎደ ሀፆራ ካዎይ ያብን ሄቤራ ኬ አሳራ ሳሮ ደኤስ። ሄሳ ግሾ፥ ስሳር ቶሆን ባቃትድ፥ ቄና አስ ግድዳ ሄቤራ ማቸ ያኤል ዱንካንያ ጋክስ። <verse eid="JDG 4:17"/><verse number="18" style="v" sid="JDG 4:18"/>ያኤላ ስሳራ ሞካናዉ ከያዳ፥ “ታ ጎዳዉ፥ ገላ፤ ሃ ገላ፤ ያዮፋ” ያጋሱ። እ ዱንካንያ ግዶ ኢኮ ገልን እያ አፍላራ ካማስ።<verse eid="JDG 4:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JDG 4:19"/>ስሳር፥ “ታና ሳሜስ፤ ሃ ታና ኡሻርክ” ያግስ። እያ ማ ኦጎሮ ዶያዳ ኡሻሱ፤ ያታዳ ዛራዳ ካማሱ። <verse eid="JDG 4:19"/><verse number="20" style="v" sid="JDG 4:20"/>ሄሳፈ ጉየ፥ እ፥ “ዱንካንያ ፐንገን ኤቃ። አይ አስካ ይድ፥ ‘ሀይሳን አስ ደኢ?’ ያግድ ኦይችኮ፥ ‘ባዋ’ ያጋ” ያግስ።<verse eid="JDG 4:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="JDG 4:21"/>ስሳር ዳሮ ዳቡርዳ ግሾ ስኮ ሀይቅ አግስ። ሄቤራ ማችያ ያኤላ ናርቃነ ዱንካነ ሸ ኤካዳ፥ ሎዳራ እያኮ ሺቃዳ ሽያ ሀይ ካረን ሻዳ፥ ሳአራ ኦይን ስሳር ሀይቅስ።<verse eid="JDG 4:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JDG 4:22"/>ባራቅ ስሳራ ኮይሸ ይን፥ ያኤላ እያ ሞካናዉ ካረ ከያዳ፥ “ሃያ፤ ነ ኮይያ አድያ ታኒ ነና በሳና” ያጋሱ። ሄሳ ግሾ፥ ኢራ ዱንካንያ ግዶ ገልድ፥ ስሳራ ሀይ ካረን ሸይ ገልን እያ አሀይ ሳአን ዝንእዳይሳ በእስ።<verse eid="JDG 4:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JDG 4:23"/>ሄ ጋላስ ፆሳይ እስራኤለ አሳይ ካናነ ካዋ ያብና ፆናና መላ ኦስ። <verse eid="JDG 4:23"/><verse number="24" style="v" sid="JDG 4:24"/>ያብና ካዋ ይሳና ጋካናዉ እስራኤለ አሳይ እያ ቦላ ምን ምን ብስ።<verse eid="JDG 4:24"/></para>
+  <chapter eid="JDG 4"/>
+  <chapter number="5" style="c" sid="JDG 5"/>
+  <para style="s1">ፆኖ ገረርስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 5:1"/>ሄ ጋላስ ድቦራነ አብኖማ ናአይ ባራቅ ሀ ማዝሙርያ የፅዶሶና።<verse eid="JDG 5:1"/></para>
+  <para style="q1">
+    <verse number="2" style="v" sid="JDG 5:2"/>ሀላቃት እስራኤለ አሳ ካለዳ ግሾ፥</para>
+  <para style="q2" vid="JDG 5:2">አሳይካ ባና አድ እምዳ ግሾ፥</para>
+  <para style="q2" vid="JDG 5:2">ጎዳ ጋላትተ።<verse eid="JDG 5:2"/></para>
+  <para style="q1">
+    <verse number="3" style="v" sid="JDG 5:3"/>ህንተኖ ካዎቶ፥ ስእተ፤</para>
+  <para style="q2" vid="JDG 5:3">ህንተኖ ሃረይሳቶ፥ ሀይዝተ፤</para>
+  <para style="q1" vid="JDG 5:3">ታኒ ጎዳስ የፃና።</para>
+  <para style="q2" vid="JDG 5:3">እስራኤለ ፆሳ ጋላታና።<verse eid="JDG 5:3"/></para>
+  <para style="q1">
+    <verse number="4" style="v" sid="JDG 5:4"/>አቤት ጎዳዉ፥ ኔኒ ሳይረ ዙማፐ ደንድያ ዎደ፥</para>
+  <para style="q2" vid="JDG 5:4">ኤዶመ ቢታፈ ነ ከይያ ዎደ፥</para>
+  <para style="q2" vid="JDG 5:4">ቢት ቃፅስ፤ ሳሎፐ እር ቡክስ፤</para>
+  <para style="q2" vid="JDG 5:4">ሃ ሻራፐ ጎግስ።<verse eid="JDG 5:4"/></para>
+  <para style="q1">
+    <verse number="5" style="v" sid="JDG 5:5"/>ሲና ጎዳ፥</para>
+  <para style="q2" vid="JDG 5:5">እስራኤለ ፆሳ ስንን፥</para>
+  <para style="q2" vid="JDG 5:5">ደረት ቃፅዶሶና፤<verse eid="JDG 5:5"/></para>
+  <para style="q1">
+    <verse number="6" style="v" sid="JDG 5:6"/>አናታ ናኣ ሳምጋራ ዎደነ</para>
+  <para style="q2" vid="JDG 5:6">ያኤላ ዎደ ኦገይ ዶገትስ፤</para>
+  <para style="q2" vid="JDG 5:6">ዛልአንቾት ዩሾ ኦገራ ቦሶና።<verse eid="JDG 5:6"/></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="JDG 5:7"/>ድቦር እስራኤለ አሳስ፥</para>
+  <para style="q2" vid="JDG 5:7">አዮ ግዳዳ ደንዳና ጋካናዉ፥</para>
+  <para style="q2" vid="JDG 5:7">እስራኤለ ጉታት ባይሳትዶሶና፤<verse eid="JDG 5:7"/></para>
+  <para style="q1">
+    <verse number="8" style="v" sid="JDG 5:8"/>እስራኤለ አሳይ አላጋ ፆሳታ ዶርዳ ዎደ፥</para>
+  <para style="q2" vid="JDG 5:8">ቢታ ቦላ ኦል ደንድስ።</para>
+  <para style="q1" vid="JDG 5:8">ኦይታሙ ሙኩሉ እስራኤለ ኦላንቾታ ግዶን፥</para>
+  <para style="q2" vid="JDG 5:8">እስ ጎንዳለይ ዎይኮ እስ ቶር በንትቤና።<verse eid="JDG 5:8"/></para>
+  <para style="q1">
+    <verse number="9" style="v" sid="JDG 5:9"/>ታ ዎዛናይ እስራኤለ ቶራ ሞጮናታራ፥</para>
+  <para style="q2" vid="JDG 5:9">አሳ ግዶፈ ዶሳን ባንታና አድ፥</para>
+  <para style="q2" vid="JDG 5:9">እምዳይሳታራ ደኤስ።</para>
+  <para style="q1" vid="JDG 5:9">ጎዳ ጋላትተ፤<verse eid="JDG 5:9"/></para>
+  <para style="q1">
+    <verse number="10" style="v" sid="JDG 5:10"/>ህንተኖ፥ ቦ ሀረታ ቶገይሳቶ፥</para>
+  <para style="q2" vid="JDG 5:10">ሎኦ ግላስያ ቦላ ኡትድ ድንጫከተይሳቶ፥</para>
+  <para style="q2" vid="JDG 5:10">ኦገ ጋፃራ ሄመተይሳቶ ሀይሳ ስእተ።<verse eid="JDG 5:10"/></para>
+  <para style="q1">
+    <verse number="11" style="v" sid="JDG 5:11"/>ሃ ኦላታ ማታን፥</para>
+  <para style="q2" vid="JDG 5:11">ሺቅዳ አሳ የ ስእተ።</para>
+  <para style="q1" vid="JDG 5:11">ኤንቲ ጎዳ ፆኑዋ የፆሶና፤</para>
+  <para style="q2" vid="JDG 5:11">እስራኤለ አሳ ፆኑዋ ኦዶሶና።</para>
+  <para style="q1" vid="JDG 5:11">ሄሳፈ ጉየ፥ ጎዳ አሳይ</para>
+  <para style="q2" vid="JDG 5:11">ካታማ ፐንገታኮ ዎዶሶና።<verse eid="JDG 5:11"/></para>
+  <para style="q1">
+    <verse number="12" style="v" sid="JDG 5:12"/>ድቦራ፥ ደንዳ! ደንዳ!</para>
+  <para style="q2" vid="JDG 5:12">ደንዳ! ደንዳዳ ማዝሙረ የፃ።</para>
+  <para style="q1" vid="JDG 5:12">አብኖማ ናአዉ፥ ባራቃ፥ ደንዳ!</para>
+  <para style="q2" vid="JDG 5:12">ነ ድእዳባ ኤካዳ ያ።<verse eid="JDG 5:12"/></para>
+  <para style="q1">
+    <verse number="13" style="v" sid="JDG 5:13"/>ሄሳፈ ጉየ፥ አትዳ አሳት፥</para>
+  <para style="q2" vid="JDG 5:13">ሀላቃታኮ ዎዶሶና።</para>
+  <para style="q1" vid="JDG 5:13">ጎዳ አሳት ኦለታናዉ ጊግድ</para>
+  <para style="q2" vid="JDG 5:13">ባራቃኮ ይዶሶና።<verse eid="JDG 5:13"/></para>
+  <para style="q1">
+    <verse number="14" style="v" sid="JDG 5:14"/>አማለቃ ኮቻት በን ደእዳ በሳን</para>
+  <para style="q2" vid="JDG 5:14">ደእያ ኤፍሬማ አሳት ይዶሶና።</para>
+  <para style="q2" vid="JDG 5:14">ብንያመ አሳት ኤንታ ካልዶሶና።</para>
+  <para style="q1" vid="JDG 5:14">ማክራፐ ሀላቃት፥</para>
+  <para style="q2" vid="JDG 5:14">ዛብሎናፐ ካዎተ</para>
+  <para style="q2" vid="JDG 5:14">ፃምአ ኦይከይሳት ይዶሶና።<verse eid="JDG 5:14"/></para>
+  <para style="q1">
+    <verse number="15" style="v" sid="JDG 5:15"/>ይሳኮራ ሀላቃት ድቦራራ ደኦሶና፤</para>
+  <para style="q2" vid="JDG 5:15">ኤ፥ ይሳኮረ አሳይ ባራቃራ ይዶሶና፤</para>
+  <para style="q2" vid="JDG 5:15">ኤንቲ እያ ካልድ፥ ዛንጋራ ገልዶሶና።</para>
+  <para style="q1" vid="JDG 5:15">ሽን ሮቤላ ኮቻት ቆፋን ሻከትድ፥</para>
+  <para style="q2" vid="JDG 5:15">ባንታ ዎዛናን ሄትዶሶና።<verse eid="JDG 5:15"/></para>
+  <para style="q1">
+    <verse number="16" style="v" sid="JDG 5:16"/>ኤንቲ አይስ አትዶና?</para>
+  <para style="q2" vid="JDG 5:16">ዶርሳታ ሄማናሰዬ?</para>
+  <para style="q1" vid="JDG 5:16">ሮቤላ ኮቻት ቆፋን ሻከትድ፥</para>
+  <para style="q2" vid="JDG 5:16">ባንታ ዎዛናን ሄትዶሶና።<verse eid="JDG 5:16"/></para>
+  <para style="q1">
+    <verse number="17" style="v" sid="JDG 5:17"/>ጋደ ኮቻት ዮርዳኖሰ ፕንን አትስ፥</para>
+  <para style="q2" vid="JDG 5:17">ዳና ኮቻት ማርካበታን አትዶሶና።</para>
+  <para style="q1" vid="JDG 5:17">አሴራ ኮቻት ባንታ ደእያሶን፥</para>
+  <para style="q2" vid="JDG 5:17">አባ ጋፃን አትዶሶና።<verse eid="JDG 5:17"/></para>
+  <para style="q1">
+    <verse number="18" style="v" sid="JDG 5:18"/>ዛብሎና ኮቻት፥</para>
+  <para style="q2" vid="JDG 5:18">ባንታና ሀይቆስ አድ እምዶሶና።</para>
+  <para style="q1" vid="JDG 5:18">ንፍታለመ ኮቻት፥</para>
+  <para style="q2" vid="JDG 5:18">ቶራ ደንባን ባንታና አድ እምዶሶና።<verse eid="JDG 5:18"/></para>
+  <para style="q1">
+    <verse number="19" style="v" sid="JDG 5:19"/>ማግዶ ፑልቶታ ማታን ታናካን፥</para>
+  <para style="q2" vid="JDG 5:19">ካዎት ኦለትዶሶና።</para>
+  <para style="q1" vid="JDG 5:19">ካናነ ካዎት ያን ኦለትድ፥</para>
+  <para style="q2" vid="JDG 5:19">ብራ ዎይኮ ሀራባ ድእቦኮና።<verse eid="JDG 5:19"/></para>
+  <para style="q1">
+    <verse number="20" style="v" sid="JDG 5:20"/>ሳሎፐ ፆልንቶት ኦለትዶሶና፤</para>
+  <para style="q2" vid="JDG 5:20">ባንታ ዩሻን ስሳራ ኦልዶሶና።<verse eid="JDG 5:20"/></para>
+  <para style="q1">
+    <verse number="21" style="v" sid="JDG 5:21"/>ቅሶና ሻፋይ ኤንታ ኤፍስ፤</para>
+  <para style="q2" vid="JDG 5:21">በንፐ ደእያ ቅሶን ኤንታ ሾክስ።</para>
+  <para style="q1" vid="JDG 5:21">ታ ሸምፐ፥ ምና፤ ስን ሆርዶፋ።<verse eid="JDG 5:21"/></para>
+  <para style="q1">
+    <verse number="22" style="v" sid="JDG 5:22"/>ፓራት አዳርስሸ ይዶሶና፥</para>
+  <para style="q2" vid="JDG 5:22">ባንታ ቶሁዋን ቢታ ጊርሶሶና።<verse eid="JDG 5:22"/></para>
+  <para style="q1">
+    <verse number="23" style="v" sid="JDG 5:23"/>ጎዳ ኪታንቾይ ሀይሳዳ ያግስ፤</para>
+  <para style="q2" vid="JDG 5:23">“መሮዛ ባድተ!</para>
+  <para style="q2" vid="JDG 5:23">ያን ደእያ አሳ ኢስድ ባድተ!</para>
+  <para style="q1" vid="JDG 5:23">ኤንቲ ጎዳ ማዳናዉ ይቦኮና፤</para>
+  <para style="q2" vid="JDG 5:23">እያ ዎልቃማ ሞርከታ ኦላናዉ ከይቦኮና።”<verse eid="JDG 5:23"/></para>
+  <para style="q1">
+    <verse number="24" style="v" sid="JDG 5:24"/>ቄና አስ ግድዳ ሄቤራ ማችያ፥</para>
+  <para style="q2" vid="JDG 5:24">ያኤል ማጫሳ ኡባፈ አንጀትዳሮ ግዶ።</para>
+  <para style="q1" vid="JDG 5:24">ዱንካነን ደእያ ማጫሳ ኡባፈ፥</para>
+  <para style="q2" vid="JDG 5:24">እያ አንጀትዳሮ ግዶ።<verse eid="JDG 5:24"/></para>
+  <para style="q1">
+    <verse number="25" style="v" sid="JDG 5:25"/>ስሳር እዮ ሃ ኦይችን ማ እማሱ፤</para>
+  <para style="q2" vid="JDG 5:25">ሎኦ ኦጎሮን መቅዳ ማ ኤሀሱ።<verse eid="JDG 5:25"/></para>
+  <para style="q1">
+    <verse number="26" style="v" sid="JDG 5:26"/>ባ ሀድርሳ ኩሸን ዱንካነ ሸ፥</para>
+  <para style="q2" vid="JDG 5:26">ባ ኡሻቻ ኩሸን</para>
+  <para style="q2" vid="JDG 5:26">ኦሳንቾታ ናርቃ ኦይካሱ።</para>
+  <para style="q1" vid="JDG 5:26">ስሳራ ሁጰን ሻሱ፤</para>
+  <para style="q2" vid="JDG 5:26">እያ ሀይ ካረራ ካን ከሳሱ።<verse eid="JDG 5:26"/></para>
+  <para style="q1">
+    <verse number="27" style="v" sid="JDG 5:27"/>እ ቶሁዋ ጋርሳን ኩንድስ፤</para>
+  <para style="q2" vid="JDG 5:27">እ ቶሁዋ ማታን ዞሄትስ።</para>
+  <para style="q1" vid="JDG 5:27">እ ቶሁዋ ጋርሳን ኩንድስ፤</para>
+  <para style="q2" vid="JDG 5:27">ሄ ኩንድዳ በሳን ሀይቅስ።<verse eid="JDG 5:27"/></para>
+  <para style="q1">
+    <verse number="28" style="v" sid="JDG 5:28"/>ስሳራ አይያ ማስኮተራ ካረ ፄላሱ፤</para>
+  <para style="q2" vid="JDG 5:28">“ታ ናኣ ፓራ ጋረይ አይስ ጋምእዴ?</para>
+  <para style="q1" vid="JDG 5:28">ፓራት አይስ ኤለስድ ስምቦኮና?”</para>
+  <para style="q2" vid="JDG 5:28">ያጋዳ ባና ኦይቻሱ።<verse eid="JDG 5:28"/></para>
+  <para style="q1">
+    <verse number="29" style="v" sid="JDG 5:29"/>እ ጭንጫ ማጫሳት እ ኦይሻ ዛርዶሶና፤</para>
+  <para style="q2" vid="JDG 5:29">ሽን እያ ባ ቆፋን ዛራ ዛራዳ ያጋሱ።<verse eid="JDG 5:29"/></para>
+  <para style="q1">
+    <verse number="30" style="v" sid="JDG 5:30"/>“ኤንቲ ድኦ ደምድ ሻከቶና አጎኮና፤</para>
+  <para style="q2" vid="JDG 5:30">እስ እስ አደስ ኢስ ገላኦይ ዎይኮ</para>
+  <para style="q2" vid="JDG 5:30">ናምኡ ጌላኦት ጋኮና አገና።</para>
+  <para style="q1" vid="JDG 5:30">ኤንቲ ስሳራስ ሎእያ ማኦ እማና፤</para>
+  <para style="q2" vid="JDG 5:30">ታዉካ ቆን ማእያ፥</para>
+  <para style="q2" vid="JDG 5:30">አሌቀትዳ ማኦ ኤሀና” ያጋሱ።<verse eid="JDG 5:30"/></para>
+  <para style="q1">
+    <verse number="31" style="v" sid="JDG 5:31"/>አቤት ጎዳዉ፥ ነ ሞርከት ኡባይ ሀይሳዳ ሀይቆ፤</para>
+  <para style="q2" vid="JDG 5:31">ሽን ነና ዶሰይሳት ዎንታ ፃልቀዳ ጶሎ።</para>
+  <para style="p" vid="JDG 5:31">ሄሳፈ ጉየ፥ ቢታይ ኦይታሙ ላይ ዎፑ ግድ ደእስ።<verse eid="JDG 5:31"/></para>
+  <chapter eid="JDG 5"/>
+  <chapter number="6" style="c" sid="JDG 6"/>
+  <para style="s1">ገድዮና</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 6:1"/>እስራኤለ አሳይ ጎዳ ስንን ዛሪድ ኢታባ ኦዶሶና። ሄሳ ግሾ፥ ጎዳይ ኤንታ ምድያመ አሳስ አድ እምን ላፑን ላይ ኤንታ ሃርዶሶና። <verse eid="JDG 6:1"/><verse number="2" style="v" sid="JDG 6:2"/>ምድያመ አሳይ እስራኤለ አሳ ኡንኤን፥ ኤንታፈ አታናዉ ደረ ቦላ፥ ጎንጎሎንነ ሆምኦን ባንታ ካ ቆስዶሶና። <verse eid="JDG 6:2"/><verse number="3" style="v" sid="JDG 6:3"/>እስራኤለ አሳይ ካ ዘርያ ዎደ ኡባን፥ ምድያመ አሳይ አማለቃ አሳራነ ዶሎሀ ባጋ አሳራ ይድ ኤንታ ኦሎሶና። <verse eid="JDG 6:3"/><verse number="4" style="v" sid="JDG 6:4"/>ኤንቲ ሄ ቢታን ዱንካንድ፥ ጋዛ ጋካናዉ፥ ቢታ ቦላ ዶልዳባ ኡባ ይሶሶና። ዶርሰ፥ መሄነ ሀረ ላግድ ኤፍያ ግሾ፥ እስራኤለ አሳስ አይባካ አሾኮና። <verse eid="JDG 6:4"/><verse number="5" style="v" sid="JDG 6:5"/>ባንታ መህያነ ባንታ ዱንካንያ ኤክድ፥ ቦለይ ያዳ ዳርድ ዮሶና። ኤንታነ ኤንታ ግማለታ ታይባናዉ ዳንዳኤተና፤ ኤንቲ ይሸ ቢታ ይሶሶና። <verse eid="JDG 6:5"/><verse number="6" style="v" sid="JDG 6:6"/>እስራኤለ አሳይ ምድያመታ ጋሶን ዳሮ መቶትዶሶና፤ ማደ ደማናዉ ጎዳኮ ዋስዶሶና።<verse eid="JDG 6:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JDG 6:7"/>ምድያመታ ጋሶን እስራኤለ አሳይ ጎዳኮ ዋስዳ ዎደ፥ <verse eid="JDG 6:7"/><verse number="8" style="v" sid="JDG 6:8"/>ጎዳይ ኤንታዉ እስ ናበ ኪትን፥ ናበይ ኤንታኮ፥ “ጎዳይ እስራኤለ ፆሳይ ሀይሳዳ ያጌስ፤ ግብፀፈ፥ አይለተ ቢታፈ ታ ህንተና ከሳስ። <verse eid="JDG 6:8"/><verse number="9" style="v" sid="JDG 6:9"/>ታኒ ህንተና ግብፀ አሳ ኩሸፐነ ኡንኤያ አሳ ኡባ ኩሸፐ አሻስ። ህንተ ስንፈ ኡንኤያ አሳ ጎዳዳ ኤንታ ቢታ ህንተዉ እማስ። <verse eid="JDG 6:9"/><verse number="10" style="v" sid="JDG 6:10"/>ታኒ ህንተና፥ ‘ታኒ ጎዳ ህንተ ፆሳ፤ ህንተ ኤንታ ቢታ ላትዳ አሞረታ ፆሳታ ጎይኖፍተ’ ያጋስ። ሽን ህንተ ታ ቃላ ስኦና እፅደታ” ያግስ።<verse eid="JDG 6:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JDG 6:11"/>ሄሳፈ ጉየ፥ ጎዳ ኪታንቾይ ኦፍራ ጌተትያ በሳን ደእያ አበዜራ አድያ እዮኣሳ ዎላ ጋርሳን ኡትስ። ሄ ዎደ እዮኣሳ ናአይ ገድዮን ምድያመ አሳፐ ቆሰተድ ዎይነ ጉምእያ በሳን ግስተ ቡኬስ። <verse eid="JDG 6:11"/><verse number="12" style="v" sid="JDG 6:12"/>ያን ጎዳ ኪታንቾይ እያዉ ቆንጭድ፥ “ላ ነኖ፥ ምኖ ኦላንቻዉ፥ ጎዳይ ኔራ ደኤስ” ያግስ።<verse eid="JDG 6:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JDG 6:13"/>ገድዮን፥ “ታ ጎዳዉ፥ ጎዳይ ኑራ ደእያባ ግድኮ ሀ መቶ ኡባይ ኑና አይስ ጋክዴ? ኑ አዋት፥ ‘ጎዳይ ኑና ግብፀ ቢታፈ ከስስ’ ያግድ ኑስ ኦድዳ ማላልስያ እያ ኦሶት ኡባይ አዉን ደኢ? ሽን ሀእ ጎዳይ ኑና ኩመ አግስ፤ ምድያመ አሳስ አድ እሚስ” ያግስ።<verse eid="JDG 6:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JDG 6:14"/>ሄሳፈ ጉየ ጎዳይ እያኮ ስሚድ፥ “ነዉ ደእያ ሀ ዎልቃን ባዳ እስራኤለ አሳ ምድያመ ኩሸፐ አሻ። ነና ኪተይ ታና” ያግስ።<verse eid="JDG 6:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="JDG 6:15"/>ገድዮን ዛሪድ፥ “አቤት ጎዳዉ፥ ታኒ እስራኤለ አሳ ዋታዳ አሾ? ታ ያራይ ምናሰ ኮቻ ኡባፈ አዳ ላፋ፤ ታኒ ታ አዋ ሶ አሳ ኡባፈ ጉ” ያግስ።<verse eid="JDG 6:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JDG 6:16"/>ጎዳይ፥ “ታኒ ኔራ ግዳና፤ እስ አስ ሾጭያ መላ ኔኒ ምድያመ አሳ ሾጫዳ ፆናና” ያግስ።<verse eid="JDG 6:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JDG 6:17"/>ገድዮን፥ “ኔኒ ታናን ኡፋይትያባ ግድኮ፥ ቱማ ታራ ኦደተይ ኔኒ ጎዳ ግድኮ፥ ነና ኤርስያ ማላ ታና በሳ። <verse eid="JDG 6:17"/><verse number="18" style="v" sid="JDG 6:18"/>ታኒ ጉየ ስማ ባዳ ታ ያርሹዋ ኤሀና ጋካናዉ ሀያና ሀይሳፈ ቦፓ” ያግስ።</para>
+  <para style="p" vid="JDG 6:18">ጎዳይ፥ “ኔኒ ስማና ጋካናዉ ታኒ ሀይሳን ናጋና” ያግስ።<verse eid="JDG 6:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JDG 6:19"/>ገድዮን ሶ ገልድ፥ ኡርገ ዴሽ ሹክድ ካስ፤ ታሙ ክሎ ግራመ ግድያ ለ ኤክድ ኡይ ኡክስ። አሹዋ ጋይታን ዎድ፥ ጫምባ ሻተን ትግድ፥ ዎላ ጋርሳን ኡትዳ ጎዳ ኪታንቹዋስ ሺሽስ። <verse eid="JDG 6:19"/><verse number="20" style="v" sid="JDG 6:20"/>ፆሳ ኪታንቾይ፥ “አሹዋነ ኡይ ሀ ሹቻ ቦላ ዎ፤ ጫምባ እያ ቦላ ትጋ” ያግስ። ገድዮን ኪተትዳይሳዳ ኦስ። <verse eid="JDG 6:20"/><verse number="21" style="v" sid="JDG 6:21"/>ጎዳ ኪታንቾይ ባ ኩሸን ኦይክዳ ፃምኣ ፄራን አሹዋነ ኡይ ቦችን ታም ሹቻ ግዶፈ ከይድ፥ አሹዋነ ኡይ ምስ። ሄሳፈ ጉየ፥ ጎዳ ኪታንቾይ እያ ስንፈ ጌምስ።<verse eid="JDG 6:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JDG 6:22"/>ገድዮን በእዳይ ጎዳ ኪታንቹዋ ግደይሳ አኬክዳ ዎደ፥ “ጎዳ ፆሳዉ ታና አየ! ታኒ ጎዳ ኪታንቹዋ ታ አይፈን በአስ” ያግስ።<verse eid="JDG 6:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JDG 6:23"/>ሽን ጎዳይ፥ “ሳሮይ ነዉ ግዶ፤ ያዮፋ! ነ ሀይቃካ” ያግስ። <verse eid="JDG 6:23"/><verse number="24" style="v" sid="JDG 6:24"/>ገድዮን ጎዳስ ያርሾ በሲ ያን ጊግስድ፥ “ጎዳይ ሳሮ ፆሲ” ያግድ ፄግስ። ሄ ያርሾ በሳይ አብኤዜራ ኮቻባ ግድዳ ኦፍራን ሀች ጋካናዉ ኤቅድ ደኤስ።<verse eid="JDG 6:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JDG 6:25"/>ሄ ቃማ ጎዳይ ገድዮናኮ፥ “ነ አዋ ኮርማታፐ ላፑን ላይ ግድዳ ሎኦ ኮርማ ኤካ። ነ አዋይ ባኣለ ኤቃስ ያርሽያ በሳ ላላ፤ እያ ማታን ደእያ አሼራ ኤቃ ምስልያ መንረ የጋ። <verse eid="JDG 6:25"/><verse number="26" style="v" sid="JDG 6:26"/>ሀ ዙማ ሁጰን ጎዳስ ነ ፆሳስ፥ ሹቻን ያርሾ በሲ ሎይዳ ጊግሳ። ሄሳፈ ጉየ፥ ኔኒ መንረዳ አሼራ ኤቃ ምስልያ ቀረ ኤዳ፥ ሄ ኮርማ ፁሳ ያርሾ ኦዳ ያርሻ” ያግስ። <verse eid="JDG 6:26"/><verse number="27" style="v" sid="JDG 6:27"/>ገድዮን ባ ኦሳንቾታፐ ታማታ ኤክድ፥ ጎዳይ እያዉ ኦድዳይሳዳ ኦስ። ሽን እ ባ አዋ ሶ አሳስነ ካታማን ደእያ አሳስ ያይዳ ግሾ ጋላስ ኦናይሳ አግድ ቃማ ኦስ።<verse eid="JDG 6:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JDG 6:28"/>ዎንታ ጉራ ካታማ አሳይ ደንድያ ዎደ ባኣለ ኤቃ ያርሾ በሳይ ላለትን፥ እያ ማታን ደእያ አሼራ ምስለይ መቅድ ዎዳይሳ በእዶሶና። ቃስ ሄ በሳን ያርሾ በሲ ጊግዳይሳነ እያ ቦላ ኮርማ ያርሽዳይሳ በእዶሶና። <verse eid="JDG 6:28"/><verse number="29" style="v" sid="JDG 6:29"/>ኤንቲ እሶይ እሱዋ፥ “ላ ሀይሳ ኦዳይ ኦኔ?” ያግድ ኦይችዶሶና። ኤንቲ ሄሳ ፕልግድ በእዳ ዎደ ሄሳ ኦዳይ እዮኣሳ ናኣ ገድዮና ግደይሳ ኤርዶሶና። <verse eid="JDG 6:29"/><verse number="30" style="v" sid="JDG 6:30"/>ሄሳፈ ጉየ፥ ካታማ አሳይ እዮኣሳኮ፥ “ባኣለ ያርሾ በሳ ላልዳ ግሾነ እያ ማታን ደእያ አሼራ ምስልያ መንረድ የግዳ ግሾ ነ ናኣ ሃ ከሳ፤ ኑ እያ ዎና” ያግዶሶና።<verse eid="JDG 6:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="JDG 6:31"/>ሽን እዮኣስ ባ ቦላ ደንድዳ አሳኮ፥ “ህንተ ባኣለስ ሞተተቲ? ዎይኮ ህንተ እያ አሻናዉ ኮዬቲ? ህንተ ግዶፈ እያዉ ሞተትያ አስ ደእኮ፥ ሳእ ዎንታናዉ እ ሀይቆ። ባኣለይ ፆሰ ግድኮ ባ ያርሾ በሳ ላልዳይሳራ እ ባዉ ሞተቶ” ያግስ። <verse eid="JDG 6:31"/><verse number="32" style="v" sid="JDG 6:32"/>ሄ ጋላስ እዮኣስ፥ “ላለትዳይ እያ ያርሾ በሳ ግድያ ግሾ እያራ ባኣለይ ሞተቶ” ያግድ ገድዮና የሩባኣላ ግድ ሱንስ።<verse eid="JDG 6:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="JDG 6:33"/>ሄሳፈ ጉየ፥ ምድያመ፥ አማለቃነ ዶሎሀ ባጋ ቢታ አሳይ እስፈ ሺቅድ፥ ዮርዳኖሰ ሻፋ ፕንድ እዝራኤላ ዛንጋራን ዱንካንዶሶና። <verse eid="JDG 6:33"/><verse number="34" style="v" sid="JDG 6:34"/>ጎዳ አያናይ ገድዮና ቦላ ዎን አብኤዘራ ኮች ግድዳ አሳ ኡባይ ባና ካላና መላ ኤንታ ፄጋናዉ ሞይዘ ፑንስ። <verse eid="JDG 6:34"/><verse number="35" style="v" sid="JDG 6:35"/>ምናሰ ኮቻ ኡባስ ኪታ የድድ፥ ባና ካላና መላ ኤንታ ፄግስስ። ቃስ አሴራ፥ ዛብሎናነ ንፍታለመ ኮቻታስ ኪታ የድን፥ ኤንቲ እያራ ኦላስ ባናዉ ከይዶሶና።<verse eid="JDG 6:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="JDG 6:36"/>ገድዮን ፆሳኮ፥ “ነ ታዉ ቃላ ገልዳይሳዳ እስራኤለ አሳ አሻናዉ ታና ዶርዳባ ግድኮ፥ <verse eid="JDG 6:36"/><verse number="37" style="v" sid="JDG 6:37"/>ሄኮ፥ ታኒ ግስተ ቡክያ ዉዱማን ፓደትዳ ዶርሰ እክሰ ዎና። ሀራ ቢታ ኡባይ መላ ግድድ ሄ እክስያ ቦላ ፃላላ አክ ዎኮ ነ ኦድዳይሳዳ እስራኤለ አሳ ታ ኩሸን አሻናይሳ ታ ኤራና” ያግስ። <verse eid="JDG 6:37"/><verse number="38" style="v" sid="JDG 6:38"/>እ ግዳይሳዳ ሀንስ። ዎንተ ጋላስ ዎንታ ጉራ ደንድድ፥ ዶርሳ እክስያ ጉምእዳ ዎደ እስ ፃሮ ግድያ ሃ እያፐ ከይስ።<verse eid="JDG 6:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="JDG 6:39"/>ቃስ ገድዮን፥ “ሀያና ሀንቀቶፋ፤ ታኒ ነና ጉጃዳካ ሀራ ኦይሾ ኦይቻና። ዶርሳ እክስያ ቦላ ሀራ ማላ በሳና መላ ኦይቻይስ። ሀእ ዶርሳ እክሰይ መላ ግድን ዩሹዋን ደእያ ቢታይ አካትድ ላካናዳ ኦ” ያግስ። <verse eid="JDG 6:39"/><verse number="40" style="v" sid="JDG 6:40"/>ሄ ቃማ ፆሳይ ሄ ማላ ኦስ። ዎንተ ጋላስ ዶርሳ እክሰይ መላ ግድን ቢታ ኡባይ አካትድ ላክስ።<verse eid="JDG 6:40"/></para>
+  <chapter eid="JDG 6"/>
+  <chapter number="7" style="c" sid="JDG 7"/>
+  <para style="s1">ገድዮን ምድያመ ፆኑዋ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 7:1"/>ዎንተ ጋላስ የሩባኣላ ጌተትያ ገድዮንነ እያራ ደእያ አሳ ኡባይ ዎንታ ጉራ ደንድድ ብድ፥ ሀሮዳ ፑልቱዋ ማታን ዱንካንዶሶና። ምድያመ አሳይ ኤንታፈ ፑደሀ ባጋራ ሞረ ዙማ ማታን ደእያ ዛንጋራን ዱንካንዶሶና። <verse eid="JDG 7:1"/><verse number="2" style="v" sid="JDG 7:2"/>ጎዳይ ገድዮናኮ፥ “ኔራ ደእያ አሳይ ዳሮ ግድያ ግሾነ እስራኤለ አሳይ፥ ‘ኑኒ ኑ ዎልቃን ፆንዳ’ ግድ ታ ቦላ ጬቀቶና መላ ታኒ ምድያመታ ህንተ ኩሸን አዳ እምከ። <verse eid="JDG 7:2"/><verse number="3" style="v" sid="JDG 7:3"/>ሄሳ ግሾ፥ አሳኮ፥ ‘ያይያ አስ ደእኮ ጋላዳ ዙማፐ ስሚድ ጉየ ባ ሶ ሶ ቦ’ ያጋዳ አዋጃ” ያግስ። ያትን፥ ላታማነ ናምኡ ሙኩሉ አሳይ ጉየ ስምን ታሙ ሙኩሉ አስ አትስ።<verse eid="JDG 7:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JDG 7:4"/>ግዶሽን፥ ጎዳይ ገድዮናኮ፥ “ሀእካ አሳይ ዳሮ። ነ ኤንታ ኤካዳ ዱገ ሻፋ ዎ፤ ታኒ ኤንታ ያን ፓጫና። ታኒ፥ ‘ሀይስ ኔራ ቦ’ ገይስ ኔራ ቦ፤ ታኒ፥ ‘ሀይስ ኔራ ቦፖ’ ገይስ ቦፖ” ያግስ።<verse eid="JDG 7:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JDG 7:5"/>ገድዮን አሳ ሻፉ ኤክድ ብስ። ጎዳይ እያኮ፥ “ሀ አሳ ግዶፈ ጉልባትድ ሃ ኡየይሳታነ ካናዳ ሃ እንፃርሳን ኡየይሳታ ሻካ” ያግስ። <verse eid="JDG 7:5"/><verse number="6" style="v" sid="JDG 7:6"/>ባንታ ኩሸን ሃ ኡየይሳታ ታይቦይ ሄ ፄታ፤ ሽን አትዳይሳት ኡባይ ሃ ጉልባትድ ኡይዶሶና።<verse eid="JDG 7:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JDG 7:7"/>ጎዳይ ገድዮናኮ፥ “ባንታ ኩሸን ሃ ኮጰትድ ኡይዳ ሄ ፄቱ አሳታን ታኒ ህንተና አሻና፤ ምድያመታ ህንተዉ አዳ እማና። ሽን አትዳ አሳ ኡባይ ባ ሶ ሶ ስሞ” ያግስ። <verse eid="JDG 7:7"/><verse number="8" style="v" sid="JDG 7:8"/>ሄሳ ግሾ፥ ገድዮን አሳታ ሽንቅያነ ኤንታ ሞይዝያ ኤክዳ ሄ ፄቱ አሳታ ባራ አሽድ፥ ሀንኮ አሳ ኡባ ኤንታ ሶ ሶ የድስ። ሀ ኡባይ ሀንያ ዎደ ምድያመ ኦላንቾት ኤንታፈ ጋርሳ ባጋራ ደእያ ዛንጋራን ዱንካንድ ኡትዶሶና። <verse eid="JDG 7:8"/><verse number="9" style="v" sid="JDG 7:9"/>ሄ ቃማ ጎዳይ ገድዮናኮ፥ “ታኒ ነዉ አዳ እምዳ ግሾ ደንዳዳ ኤንቲ ዱንካንዳ በሳን ደእሽን ኦላ። <verse eid="JDG 7:9"/><verse number="10" style="v" sid="JDG 7:10"/>ኔኒ ኤንታ ኦላናዉ ያይኮ ነ ኦሳንቹዋ ፑራ ኤካዳ ኤንቲ ዱንካንዳ በሳ ዱገ ዎ። <verse eid="JDG 7:10"/><verse number="11" style="v" sid="JDG 7:11"/>ኤንቲ ግያባ ስአ። ሄሳፈ ጉየ፥ ኔኒ ኤንታ ኦላናዉ ምኖተ ደማና” ያግስ።</para>
+  <para style="p" vid="JDG 7:11">ገድዮንነ እያ አይለይ ፑር፥ ምድያመት ዱንካንዳ በሳ ማታን ናግያ ኦላንቾታኮ ብዶሶና። <verse eid="JDG 7:11"/><verse number="12" style="v" sid="JDG 7:12"/>ሄ ዎደ ቦለዳ ዳርዳ ምድያመት፥ አማለቃትነ ዶሎሀ ባጋ አሳ ኡባይ ዛንጋራን ዱንካንድ ኡትዶሶና። ኤንታ ግማለት አባ ጋፃን ደእያ ሻፈ መላ ታይባናዉ ዳንዳኤተና።<verse eid="JDG 7:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JDG 7:13"/>ገድዮን ያ ጋክያ ዎደ እስ አደይ ባ አሙሁዋ ባ ላግያስ ኦድሽን ስእስ። ሄስካ፥ “እስ ባንጋ ኡይ ኦኮለት ጋክድ ምድያመታ ዱንካንያ ዶምእስ፤ ዱንካነይ ሽረት ዎድ ምጨትስ” ያግስ።<verse eid="JDG 7:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JDG 7:14"/>እያ ላገይ ዛሪድ፥ “ሄስ እስራኤለ አድያ፥ እዮኣሳ ናኣ ገድዮና ማሻፈ አትሽን፥ ሀራባ ግደና። ፆሳይ ምድያመነ ምድያመታራ ደእያ ኦላንቾታ ኡባ ገድዮናስ አድ እሚስ” ያግስ።<verse eid="JDG 7:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="JDG 7:15"/>ገድዮን ሄ አሙሁዋነ እያ ብርሸ ስእዳ ዎደ ጉልባትድ ፆሳ ጎይንስ። እስራኤለ አሳይ ዱንካንዳ በሳ ጉየ ስሚድ፥ “ደንድተ፤ ጎዳይ ምድያመ ኦላንቾታ ህንተ ኩሸን አድ እሚስ” ያግስ። <verse eid="JDG 7:15"/><verse number="16" style="v" sid="JDG 7:16"/>ሄ ፄቱ አሳታ ሄ ጩጋን ሻክድ ኤንታዉ ሁጰን ሁጰን እስ እስ ሞይዘነ ግዶን ኤፅያ ፆምፐይ ደእያ እስ እስ ፃሮ እሚስ። <verse eid="JDG 7:16"/><verse number="17" style="v" sid="JDG 7:17"/>ገድዮን ኤንታኮ፥ “ታና ፄልተ፤ ታኒ ኤንቲ ዱንካንዳ በሳ ጋክያ ዎደ ኦይሳዳ ህንተካ ኦተ። <verse eid="JDG 7:17"/><verse number="18" style="v" sid="JDG 7:18"/>ታነ ታራ ደኤይሳት ኡባይ ሞይዘ ፑንይ ዎደ ህንተካ ኤንቲ ዱንካንዳ በሳ ዩሹዋን ኤቅድ ሞይዘ ፑንሸ፥ ‘ጎዳሳነ ገድዮናሳ’ ያግድ ዋስተ” ያግስ።<verse eid="JDG 7:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JDG 7:19"/>ግድ ብላሄ ግድያ ዎደ ናገይሳት ላመትዳፐ ጉየ ገድዮንነ እያራ ደእያ ፄቱ አሳት ብድ፥ ምድያመት ዱንካንዳ በሳ ጋክድ ባንታ ሞይዝያ ፑንዶሶና፤ ኦይክዳ ፃሩዋ መንዶሶና። <verse eid="JDG 7:19"/><verse number="20" style="v" sid="JDG 7:20"/>ሀራ ባጋራ ደእያ ናምኡ ጩጋይ ሄሳዳ ኦዶሶና። ባንታ ሀድርሳ ኩሸን ኤፅያ ፆምፐ፥ ባንታ ኡሻቻ ኩሸን ሞይዘ ኦይክድ፥ “ጎዳነ ገድዮና ማሻ” ያግድ ዋስዶሶና። <verse eid="JDG 7:20"/><verse number="21" style="v" sid="JDG 7:21"/>አሳ ኡባይ ምድያመት ዱንካንዳ በሳ ዩሾን ባ በሳን በሳን ኤቅዳሽን፥ ምድያመ ኦላንቾት ኡባይ ዋስሸ ባቃትዶሶና። <verse eid="JDG 7:21"/><verse number="22" style="v" sid="JDG 7:22"/>ሄ ፄቱ አሳይ ባንታ ሞይዝያ ፑንዳ ዎደ ሞርከ ኦላንቾት ባንታ ማሻ እሶይ እሱዋ ቦላ ደንና መላ ጎዳይ ኦስ። አትዳ ኦላንቾት ፃራራኮ ስሚድ ቤት-ሽፃ ጋካናዉ፥ ያፐ አድ፥ ፃባታ ማታን ደእያ አቤል-ማሆላ ጋካናዉ ባቃትዶሶና። <verse eid="JDG 7:22"/><verse number="23" style="v" sid="JDG 7:23"/>ሄሳፈ ጉየ ንፍታለመ፥ አሴራነ ምናሰ ኮቻት ፄገትድ፥ ሺቅድ ምድያመታ የደዶሶና። <verse eid="JDG 7:23"/><verse number="24" style="v" sid="JDG 7:24"/>ደረይ ዳርያ ኤፍሬማ ቢታን ደእያ አሳኮ ገድዮን ኪትድ፥ “ምድያመታ ኦላናዉ ዱገ ዎድ ቤት-ባራ ጋካናዉ ደእያ ዮርዳኖሰን ገልያ ሻፋታ ኤንታፈ ካሰትድ ኦይክተ” ያግስ። ኤፍሬማ አሳ ኡባይ ፄገትድ፥ ሺቅድ ቤት-ባራ ጋካናዉ ዮርዳኖሰን ገልያ ሻፋታ ኦይክዶሶና። <verse eid="JDG 7:24"/><verse number="25" style="v" sid="JDG 7:25"/>ኤንቲ ኦሬባነ ዘባ ጌተትያ ናምኡ ምድያመ ሀላቃታ ድእዶሶና። ኦሬባ፥ “ኦሬባ ዛላ” ጌተትያ በሳን፥ ቃስ ዘባ፥ “ዘባ ዎይነ ጉምእያ በሲ” ጌተትያ በሳን ዎዶሶና። ሄሳፈ ጉየ፥ አትዳ ምድያመታ የደድ፥ ኦሬባነ ዘባ ቆያ ቃንፅድ ኤንታ ሁጵያ፥ ዮርዳኖሰ ሻፋፐ ሄፍንን ደእያ ገድዮናኮ ኤህዶሶና።<verse eid="JDG 7:25"/></para>
+  <chapter eid="JDG 7"/>
+  <chapter number="8" style="c" sid="JDG 8"/>
+  <para style="s1">ዛብሄላነ ስልማና</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 8:1"/>ኤፍሬማ አሳይ ገድዮናኮ፥ “ምድያመታ ኦላናዉ ባሸ ኑና አይስ ፄጋብኪ? ኑ ቦላ ሄሳ መላባ አይስ ኦዲ?” ያግድ ይሎትዶሶና።<verse eid="JDG 8:1"/></para>
+  <para style="p">
+    <verse number="2" style="v" sid="JDG 8:2"/>ሽን ገድዮን፥ “ህንተ ኦዳይስ ታ ኦዳይሳፈ አኔ? ታ ኮቻይ አብኤዘር ሺሽዳ ካፈ ህንተ ኤፍሬማ ኮቻት ቆርዳ ቡይ አኔ? <verse eid="JDG 8:2"/><verse number="3" style="v" sid="JDG 8:3"/>ምድያመ ሀላቃታ፥ ኦሬባነ ዘባ ፆሳይ ህንተ ኩሸን አድ እሚስ። ህንተ ኦዳይሳ መላ ታኒ አይ ኦናዉ ዳንዳእያና?” ያግስ። እ ያግን ኤንቲ ዛርብዶሶና።<verse eid="JDG 8:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JDG 8:4"/>ገድዮንነ እያራ ደእያ ሄ ፄቱ አሳይ ዮርዳኖሰ ሻፋ ፕንዶሶና። ኤንቲ አይ ዳቡርኮካ ባንታ ሞርከታ የደ አግቦኮና። <verse eid="JDG 8:4"/><verse number="5" style="v" sid="JDG 8:5"/>ኤንቲ ሱኮታ ጋክዳ ዎደ ገድዮን ሄ ካታማ አሳኮ፥ “ታ አሳይ ዳቡርዳ ግሾ፥ ሀያና ጉ ካ እመርከት። ታኒ ምድያመ ካዎታ ዘባነ ሳልሞና የደሸ ደአይስ” ያግስ።<verse eid="JDG 8:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JDG 8:6"/>ሱኮታ ካታማ ሀላቃት፥ “ዘባነ ሳልሞና ኔኒ ድአባካሽን ነ ኦላንቾታስ አይስ ካ እማኔ?” ያግዶሶና።<verse eid="JDG 8:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JDG 8:7"/>ገድዮን፥ “ሎኦ አይኮይ ባዋ፤ ጎዳይ ዘባነ ሳልሞና ታ ኩሸን አድ እምያ ዎደ ታኒ ባዞ አጉንንነ ፁንዱቀን ህንተና ዋና” ያግስ። <verse eid="JDG 8:7"/><verse number="8" style="v" sid="JDG 8:8"/>ያፐ ደንድድ ፓኑኤላ ብድ፥ ያን ደእያ አሳካ ሄ ኦይሻ ኦይችን፥ ፓኑኤላ አሳይ ሱኮታ አሳይ ዛርዳይሳዳ ዛርዶሶና። <verse eid="JDG 8:8"/><verse number="9" style="v" sid="JDG 8:9"/>እ ፓኑኤላ አሳኮ፥ “ታኒ ፆናዳ ሳሮ ስምያ ዎደ ህንተ ካታማ ናግያ ሀ አዱሳ ግምብያ ላላና” ያግስ።<verse eid="JDG 8:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JDG 8:10"/>ሄ ዎደ ዘብነ ሳልሞን ዶሎሀ ባጋፈ ይዳ ኦላንቾታፐ አትዳ 15,000 ኦላንቾታራ ቃርቆራን ደኦሶና። ኤንታፈ 120,000 ኦላንቾት ኦላን ሀይቅዶሶና። <verse eid="JDG 8:10"/><verse number="11" style="v" sid="JDG 8:11"/>ገድዮን ኖባፐነ ዮግባፐ ዶሎሀ ባጋን ደእያ ባዞ ኦግያራ ብድ፥ ያን ደእያ ኦላንቾት ቆፖና ደእሽን ኦላ ደንስ። <verse eid="JDG 8:11"/><verse number="12" style="v" sid="JDG 8:12"/>ናምኡ ምድያመ ካዎት ዘብነ ሳልሞን ባቃትዶሶና፤ ሽን ገድዮን ኤንታ የደ ጋክድ ድእስ። ኤንታ ኦላንቾት ኡባይ ዎልቃማ ዳጋማን ኩንድዶሶና። <verse eid="JDG 8:12"/><verse number="13" style="v" sid="JDG 8:13"/>እዮኣሳ ናአይ ገድዮን ሄሬሳ ባጋራ ኦላፐ ስምስ። <verse eid="JDG 8:13"/><verse number="14" style="v" sid="JDG 8:14"/>ሱኮታፐ እስ ናአተ ናኣ ኦይክድ ኦይችስ። ሄ ናአይ ላፑን ታማነ ላፑን ሱኮታ ሀላቃታነ ጭማታ ሱን ፃፍድ እያዉ እሚስ። <verse eid="JDG 8:14"/><verse number="15" style="v" sid="JDG 8:15"/>ሄሳፈ ጉየ፥ ገድዮን ሱኮታ ይድ፥ “ ‘ዘባነ ሳልሞና ኔኒ ድአባካሽን፥ ዳቡርዳ ነ አሳስ አይስ ካ እማኔ?’ ግድ ታ ቦላ ቀልቅስደታ፤ ሽን ዘባነ ሳልሞና ሀይሳ በእተ” ያግስ። <verse eid="JDG 8:15"/><verse number="16" style="v" sid="JDG 8:16"/>ገድዮን ባዞ አጉንነ ፁንዱቀ ኤክድ ሱኮታ ሀላቃታ ዋስ። <verse eid="JDG 8:16"/><verse number="17" style="v" sid="JDG 8:17"/>ቃስ ፓኑኤላን ካታማ አዱሳ ግምበ ሻኩዋ ላልድ ካታማን ደእያ አደታ ዎስ።<verse eid="JDG 8:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JDG 8:18"/>ያትድ ገድዮን ዘባነ ሳልሞና፥ “ህንተ ታቦረን አይ መላ አስ ዎደቲ?” ያግድ ኦይችስ።</para>
+  <para style="p" vid="JDG 8:18">ኤንቲ፥ “ነ መላ አስ፤ ኤንቲ ካዎ ናአ ዳኖሶና” ያግድ ዛርዶሶና።<verse eid="JDG 8:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JDG 8:19"/>ገድዮን፥ “ኤንቲ ታ እሻታ፤ ኤንቲ ታ አየ ናይታ። ደኦ ፆሲ ኤርያ መላ ኤንታ ህንተ ዎናባ ግድያኮ ታ ህንተና ዎከሽን” ያግስ። <verse eid="JDG 8:19"/><verse number="20" style="v" sid="JDG 8:20"/>ባ ባይራ ናኣ የተራኮ፥ “ደንዳዳ፥ ሀይሳታ ዎ” ያግስ። የተር ቡሮ ዮጋ ግድያ ግሾ ያይድ ባ ማሻ ሾድቤና።<verse eid="JDG 8:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="JDG 8:21"/>ዘብነ ሳልሞን ገድዮናኮ፥ “ህዛ ነ ኑና ዎ፤ አደ ኦሶ ኦናዉ አደ ኮሼስ” ያግዶሶና። ያትን፥ ገድዮን ኤንታ ዎስ፤ ኤንታ ግማለታ ቆን ደእያ አሌቆ ኡባ ኤክስ።<verse eid="JDG 8:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JDG 8:22"/>እስራኤለ አሳይ ገድዮናኮ፥ “ኔኒ ኑና ምድያመታፐ አሽዳ ግሾ ኔኒ፥ ነ ናአይነ ነ ናኣ ናአይ ኑና ሃርተ” ያግስ።<verse eid="JDG 8:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JDG 8:23"/>ሽን ገድዮን፥ “ታኒ ህንተና ሃርከ፤ ታ ናአይካ ህንተና ሃረና፤ ጎዳይ ህንተና ሃራና” ያግስ። <verse eid="JDG 8:23"/><verse number="24" style="v" sid="JDG 8:24"/>እ ኤንታኮ፥ “ታ ህንተና እስባ ኦይቻይስ፤ ህንተ ኡባይ ድእድ ኤህዳ ሀይ ዎርቅያፈ ታዉ እምተ” ያግስ። (እስማኤላ አሳስ ሀይን ዎርቃ አሶይ ዎጋ።)<verse eid="JDG 8:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JDG 8:25"/>እስራኤለ አሳይ ዛሪድ፥ “ኤሮ፥ ኡፋይትድ እማና” ያግዶሶና። አፍላ ሂፅድ፥ አሳ ኡባይ ድእድ ኤህዳ ሀይ ዎርቅያ የግዶሶና። <verse eid="JDG 8:25"/><verse number="26" style="v" sid="JDG 8:26"/>ገድዮን ኤክዳ ሀይ ዎርቀይ ላታሙ ክሎ ግራመ ዴፄስ። ሄስካ፥ ሀራ አሌቆታ፥ ቆን አያ ጎዝዳታ፥ ምድያመ ካዎት ማእያ ኦቻ ቴራ ዳንያ ማኦታነ ኤንታ ግማለታ ቆያፐ ኤከትዳ አሌቆታ ጉጆናሽና። <verse eid="JDG 8:26"/><verse number="27" style="v" sid="JDG 8:27"/>ገድዮን ዎርቃ ኤቃ ምስልያ ጊግስድ፥ ባ ደእያ ኦፍራ ካታማን ዎስ። እስራኤለ አሳ ኡባይ ጎዳ አግድ ሄ ኤቃ ምስልያ ጎይንዶሶና፤ ሄስ ገድዮናስነ እያ ሶ አሳስ ፅሄ ግድስ።<verse eid="JDG 8:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JDG 8:28"/>ሄሳዳ ሀንድ፥ ምድያመ አሳይ እስራኤለ አሳስ ሃረትስ፤ ኤንቲ እስራኤለ አሳ ቦላ ናምአን ደንድቦኮና። ገድዮን ሀይቃና ጋካናዉ ኦይታሙ ላይ ቢታይ ዎፑ ግድ ደእስ።<verse eid="JDG 8:28"/></para>
+  <para style="s1">ገድዮና ሀይቁዋ</para>
+  <para style="p">
+    <verse number="29" style="v" sid="JDG 8:29"/>የሩባኣላ ጌተትያ ገድዮን፥ እዮኣሳ ናአይ ባ ሶ ስሚድ ደእስ። <verse eid="JDG 8:29"/><verse number="30" style="v" sid="JDG 8:30"/>ገድዮን ዳሮ ማቾ ኤክዳ ግሾ፥ እያዉ ላፑን ታሙ አደ ናይት የለትዶሶና። <verse eid="JDG 8:30"/><verse number="31" style="v" sid="JDG 8:31"/>ሴከማን ደእያ ላገያ እያዉ አደ ናኣ የልን፥ እያ ሱን አብመለከ<note caller="+" style="f"><char style="fr" closed="false">8:31 </char><char style="fq" closed="false">አብመለከ፦ </char><char style="ft" closed="false">ሀ ሱን ብርሸይ ታ አዋይ ካዎ ጉሱ።</char></note> ያግድ ሱንስ። <verse eid="JDG 8:31"/><verse number="32" style="v" sid="JDG 8:32"/>እዮኣሳ ናአይ ገድዮን ሎኦ ጭምድ ሀይቅስ፤ ባ አዋ እዮኣሳ ዱፎን ሞገትስ። ሄ ዱፎይ አበዜራ ኮቻት ደእያ ኦፍራን ደኤስ።<verse eid="JDG 8:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="JDG 8:33"/>ገድዮን ሀይቅዳፐ ጉየ፥ እስራኤለ አሳይ ጎዳ አግድ ባኣለ ፆሳታ ጎይንዶሶና። ባኣል-ብሪታ<note caller="+" style="f"><char style="fr" closed="false">8:33 </char><char style="fq" closed="false">ባኣል-ብሪታ፦ </char><char style="ft" closed="false">ሀ ሱን ብርሸይ ባኣለ ጫቆ ጉሱ።</char></note> ጌተትያ ኤቃ ባንታዉ ፆሰ ኦዶሶና። <verse eid="JDG 8:33"/><verse number="34" style="v" sid="JDG 8:34"/>እስራኤለ አሳይ ባንታ ዩሹዋን ደእያ ሞርከታ ኡባፈ ኤንታ አሽዳ ጎዳ ባንታ ፆሳ ሀሳይቦኮና። <verse eid="JDG 8:34"/><verse number="35" style="v" sid="JDG 8:35"/>እስራኤለ አሳስ ኦዳ ሎኦ ኦሱዋ ግሾ የሩባኣላ ጌተትያ ገድዮና ሶ አሳስ ሎኦ ኩሸ ዛርቦኮና።<verse eid="JDG 8:35"/></para>
+  <chapter eid="JDG 8"/>
+  <chapter number="9" style="c" sid="JDG 9"/>
+  <para style="s1">አብመለከ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 9:1"/>ገድዮና ናአይ፥ አብመለከይ ሴከማን ደእያ ባ አየ ዳቦታኮ ብድ፥ ኤንታነ ባ አየ ኮቻታ ሀይሳዳ ያግስ፤ <verse eid="JDG 9:1"/><verse number="2" style="v" sid="JDG 9:2"/>“ሴከማን ደእያ አሳ፥ ‘ገድዮና ላፑን ታሙ ናይት ኡባይ ህንተና ሃርኮ ሎኦዬ? ዎይኮ እስ አስ ሃርኮ ሎኦ?’ ያግድ ኦይችተ። ታኒ ህንተ አሾነ ህንተ መቀ ግደይሳ ዶጎፕተ” ያግስ።<verse eid="JDG 9:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="JDG 9:3"/>እያ አየ ዳቦት ሀ ቃላ ኡባ እያ ግሾ ሴከማ አሳስ ኦድን፥ አብመለከይ ኤንታዉ ዳቦ ግድዳ ግሾ ሴከማ አሳይ እያ ካላናዉ ዶስዶሶና። <verse eid="JDG 9:3"/><verse number="4" style="v" sid="JDG 9:4"/>ኤንቲ ባኣል-ብሪታ ኤቃ ኬፈ ላፑን ታሙ ብራ ሳንትመ ኤክድ እያዉ እምዶሶና።</para>
+  <para style="p" vid="JDG 9:4">አብመለከይ ሄ ብራን ኢታ አሳታነ ቦንቀይሳታ ሻምድ ባና ካላናዳ ኦስ። <verse eid="JDG 9:4"/><verse number="5" style="v" sid="JDG 9:5"/>ኦፍራን ደእያ ባ አዋ ሶ ብድ፥ ላፑን ታሙ ባ እሻታ ገድዮና ናይታ፥ እስ ሹቻ ቦላ ጎይርስ። ሽን ገድዮና ናአይ፥ ተሾይ፥ እዮአታም ቆሰትድ ሀይቆና አትስ። <verse eid="JDG 9:5"/><verse number="6" style="v" sid="JDG 9:6"/>ሄሳፈ ጉየ፥ ሴከማ አሳይነ ቤት-ምሎ አሳይ እስፈ ሺቅድ፥ ሴከማን ኤቃ ቱሳ ማታን ደእያ ጎይኖ ዎላኮ ብድ ያን አብመለከ ካዎዶሶና።<verse eid="JDG 9:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JDG 9:7"/>እዮአታም ሄሳ ስእዳ ዎደ ጋርዛና ደርያ ቦላ ከይድ ባ ቃላ ቁ ኦድ፥ “ህንተኖ ሴከማ አሳዉ፥ ፆሳይ ህንተና ስአና መላ ታ ኦደይሳ ስእተ። <verse eid="JDG 9:7"/><verse number="8" style="v" sid="JDG 9:8"/>እስ ጋላስ ምት ኡባይ ሺቅድ፥ ባንታ ቦላ ካዎ ካዎናዉ ብድ ሻማሆ፥ ‘ሃያ፥ ኑ ቦላ ካዎታ’ ያግዶሶና። <verse eid="JDG 9:8"/><verse number="9" style="v" sid="JDG 9:9"/>ሽን ሻማሆይ፥ ‘ፆሳታነ አሳታ ቦንችስያ ዛይተ እመይሳ አጋዳ ምታ ቦላ ካዎቶ?’ ያግድ ዛርስ።<verse eid="JDG 9:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JDG 9:10"/>“ያትን፥ ምት ባላሰ ም፥ ‘ሃያ፥ ኑ ቦላ ካዎታ’ ያግዶሶና። <verse eid="JDG 9:10"/><verse number="11" style="v" sid="JDG 9:11"/>ሽን ባላሰይ፥ ‘ማልኦነ ሎኦ ግድዳ አይፈ እመይሳ አጋዳ ምታ ቦላ ካዎታናዉ ቦ?’ ያግድ ዛርስ።<verse eid="JDG 9:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JDG 9:12"/>“ያትን፥ ምት ዎይነኮ፥ ‘ሃያ፥ ኑ ቦላ ካዎታ’ ያግዶሶና። <verse eid="JDG 9:12"/><verse number="13" style="v" sid="JDG 9:13"/>ሽን ዎይነይ፥ ‘ፆሳታነ አሳታ ኡፋይስያ ኡሻ እመይሳ አጋዳ ምታ ቦላ ካዎታናዉ ቦ?’ ያግድ ዛርስ።<verse eid="JDG 9:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JDG 9:14"/>“ያትን፥ ዉርሰን ምት ኡባይ ፁንዱቀኮ፥ ‘ሃያ፥ ኑ ቦላ ካዎታ’ ያግዶሶና። <verse eid="JDG 9:14"/><verse number="15" style="v" sid="JDG 9:15"/>ፁንዱቀይ፥ ‘ህንተ ቱማ ታና ህንተ ቦላ ካዎናዉ ኮይኮ፥ ሃ ይድ ታ ኩያን ሸምፕተ። ሄሳ ህንተ እፅኮ፥ ፁንዱቀ ታሽያፐ ታም ከይድ ልባኖሰ ዝጋ ሞ’ ያግስ።<verse eid="JDG 9:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JDG 9:16"/>“ህንተ አብመለከ ካዎዳይ ቱማተንነ ሱረተኔ? ገድዮን ህንተዉ ኦዳባ አኬክድ እያ ሶ አሳስ ሎኦ ኩሸ ዛርደቲ? <verse eid="JDG 9:16"/><verse number="17" style="v" sid="JDG 9:17"/>ታ አዋይ ህንተዉ ኦለትዳይሳ አኬክተ፤ ምድያመ አሳፐ ህንተና አሻና ያግድ፥ ባና ሀይቆስ አድ እሚስ። <verse eid="JDG 9:17"/><verse number="18" style="v" sid="JDG 9:18"/>ሽን ህንተ ሀች ታ አዋ ሶ አሳ ቦላ ደንድድ፥ እያ ላፑን ታሙ ናይታ እስ ሹቻ ቦላ ጎይርደታ። ገድዮና አይለፈ የለትዳ አብመለከይ ህንተዉ ዳቦ ግድዳ ግሾ ሴከማን ካዎደታ። <verse eid="JDG 9:18"/><verse number="19" style="v" sid="JDG 9:19"/>ሀእ ስሚድ ገድዮናስነ እያ ሶ አሳስ ህንተ ኦዳ ኦሶይ ቱማተንነ ሱረተን ግድኮ አብመለከራ ኡፋይትተ፤ እካ ህንተራ ኡፋይቶ። <verse eid="JDG 9:19"/><verse number="20" style="v" sid="JDG 9:20"/>ሽን ሄስ ሀኖና እፅኮ አብመለከፐ ታም ከይድ ሴከማነ ቤት-ምሎ አሳ ሞ። ቃስ ሴከማ አሳፐነ ቤት-ምሎ አሳፐ ታም ከይድ አብመለከ ሞ” ያግስ። <verse eid="JDG 9:20"/><verse number="21" style="v" sid="JDG 9:21"/>እዮአታም ባ እሻ አብመለከስ ያይዳ ግሾ ባቃትድ ቤራ ብድ ያን ደእስ።<verse eid="JDG 9:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JDG 9:22"/>አብመለከይ እስራኤለ ቢታን ሄ ላይ ካዎትስ። <verse eid="JDG 9:22"/><verse number="23" style="v" sid="JDG 9:23"/>ሄሳፈ ጉየ፥ ፆሳይ አብመለከ ግዶንነ ሴከማ አሳ ግዶን ኢታ አያና ኪትን ሴከማ አሳይ አብመለከ ቦላ ማካልዶሶና። <verse eid="JDG 9:23"/><verse number="24" style="v" sid="JDG 9:24"/>ፆሳይ ሄሳ ኦዳይ፥ አብመለከይ ባ እሻታ ዎዳ ግሾነ ኤንታ ዎና መላ ሴከማ አሳይ እያ ምንዳ ግሾሳ። <verse eid="JDG 9:24"/><verse number="25" style="v" sid="JDG 9:25"/>ሴከማ አሳይ ጉ አስ ዶርድ ደርያ ሁጵያን ኡትድ አብመለከ ቦላ ሞርከተን ደንዳና መላ ኦዶሶና። ኤንቲ ኦገራ አያ አሳ ኡባ ቦንቅዶሶና፤ አብመለከይ ሄሳ ስእስ።<verse eid="JDG 9:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JDG 9:26"/>ሄ ዎደ ኤቤዳ ናአይ ጋል ባ እሻታራ ሴከማ ይን፥ ሴከማ አሳይ እያን አማነትዶሶና። <verse eid="JDG 9:26"/><verse number="27" style="v" sid="JDG 9:27"/>ኡባይ ባንታ ጋደ ብድ ዎይነ ማፅዶሶና፤ ዎይንያ አግድ ግታ ግብራ ጊግስዶሶና። ባንታ ኤቃ ኬ ገልድ ያን ምሸነ ኡይሸ አብመለከ ጫይዶሶና። <verse eid="JDG 9:27"/><verse number="28" style="v" sid="JDG 9:28"/>ኤቤዳ ናአይ ጋል፥ “ኑኒ ሴከማ አሳይ እያዉ ሃረታናዉ አብመለከይ ኦኔ? እ የሩባኣላ ናኣ ግደኔ? ዛቡል ሀ ካታማ ሃራና መላ አብመለከይ ሹምዳይሳ ግደኔ? ሄሳፈ ሴከማ ሼሽ ግድዳ ሀሞረ አሳስ ሃረታና። <verse eid="JDG 9:28"/><verse number="29" style="v" sid="JDG 9:29"/>ሀ አሳ ካለይ ታና ግድያኮ አብመለከ ድጋናሽን። አብመለከ ፄጋዳ፥ ‘ነ ኦላንቾታ ዳርሳ ኤካዳ ኦለታናዉ ሃያ’ ያጋናሽን” ያግስ።<verse eid="JDG 9:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JDG 9:30"/>ኤቤዳ ናአይ ጋል ግዳይሳ ካታማ ሃርያ ዛቡል ስእዳ ዎደ ዳሮ ይሎትስ። <verse eid="JDG 9:30"/><verse number="31" style="v" sid="JDG 9:31"/>ቆሳን አብመለከኮ አሰ ኪትድ፥ “ኤቤዳ ናአይ ጋልነ እያ እሻት ሴከማ ይድ ያን ደእያ አሳ ነ ቦላ ደንሶና። <verse eid="JDG 9:31"/><verse number="32" style="v" sid="JDG 9:32"/>ሄሳ ግሾ፥ ኔንነ ኔራ ደእያ አሳይ ቃማ ደንድድ እስ በሳን ዙግድ ናግተ። <verse eid="JDG 9:32"/><verse number="33" style="v" sid="JDG 9:33"/>ዎንተ ጋላስ አው ዶልያ ዎደ ኤንቲ ቆፖና ካታማ ኦልተ። ጋልነ እያራ ደእያ አሳይ ህንተና ኦላናዉ ከይያ ዎደ ህንተ ኮይዳ መላ ኤንታ ቦላ ኦተ” ያግስ።<verse eid="JDG 9:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="JDG 9:34"/>አብመለከይነ እያራ ደእያ አሳ ኡባይ ቃማ ደንድድ ሴከማፐ ካረራ ኦይዱ ጩጋን ሻከትድ ዙግዶሶና። <verse eid="JDG 9:34"/><verse number="35" style="v" sid="JDG 9:35"/>አብመለከይነ እያራ ደእያ አሳይ ኤቤዳ ናአይ ጋል ከይድ ካታማ ፐንግያን ኤቅዳይሳ በእድ ቆሰትዳ በሳፈ ከይዶሶና። <verse eid="JDG 9:35"/><verse number="36" style="v" sid="JDG 9:36"/>ጋል አሳ በእዳ ዎደ ዛቡላኮ፥ “ሄኮ፥ አሳይ ደርያ ሁጵያፐ ዎስ” ያግስ።</para>
+  <para style="p" vid="JDG 9:36">ዛቡል፥ “ሀይስ ደርያ ኤሾፐ አትሽን፥ አሰ ግደና” ያግድ ዛርስ።<verse eid="JDG 9:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="JDG 9:37"/>ጋል ዛሪድ፥ “ሄኮ፥ አሳይ ደርያስ ግዱዋ ኦይክድ ዎስ፤ ሀራ ጩግ ቃስ ማሮታ ዎላይ ደእያ ኦግያራ ዬስ” ያግስ።<verse eid="JDG 9:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="JDG 9:38"/>ዛቡል ጋላኮ፥ “ ‘ኑኒ እያዉ ሃረታናዉ አብመለከይ ኦኔ?’ ያግዳ ነ ዶናይ ሀእ አዉ ብዴ? ሀይሳቲ ኔኒ ካዳ አሳ ግዶኮናዬ? ሀእ ከያዳ ኤንታራ ኦለታ” ያግስ። <verse eid="JDG 9:38"/><verse number="39" style="v" sid="JDG 9:39"/>ጋል ሴከማ አሳ ካለ ከይድ አብመለከራ ኦለትስ። <verse eid="JDG 9:39"/><verse number="40" style="v" sid="JDG 9:40"/>አብመለከይ የደን ጋል ባቃትስ፤ ካታማ ፐንግያ ጋካናዉ ዳሮት ደሸትድ ኩንድዶሶና። <verse eid="JDG 9:40"/><verse number="41" style="v" sid="JDG 9:41"/>አብመለከይ አሩማን ደእን፥ ዛቡል ጋላነ እያ እሻታ ሴከማፐ የደድ ከስስ።<verse eid="JDG 9:41"/></para>
+  <para style="p">
+    <verse number="42" style="v" sid="JDG 9:42"/>ዎንተ ጋላስ ሴከማ አሳይ ጎሻስ ብዳይሳ አብመለከይ ስእስ። <verse eid="JDG 9:42"/><verse number="43" style="v" sid="JDG 9:43"/>እ ባ አሳ ኤክድ ሄ ጩጋን ሻክድ፥ እስ በሳን ዙግድ ናጋናዳ ኦስ። አሳይ ካታማፐ ከየይሳ በእዳ ዎደ ኤንታ ዎናዉ ቆሰትዳ በሳፈ ከይስ። <verse eid="JDG 9:43"/><verse number="44" style="v" sid="JDG 9:44"/>አብመለከይነ እያራ ደእያ ጩጋይ ስን ዎፅ ብድ፥ ካታማ ፐንግያን ኤቅዶሶና። አትዳ ናምኡ ጩጋይ ጎሻን ደእያ አሳ ኦልድ ዎዶሶና። <verse eid="JDG 9:44"/><verse number="45" style="v" sid="JDG 9:45"/>ጋላስ ኩመ አብመለከይ አሳራ ኦለትድ ኦይክዳፐ ጉየ ካታማን ደእያ አሳ ኡባ ዎስ፤ ካታማ ይስስ፤ ቢታ ቦላ ማፅነ ላልስ።<verse eid="JDG 9:45"/></para>
+  <para style="p">
+    <verse number="46" style="v" sid="JDG 9:46"/>ሴከማ አዱሳ ግምብያ ግዶን ደእያ አሳ ኡባይ ሄሳ ስእዳ ዎደ ባኣል-ባርታ ኤቃ ኬን ደእያ ጎንጎሉዋን ቆሰትዶሶና። <verse eid="JDG 9:46"/><verse number="47" style="v" sid="JDG 9:47"/>አብመለከይ ኤንቲ ያን ሺቅዳይሳ፥ <verse eid="JDG 9:47"/><verse number="48" style="v" sid="JDG 9:48"/>ስእድ እነ እያራ ደእያ አሳ ኡባይ ሳልሞና ደርያ ከይዶሶና። አብመለከይ ካልታ ኤክድ ም ታሸ ቃንፅድ፥ ባ ሀሽያን ቶክስ። ባራ ደእያ አሳኮ፥ “ታኒ ኦሽን በእዳይሳዳ ህንተ ኤለስድ ኦተ” ያግስ። <verse eid="JDG 9:48"/><verse number="49" style="v" sid="JDG 9:49"/>አሳ ኡባይ ም ታሸ ቃንፅ ኤክድ፥ አብመለከ ካልስ። ሄ ታሸታ ሳአ ኬ ቦላ ዶርድ አሳይ እያ ግዶን ደእሽን ታማ ኦይዶሶና። እያን ደእያ አሳ ኡባይ ሀይቅዶሶና። ሀይቅዳ አደይነ ማጫሳ ታይቦይ እስ ሙኩሉ ግዳና።<verse eid="JDG 9:49"/></para>
+  <para style="p">
+    <verse number="50" style="v" sid="JDG 9:50"/>አብመለከይ ተሜሳ ብድ ካታማ ተቅድ ኦይክስ። <verse eid="JDG 9:50"/><verse number="51" style="v" sid="JDG 9:51"/>ሄ ካታማ ግዶን እስ ምኖ አዱሳ ግምበይ ደኤስ። ካታማ አሳይ ማጭ፥ አደይ፥ ካለይሳትነ ሀራ አሳ ኡባይ አቶና ዎፅድ አዱሳ ግምብያ ግዶ ገልዶሶና። ፐንግያ ጎርድድ ግምብያ ሁጰ ከይዶሶና። <verse eid="JDG 9:51"/><verse number="52" style="v" sid="JDG 9:52"/>አብመለከይ ኦልሸ አዱሳ ግምብያ ጋክድ ታማን ፁጋናዉ ፐንግያኮ ሺቅስ። <verse eid="JDG 9:52"/><verse number="53" style="v" sid="JDG 9:53"/>ሽን እስ ማጫስያ አብመለከ ሁጰን ዎፃ ማይደ ሆላዳ እያ ጉግያ ጳልቃ የጋሱ። <verse eid="JDG 9:53"/><verse number="54" style="v" sid="JDG 9:54"/>እያ ኦላ ሚሽያ ቶክያ ናአተ ኤለስ ፄግድ፥ “አብመለከ ማጫስ ዎስ ጎናዳ ነ ማሻ ሾዳዳ ታና ዎ” ያግስ። ያግን ናአተይ ጫድን እ ሀይቅስ። <verse eid="JDG 9:54"/><verse number="55" style="v" sid="JDG 9:55"/>እስራኤለ አሳ ኡባይ አብመለከይ ሀይቅዳይሳ በእድ ባ ሶ ሶ ብስ።<verse eid="JDG 9:55"/></para>
+  <para style="p">
+    <verse number="56" style="v" sid="JDG 9:56"/>አብመለከይ ላፑን ታሙ ባ እሻታ ዎድ፥ ባ አዋ ቦላ እ ኦዳ ጎምያ ፆሳይ እያ ቦላ ዛርስ። <verse eid="JDG 9:56"/><verse number="57" style="v" sid="JDG 9:57"/>ፆሳይ ሴከማ አሳ ኢታተ ኡባ ኤንታ ቦላ ዛርስ። ሄሳዳ ሀንድ ገድዮና ናአይ እዮአታም ባድዳ ባደይ ኤንታ ጋክስ።<verse eid="JDG 9:57"/></para>
+  <chapter eid="JDG 9"/>
+  <chapter number="10" style="c" sid="JDG 10"/>
+  <para style="s1">ቶላ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 10:1"/>አብመለከይ ሀይቅዳፐ ጉየ፥ ይሳኮራ ኮቸ ግድዳ ዶዳ ናኣ፥ ፑሀ ናአይ ቶል፥ እስራኤለ አሳ አሻናዉ ደንድስ። እ ደረይ ዳርያ ኤፍሬማ ቢታን ሳምራን ደእስ። <verse eid="JDG 10:1"/><verse number="2" style="v" sid="JDG 10:2"/>ቶል እስራኤለ አሳ ላታማነ ሄ ላይ አይስስ። ቶል ሀይቅድ፥ ሳምራን ሞገትስ።<verse eid="JDG 10:2"/></para>
+  <para style="s1">ያእራ</para>
+  <para style="p">
+    <verse number="3" style="v" sid="JDG 10:3"/>ቶላፐ ካልድ፥ ጋላዳ አደይ ያእር ደንድስ። እ እስራኤለ አሳ ላታማነ ናምኡ ላይ አይስስ። <verse eid="JDG 10:3"/><verse number="4" style="v" sid="JDG 10:4"/>እያዉ ሀስታሙ ባቁሎ ቶግያ ሀስታሙ አደ ናይት ደኦሶና። ኤንታዉ ጋላዳ ቢታን ሀስታሙ ካታማት ደኦሶና። ሄ ካታማት ሀች ጋካናዉ ያእራ ካታማታ ጌተትድ ፄገቶሶና። <verse eid="JDG 10:4"/><verse number="5" style="v" sid="JDG 10:5"/>ያእር ሀይቅድ ቃሞናን ሞገትስ።<verse eid="JDG 10:5"/></para>
+  <para style="s1">ዮፍታሄ</para>
+  <para style="p">
+    <verse number="6" style="v" sid="JDG 10:6"/>ቃስካ እስራኤለ አሳይ ጎዳ ስንን ኢታባ ኦዶሶና። ኤንቲ ባኣለነ አስታሮታ ኤቃታ፥ ሶረ ፆሳታ፥ ስዶና ፆሳታ፥ ሞአበ ፆሳታ፥ አሞነ ፆሳታነ ፍልስፄመ ፆሳታ ጎይንዶሶና። ኤንቲ ጎዳ አጋግዶሶና፤ እያ ጎይንቦኮና። <verse eid="JDG 10:6"/><verse number="7" style="v" sid="JDG 10:7"/>ጎዳይ እስራኤለ አሳ ቦላ ሀንቀትድ፥ ኤንታ ፍልስፄመ አሳስነ አሞነ አሳስ አድ እሚስ። <verse eid="JDG 10:7"/><verse number="8" style="v" sid="JDG 10:8"/>ሄ ላይ ፍልስፄመትነ አሞነት እስራኤለ አሳ ኡንኤዶሶና። ዮርዳኖሰ ሻፋፐ ዶሎሀ ባጋን፥ አሞረት ካሰ ደእዳ ጋላዳ ቢታን ደእያ እስራኤለ አሳ ኤንቲ ታማነ ሆስፑን ላይ ሃርዶሶና። <verse eid="JDG 10:8"/><verse number="9" style="v" sid="JDG 10:9"/>ቃስካ አሞነ አሳይ ይሁዳ፥ ብንያመነ ኤፍሬማ ኮቻታ ኦላናዉ ዮርዳኖሰ ሻፋ ፕንዶሶና፤ እስራኤለ አሳይ ዳሮ ኡንኤትዶሶና።<verse eid="JDG 10:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JDG 10:10"/>ሄሳፈ ጉየ፥ እስራኤለ አሳይ፥ “ኑኒ ነና ኑ ፆሳ አግድ፥ ባኣለ ጎይንድ፥ ናጋራ ኦዳ” ያግድ ጎዳኮ ዋስዶሶና።<verse eid="JDG 10:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JDG 10:11"/>ጎዳይ ኤንታኮ፥ “ግብፀት፥ አሞረት፥ አሞነት፥ ፍልስፄመት፥ <verse eid="JDG 10:11"/><verse number="12" style="v" sid="JDG 10:12"/>ስዶናት፥ አማለቃትነ ሞኣነት ህንተና ኡንኤን፥ ህንተ ታኮ ዋስን፥ ታኒ ህንተና ኤንታ ኩሸፐ አሻብክና? <verse eid="JDG 10:12"/><verse number="13" style="v" sid="JDG 10:13"/>ሽን ህንተ ታና አግድ ሀራ ፆሳታ ጎይንደታ፤ ህዛፐ ታኒ ህንተና አሽከ። <verse eid="JDG 10:13"/><verse number="14" style="v" sid="JDG 10:14"/>ብድ ህንተ ዶርዳ ፆሳኮ ዋስተ። ህንተና መቶይ ጋክያ ዎደ አነ ኤንቲ አሾ” ያግድ ዛርስ።<verse eid="JDG 10:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="JDG 10:15"/>ሽን እስራኤለ አሳይ ዛሪድ ጎዳኮ፥ “ኑኒ ናጋራ ኦዳ። ነ ኮይዳባ ኑ ቦላ ኦ፤ ሽን ሀያና ሀች ኑና አሻ” ያግዶሶና። <verse eid="JDG 10:15"/><verse number="16" style="v" sid="JDG 10:16"/>አላጋ ፆሳታ ባንታ ግዶፈ ድግድ፥ ጎዳ ጎይንዶሶና። ጎዳይ እስራኤለ አሳ ኡንኤተ በእድ ምሸትስ።<verse eid="JDG 10:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JDG 10:17"/>ሄሳፈ ጉየ፥ አሞነ ኦላንቾት ኦላስ ጊግድ፥ ጋላዳን ሺቅዶሶና። እስራኤለ አሳይ እስፈ ሺቅድ ጋላዳን ምፅጳን ዱንካንዶሶና። <verse eid="JDG 10:17"/><verse number="18" style="v" sid="JDG 10:18"/>ጋላዳ ቢታ ሀላቃት ባንታ ግዶን፥ “አሞነ ኦላንቾታራ ኮይሮትድ ኦላ ጋሄታናይ ኦኔ? ሄ አደይ ጋላዳ ቢታን ደእያ አሳ ኡባስ ሀላቃ ግዳና” ያግዶሶና።<verse eid="JDG 10:18"/></para>
+  <chapter eid="JDG 10"/>
+  <chapter number="11" style="c" sid="JDG 11"/>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 11:1"/>ጋላዳ ቢታን ደእያ ዮፍታሄይ ምኖ ኦላንቾ። እያ አዋ ሱንይ ጋላዳ፤ ሽን እያ አይያ ላይማ ማጫስ። <verse eid="JDG 11:1"/><verse number="2" style="v" sid="JDG 11:2"/>ጋላዳ ማችያ እያዉ አደ ናይታ የላሱ። ኤንቲ ድጭድ ጋክዳ ዎደ ባንታ እሻ ዮፍታሄ፥ “ኔኒ ሀራ ማጫሳፐ የለትዳ ናአ ግድያ ግሾ ኑ አዋ አቁዋፐ አይኮካ ላታካ” ያግድ ሶፐ የደዶሶና። <verse eid="JDG 11:2"/><verse number="3" style="v" sid="JDG 11:3"/>ያትን፥ ዮፍታሄይ ባ እሻታፐ ባቃትድ፥ ቶባ ቢታን ደእስ። ያን እ ደእሽን ጉ ዎራንት እያኮ ሺቅድ እያ ካልዶሶና።<verse eid="JDG 11:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JDG 11:4"/>ጉ ዎደፐ ጉየ አሞነት እስራኤለታራ ኦለትዶሶና። <verse eid="JDG 11:4"/><verse number="5" style="v" sid="JDG 11:5"/>አሞነት እስራኤለታራ ኦለትዳ ዎደ ጋላዳ ቢታ ጭማት ቶባፐ ዮፍታሄ ዛሪድ ኤሀናዉ ብዶሶና። <verse eid="JDG 11:5"/><verse number="6" style="v" sid="JDG 11:6"/>ኤንቲ እያኮ፥ “አሞነታ ኑኒ ኦላና መላ ያዳ ኑስ ሀላቃ ግዳ” ያግዶሶና።<verse eid="JDG 11:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JDG 11:7"/>ሽን ዮፍታሄይ፥ “ታና እፅድ፥ ታ አዋ ኬፈ የደቤከቲ? ሀእ ህንተና መቶይ ጋክን ታኮ አይስ ይደቲ?” ያግስ።<verse eid="JDG 11:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JDG 11:8"/>ጋላዳ ጭማት፥ “ግዶሽን ሀእ ኑኒ ኔኮ ስምዳ፤ ኔኒ ኦላ ካለዳ አሞነታ ኑስ ኦላና መላነ ጋላዳ ቢታስ ሀላቃ ግዳና መላ ኮዮስ” ያግዶሶና።<verse eid="JDG 11:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JDG 11:9"/>ዮፍታሄይ፥ “አሞነታራ ኦለታና መላ ህንተ ታና ጉየ ዛርን፥ ጎዳይ ኤንታ ታ ኩሸን አድ እምኮ፥ ህንተ ቱማ ታና ሀላቃ ኦኔ?” ያግስ።<verse eid="JDG 11:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JDG 11:10"/>ጋላዳ ጭማት፥ “ጎዳይ ኑ ግዶን ማርካ፤ ኔኒ ግያባ ኑ ኦና” ያግዶሶና። <verse eid="JDG 11:10"/><verse number="11" style="v" sid="JDG 11:11"/>ዮፍታሄይ ጋላዳ ጭማታራ ብስ፤ ኤንቲ እያ ባንታ ሀላቃነ ካለይሳ ኦዶሶና። ዮፍታሄይ ምፅጳን ጎዳ ስንን ዛሪድ ቃላ ገልስ።<verse eid="JDG 11:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JDG 11:12"/>ዮፍታሄይ አሞነ ካዋኮ አሰ ኪትድ፥ “ኔኒ ኑ ቢታ ኦላና መላ ኑኒ ነዉ አይ ኦዶ?” ያግድ ኦይችስ።<verse eid="JDG 11:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JDG 11:13"/>አሞነ ካዎይ ዮፍታሄይ ኪትዳ አሳኮ፥ “እስራኤለ አሳይ ግብፀፈ ከይዳ ዎደ አርኖና ሻፋፐነ ያቦቃ ሻፋፐ ግዶን፥ ዮርዳኖሰ ሻፋ ጋካናዉ ደእያ ታ ቢታ ኤክዶሶና። ሀእ ታ ቢታ ታዉ ሳሮን ዛርተ” ያግድ ዛርስ።<verse eid="JDG 11:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JDG 11:14"/>ዮፍታሄይ ናምአን አሞነ ካዋኮ አሰ ኪትስ። <verse eid="JDG 11:14"/><verse number="15" style="v" sid="JDG 11:15"/>ኪተትዳ አሳይ፥ “እስራኤለ አሳይ ሞአበ ቢታ ዎይኮ አሞነ ቢታ ኤክቤና። <verse eid="JDG 11:15"/><verse number="16" style="v" sid="JDG 11:16"/>እስራኤለ አሳይ ግብፀፈ ከይዳ ዎደ ባዞ ካን ብድ፥ ዞኦ አባ ጋክስ፤ ያፐ ቃደሳ ብስ። <verse eid="JDG 11:16"/><verse number="17" style="v" sid="JDG 11:17"/>እስራኤለ አሳይ ኤዶመ ካዋኮ፥ ‘ነ ቢታራ ኑና አርኪ?’ ያግድ አሰ ኪትስ፤ ሽን ኤዶመ ካዎይ አና እፅስ። ሄሳዳካ፥ ሞአበ ካዋኮ ኪትን፥ እካ አና እፅስ፤ ያትን፥ እስራኤለ አሳይ ቃደሳን ጋምእስ።<verse eid="JDG 11:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JDG 11:18"/>“ዉርሰን ኤንቲ ባዙዋ ካንድ፥ ኤዶመነ ሞአበ ቢታ ጋፃ ኦይክድ፥ ሞአበ ቢታፈ ዶሎሀ ባጋራ ይድ አርኖና ሻፋፐ ሄፍን ባጋን ዱንካንዶሶና። ሽን አርኖና ሻፋይ ሞአበ ዛዋ ግድዳ ግሾ ሞአበ ባጋ ፕንቦኮና።<verse eid="JDG 11:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JDG 11:19"/>“ሄሳፈ ጉየ፥ እስራኤለ አሳይ ሀሰቦና ካታማን ደእያ አሞረታ ካዋ ስሆናኮ አሰ ኪትድ፥ ‘ሀያና፥ ነ ቢታራ ኑና አርክ’ ያግድ ኦይችስ። <verse eid="JDG 11:19"/><verse number="20" style="v" sid="JDG 11:20"/>ሽን ስሆነይ እስራኤለ አሳ አማነቶና ግሾ አናዉ ኮይቤና። እ ባ ኦላንቾታ ኤክድ ያሃፃን ዱንካንድ እስራኤለ አሳ ኦልስ። <verse eid="JDG 11:20"/><verse number="21" style="v" sid="JDG 11:21"/>ጎዳይ እስራኤለ ፆሳይ ስሆናነ እያ ኦላንቾታ እስራኤለ አሳ ኩሸን አድ እምን፥ ኤንታ ፆንዶሶና። ያን ደእያ አሞረታ ቢታ ኡባ ላትዶሶና። <verse eid="JDG 11:21"/><verse number="22" style="v" sid="JDG 11:22"/>አርኖና ሻፋፐ ብድ ያቦቃ ሻፋ ጋካናዉ፥ ባዙዋፈ ብድ ዮርዳኖሰ ሻፋ ጋካናዉ ደእያ አሞረታ ቢታ ኡባ ኤክዶሶና።<verse eid="JDG 11:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JDG 11:23"/>“ሄሳዳ ኦድ ጎዳይ፥ እስራኤለ ፆሳይ ባ አሳ እስራኤለ ስንፈ አሞረታ የደድ ይስስ። ያትን፥ ኔኒ ዛራዳ ነዉ ኤካናዉ ዋታ ቆፓይ? <verse eid="JDG 11:23"/><verse number="24" style="v" sid="JDG 11:24"/>ኔኒ ነ ፆሳይ ካሞሽ ነዉ እመይሳ ኤክኪ? ሽን ኑኒ፥ ጎዳይ ኑ ፆሳይ ኑስ እምዳባ ኡባ ላትድ ዳና። <verse eid="JDG 11:24"/><verse number="25" style="v" sid="JDG 11:25"/>ግዶሽን ኔኒ ስፎራ ናኣ፥ ሞአበ ካዋ ባላቃፐ ምናይ? እ እስራኤለ አሳራ ኦየትደ ዎይኮ ኦለትዴ? <verse eid="JDG 11:25"/><verse number="26" style="v" sid="JDG 11:26"/>እስራኤለ አሳይ ሀሰቦና፥ አሮኤራነ ኤንታ ዩሹዋን ደእያ ጉታታ ኡባ፥ ቃስ አርኖና ሻፋ ማታን ደእያ ካታማታ ኡባ ላትድ ሄ ፄቱ ላይ ደእስ። ያትን፥ ሄ ዎደ አይስ ዎ ኤካብኪ? <verse eid="JDG 11:26"/><verse number="27" style="v" sid="JDG 11:27"/>ታኒ ህንተና አይኮካ ቆሀብከ፤ ሽን ታና ኦላናዉ ደንዳዳ ናቀይ ነና። ፕርድያ ጎዳይ ሀች እስራኤለፐነ አሞነፐ ግዶን ፕርዶ” ያግስ።<verse eid="JDG 11:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JDG 11:28"/>ሽን ዮፍታሄይ ኪትዳ ኪታ አሞነታ ካዎይ ስኦና እፅስ።<verse eid="JDG 11:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="JDG 11:29"/>ሄ ዎደ ጎዳ አያናይ ዮፍታሄ ቦላ ዎን፥ ጋላዳነ ምናሰ ቢታ ካን ብድ፥ ጋላዳ ቢታን ደእያ ምፅጳ ስምስ። ያፐ ኦላንቾታ ካለድ አሞነ ቢታ ብስ። <verse eid="JDG 11:29"/><verse number="30" style="v" sid="JDG 11:30"/>ዮፍታሄይ ጎዳስ ቃንገትድ፥ “ኔኒ አሞነታ ታ ኩሸን አዳ እምኮ፥ <verse eid="JDG 11:30"/><verse number="31" style="v" sid="JDG 11:31"/>ታኒ ኦላ ፆናዳ ሶ ስምያ ዎደ ታና ሞካናዉ ታ ሶፐ ከይያ አይብካ ኔሳ፤ ታኒ እያ ፁግያ ያርሾ ኦዳ ነዉ ሺሻና” ያግስ።<verse eid="JDG 11:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="JDG 11:32"/>ሄሳፈ ጉየ፥ ዮፍታሄይ አሞነታ ኦላናዉ ዛዋ ብን፥ ጎዳይ ኤንታ እያ ኩሸን አድ እሚስ። <verse eid="JDG 11:32"/><verse number="33" style="v" sid="JDG 11:33"/>አሮኤራፐ ብድ ምንታነ አቤል-ክራምማ ጋካናዉ ደእያ ላታሙ ካታማታ ኦልድ ይስስ፤ ዳሮ አሳ ዎስ። ሄሳፈ ጉየ፥ አሞነት እስራኤለታስ ሃረትዶሶና።<verse eid="JDG 11:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="JDG 11:34"/>ዮፍታሄይ ባ ሶ ምፅጳ ስምያ ዎደ እያ ናእያ ካራቦ ኦይካዳ የፃሸነ ዱራሸ እያ ሞካናዉ ከያሱ። እያዉ ኢፐ አትሽን፥ ሀራ ናእ ባዋ። <verse eid="JDG 11:34"/><verse number="35" style="v" sid="JDG 11:35"/>እ እዮ በእዳ ዎደ አዛንድ ባ ማኡዋ ዳክድ፥ “ሀይ ታ ናተ! ታና ካዉሻዳሳ፤ ታና መቶን የጋዳሳ። ታኒ ጎዳስ ቃንጋስ፤ ጋና አጋናዉ ዳንዳእከ” ያግስ።<verse eid="JDG 11:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="JDG 11:36"/>ናእያ፥ “ታ አዋዉ፥ ኔኒ ጎዳስ ቃንግዳባ ግድኮ፥ ጎዳይ ነ ሞርከታ፥ አሞነታ ቦላ ኔኒ ሀሎ ከይዳ ግሾ ነ ቃንግዳባ ታ ቦላ ፖላ” ያጋሱ። <verse eid="JDG 11:36"/><verse number="37" style="v" sid="JDG 11:37"/>ሽን እያ ባ አዋኮ፥ “ታዉ እስባ ኦርክ። ታኒ አዝና ገሎና አትያ ግሾ፥ ታ ላገታራ ባዳ ዙማ ቦላ ታ ጌላኦተስ ዬካና መላ ናምኡ አጌናስ ታና የዳርክ” ያጋዳ ኦይቻሱ።<verse eid="JDG 11:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="JDG 11:38"/>እ፥ “ባ” ያግድ፥ ናምኡ አጌናስ እዮ የድስ። እያ ባ ላገታራ ዙማ ቦላ ከያዳ ባ ጌላኦተስ ኤንታራ ዬካሱ። <verse eid="JDG 11:38"/><verse number="39" style="v" sid="JDG 11:39"/>ናምኡ አጌናፐ ጉየ፥ ባ አዋኮ ስማዳ ያሱ። እ አዋይ ጎዳስ ቃንግዳ ባ ቃንገ ጋስ፤ እያ ጌላኦሽን ሀይቃሱ።</para>
+  <para style="p" vid="JDG 11:39">ሄ ዎደፐ ዶምድ፥ <verse eid="JDG 11:39"/><verse number="40" style="v" sid="JDG 11:40"/>እስራኤለ ማጫ ናይት ላይን ላይን ኦይዱ ጋላስ ባንታ ሶፐ ሃክ ብድ፥ ጋላዳ አድያ ዮፍታሄ ናኤስ ዬከይስነ ካዮተይስ ሜዘ ግድስ።<verse eid="JDG 11:40"/></para>
+  <chapter eid="JDG 11"/>
+  <chapter number="12" style="c" sid="JDG 12"/>
+  <para style="s1">ዮፍታሄነ ኤፍሬማ አሳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 12:1"/>ኤፍሬማ አሳይ ኦላ ባናዉ ፄገትድ፥ ዮርዳኖሰ ሻፋ ፕንድ፥ ፃፎና ጋክዳ ዎደ ዮፍታሄኮ፥ “አሞነታ ኦላናዉ ዛዋ ፕናዳ ባሸ ኑኒ ኔራ ባና መላ አይስ ፄጋብኪ? ኑኒ ነ ቦላ ጎርድድ ነ ኬን ታማ የዳና” ያግዶሶና።<verse eid="JDG 12:1"/></para>
+  <para style="p">
+    <verse number="2" style="v" sid="JDG 12:2"/>ዮፍታሄይ ኤንታኮ፥ “ታንነ ታ አሳይ አሞነታራ ዳሮ ባፀን ገልዳ ዎደ ህንተና ፄጋስ፤ ሽን ህንተ ታና ኤንታፈ አሽበከታ። <verse eid="JDG 12:2"/><verse number="3" style="v" sid="JDG 12:3"/>ህንተ ታና አሾናይሳ በእዳ ዎደ ዛዋ ፕናዳ ታ ሸምፑዋስ ቃቶና አሞነታ ኦላናዉ ባስ፤ ጎዳይ ኤንታ ታ ኩሸን አድ እሚስ። ያትን፥ ህንተ ሀች አይስ ታና ኦላናዉ ይደቲ?” ያግስ።<verse eid="JDG 12:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JDG 12:4"/>ዮፍታሄይ ጋላዳ አሳ ኡባ ሺሽድ፥ ኤፍሬማ አሳራ ኦለትን ጋላዳ አሳይ ፆንዶሶና። ኤፍሬማ አሳይ ካሰ ኤንታ፥ “ህንተ ጋላዳ አሳይ ካሰ ኤፍሬማነ ምናሰ ኮቻታ ካድድ ይዳይሳታ ግደከቲ?” ያጎሶና።<verse eid="JDG 12:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JDG 12:5"/>ኤፍሬማ አሳይ ከስ ኤኮናዳ ዮርዳኖሰ ሻፋ ፕኑዋ ኡባ ጋላዳት ኦይክዶሶና። ከስ ኤካናዉ ኮይያ ኤፍሬማ አስ ፕናናዉ ኦይችያ ዎደ ጋላዳት፥ “ኔኒ ኤፍሬማ አሴ?” ያግድ ኦይቾሶና። እ፥ “ግድከ” ጊኮ፥ <verse eid="JDG 12:5"/><verse number="6" style="v" sid="JDG 12:6"/>ኤንቲ፥ “አነ፥ ‘ሽቦሌተ’ ጋ” ያጎሶና። ሽን እ፥ “ሽ” ጌተትያ ፕዳልያ ሎይ ፄጋናዉ ዳንዳኦና ግሾ፥ “ስቦሌተ” ያጌስ። እ ሄሳ ግያ ዎደ ኦይክድ፥ ዮርዳኖሰ ሻፋ ፕንያ በሳን ዎኦሶና። ሄ ዎደ ያን ኤፍሬማ አሳፐ ኦይታማነ ናምኡ ሙኩሉ አሳይ ሀይቅስ።<verse eid="JDG 12:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JDG 12:7"/>ዮፍታሄይ እስራኤለ አሳ ኡሱፑን ላይ አይስስ። ጋላዳ አደይ ዮፍታሄይ ሀይቅድ ጋላዳን ደእያ እስ ካታማን ሞገትስ።<verse eid="JDG 12:7"/></para>
+  <para style="s1">እብፃና፥ ኤሎና፥ አብዶና</para>
+  <para style="p">
+    <verse number="8" style="v" sid="JDG 12:8"/>ዮፍታሄፐ ካልድ፥ ቤተለመን እብፃን እስራኤለ አሳ ሃርስ። <verse eid="JDG 12:8"/><verse number="9" style="v" sid="JDG 12:9"/>እብፃናስ ሀስታሙ አደ ናይትነ ሀስታሙ ማጫ ናይት ደኦሶና። እ ባ ማጫ ናይታ ባ ኮቸ ግዶና አደ ናይታስ እሚስ፤ ባ አደ ናይታስ ባ ኮቸ ግዶና ማጫ ናይታ ጊግስድ እሚስ። እብፃን እስራኤለ ላፑን ላይ አይስስ። <verse eid="JDG 12:9"/><verse number="10" style="v" sid="JDG 12:10"/>ሄሳፈ ጉየ፥ እብፃን ሀይቅድ ቤተለመን ሞገትስ።<verse eid="JDG 12:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JDG 12:11"/>እብፃናፐ ካልድ ዛብሎና ኮቸ ግድዳ ኤሎን እስራኤለ አሳ ታሙ ላይ ሃርስ። <verse eid="JDG 12:11"/><verse number="12" style="v" sid="JDG 12:12"/>ሄሳፈ ጉየ ኤሎን ሀይቅድ ዛብሎና ቢታን ደእያ አያሎናን ሞገትስ።<verse eid="JDG 12:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JDG 12:13"/>ኤሎናፐ ካልድ፥ ፕራቶና አደይ፥ ህላላ ናአይ አብዶን እስራኤለ አይስስ። <verse eid="JDG 12:13"/><verse number="14" style="v" sid="JDG 12:14"/>አብዶናስ ላፑን ታሙ ባቁሎታ ቶግያ ኦይታሙ አደ ናይትነ ሀስታሙ ናአ ናእ ደኤስ። አብዶን እስራኤለ ሆስፑን ላይ አይስስ። <verse eid="JDG 12:14"/><verse number="15" style="v" sid="JDG 12:15"/>ሄሳፈ ጉየ፥ ህላላ ናአይ አብዶን ሀይቅድ ደረይ ዳርያ አማለቃን፥ ኤፍሬማ ቢታን፥ ፕራቶና ጌተትያ ዱፎን ሞገትስ።<verse eid="JDG 12:15"/></para>
+  <chapter eid="JDG 12"/>
+  <chapter number="13" style="c" sid="JDG 13"/>
+  <para style="s1">ሳምሶና የለተ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 13:1"/>እስራኤለ አሳይ ጎዳ ስንን ቃስካ ኢታባ ኦዶሶና። ያትን፥ ጎዳይ ኤንታ ኦይታሙ ላይ ፍልስፄመ አሳ ኩሸን አድ እሚስ።<verse eid="JDG 13:1"/></para>
+  <para style="p">
+    <verse number="2" style="v" sid="JDG 13:2"/>ሄ ዎደ ፆርአ ካታማን ማኑሄ ጌተትያ እስ አደይ ደኤስ። እ ዳነ ኮቸ፤ እያ ማችያ ማይን ግድዳ ግሾ እያዉ ናአ የላቡኩ። <verse eid="JDG 13:2"/><verse number="3" style="v" sid="JDG 13:3"/>እስ ጋላስ ጎዳ ኪታንቾይ ሄ ማጫሴስ ቆንጭድ፥ “ኔኒ ማይን፤ ነዉ ናእ ባዋ፤ ሽን ነ ቃንታና፤ አደ ናአካ የላና። <verse eid="JDG 13:3"/><verse number="4" style="v" sid="JDG 13:4"/>ሄሳ ግሾ፥ ዎይነ ዎይኮ ማይያ ኡሽ ኡዮና መላነ ቱናባ አይባካ ሞና መላ ናገታ። <verse eid="JDG 13:4"/><verse number="5" style="v" sid="JDG 13:5"/>ነ ቃንታዳ አደ ናአ የላና። ናአይ የለትዳ ዎድያፐ ዶምድ ፆሳስ ዱማትዳ ናዝራወ ግድያ ግሾ እያ ሁጵያ ሜዶፓ። እ እስራኤለ ፍልስፄመታ ኩሸፐ አሾ ዶማና” ያግስ።<verse eid="JDG 13:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JDG 13:6"/>ማጫስያ ባዳ፥ ባ አዝናስ ሀይሳዳ ያጋዳ ኦዳሱ፤ “እስ ፆሳ አስ ታኮ ይስ፤ እያ መይ ፆሳ ኪታንቾ መላ ዳሮ ያሼስ። እ አዉፐ ይዳኮ ታኒ እያ ኦይቻብከ፤ እካ ባ ሱን ታዉ ኦድቤና። <verse eid="JDG 13:6"/><verse number="7" style="v" sid="JDG 13:7"/>ሽን እ ታኮ፥ ‘ነ ቃንታና፤ አደ ናአ የላና። ናአይ የለትዳ ዎደፐ ዶምድ ሀይቃና ጋካናዉ ፆሳስ ዱማትዳ ናዝራወ ግድያ ግሾ ዎይነ ዎይኮ ማይያ ኡሽ ኡዮፓ፤ ቱናባካ ሞፓ’ ያግስ” ያጋሱ።<verse eid="JDG 13:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JDG 13:8"/>ሄሳፈ ጉየ፥ ማኑሄይ፥ “አቤት ጎዳዉ፥ ናአይ የለትያ ዎደ አይ ኦናዉ ኮሽያኮ ኤርሳና መላ ኔኒ ኪትዳ ፆሳ ኡራይ ኑኮ ስሚድ ያና መላ ኦርክ” ያግድ ጎዳ ዎስስ።<verse eid="JDG 13:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JDG 13:9"/>ፆሳይ ማኑሄ ዎሳ ስእስ። ማችያ ጋደን ኡትዳሽን ፆሳ ኪታንቾይ ናምአን ይስ፤ ሽን ሄ ዎደ እ አዝናይ ማኑሄይ ኢራ ዴና። <verse eid="JDG 13:9"/><verse number="10" style="v" sid="JDG 13:10"/>ማችያ ኤለሳዳ ባ አዝናኮ ባዳ፥ “ሄደ ታኮ ይዳ አደይ ሀች ታዉ ቆንጭስ” ያጋሱ።<verse eid="JDG 13:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JDG 13:11"/>ማኑሄይ ኡትዳ በሳፈ ደንድድ፥ ባ ማችዉ ካል ብድ ኡራኮ፥ “ታ ማቸራ ኦደትዳይ ነኔ?” ያግድ ኦይችስ።</para>
+  <para style="p" vid="JDG 13:11">ኡራይ፥ “ኤ፥ ታና” ያግስ።<verse eid="JDG 13:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JDG 13:12"/>ማኑሄይ፥ “ኔኒ ኦድዳ ቃላይ ፖለትያ ዎደ የለታና ናኣ ደኡዋስነ ኦሱዋስ ዎጋይ አይቤ?” ያግድ እያ ኦይችስ።<verse eid="JDG 13:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JDG 13:13"/>ጎዳ ኪታንቾይ፥ “ነ ማችያ ታኒ ኦድዳ ኡባፈ ናገቶ። <verse eid="JDG 13:13"/><verse number="14" style="v" sid="JDG 13:14"/>ዎይነ ምፈ በንትያባ አይባካ ሞፖ፤ ዎይነ ዎይኮ ማይያ ኡሽ ኡዮፖ፤ ቱና ግድዳባ ሞፖ። ታኒ እዉ ኦድዳ ኡባ ኦ” ያግስ።<verse eid="JDG 13:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="JDG 13:15"/>ማኑሄይ ጎዳ ኪታንቹዋኮ፥ “ኑኒ ነዉ እስ ኡርገ ዴሽ ሹክድ ጊግሳና ጋካናዉ ሀያና ጉ ጋምአርክ” ያግስ።<verse eid="JDG 13:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JDG 13:16"/>ጎዳ ኪታንቾይ፥ “ታኒ ጋምእያኮካ ነ ካ ሚከ። ሽን ኔኒ ፁሳ ያርሾ ጊግሳናዉ ኮይኮ፥ ጎዳስ ያርሻናዉ ዳንዳኣሳ” ያግስ። እ ጎዳ ኪታንቾ ግደይሳ ማኑሄይ ኤርቤና።<verse eid="JDG 13:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JDG 13:17"/>ማኑሄይ ጎዳ ኪታንቹዋኮ፥ “ኔኒ ኦድዳ ቃላይ ፖለትያ ዎደ ኑኒ ነና ቦንቻና መላ ነ ሱንይ ኦኔ?” ያግድ ኦይችስ።<verse eid="JDG 13:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JDG 13:18"/>ጎዳ ኪታንቾይ፥ “ነ ታ ሱን አይስ ኦይቻይ? ታ ሱንይ ማላልሰይሳ”<note caller="+" style="f"><char style="fr" closed="false">13:18 </char><char style="fq" closed="false">ማላልሰይሳ፦ </char><char style="ft" closed="false">ታ ሱን ነ ኤራናዉ ዎይኮ ኦይካናዉ ዳንዳኦና ግሾ ታ ሱንይ ማላልሰይሳ ያግድ እያ ሱንይ ማላልስያ ኦሶን ቆንጨይሳ በስስ።</char></note> ያግድ ዛርስ።<verse eid="JDG 13:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JDG 13:19"/>ማኑሄይ ኡርገ ዴሽነ ካ ያርሹዋ ኤክድ ሹቻ ቦላ ጎዳስ ያርሽስ። ማኑሄይነ እያ ማችያ ፄልሽን፥ ጎዳይ ማላልስያባ ኦስ። <verse eid="JDG 13:19"/><verse number="20" style="v" sid="JDG 13:20"/>ያርሾ በሳፈ ታማ ላጮይ ፑደ ላፅድ ከይሽን፥ ጎዳ ኪታንቾይ ታማ ላጩዋ ግዶራ ሳሎ ከይስ። ማኑሄይነ እያ ማችያ ሄሳ በእድ ሶምኦራ ሳአን ጉፋንዶሶና። <verse eid="JDG 13:20"/><verse number="21" style="v" sid="JDG 13:21"/>ጎዳ ኪታንቾይ ማኑሄስነ እያ ማቼስ ዛር በንቶና አግን፥ ማኑሄይ እ ጎዳ ኪታንቾ ግድዳይሳ ሄ ዎደ አኬክስ።<verse eid="JDG 13:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JDG 13:22"/>ማኑሄይ ባ ማቸኮ፥ “ኑኒ ፆሳ በእዳ ግሾ ሀይቃና” ያግስ።<verse eid="JDG 13:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JDG 13:23"/>ሽን እያ ማችያ፥ “ጎዳይ ኑና ዎናዉ ኮይዳባ ግድያኮ፥ ፁሳ ያርሹዋነ ካ ያርሹዋ ኑፐ ኤከና ዎይኮ ሀ ኡባ ኑና በሰና ዎይኮ ሀይሳ ኑስ ኦደና” ያጋዳ ዛራሱ።<verse eid="JDG 13:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JDG 13:24"/>ማችያ አደ ናአ የላሱ፤ እያ ሱን ሳምሶና ጋዳ ፄጋሱ። ናአይ ድጭስ፤ ጎዳይካ እያ አንጅስ። <verse eid="JDG 13:24"/><verse number="25" style="v" sid="JDG 13:25"/>ናአይ ፆርአፈነ ኤሽታኦላፐ ግዶን ደእያ ዳነ ጉታን ደእሽን ጎዳ አያናይ እያ ደን ዶምስ።<verse eid="JDG 13:25"/></para>
+  <chapter eid="JDG 13"/>
+  <chapter number="14" style="c" sid="JDG 14"/>
+  <para style="s1">ሳምሶን ማቾ ኤኩዋ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 14:1"/>እስ ጋላስ ሳምሶን ትምና ዎስ፤ ያን እስ ፍልስፄመ ጌላእዉ በእስ። <verse eid="JDG 14:1"/><verse number="2" style="v" sid="JDG 14:2"/>እ ሶ ስሚድ ባ አዋነ ባ አይዉ፥ “ታኒ ትምናን እስ ፍልስፄመ ጌላእዉ በአስ፤ ሀእ እዮ ታዉ ኦይችድ እምተ” ያግስ።<verse eid="JDG 14:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="JDG 14:3"/>ሽን እያ አዋነ አይያ፥ “ማቾ ኦይቻናዉ ሀ ቃፃረትቦና ፍልስፄመታኮ ባናዉ ነና አይ ኮሽዴ? ኑ ኮቻ ግዶን ዎይኮ ኑ አሳ ኡባ ግዶን ነዉ ሀንያ ማጫ ናአ ደማናዉ ዳንዳአብኪ?” ያግድ ኦይችዶሶና።</para>
+  <para style="p" vid="JDG 14:3">ሽን ሳምሶን ባ አዋኮ፥ “ታኒ እዮ ዶስዳ ግሾ፥ እዮ ኦይቻዳ ታዉ እማ” ያግስ። <verse eid="JDG 14:3"/><verse number="4" style="v" sid="JDG 14:4"/>ፍልስፄመታ ኦላናዉ ጎዳይ ጋሶ ኮይድ፥ ሄሳ ኤንታ ቦላ ኦይሳ ሳምሶና አዋይነ አይያ ኤርቦኮና። ሄ ዎደ ፍልስፄመት እስራኤለታ ሃሮሶና።<verse eid="JDG 14:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JDG 14:5"/>ሳምሶን ባ አዋራነ ባ አየራ ትምና ዎስ። ኤንቲ ትምና ዎይነ ጋደ ማታራ ካንድ አያ ዎደ እስ ዎዳላ ጋሞይ ጉድሸ እያ ቦላ ከይስ። <verse eid="JDG 14:5"/><verse number="6" style="v" sid="JDG 14:6"/>ሄ ዎደ ጎዳ አያናይ ሳምሶና ቦላ ዎልቃን ዎስ፤ እ ዴሻ ማር ዱሰረይሳዳ ባ ኩሸን አይኮካ ኦይኮና ጋሙዋ ዱሰረ የግስ። ባ ኦዳይሳ ባ አዋስነ ባ አየስ ኦድቤና። <verse eid="JDG 14:6"/><verse number="7" style="v" sid="JDG 14:7"/>ሄሳፈ ጉየ ብድ ጌላእዉ ኦድስስ፤ እዮ ዶስስ።<verse eid="JDG 14:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JDG 14:8"/>ጉ ዎደፐ ጉየ እዮ ኤካናዉ ያ ስሚድ ብስ። ኦግያ ብሸ ባ ዎዳ ጋሞ ባዉታ በአናዉ ኦገፐ ጋፃ ከይድ ብያ ዎደ ጋሞ ባዉታ ግዶን ማ ኤስ ኤስዳይሳ በእስ። <verse eid="JDG 14:8"/><verse number="9" style="v" sid="JDG 14:9"/>ሄ ኤሳፈ ጉራ ቃንፅ ኤክድ ምሸ ኦግያ ብስ። ባ አዋነ ባ አይዉ ጋክድ፥ ባ ኦይክዳ ኤሳፈ ጉራ እምን፥ ኤንትካ ምዶሶና። ሽን ሳምሶን ሄ ኤሳ ጋሞ ባዉታ ግዶፈ ኤክዳይሳ ኤንታዉ ኦድቤና።<verse eid="JDG 14:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JDG 14:10"/>እያ አዋይ ጌላእዉ በአናዉ እ ሶ ብን፥ ሳምሶን ያን ግብራ ጊግስስ። ሄሳ መላ ግብራይ ያጋኖን ናአተት ኦያ ሜዘትዳ ዎጋ። <verse eid="JDG 14:10"/><verse number="11" style="v" sid="JDG 14:11"/>ፍልስፄመ አሳይ እያ በእዳ ዎደ እያራ ጋምአና መላ ሀስታሙ ናአተታ ዶርድ የድዶሶና። <verse eid="JDG 14:11"/><verse number="12" style="v" sid="JDG 14:12"/>ሳምሶን ኤንታ፥ “አነ ህንተ ኤርያኮ እስ ቃንእሸ ታ ህንተና ኦይቻና። ያጋኖይ ቦንቸትያ ላፑን ጋላሳ ግዶን ሀ ቃንእሽያ ብርሸ ታዉ ህንተ ኦድያባ ግድኮ ታኒ ህንተዉ ሀስታሙ ሊኖ አፍላነ ሀስታሙ ኩመ ማኦ እማና። <verse eid="JDG 14:12"/><verse number="13" style="v" sid="JDG 14:13"/>ሽን ህንተ ታዉ ብርሸ ኦዳናዉ ዳንዳኦና እፅኮ ህንተ ታዉ ሀስታሙ ሊኖ አፍላነ ሀስታሙ ኩመ ማኦ እሜታ” ያግድ ኦይችስ።</para>
+  <para style="p" vid="JDG 14:13">ኤንቲ፥ “ኤሮ፥ ነ ቃንእሽያ ኑስ ኦዳ” ያግዶሶና።<verse eid="JDG 14:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JDG 14:14"/>እ፥</para>
+  <para style="q1" vid="JDG 14:14">“መይሳፈ ሜተትያባይ በንትስ፤</para>
+  <para style="q2" vid="JDG 14:14">ምኑዋ ጋርሳፈ ማልእያባይ ከይስ” ያግስ።</para>
+  <para style="m" vid="JDG 14:14">ሄ ጋላስ ጋካናዉ ኤንቲ ቃንእሽያ ብርሻናዉ ዳንዳእቦኮና።<verse eid="JDG 14:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="JDG 14:15"/>ኦይዳን ጋላስ ኤንቲ ሳምሶና ማችዉ፥ “ነ አዝና ጭማዳ ቃንእሽያ ብርሸ እ ኑስ ኦዳና መላ ኦ። ሄስ ሀኖና እፅኮ፥ ኑኒ ነናነ ነ አዋ ኬ ታማን ፁጋና። ህንተ ኑና ፄግዳይ ኑና ማንቅሳናሴ?” ያግዶሶና።<verse eid="JDG 14:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JDG 14:16"/>ያትን፥ ሳምሶና ማችያ ዬካሸ እያኮ ሺቃዳ፥ “ኔኒ ታና ዶሳካ፤ ነ ታና ዳሮ እፃሳ። ኔኒ ታ ቢታ አሳ ቃንእሸ ኦይቻዳ ብርሸ ታዉ ኦዳባካ” ያጋሱ።</para>
+  <para style="p" vid="JDG 14:16">እ ዛሪድ፥ “ሄሳ ታኒ ታ አዋስነ ታ አየስ ኦዳብከ። ያትን፥ ነዉ አይስ ኦዶ?” ያግስ። <verse eid="JDG 14:16"/><verse number="17" style="v" sid="JDG 14:17"/>ያጋኖይ ቦንቸትያ ላፑን ጋላሳ ኡባን ዬካዳ ሸምፖ ድጋሱ። ላፑን ጋላስ ቃንእሽያ ብርሸ እዉ ኦድስ፤ እያ ባዳ ባ ቢታ አሳስ ኦዳሱ።<verse eid="JDG 14:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JDG 14:18"/>ያትን፥ ላፑን ጋላስ አው ዉላናፐ ስን ካታማ አሳይ፥</para>
+  <para style="q1" vid="JDG 14:18">“ኤሳፈ አድ ማልእያባይ፥</para>
+  <para style="q2" vid="JDG 14:18">ጋሞፈ አድ ምንያባይ አይቤ?”</para>
+  <para style="m" vid="JDG 14:18">ያግድ ቃንእሽያ ብርሸ ኦድዶሶና።</para>
+  <para style="p" vid="JDG 14:18">ሳምሶን ኤንታኮ፥ “ህንተ ታ ኡሰን ጎዮናባ ግድያኮ፥ ታ ቃንእሽያ ብርሸ ኤረከታሽን” ያግስ።<verse eid="JDG 14:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JDG 14:19"/>ሄሳፈ ጉየ፥ ጎዳ አያናይ እያ ቦላ ዎልቃን ዎን፥ አስቃሎና ዎድ፥ ሀስታሙ አስ ዎስ። ኤንታ ማኡዋ ቃር ኤክድ ቃንእሽያ ብርሽዳ አሳስ እሚስ። ሀንዳባ ኡባን ዳሮ ሸነትድ ባ አዋ ሶ ስምስ። <verse eid="JDG 14:19"/><verse number="20" style="v" sid="JDG 14:20"/>ሳምሶና ማችያ ዋና ላዛን ግድዳ እያ ላግያስ እመታሱ።<verse eid="JDG 14:20"/></para>
+  <chapter eid="JDG 14"/>
+  <chapter number="15" style="c" sid="JDG 15"/>
+  <para style="s1">ሳምሶን ፍልስፄመታ ሀሎ ከይስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 15:1"/>ጉ ዎደፐ ጉየ፥ ግስተ ጫካ ዎደ ሳምሶን ባ ማችዉ በአናዉ እስ ኡርገ ኮለ ኤክድ ብስ። ናኤ አዋኮ፥ “ታኒ ታ ማችያ ደእያ ክፍልያ ገላናዉ ኮያይስ” ያግስ።</para>
+  <para style="p" vid="JDG 15:1">ሽን እ አዋይ እ ገሎናዳ ድግስ። <verse eid="JDG 15:1"/><verse number="2" style="v" sid="JDG 15:2"/>እ አዋይ ሳምሶናኮ፥ “ኔኒ እዮ እፅዳባ ዳንን እዮ ነ ላዛንስ እማስ። ሽን እ፥ ካሎ ምችያ ኢፐ አዳ ማላ ሎኦ ግደኬ? እዮ ኤካ” ያግስ።<verse eid="JDG 15:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="JDG 15:3"/>ሳምሶን፥ “ታኒ ሀእ ፍልስፄመ አሳ ቦላ ኢታባ ኦኮ ባላ ግድከ” ያግስ። <verse eid="JDG 15:3"/><verse number="4" style="v" sid="JDG 15:4"/>ሄሳፈ ጉየ፥ ብድ ሄ ፄቱ ዎርካናታ ኦይክድ ናምኣ ናምአ ጎይና እስፈ ጋ ቃችድ ጎይናታፐ ግዶን ፆምፐ ዎድ ቃችስ። <verse eid="JDG 15:4"/><verse number="5" style="v" sid="JDG 15:5"/>ፆምፕያን ታማ ኦይድ ቡሮ ጫከትቦና ፍልስፄመታ ካ ግዶ ዎርካናታ የድስ። ታማይ ጫከትዳ ካ፥ ኤቆን ደእያ ካ፥ ዎይንያነ ሻማሁዋ ምስ።<verse eid="JDG 15:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JDG 15:6"/>ፍልስፄመት፥ “ሀይሳ ኦዳይ ኦኔ?” ያግድ ኦይችዶሶና።</para>
+  <para style="p" vid="JDG 15:6">አሳይ፥ “ሄሳ ኦዳይ ሳምሶና። ትምና አስ ግድዳ እያ ቦሎይ፥ እያ ማችዉ እያ ላዛንስ እምዳ ግሾ ሄሳ ኦስ” ያግዶሶና። ፍልስፄመት ብድ እዮነ እ አዋ ታማን ፁግዶሶና።<verse eid="JDG 15:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JDG 15:7"/>ሳምሶን ኤንታኮ፥ “ህንተ ሄሳ ኦዳ ግሾ ታ ሀሎ ከዮና አግከ” ያግስ። <verse eid="JDG 15:7"/><verse number="8" style="v" sid="JDG 15:8"/>እ ኤንታ ዎልቃማ ኢታ ሾች ሾጭድ ዳሮታ ዎስ። ሄሳፈ ጉየ ብድ፥ ኤታማ ጎንጎሉዋን ደእስ።<verse eid="JDG 15:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JDG 15:9"/>ፍልስፄመ አሳይ ይድ ይሁዳን ዱንካንድ ለሀ ካታማ ኦልስ። <verse eid="JDG 15:9"/><verse number="10" style="v" sid="JDG 15:10"/>ይሁዳ አሳይ፥ “አይስ ኑና ኦላናዉ ይደቲ?” ያግድ ኦይችዶሶና።</para>
+  <para style="p" vid="JDG 15:10">ኤንቲ፥ “ኑኒ ሳምሶና ኦይክድ ቃቻናዉነ እ ኑ ቦላ ኦዳይሳዳ እያ ቦላ ኦናዉ ይዳ” ያግድ ዛርዶሶና። <verse eid="JDG 15:10"/><verse number="11" style="v" sid="JDG 15:11"/>ያትን፥ ይሁዳፐ ሄ ሙኩሉ አሳይ ኤታማ ጎንጎሉዋ ብድ፥ ሳምሶና፥ “ኑና ሃረይ ፍልስፄመ ግደይሳ ኤርኪ? ያትን፥ ኑ ቦላ ሀይሳ መላ ፓላባ አይስ ኦይ?” ያግዶሶና።</para>
+  <para style="p" vid="JDG 15:11">እ ዛሪድ፥ “ኤንቲ ታ ቦላ ኦዳይሳዳ ታንካ ኤንታ ቦላ ኦስ” ያግስ።<verse eid="JDG 15:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JDG 15:12"/>ኤንቲ ዛሪድ፥ “ኑኒ ይዳይ ነና ቃችድ፥ ፍልስፄመታስ አድ እማናሳ” ያግዶሶና።</para>
+  <para style="p" vid="JDG 15:12">ሳምሶን ዛሪድ፥ “ህንተ ኑ ነና ዎኮ ግድ ታዉ ጫቅተ” ያግስ።<verse eid="JDG 15:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JDG 15:13"/>ኤንቲ፥ “ኤሮ፥ ኑኒ ነና ቃችድ ኤንታዉ አድ እማናፐ አትሽን፥ ዎኮ” ያግድ ዛርዶሶና። ሄሳ ግሾ፥ ናምኡ ኦራ ዎዶሮን ቃችድ ጎንጎሉዋፐ ከስድ ኤፍዶሶና።<verse eid="JDG 15:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JDG 15:14"/>ሳምሶን ለሀ ብዳ ዎደ ፍልስፄመት ቡራቅሸ እያኮ ይዶሶና። ጎዳ አያናይ እያ ቦላ ዎልቃን ዎስ። እያ ኩሸይ ቃሸትዳ ዎዶሮይ ሻሎይ ታማ በእድ ዱፀረተይሳዳ ዱፀረት ዎስ። <verse eid="JDG 15:14"/><verse number="15" style="v" sid="JDG 15:15"/>ማታ ዎደ ሀይቅዳ ሀረ ጋጮ ደምድ፥ እያራ ሙኩሉ አስ ዎስ። <verse eid="JDG 15:15"/><verse number="16" style="v" sid="JDG 15:16"/>ሳምሶን፥</para>
+  <para style="q1" vid="JDG 15:16">“ሀረ ጋጮን፥</para>
+  <para style="q2" vid="JDG 15:16">አሀ ቦላ አሀ ዶራስ።</para>
+  <para style="q1" vid="JDG 15:16">ሀረ ጋጮን</para>
+  <para style="q2" vid="JDG 15:16">ሙኩሉ አስ ዎስ” ያግስ። <verse eid="JDG 15:16"/><verse number="17" style="v" sid="JDG 15:17"/>ሃሳያ ዉርስዳፐ ጉየ፥ ባ ኦይክዳ ጋጩዋ ሆልድ ሄ በሳ ራማት-ለሀ<note caller="+" style="f"><char style="fr" closed="false">15:17 </char><char style="fq" closed="false">ራማት-ለሀ፦ ሀ ሱን ብርሸይ “ጋፓታ ደረ” ጉሱ።</char></note> ያግድ ፄግስ።<verse eid="JDG 15:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JDG 15:18"/>ሳምሶን ዳሮ ሳሞትድ፥ “ኔኒ ሀይሳ መላ ግታ ፆኖ ታዉ ነ አይልያስ እማዳሳ። ያትን፥ ታኒ ሀእ ሳሞን ሀይቆ? ሀ ቃፃረቶና አሳ ኩሸን ዎ?” ያግድ ፆሳኮ ዋስስ። <verse eid="JDG 15:18"/><verse number="19" style="v" sid="JDG 15:19"/>ፆሳይ ለሀን ደእያ አፎ ካካ ጳልቅን እያፐ ሃ ከይስ። ሳምሶን ሄ ሃ ኡይድ አልዳ ዎደ እያዉ ሸምፖይ ስምስ። ሄሳ ግሾ፥ ሄ በሳ አይን-ሀቆረ<note caller="+" style="f"><char style="fr" closed="false">15:19 </char><char style="fq" closed="false">አይን-ሀቆረ፦ </char><char style="ft" closed="false">ሀ ሱን ብርሸይ ፄገይሳታ ፑልቶ ጉሱ።</char></note> ያግድ ፄግስ። ሄ በሳይ ሀች ጋካናዉ ለሀን ደኤስ።<verse eid="JDG 15:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="JDG 15:20"/>ፍልስፄመት ቢታ ሃርያ ዎደ ሳምሶን እስራኤለ ላታሙ ላይ አይስስ።<verse eid="JDG 15:20"/></para>
+  <chapter eid="JDG 15"/>
+  <chapter number="16" style="c" sid="JDG 16"/>
+  <para style="s1">ሳምሶናነ ዳልላ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 16:1"/>እስ ጋላስ ሳምሶን ፍልስፄመ ካታማ ግድዳ ጋዛ ካታማ ብስ፤ ያን እስ ላይማ ማጫስ በእድ ኢራ አቃናዉ እ ሶ ገልስ። <verse eid="JDG 16:1"/><verse number="2" style="v" sid="JDG 16:2"/>ጋዛ ካታማ አሳይ ሳምሶን ኤንታ ካታማ ይዳይሳ ስእድ ኬ ተቅድ ቃማ ኩመ ናግሸ ካታማ ፐንግያን አቅዶሶና። ሳእ ዎንትኮ ዎና ግድ ናግሸ ዶና ጱቆና አቅዶሶና። <verse eid="JDG 16:2"/><verse number="3" style="v" sid="JDG 16:3"/>ሽን ሳምሶን ያን ግድ ብላሄ ጋካናዉ ጋምእስ። ብላሄ ደንድድ ካታማ ድርሳ ፐንግያ፥ ፐንግያ ኦይክያ ናምኡ ቱሳታነ ኮበ ብራታታ እስፈ ሾድስ። ሄ ኡባ ሀሸን ቶክድ ከብሮናፐ ስን ባጋራ ደእያ ዙማ ሁጰ ከስስ።<verse eid="JDG 16:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JDG 16:4"/>ጉ ዎደፐ ጉየ ሳምሶን ሶረቃ ዛንጋራን ደእያ እስ ዳልሎ ጌተትያ ማጫስዉ ዶስስ። <verse eid="JDG 16:4"/><verse number="5" style="v" sid="JDG 16:5"/>ፍልስፄመ ሀላቃት ኢኮ ብድ፥ “ኔኒ እያ ጭማዳ፥ ሄ ዎልቃ ኡባ እ አዉፐ ደምያኮነ ኑኒ እያ ዋት ፆንድ ቃቻናዉ ዳንዳእያኮ ኦይቻ። ኑኒ እሶይ እሶይ ነዉ ታማነ እስ ክሎ ግራመ ብራ ሳንትመ እማና” ያግዶሶና።<verse eid="JDG 16:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JDG 16:6"/>ሄሳ ግሾ ዳልላ ሳምሶናኮ፥ “ሀይሳ መላ ምኖተ ነ አዉፐ ደምዳኮ፥ ሀያና ታዉ ኦዳርኪ። አስ ነና ቃችድ ዋትድ ነ ዎልቃ ዳቡርሳናዉ ዳንዳኢ?” ያጋሱ።<verse eid="JDG 16:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JDG 16:7"/>ሳምሶን፥ “ታና ላፑን እርፃ ዳፎራ አስ ቃችኮ ዳቡራዳ ሀራ አሳዳ ሀናና” ያግድ ዛርስ።<verse eid="JDG 16:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JDG 16:8"/>ፍልስፄመ ሀላቃት ዳልላስ ላፑን እርፃ ዳፎታ ኤህን እያ ሳምሶና ቃቻሱ። <verse eid="JDG 16:8"/><verse number="9" style="v" sid="JDG 16:9"/>ቆልአን አሰ ቆታ ዎዳ፥ “ሳምሶና፥ ፍልስፄመት ይዶሶና” ጋዳ ፄጋሱ። ሽን ሻሎይ ታም ኦይክን ዱፀረተይሳዳ ዳፎታ ዱሰረ የግስ። ሀእካ እያ ምኖተ ፁራይ ኤረትቤና።<verse eid="JDG 16:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JDG 16:10"/>ዳልላ ሳምሶናኮ፥ “ኔኒ ታና ኤያ ኦሳ፤ ነ ታዉ ዎርዶ ኦዳዳሳ። ሀእካ ነና ዋት ቃቻናዉ ዳንዳኤትያኮ ሀያና ታዉ ኦዳ” ያጋሱ።<verse eid="JDG 16:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JDG 16:11"/>እ ዛሪድ፥ “አስ ጎኤትቦና ኦራ ዎዶሮን ታና ቃችኮ ዳቡራዳ ሀራ አሳዳ ሀናና” ያግስ።<verse eid="JDG 16:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JDG 16:12"/>ዳልላ ኦራ ዎዶሮ ኤካዳ ሳምሶና ቃቻሱ። ቆልአን አሰ ቆታ ዎዳ፥ “ሳምሶና፥ ፍልስፄመት ይዶሶና” ያጋሱ። ሽን እ ዎዶሩዋ ባ ቀስያፐ ሻሎዳ ዱሰረ የግስ።<verse eid="JDG 16:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JDG 16:13"/>ዳልላ ሳምሶናኮ፥ “ሀእ ጋካናዉ ነ ታና ጭማሳ፤ ኔኒ ታዉ ዎርዶ ኦዳዳሳ። ሀእካ ነና ዋትድ ቃቻናዉ ዳንዳኤትያኮ ሀያና ታዉ ኦዳ” ያጋሱ።</para>
+  <para style="p" vid="JDG 16:13">እ ዛሪድ፥ “ታ ሁጵያ ላፑን ብናና ዳታ ቃጭናራ ጋዳ፥ ቁፃራዳ ዳድኮ፥ ታኒ ዳቡራዳ ሀራ አሳዳ ሀናና” ያግስ።<verse eid="JDG 16:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JDG 16:14"/>ሄሳፈ ጉየ፥ ሳምሶን ስክዳሽን፥ ዳልላ እያ ሁጵያ ላፑን ብናና ዳታ ቃጭናራ ጋዳ ዶቃሱ። ሄሳፈ ጉየ፥ “ሳምሶና፥ ፍልስፄመት ይዶሶና” ያጋሱ። እ ስኮፈ ባርክድ፥ ባ ብናናይ ዶቀትድ ቶለትዳ በሳፈ ሾድ ኤክስ።<verse eid="JDG 16:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="JDG 16:15"/>ያትን እያ፥ “ነ ዎዛናይ ታራ ዴና፥ ‘ዎይጋዳ ታ ነና ዶሳይስ’ ጋይ? ሄ ቶሆ ታና ጭማዳሳ። ኔኒ ሀ ምኖተ አዉፐ ደምያኮ ታዉ ኦዳ” ያጋሱ። <verse eid="JDG 16:15"/><verse number="16" style="v" sid="JDG 16:16"/>ጋላስ ጋላስ ኦይቻዳ እ ሀይቆ አሞታና ጋካናዉ እያ ዋይሳሱ።<verse eid="JDG 16:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JDG 16:17"/>ዉርሰን ሳምሶን፥ “ታ አየ ኡሎፐ ዶምን ታኒ ፆሳስ ዱማትዳ ናዝራወ ግድዳ ግሾ፥ ታ ሁጰ ብናናይ ሜደትድ ኤረና። ታ ብናናይ ሜደትኮ፥ ታ ዎልቃይ ታፐ ኤከትን፥ ታኒ ዳቡራዳ ሀራ አሳዳ ሀናና” ያግድ፥ ባ ፁራ ኡባ እዉ ኦድስ።<verse eid="JDG 16:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JDG 16:18"/>ባ ዎዛናን ደእያባ ኡባ እ ኦድዳይሳ ዳልላ በእዳ ዎደ፥ “ባ ዎዛናን ደእያባ ኡባ ታዉ ኦድዳ ግሾ፥ አነ እስ ቶሆ ስሚድ ዪተ” ያጋዳ ፍልስፄመ ሀላቃታስ ኪታ የድን ኤንቲ ብራ ኤክድ ኢኮ ይዶሶና። <verse eid="JDG 16:18"/><verse number="19" style="v" sid="JDG 16:19"/>ዳልላ ሳምሶና ባ ዎድረ ቦላ ስክሳዳ እስ አስ ፄግን ይድ፥ እያ ሁጵያ ላፑን ዳ ብናና ሜድን እያ ዎልቃይ እያፐ ይስ። ሄሳፈ ጉየ፥ እያ ዋይሶ ዶማሱ። <verse eid="JDG 16:19"/><verse number="20" style="v" sid="JDG 16:20"/>እያ፥ “ሳምሶና፥ ፍልስፄመት ይዶሶና” ያጋሱ።</para>
+  <para style="p" vid="JDG 16:20">እ ስኮፈ ባርክድ፥ ካሰይሳዳ ዱሰረዳ ባና ያግድ ቆፕስ፤ ሽን ጎዳይ እያፐ ሻከትዳይሳ ኤርቤና።<verse eid="JDG 16:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="JDG 16:21"/>ፍልስፄመት እያ ኦይክዳፐ ጉየ፥ እያ ናምኡ አይፈታ ዎጭ ከስዶሶና። ጋዛ ካታማ ኤፍድ ናሰ ብራታ ሳንላታን ቃችድ ቃሾ ኬን ካ ጋጭስዶሶና። <verse eid="JDG 16:21"/><verse number="22" style="v" sid="JDG 16:22"/>ኤንቲ እያ ሁጵያ ብናና ሜድዳፐ ጉየ፥ ብናናይ ስሚድ ዶሎ ዶምስ።<verse eid="JDG 16:22"/></para>
+  <para style="s1">ሳምሶና ሀይቁዋ</para>
+  <para style="p">
+    <verse number="23" style="v" sid="JDG 16:23"/>ፍልስፄመ ሀላቃት፥ “ኑ ፆሳይ ኑ ሞርክያ ሳምሶና ኑ ኩሸን አድ እሚስ” ያግድ ባንታ ፆሳ ዳጎናስ ያርሾ ያርሻናዉነ ኡፋይታናዉ እስፈ ሺቅዶሶና።<verse eid="JDG 16:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JDG 16:24"/>አስ ኡባይ እያ በእዳ ዎደ፥ “ኑ ቢታ ይስዳነ ኑፐ ዳሮታ ዎዳ ኑ ሞርክያ፥ ኑ ፆሳይ ኑ ኩሸን አድ እሚስ” ያግድ ባንታ ፆሳ ጋላትዶሶና። <verse eid="JDG 16:24"/><verse number="25" style="v" sid="JDG 16:25"/>ኤንቲ ዳሮ ኡፋይትዳ ግሾ፥ “ዱርድ ኑና ኡፋይሳና መላ ሳምሶና ፄግተ” ያግዶሶና። ሳምሶና ቃሾ ኬፈ ፄግድ ኤህን፥ እ ኤንታ ስንን ዱርዳፐ ጉየ ቱሳታፐ ግዶን ኤስዶሶና።<verse eid="JDG 16:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JDG 16:26"/>ሳምሶን ባ ኩሽያ ኦይክድ ካለያ ናኣኮ፥ “ታኒ ኤንታን ዘምፓዳ ኤቃና መላ ኬ ቶክዳ ቱሳታ ታና ኦይ” ያግስ። <verse eid="JDG 16:26"/><verse number="27" style="v" sid="JDG 16:27"/>ኬ ግዶን አደይነ ማጫስ፥ ሄሳዳካ ፍልስፄመ ሀላቃት ኡባይ ኩምድ ደኦሶና። ሳምሶን ዱርሽን፥ ፖቅያ ቦላ ኡትድ በእያ ሄ ሙኩሉ ግድያ አደይነ ማጫስ በኦሶና።<verse eid="JDG 16:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JDG 16:28"/>ሄ ዎደ ሳምሶን፥ “አቤት ኡባ ሃርያ ጎዳዉ፥ ታና ቆፓርክ። አቤት ፆሳዉ፥ ፍልስፄመት ታ ናምኡ አይፈታ ከስዳ ግሾ፥ ሀሎ ከያና መላ ታና እስ ቶሆ ምንርክ!” ያግድ ጎዳ ዎስስ። <verse eid="JDG 16:28"/><verse number="29" style="v" sid="JDG 16:29"/>ሳምሶን ኬ ቶክዳ ግዶ ቱሳታ ናምኣካ ኦይክስ። እሱዋ ኡሻቻ ኩሸን፥ እሱዋ፥ ሀድርሳ ኩሸን ኦይክዳፐ ጉየ፥ <verse eid="JDG 16:29"/><verse number="30" style="v" sid="JDG 16:30"/>“ታኒ ፍልስፄመታራ እስፈ ሀይቃና” ያግድ ዋስስ። ባዉ ደእያ ዎልቃ ኡባን ሱግን፥ ኬይ ሀላቃታ ቦላነ ጋርሳን ደእያ አሳ ኡባ ቦላ ኩንድስ። ሳምሶን ፓፃ ደእሸ ዎዳ አሳፐ ሀይቅሸ ዎዳ አሳይ ዳሮ።<verse eid="JDG 16:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="JDG 16:31"/>እያ እሻትነ እያ ዳቦት ኡባይ ይድ፥ እያ አሀ ኤክዶሶና። ፆርአፈነ ኤሽታኦላፐ ግዶን እያ አዋ ማኑሄ ዱፉዋን ሞግዶሶና። ሳምሶን እስራኤለ ላታሙ ላይ አይስስ።<verse eid="JDG 16:31"/></para>
+  <chapter eid="JDG 16"/>
+  <chapter number="17" style="c" sid="JDG 17"/>
+  <para style="s1">ምካ ኤቃታ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 17:1"/>ደረይ ዳርያ ኤፍሬማ ቢታን ምካ ጌተትያ እስ አደይ ደኤስ። <verse eid="JDG 17:1"/><verse number="2" style="v" sid="JDG 17:2"/>እስ ጋላስ ሚክ ባ አይዉ፥ “ኔፐ አስ ታማነ እስ ክሎ ግራመ ብራ ሳንትመ ካይስን ኔኒ ሄ ካይስዳ አድያ ባድሽን ታ ስአስ። ሄ ሚሸይ ታ ማታን ደኤስ፤ ታኒ ኤካስ” ያግስ።</para>
+  <para style="p" vid="JDG 17:2">እያ አይያ፥ “ታ ናአዉ፥ ነና ጎድ አንጆ” ያጋሱ። <verse eid="JDG 17:2"/><verse number="3" style="v" sid="JDG 17:3"/>ናአይ ታማነ እስ ክሎ ግራመ ብራ ሳንትመ አየስ ዛርስ። እያ አይያ፥ “ባደይ ታ ናኣ ጋኮና መላ ታኒ ሀ ሚሽያ ጎዳስ ዱማያና። ብራ ሼሽድ፥ ምፈ ኦሰትዳ ኤቃ ምስልያ ትያናዉ ጎኤታና፤ ብራ ታ ነዉ ዛራና” ያጋሱ።<verse eid="JDG 17:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JDG 17:4"/>ናአይ ሚሽያ ባ አየስ ዛርን፥ እያ ሄ ብራፐ ናምኡ ፄቱ ብራ ሳንትመ ኤካዳ፥ ም ማስድ፥ ብራ ሼሽ ትይድ፥ ኤቃ ምስለ መያ፥ እስ ሂላስ እማሱ። እ ኦዳ ምስለይ ምካ ሶን ኡትስ።<verse eid="JDG 17:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JDG 17:5"/>ምካስ ኤቃ ጎይንያ ኬ ደኤስ። እ ኤፉደነ ሶ ግዶ ኤቃ ምስለታ ጊግስድ፥ ሄ ኬን ባ ናይታፐ እሱዋ ካህነ ኦድ ሹምስ። <verse eid="JDG 17:5"/><verse number="6" style="v" sid="JDG 17:6"/>ሄ ዎደ እስራኤለ ቢታን ካዎይ ባዋ፤ አስ ኡባይ ባዉ ሎኦ ዳንዳባ ኦስ።<verse eid="JDG 17:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JDG 17:7"/>ሄ ዎደ ይሁዳ ቢታን ቤተለመ ካታማን ሌወ ኮቸ ግድዳ እስ ናአተይ ደኤስ። <verse eid="JDG 17:7"/><verse number="8" style="v" sid="JDG 17:8"/>ሀ አደይ ባዉ ደእያ በሲ ኮያናዉ ቤተለመ ካታማፐ ደንድድ ደረይ ዳርያ ኤፍሬማ ቢታን ደእያ ምካ ሶ ጋክስ። <verse eid="JDG 17:8"/><verse number="9" style="v" sid="JDG 17:9"/>ምክ፥ “አዉፐ ያዲ?” ያግድ ኦይችስ።</para>
+  <para style="p" vid="JDG 17:9">አደይ፥ “ታኒ ይሁዳ ቢታ ቤተለመ ካታማፐ ያስ፤ ታኒ ሌወ ኮቸ። ሀእ ታኒ ደእያ በሲ ኮያይስ” ያግድ ዛርስ።<verse eid="JDG 17:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JDG 17:10"/>ሚክ እያኮ፥ “ታራ ደአ፤ ታዉ አዋነ ካህነ ግዳ። ታኒ ነዉ ላይን ላይን ታሙ ብራ ሳንትመ፥ ኩመ አፍላነ ምያባ እማና” ያግስ። <verse eid="JDG 17:10"/><verse number="11" style="v" sid="JDG 17:11"/>ናአተ ሌወይ ምካራ እስፈ ዳናዉ ገልስ፤ ምካስ የልዳ ናአዳ ሀንስ። <verse eid="JDG 17:11"/><verse number="12" style="v" sid="JDG 17:12"/>ሚክ እያ ባ ካህነ ኦድ ሹምን እያ ሶን ደእስ። <verse eid="JDG 17:12"/><verse number="13" style="v" sid="JDG 17:13"/>ሚክ፥ “እስ ሌወይ ታዉ ካህነ ግድዳ ግሾ ጎዳይ ታባ ሎይናይሳ ኤራይስ” ያግስ።<verse eid="JDG 17:13"/></para>
+  <chapter eid="JDG 17"/>
+  <chapter number="18" style="c" sid="JDG 18"/>
+  <para style="s1">ምካነ ዳነ ኮቻ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 18:1"/>ሄ ዎደ እስራኤለ ቢታን ካዎይ ባዋ። ሄ ዎደይ ጋካናዉ ዳነ ኮቻት እስራኤለ ኮቻታ ግዶን ላትዳ ቢት ባዋ። ኤንቲ ባንታዉ ደእያ ቢታ ኮይሸ ደኦሶና። <verse eid="JDG 18:1"/><verse number="2" style="v" sid="JDG 18:2"/>ሄሳ ግሾ፥ ዳነ ኮቻት ባንታ ግዶፈ እቻሹ ምኖ ኦላንቾታ ዶርድ ቢታ ዎቻና መላ ፆርአፈነ ኤሽታኦላፐ ኤንታ ኪትዶሶና።</para>
+  <para style="p" vid="JDG 18:2">ኤንቲ ደረይ ዳርያ ኤፍሬማ ቢታ ጋክድ ምካ ሶን አቅዶሶና። <verse eid="JDG 18:2"/><verse number="3" style="v" sid="JDG 18:3"/>ኤንቲ ምካ ሶን ደእያ ዎደ ሌወ ኮቸ ግድዳ ናአተ እያ ኦዳን ኤርዶሶና። ኤንቲ እያኮ ሺቅድ፥ “ነና ሀይሳ ኤህዳይ ኦኔ? ሀይሳ አይስ ያዲ?” ያግድ ኦይችዶሶና።<verse eid="JDG 18:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JDG 18:4"/>እ ዛሪድ፥ “ሚክ ታዉ ዳሞዘ ቃንፅን፥ ታኒ እያዉ ካህነ ግዳዳ ኦይስ” ያግስ።<verse eid="JDG 18:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JDG 18:5"/>ኤንቲ፥ “ኑኒ ብያ ኦገይ ኑስ ሱራነ፥ ሱረነ ሀያና ኑስ ፆሰ ኦይቻ” ያግዶሶና።<verse eid="JDG 18:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JDG 18:6"/>ካህነይ፥ “ሳሮ ቢተ፤ ህንተ ብያ ኦግያን ጎዳይ ህንተራ ግዳና” ያግስ።<verse eid="JDG 18:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JDG 18:7"/>ሄሳፐ ጉየ፥ እቻሹ አሳት ያፐ ደንድድ፥ ላይሻ ካታማ ጋክዶሶና። ያን ደእያ አሳይ ስዶና ቢታ አሳዳ ሳሮን ደኤይሳ በእዶሶና፤ አሳት ኦንካ ስና ዎፑ ግዳ አስ፤ ኤንታዉ አይኮይካ ፓጮና ኡባባይ ኩምዳ አስ። አይ አሳራካ ጋሄቶና ስዶና አሳፐ ሃክድ ባንታዉ ዱማ ደኦሶና።<verse eid="JDG 18:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JDG 18:8"/>እቻሹ አሳት ፆርአንነ ኤሽታኦላን ደእያ ባንታ እሻታኮ ስምዶሶና፤ ኤንታ እሻት፥ “አይ ዎረ ኤክድ ይደቲ?” ያግዶሶና።<verse eid="JDG 18:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JDG 18:9"/>ኤንቲ ዛሪድ፥ “ቢታይ ዳሮ አራዳ ግደይሳ ኑ በእዳ። አነ ደንድድ ላይሻ ኦሎስ። ሀይሳን ኦሶ ይድ ጮ ኡቶፍተ፤ ኤለ ብድ ኦይክተ። <verse eid="JDG 18:9"/><verse number="10" style="v" sid="JDG 18:10"/>ህንተ ያ ብድ፥ ኦናነ ስና ኡትዳ አሳኮ ጋካና። ቢታይ ዳልጋ፤ አሳስ ኮሽያ ኡባባይ ሄ ቢታን ደኤስ። ፆሳይ ሄ ቢታ ህንተዉ እሚስ” ያግዶሶና።<verse eid="JDG 18:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JDG 18:11"/>ያትን፥ ዳነ ኮቻፈ ቶራ ዳንጭዳ ኡሱፑን ፄቱ አሳት ፆርአፐነ ኤሽታኦላፐ ደንድድ ብዶሶና። <verse eid="JDG 18:11"/><verse number="12" style="v" sid="JDG 18:12"/>ይሁዳ ቢታን ቅርያት-ይኣርማፐ ዉሎሀ ባጋራ ኡትዶሶና። ሄሳ ግሾ፥ ሄ በሳይ ሀች ጋካናዉ ዳነ ጉታ ጌተትድ ፄገቴስ። <verse eid="JDG 18:12"/><verse number="13" style="v" sid="JDG 18:13"/>ያፐ ደንድድ ደረይ ዳርያ ኤፍሬማ ቢታን ደእያ ምካ ሶ ይዶሶና።<verse eid="JDG 18:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JDG 18:14"/>ላይሻ ቢታ ዎቻናዉ ብዳ እቻሹ አሳት ባንታ እሻታኮ፥ “ሀ በሳን፥ ሀ ኬታፐ እሱዋን ኤፉደይ፥ ሶ ግዶ ኤቃ ምስለትነ ምፈ ኦድ ብራ ሼሽድ ትይዳ ምስለይ ደኤይሳ ኤሬቲ? አነ አይ ኦናዉ ኮሽያኮ ቆፕተ” ያግዶሶና። <verse eid="JDG 18:14"/><verse number="15" style="v" sid="JDG 18:15"/>ኤንቲ ኦግያፐ ስሚድ፥ ሌወ ኮቸ ግድዳ ናአተ ካህነይ ደእያ ምካ ሶ ብድ እያ ሳሮዶሶና። <verse eid="JDG 18:15"/><verse number="16" style="v" sid="JDG 18:16"/>ሄ ዎደ ኡሱፑን ፄቱ ዳነ ኦላንቾት ኦላ ሚሸ ኦይክድ ፐንገ ቦላ ኤቅዶሶና። <verse eid="JDG 18:16"/><verse number="17" style="v" sid="JDG 18:17"/>ኤንቲ ሄ ካህንያራ ያን ኤቅዳሽን፥ ቢታ ዎችያ እቻሹ አሳት ምካ ሶ ገልድ፥ ምፈ ኦድ፥ ብራ ሼሽድ፥ ትይዳ ኤቃ ምስልያ፥ ኤፉድያነ ሶ ግዶ ኤቃ ምስለታ ኤክዶሶና።<verse eid="JDG 18:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JDG 18:18"/>ሄ ዎደ ካህነይ ኤንታ፥ “ዋተቲ?” ያግድ ኦይችስ።<verse eid="JDG 18:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JDG 18:19"/>ኤንቲ እያ፥ “ሀይዛ፥ እስ ቃላካ ፖጎፓ። ኑራ ባዳ ኑስ አዋነ ካህነ ግዳ። እስ ኬ አሳስ ካህነ ግደይሳፈ እስራኤለ ግድያ እስ ኮቻስ ካህነ ግደይስ ነዉ ሎኤኔ?” ያግዶሶና። <verse eid="JDG 18:19"/><verse number="20" style="v" sid="JDG 18:20"/>ካህነይ ሄሳ ስእድ ኡፋይትድ ኤፉድያ፥ ሶ ግዶ ኤቃ ምስለታነ ምፈ ኦድ ብራ ሼሽድ ትይዳ ምስልያ ኤክድ ኤንታራ ብስ።<verse eid="JDG 18:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="JDG 18:21"/>ያፐ ደንድድ፥ ባንታ ናይታ፥ ባንታ መህያነ ባንታዉ ደእያባ ኡባ ስን አድ ብዶሶና። <verse eid="JDG 18:21"/><verse number="22" style="v" sid="JDG 18:22"/>ኤንቲ ምካ ሶፐ ሃክድ ብዳፐ ጉየ፥ ሚክ ባ ሾሮታ ፄግን፥ ዳነ አሳታ ካልድ ጋክዶሶና። <verse eid="JDG 18:22"/><verse number="23" style="v" sid="JDG 18:23"/>ኤንታ ጋክድ ዋስን፥ ዳነ አሳት ጉየ ስሚድ፥ “ዋናዲ? ሀ አሳ ኡባ አይስ ሺሻዲ?” ያግድ ምካ ኦይችዶሶና።<verse eid="JDG 18:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JDG 18:24"/>ሚክ ዛሪድ፥ “ታኒ መዳ ታ ፆሳታነ ታዉ ኦያ ካህንያ ቦንቅደታ። ያትን ታዉ አትዳባይ አይቤ? ታና፥ ‘ዎይግድ ዋናድ፥ ጌቲ?’ ” ያግስ።<verse eid="JDG 18:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JDG 18:25"/>ዳነ አሳት፥ “አነ ዶና ፖጋዳ ነና ኤራ! ሀ ሸነራ ደእያ አሳ ኔኒ ደንኮ፥ ኤንቲ ነ ቦላ ደንዳና፤ ነናነ ሶ አሳ ኡባ ይሳና” ያግዶሶና። <verse eid="JDG 18:25"/><verse number="26" style="v" sid="JDG 18:26"/>ዳነ አሳት ባንታ ኦግያ ብዶሶና። ምክካ ኤንቲ ባፐ ዳሮ ምኖ ግደይሳ በእድ ባ ሶ ስምስ።<verse eid="JDG 18:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JDG 18:27"/>ዳነ አሳት ሚክ መዳ ፆሳታነ እያ ካህንያ ኤክድ፥ ሌሳን ኦናካ ስና ሳሮ ደእያ አሳታኮ ብድ፥ አሳ ኡባ ማሻን ዎድ ካታማ ታማን ፁግዶሶና። <verse eid="JDG 18:27"/><verse number="28" style="v" sid="JDG 18:28"/>ላይሻ ካታማይ ስዶናፐ ሃክድ ደእያ ግሾነ ኤንቲ ሀራ አሳራ ጋሄትድ ኤሮና ግሾ ኤንታ አሻናዉ ኦንካ ዳንዳእቤና። ላይሻ ካታማይ ቤት-ረሆባ ጌተትያ በሳ ማታን ደእያ ዛንጋራን ደኤስ።</para>
+  <para style="p" vid="JDG 18:28">ዳነ አሳት ካታማ ዛር ኬፅድ ያን ደእዶሶና። <verse eid="JDG 18:28"/><verse number="29" style="v" sid="JDG 18:29"/>ካታማ ሱን በን ባንታ ማይዛ ያይቆባ ናኣ ዳነ ሱንን ላምድ፥ ዳነ ያግድ ሱንዶሶና፤ ሽን ኮይሮ ሄ ካታማይ ላይሻ ጌተቴስ። <verse eid="JDG 18:29"/><verse number="30" style="v" sid="JDG 18:30"/>ዳነ አሳት ባንታዉ ኤቃ ምስልያ ያን ዎድ፥ ሙሰ ናኣ ገድሶናፐ የለትዳ ዮናታና ባንታ ካህነ ኦዶሶና። እያ ኮቻት አሳይ ድኤትድ ብዳ ዎደ ጋካናዉ ያን ካህነ ግድዶሶና። <verse eid="JDG 18:30"/><verse number="31" style="v" sid="JDG 18:31"/>ሄሳዳ ሀንድ፥ ጌሻ ዱንካነይ ሴሎን ደእዳ ላይ ኡባን ሚክ ኦዳ ምስለት ያን ጋምእዶሶና።<verse eid="JDG 18:31"/></para>
+  <chapter eid="JDG 18"/>
+  <chapter number="19" style="c" sid="JDG 19"/>
+  <para style="s1">እስ ሌወነ እያ ላገዉ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 19:1"/>እስራኤለ ቢታን ካዎይ ባይና ዎደ ደረይ ዳርያ ኤፍሬማ ቢታን፥ ሃሆ በሳን፥ ሌወ ኮቸ ግድዳ እስ ኡራይ ደኤስ። ሄ ኡራይ ይሁዳ ቢታን፥ ቤተለመ ካታማፐ እስ ላገ ባዉ ኤህስ። <verse eid="JDG 19:1"/><verse number="2" style="v" sid="JDG 19:2"/>ሽን እያራ ኦየታዳ ይሁዳ ቢታን ቤተለመ ካታማን ደእያ ባ አዋ ሶ ባዳ ያን ኦይዱ አጌና ኡታሱ። <verse eid="JDG 19:2"/><verse number="3" style="v" sid="JDG 19:3"/>እ አዝናይ እዮ ጭማትድ ሶ ዛራናዉ ባ አይልያነ ናምኡ ሀረታ ኤክድ ብስ። እ ያ ጋክያ ዎደ እያ ሞካ ኤካዳ ባ አዋ ሶ ገልሳሱ፤ እ አዋይ እያ በእዳ ዎደ ኡፋይትድ ሞክስ። <verse eid="JDG 19:3"/><verse number="4" style="v" sid="JDG 19:4"/>ናኤ አዋይ እያ የዶና እፅን፥ ያን እያራ ምሸነ ኡይሸ ሄ ጋላስ ጋምእስ። <verse eid="JDG 19:4"/><verse number="5" style="v" sid="JDG 19:5"/>ኦይዳን ጋላስ ዎንታ ጉራ ደንድድ፥ ባናዉ ጊግዶሶና። ሽን ናኤ አዋይ ባ ናኤ አዝናኮ፥ “ጉ ካ ማዳ ጋሽታዳ ባ” ያግስ። <verse eid="JDG 19:5"/><verse number="6" style="v" sid="JDG 19:6"/>ናምኡ አሳት ኡትድ እስፈ ምዶሶናነ ኡይዶሶና። ሄሳፈ ጉየ ናኤ አዋይ እያኮ፥ “ሀያና፥ ሀች ኡፋይታዳ ሀይሳን አቃ” ያግስ። <verse eid="JDG 19:6"/><verse number="7" style="v" sid="JDG 19:7"/>ሌወይ ባናዉ ደንድን፥ ናኤ አዋይ ቦና መላ ዎስን ቃስካ ያን አቅስ።<verse eid="JDG 19:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JDG 19:8"/>እቻሻን ጋላስ ዎንታ ጉራ ባናዉ ደንድን፥ ናኤ አዋይ፥ “ሀያና፥ ጉ ካ ማዳ፥ ጋሽታዳ ኦማርስ ባ” ያግስ። ኤንቲ ናምአይካ እስፈ ካ ምዶሶና።<verse eid="JDG 19:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JDG 19:9"/>ሌወይ ባ ላገራነ ባ አይልያራ ባናዉ ከይን፥ ናኤ አዋይ፥ “ሄኮ፥ ሳእ ቃምስ፤ ሀእካ አቅተ፤ ዎንታ ጉራ ደንድድ ህንተ ሶ ቢተ” ያግስ።<verse eid="JDG 19:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JDG 19:10"/>ሽን እ ያን አቃናዉ ኮይቦና ግሾ ባ ላገዉ፥ ባ አይልያነ ናምኡ ጫነትዳ ሀረታ ኤክድ ያቡሰ ጌተትያ የሩሳላመ ካታማ ጋክዶሶና። <verse eid="JDG 19:10"/><verse number="11" style="v" sid="JDG 19:11"/>ኤንቲ ያቡሰ ማትያ ዎደ ሳእ ዳሮ ኦማርስን፥ አይለይ፥ “ሀይሳን፥ ያቡሰታ ካታማን አቅኮ ዋናኔ?” ያግድ ባ ጎዳ ኦይችስ።<verse eid="JDG 19:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JDG 19:12"/>ሽን እያ ጎዳይ፥ “ሀይሳን፥ እስራኤለ አስ ባይና አላጋ ካታማ ቦኮ። ግብአ ካታማ ጋካናዉ ባና” ያግስ። <verse eid="JDG 19:12"/><verse number="13" style="v" sid="JDG 19:13"/>ቃስካ ባ አይልያኮ፥ “ሃያ፥ ኑኒ ግብአን ዎይኮ ራማን አቅያ በሲ ደማና” ያግስ። <verse eid="JDG 19:13"/><verse number="14" style="v" sid="JDG 19:14"/>ሄሳ ግሾ ባንታ ኦግያ ኦይክድ ብዶሶና። ብንያመ ቢታን ግብአ ካታማ ኤንቲ ማትያ ዎደ አው ዉልስ። <verse eid="JDG 19:14"/><verse number="15" style="v" sid="JDG 19:15"/>ኤንቲ ግብአ ካታማ ገልድ አቃናዉ ያ ብዶሶና። ሄ ካታማ አሳይ ዱላታ ኡትያ በሳን ኡትዶሶና፤ ሽን ኤንታ ባ ሶ ኤፍድ አይስያ አስ በንትቤና።<verse eid="JDG 19:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JDG 19:16"/>ኤንቲ ያን ኡትዳሽን፥ ሳእ ኦማርስን ጋደፐ ባ ሶ ስምያ እስ ጭማ አደይ ኤንታ ማታራ አስ። ሀ አደይ ካሰ ደረይ ዳርያ ኤፍሬማ ቢታፈ ይዳ አስ፤ ሽን ሀእ ግብአ ካታማን ደኤስ። ሄ ቢታን ብንያመ ኮቻፈ የለትዳ አሳይ ደኦሶና። <verse eid="JDG 19:16"/><verse number="17" style="v" sid="JDG 19:17"/>ሄ ጭማ አደይ፥ ካታማ አሳይ ዱላታ ኡትያ በሳን ኡትዳ አድያ በእድ፥ “አዉፐ ያዲ? አዉ ባይ?” ያግድ ኦይችስ።<verse eid="JDG 19:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JDG 19:18"/>ሌወይ ዛሪድ፥ “ኑኒ ይሁዳ ቢታን ቤተለመ ካታማፐ ይዳ። ሀእ ደረይ ዳርያ ኤፍሬማ ቢታን፥ ሃሆ በሳን ደእያ ፆሳ ኬነ ኑ ሶ ቦስ። ኑና ባ ሶ ኤፍድ አይስያ አስ ደምቦኮ። <verse eid="JDG 19:18"/><verse number="19" style="v" sid="JDG 19:19"/>ኑ ሀረታስ ኡቱልነ ካለይ ደኤስ፤ ታዉ፥ ታ ላገስነ ታ አይልያስ ግድያ ካነ ዎይነ ኡሽ ደኤስ፤ ኑስ ኮሽያባ ኡባ ኦይክዳ” ያግስ።<verse eid="JDG 19:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="JDG 19:20"/>ጭማ አደይ፥ “ሳሮይ ህንተዉ ግዶ፤ ታ ሶ የተ፤ ታ ሶን አቅተ፤ ህንተ ኮያባ ኡባ ታ ህንተዉ እማና። ሀ ካታማ ዳባባን ህንተ አቃናዉ በሰና” ያግስ። <verse eid="JDG 19:20"/><verse number="21" style="v" sid="JDG 19:21"/>ኤንታ ባ ሶ ኤፍስ፤ ኤንታ ሀረታስ ምያባ የግስ። እማት ባንታ ቶሁዋ ሜጨትድ ካሆ ምዶሶና።<verse eid="JDG 19:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JDG 19:22"/>ኤንቲ ኡፋይትሽን፥ ካታማፐ ኢታ አሳት ይድ፥ ኬ ተቅድ፥ ፐንግያ ቆፀ ዶምዶሶና። ኤንቲ ጭማ አድያኮ፥ “ሀ ነ ሶ ገልዳ አድያ ሃ ከሳ፤ ኑኒ እያራ ጋሄታናዉ ኮዮስ” ያግዶሶና።<verse eid="JDG 19:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JDG 19:23"/>ሄ ኬ ጎዳይ፥ “ሀነና፤ ታ እሻቶ፥ ሄሳ መላ ፓላባ ኦፕተ፤ ሀ አደይ ታ እማ። <verse eid="JDG 19:23"/><verse number="24" style="v" sid="JDG 19:24"/>ሄኮ፥ ታ ጌላኦ ናእያነ እያ ላገያ ሀይሳን ደኦሶና። ታኒ ኤንታ ህንተዉ ካረ ከሳና፤ ህንተ ኤንታ ቦላ ኮይዳባ ኦተ፤ ሽን ሀ አድያ ቦላ ሄሳ መላ ኢታባ ኦፍተ” ያግስ።<verse eid="JDG 19:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JDG 19:25"/>ሽን አሳት እ ግዳይሳ ስኦና እፅዶሶና። ሌወይ ባ ላገዉ ካረ ሆልስ። ሳእ ዎንታና ጋካናዉ ቃማ ኩመ ታራን ታራን ኢራ ዎልቃን ጋሄትድ፥ እዮ ፓፃ ካእሸ አይስዶሶና፤ ሳእ ዎንታና ሀንሽን እዮ የድ አግዶሶና። <verse eid="JDG 19:25"/><verse number="26" style="v" sid="JDG 19:26"/>ዎንታናዉ ጎንተይ ዞእያ ዎደ ያዳ፥ እ ጎዳይ አቅዳ ጭማ አድያ ኬ ፐንገን ኩንዳሱ፤ ፃልቀይ ዶላና ጋካናዉ ያን ዝንአሱ።<verse eid="JDG 19:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JDG 19:27"/>ዎንታ እ ጎዳይ ደንድድ፥ ባ ኦግያ ባናዉ ፐንግያ ዶይድ ከይያ ዎደ እያ ላገያ ኬ ፐንገን ባ ኩሽያ ምጫዳ ጉፋንዳሮ በእስ። <verse eid="JDG 19:27"/><verse number="28" style="v" sid="JDG 19:28"/>እ ጎዳይ፥ “ደንዳ፤ አነ ቦስ” ያግስ። ሽን እያ አይኮካ ዛራቡኩ። ያትን፥ እ አሀ ሀረን ጫንድ ባ ሶ ብስ። <verse eid="JDG 19:28"/><verse number="29" style="v" sid="JDG 19:29"/>እ ባ ሶ ጋክዳ ዎደ ማሻ ኤክድ፥ ባ ላገ አሀ ታማነ ናምኡ በሳን ቃንፀረድ፥ እስ እስ ቃንፁዋ ታማነ ናምኡ እስራኤለ ኮቻታስ የድስ።<verse eid="JDG 19:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JDG 19:30"/>ሄሳ በእዳ ኡባይ፥ “እስራኤለ አሳይ ግብፀ ቢታፈ ከዮደፐ ሀች ጋካናዉ ሀይሳ መላባይ ሀንቤና፤ ኑካ በእቦኮ። አነ ሀይሳ ቆፕ በእድ፥ አኬካን ዞረትድ፥ አይ ኦነኮ ኑስ ኦድተ” ያግዶሶና።<verse eid="JDG 19:30"/></para>
+  <chapter eid="JDG 19"/>
+  <chapter number="20" style="c" sid="JDG 20"/>
+  <para style="s1">እስራኤለት ኦላስ ጊገተ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 20:1"/>ዳነፐ በርሳበ ጋካናዉ ጋላዳን ደእያ እስራኤለ አስ ኡባይ እስ አሳዳ ምፅጳን ጎዳ ስንን እስፈ ሺቅዶሶና። <verse eid="JDG 20:1"/><verse number="2" style="v" sid="JDG 20:2"/>ሄ ሺቅዳ ፆሳ አሳራ፥ እስራኤለ ዛረ ኡባ ሀላቃት ደኦሶና። ኤንታ ግዶን ማሸ ዳንጭድ ኦለታናዉ ዳንዳእያ 400,000 ኦላንቾት ደኦሶና። <verse eid="JDG 20:2"/><verse number="3" style="v" sid="JDG 20:3"/>ሄ ዎደ እስራኤለ አሳይ ምፅጳን ሺቅዳይሳ ብንያመ አሳይ ስእዶሶና።</para>
+  <para style="p" vid="JDG 20:3">እስራኤለ አሳይ፥ “ሀ ኢታባይ ዋንድ ሀንዳኮ ኑስ ኦድተ” ያግዶሶና።<verse eid="JDG 20:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JDG 20:4"/>ሀይቅዳ ላገ አዝናይ፥ ሌወይ፥ ሀይሳዳ ያግድ ዛርስ፤ “ታንነ ታ ላገያ ሳእ ቃምን አቃናዉ ብንያመ ቢታን ደእያ ግብአ ካታማ ይዳ። <verse eid="JDG 20:4"/><verse number="5" style="v" sid="JDG 20:5"/>ግብአ ካታማ አሳት ታና ዎናዉ ይድ፥ ኬ ዩሹዋ ተቅዶሶና። ሽን ጉየፐ ታ ላገራ ዎልቃን፥ ታራን ታራን ጋሄትድ እዮ ዎዶሶና። <verse eid="JDG 20:5"/><verse number="6" style="v" sid="JDG 20:6"/>ታኒ እ አሀ ኤካዳ ቃንፀረስ፤ ኤንቲ ሀ ኢታባነ ዬላባ እስራኤለን ኦዳ ግሾ እስራኤለ አሳይ ደእያ ቢታ ኡባ እስ እስ ቃንፆ የዳስ። <verse eid="JDG 20:6"/><verse number="7" style="v" sid="JDG 20:7"/>ህዛ፥ ህንተ ኡባይ እስራኤለ አስ፤ ዞረትድ በሲያ ፕርዳ እምተ” ያግስ።<verse eid="JDG 20:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JDG 20:8"/>አሳ ኡባይ እስፈ ደንድድ፥ “ኑ ግዶፈ ኦንካ ባ ዱንካንያ ዎይኮ ባ ኬ ጉየ ስመና። <verse eid="JDG 20:8"/><verse number="9" style="v" sid="JDG 20:9"/>ኑኒ ግብአ ቦላ ሀይሳ ኦና፤ ሳማ የግድ፥ ግብአ ካታማ ኦላናዉ ባና አሳታ ዶራና። <verse eid="JDG 20:9"/><verse number="10" style="v" sid="JDG 20:10"/>እስራኤለ ዛረ ኡባፈ ኦላ ብያ አሳስ ሽንቀ ጊግሳና መላ ፄታፐ ታማ፥ ሙኩላፐ ፄታ፥ ታሙ ሙኩላፐ እስ ሙኩላ ዶርድ ኤካና። አትዳ ኦላንቾት ብንያመ ቢታን ደእያ ግብአ ብድ፥ እስራኤለ ቦላ ሀይሳ መላ ኢታባ ኦዳ አሳ ቦላ ሀሎ ከያናዉ ቦ” ያግዶሶና። <verse eid="JDG 20:10"/><verse number="11" style="v" sid="JDG 20:11"/>እስራኤለ አሳ ኡባይ ካታማ ኦላናዉ እስፈ ሺቅዶሶና።<verse eid="JDG 20:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JDG 20:12"/>እስራኤለ ኮቻት ብንያመ ኮቻ ኡባስ ሀይሳዳ ያግድ አሰ ኪትዶሶና፤ “ህንተ ግዶን ሀንዳ ሀ ኢታባይ አይቤ? <verse eid="JDG 20:12"/><verse number="13" style="v" sid="JDG 20:13"/>ኑኒ ኤንታ ዎድ፥ እስራኤለፐ ኢታባ ይሳና መላ ግብአን ደእያ ሄ ኢታ አሳታ ከስድ ኑስ እምተ” ያግዶሶና።</para>
+  <para style="p" vid="JDG 20:13">ሽን ብንያመት እስራኤለ አሳይ ኦድዳይሳ ስኦና እፅዶሶና። <verse eid="JDG 20:13"/><verse number="14" style="v" sid="JDG 20:14"/>ኤንቲ እስራኤለ አሳራ ኦለታናዉ ባንታ ካታማታፐ ከይድ እስፈ ግብአን ሺቅዶሶና። <verse eid="JDG 20:14"/><verse number="15" style="v" sid="JDG 20:15"/>ሄ ጋላስ ብንያመ ካታማታፐ ይዳ ማሻን ኦለትያ ላታማነ ኡሱፑን ሙኩሉ ኦላንቾታ ሺሽዶሶና። ሄስካ ግብአን ደእያ አሳ ግዶፈ ዶረትዳ ላፑን ፄቱ አሳፐ ሀራ። <verse eid="JDG 20:15"/><verse number="16" style="v" sid="JDG 20:16"/>ሀ ኦላንቾታ ግዶፈ ላፑን ፄቱ አሳት ሀድርሳ ኩሸን ኦይሳታ፤ ኤንቲ ያምባርሻን ሹቹ ሆልድ፥ ሀር አቶሽን እስ ብናናካ ባሎኮና። <verse eid="JDG 20:16"/><verse number="17" style="v" sid="JDG 20:17"/>ብንያመ አሳ ጉጆና፥ እስራኤለ አሳይ ማሻን ኦለትያ 400,000 ኦላንቾታ ሺሽዶሶና።<verse eid="JDG 20:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JDG 20:18"/>እስራኤለ አሳይ ደንድድ፥ ቤተለ ብድ፥ “ብንያመ አሳ ኦላናዉ ኑፐ ስንትድ ከያናይ ኦኔ?” ያግድ ፆሳ ኦይችዶሶና።</para>
+  <para style="p" vid="JDG 20:18">ጎዳይ፥ “ይሁዳ ኮቻይ ስንትድ ከዮ” ያግስ።<verse eid="JDG 20:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JDG 20:19"/>ዎንተ ጋላስ ዎንታ ጉራ እስራኤለ አሳይ ደንድድ ግብአ ካታማ ማታን ሺቅዶሶና። <verse eid="JDG 20:19"/><verse number="20" style="v" sid="JDG 20:20"/>ሄሳፈ ጉየ እስራኤለ አሳይ ብንያመ አሳ ኦላናዉ ብድ ግብአ ካታማ ማታን ሳልፕዶሶና። <verse eid="JDG 20:20"/><verse number="21" style="v" sid="JDG 20:21"/>ሄ ጋላስ ብንያመ አሳይ ግብአፐ ከይድ፥ እስራኤለ አሳፐ 22,000 ኦላንቾታ ዎዶሶና። <verse eid="JDG 20:21"/><verse number="22" style="v" sid="JDG 20:22"/>እስራኤለ አሳይ እሶይ እሱዋ ምንን፥ ኮይሮ ጋላስ ኤንቲ ኦላስ ሳልፕዳ በሳን ናምአን ሳልፕዶሶና። <verse eid="JDG 20:22"/><verse number="23" style="v" sid="JDG 20:23"/>እስራኤለ አሳይ ብድ ሳእ ቃማና ጋካናዉ ጎዳ ስንን ዬክዶሶና። ኤንቲ፥ “ኑ እሻታራ፥ ብንያመ አሳታራ ኦለታናዉ ናምአን ከይኖ?” ያግድ ጎዳ ኦይችዶሶና።</para>
+  <para style="p" vid="JDG 20:23">ጎዳይ፥ “ኤ፥ ኤንታራ ኦለታናዉ ከይተ” ያግስ።<verse eid="JDG 20:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JDG 20:24"/>እስራኤለ አሳይ ብንያመ አሳራ ኦለታናዉ ናምአን ሺቅዶሶና። <verse eid="JDG 20:24"/><verse number="25" style="v" sid="JDG 20:25"/>ናምአን ጋላስካ ብንያመ አሳይ ግብአ ካታማፐ ከይድ፥ እስራኤለ ኦላንቾታፐ ማሻን ኦለትያ 28,000 አሳ ዎዶሶና።<verse eid="JDG 20:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JDG 20:26"/>ሄሳፈ ጉየ፥ እስራኤለት ኡባይ ቤተለ ብድ ዬክዶሶና፤ ያን ፆምሸ ሳእ ቃማና ጋካናዉ፥ ጎዳ ስንን ኡትዶሶና። ጎዳ ስንን ፁሳ ያርሾነ እስፈተ ያርሾ ሺሽዶሶና። <verse eid="JDG 20:26"/><verse number="27" style="v" sid="JDG 20:27"/>ሄ ዎደ ፆሳ ጫቆ ታቦተይ ቤተለ ካታማን ደእያ ግሾ እስራኤለ አሳይ ጎዳ ኦይችዶሶና። <verse eid="JDG 20:27"/><verse number="28" style="v" sid="JDG 20:28"/>ሄ ዎደ አሮና ናአይ፥ አላዛራ ናአይ ፍንሃስ ካህነተን ኦስ። እስራኤለ አሳይ፥ “ኑ እሻ ግድዳ ብንያመ አሳራ ኦለታናዉ ከይኖየ አትኖ” ያግድ ጎዳ ኦይችዶሶና።</para>
+  <para style="p" vid="JDG 20:28">ጎዳይ፥ “ብድ ኦለትተ፤ ታኒ ኤንታ ዎንቶ ህንተ ኩሸን አዳ እማና” ያግስ።<verse eid="JDG 20:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="JDG 20:29"/>እስራኤለ አሳይ ጉ ኦላንቾት ግብአ ካታማ ዩሹዋን ዙግድ ናጋና መላ ኦዶሶና። <verse eid="JDG 20:29"/><verse number="30" style="v" sid="JDG 20:30"/>ሄን ጋላስ እስራኤለ ኦላንቾት ካሰይሳዳ ብንያመ ኦላንቾታ ኦላናዉ ብድ፥ ግብአ ካታማፐ ስን ባጋራ ሳልፕዶሶና። <verse eid="JDG 20:30"/><verse number="31" style="v" sid="JDG 20:31"/>ብንያመ አሳይ ኤንታራ ኦለታናዉ ካታማፐ ከይድ፥ ኤንታ ካል ከይድ ሃክድ ብዶሶና። ካሰይሳዳ ቤተለነ ግብአ ኤፍያ ዳልጋ ኦገታንነ ደምባታን እስራኤለ አሳፐ ሀስታሙ ግድያ አሳ ዎዶሶና። <verse eid="JDG 20:31"/><verse number="32" style="v" sid="JDG 20:32"/>ብንያመ አሳይ፥ “ኑኒ ካሰይሳዳ ኤንታ ፆንዳ!” ያግዶሶና።</para>
+  <para style="p" vid="JDG 20:32">ሽን እስራኤለ አሳይ፥ “ኤንቲ ካታማፐ ሃክድ፥ ኦግያ ቦላ ከያና መላ አነ ኑኒ ባቃቶስ” ያግድ ዎፅዶሶና። <verse eid="JDG 20:32"/><verse number="33" style="v" sid="JDG 20:33"/>እስራኤለ አሳ ኡባይ ባንታ በሳፈ ደንድድ፥ ባኣል-ታማራ ጌተትያ በሳን ሳልፕያ ዎደ ግብአ ደንባን ዙግድ ኡትዳ እስራኤለት ከይዶሶና። <verse eid="JDG 20:33"/><verse number="34" style="v" sid="JDG 20:34"/>እስራኤለ አሳፐ ዶረትዳ ታሙ ሙኩሉ አሳይ ግብአ ቦላ ኦላ ደንዶሶና፤ ኦላይ ዳሮ ዎልቃምስ። ሄ ኡባይ ሀንያ ዎደ ብንያመ አሳስ ዮይ ማትዳይሳ ኤርቦኮና። <verse eid="JDG 20:34"/><verse number="35" style="v" sid="JDG 20:35"/>እስራኤለት ብንያመ አሳ ቦላ ፆኖ ደማና መላ ጎዳይ ኦስ። ሄ ጋላስ እስራኤለ አሳይ ብንያመ አሳፐ ማሻን ኦለትያ ላታማነ እቻሹ ሙኩሉነ እስ ፄቱ ኦላንቾታ ዎዶሶና። <verse eid="JDG 20:35"/><verse number="36" style="v" sid="JDG 20:36"/>ሄሳፈ ጉየ፥ ብንያመ አሳይ ፆነትዳይሳ ኤርዶሶና።</para>
+  <para style="p" vid="JDG 20:36">እስራኤለ አሳይ ግብአ ካታማ ዩሹዋን ዙግድ ኡትዳ ኦላንቾታን አማነትዳ ግሾ፥ ብንያመ አሳን ፆነትዳባ ዳንድ ጉየ ሺቅዳ ግሾሳ። <verse eid="JDG 20:36"/><verse number="37" style="v" sid="JDG 20:37"/>ቆሰትድ ናግያ ኦላንቾት ግብአ ካታማ ኤለስ ዎፅ ገልድ ካታማ ግዶን ደምዳ ኡባ ዎዶሶና። <verse eid="JDG 20:37"/><verse number="38" style="v" sid="JDG 20:38"/>ቆሰትድ ናግያ አሳትነ እስራኤለ አሳይ ጩያ ሻራዳ ደንና መላ ካሰ ዞረት ኡትዶሶና። <verse eid="JDG 20:38"/><verse number="39" style="v" sid="JDG 20:39"/>ኦላ ደንባን ደእያ እስራኤለ አሳይ ባቃተይሳ አግድ፥ ጉየ ስሚድ፥ ኤንታ ኦልዶሶና።</para>
+  <para style="p" vid="JDG 20:39">ብንያመ አሳይ እስራኤለ አሳፐ ሀስታሙ ግድያ አሳ ዎድ፥ “ካሰይሳዳ ሀእካ ኑ ኤንታ ፆንዳ” ያግዶሶና። <verse eid="JDG 20:39"/><verse number="40" style="v" sid="JDG 20:40"/>ሽን ማላ ጩያይ ካታማፐ ፑደ ከስ ዶምስ። ብንያመ አሳይ ጉየ ፄልያ ዎደ ካታማይ ታማን ፁገትን፥ ጩያይ ፑደ ከየይሳ በእዶሶና። <verse eid="JDG 20:40"/><verse number="41" style="v" sid="JDG 20:41"/>ሄሳፈ ጉየ፥ እስራኤለት ብንያመ አሳ ቦላ ጉየ ስምዶሶና። ብንያመ አሳይ ዉራና ሀነይሳ ኤርዳ ግሾ ዳጋምዶሶና። <verse eid="JDG 20:41"/><verse number="42" style="v" sid="JDG 20:42"/>ሄሳ ግሾ፥ ኤንቲ እስራኤለ አሳ ስንፈ ባዞ ስሚድ ባቃትዶሶና፤ ሽን ከስ ኤካናዉ ዳንዳእቦኮና። ካታማታፐ ከይዳ እስራኤለ ኦላንቾት ግዱዋን ኤንታ ዎ ዉርስዶሶና። <verse eid="JDG 20:42"/><verse number="43" style="v" sid="JDG 20:43"/>እስራኤለት ብንያመ አሳ ተቅድ፥ ግብአ ካታማፐ ዶሎሀ ባጋራ ደእያ በሳ ጋካናዉ የደድ ዳሮታ ዎዶሶና። <verse eid="JDG 20:43"/><verse number="44" style="v" sid="JDG 20:44"/>ያን ብንያመ አሳፐ ታማነ ሆስፑን ሙኩሉ ምኖ ኦላንቾት ሀይቅዶሶና፤ <verse eid="JDG 20:44"/><verse number="45" style="v" sid="JDG 20:45"/>ኤንታፈ አትዳይሳት ጉየ ስሚድ፥ ባዙዋ ካንድ፥ እርሞና ዛላኮ ባቃትዶሶና። እስራኤለት ኤንታፈ እቻሹ ሙኩሉ አሳ ኦገ ቦላ ዎዶሶና። ኤንታፈ አትዳይሳታ ግዶማ ጋካናዉ የደድ ናምኡ ሙኩሉ አሳ ዎዶሶና። <verse eid="JDG 20:45"/><verse number="46" style="v" sid="JDG 20:46"/>ሄ ጋላስ ብንያመ አሳፐ ማሻን ኦለትያ ላታማነ እቻሹ ሙኩሉ ምኖ ኦላንቾት ሀይቅዶሶና።<verse eid="JDG 20:46"/></para>
+  <para style="p">
+    <verse number="47" style="v" sid="JDG 20:47"/>ሽን ኡሱፑን ፄቱ አሳት ባዙዋ ካንድ፥ እርሞና ዛላኮ ባቃትድ፥ ያን ኦይዱ አጌና ጋምእዶሶና። <verse eid="JDG 20:47"/><verse number="48" style="v" sid="JDG 20:48"/>እስራኤለ አሳይ አትዳ ብንያመ አሳኮ ጉየ ስሚድ፥ አደነ ማጫ፥ ናይታነ መህያ ኡባ ዎዶሶና፤ ሄራን ደእያ ካታማታ ኡባ ታማን ፁግዶሶና።<verse eid="JDG 20:48"/></para>
+  <chapter eid="JDG 20"/>
+  <chapter number="21" style="c" sid="JDG 21"/>
+  <para style="s1">ብንያመ ኮቻስ ማቾ ኮሽ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="JDG 21:1"/>እስራኤለ አሳይ ምፅጳን ሺቅዳ ዎደ፥ “ኑ ግዶፈ ኦንካ ብንያመ አሳስ ባ ናአ ማቾ እሞፎ” ያግድ ጫቅ ኡትዶሶና። <verse eid="JDG 21:1"/><verse number="2" style="v" sid="JDG 21:2"/>እስራኤለት ቤተለ ካታማ ብድ፥ ያን ሳእ ቃማና ጋካናዉ ፆሳ ስንን ኡትድ፥ ባንታ ቃላ ቁ ኦድ ዬክዶሶና። <verse eid="JDG 21:2"/><verse number="3" style="v" sid="JDG 21:3"/>ኤንቲ፥ “አቤት ጎዳዉ፥ እስራኤለ ፆሳዉ፥ ሀይስ እስራኤለን አይስ ሀንዴ? ሀች እስራኤለ አሳ ግዶፈ እስ ኮቻይ አይስ ፓጭዴ?” ያግዶሶና።<verse eid="JDG 21:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JDG 21:4"/>ዎንተ ጋላስ ጉራ ደንድድ፥ ያርሾ በስ ጊግስድ፥ ፁሳ ያርሾነ እስፈተ ያርሾ ሺሽዶሶና። <verse eid="JDG 21:4"/><verse number="5" style="v" sid="JDG 21:5"/>እስራኤለት፥ “እስራኤለ ዛረ ኡባፈ ጎዳ ስንን ሺቅያ በሳ ዮና ኮቻይ ኦኔ?” ያግድ ኦይችዶሶና። ኤንቲ ሄሳ ኦይችዳ ጋሶይ፥ “ምፅጳ ካታማን ጎዳ ስንን ሺቃናዉ ይቦና አስ ኦንካ ሀይቆ” ያግድ ካሰ ጫቅዳ ግሾሳ።<verse eid="JDG 21:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JDG 21:6"/>እስራኤለ አሳይ ባንታ እሻታስ፥ ብንያመ ኮቻታስ ቃትድ፥ “ሀች እስራኤለፐ እስ ኮቻይ ይስ። <verse eid="JDG 21:6"/><verse number="7" style="v" sid="JDG 21:7"/>ኑኒ ኑ ማጫ ናይታ ኤንታዉ እሞና መላ ጎዳን ጫቅዳ ግሾ ሀይቆፐ አትዳ ብንያመ ኮቻት ማቾ ኤካና መላ ኑኒ አይ ኦኖ?” ያግዶሶና። <verse eid="JDG 21:7"/><verse number="8" style="v" sid="JDG 21:8"/>ቃስካ ኤንቲ፥ “እስራኤለ ኮቻታፐ ምፅጳን ጎዳ ስን ዮናይ ኦኔ?” ያግድ ኦይችዶሶና። ጋላዳን ደእያ ያበሳ ካታማፐ እስ አስካ ቃንገ ጋናዉ ዮናይሳ በእዶሶና። <verse eid="JDG 21:8"/><verse number="9" style="v" sid="JDG 21:9"/>ኤንቲ አሳ ታይብዳ ዎደ ጋላዳን ደእያ ያበሳፐ እስ አስካ በንትቤና።<verse eid="JDG 21:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JDG 21:10"/>ሄሳ ግሾ፥ ማባራይ 12,000 ምኖ ኦላንቾታ ጋላዳን ደእያ ያበሳ ካታማ ኪትዶሶና። ብድ፥ “ያበሳን ደእያ ማጫሳነ ናይታ እሱዋካ አሾና ማሻን ቡተ። <verse eid="JDG 21:10"/><verse number="11" style="v" sid="JDG 21:11"/>ሄሳዳ ኦድ፤ አደነ አደራ አቅዳ ማጫ ኡባ ዎተ” ያግድ ኪትዶሶና። <verse eid="JDG 21:11"/><verse number="12" style="v" sid="JDG 21:12"/>ያበሳ ካታማን ደእያ አሳ ግዶፈ አደራ አቅቦና ኦይዱ ፄቱ ጌላኦ ማጫ ናይታ ደምዶሶና። ኤንታ ካናነ ቢታን፥ ሴሎን ዱንካንዳ ጉታ ኤክድ ይዶሶና።<verse eid="JDG 21:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JDG 21:13"/>ሄሳፈ ጉየ፥ ኩመ ማባራይ እርሞና ዛላ ማታን ደእያ ብንያመ አሳራ ስገታናዉ ጭማ የድዶሶና። <verse eid="JDG 21:13"/><verse number="14" style="v" sid="JDG 21:14"/>ብንያመ አሳት ስሚድ ይዶሶና። እስራኤለ አሳይ ያበሳ ካታማፐ ዎና ኤህዳ ጌላኦ ናይታ ኤንታዉ እምዶሶና። ሽን ጌላኦታ ታይቦይ አደታ ታይቡዋራ ግንቤና።<verse eid="JDG 21:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="JDG 21:15"/>እስራኤለ ኮቻታ ግዶን ደእያ እስፈተይ ዱፃና መላ ጎዳይ ኦዳ ግሾ አሳይ ብንያመታስ ዳሮ ቃትዶሶና። <verse eid="JDG 21:15"/><verse number="16" style="v" sid="JDG 21:16"/>ማባራ ጭማት፥ “ብንያመ ኮቻታፐ ማጫስ ሀይቅድ ዉርዳ ግሾ፥ ሀይቆፐ አትዳ አደታስ ኑኒ ማጫስ ዋትድ ደማኔ? <verse eid="JDG 21:16"/><verse number="17" style="v" sid="JDG 21:17"/>እስራኤለ አሳ ግዶፈ ቁሸትድ ዮና መላ ብንያመ ኮቻታፐ አትዳይሳታ ላትያ ናእ ዳናዉ ኮሼስ። <verse eid="JDG 21:17"/><verse number="18" style="v" sid="JDG 21:18"/>ግዶሽን፥ ኑኒ ኑ ማጫ ናይታፐ ኤንታዉ እማናዉ ዳንዳኦኮ። እስራኤለ አሳይ ካሰ፥ ‘ባ ናአ ብንያመ ኮቻስ እምያ ኡራይ ባደትዳይሳ ግዶ’ ያግድ ጫቀትድ ኡትዶሶና” ያግዶሶና።<verse eid="JDG 21:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JDG 21:19"/>ያትን፥ ጭማት፥ “ሄኮ፥ ላይን ላይን ሴሎን ጎዳ ቦንችያ ባለይ ማትስ” ያግዶሶና። ሴሎይ ቤተለፐ ፑደሀ ባጋራ፥ ላቦናፐ ዱገሀ ባጋራ፥ ቤተለፐ ሴከማ ኤፍያ ኦግያፐ ዶሎሀ ባጋራ ደኤስ። <verse eid="JDG 21:19"/><verse number="20" style="v" sid="JDG 21:20"/>ሄሳ ግሾ፥ ጭማት፥ ብንያመ አሳታ ሀይሳዳ ያግድ ኪትዶሶና፤ “ብድ ዎይነ ጋደ ግዶን ቆሰትድ፥ <verse eid="JDG 21:20"/><verse number="21" style="v" sid="JDG 21:21"/>ናግተ። ሴሎ ካታማ ማጫ ናይት ባኣለ ጋላስ ካራቦ ኦይክድ፥ የፅሸነ ዱርሸ ያ ዎደ ህንተ ዎይነ ጋደ ግዶፈ ከይተ። ሴሎ ማጫ ናይታፐ ዳፍ ኤክድ፥ ብንያመ ቢታ ኤፍተ። <verse eid="JDG 21:21"/><verse number="22" style="v" sid="JDG 21:22"/>ኤንታ አዋት ዎይኮ ኤንታ እሻት ኑኮ ማጋናናዉ ያ ዎደ ኑኒ ኤንታኮ፥ ‘ሀያና፥ ኤንታ ኑስ እምተ፤ ኑኒ ኤንታ ኦላ በሳፈ ኡንኤድ ኤክቦኮ። ህንተ ዶስድ እምቦና ግሾ ባላ ግደከታ’ ያጋና” ያግዶሶና።<verse eid="JDG 21:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JDG 21:23"/>ብንያመ አሳይ እስራኤለ ጭማት ግዳይሳዳ ኦዶሶና። እሶይ እሶይ ሴሎን የፅያ ማጫ ናይታፐ ባዉ ማቾ ዳፍድ ኤክስ። ኤንቲ ባንታ ላታ ቢታ ስሚድ፥ ካታማታ ዛር ኬፅድ ያን ደእዶሶና። <verse eid="JDG 21:23"/><verse number="24" style="v" sid="JDG 21:24"/>ሄ ዎደ እስራኤለ አሳይ ያፐ ላለትድ፥ እሶይ እሶይ ባ ኮቻኮ፥ ባ ኮቻኮነ ባ ሶ አሳኮ ብስ።<verse eid="JDG 21:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JDG 21:25"/>ሄ ዎደ እስራኤለ ቢታን ካዎይ ባዋ፤ አስ ኡባይ ባዉ ሎኦ ዳንዳባ ኦስ።<verse eid="JDG 21:25"/></para>
+  <chapter eid="JDG 21"/>
+</usx>

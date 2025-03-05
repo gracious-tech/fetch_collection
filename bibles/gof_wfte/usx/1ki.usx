@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="3.0">
+  <book code="1KI" style="id">- GOOFA FULL BIBLE</book>
+  <para style="h">1 ካዎታ ማፃፋ</para>
+  <para style="toc1">1 ካዎታ ማፃፋ</para>
+  <para style="toc3">1 ካዎ</para>
+  <para style="toc2">1 ካዎታ</para>
+  <para style="mt">1 ካዎታ ማፃፋ</para>
+  <para style="imt">ጋ ቆፋ</para>
+  <para style="ip">ካዎታ ማፃፋ ኮይሮ ክፍለይ፥ ናምኡ ሳሜላ ማፃፋታን ዶመትዳ፥ እስራኤለ ካዎታ ታርከ ዜቶን ኦዴስ። ማፃፋ ሄ ዋና ዋና ክፍለታን ሻክድ በአናዉ ዳንዳኤቴስ።</para>
+  <para style="ipi">1. ሶሎሞነይ ባ አዋ ዳዊታ በሳን እስራኤለነ ይሁዳ ቦላ ካዎቱዋነ እያ አዋ ዳዊታ ሀይቁዋ ኦድያ ታርከ (1:1—2:12)።</para>
+  <para style="ipi">2. ሶሎሞነ ካዎተ አይሱዋነ እ ኦዳ ኦሱዋ ኦድያ ታርከ (2:13—11:43)።</para>
+  <para style="ipi">3. ሮብኣም ካዎትዳ ዎደ፥ እስራኤለይ ፑደሀነ ዱገሀ ባጋ ካዎተ ጌተትድ ናምኡ ከይድ ሻከትዳይሳነ ሄ ካዎተት ክርስቶስ የለታናፐ ስን፥ ኡዱፉን ፄቱ ላይ ጋካናዉ ሃርዳ ዱማ ዱማ ካዎታ ታርከ (12:1—22:53)።</para>
+  <para style="ip">ሀ ማፃፋን እስ እስ ካዎይ ፕርደተይ፥ እ ፆሳስ አማነትያ አማነተ መላ። ሄሳዳካ ሄ ቢታ ድቻይነ ቢታይ ደምያ እንጀይ፥ ሄ ካዎይ ፆሳስ አማነትዳ አማነተ ኬና። ፑደሀ ባጋ ካዎተ ካዎት ኡባይ ፓጨን ኩንድዶሶና። ሽን ይሁዳ ካዎታ ታርከይ ኢታታባ ግድን ሎኦታባ ኦዴስ።</para>
+  <para style="ip">ኮይሮ ካዎታ ማፃፋን፥ ፆሳ ዶና ግድድ ትንብተ ኦድድ፥ አሳይ ኤቃ ጎይኖና መላነ ፆሰ ኪተተ እፆና መላ ምንድ ናግስዳ ናበት ደኦሶና። ኤንታ ግዶፈ ዳሮ ኤረትዳይ፥ ኤልያሳ ግድሽን፥ እ ባኣለ ናበታራ ኤቀትዳ ኤቀተይ ማፃፋን ፃፈትስ (ሸም 18)።</para>
+  <para style="iot">ማፃፋ አይፈ ቆፋታ</para>
+  <para style="io1">ሶሎሞነይ እስራኤለ ቦላ ካዎ ግዱዋ (<char style="ior"><ref loc="1KI 1:1-53">1:1-53</ref></char>)</para>
+  <para style="io1">ዳዊቲ ዉርሰ ቃላታነ ሀይቁዋ (<char style="ior"><ref loc="1KI 2:1-12">2:1-12</ref></char>)</para>
+  <para style="io1">ሶሎሞነይ ካዎተ ኩመ ኦይ (<char style="ior"><ref loc="1KI 2:13-46">2:13-46</ref></char>)</para>
+  <para style="io1">ሶሎሞነ ጭንጫተነ እያ ሞርናታ (<char style="ior"><ref loc="1KI 3:1-4:34">3:1—4:34</ref></char>)</para>
+  <para style="io1">ፆሳ ኬ ኬፁዋነ አንጅሱዋ (<char style="ior"><ref loc="1KI 5:1-8:66">5:1—8:66</ref></char>)</para>
+  <para style="io1">ሶሎሞነ ካዎተን ሀንዳ ሀኖታ (<char style="ior"><ref loc="1KI 9:1-10:29">9:1—10:29</ref></char>)</para>
+  <para style="io1">ሶሎሞነ አማነተ እፁዋነ እያ ሞርከታ (<char style="ior"><ref loc="1KI 11:1-43">11:1-43</ref></char>)</para>
+  <para style="io1">ፑደሀ ኮቻታ ሻከተነ (<char style="ior"><ref loc="1KI 12:1-33">12:1-33</ref></char>)</para>
+  <para style="io1">ናበት እዮርባማ ቦርዶሶና (<char style="ior"><ref loc="1KI 13:1-14:20">13:1—14:20</ref></char>)</para>
+  <para style="io1">ይሁዳነ እስራኤለ ካዎተታ (<char style="ior"><ref loc="1KI 14:21-16:34">14:21—16:34</ref></char>)</para>
+  <para style="io1">ናብያ ኤልያሳ (<char style="ior"><ref loc="1KI 17:1-19:21">17:1—19:21</ref></char>)</para>
+  <para style="io1">ካዋ አካባነ ኤልዛቤሎ (<char style="ior"><ref loc="1KI 20:1-22:40">20:1—22:40</ref></char>)</para>
+  <para style="io1">ይሁዳ ካዋ እዮሳፈፃነ እስራኤለ ካዋ አካዛ (<char style="ior"><ref loc="1KI 22:41-53">22:41-53</ref></char>)</para>
+  <chapter number="1" style="c" sid="1KI 1"/>
+  <para style="s1">አዶንያስ ካዎታናዉ ኮይስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 1:1"/>ካዎይ ዳዊቲ ዳሮ ጭምድ ዎደ ሱግስ። እያ አይለት ማኦ እያ ቦላ ዶርንካ እያ ሆኦና እፅስ። <verse eid="1KI 1:1"/><verse number="2" style="v" sid="1KI 1:2"/>ሄሳ ግሾ፥ እያ ሞርናት፥ “ካዋ ማታን ዳና መላነ እያ ሄማና መላ እስ ጌላኦ ኑ ነዉ ኮያና። ኑ ጎዳ ካዋ ሆኤናዉ እያ ማታን ዝንአናዉ ዳንዳአዉሱ” ያግዶሶና። <verse eid="1KI 1:2"/><verse number="3" style="v" sid="1KI 1:3"/>ኤንቲ እስራኤለ ቢታ ኡባን ኮይድ አብሳ ጌተትያ እስ ማላ ሎኦ ጌላኦ ሱናማ ካታማፐ ደምድ፥ ካዋስ ኤህዶሶና። <verse eid="1KI 1:3"/><verse number="4" style="v" sid="1KI 1:4"/>ሄ ጌላእያ ዳሮ ማላ ሎኦ። እያ ካዋ ሄማሱነ እያዉ ኦሱ፤ ሽን ካዎይ ኢራ አቅ ኤረና።<verse eid="1KI 1:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="1KI 1:5"/>ሃግታ ናአይ አዶንያስ፥ “ታ ካዎታናዉ ኮያይስ” ያግድ ደንድስ፤ ፓራ ጋረታ፥ ፓራታነ ባ ስንን ዎፅያ እሻታሙ አሳታ ጊግስስ። <verse eid="1KI 1:5"/><verse number="6" style="v" sid="1KI 1:6"/>እያ አዋይ፥ “ነ ሀይሳ አይስ ኦይ?” ግድ እያ ኦይች ኤረና። አዶንያስ ዳሮ ማላ ሎኦ፤ እ አበሰሎመ ካልድ የለትስ። <verse eid="1KI 1:6"/><verse number="7" style="v" sid="1KI 1:7"/>አዶንያስ ፃሩያ ናኣ እዮአባራነ ካህንያ አብያታራራ ዞረትን፥ ኤንቲ እያ ማዳናዉ ጊግዶሶና። <verse eid="1KI 1:7"/><verse number="8" style="v" sid="1KI 1:8"/>ሽን ካህንያ ሳዶቅ፥ ዮዳሄ ናአይ ባናይ፥ ናብያ ናታን፥ ሳም፥ ረስምነ ዳዊቲ ናገይሳት አዶንያሳራ ዶኮና። <verse eid="1KI 1:8"/><verse number="9" style="v" sid="1KI 1:9"/>እስ ጋላስ አዶንያስ ኤንሮጌላ ፑልቱዋ ማታን ዞሄለታ ዛላ ጌተትያ በሳን ዶርሳታ፥ መሄታነ ማራታ ያርሽስ። ካዎ ናይታ ባ እሻታ ኡባነ ካዋስ ኦያ ይሁዳ አሳታ ኡባ ባ ያርሾ በሳ ፄግስ። <verse eid="1KI 1:9"/><verse number="10" style="v" sid="1KI 1:10"/>ሽን ናበይ ናታና፥ ባናያ፥ ካዋ ናገይሳታነ ባ እሻ ሶሎሞነ ፄግቤና።<verse eid="1KI 1:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="1KI 1:11"/>ሄሳፈ ጉየ፥ ናታን ሶሎሞነ አይዉ በርሳበኮ ብድ፥ “ኑ ጎዳይ፥ ዳዊቲ ኤሮና ደእሽን፥ ሃግታ ናአይ አዶንያስ ካዎትዳይሳ ነ ስአብኪ? <verse eid="1KI 1:11"/><verse number="12" style="v" sid="1KI 1:12"/>ነ ነ ሸምፑዋነ ነ ናኣ ሶሎሞነ ሸምፑዋ ዋታዳ አሻነኮ ታ ነና ዞራይስ። <verse eid="1KI 1:12"/><verse number="13" style="v" sid="1KI 1:13"/>ካዋ ዳዊታኮ ገላዳ፥ ‘ታ ጎዳዉ፥ ካዋዉ ቱማ፥ ታፐ ጉየ ነ ናአይ ሶሎሞነይ ካዎታና፤ እ ታ አራታን ኡታና’ ያጋዳ ታዉ ነ አይሌስ ጫቃብኪ? ያትን፥ አዶንያስ ዋንድ ካዎትዴ? <verse eid="1KI 1:13"/><verse number="14" style="v" sid="1KI 1:14"/>ኔኒ ካዉዋራ ሃሳይሽን ታ ገላዳ፥ ነ ኦዳይ ቱማ ግደይሳ ኦዳና” ያግስ።<verse eid="1KI 1:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="1KI 1:15"/>በርሳባ ካዋ ሃሳይሳናዉ እ ደእያ ኬ ገላሱ፤ ሱናማፐ ይዳ አብሳ ካዋ ሄማዉሱ። <verse eid="1KI 1:15"/><verse number="16" style="v" sid="1KI 1:16"/>በርሳባ ካዋ ስንን ቦንቾን ሶምኡዋ ሳአ ጋዳ ዝጋሱ።</para>
+  <para style="p" vid="1KI 1:16">ካዎይ፥ “አይ ኮያዲ?” ያግድ ኦይችስ።<verse eid="1KI 1:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="1KI 1:17"/>እያ፥ “ታ ጎዳዉ፥ ታዉ ነ አይሌስ፥ ‘ታፐ ጉየ ነ ናአይ ሶሎሞነይ ካዎታና፤ እ ታ አራታን ኡታና’ ጋዳ ጎዳን፥ ነ ፆሳን፥ ታዉ ጫቃዳሳ። <verse eid="1KI 1:17"/><verse number="18" style="v" sid="1KI 1:18"/>ሄኮ፥ ሀእ አዶንያስ ካዎትስ፤ ነ ታ ጎዳይ፥ ካዎይ ሄሳ ኤራካ። <verse eid="1KI 1:18"/><verse number="19" style="v" sid="1KI 1:19"/>እ ዳሮ መሄታ፥ ማራታነ ዶርሳታ ያርሽድ፥ ካዋ ናይታ ኡባ፥ ካህንያ አብያታራነ ቶራ ሞጮና እዮኣባ ፄግስ፤ ሽን ነ አይልያ ሶሎሞነ ፄግቤና። <verse eid="1KI 1:19"/><verse number="20" style="v" sid="1KI 1:20"/>ታ ጎዳዉ ካዋዉ፥ ታ ጎዳፐ ካዉዋፐ ጉየ ኦን ነ አራታን ኡታኔኮ ኤራናዉ እስራኤለ አሳ ኡባ አይፈይ ነና ፄሌስ። <verse eid="1KI 1:20"/><verse number="21" style="v" sid="1KI 1:21"/>ሄስ ሀኖና እፅኮ ታ ጎዳይ ካዎይ ሀይቅድ ባ ማይዛታን ጋሄትያ ዎደ ታነ ታ ናአይ ሶሎሞነይ ዳፋባ ኦዳ አሳዳ ታይበታና” ያጋሱ።<verse eid="1KI 1:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="1KI 1:22"/>በርሳባ ቡሮ ካዉዋራ ሃሳይሽን፥ ናበይ ናታን ካዎ ኬ ጋክስ። <verse eid="1KI 1:22"/><verse number="23" style="v" sid="1KI 1:23"/>ናበይ ይዳይሳ አሳይ ካዋስ ኦድዶሶና። ናታን ካዋ ስን አድ፥ ባ ሶምኡዋ ሳአ ጋድ ዝግስ።<verse eid="1KI 1:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="1KI 1:24"/>ናታን፥ “ታ ጎዳዉ ካዋዉ፥ ኔፐ ጉየ አዶንያስ ካዎታናይሳነ ነ አራታን ኡታናይሳ ኦዳዲ? <verse eid="1KI 1:24"/><verse number="25" style="v" sid="1KI 1:25"/>ሀች እ ዳሮ መሄታ፥ ማራታነ ዶርሳታ ያርሽድ፥ ካዋ ናይታ ኡባ፥ ቶራ ሞጮናታነ ካህንያ አብያታራ ፄግስ። ኤንቲ ሀእ እያራ ምሸነ ኡይሸ፥ ‘ካዎይ አዶንያስ ብራታ ቱስ ግዶ’ ያግሸ ደኦሶና። <verse eid="1KI 1:25"/><verse number="26" style="v" sid="1KI 1:26"/>ሽን ታና ነ አይልያ፥ ካህንያ ሳዶቃ፥ ዮዳሄ ናኣ ባናያነ ነ አይልያ ሶሎሞነ ፄግቤና። <verse eid="1KI 1:26"/><verse number="27" style="v" sid="1KI 1:27"/>ሀይስ ታ ጎዳ ካዉዋፐ ጉየ እያ አራታን ኦን ኡታኔኮ ባ አይለታ ኤርሶና ደእሸ ታ ጎዳይ ካዎይ ኦዳባዬ?” ያግስ።<verse eid="1KI 1:27"/></para>
+  <para style="s1">ዳዊቲ ሶሎሞነ ካዎስ</para>
+  <para style="p">
+    <verse number="28" style="v" sid="1KI 1:28"/>ካዎይ ዳዊቲ፥ “በርሳቦ ታዉ ፄግተ” ያግን ካዎይ ደእያ በሳ ገላዳ እያ ስንን ኤቃሱ። <verse eid="1KI 1:28"/><verse number="29" style="v" sid="1KI 1:29"/>ሄ ዎደ ካዎይ፥ “ታና መቶ ኡባፈ አሽዳ ጎዳይ ኤርያ መላ። <verse eid="1KI 1:29"/><verse number="30" style="v" sid="1KI 1:30"/>ጎዳን፥ እስራኤለ ፆሳን ታ ነዉ ጫቅዳ ጫቁዋ ቱማ ሀች ፖላና፤ ታፐ ጉየ ነ ናአይ ሶሎሞነይ ካዎታና፤ ታ አራታን፥ እ ታ በሳን ኡታና” ያግድ ጫቅስ።<verse eid="1KI 1:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="1KI 1:31"/>በርሳባ ካዋ ስንን ባ ሶምኡዋ ሳአ ጋዳ ዝጋዳ፥ “ታ ጎዳይ፥ ካዎይ ዳዊቲ መርናዉ ካዎቶ!” ያጋሱ።<verse eid="1KI 1:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="1KI 1:32"/>ሄሳፈ ጉየ ካዎይ ዳዊቲ፥ “ታዉ ካህንያ ሳዶቃ፥ ናብያ ናታናነ ዮዳሄ ናኣ ባናያ ፄግተ” ያግን፥ ኤንቲ ገልድ፥ ካዋ ስንን ኤቅዶሶና። <verse eid="1KI 1:32"/><verse number="33" style="v" sid="1KI 1:33"/>ካዎይ “ታ አይለታ ህንተራ ኤክድ ብድ፥ ታ ናኣ ሶሎሞነ ታ ቶግያ ባቁሉዋ ቶግስድ፥ ግዮነ ፑልቱዋኮ ኤፍተ። <verse eid="1KI 1:33"/><verse number="34" style="v" sid="1KI 1:34"/>ያን ካህንያ ሳዶቅነ ናብያ ናታን እያ ትይድ እስራኤለ ቦላ ካዎዮ። ሞይዘ ፑንሸ፥ ህንተ ቃላ ቁ ኦድ፥ ‘ካዎይ ሶሎሞነይ ብራታ ቱሱ ግዶ’ ያግተ። <verse eid="1KI 1:34"/><verse number="35" style="v" sid="1KI 1:35"/>ህንተ እያ አጃብድ እያራ ቢተ፤ እ ታ አራታን ኡትድ፥ ታ በሳን ካዎቶ። ታኒ እስራኤለነ ይሁዳ ሃርያ አስ ኦዳ እያ ሹማስ” ያግስ።<verse eid="1KI 1:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="1KI 1:36"/>ዮዳሄ ናኣ ባናይ ዛሪድ፥ “አምንእ! ጎዳይ፥ ታ ጎዳ ካዋ ፆሳይ ሄሳ ፖሎ! <verse eid="1KI 1:36"/><verse number="37" style="v" sid="1KI 1:37"/>ጎዳይ ታ ጎዳራ ካዉዋራ ግድዳይሳዳ ሶሎሞነራ ግዶ፤ እያ አራታ ታ ጎዳ ካዋ ዳዊቲ አራታፐ አድ ግታዮ” ያግስ።<verse eid="1KI 1:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="1KI 1:38"/>ሄሳ ግሾ፥ ካህነይ ሳዶቅ፥ ናበይ ናታን፥ ዮዳሄ ናአይ ባናይነ ካዋ ናገይሳት ሶሎሞነ ካዎይ ዳዊቲ ቶግያ ባቁሉዋ ቶግስድ፥ ግዮነ ኤፍዶሶና። <verse eid="1KI 1:38"/><verse number="39" style="v" sid="1KI 1:39"/>ካህነይ ሳዶቅ ጌሻ ዱንካንያፐ ዛይተ ካጨን ትግ ኤክድ፥ ሶሎሞነ ትይድ ካዎስ። ኤንቲ ሞይዘ ፑንን፥ አሳ ኡባይ ባ ቃላ ቁ ኦድ፥ “ካዎይ ሶሎሞነይ መርናዉ ካዎቶ!” ያግዶሶና። <verse eid="1KI 1:39"/><verse number="40" style="v" sid="1KI 1:40"/>አሳ ኡባይ እያ ካልድ ብዶሶና፤ ኤንቲ ቢት ቃፃና ጋካናዉ ሱሱልኤ ፑንሸነ ዱርሸ ዳሮ ኡፋይትዶሶና።<verse eid="1KI 1:40"/></para>
+  <para style="p">
+    <verse number="41" style="v" sid="1KI 1:41"/>አዶንያስነ እያራ ደእያ እማት ግብራ ምድ ዉርስሸ ሄሳ ስእዶሶና። እዮኣብ ሞይዘ ፑኖ ስእድ፥ “ሀ ካታማን ስኤትያ ዎጫማ ግርሳይ አይቤ?” ያግድ ኦይችስ።<verse eid="1KI 1:41"/></para>
+  <para style="p">
+    <verse number="42" style="v" sid="1KI 1:42"/>እ ቡሮ ኦደትሽን፥ ካህንያ አብያታራ ናአይ ዮናታን ጋክ ዎስ። አዶንያስ፥ “አነ ሃ ገላ። ነ መላ ሎኦ አስ ሎኦ ዎረ ኤሆና አገና” ያግስ።<verse eid="1KI 1:42"/></para>
+  <para style="p">
+    <verse number="43" style="v" sid="1KI 1:43"/>ዮናታን፥ “አካይ፥ ታኒ ሎኦ ዎረ ኤሀብከ! ኑ ጎዳይ ካዎይ ዳዊቲ ሶሎሞነ ካዎስ። <verse eid="1KI 1:43"/><verse number="44" style="v" sid="1KI 1:44"/>እያ አጃባና መላ ካዎይ ካህንያ ሳዶቃ፥ ናብያ ናታና፥ ዮዳሄ ናኣ ባናያነ ካዋ ናገይሳታ እያራ የድስ፤ ኤንቲ ካዎይ ቶግያ ባቁሉዋ እያ ቶግስዶሶና። <verse eid="1KI 1:44"/><verse number="45" style="v" sid="1KI 1:45"/>ካህነይ ሳዶቅነ ናበይ ናታን፥ ግዮነ ፑልቱዋ ማታን እያ ትይድ ካዎዶሶና፤ ኤንቲ እልልሸነ ዱርሸ ብዶሶና፤ ካታማን ስኤትያ ግርሳይ ሄሳ። <verse eid="1KI 1:45"/><verse number="46" style="v" sid="1KI 1:46"/>ሶሎሞነይ አራታን ኡትስ። <verse eid="1KI 1:46"/><verse number="47" style="v" sid="1KI 1:47"/>ሄሳ ቦላካ፥ ካዋ ሞርናት ኑ ጎዳ ካዋ ዳዊታኮ ሺቅድ፥ ‘ነ ፆሳይ ሶሎሞነ ሱን ነይሳፈ አድ ከሶ፤ እያ አራታ ነይሳፈ አድ ግታዮ!’ ያግድ አንጅዶሶና። ካዎይ ባ አልጋን ደእሸ ሆክድ ፆሳ ጎይንስ። <verse eid="1KI 1:47"/><verse number="48" style="v" sid="1KI 1:48"/>ጉጅድካ፥ ‘ታ በሳን ካዎድ፥ ታ አራታን ኡትስድ፥ ታና ሀች ታ አይፈን በሲያ ጎዳይ፥ እስራኤለ ፆሳይ ጋላተቶ!’ ” ያግስ።<verse eid="1KI 1:48"/></para>
+  <para style="p">
+    <verse number="49" style="v" sid="1KI 1:49"/>አዶንያሳ እማት ኡባይ ሄሳ ስእዳ ዎደ ዳጋምድ፥ ላለትዶሶና። <verse eid="1KI 1:49"/><verse number="50" style="v" sid="1KI 1:50"/>አዶንያስ ሶሎሞነ ያይድ፥ ያርሾ በሳ ካጨታ ኦይክድ ዎስስ። <verse eid="1KI 1:50"/><verse number="51" style="v" sid="1KI 1:51"/>አሳይ ሶሎሞነ፥ “አዶንያስ ካዋ ሶሎሞነ ያይድ፥ ያርሾ በሳ ካጨታ ኦይክድ፥ ‘ካዎይ ሶሎሞነይ ታና ባ አይልያ ማሻን ዎከ ግድ ሀች ታዉ ጫቆ’ ” ያጌስ ግድ ኦድዶሶና።<verse eid="1KI 1:51"/></para>
+  <para style="p">
+    <verse number="52" style="v" sid="1KI 1:52"/>ሶሎሞነይ ዛሪድ፥ “እ ባ ሀኑዋ ሎይኮ፥ ሀር አቶሽን እያ ሁጰ ብናናፐ እሶይካ ቦሸተና፤ ሽን እያን ኢታተ በንትኮ እ ሀይቃና” ያግስ። <verse eid="1KI 1:52"/><verse number="53" style="v" sid="1KI 1:53"/>ካዎይ ሶሎሞነይ፥ አዶንያሳ ያርሾ በሳፈ ኤሀና መላ አሰ ኪትስ። አዶንያስ ይድ፥ ሶሎሞነስ ዝግስ፤ ሶሎሞነይ እያኮ፥ “ነ ሶ ባ” ያግስ።<verse eid="1KI 1:53"/></para>
+  <chapter eid="1KI 1"/>
+  <chapter number="2" style="c" sid="1KI 2"/>
+  <para style="s1">ዳዊቲ ሶሎሞነ ዞርስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 2:1"/>ዳዊታስ ሀይቅያ ዎደይ ማትን፥ ባ ናኣ ሶሎሞነ ሀይሳዳ ያግድ ኪትስ፤ <verse eid="1KI 2:1"/><verse number="2" style="v" sid="1KI 2:2"/>“ታ ሀይቅያ ዎደይ ማትስ። ሄሳ ግሾ፥ ምና፤ አሰ ግዳ። <verse eid="1KI 2:2"/><verse number="3" style="v" sid="1KI 2:3"/>ጎዳይ ነ ፆሳይ ኪትዳባ ናጋ፤ እያ ኦግያን ሄመታ፤ ሙሰ ማፃፋን ፃፈትዳ እያ አዋጁዋ፥ እያ ኪታ፥ እያ ህግያነ እያ ዎጋ ናጋ። ሄሳ ነ ኦኮ፥ ነ ኦያባ ኡባይነ ነ ብያ በሳ ኡባይ ነዉ እንጀታና። <verse eid="1KI 2:3"/><verse number="4" style="v" sid="1KI 2:4"/>ጎዳይ፥ ‘ነ ኮቻት ባንታ ደኡዋን ናገትድ ደእኮ፥ ኤንቲ ታ ስንን ባንታ ኩመ ዎዛናፐነ ባንታ ኩመ ሸምፑዋፈ አማነትድ ሄመትኮ፥ እስራኤለ አራታን ኡትያ አስ ነዉ የና’ ” ያግዳ ኡፋይሳ ቃላ ታዉ ፖላና።<verse eid="1KI 2:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="1KI 2:5"/>ጉጅድካ፥ “ፃሩያ ናአይ እዮኣብ እስራኤለ ናምኡ ቶራ ሞጮናታ ኔራ ናኣ አበኔራነ የተራ ናኣ አማሳ ዎድ፥ እ ኦዳባ ነ ኤራሳ። ሄስካ፥ ኦል ባይናሽን ሳሮ ዎደ ኤንታ ዎድ፥ ሄ ሱን ባ ፄሳ ሳቅያነ ባ ቶሁዋ ጫማ ትይስ። <verse eid="1KI 2:5"/><verse number="6" style="v" sid="1KI 2:6"/>ነ እያ ነ ጭንጫተዳ ኦ፤ እ ጬግድ ሳሮ ሀይቃናዳ ኦፋ።<verse eid="1KI 2:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="1KI 2:7"/>“ሽን ታኒ ነ እሻ አበሰሎመፐ ባቃትያ ዎደ ኤንቲ ታዉ ምየ ግድዳ ግሾ፥ ጋላዳ ቢታን ደእያ ባርዝለ ናይታስ ኬሀባ ኦ፤ ኤንቲ ነ ጋይታፐ ምያ አሳራ ሞ።<verse eid="1KI 2:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="1KI 2:8"/>“ታኒ ማሀናይማ ካታማ ብዳ ዎደ ታና ኢታ ባደ ባድዳ ብንያመ ቢታን ብራቅማ ካታማፐ ይዳ ጌራ ናኣ ሳም ኔራ ደኤይሳ ቆፓ። እ ታራ ጋሄታናዉ ዮርዳኖሰ ሻፋ ይዳ ዎደ፥ ‘ታ ነና ዎከ’ ጋዳ ጎዳን እያዉ ጫቃስ። <verse eid="1KI 2:8"/><verse number="9" style="v" sid="1KI 2:9"/>ሽን ሀእ ኔኒ እያ ፅሎ አሳዳ ታይቦፓ። ነ ጭንጫ አስ ግድያ ግሾ አይ ኦነኮ ኤራሳ። ነ ሄ ጭማ አድያ ሱራ ሞጋ” ያግስ።<verse eid="1KI 2:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="1KI 2:10"/>ዳዊቲ ሀይቅድ፥ ባ ማይዛታን ጋሄትስ፤ ባ ካታማን ሞገትስ። <verse eid="1KI 2:10"/><verse number="11" style="v" sid="1KI 2:11"/>ዳዊቲ እስራኤለ ቦላ ኦይታሙ ላይ ካዎትስ፤ ከብሮናን ላፑን ላይ፥ የሩሳላመን ሀስታማነ ሄ ላይ ካዎትስ። <verse eid="1KI 2:11"/><verse number="12" style="v" sid="1KI 2:12"/>ሶሎሞነይ ባ አዋ ዳዊታ አራታን ኡትስ፤ እያ ካዎተይ ዳሮ ምንስ።<verse eid="1KI 2:12"/></para>
+  <para style="s1">ሶሎሞነ አራታይ ምንስ</para>
+  <para style="p">
+    <verse number="13" style="v" sid="1KI 2:13"/>ሃግታ ናአይ አዶንያስ፥ ሶሎሞነ አየ በርሳብኮ ብን በርሳባ፥ “ነ ታኮ ሳሮ ያዲ?” ያጋዳ እያ ኦይቻሱ።</para>
+  <para style="p" vid="1KI 2:13">እ፥ “ኤ፤ ሳሮ ያስ” ያግድ ዛርስ። <verse eid="1KI 2:13"/><verse number="14" style="v" sid="1KI 2:14"/>ጉጅድካ፥ “ታኒ ነና ኦይችያባይ ደኤስ” ያግስ።</para>
+  <para style="p" vid="1KI 2:14">እያ፥ “ኦይቻ” ያጋሱ።<verse eid="1KI 2:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="1KI 2:15"/>አዶንያስ፥ “ካዎታናዉ በሰይ ታና ግደይሳነ እስራኤለ አሳ ኡባይ ታና ባንታዉ ካዎዳ ፄለይሳ ኔኒ፥ ነ ሁጰን ኤራሳ። ሽን ሀኖይ ፆሳፈ ግድዳ ግሾ ኦዳይ ላመትን ካዎተይ ታ እሻኮ ዩይስ። <verse eid="1KI 2:15"/><verse number="16" style="v" sid="1KI 2:16"/>ሀእ ታኒ ነና እስባ ኦይቻና። ሀያና ታና ዬላዮፓ” ያግስ።</para>
+  <para style="p" vid="1KI 2:16">እያ፥ “ኦይቻ” ያጋሱ።<verse eid="1KI 2:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="1KI 2:17"/>እ፥ “ካዎይ ሶሎሞነይ ነና እፃስ ጌና፤ ሄሳ ግሾ፥ ሱናማ ማጫስዉ አብሶ ታዉ ማቾ ኦዳ ኤካና መላ ሀያና ታዉ እያ ኦይቻርክ” ያግስ።<verse eid="1KI 2:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="1KI 2:18"/>በርሳባ፥ “ዳሮ ሎኦ፤ ታ ሄሳ ካዋስ ኦዳና” ያጋሱ።<verse eid="1KI 2:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="1KI 2:19"/>ሄሳ ግሾ፥ በርሳበይ አዶንያሳ ኪታ ኦዳናዉ ሶሎሞነኮ ገልን፥ ካዎይ ደንድ ኤቅድ፥ እዉ ዝግስ። ባ አራታን ኡትስ፤ ባ አየስ ሀራ አራታ ኤህስድ፥ ባፐ ኡሻቻ ባጋን ኡትስስ።<verse eid="1KI 2:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="1KI 2:20"/>በርሳባ፥ “ታ ነና እስ ጉባ ኦይችያባይ ደኤስ፤ ሀያና ታና ዬላዮፓ” ያጋሱ።</para>
+  <para style="p" vid="1KI 2:20">ካዎይ ዛሪድ፥ “ታ አየ፥ ኦይቻ። ታ ነና ዬላይከ” ያግስ።<verse eid="1KI 2:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="1KI 2:21"/>እያ፥ “ሱናማ ማጫስዉ አብሶ ነ እሻይ አዶንያስ ማቾ ኦድ ኤካናዉ ኮይያ ግሾ እያዉ እማርክ” ያጋሱ።<verse eid="1KI 2:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="1KI 2:22"/>ካዎይ ሶሎሞነይ ዛሪድ፥ “ሱናማ ማጫስዉ አብሶ ነ አዶንያስ አይስ ኦይቻይ? እ ታ ባይራ ግደኔ? ኔኒ እያዉ ካዎተ አይስ ኦይችኪ? ቃስ ካህንያ አብያታርነ ፃሩያ ናአይ እዮኣብ እያራ ደኦሶና ግዶኮና?”<verse eid="1KI 2:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="1KI 2:23"/>ካዎይ ሶሎሞነይ ጎዳን ጫቅድ፥ “አዶንያስ ሀይሳ ኦይችዳ ግሾ ታኒ እያ ዎና እፅኮ፥ ጎዳይ ታና ፕርዶ! <verse eid="1KI 2:23"/><verse number="24" style="v" sid="1KI 2:24"/>ታና፥ ታ አዋ ዳዊቲ አራታን ኡትስድ፥ ታ ካዎተ ምን ኤስድ፥ ታ ኮቻታስ ባ ቃላ ፖልዳ ጎዳይ ኤርያ መላ፥ አዶንያስ ሀች ሀይቃና!” ያግስ። <verse eid="1KI 2:24"/><verse number="25" style="v" sid="1KI 2:25"/>ካዎይ ሶሎሞነይ ዮዳሄ ናአ ባናያ ኪትን፥ እ ብድ አዶንያሳ ሾጭድ ዎስ።<verse eid="1KI 2:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="1KI 2:26"/>ሄሳፈ ጉየ፥ ካዎይ ሶሎሞነይ፥ ካህንያ አብያታራኮ፥ “ኔኒ ነ ቢታ አናቶታ ባ። ኔኒ ሀይቃናዉ በሳሳ፥ ሽን ታ ነና ዎከ። ኔኒ ታ አዋ ዳዊቲ ስንን ኡባ ሃርያ ጎዳ ታቦትያ ቶካዳሳ፤ ቃስ ታ አዋ መቱዋ ኡባ እያራ ኤካዳሳ” ያግስ። <verse eid="1KI 2:26"/><verse number="27" style="v" sid="1KI 2:27"/>ሶሎሞነይ፥ አብያታር ጎዳ ካህነ ግድዳ በሳፈ ድግድ፥ ጎዳይ ሴሎን ኤለ ሶ አሳስ ኦድዳ ቃላ ፖልስ።<verse eid="1KI 2:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="1KI 2:28"/>አበሰሎመ እፅድ፥ አዶንያሳ ማድዳ እዮኣባ ሀ ኦዳይ ጋክን፥ ባቃትድ ጎዳ ዱንካንያኮ ብድ፥ ያርሾ በሳ ካጨታ ኦይክስ። <verse eid="1KI 2:28"/><verse number="29" style="v" sid="1KI 2:29"/>እዮኣብ ባቃትድ ጎዳ ዱንካንያኮ ብድ፥ ያርሾ በሳ ማታን ደኤይሳ ካዋ ሶሎሞነይ ስእዳ ዎደ፥ ዮዳሄ ናኣ ባናያ፥ “ባዳ እያ ዎ” ግድ ኪትስ። <verse eid="1KI 2:29"/><verse number="30" style="v" sid="1KI 2:30"/>ባናይ ጎዳ ዱንካንያ ግዶ ገልድ እዮኣባኮ፥ “ካዎይ ነና ሀ በሳፈ ከያ ጌስ” ያግስ።</para>
+  <para style="p" vid="1KI 2:30">ሽን እ ዛሪድ፥ “ከይከ! ታ ሀይሳን ሀይቃና” ያግስ።</para>
+  <para style="p" vid="1KI 2:30">ባናይ፥ ብድ እዮኣብ ግዳይሳ ካዋስ ኦድስ።<verse eid="1KI 2:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="1KI 2:31"/>ካዎይ፥ “እ ግዳይሳዳ እያ ኦ፤ እያ ዎዳ ሞጋ! እዮኣብ ፅሎ አሳ ሱ ጉስዳ ዳፋፐ ታናነ ታ አዋ ሶ አሳ ጌሻሳ። <verse eid="1KI 2:31"/><verse number="32" style="v" sid="1KI 2:32"/>እ ጉስዳ ሱ አጩዋ ጎዳይ እያዉ ቃንፃና። እ፥ ታ አዋ ዳዊቲ ኤሮናሽን፥ ባፐ ፅሎ ግድዳ ናምኡ አሳታ ማሻን ዎስ። እስራኤለ ቶራ ሞጮናይ፥ ኔራ ናአይ አበኔርነ ይሁዳ ቶራ ሞጮናይ የተራ ናአይ አማስ፥ ሱረ አስ ሽን ዎስ። <verse eid="1KI 2:32"/><verse number="33" style="v" sid="1KI 2:33"/>እዮኣብ ሀ አሳታ ዎዳ ግሾ፥ ኤንታ ሱ አጮይ መርናዉ እዮኣባ ቦላነ እያ ኮቻ ቦላ ዎ። ዳዊቲ ቦላነ እያ ሶ አሳ ቦላ፥ እያ ኮቻ ቦላነ እያ አራታ ቦላ መርናዉ ጎዳ ሳሮይ ግዶ” ያግስ።<verse eid="1KI 2:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="1KI 2:34"/>ሄሳ ግሾ፥ ዮዳሄ ናአይ ባናይ ከይድ፥ እዮኣባ ሾጭድ ዎን፥ እ መላ ቢታን ደእያ ባ ጋደን ሞገትስ። <verse eid="1KI 2:34"/><verse number="35" style="v" sid="1KI 2:35"/>ካዎይ ዮዳሄ ናኣ ባናያ እዮኣባ በሳን ቶራ ሞጮና ኦድ ሹምስ፤ ቃስ አብያታራ በሳን ካህንያ ሳዶቃ ሹምስ።<verse eid="1KI 2:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="1KI 2:36"/>ሄሳፈ ጉየ፥ ካዎይ ሶሎሞነይ ሳማ ፄግድ፥ “ነዉ የሩሳላመን ኬ ኬፃዳ፥ ያን ደአ፤ ሀራ ሶ አዉካ ቦፓ። <verse eid="1KI 2:36"/><verse number="37" style="v" sid="1KI 2:37"/>ነ ካታማፐ ከያዳ፥ ቀድሮና ዛንጋራ ፕንዳ ጋላስ ሀይቃናይሳ ኤራ። ነ ሱ ጎመይ ነና ኦይካና” ያግስ።<verse eid="1KI 2:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="1KI 2:38"/>ሳሚ ዛሪድ፥ “ኔኒ ገይስ ሎኦ፤ ታኒ ነ አይለይ ነ ታ ጎዳይ ካዎይ ግዳይሳዳ ኦና” ያግስ። ሳም የሩሳላመን ዳሮ ዎደ ደእስ።<verse eid="1KI 2:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="1KI 2:39"/>ሽን ሄ ላይፈ ጉየ፥ ሳማ አይለታፐ ናምአት ማእካ ናኣ፥ ጋተ ካዋ አንኩሳኮ ብድ፥ “ነ አይለት ጋተን ደኦሶና” ግድ ሳማስ ኦድዶሶና። <verse eid="1KI 2:39"/><verse number="40" style="v" sid="1KI 2:40"/>እ ባ ሀርያ ኮርድ፥ ባ አይለታ ኮያናዉ አንኩሳኮ ጋተ ብድ፥ ያፐ ባ አይለታ ዛሪድ ኤህስ።<verse eid="1KI 2:40"/></para>
+  <para style="p">
+    <verse number="41" style="v" sid="1KI 2:41"/>ሳሚ የሩሳላመፐ ጋተ ብድ ስምዳይሳ ሶሎሞነይ ስእዳ ዎደ፥ <verse eid="1KI 2:41"/><verse number="42" style="v" sid="1KI 2:42"/>ሳማ ፄግድ፥ “ኔኒ የሩሳላመፐ ሀራ ሶ ብዳ ዎደ ሀይቃናይሳ ኤራ” ጋዳ ታ ነና ጎዳን ጫቅሳብክና? ሄ ዎደ ኔኒ፥ “ነ ገይስ ሎኦ፤ ኤሮ፥ ታ ኪተታና” ጋዳሳ።<verse eid="1KI 2:42"/></para>
+  <para style="p">
+    <verse number="43" style="v" sid="1KI 2:43"/>ያትን፥ “ጎዳን ጫቅዳ ጫቁዋነ ታ ኪታ አይስ ናጋብኪ? <verse eid="1KI 2:43"/><verse number="44" style="v" sid="1KI 2:44"/>ታ አዋ ዳዊታ ቦላ ነ ኦዳ ኢታ ኦሶ ኡባ ነ ዎዛናይ ኤሬስ። ነ ኦዳ ኢታ ኦሱዋ ጎዳይ ነዉ ዛራና። <verse eid="1KI 2:44"/><verse number="45" style="v" sid="1KI 2:45"/>ሽን ካዎይ ሶሎሞነይ አንጀታና፤ ዳዊታ አራታይ ጎዳ ስንን መርናዉ ሳሮ ዳና” ያግስ።<verse eid="1KI 2:45"/></para>
+  <para style="p">
+    <verse number="46" style="v" sid="1KI 2:46"/>ካዎይ፥ ዮዳሄ ናኣ ባናያ ኪትን፥ እ ብድ፥ ሳም ሾጭድ ዎስ።</para>
+  <para style="p" vid="1KI 2:46">ያትን፥ ካዎተይ ሶሎሞነ ኩሸን ምንድ አትስ።<verse eid="1KI 2:46"/></para>
+  <chapter eid="1KI 2"/>
+  <chapter number="3" style="c" sid="1KI 3"/>
+  <para style="s1">ሶሎሞነይ ጭንጫተስ ዎስስ</para>
+  <para style="r">(<ref loc="2CH 1:3-12">2 ታር 1:3-12</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 3:1"/>ሶሎሞነይ ግብፀ ካዋራ ቦሎትድ፥ እያ ናእዉ ባዉ ማቾ ኤክስ። ባ ካዎ ጋ፥ ፆሳ ኬነ የሩሳላመ ዩሹዋ ድርሳ ግምብድ ኦንጋና ጋካናዉ እዮ ዳዊታ ካታማን ዎስ። <verse eid="1KI 3:1"/><verse number="2" style="v" sid="1KI 3:2"/>ጎዳ ሱንን ፆሳ ኬይ ቡሮ ኬፀትቦና ግሾ አሳይ ሄ ዎደ ቃ ጎይኖ በሳን ያርሽሸ ጋምእስ። <verse eid="1KI 3:2"/><verse number="3" style="v" sid="1KI 3:3"/>ሶሎሞነይ ጎዳ ዶስያ ባ አዋ ዳዊቲ ዎጋን ሄመትስ። ሽን ቃ ጎይኖ በሳን ያርሽሸነ እፃነ ጩይስሸ ጋምእስ። <verse eid="1KI 3:3"/><verse number="4" style="v" sid="1KI 3:4"/>ካዎይ ያርሾ ያርሻናዉ ጋባኦና ብስ፤ ሄ በሳይ ሀራ ኡባፈ አድ ኮሽያ ቃ ጎይኖ በሲ። ሶሎሞነይ ሙኩሉ መሄ ኤህድ፥ ሄ ያርሾ በሳን ፁሳ ያርሾ ያርሽስ። <verse eid="1KI 3:4"/><verse number="5" style="v" sid="1KI 3:5"/>ጎዳይ ሶሎሞነስ ጋባኦናን ቃማ አሙሆን ቆንጭድ፥ “ታ ነዉ አይ እማና መላ ኮያይ?” ያግስ።<verse eid="1KI 3:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="1KI 3:6"/>ሶሎሞነይ፥ “ነ አይለይ፥ ታ አዋይ ዳዊቲ ነዉ አማነትዳ፥ ፅሎነ ሱረ አስ ግድዳ ግሾ፥ ኔኒ እያ ዶሳዳሳ። ኔኒ ሀ ኬሀተን፥ ሀች እያ አራታን ኡትያ አደ ናኣ እያዉ እማዳሳ።<verse eid="1KI 3:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="1KI 3:7"/>“አቤት ጎዳዉ፥ ታ ፆሳዉ፥ ኔኒ ታና ነ አይልያ፥ ታ አዋ ዳዊታ በሳን ካዎዳሳ። ሽን ታኒ ጉ ናአ ግድያ ግሾ፥ አሳ ዋታዳ ካለኔኮ ኤርከ። <verse eid="1KI 3:7"/><verse number="8" style="v" sid="1KI 3:8"/>ታኒ፥ ነ አይለይ ነ ዶርዳ አሳ ግዶንነ ታይቦይ ባይና አሳ ግዶን ደአይስ። <verse eid="1KI 3:8"/><verse number="9" style="v" sid="1KI 3:9"/>ሄሳ ግሾ፥ ታኒ ነ አሳ አይሳናዉ ሎኦነ ኢታ ሻካዳ ኤራና መላ ታዉ ነ አይልያስ አኬካ ዎዛና እማ። ሄስ ሀኖና እፅኮ፥ ሀ ነ ግታ አሳ ኦን ካለናዉ ዳንዳኢ?” ያግስ።<verse eid="1KI 3:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="1KI 3:10"/>ሶሎሞነይ ሄሳ ኦይችዳ ግሾ፥ ጎዳይ ኡፋይትስ። <verse eid="1KI 3:10"/><verse number="11" style="v" sid="1KI 3:11"/>ፆሳይ እያኮ፥ “ኔኒ ነዉ ላይ አዱቃና መላ ዎይኮ ዱረ ግዳናዉ ዎይኮ ነ ሞርከት ሀይቃና መላ ኦይቾናሽን፥ ሀ አሳ ሱረ ፕርዳን አይስያ ጭንጫተ ኦይችዳ ግሾ፥ <verse eid="1KI 3:11"/><verse number="12" style="v" sid="1KI 3:12"/>ሄኮ፥ ነ ኦይችዳይሳ ታ ነዉ እማና። ሀይሳፈ ካሰ ነ መል ባይናይሳዳ ህዛፐ ጉየ ነ ማል ደንዶናዳ ጭንጫተነ አኬካ ዎዛና ነዉ እማና። <verse eid="1KI 3:12"/><verse number="13" style="v" sid="1KI 3:13"/>ቃስ ነ ኦይቾናባካ ታ ነዉ እማና፤ ኔኒ ደእዳ ላይ ኡባን ሀራ ካዎይ ደሞና ዱረተነ ቦንቹዋ ታ ነዉ እማና። <verse eid="1KI 3:13"/><verse number="14" style="v" sid="1KI 3:14"/>ነ አዋይ ዳዊቲ ሄመትዳይሳዳ ታ ኦግያን ነ ሄመትኮ፥ ታ ዎጋነ ታ ኪታ ናግኮ፥ ታ ነ ላይ አዱሳና” ያግስ። <verse eid="1KI 3:14"/><verse number="15" style="v" sid="1KI 3:15"/>ሶሎሞነይ ስኮፈ ባርክድ፥ ሄኮ፥ ፆሳይ እያዉ አሙሆን ኦድዳይሳ አኬክስ። እ፥ የሩሳላመ ስሚድ፥ ጎዳ ጫቆ ታቦትያ ስንን ኤቅድ፥ ፁሳ ያርሾነ እስፈተ ያርሾ ያርሽስ። ያትድ፥ ባ ሞርናታስ ግብራ ጊግስስ።<verse eid="1KI 3:15"/></para>
+  <para style="s1">ሶሎሞነይ ሱረ ፕርድስ</para>
+  <para style="p">
+    <verse number="16" style="v" sid="1KI 3:16"/>እስ ጋላስ ናምኡ ላይማ ማጫሳት ካዋ ሶሎሞነኮ ይድ፥ እያ ስንን ኤቅዶሶና። <verse eid="1KI 3:16"/><verse number="17" style="v" sid="1KI 3:17"/>ኤንታፈ እስንያ፥ “ታ ጎዳዉ፥ ታንነ ሀ አስያ እስ ኬን ደኦስ። ያን እያ ታራ እስፈ ደእሽን፥ ታ እስ ናአ የላስ። <verse eid="1KI 3:17"/><verse number="18" style="v" sid="1KI 3:18"/>ታ ናአይ የለትዳ ሄን ጋላስ ሀ ማጫስያካ እስ ናአ የላሱ። ሄ ኬን ኑፐ፥ ናምኣፈ ሀራ አስ ኦንካ ባዋ።<verse eid="1KI 3:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="1KI 3:19"/>“እስ ቃማ እያ ባና ናኣ ቦላ ዝንእዳ ግሾ፥ ሀ ማጫሰ ናአይ ሀይቅስ። <verse eid="1KI 3:19"/><verse number="20" style="v" sid="1KI 3:20"/>እያ ቃማ ደንዳዳ፥ ታኒ፥ ነ አይልያ ስክዳሽን፥ ታ ናኣ ታ ምየፐ ኤካዳ፥ ባ ክኦን ዎዳ፥ ባ ሀይቅዳ ናኣ ታ ክኦን ዎሱ። <verse eid="1KI 3:20"/><verse number="21" style="v" sid="1KI 3:21"/>ዎንታ ታኒ ታ ናኣ ንናዉ ደንድያ ዎደ፥ ሄኮ ሀይቅስ። ሽን ታኒ ዎንታ ፖኦን ትሽ ኦዳ ፄልያ ዎደ፥ ሄኮ፥ ታ ናኣ ግደና” ያጋሱ።<verse eid="1KI 3:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="1KI 3:22"/>ሀንኮ ማጫስያ፥ “አካይ፥ ፓፃ ደኤይስ ታ ናኣ፤ ሀይቅዳይስ ነ ናኣ” ያጋሱ።</para>
+  <para style="p" vid="1KI 3:22">ሽን ኮይሮ ማጫስያ ዛራዳ፥ “አካይ፥ ሀይቅዳይስ ነ ናኣ፤ ፓፃ ደኤይስ ታ ናኣ” ያጋሱ። ሄሳዳ ግድ ኤንቲ ካዋ ስንን ፓላምዶሶና።<verse eid="1KI 3:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="1KI 3:23"/>ካዎይ ሶሎሞነይ፥ “ሀ ማጫስያ፥ ‘ፓፃ ደእያ ናአይ ታይሳ፤ ሀይቅዳይስ ነይሳ’ ያጋዉሱ፤ ሀንክያካ፥ ‘አካይ፥ ነ ናአይ ሀይቅዳይሳ፤ ታ ናአይ ፓፃ ደኤይሳ’ ያጋዉሱ” ያግስ።<verse eid="1KI 3:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="1KI 3:24"/>ካዎይ፥ “ታዉ ማሻ ኤክድ ዪተ” ያግን፥ ኤንቲ እያዉ ማሻ ኤህዶሶና። <verse eid="1KI 3:24"/><verse number="25" style="v" sid="1KI 3:25"/>ካዎይ፥ “ፓፃ ደእያ ናኣ ናምኡ ከስድ ቃንፅድ፤ እስ ባጋ ሀንስ እምተ፤ እስ ባጋ ህንስ እምተ” ያግስ።<verse eid="1KI 3:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="1KI 3:26"/>ፓፃ ደእያ ናአይ እባ ግድዳ ማጫስያ ባ ናኣስ ምሸታዳ፥ “ታ ጎዳዉ፥ ፓፃ ደእያ ናኣ እዉ እማ! እያ ዎፓ” ያጋሱ።</para>
+  <para style="p" vid="1KI 3:26">ሽን ሀንክያ፥ “ታዉካ ነዉካ ግዶፖ፤ ናምኡ ከይድ ቃንፀቶ” ያጋሱ።<verse eid="1KI 3:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="1KI 3:27"/>ካዎይ፥ “ናኣ ዎፕተ፤ ሀ ፓፃ ደእያ ናኣ ሀ ኮይሮ ማጫሴስ እምተ፤ ናኣ አይያ እዮ” ያግድ ፕርድስ።<verse eid="1KI 3:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="1KI 3:28"/>እስራኤለ አሳ ኡባይ ካዎይ ፕርድዳ ፕርዳ ስእዳ ዎደ፥ ኤንቲ ካዋ ዳሮ ቦንችዶሶና። አሳስ ፅሎተን ፕርዳናዉ እያዉ ጭንጫተ ፆሳፈ እመትዳይሳ በእዶሶና።<verse eid="1KI 3:28"/></para>
+  <chapter eid="1KI 3"/>
+  <chapter number="4" style="c" sid="1KI 4"/>
+  <para style="s1">ሶሎሞነ ሞርናታ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 4:1"/>ካዎይ ሶሎሞነይ እስራኤለ ቢታ ኡባ ቦላ ካዎትስ። <verse eid="1KI 4:1"/><verse number="2" style="v" sid="1KI 4:2"/>እ ሹምዳ አሳይ ሀይሳፈ ካልድ ፃፈትዳይሳታ፤ ሳዶቃ ናአይ አዛርያስ ካህነ፤ <verse eid="1KI 4:2"/><verse number="3" style="v" sid="1KI 4:3"/>ሺሻ ናይት ኤልሆረፍነ አክይ ዋና ፃፈታ፤ አህሉዳ ናአይ እዮሳፈፅ ታርከ ፃፈ፤ <verse eid="1KI 4:3"/><verse number="4" style="v" sid="1KI 4:4"/>ዮዳሄ ናአይ ባናይ ቶራ ሞጮና፤ ሳዶቅነ አብያታር ካህነታ። <verse eid="1KI 4:4"/><verse number="5" style="v" sid="1KI 4:5"/>ናታና ናአይ አዛርያስ ደርያ አይሰይሳታ ሀላቃ፤ ናታና ናአይ ካህነይ፥ ዛቡድ ካዋ ዞረይሳ፤ <verse eid="1KI 4:5"/><verse number="6" style="v" sid="1KI 4:6"/>አህሳር ካዎ ጋ ሀላቃ፤ አብዳ ናአይ አዶንራም ማዳ ኦይሳታ ሀላቃ።<verse eid="1KI 4:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="1KI 4:7"/>ቃስ ሶሎሞነስ እስራኤለ ቢታን ታማነ ናምኡ ደረ አይስያ ሀላቃት ደኦሶና፤ ኤንቲ ካዋስነ ካዋ ሶን ደእያ አሳ ኡባስ ምያ ካ ኤሄይሳታ። ኤንታፈ እሶይ እሶይ ላይ ግዶን እስ እስ አጌና ካ ኤሄስ። <verse eid="1KI 4:7"/><verse number="8" style="v" sid="1KI 4:8"/>ኤንታ ሱንይ ሀይሳፈ ካልድ ፃፈትስ።</para>
+  <para style="p" vid="1KI 4:8">በንሁር ደረይ ዳርያ ኤፍሬማ ቢታ አይሰይሳ። <verse eid="1KI 4:8"/><verse number="9" style="v" sid="1KI 4:9"/>ባንፀቃር ማቃፃ፥ ሻአልብማ፥ ቤት-ሳሜሳነ ኤሎን-ቤት-ሀና ካታማታ አይሰይሳታ። <verse eid="1KI 4:9"/><verse number="10" style="v" sid="1KI 4:10"/>በንሄሰድ አሩቦታ ቢታ አይሰይሳ፤ ሶኮ ቢታይነ ሄፌራ ቢታይ ኡባይ እያባ። <verse eid="1KI 4:10"/><verse number="11" style="v" sid="1KI 4:11"/>በን-አምናዳብ፥ በናፎታ ዶራ ቢታ አይሰይሳ፤ እ ሶሎሞነ ናእዉ ፃፋቶ ኤክስ። <verse eid="1KI 4:11"/><verse number="12" style="v" sid="1KI 4:12"/>አህሉዳ ናአይ ባአና፥ ታናካነ ማግዶ ካታማታ፥ እዝራኤለፐ ጋርሳን ፃርታና ማታን ደእያ ቤት-ሳና ቢታ ኡባ፥ ቤት-ሳናፐ ብድ አቤል-ማሆላራ ካንድ፥ ዮቅማኣማ ፕን ጋካናዉ ደእያ ካታማታ አይሴስ። <verse eid="1KI 4:12"/><verse number="13" style="v" sid="1KI 4:13"/>በንግቤር ጋላዳን ራሞታ ካታማ፥ ጋላዳን ምናሰ ናኣ ያእራ ካታማታ፥ ባሳነን አርጎባ ቢታነ ዩሾን ግምበይነ ግምበ ፐንገታስ ናሰ ብራታ ልዮት ደእያ ኡሱፑን ታሙ ካታማታ አይሴስ። <verse eid="1KI 4:13"/><verse number="14" style="v" sid="1KI 4:14"/>እዶ ናአይ አህናዳብ ማሀናይማ ቢታ አይሴስ። <verse eid="1KI 4:14"/><verse number="15" style="v" sid="1KI 4:15"/>አክማስ ንፍታለመ ቢታ አይሴስ፤ እ ሶሎሞነ ናእዉ ባስማቶ ኤክስ። <verse eid="1KI 4:15"/><verse number="16" style="v" sid="1KI 4:16"/>ኩሳ ናአይ ባኣን አሴራ ቢታነ ባሎታ ካታማ አይሴስ። <verse eid="1KI 4:16"/><verse number="17" style="v" sid="1KI 4:17"/>ፓሩሀ ናአይ እዮሳፈፅ ይሳኮራ ቢታ አይሴስ። <verse eid="1KI 4:17"/><verse number="18" style="v" sid="1KI 4:18"/>ኤላ ናአይ ሳም ብንያመ ቢታ አይሴስ። <verse eid="1KI 4:18"/><verse number="19" style="v" sid="1KI 4:19"/>ኡረ ናአይ ጋቤር፥ ጋላዳ ቢታን አሞረ ካዎይ ስሆንነ ባሳነ ካዎይ ኦገይ ካዎትዳ ቢታ አይሴስ፤ ሄ ቢታታ አይሰይ እያ ፃላላ።<verse eid="1KI 4:19"/></para>
+  <para style="s1">ሶሎሞነ ዱረተ</para>
+  <para style="p">
+    <verse number="20" style="v" sid="1KI 4:20"/>ይሁዳ አሳይነ እስራኤለ አሳይ አባ ጋፃን ደእያ ሻፈዳ ዳርዶሶና፤ ኤንቲ ምሸነ ኡይሸ ኡፋይትድ ደእዶሶና። <verse eid="1KI 4:20"/><verse number="21" style="v" sid="1KI 4:21"/>ሶሎሞነይ ኤፍራፂሳ ሻፋፐ ዶምድ ፍልስፄመ ቢታ ጋካናዉ፥ ያፐ ካንድ ግብፀ ዛዋ ጋካናዉ ደእያ ካዎተታ ኡባ ሃርስ። ሄ ቢታ አሳት እያዉ ጊራ ጊርዶሶና፤ እያ ደኦ ላይ ኡባን እያዉ ሃረትዶሶና።<verse eid="1KI 4:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="1KI 4:22"/>ሶሎሞነስ ጋላስ ጋላስ ሺቅያ ካ፤ እሻታሙ ኩንታለ ሎኦ ለ፥ ፄቱ ኩንታለ ጮ ለ፥ <verse eid="1KI 4:22"/><verse number="23" style="v" sid="1KI 4:23"/>ከትዳ ታሙ ሳንጋታ፥ የዳን ምዳ ላታሙ መሄነ ፄቱ ዶርሳታ፤ ቃስ ጮፎሾታ፥ ጋራታ፥ ገንኤታነ ኦርደ ኩቶታ ኮሼስ።<verse eid="1KI 4:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="1KI 4:24"/>ሶሎሞነይ ኤፍራፂሳ ሻፋፐ ዶሎሀ ባጋራ ደእያ ካዎተታ ኡባ ትፍሳ ካታማፐ ዶምድ ጋዛ ካታማ ጋካናዉ ሃርስ፤ ባ ዩሹዋን ደእያ ቢታ ኡባራ ሳሮ ደእስ። <verse eid="1KI 4:24"/><verse number="25" style="v" sid="1KI 4:25"/>እያ ደኦ ላይ ኡባን ይሁዳ አሳይነ እስራኤለ አሳይ ዳነፐ በርሳበ ጋካናዉ፥ ኡባይ ባ ዎይነ ጋርሳንነ ባላሰ ጋርሳን ሳሮ ደእዶሶና።<verse eid="1KI 4:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="1KI 4:26"/>ሶሎሞነስ ኦላ ፓራ ጋረታ ጎችያ ኦይታሙ ሙኩሉ ጋፃታ ፓራትነ ታማነ ናምኡ ሙኩሉ ፓራ አሳት ደኦሶና። <verse eid="1KI 4:26"/><verse number="27" style="v" sid="1KI 4:27"/>ሄ ደርያ አይሰይሳት አጌናን አጌናን ካዎይ ሶሎሞነይነ እያ ግብራ ማናዉ ይዳ አሳ ኡባይ ምያባ ሺሾሶና። ኤንቲ እያፐ አይባካ ፓጭሶኮና። <verse eid="1KI 4:27"/><verse number="28" style="v" sid="1KI 4:28"/>ኤንቲ ጋረ ፓራትነ ሀንኮ ፓራት ማናዉ ባንጋነ ፔን ኤንታ ጋክዳ ዳላ ኤህድ እያ ምንጃ ኬን ዎዶሶና።<verse eid="1KI 4:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="1KI 4:29"/>ፆሳይ ሶሎሞነስ ጭንጫተ፥ አኬካነ ዳልጋ ዎዛና እሚስ። <verse eid="1KI 4:29"/><verse number="30" style="v" sid="1KI 4:30"/>ሶሎሞነ ጭንጫተይ ዶሎሀ ባጋራ ደእያ አሳ ጭንጫተፈነ ግብፀታ ጭንጫተፈ አስ። <verse eid="1KI 4:30"/><verse number="31" style="v" sid="1KI 4:31"/>እ አሳ ኡባፈ አያ ጭንጫ፤ እያ ጭንጫተይ፥ ኤዝራሄ አድያ ኤታናፐ፥ ማሆላ ናይታ ሄማናፐ፥ ካልኮላፐነ ዳርዳአፐ አስ። እያ ሱንይ ዩሹዋን ደእያ ካዎተታ ኡባ ጋክስ። <verse eid="1KI 4:31"/><verse number="32" style="v" sid="1KI 4:32"/>እ ሄ ሙኩሉ ሌምሶታ ኦድስ፤ እያ ማዝሙረት እስ ሙኩሉነ እቻሻ። <verse eid="1KI 4:32"/><verse number="33" style="v" sid="1KI 4:33"/>ሶሎሞነይ ልባኖሰ ዝጋፐ ዶምድ፥ ግምበ ኬ ቦላ ዶልያ ህሶጰ ም ጋካናዉ ሌምስድ ኦድስ። ሄሳዳካ፥ መሄታባ፥ ዶአታባ፥ ካፎታባ፥ ሳአራ ጎሸትያ መተታባ ሞሎታባ ታማርስስ። <verse eid="1KI 4:33"/><verse number="34" style="v" sid="1KI 4:34"/>እያ ጭንጫተ ስእዳ ሳአን ደእያ ካዎት ኡባይ ኪትን፥ ካዎተ ኡባፈ አሳይ ሶሎሞነ ጭንጫተ ስአናዉ ዮሶና።<verse eid="1KI 4:34"/></para>
+  <chapter eid="1KI 4"/>
+  <chapter number="5" style="c" sid="1KI 5"/>
+  <para style="s1">ፆሳ ኬ ኬፃናዉ ጊገተ</para>
+  <para style="r">(<ref loc="2CH 2:1-18">2 ታር 2:1-18</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 5:1"/>ፅሮሳ ካዎይ ክራም ዳዊታራ ስጋን ጋምእዳ ግሾ፥ ሶሎሞነይ ባ አዋ ዳዊታ በሳን ካዎታናዉ ትየትዳይሳ ስእድ፥ አሰ ሶሎሞነኮ ኪትስ። <verse eid="1KI 5:1"/><verse number="2" style="v" sid="1KI 5:2"/>ሶሎሞነይ ዛሪድ፥ <verse eid="1KI 5:2"/><verse number="3" style="v" sid="1KI 5:3"/>“ጎዳይ እያ ሞርከታ እያ ቶሁዋፐ ጋርሳን ሃርሳና ጋካናዉ፥ ታ አዋ ዳዊታ ቦላ ደንድዳ ኦላ ጋሶን፥ ጎዳ ባ ፆሳ ሱንስ ፆሳ ኬ ኬፅቦናይሳ ነ ኤራሳ። <verse eid="1KI 5:3"/><verse number="4" style="v" sid="1KI 5:4"/>ሽን ሀእ ጎዳይ ታ ፆሳይ ታዉ ሸምፖ እሚስ፤ ታዉ አይባ ሞርከይ ዎይኮ ኢታባ ኦይ ባዋ። <verse eid="1KI 5:4"/><verse number="5" style="v" sid="1KI 5:5"/>ጎዳይ ታ አዋ ዳዊታስ፥ ‘ታኒ ነ በሳን፥ ነ አራታን ካዎያ ነ ናአይ ታ ሱንስ ኬ ኬፃና’ ግዳይሳዳ ታኒ ጎዳ ታ ፆሳ ሱንስ ኬ ኬፃናዉ ሀልቻስ። <verse eid="1KI 5:5"/><verse number="6" style="v" sid="1KI 5:6"/>ሄሳ ግሾ፥ ልባኖሰፐ ዝጋ ማስያ አሳታ የዳ፤ ታ አሳት ነ አሳታራ ኦና። ነ አሳታስ ነ ቃንፃ ግዳባ ታ ቃንፃና። ስዶና አሳታዳ ም ማሰ ሂላ ኑ አሳይ ኤሮናይሳ ነ ኤራሳ” ያግስ።<verse eid="1KI 5:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="1KI 5:7"/>ክራም ሶሎሞነ ኪታ ስእድ ዳሮ ኡፋይትስ፤ “ሀ ግታ ካዎተ ሃራና መላ ዳዊታስ ሀ ጭንጫ ናኣ እምዳ ጎዳይ ጋላተቶ” ያግስ።<verse eid="1KI 5:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="1KI 5:8"/>ሄሳፈ ጉየ ክራም ሶሎሞነኮ ሀይሳዳ ያግድ ኪትስ፤ “ነ ኪትዳ ኪታይ ታና ጋክስ። ኔኒ ኮይዳባ ታኒ ኦና፤ ዝጋነ ፂዳ ታ ነዉ ሺሻና። <verse eid="1KI 5:8"/><verse number="9" style="v" sid="1KI 5:9"/>ታ አሳይ ዱሩማ ጪነ ልባኖሰፐ አባኮ ጋዛና። ታኒ ቃሽሳዳ፥ አባ ቦላራ ቶከትድ ነ ኮይያ በሲ ጋናዳ ኦና፤ ያን ኤንቲ ብርሽድ ነ አሳስ እማና። ሄሳፈ ጉየ፥ ኔኒ ነ ባጋራ ታ ካዎ ኬን ደእያ አሳስ ምያባ ኪታዳ ታ አሙዋ ፖላና” ያግስ።<verse eid="1KI 5:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="1KI 5:10"/>ሄሳዳ ኦድ ክራም ሶሎሞነይ ኮይዳ ኬና ዝጋነ ፂዳ እሚስ። <verse eid="1KI 5:10"/><verse number="11" style="v" sid="1KI 5:11"/>ሶሎሞነይ ካዎ ኬን ደእያ አሳይ ማና መላ 20,000 ኩንታለ ግስተነ 400,000 ልትሮ ሻማሆ ዛይተ ላይን ላይን ፓጮና ክራማስ እሚስ። <verse eid="1KI 5:11"/><verse number="12" style="v" sid="1KI 5:12"/>ጎዳይ ሶሎሞነስ እማና ግዳይሳዳ፥ እያዉ ጭንጫተ እሚስ። ክራምነ ሶሎሞነይ ባንታ ግዶን ሳሮ ደእዶሶና፤ ኤንቲ ናምአይ ባንታ ግዶን ጫቅዶሶና።<verse eid="1KI 5:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="1KI 5:13"/>ካዎይ ሶሎሞነይ እስራኤለ 30,000 ማዳ ኦይሳታ ዶርድ ከስስ። <verse eid="1KI 5:13"/><verse number="14" style="v" sid="1KI 5:14"/>አዶንራማ ጌተትያ አድያ ኤንታ ቦላ ሀላቃ ኦድ ሹምስ። ሄ ኦሳንቾታ ታሙ ታሙ ሙኩላን ሻክድ፥ ሄ ጩጋ ከስስ፤ እስ እስ ጩጋይ ታራን ታራን ብድ፥ እስ አጌና ልባኖሰን ኦናዳነ ናምኡ አጌና ባንታ ሶን ዳናዳ ኦስ። <verse eid="1KI 5:14"/><verse number="15" style="v" sid="1KI 5:15"/>ሶሎሞነስ ቶሆ ቶክያ 70,000 አሳትነ ሹቹ ቆእያ 80,000 አሳት ገዘ ቢታን ደኦሶና። <verse eid="1KI 5:15"/><verse number="16" style="v" sid="1KI 5:16"/>ኤንታ ቦላ ሀላቃ ግድድ ኦስስያ 3,300 አሳታ ሹምስ። <verse eid="1KI 5:16"/><verse number="17" style="v" sid="1KI 5:17"/>ካዋ ሶሎሞነ ኪታን፥ ፆሳ ኬ ባሱዋስ ግዳና መላ ግታ ሹቻታ ቆእድ ጊግስዶሶና። <verse eid="1KI 5:17"/><verse number="18" style="v" sid="1KI 5:18"/>ሶሎሞነ አሳይነ ክራማ አሳይ ኩሸ ሂላ ኤረይሳት፥ ገባላ አሳራ ግድድ፥ ፆሳ ኬ ኬፃናዉ ም ቃንፅድ፥ ሹቻ ቆእድነ ማስድ ጊግስዶሶና።<verse eid="1KI 5:18"/></para>
+  <chapter eid="1KI 5"/>
+  <chapter number="6" style="c" sid="1KI 6"/>
+  <para style="s1">ፆሳ ኬይ ኬፀትስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 6:1"/>እስራኤለ አሳይ ግብፀ ቢታፈ ከይዳ 480 ላይን፥ ሶሎሞነይ እስራኤለ ቦላ ካዎትዳ ኦይዳን ላይን፥ ዚፋ ጌተትያ ናምአን አጌናን፥ ሶሎሞነይ ጎዳ ፆሳ ኬ ኬፃናዉ ዶምስ። <verse eid="1KI 6:1"/><verse number="2" style="v" sid="1KI 6:2"/>ሶሎሞነይ ኬፅዳ ፆሳ ኬይ አዱሳተይ ኡሱፑን ታሙ ዋ፤ ጎምፓይ ላታሙ ዋ፤ ጌሳይ ሀስታሙ ዋ። <verse eid="1KI 6:2"/><verse number="3" style="v" sid="1KI 6:3"/>ፆሳ ኬ ገልያ በሳን ደእያ ባራንዳ ጎምፓይ ፆሳ ኬ ጎምፓ መላ ላታሙ ዋ፤ ኬ አዱሳተይ ፆሳ ኬ ገልያ በሳ ጋካናዉ ታሙ ዋ። <verse eid="1KI 6:3"/><verse number="4" style="v" sid="1KI 6:4"/>ፆሳ ኬስ ሶ ባጋራ ዳልጋ፥ ካረ ባጋራ ፁን ማስኮተት ደኦሶና። <verse eid="1KI 6:4"/><verse number="5" style="v" sid="1KI 6:5"/>ፆሳ ኬ ማታን፥ ጌሻ በሳነ ኡባፋ ጌሻ በሳ ዩሹዋን ሀራ ፖቀ ኬፅስ፤ ሄ ዩሹዋን ክፍለታ ኬፅስ። <verse eid="1KI 6:5"/><verse number="6" style="v" sid="1KI 6:6"/>ኮይሮ ፖቅያ ጎምፓይ እቻሹ ዋ፤ ናምአን ፖቅያ ጎምፓይ ኡሱፑን ዋ፤ ሄን ፖቅያ ጎምፓይ ላፑን ዋ። እስ እስ ፖቅያ ጎዳይ ጋርሳ ባጋራ ደእያ ጎዳፐ ሌኦ። ጌሻ በሳ ካንድ ገሎና መላ ፆሳ ኬ ጎዳስ ካረ ባጋራ ተቀ ዎስ።<verse eid="1KI 6:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="1KI 6:7"/>ፆሳ ኬይ ሹቻ ቆእያ በሳን ማሰትዳ ሹቻ ፃላላን ግምበትስ፤ ፆሳ ኬይ ግምበትያ ዎደ ናርቃ፥ ካልታ፥ ዎይኮ ሀራ አይ ብራታ ግርስ ፆሳ ኬን ስኤትቤና።<verse eid="1KI 6:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="1KI 6:8"/>ጋርሳራ ደእያ ፖቅያ ገልያ ፐንገይ ፆሳ ኬፈ ዱገሀ ባጋራ ደኤስ፤ ሄ በሳፈ ናምአን ፖቅያነ ሄን ፖቅያ ባናዉ የድ ከይያ ደት ደኦሶና። <verse eid="1KI 6:8"/><verse number="9" style="v" sid="1KI 6:9"/>ሄሳዳ ኦድ፥ ሶሎሞነይ ኬ ኬፅድ ዉርስስ፤ ኮርንስያ ማሰትዳ ዝጋ ምን ካምስ። <verse eid="1KI 6:9"/><verse number="10" style="v" sid="1KI 6:10"/>ፆሳ ኬ ዩሹዋን ፖቀታ ኬፅድ ኦንግስ፤ ኤንታ እሱዋ እሱዋ ጌሳይ እቻሹ ዋ ግድድ፥ ጎዳራ ዝጋ ምን ኦይከትስ።<verse eid="1KI 6:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="1KI 6:11"/>ጎዳይ ሶሎሞነኮ፥ <verse eid="1KI 6:11"/><verse number="12" style="v" sid="1KI 6:12"/>“ሀ ኔኒ ኬፅያ ፆሳ ኬን፥ ኔኒ ታ አዋጁዋ ካልኮ፥ ታ ዎጋ ኦኮ፥ ታ ኪታ ናግኮነ ታ ኪታ ኪተትኮ፥ ታኒ ነ አዋ ዳዊታስ እምዳ ኡፋይሳ ቃላ ነ ባጋራ ፖላና። <verse eid="1KI 6:12"/><verse number="13" style="v" sid="1KI 6:13"/>ታኒ እስራኤለ አሳ ግዶን ዳና፤ ታኒ ታ አሳ እስራኤለ አግከ” ያግስ። <verse eid="1KI 6:13"/><verse number="14" style="v" sid="1KI 6:14"/>ሶሎሞነይ ፆሳ ኬ ኬፅድ ኦንግስ።<verse eid="1KI 6:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="1KI 6:15"/>ፆሳ ኬ ጋ ባጋ ጎዳ፥ ዉይገፐ ብድ ካራ ጋካናዉ ማሰትዳ ዝጋ ምን ካምስ፤ ዉይግያን ማሰትዳ ፂዳ ም ሂፅስ። <verse eid="1KI 6:15"/><verse number="16" style="v" sid="1KI 6:16"/>ፆሳ ኬ ግዶን ኡባፈ ጌሻ በሳ መናዉ ጉየ ባጋራ ላታሙ ዋ ግድያ በሰ ሻክድ፥ ዉይገፐ ካራ ጋካናዉ ማሰትዳ ዝጋ ጎዳ ኤስስ። <verse eid="1KI 6:16"/><verse number="17" style="v" sid="1KI 6:17"/>ሄ ኡባፈ ጌሻ በሳፈ ስን ባጋራ ደእያ ዉይግያ አዱሳተይ ኦይታሙ ዋ። <verse eid="1KI 6:17"/><verse number="18" style="v" sid="1KI 6:18"/>ፆሳ ኬ ሶ ባጋይ ጎሰነ ጪሻ ምስልያ መዳ ማሰትዳ ዝጋ ምን ካመትስ፤ ኡባይ ዝጋፐ ኦሰትስ፤ አይ ሹችካ በንተና።<verse eid="1KI 6:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="1KI 6:19"/>ሶሎሞነይ ጎዳ ጫቆ ታቦትያ ዎናዉ ፆሳ ኬ ግዶን ኡባፈ ጌሻ በሳ ጊግስስ። <verse eid="1KI 6:19"/><verse number="20" style="v" sid="1KI 6:20"/>ኡባፈ ጌሻ በሳይ ላታሙ ዋ አዱሰ፥ ላታሙ ዋ ዳልጋነ ላታሙ ዋ ቃ። ሶሎሞነይ ሄ ኡባፈ ገሻ በሳ ጋ ባጋ ዋላህ ባይና ዎርቀን ላንፅስ፤ ያርሾ በሳይ ማሰትዳ ዝጋ ምን ካመትስ። <verse eid="1KI 6:20"/><verse number="21" style="v" sid="1KI 6:21"/>ሶሎሞነይ ፆሳ ኬ ግዱዋ ዋላህ ባይና ዎርቀን ላንፅስ፤ ዎርቃን ላንፀትዳ ቆልአ ገልያ ፐንግያ ቦላ ያነ ሃነ ጋክያ ዎርቃ ሳንላታ ቶልድ አሌቅስስ። <verse eid="1KI 6:21"/><verse number="22" style="v" sid="1KI 6:22"/>ኬ ግዶ ባጋ ዎርቃን ላንፅስ፤ ኡባፈ ጌሻ በሳ ስንን ደእያ ያርሾ በሳ ዎርቃን ላንፅስ።<verse eid="1KI 6:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="1KI 6:23"/>ኡባፈ ጌሻ በሳን ዎናዉ እሶይ እሶይ ታሙ ዋ አዱቅያ ሻማሆፐ ኦሰትዳ ናምኡ ክሩበ ምስለታ ማስድ ጊግስስ። <verse eid="1KI 6:23"/><verse number="24" style="v" sid="1KI 6:24"/>ኮይሮ ክሩብያ ቀፈይ፥ እሶይ እቻሹ ዋ፤ ናምአንይ እቻሹ ዋ፤ ኮይሮ ቀፍያ ፄራፐ ብድ ናምአን ቀፍያ ፄራ ጋካናዉ ታሙ ዋ። <verse eid="1KI 6:24"/><verse number="25" style="v" sid="1KI 6:25"/>ናምአን ክሩበይ ታሙ ዋ፤ ናምኡ ክሩበታ ሀኖታይነ መይ እስ መላ። <verse eid="1KI 6:25"/><verse number="26" style="v" sid="1KI 6:26"/>እስ ክሩብያ ጌሳይ ታሙ ዋ፤ ናምአን ክሩብያ ጌሳይ ሄሳ መላ። <verse eid="1KI 6:26"/><verse number="27" style="v" sid="1KI 6:27"/>ሶሎሞነይ ፆሳ ኬን ደእያ ኡባፈ ጌሻ በሳን ክሩበታ ዎስ። ኤንታ ቀፈይ ምጨትድ ኡትስ፤ እስ ክሩብያ ቀፈይ እስ ባጋ ጎዳ ቦችያ ዎደ፥ ሀንኮ ክሩብያ ቀፈይ ሀንኮ ባጋ ጎዳ ቦቼስ፤ ኤንታ ናምኣ ቀፈይ ሶ ግዶን እሶይ እሱዋ ቦቾሶና። <verse eid="1KI 6:27"/><verse number="28" style="v" sid="1KI 6:28"/>ሶሎሞነይ ክሩበታ ዎርቃን ላንፅስ።<verse eid="1KI 6:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="1KI 6:29"/>ቆልአነ ዉይገ ጎዳ ኡባ ክሩበታ፥ ዛምባነ ጪሻ ምስለን አሌቅስስ። <verse eid="1KI 6:29"/><verse number="30" style="v" sid="1KI 6:30"/>ፆሳ ኬ ግዶ ክፍልያ ዉይግያ ካረ ባጋ ክፍልያ ዉይግያ ዎርቃን ላንፅስ።<verse eid="1KI 6:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="1KI 6:31"/>ኡባፈ ጌሻ በሳ ገልያ ፐንግያን ሻማሆ ምፈ ሳንቃ ጊግስስ። ፐንገ ጎባነታስ እቻሹ ባጋራ ማዛነይ ደኤስ። <verse eid="1KI 6:31"/><verse number="32" style="v" sid="1KI 6:32"/>ሻማሆ ምፈ ኦሰትዳ ናምኡ ሳንቃታ ቦላ ክሩበታ፥ ዛምባነ ጪሻ ምስለ ጊግስድ ሳንቃታ፥ ክሩበታነ ዛምባ ዎርቃን ላንፅስ። <verse eid="1KI 6:32"/><verse number="33" style="v" sid="1KI 6:33"/>ሄሳዳካ፥ ፆሳ ኬ ገልያ ፐንግያ ሻማሆፐ ኦሰትዳ ኦይዱ ማዛነራ ደእያ ሳንቃ ጊግስስ። <verse eid="1KI 6:33"/><verse number="34" style="v" sid="1KI 6:34"/>እ ሄ ፐንግያ እስ እስ ሳንቃይ ግዶን ዳኮትድ ዶየትያ ናምኡ ሳንቃታ ከስስ። <verse eid="1KI 6:34"/><verse number="35" style="v" sid="1KI 6:35"/>ክሩበታ፥ ዛምባነ ጪሻ ምስለታ ኤንታ ቦላ ዎስ፤ ኤንታ ቦላ ዎርቃ እስ ግና ኦድ ላንፅስ።<verse eid="1KI 6:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="1KI 6:36"/>ሶ ባጋራ ደእያ ዳባባ ግምብስ፤ ሄ ግምብያ ቦላ ማሰትዳ ሄ ሹቹ፥ እሱዋ እሱዋ ቦላ ዎድ፥ እስ ማሰትዳ ዝጋ ኤንታ ቦላ ዎድ ግምብስ።<verse eid="1KI 6:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="1KI 6:37"/>ፆሳ ኬ ባሶይ ሶሎሞነይ ካዎትዳ ኦይዳን ላይን፥ ዚፋ ጌተትያ ናምአን አጌናን ባሰትስ። <verse eid="1KI 6:37"/><verse number="38" style="v" sid="1KI 6:38"/>ሶሎሞነይ ካዎትዳ ታማነ እስን ላይን፥ ቡላ ጌተትያ ሆስፑን አጌናን ፆሳ ኬይ ሀልችዳይሳ መላ ኬፀትድ ዉርስ። ሶሎሞነይ ፆሳ ኬ ላፑን ላይን ኬፅድ ዉርስስ።<verse eid="1KI 6:38"/></para>
+  <chapter eid="1KI 6"/>
+  <chapter number="7" style="c" sid="1KI 7"/>
+  <para style="s1">ሶሎሞነ ካዎ ጋ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 7:1"/>ሶሎሞነይ ባ ጋዋ ታማነ ሄ ላይን ኬፅድ ዉርስስ። <verse eid="1KI 7:1"/><verse number="2" style="v" sid="1KI 7:2"/>“ልባኖሰ ዎራ ኬ” ጌተትያ ኬ ሶሎሞነይ ኬፅስ፤ ሄ ኬ አዱሳተይ ፄቱ ዋ፤ ጎምፓይ እሻታሙ ዋ፤ ጌሳይ ሀስታሙ ዋ። ዝጋ ቱቀት ኦይዱ ማራን ኤቅዶሶና፤ ማሰትዳ ዝጋ ምት ኤንታ ቦላ ዎዶሶና፤ <verse eid="1KI 7:2"/><verse number="3" style="v" sid="1KI 7:3"/>ዝጋ ምት ሄ ማራን፥ እስ እስ ማራን ታማነ እቻሹ ምት ደኦሶና፤ ኤንቲ ኩመ ኦይታማነ እቻሻ። <verse eid="1KI 7:3"/><verse number="4" style="v" sid="1KI 7:4"/>ሄ ኬስ ማስኮተት ሄ ማራን ደኦሶና፤ ኤንቲ እሶይ እሱዋ ስንን ደኦሶና። <verse eid="1KI 7:4"/><verse number="5" style="v" sid="1KI 7:5"/>ፐንገትነ ማስኮተት ኦይዱ ማዛነራ ደኦሶና፤ ማስኮተት ሄ ማራን ግድድ፥ እሶይ እሱዋ ስንን ደኦሶና።<verse eid="1KI 7:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="1KI 7:6"/>ሶሎሞነይ፥ “ቱኡቀይ ኩምዳ ኬ” ጌተትያ ኬ ኬፅስ፤ ሄ ኬ አዱሳተይ እሻታሙ ዋ፤ ጎምፓይ ሀስታሙ ዋ። ሄ ኬ ስንን ዳሮ ቱቀን ዘምፕዳነ ቦላራ ካራን ካመትዳ ባራንድ ደኤስ። <verse eid="1KI 7:6"/><verse number="7" style="v" sid="1KI 7:7"/>ሶሎሞነይ ፕርዳ አራታይ ደእያ “ፕርዳ ኬ” ኬፅስ፤ ሄ ኬይ ዉይገፐ ብድ ካራ ጋካናዉ ዝጋን ካመትድ ኡትስ። <verse eid="1KI 7:7"/><verse number="8" style="v" sid="1KI 7:8"/>ፕርዳ ኬፈ ጉየ ባጋራ ደእያ ሀራ ዳባባን ባዉ ዳናዉ ካዎ ጋ ሀንኮ ኬታዳ ኦድ ኬፅስ። ባ ማቸ፥ ግብፀ ካዋ ናኤስ፥ ሄ ኬ መላ ሀራ ኬ ኬፅስ።<verse eid="1KI 7:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="1KI 7:9"/>ሀ ኬት ኡባይ፥ ካረፐ ዶምድ ድርሳፈ ሶራ ደእያ ግታ ጉታራ ጋካናዉ፥ ባሱዋፐ ዶምድ ካራ ጋካናዉ፥ ልክድ ማስዳነ ሶራነ ካረራ ጊግስዳ ሎኦ ሹቻን ኦሰትዶሶና። <verse eid="1KI 7:9"/><verse number="10" style="v" sid="1KI 7:10"/>ግምበይ ሂፀትዳይ ታሙ ዋ ዎይኮ ሆስፑን ዋ ግድያ ሎኦ ማሰትዳ ግታ ሹቻና። <verse eid="1KI 7:10"/><verse number="11" style="v" sid="1KI 7:11"/>ቦላ ባጋራ ልከትድ ማሰትዳ ሎኦ ሹችነ ዝጋ ም ደኤስ። <verse eid="1KI 7:11"/><verse number="12" style="v" sid="1KI 7:12"/>ግታ ዳባባ ዩሹዋን ደእያ ግምበይ ፆሳ ኬዳነ ባራንዳዳ ማሰትዳ ሄ ሹቹ፥ እሱዋ እሱዋ ቦላ ዎድ፥ እስ ማሰትዳ ዝጋ ኤንታ ቦላ ዎድ ግምብስ።<verse eid="1KI 7:12"/></para>
+  <para style="s1">ፆሳ ኬ ሚሸታ</para>
+  <para style="p">
+    <verse number="13" style="v" sid="1KI 7:13"/>ካዎይ ሶሎሞነይ፥ ክራማ ጌተትያ አድያ ፅሮሳፐ ኤህስ። <verse eid="1KI 7:13"/><verse number="14" style="v" sid="1KI 7:14"/>ክራማ አይያ አምኦ፤ እያ ንፍታለመ ኮቸ። እያ አዋይ ፅሮሳ አስ። ክራም ናሰ ብራታ ቆፅያ ሂል ደእያ አሰ፤ እ ናሰ ብራታ ቆፅድ ኦያባን ዳሮ ሎህዳ አስ፤ እ ሶሎሞነኮ ይድ እያ ኦሶ ኡባ ኦስ።<verse eid="1KI 7:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="1KI 7:15"/>ክራም እሱዋ እሱዋ ጌሳይ ታማነ ሆስፑን ዋ አዱቅድ፥ ዩሾይ ታማነ ናምኡ ዋ ዳልግዳ ናምኡ ቱሳታ ናሰ ብራታ ሴርስድ ከስስ። ሄ ቱሳ ኦርደተይ ኦይዱ ብራ። ናምአን ቱቀይካ ሄሳ መላ። <verse eid="1KI 7:15"/><verse number="16" style="v" sid="1KI 7:16"/>ሄሳዳካ፥ ቱሳታ ሁጰን ዎናዉ ናምኡ ጉምቦታ ናሰ ብራታ ሼሽድ፥ መስ፤ እስ እስ ጉምቦይ እቻሹ ዋ አዱቄስ። <verse eid="1KI 7:16"/><verse number="17" style="v" sid="1KI 7:17"/>ቱኡሳ ሁጰን ደእያ እስ እስ ጉምቦታ ግተዳ ኦዳ ላፑን ሳንላታ ኦስ። <verse eid="1KI 7:17"/><verse number="18" style="v" sid="1KI 7:18"/>ቱሳታ ፄራን ደእያ ጉምቦታ አሌቅሳናዉ ናምኡ ማራን ኦሮማነ ምስለ አሌቅስስ። <verse eid="1KI 7:18"/><verse number="19" style="v" sid="1KI 7:19"/>ባራንዳን ኤቅዳ ቱሳታ ቦላ ደእያ ጉምቦት ጪሻ መን አሌቀትዶሶና፤ ኤንታ ጌሳይ ኦይዱ ዋ። <verse eid="1KI 7:19"/><verse number="20" style="v" sid="1KI 7:20"/>ናምኡ ቱቀታ ሁጰን ደእያ ጉምቦታን ገርቶ ግድድ ኡትዳ በሳፈ ቦላ ባጋራ፥ ሳንላታ ግትያ ካልድ፥ ናምኡ ፄቱ ኦሮማነ ምስለት ናምኡ ማራን ዩይ አድ ደኦሶና። <verse eid="1KI 7:20"/><verse number="21" style="v" sid="1KI 7:21"/>ክራም ሄ ናምኡ ቱሳታ ፆሳ ኬ ባራንዳ ማታን ኤስስ። ኡሻቻ ባጋራ ኤቅዳ ቱሳ ያክና ግድ ሱንስ፤ ሀድርሳ ባጋራ ኤቅዳ ቱሳ ቦኤዛ ግድ ሱንስ። <verse eid="1KI 7:21"/><verse number="22" style="v" sid="1KI 7:22"/>ቱሳታ ሁጰን ደእያ ጉምቦት ጪሸ ዳንድ መትዶሶና። ሄሳዳ ሀንድ ቱሳታ ኦሶይ ፖለትስ።<verse eid="1KI 7:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="1KI 7:23"/>ክራም አባ ሳንያ ጌተትያ እስ ዳሮ ግታ ሳንያ ናሰ ብራታ ሼሽድ መስ። ሄ አባ ሳንያ ዶናይ ሀ ጋፃፐ ያ ጋፃ ጋካናዉ ታሙ ዋ፤ ጌሳይ እቻሹ ዋ፤ ዩሾይ ሀስታሙ ዋ። <verse eid="1KI 7:23"/><verse number="24" style="v" sid="1KI 7:24"/>አባ ሳንያ ዶናን ካረ ባጋራ ዝቅ ግድ፥ እያራ ኦይከትድ መትዳ ጎሰ ምስለት ደኦሶና፤ ሄ ጎሰታ ምስለት ናምኡ ማራን፥ እስ እስ ዋን ታማይ ታማይ ዩይ አድ ሹየትዶሶና።<verse eid="1KI 7:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="1KI 7:25"/>አባ ሳነይ ናሰ ብራታፐ መትዳ ታማነ ናምኡ ቦራታ ምስለታ ዞኩዋን ኡትስ። ቦራ ምስለታፐ ሄት ፑደሀ ባጋ፥ ሄት ዶሎሀ ባጋ፥ ሄት ዱገሀ ባጋ፥ ሄት ዉሎሀ ባጋ ስሚድ ፄሎሶና። አባ ሳነይ ኤንታ ቦላ ኡትስ። <verse eid="1KI 7:25"/><verse number="26" style="v" sid="1KI 7:26"/>አባ ሳነይ ኦይዱ ብራ ኦርደ፤ እያ ዶናይ ዋንጫ ዶና መላ፤ ጪሸ ዳኔስ። አባ ሳነይ ኦይታማነ እቻሹ ሙኩሉ ልትሮ ግድያ ሃ ኦይኬስ።<verse eid="1KI 7:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="1KI 7:27"/>ክራም ታሙ ጋረታ ናሰ ብራታፐ መስ። ሄ ጋረት እሶይ እሶይ ኦይዱ ዋ አዱሰ፤ ኦይዱ ዋ ዳልጋነ ሄ ዋ ቃ። <verse eid="1KI 7:27"/><verse number="28" style="v" sid="1KI 7:28"/>ሄ ጋረት ሀይሳዳ ኦሰትዶሶና፤ ፑደ ኤቅዳ ኦይዱ ብራታ ቦላ ፕድ ግዳ ሎቸ ናሰ ብራታት ኦይከትድ ኡትዶሶና። <verse eid="1KI 7:28"/><verse number="29" style="v" sid="1KI 7:29"/>ሄ ብራታ ቦላ ጋሞ፥ ቦርነ ክሩበ ምስለት ደኦሶና፤ ጋሞነ ቦራ ምስለታፐ ሁጰራነ ቶሆራ ደእያ ብራታታ ቦላ ቆፅድ መዳ ጪሻ ኤንጩርሳ ምስለት ደኦሶና። <verse eid="1KI 7:29"/><verse number="30" style="v" sid="1KI 7:30"/>እስ እስ ጋርያስ ናሰ ብራታፐ ኦዳ ኦይዱ ገርቶትነ ገርቶታ ጋድ ዋፅያ ናሰ ብራታ ካሶት ደኦሶና። ሄሳዳካ፥ ኦይዱ ማዛነን ከርያ ዘምፕስያባት ደኦሶና። ሄ ዘምፕስያባት ጪሻ ኤንጩርሳ ምስለታን አሌቀትድ ኡትዶሶና። <verse eid="1KI 7:30"/><verse number="31" style="v" sid="1KI 7:31"/>ጋርያ ዘምፕስያ ሚሸታ ሁጰን ገርቶት ኡትዳ ዶያ በሲ ደኤስ፤ ሄ ዶያይ ጋርያ ፄራፐ ፑደ እስ ዋ ቁ ግድ፥ ዱገ ታካ ዝቅ ግድ መትስ። ሄ ዶያ በሳ ዶና ዩሾይ ምስለን አሌቀትስ። <verse eid="1KI 7:31"/><verse number="32" style="v" sid="1KI 7:32"/>ገርቶታ ጌሳይ እስ ዋነ ታካ፤ ገርቶት ሎቸ ናሰ ብራታታስ ጋርሳ ባጋራ ደኦሶና። ገርቶት ኦይከትድ ኡትዳ ካሶት ጋርያራ ኦይከትድ ኡትዶሶና። <verse eid="1KI 7:32"/><verse number="33" style="v" sid="1KI 7:33"/>ገርቶት ኦላ ፓራ ጋረ ገርቶታ መላ መትዶሶና፤ ገርቶታ ጋድ ኦይክያ ካሶት፥ ማጫራትነ ኤንታ ኦይክያ ሚሸት ኡባይ ናሰ ብራታፐ ኦሰትዶሶና። <verse eid="1KI 7:33"/><verse number="34" style="v" sid="1KI 7:34"/>ሄ ጋረታ ኡባ ማዛነታስ ኤንታ ቶሆሶራ ቶሆሶራ ኤንታራ እሶ ግድድ ኦይከትዳ ናሰ ብራታፐ ኦሰትዳ ዘምፖት ደኦሶና። <verse eid="1KI 7:34"/><verse number="35" style="v" sid="1KI 7:35"/>እስ እስ ጋርያ ሁጰ ባጋ ዩሹዋን ታካ አዱቅያ ክርክሮይ ደኤስ፤ ዘምፖትነ ሎቸ ናሰ ብራታት ጋርያራ ኦይከትድ፥ እሶ ግድድ ኦሰትዶሶና። <verse eid="1KI 7:35"/><verse number="36" style="v" sid="1KI 7:36"/>ሀ ዘምፖታፐነ ሎቸ ናሰ ብራታታፐ ግዶን ደእያ ዶያ በሳ ኡባይ ክሩበን፥ ጋሞንነ ዛምባ ምስለተን አሌቀትድ ኡትዶሶና፤ ኤንታ ዩሾይ ጪሻ ኤንጩርሳ ምስለን አሌቀትድ ኡትስ። <verse eid="1KI 7:36"/><verse number="37" style="v" sid="1KI 7:37"/>ህዛ ታሙ ጋረት ሀይሳዳ ኦሰትዶሶና፤ ኤንታ ላንፅዳ ሚሸይ እስኖ ግድያ ግሾ ኤንታ ጌሳይነ ኤንታ መይ እስ መላ።<verse eid="1KI 7:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="1KI 7:38"/>ክራም ሜጨትያ ታሙ ከረታ ናሰ ብራታፐ መስ፤ እስ እስ ከርያ ጎምፓይ ኦይዱ ዋ ዳልጋ ግድድ፥ ሆስፑን ፄቱ ልትሮ ሃ ኦይኬስ፤ ታሙ ጋረታስ ሁጰን ሁጰን እስ እስ ሜጨትያ ከረይ ደኤስ። <verse eid="1KI 7:38"/><verse number="39" style="v" sid="1KI 7:39"/>ክራም እቻሹ ጋረታ ፆሳ ኬፈ ፑደሀ ባጋራ፥ እቻሹ ጋረታ ፆሳ ኬፈ ዱገሀ ባጋራ ዎስ፤ ናሰ ብራታፐ ኦሰትዳ አባ ሳንያ ፆሳ ኬፈ ዱገሀ ዶሎሀ ባጋ ዛሪድ ኤስስ።<verse eid="1KI 7:39"/></para>
+  <para style="p">
+    <verse number="40" style="v" sid="1KI 7:40"/>ክራም ቃጰታ፥ አካፋታነ ፃሮታ መስ፤ ያትድ ካዋ ሶሎሞነስ ፆሳ ኬ ኦሱዋ ኦድ ፖልስ። <verse eid="1KI 7:40"/><verse number="41" style="v" sid="1KI 7:41"/>እ ኦዳ ኦሶት፥ ናምኡ ቱሳታ፥ ቱሳታ ሁጰን ደእያ ሳነ ዳንያ ናምኡ ጉምቦታ፥ ቱሳታ ቦላ ደእያ ናምኡ ጉምቦታ አሌቅስያ ናምኡ ሳንላታታ፥ <verse eid="1KI 7:41"/><verse number="42" style="v" sid="1KI 7:42"/>እስ እስ ጉምቡዋ ቦላ ናምኡ ማራን ናሰ ብራታፐ ኦሰትዳ እስ እስ ፄቱ ኦሮማነ ምስለታ፥ ኩም ኦይዱ ፄቱ ኦሮማነ ምስለታ፥<verse eid="1KI 7:42"/></para>
+  <para style="li1">
+    <verse number="43" style="v" sid="1KI 7:43"/>ታሙ ጋረታ፥ ጋረታ ቦላ ኡትያ ታሙ ሜቻ ከረታ፥<verse eid="1KI 7:43"/></para>
+  <para style="li1">
+    <verse number="44" style="v" sid="1KI 7:44"/>አባነ እያ ካትስያ ታማነ ናምኡ ቦራ ምስለታ፥<verse eid="1KI 7:44"/></para>
+  <para style="li1">
+    <verse number="45" style="v" sid="1KI 7:45"/>ከረታ፥ አካፋታነ ፃሮታ።</para>
+  <para style="p" vid="1KI 7:45">ክራም ካዋ ሶሎሞነስ ፆሳ ኬ ኦሱዋስ መዳ ሚሸታ ኡባ ቁሸትዳ ናሰ ብራታፐ መስ። <verse eid="1KI 7:45"/><verse number="46" style="v" sid="1KI 7:46"/>ካዎይ ሶሎሞነይ ሱኮታፐነ ፃርታናፐ ግዶን፥ ዮርዳኖሰ ደንባን ደእያ፥ ናሰ ብራታ ሼሽያ በሳን ሀይሳታ ኦስስስ። <verse eid="1KI 7:46"/><verse number="47" style="v" sid="1KI 7:47"/>ናሰ ብራታፐ ኦሰትዳ ሚሸይ ዳሮ ግድዳ ግሾ፥ ሶሎሞነይ እያ ማዛንስቤና፤ ሄሳ ግሾ፥ አይ መላ ዴፅያኮ ልከይ ኤረትቤና።<verse eid="1KI 7:47"/></para>
+  <para style="p">
+    <verse number="48" style="v" sid="1KI 7:48"/>ሶሎሞነይ ፆሳ ኬ ግዶን ደእያ ሚሸታ ኡባ ዎርቃፈ መስስ። ሄሳትካ፥ ዎርቃፈ ኦሰትዳ ያርሾ በሳ፥ ጎዳ ስንን ዎያ ኡይይ ኡትያ ፃርጴዛ፥ <verse eid="1KI 7:48"/><verse number="49" style="v" sid="1KI 7:49"/>ኡባፈ ጌሻ በሳፈ ስንን ኡሻቻ ባጋራነ ሀድርሳ ባጋራ ኤቅዳ እቻሹ እቻሹ ፆምፐ ዎያ ኮጫታ፥ ጪሻታ፥ ፆምፐታነ ቃጰታ፥ <verse eid="1KI 7:49"/><verse number="50" style="v" sid="1KI 7:50"/>ፁአታ፥ ፆምፐ ቶይስያባታ፥ ፃሮታ፥ እፃነ ጩይስያባታ፥ ታማ ኤክያ ሚሸታ፥ ኡባፈ ጌሻ በሳ ቆልአ ፐንገታነ ፆሳ ኬ ካረ ባጋ ፐንገታ ኦይክዳ ማፃፈታ። ሀ ሚሸት ኡባይ ዋላህ ባይና ዎርቃፈ ኦሰትዶሶና።<verse eid="1KI 7:50"/></para>
+  <para style="p">
+    <verse number="51" style="v" sid="1KI 7:51"/>ካዎይ ሶሎሞነይ ፆሳ ኬ ኦሱዋ ኡባ ፖልዳፐ ጉየ፥ እያ አዋይ ዳዊቲ ጎዳስ ዱማይድ ዎዳ ብራ፥ ዎርቃነ ሀራ ሚሸታ ኡባ ኤህድ፥ ፆሳ ኬ ሻሎ ምንጅያ ኬን ዎስ።<verse eid="1KI 7:51"/></para>
+  <chapter eid="1KI 7"/>
+  <chapter number="8" style="c" sid="1KI 8"/>
+  <para style="s1">ታቦተይ ፆሳ ኬ ገልስ</para>
+  <para style="r">(<ref loc="2CH 5:2-6:2">2 ታር 5:2—6:2</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 8:1"/>ሄሳፈ ጉየ፥ ካዎይ ሶሎሞነይ ጎዳ ታቦትያ ዳዊታ ካታማፐ፥ ፅዮነፐ ከስድ፥ ፆሳ ኬ ኤሀናዉ እስራኤለ ጭማታ፥ ኮቻታ ሀላቃታነ እስራኤለ ሶ አሳታ ካለይሳታ የሩሳላመ ካታማን ሺሽስ። <verse eid="1KI 8:1"/><verse number="2" style="v" sid="1KI 8:2"/>ኤታንማ ጌተትያ ላፑን አጌናን፥ ሻቃራ ባለይ ቦንቸትያ ዎደ እስራኤለ አሳ ኡባይ ካዋ ሶሎሞነኮ ሺቅዶሶና።<verse eid="1KI 8:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="1KI 8:3"/>እስራኤለ ጭማት ኡባይ ሺቅን፥ ካህነት ታቦትያ ደንዶሶና። <verse eid="1KI 8:3"/><verse number="4" style="v" sid="1KI 8:4"/>ሌወትነ ካህነት፥ ጎዳ ታቦትያ፥ ዱንካንያነ እያ ግዶን ደእያ ጌሻ ሚሸታ ኡባ ቶክድ ኤህዶሶና። <verse eid="1KI 8:4"/><verse number="5" style="v" sid="1KI 8:5"/>ካዎይ ሶሎሞነይነ እያራ ደእያ እስራኤለ አሳይ ታቦትያ ስንን ሺቅድ፥ ታይባናዉ ዳንዳኤቶና ዳሮ ዶርሰነ መሄ ያርሽዶሶና።<verse eid="1KI 8:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="1KI 8:6"/>ሄሳፈ ጉየ፥ ካህነት ጎዳ ጫቆ ታቦትያ ፆሳ ኬን ኡባፈ ጌሻ በሳ ኤህድ፥ ክሩበታ ቀፈታፐ ጋርሳ ባጋራ ዎዶሶና። <verse eid="1KI 8:6"/><verse number="7" style="v" sid="1KI 8:7"/>ምጨትድ ኡትዳ ክሩበታ ቀፈት ታቦትያነ ታቦትያ ቶክያ ካሶታ ካምዶሶና። <verse eid="1KI 8:7"/><verse number="8" style="v" sid="1KI 8:8"/>ካሶት ዳሮ አዱሰ ግድያ ግሾ ኤንታ ፄራይ ኡባፈ ጌሻ በሳ ስንን ቆንጨን በንቶሶና። ሽን ጌሻ በሳፈ ካረራ በንታናዉ ዳንዳኤና። ኤንቲ ሀች ጋካናዉ ሄ በሳን ደኦሶና። <verse eid="1KI 8:8"/><verse number="9" style="v" sid="1KI 8:9"/>እስራኤለ አሳይ ግብፀ ቢታፈ ከይዳ ዎደ ጎዳይ ኤንታራ ጫቅዳ ኮሬባ ዙማን ሙሰይ ዎዳ ናምኡ ሎቸ ሹቻታ ፃላላፐ አትሽን፥ ታቦትያ ግዶን ሀራባይ አይብካ ባዋ።<verse eid="1KI 8:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="1KI 8:10"/>ካህነት ፆሳ ኬፈ ከይዳ ዎደ ፆሳ ኬይ ሻራን ኩምስ። <verse eid="1KI 8:10"/><verse number="11" style="v" sid="1KI 8:11"/>ሄ ሻራ ጋሶን ካህነት ባንታ ኦሱዋ ኦናዉ ዳንዳእቦኮና፤ ጎዳ ቦንቾይ ፆሳ ኬ ኩምስ።<verse eid="1KI 8:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="1KI 8:12"/>ሄሳፈ ጉየ፥ ሶሎሞነይ፥ “አቤት ጎዳዉ፥ ኔኒ፥ ‘ታኒ ማ ሻራን ዳና’ ያጋዳሳ። <verse eid="1KI 8:12"/><verse number="13" style="v" sid="1KI 8:13"/>ታኒ ነዉ ቦንቾ ኬ፥ መርናዉ ኔኒ ያን ዳና በሲ ኬፃስ” ያግስ።<verse eid="1KI 8:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="1KI 8:14"/>እስራኤለ ማባራይ ኩመ ያን ኤቅዳሽን፥ ካዎይ ኤንታኮ ስሚድ፥ ሀይሳዳ ያግድ ኤንታዉ ዎስስ።<verse eid="1KI 8:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="1KI 8:15"/>“ጎዳይ እስራኤለ ፆሳይ ጋላተቶ! ታ አዋ ዳዊታስ ባ ዶናን ኦድዳ ኡፋይሳ ቃላ ባ ኩሸን ፖልስ። እ ኦድዳ ኡፋይሳ ቃላይ፥ <verse eid="1KI 8:15"/><verse number="16" style="v" sid="1KI 8:16"/>‘ታኒ ታ አሳ፥ እስራኤለ ግብፀፈ ከስዳ ጋላሳፐ ዶምን፥ ታ ሱንይ እያን ዳና መላ ኬ ኬፃናዉ እስራኤለ ኮቻታ ግዶን እስ ካታማካ ዶራብከ። ሽን ታ አሳ እስራኤለ ካለና መላ ታኒ ዳዊታ ዶራስ’ ያግስ።<verse eid="1KI 8:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="1KI 8:17"/>“ታ አዋይ ዳዊቲ፥ ጎዳ እስራኤለ ፆሳ ሱንስ ኬ ኬፃናዉ ባ ዎዛናን ቆፕስ። <verse eid="1KI 8:17"/><verse number="18" style="v" sid="1KI 8:18"/>ሽን ጎዳይ፥ ታ አዋ ዳዊታኮ፥ ‘ኔኒ ታ ሱንስ ኬ ኬፃናዉ ነ ዎዛናን ቆፕዳ ግሾ ሎኦባ ኦዳሳ። <verse eid="1KI 8:18"/><verse number="19" style="v" sid="1KI 8:19"/>ግዶሽን፥ ኬ ኬፃናይ ነና ግዳካ፤ ታ ሱንስ ኬ ኬፃናይ ነ ጉልባታፐ የለታና ነ ናኣ’ ያግስ።<verse eid="1KI 8:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="1KI 8:20"/>“ጎዳይ ገልዳ ባ ኡፋይሳ ቃላ ፖልስ። ጎዳይ ካሰ ገልዳ ኡፋይሳ ቃላዳ ታኒ ታ አዋ ዳዊታ በሳን ካዎታስ፤ እስራኤለ ካዎተ አራታን ኡታስ። ጎዳ እስራኤለ ፆሳ ሱንስ ኬ ኬፃስ። <verse eid="1KI 8:20"/><verse number="21" style="v" sid="1KI 8:21"/>ጎዳይ ኑ አዋታ ግብፀፈ ከስዳ ዎደ ኤንታራ ጫቅዳ ጫቆ ታቦትያ ዎና በሲ ጊግሳስ” ያግስ።<verse eid="1KI 8:21"/></para>
+  <para style="s1">ሶሎሞነ ዎሳ</para>
+  <para style="r">(<ref loc="2CH 6:12-42">2 ታር 6:12-42</ref>)</para>
+  <para style="p">
+    <verse number="22" style="v" sid="1KI 8:22"/>ሄሳፈ ጉየ፥ ሶሎሞነይ ጎዳ ያርሾ በሳ ስንን፥ ኩመ እስራኤለ ማባራ ግዶን ኤቅድ፥ ባ ኩሽያ ምጭድ፥ <verse eid="1KI 8:22"/><verse number="23" style="v" sid="1KI 8:23"/>ሀይሳዳ ያግድ ዎስስ፤ “አቤት ጎዳዉ፥ እስራኤለ ፆሳዉ፥ ቦላ ሳሉዋን ጋርሳ ሳአን ነ መላ ፆሲ ባዋ። ኔኒ ነ ጫቁዋ ናጋሳ። ባ ኩመ ዎዛናን ነ ስንን ሄመትያ ነ አይለታ ነ መርና ሲቁዋን ዶሳዳሳ። <verse eid="1KI 8:23"/><verse number="24" style="v" sid="1KI 8:24"/>ነ አይልያስ፥ ታ አዋ ዳዊታስ፥ ኔኒ ኦና ጋዳ ገልዳ ቃላ ናጋዳሳ። ኔኒ ካሰ ነ ዶናን ኦድዳይሳ ሀች ነ ኩሸን ፖላዳሳ።<verse eid="1KI 8:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="1KI 8:25"/>“ሀእካ ጎዳዉ፥ እስራኤለ ፆሳዉ፥ ኔኒ ነ አይልያስ፥ ታ አዋ ዳዊታስ፥ ‘ኔኒ ታ ስንን ሄመትዳይሳዳ ነ ናይትካ ታ ስንን ሄመትድ ባንታ ኦግያ ናግኮ፥ ታ ስንን እስራኤለ ካዎተ አራታን ኡትያ አስ ኔኒ ያካ’ ያግዳ ቃላ ፖላ። <verse eid="1KI 8:25"/><verse number="26" style="v" sid="1KI 8:26"/>አቤት እስራኤለ ፆሳዉ፥ ኔኒ ነ አይልያስ፥ ታ አዋ ዳዊታስ ገልዳ ነ ቃላ ሀእካ ፖላ።<verse eid="1KI 8:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="1KI 8:27"/>“ሽን ፆሳይ ቱማ ሳአን ዳነዬ? ሄኮ፥ ሳሎት፥ ኡባፈ ቃ ሳሎይካ ነና ኦይካናዉ ዳንዳኤና። ያትን፥ ታኒ ኬፅዳ ኬይ ነዉ አይ መላ ጉፃንደሻ! <verse eid="1KI 8:27"/><verse number="28" style="v" sid="1KI 8:28"/>ግዶሽን፥ አቤት ጎዳዉ፥ ታ ፆሳዉ፥ ታኒ ነ አይለይ ሀች ዎስያ ዎሳነ ዋሱዋ ስአ። <verse eid="1KI 8:28"/><verse number="29" style="v" sid="1KI 8:29"/>‘ታ ሱንይ ሄ በሳን ዳና’ ግዳ ሀ ኬ ነ አይፈይ ቃማነ ጋላስ ፄሎ። ታኒ ነ አይለይ ሀ በሳኮ ስማዳ ዎስያ ዎሳ ስአ። <verse eid="1KI 8:29"/><verse number="30" style="v" sid="1KI 8:30"/>ታኒ ነ አይለይነ ነ አሳይ እስራኤለይ፥ ሀ ፆሳ ኬኮ ስሚድ፥ ዎስያ ዎሳ ስአ። ነ ደእያ በሳን ሳሎን ስአዳ ኑስ አቶ ያጋ።<verse eid="1KI 8:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="1KI 8:31"/>“እስ አስ ባ ላግያ ቆህድ፥ ቆሀብከ ግድ ካድን፥ እያ ጫቅሳናዉ ፆሳ ኬ ኤህን፥ እያ ግዶን ደእያ ያርሾ በሳ ስንን እ ጫቅኮ፥ <verse eid="1KI 8:31"/><verse number="32" style="v" sid="1KI 8:32"/>ኔኒ ሳሎን ስአዳ ኦ። ነ አይለታ ግዶን ፕርዳ። ናቅዳ ኡራ ቦላ ፕርዳዳ፥ እ ኦዳባ እያ ቦላ ዛራ፤ ፅሉዋስ ፕርዳዳ እያ ፅሎተ ቆንጭሳ።<verse eid="1KI 8:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="1KI 8:33"/>“ነ አሳይ እስራኤለይ ነ ቦላ ናጋራ ኦዳ ግሾ ባንታ ሞርከታን ፆነትድ፥ ኔኮ ስሚድ ነ ሱን ፄግኮ፥ ሀ ኬን ነና ዎስኮነ ኔኮ ዋስኮ፥ <verse eid="1KI 8:33"/><verse number="34" style="v" sid="1KI 8:34"/>ኔኒ ሳሎን ስአ። ነ አሳ እስራኤለ ናጋራ አቶ ጋ፤ ያታዳ ኔኒ ካሰ ኤንታ ማይዛታስ እምዳ ቢታ ኤንታ ጉየ ዛራ።<verse eid="1KI 8:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="1KI 8:35"/>“ነ አሳይ ነ ቦላ ናጋራ ኦዳ ግሾ ሳሎይ ጎርደትን፥ እር ቡኮና እፅን፥ ኤንቲ ሀ በሳ ስሚድ፥ ዎስኮነ ኔኒ ኤንታ ኡንኤዳ ግሾ ነ ሱን ፄግድ፥ ባንታ ናጋራፐ ስምኮ ኔኒ ሳሎን ስአ። <verse eid="1KI 8:35"/><verse number="36" style="v" sid="1KI 8:36"/>ነ አይለታ፥ እስራኤለ ናጋራ አቶ ጋ። ኤንቲ ሄመታናዉ በሲያ ሎኦ ኦግያ ኤንታ ታማርሳ፤ ነ አሳ ላትስዳ ቢታን እራ ቡክሳ።<verse eid="1KI 8:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="1KI 8:37"/>“ቢታ ቦላ ኮሽ ዎይኮ ጋዶይ ያ ዎደ፥ ጫርኮይ ካ ሾጭድ ዎይኮ ሀርመይ ይስያ ዎደ፥ ቦለይ ዎይኮ ጉምቡሮይ ቢታ ቦላ ያ ዎደ፥ ሞርከይ ኤንታ ካታማታ ተቅያ ዎደ፥ ጋዶይነ ሀርገይ ያ ዎደ፥ <verse eid="1KI 8:37"/><verse number="38" style="v" sid="1KI 8:38"/>ነ አሳ እስራኤለፐ ኦንካ ነና ዎስኮነ ኔኮ ዋስኮ ቃስ አይ አስካ ባ ዎዛናን ኡንኤትድ ሀ ፆሳ ኬኮ ስሚድ ባ ኩሽያ ምጭኮ፥ <verse eid="1KI 8:38"/><verse number="39" style="v" sid="1KI 8:39"/>ነ ደእያ በሳን ሳሎን ስአ። ኤንታ ናጋራ አቶ ጋ፤ ኤንታ ማዳ። ኔኒ አሳ ዎዛና ኤረይሳዳ አሳ ኡባስ እያ ኦሱዋዳ ኦሱዋዳ እማ። አሳ ኡባ ዎዛና ኤረይ ነ ፃላላ። <verse eid="1KI 8:39"/><verse number="40" style="v" sid="1KI 8:40"/>ያንኮ፥ ኔኒ ኑ ማይዛታስ እምዳ ቢታን ደእያ ዎደ ኡባን ኤንቲ ነዉ ያያና።<verse eid="1KI 8:40"/></para>
+  <para style="p">
+    <verse number="41" style="v" sid="1KI 8:41"/>“ነ አሳ እስራኤለፐ ግዶናሽን፥ አላጋ ቢታ አሳይ፥ ነ ግታ ሱን ግሾ ሃሆ ቢታፈ ይዳ አስ ደእኮ፥ <verse eid="1KI 8:41"/><verse number="42" style="v" sid="1KI 8:42"/>ነ ግታ ሱን ስእድ፥ ሃሆ ቢታፈ ይድ፥ ሀ ፆሳ ኬኮ ስሚድ ነና ዎስኮ፥ <verse eid="1KI 8:42"/><verse number="43" style="v" sid="1KI 8:43"/>ኔኒ ደእያ በሳን ሳሎን ስአ። ነ አሳት፥ እስራኤለት ኤረይሳዳ ሳአን ደእያ አሳ ኡባይ ነ ሱን ኤራና መላነ ነዉ ያያና መላ፥ ታኒ ኬፅዳ ሀ ፆሳ ኬይ ነና ጎይንያ በሲ ግደይሳ ኤንቲ ኤራና መላ አላጋ ቢታ አሳይ ዎስያባ ኤንታዉ ፖላ።<verse eid="1KI 8:43"/></para>
+  <para style="p">
+    <verse number="44" style="v" sid="1KI 8:44"/>“ነ አሳት ባንታ ሞርከታ ኦላና መላ ነ ኪትዳ በሳ ብድ፥ ኤንቲ ኔኒ ዶርዳ ሀ ካታማኮነ ታኒ ነ ሱንስ ኬፅዳ ኬኮ ስሚድ ጎዳ ነና ዎስኮ፥ <verse eid="1KI 8:44"/><verse number="45" style="v" sid="1KI 8:45"/>ኤንታ ዎሳነ ዋሱዋ ሳሎን ስአዳ ኤንታዉ ፆኖ እማ።<verse eid="1KI 8:45"/></para>
+  <para style="p">
+    <verse number="46" style="v" sid="1KI 8:46"/>“ናጋራ ኦና አስ ባይና ግሾ ኤንቲ ነ ቦላ ናጋራ ኦን፥ ኔኒ ኤንታ ሀንቀታዳ ሞርከታስ አዳ እምን፥ ሞርከት ኤንታ ድእድ፥ ሃሆ ግድን ማታ በሲ ኤፍኮካ፥ <verse eid="1KI 8:46"/><verse number="47" style="v" sid="1KI 8:47"/>ኤንቲ ሄ ድኤትዳ ቢታን ደእሸ፥ ባንታ ዎዛናን ናጋራፐ ስምኮ፥ ሄ ድኤትዳ ቢታን ደእሸ፥ ‘ኑኒ ናጋራ ኦዳ፤ ኑኒ ባልዳ፤ ኑኒ ኢታ ሀንዳ’ ያግድ ኔኮ ዋስኮ፥ <verse eid="1KI 8:47"/><verse number="48" style="v" sid="1KI 8:48"/>ኤንታና ድእድ ኤፍዳ ሞርከታ ቢታን ደእሸ፥ ባንታ ኩመ ዎዛናንነ ባንታ ኩመ ቆፋን ኔኮ ስምኮ፥ ኔኒ ኤንታ ማይዛታስ እምዳ ኤንታ ቢታኮ፥ ነ ዶርዳ ካታማኮነ ታኒ ነ ሱንስ ኬፅዳ ኬኮ ስሚድ፥ ነና ዎስኮ፥ <verse eid="1KI 8:48"/><verse number="49" style="v" sid="1KI 8:49"/>ኤንታ ዎሳነ ኤንታ ዋሱዋ ነ ደእያ በሳን ሳሎን ስአዳ ኤንታዉ ፕርዳ። <verse eid="1KI 8:49"/><verse number="50" style="v" sid="1KI 8:50"/>ነ አሳይ ነ ቦላ ኦዳ ናጋራነ ቆህዳ ቆሁዋ አቶ ጋ፤ ኤንታ ድእድ ኤፍዳ አሳት ኤንታዉ ቃታና መላ ኦ። <verse eid="1KI 8:50"/><verse number="51" style="v" sid="1KI 8:51"/>ኤንቲ፥ ብራታ ሴርስያ ጮጨ ታማዳ ፁግያ ግብፀ ቢታፈ ኔኒ ከስዳ ነ አሳታነ ነ ቡዞ ላታታ።<verse eid="1KI 8:51"/></para>
+  <para style="p">
+    <verse number="52" style="v" sid="1KI 8:52"/>“ታኒ ነ አይለይነ ነ አሳይ እስራኤለይ ዎስያ ዎሳ ነ አይፈይ ፄሎ። ኤንቲ ዋስያ ዎደ አዉደካ ኔኒ ኤንታ አላ። <verse eid="1KI 8:52"/><verse number="53" style="v" sid="1KI 8:53"/>አቤት ጎዳዉ፥ ፆሳዉ፥ ኔኒ ካሰ ኑ አዋታ ግብፀፈ ከስያ ዎደ ነ አይልያ ሙሰ ባጋራ ኦድዳይሳዳ ኤንታ ሳአን ደእያ ካዎተታ ኡባ ግዶፈ ነዉ ቡዞ ኦናዉ ዱማይዳ ደረ” ያግድ ዎስስ።<verse eid="1KI 8:53"/></para>
+  <para style="p">
+    <verse number="54" style="v" sid="1KI 8:54"/>ሶሎሞነይ ዎሳ ፖልዳፐ ጉየ፥ ባ ኩሽያ ምጭድ ያርሾ በሳ ስንን ጉልባትዳ በሳፈ ደንድ ኤቅስ። <verse eid="1KI 8:54"/><verse number="55" style="v" sid="1KI 8:55"/>እስራኤለ ማባራ ኡባ ባ ቃላ ቁ ኦድ ሀይሳዳ ያግድ አንጅስ፤ <verse eid="1KI 8:55"/><verse number="56" style="v" sid="1KI 8:56"/>“ባ ገልዳ ቃላዳ ባ አሳ እስራኤለ ሸምፕስዳ ጎዳይ ጋላተቶ፤ እ ባ አይልያ ሙሰ ባጋራ እምዳ ሎኦ ኡፋይሳ ቃላ ኡባይ ፖለትስ። <verse eid="1KI 8:56"/><verse number="57" style="v" sid="1KI 8:57"/>ጎዳይ ኑ ፆሳይ ካሰ ኑ አዋታራ ደእዳይሳዳ ኑራካ ደኦ፤ እ ኑና ኩመ አገና፤ የገና። <verse eid="1KI 8:57"/><verse number="58" style="v" sid="1KI 8:58"/>ኑኒ እያ ኦገታን ሄመታና መላነ እ ኑ አዋታስ እምዳ ኪታነ ዎጋ ናጋና መላ ኑ ዎዛና ባኮ ዛሮ። <verse eid="1KI 8:58"/><verse number="59" style="v" sid="1KI 8:59"/>ጋላስ ጋላስ ኑስ ኮሽያባ እማናዉ ጎዳይ ታና ባ አይልያነ ባ አሳ እስራኤለ ማዳና መላ፥ ታኒ ጎዳ ስንን ዎስዳ ዎሳት ቃማነ ጋላስ ጎዳኮ፥ ኑ ፆሳኮ፥ ሺቆ። <verse eid="1KI 8:59"/><verse number="60" style="v" sid="1KI 8:60"/>ሄሳን፥ ሳአን ደእያ አሳ ኡባይ ጎዳይ ፆሰ ግደይሳነ እያፐ አትሽን፥ ሀራ ፆሲ ባይናይሳ ኤራና። <verse eid="1KI 8:60"/><verse number="61" style="v" sid="1KI 8:61"/>ሀች ህንተ ኦዳይሳዳ ህንተ እያ ዎጋዳ እያዉ ኪተታናዉ ህንተ ዎዛናይ ጎዳስ፥ ኑ ፆሳስ አማነተይሳ ግዶ” ያግድ አንጅስ።<verse eid="1KI 8:61"/></para>
+  <para style="s1">ፆሳ ኬ አንጅሶ</para>
+  <para style="r">(<ref loc="2CH 7:4-10">2 ታር 7:4-10</ref>)</para>
+  <para style="p">
+    <verse number="62" style="v" sid="1KI 8:62"/>ሄሳፈ ጉየ ካዎይነ እስራኤለ አሳ ኡባይ እስፈ ጎዳ ስንን ያርሾ ያርሽዶሶና። <verse eid="1KI 8:62"/><verse number="63" style="v" sid="1KI 8:63"/>ሶሎሞነይ ጎዳስ እስፈተ ያርሾ ያርሻናዉ 22,000 ቦራታነ 120,000 ዶርሳታ ሺሽስ። ሄሳዳ ኦድ ካዎይነ እስራኤለ አሳ ኡባይ ጎዳ ኬ አንጅስዶሶና። <verse eid="1KI 8:63"/><verse number="64" style="v" sid="1KI 8:64"/>ካዎይ ሶሎሞነይ ፆሳ ኬ ስንን ደእያ ዳባባ ግዶ ክፍልያ ሄ ጋላስ ዱማይስ። ሄ በሳን ፁሳ ያርሾ፥ ካ ያርሾነ እስፈተ ያርሹዋፈ ሞዋ ያርሽስ። እ ሄሳ ኦዳይ ጎዳ ስንን ደእያ ናሰ ብራታፐ ኦሰትዳ ያርሾ በሳይ ፁሳ ያርሾ፥ ካ ያርሾነ እስፈተ ያርሹዋፈ ሞዋ ያርሻናዉ ጉፅዳ ግሾሳ።<verse eid="1KI 8:64"/></para>
+  <para style="p">
+    <verse number="65" style="v" sid="1KI 8:65"/>ሄ ዎደ ሶሎሞነይነ እስራኤለ አሳ ኡባይ ላፑን ጋላስ ሻቃራ ባኣለ ቦንችዶሶና፤ እስራኤለ ዛዋን ሀማታ ፕኑዋፐ ብድ ግብፀ ሻፋ ጋካናዉ ደእያ ዳሮ አሳይ ጎዳ ስንን ባኣለ ቦንቻናዉ ሺቅስ። <verse eid="1KI 8:65"/><verse number="66" style="v" sid="1KI 8:66"/>ዎንተ ጋላስ ካዎይ አሳ ሞይዝስ፤ አሳይ ካዋ አንጅድ፥ ጎዳይ ባ አይልያ ዳዊታስነ ባ አሳ እስራኤለስ ኦዳ ኬሀተን ዎዛናፐ ኡፋይትሸ ባ ሶ ባ ሶ ብስ።<verse eid="1KI 8:66"/></para>
+  <chapter eid="1KI 8"/>
+  <chapter number="9" style="c" sid="1KI 9"/>
+  <para style="s1">ፆሳይ ሶሎሞነስ ዛሪድ ቆንጭስ</para>
+  <para style="r">(<ref loc="2CH 7:11-22">2 ታር 7:11-22</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 9:1"/>ሶሎሞነይ ፆሳ ኬነ ካዎ ጋ ኬፅድ ዉርስዳ ዎደ ባ ዎዛናን ኦናዉ አሞትዳ ኡባ ፖልዳፐ ጉየ፥ <verse eid="1KI 9:1"/><verse number="2" style="v" sid="1KI 9:2"/>ጋባኦናን ካሰ ቆንጭዳይሳዳ ጎዳይ ዛሪድ እያዉ ቆንጭስ።<verse eid="1KI 9:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="1KI 9:3"/>ጎዳይ፥ “ኔኒ ታ ስንን ዎስዳ ዎሳነ ዋሱዋ ታኒ ስአስ። ኔኒ ኬፅዳ ኬይ መርናዉ ታ ሱንይ እያን ፄገታና መላ ኦዳ ጌሻስ። ታ አይፈይነ ታ ዎዛናይ ኡባ ዎደ ያን ዳና። <verse eid="1KI 9:3"/><verse number="4" style="v" sid="1KI 9:4"/>ሽን ኔኒ ነ አዋይ ዳዊቲ ሄመትዳይሳዳ ቦረይ ባይና ሱረተን ታ ስንን ሄመትኮ፥ ታ ኪታ ኡባ ኦኮነ ታ ዎጋነ ታ ህግያ ናግኮ፥ <verse eid="1KI 9:4"/><verse number="5" style="v" sid="1KI 9:5"/>ታኒ ነ አዋ ዳዊታስ፥ ‘እስራኤለ ካዎተ አራታን ኡትያ አስ ኔኒ ኩመ ያካ’ ” ግዳይሳዳ ነ አራታ እስራኤለ ቦላ መርናዉ ምንዳ ኤሳና።<verse eid="1KI 9:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="1KI 9:6"/>“ሽን ነ ዎይኮ ነ ናይት ታና ካሎ አግድ ጉየ ስምኮ፥ ታኒ ህንተና ኪትዳ ታ ኪታነ ታ ዎጋ ናጎና እፅድ አላጋ ፆሳታ ጎይንኮ፥ <verse eid="1KI 9:6"/><verse number="7" style="v" sid="1KI 9:7"/>እስራኤለ አሳ ታኒ ካሰ ኤንታዉ እምዳ ቢታፈ ሾዳና፤ ታኒ ታ ሱንስ ጌሽዳ ሀ ኬ አጋና። እስራኤለት አሳ ኡባ ግዶን ካስነ ሚቻስ አታና። <verse eid="1KI 9:7"/><verse number="8" style="v" sid="1KI 9:8"/>ሀ ማላልስያ ፆሳ ኬይ ላለትድ ላለ ዶረ ግዳና። ማታራ አያ አሳ ኡባይ ዳጋምድ፥ ‘ጎዳይ ሀ ቢታነ ሀ ፆሳ ኬ አይስ ሀይሳዳ ኦዴ?’ ያጋና። <verse eid="1KI 9:8"/><verse number="9" style="v" sid="1KI 9:9"/>አሳይ ዛሪድ፥ ‘ኤንታ ማይዛታ ግብፀፈ ከስዳ፥ ጎዳ ባንታ ፆሳ ኤንቲ አግድ፥ አላጋ ፆሳታ ካልዳ ግሾነ ኤንታ ጎይንዳ ግሾ ጎዳይ ኤንታ ቦላ ሀ ኢታባ ኡባ ኤህስ’ ” ያግድ ዛራና።<verse eid="1KI 9:9"/></para>
+  <para style="s1">ሶሎሞነ ሀራ ኦሶታ</para>
+  <para style="r">(<ref loc="2CH 8:1-18">2 ታር 8:1-18</ref>)</para>
+  <para style="p">
+    <verse number="10" style="v" sid="1KI 9:10"/>ሶሎሞነይ ሀ ናምኡ ኬታ፥ ፆሳ ኬነ ባ ካዎ ጋ ኬፅዳ ላታማን ላይ ዉርሰን፥ <verse eid="1KI 9:10"/><verse number="11" style="v" sid="1KI 9:11"/>ፅሮሳ ካዎይ ክራም ፂዳ፥ ዝጋነ ዎርቃ ኡባ እምዳ ግሾ፥ ጋልላን ደእያ ላታሙ ካታማታ ሶሎሞነይ እያዉ እሚስ። <verse eid="1KI 9:11"/><verse number="12" style="v" sid="1KI 9:12"/>ሽን ክራም ፅሮሳፐ ከይድ፥ ሶሎሞነይ እያዉ እምዳ ካታማታ በአናዉ ብዳ ዎደ ካታማት እያ ኡፋይስቦኮና። <verse eid="1KI 9:12"/><verse number="13" style="v" sid="1KI 9:13"/>ክራም ሶሎሞነኮ፥ “ታ እሻዉ፥ ሀይሳቲ ነ ታዉ እምዳ ካታማት አይባ ካታሜ?” ያግስ። ሄሳ ግሾ፥ እ ሄ ካታማታ፥ “ፓና ቢታ” ያግድ ሱንስ። ሄ ሄራይ ሀች ጋካናዉ ሄ ሱንን ፄገቴስ። <verse eid="1KI 9:13"/><verse number="14" style="v" sid="1KI 9:14"/>ክራም 4,000 ክሎ ግራመ ዎርቃ ካዋ ሶሎሞነስ ካሰ የድስ።<verse eid="1KI 9:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="1KI 9:15"/>ፆሳ ኬ፥ ካዎ ጋ፥ ሚሎ፥ የሩሳላመ ካታማ ግምብያ፥ ሀፆራ፥ ማግዶነ ገዘራ ግምባናዉ ካዋ ሶሎሞነስ ኦሳንቾት ደኦሶና። <verse eid="1KI 9:15"/><verse number="16" style="v" sid="1KI 9:16"/>ግብፀ ካዎይ ካሰ ገዘራ ኦይክድ ታማን ፁግስ። ካታማን ደእያ ካናነ አሳታ ዎስ፤ ሶሎሞነይ ኤክዳ ባ ናእዉ ዎይቶ ኦድ እሚስ። <verse eid="1KI 9:16"/><verse number="17" style="v" sid="1KI 9:17"/>ሶሎሞነይ ገዘራነ ጋርሳ ቤት-ሀሮና ዛሪድ ኬፅስ። <verse eid="1KI 9:17"/><verse number="18" style="v" sid="1KI 9:18"/>ባእላታ፥ ይሁዳ መላ ደእያ ታማራ፥ <verse eid="1KI 9:18"/><verse number="19" style="v" sid="1KI 9:19"/>ቡቁራ ምንጅያ ካታማታ ኡባ፥ ባ ፓራታነ ፓራ ጋረታ ናግያ ካታማታ፥ የሩሳላመን፥ ልባኖሰንነ እ ሃርያ ቢታ ኡባን ኬፃናዉ ኮይዳ ኡባ ኬፅስ።<verse eid="1KI 9:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="1KI 9:20"/>አሞረታፐ፥ ህተታፐ፥ ፓርዘታፐ፥ ህወታፐነ ያቡሰታፐ አትዳ አሳት ኡባይ እስራኤለ አሰ ግዶኮና። <verse eid="1KI 9:20"/><verse number="21" style="v" sid="1KI 9:21"/>ኤንቲ እስራኤለ አሳይ ቢታፈ ዉርስድ ይሳናዉ ዳንዳኦና እፅን ሄ ቢታን አትዳ አሳ ኮቻታ። ሶሎሞነይ ኤንታ አይለ ኦን፥ ኤንቲ ሀች ጋካናዉ አይለተን ኦሶና። <verse eid="1KI 9:21"/><verse number="22" style="v" sid="1KI 9:22"/>ሽን ሶሎሞነይ እስራኤለ አሳፐ ኦናካ አይለ ኦቤና። ኤንቲ እያዉ ሞርናታ፥ ኦላንቾታ፥ ቶራ ሞጮና፥ ፓራ ጋረ ላግያ አሳስ ሀላቃነ ፓራ አስ ግድድ ኦዶሶና። <verse eid="1KI 9:22"/><verse number="23" style="v" sid="1KI 9:23"/>ኤንቲ ሶሎሞነይ ኦስስያ ኬ ኬፀይሳታ ሀላቃታ፤ ኤንቲ እቻሹ ፄታነ እሻታማ።<verse eid="1KI 9:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="1KI 9:24"/>ግብፀ ካዋ ናእያ ዳዊታ ካታማፐ ሶሎሞነይ እዉ ኬፅስዳ ኬ ይዳፐ ጉየ፥ እ ሚሎ ካታማ ግምብስ።<verse eid="1KI 9:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="1KI 9:25"/>ሶሎሞነይ ጎዳስ ግምብዳ ያርሾ በሳን ፁሳነ እስፈተ ያርሾ ላይን ሄ ቶሆ ያርሼስ። ጎዳ ስንን እፃነ ጩይሴስ፤ ሄሳን ፆሳ ኬይ ፖለትስ።<verse eid="1KI 9:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="1KI 9:26"/>ሄሳፈ ጉየ፥ ካዎይ ሶሎሞነይ ኤዶመ ቢታን ዞኦ አባ ጋፃን፥ ኤሎታ ማታን ደእያ ኤፅዮን-ጋብራን ማርካበታ ኦስ። <verse eid="1KI 9:26"/><verse number="27" style="v" sid="1KI 9:27"/>ካዎይ ክራም ሶሎሞነ አሳራ ኦና መላ ማርካበ ላጎን ሎህዳ ባ አሳታ ኪትስ። <verse eid="1KI 9:27"/><verse number="28" style="v" sid="1KI 9:28"/>ኤንቲ ኦፍራ ቢታ ብድ 14,000 ክሎ ግራመ ዎርቃ ካዋ ሶሎሞነስ ኤክድ ይዶሶና።<verse eid="1KI 9:28"/></para>
+  <chapter eid="1KI 9"/>
+  <chapter number="10" style="c" sid="1KI 10"/>
+  <para style="s1">ሳባ ካውዉ</para>
+  <para style="r">(<ref loc="2CH 9:1-12">2 ታር 9:1-12</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 10:1"/>ሳባ ካውያ ጎዳይ ሶሎሞነስ ቆንጭስዳ ማላልስያ ጭንጫተ ዎርያ ስአዳ፥ ዴፆ ኦይሻታ ኤካዳ እያ ፓጫናዉ ባሱ። <verse eid="1KI 10:1"/><verse number="2" style="v" sid="1KI 10:2"/>ሳዉዋ፥ ዳሮ ዎርቃነ አልኦ ሹቹ ጫንዳ ዳሮ ግማለ ጩጋራ ዳሮ አጃባን የሩሳላመ ጋካዳ ሶሎሞነ ስን ሺቃሱ። ባ ዎዛናን ደእያ ኡባ ሶሎሞነ ኦይቻሱ። <verse eid="1KI 10:2"/><verse number="3" style="v" sid="1KI 10:3"/>ሶሎሞነይ እያ ኦይችዳባ ኡባ ዛርስ፤ እዉ ብርሾናሽን፥ እያፐ ጌምድ አትዳባይ አይብካ ባዋ። <verse eid="1KI 10:3"/><verse number="4" style="v" sid="1KI 10:4"/>ሳባ ካውያ ሶሎሞነ ጭንጫተ፥ እ ኬፅዳ ካዎ ጋዋ፥ <verse eid="1KI 10:4"/><verse number="5" style="v" sid="1KI 10:5"/>እያ ጋይታን ሺቅያ ካ፥ እያ ሞርናት ኡትያ ኡተ፥ እያ አይለት ኦያ ኦሱዋ፥ ኤንቲ ማእያ ማኡዋ፥ ኤስ ዱቀይሳታነ ፆሳ ኬን ሺሽያ ፁሳ ያርሹዋ በእዳ ዎደ እ ዎዛናይ ዳሮ ማላለትስ።<verse eid="1KI 10:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="1KI 10:6"/>እያ፥ ካዋ ሶሎሞነኮ፥ “ነባነ ነ ጭንጫባ ታኒ ታ ቢታን ደአሸ ስእዳይስ ቱማ። <verse eid="1KI 10:6"/><verse number="7" style="v" sid="1KI 10:7"/>ሽን ታኒ ያዳ፥ ታ አይፈን በአና ጋካናዉ ኤንቲ ታዉ ኦድዳባ አማናብከ። ሄኮ፥ አሳይ ታዉ ኦድዳይስ ባጋ ጋከና፤ ነ ጭንጫተይነ ነ ዱረተይ ታኒ ስእዳይሳፈ ዳሮ አስ። <verse eid="1KI 10:7"/><verse number="8" style="v" sid="1KI 10:8"/>ኡባ ዎደ ነ ስንን ኤቅድ፥ ነ ጭንጫተ ስእያ ነ አሳትነ ነ ሞርናት አይ መላ ቃዳራ ደእያ አሰ! <verse eid="1KI 10:8"/><verse number="9" style="v" sid="1KI 10:9"/>ነናን ኡፋይትድ፥ ነና እስራኤለ ካዎተ አራታን ኡትስዳ ጎዳይ ነ ፆሳይ ጋላተቶ! ጎዳይ እስራኤለ አሳ መርናዉ ሲቅዳ ግሾ ኔኒ ሱረ ፕርዳነ ፅሎተ ኦና መላ እ ነና ካዎስ” ያጋሱ።<verse eid="1KI 10:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="1KI 10:10"/>ሳባ ካውያ 4,000 ክሎ ግራመ ዎርቃ፥ ዳሮ ሳዎነ አልኦ ሹቹ ካዋ ሶሎሞነስ እማሱ። ሳባ ካውያ ካዋ ሶሎሞነስ እምዳይሳ መላ ዳሮ ሳዎ ሄሳፈ ስምን ኦንካ ኤህቤና።<verse eid="1KI 10:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="1KI 10:11"/>(ካዋ ክራማ ማርካበት፥ ኦፍራፐ ዎርቃ ኤህዳይሳት ያፐ ዳሮ ሳንዳለ ምነ አልኦ ሹቹ ኤህዶሶና። <verse eid="1KI 10:11"/><verse number="12" style="v" sid="1KI 10:12"/>ካዎይ ሶሎሞነይ ሄ ሳንዳለፐ ፆሳ ኬነ ካዎ ጋ ቱቀታ፥ ዛማረታስ ዲነ ማስንቆ ኦስስስ። ሄሳ መላ ሳንዳለይ ሄ ዎደፐ ስምን ይድ ኤረና፤ በንት ኤረና።)<verse eid="1KI 10:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="1KI 10:13"/>ካዎይ ሶሎሞነይ እማናዉ በሲያ እሞታታፐ ሀራ፥ ሳባ ካውያ አሞታዳ እያ ኦይችዳባ ኡባ እዉ እሚስ። ሄሳፈ ጉየ፥ ሳባ ካውያ ባ አጃባራ ደንዳዳ ባ ቢታ ስማሱ።<verse eid="1KI 10:13"/></para>
+  <para style="s1">ሶሎሞነ ቦንቹዋ</para>
+  <para style="r">(<ref loc="2CH 9:13-28">2 ታር 9:13-28</ref>)</para>
+  <para style="p">
+    <verse number="14" style="v" sid="1KI 10:14"/>ሶሎሞነይ ላይን ላይን ኤክያ ዎርቃይ 23,000 ክሎ ግራመ። <verse eid="1KI 10:14"/><verse number="15" style="v" sid="1KI 10:15"/>ሄስ ዛልአንቾታፐ ኤክያ ቃራፃ፥ አራበ ካዎታፐነ እስራኤለ ቢታን ሃረይሳታፐ ኤክያ ጊራ ጉጀና። <verse eid="1KI 10:15"/><verse number="16" style="v" sid="1KI 10:16"/>ሶሎሞነይ ናምኡ ፄቱ ግታ ጎንዳለታ ዎርቃፈ ቆፅድ ኦስስስ። እስ እስ ጎንዳልያን ኡሱፑን ክሎ ግራመ ግድያ ዎርቀይ ገልስ። <verse eid="1KI 10:16"/><verse number="17" style="v" sid="1KI 10:17"/>ቃስ ሄ ፄቱ ጉ ጎንዳለታ ዎርቃፈ ቆፅድ ኦስስስ። እስ እስ ጉ ጎንዳልያን ናምኡ ክሎ ግራመ ግድያ ዎርቀይ ገልስ። ካዎይ ሄ ጎንዳለታ “ልባኖሰ ዎራ” ጌተትያ ባ ካዎ ጋን ዎስ።<verse eid="1KI 10:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="1KI 10:18"/>ቃስ ካዎይ እስ ግታ አራታ ዳንጋርሳ ዛለፐ ኦስስድ ጌሻ ዎርቃን ላንፅስስ። <verse eid="1KI 10:18"/><verse number="19" style="v" sid="1KI 10:19"/>አራታይ ደእያ በሳ ፑደ ከያናዉ የያ ኡሱፑን ደት ደኦሶና። ሄ አራታስ ጉየ ባጋራ ሁጵያ ቦላ ገርቶይ ደኤስ። አራታስ ናምኡ ባጋራ ቀሰ ዘምፕስያ በሳት ደኦሶና፤ ሄ ናምኡ በሳታ ምየን ኤቅዳ እስ እስ ጋሞ ምስለይ ደኤስ። <verse eid="1KI 10:19"/><verse number="20" style="v" sid="1KI 10:20"/>ሄ አራታ ቦላ ከይያ ኡሱፑን ደታስ ያ ባጋራነ ሀ ባጋራ እስ እስ ጋሞ ምስለይ፥ ኩመ ታማነ ናምኡ ምስለት ደኦሶና። ሄሳ መላ አራት ሀራ ካዎተን አዉንካ ኦሰትቤና።<verse eid="1KI 10:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="1KI 10:21"/>ካዎይ ሶሎሞነይ ኡሹ ኡያ ሚሸ ኡባይ ዎርቃፈ ኦሰትስ፤ “ልባኖሰ ዎራ” ጌተትያ ካዎ ጋን ደእያ ሚሸ ኡባይ ዋላህ ባይና ዎርቃፈ ኦሰትስ። ሶሎሞነ ዎደ ብራስ ጎእ ባይና ግሾ ብራፐ ኦሰትዳባይ ባዋ። <verse eid="1KI 10:21"/><verse number="22" style="v" sid="1KI 10:22"/>ካዋ ክራማ ማርካበታራ ዛልእያ ግታ ማርካበት አባን ደኦሶና። ሄ ማርካበት ዎርቃ፥ ብራ፥ ዳንጋርሳ ዛለ፥ ገለሾ፥ ቃረነ አያና ካፎ ጫንድ ሄ ላይፈ እስ ቶሆ ስሞሶና።<verse eid="1KI 10:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="1KI 10:23"/>ካዎይ ሶሎሞነይ ዱረተንነ ጭንጫተን ሳአን ደእያ ካዎታ ኡባፈ አስ። <verse eid="1KI 10:23"/><verse number="24" style="v" sid="1KI 10:24"/>ሳአን ደእያ አስ ኡባይ እያኮ ያናዉነ ፆሳይ እያ ዎዛናን ዎዳ ጭንጫተ ስአናዉ ኮዬስ። <verse eid="1KI 10:24"/><verse number="25" style="v" sid="1KI 10:25"/>ላይን ላይን ያ ኡባይ እያዉ ዎርቃ፥ ብራ፥ ማኦ፥ ኦላ ሚሸ፥ ሳዎ፥ ፓራነ ባቁሎ እሞታ ኤክድ ዮሶና።<verse eid="1KI 10:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="1KI 10:26"/>ሶሎሞነይ ፓራ ጋረታነ ፓራታ ሺሽስ፤ እያዉ 1,400 ፓራ ጋረትነ 12,000 ፓራት ደኦሶና። እ ኤንታ ፓራ ጋረታ ካታማታንነ ባራ የሩሳላመን ዎስ። <verse eid="1KI 10:26"/><verse number="27" style="v" sid="1KI 10:27"/>ካዎይ የሩሳላመን ብር ሹቻዳ፥ ዝግ ዙማ ፃጶን ድጭያ ቦባዳ ዳራናዳ ኦስ። <verse eid="1KI 10:27"/><verse number="28" style="v" sid="1KI 10:28"/>ሶሎሞነ ፓራት ግብፀፈነ ቃወ ቢታፈ ዮሶና። ካዋ ዛልአንቾት ኤንታ ቃወፐ ሻምድ ኤሆሶና። <verse eid="1KI 10:28"/><verse number="29" style="v" sid="1KI 10:29"/>ኤንቲ እስ እስ ፓራ ጋረ ኡሱፑን ፄቱ ብራ ሳንትመን፥ እስ እስ ፓራ ፄታነ እሻታሙ ብራ ሳንትመን ግብፀፈ ሻምድ ኤሆሶና። ኤንቲ ህተታ ካዎታስነ ሶረ ካዎታስ ባይዞሶና።<verse eid="1KI 10:29"/></para>
+  <chapter eid="1KI 10"/>
+  <chapter number="11" style="c" sid="1KI 11"/>
+  <para style="s1">ሶሎሞነ ማቸታ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 11:1"/>ካዎይ ሶሎሞነ ዳሮ አላጋ ቢታ ማጫሳታ ዶስስ። ሄሳት ግብፀ ካዋ ናኤፐ ሀራ ሞአበታ፥ አሞነታ፥ ኤዶመታ፥ ስዶናታነ ህተታ ማጫሳታ። <verse eid="1KI 11:1"/><verse number="2" style="v" sid="1KI 11:2"/>ጎዳይ እስራኤለ አሳስ፥ “ኤንቲ ህንተ ዎዛና ባለድ ባንታ ኤቃታኮ ዛርያ ግሾ ሀ አሳታራ ኤኮንነ ገሎን ዋላከቶፍተ” ያግድ ካሰ ኦድስ። ሽን ሶሎሞነ ኤንታ ሲቁዋን ቃሸትስ። <verse eid="1KI 11:2"/><verse number="3" style="v" sid="1KI 11:3"/>ሶሎሞነስ ካዎ ናአ ግድዳ ላፑን ፄቱ ማቸትነ ሄ ፄቱ ላገት (ቁባተት) ደኦሶና። ሄ ማቸት እያ ፆሳፈ ሃስዶሶና። <verse eid="1KI 11:3"/><verse number="4" style="v" sid="1KI 11:4"/>ሶሎሞነይ ጭምሸ ብያ ዎደ እያ ማቸት እያ ዎዛና ሀራ ፆሳታኮ ዛርዶሶና። እያ አዋ ዳዊቲ ኩመ ዎዛናን ጎዳስ ሃረትዳይሳዳ እ ባ ጎዳ ፆሳስ ሃረትቤና። <verse eid="1KI 11:4"/><verse number="5" style="v" sid="1KI 11:5"/>ሶሎሞነይ አስታሮቶ ጌተትያ ስዶናታ ፆሴስነ ሞሎካ ጌተትያ እፀትዳ አሞነታ ኤቃ ጎይንስ። <verse eid="1KI 11:5"/><verse number="6" style="v" sid="1KI 11:6"/>ሶሎሞነይ ጎዳ ስንን ኢታባ ኦስ፤ እያ አዋ ዳዊቲ ካልዳይሳዳ ጎዳ ፖሎ ካልቤና።<verse eid="1KI 11:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="1KI 11:7"/>ሶሎሞነይ ካሞሻ እፀትዳ ኤቃስነ ሞሎካ ጌተትያ አሞነታ ኤቃስ የሩሳላመፐ ዉሎሀ ባጋን ደእያ ደረ ሁጰን ቃ ጎይኖ በሳታ ኬፅስ። <verse eid="1KI 11:7"/><verse number="8" style="v" sid="1KI 11:8"/>አላጋ ቢታፈ ኤክዳ ባ ማቸታስ ሄሳዳ ጊግስን፥ ኤንቲ ባንታ ኤቃታስ ያን እፃነ ጩይዶሶናነ ያርሾ ያርሽዶሶና።<verse eid="1KI 11:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="1KI 11:9"/>እያዉ ናምኡ ቶሆ ቆንጭዳ ጎዳ እስራኤለ ፆሳፈ ሶሎሞነ ዎዛናይ ሃክዳ ግሾ፥ ጎዳይ እያ ሀንቀትስ። <verse eid="1KI 11:9"/><verse number="10" style="v" sid="1KI 11:10"/>ሀራ ፆሳታ ካሎናዳ ጎዳይ ሶሎሞነ ኪትስ፥ ሽን ሶሎሞነይ ጎዳ ኪታ ናግቤና። <verse eid="1KI 11:10"/><verse number="11" style="v" sid="1KI 11:11"/>ሄሳ ግሾ፥ ጎዳይ ሶሎሞነኮ፥ “ኔኒ ሀይሳዳ ሀንዳ ግሾነ ታ ጫቁዋነ ታ ዎጋ ነ ናጎና ግሾ ታኒ ነ ካዎተ ኔፐ ኤካዳ ነ አይለታፐ እሱዋስ እማና። <verse eid="1KI 11:11"/><verse number="12" style="v" sid="1KI 11:12"/>ግዶሽን፥ ነ አዋ ዳዊታ ግሾ ታኒ ሀይሳ ነ ደኦ ላይን ኦከ፥ ነ ናኣ ኩሸፐ ኤካና። <verse eid="1KI 11:12"/><verse number="13" style="v" sid="1KI 11:13"/>ሄስ ሀንኮካ፥ ካዎተ ነ ናኣ ኩሸፐ ኡባ ኤክከ፤ ታ አይልያ ዳዊታ ግሾነ ታኒ ዶርዳ የሩሳላመ ግሾ እስ ኮቸ እያዉ እማና” ያግስ።<verse eid="1KI 11:13"/></para>
+  <para style="s1">ሶሎሞነ ሞርከታ</para>
+  <para style="p">
+    <verse number="14" style="v" sid="1KI 11:14"/>ሄሳፈ ጉየ፥ ጎዳይ ኤዶመ ቢታ ካዎታ ኮቸ ግድዳ፥ ኤዶመ አድያ ሀዳዳ ሶሎሞነ ቦላ ሞርከ ኦድ ደንስ። <verse eid="1KI 11:14"/><verse number="15" style="v" sid="1KI 11:15"/>ካሰ ዳዊቲ ኤዶመ አሳታራ ኦለትዳ ዎደ ሀይቅዳይሳታ ሞጋናዉ ብዳ ቶራ ሞጮናይ እዮኣብ ኤዶመን ደእያ አደታ ኡባ ዎድ ዉርስስ። <verse eid="1KI 11:15"/><verse number="16" style="v" sid="1KI 11:16"/>ኤዶመን ደእያ አደታ ኡባ ይሳና ጋካናዉ እዮኣብነ እስራኤለ አሳ ኡባይ ያን ኡሱፑን አጌና ኡትዶሶና። <verse eid="1KI 11:16"/><verse number="17" style="v" sid="1KI 11:17"/>ሽን ሄ ዎደ ጉ ናአ ግድዳ ሀዳድ፥ ባ አዋስ ኦዳ ኤዶመ ሞርናታፐ ጉታራ ግብፀ ባቃትስ። <verse eid="1KI 11:17"/><verse number="18" style="v" sid="1KI 11:18"/>ኤንቲ ምድያመፐ ደንድድ ፓራና ብዶሶና፤ ፓራነፐ ባንታራ አሰ ኤክድ ግብፀ ካዋኮ ብዶሶና። ካዎይ ሀዳዳስ እስ ኬነ ጋደ እምድ ካ እያዉ የድስ። <verse eid="1KI 11:18"/><verse number="19" style="v" sid="1KI 11:19"/>ሀዳድ ካዋ ዳሮ ኡፋይስን፥ ካዎይ ባ ማቸ፥ ፃፍናስ ምችዉ እያዉ ማቾ ኦድ እሚስ። <verse eid="1KI 11:19"/><verse number="20" style="v" sid="1KI 11:20"/>እያ ጋኑባታ ጌተትያ ናአ እያዉ የላሱ። ፃፍናሳ እያ ካዎ ጋን ድቻሱ፤ ጋኑባት ያን ካዋ ናይታራ እስፈ ደእስ።<verse eid="1KI 11:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="1KI 11:21"/>ሀዳድ ግብፀን ደእሸ ዳዊቲነ ኢያ ቶራ ሞጮናይ እዮኣብ ሀይቅዳይሳ ስእድ፥ ካዋኮ፥ “ታኒ ታ ቢታ ስማና መላ ታና የዳ” ያግስ።<verse eid="1KI 11:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="1KI 11:22"/>ካዎይ እያ፥ “ነዉ ሀይሳን አይብ ፓጭን፥ ነ ቢታ ባናዉ ኮያይ?” ያግድ ኦይችስ።</para>
+  <para style="p" vid="1KI 11:22">ሀዳድ፥ “ታዉ አይብካ ፓጭቤና፥ ሽን ታኒ ባና” ያግስ።<verse eid="1KI 11:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="1KI 11:23"/>ቃስካ ፆሳይ ኤልያዳ ናኣ ራዞና ሶሎሞነ ቦላ ሞርከ ኦድ ደንስ። ራዞን ሱባ ካዋ አድራዛራፐ ባቃትስ። <verse eid="1KI 11:23"/><verse number="24" style="v" sid="1KI 11:24"/>ዳዊቲ ሱባ ኦላንቾታ ይስዳ ዎደ ራዞን ባዉ አሰ ሺሽድ ፓኖታ ሀላቃ ግድስ። ፓኖት ዳማስቆ ብድ፥ ኦይክድ ያን ኡትድ ራዞና ካዎዶሶና። <verse eid="1KI 11:24"/><verse number="25" style="v" sid="1KI 11:25"/>ሀዳድ መዳ መቱዋ ቦላ ጉጅድ፥ ሶሎሞነይ ደእዳ ላይ ኡባን ራዞን እስራኤለታስ ሞርከ ግድስ። ራዞን ሶረን ካዎትድ እስራኤለ አሳስ ሞርከ ግድስ።<verse eid="1KI 11:25"/></para>
+  <para style="s1">እዮርባም ሶሎሞነ ቦላ ደንድስ</para>
+  <para style="p">
+    <verse number="26" style="v" sid="1KI 11:26"/>ሄሳዳካ ናባፃ ናአይ እዮርባም ሶሎሞነ ቦላ ማካልድ ደንድስ። እ ሶሎሞነ አይለታፐ እሱዋ። እ ኤፍሬማ ቢታን ደእያ ፃሬዳፐ ይዳ አስ፤ እያ አየ ሱንይ ፅሩአ፤ እያ አምኦ። <verse eid="1KI 11:26"/><verse number="27" style="v" sid="1KI 11:27"/>ካዋ ቦላ እ ማካልድ ደንድዳ ታርከይ ሀይሳፈ ካልድ ፃፈትዳይሳ። ሄ ዎደ ሶሎሞነይ ሚሎ ግምቤስነ ባ አዋ ዳዊታ ካታማ ግምበ ድርሳ ዩሹዋን ደእያ ኦላ ኩንስ። <verse eid="1KI 11:27"/><verse number="28" style="v" sid="1KI 11:28"/>እዮርባም ምኖ አስ፤ ሶሎሞነይ ሀ ናአተይ ባ ኦሱዋ ዋትድ ሎይ ኦያኮ በእድ፥ ዮሰፋ<note caller="+" style="f"><char style="fr" closed="false">11:28 </char><char style="ft" closed="false">ዮኤፋ ናይት ምናሰነ ኤፍሬማ። እስ እስ ካሰ ማፃፋት ምናሰነ ኤፍሬማ ቢታን ጎሶና።</char></note>ቢታን ኦያ ማዳ ኦያ አሳ ቦላ ሀላቃ ኦድ ሹምስ።<verse eid="1KI 11:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="1KI 11:29"/>እስ ጋላስ እዮርባም የሩሳላመፐ ከይድ ብሽን፥ ሴሎፐ ይዳ ናበይ አክይ ኦራ ማኦ ማእድ እያራ ኦገን ጋሄትስ። ደንባን ኤንታ ናምኣ ፃላል ደኦሶና። <verse eid="1KI 11:29"/><verse number="30" style="v" sid="1KI 11:30"/>አክይ ባ ማእዳ ኦራ ማኡዋ ኦይክድ፥ ታማነ ናምአ ከስድ ዳክስ። <verse eid="1KI 11:30"/><verse number="31" style="v" sid="1KI 11:31"/>እዮርባማኮ፥ “ታሙ ዳከ ነዉ ኤካ። ጎዳይ እስራኤለ ፆሳይ ሀይሳዳ ያጌስ፤ ‘ሄኮ፥ ታኒ ካዎተ ሶሎሞነ ኩሸፐ ኤካዳ ታሙ ኮቻታ ነዉ እማና። <verse eid="1KI 11:31"/><verse number="32" style="v" sid="1KI 11:32"/>ሽን ታ አይልያ ዳዊታ ግሾነ እስራኤለ ዛረ ኡባ ግዶፈ ታኒ ዶርዳ የሩሳላመ ግሾ እስ ኮቸ እያዉ አጋና። <verse eid="1KI 11:32"/><verse number="33" style="v" sid="1KI 11:33"/>ታኒ ሄሳ ኦያ ጋሶይ፥ ሶሎሞነይ ታና አግድ ስዶና ፆስዉ አስታሮቶ፥ ሞአበ ፆሳ ካሞሻነ አሞነ ፆሳ ሞሎካ ጎይንዳ ግሾሳ። ቃስ ታ ኦግያን ሄመቶና እፅዳ ግሾነ እያ አዋይ ዳዊቲ ኪተትዳይሳዳ ታ ዎጋነ ታ ህግያ ናጎና እፅዳ ግሾሳ።<verse eid="1KI 11:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="1KI 11:34"/>“ ‘ግዶሽን፥ ታኒ ካዎተ ሶሎሞነ ኩሸፐ ዉርሳ ኤክከ። ታኒ ዶርዳይሳ ግሾነ ታ ኪታነ ታ ዎጋ ናግዳ ታ አይልያ ዳዊታ ግሾ ሶሎሞነይ ደኦን ደእሽን ሄሳ ኦከ። <verse eid="1KI 11:34"/><verse number="35" style="v" sid="1KI 11:35"/>ታኒ ካዎተ እያ ናኣ ኩሸፐ ኤካዳ ታሙ ኮቻታ ነዉ እማና። <verse eid="1KI 11:35"/><verse number="36" style="v" sid="1KI 11:36"/>ታ ሱንይ ያን ፄገታና መላ ታኒ ዶርዳ የሩሳላመን፥ ኡባ ዎደ ታ አይልያ ዳዊታ ኮቻይ ካዎታና መላ ታኒ እስ ኮቸ እያ ናኣስ እማና። <verse eid="1KI 11:36"/><verse number="37" style="v" sid="1KI 11:37"/>ታኒ ነና ኤካና፤ ነ ዎዛናይ ዶስዳ ኡባ ኔኒ ሃራና፤ ኔኒ እስራኤለ ቦላ ካዎታና። <verse eid="1KI 11:37"/><verse number="38" style="v" sid="1KI 11:38"/>ታኒ ነና ኪትያባ ኔኒ ኦኮ፥ ታ ኦግያን ሄመትኮነ ታ አይለይ ዳዊቲ ናግዳይሳዳ ታ ዎጋነ ታ ኪታ ናጋዳ፥ ታ ስንን ሱረባ ኦኮ፥ ታ ኔራ ግዳና። ዳዊታስ ኦዳይሳዳ ነ ኮቻት ካዎተን ምናናዳ ኦና፤ እስራኤለ ነዉ እማና። <verse eid="1KI 11:38"/><verse number="39" style="v" sid="1KI 11:39"/>ሶሎሞነ ናጋራ ግሾ ታኒ ዳዊታ ኮቻ ሴራና፤ ሽን መርናዉ ሴርከ’ ” ያግስ። <verse eid="1KI 11:39"/><verse number="40" style="v" sid="1KI 11:40"/>ሶሎሞነይ ኢዮርባማ ዎናዉ ኮይስ፤ ሽን እዮርባም ግብፀ ካዋ ሽሻቃኮ ባቃትድ፥ ሶሎሞነይ ሀይቃና ጋካናዉ ግብፀን ጋምእስ።<verse eid="1KI 11:40"/></para>
+  <para style="s1">ሶሎሞነ ሀይቁዋ</para>
+  <para style="r">(<ref loc="2CH 9:29-31">2 ታር 9:29-31</ref>)</para>
+  <para style="p">
+    <verse number="41" style="v" sid="1KI 11:41"/>ሶሎሞነ ሀንዳ ሀራባይ፥ እ ኦዳባይ፥ እያ ጭንጫተይ ሶሎሞነ ታርከ ማፃፋን ፃፈትስ። <verse eid="1KI 11:41"/><verse number="42" style="v" sid="1KI 11:42"/>ሶሎሞነይ እስራኤለ ቦላ የሩሳላመን ኦይታሙ ላይ ካዎትስ። <verse eid="1KI 11:42"/><verse number="43" style="v" sid="1KI 11:43"/>ሄሳፈ ጉየ፥ ሶሎሞነይ ሀይቅድ፥ ባ ማይዛን ጋሄትስ፤ ባ አዋ ዳዊታ ካታማን ሞገትስ። እያ ናአይ ሮብኣም እያ በሳን ካዎትስ።<verse eid="1KI 11:43"/></para>
+  <chapter eid="1KI 11"/>
+  <chapter number="12" style="c" sid="1KI 12"/>
+  <para style="s1">ታሙ እስራኤለ ኮቻታ ሻከተ</para>
+  <para style="r">(<ref loc="2CH 10:1-19">2 ታር 10:1-19</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 12:1"/>እስራኤለ አሳ ኡባይ ሮብኣማ ካዎያናዉ ሴከማ ብዳ ግሾ እካ ያ ብስ። <verse eid="1KI 12:1"/><verse number="2" style="v" sid="1KI 12:2"/>ካዋ ሶሎሞነፐ ባቃትድ፥ ግብፀን ደእያ ናባፃ ናአይ እዮርባም ሄሳ ስእዳ ዎደ ግብፀፈ ስሚድ ይስ። <verse eid="1KI 12:2"/><verse number="3" style="v" sid="1KI 12:3"/>እስራኤለ አሳይ እዮርባማ ኪትድ ፄግስን፥ እነ እስራኤለ ማባራ ኡባይ ሮብኣማኮ ብድ፥ <verse eid="1KI 12:3"/><verse number="4" style="v" sid="1KI 12:4"/>“ነ አዋይ ኑና ዴፆ ቃምባራ ቶስስ፤ ሽን ሀእ እ ኑና ኦስስያ ዎልቃማ ኦሱዋነ ዴፆ ቃምባራ ኑስ ካዉሻርክ። ያትኮ፥ ኑኒ ነዉ ሃረታና” ያግዶሶና።<verse eid="1KI 12:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="1KI 12:5"/>ሮብኣም ኤንታኮ፥ “ብድ ሄን ጋላስ ስሚድ ታኮ ዪተ” ያግን አሳይ ብዶሶና።<verse eid="1KI 12:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="1KI 12:6"/>ሄሳፈ ጉየ፥ ካዎይ ሮብኣም፥ እያ አዋይ ሶሎሞነይ ደኦን ደእያ ዎደ፥ ሶሎሞነ ዞርያ ጭማታ፥ “ሀ አሳስ ዎይጋዳ ዛራ ጌቲ?” ያግድ ዞረ ኦይችስ።<verse eid="1KI 12:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="1KI 12:7"/>ጭማት ዛሪድ፥ “ሀች ኔኒ ሀ አሳስ አይለ ግዳዳ ኦኮነ ኤንታ ኦይሻስ ሎኦ ቃላ ዛርኮ፥ ኡባ ዎደ ኤንቲ ነዉ አይለ ግዳና” ያግዶሶና።<verse eid="1KI 12:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="1KI 12:8"/>ሽን ሮብኣም ጭማት ዞርዳ ዞርያ አግድ፥ እያራ ድጭድ እያዉ ኦያ ናአተታ ዞረ ኦይችስ። <verse eid="1KI 12:8"/><verse number="9" style="v" sid="1KI 12:9"/>እ ኤንታኮ፥ “ህንተ ታና አይ ዞረቲ? ‘ነ አዋይ ኑና ቶስዳ ዴፆ ቃምባራ ኑስ ካዉሻርክ’ ግያ ሀ አሳስ ዎይጋዳ ዛሮ?” ያግድ ኦይችስ።<verse eid="1KI 12:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="1KI 12:10"/>ናአተት ዛሪድ፥ “ ‘ነ አዋይ ኑና ዴፆ ቃምባራ ቶስስ፤ ሽን ኔኒ ኑስ ካዉሻርክ’ ግያ አሳስ፥ ‘ታ ጉ ብራይ ታ አዋ ፄሳፈ ኦርዴስ። <verse eid="1KI 12:10"/><verse number="11" style="v" sid="1KI 12:11"/>ታ አዋይ ህንተዉ ቃምባራ ዴፀስ፤ ሽን ታኒ እያፐ አዳ ዴፀና። ታ አዋይ ህንተና ልሶን ጋራፍስ፤ ሽን ታኒ ህንተና ኮርነዳ ዱክያ ልሶን ጋራፋና’ ያጋዳ ዛራ” ያግዶሶና።<verse eid="1KI 12:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="1KI 12:12"/>ካዎይ፥ “ሄን ጋላስ ስሚድ ታኮ ዪተ” ግዳይሳዳ እዮርባምነ አሳ ኡባይ ሄን ጋላስ ሮብኣማኮ ስሚድ ይዶሶና። <verse eid="1KI 12:12"/><verse number="13" style="v" sid="1KI 12:13"/>ካዎይ ጭማታ ዞርያ አግድ ኤንታዉ ሀንቆን ዛርስ። <verse eid="1KI 12:13"/><verse number="14" style="v" sid="1KI 12:14"/>ናአተት ዞርዳ ዞርያ ካልስ። እ ኤንታኮ፥ “ታ አዋይ ህንተ ቃምባራ ዴፀስ፤ ሽን ታኒ እያፐ አዳ ዴፀና። ታ አዋይ ህንተና ልሶን ጋራፍስ፤ ሽን ታኒ ህንተና ኮርነዳ ዱክያ ልሶን ጋራፋና” ያግድ ዛርስ። <verse eid="1KI 12:14"/><verse number="15" style="v" sid="1KI 12:15"/>ጎዳይ ሴሎፐ ይዳ አክያ ባጋራ ካሰ ናባፃ ናኣ እዮርባማስ ኦድዳ ቃላይ ፖለታና መላ ሄስ ጎዳፐ ሀንዳ ግሾ ካዎይ አሳይ ግያባ ስኦና እፅስ።<verse eid="1KI 12:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="1KI 12:16"/>እስራኤለ አሳ ኡባይ ካዎይ ኤንቲ ገይሳ ስኦና እፅዳይሳ በእድ ሀይሳዳ ያግዶሶና፤ “ዳዊታፐ ኑና ጋክያ ግሾይ አይቤ? እሰየ ናኣፐ ኑኒ ላትያባይ አይቤ? እስራኤለ አሳዉ፥ ህንተ ሶ ህንተ ሶ ስምተ። ዳዊታ፥ ነ ኬ ናጋ” ያግድ፥ እስራኤለ አሳ ኡባይ ባንታ ሶ ባንታ ሶ ስምዶሶና። <verse eid="1KI 12:16"/><verse number="17" style="v" sid="1KI 12:17"/>ሽን ሮብኣም ይሁዳን ደእያ እስራኤለ አሳ ቦላ ካዎትስ።<verse eid="1KI 12:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="1KI 12:18"/>ካዎይ ሮብኣም ማዳ ኦይሳታ ሀላቃ አዶንራማ እስራኤለ አሳኮ ኪትን፥ ኤንቲ ሹቻን ጫድድ ዎዶሶና። ያትን፥ ካዎይ ሮብኣም ባ ፓራ ጋርያን ገልድ የሩሳላመ ባቃትስ። <verse eid="1KI 12:18"/><verse number="19" style="v" sid="1KI 12:19"/>ሄ ዎደፐ ዶምድ ሀች ጋካናዉ ታሙ እስራኤለ ኮቻት ዳዊታ ኮቻፈ ካዎትዳ ካዎታ ቦላ ማካልዶሶና። <verse eid="1KI 12:19"/><verse number="20" style="v" sid="1KI 12:20"/>እዮርባም ግብፀፈ ስምዳይሳ እስራኤለ አሳ ኡባይ ስእዳ ዎደ እያ ባንታ ማባራኮ ፄግድ እስራኤለ ቦላ ካዎዶሶና። ዳዊታ ኮቻፈ ካዎትዳ ካዎታስ አማነትዳይ ይሁዳ ኮቻ ፃላላ።<verse eid="1KI 12:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="1KI 12:21"/>ሶሎሞነ ናአይ ሮብኣም የሩሳላመ ጋክዳ ዎደ፥ እስራኤለ አሳራ ኦለትድ፥ ካዎተ ባዉ ዛራና መላ ሮብኣም ይሁዳፐነ ብንያመፐ ዶረትዳ 180,000 ኦላንቾታ ሺሽስ። <verse eid="1KI 12:21"/><verse number="22" style="v" sid="1KI 12:22"/>ሽን ፆሳ ቃላይ ፆሳ አስ ግድዳ ሳማየኮ ሀይሳዳ ያግድ ይስ። <verse eid="1KI 12:22"/><verse number="23" style="v" sid="1KI 12:23"/>“ሶሎሞነ ናኣ፥ ይሁዳ ካዋ ሮብኣማስ፥ ይሁዳስ፥ ብንያመስነ አትዳ አሳ ኡባስ ሀይሳዳ ያጋ፤ <verse eid="1KI 12:23"/><verse number="24" style="v" sid="1KI 12:24"/>ጎዳይ ህንተኮ፥ ‘ህንተ ዳቦታራ፥ እስራኤለታራ ኦለታናዉ ቦፕተ። ሀይሳ ታኒ ኦዳ ግሾ ህንተ ኡባይ ህንተ ሶ ህንተ ሶ ስምተ’ ያጋዳ ኦዳ” ያግስ። ኤንቲ ጎዳ ቃላ ስእድ ሶ ብዶሶና።<verse eid="1KI 12:24"/></para>
+  <para style="s1">ዎርቃ ማራታ</para>
+  <para style="p">
+    <verse number="25" style="v" sid="1KI 12:25"/>ሄሳፈ ጉየ እዮርባም ደረይ ዳርያ ኤፍሬማ ቢታን ደእያ ሴከማ ሚፃ ኦ ግምብድ፥ ያን ደእስ፤ ያፐ ከይድ ብድ ጵንኤላ ግምብስ።<verse eid="1KI 12:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="1KI 12:26"/>እዮርባም ባ ዎዛናን፥ “ካዎተይ ዳዊታ ኮቻስ ስማና። <verse eid="1KI 12:26"/><verse number="27" style="v" sid="1KI 12:27"/>ሀ አሳይ ፆሳ ኬን ያርሾ ያርሻናዉ የሩሳላመ ብያባ ግድኮ፥ ኤንቲ ባንታ ጎዳኮ፥ ካዋ ሮብኣማኮ ስማና። ኤንቲ ታና ዎድ፥ ይሁዳ ካዋ ሮብኣማኮ ስማና” ያግድ ቆፕስ።<verse eid="1KI 12:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="1KI 12:28"/>ካዎይ ዞረትዳፐ ጉየ ዎርቃፈ ናምኡ ማራ ምስለታ መድ፥ አሳኮ፥ “ህንተ ህዛፐ የሩሳላመ ቡሳይ ግዳና። ህንተኖ እስራኤለ አሳዉ፥ ሄኮ፥ ህንተና ግብፀፈ ከስዳ ህንተ ፆሳት ሀይሳታ!” ያግስ። <verse eid="1KI 12:28"/><verse number="29" style="v" sid="1KI 12:29"/>ኤንታፈ እሱዋ ቤተለን፥ እሱዋ ዳነን ዎስ። <verse eid="1KI 12:29"/><verse number="30" style="v" sid="1KI 12:30"/>ሀ ሀኖታይ ኤንታዉ ናጋራ ግድስ፤ አሳይ ሄ ማራ ምስልያ ጎይናናዉ ዳነ ጋካናዉ ብዶሶና።<verse eid="1KI 12:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="1KI 12:31"/>እዮርባም ደረ ሁጰን ቃ ጎይኖ በሳታ ጊግስድ ሌወ ኮቸ ግዶና እፅኮካ ኦናካ ካህነ ኦድ ሹምስ። <verse eid="1KI 12:31"/><verse number="32" style="v" sid="1KI 12:32"/>ይሁዳን ቦንቸይሳዳ ሆስፑን አጌናን ታማነ እቻሻን ጋላሳን ባኣለ ቦንቻናዳ እዮርባም ቃማ ቃችድ ያርሾ ያርሽስ። እ ሀይሳዳ ሀንድ ቤተለ ብድ፥ ባ መዳ ማራ ምስልያስ ያርሾ ያርሽስ። ባ መዳ ቃ ጎይኖ በሳታን ካህነታ ቤተለን ሹምስ። <verse eid="1KI 12:32"/><verse number="33" style="v" sid="1KI 12:33"/>እ ባ ሁጰን ዶርዳ ሆስፑን አጌናን፥ ታማነ እቻሻን ጋላስ ቤተለ ብድ ሄ ጋላሳይ እስራኤለ አሳስ ባኣለ ግዳና መላ አዋጅስ። እፃነ ጩይሳናዉ ያርሾ በሳ ከይስ።<verse eid="1KI 12:33"/></para>
+  <chapter eid="1KI 12"/>
+  <chapter number="13" style="c" sid="1KI 13"/>
+  <para style="s1">ይሁዳፐ ይዳ ናበ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 13:1"/>ሄኮ፥ እዮርባም ያርሾ ሺሻናዉ ያርሾ በሳ ማታን ኤቅዳሽን፥ ጎዳይ ኪትዳ፥ ፆሳ አስ ግድዳ እስ ናበይ ይሁዳፐ ይስ። <verse eid="1KI 13:1"/><verse number="2" style="v" sid="1KI 13:2"/>ጎዳይ ኪትን ሄ ያርሾ በሳ ቦላ ሀይሳዳ ያግድ ዋስስ፤ “ያርሾ በሳዉ፥ ያርሾ በሳዉ፥ ጎዳይ ኔኮ ያጌስ። ሄኮ፥ ዳዊታ ኬስ እዮስያሳ ጌተትያ እስ ናእ የለታና። ሄ ናአይ ሀእ ሀይሳን ቃ ያርሾ በሳን ያርሽሸ ደእያ ካህነታ ነ ቦላ ያርሻና፤ አሳ መቀ ነ ቦላ ፁጋና” ያግስ። <verse eid="1KI 13:2"/><verse number="3" style="v" sid="1KI 13:3"/>ሄ ጋላስ ፆሳ አደይ ሀይሳዳ ያግድ ማላታ እሚስ፤ “ጎዳይ ኦድዳ ማላታይ ሀይሳ፤ ሄኮ፥ ሀ ያርሾ በሳይ ጳልቀታና፤ እያ ቦላ ደእያ ብዶይ ላለታና” ያግስ።<verse eid="1KI 13:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="1KI 13:4"/>ካዎይ እዮርባም ፆሳ አደይ ቤተለን ደእያ ያርሾ በሳ ቦላ ዋስዳ ዋሱዋ ስእዳ ዎደ ያርሾ በሳፈ ባ ኩሽያ ማልድ፥ “ሄ አድያ ኦይክተ!” ያግስ። ሽን እ፥ አድያ ማልዳ ኩሸይ በሳን መልድ አትን፥ ባ ኩሽያ ጉየ ዛሪድ ኤካናዉ ዳንዳእቤና። <verse eid="1KI 13:4"/><verse number="5" style="v" sid="1KI 13:5"/>ፆሳ አደይ ጎዳ ቃላን እምዳ ማላታን ያርሾ በሳይ ጳልቀትድ ዎን፥ እያ ቦላ ደእያ ብዶይካ ላለትስ። <verse eid="1KI 13:5"/><verse number="6" style="v" sid="1KI 13:6"/>ካዎይ እዮርባም ፆሳ አድያ፥ “ታ ኩሸይ ካሰይሳዳ ሀናና መላ ታዉ ጋናታ፤ ጎዳ ነ ፆሳ ዎሳ” ያግስ። ፆሳ አደይ ካዋስ ጋናትድ ጎዳ ዎስን፥ ካዋ ኩሸይ ስሚድ ካሰይሳዳ ሀንስ።<verse eid="1KI 13:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="1KI 13:7"/>ካዎይ ናብያኮ፥ “ታራ ታ ሶ የ፤ ካ ማ፤ ታ ነዉ እሞታ እማና” ያግስ።<verse eid="1KI 13:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="1KI 13:8"/>ሽን ፆሳ አደይ፥ “ሀር አቶሽን ኔኒ ነ አቁዋፐ ባጋ ታዉ እምያኮካ፥ ታኒ ኔራ ቢከ፤ ሀይሳን ካ ሚከ፥ ሃ ኡይከ። <verse eid="1KI 13:8"/><verse number="9" style="v" sid="1KI 13:9"/>ጎዳ ቃላይ፥ ‘ኔኒ ካ ሞፓ፥ ሃ ኡዮፓ፥ ነ ይዳ ኦግያራ ስማዳ ቦፓ’ ያግስ ግድ ካዋስ ዛርስ።” <verse eid="1KI 13:9"/><verse number="10" style="v" sid="1KI 13:10"/>ሄሳ ግሾ፥ እ ሀራ ኦገራ ብስ፤ እ ቤተለ ይዳ ኦግያራ ስሚድ ብቤና።<verse eid="1KI 13:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="1KI 13:11"/>ሄ ዎደ ቤተለን እስ ጭማ ናበይ ደኤስ። ሄ ጋላስ ፆሳ አደይ ቤተለን ኦዳባ ኡባ ሄ ጭማ አድያ ናይት ይድ እያዉ ኦድዶሶና። ቃስ ሄ አደይ ካዋስ ኦድዳ ቃላ ኤንቲ ባንታ አዋስ ኦድዶሶና። <verse eid="1KI 13:11"/><verse number="12" style="v" sid="1KI 13:12"/>አዋይ፥ “እ አዉ ባጋራ ብዴ?” ያግን፥ ይሁዳፐ ይዳ ፆሳ አደይ ብዳ ኦግያ ማልዶሶና። <verse eid="1KI 13:12"/><verse number="13" style="v" sid="1KI 13:13"/>እ ባ ናይታኮ “ታዉ ኤለ ሀረ ኮርተ” ያግን፥ ኤንቲ እያዉ ሀረ ኮርን ቶግስ። <verse eid="1KI 13:13"/><verse number="14" style="v" sid="1KI 13:14"/>ፆሳ አድያ ጌዶ ካልድ ብስ። እስ ዎላ ኩያን ኡትዳይሳ ደምድ፥ “ይሁዳፐ ይዳ ፆሳ አደይ ነኔ?” ያግድ ኦይችስ።</para>
+  <para style="p" vid="1KI 13:14">አደይ፥ “ኤ ታና” ያግስ።<verse eid="1KI 13:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="1KI 13:15"/>ጭማ ናበይ፥ “ካ ማናዉ ታራ ታ ሶ የ” ያግስ።<verse eid="1KI 13:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="1KI 13:16"/>ፆሳ አደይ ዛሪድ፥ “ታኒ ጉየ ስማዳ ኔራ ባናዉ ዎይኮ ሀ በሳን ኔራ ካ ማናዉ ዎይኮ ሃ ኡያናዉ ዳንዳእከ። <verse eid="1KI 13:16"/><verse number="17" style="v" sid="1KI 13:17"/>ጎዳ ቃላይ ታኮ ‘ኔኒ ሄ በሳን ካ ሞፓ፥ ሃ ኡዮፓ፥ ነ ይዳ ኦግያራ ስማዳ ቦፓ’ ያግስ” ያግስ።<verse eid="1KI 13:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="1KI 13:18"/>ጭማ ናበይ፥ “ታካ ኔዳ ናበ። ጎዳይ ኪትዳ ኪታንቾይ ታኮ፥ ‘ካ ማና መላነ ሃ ኡያና መላ እያ ዛራዳ ኔራ ነ ሶ ኤካዳ ያ’ ” ያግስ። ሽን ጭማ አደይ እያዉ ዎርዶ ኦድስ። <verse eid="1KI 13:18"/><verse number="19" style="v" sid="1KI 13:19"/>ሄሳ ግሾ፥ ፆሳ አደይ ስሚድ እያራ እያ ሶ ብድ ምስነ ኡይስ።<verse eid="1KI 13:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="1KI 13:20"/>ኤንቲ ጋይታ ቦላ ኡትዳሽን፥ ጎዳ ቃላይ እያ ጉየ ዛርዳ ኤህዳ ጭማ ናብያኮ ይስ። <verse eid="1KI 13:20"/><verse number="21" style="v" sid="1KI 13:21"/>ይሁዳፐ ይዳ ፆሳ አድያስ ባ ቃላ ቁ ኦድ፥ “ጎዳይ ሀይሳዳ ያጌስ፤ ‘ኔኒ ጎዳ ቃላ ኪተታባካ፤ ጎዳይ ነ ፆሳይ ነና ኪትዳ ኪታ ናጋባካ። <verse eid="1KI 13:21"/><verse number="22" style="v" sid="1KI 13:22"/>ሄ በሳን ሞፓ ዎይኮ ኡዮፓ’ ግዳ በሳ ጉየ ስማዳ ያን ካ ማዳሳ፤ ሃ ኡያዳሳ። ህዛ ነ አሀይ ነ አዋታ ዱፎን ሞገተና” ያግስ።<verse eid="1KI 13:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="1KI 13:23"/>ፆሳ አደይ ምድ ኡይድ ስምን እያ ጉየ ዛሪድ ኤህዳ ጭማ ናበይ ባ ሀርያ እያዉ ኮርስ። <verse eid="1KI 13:23"/><verse number="24" style="v" sid="1KI 13:24"/>እ ኦግያ ብሽን ጋሞይ ከይድ እያ ዎን፥ አሀይ ኦግያን ኩንድስ፤ ሀረይነ ጋሞይ ናምአይ አሀ ማታን ኤቅዶሶና። <verse eid="1KI 13:24"/><verse number="25" style="v" sid="1KI 13:25"/>ሄኮ፥ ሄ ኦግያራ አያ አሳይ አህ ኦገን ኩንድዳይሳነ ጋሞይ አሀ ማታን ኤቅድይሳ በእድ፥ ብድ ጭማ ናበይ ደእያ ካታማን ኦድዶሶና።<verse eid="1KI 13:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="1KI 13:26"/>እያ ጉየ ዛርዳ ጭማ ናበይ ሄሳ ስእዳ ዎደ ሀይሳዳ ያግስ፤ “ሄስ ጎዳ ቃላስ ኪተቶና እፅዳ ፆሳ አድያ። ጎዳ ቃላይ እያዉ ኮይሮትድ ኦድዳይሳዳ ጎዳይ ጋሞን እያ ጋስ፤ ያትን፥ ጋሞይ እያ መንረድ ዎስ” ያግስ።<verse eid="1KI 13:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="1KI 13:27"/>ሄሳፈ ጉየ፥ ጭማ ናበይ ባ ናይታ፥ “ታዉ ሀረ ኮርተ” ያግን ኤንቲ እያዉ ሀረ ኮርዶሶና። <verse eid="1KI 13:27"/><verse number="28" style="v" sid="1KI 13:28"/>እ ከይድ ብያ ዎደ ኦግያን ኩንድዳ አሀ፥ አሀ ማታን ኤቅዳ ሀርያነ ጋሙዋ ደምስ። ጋሞይ አሀ ምቤና ዎይኮ ሀርያ መንቤና። <verse eid="1KI 13:28"/><verse number="29" style="v" sid="1KI 13:29"/>ጭማ ናበይ ፆሳ አድያ አሀ ደንድ፥ ሀርያ ዞኮን ዎድ፥ ዬካናዉነ ሞጋናዉ ጉየ ባ ካታማ ኤክድ ብስ። <verse eid="1KI 13:29"/><verse number="30" style="v" sid="1KI 13:30"/>ባዉ ጊግስድ ዎዳ ዱፎን አሀ ሞግስ። እያዉ፥ “ታ እሻዉ ታሳ! ታ እሻዉ ታሳ!” ያግድ ዬክስ።<verse eid="1KI 13:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="1KI 13:31"/>እያ ሞግ ስሚድ ባ ናይታኮ ሀይሳዳ ያግስ፤ “ታ ሀይቅያ ዎደ ፆሳ አደይ ሞገትዳ ዱፎን ታና ሞግተ። ታ መቀ እያ መቀ ማታን ዎተ። <verse eid="1KI 13:31"/><verse number="32" style="v" sid="1KI 13:32"/>ቤተለ ካታማን ደእያ ያርሾ በሳ ቦላነ ሳማረ ካታማን ደእያ ቃ ጎይኖ በሳታ ቦላ ጎዳይ ኪትን፥ ሄ አደይ ዋስድ ኦድዳ ትንብተይ ቱማ ፖለታና” ያግስ።<verse eid="1KI 13:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="1KI 13:33"/>ሄስ ሀንንካ እዮርባም ባ ኢታ ኦግያፐ ስምቤና። ቃ ጎይኖ በሳታስ ሌወ ኮቸ ግዶና ኦናካ ካህነ ኦድ ሹምስ። ካህነ ግዳናዉ ኮይያ ኦናካ ቃ ጎይኖ በሳን ሹሜስ። <verse eid="1KI 13:33"/><verse number="34" style="v" sid="1KI 13:34"/>እዮርባማ ኬ አሳ ይሳናዉነ ቢታ ቦላፈ ቁቻናዉ ጋዳ ናጋራይ ሄሳ።<verse eid="1KI 13:34"/></para>
+  <chapter eid="1KI 13"/>
+  <chapter number="14" style="c" sid="1KI 14"/>
+  <para style="s1">አክያ ትንብተ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 14:1"/>ሄ ዎደ እዮርባማ ናአይ አብይ ሀርገትስ። <verse eid="1KI 14:1"/><verse number="2" style="v" sid="1KI 14:2"/>እዮርባም ባ ማችዉ፥ “ደንዳ፤ ኔኒ እዮርባማ ማቾ ግደይሳ ኦንካ ኤሮና መላ ነ ማኡዋ ላማዳ ሴሎ ባ። ሄኮ፥ ታኒ ሀ አሳ ቦላ ካዎታናይሳ ታዉ ኦድዳ ናበይ አክይ ያን ደኤስ። <verse eid="1KI 14:2"/><verse number="3" style="v" sid="1KI 14:3"/>ታሙ ኡይ፥ ጉ ዳቦነ እስ ኦቶ ኤስ እያዉ ኤካዳ ባ። ሀ ሀርግዳ ናአባ እ ነዉ ኦዳና” ያግስ።<verse eid="1KI 14:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="1KI 14:4"/>እዮርባማ ማችያ እ ግዳይሳዳ ኦዳ አክያ ሶ ሴሎ ባሱ። አክይ ጭምዳ ግሾ እያ አይፈይ ፄላናዉ ዳንዳኤና። <verse eid="1KI 14:4"/><verse number="5" style="v" sid="1KI 14:5"/>ሽን ጎዳይ አክያኮ፥ “ሄኮ፥ እዮርባማ ማችያ ሀርገትዳ ባ ናአባ ኦይቻናዉ ኔኮ ያዉሱ። ኔኒ እዉ ሀይሳ ሀይሳ ያጋዳ ኦዳ። እያ ኔኮ ጋክያ ዎደ ሀራ ማጫስ ዳናና” ያግስ።<verse eid="1KI 14:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="1KI 14:6"/>አክይ ፐንገን ቶሆ ግርስ ስእድ ሀይሳዳ ያግስ፤ “እዮርባማ ማቸ፥ አነ ሃ ገላ። ኔኒ አይስ ሀይሳ መላ ሀራ አስ ዳናዲ? ታኒ ኢታ ኪታ ነዉ ኦዳና። <verse eid="1KI 14:6"/><verse number="7" style="v" sid="1KI 14:7"/>ኔኒ እዮርባማኮ ባዳ፥ ጎዳይ እስራኤለ ፆሳይ ሀይሳዳ ያጌስ ያጋ፤ ‘ታኒ ነና አሳ ግዶፈ ቁ ኦስ፤ ታ አሳ እስራኤለ ቦላ ነና ካዎስ። <verse eid="1KI 14:7"/><verse number="8" style="v" sid="1KI 14:8"/>ዳዊታ ኮቻፈ ካዎተ ኤካዳ ነዉ እማስ፤ ሽን ኔኒ ታ አይልያ ዳዊታ መላ ግዳካ። እ ታ ኪታ ናግስ፤ ታ ስንን ሱረባ ፃላላ ኦሸ ባ ኩመ ዎዛናን ታና ካልስ። <verse eid="1KI 14:8"/><verse number="9" style="v" sid="1KI 14:9"/>ኔፐ ካሰ ደእያ ኡባይ ኦዳይሳፈ አያ ኢታባ ኔኒ ኦዳሳ። ኔኒ ነዉ ሀራ ፆሳታነ ብራፐ መዳ ኤቃታ መዳሳ። ያታዳ ታና ሀንቀዳሳ፤ ታዉ ዞኮ ዛራዳሳ። <verse eid="1KI 14:9"/><verse number="10" style="v" sid="1KI 14:10"/>ሄሳ ግሾ፥ ታኒ እዮርባማ ኬ አሳ ቦላ ኢታባ ኤሀና። እስራኤለ ቢታን እዮርባማ ኬ አሳፐ አይለ ግድን ዎማኖ እስ አደካ አሾና ይሳና። ከምኤለይ ታማን ፁገትድ ዉረይሳዳ ታኒ እዮርባማ ኬ ፁጋዳ ዉርሳና። <verse eid="1KI 14:10"/><verse number="11" style="v" sid="1KI 14:11"/>እዮርባማ ኮቸ ግድድ ካታማን ሀይቅያ ኦናካ ካናት ማና፤ ጋፃረን ሀይቀይሳታ ሳሎ ካፎት ማና። ታኒ ጎዳይ ሀይሳ ኦዳስ!’ ” ያግስ።<verse eid="1KI 14:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="1KI 14:12"/>እዮርባማ ማቸኮ፥ “ኔኒ ደንዳዳ ነ ሶ ባ። ነ ቶሆይ ካታማ ገልያ ዎደ ናአይ ሀይቃና። <verse eid="1KI 14:12"/><verse number="13" style="v" sid="1KI 14:13"/>እስራኤለ ኡባይ ናኣስ ዬክድ ሞጋና። እዮርባማ ኬን ጎዳ እስራኤለ ፆሳ ስንን እያን ሎኦባይ በንትዳ ግሾ፥ እዮርባማ ኬፈ እያ ፃላል ሞገታና። <verse eid="1KI 14:13"/><verse number="14" style="v" sid="1KI 14:14"/>ቃስ እዮርባማ ኬ ይስያ ካዎ ጎዳይ ባዉ እስራኤለ ቦላ ደንና። <verse eid="1KI 14:14"/><verse number="15" style="v" sid="1KI 14:15"/>ጎዳይ እስራኤለ ሾጫና፤ ሃ ግዶን ማይረይ ቃፀይሳዳ ጎዳይ ሄ ዎደ እስራኤለ ቃና። አሼራ ጌተትያ ፆሰ ምስለ ኤስድ፥ ጎዳ ሀንቀዳ ግሾ፥ ኤንታ አዋታስ እ እምዳ ሎኦ ቢታፈ ኤንታ ሾዳና፤ ኤንታ ኤፍራፂሳ ሻፋፐ ሄፍንን ላላና። <verse eid="1KI 14:15"/><verse number="16" style="v" sid="1KI 14:16"/>እዮርባም ኦዳ ናጋራ ግሾነ እስራኤለ አሳ ናጋራ ኦስስዳ ግሾ ጎዳይ እስራኤለ አጋና” ያግስ።<verse eid="1KI 14:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="1KI 14:17"/>እዮርባማ ማችያ ባዳ ትርሳ ጋካዳ፥ ፐንገ የያ ዎደ ናአይ ሀይቅስ። <verse eid="1KI 14:17"/><verse number="18" style="v" sid="1KI 14:18"/>ባ አይልያ ናብያ አክያ ባጋራ ጎዳይ ኦድዳይሳዳ እያ ሞግዶሶና፤ እስራኤለ አሳ ኡባይ እያዉ ዬክዶሶና።<verse eid="1KI 14:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="1KI 14:19"/>እዮርባም ኦዳ ሀራባይ፥ እ ኦለትዳ ኦላይነ እያ አይሶ ማራይ፥ ሄኮ፥ እስራኤለ ካዎታ ታርከ ማፃፋን ፃፈትድ ደኤስ። <verse eid="1KI 14:19"/><verse number="20" style="v" sid="1KI 14:20"/>እዮርባም ላታማነ ናምኡ ላይ ካዎትድ ሀይቅስ። እያ በሳን እያ ናአይ ናዳብ ካዎትስ።<verse eid="1KI 14:20"/></para>
+  <para style="s1">ይሁዳ ካዋ ሮብኣማ</para>
+  <para style="r">(<ref loc="2CH 11:5-12:15">2 ታር 11:5—12:15</ref>)</para>
+  <para style="p">
+    <verse number="21" style="v" sid="1KI 14:21"/>ሶሎሞነ ናአይ ሮብኣም ይሁዳን ካዎትስ፤ ሮብኣም ካዎትያ ዎደ እያዉ ላይ ኦይታማነ እስኖ። ጎዳይ ባ ሱንይ ፄገታና መላ እስራኤለ ኮቻታ ቢታ ኡባ ግዶፈ ዶርዳ የሩሳላመ ካታማን፥ ሮብኣም ታማነ ላፑን ላይ ካዎትስ። እያ አየ ሱንይ ናእሞ፤ እያ አሞነ ቢታ አስ። <verse eid="1KI 14:21"/><verse number="22" style="v" sid="1KI 14:22"/>ይሁዳ አሳይ ጎዳ ስንን ኢታባ ኦዶሶና። ባንታ ኦዳ ናጋራን ባንታ አዋታፐ አድ ጎዳ ሀንቀዶሶና። <verse eid="1KI 14:22"/><verse number="23" style="v" sid="1KI 14:23"/>ቃስ ኤንቲ ቃ ጎይኖ በሳታ፥ ኤቃ ሹቻታነ አሼሮ ጌተትያ ፆሰ ምስለታ ደረ ቦላነ እርፃ ምታ ጋርሳን ኤስዶሶና። <verse eid="1KI 14:23"/><verse number="24" style="v" sid="1KI 14:24"/>ሀር አቶሽን፥ ኤንታ ቃ ጎይኖ በሳን፥ ጎይኖ ዎጋ ኦድ አደይ አደራ ጋሄቴስ። ጎዳይ እስራኤለ ስንፈ ከስዳ ካዎተት ኦያ እፀትዳ ኦሶታ ኡባ እስራኤለ አሳይ ኦዶሶና።<verse eid="1KI 14:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="1KI 14:25"/>ሮብኣም ካዎትዳ እቻሻን ላይን ግብፀ ካዎይ ሽሻቅ የሩሳላመ ካታማ ቦላ ኦላ ደንስ። <verse eid="1KI 14:25"/><verse number="26" style="v" sid="1KI 14:26"/>ፆሳ ኬነ ካዎ ጋን ደእያ ሻሉዋ፥ ሶሎሞነይ ቆፅስዳ ዎርቃ ጎንዳለታ ኡባ ቦንቅድ ኤክስ። <verse eid="1KI 14:26"/><verse number="27" style="v" sid="1KI 14:27"/>ያትን፥ ካዎይ ሮብኣም ሄ ጎንዳለታ ግሾ ናሰ ብራታፐ ሀራ ጎንዳለታ ኦስስስ። ኤንቲ ናገታና መላ ካዎ ጋ ፐንግያ ናገይሳታ ሀላቃታስ እሚስ። <verse eid="1KI 14:27"/><verse number="28" style="v" sid="1KI 14:28"/>ካዎይ ፆሳ ኬ ብያ ዎደ ናገይሳት ጎንዳለታ ኦይኮሶና፤ እ ስሚድ ብያ ዎደ ኤንቲ ዛሪድ ናገይሳታ ኬን ዎሶና።<verse eid="1KI 14:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="1KI 14:29"/>ሮብኣም ሀንዳ ሀራባይነ እ ኦዳ ኡባይ ይሁዳ ካዎታ ታርከ ማፃፋን ፃፈትስ። <verse eid="1KI 14:29"/><verse number="30" style="v" sid="1KI 14:30"/>ሮብኣምነ እዮርባም ኡባ ዎደ ኦላን ደእዶሶና። <verse eid="1KI 14:30"/><verse number="31" style="v" sid="1KI 14:31"/>ሮብኣም ሀይቅድ ባ ማይዛታን ጋሄትስ፤ ዳዊታ ካታማን ደእያ ባ አዋታ ዱፎን ሞገትስ። እያ አየ ሱንይ ናእሞ፤ እያ አሞነ ቢታ አስ፤ ሮብኣማ በሳን እያ ናአይ አብይ ካዎትስ።<verse eid="1KI 14:31"/></para>
+  <chapter eid="1KI 14"/>
+  <chapter number="15" style="c" sid="1KI 15"/>
+  <para style="s1">ይሁዳ ካዋ አብያ</para>
+  <para style="r">(<ref loc="2CH 13:1-14:1">2 ታር 13:1—14:1</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 15:1"/>ናባፃ ናአይ እዮርባም ካዎትዳ ታማነ ሆስፑን ላይን አብይ ይሁዳን ካዎትስ። <verse eid="1KI 15:1"/><verse number="2" style="v" sid="1KI 15:2"/>አብይ የሩሳላመን ሄ ላይ ካዎትስ። እያ አይያ አበሰሎመ ናአ፤ እ ሱንይ ማእኮ። <verse eid="1KI 15:2"/><verse number="3" style="v" sid="1KI 15:3"/>እያፐ ካሰ፥ እያ አዋይ ኦዳ ናጋራ ኡባ ኦስ። እያ ዎዛናይ እያ አዋ አዋይ ዳዊታ ዎዛናይ ፖሎ ግድዳይሳዳ ጎዳ፥ ባ ፆሳ ስንን ፖሎ ግደና። <verse eid="1KI 15:3"/><verse number="4" style="v" sid="1KI 15:4"/>ግዶሽን፥ እያፐ ጉየ የሩሳላመን ካዎታና መላነ የሩሳላመ ሳሮተ ናጋና መላ ጎዳይ እያ ፆሳይ፥ ዳዊታ ግሾ አብያስ እስ አደ ናኣ እሚስ። <verse eid="1KI 15:4"/><verse number="5" style="v" sid="1KI 15:5"/>ጎዳይ ሄሳ ኦዳይ፥ ዳዊቲ ህተ አድያ ኦርዮና ቦላ ናጋራ ኦዳይሳፈ አትሽን፥ ባ ደኦ ላይ ኡባን ጎዳ ኪታፐ እስባካ ባልቤና። <verse eid="1KI 15:5"/><verse number="6" style="v" sid="1KI 15:6"/>አብይ ደእዳ ላይ ኡባን ሮብኣምነ እዮርባም ኦለትሸ ደእዶሶና።<verse eid="1KI 15:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="1KI 15:7"/>አብይ ሀንዳ ሀራባይነ እ ኦዳባ ኡባይ ይሁዳ ካዎታ ታርከ ማፃፋን ፃፈትስ። አብይነ እዮርባም ኦለትሸ ደእዶሶና። <verse eid="1KI 15:7"/><verse number="8" style="v" sid="1KI 15:8"/>አብይ ሀይቅድ ባ ማይዛታን ጋሄትስ፤ እ ዳዊታ ካታማን ሞገትስ፤ እያ በሳን እያ ናአይ አስ ካዎትስ።<verse eid="1KI 15:8"/></para>
+  <para style="s1">ይሁዳ ካዋ አሳ</para>
+  <para style="r">(<ref loc="2CH 15:16-16:6">2 ታር 15:16—16:6</ref>)</para>
+  <para style="p">
+    <verse number="9" style="v" sid="1KI 15:9"/>እስራኤለ ካዎይ እዮርባም ካዎትዳ ላታማን ላይን አስ ይሁዳን ካዎትስ። <verse eid="1KI 15:9"/><verse number="10" style="v" sid="1KI 15:10"/>አስ የሩሳላመን ኦይታማነ እስ ላይ ካዎትስ። እያ ዎጋ አየ ሱንይ ማእኮ፤ እያ አበሰሎመ ናአ። <verse eid="1KI 15:10"/><verse number="11" style="v" sid="1KI 15:11"/>አስ ባ ማይዛይ ዳዊቲ ኦዳይሳዳ፥ ጎዳ ስንን ሱረባ ኦስ። <verse eid="1KI 15:11"/><verse number="12" style="v" sid="1KI 15:12"/>ጎይኖ ዎጋ ኦድ አደይ አደራ ላይማተሳታ አስ ቢታፈ ይስስ። እያፐ ካሰ ደእያ ካዎት መዳ ኤቃ ምስለታ ኡባ መንረስ። <verse eid="1KI 15:12"/><verse number="13" style="v" sid="1KI 15:13"/>እያ ዎጋ አይያ ማእካ አሼራ ጌተትያ ፆሴስ ቱና ኤቃ ምስለ መዳ ግሾ፥ ካዎ አዮ ጌተትያ ቦንቾ በሳፈ እዮ ድግስ። አስ ሄ ኤቃ ምስልያ ቃንፀረድ ቀድሮና ዛንጋራን ፁግስ። <verse eid="1KI 15:13"/><verse number="14" style="v" sid="1KI 15:14"/>አስ ቃ ጎይኖ በሳታ ኡባ ይሶና አግኮካ፥ እ ባ ደእዳ ላይ ኡባን ፆሳስ አማነትያ አስ ግድድ ደእስ። <verse eid="1KI 15:14"/><verse number="15" style="v" sid="1KI 15:15"/>እነ እያ አዋይ ፆሳስ ዱማይድ ዎዳ ብራ፥ ዎርቃነ ሀራ ሚሸታ ኤህድ፥ ፆሳ ኬን ዎስ።<verse eid="1KI 15:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="1KI 15:16"/>ይሁዳ ካዎይ አስነ እስራኤለ ካዎይ ባኦስ፥ ባንታ ላይ ኡባን ኦላን ደእዶሶና። <verse eid="1KI 15:16"/><verse number="17" style="v" sid="1KI 15:17"/>እስራኤለ ካዎይ ባኦስ ይሁዳ ቦላ ደንድድ፥ ይሁዳ ካዋ አሳ ቢታፈ ኦንካ ገሎና መላነ ከዮና መላ ተቃናዉ ራማ ዩሹዋ ግምብስ።<verse eid="1KI 15:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="1KI 15:18"/>ሄሳ ጋሶን ካዎይ አስ ፆሳ ኬንነ ካዎ ጋን ደእያ ዎርቃነ ብራ ኡባ ከስድ ባ ሞርናታ ኩሸን ዎስ። ሄዝዮና ናኣ ናኣ፥ ፃብርሞና ናኣስ፥ ዳማስቆን ደእያ አራመ ካዋ በን-ሀዳዳ እሞታ ኦድ የድሸ ሀይሳዳ ያግስ፤ <verse eid="1KI 15:18"/><verse number="19" style="v" sid="1KI 15:19"/>“ካሰ ታ አዋራነ ነ አዋራ ጫቅዳይሳዳ፥ አነ ታራነ ኔራ ጫቆስ። ሄኮ፥ ታኒ ሀ ብራነ ዎርቃ ታኒ ነዉ እሞታ ኦዳ የዳስ። እስራኤለ ካዎይ ባኦስ ባ ኦላንቾታ ታ ቢታፈ ከሳና መላ ኔኒ ካሰ እያራ ጫቅዳ ጫቁዋ መን” ያግስ።<verse eid="1KI 15:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="1KI 15:20"/>በን-ሀዳድ ካዎይ አስ ግዳይሳ ኤክድ፥ ባ ቶራ ሞጮናታ እስራኤለ ካታማታ ኦላናዉ የድስ። ኤንቲ እዮና፥ ዳነነ አቤል-ቤት-ማእካ ካታማታ፥ ጋልላ አባ ማታን ደእያ ቢታነ ንፍታለመ ቢታራ ጋድ ኦይክዶሶና። <verse eid="1KI 15:20"/><verse number="21" style="v" sid="1KI 15:21"/>ካዎይ ባኦስ ሄሳ ስእድ፥ ራማ ግምበይሳ አግድ ትርሳ ብስ።<verse eid="1KI 15:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="1KI 15:22"/>ሄሳፈ ጉየ ካዎይ አስ ይሁዳን ደእያ አሳ ኡባ ኪትን፥ እሶይካ አቶና ደንድድ፥ ባኦስ ያን ጎኤትያ ሹቻነ ም ራማፐ ጋዝዶሶና። ካዎይ አስ ምፅጳንነ ብንያመን ደእያ ግብአ ግምብስ።<verse eid="1KI 15:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="1KI 15:23"/>አስ ሀንዳ ሀራባይ፥ እያ ምኖተይ ኡባይ፥ እ ኦዳባ ኡባይነ እ ኬፅዳ ካታማት ይሁዳ ካዎታ ታርከ ማፃፋን ፃፈትስ። ሽን እ ጭምዳ ዎደ ባ ቶሁዋ ሳከትስ። <verse eid="1KI 15:23"/><verse number="24" style="v" sid="1KI 15:24"/>አስ ሀይቅድ፥ ባ ማይዛታን ጋሄትድ ባ ማይዛ ዳዊታ ካታማን ሞገትስ። እያ ናአይ እዮሳፈፅ እያ በሳን ካዎትስ።<verse eid="1KI 15:24"/></para>
+  <para style="s1">እስራኤለ ካዋ ናዳባ</para>
+  <para style="p">
+    <verse number="25" style="v" sid="1KI 15:25"/>ይሁዳ ካዎይ አስ ካዎትዳ ናምአን ላይን እዮርባማ ናአይ ናዳብ እስራኤለን ካዎትስ፤ እ እስራኤለ ቢታን ናምኡ ላይ ካዎትስ። <verse eid="1KI 15:25"/><verse number="26" style="v" sid="1KI 15:26"/>ናዳብ ካሰ ባ አዋ ኦግያንነ እስራኤለ አሳ ኦስስዳ እያ ናጋራ ኦግያን ሄመትድ ጎዳ ስንን ኢታባ ኦስ።<verse eid="1KI 15:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="1KI 15:27"/>ይሳኮራ ኮቸ ግድዳ አክያ ናአይ ባኦስ ናዳባ ቦላ ማቀትስ። ሄ ዎደ ናዳበይነ እያ ኦላንቾት ፍልስፄመን ደእያ ግባቶና ካታማ ዩሾን ደኦሶና። <verse eid="1KI 15:27"/><verse number="28" style="v" sid="1KI 15:28"/>ይሁዳ ካዎይ አስ ካዎትዳ ሄን ላይን ባኦስ ናዳባ ዎድ እያ በሳን እ ባዉ ካዎትስ። <verse eid="1KI 15:28"/><verse number="29" style="v" sid="1KI 15:29"/>ባኦስ ካዎቶ ዶምዳ መላ እዮርባማ ሶ አሳ ኡባ ዎድ ዉርስስ። ጎዳይ ሴሎፐ ይዳ ባ አይልያ፥ ናብያ አክያ ባጋራ ኦድዳይሳዳ እዮርባማ ኬ አሳ ኡባይ ሀይቅ ዉርስ። <verse eid="1KI 15:29"/><verse number="30" style="v" sid="1KI 15:30"/>ሄስ ሀንዳይ፥ እዮርባም ባ ሁጰን ኦዳ ናጋራንነ እስራኤለ አሳ እ ኦስስዳ ናጋራን ጎዳ እስራኤለ ፆሳ ሀንቀዳ ግሾሳ።<verse eid="1KI 15:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="1KI 15:31"/>ናዳብ ሀንዳ ሀራባይነ እ ኦዳባ ኡባይ እስራኤለ ካዎታ ታርከ ማፃፋን ፃፈትስ። <verse eid="1KI 15:31"/><verse number="32" style="v" sid="1KI 15:32"/>ይሁዳ ካዎይ አስነ እስራኤለ ካዎይ ባኦስ ባንታ ካዎተ ላይ ኡባን ኦለትዳ መላ ደእዶሶና።<verse eid="1KI 15:32"/></para>
+  <para style="s1">እስራኤለ ካዋ ባኦሳ</para>
+  <para style="p">
+    <verse number="33" style="v" sid="1KI 15:33"/>ይሁዳ ካዎይ አስ ካዎትዳ ሄን ላይን አክያ ናአይ ባኦስ እስራኤለ ቦላ ካዎትስ፤ እ ትርሳ ካታማን ኡትድ ላታማነ ኦይዱ ላይ ካዎትስ። <verse eid="1KI 15:33"/><verse number="34" style="v" sid="1KI 15:34"/>እዮርባም እስራኤለ አሳ ናጋራ ኦስስዳይሳዳ እካ ሄ ኦግያን ሄመትድ ጎዳ ስንን ኢታባ ኦስ።<verse eid="1KI 15:34"/></para>
+  <chapter eid="1KI 15"/>
+  <chapter number="16" style="c" sid="1KI 16"/>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 16:1"/>ሀናና ናኣ ግድዳ፥ እዩ ባጋራ ጎዳ ቃላይ ባኦሳባ ሀይሳዳ ያግስ፤ <verse eid="1KI 16:1"/><verse number="2" style="v" sid="1KI 16:2"/>“ታኒ ነና ባናፐ ደንዳ ታ አሳ እስራኤለ ቦላ ሀላቃ ኦስ፤ ሽን ኔኒ እዮርባማ ኦግያን ሄመታዳሳ። ቃስ ታ አሳ እስራኤለ ናጋራ ኦስሳዳ ኤንታ ናጋራን ታና ሀንቀዳሳ። <verse eid="1KI 16:2"/><verse number="3" style="v" sid="1KI 16:3"/>ሄኮ፥ ታኒ ባኦሳነ እያ ሶ አሳ ፕታና ሀናይስ። ባኦሳ፥ ታኒ ነ ሶ አሳ ናባፃ ናኣ እዮርባማ ሶ አሳዳ ኦና። <verse eid="1KI 16:3"/><verse number="4" style="v" sid="1KI 16:4"/>ባኦሳ ኮቸ ግድድ ካታማን ሀይቅያ ኦናካ ካን ማና፤ ቃስ ጋፃረን ሀይቅያ ኦናካ ሳሎ ካፎት ማና” ያግስ።<verse eid="1KI 16:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="1KI 16:5"/>ባኦስ ሀንዳ ሀራባይ፥ እ ኦዳባይነ እያ ምኖተይ እስራኤለ ካዎታ ታርከ ማፃፋን ፃፈትስ። <verse eid="1KI 16:5"/><verse number="6" style="v" sid="1KI 16:6"/>ባኦስ ሀይቅድ ባ ማይዛታን ጋሄትድ፥ ትርሳ ካታማን ሞገትስ። እያ ናአይ ኤል እያ በሳን ካዎትስ። <verse eid="1KI 16:6"/><verse number="7" style="v" sid="1KI 16:7"/>ጉጅድካ፥ ጎዳይ፥ ናብያ እዩ ባጋራ ባኦሳ ቦላነ እያ ሶ አሳ ቦላ ትንብተ ኦድዳ ጋሶይ፥ ባኦስ ኦዳ ናጋራ ግሾነ እዮርባምነ እያ ሶ አሳይ ኦዳይሳዳ ኢታባ ኦድ፥ ጎዳ ሀንቀዳ ግሾሳ። ቃስ እ እዮርባማ ሶ አሳ ኡባ ዎድ ዉርስዳ ግሾሳ።<verse eid="1KI 16:7"/></para>
+  <para style="s1">እስራኤለ ካዋ ኤላ</para>
+  <para style="p">
+    <verse number="8" style="v" sid="1KI 16:8"/>ይሁዳ ካዎይ አስ ካዎትዳ ላታማነ ኡሱፑን ላይን፥ ባኦሳ ናአይ ኤል እስራኤለን ካዎትስ። ትርሳ ካታማን ኡትድ ናምኡ ላይ ካዎትስ። <verse eid="1KI 16:8"/><verse number="9" style="v" sid="1KI 16:9"/>ካዋ ቶራ ሞጮናታፐ እሱዋ ግድድ፥ እያ ፓራ ጋረታፐ ባጋ ኪትያ ዝምር ካዋ ቦላ ማቀትስ። ካዎይ ኤል ሄ ዎደ ትርሳን ደእያ ካዎ ጋ አዋተን አይስያ አርፃ ሶን ማትድ ኡትስ። <verse eid="1KI 16:9"/><verse number="10" style="v" sid="1KI 16:10"/>ይሁዳ ካዎይ አስ ካዎትዳ ላታማነ ላፑን ላይን ዝምር፥ አርፃ ሶ ገልድ ካዋ ዎድ እያ በሳን ባዉ ካዎትስ።<verse eid="1KI 16:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="1KI 16:11"/>ዝምራ ካዎትዳ መላ ባኦሳ ሶ አሳ ኡባ ዎስ። ባኦስ ዳቦ ግድን ላገ ግድን እስ አደካ ፓፃ አሽቤና። <verse eid="1KI 16:11"/><verse number="12" style="v" sid="1KI 16:12"/>ናብያ እዩ ባጋራ ጎዳይ ባኦሳ ቦላ ኦድዳ ቃላዳ ዝምር ባኦሳ ሶ አሳ ኡባ ዎድ ይስስ። <verse eid="1KI 16:12"/><verse number="13" style="v" sid="1KI 16:13"/>ሄስ ሀንዳይ ባኦስነ እያ ናአይ ኤል ባንታ ኤቃ ጎይንድ ኦዳ ናጋራ ጋሶንነ እስራኤለ አሳ ኦስስዳ ናጋራ ጋሶን፥ ጎዳ እስራኤለ ፆሳ ሀንቀዳ ግሾሳ።<verse eid="1KI 16:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="1KI 16:14"/>ኤል ሀንዳ ሀራባይነ እ ኦዳባይ እስራኤለ ካዎታ ታርከ ማፃፋን ፃፈትስ።<verse eid="1KI 16:14"/></para>
+  <para style="s1">እስራኤለ ካዋ ዝምራ</para>
+  <para style="p">
+    <verse number="15" style="v" sid="1KI 16:15"/>ይሁዳ ካዎይ አስ ካዎትዳ ላታማነ ላፑን ላይን ዝምር ትርሳን ላፑን ጋላሳ ፃላላ ካዎትስ። ሄ ዎደ እስራኤለ ኦላንቾት ግባቶና ጌተትያ ፍልስፄመ ካታማ ዩሹዋ ተቅዶሶና። <verse eid="1KI 16:15"/><verse number="16" style="v" sid="1KI 16:16"/>እስራኤለ አሳይ ዝምሪ ካዋ ቦላ ማቀትድ እያ ዎዳይሳ ስእዳ ዎደ ቶራ ሞጮና ኦምራ ሄ ጋላስ ሄ በሳን እስራኤለ ካዎ ኦድ ካዎዶሶና። <verse eid="1KI 16:16"/><verse number="17" style="v" sid="1KI 16:17"/>ኦምርነ እስራኤለ አሳይ ግባቶናፐ ከይድ ትርሳ ካታማ ተቅዶሶና። <verse eid="1KI 16:17"/><verse number="18" style="v" sid="1KI 16:18"/>ካታማይ ኦይከትዳይሳ በእዳ ዎደ ዝምር ካዎ ጋ ግዶን ደእያ ግምብያ ገልድ ካዎ ጋ ታማን ኦይስ፤ እካ ሀይቅስ። <verse eid="1KI 16:18"/><verse number="19" style="v" sid="1KI 16:19"/>ሄስ ሀንዳይ እዮርባም ኦዳ ናጋራነ እስራኤለ አሳ ኦስስዳ ናጋራ ካልድ ዝምር ጎዳ ስንን ኢታባ ኦዳ ግሾሳ።<verse eid="1KI 16:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="1KI 16:20"/>ዝምር ሀንዳ ሀራባይነ እ ማቅዳ ማቆይ እስራኤለ ካዎታ ታርከ ማፃፋን ፃፈትስ።<verse eid="1KI 16:20"/></para>
+  <para style="s1">እስራኤለ ካዋ ኦምራ</para>
+  <para style="p">
+    <verse number="21" style="v" sid="1KI 16:21"/>ሄ ዎደ እስራኤለ አሳይ ናምኡ ከይድ ሻከትስ። አሳፐ ባጋይ ግናታ ናኣ ትብና ካዎናዉ ኮይን፥ ባጋይ ቃስ ኦምራ ካዎናዉ ኮይስ። <verse eid="1KI 16:21"/><verse number="22" style="v" sid="1KI 16:22"/>ሽን ኦምራ ማድያ አሳይ ግናታ ናኣ ትብና ማድያ አሳፐ ምንዳ ግሾ ትብን ሀይቅን ኦምር ካዎትስ።<verse eid="1KI 16:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="1KI 16:23"/>ይሁዳ ካዎይ አስ ካዎትዳ ሀስታማነ እስን ላይን፥ ኦምር እስራኤለ ቦላ ካዎትድ ታማነ ናምኡ ላይ ሃርስ፤ እያፐ ኡሱፑን ላይ ትርሳን ሃርስ። <verse eid="1KI 16:23"/><verse number="24" style="v" sid="1KI 16:24"/>ኦምር ሳማርያ ዙማ ሳምራ ጌተትያ አድያፈ 6,000 ብራ ሳንትመን ሻምድ፥ ያን ካታማ ኬፅስ። ሄ ካታማ ሄ ዙማ ጎዳ ሱንን ሳማረ ግድ ሱንስ።<verse eid="1KI 16:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="1KI 16:25"/>ሽን ኦምር ጎዳ ስንን ኢታባ ኦስ፤ እ ካሰ ደእዳ ካዎታ ኡባፈ አድ ናጋራ ኦስ። <verse eid="1KI 16:25"/><verse number="26" style="v" sid="1KI 16:26"/>ኦምር ናባፃ ናአይ እዮርባም ኦዳ ናጋራነ እስራኤለ አሳ ኦስስዳ ናጋራ ካልስ፤ ሄ ፓና ኤቃ ጋሶን ጎዳ፥ እስራኤለ ፆሳ ሀንቀስ።<verse eid="1KI 16:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="1KI 16:27"/>ኦምር ሀንዳ ሀራባይ፥ እ ኦዳባይነ እያ ምኖተይ እስራኤለ ካዎታ ታርከ ማፃፋን ፃፈትስ። <verse eid="1KI 16:27"/><verse number="28" style="v" sid="1KI 16:28"/>ኦምር ሀይቅድ ባ ማይዛታን ጋሄትድ፥ ሳማረን ሞገትስ። እያ ናአይ አካብ እያ በሳን ካዎትስ።<verse eid="1KI 16:28"/></para>
+  <para style="s1">እስራኤለ ካዋ አካባ</para>
+  <para style="p">
+    <verse number="29" style="v" sid="1KI 16:29"/>ይሁዳ ካዎይ አስ ካዎትዳ ሀስታማነ ሆስፑን ላይን፥ ኦምራ ናአይ አካብ እስራኤለን ካዎትስ። ኦምራ ናአይ አካብ ሳማረን እስራኤለ ቦላ ላታማነ ናምኡ ላይ ካዎትስ። <verse eid="1KI 16:29"/><verse number="30" style="v" sid="1KI 16:30"/>ኦምራ ናአይ አካብ ባፐ ስን ካዎትዳ ካዎታ ኡባፈ አያ ኢታባ ጎዳ ስንን ኦስ። <verse eid="1KI 16:30"/><verse number="31" style="v" sid="1KI 16:31"/>ናባፃ ናአይ እዮርባም ኦዳ ናጋራ ላፋባ ግድ ቆፎ ፃላላ ግዶናሽን፥ ስዶና ካዋ ኤትባላ ናእዉ ኤልዛቤሎ ባዉ ማቾ ኤክድ፥ ባኣለ ኤቃስ ኦሶነ ጎይኖ ዶምስ። <verse eid="1KI 16:31"/><verse number="32" style="v" sid="1KI 16:32"/>ሳማረን እ ኬፅስዳ ባኣለ ኤቃ ኬን ያርሾ በሲ ኬፅስ። <verse eid="1KI 16:32"/><verse number="33" style="v" sid="1KI 16:33"/>ቃስ አካብ አሼራ ጌተትያ ፆሰ ምስልያ ኤስድ፥ ባፐ ስን ደእዳ ካዎታ ኡባፈ አድ ጎዳ እስራኤለ ፆሳ ሀንቀያ ናጋራ ኦስ።<verse eid="1KI 16:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="1KI 16:34"/>አካባ ካዎተ ዎደ ቤተለፐ ይዳ፥ ህኤላ አደይ እያርኮ ዛሪድ ኬፅስ። ናወ ናኣ እያሱ ባጋራ ጎዳይ ኦድዳይሳዳ፥ ህኤል እያርኮ ኬፃናዉ ባስያ ዎደ አቤሮ ጌተትያ ባይራ ናአይ ሀይቅስ። ቃስ ሳንቃ አያ ዎደ ሳጉባ ጌተትያ ካሎ ናአይ ሀይቅስ።<verse eid="1KI 16:34"/></para>
+  <chapter eid="1KI 16"/>
+  <chapter number="17" style="c" sid="1KI 17"/>
+  <para style="s1">ኤልያሳ ቁሮይ ሙዝስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 17:1"/>ጋላዳን ተስባፐ ይዳ ናበይ፥ ኤልያስ ካዋ አካባ ሀይሳዳ ያግስ፤ “ታኒ እያዉ ኦያ ጎዳይ፥ እስራኤለ ፆሳይ ኤሮ! ካልድ ያና ላይታን፥ ታኒ ኦዶና ደእሽን፥ ሳአን እር ቡከና ዎይኮ ፃሳተና” ያግስ።<verse eid="1KI 17:1"/></para>
+  <para style="p">
+    <verse number="2" style="v" sid="1KI 17:2"/>ሄሳፈ ጉየ፥ ጎዳ ቃላይ ኤልያሳኮ ይድ ሀይሳዳ ያግስ፤ <verse eid="1KI 17:2"/><verse number="3" style="v" sid="1KI 17:3"/>“ሀይሳፈ ደንዳዳ ዶሎሀ ባጋ ባ፤ ያን ዮርዳኖሰ ሻፋፐ ዶሎሀ ባጋራ ደእያ ኮራታ ዛንጋራን ቆሰታ። <verse eid="1KI 17:3"/><verse number="4" style="v" sid="1KI 17:4"/>ኔኒ ሄ ሻፋፐ ሃ ኡያና፤ ቁሮት ነና ሄ በሳን ካ ሙዛናዳ ታ ኤንታ ኪታስ” ያግስ። <verse eid="1KI 17:4"/><verse number="5" style="v" sid="1KI 17:5"/>ኤልያስ ጎዳይ ግዳይሳዳ ኦስ፤ ዮርዳኖሰ ሻፋፐ ዶሎሀ ባጋራ ደእያ ኮራታ ዛንጋራ ብድ ያን ኡትስ። <verse eid="1KI 17:5"/><verse number="6" style="v" sid="1KI 17:6"/>ዎንታነ ኦማርስ ቁሮት ኡይነ አሾ ኤልያሳስ ኤሆሶና፤ እ ሻፋፐ ሃ ኡይስ። <verse eid="1KI 17:6"/><verse number="7" style="v" sid="1KI 17:7"/>ቢታን እር ቡኮና ግሾ፥ ጉ ዎደፐ ጉየ ሻፋይ መልስ።<verse eid="1KI 17:7"/></para>
+  <para style="s1">ኤልያሳነ ሳራፕታ አምእዉ</para>
+  <para style="p">
+    <verse number="8" style="v" sid="1KI 17:8"/>ሄሳፈ ጉየ፥ ጎዳ ቃላይ ኤልያሳኮ ሀይሳዳ ያግስ፤ <verse eid="1KI 17:8"/><verse number="9" style="v" sid="1KI 17:9"/>“ሀ በሳፈ ደንዳዳ፥ ስዶና ማታን ደእያ ሳራፕታ ባዳ ያን ደኣሻ። ሄኮ፥ እስ አምእያ ካ ነና ሙዛና መላ ታኒ ኪታስ” ያግስ።<verse eid="1KI 17:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="1KI 17:10"/>ኤልያስ ደንድድ ሳራፕታ ብድ ካታማ ፐንግያ ጋክያ ዎደ፥ ሄኮ፥ እስ አምእያ ም ምፃዉሱ። ኤልያስ ማጫስዉ ፄግድ፥ “ሀያና፥ ታዉ ሃ ኡያናዉ ቡለራ ኤካዳ ያ” ያግስ። <verse eid="1KI 17:10"/><verse number="11" style="v" sid="1KI 17:11"/>ማጫስያ ሃ ኤሀናዉ ብሽን እ ፄግድ፥ “ሀያና ጉ ባሶ ኡይካ ኤካዳ ያ” ያግስ።<verse eid="1KI 17:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="1KI 17:12"/>ማጫስያ ዛራዳ፥ “ጎዳይ፥ ነ ደኦ ፆሳይ ኤሮ! ታዉ ኡይ ባዋ። ታዉ ኦቶን እስ ኩጫ ለይነ ጉ ዛይተ ፃላል ፃሮን ደኤስ። ታኒ ሀይሳ ይዳይ ጉ ም ምፃዳ፥ ሶ ስማዳ፥ ህኖ ታዉነ ታ ናኣስ እስ ቶሆ ኡክድ ምድ ሀይቃና” ያጋሱ።<verse eid="1KI 17:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="1KI 17:13"/>ኤልያስ ዛሪድ፥ “አይኮይ ባዋ፥ ያዮፋ፤ ባዳ ነ ካ ካ። ሽን ኮይሮ ነ ልያፈ ጉ ኡይ ላቃዳ ታዉ ኤካዳ ያ፤ ሄሳፈ ጉየ፥ ነዉነ ነ ናኣስ ኡካ። <verse eid="1KI 17:13"/><verse number="14" style="v" sid="1KI 17:14"/>ጎዳይ፥ እስራኤለ ፆሳይ፥ ‘ሳኣ ቦላ እር ቡካና ጋካናዉ ለይ ኦቱዋፐ ዛይተይ ፃሩዋፐ ዉረና’ ያጌስ” ያግስ።<verse eid="1KI 17:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="1KI 17:15"/>ሄሳ ግሾ፥ ማጫስያ ባዳ፥ ኤልያስ ግዳይሳዳ ኦሱ፤ ሄሳዳ ሀንን፥ ኤልያስ፥ ማጫስያነ እ ሶ አሳይ ዳሮ ዎደስ ግድያ ካ ደምዶሶና። <verse eid="1KI 17:15"/><verse number="16" style="v" sid="1KI 17:16"/>ጎዳይ ኤልያሳ ባጋራ ኦድዳ ቃላ ናግድ፥ ኦቱዋፐ ለይ ፃሩዋፐ ዛይተይ ዉርቤና።<verse eid="1KI 17:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="1KI 17:17"/>ጉ ዎደፐ ጉየ ሄ ማጫሰ ናአይ ሀርግስ፤ ሀርገይ ጎብሸ ብን፥ ዉርሰን ናአይ ሀይቅስ። <verse eid="1KI 17:17"/><verse number="18" style="v" sid="1KI 17:18"/>ማጫስያ ኤልያሳኮ፥ “ፆሳ አድያዉ፥ ነ ታ ቦላ ሀይሳዳ አይስ ኦዲ? ነ ታ ናጋራ ሀሳይሳዳ ታ ናኣ ዎናዉ ያዲ?” ያጋሱ።<verse eid="1KI 17:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="1KI 17:19"/>ኤልያስ፥ “ነ ናኣ ሃ ኤካዳ ያ” ያግስ። ናኣ እ ክኡዋፐ ኤክድ፥ ፑደ ባ ደእያ ፖቅያ ኤፍድ ባ አርሳን ዝንእስስ። <verse eid="1KI 17:19"/><verse number="20" style="v" sid="1KI 17:20"/>ያትድ ጎዳኮ ሀይሳዳ ያግድ ዋስስ፤ “አቤት ጎዳዉ፥ ታ ፆሳዉ፥ ሀ ታኒ ደእያ አምኤ ናኣ ዎዳ፥ ሀይሳ መላ መቶ እ ቦላ አይስ ኤሀይ?” ያግስ። <verse eid="1KI 17:20"/><verse number="21" style="v" sid="1KI 17:21"/>ሄሳፈ ጉየ ናኣ ቦላ ሄ ቶሆ ዛቁልድ፥ “አቤት ጎዳው፥ ታ ፆሳዉ፥ ሀ ናኣ ፓ” ያግድ ዎስስ።<verse eid="1KI 17:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="1KI 17:22"/>ጎዳይ ኤልያሳ ዎሳ ስእስ። ናኣ ሸምፖይ ስምን፥ ናአይ ፓፅስ። <verse eid="1KI 17:22"/><verse number="23" style="v" sid="1KI 17:23"/>ኤልያስ ናኣ ኤክድ ፖቅያፐ ዱገ ዎስ፤ ናኣ አየስ እምድ፥ “ሄኮ ነ ናአይ ፓፅስ” ያግስ።<verse eid="1KI 17:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="1KI 17:24"/>ማጫስያ፥ “ኔኒ ፆሳ አስ ግደይሳነ ነ ዶናፐ ከይያ ጎዳ ቃላይ ቱማ ግደይሳ ታኒ ሀእ ኤራስ” ያጋሱ።<verse eid="1KI 17:24"/></para>
+  <chapter eid="1KI 17"/>
+  <chapter number="18" style="c" sid="1KI 18"/>
+  <para style="s1">ኤልያሳነ ባኣለ ናበታ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 18:1"/>እር ቡኮና አግን ሄን ላይን፥ ጎዳይ ኤልያሳኮ፥ “ባዳ ካዋ አካባስ ቆንጫ። ታ ቢታን እራ ቡክሳና” ያግስ። <verse eid="1KI 18:1"/><verse number="2" style="v" sid="1KI 18:2"/>ኤልያስ አካባስ ቆንጫናዉ ደንድድ ብስ።</para>
+  <para style="p" vid="1KI 18:2">ሄ ዎደ ሳማረን ዎልቃማ ኮሽ ከይስ። <verse eid="1KI 18:2"/><verse number="3" style="v" sid="1KI 18:3"/>አካብ ባ ካዎ ጋዋ አዋተን አይስያ አብድዩ ፄግስ። አብድዩይ ጎዳ ምንድ አማንያ አስ። <verse eid="1KI 18:3"/><verse number="4" style="v" sid="1KI 18:4"/>ኤልዛቤላ ጎዳ ሱንን ናበታ ዎዳ ዎደ አብድዩይ ኤንታፈ ፄታታ ኤክድ፥ እሻታማን እሻታማን ሻክድ፥ ጎንጎሎ ግዶን ቆስድ፥ ካነ ሃ እምሸ ጋምእስ።<verse eid="1KI 18:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="1KI 18:5"/>አካብ አብድዩ ፄግድ፥ “ማታ ደምድ ፓራታነ ባቁሎታ ሀይቆፐ አሻናዉ ቢታን ፑልቶይ ደእያ በስነ ሻፋ ጋፃን ኡባ ባ” ያግስ። <verse eid="1KI 18:5"/><verse number="6" style="v" sid="1KI 18:6"/>ኤንቲ ቢታን አዉ ባጋ ባነኮ ሻከትድ ኤክን፥ አካብ እስ ኦግያ ኦይክድ ባርካ ብስ፤ አብድዩይ ሀራ ኦገ ኦይክድ ባርካ ብስ።<verse eid="1KI 18:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="1KI 18:7"/>አብድዩይ ባ ኦግያ ኦይክድ ብሽን፥ ሄኮ፥ ኤልያስ እያራ ጋሄትስ። አብድዩይ ኤልያሳ ኤርድ ባ ሶምኡዋን ጉፋንድ፥ “ታ ጎዳዉ ኤልያሳ፥ ሀይስ ነኔ?” ያግስ።<verse eid="1KI 18:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="1KI 18:8"/>ኤልያስ፥ “ኤ ታና፤ ኔኒ ባዳ፥ ሄኮ፥ ኤልያስ ሀይሳን ደኤስ ያጋዳ ነ ጎዳስ ኦዳ” ያግስ።<verse eid="1KI 18:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="1KI 18:9"/>አብድዩይ ዛሪድ፥ “ታ ነና አይ ቆህን ነ ታና ነ አይልያ ሀይቆ ጋዳ አካባ ኩሸን አዳ እማይ? <verse eid="1KI 18:9"/><verse number="10" style="v" sid="1KI 18:10"/>ጎዳይ፥ ነ ደኦ ፆሳይ ኤሮ! ታ ጎዳይ ነና ኮያና መላ ኪትቦና ቢት ዎይኮ ካዎተ ባዋ። ኤንቲ፥ ‘ኤልያስ ሀይሳን ባዋ’ ግያ ዎደ ነ ያን ባይናይስ ቱማ ግደይሳ ኤራናዉ አካብ ደርያ አይሰይሳታ ጫቅሴስ። <verse eid="1KI 18:10"/><verse number="11" style="v" sid="1KI 18:11"/>ሀእ ኔኒ፥ ‘ባዳ፥ ኤልያስ ሀይሳን ደኤስ’ ያጋዳ ኦዳ” ያጋሳ።<verse eid="1KI 18:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="1KI 18:12"/>“ታ ነና አጋዳ ብያ ዎደ ጎዳ አያናይ ነና ደንድ፥ ታ ኤሮና በሲ ኤፋና። ታ አካባስ ኦድን፥ እ ነና ደሞና እፅኮ፥ ታና ዎና። ታኒ ነ አይለይ ናአተፈ ዶማዳ ጎዳ ያይያ አስ። <verse eid="1KI 18:12"/><verse number="13" style="v" sid="1KI 18:13"/>ኤልዛቤላ ጎዳ ናበታ ዎዳ ዎደ፥ ታኒ ኤንታፈ ፄታ ኤካዳ፥ እሻታማን እሻታማን ሻካዳ እስ ጎንጎሎን ቆሳዳ፥ ካነ ሃ እማስ። ያትን፥ ታኒ ኦዳባይ ነዉ ታ ጎዳስ ኦደትቤኔ? <verse eid="1KI 18:13"/><verse number="14" style="v" sid="1KI 18:14"/>ሀእ ኔኒ፥ ‘ባዳ፥ ሄኮ፥ ኤልያስ ሀይሳን ደኤስ’ ያጋዳ ኦዳ ያጋሳ። ታ ኦድኮ እ ታና ዎና” ያግስ።<verse eid="1KI 18:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="1KI 18:15"/>ኤልያስ፥ “ታኒ እያዉ ኪተትያ፥ ኡባፈ ዎልቃማ ጎዳይ ኤሮ! ቱማ ታኒ ሀች አካባስ ቆንጫና” ያግስ።<verse eid="1KI 18:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="1KI 18:16"/>አብድዩይ አካባኮ ብድ አካባስ ኦድን፥ አካብ ኤልያሳራ ጋሄታናዉ ብስ። <verse eid="1KI 18:16"/><verse number="17" style="v" sid="1KI 18:17"/>አካብ ኤልያሳ በእዳ ዎደ፥ “እስራኤለ ቢታ ቡቀይ ነኔ?” ያግስ።<verse eid="1KI 18:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="1KI 18:18"/>ኤልያስ ዛሪድ፥ “እስራኤለ ቢታ ቡቀይ ታና ግዶናሽን፥ ጎዳ ኪታ አግድ፥ ባኣለ ኤቃታ ጎይንድ፥ ቢታ ቡቀይ ነናነ ነ አዋ ሶ አሳ። <verse eid="1KI 18:18"/><verse number="19" style="v" sid="1KI 18:19"/>ሀእ፥ እስራኤለ አሳ ኡባ ቃርመሎሳ ዙማ ቦላ ታኮ ሺሻ። ኤልዛቤል ግብራ ምያ ኦይዱ ፄታነ እሻታሙ ባኣለ ናበታነ ኦይዱ ፄቱ አሼራ ናበታ እስፈ ሀ በሳ ሺሻ” ያግስ።<verse eid="1KI 18:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="1KI 18:20"/>ሄሳ ግሾ፥ አካብ ኪትድ፥ እስራኤለ አሳ ኡባነ ናበታ ቃርመሎሳ ዙማ ቦላ ሺሽስ። <verse eid="1KI 18:20"/><verse number="21" style="v" sid="1KI 18:21"/>ኤልያስ ሺቅዳ አሳኮ ብድ፥ “አዉደ ጋካናዉ ናምኡ ዎዛናን ዳኔ? ጎዳይ ፆሰ ግድኮ እያ ጎይንተ፤ ባኣለይ ፆሰ ግድኮ እያ ጎይንተ” ያግስ። ግዶሽን፥ አሳይ እያዉ እስ ቃላካ ዛርቤና።<verse eid="1KI 18:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="1KI 18:22"/>ሄሳፈ ጉየ፥ ኤልያስ፥ “ጎዳ ናበታፐ ታ ፃላል አታስ፤ ሽን ባኣለ ናበት ኦይዱ ፄታነ እሻታማ። <verse eid="1KI 18:22"/><verse number="23" style="v" sid="1KI 18:23"/>አነ ኑስ ናምኡ ኮርማታ እመቶ። ሄ ኮርማታፐ እሱዋ ኤንቲ ዶሮ፤ ኮርማ ሹክድ ቃንፀረ፤ አሹዋ ም ቦላ ዎ፤ ሽን ታማ ኤፎ። ታኒ ናምአን ኮርማ ጊግሳዳ፥ ም ቦላ ዎና፤ ታካ ታማ ኤከ። <verse eid="1KI 18:23"/><verse number="24" style="v" sid="1KI 18:24"/>ህንተ፥ ህንተ ፆሳ ሱን ፄግተ፤ ታካ ጎዳ ሱን ፄጋና። ስእድ ያርሹዋ ምያ ታማ ኪትያ ፆሳይ፥ እ፥ ፆሰ ግዶ” ያግስ።</para>
+  <para style="p" vid="1KI 18:24">አሳይ፥ “ነ ግያ ቆፋይ ሎኦ” ያግዶሶና።<verse eid="1KI 18:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="1KI 18:25"/>ሄሳ ግሾ፥ ኤልያስ ባኣለ ናበታኮ፥ “ህንተ ዳሮ ግድያ ግሾ፥ እስ ኮርማ ዶርድ ኮይሮትድ ጊግስተ። ህንተ ፆሳ ሱን ፄግተ፤ ሽን እያን ታማ ኤፍተ” ያግስ።<verse eid="1KI 18:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="1KI 18:26"/>ኤንቲ ባንታዉ እመትዳ ኮርማ ኤክድ ጊግስዶሶና።</para>
+  <para style="p" vid="1KI 18:26">ዎንታፈ ሴታ ጋላስ ጋካናዉ ባኣለ ሱን ፄግድ፥ “ባኣለ፥ ኑና ስአ” ያግድ ዎስዶሶና። ሽን ስኤትያ ግርስ ባዋ፤ ዛርያ አስ በንትቤና። ባንታ ጊግስዳ ያርሾ በሳ ዩሹዋን ዱርዶሶና።<verse eid="1KI 18:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="1KI 18:27"/>ሳእ ሴታ ጋላሳ ግድን፥ ኤልያስ፥ “ህንተ ቃላ ቁ ኦድ ዎስተ! እ ፆሰ ግደነ! ኦን ኤር፥ እ ቆፋን ገልዳኮ ዎይኮ እያዉ ኦሶይ ዳርዳኮ ዎይኮ ማንዳርዳኮ ዎይኮ ስክዳባ ግድኮ ደንናዉ ኮሼስ” ያግድ ቀልቅስስ።<verse eid="1KI 18:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="1KI 18:28"/>ኤንቲ ባንታ ቃላ ቁ ኦድ ዎስዶሶና። ካሰ ባንታ ጎይንያ ዎጋዳ ባንታ አሳተራ ሱ ጎጋና ጋካናዉ ቶራንነ ማሻን ባንታና ጫድዶሶና። <verse eid="1KI 18:28"/><verse number="29" style="v" sid="1KI 18:29"/>ኦማርስ ያርሾ ሺሽያ ዎደይ ጋካናዉ ኤንቲ ትንብተ ኦድዶሶና፤ ሽን ስኤትያ ግርስ ባዋ፤ ኤንታና ሀይዝድ ዛሮ እምያ አስ ይስ።<verse eid="1KI 18:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="1KI 18:30"/>ሄሳፈ ጉየ፥ ኤልያስ፥ “ሃ ታኮ ሺቅተ” ያግስ። አሳይ እያኮ ሺቅን፥ ላለትዳ ጎዳ ያርሾ በሳ ዛሪድ ግምብስ። <verse eid="1KI 18:30"/><verse number="31" style="v" sid="1KI 18:31"/>ጎዳ ቃላይ ያይቆባኮ፥ “ነ ሱንይ እስራኤለ ግዳና” ያግድ ኦድዳ፥ ያይቆባ ናይታ ኮቻታ ታይቡዋን ታማነ ናምኡ ሹቻታ ኤክስ። <verse eid="1KI 18:31"/><verse number="32" style="v" sid="1KI 18:32"/>ጎዳ ሱንን ሄ ሹቻታ ኬልድ፥ ያርሾ በሲ ግምብድ፥ ታማነ ኦይዱ ልትሮ ሃ ኦይክያ ኦላ ያርሾ በሳ ዩሾን ቦክስ።<verse eid="1KI 18:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="1KI 18:33"/>ሄሳፈ ጉየ፥ ያርሾ በሳን ም ዎድ፥ ኮርማ አሹዋ እያ ቆሙዋን ቆሙዋን ቃንፀረድ፥ ም ቦላ ዎስ። አሳኮ፥ “ኦይዱ ባ ሃ ኩንድ፥ ያርሹዋ ቦላነ ም ቦላ ጉስተ” ያግስ፤ ኤንቲ ጉስዶሶና። <verse eid="1KI 18:33"/><verse number="34" style="v" sid="1KI 18:34"/>ቃስካ፥ ኤልያስ፥ “ናምአን ጉጅተ” ያግስ፤ ኤንቲ ናምአን ጉጅዶሶና።</para>
+  <para style="p" vid="1KI 18:34">ቃስካ፥ ኤልያስ፥ “ሄን ጉጅተ” ያግስ፤ ሄን ጉጅዶሶና። <verse eid="1KI 18:34"/><verse number="35" style="v" sid="1KI 18:35"/>ሃይ ያርሾ በሳ ዩሹዋን ጎግድ፥ ኦላን ኩምስ።<verse eid="1KI 18:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="1KI 18:36"/>ኦማርሳ ያርሾ ሺሽያ ዎደ ናበይ ኤልያስ ያርሾ በሳኮ ሺቅድ ሀይሳዳ ያግድ ዎስስ፤ “አቤት ጎዳዉ፥ አብራሃመ ፆሳዉ፥ ይሳቃ ፆሳዉ፥ እስራኤለ ፆሳዉ፥ ኔኒ እስራኤለ ቢታን ፆሰ ግደይሳ፥ ታኒ ነ አይለ ግደይሳነ ታኒ ሀይሳ ኡባ ነ ቃላን ኦዳይስ ሀች ኤረቶ። <verse eid="1KI 18:36"/><verse number="37" style="v" sid="1KI 18:37"/>አቤት ጎዳዉ፥ ታዉ ኮያ። ኔኒ፥ ጎዳይ ፆሰ ግደይሳነ ኤንታ ዎዛና ኔኮ ዛረይ ነና ግደይሳ ሀ አሳይ ኤራና መላ ታዉ ኮያ!” ያግስ።<verse eid="1KI 18:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="1KI 18:38"/>ጎዳ ታማይ ሳሎፐ ዎድ፥ ፁሳ ያርሹዋ፥ ም፥ ሹቻነ ቢታ ምስ፤ ኦላን ደእያ ሃ ላጭስ። <verse eid="1KI 18:38"/><verse number="39" style="v" sid="1KI 18:39"/>አሳ ኡባይ ሄሳ በእዳ ዎደ፥ ባንታ ሶምኦራ ሳአን ጉፋንድ፥ “ጎዳይ ፆሰ! ጎዳ ፃላል ፆሰ!” ያግዶሶና።<verse eid="1KI 18:39"/></para>
+  <para style="p">
+    <verse number="40" style="v" sid="1KI 18:40"/>ኤልያስ፥ “ባኣለ ናበታ ኦይክተ፤ ኤንታፈ እስ አስካ ከስ ኤኮፎ” ያግስ። አሳይ ኤንታ ኦይክዶሶና፤ ኤልያስ ኤንታ ቅሶና ሻፋ ኤፍድ ዎስ።<verse eid="1KI 18:40"/></para>
+  <para style="s1">ጎዳይ እራ ቡክስስ</para>
+  <para style="p">
+    <verse number="41" style="v" sid="1KI 18:41"/>ኤልያስ አካባኮ፥ “ከያዳ ባ፤ ማ፤ ኡያ፤ ታኒ፥ ዎልቃማ እራ ጉን ስአይስ” ያግስ። <verse eid="1KI 18:41"/><verse number="42" style="v" sid="1KI 18:42"/>ሄሳ ግሾ፥ አካብ ማናዉነ ኡያናዉ ብስ። ሽን ኤልያስ ቃርመሎሳ ዙማ ቦላ ከይድ፥ ባ ሶምኡዋ ባ ጉልባታ ግዶ ገልስድ ሆክስ።<verse eid="1KI 18:42"/></para>
+  <para style="p">
+    <verse number="43" style="v" sid="1KI 18:43"/>ኤልያስ ባ አይልያኮ፥ “አነ ባዳ፥ አባኮ ስማዳ ፄላ” ያግስ።</para>
+  <para style="p" vid="1KI 18:43">እያ አይለይ ብድ ፄልድ፥ “አይብካ በንተና” ያግስ።</para>
+  <para style="p" vid="1KI 18:43">ኤልያስ ባ አይልያ ላፑን ቶሆ፥ “ቃስካ ባዳ ፄላ” ያግስ።</para>
+  <para style="p" vid="1KI 18:43">እያ አይለይ ላፑን ቶሆ ፄልስ። <verse eid="1KI 18:43"/><verse number="44" style="v" sid="1KI 18:44"/>ላፑንን፥ “ኩሸ ቃቃፐ ዳሮና ጉ ሻር አባፈ ከይሽን በአስ” ያግስ።</para>
+  <para style="p" vid="1KI 18:44">ኤልያስ፥ “ባዳ፥ ‘እር ነና ቡሱ ድጎና መላ ነ ፓራ ጋርያን ኡታዳ ነ ሶ ባ’ ያጋዳ አካባስ ኦዳ” ያግስ።<verse eid="1KI 18:44"/></para>
+  <para style="p">
+    <verse number="45" style="v" sid="1KI 18:45"/>ጉ ዎደፐ ጉየ ሳሎይ ካሬ ሻራን ዱልክስ፤ ጫርኮይ ጫርክስ፤ ዎልቃማ እር ቡክስ። አካብ ፓራ ጋርያን ኡትድ እዝራኤላ ካታማ ብስ። <verse eid="1KI 18:45"/><verse number="46" style="v" sid="1KI 18:46"/>ጎዳ ዎልቃይ ኤልያሳ ቦላ ዎስ። ኤልያስ ባ ማኡዋ ፄሳን ፑደ ስቅድ፥ እዝራኤላ ካታማ ጋካናዉ አካባ ስንን ዎፅስ።<verse eid="1KI 18:46"/></para>
+  <chapter eid="1KI 18"/>
+  <chapter number="19" style="c" sid="1KI 19"/>
+  <para style="s1">ኤልያስ ሲና ዙማ ቦላ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 19:1"/>ኤልያስ ኦዳባ ኡባነ ባኣለ ናበታ ኡባ ማሻን ዎዳይሳ አካብ ኤልዛቤልስ ኦድስ። <verse eid="1KI 19:1"/><verse number="2" style="v" sid="1KI 19:2"/>ኤልዛቤላ፥ “ኔኒ ሄ ናበታ ቦላ ኦዳይሳዳ ዎንቶ ሀኖደ ታኒ ነ ቦላ ኦና እፅኮ፥ ፆሳት ታና ፕርዶ” ያጋዳ ኤልያሳኮ ኪታሱ።<verse eid="1KI 19:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="1KI 19:3"/>ኤልያስ ባ ሸምፑዋስ ያይድ፥ ባ አይልያ ኤክድ፥ ይሁዳ ቢታን ደእያ በርሳበ ብስ። <verse eid="1KI 19:3"/><verse number="4" style="v" sid="1KI 19:4"/>እስ ጋላሳ ኦገ መላ ቢታን ሄመትስ። እ ሄመ አግድ እስ ሳንካራ ኩያ ጋርሳን ኡትድ፥ “አቤት ጎዳዉ፥ ታዉ ግዳና፤ ታኒ ታ ማይዛታፐ አድከ፤ ታ ሸምፑዋ ኤካ” ያግድ ሀይቆ ዎስስ።<verse eid="1KI 19:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="1KI 19:5"/>ሄሳፈ ጉየ፥ ሳንካራ ኩያ ጋርሳን ዛቁልድ ስክስ። እ ስክዳሽን፥ ሄኮ፥ እስ ኪታንቾይ እያ ቦችድ፥ “ደንዳ፤ ማ” ያግስ። <verse eid="1KI 19:5"/><verse number="6" style="v" sid="1KI 19:6"/>እ ደንድድ ፄልያ ዎደ፥ ሄኮ፥ ሹቻ ምሻን ኡከትድ፥ ካፅዳ ኡይነ ኦቶ ሃ እያ ሁጰሶን በእስ። እ ምድ ኡይዳፐ ጉየ ስሚድ ስክስ። <verse eid="1KI 19:6"/><verse number="7" style="v" sid="1KI 19:7"/>ጎዳ ኪታንቾይ ናምአን ይድ፥ “ኤልያሳ፥ ኔኒ ባና ኦገይ ዳሮ አዱሰ ግድያ ግሾ፥ ደንዳዳ ማ” ያግስ።<verse eid="1KI 19:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="1KI 19:8"/>ኤልያስ ደንድድ ምስ፥ ኡይስ። ሄ እ ምዳ ካ ዎልቃን ፆሳ ዙማ ኮሬባ ጋካናዉ ኦይታሙ ጋላስነ ኦይታሙ ቃማ ሄመትስ። <verse eid="1KI 19:8"/><verse number="9" style="v" sid="1KI 19:9"/>እ ያ ጋክድ፥ ጎንጎሎ ግዶ ገልድ አቅስ።</para>
+  <para style="p" vid="1KI 19:9">ጎዳይ፥ “ኤልያሳ፥ ሀይሳን አይ ኦይ?” ግያ ፆሳ ቃላይ እያኮ ይስ።<verse eid="1KI 19:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="1KI 19:10"/>ኤልያስ፥ “ኡባፈ ዎልቃማ ጎዳ ፆሳስ ታኒ ዳሮ ምሸታስ። እስራኤለ አሳይ ኔራ ጫቅዳ ጫቁዋ መንስ፤ ነ ያርሾ በሳ ላልዶሶና፤ ነ ናበታ ማሻን ዎዶሶና። ታኒ ታርካ አታስ፤ ሀእ ኤንቲ ታ ሸምፑዋ ዎናዉ ኮዮሶና” ያግስ።<verse eid="1KI 19:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="1KI 19:11"/>ጎዳይ፥ “ሀይሳፈ ከያዳ ደርያ ሁጰን ታ ስንን ኤቃ” ያግስ። ኤልያስ ኤቅዳሽን፥ ሄኮ፥ ጎዳይ እያ ማታራ አስ። ሄ ዎደ ዎልቃማ ጫርኮይ ዙማ ጳልቀረስ፤ ዛላታ ትንቸረስ፤ ሽን ጎዳይ ሄ ጫርኩዋ ግዶን ባዋ። ጫርኩዋፈ ጉየ ቢት ቃፅስ፤ ሽን ጎዳይ ሄ ቢታ ቃፁዋን ባዋ። <verse eid="1KI 19:11"/><verse number="12" style="v" sid="1KI 19:12"/>ቢታ ቃፁዋፐ ጉየ ታም ከይስ፤ ሽን ጎዳይ ታማ ግዶን ባዋ። ታማፐ ጉየ ካልካሽ ስኤትስ። <verse eid="1KI 19:12"/><verse number="13" style="v" sid="1KI 19:13"/>ኤልያስ ሄ ካልካሻ ስእዳ ዎደ ባ ሶምኡዋ አፍላን ካምድ፥ ካረ ከይድ ጎንጎሉዋ ፐንገን ኤቅስ።</para>
+  <para style="p" vid="1KI 19:13">ሄኮ፥ እስ ግርስ ኤልያሳኮ፥ “ኤልያሳ፥ ሀይሳን አይ ኦይ?” ያግስ።<verse eid="1KI 19:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="1KI 19:14"/>ኤልያስ፥ “ኡባፈ ዎልቃማ ጎዳ ፆሳስ ታኒ ምሸታስ። እስራኤለ አሳይ ኔራ ጫቅዳ ጫቁዋ መንዶሶና፤ ነ ያርሾ በሳ ላልዶሶና፤ ነ ናበታ ማሻን ዎዶሶና። ታኒ ታርካ አታስ፤ ኤንቲ ታ ሸምፑዋ ኤካናዉ ኮዮሶና” ያግስ።<verse eid="1KI 19:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="1KI 19:15"/>ጎዳይ እያኮ፥ “ኔኒ ይዳ ኦግያራ ጉየ ስማዳ ዳማስቆ መላ ቢታ ባ። ኔኒ ያ ጋክያ ዎደ አዛሄላ፥ ሶረ ቦላ ካዎ ኦዳ ትያ። <verse eid="1KI 19:15"/><verse number="16" style="v" sid="1KI 19:16"/>ናምሳ ናኣ፥ እዩ እስራኤለ ቦላ ካዎ ኦዳ ትያ። ነ በሳን ናበ ኦዳ አቤል-ማሆላ አድያ ሳፋፃ ናኣ ኤልሳ ትያ። <verse eid="1KI 19:16"/><verse number="17" style="v" sid="1KI 19:17"/>አዛሄላ ማሻፈ ከስ ኤክያ ኡባ እዩይ ዎና፤ እዩ ማሻፈ ከስ ኤክያ ኡባ ኤልስ ዎና። <verse eid="1KI 19:17"/><verse number="18" style="v" sid="1KI 19:18"/>ሽን ባኣለ ኤቃ ጎይኖና ዎይኮ ባንታ ዶናን ባኣለ ኤቃ ዬሮና 7,000 አሳ ታኒ እስራኤለን ታዉ አሻና” ያግስ።<verse eid="1KI 19:18"/></para>
+  <para style="s1">ኤልያስ ኤልሳ ፄግስ</para>
+  <para style="p">
+    <verse number="19" style="v" sid="1KI 19:19"/>ኤልያስ ሄ በሳፈ ደንድድ ብሸ ሳፋፃ ናአይ ኤልስ ታማነ ናምኡ ዋፃ ቦራን ጋደ ጎይሽን ደምስ፤ ኤልስ ታማነ ናምአን ዋፃን ጎዬስ። ኤልያስ እያ ማታራ አሸ ባ አፍላ እያ ቦላ የግስ። <verse eid="1KI 19:19"/><verse number="20" style="v" sid="1KI 19:20"/>ኤልስ ቦራታ ኤስድ፥ ኤልያሳ ጌዶ ዎፅ ብድ፥ “ታኒ ታ አዋነ ታ አይዉ ዬራ ሳሮዳ ያና፤ ያፐ ስማዳ ነና ካላና” ያግስ።</para>
+  <para style="p" vid="1KI 19:20">ኤልያስ፥ “ኤሮ ባ፤ ታ ነና ድግከ” ያግስ።<verse eid="1KI 19:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="1KI 19:21"/>ሄሳ ግሾ፥ ኤልስ ጉየ ስሚድ ዋ ቦራታ ሹክስ፤ ቦራ ሚሽያ ቀርድ አሹዋ ካድ፥ አሳስ አን አሳይ ምዶሶና። ሄሳፈ ጉየ፥ ደንድ ብድ፥ ኤልያሳስ ኪተትስ።<verse eid="1KI 19:21"/></para>
+  <chapter eid="1KI 19"/>
+  <chapter number="20" style="c" sid="1KI 20"/>
+  <para style="s1">ሶረይ ሳማረ ኦልስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 20:1"/>ሶረ ካዎይ በን-ሀዳድ ባ ኦላንቾታ ኡባ ሺሽስ። ሀስታማነ ናምኡ ካዎታን፥ ኤንታ ፓራታንነ ፓራ ጋረታን ማደትድ፥ ሳማረ ካታማ ተቅድ፤ እያ ኦልስ። <verse eid="1KI 20:1"/><verse number="2" style="v" sid="1KI 20:2"/>እስራኤለ ካዋ አካባኮ አሰ ኪትድ ሀይሳዳ ያግስ፤ <verse eid="1KI 20:2"/><verse number="3" style="v" sid="1KI 20:3"/>“ነ ብራይነ ነ ዎርቃይ ታባ፤ ነ ማቸትነ ነ ናይታፐ ሎኦት ታባ” ያግስ።<verse eid="1KI 20:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="1KI 20:4"/>እስራኤለ ካዎይ ዛሪድ፥ “ኤ፥ ታ ጎዳዉ ካዋዉ፥ ነ ግዳይሳ መላ፤ ታካ ታዉ ደእያባ ኡባይ ነባ” ያግስ።<verse eid="1KI 20:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="1KI 20:5"/>ቃስካ፥ ኪተትዳ አሳት ናምአን ብድ፥ “በን-ሀዳድ ሀይሳዳ ያጌስ፤ ‘ነ ብራነ ነ ዎርቃ፥ ነ ማቸታነ ነ ናይታ ታዉ ሼ’ ጋዳ ኪታስ። <verse eid="1KI 20:5"/><verse number="6" style="v" sid="1KI 20:6"/>ሽን ዎንቶ ሀኖደ ነ ካዎ ጋዋነ ነ ሞርናታ ኬ ፕልጋና መላ ታ ኦሳንቾታ የዳና። ኤንቲ ነ ሎኦባ ጋዳ ዎዳባ ኡባ ኤፋና” ያግዶሶና።<verse eid="1KI 20:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="1KI 20:7"/>እስራኤለ ካዎይ ቢታ ጭማታ ኡባ ሺሽድ፥ “ሀ አደይ ኑና ይሳናዉ ኮየይሳ በእተ። እ ታ ማቸታነ ታ ናይታ፥ ታ ብራነ ታ ዎርቃ ኤካናዉ ኪትን፥ ታ እፃብከ” ያግስ።<verse eid="1KI 20:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="1KI 20:8"/>ጭማትነ አሳ ኡባይ፥ “እ ኦድያባ ስኦፓ! ዎይኮ እያዉ ኤሮ ጎፓ” ያግዶሶና።<verse eid="1KI 20:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="1KI 20:9"/>ሄሳ ግሾ፥ አካብ በን-ሀዳድ ኪትዳ አሳታኮ፥ “ህንተ ታ ጎዳ ካዋ፥ ‘ኔኒ ኮይሮ ኪትዳ ኪታ ታ ፖላና፤ ሽን ሀ ናምአን ኪታ ፖላናዉ ዳንዳእከ’ ያጌስ ግድ ኦድተ” ያግስ።</para>
+  <para style="p" vid="1KI 20:9">ኪተትዳ አሳት ብድ ሄሳ በን-ሀዳዳስ ኦድዶሶና። <verse eid="1KI 20:9"/><verse number="10" style="v" sid="1KI 20:10"/>በን-ሀዳድ፥ “ታና ካልያ አሳስ ሳማረ ካታማን እስ ኩጫ ቢት ጋክኮ ፆሳት ታና ፕርዶ” ያግስ።<verse eid="1KI 20:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="1KI 20:11"/>እስራኤለ ካዎይ ኪተትድ ይዳይሳታኮ፥ “ ‘ቱማ ኦላንቾይ ኦላፐ ስምሸ ጋይረስፐ አትሽን፥ ቡሮ ብሸ ጋይረና’ ያግድ ኦድተ” ያግስ።<verse eid="1KI 20:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="1KI 20:12"/>በን-ሀዳድነ ካዎት፥ ባንታ ዱንካንያ ግዶን ኡሹ ኡይሸ ሄሳ ስእዳ ዎደ ካዎይ ባ ኦላንቾታኮ፥ “ኦላናዉ ሳልፕተ” ያግድ ኪትን፥ ኤንቲ ካታማ ኦላናዉ ሳልፕዶሶና።<verse eid="1KI 20:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="1KI 20:13"/>ሄኮ፥ እስ ናበይ እስራኤለ ካዋ አካባኮ፥ “ጎዳይ ‘ሀ ዳሮ ኦላንቾታ ኡባ በአ? ታኒ ሀች ኤንታ ነ ኩሸን አዳ እማና፤ ታ ጎዳ ግደይሳ ኔኒ ሄ ዎደ ኤራና’ ያጌስ” ያግስ።<verse eid="1KI 20:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="1KI 20:14"/>አካብ፥ “ኦላ ዶማናይ ኦኔ?” ያግስ።</para>
+  <para style="p" vid="1KI 20:14">ናበይ፥ “አዉራጃ ሃረይሳት ኪትያ ናአተ ኦላንቾት ዶሞ” ያግስ።</para>
+  <para style="p" vid="1KI 20:14">ካዎይ፥ “አትያ ኦላንቾታ ኦን ኪታኔ?” ያግስ።</para>
+  <para style="p" vid="1KI 20:14">ናበይ፥ “ኔኒ ኪታ” ያግስ።<verse eid="1KI 20:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="1KI 20:15"/>ሄሳ ግሾ፥ አካብ አዉራጃ ሃረይሳት ኪትያ ናአተ ኦላንቾታ፥ 232 ሺሽስ። ቃስ 7,000 አትዳ እስራኤለ አሳ ሺሽስ።<verse eid="1KI 20:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="1KI 20:16"/>በን-ሀዳድ ባና ማድዳ ሀስታማነ ናምኡ ካዎታራ እስፈ ዱንካንያን ኡትድ ኡሻን ማትዳሽን፥ ሴታ ጋላስ እስራኤለ ኦላንቾት ኦላስ ከይዶሶና። <verse eid="1KI 20:16"/><verse number="17" style="v" sid="1KI 20:17"/>አዉራጃ ሃረይሳት ኪትያ ናአተ ኦላንቾት ኮይሮ ከይድ ብዶሶና።</para>
+  <para style="p" vid="1KI 20:17">በን-ሀዳድ ፆሞሳና መላ ኪትዳ አሳት፥ “ሳማረፐ አሳይ ከይድ ዩሳ ቦላ ደኤስ” ያግድ ኦድስ።<verse eid="1KI 20:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="1KI 20:18"/>በን-ሀዳድ፥ “ኤንቲ ስገታናዉ ይን፥ ዎይኮ ኦለታናዉ ይን፥ ኤንታ ፓፃ ኦይክተ” ያግስ።<verse eid="1KI 20:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="1KI 20:19"/>አዉራጃ ሃረይሳት ኪትያ ናአተ ኦላንቾት ሳልፕድ፥ ካታማፐ ጋፃ ከይዶሶና፤ እስራኤለ ኦላንቾት ኤንታ ካልድ ከይዶሶና። <verse eid="1KI 20:19"/><verse number="20" style="v" sid="1KI 20:20"/>እሶይ እሶይ ባራ ኦላ ጋሄትዳ ሞርክያ ዎዶሶና። ሶረ አሳይ ባቃትን፥ እስራኤለ አሳት ካልድ የደዶሶና። ቃስ ሶረ ካዎይ በን-ሀዳድ ባ ፓራ አሳታራ ባ ፓራን ከስ ኤክድ ብስ። <verse eid="1KI 20:20"/><verse number="21" style="v" sid="1KI 20:21"/>እስራኤለ ካዎይ ኦላስ ከይድ፥ ፓራታነ ፓራ ጋረታ ድእስ፤ ሶረ አሳካ ዎ ቡስ።<verse eid="1KI 20:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="1KI 20:22"/>ሄሳፈ ጉየ፥ ናበይ እስራኤለ ካዋኮ ብድ፥ “ባዳ ነና ምን። ኦናዉ በሲያባ አኬካዳ ኦ። ዎንቶ ላይ ቦነ ሶረ ካዎይ ነና ናምአን ኦላናዉ ያና” ያግስ።<verse eid="1KI 20:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="1KI 20:23"/>ሶረ ካዋ ሞርናት እያ ሀይሳዳ ያግድ ዞርዶሶና፤ “ኤንታ ፆሳት ደረ ፆሳታ፤ ኤንቲ ኑና ፆንዳይ ሄሳ ግሾሳ። ሽን ኑ ኤንታራ ደንባን ኦለትያኮ ቱማ ኑ ኤንታ ፆናና። <verse eid="1KI 20:23"/><verse number="24" style="v" sid="1KI 20:24"/>ኔኒ እስባ ኦ፤ ሀስታማነ ናምኡ ካዎታ ኪትያ ሀላቃተፈ ደንዳ ኤንታ በሳን ሀራ ሀላቃታ ሹማ። <verse eid="1KI 20:24"/><verse number="25" style="v" sid="1KI 20:25"/>ኑኒ እስራኤለታራ ደንባን ኦለትድ ፆናናዉ ዳንዳአና መላ ነዉ ካሰ ዉርዳ ኦላንቾታ በሳን ኦላንቾታ፥ ፓራታ በሳን ፓራታ፥ ፓራ ጋረታ በሳን ፓራ ጋረታ ዎዳ ጊግሳ” ያግዶሶና። ካዎይ በን-ሀዳድ ኤንታ ዞርያ ኤክድ ሄሳዳ ኦስ።<verse eid="1KI 20:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="1KI 20:26"/>ካልያ ላይ ቦነ በን-ሀዳድ ሶረ ኦላንቾታ ሺሽድ፥ እስራኤለታራ ኦለታናዉ አፌቃ ብስ። <verse eid="1KI 20:26"/><verse number="27" style="v" sid="1KI 20:27"/>እስራኤለ ኦላንቾት ሺቅድ፥ ሽንቀነ ኦላ ሚሸ ኤክድ፥ ኤንታራ ኦለታናዉ ናምኡ ጩጋ ግድድ ከይዶሶና። እስራኤለት ናምኡ ጉ ዴሻ ዉደ ዳንድ፥ ኤንታኮ ስሚድ ኡትዶሶና፤ ሽን ሶረት ጋፃርያ ኡባ ማእዶሶና።<verse eid="1KI 20:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="1KI 20:28"/>እስ ፆሳ ናበይ እስራኤለ ካዋኮ ብድ፥ “ጎዳይ ሀይሳዳ ያጌስ፤ ‘ሶረ አሳይ፥ ፆሳይ ደረ ፆሰፈ አትሽን፥ ደምባ ፆሲ ግደና ያግዳ ግሾ፥ ሀ ዳሮ ኦላንቾታ ታኒ ነ ኩሸን አዳ እማና። ሄ ዎደ ታኒ ጎዳ ግደይሳ ኔንነ ነ አሳይ ኤራና’ ” ያግስ።<verse eid="1KI 20:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="1KI 20:29"/>ሶረትነ እስራኤለት ዎልኮ ስም ሳልፕድ፥ ላፑን ጋላስ ታክዶሶና። ላፑን ጋላሳን ኦላ ጋሄትዶሶና። እስራኤለት እስ ጋላሳን ሶረ አሳፐ 100,000 ቶሆ አሳ ዎዶሶና። <verse eid="1KI 20:29"/><verse number="30" style="v" sid="1KI 20:30"/>ኤንታፈ አትዳይሳት ከስ ኤክድ፥ አፌቃ ካታማ ገልዶሶና። ገልዳይሳታፐ 27,000 አሳ ቦላ ካታማ ድርሳ ግምበይ ኩንድድ ዎስ።</para>
+  <para style="p" vid="1KI 20:30">በን-ሀዳድ ካታማ ግዶ ባቃትድ፥ እስ ኬ ቆልአን ቆሰትስ። <verse eid="1KI 20:30"/><verse number="31" style="v" sid="1KI 20:31"/>እያ ሞርናት፥ “ሄኮ፥ እስራኤለ ካዎት፥ ማርያ ካዎታ ግደይሳ ኑ ስእዳ። ኑኒ ካዮ ማኦ ማእድ፥ ኑ ፄሳን ዎዶሮ ዳንጭድ፥ እስራኤለ ካዋኮ ቦስ፤ ኦን ኤር፥ እ ነና ፓፃ አሾና አገና” ያግዶሶና። <verse eid="1KI 20:31"/><verse number="32" style="v" sid="1KI 20:32"/>ኤንቲ ካዮ ማኦ ማእድ፥ ዎዶሮ ባንታ ፄሳን ዳንጭድ፥ እስራኤለ ካዋኮ ብዶሶና። እያኮ “ነ አይለይ በንሀዳድ፥ ታና ዎፓ ያግድ ዎሴስ” ያግዶሶና።</para>
+  <para style="p" vid="1KI 20:32">ካዎይ፥ “እ ሀኖ ጋካናዉ ፓፃ ደኢ? እ ታ እሻ” ያግስ።<verse eid="1KI 20:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="1KI 20:33"/>አካብ ሎኦ ማላ ሃሳያ ዳንን፥ አሳት እያ ኦዳ ኤለስ ኤክድ፥ “ኤ፥ ነ እሻይ በንሀዳድ ፓፃ ደኤስ” ያግዶሶና።</para>
+  <para style="p" vid="1KI 20:33">እ ኤንታኮ፥ “ብድ እያ ሃ ኤክድ ዪተ” ያግስ። በንሀዳድ ይን፥ አካብ እያ ባ ፓራ ጋርያ ቦላ ከስድ ኡትስስ።<verse eid="1KI 20:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="1KI 20:34"/>በንሀዳድ አካባኮ፥ “ታ አዋይ ነ አዋፐ ኤክዳ ካታማታ ታ ነዉ ዛራና። ታ አዋይ ሳማረን ግያ ኤስዳይሳዳ ነካ ዳማስቆን ግያ ኤሳ” ያግስ።</para>
+  <para style="p" vid="1KI 20:34">አካብ ዛሪድ፥ “ታኒ ሀ ጫቁዋ ጋሶያዳ ነና የዳና” ያግስ። እያራ ጫቅድ እያ የድስ።<verse eid="1KI 20:34"/></para>
+  <para style="s1">አካባ ቦላ ኦደትዳ ትንብተ</para>
+  <para style="p">
+    <verse number="35" style="v" sid="1KI 20:35"/>ናበታ ጩጋፐ እስ አደይ፥ ጎዳይ ኪትን፥ እስ ባ ላገ ናብያኮ፥ “ታና ሾጫ” ያግስ፤ ሽን ሄ ናበይ ሾጮና እፅስ። <verse eid="1KI 20:35"/><verse number="36" style="v" sid="1KI 20:36"/>ሄ ናበይ እያኮ፥ “ኔኒ ጎዳ ኪታ እፅዳ ግሾ፥ ሄኮ፥ ነ ታፐ ሻከታዳ ብያ ዎደ ነና ጋሞይ ዎና” ያግስ። ናበይ እያፐ ሻከትድ ብያ ዎደ ጋሞይ ከይድ እያ ዎስ።<verse eid="1KI 20:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="1KI 20:37"/>ናበይ ሀራ እስ አደ ደምድ፥ “ታና ሾጫ” ያግስ። አደይ እያ ሾጭን፥ ናበይ ማዱንፅስ።<verse eid="1KI 20:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="1KI 20:38"/>ናበይ እያ ኦናተይ ኤረቶና መላ ጉሉንትድ ካዋ ናግሸ ኦገ ዶናን ኤቅስ። <verse eid="1KI 20:38"/><verse number="39" style="v" sid="1KI 20:39"/>ካዎይ አያ ዎደ፥ ናበይ ካዋ ፄግድ፥ “ታኒ ነ አይለይ ኦላን ደእሽን፥ ሄኮ፥ እስ አደይ ታኮ ይድ፥ ‘ሀ ድኤትዳ አድያ ናጋ። ሀ አደይ ይያባ ግድኮ፥ ነ ሸምፖይ እያ ሸምፑዋራ ጋደ ዎይኮ 3,000 ብራ ሳንትመ ቃንፃሳ’ ያግስ። <verse eid="1KI 20:39"/><verse number="40" style="v" sid="1KI 20:40"/>ታኒ ነ አይለይ ኦሶይ ዳርን፥ ያ ሃ ግሽን፥ አደይ ከስ ኤክድ ይስ” ያግስ።</para>
+  <para style="p" vid="1KI 20:40">እስራኤለ ካዎይ፥ “ኔኒ ነ ቦላ ፕርዳዳሳ” ያግስ።<verse eid="1KI 20:40"/></para>
+  <para style="p">
+    <verse number="41" style="v" sid="1KI 20:41"/>ናበይ ባ ጉሉን ቃር የግያ ዎደ ናበታፐ እሱዋ ግደይሳ ካዎይ ኤርስ። <verse eid="1KI 20:41"/><verse number="42" style="v" sid="1KI 20:42"/>ናበይ ካዋኮ፥ “ጎዳይ፥ ‘ታኒ፥ እ ሀይቃናዉ በሴስ ያግዳ አድያ ነ የድዳ ግሾ፥ ነ ሸምፖይ እያ ሸምፑዋ በሳን፥ ነ አሳይ እያ አሳ በሳን ግዳና’ ” ያግስ። <verse eid="1KI 20:42"/><verse number="43" style="v" sid="1KI 20:43"/>እስራኤለ ካዎይ ይሎትሸነ አዛንሸ ሳማረን ደእያ ባ ጋ ስምስ።<verse eid="1KI 20:43"/></para>
+  <chapter eid="1KI 20"/>
+  <chapter number="21" style="c" sid="1KI 21"/>
+  <para style="s1">ናቡተ ዎይነ ጋድያ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 21:1"/>ሳማረ ካዋ አካባ ጋ ማታን ናቡተስ እዝራኤለን ዎይነ ጋደይ ደኤስ። <verse eid="1KI 21:1"/><verse number="2" style="v" sid="1KI 21:2"/>አካብ ናቡተኮ፥ “ታ ጋዋ ማታን ደእያ ግሾ፥ ታ አታክልተ ቶክያ በሲ ኦናዉ ነ ዎይነ ጋድያ ታዉ እማ። እያ ግሾ ነዉ ታ ሀራ ሎኦ ዎይነ ጋደ እማና፤ ዎይኮ ነ ዶስኮ እያ ጋትያ ታ ነዉ ቃንፃና” ያግስ።<verse eid="1KI 21:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="1KI 21:3"/>ናቡተይ ዛሪድ፥ “ታኒ ታ አዋታፐ ላትዳ ጋደ ነዉ እሚስያባፐ ጎዳይ ታና አሾ” ያግስ።<verse eid="1KI 21:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="1KI 21:4"/>እዝራኤለ አደይ ናቡተይ፥ “ታኒ ታ አዋታፐ ላትዳ ጋደ ነዉ እምከ” ግዳ ግሾ፥ አካብ ይሎትሸነ አዛንሸ ባ ሶ ብድ፥ ጎዳኮ ስም ዝንእድ፥ ካካ ሞና እፅስ።<verse eid="1KI 21:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="1KI 21:5"/>እያ ማችያ ኤልዛቤላ እያኮ ገላዳ፥ “ነና ሀይሳዳ ይሎይዳይ አይቤ? አይስ ካ ሞና እፃይ?” ያጋዳ ኦይቻሱ።<verse eid="1KI 21:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="1KI 21:6"/>አካብ፥ “እዝራኤለ አደይ ናቡተይ፥ ‘ነ ዎይነ ጋድያ ታዉ ባይዛ ዎይኮ ነ ዶስኮ እያ ግሾ ታ ነዉ ሀራ ዎይነ ጋደ እማና’ ያግን፥ እ፥ ‘ታ ዎይነ ጋድያ ነዉ እምከ’ ያግን፥ ታ ሄሳ ግሾ ይሎትስ” ያግስ።<verse eid="1KI 21:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="1KI 21:7"/>ኤልዛቤላ፥ “ነ እስራኤለ ቦላ ካዎ ግዳ ኡታዳ ሀይሳዳ ሀናይ? ደንዳዳ ማ! ዎዛናፐ ኡፋይታ! እዝራኤለ አድያ ናቡተ ዎይነ ጋድያ ታኒ ነዉ እምሳና” ያጋሱ።<verse eid="1KI 21:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="1KI 21:8"/>ሄሳ ግሾ፥ እያ አካባ ሱንን ዳብዳበ ፃፋዳ፥ እያ ቦላ ማታመ ዎሱ። ናቡተራ እስፈ ካታማን ደእያ ጭማታስነ ግታ አሳታስ ኪታሱ። <verse eid="1KI 21:8"/><verse number="9" style="v" sid="1KI 21:9"/>ዳብዳበ ሀይሳዳ ያጋዳ ፃፋሱ፤ “እስ ጋላስ ፆማ አዋጅተ፤ አሳ እስፈ ሺሽተ፤ ናቡተ ቦንቾ በሳን ኡትስተ። <verse eid="1KI 21:9"/><verse number="10" style="v" sid="1KI 21:10"/>ናቡተይ፥ ‘ፆሳነ ካዋ ጫይስ’ ያግድ ማርካትያ ናምኡ ማርካታ ሺሽድ፥ ማርካታናዳ ኦተ። ሄሳፈ ጉየ፥ ካታማፐ ጋፃ ከስድ፥ ሹቻን ጫድድ ዎተ” ያጋዳ ፃፋሱ።<verse eid="1KI 21:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="1KI 21:11"/>ሄሳ ግሾ፥ ናቡተራ እስፈ ካታማን ደእያ ጭማትነ ግታ አሳት ኤልዛቤላ ኤንታዉ ፃፍዳ ዳብዳብያን ግዳይሳዳ ኦዶሶና። <verse eid="1KI 21:11"/><verse number="12" style="v" sid="1KI 21:12"/>ኤንቲ ፆማ አዋጅድ፥ ናቡተ አሳ ግዶን ቦንቾ በሳን ኡትስዶሶና። <verse eid="1KI 21:12"/><verse number="13" style="v" sid="1KI 21:13"/>ናምኡ ዎርዶ ማርካት ይድ፥ እያኮ ስም ኡትድ፥ አሳ ስንን፥ “ናቡተይ ፆሳነ ካዋ ጫይስ” ያግድ ዎርዶ ማርካትዶሶና። ናቡተ ካታማፐ ጋፃ ከስድ፥ ሹቻን ጫድድ ዎዶሶና።<verse eid="1KI 21:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="1KI 21:14"/>ጭማት ኤልዛቤልኮ፥ “ናቡተይ ሹቻን ጫደትድ ሀይቅስ” ያግድ ኪትዶሶና።<verse eid="1KI 21:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="1KI 21:15"/>ናቡተይ ሹቻን ጫደትድ ሀይቅዳይሳ ኤልዛቤላ ስእዳ ዎደ፥ “እዝራኤለ አድያ ናቡተይ ነዉ ሚሸን ባይዛናዉ እፅዳ ዎይነ ጋድያ ባዳ ኤካ። እ ሀእ ሀይቅስ” ያጋሱ። <verse eid="1KI 21:15"/><verse number="16" style="v" sid="1KI 21:16"/>እዝራኤለ አደይ ናቡተይ ሀይቅዳይሳ አካብ ስእድ፥ ናቡተ ዎይነ ጋድያ ባዉ ኤካናዉ ደንድድ ብስ።<verse eid="1KI 21:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="1KI 21:17"/>ሄሳፈ ጉየ፥ ተስባ አድያ ኤልያሳኮ ጎዳ ቃላይ ይድ፥ <verse eid="1KI 21:17"/><verse number="18" style="v" sid="1KI 21:18"/>“ሳማረን ካዎትዳ እስራኤለ ካዋ አካባራ ጋሄታናዉ ባ። ሄኮ፥ እ ናቡተ ዎይነ ጋድያ ኤካናዉ ብድ፥ ያን ደኤስ። <verse eid="1KI 21:18"/><verse number="19" style="v" sid="1KI 21:19"/>ጎዳይ ሀይሳዳ ያጌስ ጋዳ እያዉ ኦዳ፤ ‘አድያ ዎዳ እያ ጋድያ ነዉ ኤካዳሳ ግድኪ?’ ያጋ። ቃስ ጎዳይ፥ ‘ናቡተ ሱ ካናት ላጭዳ በሳን ነ ሱካ ካናት ላጫና’ ” ያግስ።<verse eid="1KI 21:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="1KI 21:20"/>አካብ ኤልያሳ በእዳ ዎደ፥ “ታ ሞርክያዉ፥ ታና ደማዲ?” ያግስ።</para>
+  <para style="p" vid="1KI 21:20">ኤልያስ፥ “ኤ፥ ነና ደማስ። ኔኒ ጎዳ ስንን ኢታባ ኦናዉ ነና ናጋራስ ባይዛዳሳ። <verse eid="1KI 21:20"/><verse number="21" style="v" sid="1KI 21:21"/>ጎዳይ ኔኮ ሀይሳዳ ያጌስ፤ ‘ሄኮ፥ ታኒ ነ ቦላ ኢታባ ኤሀና። ታኒ ነ ኮቻታ ይሳና፤ ታኒ እስራኤለ ቢታን አካባ ሶ አሳፐ አይለ ግድን ዎማኖ ግድን፥ እስ አደይ አቶና ይሳና። <verse eid="1KI 21:21"/><verse number="22" style="v" sid="1KI 21:22"/>ኔኒ እስራኤለ አሳ ናጋራ ኦስሳዳ ታና ሀንቀዳ ግሾ፥ ታ ነ ሶ አሳ ናባፃ ናኣ እዮርባማ ሶ አሳዳነ አክያ ናኣ ባኦሳ ሶ አሳዳ ኦና።’ <verse eid="1KI 21:22"/><verse number="23" style="v" sid="1KI 21:23"/>ቃስ ጎዳይ ኤልዛቤልባ ኦድሸ፥ ‘እዝራኤለ ካታማ ግምበ ድርሳ ላንቀን ካናት ኤልዛቤሎ ማና’ ያጌስ። <verse eid="1KI 21:23"/><verse number="24" style="v" sid="1KI 21:24"/>አካባ ኮቸ ግድድ ካታማን ሀይቅያ ኦናካ ካን ማና፤ ጋፃርያን ሀይቅያ ኦናካ ሳሎ ካፎት ማና” ያግስ።<verse eid="1KI 21:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="1KI 21:25"/>ባ ማችያ ኤልዛቤላ ደንን፥ ጎዳ ስንን ኢታባ ኦናዉ ባና ናጋራስ ባይዝዳ አካባ መላ አስ ባዋ። <verse eid="1KI 21:25"/><verse number="26" style="v" sid="1KI 21:26"/>አካብ፥ ጎዳይ እስራኤለ አሳ ስንፈ ጎድድ ከስዳ አሞረታ ኤቃ ጎይንድ ዳሮ እፀትዳባ ሀንስ።<verse eid="1KI 21:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="1KI 21:27"/>አካብ ሄሳ ስእዳ ዎደ ባ ማኡዋ ዳክድ፥ ካዮ ማኦ ማእድ ፆምስ። ካዮ ማኦ ማእድ ስኬስ፤ አዛንሸ ሄመቴስ።<verse eid="1KI 21:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="1KI 21:28"/>ሄሳፈ ጉየ ጎዳ ቃላይ ተስባ አድያ ኤልያሳኮ ይድ፥ <verse eid="1KI 21:28"/><verse number="29" style="v" sid="1KI 21:29"/>“አካብ ባና ታ ስንን ዋትድ ካዉሽዳኮ በአዲ? እ ታ ስንን ባና ካዉሽዳ ግሾ፥ ታኒ ዩዋ እያ ዎደ ኤህከ። ሽን ታኒ እያ ናኣ ዎደን እያ ሶ አሳ ቦላ ሀ ዩዋ ኤሀና” ያግስ።<verse eid="1KI 21:29"/></para>
+  <chapter eid="1KI 21"/>
+  <chapter number="22" style="c" sid="1KI 22"/>
+  <para style="s1">አካባነ ዎርዳንቾ ናበታ</para>
+  <para style="r">(<ref loc="2CH 18:2-27">2 ታር 18:2-27</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="1KI 22:1"/>ሶረይነ እስራኤለይ ኦለቶና ሄ ላይ ሳሮ ደእዶሶና። <verse eid="1KI 22:1"/><verse number="2" style="v" sid="1KI 22:2"/>ሄን ላይን፥ ይሁዳ ካዎይ እዮሳፈፅ እስራኤለ ካዋ በአናዉ ብስ። <verse eid="1KI 22:2"/><verse number="3" style="v" sid="1KI 22:3"/>እስራኤለ ካዎይ ባ ሞርናታኮ፥ “ጋላዳን ደእያ ራሞታ ካታማይ ኑባ ግደይሳነ ኑኒ ሀኖ ጋካናዉ ሄ ካታማ ሶረ ካዉዋፐ ኤካናዉ አይኮካ ኦናይሳ ኤረከቲ?” ያግስ። <verse eid="1KI 22:3"/><verse number="4" style="v" sid="1KI 22:4"/>እ፥ እዮሳፈፃ፥ “ጋላዳን ደእያ ራሞታ ካታማ ኦላናዉ ታራ ባኔ?” ያግድ ኦይችስ።</para>
+  <para style="p" vid="1KI 22:4">እዮሳፈፅ ዛሪድ፥ “ኤ፥ ኔኒ ኦላ ባናዉ ጊግያ ዎደ ታ ኔራ ባና። ታ ኦላንቾት ነ ኦላንቾታ፤ ታ ፓራት ነ ፓራታ” ያግስ። <verse eid="1KI 22:4"/><verse number="5" style="v" sid="1KI 22:5"/>ቃስ፥ እዮሳፈፅ እስራኤለ ካዋ፥ “ግዶሽን፥ ስንታዳ ጎዳ ኦይቻ” ያግስ።<verse eid="1KI 22:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="1KI 22:6"/>እስራኤለ ካዎይ ኦይዱ ፄቱ ናበታ እስፈ ሺሽድ፥ “ጋላዳን ደእያ ራሞታ ካታማ ኦላናዉ ቦየ ቦፖ” ያግድ ኦይችስ።</para>
+  <para style="p" vid="1KI 22:6">ኤንቲ፥ “ባ፤ ጎዳይ ሄ ካታማ ካዋ ኩሸን አድ እማና” ያግዶሶና።<verse eid="1KI 22:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="1KI 22:7"/>ሽን እዮሳፈፅ፥ “ኑኒ ጎዳ ኦይቻናዉ ዳንዳእያ ሀራ ናበይ ሀይሳን ባዌ?” ያግስ።<verse eid="1KI 22:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="1KI 22:8"/>እስራኤለ ካዎይ ዛሪድ፥ “ኑኒ እያ ባጋራ ጎዳ ኦይቻናዉ ዳንዳእያ እስ አደይ ደኤስ። እ፥ ይምላ ናኣ ምክያሳ። ሽን እ ኡባ ዎደ ታባ ኢታባፐ አትሽን፥ ሎኦባ ኦዶና ግሾ ታ እያ እፃይስ።”</para>
+  <para style="p" vid="1KI 22:8">እዮሳፈፅ፥ “ካዎይ ሄሳ ጎፖ!” ያግስ።<verse eid="1KI 22:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="1KI 22:9"/>ሄሳ ግሾ፥ እስራኤለ ካዎይ ባ ሞርናታፐ እሱዋ ፄግድ፥ “ይምላ ናኣ ምክያሳ ኤለ ኤካዳ ያ” ያግስ።<verse eid="1KI 22:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="1KI 22:10"/>እስራኤለ ካዎይነ ይሁዳ ካዎይ እዮሳፈፅ ባንታ ካዎተ ማኡዋ ማእድ፥ ሳማረ ካታማ ገልያ ፐንግያ ማታን ደእያ ዉዱማን ባንታ ካዎተ አራታን ኡትዶሶና፤ ናበት ኡባይ ኤንታ ስንን ትንብተ ኦዶሶና። <verse eid="1KI 22:10"/><verse number="11" style="v" sid="1KI 22:11"/>ኤንታፈ እሶይ፥ ካናነ ናአይ ሰደቅያስ ብራታ ካጨታ ጊግስድ፥ “ጎዳይ ሀይሳዳ ያጌስ፤ ‘ሶረት ያና ጋካናዉ ነ ኤንታ ሀ ካጨታን ቃይጫና’ ” ያግስ። <verse eid="1KI 22:11"/><verse number="12" style="v" sid="1KI 22:12"/>ሀራ ናበት ኡባይ፥ “ጋላዳን ደእያ ራሞታ ካታማ ባዳ ኦላ፤ ፆና። ጎዳይ ሄ ካታማ፥ ካዋ ኩሸን አድ እማና” ያግድ ኦድዶሶና።<verse eid="1KI 22:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="1KI 22:13"/>ምክያሳ ፄጋናዉ ኪተትድ ብዳ አደይ፥ “ሄኮ፥ ናበት ኡባይ እስ ዶና ግድድ፥ ‘ካዎይ ሀ ኦላ ፆናና’ ያግድ ኦድዶሶና። ሄሳ ግሾ፥ ሀያና ነ ኦዳይካ ኤንታይሳ መላ ግዶ፤ ነ ሎኦባ ኦዳ” ያግስ።<verse eid="1KI 22:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="1KI 22:14"/>ሽን ምክያስ፥ “ጎዳይ ኤርያ መላ፥ ጎዳይ ታዉ ኦድያባ ታ ኦዳና” ያግስ።<verse eid="1KI 22:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="1KI 22:15"/>ምክያስ ካዋኮ ይዳ ዎደ፥ ካዎይ፥ “ምክያሳ፥ ኑ ጋላዳን ደእያ ራሞታ ካታማ ኦላናዉ ቢኖ ቦፖ” ያግድ ኦይችስ።</para>
+  <para style="p" vid="1KI 22:15">ምክያስ፥ “ባዳ ኦላ፤ ነ ፆናና። ጎዳይ ሄ ካታማ ካዋ ኩሸን አድ እማና” ያግስ።<verse eid="1KI 22:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="1KI 22:16"/>ካዎይ፥ “ነ ጎዳ ሱንን ታዉ ቱማ ኦዳና መላ ታ ነና አፑን ቶሆ ጫቀ?” ያግስ።<verse eid="1KI 22:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="1KI 22:17"/>ምክያስ፥ “እስራኤለ ኦላንቾት ኡባይ ሄንንቾይ ባይና ዶርሳዳ ደርያ ቦላ ላለትዳይሳ ታ በአስ። ጎዳይ፥ ‘ሀይሳታስ ጎድ ባዋ። ኤንቲ ኡባይ ባንታ ሶ ሶ ሳሮ ቦ’ ” ያግስ።<verse eid="1KI 22:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="1KI 22:18"/>እስራኤለ ካዎይ እዮሳፈፃኮ፥ “እ ታባ ኢታባ ኦዴስፐ አትሽን፥ ሎኦባ ኦድ ኤረና ጋዳ፥ ታ ነዉ ኦዳብክና?” ያግስ።<verse eid="1KI 22:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="1KI 22:19"/>ምክያስ ጉጅድ፥ “ህዛ ጎዳይ ግያባ ስአ! ጎዳይ ባ አራታን ኡትን፥ ሳሎ ኪታንቾት ኡባይ እያ ኡሻቻንነ ሀድርሳን ኤቅዳሽን በአስ። <verse eid="1KI 22:19"/><verse number="20" style="v" sid="1KI 22:20"/>ጎዳይ፥ ‘አካብ ጋላዳን ደእያ ራሞታ ካታማ ብድ፥ ያን ሀይቃና መላ ባለናይ ኦኔ?’ ያግስ። እሶይ ሀይሳዳ ግያ ዎደ ሀንኮይ ቃስ ሄሳዳ ጌስ። <verse eid="1KI 22:20"/><verse number="21" style="v" sid="1KI 22:21"/>ዉርሰን እስ አያን ከይድ ጎዳ ስንን ኤቅድ፥ ‘ታ እያ ባለና’ ” ያግስ።<verse eid="1KI 22:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="1KI 22:22"/>ጎዳይ፥ “ነ ዋታ ባለኔ?” ያግስ።</para>
+  <para style="p" vid="1KI 22:22">አያናይ፥ “ታ ባዳ፥ እያ ናበታ ኡባ ዶናን ዎርዶ አያና ግዳና” ያግስ።</para>
+  <para style="p" vid="1KI 22:22">ጎዳይ፥ “ነ እያ ባለና፤ ነዉ ሄስ ሀናና። ባዳ ባለ” ያግስ።<verse eid="1KI 22:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="1KI 22:23"/>ምክያስ ጉጅድካ፥ “ሄኮ፥ ጎዳይ ነ ቦላ ዮ ኤሀናዉ ቃችዳ ግሾ ነ ናበታ ኡባ ዶናን ዎርዶ አያና ዎስ” ያግስ።<verse eid="1KI 22:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="1KI 22:24"/>ሄሳፈ ጉየ፥ ከናና ናአይ ሰደቅያስ ሺቅድ፥ ምክያሳ ባቅድ፥ “ጎዳ አያናይ ታና አግድ ዋንድ ነዉ ኦዳናዉ ብዴ?” ያግስ።<verse eid="1KI 22:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="1KI 22:25"/>ምክያስ፥ “ሄኮ፥ ኔኒ ቆሰታናዉ ቆልአ ገልያ ጋላስ ሄሳ ደማና” ያግስ።<verse eid="1KI 22:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="1KI 22:26"/>እስራኤለ ካዎይ ባ ኦላንቾታፐ እሱዋ፥ “ምክያሳ ኦይካዳ ካታማ ሃርያ አሞነስነ ታ ናኣ እዮኣሳስ ኤፋዳ እማ። <verse eid="1KI 22:26"/><verse number="27" style="v" sid="1KI 22:27"/>ካዎይ ስማና ጋካናዉ ሀ አድያ ቃሾ ኬን ዎተ። ታኒ ሳሮ ስማና ጋካናዉ፥ ጉ ኡይፈነ ሃፈ ሀራባ አይኮካ እያዉ እሞፕተ” ያግስ።<verse eid="1KI 22:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="1KI 22:28"/>ምክያስ፥ “ቱማ ነ ሳሮ ስምያባ ግድኮ፥ ጎዳይ ታዉ ኦድቤና” ያግስ። ቃስካ፥ ምክያስ፥ “አሳ ኡባይ ታ ኦድዳይሳ አኬክተ” ያግስ።<verse eid="1KI 22:28"/></para>
+  <para style="s1">አካባ ሀይቁዋ</para>
+  <para style="r">(<ref loc="2CH 18:28-34">2 ታር 18:28-34</ref>)</para>
+  <para style="p">
+    <verse number="29" style="v" sid="1KI 22:29"/>ሄሳፈ ጉየ፥ እስራኤለ ካዎይነ ይሁዳ ካዎይ እዮሳፈፅ ጋላዳን ደእያ ራሞታ ካታማ ብዶሶና። <verse eid="1KI 22:29"/><verse number="30" style="v" sid="1KI 22:30"/>እስራኤለ ካዎይ እዮሳፈፅ፥ “ታ ማኡዋ ላማዳ፥ ሀራ አስ ዳናዳ ኦላ ገላና፤ ሽን ኔኒ ነ ካዎ ማኡዋ ማአ” ያግስ። እስራኤለ ካዎይ ማኡዋ ላምድ፥ ሀራ አስ ዳንድ ኦላ ገልስ።<verse eid="1KI 22:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="1KI 22:31"/>ሶረ ካዎይ ባ ፓራ ጋረታ ኪትያ ሀስታማነ ናምኡ አሳታኮ፥ “ካዋ ፃላል አትሽን፥ ሀራ ኦደራካ ኦለቶፍተ” ያግድ ኪትስ።<verse eid="1KI 22:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="1KI 22:32"/>ፓራ ጋርያ ኪተይሳት እዮሳፈፃ በእዳ ዎደ፥ “ቱማ ሀይስ እስራኤለ ካዋ” ያግዶሶና። እያራ ኦለታናዉ ስምን እዮሳፈፅ ዋስስ። <verse eid="1KI 22:32"/><verse number="33" style="v" sid="1KI 22:33"/>ፓራ ጋረታ ኪተይሳት፥ እ እስራኤለ ካዋ ግዶናይሳ በእድ፥ እያ የደይሳ አጋግዶሶና።<verse eid="1KI 22:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="1KI 22:34"/>ግዶሽን፥ እስ አደይ ጮ ባ ዶንግያ ዱክድ፥ እስራኤለ ካዋ ኦላ ማኦይ ጋሄትያ በሳራ ጫድን፥ እስራኤለ ካዎይ ባ ጋርያ ላግያ አድያኮ፥ “ጋርያ ጉየ ዛራዳ፥ ታና ኦላ ግዶፈ ከሳ፤ ታኒ ኢታ ጫቸ ጫደታስ” ያግስ። <verse eid="1KI 22:34"/><verse number="35" style="v" sid="1KI 22:35"/>ሄ ጋላስ ኦላይ ጎብያ ዎደ፥ እስራኤለ ካዎይ አካብ ባ ፓራ ጋርያ ግዶን ዘምፕድ፥ ሶረታ ስንን ታክስ። እያ ሱይ ፓራ ጋርያ ግዶ ጉክን፥ እ ኦማርስ ሀይቅስ።<verse eid="1KI 22:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="1KI 22:36"/>አዋይ ዉላናዉ ማትሽን፥ “አሳ ኡባይ ባ ካታማ ካታማ ቦ! አሳ ኡባይ ባ ቢታ ቢታ ቦ!” ግያ ኪት ስኤትስ።<verse eid="1KI 22:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="1KI 22:37"/>ኤንቲ ካዋ ሳማረ ካታማ ኤፍድ ያን ሞግዶሶና። <verse eid="1KI 22:37"/><verse number="38" style="v" sid="1KI 22:38"/>ላይማ ማጫሳት ሜጨትያ፥ ተቀትድ ኡትዳ ሳማረ ሃን ጋርያ ሜጭዶሶና። ጎዳይ ካሰ ኦድዳ ቃላዳ እያ ሱ ካናት ላጭዶሶና።<verse eid="1KI 22:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="1KI 22:39"/>አካብ ሀንዳ ሀራባይ፥ እ ኦዳባ ኡባይ፥ ዳንጋርሳ ዛለን ካዎ ጋ ኬፅዳባነ ግምብዳ ካታማታባይ ኡባይ እስራኤለ ካዎታ ታርከ ማፃፋን ፃፈትስ። <verse eid="1KI 22:39"/><verse number="40" style="v" sid="1KI 22:40"/>አካብ ሀይቅድ ባ ማይዛታን ጋሄትስ፤ እያ በሳን እያ ናአይ አካዝያስ ካዎትስ።<verse eid="1KI 22:40"/></para>
+  <para style="s1">ይሁዳ ካዋ እዮሳፈፃ</para>
+  <para style="r">(<ref loc="2CH 20:31-21:1">2 ታር 20:31—21:1</ref>)</para>
+  <para style="p">
+    <verse number="41" style="v" sid="1KI 22:41"/>እስራኤለ ካዎይ አካብ ካዎትዳ ኦይዳን ላይን አሳ ናአይ እዮሳፈፅ ይሁዳን ካዎትስ። <verse eid="1KI 22:41"/><verse number="42" style="v" sid="1KI 22:42"/>እ ካዎትያ ዎደ ላይ እያዉ ሀስታማነ እቻሻ፤ እ የሩሳላመን ላታማነ እቻሹ ላይ ካዎትስ። እያ አይያ ሽልሀ ናእዉ አዙቦ። <verse eid="1KI 22:42"/><verse number="43" style="v" sid="1KI 22:43"/>እዮሳፈፅ ባ አዋ አሳ ኦግያን ሄመትስ፤ እ ሄ ኦግያፐ ገደ ሃ ግቤና፤ ጎዳ ስንን ሱረባ ኦስ። ግዶሽን፥ ቃ ጎይኖ በሳታ ይስቤና፤ አሳይ ሄ በሳን ያርሾነ እፃነ ጩይሰ አግቤና። <verse eid="1KI 22:43"/><verse number="44" style="v" sid="1KI 22:44"/>እዮሳፈፅ እስራኤለ ካዉዋራ ስገትስ።<verse eid="1KI 22:44"/></para>
+  <para style="p">
+    <verse number="45" style="v" sid="1KI 22:45"/>እዮሳፈፅ ሀንዳ ሀራባይ፥ እያ ምኖተይነ እ ኦለትዳ ኦላይ ይሁዳ ካዎታ ታርከ ማፃፋን ፃፈትስ። <verse eid="1KI 22:45"/><verse number="46" style="v" sid="1KI 22:46"/>እያ አዋይ አስ ካዎትዳ ዎድያፐ ዶምን፥ አትዳ አደራ አደራ ላይማተይሳታ ቢታፈ ድግስ።<verse eid="1KI 22:46"/></para>
+  <para style="p">
+    <verse number="47" style="v" sid="1KI 22:47"/>ሄ ዎደ ኤዶመ ቢታን ካዎይ ባዋ፤ ሄ ቢታን ሹመትዳ ሀላቅ ሃርስ።<verse eid="1KI 22:47"/></para>
+  <para style="p">
+    <verse number="48" style="v" sid="1KI 22:48"/>ኦፍራ ቢታፈ ዎርቃ ኤሀና መላ እዮሳፈፅ ግታ ማርካበታ ኦስስስ፤ ሽን ሄ ማርካበት ኤፅዮን-ጋብራን መቀረትዶሶናፐ አትሽን፥ ኩም ብቦኮና። <verse eid="1KI 22:48"/><verse number="49" style="v" sid="1KI 22:49"/>ሄ ዎደ አካባ ናአይ አካዝያስ፥ “ታ ኦሳንቾት ነ ኦሳንቾታራ እስፈ ማርካብያን ቦ” ያግስ፤ ሽን እዮሳፈፅ እፅስ።<verse eid="1KI 22:49"/></para>
+  <para style="p">
+    <verse number="50" style="v" sid="1KI 22:50"/>እዮሳፈፅ ሀይቅድ ባ ማይዛታን ጋሄትስ። ባ ማይዛ ዳዊታ ካታማን ሞገትስ። እያ በሳን እያ ናአይ እዮራም ካዎትስ።<verse eid="1KI 22:50"/></para>
+  <para style="s1">እስራኤለ ካዋ አካዝያሳ</para>
+  <para style="p">
+    <verse number="51" style="v" sid="1KI 22:51"/>ይሁዳ ካዎይ እዮሳፈፅ ካዎትዳ ታማነ ላፑን ላይን፥ አካባ ናአይ አካዝያስ እስራኤለ ቦላ ሳማረን ካዎትስ፤ እስራኤለ ቦላ ናምኡ ላይ ካዎትስ። <verse eid="1KI 22:51"/><verse number="52" style="v" sid="1KI 22:52"/>አካዝያስ ጎዳ ስንን ኢታባ ኦስ፤ ባ አዋነ ባ አየ ኦግያንነ እስራኤለ አሳ ናጋራ ኦስስዳ፥ ናባፃ ናኣ እዮርባማ ኦግያን ሄመትስ። <verse eid="1KI 22:52"/><verse number="53" style="v" sid="1KI 22:53"/>አካዝያስ ባኣለ ኤቃስ ኦስ፤ እያ ጎይንስ። እያ አዋይ ካሰ ኦዳይሳዳ፥ ጎዳ እስራኤለ ፆሳ ሀንቀስ።<verse eid="1KI 22:53"/></para>
+  <chapter eid="1KI 22"/>
+</usx>

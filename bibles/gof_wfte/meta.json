@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "ጌሻ ማፃፋ",
+        "local_abbrev": "",
+        "english": "Gofa Bible (Ethiopic script)",
+        "english_abbrev": "GBE"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=dc48e3dbec149793"
+    },
+    "ids": {
+        "dbl": "dc48e3dbec149793"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=dc48e3dbec149793&type=release",
+        "updated": "2024-09-20",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}
