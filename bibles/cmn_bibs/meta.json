@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "圣经当代译本开放资源",
+        "local_abbrev": "",
+        "english": "Open Chinese Contemporary Bible (Simplified)",
+        "english_abbrev": "OCCS"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=7ea794434e9ea7ee"
+    },
+    "ids": {
+        "dbl": "7ea794434e9ea7ee"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=7ea794434e9ea7ee&type=release",
+        "updated": "2024-04-29",
+        "revision": 3
+    },
+    "literalness": null,
+    "tags": []
+}
