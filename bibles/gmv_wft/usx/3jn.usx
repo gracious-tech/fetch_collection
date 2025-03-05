@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usx version="2.6">
-  <book code="3JN" style="id">- Gamo project</book>
-  <para style="h">3 Yanisa</para>
-  <para style="mt1">3 Yanisa</para>
-  <chapter number="1" style="c"/>
+<usx version="3.0">
+  <book code="3JN" style="id">- Gamo Full Bible final version</book>
+  <para style="h">3Yohannisa Kiita</para>
+  <para style="toc1">Yohannisi Xaafida Heedzdzanththo Kiita</para>
+  <para style="toc2">3Yohannisa Kiita</para>
+  <para style="toc3">3Yoha</para>
+  <para style="mt1">Yohannisi</para>
+  <para style="mt2">Xaafida Heedzdzanththo Kiita</para>
+  <para style="imt1">Giddo Qofa</para>
+  <para style="ip">Heedzdzanththo kiitazikka xaafettiday, «Cima gidida Hawaare Yohannisappe» gidishin he kiitazi issi Woosa Keeth kaaleththiza Gayiyoosa geetettizaadessa; Gayiyoosi hankko ammanizayta maaddida gishshas xaafezi iza galatees. Hara baggara qasse Diyotrafese geetettizaade issi iita asappe naagettana mala qofsees; gaasoykka izi Woosa Keeththa bolla otoreteththafe dendidayssan daanna gidana koyza gishshassa.</para>
+  <para style="iot">Ha Maxaafay Oykkida Kumeththa Qofa</para>
+  <para style="io1">Geloso <char style="ior"><ref loc="3JN 1:1-4">1-4</ref> </char></para>
+  <para style="io1">Gayiyoosas imettida galata <char style="ior"><ref loc="3JN 1:5-8">5-8</ref> </char></para>
+  <para style="io1">Diyoxiroosas shiiqida walasse <char style="ior"><ref loc="3JN 1:9-10">9-10</ref> </char></para>
+  <para style="io1">Dimexiroosas imettida qaalata <char style="ior"><ref loc="3JN 1:11-12">11-12</ref> </char></para>
+  <para style="io1">Kuushsha qofa <char style="ior"><ref loc="3JN 1:13-15">13-15</ref> </char></para>
+  <chapter number="1" style="c" sid="3JN 1"/>
   <para style="p">
-    <verse number="1" style="v"/>Taape ciimazape, tumape ta siiqiza ta siiqqo laagge gayyosas. <verse number="2" style="v"/>Ta ishazo, ne shempoy loo7on dizamala ne asatethay loo7o dana malane ne oothizazi wurikka nees giiga gidanamala ta nees wossays. <verse number="3" style="v"/>Ne tumas amanetidade gidida mala qassekka ne hanoy wuri tumu gididaysa isi isi amaniza asati taakko yidi ne gish yotiin siyada ta daro ufa7istadis. <verse number="4" style="v"/>Gasoykka ta nayti loo7onne tuman smeretishin siisafe adhiza hara ufaysi tas deena.</para>
-  <para style="s">Gayiyosas imetida lo7o markateth</para>
+    <verse number="1" style="v" sid="3JN 1:1"/>Taappe cimazappe, tumappe ta siiqiza ta siiqo lagge Gayiyoosas,<note caller="-" style="x"><char style="xo" closed="false">1 </char><char style="xt" closed="false"><ref loc="ACT 19:29">Hawa 19:29</ref>; <ref loc="ROM 16:23-24">Oro 16:23-24</ref>; <ref loc="1CO 1:14">1Qoro 1:14</ref></char></note><verse eid="3JN 1:1"/></para>
   <para style="p">
-    <verse number="5" style="v"/>Ta ishazo issti nes imath gidikokka nenii ne ishatas oothida mishe wurson amanistadasa. <verse number="6" style="v"/>Ne bolla ay mala siiqqoy dizakone isti ne gish wosa keeththa asa sinthan marikatida. Isti biiza oogen Xooss ufaysiza hanon ne ista madikko loo7o oothassa. <verse number="7" style="v"/>Ays gikko isti Xoossa amanontaytape aykokka ekonta Kirstossa suntha gish mela kezida. <verse number="8" style="v"/>Hesa giish nu isippe tumas oothan mala heytanta malata mokkii ekana beses. <verse number="9" style="v"/>Ta Wossa keethas hayssafe kase xafadis. Gido attiin kallethizade gidana koyiza Diyoxraxossay nu gizaz ekena. <verse number="10" style="v"/>Hesa gish, ta he bikko izi ba ita qalan nu sunthu moranas oothidaysa ta intes qonccisana. Hesikka izas gidonta ixin amaniza asa mokki ekena; Mokkii ekana koyzaytakka digesinne wossa keethafe kesi godes. <verse number="11" style="v"/>Ta ishazo, loo7ota milata attiin ita asata milatopa. Loo7o oothizadey wurikka Xoossa asa. Ita oothizadey qasse Xooss beybeyna. <verse number="12" style="v"/>Dimexrosas asi wuri loo7o markates. Tumaykka izas markataysu. Nukka izas markatos, intekka nu markkay tumu gididaysa ereta.</para>
-  <para style="s">wursetha sarotho</para>
+    <verse number="2" style="v" sid="3JN 1:2"/>Ta ishazoo! Ne shemppoy lo7on diza mala ne asateththay lo7o daana malanne ne ooththizaazi wurikka nees giiga gidana mala ta nees woossays. <verse eid="3JN 1:2"/><verse number="3" style="v" sid="3JN 1:3"/>Neni tumaas ammanettidaade gidida mala qasseka ne hanoy wuri tumu gididayssa issi issi ammaniza asati taakko yiidi ne gishshas yootiin siyada ta daro ufayettadis. <verse eid="3JN 1:3"/><verse number="4" style="v" sid="3JN 1:4"/>Gaasoykka ta nayti lo7oninne tuman simerettishin sissafe aadhdhiza hara ufayssi taas deenna.<verse eid="3JN 1:4"/></para>
+  <para style="s1">Gayiyoosas Imettida Lo7o Markkateth</para>
   <para style="p">
-    <verse number="13" style="v"/>Ta nees xahaaththaana buro daro yoy dees shin ta nes waraqatan xahaaththaanas koyikke. <verse number="14" style="v"/>Ta nena mata wode beyanas ufays oothays, he wode nu isife uti hasa7ana. <verse number="15" style="v"/>Ane saron da; ne lageti nena saro saro getes, ta lagista sunthu sunthu xeygada saro ga.</para>
+    <verse number="5" style="v" sid="3JN 1:5"/>Ta ishazoo! Istti nees imath gidikkoka neni ne ishatas ooththida miishshe ubbaan ammanettadasa. <verse eid="3JN 1:5"/><verse number="6" style="v" sid="3JN 1:6"/>Ne bolla ay mala siiqoy dizaakko istti ne gishshas Woosa Keeththa asaa sinththan markkattida; istti biza ogen Xoos ufayssiza hanon ne istta maaddiko lo7o ooththaasa. <verse eid="3JN 1:6"/><verse number="7" style="v" sid="3JN 1:7"/>Ays giikko istti Xoossaa ammanonttaytappe aykkoka ekkontta Kirstoosa sunththaa gishshas mela kezida. <verse eid="3JN 1:7"/><verse number="8" style="v" sid="3JN 1:8"/>Hessa gishshas nu issife tumaas ooththana mala heytantta malata mokki ekkanaas bessees.<verse eid="3JN 1:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="3JN 1:9"/>Tani Woosa keeththas hayssafe kase xaafadis; gido attiin kaaleththizaade gidana koyza Diyoxiraxoosi nuni gizaaz ekkenna. <verse eid="3JN 1:9"/><verse number="10" style="v" sid="3JN 1:10"/>Hessa gishshas ta hee biikko izi ba iita qaalaan nu sunth mooranaas ooththidayssa ta inttes qonccisana; hessika izas gidontta ixxiin ammaniza asaa mokki ekkenna; mokki ekkana koyzaytakka diggeessinne Woosa Keeththafe kessi gooddees.<verse eid="3JN 1:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="3JN 1:11"/>Ta ishazoo! Lo7ota misata attiin iita asata misatoppa; lo7o ooththizaadey wurikka Xoossa asa; iita ooththizaadey gidikko Xoos beyibeenna. <verse eid="3JN 1:11"/><verse number="12" style="v" sid="3JN 1:12"/>Dimexiroosas asi wuri lo7o markkattees; tumaykka izas markkattawus; nunikka izas markkattoos; intteka nu markkay tumu gididayssa ereeta.<verse eid="3JN 1:12"/></para>
+  <para style="s1">Wurseththa Saroka</para>
+  <para style="p">
+    <verse number="13" style="v" sid="3JN 1:13"/>Ta nees xaafana buro daro yo7oy dees shin waraqatan xaafanaas koykke. <verse eid="3JN 1:13"/><verse number="14" style="v" sid="3JN 1:14"/>Ta nena mata wode beyanaas hidota ooththays; he wode nu issife utti haasayana.<verse eid="3JN 1:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="3JN 1:15"/>Ane saron da; ne laggeti nena saro saro geettes; ta laggeta sunththan sunththan xeygada saro ga.<verse eid="3JN 1:15"/></para>
+  <chapter eid="3JN 1"/>
 </usx>
