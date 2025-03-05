@@ -257,7 +257,7 @@
         },
         "ace": {
             "local": "Basa Acèh",
-            "english": "Achinese",
+            "english": "Acehnese",
             "pop": 3500000
         },
         "acf": {
@@ -3941,7 +3941,7 @@
             "pop": 135000
         },
         "blo": {
-            "local": "Basila",
+            "local": "anii kagɩja",
             "english": "Anii",
             "pop": 48900
         },
@@ -7070,7 +7070,7 @@
             "pop": 0
         },
         "csw": {
-            "local": "ᓀᐦᐃᓇᐍᐏᐣ / Nêhinawêwin",
+            "local": "ᓀᐦᐃᓇᐍᐏᐣ",
             "english": "Swampy Cree",
             "pop": 4500
         },
@@ -9225,7 +9225,7 @@
             "pop": 12000
         },
         "epo": {
-            "local": "esperanto",
+            "local": "Esperanto",
             "english": "Esperanto",
             "pop": null
         },
@@ -9430,7 +9430,7 @@
             "pop": 1600
         },
         "ewe": {
-            "local": "Eʋegbe",
+            "local": "eʋegbe",
             "english": "Ewe",
             "pop": 4965300
         },
@@ -10512,7 +10512,7 @@
         "gho": {
             "local": "Shilha",
             "english": "Ghomara",
-            "pop": null
+            "pop": 0
         },
         "ghr": {
             "local": "Bara",
@@ -14175,7 +14175,7 @@
             "pop": 2200
         },
         "kaa": {
-            "local": "قاراقالپاق تىلى",
+            "local": "қарақалпақша",
             "english": "Kara-Kalpak",
             "pop": 748070
         },
@@ -15220,7 +15220,7 @@
             "pop": 730
         },
         "kin": {
-            "local": "Kinyarwanda",
+            "local": "Ikinyarwanda",
             "english": "Kinyarwanda",
             "pop": 12100000
         },
@@ -16735,7 +16735,7 @@
             "pop": 0
         },
         "kur": {
-            "local": "kurdî",
+            "local": "kurdî (kurmancî)",
             "english": "Kurdish",
             "pop": 25100000
         },
@@ -17115,7 +17115,7 @@
             "pop": 800
         },
         "kxv": {
-            "local": "Kuwi",
+            "local": "kuvi",
             "english": "Kuvi",
             "pop": 176000
         },
@@ -18265,7 +18265,7 @@
             "pop": 11000
         },
         "lld": {
-            "local": "lingaz ladin",
+            "local": "ladin",
             "english": "Ladin",
             "pop": 31000
         },
@@ -18410,7 +18410,7 @@
             "pop": 40000000
         },
         "lmo": {
-            "local": "Lumbaart",
+            "local": "Lombard",
             "english": "Lombard",
             "pop": 3600000
         },
@@ -20130,8 +20130,8 @@
             "pop": 8300
         },
         "mic": {
-            "local": "Mi'kmawi'simk",
-            "english": "Mi'kmaq",
+            "local": "Lʼnuiʼsuti",
+            "english": "Mi'kmaw",
             "pop": 1500
         },
         "mid": {
@@ -22730,7 +22730,7 @@
             "pop": 62520
         },
         "nds": {
-            "local": "Low Saxon",
+            "local": "Neddersass’sch",
             "english": "Low German",
             "pop": 1000
         },
@@ -24189,7 +24189,7 @@
             "pop": 6500
         },
         "nso": {
-            "local": "Pedi",
+            "local": "Sesotho sa Leboa",
             "english": "Northern Sotho",
             "pop": 4631000
         },
@@ -24834,7 +24834,7 @@
             "pop": null
         },
         "oci": {
-            "local": "lenga d'òc",
+            "local": "occitan",
             "english": "Occitan",
             "pop": 218310
         },
@@ -32523,7 +32523,7 @@
             "pop": 55400
         },
         "tok": {
-            "local": "Toki Pona",
+            "local": "toki pona",
             "english": "Toki Pona",
             "pop": null
         },
@@ -34403,7 +34403,7 @@
             "pop": 0
         },
         "vec": {
-            "local": "Veneto",
+            "local": "veneto",
             "english": "Venetian",
             "pop": 7852500
         },
@@ -34668,7 +34668,7 @@
             "pop": null
         },
         "vmw": {
-            "local": "Emakuana",
+            "local": "emakhuwa",
             "english": "Makhuwa",
             "pop": 3973600
         },
@@ -38182,6 +38182,11 @@
             "english": "Aluo",
             "pop": 25000
         },
+        "ynb": {
+            "local": "Yamben",
+            "english": "Yamben",
+            "pop": 0
+        },
         "ynd": {
             "local": "Yandruwandha",
             "english": "Yandruwandha",
@@ -38918,7 +38923,7 @@
             "pop": 100
         },
         "zha": {
-            "local": "Zhuang",
+            "local": "Vahcuengh",
             "english": "Zhuang",
             "pop": 0
         },
