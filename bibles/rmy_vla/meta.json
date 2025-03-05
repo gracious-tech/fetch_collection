@@ -1,11 +1,11 @@
 {
     "name": {
         "local": "Библия пэ влахицко романи шыб",
-        "local_abbrev": "",
-        "english": "Eastern Vlakh Romani",
-        "english_abbrev": "EVR"
+        "local_abbrev": "ВРБ",
+        "english": "Vlakh Romani Bible",
+        "english_abbrev": "VRB"
     },
-    "year": 2023,
+    "year": 2021,
     "direction": "ltr",
     "copyright": {
         "licenses": [
@@ -14,18 +14,19 @@
                 "url": "https://creativecommons.org/licenses/by-sa/4.0/"
             }
         ],
-        "attribution": "Copyright © 2021 Pioneer Bible Translators",
-        "attribution_url": "https://ebible.org/Scriptures/details.php?id=rmyvlakh"
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=4e046bd6977f26de"
     },
     "ids": {
+        "dbl": "4e046bd6977f26de",
         "ebible": "rmyvlakh"
     },
     "source": {
-        "service": "ebible",
-        "format": "usfm",
-        "url": "https://ebible.org/Scriptures/rmyvlakh_usfm.zip",
-        "updated": "2023-04-14",
-        "revision": 0
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=4e046bd6977f26de&type=release",
+        "updated": "2023-07-25",
+        "revision": 2
     },
     "literalness": null,
     "tags": []

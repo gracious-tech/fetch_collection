@@ -2,7 +2,7 @@
     "name": {
         "local": "Библия пы сэрвицко ромско чиб",
         "local_abbrev": "",
-        "english": "Servi Romani Bible portions",
+        "english": "Servi Romani Bible",
         "english_abbrev": "SRB"
     },
     "year": 2021,
@@ -18,14 +18,15 @@
         "attribution_url": "https://ebible.org/Scriptures/details.php?id=rmyservi"
     },
     "ids": {
+        "dbl": "5611c12a3dafb263",
         "ebible": "rmyservi"
     },
     "source": {
-        "service": "ebible",
-        "format": "usfm",
-        "url": "https://ebible.org/Scriptures/rmyservi_usfm.zip",
-        "updated": "2023-04-15",
-        "revision": 0
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=5611c12a3dafb263&type=release",
+        "updated": "2023-06-27",
+        "revision": 3
     },
     "literalness": null,
     "tags": []
