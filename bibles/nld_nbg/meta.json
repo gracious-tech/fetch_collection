@@ -1,0 +1,36 @@
+{
+    "name": {
+        "local": "NBG-vertaling (1951)",
+        "local_abbrev": "",
+        "english": "Dutch NBG Bible (1951)",
+        "english_abbrev": "NBG"
+    },
+    "year": 1951,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [{
+            "license": {
+                "forbid_attributionless": true,
+                "forbid_derivatives": "same-license",
+                "forbid_commercial": false,
+                "forbid_limitless": false,
+                "forbid_other": false
+            },
+            "url": "https://www.gnu.org/licenses/fdl-1.3.en.html"
+        }],
+        "attribution": "Jantinus Daling",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=nldnbg"
+    },
+    "ids": {
+        "ebible": "nldnbg"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/nldnbg_usfm.zip",
+        "updated": "2024-08-13",
+        "revision": 0
+    },
+    "literalness": null,
+    "tags": []
+}
