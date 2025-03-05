@@ -1,33 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usx version="2.6">
-  <book code="2JN" style="id">- Dawro</book>
-  <para style="h">2 Yohaannisa</para>
-  <para style="toc2">2 Yohaannisa</para>
-  <para style="toc1">2 Yohaannisa</para>
+<usx version="3.0">
+  <book code="2JN" style="id">- Dawuro Full Bible Latin Version</book>
+  <para style="h">2 Yohaannisa Kiitaa</para>
+  <para style="toc1">Yohaannisi S'aafeedda Laa'entso Kiitaa</para>
+  <para style="toc2">2 Yohaannisa Kiitaa</para>
+  <para style="toc3">2 Yoh.</para>
   <para style="mt1">Yohaannisi</para>
-  <para style="mt2">Xaafeedda Laa7entho Kiitaa</para>
+  <para style="mt2">S'aafeedda Laa'entso Kiitaa</para>
   <para style="imt">Geluwaa</para>
-  <para style="ip">Yohaannisa laa7entho kiitaa, Yesuusi kiitteedda ammaniyaawantta kaalethiyaa cimaa Yohaannisi xaafeedda. Xaafetteeddawekka, dooretteedda godatissanne izi naanatuwaassa. Izakka he wode de7iyaa ammaniyaa asaa shiiquwaa bessaw. Ha qantha kiitay xaafetteeddawe unttunttu ittuu ittuwaanna siiqettanaadan hassayissanaassanne worddo asttamaaratuwaappenne unttunttu timirttiyaappe naagettanaadan qofissanaassa.</para>
-  <para style="iot">Shemppatuwaa Ubbatuwaassi Imetteedda Qantha Qofatuwaa</para>
-  <para style="io1">Geluwaa (1-3)</para>
-  <para style="io1">Siiquu ubbaappe bollaa (4-6)</para>
-  <para style="io1">Worddo timirttiyaappe naagettanaadan odettowaa (7-11)</para>
-  <para style="io1">Wurssethaa qutiyaa (12-13)</para>
-  <chapter number="1" style="c"/>
+  <para style="ip">Yohaannisa laa'entso kiitaa, Yesuusi kiitteedda ammaniyaawantta kaaletsiyaa c'imaa Yohaannisi s'aafeedda. S'aafetteeddawekka, dooretteedda genniwunne izi naanatuwaassa. Izakka he wode de'iyaa ammaniyaa asaa shiik'uwaa bessaw. Ha k'antsa kiitay s'aafetteeddawe unttunttu ittuu ittuwaanna siik'ettanaadan hassayissanaassanne worddo asttamaaratuwaappenne unttunttu timirttiyaappe naagettanaadan k'ofissanaassa.</para>
+  <para style="iot">Shemppatuwaa Ubbatoo Imetteedda K'antsa K'ofatuwaa</para>
+  <para style="io1">Geluwaa 1-3</para>
+  <para style="io1">Siik'uu ubbaappe bollaa 4-6</para>
+  <para style="io1">Worddo timirttiyaappe naagettanaadan odettowaa 7-11</para>
+  <para style="io1">Wurssetsaa k'utiyaa 12-13</para>
+  <chapter number="1" style="c" sid="2JN 1"/>
   <para style="p">
-    <verse number="1-2" style="v"/>Taani ammaniyaawantta kaalethiyaa cimay, hinttenttoo, dooretteedda genniwunne izi naanaw <note caller="+" style="f"><char style="fr" closed="false">1-2 </char><char style="fq" closed="false">Dooretteedda genniwunne izi naanaw: </char><char style="ft" closed="false">Ooni eri hawe xaafetteeddawe, woosa gollewunne izin de7iyaa Godaa kaalliyaa ammaniyaawanttoo gidennaan aggenna. 13 xeellite.</char></note> ha dabidaabbiyaa xaafay; nu giddon de7iya qassi nuunanna medhinaw de7ana tumatethaa diraw, taani hinttena tumu siiqay. Qassi ta xalalaa gidennaan, tumatethaa eriya ubbatuu hinttena siiqiino.</para>
+    <verse number="1-2" style="v" sid="2JN 1:1-2"/>Taani ammaniyaawantta kaaletsiyaa c'imay, hinttenttoo, dooretteedda genniwunne izi naanaw<note caller="+" style="f"><char style="fr" closed="false">1-2 </char><char style="fq" closed="false">Dooretteedda genniwunne izi naanaw: </char><char style="ft" closed="false">Ooni eri hawe s'aafetteeddawe, woosa gollewunne izin de'iyaa Godaa kaalliyaa ammaniyaawanttoo gidennaan aggena. 13 s'eellite.</char></note> ha dabddaabbiyaa s'aafay; nu giddon de'iyaa k'ay nuunanna med'inaw de'ana tumatetsaa diraw, taani hinttena tumu siik'ay. K'ay ta s'alalaa gidennaan, tumatetsaa eriyaa ubbatuu hinttena siik'iino.<verse eid="2JN 1:1-2"/></para>
   <para style="p">
-    <verse number="3" style="v"/>Xoossaa nu Aawuwaanne A Na7aa Yesuusi Kiristtoosa aadho keekatethay, maarotethaynne sarotethay tumatethaaninne siiquwan nuunanna ittippe gido.</para>
-  <para style="s">Tumuwaabaanne Siiquwaabaa</para>
+    <verse number="3" style="v" sid="2JN 1:3"/>S'oossaa nu Aawuwaanne Aa Na'aa Yesuusi Kiristtoosa aad'd'o keekatetsay, maarotetsaynne sarotetsay tumatetsaaninne siik'uwaan nuunanna ittippe gido.<verse eid="2JN 1:3"/></para>
+  <para style="s">Tumuwaabaanne Siik'uwaabaa</para>
   <para style="p">
-    <verse number="4" style="v"/>Xoossaa Aawuu nuuna azazeedawaadan, ne naanatuwaappe amareeddawanttu, tumatethaan de7iyaawaa be7aade taani daro nashettaaddi. <verse number="5" style="v"/>Siiqo gennee, ha77ikka nuuni ubbay ittuu ittuwaanna siiqettana mala, taani neena woossay; ha azazu kaseedeppe nuunanna de7iya azazuwaappe attin, taani new ooratha azazuwaa xaafikke. <note caller="-" style="x"><char style="xo" closed="false">5 </char><char style="xt" closed="false"><ref loc="JHN 13:34">Yoh 13:34</ref>; <ref loc="JHN 15:12">15:12</ref>,<ref loc="JHN 15:17">17</ref></char></note> <verse number="6" style="v"/>Siiquwaa giyaawe nuuni Xoossaa azazuwaa naagiidde de7iyaawaa giyaawaa. Qassi koyiruwaappe hintte siseeddawaadankka, A azazuu ayee gooppe, hintte ubbay siiquwan de7anawaa.</para>
+    <verse number="4" style="v" sid="2JN 1:4"/>S'oossaa Aawuu nuuna azazeeddawaadan, ne naanatuwaappe amareedawanttu, tumatetsaan de'iyaawaa be'aade taani daro nashettaaddi. <verse eid="2JN 1:4"/><verse number="5" style="v" sid="2JN 1:5"/>Siik'o gennee, ha"ikka nuuni ubbay ittuu ittuwaanna siik'ettana mala, taani neena woossay; ha azazuu kaseedeppe nuunanna de'iyaa azazuwaappe attin, taani new ooratsa azazuwaa s'aafikke.<note caller="-" style="x"><char style="xo" closed="false">5 </char><char style="xt" closed="false"><ref loc="JHN 13:34">Yoh. 13:34</ref>; <ref loc="JHN 15:12">15:12</ref>, <ref loc="JHN 15:17">17</ref></char></note> <verse eid="2JN 1:5"/><verse number="6" style="v" sid="2JN 1:6"/>Siik'uwaa giyaawe nuuni S'oossaa azazuwaa naagiidde de'iyaawaa giyaawaa. K'ay koyiruwaappe hintte siseeddawaadankka, Aa azazuu ayee gooppe, hintte ubbay siik'uwaan de'anawaa.<verse eid="2JN 1:6"/></para>
   <para style="p">
-    <verse number="7" style="v"/>Ayissi gooppe, Yesuusi Kiristtoosi asaa gidiide yeeddawaa ammanokko giyaawanttu, balethiya daro asatuu, gade giddo geleeddino. Hewaa mala uray ooninne asaa balethiyaawaanne Kiristtoosa eqettiyaawaa. <verse number="8" style="v"/>Hintte ootheeddawoo kumentha woytaa akkanaappe attin, nuuni <note caller="+" style="f"><char style="fr" closed="false">8 </char><char style="fq" closed="false">Nuuni: </char><char style="ft" closed="false">Itti itti Geeshsha Maxaafaa bilethay, “Hinttenttu” yaagee.</char></note> ootheeddawaa bayizzenna mala, hinttena naagite.</para>
+    <verse number="7" style="v" sid="2JN 1:7"/>Ayaw gooppe, Yesuusi Kiristtoosi asaa gidiide yeeddawaa ammanokko giyaawanttu, baletsiyaa daro asatuu, gade giddo geleeddino. Hewaa mala uray ooninne asaa baletsiyaawaanne Kiristtoosa ek'ettiyaawaa. <verse eid="2JN 1:7"/><verse number="8" style="v" sid="2JN 1:8"/>Hintte ootseeddawoo kumentsaa woytaa akkanaappe attin, nuuni<note caller="+" style="f"><char style="fr" closed="false">8 </char><char style="fq" closed="false">Nuuni: </char><char style="ft" closed="false">Itti itti Geeshsha Mas'aafaa biletsay, «Hinttenttu» yaagee.</char></note> ootseeddawaa bayizzenna mala, hinttena naagite.<verse eid="2JN 1:8"/></para>
   <para style="p">
-    <verse number="9" style="v"/>Kiristtoosa timirttiyaappe haakkiyaa urawunne qassi A timirttiyaan de7enna uraw Xoossaanna ittippetethay baawa. Kiristtoosa timirttiyaan de7iya uraw Xoossaa Aawuwannanne A Na7aanna ittippetethay de7ee. <verse number="10" style="v"/>Ooninne hinttekko yiide, ha timirttiyaa ahennaan aggooppe, hintte golle A gelissoppite; sarokka gooppite. <verse number="11" style="v"/>Ayissi gooppe, A saro giya uray A iita oosuwaa aananna gishettee.</para>
-  <para style="s">Wurssetha Sarotaa</para>
+    <verse number="9" style="v" sid="2JN 1:9"/>Kiristtoosa timirttiyaappe haakkiyaa urawunne k'ay Aa timirttiyaan de'enna uraw S'oossaanna ittippetetsay baawa. Kiristtoosa timirttiyaan de'iyaa uraw S'oossaa Aawuwaananne Aa Na'aanna ittippetetsay de'ee. <verse eid="2JN 1:9"/><verse number="10" style="v" sid="2JN 1:10"/>Ooninne hinttekko yiide, ha timirttiyaa ahennaan aggooppe, hintte golle Aa gelissoppite; sarokka gooppite. <verse eid="2JN 1:10"/><verse number="11" style="v" sid="2JN 1:11"/>Ayaw gooppe, Aa saro giyaa uray Aa iita oosuwaa aanana gishettee.<verse eid="2JN 1:11"/></para>
+  <para style="s">Wurssetsa Sarotaa</para>
   <para style="p">
-    <verse number="12" style="v"/>Taani hinttenttoo xaafanaw koyyeedda darobay de7ee; shin waraqataaninne qalamiyaan xaafanaw koyyabeykke; shin nu nashechchay polettana mala, hinttenanna doonan haasayanaw hinttekko baana gaade qoppay.</para>
+    <verse number="12" style="v" sid="2JN 1:12"/>Taani hinttenttoo s'aafanaw koyyeedda darobay de'ee; shin warak'ataaninne k'alamiyaan s'aafanaw koyyabeykke; shin nu nashechchay polettana mala, hinttenanna doonaan haasayanaw hinttekko baana gaade k'oppay.<verse eid="2JN 1:12"/></para>
   <para style="p">
-    <verse number="13" style="v"/>Siiqo gennee, Xoossay dooreedda ne michchatti naanay neena saro saro yaagiino.</para>
+    <verse number="13" style="v" sid="2JN 1:13"/>Siik'o gennee, S'oossay dooreedda ne michchati naanay neena saro saro yaagiino.<verse eid="2JN 1:13"/></para>
+  <chapter eid="2JN 1"/>
 </usx>

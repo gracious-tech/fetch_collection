@@ -1,44 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usx version="2.6">
-  <book code="PHM" style="id">- Dawro</book>
+<usx version="3.0">
+  <book code="PHM" style="id">- Dawuro Full Bible Latin Version</book>
   <para style="h">Pilimoona</para>
-  <para style="toc3">Fim</para>
+  <para style="toc1">P'awuloosi Pilimoonaw S'aafeedda Kiitaa</para>
   <para style="toc2">Pilimoona</para>
-  <para style="toc1">Pilimoona</para>
-  <para style="mt2">Phawuloosi</para>
+  <para style="toc3">Pilm.</para>
+  <para style="mt2">P'awuloosi</para>
   <para style="mt1">Pilimoonaw</para>
-  <para style="mt2">Xaafeedda Kiitaa</para>
+  <para style="mt2">S'aafeedda Kiitaa</para>
   <para style="imt">Geluwaa</para>
-  <para style="ip">Pilimooni eretteedda ammaniyaa asa; I Qolaasiyaasa woosa golliya asa gidennaan waayyii aggana. Pilimoonaw Anaasimoosa giya ayllii de7ee. He ayllii bare godaappe betiide beedda wode, qasho gollen de7iyaa Phawuloosanna gaketteedda. Anaasimoosi Phawuloosa bagganna Yesuusa ammaneedda. Phawuloosi Pilimoonassi xaafeedda kiitay Pilimooni guyye simmi biidde de7iyaa bare qoomaanna sigettanaadan, hewaa hassayissiyawaa. Hewaa bollaakka ha77i Anaasimoosi ammaniyaa asa gideedda diraw, hawaappe sinthaw ammaniyaa ishaadan A mokki akkanaappe attin, qoomaadan A xeellenaadan aw odee.</para>
-  <para style="iot">Shemppatuwaa Ubbatuwassi Imetteedda Qantha Qofatuwaa</para>
-  <para style="io1">Geluwaa (1-3)</para>
-  <para style="io1">Pilimoonassi Phawuloosa galataa (4-7)</para>
-  <para style="io1">Phawuloosi Anasimoosa diraw shiishsheedda mino ooshaa (8-22)</para>
-  <para style="io1">Wurssethaa qutiyaa (23-25)</para>
-  <chapter number="1" style="c"/>
+  <para style="ip">Pilimooni eretteedda ammaniyaa asaa; I K'olaasiyaasa woosa golliyaa asaa gidennaan waayyii aggana. Pilimoonaw Anaasimoosa giyaa ayilii de'ee. He ayilii bare godaappe betiide beedda wode, k'asho gollen de'iyaa P'awuloosanna gaketteedda. Anaasimoosi P'awuloosa baggana Yesuusa ammaneedda. P'awuloosi Pilimoonaw s'aafeedda kiitay Pilimooni guyye simmi biidde de'iyaa bare k'oomaanna sigettanaadan, hewaa hassayissiyaawaa. Hewaa bollaakka ha"i Anaasimoosi ammaniyaa asaa gideedda diraw, hawaappe sintsaw ammaniyaa ishaadan Aa mokki akkanaappe attin, k'oomaadan Aa s'eellenaadan aw odee.</para>
+  <para style="iot">Shemppatuwaa Ubbatoo Imetteedda K'antsa K'ofatuwaa</para>
+  <para style="io1">Geluwaa <char style="ior"><ref loc="PHM 1:1-3">1-3</ref> </char></para>
+  <para style="io1">Pilimoonaw P'awuloosa galataa <char style="ior"><ref loc="PHM 1:4-7">4-7</ref></char></para>
+  <para style="io1">P'awuloosi Anasimoosa diraw shiishsheedda mino ooshaa <char style="ior"><ref loc="PHM 1:8-22">8-22</ref></char></para>
+  <para style="io1">Wurssetsaa k'utiyaa <char style="ior"><ref loc="PHM 1:23-25">23-25</ref> </char></para>
+  <chapter number="1" style="c" sid="PHM 1"/>
   <para style="p">
-    <verse number="1" style="v"/>Taani Phawuloosi, Yesuusi Kiristtoosa diraw qashuwan de7iyaawenne nu ishaa Ximootoosi, nuunanna oothiyaa nuuni siiqiyaa Pilimoonaw, <verse number="2" style="v"/>ne gollen shiiqiyaa ammaniyaawanttoo, nu michchatti Afibissinne nuunanna ittippe de7iyaa Kiristtoosa wottaaddaraa Arkkipoosaw ha dabidaabbiyaa xaafeetto. <note caller="-" style="x"><char style="xo" closed="false">2 </char><char style="xt" closed="false"><ref loc="COL 4:17">Qol 4:17</ref></char></note></para>
+    <verse number="1" style="v" sid="PHM 1:1"/>Taani P'awuloosi, Yesuusi Kiristtoosa diraw k'ashuwaan de'iyaawenne nu ishaa S'imootoosi, nuunanna ootsiyaa nuuni siik'iyaa Pilimoonaw, <verse eid="PHM 1:1"/><verse number="2" style="v" sid="PHM 1:2"/>ne gollen shiik'iyaa ammaniyaawanttoo, nu michchati Afibissinne nuunanna ittippe de'iyaa Kiristtoosa wotaadaraa Arkkipoosaw ha dabddaabbiyaa s'aafeetto.<note caller="-" style="x"><char style="xo" closed="false">2 </char><char style="xt" closed="false"><ref loc="COL 4:17">K'ol. 4:17</ref></char></note><verse eid="PHM 1:2"/></para>
   <para style="p">
-    <verse number="3" style="v"/>Xoossaa nu Aawuwaappenne nu Godaa Yesuusi Kiristtoosappe aadho keekatethaynne sarotethay hinttenttussi gido.</para>
-  <para style="s">Pilimoona Siiquwaanne Ammanuwaa</para>
+    <verse number="3" style="v" sid="PHM 1:3"/>S'oossaa nu Aawuwaappenne nu Godaa Yesuusi Kiristtoosappe aad'd'o keekatetsaynne sarotetsay hinttenttoo gido.<verse eid="PHM 1:3"/></para>
+  <para style="s">Pilimoona Siik'uwaanne Ammanuwaa</para>
   <para style="p">
-    <verse number="4-5" style="v"/>Neeni Xoossaa asatuwaa siiqiyaawaanne Godaa Yesuusa ammaniyaawaa taani sisiyaa diraw, Xoossaa woossaade neena hassayiya wode ubbaan, ta Xoossaa galatay. <verse number="6" style="v"/>Neeni ne ammanuwaa haratuwaanna shaakkiyaawe nuussi Kiristtoosi Yesuusa bagganna yiyaa lo77obaa ubbaa erissana mala, taani Xoossaa woossay. <verse number="7" style="v"/>Ayissi gooppe, Xoossaa asatuwaa wozanay ne kiitaan minneedda diraw, ta ishaw, taani ne siiquwan daro nashechchaanne menthethuwaa demmaaddi.</para>
+    <verse number="4-5" style="v" sid="PHM 1:4-5"/>Neeni S'oossaa asatuwaa siik'iyaawaanne Godaa Yesuusa ammaniyaawaa taani sisiyaa diraw, S'oossaa woossaade neena hassayiyaa wode ubbaan, ta S'oossaa galatay. <verse eid="PHM 1:4-5"/><verse number="6" style="v" sid="PHM 1:6"/>Neeni ne ammanuwaa haratuwaanna shaakkiyaawe nuw Kiristtoosi Yesuusa baggana yiyaa lo"obaa ubbaa erissana mala, taani S'oossaa woossay. <verse eid="PHM 1:6"/><verse number="7" style="v" sid="PHM 1:7"/>Ayaw gooppe, S'oossaa asatuwaa wozanay ne kiitaan minneedda diraw, ta ishaw, taani ne siik'uwaan daro nashechchaanne mentsetsuwaa demmaad.<verse eid="PHM 1:7"/></para>
   <para style="s">Anaasimoosi Pilimoonakko Simmeedda Simuwaa</para>
   <para style="p">
-    <verse number="8" style="v"/>Hewaa diraw, neeni oothanaw bessiyaawaa oothana mala, taani neena azazanaw Kiristtoosa bagganna xalooppekka, <verse number="9" style="v"/>Taani Phawuloosi cimeeddawe, Kiristtoosi Yesuusaw ha77ikka qashuwan de7iyaawe, siiquwaa diraw, neena woossay. <verse number="10" style="v"/>Taani qashuwan de7aadde aw aawuwaa gideedda ta na7aa Anaasimoosa <note caller="+" style="f"><char style="fr" closed="false">10 </char><char style="fq" closed="false">Anaasimoosa: </char><char style="ft" closed="false">Giyaa sunthaa bilethay, Griikiyaa qaalaan go77iyaawaa woy maaddiyaawaa guussaa.</char></note> diraw, neena woossay. <note caller="-" style="x"><char style="xo" closed="false">10 </char><char style="xt" closed="false"><ref loc="COL 4:9">Qol 4:9</ref></char></note> <verse number="11" style="v"/>I kase neena go77enna; shin ha77i neenakka taanakka tumu go77ee.</para>
+    <verse number="8" style="v" sid="PHM 1:8"/>Hewaa diraw, neeni ootsanaw bessiyaawaa ootsana mala, taani neena azazanaw Kiristtoosa baggana s'alooppekka, <verse eid="PHM 1:8"/><verse number="9" style="v" sid="PHM 1:9"/>Taani P'awuloosi c'imeeddawe, Kiristtoosi Yesuusaw ha"ikka k'ashuwaan de'iyaawe, siik'uwaa diraw, neena woossay. <verse eid="PHM 1:9"/><verse number="10" style="v" sid="PHM 1:10"/>Taani k'ashuwaan de'aadde aw aawuwaa gideedda ta na'aa Anaasimoosa<note caller="+" style="f"><char style="fr" closed="false">10 </char><char style="fq" closed="false">Anaasimoosa: </char><char style="ft" closed="false">Giyaa suntsaa biletsay, Giriikiyaa k'aalaan go'iyaawaa woy maaddiyaawaa guussaa.</char></note> diraw, neena woossay.<note caller="-" style="x"><char style="xo" closed="false">10 </char><char style="xt" closed="false"><ref loc="COL 4:9">K'ol. 4:9</ref></char></note> <verse eid="PHM 1:10"/><verse number="11" style="v" sid="PHM 1:11"/>I kase neena go"enna; shin ha"i neenakka taanakka tumu go"ee.<verse eid="PHM 1:11"/></para>
   <para style="p">
-    <verse number="12-13" style="v"/>Taani wozanappe dosiyaa Anaasimoosa neekko yeddowe ta wozanaa yeddowaa. Taani wonggalaa diraw qashetta utta de7ishshin, neena kochchiide, taana maaddana mala, ta matan A ashshanaw koyyay. <verse number="14" style="v"/>Shin neeni ne sheniyaadan oothanaawaa koyyayppe attin, neenanna zorettennan wolqqan aynne oothanaw koyyikke.</para>
+    <verse number="12-13" style="v" sid="PHM 1:12-13"/>Taani wozanaappe dosiyaa Anaasimoosa neekko yeddowe ta wozanaa yeddowaa. Taani wonggalaa diraw k'ashetta utta de'ishshin, neena kochchiide, taana maaddana mala, ta matan Aa ashshanaw koyyay. <verse eid="PHM 1:12-13"/><verse number="14" style="v" sid="PHM 1:14"/>Shin neeni ne sheniyaadan ootsanaawaa koyyayippe attin, neenanna zorettennan wolk'k'an ayinne ootsanaw koyyikke.<verse eid="PHM 1:14"/></para>
   <para style="p">
-    <verse number="15" style="v"/>Anaasimoosi guutha wodiyaa neeppe shaaketteeddawe, ooni eri simmiide, ubba wodekka neenanna de7anaassenttonne. <verse number="16" style="v"/>Simmi hawaappe sinthaw Anaasimoosi aylliya gidenna; shin aylliyaappe I loythi aadhdhee; I taw ay keena siiqo ishee! Qassi I new asaa baggaannakka Godaa baggaannakka ay keena aadhdheedda ishaa gidanddeeshsha!</para>
+    <verse number="15" style="v" sid="PHM 1:15"/>Anaasimoosi guutsa wodiyaa neeppe shaaketteeddawe, ooni eri simmiide, ubbaa wodekka neenanna de'anaassenttonne. <verse eid="PHM 1:15"/><verse number="16" style="v" sid="PHM 1:16"/>Simmi hawaappe sintsaw Anaasimoosi ayiliyaa gidenna; shin ayiliyaappe I loytsi aad'd'ee; I taw ay keena siik'o ishee! K'ay I new asaa baggaanakka Godaa baggaanakka ay keena aad'd'eedda ishaa gidanddeeshsha!<verse eid="PHM 1:16"/></para>
   <para style="p">
-    <verse number="17" style="v"/>Simmi neeni taana ne laggethaa giyaawaa gidooppe, taana mokkiyaawaadan, A mokka. <verse number="18" style="v"/>I new bayizzeeddabay woy A bolla new acuu de7ooppe, taappe cigaa akka. <verse number="19" style="v"/>He acuwaa taani ciggana gaade, taani Phawuloosi ta kushiyan xaafay. Neeni taw ne shemppuwaa acota utteeddawaa taani neena hassayissanaw koshshenna.</para>
+    <verse number="17" style="v" sid="PHM 1:17"/>Simmi neeni taana ne laggetsaa giyaawaa gidooppe, taana mokkiyaawaadan, Aa mokka. <verse eid="PHM 1:17"/><verse number="18" style="v" sid="PHM 1:18"/>I new bayizzeeddabay woy Aa bolla new ac'uu de'ooppe, taappe c'igaa akka. <verse eid="PHM 1:18"/><verse number="19" style="v" sid="PHM 1:19"/>He ac'uwaa taani c'iggana gaade, taani P'awuloosi ta kushiyan s'aafay. Neeni taw ne shemppuwaa ac'ota utteeddawaa taani neena hassayissanaw koshshenna.<verse eid="PHM 1:19"/></para>
   <para style="p">
-    <verse number="20" style="v"/>E, ta ishaw, Godaa bagganna neeppe maaduwaa demmanaw koyyay. Kiristtoosa bagganna taana menthetha. <verse number="21" style="v"/>Taani geeddawaappe daruwaa neeni oothanaawaa eraade, qassi ne taw azazettanawaakka ammanaade, hawaa new xaafay.</para>
+    <verse number="20" style="v" sid="PHM 1:20"/>Ee, ta ishaw, Godaa baggana neeppe maaduwaa demmanaw koyyay. Kiristtoosa baggana taana mentsetsa. <verse eid="PHM 1:20"/><verse number="21" style="v" sid="PHM 1:21"/>Taani geeddawaappe daruwaa neeni ootsanaawaa eraade, k'ay ne taw azazettanawaakka ammanaade, hawaa new s'aafay.<verse eid="PHM 1:21"/></para>
   <para style="p">
-    <verse number="22" style="v"/>Qassi hinttenttu ellekka taw imathay shemppiyaa golliyaa giigissite. Ayissi gooppe, Xoossay hinttenttu woosan taana hinttenttussi guyye zaariide immana gaade qoppay.</para>
-  <para style="s">Wurssethaa Sarotaa</para>
+    <verse number="22" style="v" sid="PHM 1:22"/>K'ay hinttenttu ellekka taw imatsay shemppiyaa golliyaa giigissite. Ayaw gooppe, S'oossay hinttenttu woosan taana hinttenttoo guyye zaariide immana gaade k'oppay.<verse eid="PHM 1:22"/></para>
+  <para style="s">Wurssetsaa Sarotaa</para>
   <para style="p">
-    <verse number="23" style="v"/>Kiristtoosi Yesuusa diraw, taananna qashuwan de7iyaa Eppaafiri neena saro saro gee. <verse number="24" style="v"/>Qassi taananna ittippe oothiyaa Marqqoossi, Arisxxirokoosi, Deemaasinne Luqaasi neena saro saro giino.</para>
+    <verse number="23" style="v" sid="PHM 1:23"/>Kiristtoosi Yesuusa diraw, taananna k'ashuwaan de'iyaa Eppaafiri neena saro saro gee. <verse eid="PHM 1:23"/><verse number="24" style="v" sid="PHM 1:24"/>K'ay taananna ittippe ootsiyaa Mark'k'oossi, Ariss's'irokoosi, Deemaasinne Luk'aasi neena saro saro giino.<verse eid="PHM 1:24"/></para>
   <para style="p">
-    <verse number="25" style="v"/>Godaa Yesuusi Kiristtoosa aadho keekatethay hinttenttu ayyaanaanna gido.</para>
+    <verse number="25" style="v" sid="PHM 1:25"/>Godaa Yesuusi Kiristtoosa aad'd'o keekatetsay hinttenttu ayyaanaanna gido.<verse eid="PHM 1:25"/></para>
+  <chapter eid="PHM 1"/>
 </usx>
