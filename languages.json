@@ -6555,8 +6555,8 @@
             "pop": null
         },
         "cmn": {
-            "local": "普通话",
-            "english": "Mandarin Chinese",
+            "local": "中文",
+            "english": "Chinese",
             "pop": 929000000
         },
         "cmo": {
@@ -39791,7 +39791,7 @@
         "yi": "yid",
         "yo": "yor",
         "za": "zha",
-        "zh": "zho",
+        "zh": "cmn",
         "zu": "zul"
     }
 }
