@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="3.0">
+  <book code="MRK" style="id">- Gamo Full Bible final version</book>
+  <para style="h">ማርቆሳ ሚሺራቾ</para>
+  <para style="toc1">ማርቆሳ ሚሺራቾ</para>
+  <para style="toc2">ማርቆሳ ሚሺራቾ</para>
+  <para style="toc3">ማር</para>
+  <para style="mt">ማርቆሲ ጻፊዳ</para>
+  <para style="mt2">ኑ ጎዳ ዬሱስ ኪርስቶሳ ሚሺራቾ ቃላ</para>
+  <para style="imt">ጊዶ ቆፋ</para>
+  <para style="ip">ማርቆሳ ሚሺራቾ ቃላይ፥ «ሃይሲ ጾሳ ና ዬሱስ ኪርስቶሳ ሚሺራቾ ቃላስ ኮይሮ» ጉሳን ዶሜስ። ሃይሳ ሃ ሚሺራቾ ቃላዛ ጊዶን ዬሱሲ ኦሳንቻኔ ኢዚ ጎዳቴራ ዲዛዴ ጊዲ ሺቂዴስ። ጎዳቴካ ኢዛ ቲሚርቴን፥ ዳይዳንታ ቦላ ዲዛ ዎልቃኒኔ ኢዚ ኣሳ ናጋራ ኣቶ ጊዳይሳን ኤሬቲዴስ። ዬሱሲ፥ «ናጋራ ኣይሌቴፌ ኣሳ ኬሲ ኤካናስ ታ ሼምፖ ኣሳ ጊሻስ ኣ ኢማናስ ዪዳ ኣሳ ናይ ታና» ጊዲ ባርካ ዮቲዴስ።</para>
+  <para style="ip">ማርቆሲ ዬሱሳ ታሪኬ ሺሺዳይ ቆንጬኒኔ ዎልቃይ ኩሚዳ ኦጌራ ጊዲሺን ኢዚ ቲሺ ሂስቲ ጼሊዳይ ዬሱሳ ቃላኔ ኢዛ ቲሚርቴዛ ጊዶንታ ኢዚ ኦዳ ጊታ ማላታ ኦሶታ። ኢዚ ጻማቂዛ ዮሃኒሳ ጊሻስ፥ ዬሱሳ ጺንቃታ ጊሻሲኔ ኢዚ ኤኪዳ ሜቶዛ ጊሻስ ቃንራ ዮቲዳፔ ጉዬ ዬሱሲ ታማርሲዳ ቲሚርቴዛ ጊሻሲኔ ኢዚ ሃርጋንቻታ ፓዳይሳ ቢርሺ ዮቴስ። ዬሱሳ ካሊዛይቲ ጉዬፔ ዬሱሳ ሎኤ ኤሪ ኤሪ ቢዳ ማላ ዬሱሳራ ኤቄቲዛይቲ ቃሴ ዬሱሳ ካሴፔ ኣ ኢጺ ኢጺ ቢዳ። ማጻፋስ ዉርሴ ሼምፖቲ ዬሱሲ ቢታ ቦላ ዴኢዳ ዉርሴ ላይን ዉርሴ ሳሚንታን ፖሌቲዳ ኦሶታ፥ ሃራፔካ ኢዛ ካቄቴ ጊሻሲኔ ኢዛ ዴን ጊሻስ ዮቴቴስ።</para>
+  <para style="ip">ማርቆሳ ሚሺራቾ ቃላስ ዉርሴን ዲዛ ናምኡ ኪፊሌቲ ኢሲ ኢሲ ማጻፋታን ጻላ ዴቴስ።</para>
+  <para style="iot">ሃ ማጻፋይ ኦይኪዳ ኩሜ ቆፋ</para>
+  <para style="io1">ሚሺራቾ ቃላስ ኮይሮ ዶሜ <char style="ior"><ref loc="MRK 1:1-13">1፡1-13</ref> </char></para>
+  <para style="io1">ዬሱሲ ባ ኦሶ ኮይሮ ጋሊላን ዶሚዴስ <char style="ior"><ref loc="MRK 1:14-9:50">1፡14—9፡50</ref> </char></para>
+  <para style="io1">ዬሩሳላሜን ዬሱሳ ኦሶ <char style="ior"><ref loc="MRK 10:1-52">10፡1-52</ref> </char></para>
+  <para style="io1">ዬሩሳላሜኒኔ ሄ ሄራን ዉርሴ ሳሚንታን ዬሱሳ ጋኪዳ ሜቶ <char style="ior"><ref loc="MRK 11:1-15:47">11፡1—15፡47</ref> </char></para>
+  <para style="io1">ሃይቆፔ ጎዳ ዴን <char style="ior"><ref loc="MRK 16:1-8">16፡1-8</ref> </char></para>
+  <para style="io1">ሃይቆፔ ዴንዲዳ ጎዳ ቆንጬኔ ፑዴ ሳሎ ቡስ <char style="ior"><ref loc="MRK 16:9-20">16፡9-20</ref> </char></para>
+  <chapter number="1" style="c" sid="MRK 1"/>
+  <para style="s">ጻማቂዛ ዮሃኒሳ ማርካቴ</para>
+  <para style="r">(<ref loc="MAT 3:1-12">ማቶ 3፡1-12</ref>፤ <ref loc="LUK 3:1-18">ሉቃ 3፡1-18</ref>፤ <ref loc="JHN 1:19-28">ዮሃ 1፡19-28</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 1:1"/>ጾሳ ና ዬሱስ ኪርስቶሳ ኮይሮ ሚሺራቾይ ሃይሳ፤<note caller="+" style="f"><char style="fr" closed="false">1፡1 </char><char style="ft" closed="false">ኢሲ ኢሲ ጌሻ ማጻፋታን ጾሳ ና ጊዛ ቃላዚ ጻፌቲቤና።</char></note> <verse eid="MRK 1:1"/><verse number="2" style="v" sid="MRK 1:2"/>ናቤ ኢሳያሳ ባጋራ፥</para>
+  <para style="q1" vid="MRK 1:2">«ሄኮ ኔስ ኦጌ ሎኤናስ</para>
+  <para style="q2" vid="MRK 1:2">ታ ኪታናዴ</para>
+  <para style="q2" vid="MRK 1:2">ኔፔ ሲንራ ዬዳና።<note caller="-" style="x"><char style="xo" closed="false">1፡2 </char><char style="xt" closed="false"><ref loc="MAL 3:1">ሚል 3፡1</ref></char></note><verse eid="MRK 1:2"/></para>
+  <para style="q1">
+    <verse number="3" style="v" sid="MRK 1:3"/>‹ጎዳስ ኦጌ ጊግሲቴ፤</para>
+  <para style="q2" vid="MRK 1:3">ኢዚ ባና ኦጌ ሱሪሲዲ ኦቴ›</para>
+  <para style="q2" vid="MRK 1:3">ጊሼ ባዞ ቢታን</para>
+  <para style="q2" vid="MRK 1:3">ዋሲዛ ጊሪስ»</para>
+  <para style="q3" vid="MRK 1:3">ጌቴቲ ጻፌቲዴስ።<note caller="-" style="x"><char style="xo" closed="false">1፡3 </char><char style="xt" closed="false"><ref loc="ISA 40:3">ኢሳ 40፡3</ref></char></note><verse eid="MRK 1:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 1:4"/>ሄሳካ ጻማቂዛ ዮሃኒሲ ኣሳ ጻማቂሼ፥ «ኢንቴ ናጋራፔ ሲሚዲ ጻማቄቲቴ፥ ጾሲ ኢንቴ ናጋራ ኣቶ ጋና» ጊ ኣዋጂሼ ባዞራ ኬዚ ዎዴስ። <verse eid="MRK 1:4"/><verse number="5" style="v" sid="MRK 1:5"/>ዩሁዳ ዴሬይ ኩሜ ዬሩሳላሜ ኣሳይ ዉሪ ዮሃኒሳኮ ቢ ቢዲ ባ ናጋራ ናጋራ ፓጺ ፓጺ ዮርዳኖሴ ሻፋን ዮሃኒሳ ኩሼን ጻማቄቲዴስ። <verse eid="MRK 1:5"/><verse number="6" style="v" sid="MRK 1:6"/>ሄ ዎዴ ዮሃኒሲ ማይኢዛይ ጋሜላ ኢስኬፌ ኦሴቲዳ ማይኦ፤ ቃሴ ባ ጼሳን ዳፎ ጊጼስ፤ ኢዚ ሚዛ ቁማይ ቦሌኔ ዴጌራ ኤሳ።<note caller="-" style="x"><char style="xo" closed="false">1፡6 </char><char style="xt" closed="false"><ref loc="2KI 1:8">2ካዎ 1፡8</ref></char></note> <verse eid="MRK 1:6"/><verse number="7" style="v" sid="MRK 1:7"/>ኢዚ፥ «ታኒ ሆካዳ ኢዛ ጫማ ቃሾ ቢርሻናስ ቤሶንታዴይ፥ ታፔ ኣዛዴይ ታፔ ጉዬራ ያና። <verse eid="MRK 1:7"/><verse number="8" style="v" sid="MRK 1:8"/>ታኒ ኢንቴና ሃን ጻማቃይስ፤ ኢዚ ጊዲኮ ኢንቴና ጺሎ ኣያናን ጻማቃና» ጊ ሳባኪዴስ።<verse eid="MRK 1:8"/></para>
+  <para style="s">ዬሱሳ ጻማቄቴኔ ፓጬቴ</para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 1:9"/>ሄ ዎዴ ዬሱሲ ጋሊላ ጊዶን ዲዛ ናዚሬቴ ጌቴቲዛ ካታማይፔ ዮርዳኖሴ ሻፋ ዪዲ ዮሃኒሳ ኩሼን ጻማቄቲዴስ። <verse eid="MRK 1:9"/><verse number="10" style="v" sid="MRK 1:10"/>ዬሱሲ ጻማቄቲዲ ሃፌ ኬዚዳ ማላ ሳሎይ ዶዬቲን ጺሎ ኣያናይ ኢዛ ቦላ ሃራጴ ሚሳቲዲ ዎሺን ቤዪዴስ። <verse eid="MRK 1:10"/><verse number="11" style="v" sid="MRK 1:11"/>ቃሴካ፥ «ታ ዶሲዛ ናይ ኔና፥ ኔናን ታ ኡፋዬታይስ» ጊዛ ቃላ ጊሪሲ ፑዴ ሳሎፔ ሴቴቲዴስ።<note caller="-" style="x"><char style="xo" closed="false">1፡11 </char><char style="xt" closed="false"><ref loc="GEN 22:2">ሜ 22፡2</ref>፤ <ref loc="PSA 2:7">ማዛ 2፡7</ref>፤ <ref loc="ISA 42:1">ኢሳ 42፡1</ref>፤ <ref loc="MAT 3:17">ማቶ 3፡17</ref>፤ <ref loc="MAT 12:18">12፡18</ref>፤ <ref loc="MRK 9:7">ማር 9፡7</ref>፤ <ref loc="LUK 3:22">ሉቃ 3፡22</ref></char></note><verse eid="MRK 1:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 1:12"/>ሄራካ ጺሎ ኣያናይ ኢዛ ዱጌ ባዞ ካሌ ኤፊዴስ። <verse eid="MRK 1:12"/><verse number="13" style="v" sid="MRK 1:13"/>ሄን ባዞንካ ኦይዱ ታሙ ጋላስ ጋካናስ ጻላኤራ ፓጬቲሼ ጋምኢዴስ፤ ዶኣታራ ኢሲፌ ዴኢዴስ፤ ኪታንቻቲካ ኢዛ ማዲዳ።<verse eid="MRK 1:13"/></para>
+  <para style="s">ዬሱሳ ካላና ማላ ኦይዱ ኣሳታ ጼይጌቴ</para>
+  <para style="p">
+    <verse number="14-15" style="v" sid="MRK 1:14-15"/>ዮሃኒሲ ቃሾ ኬ ጌሊዳፔ ጉዬ ዬሱሲ ጾሳ ሚሺራቾ ቃላ ሳባኪሼ ጋሊላ ቢዲ፥ «ዎዴይ ጋኪዴስ፤ ጾሳ ካዎቴ ማቲዴስ፤ ናጋራፔ ሲሚቴ፤ ሚሺራቾ ቃላን ኣማኒቴ» ጊዲ ሳባኪዴስ።<verse eid="MRK 1:14-15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 1:16"/>ዬሱሲ ጋሊላ ኣባ ኣቻራ ኣን ሲሞኒኔ ኢዛ ኢሻ ኢንዲራሲ ሞሌ ኦይኪዛይታ ጊዲዳ ጊሻስ ኢስቲ ሞሌ ኦይኪዛ ጊቴ ኣባን ዬጊሺን ቤዪዴስ። <verse eid="MRK 1:16"/><verse number="17" style="v" sid="MRK 1:17"/>ዬሱሲ ኢስታ፥ «ሃ ዪቴ! ታና ካሊቴ፤ ኢንቴ ሞሌ ኦይኪ ሺሺዛ ማላ ታ ኢንቴና ኣስ ኦይኪዛይታ ኦና» ጊዴስ። <verse eid="MRK 1:17"/><verse number="18" style="v" sid="MRK 1:18"/>ኢስቲ ሄራካ ሞሌ ጊቴዛ ዬጊ ኣጊዲ ዬሱሳ ካሊዳ።<verse eid="MRK 1:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 1:19"/>ጉ ጌዴ ሲን ኣዲ ዛብዶሳ ና ያቆቤይኔ ኢዛ ኢሻ ዮሃኒሲ ዎጎሎን ኡቲዲ ሞሌ ጊቴ ጊግሲሺን ቤኢዲ ሄራካ ኢስታ ጼይጊዴስ። <verse eid="MRK 1:19"/><verse number="20" style="v" sid="MRK 1:20"/>ኢስቲካ ባ ኣዋ ዛብዶሳኔ ኢዛስ ቃጻሬቲ ኦዛ ኣሳታራ ኢሲፌ ዎጎሎዛ ጊዶን ኣጊዲ ዬሱሳ ካሊ ቢዳ።<verse eid="MRK 1:20"/></para>
+  <para style="s">ዬሱሲ ፓዳ ቱና ኣያናይ ኢዛ ቦላ ዲዛዴ</para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 1:21"/>ሄፔካ ቂፊርናሆሜ ቢዳ። ሄራካ ዬሱሲ ኣይሁዳታ ሳምባታ ጋላስ ኣይሁዳታ ዎሳ ኬ<note caller="+" style="f"><char style="fr" closed="false">1፡21 </char><char style="ft" closed="false">ኣይሁዳታ ዎሳ ኬ ጌቴቲዛይሲ ኣማራ ቃላን «ሚኩራቤ» ጌቴቴስ።</char></note> ጌሊዲ ታማርሶ ኦይኪዴስ። <verse eid="MRK 1:21"/><verse number="22" style="v" sid="MRK 1:22"/>ጻፌታ ማላ ጊዶንታ ጎዳቴራ ዲዛ ኣሳ ማላ ኢዚ ታማርሲን ኣሳይ ዉሪ ኢዛ ቲሚርቴዛን ማላሌቲዴስ።<verse eid="MRK 1:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 1:23"/>ሄ ዎዴ ኣይሁዳታ ዎሳ ኬን ቱና ኣያናይ ኢዛ ቦላ ዲዛ ኢሳዴይ፥ <verse eid="MRK 1:23"/><verse number="24" style="v" sid="MRK 1:24"/>«ናዚሬቴ ዬሱሳ ኔ ኑፔ ኣይ ኮያይ? ኑና ይሳና ያዲ? ኔ ኦናኮ ታ ኔና ኤራይስ፤ ኔኒ ጾሳ ጌሻዛ» ጊዲ ዋሲዴስ።<verse eid="MRK 1:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 1:25"/>ዬሱስካ ቱና ኣያናዛ፥ «ጮኡ ጋዳ ኢዛፔ ኬዛ!» ጊ ሃንቂዴስ።<verse eid="MRK 1:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 1:26"/>ቱና ኣያናይ ኣዴዛ ጌንዴሪሲዲ ኢዚ ቃኬቲሺን ኢዛፔ ዋሲሼ ኬዚዴስ። <verse eid="MRK 1:26"/><verse number="27" style="v" sid="MRK 1:27"/>ዴሬይ ዉሪ፥ «ኣሶ ሃይሲ ኣዛ ፓላ? ሃይሲ ጎዳቴራ ዲዛ ኦራ ቲሚርቴ፤ ቱና ኣያናታካ ኣዛዜስ፤ ኢስቲካ ኢዛስ ኣዛዜቴቴስ» ጊ ማላሌቲሼ ኣሳይ ባ ጊዶን ኢሶይ ኢሳ ኦይሼቾ ኦይኪዴስ።<verse eid="MRK 1:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 1:28"/>ሄራካ ኢዛ ኦሶ ዎሬይ ጋሊላ ዩሾን ዲዛ ዴሬ ኡባን ሲዬቲዴስ።<verse eid="MRK 1:28"/></para>
+  <para style="s">ዬሱሲ ዳሮ ሃርጋንቻታ ፓዴስ</para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 1:29"/>ኣይሁዳታ ዎሳ ኬፌ ኬዚዳ ማላ ያቆቤራኔ ዮሃኒሳራ ኢሲፌ ጌዴ ሲሞናሶኔ ኢንዲራሳሶ ጌሊዳ። <verse eid="MRK 1:29"/><verse number="30" style="v" sid="MRK 1:30"/>ሄ ጌሊዳ ማላ ሲሞና ቦሎቴያ ሚሻ ሃርጌ ሳኬታዳ ኢቺዳይሳ ኢዛስ ዮቲዳ። <verse eid="MRK 1:30"/><verse number="31" style="v" sid="MRK 1:31"/>ሄሳ ጊሻስ ዬሱሲ ኢዚኮ ሺቂዲ ኢዚ ኩሼ ኦይኪ ዴንዴስ። ሚሻይ ኣጊን ኢዛ ዴንዳዳ ኢስታ ሞካዱስ።<verse eid="MRK 1:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 1:32"/>ኣርሼይ ዉሊዳፔ ጉዬ ጋዴይ ሚሺን ኣሳይ ሃርጋንቻታኔ ዳይዳን ኦይኪዳ ኣሳ ዉርሲ ዬሱሳኮ ኤኪ ዪዴስ። <verse eid="MRK 1:32"/><verse number="33" style="v" sid="MRK 1:33"/>ሄ ካታማዪን ዲዛ ኣሳይ ዉሪ ኬ ካሬን ሺቂዴስ። <verse eid="MRK 1:33"/><verse number="34" style="v" sid="MRK 1:34"/>ኢዚካ ዱማ ዱማ ሃርጌን ሳኬቲዳይታ ዳሮታ ፓዴስ፤ ዳሮ ዳይዳንታካ ኬሲዴስ፤ ጊዶ ኣቲን ዳይዳንቲ ዬሱሲ ኦናኮ ኤሪዛ ጊሻስ ኢስቲ ሃሳያና ማላ ዬሱሲ ኮዪቤና።<verse eid="MRK 1:34"/></para>
+  <para style="s">ዬሱሲ ጋሊላን ታማርሲዳ ሚሺራቾ ቃላ</para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 1:35"/>ባዞይ ዞኦንታ ዬሱሲ ማላዶ ዎንታራ ዴንዲዲ ኣሲ ባይንዳሶ ቢዲ ሄን ዎሳ ኦይኪዴስ። <verse eid="MRK 1:35"/><verse number="36" style="v" sid="MRK 1:36"/>ሲሞኒኔ ኢዛራ ዲዛይቲ ዬሱሳ ኮያና ኬዚ ቢዳ። <verse eid="MRK 1:36"/><verse number="37" style="v" sid="MRK 1:37"/>ኢስቲ ኢዛ ዴሚዲ፥ «ኣሲ ዉሪ ኔና ኮሻን ዴስ» ጊዳ።<verse eid="MRK 1:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 1:38"/>ዬሱሲካ፥ «ታ ዪዳይ ታማርሳናስ ጊዲዳ ጊሻስ ሚሺራቾ ቃላ ዮታናስ ማታን ዲዛ ጉታታ ኣኔ ቦስ» ጊዴስ።<verse eid="MRK 1:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 1:39"/>ሄሳ ጊሻስ ኣይሁዳታ ዎሳ ኬን ጌሊ ጌሊ ሳባኪሼኔ ዳይዳን ኬሲሼ ጋሊላ ካታማ ኩሜን ዩዪዴስ።<verse eid="MRK 1:39"/></para>
+  <para style="s">ዬሱሲ ኢንቺራቻ ሃርጊዛዴ ፓዴስ</para>
+  <para style="p">
+    <verse number="40" style="v" sid="MRK 1:40"/>ኢሲ ኢንቺራቻ ሃርጊዛዴይ ዬሱሳኮ ሺቂዲኔ ኢዛ ሲንን ጉልባቲዲ፥ «ኔ ሼኔ ጊዲኮ ኔ ታና ፓና ዳንዳያሳ» ጊ ዎሲዴስ።<verse eid="MRK 1:40"/></para>
+  <para style="p">
+    <verse number="41" style="v" sid="MRK 1:41"/>ዬሱሲካ ኣዴዛስ ሚሼቲዲ ባ ኩሼ ዬዲ ኢዛ ቦቺዲ፥ «ኔ ፓጻና ማላ ታ ኮያይስ፤ ፓጻ!» ጊዴስ።<verse eid="MRK 1:41"/></para>
+  <para style="p">
+    <verse number="42" style="v" sid="MRK 1:42"/>ሄራካ ኣዴዛ ኢንቺራቻ ሃርጌይ ኣጊን ኣዴዚ ፓጺዴስ። <verse eid="MRK 1:42"/><verse number="43-44" style="v" sid="MRK 1:43-44"/>ዬሱሲካ ኣዴዛስ፥ «ኦናስካ ሃይሳ ኔ ዮቶንታ ማላ ናጌታ፤ ጊዶ ኣቲን ባዳ ቄሴስ ኔና ቤሳ። ዴሬዛስ ማርካ ጊዳና ማላ ኔ ፓጺዳይሳስ ሙሴይ ኣዛዚዳ ያርሾ ሺሻ» ጊዲ ኬሂ ሚን ዮቲዴስ።<verse eid="MRK 1:43-44"/></para>
+  <para style="p">
+    <verse number="45" style="v" sid="MRK 1:45"/>ጊዶ ኣቲን ኣዴዚ ኬዚ ቢዲ ባ ቢዳ ኡባሶን ዎሬ ዳርሲ ርጪዴስ። ሄሳ ጋሶን ዬሱሲ ኣይ ካታማንካ ቆንጬራ ጌላናስ ዳንዳይቤና። ሄሳፌ ዴንዲዳይሳን ካታማፔ ካሬራ ኣሲ ባይንዳሶን ዱስ ኦይኪዴስ። ኣሳይ ጊዲኮ ዱማ ዱማሶፔካ ኢዛኮ ዪዴስ።<verse eid="MRK 1:45"/></para>
+  <chapter eid="MRK 1"/>
+  <chapter number="2" style="c" sid="MRK 2"/>
+  <para style="s">ዬሱሲ ቶሆ ሲላ ኣዴዛ ፓዴስ</para>
+  <para style="r">(<ref loc="MAT 9:1-8">ማቶ 9፡1-8</ref>፤ <ref loc="LUK 5:17-26">ሉቃ 5፡17-26</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 2:1"/>ጉ ጋላሳፌ ጉዬ፥ «ዬሱሲ ቂፊርናሆሜ ሲሚዲ ሶን ዴስ» ጊዛ ዎሬ ኣሳይ ሲዪዴስ። <verse eid="MRK 2:1"/><verse number="2" style="v" sid="MRK 2:2"/>ሄሳ ጊሻስ ኬራ፥ ካሬራ ኡቲዛሶይ ያና ጋካናስ ዳሮ ዴሬይ ሺቂዴስ። ኢዚካ ጾሳ ቃላ ኣሳስ ሳባኪዴስ። <verse eid="MRK 2:2"/><verse number="3" style="v" sid="MRK 2:3"/>ኦይዱ ኣስ ዳይቲ ቶሆይ ሲሊዳ ኢሲ ኣስ ቶኪዲ ኢዛኮ ኤሂዳ። <verse eid="MRK 2:3"/><verse number="4" style="v" sid="MRK 2:4"/>ኣሳ ዳሮቴፌ ዴንዲዳይሳን ዬሱሲ ዲዛሶ ጋናስ ዳንዳዮንታ ጊሻስ ዬሱሲ ዲዛ ጊናራ ካራ ቃሪዲ ሃርጋንቻዛ ኢዚ ኢቺዳ ሃላራ<note caller="+" style="f"><char style="fr" closed="false">2፡4 </char><char style="fqa" closed="false">ሃላራ፡ </char><char style="ft" closed="false">ሃላራ ጊዛይሳ ኢሲ ኢሲ ባጋ ጋሞ ቃላን ዛጳራ ጌቴስ።</char></note> ዬሱሳ ሲን ዱጌ ዎዳ። <figure style="fig" alt="The roof of Juwish" file="LB00234B.TIF" size="col" ref="2፡4">ኣይሁዳታ ኬ ካራ</figure> <verse eid="MRK 2:4"/><verse number="5" style="v" sid="MRK 2:5"/>ዬሱሲ ኣሳታ ኣማኖ ቤኢዲ ቶሆይ ሲሊዳ ኣዴዛ፥ «ታ ናዞ! ኔ ናጋራይ ኣቶ ጌቴቲዴስ» ጊዴስ።<verse eid="MRK 2:5"/></para>
+  <para style="p">
+    <verse number="6-7" style="v" sid="MRK 2:6-7"/>ሄን ጋዳን ኡቲዳ ኢሲ ኢሲ ሙሴ ዎጋ ጻፌቲ ባ ዎዚናራ ሃይሲ ኣዴዚ ዎስቲ ሃይሳ ጊዜ? «ጾሳ ቦላ ጫሻ ቃላ ሃሳዬስ። ኢሲ ጾሳፌ ኣቲን ናጋራ ማራና ዳንዳይዛይ ኦኔ?» ጊዲ ቆፒዳ።<verse eid="MRK 2:6-7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="MRK 2:8"/>ዬሱሲ ሄራካ ኢስቲ ባ ዎዚናን ቆፒዳይሳ ባ ኣያናን ኤሪዲ፥ «ኢንቴ ዎስቲ ሃይሳ ቆፔቲ? <verse eid="MRK 2:8"/><verse number="9" style="v" sid="MRK 2:9"/>ቶሆይ ሲሊዳ ኣዴዛ፥ ‹ኔ ናጋራይ ኣቶ ጌቴቲዴስ› ጉሳፌኔ ‹ዴንዳዳ ኔ ሃላ ቶካዳ ባ› ጉሳፌ ኣዋይሲ ማቲዜ? <verse eid="MRK 2:9"/><verse number="10" style="v" sid="MRK 2:10"/>ጊዶ ኣቲን ኣሳ ናስ ቢታ ቦላን ናጋራ ማራና ጎዳቴ ዲዛይሳ ኢንቴ ኤራና ማላ» ጊዲ ቶሆ ሲላ ኣዴዛ፥ <verse eid="MRK 2:10"/><verse number="11" style="v" sid="MRK 2:11"/>«ዴንዳዳ ኔ ቶኬታ ዪዳ ሃላ ቶካዳ ኔሶ ባ» ጊዴስ።<verse eid="MRK 2:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 2:12"/>ኢዚካ ዴንዲዲ ኣሳይ ዉሪ ቤዪሺን ሃላ ቶኪዲ ቢዴስ። ሄን ጋዳን ዲዛ ኣሳይ ዉሪ ሃኖዛን ማላሌቲዲ፥ «ካሴ ሃይሳ ማላይ ሃኒን ቤዪቤኮ» ጊዲ ጾስ ጋላቲዴስ።<verse eid="MRK 2:12"/></para>
+  <para style="s">ሌዌ ጼይጌቴ</para>
+  <para style="r">(<ref loc="MAT 9:9-13">ማቶ 9፡9-13</ref>፤ <ref loc="LUK 5:27-32">ሉቃ 5፡27-32</ref>)</para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 2:13"/>ቃሴካ ዬሱሲ ጋሊላ ኣባ ላንቄ ቢዴስ። ዳሮ ዴሬይ ኢዛኮ ዪን ኢዚካ ዪዳ ኣሳ ታማርሲዴስ። <verse eid="MRK 2:13"/><verse number="14" style="v" sid="MRK 2:14"/>ኢዚ ኦጌራ ኣ ቢሺን ኢልፊዮሳ ና ሌዌይ ቃራጻ ሺሺዛሶን ኡቲዳይሳ ቤኢዲ፥ «ሃ ያ ታና ካላ» ጊዴስ። ኢዚካ ዴንዲዲ ዬሱሳ ካሊዴስ።<verse eid="MRK 2:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="MRK 2:15"/>ሄሳፌ ጉዬ ሌዌ ሶን ካ ማዳን ኡቲ ዲሺን ቃራጻ ሺሺዛ ዳሮ ኣሳቲኔ ናጋራንቻቲ ኢዛራ ካሊ ዪዳ ጊሻስ ኢስቲ ዬሱሳራኔ ኢዛ ካሊዛይታራ ኢሲፌ ማዳን ኡቲዳ። <verse eid="MRK 2:15"/><verse number="16" style="v" sid="MRK 2:16"/>ፋርሳዌታ ባጋፌ ጊዲዳ ሙሴ ዎጋ ታማርሲዛይቲ ዬሱሲ ናጋራንቻታራኔ ቃራጻ ሺሺዛይታራ ሚሺን ቤኢዲ ኢዛ ካሊዛይታ፥ «ቃራጻ ቃንጺሲዛይታራኔ ናጋራንቻታራ ኣዛስ ሚዜ?» ጊዲ ኦይቺዳ።<verse eid="MRK 2:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 2:17"/>ዬሱሲካ ኢስቲ ጊዛይሳ ሲዪዲ፥ «ኣኪሜይ ሃርጋንቻታስ ኮሼስ ኣቲን ሃርጎንታይታስ ጊዴና። ታኒካ ናጋራንቻታ ጼይጋናስ ያዲስ ኣቲን ጺሎታ ጼይጋናስ ያቤኬ» ጊዴስ።<verse eid="MRK 2:17"/></para>
+  <para style="s">ጾማ ጊሻስ ሺቂዳ ኦይሾ</para>
+  <para style="r">(<ref loc="MAT 9:14-17">ማቶ 9፡14-17</ref>፤ <ref loc="LUK 5:33-39">ሉቃ 5፡33-39</ref>)</para>
+  <para style="p">
+    <verse number="18" style="v" sid="MRK 2:18"/>ዮሃኒሳ ካሊዛይቲኔ ፋርሳዌቲ ጾማ ጾሜቴስ። ኢሲ ኢሲ ኣሳቲ ዬሱሳኮ ዪዲ፥ «ዮሃኒሳ ካሊዛይቲኔ ፋርሳዌታ ካሊዛይቲ ጾሜቴስ ሺን ኔና ካሊዛይቲ ኣዛስ ጾሜቴኔ?» ጊ ኦይቺዳ።<verse eid="MRK 2:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 2:19"/>ዬሱሲካ ኢስታስ፥ «ሚሺራይ ኢስታራ ዲሺን ሚሺራ ላጌቲ ጾሚ ኤሪዞ? ሚሺራይ ኢስታራ ዲሺን ጾሚ ኤሬቴና። <verse eid="MRK 2:19"/><verse number="20" style="v" sid="MRK 2:20"/>ሚሺራይ ኢስታፌ ኤኬታና ዎዴይ ያና። ሄ ዎዴ ኢስቲ ጾማና።<verse eid="MRK 2:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 2:21"/>«ጋልኣ ማይኦ ቦላ ኦራ ዎሶ ዎ ሲኪዛዴይ ኦኒካ ዴና፤ ሄሳ ኦኮ ኦራዚ ጋልኣ ዳኪ ዳኪ ዬጌስ፤ ዳኬይካ ካሴፔ ጌዴ ኣ ኢቴስ። <verse eid="MRK 2:21"/><verse number="22" style="v" sid="MRK 2:22"/>ሄሳካ ኦራ ዎይኔ ጫጄ ጋልኣ ሉካሞን ዎዛዴይ ዴና። ዎዛ ጊዲኮ ዎይኔ ጫጄዚ ጋልኣ ሉካሞዛ ሴስ፤ ዎይኔ ጫጄዚኔ ሉካሞዚ ናምኣይ ሞሬቴቴስ። ሄሳ ጊሻስ ኦራ ዎይኔ ጫጄይ ዳናስ ቤሲዛይ ኦራ ሉካሞና» ጊዴስ።<verse eid="MRK 2:22"/></para>
+  <para style="s">ሳምባታ ጊሻስ ሺቂዳ ኦይሾ</para>
+  <para style="r">(<ref loc="MAT 12:1-8">ማቶ 12፡1-8</ref>፤ <ref loc="LUK 6:1-5">ሉቃ 6፡1-5</ref>)</para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 2:23"/>ዬሱሲ ኣይሁዳታ ሳምባታ ጋላስ ጊስቴ ቲያ ጊዶራ ኣሺን ኢዛ ካሊዛይቲ ኢዛራ ኢሲፌ ቢሼ ቲያ ጹጶ ኦይኪዳ።<note caller="-" style="x"><char style="xo" closed="false">2፡23 </char><char style="xt" closed="false"><ref loc="DEU 23:25">ዛሬ 23፡25</ref></char></note> <verse eid="MRK 2:23"/><verse number="24" style="v" sid="MRK 2:24"/>ፋርሳዌቲ፥ «ኔና ካሊዛይቲ ሳምባታ ጋላስ ዲጌቲዳ ሚሽ ኣዛስ ኦዞ?» ጊዲ ዬሱሳ ኦይቺዳ።<verse eid="MRK 2:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 2:25"/>ኢዚካ ኢስታስ፥ «ዳዊቲ ጋፊዲ ሚዛ ሚሽ ኮዪዳ ዎዴ ኢዛራ ኢሲፌ ዲዛይታራ ኢዚ ኦዳይሳ ናባቢቤኬቲ?<note caller="-" style="x"><char style="xo" closed="false">2፡25-26 </char><char style="xt" closed="false"><ref loc="1SA 21:1-6">1ሳሜ 21፡1-6</ref></char></note> <verse eid="MRK 2:25"/><verse number="26" style="v" sid="MRK 2:26"/>ኣቢያታሬይ ቄሴታ ሃላቃቴን ዲሺን ኢዚ ጾሳ ኬ ጌሊዲ ቄሴቲ ጻላላ ማና ቤሲዛ ዱማ ካ ባስ ሚዲኔ ባናራ ዲዛይታስ ኢሚዴስ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">2፡26 </char><char style="xt" closed="false"><ref loc="LEV 24:9">ሌዌ 24፡9</ref></char></note><verse eid="MRK 2:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 2:27"/>ቃሴካ ዬሱሲ ኢስታስ፥ «ሳምባታይ ኣሳስ ሜቲዴስ ኣቲን ኣሲ ሳምባታስ ሜቲቤና። <verse eid="MRK 2:27"/><verse number="28" style="v" sid="MRK 2:28"/>ሄሳ ጊሻስ ታ ኣሳ ናይ ሳምባታ ጎዳ» ጊዴስ።<verse eid="MRK 2:28"/></para>
+  <chapter eid="MRK 2"/>
+  <chapter number="3" style="c" sid="MRK 3"/>
+  <para style="s">ኩሼ ሲሊዳ ኣዴዛ ፓጻቴ</para>
+  <para style="r">(<ref loc="MAT 12:9-14">ማቶ 12፡9-14</ref>፤ <ref loc="LUK 6:6-11">ሉቃ 6፡6-11</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 3:1"/>ሃራ ጋላስ ዬሱሲ ኣይሁዳ ዎሳ ኬ ጌሊዴስ። ሄንካ ኩሼይ ሲሊዳዴይ ዴስ። <verse eid="MRK 3:1"/><verse number="2" style="v" sid="MRK 3:2"/>ዬሱሳ ሞታናስ ጋሶ ኮይዛ ኣሳቲ ኢዚ ኣይሁዳታ ሳምባታ ጋላስ ፓናኮን ጊዲ ፓሺን ቤያና ኮዪዳ።<verse eid="MRK 3:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 3:3"/>ኢዚካ ኩሼይ ሲሊዳ ኣዴዛ፥ «ሄን ሺቂ ኡቲዳ ኣሳ ሲንን ዴንዳ ኤቃ» ጊዴስ። <verse eid="MRK 3:3"/><verse number="4" style="v" sid="MRK 3:4"/>ሄሳፌ ጉዬ ዬሱሲ ኣሳ፥ «ሳምባታ ጋላስ ቤሲዛይ ሎኦ ኦሶዬ? ኢታ ኦሶ? ኣሳ ሼምፖ ኣሾዬ? ዎይኮ ሼምፖ ዎ?» ጊዲ ኦይቺዴስ። ኢስቲካ ጮኡ ጊዳ።<verse eid="MRK 3:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 3:5"/>ኢስታ ዎዚና ሹቻቴን ሚሼቲዲ ኢዛ ጊዶዲ ዩዪ ኣ ኤቂዳ ኣሳ ሃንቆራ ጼሊዲ ኣዴዛ፥ «ኔ ኩሼዛ ፒዲሳ!» ጊዴስ። ኣዴዚካ ባ ኩሼ ፒዲሲን ኩሼዚ ሙሌራ ፓጺዴስ። <verse eid="MRK 3:5"/><verse number="6" style="v" sid="MRK 3:6"/>ፋርሳዌቲ ኬዚ ቢዲ ኢዛ ዎስቲ ይሳናኮ ሄርዶሳ ባጋ ጊዲዳ ኣሳታራ ዞሬቲዳ።<verse eid="MRK 3:6"/></para>
+  <para style="s">ኣባ ላንቄን ዳሮ ኣሳ ሺቆ</para>
+  <para style="p">
+    <verse number="7" style="v" sid="MRK 3:7"/>ዬሱሲ ባና ካሊዛይታራ ኣባኮ ቢዴስ። ጋሊላፔኔ ዩሁዳፔ ዪዳ ዳሮ ዴሬይ ኢዛ ካሊዴስ። <verse eid="MRK 3:7"/><verse number="8" style="v" sid="MRK 3:8"/>ኢዚ ኦዛይሳ ሲዪዲ ኣሳይ ዩሁዳፔ፥ ዬሩሳላሜፔ፥ ኤዶሜፔ፥ ዮርዳኖሴ ፒንን ዲዛ ዴሬታፔ ቃሴ ጺሮሴፔኔ ሲዶና ሄራፔ ኢዛኮ ዪዴስ። <verse eid="MRK 3:8"/><verse number="9" style="v" sid="MRK 3:9"/>ኣሳይ ዳሪዳ ጊሻስ ኢዛ ኡንኤንታ ማላ ጉ ዎጎሎ ኢስቲ ጊጊሳና ማላ ባና ካሊዛይታ ኣዛዚዴስ። <verse eid="MRK 3:9"/><verse number="10" style="v" sid="MRK 3:10"/>ኢዚ ዳሮ ሃርጋንቻታ ፓዳ ጊሻስ ሳኮይ ዋዪሲዛይቲ ዉሪ ኢዛ ባ ኩሼራ ቦቻናስ ዳፌቲዳ።<note caller="-" style="x"><char style="xo" closed="false">3፡9-10 </char><char style="xt" closed="false"><ref loc="MRK 4:1">ማር 4፡1</ref>፤ <ref loc="LUK 5:1-3">ሉቃ 5፡1-3</ref></char></note> <verse eid="MRK 3:10"/><verse number="11" style="v" sid="MRK 3:11"/>ቱና ኣያናቲካ ዬሱሳ ቤኢዳ ማላ ኢዛ ሲንን ኩንዲዲ፥ «ኔኒ ጾሳ ና» ጊዲ ዋሲዳ።<verse eid="MRK 3:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 3:12"/>ጊዶ ኣቲን ኢዚ ኦናኮ ቱና ኣያናቲ ቆንጪሶንታ ማላ ኬሂፔ ሃንቂዴስ።<verse eid="MRK 3:12"/></para>
+  <para style="s">ዬሱሳ ካሊዛ ታማኔ ናምኣታ ዶሬቴ</para>
+  <para style="r">(<ref loc="MAT 10:1-4">ማቶ 10፡1-4</ref>፤ <ref loc="LUK 6:12-16">ሉቃ 6፡12-16</ref>)</para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 3:13"/>ዬሱሲ ፑዴ ዙማ ቦላ ኬዚዲ ባ ኮይዛይታ ባኮ ያና ማላ ጼይጊዴስ፤ ኢስቲካ ኢዛኮ ዪዳ። <verse eid="MRK 3:13"/><verse number="14" style="v" sid="MRK 3:14"/>ኢዛራ ኢሲፌ ጊዳና ማላኔ ሳባካናስ ዬዳና ማላ ታማኔ ናምኣታ፥ «ሃዋሬታ» ጊ ሱንዴስ። <verse eid="MRK 3:14"/><verse number="15" style="v" sid="MRK 3:15"/>ኣሳፔ ዳይዳንታ ኬሳና ማላ ኢስታስ ጎዳቴ ኢሚዴስ።<verse eid="MRK 3:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 3:16"/>ኢዚ ሱንዳ ታማኔ ናምኣታ ሱን ሃይሳፌ ካሊዛይሳ፤ ጴጽሮሳ ጌቴቲዳ ሲሞና፥ <verse eid="MRK 3:16"/><verse number="17" style="v" sid="MRK 3:17"/>ቢኦሪኔጌሴ ዎይኮ ዳዳ ናይታ ጌቴቲዳ ዛብዶሳ ናይታ ያቆቤኔ ዮሃኒሳ፥ <verse eid="MRK 3:17"/><verse number="18" style="v" sid="MRK 3:18"/>ኢንዲራሳ፥ ፒሊጶሳ፥ ባርቴሌሞሳ፥ ማቶሳ፥ ቶማሳ፥ ኢልፊዮሳ ና ያቆቤ፥ ታዶሳ፥ ባ ባጋስ ሚሼቲዛ ሲሞና፥ <verse eid="MRK 3:18"/><verse number="19" style="v" sid="MRK 3:19"/>ዬሱሳ ኣ ኢሚዳ ኣስቆሮንቶ ዩሁዳ።<verse eid="MRK 3:19"/></para>
+  <para style="s">ዬሱሳኔ ቢኤሊዜቡላ</para>
+  <para style="r">(<ref loc="MAT 12:22-32">ማቶ 12፡22-32</ref>፤ <ref loc="LUK 11:14-23">ሉቃ 11፡14-23</ref>፤ <ref loc="LUK 12:10">12፡10</ref>)</para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 3:20"/>ሄሳፌ ጉዬ ዬሱሲ ኢሲ ሶ ጌሊዴስ። ኢዚኔ ኢዛ ካሊዛይቲ ካ ማና ዎዴይ ኢስታስ ያና ጋካናስ ዴሬይ ቃሴካ ዳሪ ሺቂዴስ። <verse eid="MRK 3:20"/><verse number="21" style="v" sid="MRK 3:21"/>ኢዛ ሃኖታ ሲዪዳ ኢዛ ዳቦቲ፥ «ጎዮንታ ኣጌና» ጊዲ ባናራ ኤኪ ባናስ ኢዚ ዲዛሶ ጋኪዳ።<verse eid="MRK 3:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="MRK 3:22"/>ዬሩሳላሜፔ ዪዳ ጻፌቲካ፥ «ቢኤሊዜቡላ ጌቴቲዛ ዳይዳንታ ሃላቃይ ኢዛ ቦላ ዴስ። ኢዚ ዳይዳንታ ኬሲዛይ ዳይዳንታ ሃላቃ ዎልቃንኮ!» ጊዳ።<verse eid="MRK 3:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 3:23"/>ኢዚካ ኢስታ ጼይጊዲ ሌሚሶራ፥ «ጻላኤይ ኣሳፔ ጻላኤ ዎስቲ ኬሳኔ? <verse eid="MRK 3:23"/><verse number="24" style="v" sid="MRK 3:24"/>ባ ጊዶን ሻኮይ ዲዛ ካዎቴ ሚናናስ ዳንዳዬና። <verse eid="MRK 3:24"/><verse number="25" style="v" sid="MRK 3:25"/>ኢሲ ኬ ኣሲካ ባ ጊዶን ሻኬቲኮ ኤቃናስ ዳንዳዬና። <verse eid="MRK 3:25"/><verse number="26" style="v" sid="MRK 3:26"/>ሄሳካ ጻላኤይ ባ ጋርሳን ኢሶይ ኢሳራ ሻኬቲኮኔ ኢጼቲኮ ሚኒ ኤቃናስ ዳንዳዬና። ሄሲካ ኢዛስ ዉርሴ ጊዳና።<verse eid="MRK 3:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 3:27"/>«ሄሳ ጋሶን ኢሳዴይ ኮይሮቲዲ ዎልቃማ ኣስ ቃቾንታ ዲሼ ዎልቃማዛ ሶ ጌላናሲኔ ኢዛ ሚሼ ቦንቃናስ ዳንዳዬና፤ ኢዛ ኣቆ ቦንቃናስ ዳንዳዬቲዛይ ዎልቃማዛ ቃቺኮ ጻላላ።<verse eid="MRK 3:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 3:28"/>«ታ ኢንቴስ ቱሙ ጋይስ፤ ኣሳ ናይታስ ናጋራይኔ ጫሺ ዉሪ ማሬታና። <verse eid="MRK 3:28"/><verse number="29" style="v" sid="MRK 3:29"/>ጊዶ ኣቲን ጺሎ ኣያና ቦላ ጫሻ ቃላ ሃሳይዛ ኣሳ ኡባስ ሜርናስ ናጋራ ኣጮ ጊዳና ኣቲን ማሬቴና» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">3፡29 </char><char style="xt" closed="false"><ref loc="LUK 12:10">ሉቃ 12፡10</ref></char></note> <verse eid="MRK 3:29"/><verse number="30" style="v" sid="MRK 3:30"/>ሄሳ ኢዚ ጊዳይ ኢስቲ ኢዛ፥ «ኔ ቦላ ቱና ኣያናይ ዴስ» ጊዳ ጊሻሳ።<verse eid="MRK 3:30"/></para>
+  <para style="s">ዬሱሳ ኣዬዮኔ ኢዛ ኢሻታ</para>
+  <para style="r">(<ref loc="MAT 12:46-50">ማቶ 12፡46-50</ref>፤ <ref loc="LUK 8:19-21">ሉቃ 8፡19-21</ref>)</para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 3:31"/>ሄሳፌ ጉዬ ኢዛ ኣዬያኔ ኢዛ ኢሻቲ ካሬ ዪ ኤቂዲኔ ኣሴ ኢዛኮ ኪቲ ጼይጊሲዳ። <verse eid="MRK 3:31"/><verse number="32" style="v" sid="MRK 3:32"/>ኢዛ ጊዶ ኡቲዳ ዳሮ ኣሳይ፥ «ሄኮ ኔ ኣዬያኔ ኔ ኢሻቲ ካሬን ኤቂዲ ኔና ኮዬቴስ» ጊዳ።<verse eid="MRK 3:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 3:33"/>ኢዚካ ዛሪዲ፥ «ታ ኣያ ኦኔ? ታ ኢሻቲ ኦናንቴ?» ጊዴስ። <verse eid="MRK 3:33"/><verse number="34" style="v" sid="MRK 3:34"/>ኢዛ ዩዪ ኡቲዳ ኣሳኮ ጼሊዲ፥ «ታ ኣዬያኔ ታ ኢሻቲ ሃይታንታኮ! <verse eid="MRK 3:34"/><verse number="35" style="v" sid="MRK 3:35"/>ጾሳ ሼኔ ኦዛይ ዉሪ ኢዚ ታ ኢሻ፥ ታ ሚቾኔ ታ ኣዮ» ጊዴስ።<verse eid="MRK 3:35"/></para>
+  <chapter eid="MRK 3"/>
+  <chapter number="4" style="c" sid="MRK 4"/>
+  <para style="s">ዜሬ ዜሪዛዴ ሌሚሶ</para>
+  <para style="r">(<ref loc="MAT 13:1-9">ማቶ 13፡1-9</ref>፤ <ref loc="LUK 8:4-8">ሉቃ 8፡4-8</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 4:1"/>ቃሴ ዬሱሲ ሃራ ዎዴ ኣባ ኣቻን ታማርሶ ኦይኪዴስ። ኢዛኮ ኬሂ ዳሮ ዴሬይ ሺቂዳ ጊሻስ ኣባ ጊዶን ዲዛ ዎጎሎ ዲዛሪን ጌሊዲ ኡቲዴስ፤ ኣሳይካ ዉሪ ኣባ ኣቻን ሺቂዴስ።<note caller="-" style="x"><char style="xo" closed="false">4፡1 </char><char style="xt" closed="false"><ref loc="LUK 5:1-3">ሉቃ 5፡1-3</ref></char></note> <verse eid="MRK 4:1"/><verse number="2" style="v" sid="MRK 4:2"/>ኢዚካ ዳሮ ዮኦታ ሌሚሶን ሂዝጊ ታማርሲዴስ። <verse eid="MRK 4:2"/><verse number="3" style="v" sid="MRK 4:3"/>«ሲዪቴ! ኢሳዴይ ዜሬ ዜራናስ ኬዚዴስ። <verse eid="MRK 4:3"/><verse number="4" style="v" sid="MRK 4:4"/>ኢዚ ዜሪሺን ኢሲ ኢሲ ዜሬ ኦጌ ቦላ ዎዴስ። ኦጌ ቦላ ዎዳ ዜሬ ካፎቲ ማጺ ሚዳ። <verse eid="MRK 4:4"/><verse number="5" style="v" sid="MRK 4:5"/>ባጋይ ሜላ ቢታን ዎዴስ። ሄ ቢታይ ሜላ ጊዲዳ ጊሻስ ሄራካ ጫሪዴስ። <verse eid="MRK 4:5"/><verse number="6" style="v" sid="MRK 4:6"/>ጊዶ ኣቲን ኣርሼይ ኬዚዳ ማላ ሹሊዲ ጻጶ ዬዶንታ ጊሻስ ሜሊዴስ። <verse eid="MRK 4:6"/><verse number="7" style="v" sid="MRK 4:7"/>ቃሴ ኢሲ ዜሬ ኣጉን ጊዶን ዎዴስ፤ ኣጉንይካ ዲጪዲ ጩሊዳ ጊሻስ ኣይፊቤና። <verse eid="MRK 4:7"/><verse number="8" style="v" sid="MRK 4:8"/>ሃራ ዜሬ ቃሴ ሎኦ ኦርዴ ቢታ ቦላ ዎዳ ጊሻስ ጫሪዲ ዲጪዴስ፤ ኣይፌካ ኣይፊዴስ፤ ኢሶይ ሄ ታሙ፥ ኢሶይ ቃሴ ኡሱፑን ታሙ፥ ኢሶይ ቃሴ ጼቱ ኣይፊዴስ።»<verse eid="MRK 4:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 4:9"/>ዬሱሲ ቃሴካ፥ «ሲዪዛ ሃይ ዲዛዴይ ሲዮ!» ጊዴስ።<verse eid="MRK 4:9"/></para>
+  <para style="s">ዬሱሲ ሌሚሶራ ዮቲዛ ጋሶ</para>
+  <para style="r">(<ref loc="MAT 13:10-17">ማቶ 13፡10-17</ref>፤ <ref loc="LUK 8:9-10">ሉቃ 8፡9-10</ref>)</para>
+  <para style="p">
+    <verse number="10" style="v" sid="MRK 4:10"/>ዬሱሲ ባርካ ዲሺን ታማኔ ናምኣቲኔ ካሴ ኢዛራ ዲዛ ኣሳይ ኢዚ ዮቲዳ ሌሚሶዛ ጊሻስ ኢዛ ዛሪ ኦይቺዳ። <verse eid="MRK 4:10"/><verse number="11" style="v" sid="MRK 4:11"/>ኢዚካ ኢስታስ፥ «ኢንቴስ ጾሳ ካዎቴ ጹራ ኤሮይ ጌሊዴስ ሺን ካሬን ዲዛይታስ ጊዲኮ ዮኦይ ዉሪ ሌሚሶራ ዮቴቴስ። <verse eid="MRK 4:11"/><verse number="12" style="v" sid="MRK 4:12"/>ሄሲካ ካሴ፥ ‹ኢስቲ ቤኢዲ ቤኢዳይሳ ኣኬኮንታ ማላኔ ሲሞንታ ማላ፥ ቃሴካ ኢስታ ናጋራይ ማሬቶንታ ማላኮ› » ጊዴስ።<verse eid="MRK 4:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 4:13"/>ቃሴካ ዬሱሲ፥ «ሃይሲ ሌሚሶይ ኢንቴስ ጌሊቤኔ? ሂስቲን ሃራ ሌሚሶ ኢንቴ ዎስቲ ኤራኔ? <verse eid="MRK 4:13"/><verse number="14" style="v" sid="MRK 4:14"/>ዜሪዛዴይ ቃላ ዜሬስ። <verse eid="MRK 4:14"/><verse number="15" style="v" sid="MRK 4:15"/>ኢሲ ኢሲ ኣሳቲ ኦጌ ቦላ ዎዳ ዜሬ ሚሳቴቴስ፤ ኢስቲ ቃላ ሲዪዛ ዎዴ ጻላኤይ ዪዲ ሄራካ ኢስቲ ሲዪዳ ቃላ ኢስታ ዎዚናፔ ኤኪቼስ። <verse eid="MRK 4:15"/><verse number="16" style="v" sid="MRK 4:16"/>ሄሳካ ሃራቲ ሜላ ቢታ ቦላ ዎዳ ዜሬ ሚሳቴቴስ። ኢስቲ ቃላ ሲዪዲ ኡፋይሳን ኤኬቴስ። <verse eid="MRK 4:16"/><verse number="17" style="v" sid="MRK 4:17"/>ጊዶ ኣቲን ኢስቲ ጻጶ ዬዶንታ ጊሻስ ጉ ዎዴ ጋምኢሺን ቃላ ጋሶን ሜቶይ ዎይኮ ጎዴታይ ኣሳታ ቦላ ዪዛ ዎዴ ሄራካ ጴቴቴስ። <verse eid="MRK 4:17"/><verse number="18" style="v" sid="MRK 4:18"/>ሃራቲ ቃሴ ኣጉን ጊዶን ዎዳ ዜሬ ሚሳቴቴስ፤ ኢስቲ ቃላ ሲስ ሲዬቴስ። <verse eid="MRK 4:18"/><verse number="19" style="v" sid="MRK 4:19"/>ጊዶ ኣቲን ሃ ቢታ ሜቶይ፥ ሚሻ ሲቆይኔ ሃራ ኣሞይ ኢስቲ ሲዪዳ ቃላ ጩሊዲ ኣይፌ ኣይፎንታ ማላ ዲጌስ። <verse eid="MRK 4:19"/><verse number="20" style="v" sid="MRK 4:20"/>ሃንኮይቲ ሎኦ ቢታን ዜሬቲዳ ዜሬ ሚሳቴቴስ፤ ሄይቲካ ቃላ ሲዪዲ ኤኪዛዴኔ ሄ ታሙ ኣይፌ፥ ኡሱፑን ታሙ ኣይፌኔ ጼቱ ኣይፌ ኣይፊዛይታ» ጊዴስ።<verse eid="MRK 4:20"/></para>
+  <para style="s">ጌማን ዲዛ ጾምፔ</para>
+  <para style="r">(<ref loc="LUK 8:16-18">ሉቃ 8፡16-18</ref>)</para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 4:21"/>ቃሴካ ዬሱሲ፥ «ጾምፔ ኦይዲ ጌማሶን ዎይኮ ኣርሳ ጋርሳን ዎ ኤሬቲ? ፖኣና ማላ ቆንጬሶን ዎታ ጊዴኔ?<note caller="-" style="x"><char style="xo" closed="false">4፡21 </char><char style="xt" closed="false"><ref loc="MAT 5:15">ማቶ 5፡15</ref>፤ <ref loc="LUK 11:33">ሉቃ 11፡33</ref></char></note> <verse eid="MRK 4:21"/><verse number="22" style="v" sid="MRK 4:22"/>ሄሳ ጊሻስ ቆቴቲዲ ቆንጬ ኬዞንታይ፥ ፖኦን ኬዞንታ ጌማን ኣታናይ ባ።<note caller="-" style="x"><char style="xo" closed="false">4፡22 </char><char style="xt" closed="false"><ref loc="MAT 10:26">ማቶ 10፡26</ref>፤ <ref loc="LUK 12:2">ሉቃ 12፡2</ref></char></note> <verse eid="MRK 4:22"/><verse number="23" style="v" sid="MRK 4:23"/>ሄሳ ጊሻስ ሲዪዛ ሃይ ዲዛዴይ ሲዮ!» ጊዴስ።<verse eid="MRK 4:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 4:24"/>ጉጂዲካ፥ «ኢንቴ ሲዪዛይሳ ዎዚናን ዎቴ፤ ኢንቴ ማኪዛ ሚሻራ ኢንቴስ ማኬታና፤ ሄሳፌካ ዳሮይ ጉጄታና።<note caller="-" style="x"><char style="xo" closed="false">4፡24 </char><char style="xt" closed="false"><ref loc="MAT 7:2">ማቶ 7፡2</ref>፤ <ref loc="LUK 6:38">ሉቃ 6፡38</ref></char></note> <verse eid="MRK 4:24"/><verse number="25" style="v" sid="MRK 4:25"/>ዲዛዴስ ጉጄታና ሺን ባይንዳዴፌ ኢዛስ ዲዛራካ ኤኬታይቻና» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">4፡25 </char><char style="xt" closed="false"><ref loc="MAT 13:12">ማቶ 13፡12</ref>፤ <ref loc="MAT 25:29">25፡29</ref>፤ <ref loc="LUK 19:26">ሉቃ 19፡26</ref></char></note><verse eid="MRK 4:25"/></para>
+  <para style="s">ዲጪዛ ዜሬ ሌሚሶ</para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 4:26"/>ቃሴካ ዬሱሲ፥ «ጾሳ ካዎቴያ ዜሬ ዜሪዛ ኢሲ ኣስ ሚሳታዉስ። <verse eid="MRK 4:26"/><verse number="27" style="v" sid="MRK 4:27"/>ዜሪዳዴይ ኦማርስ ስኬስ። ዎንቲሺን ዴንዴስ፤ ጊዶ ኣቲን ኢዚ ኤሮንታ ዲሺን ዜሬቲዳ ካይ ሞኪዲ ዲጬስ። <verse eid="MRK 4:27"/><verse number="28" style="v" sid="MRK 4:28"/>ጋዴያካ ኮይሮ ጫሬች፥ ካሌዳ ፑ፥ ቃሴካ ፑዛ ቦላ ሎኦ ኣይፌ ኢማዉስ። <verse eid="MRK 4:28"/><verse number="29" style="v" sid="MRK 4:29"/>ካይ ካጺዳፔ ጉዬ ቦኔይ ጋኪን ኬ ኣዋይ ሄራካ ማጻ ኦይኬስ» ጊዴስ።<verse eid="MRK 4:29"/></para>
+  <para style="s">ሳናፊጬ ሚ ኣይፌ ሌሚሶ</para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 4:30"/>ዬሱሲ፥ «ጾሳ ካዎቴ ኑ ኣዛራ ጊኒሳኔ? ኣዛራ ሌሚሳኔ? <verse eid="MRK 4:30"/><verse number="31" style="v" sid="MRK 4:31"/>ቢታ ቦላ ኡባፌ ላፋ ጊዲዳ ሳናፊጬ ኣይፌ ሚሳታዉስ። <verse eid="MRK 4:31"/><verse number="32" style="v" sid="MRK 4:32"/>ዜሬታዳ ዲጪዳፔ ጉዬ ቃሴ ኣታኪልቴታ ኡባፌ ኣዛ ጊሻስ ካፎቲ ዪዲ ሄ ኣታኪልቴይ ሃጋታ ኩዋ ጊዶን ሼምፔቴስ» ጊዴስ።<verse eid="MRK 4:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 4:33"/>ዬሱሲካ ኣሳይ ኤካናስ ዳንዳይዛይሳ ኬና ሃይታ ሚሳቲዛ ሃራ ዳሮ ሌሚሶራ ኢስታስ ዮቲዴስ። <verse eid="MRK 4:33"/><verse number="34" style="v" sid="MRK 4:34"/>ኣይ ሚሽ ጊዲኮካ ኣሳስ ሌሚሶይ ባይንዳ ዮቲ ኤሬና። ኢዚኔ ኢዛ ካሊዛይቲ ጻላ ዲዛ ዎዴ ጊዲኮ ዉርሲ ቢርሺ ዮቴስ።<verse eid="MRK 4:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 4:35"/>ሄ ጋላስ ጋዴይ ቃሚሺን ባና ካሊዛይታ፥ «ኣኔ ጌዴ ሄ ፒን ፒኖስ» ጊዴስ። <verse eid="MRK 4:35"/><verse number="36" style="v" sid="MRK 4:36"/>ኢስቲ ኣሳ ሄን ኣጋጊዲ ኢዚ ኡቲ ዲዛ ዎጎሎዛራ ዬሱሳ ኤኪ ቢዳ። ሃራ ዎጎሎቲካ ኢስታራ ኢሲፌ ዴቴስ። <verse eid="MRK 4:36"/><verse number="37" style="v" sid="MRK 4:37"/>ሄ ዎዴ ዎልቃማ ዳምባላይ ኣባ ቦላ ዴንዲዲ ዎጎሎዛ ሃ ኩማና ጋካናስ ሾጬቺዴስ። <verse eid="MRK 4:37"/><verse number="38" style="v" sid="MRK 4:38"/>ጊዶ ኣቲን ዬሱሲ ቦርኮ ቦርኮቲዲ ዎጎሎዛስ ጉዬ ባጋን ኢቺዴስ። ኢስቲካ ኢዛ ዴንዲ፥ «ኣስታማሬ! ኑኒ ይሺን ኔና ሜቴኔ?» ጊዳ።<verse eid="MRK 4:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 4:39"/>ኢዚካ ዴንዲዲ ጫርኮዛ፥ «ጮኡ ጋ!» ኣባካ፥ «ዎፑ ጋ!» ጊዴስ፤ ጫርኮይካ ጮኡ ጊዴስ፤ ሙሌካ ጮኡ ጊዴስ። <verse eid="MRK 4:39"/><verse number="40" style="v" sid="MRK 4:40"/>ባና ካሊዛይታካ፥ «ሃይሳ ኣዛስ ባቢዴቲ? ሃይሳ ጋካናስ ኢንቴስ ኣማኖይ ባዌ?» ጊዴስ።<verse eid="MRK 4:40"/></para>
+  <para style="p">
+    <verse number="41" style="v" sid="MRK 4:41"/>ኢስቲካ ኬሂ ባቢዲ ባ ጊዶን ኢሶይ ኢሳራ፥ «ጫርኮይኔ ኣባይ ኢዛስ ኣዛዜቲዛይ ሃይሲ ኦኔ?» ጌቴቲዳ።<verse eid="MRK 4:41"/></para>
+  <chapter eid="MRK 4"/>
+  <chapter number="5" style="c" sid="MRK 5"/>
+  <para style="s">ዬሱሲ ቱና ኣያናፔ ፓዳዴ</para>
+  <para style="r">(<ref loc="MAT 8:28-34">ማቶ 8፡28-34</ref>፤ <ref loc="LUK 8:26-39">ሉቃ 8፡26-39</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 5:1"/>ኣባ ፒኒዲ ጌዴ ጌርጌሴኖኔ ጌቴቲዛሶ ቢዳ። <verse eid="MRK 5:1"/><verse number="2" style="v" sid="MRK 5:2"/>ዬሱሲ ዎጎሎይፔ ዎዳ ማላ ቱና ኣያናይ ኢዛ ቦላ ዲዛዴይ ዱፎፔ ኬዚዲ ዬሱሳራ ጋጋና ኢዛኮ ዪዴስ። <verse eid="MRK 5:2"/><verse number="3" style="v" sid="MRK 5:3"/>ሃይሲ ኣዴዚ ዱፎሶን ዲዛዴኔ ሃራይ ኣቶሺን ኦኒካ ኢዛ ሳንሳላታንካ ቃቻናስ ዳንዳይቤና። <verse eid="MRK 5:3"/><verse number="4" style="v" sid="MRK 5:4"/>ዳሮ ዎዴ ቶሆ ቢራታራኔ ሳንሳላታራ ቃሼቴስ። ጊዶ ኣቲን ኩሼ ሳንሳላታ ዱሴ ዬጌስ፤ ቶሆ ቢራታካ ሜንሬ ዬጌስ፤ ኦኒካ ኢዛ ኦይኪዲ ቴቃናስ ዳንዳይቤና። <verse eid="MRK 5:4"/><verse number="5" style="v" sid="MRK 5:5"/>ጋላሲኔ ቃማ ዱፎታ ጊዶኒኔ ዙማታ ቦላ ዩዪ ዩዪ ዋሲሼ ባ ቦላ ሹቻራ ቃንጼሬዲ ማዱንስ።<verse eid="MRK 5:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 5:6"/>ኢዚካ ዬሱሳ ሃሆን ቤኢዳ ማላ ዎን ኢዛኮ ዪዲ ኢዛ ሲንን ጉልባቲዲ ጎይኒዴስ። <verse eid="MRK 5:6"/><verse number="7" style="v" sid="MRK 5:7"/>ኬሂ ዋሲዲ፥ «ሃይሶ ዎጋ ጾሳ ና ዬሱሳ፥ ኔስ ታናራ ኣዚ ዲዜ? ጾሳ ሱንን ታ ኔና ዎሳይስ ታና ዋዪሶፓ» ጊዴስ። <verse eid="MRK 5:7"/><verse number="8" style="v" sid="MRK 5:8"/>ኢዚ ሄሳ ጊዳይ ዬሱሲ ካሴ፥ «ኔኒ ቱና ኣያናይ ሃይሳፌ ኬዛ» ጊዳ ጊሻሳ።<verse eid="MRK 5:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 5:9"/>ሄሳፌ ቃሴ ዬሱሲ ኢዛ፥ «ኔ ሱን ኦኔ?» ጊዲ ኦይቺዴስ። ኢዚካ፥ «ኑኒ ዳሮታ ጊዲዳ ጊሻስ ታ ሱን ሌጎኔ<note caller="+" style="f"><char style="fr" closed="false">5፡9 </char><char style="fqa" closed="false">ሌጎኔ፡ </char><char style="ft" closed="false">ሌጎኔ ጉሲ ዳሮ ዎታዳራታ ቡቴ [ጪፍራ] ጉሳ።</char></note> ጌቴቴስ» ጊዴስ።<verse eid="MRK 5:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="MRK 5:10"/>ሄ ዴሬፔ ኬሲ ዬዶንታ ማላ ዬሱሳ ኬሂ ዎሲዴስ።<verse eid="MRK 5:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="MRK 5:11"/>ሄን ማታን ዙማ ቦላ ዳሮ ጉዱን ሄሜቴስ። <verse eid="MRK 5:11"/><verse number="12" style="v" sid="MRK 5:12"/>ቱና ኣያናቲ፥ «ኑ ጉዱንታን ጌላና ማላ ኑስ ኤሮ ጋርኪ?» ጊዲ ዬሱሳ ዎሲዳ። <verse eid="MRK 5:12"/><verse number="13" style="v" sid="MRK 5:13"/>ኢዚካ ኢስታስ፥ «ኤሮ» ጊዴስ። ቱና ኣያናቲካ ኣዴዛፔ ኬዚዲ ጉዱንታን ጌሊዳ። ናምኡ ሺ ጊዲዛ ጉዱንቲ ዉሪ ኣፎዛራ ዱጉ ጌንዴሬቲ ዎዲ ኣባን ሚቴቲዳ።<verse eid="MRK 5:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 5:14"/>ጉዱን ሄሚዛይቲ ባቃቲዲ ሃኒዳይሳ ካታማኒኔ ዴሬ ጊዶን ዮቲዳ። ዴሬይካ ሃኒዳይሳ ቤያናስ ባ ዲዛሶፔ ዲዛሶፔ ኬዚዴስ። <verse eid="MRK 5:14"/><verse number="15" style="v" sid="MRK 5:15"/>ዬሱሳኮ ዪዲ ዳሮ ዳይዳን ኢዛ ቦላ ዲዛ ኣዴዛ ዎዚናይ ኢዛስ ሲሚን ማይኦ ማይኢዲኔ ዎጋራ ኡቲዳይሳ ዪዳ ኣሳይ ቤኢዲ ባቢዴስ። <verse eid="MRK 5:15"/><verse number="16" style="v" sid="MRK 5:16"/>ሃይሳ ቤኢዳ ኣሳይ ዳይዳን ኢዛ ቦላ ዲዛ ኣዴዛ ጊሻሲኔ ጉዱንቲ ሃኖይሳ ዴሬዛስ ዮቲዴስ።<verse eid="MRK 5:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 5:17"/>ሄሳፌ ጉዬ ሄ ዴሬ ኣሳይ ዬሱሲ ኢስታ ዴሬ ዬዲዲ ባና ማላ ዎሲዴስ።<verse eid="MRK 5:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="MRK 5:18"/>ዬሱሲ ዎጎሎን ጌሊሺን ዳይዳንቲ ኢዛፔ ኬዚዳ ኣዴዚ ዬሱሳራ ዳናስ ዎሲዴስ።<verse eid="MRK 5:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 5:19"/>ዬሱሲ ቃሴ ኢዚ ኦይቺዳይሳ ኣካይ ጊዲ፥ «ኔኒ ጌዴ ኔሶ ባ፤ ጎዳይ ኔስ ኣይ ማላ ጊታ ሚሽ ኦዳኮኔ ኢዚ ኔስ ኦዳ ማሮቴ ኔሶ ኣሳስ ዮታ» ጊዴስ።<verse eid="MRK 5:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 5:20"/>ኣዴዚካ ባሶ ቢዲ ዬሱሲ ኢዛስ ኦዳ ጊታ ሚሽ ዉርሲ ታሙ ካታማ ጌቴቲዛ ዴሬን ዮቲን ሲዪዳይ ዉሪካ ማላሌቲዴስ።<verse eid="MRK 5:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 5:21"/>ቃሴካ ዬሱሲ ዎጎሎን ጌሊዲ ጌዴ ፒን ፒኒዲ ኣባ ኣቻን ዲሺን ዳሮ ኣሳይ ኢዛ ኣች ሺቂዲኔ ኢዛ ጊዶዴስ። <verse eid="MRK 5:21"/><verse number="22" style="v" sid="MRK 5:22"/>ኣይሁዳታ ዎሳ ኬ ሃላቃታፔ ኢሶይ ኢያኢሮሳ ጌቴቲዛይሲ ኢዚ ዲዛሶ ቢዲ ዬሱሳ ዴሚዳ ማላ ኢዛ ቶሆ ቦላ ኩንዲዲ <verse eid="MRK 5:22"/><verse number="23" style="v" sid="MRK 5:23"/>«ታስ ጉ ና ዲዛራ ሃይቃና ጋዉስ። ኢዛ ሃይቆንታ ፓጻ ዳና ማላ ኔ ሃ ያዳ ኔ ኩሼ ኢዚ ቦላ ዎርኪ?» ጊዲ ኬሂ ዎሲዴስ።<verse eid="MRK 5:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 5:24"/>ዬሱሲካ ኢዛራ ኢሲፌ ቢዴስ። ዳሮ ኣሳይ ኢዛ ኡንኤና ጋካናስ ካሊዴስ።<verse eid="MRK 5:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 5:25"/>ታማኔ ናምኡ ላይ ኩሜ ሱ ኢዚ ቦላፌ ጉኪዛ ማጫስ ዲዛራ ሄን ኣሳራ ዳዉስ።<verse eid="MRK 5:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 5:26"/>ኢዛ ባስ ዲዛ ሚሽ ዉርሳና ጋካናስ ኣኪሜፔ ኣኪሜ ላሞን ዳሮ ዳቡራዱስ። ጊዶ ኣቲን ሳኮይ ኢዚስ ጌዴ ዳሪዴስ ኣቲን ኣይኮካ ሎኢቤና። <verse eid="MRK 5:26"/><verse number="27" style="v" sid="MRK 5:27"/>ኢዛ ዬሱሳ ጊሻስ ሲዪዳ ማላ ኣሳ ጊዶራ ዬሱሳ ጉዬራ ካላዳ ኢዛ ማይኦ ቦቻዱስ። <verse eid="MRK 5:27"/><verse number="28" style="v" sid="MRK 5:28"/>ጋሶይካ፥ «ታ ኣይ ሃናዳካ ኢዛ ማይኦ ኩሼራ ቦቾ ቦቺዳኮካ ፓጻና» ጋዳ ቆፒዳ ጊሻሳ።<verse eid="MRK 5:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 5:29"/>ጉኪዛ ሱይ ሄራካ ኤቂ ኣጊዴስ፤ ኢዛካ ፓጺዳይሳ ባ ኣሳቴን ኤራዱስ። <verse eid="MRK 5:29"/><verse number="30" style="v" sid="MRK 5:30"/>ባፔ ዎልቃይ ኬዚዳይሳ ዬሱሲ ኤሪዲ ጌዴ ኣሳኮ ሲሚዲ፥ «ታ ማይኦ ኦኔ ቦቺዳይ?» ጊዴስ።<verse eid="MRK 5:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 5:31"/>ኢዛ ካሊዛይቲ ቃሴ፥ «ሃይሲ ዴሬይ ኡንኤቲዲ ሱጌቲሺን ቤያሼ ዋናዳ፥ ‹ታና ቦቺዳይ ኦኔ?› ጋይ» ጊዳ።<verse eid="MRK 5:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 5:32"/>ዬሱሲ ሄሳ ኦዳይ ኦናኮኔ ቤያናስ ዩሺ ጼሊዴስ። <verse eid="MRK 5:32"/><verse number="33" style="v" sid="MRK 5:33"/>ማጫሳያካ ባስ ኣዚ ዋኒዳኮ ኤራዳ ባባሼኔ ኮኮራሼ ያዳ ዬሱሳ ሲንን ጉፋናዳ ቱማ ዉርሳ ኢዛስ ዮታዱስ። <verse eid="MRK 5:33"/><verse number="34" style="v" sid="MRK 5:34"/>ኢዚካ፥ «ታ ናዬ! ኔ ኣማኖይ ኔና ኣሺዴስ። ሳሮን ባ! ኔ ዋዬፔ ፓጻ!» ጊዴስ።<verse eid="MRK 5:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 5:35"/>ዬሱሲ ቡሮ ሃሳያን ዲሺን ኣይሁዳታ ዎሳ ኬ ሃላቃ ኢያኢሮሳ ሶፔ ዪዲ ኢያኢሮሳስ፥ «ኔ ናያ ሃይቃዱስ፤ ጎዳ ሜላ ኣዛስ ዳቡርሳይ?» ጊዳ።<verse eid="MRK 5:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="MRK 5:36"/>ጊዶ ኣቲን ዬሱሲ ኢስታ ሃሳያ ሌፒ ሂስቲዲ ኣይሁዳታ ዎሳ ኬ ሃላቃዛ፥ «ኔ ኣማኖ ጻላ ኣማና ኣቲን ባቦፋ!» ጊዴስ። <verse eid="MRK 5:36"/><verse number="37" style="v" sid="MRK 5:37"/>ጴጽሮሳ፥ ያቆቤራኔ ያቆቤ ኢሻ ዮሃኒሳፔ ኣቲን ሃራይ ኦኒካ ኢዛ ካላና ማላ ኮዪቤና። <verse eid="MRK 5:37"/><verse number="38" style="v" sid="MRK 5:38"/>ጌዴ ኣይሁዳታ ዎሳ ኬ ሃላቃዛሶ ጋኪዳ ማላ ኣሳይ ዋሲሼ ጫሞ ዬሆ ዬኪዛይሳ ቤዪዴስ። <verse eid="MRK 5:38"/><verse number="39" style="v" sid="MRK 5:39"/>ሶ ጌሊዲ፥ «ሃይሲ ዉሪ ኣዛ ዋሶኔ ኣዛ ዬሆ? ናያ ስካዱስ ኣቲን ሃይቃቤኩ» ጊዴስ።<verse eid="MRK 5:39"/></para>
+  <para style="p">
+    <verse number="40" style="v" sid="MRK 5:40"/>ቃሴ ኣሳይ ዉሪ ኢዛ ቦላ ሚጪዴስ፤ ኣሳ ዉርሲካ ኬፌ ኬሲዲ ናዪ ኣዋኔ ናዪ ኣዪዮ ቃሴካ ኢዛራ ኢሲፌ ዪዳይታ ኢዛ ካሊዛይታ ጻላ ካሌዲ ናያ ዲዛሶ ጌሊዴስ። <verse eid="MRK 5:40"/><verse number="41" style="v" sid="MRK 5:41"/>ናይ ኩሼካ ኦይኪዲ፥ «ጻቢታ ኩም!» ጊዴስ። «ጻቢታ ኩም!» ጉሳስ ቢርሼ፥ «ሃኔ ናዬ ዴንዳ» ጉሳ።<verse eid="MRK 5:41"/></para>
+  <para style="p">
+    <verse number="42" style="v" sid="MRK 5:42"/>ናያካ ሄራካ ዴንዳ ኤቃዱስ፤ ያኔ ሃ ሄሜታዱስ። ኢዚስካ ላይይ ታማኔ ናምኣ፤ ኣሳይካ ሄ ሃኖዛን ዳሮ ማላሌቲዴስ። <verse eid="MRK 5:42"/><verse number="43" style="v" sid="MRK 5:43"/>ዬሱሲ ሃይሳ ኦኒካ ኤሮንታ ማላ ኬሂ ሚን ዮቲዴስ፤ «ናይስ ማና ቁማ ኢሚቴ» ጊዴስ።<verse eid="MRK 5:43"/></para>
+  <chapter eid="MRK 5"/>
+  <chapter number="6" style="c" sid="MRK 6"/>
+  <para style="s">ናዚሬቴ ኣሳይ ዬሱሳ ኤኪቤና</para>
+  <para style="r">(<ref loc="MAT 13:53-58">ማቶ 13፡53-58</ref>፤ <ref loc="LUK 4:16-30">ሉቃ 4፡16-30</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 6:1"/>ሄሳፌ ጉዬ ዬሱሲ ሄፔ ዴንዲዲ ጌዴ ባ ዴሬ ቢዴስ። ኢዛ ካሊዛይቲካ ኢዛራ ቢዳ። <verse eid="MRK 6:1"/><verse number="2" style="v" sid="MRK 6:2"/>ኣይሁዳታ ሳምባታይ ጋኪን ኣይሁዳታ ዎሳ ኬ ጌሊዲ ታማርሲሺን ሲዪዳ ኣሳይ፥ «ሃይሲ ኣዴዚ ሃይሳ ዉርሲ ኣዋፔ ኤኪዴ? ሃይሲ ኢዛስ ኢሜቲዳ ኤራቴይ ኣዜ? ቃሴ ሃይቲ ኢዚ ኦዛ ማላታቲ ዋኒ ኢዛ ኩሼን ሃኒዞ?» ጊሼ ማላሌቲዳ። <figure style="fig" alt="Man reading inside synagogue" file="LB00244B.TIF" size="col" ref="6፡2">ኣይሁዳታ ዎሳ ኬን ቲሚርቴይ ኢሜቲሺን</figure> <verse eid="MRK 6:2"/><verse number="3" style="v" sid="MRK 6:3"/>«ሃይሲ ኣናጼዛ ጊዴኔ? ማራሚ ና ያቆቤንታ ዮሳንታ፥ ዩሁዳንታኔ ሲሞናንታ ኢሻ ጊዴኔ? ኢዛ ሚቼቲ ኑናራ ሃን ኑ ማታን ዲዛይታ ዴቴኔ?» ጊዲ ሄሳፌ ዴንዲዳይሳን ኢዛን ኡፋዬቲቤቴና።<verse eid="MRK 6:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 6:4"/>ዬሱሲካ ኢስታስ፥ «ናቤይ ቦንቼቶንታይ ባ ዴሬን ባ ዳቦታ ጊዶኒኔ ባሶ ኣሳ ኣቻን ጻላ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">6፡4 </char><char style="xt" closed="false"><ref loc="JHN 4:44">ዮሃ 4፡44</ref></char></note><verse eid="MRK 6:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 6:5"/>ሄን ጉ ሃርጋንቻታ ቦላ ኩሼ ዎ ፓሪፔ ኣቲን ሃራ ኣይኮ ማላታካ ኦናስ ዳንዳይቤና። <verse eid="MRK 6:5"/><verse number="6" style="v" sid="MRK 6:6"/>ኢስታስ ኣማኖይ ባይንዳይሳ ቤኢዲ ማላሌቲዴስ። ሄሳፌካ ዬሱሲ ጉታን ጉታን ዩዪ ዩዪ ታማርሲዴስ።<verse eid="MRK 6:6"/></para>
+  <para style="s">ዬሱሲ ኪቲ ዬዲዳ ታማኔ ናምኣታ</para>
+  <para style="r">(<ref loc="MAT 10:5-15">ማቶ 10፡5-15</ref>፤ <ref loc="LUK 9:1-6">ሉቃ 9፡1-6</ref>)</para>
+  <para style="p">
+    <verse number="7" style="v" sid="MRK 6:7"/>ታማኔ ናምኣታ ባኮ ጼይጊዲ ናምኡ ናምኡ ሂስቲ ኪቲሼ ቱና ኣያናታ ቦላ ኢስታስ ጎዳቴ ኢሚዴስ። <verse eid="MRK 6:7"/><verse number="8" style="v" sid="MRK 6:8"/>ኢዚ፥ «ኦጌስ ጊዲዛ ጉፌ ኣቲን ኦጌ ሺንቄ ዎይኮ ኮሮጆ ዎይኮ ሚሼ ኦይኮፍቴ።<note caller="-" style="x"><char style="xo" closed="false">6፡8-11 </char><char style="xt" closed="false"><ref loc="LUK 10:4-11">ሉቃ 10፡4-11</ref></char></note> <verse eid="MRK 6:8"/><verse number="9" style="v" sid="MRK 6:9"/>ጫማ ኣቴ ጊዶ ኣቲን ላማና ማይኦ ኦይኮፍቴ። <verse eid="MRK 6:9"/><verse number="10" style="v" sid="MRK 6:10"/>ኢሲ ኬ ኢንቴ ጌሊኮ ሄ ካታማፔ ኢንቴ ኬዛና ጋካናስ ሄ ኬን ዲቴ። <verse eid="MRK 6:10"/><verse number="11" style="v" sid="MRK 6:11"/>ኣዋንካ ኦኒካ ኢንቴና ሞኪ ኤኮንታ ኢጺኮ ሄፔ ኬዚሼ ሄ ዴሬታ ቦላ ማርካ ጊዳና ማላ ኢንቴ ቶሆ ቦላ ዲዛ ጉዱላ ቆቆፍቴ» ጊዲ ኣዛዚዴስ።<note caller="+" style="f"><char style="fr" closed="false">6፡11 </char><char style="ft" closed="false">ጊኢዜ ኦራ ጫቆ ማጻፋይኔ 1,947 ማሮቴ ላይን ጻፌቲዳ ኣማራ ጌሻ ማጻፋይ ሃይሳፌ ካሊዲ ዲዛ ቆፋ ጉጄቴስ፤ «ኢንቴስ ቱማ ጋይስ፤ ሄ ካታማይፔ ሶዶሜሲኔ ጋሞራስ ፒርዳ ጋላስ ሎኣና።» ሃይሳ ሃ ቆፋይ ጊሪኬ ቃላን ቢርሼቲዳ ማጻፋታን ዴና።</char></note><note caller="-" style="x"><char style="xo" closed="false">6፡11 </char><char style="xt" closed="false"><ref loc="ACT 13:51">ሃዋ 13፡51</ref></char></note><verse eid="MRK 6:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 6:12"/>ኢስቲካ ሄፔ ኬዚዲ ዴሬይ ማሮቴን ጌላና ማላ ሳባኪዳ። <verse eid="MRK 6:12"/><verse number="13" style="v" sid="MRK 6:13"/>ዳሮ ዳይዳንታ ኬሲዳ፤ ዳሮ ሃርጋንቻታ ዛይቴ ቲዪ ቲይዲ ፓዳ።<note caller="-" style="x"><char style="xo" closed="false">6፡13 </char><char style="xt" closed="false"><ref loc="JAS 5:14">ያቆ 5፡14</ref></char></note><verse eid="MRK 6:13"/></para>
+  <para style="s">ጻማቂዛ ዮሃኒሳ ሃይቆ</para>
+  <para style="r">(<ref loc="MAT 14:1-12">ማቶ 14፡1-12</ref>፤ <ref loc="LUK 9:7-9">ሉቃ 9፡7-9</ref>)</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 6:14"/>ዬሱሳ ሱን ካሴፔ ኤሬቲ ኤሬቲ ቢሺን ካዎ ሄርዶሲ ሄሳ ሲዪዴስ። ኢሲ ኢሲ ኣሳቲ፥ «ሃይሳ ማላ ማላታታ ኦዛይ ጻማቂዛ ዮሃኒሲ ሃይቆፔ ዴንዲና» ጊዳ።<verse eid="MRK 6:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="MRK 6:15"/>ባጋይቲ፥ «ኤላሳ» ጌቴስ፤ ባጋ ኣሳይ ቃሴ፥ «ካሴ ናቤታፔ ኢሳ ሚሳቴስ» ጌቴስ።<verse eid="MRK 6:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 6:16"/>ሄርዶሲ ዮኦዛ ሲዪዲ፥ «ታ ኢዛ ቆ ቃንጺሲዳ ዮሃኒሲ ሃይቆፔ ፓጺ ዴንዲዴስ» ጊዴስ። <verse eid="MRK 6:16"/><verse number="17" style="v" sid="MRK 6:17"/>ሄርዶሲ ባ ኢሻ ፒሊጶሳ ማቾ ሄሮዲያዶ ኤኪዳ ጋሶን ኦይኬቲዲ ቃሼታና ማላ ኣዛዚዲ ዮሃኒሳ ቃሾ ኬ ጌልዴስ። <verse eid="MRK 6:17"/><verse number="18" style="v" sid="MRK 6:18"/>ዮሃኒሲ ሄርዶሳ፥ «ኔ ኢሻ ማቾ ኔ ኤኮንታ ማላ ዎጋይ ኔና ዲጌስ» ጊዳ ጊሻስ ቃቺዴስ።<note caller="-" style="x"><char style="xo" closed="false">6፡17-18 </char><char style="xt" closed="false"><ref loc="LUK 3:19-20">ሉቃ 3፡19-20</ref></char></note><verse eid="MRK 6:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 6:19"/>ሄሮዲያዳ ሄሳ ጊሻስ ሆሎታዳ ኢዛ ዎሳናስ ኮያዱስ ሺን ዳንዳያቤኩ። <verse eid="MRK 6:19"/><verse number="20" style="v" sid="MRK 6:20"/>ጋሶይካ ዮሃኒሲ ጺሎኔ ጌሻ ኣስ ጊዲዳይሳ ሄርዶሲ ኤሪዛ ጊሻስ ዮሃኒሳስ ባቤሲኔ ኢዛ ናጌስ። ዮሃኒሲ ዮቲዛይሳ ሄርዶሲ ሲዪዲ ሂርጊዛ ጊዲኮካ ኢዚ ዮቲዛይሳ ዎዚናፔ ሲዬስ።<verse eid="MRK 6:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 6:21"/>ሄርዶሳ ዬሌታ ጋላስ ቦንቻናስ ቃ ሹሜታስ፥ ኦላ ዎታዳራታ ኣዛዚዛ ዋናታሲኔ ጋሊላ ቢታን ኬሂ ኤሬቲዛ ጊታ ኣሳታስ ጊቢራ ኬሲዴስ፤ ሄሲካ ሄሮዲያዲስ ጊጋ ጋላስ ጊዲዴስ። <verse eid="MRK 6:21"/><verse number="22" style="v" sid="MRK 6:22"/>ሄሮዲያዲ ማጫ ናያ ጌላዳ ኣሳ ሲንን ማዛሙሬ ዬጺን ሄርዶሳኔ ኢዚ ጼይጊዳ ኣሳ ኢዚ ዬይ ኡፋይሲዴስ። ካዎዚካ ናዮ፥ «ኔ ኮይዛ ሚሽ ኡባ ታና ኦይቻ፤ ታ ኔስ ኢማና» ጊዴስ። <verse eid="MRK 6:22"/><verse number="23" style="v" sid="MRK 6:23"/>ቃሴካ ታ ካዎቴ ባጋ ጊዲዳኮካ ኔ ኦይቺኮ ኡባ ታ ኔስ ኢማና ጊዲ ኢዚስ ጫቂዴስ።<verse eid="MRK 6:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 6:24"/>ናያ ኤሌላ ኬዛዳ ባ ኣዬዮ፥ «ካዎዛ ኣይ ኦይቾ?» ጋዱስ። ኣዪያካ፥ «ጻማቂዛ ዮሃኒሳ ሁኤ ቃንጻዳ ኢማ ጋ» ጋዱስ።<verse eid="MRK 6:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 6:25"/>ናያካ ኤሌላ ኬዛዳ ካዎዛኮ ጌላዳ፥ «ጻማቂዛ ዮሃኒሳ ሁኤ ኬሬን ዎዳ ኔ ታስ ኢማና ማላ ኮያይስ» ጋ ኦይቻዱስ።<verse eid="MRK 6:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 6:26"/>ካዎይ ሄ ዮኦዛን ዳሮ ሞቲዴስ፤ ጊዶ ኣቲን ጼይጌቲዳ ኢማ ጊሻሲኔ ጫቂዳ ቃላ ጊሻስ ኢዚስ ኣካይ ጋናስ ኮዪቤና። <verse eid="MRK 6:26"/><verse number="27" style="v" sid="MRK 6:27"/>ሄሳ ጊሻስ ዎታዳራታፔ ኢሳ ኤሶን ኪቲዲ ዮሃኒሳ ቆ ቃንጺዲ ኢዛ ሁኤ ኤኪ ያና ማላ ኣዛዚዴስ፤ ኢዚካ ቢዲ ቃሾ ኬ ጊዶን ዮሃኒሳ ቆ ቃንጺዴስ። <verse eid="MRK 6:27"/><verse number="28" style="v" sid="MRK 6:28"/>ሁኤዛ ኬሬራ ኤሂዲ ናይስ ኢሚዴስ፤ ናያካ ባ ኣዬይስ ኢማዱስ። <verse eid="MRK 6:28"/><verse number="29" style="v" sid="MRK 6:29"/>ዮሃኒሳ ካሊዛይቲካ ሄሳ ሲዪዳ ማላ ዪዲ ዮሃኒሳ ኣሃ ኤኪ ኤፊዲ ሞጊዳ።<verse eid="MRK 6:29"/></para>
+  <para style="s">ዬሱሲ ሚዚዳ ኢቻሹ ሺ ኣሳ</para>
+  <para style="r">(<ref loc="MAT 14:13-21">ማቶ 14፡13-21</ref>፤ <ref loc="LUK 9:10-17">ሉቃ 9፡10-17</ref>፤ <ref loc="JHN 6:1-14">ዮሃ 6፡1-14</ref>)</para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 6:30"/>ሄሳፌ ጉዬ ሃዋሬቲ ሲሚዲ ዬሱሳ ኣቻን ዩዪ ኣ ባ ኦዳይሳኔ ባ ታማርሲዳይሳ ኡባ ኢዛስ ዮቲዳ። <verse eid="MRK 6:30"/><verse number="31" style="v" sid="MRK 6:31"/>ዳሮ ኣሳይ ዪሼኔ ቢሼ ጊዛ ጊሻስ ቁማ ሚዛ ዎዴይካ ቤቲቤና፤ «ኣኔ ኢንቴ ጻላ ታናራ ኣሲ ባይንዳሶ ቢዲ ጉ ሼምፒ ኤኪቴ» ጊዴስ። <verse eid="MRK 6:31"/><verse number="32" style="v" sid="MRK 6:32"/>ሄሳ ጊሻስ ኢስቲ ባርካ ዎጎሎን ጌሊዲ ኢሲ ኣሲካ ባይንዳሶ ቢዳ።<verse eid="MRK 6:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 6:33"/>ኢስቲ ቢሺን ዳሮቲ ቤኢዲ ቶሆራ ዎን ኢስታፌ ሲን ኣዳ። <verse eid="MRK 6:33"/><verse number="34" style="v" sid="MRK 6:34"/>ዬሱሲ ዎጎሎዛፔ ዎዛ ዎዴ ዳሮ ዴሬይ ሺቂ ኡቲዳይሳ ቤዪዴስ። ሄሚዛዴይ ባይንዳ ሜሄ ማላ ጊዲዳ ጊሻስ ኣሳስ ቃቲዴስ፤ ዳሮ ዮኦካ ታማርሶ ኦይኪዴስ።<note caller="-" style="x"><char style="xo" closed="false">6፡34 </char><char style="xt" closed="false"><ref loc="NUM 27:17">ታይ 27፡17</ref>፤ <ref loc="1KI 22:17">1ካዎ 22፡17</ref>፤ <ref loc="2CH 18:16">2ታሪ 18፡16</ref>፤ <ref loc="EZK 34:5">ሂዚ 34፡5</ref>፤ <ref loc="MAT 9:36">ማቶ 9፡36</ref></char></note><verse eid="MRK 6:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 6:35"/>ሄ ዎዴ ጋዴይ ቃሚ ቃሚ ቢዛ ጊሻስ ኢዛ ካሊዛይቲ ኢዛኮ ሺቂዲ፥ «ሃይሲ ኑ ዲዛሶይ ባዞኮ፤ ጋዴይካ ቃሚዴስ። <verse eid="MRK 6:35"/><verse number="36" style="v" sid="MRK 6:36"/>ሃይሳ ሄራን ኣሲ ዲዛሶ ቢዲ ኣሳይ ባስ ሚዛ ካ ሻሚ ማና ማላ ኣሳ ዬዳ» ጊዳ።<verse eid="MRK 6:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="MRK 6:37"/>ኢዚ ኢስታስ ዛሪዲ፥ «ኣሳስ ሚዛ ሚሽ ኢንቴ ኢሚቴ» ጊዴስ። ኢስቲካ ማላሌቲዲ፥ «ኑኒ ቢዲ ናምኡ ጼቱ ዲናሬራ ካ ሻሚዲ ሃይሳ ኣሳስ ኢሚዛኮ ጊዳንዴ?» ጊዳ።<note caller="+" style="f"><char style="fr" closed="false">6፡37 </char><char style="ft" closed="false">ሄ ዎዴ 200 ዲናሬ ዴማናስ ኢሲ ኣሲ 200 ጋላስ ኦናስ ኮሼስ።</char></note><verse eid="MRK 6:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 6:38"/>ኢዚካ ኢስታስ፥ «ኢንቴስ ኣይ ኬና ኡኬ ዲዛኮ ኣኔ ቢዲ ጼሊቴ» ጊን ኢስቲ ቢ ጼሊዲ፥ «ኢቻሹ ኡኬኔ ናምኡ ሞሌይ ዴስ» ጊዳ።<verse eid="MRK 6:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 6:39"/>ሄሳፌ ካሊዲ ኣሳ ጪሊላ ማታ ቦላ ቡቴን ቡቴን ኡቲሳና ማላ ኣዛዚዴስ። <verse eid="MRK 6:39"/><verse number="40" style="v" sid="MRK 6:40"/>ኣሳይካ ጼቱ ጼቱኔ ኢቻሹ ታሙ ኢቻሹ ታሙ ጊዲዲ ቡቴን ኡቲዴስ። <verse eid="MRK 6:40"/><verse number="41" style="v" sid="MRK 6:41"/>ኢዚካ ኢቻሹ ኡኬታኔ ናምኡ ሞሌታ ባ ኩሼን ኦይኪዲ ፑዴ ሳሎ ጼሊዲ ኣንጂዲኔ ኡኬ ሜን ሜን ኣሳስ ጊሻና ማላ ባና ካሊዛይታስ ኢሚዴስ፤ ናምኡ ሞሌታካ ኡባ ኣሳስ ሻኬሬዴስ። <verse eid="MRK 6:41"/><verse number="42" style="v" sid="MRK 6:42"/>ኣሳይ ዉሪካ ሚዲ ካሊዴስ። <verse eid="MRK 6:42"/><verse number="43" style="v" sid="MRK 6:43"/>ዬሱሳ ካሊዛይቲ ኣሳይ ካሊ ሚን ኣቲዳይሳ ታማኔ ናምኡ ሌማቴ ኩሜ ሺሺዴስ። <verse eid="MRK 6:43"/><verse number="44" style="v" sid="MRK 6:44"/>ካ ሚዳ ኣሳፔ ኣቱማሳይ ጻላ ኢቻሹ ሺ።<verse eid="MRK 6:44"/></para>
+  <para style="s">ኣባ ቦላራ ዬሱሳ ሄሜታ</para>
+  <para style="r">(<ref loc="MAT 14:22-33">ማቶ 14፡22-33</ref>፤ <ref loc="JHN 6:15-21">ዮሃ 6፡15-21</ref>)</para>
+  <para style="p">
+    <verse number="45" style="v" sid="MRK 6:45"/>ሄራካ ኢዚ ኣሳ ሞይዚሼ ኢዛ ካሊዛይቲ ሲንቲዲ ጌዴ ፒን ቤቴሳይዳ ጌቴቲዛሶ ፒናና ማላ ኣዛዚዴስ። <verse eid="MRK 6:45"/><verse number="46" style="v" sid="MRK 6:46"/>ሄፔካ ኢስታ ኣጋጊዲ ዎሳናስ ፑዴ ዙማ ቦላ ኬዚዴስ።<verse eid="MRK 6:46"/></para>
+  <para style="p">
+    <verse number="47" style="v" sid="MRK 6:47"/>ጋዴይ ቃሚን ዎጎሎይ ኣባ ጊዶን ዲሺን ኢዚ ባርካ ቢታ ቦላ ዴስ። <verse eid="MRK 6:47"/><verse number="48" style="v" sid="MRK 6:48"/>ኣባ ቦላ ጫርኮይ ኬሂ ሜቲዳ ጊሻስ ኢዛ ካሊዛይቲ ኣባ ሺሪ ሺሪ ዎጎሎ ላጊዛ ሚሻራ ባጼቲሺን ዬሱሲ ቤዪዴስ። ዎንታ ቦላ ኢስታኮ ዪዴስ፤ ዪዲኔ ኢስታ ኣቻራ ኣ ባና ሃኒዴስ። <verse eid="MRK 6:48"/><verse number="49" style="v" sid="MRK 6:49"/>ጊዶ ኣቲን ኣ ባና ሃኒሺን ኢዛ ቤኢዳ ማላ ሞይቲሌ ቤይዳ ሚሳቲን ዉሪካ ዋሲዳ። <verse eid="MRK 6:49"/><verse number="50" style="v" sid="MRK 6:50"/>ዉሪካ ኢዛ ቤኢዲ ዳጋሚዳ፤ ኢዚካ ሄራካ ኢስታ ዮቺዲ፥ «ኣይኮይ ባ፤ ታናኮ ዳጋሞፍቴ!» ጊዴስ። <verse eid="MRK 6:50"/><verse number="51" style="v" sid="MRK 6:51"/>ኢዚካ ዎጎሎን ኢስታኮ ጌሊን ጫርኮይ ጮኡ ጊዴስ፥ ኢስቲካ ዳሮ ማላሌቲዳ። <verse eid="MRK 6:51"/><verse number="52" style="v" sid="MRK 6:52"/>ካሴ ኢዚ ኡኬን ኦዳ ማላታ ቢርሼ ኢስቲ ኤሮንታ ጊሻስ ኢስታ ዎዚናይ ዶጪዴስ።<verse eid="MRK 6:52"/></para>
+  <para style="p">
+    <verse number="53" style="v" sid="MRK 6:53"/>ኣባ ፒኒዲ ጌንሴሬጼ ጌቴቲዛሶ ጋኪዳ፤ ዎጎላፔ ዎዲ ዎጎሎዛ ሄን ቃቺዲ ኣጊ ቢዳ። <verse eid="MRK 6:53"/><verse number="54" style="v" sid="MRK 6:54"/>ኢስቲ ዎጎሎፔ ዎዳ ማላ ኣሳይ ዬሱሳ ኤሪዴስ። <verse eid="MRK 6:54"/><verse number="55" style="v" sid="MRK 6:55"/>ዉሪካ ባ ዲዛሶ ዲዛሶ ዎጼሬቲዲ ሃርጋንቻታ ሃላን ቶኪ ቶኪ ኤኪዲ ዬሱሲ ዲዛሶ ኤሂዳ። <verse eid="MRK 6:55"/><verse number="56" style="v" sid="MRK 6:56"/>ኢዚ ጋኪዳ ጉታን ዎይኮ ካታማ ጊዶን ዎይኮ ዴሬ ጊዶን ጊዲን ሃርጋንቻቲ ኢዚ ኣሺን ኢዛ ዎሲዲኔ ኢዛ ማይኦ ቦቺዲ ፓጻና ማላ ሺሺ ሺሺ ዱቡሻይ ዲዛሶን ዎዳ። ኢዚ ኣ ቢሺን ኢዛ ማይኦ ቦቺዳይቲ ዉሪ ፓጺዳ።<verse eid="MRK 6:56"/></para>
+  <chapter eid="MRK 6"/>
+  <chapter number="7" style="c" sid="MRK 7"/>
+  <para style="s">ካሴ ኣይሁዳ ኣዋታ ዎጋ</para>
+  <para style="r">(<ref loc="MAT 15:1-9">ማቶ 15፡1-9</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 7:1"/>ሄሳፌ ጉዬ ፋርሳዌቲኔ ዬሩሳላሜፔ ዪዳ ኢሲ ኢሲ ጻፌቲ ዬሱሳ ላንቄን ዩዪ ኣዳ። <verse eid="MRK 7:1"/><verse number="2" style="v" sid="MRK 7:2"/>ዬሱሳ ካሊዛይታፔ ባጋይቲ ሜጬቶንታ ቂታ ኩሼራ ካ ሚሺን ቤኢዳ።<verse eid="MRK 7:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 7:3"/>ፋርሳዌቲኔ ካሴ ጪማ ኣይሁዳ ኣሳቲ ካሴ ዴሬ ዎጋ ናጋናስ ኩሼ ሎኤ ሜጬቶንታ ካ ሚ ኤሬቴና። <verse eid="MRK 7:3"/><verse number="4" style="v" sid="MRK 7:4"/>ጊያ ቢ ሲሚኮካ ቦላ ሜጬቲ ጌዮንታ ዲሼ ካ ሚ ኤሬቴና። ሄሳካ ዋንጫካ፥ ኦቶካ፥ ኬሬካ፥ ኢቺዛ ሂካ ሜቻ ማላ ሃራ ዎጋታካ ናጌቴስ።<verse eid="MRK 7:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 7:5"/>ፋርሳዌቲኔ ጻፌቲ ዬሱሳ፥ «ኔና ካሊዛይቲ ካሴ ኣዋታ ዎጋ ማላ ዱስ ኣጊዲ ኣዛስ ኩሼ ሜጬቶንታ ካ ሚዞ?» ጊዲ ኦይቺዳ።<verse eid="MRK 7:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 7:6"/>ኢዚካ ኢስታስ፥</para>
+  <para style="q2" vid="MRK 7:6">«ኢሳያሲ ቆፔ ቆሞን</para>
+  <para style="q2" vid="MRK 7:6">ሃኒዛ ኢንቴ ጊሻስ፥</para>
+  <para style="q1" vid="MRK 7:6">‹ሃይሲ ዴሬይ</para>
+  <para style="q2" vid="MRK 7:6">ባ ሜቴርሻን ጻላላ</para>
+  <para style="q2" vid="MRK 7:6">ታና ቦንቼስ፤</para>
+  <para style="q2" vid="MRK 7:6">ዎዚናይ ጊዲኮ</para>
+  <para style="q2" vid="MRK 7:6">ታፔ ሃኪዴስ።<verse eid="MRK 7:6"/></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="MRK 7:7"/>ታስ ሜላ ሃዳ ጎይኔስ፤</para>
+  <para style="q2" vid="MRK 7:7">ኢስታ ቲሚርቴይካ</para>
+  <para style="q2" vid="MRK 7:7">ኣሲ ዎዳ ዎጋ ጻላ›</para>
+  <para style="q3" vid="MRK 7:7">ጊዲ ዮቲዳይሲ ቱማ» ጊዴስ።<verse eid="MRK 7:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="MRK 7:8"/>ጾሳ ዎጋ ኣጊዲ ኣሲ ዎዳ ዎጋ ናጌቴስ። <verse eid="MRK 7:8"/><verse number="9" style="v" sid="MRK 7:9"/>ቃሴካ፥ «ኢንቴ ዎጋስ ጊዲ ጾሳ ዎጋ ኢንቴ ኣጋጊዛ ጪንጫቴ ኦጌይ ኢንቴስ ዴስ። <verse eid="MRK 7:9"/><verse number="10" style="v" sid="MRK 7:10"/>ኣይስ ጊኮ ሙሴይ፥ ‹ኔ ኣዮኔ ኔ ኣዋ ቦንቻ፤ ባ ኣዮኔ ባ ኣዋ ጫዪዛዴይ ሙሌካ ሃይቆ› ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡10 </char><char style="xt" closed="false"><ref loc="EXO 20:12">ኬሳ 20፡12</ref>፤ <ref loc="EXO 21:17">21፡17</ref>፤ <ref loc="DEU 5:16">ዛሬ 5፡16</ref>፤ <ref loc="LEV 20:9">ሌዌ 20፡9</ref></char></note> <verse eid="MRK 7:10"/><verse number="11" style="v" sid="MRK 7:11"/>ጊዶ ኣቲን ኢንቴ ቃሴ፥ ‹ኢሲ ኣሲ ባ ኣዋ ዎይኮ ባ ኣዮ ኢንቴ ታፔ ዴማናስ ኮሺዛ ማዶ ታ ጾሳስ ኢማዲስ› ጊኮ፥ <verse eid="MRK 7:11"/><verse number="12" style="v" sid="MRK 7:12"/>ኢንቴ ቃሴ ሃይሳዴይ ባ ኣዋስካ ባ ኣዬይሲ ሃራ ኣይኮካ ኦና ማላ ኮዬኬታ። <verse eid="MRK 7:12"/><verse number="13" style="v" sid="MRK 7:13"/>ሄሳ ጊሻስ ኢንቴ ዎጋ ናጋና ጊዲ ጾሳ ቃላ ላሜታ። ሄይታንታ ሚሳቲዛ ዳሮታ ኦታ» ጊዴስ።<verse eid="MRK 7:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 7:14"/>ቃሴካ ዬሱሲ ኣሳ ባኮ ጼይጊዲ፥ «ዉሪካ ታ ጊዛ ሲዪቴኔ ዎዚናን ዎቴ። <verse eid="MRK 7:14"/><verse number="15" style="v" sid="MRK 7:15"/>ካሬፔ ኡሎ ጊዶ ጌሊዲ ኣስ ቱኒሲዛ ኢሲ ሚሺካ ዴና፤ ሃራፔካ ኣሴ ቱኒሲዛይ ኬ ኣዋፔ ጌዴ ካሬ ኬዚዛ ሚሻ። <verse eid="MRK 7:15"/><verse number="16" style="v" sid="MRK 7:16"/>ሲዪዛ ሃይ ዲዛይ ሲዮ!» ጊዴስ።<note caller="+" style="f"><char style="fr" closed="false">7፡16 </char><char style="ft" closed="false">ኢሲ ኢሲ ጌሻ ማጻፋቲ ታይቦ 16 ቦላ ዲዛ ቆፋ ጉጄቴስ።</char></note><verse eid="MRK 7:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 7:17"/>ኢዚ ኣሳ ካሬን ኣጊዲ ኬ ጌሊን ኢዛ ካሊዛይቲ ኢዚ ዮቲዳ ሌሚሶዛ ቢርሼ ዬሱሳ ኦይቺዳ። <verse eid="MRK 7:17"/><verse number="18" style="v" sid="MRK 7:18"/>ኢዚካ ኢስታ፥ «ኢንቴስካ ዮኦይ ጌሌኔ? ካሬፔ ጌሊዲ ኣሴ ቱኒሲዛ ሚሺ ኣዚካ ዴና። <verse eid="MRK 7:18"/><verse number="19" style="v" sid="MRK 7:19"/>ካሬፔ ጌሊዛይ ጌዴ ዎዚናን ጊዶንታ ዱጌ ቃን ጊዶ ጌሌስ፤ ቃሴ ሄፔ ኢዛዴ ኣሳቴፌ ጌዴ ካሬ ኬዜስ» ጊዴስ፤ ዬሱሲ ሄሳ ጊዳይ ኣሲ ሚዛ ካ ዉሪካ ጌሽ ጊዲዳይሳ ቆንጪሳናሳ።<verse eid="MRK 7:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 7:20"/>ካሌዲካ፥ «ኣሳፔ ኬዚዛዚ ኣሴ ቱኒሴስ። <verse eid="MRK 7:20"/><verse number="21" style="v" sid="MRK 7:21"/>ኣሳ ዎዚና ጊዶፌ ኬዚዛይ ኢታ ቆፋታ፥ ላይማ ኣሞኔ ካይሶቴ፥ ኣሴ ዎ፥ ላይማቴ፥ <verse eid="MRK 7:21"/><verse number="22" style="v" sid="MRK 7:22"/>ዪቄቴ፥ ኢታቴ፥ ባሌ፥ ላይማ ካስ፥ ቃናቴቴ፥ ኣሳ ሱን ሞሮ፥ ኦቶሬቴኔ ኣዛላ። <verse eid="MRK 7:22"/><verse number="23" style="v" sid="MRK 7:23"/>ሃይቲ ኢታ ሃኖቲ ዉሪ ኣሳፔ ኬዜቴሲኔ ኣሴ ቱኒሴቴስ» ጊዴስ።<verse eid="MRK 7:23"/></para>
+  <para style="s">ኢሲ ማጫሳይ ኣማኖ</para>
+  <para style="r">(<ref loc="MAT 15:21-28">ማቶ 15፡21-28</ref>)</para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 7:24"/>ዬሱሲ ሄፔ ኬዚዲ ጺሮሴ ጌቴቲዛ ዴሬ ቢዴስ፤ ሄን ኢሳዴ ኬ ጌሊዲ ኢዚ ሄን ዲዛይሳ ኣሲ ኤሮንታ ማላ ኮዪዴስ። ጊዶ ኣቲን ኢዚ ሄን ኢዛ ዱሳይ ቆቴታናስ ዳንዳዬቲቤና።<verse eid="MRK 7:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 7:25"/>ሄራካ ኢሲ ቱና ኣያናይ ኦይኪዳ ጉ ና ዲዛሪ ኣያ ዬሱሲ ሄን ዲዛይሳ ሲያዳ ኢዛኮ ያዳ ኢዛ ቶሆ ቦላ ኩንዳዱስ። <verse eid="MRK 7:25"/><verse number="26" style="v" sid="MRK 7:26"/>ማጫሳያ ጊሪኬ ቃላ ሃሳይዛ ማጫስ ሺን ኢዛ ዬሌቲዳሶይ ሲሮፊንቄ ጌቴቴስ። ኢዛካ ዬሱሲ ናይፔ ቱና ኣያና ኬሳና ማላ ዎሳዱስ። <verse eid="MRK 7:26"/><verse number="27" style="v" sid="MRK 7:27"/>ዬሱሲ ዛሪዲ ኢዚስ፥ «ናይታ ቁማ ኤኪ ካናስ ዬጋናስ ቤሶንታ ጊሻስ ኮይሮ ናይቲ ሚ ካሌቶ» ጊዴስ።<verse eid="MRK 7:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 7:28"/>ኢዛካ ዛራዳ፥ «ኤ ጎዶ! ካናቲካ ማዳ ማታን ዴኢዲ ናይታ ኩሼፔ ጋዴን ዎዳይሳ ሜቴስ» ጋዱስ።<verse eid="MRK 7:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 7:29"/>ኢዚካ፥ «ሂስቲኮ ኔኒ ሄሳ ጊዳ ጊሻስ ባ! ዳይዳንይ ኔ ናይፔ ኬዚዴስ» ጊዴስ። <verse eid="MRK 7:29"/><verse number="30" style="v" sid="MRK 7:30"/>ኢዛ ሲማዳ ሶ ቢሺን ናያ ዳይዳንይ ዬዲን ፓጻዳ ሂጻን ኢቺዳሮ ዴማዱስ።<verse eid="MRK 7:30"/></para>
+  <para style="s">ዬሱሲ ፓዳ ዶና ዱዴኔ ሃይ ቱሌ ኣዴዛ</para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 7:31"/>ሄሳፌ ዬሱሲ ጺሮሴ ቢታፌ ዴንዲዲ ሲዶና ጌቴቲዛሶራ ኣ ታሙ ካታማ ጌቴቲዛሶራ ካንዲ ጌዴ ጋሊላ ኣባኮ ጋኪዴስ። <verse eid="MRK 7:31"/><verse number="32" style="v" sid="MRK 7:32"/>ኣሳይ ኢሲ ሃይ ቱሌኔ ዶና ዱዴ ኣስ ኢዛኮ ሄ ኤኪ ዪዲ ዬሱሲ ኢዛ ቦላ ባ ኩሼ ዎና ማላ ዎሲዳ።<verse eid="MRK 7:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 7:33"/>ዬሱሲካ ኢዛ ኣሳፔ ሻኪ ኤኪ ቢዲ ባ ኩሼ ቢራታ ኣዴዛ ሃይን ጌልዴስ፤ ቃሴካ ጩች ጩቲዲ ኣዴዛ ኢንጻርስ ቦቺዴስ። <verse eid="MRK 7:33"/><verse number="34" style="v" sid="MRK 7:34"/>ፑዴ ሳሎ ጼሊዲኔ ቶኪ ሼምፒዲ፥ «ኤፍታ» ጊዴስ። ሄሲካ፥ «ፖጌታ» ጉሳ። <verse eid="MRK 7:34"/><verse number="35" style="v" sid="MRK 7:35"/>ሄራካ ኣዴዛ ሃይቲ ፖጌቲዳ፤ ኢንጻርሳይካ ቢርሼቲን ጌሺ ሃሳይዴስ።<verse eid="MRK 7:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="MRK 7:36"/>ዬሱሲ ሃይሳ ቤኢዳይቲ ኦናስካ ዮቶንታ ማላ ኣዛዚዴስ፤ ጊዶ ኣቲን ኣሳይ ኢዚ ኣዛዚዛዳይሳፌ ቦላራ ኬሂ ጉጂዲ ዮቲዴስ። <verse eid="MRK 7:36"/><verse number="37" style="v" sid="MRK 7:37"/>ዴሬዚካ ኬሂ ማላሌቲዲ፥ «ኢዚ ኦዳይሲ ዉሪ ሎኦ፤ ቱሌቲ ሲያና ማላ፥ ዶና ዱዴቲ ሃሳያና ማላ ኦዴስ» ጊዳ።<verse eid="MRK 7:37"/></para>
+  <chapter eid="MRK 7"/>
+  <chapter number="8" style="c" sid="MRK 8"/>
+  <para style="s">ዬሱሲ ኦይዱ ሺ ኣስ ሚዚዴስ</para>
+  <para style="r">(<ref loc="MAT 15:32-39">ማቶ 15፡32-39</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 8:1"/>ሄ ዎዴ ቃሴ ዳሮ ኣሲ ሺቂዴስ። ሺቂዳ ኣሳስ ሚዛ ካ ባይንዳ ጊሻስ ዬሱሲ ባና ካሊዛይታ ጼይጊዲ፥ <verse eid="MRK 8:1"/><verse number="2" style="v" sid="MRK 8:2"/>«ሃይቲ ኣሳቲ ታናራ ሄ ጋላስ ጋካናስ ጋምኢዳ ጊሻሲኔ ቃሴካ ኢስታስ ሚዛ ካ ባይንዳ ጊሻስ ታና ሚቼቴስ። <verse eid="MRK 8:2"/><verse number="3" style="v" sid="MRK 8:3"/>ኢስታፌ ኢሲ ኢሲ ኣሳቲ ሃሆፔ ዪዳ ጊሻስ ሃይሳ ጋፋራ ታ ኢስታ ሶ ዬዲኮ ዳቡርዲ ኦጌ ቦላ ኩንዳና» ጊዴስ።<verse eid="MRK 8:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 8:4"/>ኢዛ ካሊዛይቲካ ዛሪዲ፥ «ሃይሳ ባዞን ሃይሳ ማላ ዴሬ ሚዛና ቁማ ኣዋፔ ዴማኔ?» ጊዳ።<verse eid="MRK 8:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 8:5"/>ኢዚካ ኢስታ፥ «ኢንቴኮን ኣፑን ኡኬ ዲዜ?» ጊ ኦይቺዴስ። ኢስቲካ፥ «ላፑን ኡኬ ዴስ» ጊዳ።<verse eid="MRK 8:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 8:6"/>ኢዚካ ኣሳይ ጋዴን ኡታና ማላ ኣዛዚዴስ፤ ላፑን ኡኬ ባ ኩሼን ኦይኪ ጋላቲዲኔ ሜንዲ ኣሳስ ጊሼቻና ማላ ባና ካሊዛይታስ ኢሚን ኢስቲካ ዴሬዛስ ጊሺዳ። <verse eid="MRK 8:6"/><verse number="7" style="v" sid="MRK 8:7"/>ቃሴካ ሄን ዲዛ ቄሪ ጉ ሞሌታ ጊሻስ ጾሳ ጋላቲዲ ጉ ሞሌታ ኣሳስ ጊሼቻና ማላ ባና ካሊዛይታ ኣዛዚዴስ። <verse eid="MRK 8:7"/><verse number="8" style="v" sid="MRK 8:8"/>ዴሬይካ ሚዲ ካሊዴስ። ሄሳፌካ ኢዛ ካሊዛይቲ ማዳፌ ፓላሂዳ ካ ላፑን ሌማቴ ኩሜ ዴንዳ። <verse eid="MRK 8:8"/><verse number="9-10" style="v" sid="MRK 8:9-10"/>ሄሳ ሚዳ ኣሳይ ኦይዱ ሺ ጊዳና። ሄ ኣሳ ሞይዚዲ ባና ካሊዛይታራ ዎጎሎን ጌሊዲ ጌዴ ዳልማኑታ ጌቴቲዛሶ ቢዴስ።<verse eid="MRK 8:9-10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="MRK 8:11"/>ፋርሳዌቲ ዪዲ ዬሱሳራ ፓላሜቴ ኦይኪዳ፤ ኢዛ ፓጫናስ ኮዪዲ ባንታና ሳሎፔ ማላታ ቤሳና ማላ ኦይቺዳ።<note caller="-" style="x"><char style="xo" closed="false">8፡11 </char><char style="xt" closed="false"><ref loc="MAT 12:38">ማቶ 12፡38</ref>፤ <ref loc="LUK 11:16">ሉቃ 11፡16</ref></char></note> <verse eid="MRK 8:11"/><verse number="12" style="v" sid="MRK 8:12"/>ኢዚካ ቶኪ ሼምፒዲ፥ «ሃይሲ ዬሌታዚ ኣዛስ ማላታ ኮይዜ? ታ ኢንቴስ ቱማ ጋይስ፤ ሃይሳ ዬሌታስ ኢሲ ማላታይካ ኢሜቴና» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">8፡12 </char><char style="xt" closed="false"><ref loc="MAT 12:39">ማቶ 12፡39</ref>፤ <ref loc="LUK 11:29">ሉቃ 11፡29</ref></char></note> <verse eid="MRK 8:12"/><verse number="13" style="v" sid="MRK 8:13"/>ኢስታ ሄን ኣጊዲኔ ዎጎሎን ጌሊዲ ሄ ፒን ፒኒዴስ።<verse eid="MRK 8:13"/></para>
+  <para style="s">ፋርሳዌታ ኢርሾኔ ሄርዶሳ ኢርሾ</para>
+  <para style="r">(<ref loc="MAT 16:5-12">ማቶ 16፡5-12</ref>)</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 8:14"/>ኢዛ ካሊዛይቲ ካ ኦይኮንታ ባሌቲዳ ጊሻስ ኢሲ ኡኬ ኣቲን ዎጎሎ ጊዶን ሃራ ኣይ ካካ ዴና። <verse eid="MRK 8:14"/><verse number="15" style="v" sid="MRK 8:15"/>ዬሱሲ ኢስታ፥ «ፋርሳዌታ ኢርሾፌኔ ሄርዶሳ ኢርሾፌ ናጌቲቴ» ጊዲ ኣዛዚዴስ።<note caller="-" style="x"><char style="xo" closed="false">8፡15 </char><char style="xt" closed="false"><ref loc="LUK 12:1">ሉቃ 12፡1</ref></char></note><verse eid="MRK 8:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 8:16"/>ኢስቲ ቃሴ ባ ጊዶን ኢሶይ ኢሳራ፥ «ኢዚ ኑና ሃይሳ ጊዛይ ኑስ ካ ባይንዳ ጊሻሳ» ጊ ሃሳዬቲዳ።<verse eid="MRK 8:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 8:17"/>ቃሴ ዬሱሲ ኢስታ ቆፋ ኤሪዲ፥ «ኑስ ካ ባይንዳ ጊሻስ ጋሳ ጊዲ ኢንቴ ጊዶን ኣዛስ ሃሳዬቴቲ? ሃኢካ ዩሺ ቆፔኬቲ? ዎዚናንካ ዎኬቲ? ዎይኮ ኢንቴ ዎዚናይ ሹቻቲዴ? <verse eid="MRK 8:17"/><verse number="18" style="v" sid="MRK 8:18"/>ኢንቴስ ኣይፌይ ዴስ ሺን ጼሌኬቲ? ሃይ ዴስ ሺን ሲዬኬቲ? ኣኬኬኬቲ?<note caller="-" style="x"><char style="xo" closed="false">8፡18 </char><char style="xt" closed="false"><ref loc="JER 5:21">ኤር 5፡21</ref>፤ <ref loc="EZK 12:2">ሂዚ 12፡2</ref>፤ <ref loc="MRK 4:12">ማር 4፡12</ref></char></note> <verse eid="MRK 8:18"/><verse number="19" style="v" sid="MRK 8:19"/>ኢቻሹ ኡኬ ኢቻሹ ሺ ኣሳስ ታ ሜን ኢሚን ኣፑን ሌማቴ ኩሜ ካ ዴንዴቲ?» ጊዴስ።</para>
+  <para style="p" vid="MRK 8:19">ኢስቲካ ዛሪዲ፥ «ታማኔ ናምኡ» ጊዳ። <verse eid="MRK 8:19"/><verse number="20" style="v" sid="MRK 8:20"/>ኢዚካ፥ «ላፑን ኡኬ ኦይዱ ሺ ኣሳስ ታ ሜን ኢሚን ኣፑን ሌማቴ ኩሜ ካ ዴንዴቲ?» ጊ ኦይቺን ኢስቲካ፥ «ላፑን» ጊዳ።<verse eid="MRK 8:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 8:21"/>ኢዚካ ኢስታስ፥ «ሂስቲን ሃኢ ጋካናስ ዩሺ ቆፒቤኬታካ!» ጊዴስ።<verse eid="MRK 8:21"/></para>
+  <para style="s">ዬሱሲ ቤቴሳይዳን ፓዳ ቆቄ ኣዴዛ</para>
+  <para style="p">
+    <verse number="22" style="v" sid="MRK 8:22"/>ሄሳፌ ጌዴ ቤቴሳይዳ ጌቴቲዛሶ ቢዳ፤ ጉ ኣሳቲካ ኣይፌ ቆቄ ኣስ ዬሱሳኮ ኤሂዲ ዬሱሲ ኢዛ ቦቻና ማላ ዎሲዳ። <verse eid="MRK 8:22"/><verse number="23" style="v" sid="MRK 8:23"/>ኢዚካ ሄ ቆቄዛ ኩሼ ኦይኪ ጎቺዲ ኣሲ ዲዛሶፔ ጌዴ ካሬ ኬሲዲ ኣዴዛ ኣይፌን ጩቲዲኔ ባ ኩሼ ኢዛ ቦላ ዎዲ፥ «ሃኢ ኔስ ኣዚ ቤቲዜ?» ጊ ኦይቺዴስ።<verse eid="MRK 8:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 8:24"/>ኢዚካ ቁ ጊ ጼሊዲ፥ «ኣሳይ ሚ ሚሳቲዲ ቃጼቲሼ ቤቴስ» ጊዴስ።<verse eid="MRK 8:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 8:25"/>ቃሴካ ዬሱሲ ባ ኩሼታ ኢዛ ኣይፌታ ቦላ ዎዴስ፤ ሄራካ ኢዛ ኣይፌቲ ጼሊዳ፤ ፖኦይካ ኢዛስ ሲሚን ዉርሲካ ጌሺ ጼሊዴስ። <verse eid="MRK 8:25"/><verse number="26" style="v" sid="MRK 8:26"/>ቃሴ፥ «ሃ ጉታታ ጊዶ ጌሎፓኔ ኦናስካ ዮቶፓ» ጊዲ ኢዛ ጌዴ ኢዛሶ ዬዲዴስ።<note caller="+" style="f"><char style="fr" closed="false">8፡26 </char><char style="ft" closed="false">ጊኢዜ ጫቆ ኦራ ማጻፋዚ 1,947 ማሮቴ ላይን ጻፌቲዳ ኣማራ ጌሻ ማጻፋዚኔ ኢሲ ኢሲ ቤኒ ጊሪኬ ቃላን ጻፌቲዳ ጌሻ ማጻፋቲ ሃይሳፌ ካሊዛ ቆፋ ጉጄቴስ፤ ሂስቲኮ ሃይሳ ኦናስካ ዮቶፓ።</char></note><verse eid="MRK 8:26"/></para>
+  <para style="s">ዬሱሲ ጾሳፌ ኪቴቲዳዴ ጊዲዳይሳስ ጴጽሮሳ ማርካቴ</para>
+  <para style="r">(<ref loc="MAT 16:13-20">ማቶ 16፡13-20</ref>፤ <ref loc="LUK 9:18-21">ሉቃ 9፡18-21</ref>)</para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 8:27"/>ዬሱሲ ባና ካሊዛይታራ ቂሳሪያ ፒሊጲሲዮሴ ጌቴቲዛ ዴሬ ኣቻን ዲዛ ጉታታ ቢዴስ፤ ኢስቲ ኦጌ ቦላ ዲሺን ባና ካሊዛይታ፥ «ታና ኣሳይ ኦና ጊዜ?» ጊዲ ኦይቺዴስ።<verse eid="MRK 8:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 8:28"/>ኢስቲካ ዛሪዲ ኔና፥ «ጻማቂዛ ዮሃኒሳ ጊዛይቲካ ዴቴስ፥ ባጋይቲ ቃሴ ኤላሳ ጌቴስ፤ ሃራቲ ቃሴ ናቤታፔ ኢሳዴ ጌቴስ» ጊዲ ዮቲዳ።<note caller="-" style="x"><char style="xo" closed="false">8፡28 </char><char style="xt" closed="false"><ref loc="MRK 6:14-15">ማር 6፡14-15</ref>፤ <ref loc="LUK 9:7-8">ሉቃ 9፡7-8</ref></char></note><verse eid="MRK 8:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 8:29"/>ካሌዲካ፥ «ኢንቴች ታና ኦና ጌቲ?» ጊዲ ኦይቺዴስ። ጴጽሮሲ፥ «ኔኒ ኪርስቶሳ» ጊዴስ።<verse eid="MRK 8:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 8:30"/>ዬሱሲካ ባ ጊሻስ ኦናስካ ኢስቲ ዮቶንታ ማላ ሚን ዮቲዴስ።<verse eid="MRK 8:30"/></para>
+  <para style="s">ዬሱሲ ባ ሃይቃናይሳ ካሴቲዲ ዮቲዴስ</para>
+  <para style="r">(<ref loc="MAT 16:21-28">ማቶ 16፡21-28</ref>፤ <ref loc="LUK 9:22-27">ሉቃ 9፡22-27</ref>)</para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 8:31"/>ሄሳፌ ዬሱሲ ባና ካሊዛይታ፥ «ኣሳ ናይ ዳሮ ዋዬ ቤያናይሳኔ ዴሬ ጪማታን፥ ቄሴታ ሃላቃኒኔ ጻፌታን ካታና፤ ኣሳ ኩሼን ሃይቃና፥ ሃይቆፔ ሄን ጋላስ ዴንዳና ቤሴስ» ጊዲ ታማርሶ ኦይኪዴስ። <verse eid="MRK 8:31"/><verse number="32" style="v" sid="MRK 8:32"/>ኢዚካ ሄሳ ኢስታስ ቆንጪሲ ዮቲዴስ፥ ጴጽሮሲካ ኢዛ ዱማ ሻኪ ኤፊዲ፥ «ሄሳ ጎፓ!» ጊዲ ሃንቂዴስ።<verse eid="MRK 8:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 8:33"/>ዬሱሲ ቃሴ ባና ካሊዛይታ ዩሺ ጼሊሼ ጴጽሮሳ፥ «ሃይሶ ጻላኤ ኔ ታፔ ጌዴ ጉዬ ባ! ኔኒ ኣሳዛፔ ኣቲን ጾሳዝ ቆፓካ!» ጊዲ ሃንቂዴስ።<verse eid="MRK 8:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="MRK 8:34"/>ሄሳፌ ጉዬ ኣሳ ባና ካሊዛይታራ ኢሲፌ ባኮ ጼይጊዲ፥ «ታና ካላናስ ዶሲዛዴይ ዲኮ ባና ካዶ፤ ባ ማስቃሌ ቶኪዲ ታና ካሎ።<note caller="-" style="x"><char style="xo" closed="false">8፡34 </char><char style="xt" closed="false"><ref loc="MAT 10:38">ማቶ 10፡38</ref>፤ <ref loc="LUK 14:27">ሉቃ 14፡27</ref></char></note> <verse eid="MRK 8:34"/><verse number="35" style="v" sid="MRK 8:35"/>ባ ሼምፖ ኣሻና ዶሲዛዴይ ይሳና ሺን ታ ጊሻሲኔ ታ ሚሺራቾ ቃላ ጊሻስ ባ ሼምፖ ይሲዛዴይ ዉሪካ ኣሻና።<note caller="-" style="x"><char style="xo" closed="false">8፡35 </char><char style="xt" closed="false"><ref loc="MAT 10:39">ማቶ 10፡39</ref>፤ <ref loc="LUK 17:33">ሉቃ 17፡33</ref>፤ <ref loc="JHN 12:25">ዮሃ 12፡25</ref></char></note> <verse eid="MRK 8:35"/><verse number="36" style="v" sid="MRK 8:36"/>ኣሲ ኣላሜ ኩሜ ሃሪኮኔ ባ ሼምፖ ይሲኮ ኢዛ ኣይ ጎኣኔ? <verse eid="MRK 8:36"/><verse number="37" style="v" sid="MRK 8:37"/>ዎይኮ ኣሲ ባ ሼምፖ ጊሻስ ላሜ ኤካናይ ኣዚ ዲዜ?<verse eid="MRK 8:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 8:38"/>«ሃይሳ ላይማኔ ናጋራንቻ ዬሌታ ጊዶን ዲሼ ታናኒኔ ታ ቃላን ዬላቲዛ ኣሲ ዉሪ ታ ኣሳ ናይ ታ ኣዋ ቦንቾራኔ ጌሻ ኪታንቻታራ ዪዛ ዎዴ ኢዛን ዬላታና» ጊዴስ።<verse eid="MRK 8:38"/></para>
+  <chapter eid="MRK 8"/>
+  <chapter number="9" style="c" sid="MRK 9"/>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 9:1"/>ካሌዲካ ዬሱሲ «ታ ኢንቴስ ቱማ ጋይስ፤ ሃይሳን ኤቂዳ ኣሳፔ ጾሳ ካዎቴ ዎልቃራ ዪሺን ቤያና ጋካናስ ሃይቆንታ ጋምኣና ኢሲ ኢሲ ኣሳቲ ዴቴስ» ጊዴስ።<verse eid="MRK 9:1"/></para>
+  <para style="s">ዬሱሳ ሜ ላሜቴ</para>
+  <para style="p">
+    <verse number="2" style="v" sid="MRK 9:2"/>ኡሱፑን ጋላሳፌ ጉዬ ዬሱሲ ጴጽሮሳ፥ ያቆቤኔ ዮሃኒሳ ባናራ ካሌ ኤኪዲ ኢሲ ጊታ ዙማ ቦላ ኬዚዴስ። ኢስቲ ባርካ ዲሺን ኢስታ ሲንን ኢዛ ሜይ ላሜቲ ዎዴስ።<note caller="-" style="x"><char style="xo" closed="false">9፡2-7 </char><char style="xt" closed="false"><ref loc="2PE 1:17-18">2ጴጽ 1፡17-18</ref></char></note> <verse eid="MRK 9:2"/><verse number="3" style="v" sid="MRK 9:3"/>ኢዚ ማይኢዳ ማይኦይ ቢታ ቦላ ኦኒካ ማይኦ ሜጪዲ ሄሳ ማላ ቦናስ ዳንዳዮንታ ቦ ቦቲዴስ። <verse eid="MRK 9:3"/><verse number="4" style="v" sid="MRK 9:4"/>ሄ ዎዴ ኤላሲኔ ሙሴይ ዬሱሳራ ሃሳዬቲሼ ኢስታስ ቤቲዳ።<verse eid="MRK 9:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 9:5"/>ጴጽሮሲ ዬሱሳ፥ «ኣስታማሬ! ኑኒ ሃን ሃይሳን ዲዛኮ ኑስ ሎኦ፤ ኔስ ኢሲ ዳሴ፥ ሙሴስ ኢሲ ዳሴ፥ ቃሴ ኤላሳስ ኢሲ ዳሴ፥ ሄ ዳሴታ ኑ ኦኮቺ?» ጊዴስ። <verse eid="MRK 9:5"/><verse number="6" style="v" sid="MRK 9:6"/>ዳሮ ባቢዳ ጊሻስ ጴጽሮሲ ባ ጊዛይሳ ኤሪዲ ጊቤና።<verse eid="MRK 9:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="MRK 9:7"/>ሄራካ ሻራይ ኢስታ ካሚን ሻራ ጊዶራ፥ «ሃይሲ ታ ዶሲዛ ታ ናዛኮ! ኢዚ ጊዛ ሲዪቴ» ጊዛ ቃላ ጊሪሲ ዪዴስ።<note caller="-" style="x"><char style="xo" closed="false">9፡7 </char><char style="xt" closed="false"><ref loc="MAT 3:17">ማቶ 3፡17</ref>፤ <ref loc="MRK 1:11">ማር 1፡11</ref>፤ <ref loc="LUK 3:22">ሉቃ 3፡22</ref></char></note><verse eid="MRK 9:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="MRK 9:8"/>ሄራካ ኢስቲ ዩሺ ጼሊን ዬሱሳፔ ኣቲን ኦኒካ ሃራ ኣሲ ኢስታራ ዴና።<verse eid="MRK 9:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 9:9"/>ኢስቲ ዙማ ቦላፌ ዱጌ ዎሺን ኣሳ ናይ ሃይቆፔ ዴንዳና ጋካናስ ሃይሳ ኢስቲ ቤኢዳይሳ ኦናስካ ዮቶንታ ማላ ኣዛዚዴስ። <verse eid="MRK 9:9"/><verse number="10" style="v" sid="MRK 9:10"/>ኢስቲካ ባስ ዮቲዳ ቃላ ባ ዎዚናን ኦይኪዳ ሺን፥ «ሃይቆፔ ዴንዶ ጉሲ ኣይ ጉሴ?» ጊዲ ባ ጊዶን ሃሳዬቲዳ።<verse eid="MRK 9:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="MRK 9:11"/>ቃሴ ኢስቲ ሙሴ ዎጋ ታማርሲዛይቲ፥ «ካሴቲዲ ኤላሲ ያና ኮሼስ ኣዛስ ጊዞ?» ጊዲ ኢዛ ኦይቺዳ።<note caller="-" style="x"><char style="xo" closed="false">9፡11 </char><char style="xt" closed="false"><ref loc="MAL 4:5">ሚል 4፡5</ref>፤ <ref loc="MAT 11:14">ማቶ 11፡14</ref></char></note><verse eid="MRK 9:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 9:12"/>ዬሱሲ ኢስታስ፥ «ቱሙካ ኤላሲ ካሴቲ ዪዲ ዉርሲካ ጊጊሳና። ሂስቲንካ ኣሳ ናይ ዳሮ ዋዬ ኤካናሲኔ ካታናስ ቤሴስ ጌቴቲ ጻፌቲዳይሲ ኢንቴስ ኣይ ሚሳቲዜ? <verse eid="MRK 9:12"/><verse number="13" style="v" sid="MRK 9:13"/>ጊዶ ኣቲን ታ ኢንቴስ ጊዛይ ኤላሲ ጊዲኮ ዪዴስ ሺን ኣሳይካ ኢዛ ጊሻስ ጻፌቲዳ ማላ ባና ኮሺዳ ማላ ኢዛ ቦላ ኦዴስ» ጊዴስ።<verse eid="MRK 9:13"/></para>
+  <para style="s">ዬሱሲ ኢታ ኣያናፔ ፓዳ ናዛ</para>
+  <para style="r">(<ref loc="MAT 17:14-20">ማቶ 17፡14-20</ref>፤ <ref loc="LUK 9:37-43">ሉቃ 9፡37-43</ref>)</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 9:14"/>ጌዶን ኣቲዳ ዬሱሳ ካሊዛይታኮ ኢስቲ ሲሚ ዪሺን ዳሮ ኣሳይ ኢስታ ጊዶን ሙሴ ዎጋ ታማርሲዛይቲ ኢስታራ ፓላሜቲዛይሳ ቤኢዳ። <verse eid="MRK 9:14"/><verse number="15" style="v" sid="MRK 9:15"/>ዴሬይ ኢዛ ዴሚዳ ማላ ማላሌቲዲ ሳሮካናስ ኢዛኮ ዎጺዴስ።<verse eid="MRK 9:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 9:16"/>ኢዚካ ኢስታ፥ «ኢንቴ ኢስታራ ኣዛ ጊሻስ ፓላሜቴቲ?» ጊዲ ኦይቺዴስ።<verse eid="MRK 9:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 9:17"/>ኣሳ ጊዶፌ ኢሳዴይ፥ «ኣስታማሬ! ቱና ኣያናይ ኢዛን ጌሊን ዶና ዱዲዳ ታ ና ዳይሳ ታ ኔኮ ኤካ ያዲስ። <verse eid="MRK 9:17"/><verse number="18" style="v" sid="MRK 9:18"/>ኣያናዚ ዴንዲዛ ዎዴ ቦላፌ ዬጌስ፤ ዶናራ ጎፖንቶ ኬሲ ኬሲ ዬጌስ፤ ኣቻካ ጋርጬስ፤ ኣሳቴካ ዞዲሴስ፤ ቱና ኣያና ኬሴቶ ጋዳ ኔና ካሊዛይታ ታ ዮቲን ኢስቲካ ዳንዳይቤቴና» ጊዴስ።<verse eid="MRK 9:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 9:19"/>ዬሱሲካ ኢስታስ ዛሪዲ፥ «ኢንቴኖ ኣማኖንታ ዬሌታቶ፥ ኣይዴ ጋካናስ ታ ኢንቴናራ ዳኔ? ቃሴ ኣይዴ ጋካናስ ታ ኢንቴና ዳንዳያኔ? ኣኔ ናዛ ሃ ኤሂቴ» ጊዴስ። <verse eid="MRK 9:19"/><verse number="20" style="v" sid="MRK 9:20"/>ኣሳይካ ናዛ ኢዛኮ ኤሂዴስ፥ ቱና ኣያናይ ዬሱሳ ቤኢዳ ማላ ናዛ ሄራካ ጋዴን ጌንዴሪሲዲ ኮኮሪሲዲኔ ዶናራ ጎፖንቶ ጮፑ ሂስቲዴስ።<verse eid="MRK 9:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 9:21"/>ዬሱሲ ናዛ ኣዋ፥ «ሃይሲ ሃርጌይ ኢዛ ኣዪዴሳፔ ኦይኪዴ?» ጊዴስ። ናዛ ኣዋይካ፥ «ናቴፌ ዶሚዲ» ጊዴስ። <verse eid="MRK 9:21"/><verse number="22" style="v" sid="MRK 9:22"/>«ኢዛ ዎናስ ኮዪዲ ዳሮ ዎዴ ታማንካ ሃንካ ዬጌስ። ኔስ ዳንዳዬቲኮ ኑስ ሚሼታኔ ኑና ማዳ» ጊዴስ።<verse eid="MRK 9:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 9:23"/>ዬሱሲ ቃሴ፥ « ‹ኔስ ዳንዳዬቲኮ› ጋይ? ኣማኒዛዴስ ዉሪካ ዳንዳዬቴስ» ጊዴስ።<verse eid="MRK 9:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 9:24"/>ናዛ ኣዋይ ሄራካ፥ «ታ ኣማናይስ ሺን ታ ኣማኖይ ላፋ፥ ታና ማዳርኪ!» ጊዲ ዋሲዴስ።<verse eid="MRK 9:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 9:25"/>ኣሳይ ዎጫሚሼ ቡሬቲ ኤኪዲ ኢዛኮ ዪዛይሳ ዬሱሲ ቤኢዲ፥ «ሃይሶ ቱሌኔ ዱዴ ኣያናዞ! ሃይሳ ናዛፔ ኬዛ፥ ኔ ቃሴ ሲማዳ ጌሎንታ ማላ ታ ኔና ኣዛዛይስ» ጊዲ ቱና ኣያና ሴሪዴስ።<verse eid="MRK 9:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 9:26"/>ቱና ኣያናዚካ ኬሂ ዋሲዴስ፤ ናዚካ ኬሂ ቃኬቲዳፔ ጉዬ ናዛፔ ኬዚዴስ። ዳሮቲ ሃይቂዴስ ጋና ጋካናስ ናዚ ኣሃ ሚሳቲዴስ። <verse eid="MRK 9:26"/><verse number="27" style="v" sid="MRK 9:27"/>ጊዶ ኣቲን ዬሱሲ ናዛ ኩሼ ኦይኪ ዴንዴስ፤ ናዚካ ዴንዲ ኤቂዴስ።<verse eid="MRK 9:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 9:28"/>ዬሱሲ ሶ ጌሊዳፔ ጉዬ ኢዛ ካሊዛይቲ፥ «ኑ ኢዛፔ ቱና ኣያና ኬሳናስ ኣዛስ ዳንዳይቤኮኒ?» ጊዲ ኢዛ ኦይቺዳ።<verse eid="MRK 9:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 9:29"/>ኢዚካ ኢስታስ፥ «ሃይሳ ማላይ ኬዛና ዳንዳይዛይ ዎሳኒኔ ጾማን ጻላ» ጊዴስ።<verse eid="MRK 9:29"/></para>
+  <para style="s">ዬሱሲ ባ ሃይቆ ጊሻሲኔ ባ ዴንዶ ጊሻስ ቃሴካ ዮቲዴስ</para>
+  <para style="r">(<ref loc="MAT 17:22-23">ማቶ 17፡22-23</ref>፤ <ref loc="LUK 9:43-45">ሉቃ 9፡43-45</ref>)</para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 9:30"/>ሄፔ ዴንዲዲ ጋሊላ ባጋራ ኣ ቢዳ፤ ዬሱሲ ባ ዲዛሶ ኦኒካ ኤራና ማላ ኮዪቤና። <verse eid="MRK 9:30"/><verse number="31" style="v" sid="MRK 9:31"/>ጋሶይካ ዬሱሲ ባና ካሊዛይታስ፥ «ኣሳ ናይ ኣሳ ኩሼን ኣ ኢሜታና፤ ኢስቲካ ኢዛ ዎና፥ ሄን ጋላሳፌ ጉዬ ኢዚ ዴንዳና» ጊዲ ኢስታ ታማርሲዛ ጊሻሳ። <verse eid="MRK 9:31"/><verse number="32" style="v" sid="MRK 9:32"/>ጊዶ ኣቲን ኢዚ ጊዛይሲ ኢስታስ ጌሊቤና፤ ኢዛ ኦይቻናስካ ባቢዳ።<verse eid="MRK 9:32"/></para>
+  <para style="s">ኡባፌ ኣዛይ ኦኔ?</para>
+  <para style="r">(<ref loc="MAT 18:1-5">ማቶ 18፡1-5</ref>፤ <ref loc="LUK 9:46-48">ሉቃ 9፡46-48</ref>)</para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 9:33"/>ሄሳፌ ጉዬ ቂፊርናሆሜ ቢዳ፤ ኢዚ ኬ ጌሊዲ፥ «ኢንቴ ዪሼ ኦጌ ቦላ ኣዛ ጊሻስ ፓላሜቲዴቲ?» ጊ ኦይቺዴስ።<verse eid="MRK 9:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="MRK 9:34"/>ኢስቲ ቃሴ ኦጌ ቦላ፥ «ኑ ጊዶን ኑፔ ኡባፌ ኣዛይ ኦኔ?» ጊዲ ፓላሜቲዳ ጊሻስ ዉሪካ ጮኡ ጊዳ።<note caller="-" style="x"><char style="xo" closed="false">9፡34 </char><char style="xt" closed="false"><ref loc="LUK 22:24">ሉቃ 22፡24</ref></char></note><verse eid="MRK 9:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 9:35"/>ኢዚ ኡቲዳፔ ጉዬ ታማኔ ናምኣታ ጼይጊዲ፥ «ኮይሮ ጊዳና ኮይዛዴይ ኡባፌ ዉርሴኔ ኡባታስ ኣሽካራ ጊዶ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">9፡35 </char><char style="xt" closed="false"><ref loc="MAT 20:26-27">ማቶ 20፡26-27</ref>፤ <ref loc="MAT 23:11">23፡11</ref>፤ <ref loc="MRK 10:43-44">ማር 10፡43-44</ref>፤ <ref loc="LUK 22:26">ሉቃ 22፡26</ref></char></note><verse eid="MRK 9:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="MRK 9:36"/>ቂ ጉ ና ኤሂዲ ኢስታ ጊዶን ኤሲዴስ። ኢዲሚዲ፥ <verse eid="MRK 9:36"/><verse number="37" style="v" sid="MRK 9:37"/>«ሃይታ ጉ ናይታፔ ኢሳዴ ታ ሱንን ሞኪ ኤኪዛዴይ ታናካ ሞኪ ኤኬስ፤ ታና ሞኪ ኤኪዛዴይ ዉሪ ታና ጻላላ ጊዶንታ ታና ኪቲዳይሳካ ሞኪ ኤኬስ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">9፡37 </char><char style="xt" closed="false"><ref loc="MAT 10:40">ማቶ 10፡40</ref>፤ <ref loc="LUK 10:16">ሉቃ 10፡16</ref>፤ <ref loc="JHN 13:20">ዮሃ 13፡20</ref></char></note><verse eid="MRK 9:37"/></para>
+  <para style="s">ኑና ኢጾንታይ ዉሪ ኑ ባጋ</para>
+  <para style="r">(<ref loc="LUK 9:49-50">ሉቃ 9፡49-50</ref>)</para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 9:38"/>ዮሃኒሲካ፥ «ኣስታማሬ! ኢሳዴይ ኔ ሱንን ዳይዳን ኬሲሺን ኑ ቤይዶስ። ኢዚ ኑና ካሎንታ ጊሻስ ኬሶንታ ማላ ዲጊዶስ» ጊዴስ።<verse eid="MRK 9:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 9:39"/>ዬሱሲ ቃሴ፥ «ዲጎፍቴ፤ ኦኒካ ታ ሱንን ማላታ ኦዲ ኤሶቲዲ ታ ቦላ ኢታ ሃሳያናስ ዳንዳዬና። <verse eid="MRK 9:39"/><verse number="40" style="v" sid="MRK 9:40"/>ኑናራ ኤቄቶንታይ ዉሪ ኑናራ ዴስ።<note caller="-" style="x"><char style="xo" closed="false">9፡40 </char><char style="xt" closed="false"><ref loc="MAT 12:30">ማቶ 12፡30</ref>፤ <ref loc="LUK 11:23">ሉቃ 11፡23</ref></char></note> <verse eid="MRK 9:40"/><verse number="41" style="v" sid="MRK 9:41"/>ታ ኢንቴስ ቱሙ ጋይስ፤ ኢንቴ ቲዬቲዳ ኪርስቶሳስ ጊዲዳ ጊሻስ ታ ሱንን ኢሲ ዋንጫ ሃ ኢንቴና ኡሺዳዴይ ዉሪ ባ ኦሶይስ ዋጋ ዬና።<note caller="-" style="x"><char style="xo" closed="false">9፡41 </char><char style="xt" closed="false"><ref loc="MAT 10:42">ማቶ 10፡42</ref></char></note><verse eid="MRK 9:41"/></para>
+  <para style="s">ኣሳስ ጴ ጊዳናፔ ናጌቴ</para>
+  <para style="r">(<ref loc="MAT 18:6-9">ማቶ 18፡6-9</ref>፤ <ref loc="LUK 17:1-2">ሉቃ 17፡1-2</ref>)</para>
+  <para style="p">
+    <verse number="42" style="v" sid="MRK 9:42"/>«ሃይታ ታና ኣማኒዛ ሃ ጉታፔ ኢሳዴስ ጴ ጊዲዛይ ዉሪ ዴጾ ዎጻ ሹቺ ኢዛ ቆን ቃሼቲን ዱጌ ኣባ ጊዶ ኦሌቲዳኮ ኢዛስ ሎኦ ጊዳና። <verse eid="MRK 9:42"/><verse number="43" style="v" sid="MRK 9:43"/>ሄሳ ጊሻስ ኔ ኩሼይ ኔና ባሌኮ ኔፔ ቃንጻ ዬጋ፤ ናምኡ ኩሼራ ዳዳ ጌዴ ጋናሜ ታማን ኔ ባናይሳፌ ኩሼ ዱጻ ጊዳዳ ጌዴ ዴኦን ጌሎይ ኔስ ሎኦ ጊዳና።<note caller="-" style="x"><char style="xo" closed="false">9፡43 </char><char style="xt" closed="false"><ref loc="MAT 5:30">ማቶ 5፡30</ref></char></note> <verse eid="MRK 9:43"/><verse number="44" style="v" sid="MRK 9:44"/>ጋናሜን ጉጹኔይ ሃይቄና፥ ታማይኔ ቶኤና።<note caller="+" style="f"><char style="fr" closed="false">9፡44፥46 </char><char style="ft" closed="false">ኢሲ ኢሲ ጌሻ ማጻፋቲ ታይቦ 44ኔ 46 ቦላ ዲዛ ቆፋ ጉጄቴስ፤ ቆፋዚካ ታይቦ 48 ቦላ ዲዛይሳ ሚሳቴስ።</char></note> <verse eid="MRK 9:44"/><verse number="45" style="v" sid="MRK 9:45"/>ኔና ኔ ቶሆይ ባሌኮ ኔፔ ቃንጻ ዲጋ፤ ናምኡ ቶሆራ ዳዳ ጌዴ ጋናሜ ታማን ዬጌታናፔ ኔ ዎቤ ጊዳዳ ጌዴ ዴኦሶ ጌሎይ ኔስ ሎኦ። <verse eid="MRK 9:45"/><verse number="46" style="v" sid="MRK 9:46"/>ጋናሜን ጉጹኔይ ሃይቄና፥ ታማይኔ ቶኤና። <verse eid="MRK 9:46"/><verse number="47" style="v" sid="MRK 9:47"/>ኔና ኔ ኣይፌይ ባሌኮ ዎጫ ኬሳዳ ኔፔ ዲጋ፤ ናምኡ ኣይፌራ ዳዳ ጌዴ ጋናሜን ዬጌታናፔ ኢሲ ኣይፌራ ጾሳ ካዎቴ ጌሎይ ኔስ ሎኦ።<note caller="-" style="x"><char style="xo" closed="false">9፡47 </char><char style="xt" closed="false"><ref loc="MAT 5:29">ማቶ 5፡29</ref></char></note> <verse eid="MRK 9:47"/><verse number="48" style="v" sid="MRK 9:48"/>ጋናሜን ጉጹኔይ ሃይቄና ታማይኔ ቶኤና።<note caller="-" style="x"><char style="xo" closed="false">9፡48 </char><char style="xt" closed="false"><ref loc="ISA 66:24">ኢሳ 66፡24</ref></char></note><verse eid="MRK 9:48"/></para>
+  <para style="p">
+    <verse number="49" style="v" sid="MRK 9:49"/>«ቡሮ ኣሲ ዉሪ ታማን ፓጬታና።<verse eid="MRK 9:49"/></para>
+  <para style="p">
+    <verse number="50" style="v" sid="MRK 9:50"/>«ማጺኔይ ሎኦ፤ ጊዶ ኣቲን ማጺኔይ ባ ማጺኔቴ ዬዲኮ ኢንቴ ዎስቲ ኢዛ ማልኦ ኤራኔ? ኢንቴ ኣሳቴን ማጺኔይ ዴኦ። ኢንቴ ኢንቴ ጊዶን ዶሴቲቴ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">9፡50 </char><char style="xt" closed="false"><ref loc="MAT 5:13">ማቶ 5፡13</ref>፤ <ref loc="LUK 14:34-35">ሉቃ 14፡34-35</ref></char></note><verse eid="MRK 9:50"/></para>
+  <chapter eid="MRK 9"/>
+  <chapter number="10" style="c" sid="MRK 10"/>
+  <para style="s">ማቾ ኣንጂ ዬዳናስ ቤሴና</para>
+  <para style="r">(<ref loc="MAT 19:1-12">ማቶ 19፡1-12</ref>፤ <ref loc="LUK 16:18">ሉቃ 16፡18</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 10:1"/>ዬሱሲ ሄፔ ዴንዲዲ ጌዴ ዩሁዳ ጌቴቲዛ ዴሬኔ ዮርዳኖሴ ሻፋፔ ፒንን ዲዛ ዴሬ ቢዴስ። ዴሬይካ ቃሴ ኢዛ ዩዪ ኣን ኢዚ ካሴ ባ ኦዛ ማላ ኣሳ ታማርሲዴስ።<verse eid="MRK 10:1"/></para>
+  <para style="p">
+    <verse number="2" style="v" sid="MRK 10:2"/>ኢሲ ኢሲ ፋርሳዌቲ ኢዛኮ ዪዲ፥ «ኣሲ ባ ማቾ ኣንጂ ዬዳናስ ቤሲዜ?» ጊዲ ኢዛ ፓጬ ኦይሾ ኦይቺዳ።<verse eid="MRK 10:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 10:3"/>ኢዚካ ኢስታስ፥ «ሙሴይ ኢንቴና ኣይ ጊ ኣዛዚዴ?» ጊዲ ዛሪ ኦይቺዴስ።<verse eid="MRK 10:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 10:4"/>ኢስቲካ ኢዛስ፥ «ሙሴይ ታ ኢዞ ኣንጃ ዬዳዲስ ጊዛ ዋራቃታ ጻፊ ኢሚዲ ኣንጆ ጊዴስ» ጊዳ።<note caller="-" style="x"><char style="xo" closed="false">10፡4 </char><char style="xt" closed="false"><ref loc="DEU 24:1-4">ዛሬ 24፡1-4</ref>፤ <ref loc="MAT 5:31">ማቶ 5፡31</ref></char></note><verse eid="MRK 10:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 10:5"/>ዬሱሲካ ዛሪዲ ኢስታ፥ «ሙሴይ ሃይሳ ማላ ዎጋ ጻፊዳይሲ ኢንቴ ዎዚናይ ሚኒዳ ጊሻሳ። <verse eid="MRK 10:5"/><verse number="6" style="v" sid="MRK 10:6"/>ጊዶ ኣቲን ኮይሮ ጾሲ ሜሼ ማጫኔ ኣዴ ኦ ሜዴስ።<note caller="-" style="x"><char style="xo" closed="false">10፡6 </char><char style="xt" closed="false"><ref loc="GEN 1:27">ሜ 1፡27</ref>፤ <ref loc="GEN 5:2">5፡2</ref></char></note> <verse eid="MRK 10:6"/><verse number="7" style="v" sid="MRK 10:7"/>ሄሳ ጊሻስ ኣሲ ባ ኣዋኔ ባ ኣዮ ኣጊዲ ባ ማቺራ ዋጼቴስ። <verse eid="MRK 10:7"/><verse number="8" style="v" sid="MRK 10:8"/>ናምኣይ ኢሲ ኣሾ ጊዴቴስ፤ ሄሳ ጊሻስ ኢስቲ ናምኣይ ኢሲኖፔ ኣቲን ናምኡ ዴቴና። <verse eid="MRK 10:8"/><verse number="9" style="v" sid="MRK 10:9"/>ሄሳ ጊሻስ ጾሲ ጋ ዋጺዳይታ ኣሲ ሻኮፎ» ጊዴስ።<verse eid="MRK 10:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="MRK 10:10"/>ቃሴካ ኢስቲ ሶ ጌሊን ኢዛ ካሊዛይቲ ሄ ዮኦዛ ጊሻስ ዛሪ ኢዛ ኦይቺዳ። <verse eid="MRK 10:10"/><verse number="11" style="v" sid="MRK 10:11"/>ኢዚ ኢስታስ፥ «ኦኒካ ባ ማቾ ኣንጂ ዬዲዲ ሃራ ማጫስ ኤኪኮ ሄ ማጫሳይ ቦላ ላይማ ኦስ። <verse eid="MRK 10:11"/><verse number="12" style="v" sid="MRK 10:12"/>ማጫሳያካ ባ ኣዚና ኣጋዳ ሃራ ኣዴ ጌሊኮ ኢዛካ ላይማታዉስ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">10፡11-12 </char><char style="xt" closed="false"><ref loc="MAT 5:32">ማቶ 5፡32</ref>፤ <ref loc="1CO 7:10-11">1ቆሮ 7፡10-11</ref></char></note><verse eid="MRK 10:12"/></para>
+  <para style="s">ዬሱሲ ጉ ናይታ ኣንጂዴስ</para>
+  <para style="r">(<ref loc="MAT 19:13-15">ማቶ 19፡13-15</ref>፤ <ref loc="LUK 18:15-17">ሉቃ 18፡15-17</ref>)</para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 10:13"/>ዬሱሲ ባ ኩሼ ዎና ማላ ኣሳይ ናይታ ኢዛኮ ኤሂዴስ። ኢዛ ካሊዛይቲ ቃሴ ኤሂዳ ኣሳ ቦላ ሃንቄቲዳ። <verse eid="MRK 10:13"/><verse number="14" style="v" sid="MRK 10:14"/>ዬሱሲ ሄሳ ቤዪ ሃንቄቲዲ፥ «ናይቲ ታኮ ዬቶ፤ ዲጎፍቴ፤ ጾሳ ካዎቴ ሃይታንታ ማላሳ። <verse eid="MRK 10:14"/><verse number="15" style="v" sid="MRK 10:15"/>ታ ኢንቴስ ቱሙ ጋይስ፤ ጾሳ ካዎቴ ሃይሳ ጉ ናይታ ማላ ኤኮንታዴይ ኢዚን ሙሌካ ጌሌና» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">10፡15 </char><char style="xt" closed="false"><ref loc="MAT 18:3">ማቶ 18፡3</ref></char></note> <verse eid="MRK 10:15"/><verse number="16" style="v" sid="MRK 10:16"/>ናይታ ኢዲሚዲ ኢስታ ቦላ ባ ኩሼ ዎዲ ኣንጂዴስ።<verse eid="MRK 10:16"/></para>
+  <para style="s">ኢሲ ዱሬ ኣዴ</para>
+  <para style="r">(<ref loc="MAT 19:16-30">ማቶ 19፡16-30</ref>፤ <ref loc="LUK 18:18-30">ሉቃ 18፡18-30</ref>)</para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 10:17"/>ሄፔ ቡሮ ኦጌ ኬዚሺን ኢሳዴይ ዎጺሼ ኢዛኮ ጋኪዲኔ ኢዛ ሲንን ጉልባቲዲ፥ «ኪያ ኣስታማሬንቶ! ታኒ ሜርና ዴኦ ዴማና ማላ ኣይ ኦና ታስ ቤሲዜ?» ጊ ኦይቺዴስ።<verse eid="MRK 10:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="MRK 10:18"/>ዬሱሲካ፥ «ኣዛስ ታና ኪያ ጋይ? ኢሲ ጾሳፌ ኣቲን ኪያይ ባ» ጊዴስ። <verse eid="MRK 10:18"/><verse number="19" style="v" sid="MRK 10:19"/>«ኔኒ ኣዛዞታ ኤራይ? ‹ዎፓ፤ ላይማቶፓ፤ ካይሶቶፓ፤ ዎርዶ ማርካቶፋ፤ ኣስ ባሌፋ፤ ኔ ኣዋኔ ኔ ኣዮ ቦንቻ› ጊዛይታ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">10፡19 </char><char style="xt" closed="false"><ref loc="EXO 20:12-16">ኬሳ 20፡12-16</ref>፤ <ref loc="DEU 5:16-20">ዛሬ 5፡16-20</ref></char></note><verse eid="MRK 10:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 10:20"/>ኣዴዚካ ዛሪዲ፥ «ኣስታማሬ! ታ ሃይታ ዉርሳ ናቴፌ ኦይካዳ ናጋዲስ» ጊዴስ።<verse eid="MRK 10:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 10:21"/>ዬሱሲ ኢዛ ጼሊዲኔ ዶሲዲ፥ «ሂስቲኮ ሃኢ ኔስ ኢሲ ሚሺ ፓጬስ። ባዳኔ ኔስ ዲዛ ዉርሳ ባይዛ፤ ሚሻ ማንቆታስ ኢማ፤ ኔኒ ሳሎን ሺቂዳ ሚሽ ዴማንዳሳ፤ ሂስታዳኔ ሃ ያዳ ታና ካላ» ጊዴስ። <verse eid="MRK 10:21"/><verse number="22" style="v" sid="MRK 10:22"/>ኣዴዚካ ሄሳ ሲዪዲ ዳሮ ዪሎቲዴስ፤ ኢዛስ ዳሮ ኣቆታይ ዲዛ ጊሻስ ሙዞቲሼ ቢዴስ።<verse eid="MRK 10:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 10:23"/>ዬሱሲ ዩሺ ኣ ጼሊዲ ባና ካሊዛይታ፥ «ዱሬታስ ጾሳ ካዎቴ ጌሎይ ኣይ ማላ ዴጾ!» ጊዴስ።<verse eid="MRK 10:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 10:24"/>ኢዛ ካሊዛይቲካ ኢዛ ሃሳያን ማላሌቲዳ፤ ዬሱሲ ቃሴ ዛሪዲ፥ «ናይቶ! ጾሳ ካዎቴ ጌሎይ ኣይ ማላ ዴጾ ሚሼ! <verse eid="MRK 10:24"/><verse number="25" style="v" sid="MRK 10:25"/>ዱሬይ ጾሳ ካዎቴ ጌላናይሳፌ ጋሜላይ ናርፔ ሉኮራ ኣናይሲ ካዉያና!» ጊዴስ።<verse eid="MRK 10:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 10:26"/>ኢዛ ካሊዛይቲካ ዳርሲ ማላሌቲዲ ባ ጊዶን ኢሶይ ኢሳ፥ «ሂስቲን ኦኒ ኣታና ዳንዳይዜ?» ጊዳ።<verse eid="MRK 10:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 10:27"/>ዬሱሲ ኢስታ ጼሊዲ፥ «ሃይሲ ኣሳስ ዳንዳዬቴና፤ ጾሳ ማታን ጊዲኮ ሄሳ ማላ ጊዴና። ጾሳስ ዉሪካ ዳንዳዬቴስ» ጊዴስ።<verse eid="MRK 10:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 10:28"/>ጴጽሮሲ ቃሴ፥ «ሄኮ፤ ኑኒ ዉርሲካ ኣጊዲ ኔና ካሊዶስ» ጊዴስ።<verse eid="MRK 10:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 10:29"/>ዬሱሲካ ዛሪዲ፥ «ታ ኢንቴስ ቱሙ ጋይስ፤ ታ ጊሻሲኔ ሚሺራቾ ቃላ ጊሻስ ጊዲ ባ ኬ፥ ዎይኮ ባ ኢሻታ፥ ዎይኮ ባ ሚቼታ፥ ዎይኮ ባ ኣዮ፥ ዎይኮ ባ ኣዋ፥ ባ ናይታ፥ ዎይኮ ባ ጋዴ ኣጊዳ ኣሲ ዉሪ፥ <verse eid="MRK 10:29"/><verse number="30" style="v" sid="MRK 10:30"/>ሃይሳ ሃ ዎዴዛን ሃኢ ጎዴቴራ ኬታ፥ ኢሻታ፥ ሚቼታ፥ ኣዬታ፥ ናይታኔ ጋዴካ ጼቱ ኩሼ ኣ ኤኮንታይኔ ቡሮ ያና ኣላሜዛንካ ሜርና ዴኦ ላቶንታዴይ ዴና። <verse eid="MRK 10:30"/><verse number="31" style="v" sid="MRK 10:31"/>ጊዶ ኣቲን ሲንቲዳ ዳሮቲ ጉዬታና፤ ጉዬቲዳይቲ ሲንታና» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">10፡31 </char><char style="xt" closed="false"><ref loc="MAT 20:16">ማቶ 20፡16</ref></char></note><verse eid="MRK 10:31"/></para>
+  <para style="s">ዬሱሲ ባ ሃይቂ ዴንዳናይሳ ሄን ዮቲዴስ</para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 10:32"/>ኢስቲ ዬሩሳላሜ ኤፊዛ ኦጌ ቦላ ዲሺን ዬሱሲ ኢስታፌ ሲን ሲን ቤስ። ኢዛ ካሊዛይቲ ኢዛ ቡሳን ማላሌቲዳ። ሃንኮ ኢዛ ጋሶን ዲዛ ኣሳይ ቃሴ ኢዛስ ባቢዴስ፤ ቃሴካ ታማኔ ናምኣታ ዴሬዛፔ ዱማ ሻኪዲ ባ ቦላ ኣዚ ጋካናኮን ኢስታስ ሂዝጊ ዮቲዴስ፤ <verse eid="MRK 10:32"/><verse number="33" style="v" sid="MRK 10:33"/>«ኑኒ ዬሩሳላሜ ኬዛና፤ ኣሳ ናይ ቄሴታ ሃላቃታሲኔ ሙሴ ዎጋ ታማርሲዛይታስ ኣ ኢሜታና፤ ኢስቲካ ኢዛ ቦላ ሃይቆ ፒርዳ ፒርዳናኔ ዴሬ ኣሳስ ኣ ኢማና። <verse eid="MRK 10:33"/><verse number="34" style="v" sid="MRK 10:34"/>ኢዛ ቦላ ቂ ካኣና፤ ኢዛ ቦላ ጩታና፤ ኢዛካ ጋራፋናኔ ዎናሺን ኢዚ ሄ ጋላሳፌ ጉዬ ሃይቆፔ ዴንዳና።»<verse eid="MRK 10:34"/></para>
+  <para style="s">ያቆቤይኔ ዮሃኒሲ ዎሲዳ ዎሳ</para>
+  <para style="r">(<ref loc="MAT 20:20-28">ማቶ 20፡20-28</ref>)</para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 10:35"/>ቃሴ ዛብዶሳ ናይቲ ያቆቤይኔ ዮሃኒሲ ኢዛኮ ሺቂዲ፥ «ኣስታማሬ! ኑኒ ኔና ዎሲዳይሳ ኔ ኑስ ዉርሳ ኦና ማላ ኑ ኮዮስ» ጊዳ።<verse eid="MRK 10:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="MRK 10:36"/>ኢዚካ ኢስታስ፥ «ታ ኢንቴስ ኣይ ኦና ማላ ኮዬቲ?» ጊዴስ። <verse eid="MRK 10:36"/><verse number="37" style="v" sid="MRK 10:37"/>ኢስቲካ፥ «ኔኒ ኔ ካዎቴ ቦንቾን ዲዛ ዎዴ ኑፔ ኢሳዴይ ኔ ኡሻቻን፥ ኢሳዴይ ኔ ሃዲርሳን ኡታና ማላ ኑስ ኤሮ ጋርኪ?» ጊዳ።<verse eid="MRK 10:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 10:38"/>ዬሱሲካ፥ «ኢንቴ ኦይቺዛይሳ ኤሬኬታ፤ ታኒ ኡያና ኡሻ ኡያናሲኔ ታኒ ጻማቄቲዛ ጺንቃታ ኢንቴ ጻማቄታናስ ዳንዳያንዴቲ?» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">10፡38 </char><char style="xt" closed="false"><ref loc="LUK 12:50">ሉቃ 12፡50</ref></char></note> <verse eid="MRK 10:38"/><verse number="39" style="v" sid="MRK 10:39"/>ኢስቲካ ዛሪዲ፥ «ኤ፥ ዳንዳዮስ» ጊዳ። ዬሱሲካ፥ «ታ ኡዪዛ ኡሻ ኢንቴ ኡያናኔ ታ ጻማቄቲዛ ጺንቃታ ኢንቴ ጻማቄታና። <verse eid="MRK 10:39"/><verse number="40" style="v" sid="MRK 10:40"/>ጊዶ ኣቲን ታ ኡሻቻራ ዎይኮ ታ ሃዲርሳራ ኡቴ ጾሲ ኢስታስ ጊግሲዳይታስ ኣቲን ታ ኢማና ሚሽ ጊዴና» ጊዴስ።<verse eid="MRK 10:40"/></para>
+  <para style="p">
+    <verse number="41" style="v" sid="MRK 10:41"/>ታማቲ ሄሳ ሲዪዲ ያቆቤኔ ዮሃኒሳ ቦላ ሃንቄቲዳ። <verse eid="MRK 10:41"/><verse number="42" style="v" sid="MRK 10:42"/>ዬሱሲካ ኢስታ ኢሲ ቦላ ሺሺዲ፥ «ዴሬ ሃላቃ ጌቴቲዛይቲ ዴሬ ሃሪዛይሳ ማላ ኢስታ ሹሜቲ ኢስታ ቦላ ባ ጎዳቴ ቤሲዛይሳ ኢንቴ ኤሬታ። <verse eid="MRK 10:42"/><verse number="43" style="v" sid="MRK 10:43"/>ጊዶ ኣቲን ኢንቴ ጊዶን ጊታ ጊዳና ኮይዛ ኡባይ ኣሽካራ ጊዶ።<note caller="-" style="x"><char style="xo" closed="false">10፡42-43 </char><char style="xt" closed="false"><ref loc="LUK 22:25-26">ሉቃ 22፡25-26</ref></char></note> <verse eid="MRK 10:43"/><verse number="44" style="v" sid="MRK 10:44"/>ሲን ኣና ኮይዛይ ዉሪካ ኡባስ ኣይሌ ጊዶ። <verse eid="MRK 10:44"/><verse number="45" style="v" sid="MRK 10:45"/>ኣሳ ናይ ጊዲኮ ኣሳስ ኦናሲኔ ባ ሼምፖ ዳሮታ ጊሻስ ኣ ኢማናስ ዪዴስ ኣቲን ኣሴ ኦሲሳናስ ዪቤና» ጊዴስ።<verse eid="MRK 10:45"/></para>
+  <para style="s">ባርጼሞሳ ኣይፌ ፓጼቴ</para>
+  <para style="r">(<ref loc="MAT 20:29-34">ማቶ 20፡29-34</ref>፤ <ref loc="LUK 18:35-43">ሉቃ 18፡35-43</ref>)</para>
+  <para style="p">
+    <verse number="46" style="v" sid="MRK 10:46"/>ሄፔ ጌዴ ኢያርኮ ቢዳ፤ ዬሱሲኔ ኢዛ ካሊዛይቲ ሃራ ዳሮ ኣሳታራ ኢያርኮፌ ኬዚሺን ጺሞሳ ና ባርጼሞሳ ጌቴቲዛ ኣይፌ ቆቄይ ኦጌ ቦላ ኡቲዲ ዎሴስ። <verse eid="MRK 10:46"/><verse number="47" style="v" sid="MRK 10:47"/>ኢዚካ ዪዛይ ናዚሬቴ ዬሱሳ ጊዲዳይሳ ሲዪዲ፥ «ዳዊቴ ና ዬሱሳ ታና ማራ» ጊዲ ኬሂ ዋሲዴስ።<verse eid="MRK 10:47"/></para>
+  <para style="p">
+    <verse number="48" style="v" sid="MRK 10:48"/>ዳሮቲ ኢዚ ጮኡ ጋና ማላ ሃንቂዳ፤ ጊዶ ኣቲን ኢዚ፥ «ዳዊቴ ናዉ! ታና ማራ» ጊዲ ኬሂ ዋሲዴስ።<verse eid="MRK 10:48"/></para>
+  <para style="p">
+    <verse number="49" style="v" sid="MRK 10:49"/>ዬሱሲካ ኤቂዲ፥ «ኢዛ ሃ ጼይጊቴ» ጊዴስ። ኢስቲካ ቆቄዛ፥ «ኣይኮይ ባ ዴንዳ ኔና ጼይጌስ» ጊዳ። <verse eid="MRK 10:49"/><verse number="50" style="v" sid="MRK 10:50"/>ኢዚካ ባ ማይኦ ቃሪ ዬጊዲ ፑሱኩ ጊ ዴንዲ ኤቂዲ ዬሱሳኮ ዪዴስ።<verse eid="MRK 10:50"/></para>
+  <para style="p">
+    <verse number="51" style="v" sid="MRK 10:51"/>ዬሱሲካ፥ «ታ ኔስ ኣይ ኦና ማላ ኮያይ?» ጊዴስ። ቆቄዚካ፥ «ኣስታማሬንቶ! ታ ጼላና ኮያይስ» ጊዴስ።<verse eid="MRK 10:51"/></para>
+  <para style="p">
+    <verse number="52" style="v" sid="MRK 10:52"/>ዬሱሲካ ዛሪዲ፥ «ባ ኔና ኔ ኣማኖይ ፓዴስ» ጊዴስ። ሄራካ ኢዛ ኣይፌይ ጼሊዴስ። ኢዚካ ዬሱሳ ካሊ ቢዴስ።<verse eid="MRK 10:52"/></para>
+  <chapter eid="MRK 10"/>
+  <chapter number="11" style="c" sid="MRK 11"/>
+  <para style="s">ጊታ ቦንቾራ ዬሱሲ ዬሩሳላሜ ቡስ</para>
+  <para style="r">(<ref loc="MAT 21:1-11">ማቶ 21፡1-11</ref>፤ <ref loc="LUK 19:28-40">ሉቃ 19፡28-40</ref>፤ <ref loc="JHN 12:12-19">ዮሃ 12፡12-19</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 11:1"/>ኢስቲ ጌዴ ዬሩሳላሜን ዳብራዛይቴ ጌቴቲዛ ዙማ ኣቻን ዲዛ ቤቴፋጌኔ ቢታኒያ ጌቴቲዛሶ ማቲዳ ዎዴ ዬሱሲ ባና ካሊዛይታፔ ናምኣታ፥ <verse eid="MRK 11:1"/><verse number="2" style="v" sid="MRK 11:2"/>«ጌዴ ኢንቴ ሲንን ዲዛ ጉታዮ ቢቴ። ኢንቴ ሄ ጌሊዳ ማላ ሄን ኣሲ ቶጊ ኤሮንታ ቃሾን ዲዛ ሃሬ ጉቴ ኢንቴ ዴማና፤ ቢርሺዲ ኢዛ ሃ ኤኪ ዪቴ። <verse eid="MRK 11:2"/><verse number="3" style="v" sid="MRK 11:3"/>ኦኒካ ኢንቴና፥ ‹ሃይሳ ኣይስ ኦቲ?› ጊኮ ጎዳስ ኮሼስ ጊዲ ዮቲቴ፤ ኢዚካ ኢንቴስ ኤሶን ዛሪ ዬዳና» ጊ ኪቲዴስ።<verse eid="MRK 11:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 11:4"/>ኢስቲካ ቢዲ ኢሲ ኬ ካሬን ኦጌ ቦላ ቃሼቲ ዲዛ ሃሬ ጉቴ ዴሚዲ ቢርሺዳ። <verse eid="MRK 11:4"/><verse number="5" style="v" sid="MRK 11:5"/>ሄን ኤቂዳ ኢሲ ኢሲ ኣሳቲ፥ «ሃሬ ጉቴዛ ኣዛስ ቢርሼቲ?» ጊ ኦይቺዳ።<verse eid="MRK 11:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 11:6"/>ዬሱሳ ካሊዛይቲ ዬሱሲ ኢስታስ ጊዳ ማላ ኣሳታስ ዮቲን ኤሮ ኤኪ ቢቴ ጊዳ። <verse eid="MRK 11:6"/><verse number="7" style="v" sid="MRK 11:7"/>ጉቴዛካ ዬሱሳኮ ኤሂዲ ባ ማይኦ ኢዛ ዞኮ ቦላ ዬጊን ዬሱሲ ኢዛ ቶጊዴስ። <verse eid="MRK 11:7"/><verse number="8" style="v" sid="MRK 11:8"/>ዳሮ ኣሳይ ባ ማይኦ ኬሲ ኬሲ ኦጌ ቦላ ሚጪዴስ። ባጋ ኣሳይ ጪሊላ ሚ ሃይ ቃንጺ ቃንጺዲ ኦጌ ቦላ ላሊዴስ። <verse eid="MRK 11:8"/><verse number="9" style="v" sid="MRK 11:9"/>ዬሱሳፔ ሲንራኔ ጉዬራ ዲዛ ኣሳይ ቃላ ቁ ሂስቲዲ፥</para>
+  <para style="q1" vid="MRK 11:9">«ሆሳኢና፤ ጎዳ ሱንን</para>
+  <para style="q2" vid="MRK 11:9">ዪዛዴይ ኣንጄቲዳዴ።<verse eid="MRK 11:9"/></para>
+  <para style="q1">
+    <verse number="10" style="v" sid="MRK 11:10"/>ሃና ዪዛራ ኑ ኣዋ</para>
+  <para style="q2" vid="MRK 11:10">ዳዊቴ ካዎቴያ</para>
+  <para style="q2" vid="MRK 11:10">ኣንጄቲዳሮ፤</para>
+  <para style="q2" vid="MRK 11:10">ሆሳኢና! ቦላ ሳሎን</para>
+  <para style="q3" vid="MRK 11:10">ጾሲ ቦንቼቶ»</para>
+  <para style="q3" vid="MRK 11:10">ጊሼ ዋሲዴስ።<verse eid="MRK 11:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="MRK 11:11"/>ዬሱሲ ዬሩሳላሜ ጋኪዲ ሄሳፌካ ጾሳ ኬ ጌሊዴስ። ሄ ሄራን ዲዛይሳ ኡባ ጼሊዲ ጋዴይ ቃሚዳ ጊሻስ ታማኔ ናምኣታራ ጌዴ ቢታኒያ ኬዚዴስ።<verse eid="MRK 11:11"/></para>
+  <para style="s">ዬሱሲ ቃንጊዳ ባላሴ ሚዮ</para>
+  <para style="r">(<ref loc="MAT 21:18-19">ማቶ 21፡18-19</ref>)</para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 11:12"/>ዎንቴ ጋላስ ኢስቲ ቢታኒያፔ ኬዚ ቢሺን ዬሱሲ ጋፊዴስ። <verse eid="MRK 11:12"/><verse number="13" style="v" sid="MRK 11:13"/>ኢዚ ኢሲ ሃይ ጪሊሊዳ ባላሴ ጌቴቲዛ ሚ ሃሆን ቤኢዲ ኣይፌይ ዳናኮን ጊዲ ኢዚኮ ዪዴስ። ጊዶ ኣቲን ባላሴ ሚ ኣይፎንታ ዎዴ ጊዲዳ ጊሻስ ሃይፌ ኣቲን ኢሲ ኣይፌካ ኢዚፔ ዴሚቤና። <verse eid="MRK 11:13"/><verse number="14" style="v" sid="MRK 11:14"/>ሄሳ ጊሻስ ሚዮ፥ «ሃኒፌ ጉዬ ሜርናስ ኦኒካ ኔፔ ኣይፌ ሞፖ!» ጊዴስ። ኢዛ ካሊዛይቲካ ኢዚ ጊዛይሳ ሲዪዳ።<verse eid="MRK 11:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="MRK 11:15"/>ጌዴ ዬሩሳላሜ ቢዳ፤ ሄፔካ ጾሳ ኬ ጌሊዲ ሄን ባይዚዛይታኔ ሻሚዛይታ ኬሲ ጎዶ ኦይኪዴስ። ሚሼ ላሚዛይታ ጻራጴዛኔ ሃራጴ ባይዚዛይታ ኦይዴ ጉፋን ጉፋን ዬጊዴስ። <verse eid="MRK 11:15"/><verse number="16" style="v" sid="MRK 11:16"/>ኦኒካ ኣይ ሚሽ ቶኪዲ ጾሳ ኬ ጊቤ ጊዶራ ኣንታ ማላ ዲጊዴስ። <verse eid="MRK 11:16"/><verse number="17" style="v" sid="MRK 11:17"/>ኢስታካ ታማርሲሼ፥ «ታ ኬ ዴሬ ኡባስ ዎሳ ኬ ጊዳና ጌቴቲ ጻፌቲቤኔ? ጊዶ ኣቲን ኢንቴ ካይሶታ ጎንጎሎ ኬሲዴታ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">11፡17 </char><char style="xt" closed="false"><ref loc="ISA 56:7">ኢሳ 56፡7</ref>፤ <ref loc="JER 7:11">ኤር 7፡11</ref></char></note><verse eid="MRK 11:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="MRK 11:18"/>ቄሴታ ሃላቃቲኔ ሙሴ ዎጋ ታማርሲዛይቲ ሄሳ ሲዪዲ ኢዛ ዎስቲ ይሳናኮን ኦጌ ኮሽ ኦይኪዳ። ጊዶ ኣቲን ዴሬይካ ኢዛ ቲሚርቴዛን ማላሌቲዳ ጊሻስ ኢዛስ ባቢዳ።<verse eid="MRK 11:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 11:19"/>ኢስቲካ ጋዴይ ቃሚን ካታማይፔ ኬዚ ቢዳ።<verse eid="MRK 11:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 11:20"/>ዎንቴ ጋላስ ማላዶ ኢስቲ ኦጌራ ኣ ቢሺን ባላሴ ሚያ ጻጶፔ ሜሊዳሮ ቤኢዳ። <verse eid="MRK 11:20"/><verse number="21" style="v" sid="MRK 11:21"/>ዮኦዚ ኢዛ ዎዚናን ኣኬኬቲን ጴጽሮሲ ዬሱሳ፥ «ኣስታማሬ! ሄኮ፥ ሃና ኔ ቃንጊዳ ባላሴያ ሜላዱስ» ጊዴስ።<verse eid="MRK 11:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="MRK 11:22"/>ኢዚካ ዛሪዲ፥ «ጾሳ ኣማኒቴ። <verse eid="MRK 11:22"/><verse number="23" style="v" sid="MRK 11:23"/>ታ ኢንቴስ ቱሙ ጋይስ፤ ‹ኦኒካ ሃይሳ ዙማዛ ኔ ቃሌታዳ ኣባን ጌላ› ጊዛኮ ሄሳካ ዎዚናን ሲንታ ኣማኒዳኮ ኢዛዴስ ሃናና።<note caller="-" style="x"><char style="xo" closed="false">11፡23 </char><char style="xt" closed="false"><ref loc="MAT 17:20">ማቶ 17፡20</ref>፤ <ref loc="1CO 13:2">1ቆሮ 13፡2</ref></char></note> <verse eid="MRK 11:23"/><verse number="24" style="v" sid="MRK 11:24"/>ሄሳ ጊሻስ ኢንቴ ዎሳን ኦይቺዳዝ ኡባ ኤኪዳ ማላ ኣማኒኮ ኢንቴስ ሃናና። <verse eid="MRK 11:24"/><verse number="25" style="v" sid="MRK 11:25"/>ሄሳካ ኢንቴ ዎሳስ ኤቂዛ ዎዴ ኢንቴ ሳሎ ኣዋይ ኢንቴ ናጋራ ኣቶ ጋና ማላ ኢንቴካ ኢንቴና ቆሂዳይታ ናጋራ ኡባ ኣቶ ጊቴ። <verse eid="MRK 11:25"/><verse number="26" style="v" sid="MRK 11:26"/>ኢንቴ ኣቶ ጎንታ ኢጺኮ ኢንቴ ሳሎ ኣዋይካ ኢንቴ ናጋራ ኣቶ ጌና» ጊዴስ።<note caller="+" style="f"><char style="fr" closed="false">11፡26 </char><char style="ft" closed="false">ኢሲ ኢሲ ጌሻ ማጻፋቲ ታይቦ 26 ቦላ ዲዛ ቆፋ ጉጄቴስ።</char></note><note caller="-" style="x"><char style="xo" closed="false">11፡25-26 </char><char style="xt" closed="false"><ref loc="MAT 6:14-15">ማቶ 6፡14-15</ref></char></note><verse eid="MRK 11:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 11:27"/>ቃሴካ ዬሩሳላሜ ዪዳ፤ ዬሱሲ ጾሳ ኬ ካሬ ጊዶን ያኔ ሃ ዩዬቲሺን ቄሴታ ሃላቃቲ፥ ሙሴ ዎጋ ታማርሲዛይቲኔ ዴሬ ጪማቲ ኢዛኮ ሺቂዲ፥ <verse eid="MRK 11:27"/><verse number="28" style="v" sid="MRK 11:28"/>«ሃይሳ ኔ ኦዛይ ኣይ ጎዳቴራ? ሃይታ ኔ ኦና ማላ ሃይሳ ማላ ጎዳቴ ኔስ ኦኒ ኢሚዴ?» ጊዳ።<verse eid="MRK 11:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 11:29"/>ዬሱሲካ ኢስታስ ዛሪዲ፥ «ኣኔ ታኒካ ኢንቴና ኢሲ ኦይሾ ኦይቻይስ፤ ኢንቴካ ታስ ዛሪኮ ታኒካ ሃ ዮኦታ ኣይ ጎዳቴራ ኦዛኮ ኢንቴስ ዮታና። <verse eid="MRK 11:29"/><verse number="30" style="v" sid="MRK 11:30"/>ዮሃኒሳ ጺንቃታይ ጾሳፌዬ? ኣሳፔ? ኣኔ ታስ ዛሪቴ» ጊዴስ።<verse eid="MRK 11:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 11:31"/>ኢስቲካ ባ ጊዶን ኢሶይ ኢሳራ፥ «ኑ ሳሎፔ ጊኮ ኢዚ ኑና፥ ‹ሂስቲን ኣዛስ ኢዛ ኣማኒቤኬቲ?› ጋና፤ <verse eid="MRK 11:31"/><verse number="32" style="v" sid="MRK 11:32"/>‹ኑ ኣሳፔ› ጊኮ» ዮሃኒሲ ቱሙ ናቤ ጊዲዳይሳ ዴሬይ ዉሪ ኣማኒዛ ጊሻስ ሄሳ ጋና ባቢዳ።<verse eid="MRK 11:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 11:33"/>ሄሳ ጊሻስ፥ «ኑ ኤሮኮ» ጊዲ ዬሱሳስ ዛሪዳ። ዬሱሲካ፥ «ሂስቲኮ ታ ሃይታ ኣዛ ጎዳቴራ ኦዛኮ ታኒካ ኢንቴስ ዮቲኬ» ጊዴስ።<verse eid="MRK 11:33"/></para>
+  <chapter eid="MRK 11"/>
+  <chapter number="12" style="c" sid="MRK 12"/>
+  <para style="s">ዎይኔ ሚ ቶኪዛ ጎሻ ኣሳታ ሌሚሶ</para>
+  <para style="r">(<ref loc="MAT 21:33-46">ማቶ 21፡33-46</ref>፤ <ref loc="LUK 20:9-19">ሉቃ 20፡9-19</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 12:1"/>ቃሴ ኢስታስ ሌሚሶራ ዮቲሼ፥ «ኢሳዴይ ባ ዎይኔ ሚ ቶኪዴስ። ኬላ ዩሺ ኣ ኬሊዴስ፤ ዎይኔ ሚ ኣይፌ ጉምኣና ኦላ ቦኪዴስ። ናጌ ኬካ ኬጺዴስ። ሄሳፌ ጎሻንቻታስ ኪራ ኢሚዲ ሃራ ዴሬ ቢዴስ። <verse eid="MRK 12:1"/><verse number="2" style="v" sid="MRK 12:2"/>ሚይ ኣይፊዛ ዎዴ ዎይኔ ሚ ኣይፌ ኤካዳ ያ ጊዲ ኣሽካራታፔ ኢሳዴ ጎሻንቻታኮ ዬዲዴስ።<figure style="fig" alt="Woman with child bringing grapes to wine press" file="LB00103B.TIF" size="col" ref="12፡2">ማጫሲ ባ ናራ ዎይኔ ጉምኢዛሶሆ ዎይኔ ኣይፌ ኤሂሺን</figure> <verse eid="MRK 12:2"/><verse number="3" style="v" sid="MRK 12:3"/>ጎሻንቻቲ ኣሽካራዛ ኦይኪ ሾጪዲ ጮ ሜላ ኩሼ ዬዲዳ። <verse eid="MRK 12:3"/><verse number="4" style="v" sid="MRK 12:4"/>ናምኣንካ ሃራ ኣሽካራ ዬዲዴስ። ጎሻንቻቲ ሃኢካ ኣሽካራ ኦይኪዲ ኢዛስ ሁኤታራ ቆኢዲኔ ካዉሺዲ ዛሪ ዬዲዳ። <verse eid="MRK 12:4"/><verse number="5" style="v" sid="MRK 12:5"/>ሃኢካ ዛሪዲ ሃራ ኣሽካራ ዬዲዴስ። ሄ ዬዶይሳካ ዎዳ፤ ሃራ ዳሮታ ጊዶፌ ኢሲ ኢሲ ኣሳታ ቆጺዳ፤ ባጋይታ ዎዳ።<verse eid="MRK 12:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 12:6"/>«ሃኢካ ኪቴቶንታ ኣቲዳ ሃራይ ዴስ፤ ኢዚካ ኣዋይ ዶሲዛ ባ ናዛ። ‹ታ ናዛ ኢስቲ ቦሳና› ጊ ቆፒዲ ዉርሴን ባ ናዛ ዬዲዴስ። <verse eid="MRK 12:6"/><verse number="7" style="v" sid="MRK 12:7"/>ጎሻንቻቲ ቃሴ ባ ጊዶን፥ ‹ሃይሲ ዋና ኢዛ ላታና ናዛ፤ ሃ ዪቴ ኑ ኢዛ ዎኮ ቢታይ ኑስ ጊዳና› ጊዳ። <verse eid="MRK 12:7"/><verse number="8" style="v" sid="MRK 12:8"/>ሄሳ ጊሻስ ሄን ኦይኪ ዎዲ ዎይኔ ሚይ ዲዛሶፔ ሃራሶ ኬሲ ዬጊዳ።<verse eid="MRK 12:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 12:9"/>«ሂስቲን ዎይኔ ሚ ጎዳይ ኣይ ኦና ኢንቴስ ሚሳቲዜ? ኢዚ ያና፤ ጎሻንቻታካ ዎና፤ ዎይኔ ሚ ሃራታስ ኢማና። <verse eid="MRK 12:9"/><verse number="10-11" style="v" sid="MRK 12:10-11"/>ጌሻ ማጻፋን፥</para>
+  <para style="q2" vid="MRK 12:10-11">‹ሹቻ ኬ ኬጺዛይቲ</para>
+  <para style="q2" vid="MRK 12:10-11">ሃኔና ጊዲ</para>
+  <para style="q2" vid="MRK 12:10-11">ዎራ ዬጊዳ ሹቻይ</para>
+  <para style="q3" vid="MRK 12:10-11">ኬ ጉላስ ቦላ ሁኤ ጊዲዴስ፤</para>
+  <para style="q2" vid="MRK 12:10-11">ሄሳካ ጎዳይ ኦዴስ።</para>
+  <para style="q2" vid="MRK 12:10-11">ሄሲካ ኑ ኣይፌስ ማላሊሲዛዝ</para>
+  <para style="q3" vid="MRK 12:10-11">ጌቴቲዲ ጻፌቲዳይሳ</para>
+  <para style="q3" vid="MRK 12:10-11">ናባቢቤኬቲ?› » ጊዴስ።<note caller="+" style="f"><char style="fr" closed="false">12፡10-11 </char><char style="ft" closed="false">ዮቻ ሹቻይ፥ ቱሲ ኬ ናጊዛይሳ ማላ ሹቻ ኬ ኩንዶንታ ማላ ናጊዛይሳ።</char></note><note caller="-" style="x"><char style="xo" closed="false">12፡10-11 </char><char style="xt" closed="false"><ref loc="PSA 118:22-23">ማዛ 118፡22-23</ref></char></note><verse eid="MRK 12:10-11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 12:12"/>ኢዚ ኢስታስ ሌሚሶዛ ዮቲዳይ ኢስታ ጊሻስ ጊዲዳይሳ ኣይሁዳ ሃላቃቲ ኤሪዳ ጊሻስ ኢዛ ኦይካናስ ኮዪዳ፤ ጊዶ ኣቲን ኣሳስ ባቢዳ ጊሻስ ኣጊ ቢዳ።<verse eid="MRK 12:12"/></para>
+  <para style="s">ጊራ ጊሻስ ሺቂዳ ኦይሾ</para>
+  <para style="r">(<ref loc="MAT 22:15-22">ማቶ 22፡15-22</ref>፤ <ref loc="LUK 20:20-26">ሉቃ 20፡20-26</ref>)</para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 12:13"/>ዬሱሳ ዮኦን ቃጻና ማላ ፋርሳዌታፔኔ ሄርዶሳ ባጋታፔ ጉ ኣሳታ ዶሪዲ ኢዛኮ ዬዲዳ። <verse eid="MRK 12:13"/><verse number="14" style="v" sid="MRK 12:14"/>ኢስቲካ ኢዛኮ ዪዲ፥ «ኣስታማሬ! ኔኒ ሞሮይ ባይንዳ ኣስ ጊዲዳይሳ ኑ ኤሮስ፤ ኔ ኦናስካ ባባዳ ዎርዶ ማዳካ፤ ጾሳ ኦጌ ጻላላ ቱሙ ታማርሳሳ። ኦሮሜ ካዎ ቄሳሬስ ጊራ ቃንጻናስ ቤሲዜዬ? ቤሴኔ? ኑ ቃንጺኖዬ? ቃንጾፊኖ?»<verse eid="MRK 12:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="MRK 12:15"/>ዬሱሲ ኢስታ ኦይሻይ ቆፔ ቆሞ ጊዲዳይሳ ኤሪዲ፥ «ኣዛስ ታና ቃጻና ኮዬቲ? ኣኔ ኢሲ ዲናሬ ሃሚቴ ታ ቤያይስ» ጊዴስ።<verse eid="MRK 12:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 12:16"/>ኢስቲካ ሚሻ ኤሂን፥ «ሃይሲ ኢዛ ቦላ ዲዛ ሚስሌዚ ኦና ሚስሌ? ኢዛ ቦላ ጻፌቲዳይሲ ኦና ጊዜ?» ጊዴስ። ኢስቲካ፥ «ቄሳሬይሳ» ጊዳ። <verse eid="MRK 12:16"/><verse number="17" style="v" sid="MRK 12:17"/>ዬሱሲካ፥ «ቄሳሬይሳ ቄሳሬስ፥ ጾሳይሳ ጾሳስ ኢሚቴ» ጊዴስ። ኢስቲካ ኢዛ ዛሮን ማላሌቲዳ።<verse eid="MRK 12:17"/></para>
+  <para style="s">ሃይቆፔ ዴን ጊሻስ ሺቂዳ ኦይሾ</para>
+  <para style="r">(<ref loc="MAT 22:23-33">ማቶ 22፡23-33</ref>፤ <ref loc="LUK 20:27-40">ሉቃ 20፡27-40</ref>)</para>
+  <para style="p">
+    <verse number="18" style="v" sid="MRK 12:18"/>ሄሳፌ ጉዬ ሃይቂዳይታስ ሃይቆፔ ዴን ባ ጊዛ ሳዱቃዌቲ ኢዛኮ ዪዲ ኢዛ ሂዝጊ ኦይቺዳ።<note caller="-" style="x"><char style="xo" closed="false">12፡18 </char><char style="xt" closed="false"><ref loc="ACT 23:8">ሃዋ 23፡8</ref></char></note> <verse eid="MRK 12:18"/><verse number="19" style="v" sid="MRK 12:19"/>«ኣስታማሬ! ኢሲ ኣሲ ማቾ ኤኪዲ ና ዬሎንታ ሃይቂኮ ሃይቂዳይሳ ኢሻይ ኢዛ ማቼዮ ኤኪዲ ኢዛስ ላታ ና ዬላና ማላ ካሴ ሙሴይ ኑስ ጻፊዴስ።<note caller="-" style="x"><char style="xo" closed="false">12፡19 </char><char style="xt" closed="false"><ref loc="DEU 25:5">ዛሬ 25፡5</ref></char></note> <verse eid="MRK 12:19"/><verse number="20" style="v" sid="MRK 12:20"/>ጊዶ ኣቲን ላፑን ኢሻንቲ ዴቴስ፤ ኢስታፌ ባይራይ ማቾ ኤኪዲ ና ዬሎንታ ሃይቂዴስ። <verse eid="MRK 12:20"/><verse number="21" style="v" sid="MRK 12:21"/>ካሎዚ ሄ ማጫሳዮ ኤኪዲ ሃኢካ ና ዬሎንታ ሃይቂዴስ፤ ሄንይካ ዬሎንታ ሃይቂዴስ። <verse eid="MRK 12:21"/><verse number="22" style="v" sid="MRK 12:22"/>ላፑናቲካ ሄ ማጫሳዮ ኤኪዲ ላታ ዬሊቤቴና፤ ዉርሴን ማጫሳያካ ሃይቃዱስ። <verse eid="MRK 12:22"/><verse number="23" style="v" sid="MRK 12:23"/>ሂስቲን ላፑናቲካ ኢዞ ኤኪዳሺን ሃይቆፔ ዴንዶይ ዲዛ ጊዲኮ ሃ ማጫሳያ ኢስታፌ ኦና ማቾ ጊዳኔ?» ጊዳ።<verse eid="MRK 12:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 12:24"/>ዬሱሲካ ኢስታስ፥ «ኢንቴ ባሌቲዛይ ጌሻ ማጻፋታኔ ጾሳ ዎልቃ ኤሮንታ ጊሻሳ። <verse eid="MRK 12:24"/><verse number="25" style="v" sid="MRK 12:25"/>ሃይቂዳይቲ ዴንዲዛ ዎዴ ሳሎ ኪታንቻታ ማላ ጊዳና ኣቲን ኤኬቴቴናኔ ጌሌቴና። <verse eid="MRK 12:25"/><verse number="26" style="v" sid="MRK 12:26"/>ሃይቂዳይታ ዴን ጊሻስ ጊዲኮ ሙሴ ማጻፋን ሄሲካ ቄሪ ዎራ ጊዶን ኤጺዛ ታማ ጊዶፌ ጾሲ፥ ‹ታኒ ኣብራሃሜ ጾሳ፤ ዪሳቃ ጾሳ፤ ያቆቤ ጾሳ› ጊዛይሳ ናባቢቤኬቲ?<note caller="-" style="x"><char style="xo" closed="false">12፡26 </char><char style="xt" closed="false"><ref loc="EXO 3:6">ኬሳ 3፡6</ref></char></note> <verse eid="MRK 12:26"/><verse number="27" style="v" sid="MRK 12:27"/>ጾሲ ፓጻታ ጾሳ ኣቲን ሃይቄታ ጾስ ጊዴና፤ ሄሳ ጊሻስ ኢንቴ ዳሮ ባሌቲዴታ» ጊዴስ።<verse eid="MRK 12:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 12:28"/>ኢስቲ ፓላማን ዲሺን ጻፌታፔ ኢሳዴይ ኢስታ ፓላማ ሲዪዲኔ ዬሱሲ ኦይሼቲዳይሳስ ሎኤ ዛሪዳይሳ ኣኬኪዲ፥ «ኤሮ! ኣዛዞታ ኡባፌ ኣዛይ ኣዋይሴ?» ጊዲ ኦይቺዴስ።<verse eid="MRK 12:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 12:29"/>ዬሱሲ ኢዛስ፥ «ኡባፌ ኣዛይ ሃይሳ፥ ‹ኢስራኤሌ ሲያ! ጎዳ ኑ ጾሲ ኢሲ ጎዳ፥ <verse eid="MRK 12:29"/><verse number="30" style="v" sid="MRK 12:30"/>ኔካ ጎዳ ኔ ጾሳ ኔ ኩሜ ዎዚናፔ፥ ኔ ኩሜ ሼምፖፌ፥ ኔ ኩሜ ቆፋፔ፥ ኔ ኩሜ ዎልቃፌ ዶሳ።› <verse eid="MRK 12:30"/><verse number="31" style="v" sid="MRK 12:31"/>ናምኣንይካ፥ ‹ኔ ላጌ ኔ ሁኤ ማላ ዶሳ› ሃ ናምኣታፔ ኣዛ ኣዛዞይ ባ።»<note caller="-" style="x"><char style="xo" closed="false">12፡31 </char><char style="xt" closed="false"><ref loc="LEV 19:18">ሌዌ 19፡18</ref></char></note> <verse eid="MRK 12:31"/><verse number="32" style="v" sid="MRK 12:32"/>ጻፌዚካ፥ «ኣስታማሬ! ሎኦ ጋዳሳ፥ ‹ጾሲ ኢሲኖ ጊዲዳይሳኔ ኢዛፔ ሃራይ ባይንዳይሳ› ኔ ዮቲዳይሲ ሊኬ።<note caller="-" style="x"><char style="xo" closed="false">12፡32 </char><char style="xt" closed="false"><ref loc="DEU 4:35">ዛሬ 4፡35</ref></char></note> <verse eid="MRK 12:32"/><verse number="33" style="v" sid="MRK 12:33"/>ኢዛ ኔ ኩሜ ዎዚናፔ ኔ ኩሜ ቆፋፔ ኔ ኩሜ ዎልቃፌ ዶሶይ ቃሴካ ኔ ላጌ ኔ ሁኤ ማላ ዶሶይ ጹጌቲዛ ያርሾፌኔ ሃራ ያርሾ ኡባፌ ኣስ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">12፡33 </char><char style="xt" closed="false"><ref loc="HOS 6:6">ሆሴ 6፡6</ref></char></note> <verse eid="MRK 12:33"/><verse number="34" style="v" sid="MRK 12:34"/>ዬሱሲካ ኣዴዚ ዩሺ ቆፒዲ ዛሪዳይሳ ቤኢዲ፥ «ኔኒ ጾሳ ካዎቴፌ ሃሆን ዳካ» ጊዴስ። ሄሳፌ ጉዬ ኢዛ ኦይቻናስ ጻሊዳዴይ ቤቲቤና።<note caller="-" style="x"><char style="xo" closed="false">12፡28-34 </char><char style="xt" closed="false"><ref loc="LUK 10:25-28">ሉቃ 10፡25-28</ref></char></note><verse eid="MRK 12:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 12:35"/>ዬሱሲ ጾሳ ኬ ጋን ታማርሲሼ፥ «ሙሴ ዎጋ ታማርሲዛይቲ ኣዛስ፥ ‹ኪርስቶሳ ዳዊቴ ና› ጊዞ? <verse eid="MRK 12:35"/><verse number="36" style="v" sid="MRK 12:36"/>ዳዊቲ ጺሎ ኣያናን ሃሳይሼ፥ ‹ጎዳይ ታ ጎዳ፥ ኔ ሞርኬታ ታ ኔ ቶሆ ጋርስ ኣና ጋካናስ ታ ኡሻቻን ኡታ› ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">12፡36 </char><char style="xt" closed="false"><ref loc="PSA 110:1">ማዛ 110፡1</ref></char></note> <verse eid="MRK 12:36"/><verse number="37" style="v" sid="MRK 12:37"/>ሂስቲን ዳዊቲ ባ ዶናራ ኢዛ፥ ‹ጎዳ› ጊኮ ዋኒዲ ሲሚ ኢዛስ ና ጊዳኔ?» ጊዴስ። ዳሮ ዴሬይካ ኢዚ ጊዛይሳ ኡፋይሳራ ሲዪዴስ።<verse eid="MRK 12:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 12:38"/>ኢዚ ታማርሲሼ፥ «ሙሴ ዎጋ ታማርሲዛይታፔ ናጌቲቴ፥ ጋዴራ ጎሼቲዛ ኣዱሳ ማይኦ ማይኢዲ ዩሼ ዩያና ዶሴቴስ፤ ኣዋንካ ኣ ኣ ኣሲ ኢስታስ ቦንቾ ሳሮታ ኢማና ማላ ኮዬቴስ። <verse eid="MRK 12:38"/><verse number="39" style="v" sid="MRK 12:39"/>ኣይሁዳታ ዎሳ ኬን ቃሶ፥ ጊቢራሶንካ ቦንቾሶ ኮዬቴስ። <verse eid="MRK 12:39"/><verse number="40" style="v" sid="MRK 12:40"/>ኢስቲ ኣዚናይ ባይንዳ ማጫሳ ኬ ካሎሴቴስ፤ ቃሴካ ባና ቤሳናስ ኣዱሳ ዎሳ ዎሴቴስ። ሃይታንቲ ኢታ ፒርዳ ፒርዴታና» ጊዴስ።<verse eid="MRK 12:40"/></para>
+  <para style="s">ኣምኤይ ሙጹዋታ</para>
+  <para style="r">(<ref loc="LUK 21:1-4">ሉቃ 21፡1-4</ref>)</para>
+  <para style="p">
+    <verse number="41" style="v" sid="MRK 12:41"/>ዬሱሲካ ኣሳይ ሙጹዋታ ዬጊዛሶን ኡቲዲ ዳሮ ኣሳቲ ኢሚዛይሳ ጾሳ ኬ ሚሻ ሺሺዛ ሳጺኔን ዬጊዛይሳ ጼሊዴስ። ዳሮ ዱሬቲ ዳሮ ሚሽ ዬጊዳ። <verse eid="MRK 12:41"/><verse number="42" style="v" sid="MRK 12:42"/>ኢሲ ኣዚናይ ባይንዳ ኣምኤ ዲዛራ ኢሲ ሲኪናፌ ዳሮንታ ጻርቂማላ ቢራታፔ ኦሴቲዳ ናምኡ ሚሽ ዬጋዱስ። <verse eid="MRK 12:42"/><verse number="43" style="v" sid="MRK 12:43"/>ዬሱሲ ባና ካሊዛይታ ጼይጊዲ፥ «ታ ኢንቴስ ቱሙ ጋይስ፤ ሳጺኔዛን ዬጊዳ ኡባፌ ሃና ማንቆ ኣምኤያ ኣ ዬጋዱስ። <verse eid="MRK 12:43"/><verse number="44" style="v" sid="MRK 12:44"/>ሃይቲ ዉሪ ባስ ዲዛ ቲርፓ ሚሻፌ ዬጊዳሺን ሃና ቃሴ ባ ማንቆቴፌ ባስ ዲዛይሳ ሲንፌ ኢዞ ኮሺዛይሳራ ዉርሳ ኢማዱስ» ጊዴስ።<verse eid="MRK 12:44"/></para>
+  <chapter eid="MRK 12"/>
+  <chapter number="13" style="c" sid="MRK 13"/>
+  <para style="s">ዬሱሲ ካሴቲ ዮቲዳ ጾሳ ኬ ላሌቴ</para>
+  <para style="r">(<ref loc="MAT 24:1-2">ማቶ 24፡1-2</ref>፤ <ref loc="LUK 21:5-6">ሉቃ 21፡5-6</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 13:1"/>ኢዚ ጾሳ ኬፌ ኬዚሺን ኢዛ ካሊዛይታፔ ኢሶይ፥ «ኣስታማሬ! ሃይሲ ኬይኔ ኬይ ኬጼቲዳ ሹቻይ ኣይ ማላ ሎኢዛኮ ሃይሳ ቤያይ?» ጊዴስ። <verse eid="MRK 13:1"/><verse number="2" style="v" sid="MRK 13:2"/>ዬሱሲካ ዛሪዲ፥ «ሃይታ ጊታ ኬታ ጼላይ? ሹቻቲ ኢሶይ ኢሳ ቦላ ዲዛ ማላ ዴቴና፤ ዉሪካ ላሌታና» ጊዴስ።<verse eid="MRK 13:2"/></para>
+  <para style="s">ዎዴ ዉርሴ ማላታታ</para>
+  <para style="r">(<ref loc="MAT 24:3-14">ማቶ 24፡3-14</ref>፤ <ref loc="LUK 21:7-19">ሉቃ 21፡7-19</ref>)</para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 13:3"/>ዬሱሲ ጾሳ ኬ ጊናራ ዳብራዛይቴ ዙማ ቦላ ኡቲ ዲሺን ጴጽሮሲ፥ ያቆቤይ፥ ዮሃኒሲኔ ኢንዲራሲ ጻላ ኢዛኮ ሺቂዲ፥ <verse eid="MRK 13:3"/><verse number="4" style="v" sid="MRK 13:4"/>«ሃይሲ ኣይዴ ሃናናኮ ኑስ ዮታ። ሃይሲ ዉርሴን ፖሌታናስ ማላታይ ኣዜ?» ጊ ኦይቺዳ።<verse eid="MRK 13:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 13:5"/>ዬሱሲካ ኢስታስ፥ «ኦኒካ ኢንቴና ባሌንታ ማላ ናጌቲቴ። <verse eid="MRK 13:5"/><verse number="6" style="v" sid="MRK 13:6"/>ቡሮ ዳሮቲ፥ ‹ታ ኪርስቶሳ› ጊሼ ታ ሱንን ያና፤ ዳሮታካ ባሌና። <verse eid="MRK 13:6"/><verse number="7" style="v" sid="MRK 13:7"/>ኢንቴ ኦላኔ ኦላ ዎሬ ሲዪዛ ዎዴ ዳጋሞፍቴ፤ ሄሲ ሃናናይሲ ኣቴና፤ ዉርሴ ጊዲኮ ቡሮና። <verse eid="MRK 13:7"/><verse number="8" style="v" sid="MRK 13:8"/>ዴሬይ ዴሬ ቦላ፥ ካዎይ ካዎ ቦላ ዴንዳና፥ ዳሮሶን ቢታ ቃኔ ኮሻይ ሃናና፤ ሄይቲ ዉሪ ሚጻስ ሌሶ ማላ።<verse eid="MRK 13:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 13:9"/>«ኢንቴ ኢንቴስ ናጌቲቴ። ቡሮ ኢንቴና ዴሬ ዱላታን ኣ ኢማና። ኢስቲ ኢንቴና ኣይሁዳታ ዎሳ ኬን ጋራፋና። ኢንቴ ታ ማርካታ ጊዳና ማላ ታ ጊሻስ ዴሬ ዳናታ ሲንኒኔ ካዎታ ሲንን ኤቃና። <verse eid="MRK 13:9"/><verse number="10" style="v" sid="MRK 13:10"/>ኮይሮቲዲ ሚሺራቾ ቃላይ ዴሬ ኡባስ ሳባኬታና ቤሴስ። <verse eid="MRK 13:10"/><verse number="11" style="v" sid="MRK 13:11"/>ኢንቴ ኦይኬቲዲ ፒርዳስ ሺቂዛ ዎዴ ሂኖ ሄ ሳቴዪን ኢንቴስ ኢሜቲዛሮ ሃሳይቴ ኣቲን ቢዲ፥ ‹ኑ ኣይ ጊኖ?› ጊዲ ካሴቲ ሂርጎፍቴ፤ ሃሳያናይ ጺሎ ኣያናፔ ኣቲን ኢንቴና ጊዴኬታ።<note caller="-" style="x"><char style="xo" closed="false">13፡9-11 </char><char style="xt" closed="false"><ref loc="MAT 10:17-20">ማቶ 10፡17-20</ref></char></note><verse eid="MRK 13:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 13:12"/>«ኢሻይ ኢሻ፥ ኣዋይ ባ ና ሃይቆስ ኣ ኢማና፤ ናይቲ ባና ዬሊዳይታ ቦላ ማካላናኔ ዎና። <verse eid="MRK 13:12"/><verse number="13" style="v" sid="MRK 13:13"/>ታ ጋሶን ኢንቴ ኣሳ ኡባን ኢጼቲዳይታ ጊዳና፤ ዉርሴ ጋካናስ ሚኒ ኤቂዳዴይ ጊዲኮ ኣታና።<note caller="-" style="x"><char style="xo" closed="false">13፡13 </char><char style="xt" closed="false"><ref loc="MAT 10:22">ማቶ 10፡22</ref></char></note><verse eid="MRK 13:13"/></para>
+  <para style="s">ዬሩሳላሜ ቦላ ጋካና ጊታ ሜቶ</para>
+  <para style="r">(<ref loc="MAT 24:15-21">ማቶ 24፡15-21</ref>፤ <ref loc="LUK 21:20-24">ሉቃ 21፡20-24</ref>)</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 13:14"/>«ኢንቴ ሃራሲዛ ቱናቴ ኢዛስ ቤሶንታሶን ኤቂዳሼ ቤይኮ ናባቢዛዴይ ዎዚናን ዎ፤ ዩሁዳን ዲዛይቲ ፑዴ ዙማ ቦላ ባቃቴቶ።<note caller="-" style="x"><char style="xo" closed="false">13፡14 </char><char style="xt" closed="false"><ref loc="DAN 9:27">ዳኔ 9፡27</ref>፤ <ref loc="DAN 11:31">11፡31</ref>፤ <ref loc="DAN 12:11">12፡11</ref></char></note> <verse eid="MRK 13:14"/><verse number="15" style="v" sid="MRK 13:15"/>ኬ ካሬን ዲዛዴይ ሶ ጌሎፖ፤ ባ ሚሽ ኬሳና ጊዲ ኬ ጌሎፖ። <verse eid="MRK 13:15"/><verse number="16" style="v" sid="MRK 13:16"/>ጎሻሶን ዲዛዴይ ባ ማይኦ ኤካናስ ጉዬ ሲሞፎ።<note caller="-" style="x"><char style="xo" closed="false">13፡15-16 </char><char style="xt" closed="false"><ref loc="LUK 17:31">ሉቃ 17፡31</ref></char></note> <verse eid="MRK 13:16"/><verse number="17" style="v" sid="MRK 13:17"/>ሄ ጋላሳታን ሻራ ማጫሳታሲኔ ና ንዛይታስ ኣዬ ኣና! <verse eid="MRK 13:17"/><verse number="18" style="v" sid="MRK 13:18"/>ሄሲካ ባልጎን ጊዶንታ ማላ ጾስ ዎሲቴ። <verse eid="MRK 13:18"/><verse number="19" style="v" sid="MRK 13:19"/>ጾሲ ኮይሮ ሜቴ ኡባ ሜሶፌ ሃኢ ጋካናስ ዎይኮ ሃይሳፌ ጉዬ ኢዛ ሚሳቲዛይ ባይንዳ ጊታ ሜቶይ ሃናና።<note caller="-" style="x"><char style="xo" closed="false">13፡19 </char><char style="xt" closed="false"><ref loc="DAN 12:1">ዳኔ 12፡1</ref>፤ <ref loc="REV 7:14">ኣጁ 7፡14</ref></char></note> <verse eid="MRK 13:19"/><verse number="20" style="v" sid="MRK 13:20"/>ጎዳይ ሄ ጋላሳታ ቃንንታኮ ኦኒካ ኣቴና ሺን ባስ ዶሬቲዳይታ ጊሻስ ኢዚ ሄ ጋላሳታ ቃንዴስ።<verse eid="MRK 13:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 13:21"/>«ሄ ዎዴ ኦኒካ፥ ‹ሄኮ ኪርስቶሲ ሃይሳን ዴስ› ጊኮ ዎይኮ፥ ‹ሄኮ ሄን ዴስ› ጊኮ ኣማኖፒቴ። <verse eid="MRK 13:21"/><verse number="22" style="v" sid="MRK 13:22"/>ዎርዶ ኪርስቶሳቲኔ ዎርዶ ናቤቲ ቡሮ ዴንዲዲ ማላታታኔ ካሴ ሃኒ ኤሮንታ ፓላ ሚሽ ኦና፤ ኢስታስ ዳንዳዬቲኮ ሃራይ ኣቶሺን ዶሬቲዳይታካ ባሌና። <verse eid="MRK 13:22"/><verse number="23" style="v" sid="MRK 13:23"/>ሄሳ ጊሻስ ናጌቲቴ፤ ሄ ዎዴይ ጋኮንታ ዲሺን ሃራ ሃይሳ ዉርሳ ታ ኢንቴስ ዮታዲስ።<verse eid="MRK 13:23"/></para>
+  <para style="s">ኪርስቶሳስ ናምኣን ዩስ</para>
+  <para style="r">(<ref loc="MAT 24:29-31">ማቶ 24፡29-31</ref>፤ <ref loc="LUK 21:25-28">ሉቃ 21፡25-28</ref>)</para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 13:24"/>«ሄ ዎዴ ሄ ሜቶዛፔ ካሊዲ ኣርሼይ ማና፤</para>
+  <para style="q2" vid="MRK 13:24">ኣጊናይካ ፖኢሱኩ።<verse eid="MRK 13:24"/></para>
+  <para style="q1">
+    <verse number="25" style="v" sid="MRK 13:25"/>ጾሊንቴቲ ሳሎፔ ቆቆፌታና፥</para>
+  <para style="q2" vid="MRK 13:25">ሳሎን ዲዛ ዎልቃማቲ ቃጻና።<note caller="-" style="x"><char style="xo" closed="false">13፡25 </char><char style="xt" closed="false"><ref loc="ISA 34:4">ኢሳ 34፡4</ref>፤ <ref loc="REV 6:13">ኣጁ 6፡13</ref>፤ <ref loc="JOL 2:10">ኢዩ 2፡10</ref></char></note><verse eid="MRK 13:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 13:26"/>«ሄ ዎዴ ኣሳ ናይ ጊታ ዎልቃራኔ ቦንቾራ ሳሎ ሻራራ ዪሺን ኣሳይ ኢዛ ቤያና።<note caller="-" style="x"><char style="xo" closed="false">13፡26 </char><char style="xt" closed="false"><ref loc="DAN 7:13">ዳኔ 7፡13</ref>፤ <ref loc="REV 1:7">ኣጁ 1፡7</ref></char></note> <verse eid="MRK 13:26"/><verse number="27" style="v" sid="MRK 13:27"/>ኢዚካ ኪታንቻታ ዬዲዲ ኦይዱ ባጋፌ ቢታ ጋጻፔ ጋጻ ጋካናስ ዲዛ ባስ ዶሬቲዳይታ ሺሻና።<verse eid="MRK 13:27"/></para>
+  <para style="s">ባላሴ ሚይ ሌሚሶ</para>
+  <para style="r">(<ref loc="MAT 24:32-35">ማቶ 24፡32-35</ref>፤ <ref loc="LUK 21:29-33">ሉቃ 21፡29-33</ref>)</para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 13:28"/>«ሌሚሶዛ ባላሴ ሚፌ ታማርቴ። ኡንቁሎይ ጪሊሊዛ ዎዴ ሃይ ኬሲሺን ቦኔይ ማቲዳይሳ ኢንቴ ኤሬታ።<note caller="+" style="f"><char style="fr" closed="false">13፡28 </char><char style="ft" closed="false">ሃይሲ ሃ ቆፋይ ቤሲዛይሲ ኢስታ ዴሬን ዲዛ ሚቲ ኣጪዛይኔ ሃይቲ ጪሊሊዛይ ቦኔ ጊዲዳይሳ ቤሳናሳ።</char></note> <verse eid="MRK 13:28"/><verse number="29" style="v" sid="MRK 13:29"/>ሄሳካ ሃይቲ ታ ጊዳይቲ ፖሌቲሺን ኢንቴ ቤይኮ ዎዴይ ማቲ ዪዲ ፔንጌ ጋኪዳይሳ ኤሪቴ። <verse eid="MRK 13:29"/><verse number="30" style="v" sid="MRK 13:30"/>ታ ኢንቴስ ቱሙ ጋይስ፤ ሃ ዮኦቲ ፖሌታና ጋካናስ ሃይሲ ሃ ዬሌታይ ኣና። <verse eid="MRK 13:30"/><verse number="31" style="v" sid="MRK 13:31"/>ሳሎይኔ ሳኣይ ኣና ሺን ታ ቃላይ ጊዲኮ ኣና።<verse eid="MRK 13:31"/></para>
+  <para style="s">ጎዳይ ያና ጋላሳዮኔ ሳቴዮ ኦኒካ ኤሬና</para>
+  <para style="r">(<ref loc="MAT 24:36-44">ማቶ 24፡36-44</ref>)</para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 13:32"/>«ቃሴ ሄ ጋላሳይ ጊሻስ ዎይኮ ሄ ሳቴይ ጊሻስ ታ ኣዋፔ ኣቲን ሳሎ ኪታንቻታ ጊዲንካ ናዛ ጊዲንካ ኦኒካ ኤሬና። <verse eid="MRK 13:32"/><verse number="33" style="v" sid="MRK 13:33"/>ሄሳ ጊሻስ ዎዴይ ኣይዴኮ ኢንቴ ኤሮንታ ጊሻስ ናጌቲቴ፥ ሚኒቴኔ ዎሲቴ። <verse eid="MRK 13:33"/><verse number="34" style="v" sid="MRK 13:34"/>ሄሲካ ባ ኬ ኣሽካራታስ ኣጊዲ ኣሽካራታ ኢሳ ኢሳ ኦሶ ኦይዲ ፔንጌ ናጊዛይሲ ቤጊዲ ናጋና ማላ ኣዛዚዲ ቢዳ ኣሳ ሚሳቴስ።<note caller="-" style="x"><char style="xo" closed="false">13፡34 </char><char style="xt" closed="false"><ref loc="LUK 12:36-38">ሉቃ 12፡36-38</ref></char></note><verse eid="MRK 13:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 13:35"/>«ሂስቲኮ ኬ ኣዋይ ኣይዴ ያናኮ ዎይኮ ሌላ ጊዶ ያናኮ ዎይኮ ኮይሮ ኩቶይ ባቂሺን ያናኮ ዎይኮ ዎንታ ቦላ ባዞይ ዞኢሺን ያናኮ ኢንቴ ኤሮንታ ጊሻስ ቤጊዲ ናጊቴ። <verse eid="MRK 13:35"/><verse number="36" style="v" sid="MRK 13:36"/>ኢንቴ ቆፖንታ ዲሺን ኢዚ ዪዲ ኢንቴ ስኪዲሺን ኢንቴና ዴሞፎ።<verse eid="MRK 13:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="MRK 13:37"/>«ታ ኢንቴስ ዮቲዛይሳ ኣስ ኡባስ ዮታይስ፤ ሚኒዲ ናጊቴ! ጋይስ» ጊዴስ።<verse eid="MRK 13:37"/></para>
+  <chapter eid="MRK 13"/>
+  <chapter number="14" style="c" sid="MRK 14"/>
+  <para style="s">ዬሱሳ ዎናስ ኣሳ ማቄቴ</para>
+  <para style="r">(<ref loc="MAT 26:1-5">ማቶ 26፡1-5</ref>፤ <ref loc="LUK 22:1-2">ሉቃ 22፡1-2</ref>፤ <ref loc="JHN 11:45-53">ዮሃ 11፡45-53</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 14:1"/>ፓዚጋኔ ኡኬ ሙሳ ባኣሌ ጋላሳይ ቦንቼታናስ ናምኡ ጋላሲ ኣቲሺን ቄሴታ ሃላቃቲኔ ሙሴ ዎጋ ታማርሲዛይቲ ዬሱሳ ባሌ ኦይኪዲ ዎና ኦጌ ኮዪዳ።<note caller="-" style="x"><char style="xo" closed="false">14፡1 </char><char style="xt" closed="false"><ref loc="EXO 12:1-27">ኬሳ 12፡1-27</ref></char></note> <verse eid="MRK 14:1"/><verse number="2" style="v" sid="MRK 14:2"/>ጊዶ ኣቲን፥ «ኣሳይ ሜቶ ሜንታ ማላ ባኣሌ ጋላሳታን ጊዶፖ» ጊዳ።<verse eid="MRK 14:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 14:3"/>ኢዚ ቢታኒያ ጌቴቲዛሶን ኢሲ ኢንቺራቻ ሃርጋንቻ ጊዲዳ ሲሞናሶን ቁማ ቦላ ዲሺን ዋጋይ ዳሮ ኣልኦ ጊዲዳ ናርዶሴ ጌቴቲዛ ሺቶይ ኩሚ ኡቲዳ ኣልባስጺሮሴ ቢልቃጼ ኦይኪዳ ኢሲ ማጫሳያ ቢልቃጼዛ ሜንዳ ሺቶዛ ዬሱሳ ሁኤ ቦላ ጉሳዱስ።<note caller="-" style="x"><char style="xo" closed="false">14፡3 </char><char style="xt" closed="false"><ref loc="LUK 7:37-38">ሉቃ 7፡37-38</ref></char></note> <figure style="fig" alt="Alabaster jars" file="HK00142B.TIF" size="col" ref="14፡3">ኣልባስጺሮሴ ቢልቃጼታ</figure><verse eid="MRK 14:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 14:4"/>ሄን ዲዛ ኣሳታፔ ኢሲ ኢሲ ኣሳቲ፥ «ሃይሲ ሺቶዚ ኣዛስ ዎጋይ ባይንዳ ጉኪዜ?» ጊዲ ባ ጊዶን ሃንቄቲዳ። <verse eid="MRK 14:4"/><verse number="5" style="v" sid="MRK 14:5"/>«ሺቶዚ ባይዜቲዳኮ ሄ ጼቱ ዲናሬፔ ቦላራ ባይዜቲዲ ማንቆታስ ኢሜቴኔሺን!» ጊዲ ማጫሳዮካ ካዳ።<note caller="+" style="f"><char style="fr" closed="false">14፡5 </char><char style="ft" closed="false">ሄ ጼቱ ዲናሬ ጉሲ ቤኒ ዎዴ ኣሳስ ላይ ዳሞዛ።</char></note><verse eid="MRK 14:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 14:6"/>ጊዶ ኣቲን ዬሱሲ ኢስታስ፥ «ኣጊቴ! ሃኖ ማጫሳዮ ኣዛስ ዋዪሴቲ? ኢዛ ታስ ሎኦ ሚሽ ኦዱስ። <verse eid="MRK 14:6"/><verse number="7" style="v" sid="MRK 14:7"/>ማንቆቲ ኣይ ዎዴካ ኢንቴናራ ዴቴስ። ኢንቴ ኮዪዳ ዎዴ ኣይዴካ ኢስታ ማዳናስ ዳንዳዬታ፤ ታ ጊዲኮ ኡባ ዎዴ ኢንቴናራ ዲኬ።<note caller="-" style="x"><char style="xo" closed="false">14፡7 </char><char style="xt" closed="false"><ref loc="DEU 15:11">ዛሬ 15፡11</ref></char></note> <verse eid="MRK 14:7"/><verse number="8" style="v" sid="MRK 14:8"/>ሃና ባ ኦናስ ዳንዳይዛሪ ኬና ኦዱስ። ታስ ሞጎስ ጊዳና ማላ ታ ኣሾ ካሴታ ቲያዱስ። <verse eid="MRK 14:8"/><verse number="9" style="v" sid="MRK 14:9"/>ታ ኢንቴስ ቱሙ ጋይስ፤ ሃይሲ ሚሺራቾ ቃላይ ኣላሜ ኩሜን ሳባኬቲዛሶን ኣዋንካ ኢዛ ኦዳይሲ ኢዞ ሃሳኢሲዛዝ ጊዲዲ ሃሳዬታና» ጊዴስ።<verse eid="MRK 14:9"/></para>
+  <para style="s">ዬሱሳ ኣ ኢማናስ ዩሁዳ ጊጌቴ</para>
+  <para style="r">(<ref loc="MAT 26:14-16">ማቶ 26፡14-16</ref>፤ <ref loc="LUK 22:3-6">ሉቃ 22፡3-6</ref>)</para>
+  <para style="p">
+    <verse number="10" style="v" sid="MRK 14:10"/>ሄሳፌ ጉዬ ታማኔ ናምኣታፔ ኢሶይ ኣስቆሮንቶ ዩሁዳይ ዬሱሳ ኣ ኢማናስ ቄሴታ ሃላቃታኮ ቢዴስ። <verse eid="MRK 14:10"/><verse number="11" style="v" sid="MRK 14:11"/>ኢስቲካ ሄሳ ሲዪዲ ኡፋዬቲዳ፤ ኢዛስ ሚሼ ኢማናስ ኢዛራ ጊጊዳ፤ ሄሳ ጊሻስ ዬሱሳ ኣ ኢማናስ ኢንጄ ዎዴ ናጊሼ ጋምኢዴስ።<verse eid="MRK 14:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 14:12"/>ፓዚጋ ዶርሲ ሹኬቲዛ ኡኬ ሙሳ ቦንቺዛ ኮይሮ ጋላስ ዬሱሳ ካሊዛይቲ ዬሱሳኮ ሺቂዲ፥ «ፓዚጋ ካዎ ማናሶ ኣዋን ጊጊሳና ማላ ኮያይ?» ጊ ኦይቺዳ።<verse eid="MRK 14:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 14:13"/>ኢዚካ ባና ካሊዛይታፔ ናምኣታ፥ «ካታማ ቢቴ፤ ኢንቴ ቢሺን ሃ ኦቶራ ቶኪዳ ኢሳዴይ ኢንቴናራ ጋጋና። <verse eid="MRK 14:13"/><verse number="14" style="v" sid="MRK 14:14"/>ኢዚ ቢዲ ጌሊዛሶ ጋካናስ ኢዛ ካሊቴ። ኬዴዛስ፥ ‹ኣስታማሬይ ኔና፥ ታና ካሊዛይታራ ፓዚጋ ካዎ ማናስ ታስ ጊዲዛ ኢማ ሼምፖሶይ ኣዋይሴ? ጊዴስ› ጊቴ። <verse eid="MRK 14:14"/><verse number="15" style="v" sid="MRK 14:15"/>ኢዚካ ቦላ ፖቄ ቦላ ዲዛ ጊጊ ኡቲዳ ኣሆሶ ኢንቴና ቤሳና፤ ሄን ኢዛን ጊግሲቴ» ጊ ኪቲዴስ።<figure style="fig" alt="Two-story house with steps to roof" file="LB00235B.TIF" size="col" ref="14፡15">ፖቄ ቦላ ዲዛ ናምኡ ኪፊሌታ</figure><verse eid="MRK 14:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 14:16"/>ኢዛ ካሊዛይቲካ ኬዚዲ ካታማ ቢዳ። ዉሪካ ዬሱሲ ጊዳ ማላ ሃኒ ቤቲዴስ፤ ፓዚጋካ ሄን ጊግሲዳ።<verse eid="MRK 14:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 14:17"/>ጋዴይ ቃሚሺን ዬሱሲ ባና ካሊዛ ታማኔ ናምኣታራ ጋኪዴስ። <verse eid="MRK 14:17"/><verse number="18" style="v" sid="MRK 14:18"/>ኢስቲ ማዳን ዲሺን፥ «ታ ኢንቴስ ቱሙ ጋይስ፤ ኢንቴ ጊዶፌ ኢሶይ ኢዚካ ታናራ ኢሲፌ ሚዛይሲ ታና ኣ ኢማና» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">14፡18 </char><char style="xt" closed="false"><ref loc="PSA 41:9">ማዛ 41፡9</ref></char></note><verse eid="MRK 14:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 14:19"/>ኢስቲካ ሙዞቲዲ፥ «ታኔሻ? ታኔሻ?» ጊዲ ኢሶይ ኢሶይ ዬሱሳ ኦይቺዳ።<verse eid="MRK 14:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 14:20"/>ኢዚካ ኢስታስ፥ «ታማኔ ናምኣታፔ ኢሶይ ታናራ ባ ኩሼ ኬሬን ዬዲዛዴ። <verse eid="MRK 14:20"/><verse number="21" style="v" sid="MRK 14:21"/>ካሴ ጻፌቲዳ ማላ ኣሳ ናይ ኢዛ ጊሻስ ሃይቃና ሺን ኣሳ ና ኣ ኢሚዛዴስ ኣዬ ኣና! ሄሳዴይ ካሴ ዬሌቶንታ ኣቲዳኮ ኢዛስ ሎኦኮሺን!» ጊዴስ።<verse eid="MRK 14:21"/></para>
+  <para style="s">ጎዳ ካዎ ኤኮ ዎጋ</para>
+  <para style="r">(<ref loc="MAT 26:26-30">ማቶ 26፡26-30</ref>፤ <ref loc="LUK 22:14-23">ሉቃ 22፡14-23</ref>፤ <ref loc="1CO 11:23-25">1ቆሮ 11፡23-25</ref>)</para>
+  <para style="p">
+    <verse number="22" style="v" sid="MRK 14:22"/>ኢስቲ ሚሺን ኡኬ ኤኪ ኣንጂዲኔ ሜንዲ ባና ካሊዛይታስ፥ «ሃይሳ ታ ኣሾ ሄኢቴ» ጊ ኢሚዴስ።<verse eid="MRK 14:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 14:23"/>ኡሻካ ዴን ጋላቲዲ ኢስታስ ኢሚን ኢስቲ ዉሪካ ኡዪዳ። <verse eid="MRK 14:23"/><verse number="24" style="v" sid="MRK 14:24"/>ቃሴ ዬሱሲ፥ «ሃይሲ ዳሮታ ጊሻስ ጉካና ታ ኦራ ጫቆ ሱ።<note caller="-" style="x"><char style="xo" closed="false">14፡24 </char><char style="xt" closed="false"><ref loc="EXO 24:8">ኬሳ 24፡8</ref>፤ <ref loc="JER 31:31-34">ኤር 31፡31-34</ref></char></note> <verse eid="MRK 14:24"/><verse number="25" style="v" sid="MRK 14:25"/>ታ ኢንቴስ ቱሙ ጋይስ፤ ኦራ ዎይኔፔ ጊጊዳ ኡሻ ጾሳ ካዎቴን ታ ኡያና ዎዴ ጋካናስ ናምኣን ሃይሳ ኡዪኬ» ጊዴስ።<verse eid="MRK 14:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 14:26"/>ሄሳፌ ጉዬ ዬ ኢሲፌ ዬጺዲ ፑዴ ዳብራዛይቴ ዙማ ቦላ ኬዚዳ።<verse eid="MRK 14:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 14:27"/>ዬሱሲ፥ « ‹ታ ሄሚዛይሳ ሾጫና፤ ሄ ዎዴ ኢዛ ዶርሳቲ ላሌታና› ጌቴቲ ጻፌቲዳይሳ ማላ ኢንቴ ዉሪካ ታናን ጴታና።<note caller="-" style="x"><char style="xo" closed="false">14፡27 </char><char style="xt" closed="false"><ref loc="ZEC 13:7">ዛካ 13፡7</ref></char></note> <verse eid="MRK 14:27"/><verse number="28" style="v" sid="MRK 14:28"/>ታ ዴንዲዳፔ ጉዬ ጊዲኮ ታ ኢንቴፌ ካሴታዳ ጋሊላ ባና» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">14፡28 </char><char style="xt" closed="false"><ref loc="MAT 28:16">ማቶ 28፡16</ref></char></note><verse eid="MRK 14:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 14:29"/>ጴጽሮሲካ፥ «ኣሳይ ዉሪ ጴቲኮካ ታኒ ጴቲኬ!» ጊዴስ።<verse eid="MRK 14:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 14:30"/>ዬሱሲካ፥ «ታ ኔስ ቱሙ ጋይስ፤ ሃች ኦማርስ ኩቶይ ናምኡቶ ዋሳና ጋካናስ ኔኒ ታና ሄቶ ካዳና» ጊዴስ።<verse eid="MRK 14:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 14:31"/>ጴጽሮሲ ቃሴ፥ «ታ ኔናራ ሃይቂዛኮካ ሙሌካ ኔና ካዲኬ» ጊዲ ኬሂ ሚን ዮቲዴስ። ሃንኮይቲካ ዉሪ ኢዛይሳ ጊዳ።<verse eid="MRK 14:31"/></para>
+  <para style="s">ጌቴሴማኔን ዬሱሳ ዎሳ</para>
+  <para style="r">(<ref loc="MAT 26:36-46">ማቶ 26፡36-46</ref>፤ <ref loc="LUK 22:39-46">ሉቃ 22፡39-46</ref>)</para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 14:32"/>ሄሳፌ ጉዬ ጌቴሴማኔ ጌቴቲዛሶ ቢዳ፤ ዬሱሲካ ባና ካሊዛይታ፥ «ታኒ ዎሲሺን ኢንቴ ሃይሳን ጋምኢሺቴ» ጊዴስ። <verse eid="MRK 14:32"/><verse number="33" style="v" sid="MRK 14:33"/>ጴጽሮሳ፥ ያቆቤኔ ዮሃኒሳ ባናራ ኤኪ ቢዴስ። ኬሂ ቆፒዴሲኔ ሜቶቲዴስ። <verse eid="MRK 14:33"/><verse number="34" style="v" sid="MRK 14:34"/>ቃሴካ ኢስታስ፥ «ታ ሼምፖያ ዳሮ ሜቶታዱስ ኢንቴ ሃን ዲሺቴ። ስኮንታ ናጊቴ» ጊዴስ።<verse eid="MRK 14:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 14:35"/>ኢስታ ኣቻፌ ጉ ሃኪ ቢ ቢታ ቦላ ጉፋኒዲ ሄ ሳቴያ ኢዛፔ ኣና ማላ ዎሲዴስ። <verse eid="MRK 14:35"/><verse number="36" style="v" sid="MRK 14:36"/>«ታ ኣዋዉ! ኔስ ዉሪ ዳንዳዬቴስ፤ ሃይሳ ዋዬ ጹኣ ታፔ ሃሳ። ጊዲኮካ ኔ ሼኔፔ ኣቲን ታ ሼኔይ ሃኖፖ» ጊዴስ።<verse eid="MRK 14:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="MRK 14:37"/>ኢዚ ሄፔ ሲሚ ዪሺን ኢዛ ካሊዛይቲ ስኪዳይታ ቤኢዴስ። ጴጽሮሳካ፥ «ሲሞና ስካዲ? ሃራይ ኣቶሺን ኢሲ ሳቴካ ሚናዳ ናጎይ ኔና ጾኒዴ? <verse eid="MRK 14:37"/><verse number="38" style="v" sid="MRK 14:38"/>ኢንቴ ፓጬን ጌሎንታ ማላ ቤጊዲ ዎሲቴኔ ሚኒቴ። ኣያናይ ጊጌቲ ኡቲዴስ ሺን ኣሾይ ጊዲኮ ዳቡራንቻ» ጊዴስ።<verse eid="MRK 14:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 14:39"/>ቃሴካ ቢዲ ኮይሮይሳ ዎሲዴስ። <verse eid="MRK 14:39"/><verse number="40" style="v" sid="MRK 14:40"/>ኢዚ ናምኣን ሲሚ ዪሺን ኢስታ ኣይፌን ስኮይ ዴጺን ስኪዳይታ ዴሚዴስ ሺን ኢስቲ ኢዛስ ኣይ ዛራናኮን ኤሪቤቴና።<verse eid="MRK 14:40"/></para>
+  <para style="p">
+    <verse number="41" style="v" sid="MRK 14:41"/>ሄን ዪዲ፥ «ሃኢካ ኢንቴ ኢቺዲ ሼምፔቲ? ሃኢ ጊዳና፤ ሳቴያካ ጋካዱስ፤ ሄኮ ኣሳ ናይ ናጋራንቻታ ኩሼን ኣ ኢሜታና። <verse eid="MRK 14:41"/><verse number="42" style="v" sid="MRK 14:42"/>ኣኔ ኤቂቴ ቦስ፤ ታና ኣ ኢማናዴይ ዪዴስ» ጊዴስ።<verse eid="MRK 14:42"/></para>
+  <para style="s">ዬሱሳ ኦይኬቴኔ ኣ ኢሜቴ</para>
+  <para style="r">(<ref loc="MAT 26:47-56">ማቶ 26፡47-56</ref>፤ <ref loc="LUK 22:47-53">ሉቃ 22፡47-53</ref>፤ <ref loc="JHN 18:3-12">ዮሃ 18፡3-12</ref>)</para>
+  <para style="p">
+    <verse number="43" style="v" sid="MRK 14:43"/>ዬሱሲ ቡሮ ሃሳያን ዲሺን ታማኔ ናምኣታፔ ኢሶይ ዩሁዳይ ዪዴስ። ኢዛራ ኢሲፌ ቄሴ ሃላቃታፔኔ ሙሴ ዎጋ ታማርሲዛይታፔ ኪቴቲዳ ዳሮ ኣሳይ ጊ ማሻኔ ዱርቃ ኦይኪዲ ዪዴስ። <verse eid="MRK 14:43"/><verse number="44" style="v" sid="MRK 14:44"/>ኢዛ ኣ ኢማና ዩሁዳይ ኢስታስ፥ «ኣሳ ጊዶፌ ታ ዬሪዛዴይ ኢዛ ጊዲዳ ጊሻስ ኦይኪዲ ሎኤ ናጊ ኤፍቴ» ጊዲ ካሴቲ ማላታ ኢሚ ዎዴስ።<verse eid="MRK 14:44"/></para>
+  <para style="p">
+    <verse number="45" style="v" sid="MRK 14:45"/>ጋኪዳ ማላ ዩሁዳይ ዬሱሳኮ ሺቂዲ፥ «ኣስታማሬ!» ጊዲ ዬሪዴስ። <verse eid="MRK 14:45"/><verse number="46" style="v" sid="MRK 14:46"/>ኣሳቲካ ዬሱሳ ኦይኪዳ። <verse eid="MRK 14:46"/><verse number="47" style="v" sid="MRK 14:47"/>ኢዛ ኣቻን ኤቂዳ ኢሶይ ማሻ ኮሆፔ ሾዲ ቄሴታ ሃላቃዛ ኣሽካራ ሃይ ቃንጺዴስ። <verse eid="MRK 14:47"/><verse number="48" style="v" sid="MRK 14:48"/>ዬሱሲካ ኢስታስ፥ «ፓንጋ ማላ ታና ኦይካና ማሻኔ ዱርቃ ኦይኪዲ ዬቲ? <verse eid="MRK 14:48"/><verse number="49" style="v" sid="MRK 14:49"/>ዎንቲን ዎንቲን ጾሳ ኬን ታማርሳሼ ታ ኢንቴናራ ዲሺን ኦይኪቤኬታ ሺን ካሴ ጻፌቲዳይሲ ፖሌታና ማላ ሃይሲ ሃኒዴስ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">14፡49 </char><char style="xt" closed="false"><ref loc="LUK 19:47">ሉቃ 19፡47</ref>፤ <ref loc="LUK 21:37">21፡37</ref></char></note><verse eid="MRK 14:49"/></para>
+  <para style="p">
+    <verse number="50" style="v" sid="MRK 14:50"/>ሄ ዎዴ ኢዛ ካሊዛይቲ ዉሪ ኢዛ ዬጊ ኣጊ ቢዳ። <verse eid="MRK 14:50"/><verse number="51" style="v" sid="MRK 14:51"/>ባ ካሎቴ ቄሪ ናጻላን ካሚዳ ኢሲ ናይ ዬሱሳ ካሊሺን ኣሳይ ኢዛ ኦይኪን፥ <verse eid="MRK 14:51"/><verse number="52" style="v" sid="MRK 14:52"/>ናዚ ናጻላ ዬጊዲ ካሎ ኪቺዴስ።<verse eid="MRK 14:52"/></para>
+  <para style="s">ፒርዳ ዱላታኮ ዬሱሳ ሺቆ</para>
+  <para style="r">(<ref loc="MAT 26:57-68">ማቶ 26፡57-68</ref>፤ <ref loc="LUK 22:54-55">ሉቃ 22፡54-55</ref>፥<ref loc="LUK 22:63-71">63-71</ref>፤ <ref loc="JHN 18:13-14">ዮሃ 18፡13-14</ref>፥<ref loc="JHN 18:19-24">19-24</ref>)</para>
+  <para style="p">
+    <verse number="53" style="v" sid="MRK 14:53"/>ዬሱሳካ ጌዴ ቄሴታ ሃላቃኮ ኤፊዳ፤ ቄሴታ ሃላቃቲ፥ ዴሬ ጪማቲኔ ሙሴ ዎጋ ታማርሲዛይቲ ሄን ኢሲፌ ዉሪ ሺቂዳ። <verse eid="MRK 14:53"/><verse number="54" style="v" sid="MRK 14:54"/>ጴጽሮሲካ ዬሱሳ ሃሆራ ካሊሼ ቄሴታ ሃላቃዛ ጊቤ ጋካናስ ቢዴስ። ኢዚ ሄን ኡቲዲ ሃራ ኣሳታራ ታማ ሆኢሺን፥ <verse eid="MRK 14:54"/><verse number="55" style="v" sid="MRK 14:55"/>ቄሴታ ሃላቃቲኔ ዴሬ ጪማቲ ዉሪ ዬሱሳ ዎናስ ማርካታና ኣስ ኮዪዳ ሺን ዴማናስ ዳንዳይቤቴና። <verse eid="MRK 14:55"/><verse number="56" style="v" sid="MRK 14:56"/>ዳሮቲ ኢዛ ቦላ ዎርዶራ ማርካቲኮካ ማርካታ ቃላይ ኦይኬቲቤና።<verse eid="MRK 14:56"/></para>
+  <para style="p">
+    <verse number="57" style="v" sid="MRK 14:57"/>ኢሲ ኢሲ ማርካቲ ዴንዲዲ ዎርዶራ፥ <verse eid="MRK 14:57"/><verse number="58" style="v" sid="MRK 14:58"/>«ሃይሲ ኣዴዚ፥ ‹ታ ኣሳ ኩሼን ኬጼቲዳ ጾሳ ኬ ላላዳ ኣሳ ኩሼይ ቦቾንታዝ ሃራ ሄ ጋላሳራ ታ ኬጻና› ጊሺን ኑ ሲዪዶስ» ጊ ማርካቲዳ።<note caller="-" style="x"><char style="xo" closed="false">14፡58 </char><char style="xt" closed="false"><ref loc="JHN 2:19">ዮሃ 2፡19</ref></char></note> <verse eid="MRK 14:58"/><verse number="59" style="v" sid="MRK 14:59"/>ጊዶ ኣቲን ኢስታ ማርካቴ ኢሲ ቦላ ዎቤና።<verse eid="MRK 14:59"/></para>
+  <para style="p">
+    <verse number="60" style="v" sid="MRK 14:60"/>ቄሴታ ሃላቃይካ ኢስታ ሲንን ኤቂዲ፥ «ሃይቲ ኔ ቦላ ማርካቲዛይሲ ኣዜ? ኔ ኣዛስ ዶና ዛሪኪ?» ጊዲ ዬሱሳ ኦይቺዴስ።<verse eid="MRK 14:60"/></para>
+  <para style="p">
+    <verse number="61" style="v" sid="MRK 14:61"/>ጊዶ ኣቲን ዬሱሲ ኢስታስ ኣይኮካ ዛሮንታ ጮኡ ጊዴስ፤ ቄሴታ ሃላቃይ ቃሴካ፥ «ኣንጄቲዳ ጾሳ ናይ ኪርስቶሲ ኔኔ?» ጊ ኦይቺዴስ።<verse eid="MRK 14:61"/></para>
+  <para style="p">
+    <verse number="62" style="v" sid="MRK 14:62"/>ዬሱሲካ ዛሪዲ፥ «ኤ፤ ታናኮ! ኣሳ ናይ ዎልቃማ ጾሳ ኡሻቻን ኡቲሺኒኔ ሳሎ ሻራራ ዪሺን ኢንቴ ኢዛ ቤያና» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">14፡62 </char><char style="xt" closed="false"><ref loc="DAN 7:13">ዳኔ 7፡13</ref></char></note><verse eid="MRK 14:62"/></para>
+  <para style="p">
+    <verse number="63" style="v" sid="MRK 14:63"/>ቄሴታ ሃላቃይ ባ ማይኦ ዳኪዲ፥ «ኑስ ሃራ ኣዛ ማርካ ኮሺዜ? <verse eid="MRK 14:63"/><verse number="64" style="v" sid="MRK 14:64"/>ኢዚ ጫሻ ቃላ ጾሳ ቦላ ሃሳይሺን ኢንቴ ሲዪዴታ፤ ሃኢች ኢንቴስ ኣይ ሚሳቲዜ?» ጊዴስ። ኢስቲካ፥ «ኢዛስ ሃይቆይ ቤሴስ» ጊዲ ዉሪካ ኢሲ ቃላን ፒርዲዳ።<note caller="-" style="x"><char style="xo" closed="false">14፡64 </char><char style="xt" closed="false"><ref loc="LEV 24:16">ሌዌ 24፡16</ref></char></note><verse eid="MRK 14:64"/></para>
+  <para style="p">
+    <verse number="65" style="v" sid="MRK 14:65"/>ሄ ዎዴ ኢሲ ኢሲ ኣሳቲ ኢዛ ቦላ ጩች ጩቲዳ፤ ኢዛ ኣይፌ ጎዚ ኦይኪዲ ኢጪሼ፥ «ኣኔ ቲንቢቴ ዮታ» ጊዳ። ባጋይቲ ቃሴ ሻጋላን ባቂሼ ኤፊዳ።<verse eid="MRK 14:65"/></para>
+  <para style="s">ጴጽሮሲ ዬሱሳ ካዲዴስ</para>
+  <para style="r">(<ref loc="MAT 26:69-75">ማቶ 26፡69-75</ref>፤ <ref loc="LUK 22:56-62">ሉቃ 22፡56-62</ref>፤ <ref loc="JHN 18:15-18">ዮሃ 18፡15-18</ref>፥<ref loc="JHN 18:25-27">25-27</ref>)</para>
+  <para style="p">
+    <verse number="66" style="v" sid="MRK 14:66"/>ጴጽሮሲ ዱጌ ባጋራ ሄን ጊቤ ጊዶን ዲሺን ቄሴታ ሃላቃ ጋራዴታፔ ኢሲኒያ ያዱስ። <verse eid="MRK 14:66"/><verse number="67" style="v" sid="MRK 14:67"/>ጴጽሮሲ ታማ ሆኢሺን ቲሺ ሂስታ ጼላዳ፥ «ኔኒ ናዚሬቴ ዬሱሳራ ዳሳ ጊዲኪ?» ጋዱስ።<verse eid="MRK 14:67"/></para>
+  <para style="p">
+    <verse number="68" style="v" sid="MRK 14:68"/>ኢዚ ቃሴ፥ «ኔ ጊዛይሳዴ ታ ኤሪኬ፤ ኔ ጊዛይሲ ታስ ጌሌና» ጊዲ ካዲዴስ። ሄሳፌ ጌዴ ፔንጌ ፖቂ ኤቂ ዲሺን ሄራካ ኩቶይ ዋሲዴስ።<verse eid="MRK 14:68"/></para>
+  <para style="p">
+    <verse number="69" style="v" sid="MRK 14:69"/>ሄ ጋራዴያ ኢዛ ቤኢዳ ማላ ሄን ኤቂዳ ኣሳታስ፥ «ሃይሲ ኣዴዚ ኢዛራ ዲዛ ኣሳታፔ ኢሳዴኮ!» ጋዳ ቃሴካ ሃሳያዱስ። <verse eid="MRK 14:69"/><verse number="70" style="v" sid="MRK 14:70"/>ኢዚ ቃሴካ ካዲዴስ። ጉ ዎዴ ጋምኢሺን ሄን ኤቂዳ ኣሳቲ ጴጽሮሳ፥ «ኔኒ ጋሊላ ኣሳ፥ ሄሳ ጊሻስ ቱማፔ ኔ ኢስታፌ ኢሳዴ» ጊዳ።<verse eid="MRK 14:70"/></para>
+  <para style="p">
+    <verse number="71" style="v" sid="MRK 14:71"/>ጊዶ ኣቲን ኢዚ ቃሴ፥ «ኢንቴ ጊዛዴ ታ ኤሪኬ!» ጊሼ ጫቆኔ ባና ቃንጌ ኦይኪዴስ።<verse eid="MRK 14:71"/></para>
+  <para style="p">
+    <verse number="72" style="v" sid="MRK 14:72"/>ሄራካ ኩቶይ ናምኣን ዋሲዴስ። ጴጽሮሲካ፥ «ኩቶይ ናምኣ ዋሳናስ ኔ ታና ሄ ካዳና» ጊዳ ዬሱሳ ቃላይ ኢዛስ ቆፌቲን ሂቂሚ ዬኪዴስ።<verse eid="MRK 14:72"/></para>
+  <chapter eid="MRK 14"/>
+  <chapter number="15" style="c" sid="MRK 15"/>
+  <para style="s">ዬሱሳ ጲላጾሳኮ ኤፊዳ</para>
+  <para style="r">(<ref loc="MAT 27:1-2">ማቶ 27፡1-2</ref>፥<ref loc="MAT 27:11-14">11-14</ref>፤ <ref loc="LUK 23:1-5">ሉቃ 23፡1-5</ref>፤ <ref loc="JHN 18:28-38">ዮሃ 18፡28-38</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 15:1"/>ማላዶ ዎንታራ ቄሴታ ሃላቃቲ፥ ዴሬ ጪማቲኔ ሙሴ ዎጋ ታማርሲዛይቲ ኩሜ ሻንጎ ኣላፌታራ ኢሲፌ ዞሬቲዲ ዬሱሳ ቃቺ ኤኪ ኤፊዲ ጲላጾሳስ ኣ ኢሚዳ።<verse eid="MRK 15:1"/></para>
+  <para style="p">
+    <verse number="2" style="v" sid="MRK 15:2"/>ጲላጾሲካ ዬሱሳ፥ «ኔ ኣይሁዳታ ካዎ?» ጊ ኦይቺዴስ። ዬሱሲካ፥ «ኤ፥ ኔ ጊዳ ማላ» ጊዲ ኢዛስ ዛሪዴስ።<verse eid="MRK 15:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 15:3"/>ቄሴታ ሃላቃቲካ ዳሮ ዮኦ ኢዛ ቦላ ሺሺ ሞቲዳ። <verse eid="MRK 15:3"/><verse number="4" style="v" sid="MRK 15:4"/>ጲላጾሲ ቃሴ፥ «ኔ ኣዛስ ኦይሻ ዛሪኪ? ሄኮ ኔና ዳሮ ዮኦን ሞቴቴስ» ጊዲ ቃሴካ ኦይቺዴስ።<verse eid="MRK 15:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 15:5"/>ጊዶ ኣቲን ዬሱሲ ሃኢካ ኢዛስ ኣይኮካ ዛሮ ኢሞንታ ጊሻስ ጲላጾሲካ ማላሌቲዴስ።<verse eid="MRK 15:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 15:6"/>ፓዚጋ ባኣሌ ጋላስ ጲላጾሲ ዴሬይ ቢርሻና ማላ ኦይቺዳዴ ቢርሺ ዬዲዛ ዎጋይ ካሴ ዴስ። <verse eid="MRK 15:6"/><verse number="7" style="v" sid="MRK 15:7"/>ኢታ ኦሶን ዴሬ ቦላ ዴንዲዲ ሼምፖ ዎዳ ኣሳታራ ኢሲፌ ቃሼቲዳ ባርባኔ ጌቴቲዛ ኢሳዴይ ዴስ። <verse eid="MRK 15:7"/><verse number="8" style="v" sid="MRK 15:8"/>ዴሬይካ ዪዲ ካሴ ሎሴ ጊዲዳይሳ ኢዚ ኦና ማላ ጲላጾሳ ዎሲዴስ።<verse eid="MRK 15:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 15:9"/>ጲላጾሲካ ኢስታስ፥ «ታ ኢንቴስ ኣይሁዳ ካዎ ቢርሻና ማላ ኮዬቲ?» ጊ ኦይቺዴስ። <verse eid="MRK 15:9"/><verse number="10" style="v" sid="MRK 15:10"/>ጲላጾሲ ሄሳ ኦይቺዳይ ካሴ ቄሴታ ሃላቃቲ ዬሱሳ ቃናቴን ኣ ኢሚዳይሳ ኤሪዛ ጊሻሳ።<verse eid="MRK 15:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="MRK 15:11"/>ቄሴታ ሃላቃቲ ቃሴ፥ «ኢዛ ኤጻ ባርባኔይ ቢርሼቶ!» ጊ ኦይቻና ማላ ዴሬዛ ዴንዳ። <verse eid="MRK 15:11"/><verse number="12" style="v" sid="MRK 15:12"/>ጲላጾሲ፥ «ሂስቲኮ ኢንቴ ኣይሁዳ ካዎ ጊዛ ኣዴዛ ዎስታና ማላ ኮዬቲ?» ጊዴስ።<verse eid="MRK 15:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 15:13"/>ኢስቲ ቃሴካ፥ «ካቃ! ካቃ!» ጊ ዋሲዳ።<verse eid="MRK 15:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 15:14"/>ጲላጾሲካ፥ «ኣይ ኢታ ኦዴ?» ጊ ኢስታ ኦይቺዴስ። ኢስቲ ቃሴ፥ «ካቃ! ካቃ!» ጊዲ ካሴፔ ኣ ዋሲዳ።<verse eid="MRK 15:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="MRK 15:15"/>ጲላጾሲካ ዴሬዛ ኡፋይሳና ጊዲ ባርባኔ ኢስታስ ቢርሺዴስ። ዬሱሳ ጋራፊዲ ካቃናስ ኣ ኢሚዴስ።<verse eid="MRK 15:15"/></para>
+  <para style="s">ዎታዳራቲ ዬሱሳ ቦላ ቂልጪዳ</para>
+  <para style="r">(<ref loc="MAT 27:27-30">ማቶ 27፡27-30</ref>፤ <ref loc="JHN 19:2-3">ዮሃ 19፡2-3</ref>)</para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 15:16"/>ዎታዳራቲ ዬሱሳ ዴሬ ሃሪዛይሳ ጊቤ ኤኪ ቢዲ ኣቲዳ ዎታዳራታ ኡባ ሺሺዳ። <verse eid="MRK 15:16"/><verse number="17" style="v" sid="MRK 15:17"/>ዬሱሳ ዞኦ ማይኦ ማይዚዳ፤ ኣጉን ኣኪሊሌ ጻጺዲ ኢዛ ሁኤን ዎዳ። <figure style="fig" alt="Head of Jesus wearing crown of thorns" file="LB00321B.TIF" size="col" ref="15፡17">ዬሱሳ ሁኤ ቦላ ዎዳ ኣጉን ኣኪሊሌ</figure> <verse eid="MRK 15:17"/><verse number="18" style="v" sid="MRK 15:18"/>ሄሳፌካ፥ «ኣይሁዳ ካዎ ሳሮይ ኔስ ጊዶ!» ጊሼ ኢዛ ሳሮዳ። <verse eid="MRK 15:18"/><verse number="19" style="v" sid="MRK 15:19"/>ኢዛ ሁኤ ጉፌራ ሾጪዳ፤ ኢዛ ቦላካ ጩቲዳ፤ ጉልባቲዲ ኢዛስ ጎይኒዳ። <verse eid="MRK 15:19"/><verse number="20" style="v" sid="MRK 15:20"/>ኢዛ ቦላ ቂ ካኢዳፔ ጉዬ ካሴ ማይዚዳ ዞኦ ማይኦዛ ቃሪ ኤኪዲ ካሴ ኢዛ ማይኦዛ ዛሪ ማይዚዲ ካቃናሶ ኤኪ ቢዳ።<verse eid="MRK 15:20"/></para>
+  <para style="s">ዬሱሳ ካቄቴ</para>
+  <para style="r">(<ref loc="MAT 27:31-44">ማቶ 27፡31-44</ref>፤ <ref loc="LUK 23:27-43">ሉቃ 23፡27-43</ref>፤ <ref loc="JHN 19:17-27">ዮሃ 19፡17-27</ref>)</para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 15:21"/>ኣላኪሳንድሮሳኔ ኤሩፎሳ ኣዋ ሲሞና ጌቴቲዛ ኢሲ ቃሬና ዴሬ ኣሲ ዴሬፔ ካታማ ዪዛይሳ ዬሱሳ ማስቃሌ ዎልቃራ ኦይኪ ቶሲዳ።<note caller="-" style="x"><char style="xo" closed="false">15፡21 </char><char style="xt" closed="false"><ref loc="ROM 16:13">ኦሮ 16፡13</ref></char></note> <verse eid="MRK 15:21"/><verse number="22" style="v" sid="MRK 15:22"/>ሄሳፌ ጉዬ ዬሱሳ ጎልጎታ ጌቴቲዛሶ ኤፊዳ፤ ኢዛስ ቢርሼይ፥ «ኣሳ ሁኤ ጉጌ» ጉሳ። <verse eid="MRK 15:22"/><verse number="23" style="v" sid="MRK 15:23"/>ካርቤ ጌቴቲዛ ጫሞራ ዋላኬቲዳ ዎይኔ ጫጄ ኡያና ማላ ኢዛስ ኢሚን ኢዚ ኤኮንታ ኢጺዴስ። <verse eid="MRK 15:23"/><verse number="24" style="v" sid="MRK 15:24"/>ሄሳፌ ጉዬ ኢዛ ካቂዳ፤ ኢዛ ማይኦ ኢሳዴ ኢሳዴ ኣዋይሲ ጋካናኮ ጊዲ ሳማ ዬጊዲ ጊሼቲዳ።<verse eid="MRK 15:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 15:25"/>ኢስቲ ኢዛ ካቂሺን ዎንታፌ ሄ ሳቴ ጊዲዴስ። <verse eid="MRK 15:25"/><verse number="26" style="v" sid="MRK 15:26"/>ኢስቲ ማስቃሌ ቦላ ጻፊ ሺሺዳ ሞቶ ቃላይ፥ «ኣይሁዳ ካዎ» ጊዛ ቃላ። <verse eid="MRK 15:26"/><verse number="27" style="v" sid="MRK 15:27"/>ኢዛራ ኢሲፌ ናምኡ ፓንጋታ ኢሳ ኢዛፔ ኡሻቻራ ኢሳ ሃዲርሳራ ካቂዳ። <verse eid="MRK 15:27"/><verse number="28" style="v" sid="MRK 15:28"/>ሄሳንካ ካሴ ማጻፋይ፥ «ኢታታራ ኢሲፌ ታይቤቲዴስ» ጊዳ ቲንቢቴ ቃላይ ፖሌቲዴስ።<note caller="+" style="f"><char style="fr" closed="false">15፡28 </char><char style="ft" closed="false">ኢሲ ኢሲ ጌሻ ማጻፋቲ ታይቦ 28 ቦላ ዲዛ ቆፋ ጉጄቴስ፤ ቃላዚካ ሉቃሳን 22፡37 ቦላ ዲዛይሳ ሚሳቴስ።</char></note><note caller="-" style="x"><char style="xo" closed="false">15፡28 </char><char style="xt" closed="false"><ref loc="ISA 53:12">ኢሳ 53፡12</ref></char></note><verse eid="MRK 15:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 15:29"/>ኦጌራ ኣ ቢዛይቲካ ባ ሁኤ ቃሼ፥ «ኦይ! ኦይ! ጾሳ ኬ ላላዳ ሄ ጋላሳን ኬጻናይ ኔኔ?» ጊዲ ኢታ ጫሼ ጫዪሼ፥<note caller="-" style="x"><char style="xo" closed="false">15፡29 </char><char style="xt" closed="false"><ref loc="PSA 22:7">ማዛ 22፡7</ref>፤ <ref loc="PSA 109:25">109፡25</ref>፤ <ref loc="MRK 14:58">ማር 14፡58</ref>፤ <ref loc="JHN 2:19">ዮሃ 2፡19</ref></char></note> <verse eid="MRK 15:29"/><verse number="30" style="v" sid="MRK 15:30"/>«ኣኔ ሃኢ ማስቃሌ ቦላፌ ዎዳ ኔና ኣሻ» ጊዳ።<verse eid="MRK 15:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 15:31"/>ሄሳካ ቄሴታ ሃላቃቲኔ ሙሴ ዎጋ ታማርሲዛይቲ ባ ጊዶን ኢሶይ ኢሳስ፥ «ሃራታ ኣሺዴስ ሺን ባና ኣሻና ዳንዳይቤና» ጊዲ ኢዛ ቂዳ። <verse eid="MRK 15:31"/><verse number="32" style="v" sid="MRK 15:32"/>«ኑ ኢዛ ቤኢዲ ኣማናና ማላ ኣኔ ሃይሲ ኪርስቶሲ ኢስራኤሌታ ካዎይ ሃኢ ማስቃሌፔ ዎ» ጊዳ። ኢዛራ ካቄቲዳይቲካ ኢዛ ቦላ ጫሼ ኮሪዳ።<verse eid="MRK 15:32"/></para>
+  <para style="s">ዬሱሳ ሃይቆ</para>
+  <para style="r">(<ref loc="MAT 27:45-56">ማቶ 27፡45-56</ref>፤ <ref loc="LUK 23:44-49">ሉቃ 23፡44-49</ref>፤ <ref loc="JHN 19:28-30">ዮሃ 19፡28-30</ref>)</para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 15:33"/>ኡሱፑን ሳቴፔ ዶሚዲ ኡዱፉን ሳቴ ጋካናስ ቢታይ ዉሪ ሚዴስ። <verse eid="MRK 15:33"/><verse number="34" style="v" sid="MRK 15:34"/>ኡዱፉን ሳቴ ቦላ ዬሱሲ፥ «ኤሎሄ! ኤሎሄ! ላማ ሳባቂታኔ» ጊዲ ቃላ ቁ ሂስቲዲ ዋሲዴስ። ሄሳስ ቢርሼይ፥ «ታ ጾሶ! ታ ጾሶ! ኔ ታና ኣዛስ ኣጋዲ?» ጉሳ።<note caller="-" style="x"><char style="xo" closed="false">15፡34 </char><char style="xt" closed="false"><ref loc="PSA 22:1">ማዛ 22፡1</ref></char></note><verse eid="MRK 15:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 15:35"/>ሄን ኤቂዳ ኣሳፔ ኢሲ ኢሲ ኣሳቲ ሄሳ ሲዪዲ፥ «ኤላሳ ጼይጌስኮ!» ጊዳ። <verse eid="MRK 15:35"/><verse number="36" style="v" sid="MRK 15:36"/>ሄሳፌ ኢሲ ኣሲ ኤሌሊ ቢዲ ጫሊዳ ዎይኔ ጫጄ<note caller="+" style="f"><char style="fr" closed="false">15፡36 </char><char style="ft" closed="false">ጫሊዳ ዎይኔ ጫጄ ካቄቲዳ ኣሲ ባ ዋዬ ባላና ማላ ኡሼቴስ።</char></note> ኢስፖንጄ ማላ ሚሻን ጌል ኬሲዲ ሚ ጼራን ኦይዲ ኡያና ማላ ዬሱሳስ ሺሺዴስ። ሄሳፌ ቃሴ፥ «ኣኔ ኣጋጊቴ፤ ኤላሲ ዪዲ ኢዛ ካቆፔ ዎሺን ኑ ቤያና» ጊዴስ።<verse eid="MRK 15:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="MRK 15:37"/>ሄሳፌ ዬሱሲ ቃላ ቁ ሂስቲ ዋሲዲ ሼምፖ ኬዚዴስ።<verse eid="MRK 15:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 15:38"/>ጾሳ ኬ ማጋላሻይ ሁኤራ ዱጌ ናምኡ ኬዚ ዳኬቲዴስ።<note caller="-" style="x"><char style="xo" closed="false">15፡38 </char><char style="xt" closed="false"><ref loc="EXO 26:31-33">ኬሳ 26፡31-33</ref></char></note> <verse eid="MRK 15:38"/><verse number="39" style="v" sid="MRK 15:39"/>ዬሱሳ ጊናራ ኤቂዳ ኢሲ ማቶ ሃላቃይ ዬሱሲ ሄሳ ጊታ ቃላራ ዋሲዲ ሼምፖ ኬዚሺን ቤኢዲ፥ «ሃይሳዴይ ቱሙ ጾሳ ናኮሺን» ጊዴስ። <verse eid="MRK 15:39"/><verse number="40" style="v" sid="MRK 15:40"/>ሄ ዎዴ ማጫሳቲ ሃኒዛይሳ ሃሆን ዲዲ ጼሊዳ። ኢስታ ጊዶፌ ማግዳሌፔ ዪዳ ማራማኔ ካሎቲዛ ያቆቤ ዮሳ ኣዮ ማራሚራ ቃሴካ ሳሎሚራ ኢሲፌ ዴቴስ። <verse eid="MRK 15:40"/><verse number="41" style="v" sid="MRK 15:41"/>ሄይቲ ማጫሳቲ ጋሊላን ዬሱሳ ካሊሼኔ ኢዛስ ኦሼ ጋምኢዳይታ። ኢስታራካ ኢሲፌ ሃራ ዳሮ ማጫሳቲ ዬሩሳላሜ ቢዳ።<note caller="-" style="x"><char style="xo" closed="false">15፡40-41 </char><char style="xt" closed="false"><ref loc="LUK 8:2-3">ሉቃ 8፡2-3</ref></char></note><verse eid="MRK 15:41"/></para>
+  <para style="p">
+    <verse number="42" style="v" sid="MRK 15:42"/>ጋዴይ ቃሚ ቃሚ ቢሺን ሳምባታስ ጊጌቲዛ ጋላሲ ጋኪዴስ። <verse eid="MRK 15:42"/><verse number="43" style="v" sid="MRK 15:43"/>ዴሬ ጪማታ ጊዶን ቦንቼቲዳ ኢሲ ኣርማቲያሴ ዴሬ ኣስ ዮሴፌ ጌቴቲዛይሲ ጾሳ ካዎቴ ናጊሼ ዲዛዴይ ባቦንታ ጲላጾሳኮ ቢዲ ዬሱሳ ኣሃ ዎሲዴስ። <verse eid="MRK 15:43"/><verse number="44" style="v" sid="MRK 15:44"/>ጲላጾሲካ ኢዚ ሂኒ ዎዴ ኤሌራ ሃይቂዳይሳ ሲዪዲ ማላሌቲዴስ። ማቶ ሃላቃ ጼይጊሲዲ፥ «ኢዚ ሃይቂ ጋምኢዴ?» ጊዲ ኦይቺዴስ። <verse eid="MRK 15:44"/><verse number="45" style="v" sid="MRK 15:45"/>ኢዚ ሃይቂዳይሳ ማቶ ሃላቃይ ጌሺ ኤሪዳፔ ጉዬ ዬሱሳ ኣሃ ዮሴፌስ ኢሚዴስ። <verse eid="MRK 15:45"/><verse number="46" style="v" sid="MRK 15:46"/>ዮሴፌይካ ሞጎ ማይኦ ሻሚዲ ኣሃ ማስቃሌፔ ዎዲ ሞጎ ማይኦን ጻጺዲ ሹቻፌ ዎጬቲዳ ዱፎን ሞጊዴስ። ዱፋ ዶና ሹቻራ ጎርዲዴስ። <verse eid="MRK 15:46"/><verse number="47" style="v" sid="MRK 15:47"/>ማግዳሌፔ ዪዳ ማራሚራኔ ዮሴፌ ኣዮ ማራሚራ ዬሱሳ ኣሃ ኣዋን ሞጊዳኮ ቤኢዳ።<verse eid="MRK 15:47"/></para>
+  <chapter eid="MRK 15"/>
+  <chapter number="16" style="c" sid="MRK 16"/>
+  <para style="s">ሃይቆፔ ዬሱሳ ዴን</para>
+  <para style="r">(<ref loc="MAT 28:1-8">ማቶ 28፡1-8</ref>፤ <ref loc="LUK 24:1-12">ሉቃ 24፡1-12</ref>፤ <ref loc="JHN 20:1-10">ዮሃ 20፡1-10</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 16:1"/>ሳምባታይ ኣዳፔ ጉዬ ማግዳሌ ማራማ፥ ያቆቤ ኣዮ ማራሚራኔ ሳሎሚራ ኢሲፌ ቢዲ ዬሱሳ ኣሃ ቲያናስ ሺቶ ሻሚዳ። <verse eid="MRK 16:1"/><verse number="2" style="v" sid="MRK 16:2"/>ሳሚንታፌ ኮይሮ ጋላስ ማላዶ ዎንታራ ቡሮ ኣርሼይ ኬዚዳ ማላ ዬሱሳ ዱፎኮ ቡሮ ቢሺን፥ <verse eid="MRK 16:2"/><verse number="3" style="v" sid="MRK 16:3"/>«ዱፎዛ ዶናፔ ሹቻ ኑስ ኦኒ ጌንዴሪሳኔ?» ጊዲ ባ ጊዶን ሃሳዬቲዳ።<verse eid="MRK 16:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 16:4"/>ኢስቲ ቁ ጊ ጼሊሺን ዳሮ ጊታ ሹቻይ ዱፎዛ ዶናፔ ጌንዴሪዳይሳ ቤኢዳ። <verse eid="MRK 16:4"/><verse number="5" style="v" sid="MRK 16:5"/>ዱፎዛ ጊዶ ጌሊዳ ማላ ኢሲ ቦ ማይኦ ማይኢዳ ፓን ኡሻቻ ባጋራ ኡቲዳይሳ ቤኢዲ ዳጋሚዳ።<verse eid="MRK 16:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 16:6"/>ኢዚ ቃሴ ኢስታስ፥ «ዳጋሞፍቴ! ኢንቴ ካቄቲዳ ናዚሬቴ ዬሱሳ ኮዬታ፤ ኢዚ ዴንዲዴስ፤ ሃን ዴና፤ ኢስቲ ኢዛ ዎዳሶ ሃይሳ ቤኢቴ። <verse eid="MRK 16:6"/><verse number="7" style="v" sid="MRK 16:7"/>ጊዶ ኣቲን ኢንቴ ቢዲ ኢዛ ካሊዛይታሲኔ ጴጽሮሳስ ካሴ ኢንቴስ ዮቲዳ ማላ ኢንቴፌ ካሴቲዲ ኢዚ ጋሊላ ባና። ኢንቴ ኢዛ ሄን ዴማና ጊዲ ኢስታስ ዮቲቴ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">16፡7 </char><char style="xt" closed="false"><ref loc="MAT 26:32">ማቶ 26፡32</ref>፤ <ref loc="MRK 14:28">ማር 14፡28</ref></char></note><verse eid="MRK 16:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="MRK 16:8"/>ማጫሳቲካ ማላሌቲሼኔ ኮኮሪሼ ዱፋፔ ኬዚ ባቃቲዳ። ባቢዳ ጊሻስ ኦናስካ ኣይኮካ ቃቲቤቴና።<note caller="+" style="f"><char style="fr" closed="false">16፡8 </char><char style="ft" closed="false">ኢሲ ኢሲ ቤኒ ጌሻ ማጻፋታን ታይቦ ኦስፑናፔ ጉዬ ዲዛ ቆፋይ ሃይሳፌ ካሊዲ ጻፌቲዴስ። ማጫሳቲ ጴጽሮሳኮኔ ባ ላጌታኮ ቢዲ ኪታንቻዚ ኢስታስ ዮቲዳይሳ ኡባ ኢስታስ ዮቲዳ። ሄሳፌ ጉዬ ዬሱሲ ኣሺዛ ላሜቶንታ ጌሻ ሚሺራቾ ቃላ ኣርሼይ ሞኪዛሶፔ ዉሊዛሶ ጋካናስ ባና ካሊዛ ታማሬታ ባጋራ ኪቲዴስ።</char></note><verse eid="MRK 16:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 16:9"/>ሳሚንታፌ ኮይሮ ጋላስ ዎጋ ዎንታ ማላዶራ ኢዚ ሃይቆፔ ዴንዲዳፔ ጉዬ ዬሱሲ ኢዚፔ ላፑን ዳይዳን ኬሲዳ ማግዳሌ ማራሚስ ኮይሮ ቤቲዴስ።<note caller="+" style="f"><char style="fr" closed="false">16፡9 </char><char style="ft" closed="false">ኢሲ ኢሲ ቢርሼታኒኔ ኢሲ ኢሲ ሃራታፔ ዱቄቲዳ ጌሻ ማጻፋታን ታይቦ 9-20 ጋካናስ ዲዛ ቆፋይ ጻፌቲቤና።</char></note> <verse eid="MRK 16:9"/><verse number="10" style="v" sid="MRK 16:10"/>ኢዛካ ባዳ ካሴ ኢዛራ ዲዛይቲ ካዮቲሼኔ ዬኪሼ ዲሺን ዴማዳ ዮታዱስ። <verse eid="MRK 16:10"/><verse number="11" style="v" sid="MRK 16:11"/>ኢስቲ ዬሱሲ ፓጻ ዲዛይሳኔ ኢዛ ታ ዬሱሳ ቤያዲስ ጊዳይሳ ሲዪዲ ኣማኒቤቴና።<verse eid="MRK 16:11"/></para>
+  <para style="s">ዬሱሲ ባና ካሊዛ ናምኣታስ ቤቲዴስ</para>
+  <para style="r">(<ref loc="LUK 24:13-35">ሉቃ 24፡13-35</ref>)</para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 16:12"/>ሄሳፌ ጉዬ ኢዛ ካሊዛይታፔ ናምኣቲ ጌዴ ዴሬ ጋርስ ቢሺን ዬሱሲ ኢስታስ ሃራ ኣስ ሚሳቲ ቤቲዴስ። <verse eid="MRK 16:12"/><verse number="13" style="v" sid="MRK 16:13"/>ኢስቲካ ሲሚዲ ሄሳ ኢዛ ካሊዛይታፔ ኣቲዳይታስ ዮቲዳ፤ ጊዶ ኣቲን ኢዛ ካሊዛይቲ ሲዪዲ ኣማኒቤቴና።<verse eid="MRK 16:13"/></para>
+  <para style="s">ዬሱሲ ባና ካሊዛ ታማኔ ኢሲኔታስ ቤቲዴስ</para>
+  <para style="r">(<ref loc="MAT 28:16-20">ማቶ 28፡16-20</ref>፤ <ref loc="LUK 24:36-49">ሉቃ 24፡36-49</ref>፤ <ref loc="JHN 20:19-23">ዮሃ 20፡19-23</ref>፤ <ref loc="ACT 1:6-8">ሃዋ 1፡6-8</ref>)</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 16:14"/>ሄሳፌ ጉዬ ታማኔ ኢሲኔቲ ማዳ ቦላ ዲሺን ዬሱሲ ኢስታስ ቆንጪዴስ። ኢዚ ሃይቆፔ ዴንዲን ኢዛ ቤኢዳ ኣሳቲ ኢስታስ ዮቲን ሲዪዲ ኣማኖንታ ኣጊዳ ጊሻስ ኢስታስ ኣማኖይ ባይንዳይሳኔ ኢስታ ዎዚና ሙሜቴ ጊሻስ ኢስታ ቦሪዴስ። <verse eid="MRK 16:14"/><verse number="15" style="v" sid="MRK 16:15"/>ኢስታስካ፥ «ኣላሜ ኡባሶ ቢቴ፥ ሚሺራቾ ቃላ ሜቴ ኡባስ ሳባኪቴ።<note caller="-" style="x"><char style="xo" closed="false">16፡15 </char><char style="xt" closed="false"><ref loc="ACT 1:8">ሃዋ 1፡8</ref></char></note> <verse eid="MRK 16:15"/><verse number="16" style="v" sid="MRK 16:16"/>ኣማኒዳይኔ ጻማቄቲዳይ ኣታና። ኣማኖንታይ ጊዲኮ ፒርዴታና። <verse eid="MRK 16:16"/><verse number="17" style="v" sid="MRK 16:17"/>ታና ኣማኒዛይታ ሃይቲ ማላታቲ ካላና። ኢስቲ ታ ሱንን ዳይዳንታ ኬሳና፤ ኦራ ቃላንካ ሃሳያና። <verse eid="MRK 16:17"/><verse number="18" style="v" sid="MRK 16:18"/>ኢስቲ ሾሻታ ባ ኩሼራ ኦይካና፤ ዎዛ ማርዜ ኡዪኮካ ኢስታ ቆሄና። ባ ኩሼ ሃርጋንቻታ ቦላ ዎ ዎሲኮ ሃርጋንቻቲ ፓጻና» ጊዴስ።<verse eid="MRK 16:18"/></para>
+  <para style="s">ፑዴ ሳሎ ዬሱሳ ቡስ</para>
+  <para style="r">(<ref loc="LUK 24:50-53">ሉቃ 24፡50-53</ref>፤ <ref loc="ACT 1:9-11">ሃዋ 1፡9-11</ref>)</para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 16:19"/>ጎዳ ዬሱሲ ሄሳ ዮቲዳፔ ጉዬ ፑዴ ሳሎ ዴንዲ ቢዲ ጾሳ ኡሻቻን ኡቲዴስ። <verse eid="MRK 16:19"/><verse number="20" style="v" sid="MRK 16:20"/>ኢዛ ካሊዛይቲ ሄሳፌ ኬዚዲ ኡባሶን ኣ ኣ ሳባኪዳ። ጎዳይካ ኢስታራ ኦዴስ። ኢስታ ቲሚርቴዛ ኤኪዲ ኦዛይታስ ባ ዮቲዳ ቃላካ ማላታ ኦ ኦ ሚንዴስ።<verse eid="MRK 16:20"/></para>
+  <chapter eid="MRK 16"/>
+</usx>

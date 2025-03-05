@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="3.0">
+  <book code="ACT" style="id">- Gamo Full Bible final version</book>
+  <para style="h">ሃዋሬታ ኦሶ</para>
+  <para style="toc1">ሃዋሬታ ኦሶ</para>
+  <para style="toc2">ሃዋሬታ ኦሶ</para>
+  <para style="toc3">ሃዋ</para>
+  <para style="mt">ሃዋሬታ ኦሶ</para>
+  <para style="imt">ጊዶ ቆፋ</para>
+  <para style="ip">ሃዋሬታ ኦሶ ማጻፋዚ ሉቃሳ ሚሺራቾ ቃላፔ ካሊዛይሳ፤ ሃ ማጻፋዛስ ኣይፌ ቆፋይ ኮይሮ ዬሱሳ ካሊዛይቲ ጺሎ ኣያናይ ካሌን ኢዛ ጊሻስ ዮቲዛ ሚሺራቾ ቃላ፥ «ዬሩሳላሜን፥ ዩሁዳ ዴሬ ኡባን፥ ሳማሪያኒኔ ቢታ ጋጻ ጋካናስ» 1፡8 ሚሺራቾ ቃላ ኢስቲ ዎስቲ ኡባ ጋዳኮ ሄሳ ዮታናሳ፤ ማጻፋዚ ኣማኖይ ኣይሁዳታ ጋርሳን ዶሚዲ ኩሜ ኣላሜ ኣሳይ ኣማናና ጋካናስ ኢዚ ዋኒ ዋኒ ኣኪ ኣኪ ቢዳኮ ዮቲዛይሳ። ሃይሳ ማጻፋ ጻፊዳይሲ ኣማኒዛይቲ ኦሮሜ ካዎራ ኤቄታናስ ጋርሳራ ዮኦ ቃቺዛይታ ጊዶንታይሳኔ ኣማኒዛይታ ኣማኖይ ሃንኮ ኣይሁዳታ ኣማኖ ፖሎኮ ጋዛዝ ጊዲዳይሳ ኤሪሳናስ ዳሮ ባጼቲዴስ።</para>
+  <para style="ip">ሃዋሬታ ኦሶ ማጻፋይ ዬሱሳ ጊሻስ ሚሺራቾ ቃላይ ጋኪዛሶይ ዎዴን ዎዴን ኣኪ ኣኪ ቢዛይሳኔ ዎሳ ኬይ ሚኒ ጻጲዳይሳ ቤሲዛ ሄ ጊታ ኪፊሌታን ሻኬታናስ ዳንዳዬስ።</para>
+  <para style="ili">1. ኣማኒዛይታ ኣማኖይ ዬሱሲ ዴንዲዲ ፑዴ ሳሎ ቢዳፔ ጉዬ ዬሩሳላሜን ዶሚዴስ።</para>
+  <para style="ili">2. ኢስራኤሌ ዴሬ ኩሜ ጋኪዴስ።</para>
+  <para style="ili">3. ኦሮሜ ጉጂ ኤኪዲ ሜዲቴራኔ ኣባ ዩሾን ዲዛ ዴራ ጋካናስ ኦይኮይሳ ዮቴስ።</para>
+  <para style="ip">ሃዋሬታ ኦሶ ማጻፋን ኬሂ ቆንጪ ቤቲዛይ ጺሎ ኣያና ኦሶ ጊዲሺን ጴንጼቆስቴ ባኣሌ ጋላስ ዬሩሳላሜን ኣማኒዛ ኣሳ ቦላ ዎልቃራ ዎይሳ፥ ሄሳካ ሄ ማጻፋዛን ዮቴቲዳ ዮኦታን ኡባን ቆንጪዳ ማላ ጺሎ ኣያናይ ዎሳ ኬኔ ዎሳ ኬ ካሌዛይታ ካሌዳይሳኔ ሚንዳይሳ ጉጄስ። ቤኒ ዎዴ ዮቴቲዛ ኣማኖ ቃላይ ዱማ ዱማ ኦጌራ ሳባኬቲዴስ። ሃዋሬታ ኦሶ ማጻፋን ፖሌቲዳ ኦሶቲካ ኪታዚ ኣማኒዛይታ ዴኦኔ ኢስታ ኢሲፌቴን ዲዛ ዎልቃይ ኣይ ማላ ሚኖኮኔ ኤሪሴቴስ።</para>
+  <para style="iot">ሃ ማጻፋይ ኦይኪዳ ኩሜ ቆፋ</para>
+  <para style="io1">ማርካቴስ ጊጌቴ <char style="ior"><ref loc="ACT 1:1-26">1፡1-26</ref> </char></para>
+  <para style="io1">ዬሩሳላሜን ዮቴቲዳ ማርካቴ <char style="ior"><ref loc="ACT 2:1-8:3">2፡1—8፡3</ref> </char></para>
+  <para style="io1">ዩሁዳኒኔ ሳማሪያን ዮቴቲዳ ማርካቴ <char style="ior"><ref loc="ACT 8:4-12:25">8፡4—12፡25</ref> </char></para>
+  <para style="io1">ጳዉሎሳ ሃዋሬቴ ኦሶ <char style="ior"><ref loc="ACT 13:1-28:31">13፡1—28፡31</ref> </char></para>
+  <para style="io2">ሚሺራቾ ቃላ ዮታናስ ጳዉሎሳስ ኮይሮ ቡስ <char style="ior"><ref loc="ACT 13:1-14:28">13፡1—14፡28</ref> </char></para>
+  <para style="io2">ዬሩሳላሜ ሺቆ <char style="ior"><ref loc="ACT 15:1-35">15፡1-35</ref> </char></para>
+  <para style="io2">ሚሺራቾ ቃላ ዮታናስ ጳዉሎሳስ ናምኣን ቡስ <char style="ior"><ref loc="ACT 15:36-18:22">15፡36—18፡22</ref> </char></para>
+  <para style="io2">ሚሺራቾ ቃላ ዮታናስ ጳዉሎሳስ ሄን ቡስ <char style="ior"><ref loc="ACT 18:23-21:16">18፡23—21፡16</ref> </char></para>
+  <para style="io2">ዬሩሳላሜን፥ ቂሳሪያኒኔ ኦሮሜን ጳዉሎሳ ቃሼቴ <char style="ior"><ref loc="ACT 21:17-28:31">21፡17—28፡31</ref> </char></para>
+  <chapter number="1" style="c" sid="ACT 1"/>
+  <para style="s">ዬሱሲ ሳሎ ዴንዲ ቡስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 1:1"/>ቶፊሎሳ! ዬሱሲ ኦናሲኔ ታማርሳናስ ኦይኪዳይሳ ዉርሳ ታ ኔስ ኮይሮ ማጻፋን ጻፋዲስ።<note caller="-" style="x"><char style="xo" closed="false">1፡1 </char><char style="xt" closed="false"><ref loc="LUK 1:1-4">ሉቃ 1፡1-4</ref></char></note> <verse eid="ACT 1:1"/><verse number="2" style="v" sid="ACT 1:2"/>ሄሲካ ኢዚ ፑዴ ዴን ጋላስ ጋካናስ ባ ዶሪ ኪቲዳይታስ ጺሎ ኣያና ባጋራ ኢዚ ኢስታስ ኢሚዳ ኣዛዞኮ። <verse eid="ACT 1:2"/><verse number="3" style="v" sid="ACT 1:3"/>ኢዚ ዳሮ ዋዬ ቤኢዳፔ ጉዬ ኢስታኮ ሺቂዲ ሃይቆፔ ዴንዳናይሳ ኢስታስ ዳሮ ማርካራ ቆንጪሲሼ ኦይዱ ታሙ ጋላስ ጋካናስ ኢስታስ ጋላስ ጋላስ ቤቲሼ ጾሳ ካዎቴ ጊሻስ ዮቲዴስ። <verse eid="ACT 1:3"/><verse number="4" style="v" sid="ACT 1:4"/>ኢስታራ ኢሲፌ ማዳን ኡቲ ዲሼ ኢስታ፥ «ዬሩሳላሜፔ ኬዞፒቴ፤ ጊዶ ኣቲን ታ ኢንቴስ ዮቲሺን ኢንቴ ሲዪዳይሳ ታ ኣዋይ ኢሚዳ ኡፋይሳ ናጊቴ።<note caller="-" style="x"><char style="xo" closed="false">1፡4 </char><char style="xt" closed="false"><ref loc="LUK 24:49">ሉቃ 24፡49</ref></char></note> <verse eid="ACT 1:4"/><verse number="5" style="v" sid="ACT 1:5"/>ዮሃኒሲ ሃን ጻማቂዴስ፤ ኢንቴ ጊዲኮ ጉ ዎዴፔ ጉዬ ጺሎ ኣያናን ጻማቄታና» ጊዲ ዮቲዴስ።<note caller="-" style="x"><char style="xo" closed="false">1፡5 </char><char style="xt" closed="false"><ref loc="MAT 3:11">ማቶ 3፡11</ref>፤ <ref loc="MRK 1:8">ማር 1፡8</ref>፤ <ref loc="LUK 3:16">ሉቃ 3፡16</ref>፤ <ref loc="JHN 1:33">ዮሃ 1፡33</ref></char></note><verse eid="ACT 1:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 1:6"/>ኢስቲካ ኢሲ ቦላ ሺቄቲ ዲሼ፥ «ጎዶ! ኔ ኢስራኤሌታ ካዎቴ ዛራዳ ሃኢ ኤሳኔ?» ጊ ኦይቺዳ።<verse eid="ACT 1:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 1:7"/>ኢዚካ ኢስታስ፥ «ኣዋይ ባ ሼኔን ዎዳ ዎዴ ኤሮይ ኢንቴስ ኢሜቲቤና። <verse eid="ACT 1:7"/><verse number="8" style="v" sid="ACT 1:8"/>ጊዶ ኣቲን ጺሎ ኣያናይ ኢንቴ ቦላ ዎዳ ዎዴ ኢንቴ ዎልቃ ኤካና። ዬሩሳላሜንካ፥ ዩሁዳንካ፥ ሳማሪያንካ ኡባሶን ቢታ ጋጻ ጋካናስ ኢንቴ ታስ ማርካታ ጊዳና» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">1፡8 </char><char style="xt" closed="false"><ref loc="MAT 28:19">ማቶ 28፡19</ref>፤ <ref loc="MRK 16:15">ማር 16፡15</ref>፤ <ref loc="LUK 24:47-48">ሉቃ 24፡47-48</ref></char></note><verse eid="ACT 1:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 1:9"/>ሄሳ ጊ ዮቲዳፔ ጉዬ ኢስቲ ጼሊሺን ፑዴ ሳሎ ዴንዲዴስ፤ ሻራይካ ኢስታ ኣይፌፔ ኢዛ ጌንዴስ።<note caller="-" style="x"><char style="xo" closed="false">1፡9 </char><char style="xt" closed="false"><ref loc="MRK 16:19">ማር 16፡19</ref>፤ <ref loc="LUK 24:50-51">ሉቃ 24፡50-51</ref></char></note><verse eid="ACT 1:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 1:10"/>ኢዚ ቢሺን ኢስቲ ኢዛ ቲሺ ሂስቲ ፑዴ ሳሎ ጼሊሺን ቦ ማይኦ ማይኢዳ ናምኡ ኣሳቲ ቆፖንታ ኢስታ ኣቻን ኤቂዲ፥ <verse eid="ACT 1:10"/><verse number="11" style="v" sid="ACT 1:11"/>«ኢንቴኖ ጋሊላ ኣሳቶ! ኢንቴ ፑዴ ሳሎ ጼሊሼ ሃይሳን ኣዛስ ኤቂዴቲ? ሃይሲ ኢንቴ ማታፔ ፑዴ ሳሎ ዴንዲሺን ኢንቴ ቤኢዛ ዬሱሲ ሳሎ ኬዚሺን ኢንቴ ቤኢዳ ማላ ሄሳካ ኢዚ ሃ ሲሚ ያና» ጊዳ።<verse eid="ACT 1:11"/></para>
+  <para style="s">ዩሁዳ ሶሆን ማቲያሳ ዶሬቴ</para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 1:12"/>ሄሳፌ ጉዬ ዳብራዛይቴ ጌቴቲዛ ዙማ ቦላፌ ዎዲ ዬሩሳላሜ ሲሚዳ። ሄ ዙማይካ ዬሩሳላሜፔ ኢሲ ኪሎ ሜቲሬ ማላ ሃኬስ። <verse eid="ACT 1:12"/><verse number="13" style="v" sid="ACT 1:13"/>ጌዴ ካታማዮ ጌሊዲ ካሴ ባ ዲዛ ኬ ፖቄ ቦላ ኬዚዳ፤ ሄይቲካ ጴጽሮሳ፥ ዮሃኒሳ፥ ያቆቤ፥ ኢንዲራሳ፥ ፒሊጶሳ፥ ቶማሳ፥ ባርቴሌሞሳ፥ ማቶሳ፥ ኢልፊዮሳ ና ያቆቤ፥ ባ ባጋስ ሚሼቲዛ ሲሞናኔ ያቆቤ ና ዩሁዳ።<note caller="-" style="x"><char style="xo" closed="false">1፡13 </char><char style="xt" closed="false"><ref loc="MAT 10:2-4">ማቶ 10፡2-4</ref>፤ <ref loc="MRK 3:16-19">ማር 3፡16-19</ref>፤ <ref loc="LUK 6:14-16">ሉቃ 6፡14-16</ref></char></note> <verse eid="ACT 1:13"/><verse number="14" style="v" sid="ACT 1:14"/>ሄይቲ ዉሪካ ማጫሳታፔ ዬሱሳ ኣዮ ማራሚራ ሄሳካ ኢዛ ኢሻታራ ኢሲ ዎዚናን ኢሲ ቦላ ቃንጾንታ ሚኒ ዎሲዳ።<verse eid="ACT 1:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 1:15"/>ሄ ጋላሳታን ጴጽሮሲ ጼታኔ ናምኡ ታሙ ኣማኒዛ ኣሳ ጊዶን ኤቂዲ፥ <verse eid="ACT 1:15"/><verse number="16" style="v" sid="ACT 1:16"/>«ታ ኢሻቶ! ዬሱሳ ኦይኪዳ ኣሳታ ካሌ ኤሂዳ ዩሁዳ ጊሻስ ጺሎ ኣያናይ ካሴቲዲ ዳዊቴ ዶናን ሃሳይዳ ጌሻ ማጻፋ ቃላይ ፖሌታና ኮሼስ። <verse eid="ACT 1:16"/><verse number="17" style="v" sid="ACT 1:17"/>ኢዚካ ኑፔ ኢሳዴ ማላ ታይቤቲዲ ሃይሳ ሃ ኦሶዛን ጌላናስ ቃዳ ዴሚዴስ» ጊዴስ።<verse eid="ACT 1:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="ACT 1:18"/>ጊዲኮካ ሃይሳዴይ ባ ኢታ ኦሶን ዴሚዳ ሚሻን ጋዴ ሻሚዴስ፤ ሄንካ ባ ሊጴን ጉፋኒ ኩንዲን ኢዛ ኣሳቴይ ጊዶፌ ጳልቄቲ ዎዴስ፤ ኢዛ ማራጬይ ቢታ ቦላ ዛዜቲዴስ።<note caller="-" style="x"><char style="xo" closed="false">1፡18-19 </char><char style="xt" closed="false"><ref loc="MAT 27:3-8">ማቶ 27፡3-8</ref></char></note> <verse eid="ACT 1:18"/><verse number="19" style="v" sid="ACT 1:19"/>ሄሲካ ዬሩሳላሜን ዲዛ ኣሳ ኡባስ ሲዬቲዴስ፤ ቢታይካ ኢስታ ቃላራ፥ «ኣኬልዳማ» ጌቴቲዴስ፤ ሄሳስ ቢርሼይካ ሱ ቢታ ጉሳ።<verse eid="ACT 1:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="ACT 1:20"/>ጉጂዲካ ጴጽሮሲ፥</para>
+  <para style="q2" vid="ACT 1:20">«ዬ ማጻፋን፥</para>
+  <para style="q1" vid="ACT 1:20">‹ኢዛ ጋዴይ ሜላ ኣቶ፤</para>
+  <para style="q2" vid="ACT 1:20">ኢዛን ኣይ ኣሲካ ዶፖ፤</para>
+  <para style="q2" vid="ACT 1:20">ቃሴካ ኢዛ ዳናቴ</para>
+  <para style="q2" vid="ACT 1:20">ሃራ ኣሲ ኤኮ›</para>
+  <para style="q3" vid="ACT 1:20">ጌቴቲ ጻፌቲዴስ።<note caller="-" style="x"><char style="xo" closed="false">1፡20 </char><char style="xt" closed="false"><ref loc="PSA 69:25">ማዛ 69፡25</ref>፤ <ref loc="PSA 109:8">109፡8</ref></char></note><verse eid="ACT 1:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 1:21"/>«ሄሳ ጊሻስ ጎዳ ዬሱሲ ኑናራ ዲዛ ዎዴ ኡባን ኑናራ ኢሲፌ ዲዛይታ ጊዶፌ ኑ ኢሳዴ ዶራናስ ኮሼስ። <verse eid="ACT 1:21"/><verse number="22" style="v" sid="ACT 1:22"/>ሄሲካ ዮሃኒሳ ጺንቃታፔ ሃ ሲሚን ዬሱሲ ኑፔ ሻኬቲ ዴንዲ ባና ጋካናስ ኑናራ ዲዛዴ ጊዳናስ ቤሴስ፤ ጋሶይካ ሃ ኣሳታፔ ኢሳዴይ ኑናራ ዬሱሳ ዴንስ ማርካ ጊዳና ኮሼስ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">1፡22 </char><char style="xt" closed="false"><ref loc="MAT 3:16">ማቶ 3፡16</ref>፤ <ref loc="MRK 1:9">ማር 1፡9</ref>፤ <ref loc="MRK 16:19">16፡19</ref>፤ <ref loc="LUK 3:21">ሉቃ 3፡21</ref>፤ <ref loc="LUK 24:51">24፡51</ref></char></note><verse eid="ACT 1:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 1:23"/>ሄሳ ጊሻስ ባርሳባሳ ዎይኮ ዮስጾሳ ጌቴቲዛ ዮሴፌኔ ማቲያሳ ናምኣታ ሺሺዲ፥ <verse eid="ACT 1:23"/><verse number="24" style="v" sid="ACT 1:24"/>«ጎዶ! ኔኒ ኣሳ ኡባ ዎዚና ኤራሳ፤ ሃይታ ናምኣታ ጊዶፌ ኔ ኦና ዶሪዳኮ ኢዛዴ ኑና ቤሳ። <verse eid="ACT 1:24"/><verse number="25" style="v" sid="ACT 1:25"/>ዩሁዳይ ዬጊ ቢዳሶን ሃ ኦሳ ኦናዴኔ ሃዋሬ ጊዳናዴ ኔ ዶራ» ጊ ዎሲዳ። <verse eid="ACT 1:25"/><verse number="26" style="v" sid="ACT 1:26"/>ሄሳፌ ሳማ ዬጊን ሳማይ ማቲያሳስ ኬዚዴስ፤ ኢዚካ ታማኔ ኢሲ ሃዋሬታራ ኢሲፌ ታይቤቲዴስ።<verse eid="ACT 1:26"/></para>
+  <chapter eid="ACT 1"/>
+  <chapter number="2" style="c" sid="ACT 2"/>
+  <para style="s">ኣማኒዛ ኣሳ ቦላ ጺሎ ኣያና ዎ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 2:1"/>ጴንጼቆስቴ ጌቴቲዛ ባኣሌ ጋላሲ ጋኪዳ ዎዴ ኣሳይ ዉሪካ ኢሲ ሶን ሺቂ ዲሺን፥ <verse eid="ACT 2:1"/><verse number="2" style="v" sid="ACT 2:2"/>ቆፋይ ባይንዳ ዳሮ ሚኖ ጎቴ ጫርኮ ማላ ጊሪሲ ዪዴስ፤ ኣሳይ ዲዛ ኬካ ኩሚዴስ። <verse eid="ACT 2:2"/><verse number="3" style="v" sid="ACT 2:3"/>ታማ ላጮ ሚሳቲዛ ቃላይ ኣሳስ ቤቲዲ ሻኬቲ ሻኬቲ ኢሳ ኢሳ ቦላ ኡቲዴስ። <verse eid="ACT 2:3"/><verse number="4" style="v" sid="ACT 2:4"/>ኣማኒዛይቲ ዉሪ ጺሎ ኣያናን ኩሚዲ ኣያናይ ኢስታስ ሃሳያናስ ኢሚዳይሳ ኬና ሃራ ቃላራ ሃሳያ ኦይኪዳ።<verse eid="ACT 2:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 2:5"/>ሄ ዎዴ ሳሎ ጉፋንን ዲዛ ዴሬፔ ዪዳ ጾሳስ ባቢዛ ኣይሁዳቲ ዬሩሳላሜን ዴቴስ። <verse eid="ACT 2:5"/><verse number="6" style="v" sid="ACT 2:6"/>ሄ ጊሪሳ ሲዪዲ ዴሬይ ሺቂዴስ፤ ኢሶይ ኢሶይ ባ ቃላራ ሃሳይዛይሳ ሲዪዲ ማላሌቲዳ። <verse eid="ACT 2:6"/><verse number="7" style="v" sid="ACT 2:7"/>ማላሌቲዲ ጋናዚ ዪን፥ «ሃይቲ ሃሳይዛይቲ ዉሪካ ጋሊላ ኣስ ዴቴኔ? <verse eid="ACT 2:7"/><verse number="8" style="v" sid="ACT 2:8"/>ሂስቲን ኑኒ ኑ ዬሌቲዳ ኑ ዴሬ ቃላራ ኢስቲ ሃሳይሺን ዎስቲ ሲዪዞኒ? <verse eid="ACT 2:8"/><verse number="9" style="v" sid="ACT 2:9"/>ኑኒ ጳርታኔ ኣሳይ፥ ሜዴ ኣሳይ፥ ኤላሜ ኣሳይ፥ ሜስጴጾሚያን፥ ዩሁዳን፥ ቆጶዶቂያን፥ ጳንጾሳን፥ ኢሲያን፥ <verse eid="ACT 2:9"/><verse number="10" style="v" sid="ACT 2:10"/>ፒርጊያን፥ ጲንፊሊያን፥ ጊብጼን፥ ቃሬና ኣቻን ዲዛ ሊቢያፔኔ ኦሮሜፔ ዪዳይቲ <verse eid="ACT 2:10"/><verse number="11" style="v" sid="ACT 2:11"/>ኣይሁዳቲኔ ጌዴ ኣይሁዳቴን ጌሊዳ ቃርጼሴ ኣሳኔ ኣራቤ ኣሳታ ጊዲሺን ዎልቃማ ኦሶ ጾሳይሳ ሃይቲ ኑ ቃላራ ሃሳይሺን ኑ ሲዮስ» ጊዳ።<verse eid="ACT 2:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 2:12"/>ዉሪካ ኬሂ ማላሌቲዲኔ ጋናዚ ዪን ባ ጊዶን፥ «ሃይሲ ኣዜሻ?» ጌቴቲዳ። <verse eid="ACT 2:12"/><verse number="13" style="v" sid="ACT 2:13"/>ባጋ ኣሳይ፥ «ሃይቲ ዳሮ ዎይኔ ጫጄ ኡዪዳ» ጊዲ ኢስታ ቂዳ።<verse eid="ACT 2:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 2:14"/>ሄ ዎዴ ጴጽሮሲ ታማኔ ኢሲኔታራ ኤቂዲ ባ ቃላ ቁ ሂስቲዲ ዴራስ፥ «ኢንቴኖ ዩሁዳ ኣሳቶ! ዬሩሳላሜን ዲዛይቶ! ኢንቴ ዉሪካ ሃይሳ ኢሲ ሚሽ ኤሪቴኔ ታ ጊዛይሳ ሲዪቴ። <verse eid="ACT 2:14"/><verse number="15" style="v" sid="ACT 2:15"/>ሃኢ ጋዴይ ዎንቲን ቡሮ ሄ ሳቴ ጊዲዳ ጊሻስ ኢንቴ ቆፒዛ ማላ ሃይቲ ኣሳቲ ማቲቤቴና። <verse eid="ACT 2:15"/><verse number="16" style="v" sid="ACT 2:16"/>ጊዶ ኣቲን ሃይሲ ካሴ ናቤ ኢዩኤሌን ሂዝጊ ዮቴቲዳ ቃላይ ፖሌታናሳ፥<verse eid="ACT 2:16"/></para>
+  <para style="q1">
+    <verse number="17" style="v" sid="ACT 2:17"/>« ‹ጾሲ ዉርሴ ጋላስ</para>
+  <para style="q2" vid="ACT 2:17">ታ ኣያና</para>
+  <para style="q2" vid="ACT 2:17">ኣሾ ማይኢዳ ኡባ ቦላ</para>
+  <para style="q3" vid="ACT 2:17">ታኒ ጉሳና፤</para>
+  <para style="q2" vid="ACT 2:17">ኢንቴ ማጫ ናይቲኔ</para>
+  <para style="q3" vid="ACT 2:17">ኢንቴ ኣቱማ ናይቲ</para>
+  <para style="q3" vid="ACT 2:17">ቲንቢቴ ሃሳያና፤</para>
+  <para style="q2" vid="ACT 2:17">ዬላጋ ናይቲ ኣጁታ ቤያና፤</para>
+  <para style="q2" vid="ACT 2:17">ጪማቲ ኣጉሞ ኣጉሜታና።<note caller="-" style="x"><char style="xo" closed="false">2፡17-21 </char><char style="xt" closed="false"><ref loc="JOL 2:28-32">ኢዩ 2፡28-32</ref></char></note><verse eid="ACT 2:17"/></para>
+  <para style="q1">
+    <verse number="18" style="v" sid="ACT 2:18"/>ሄ ዎዴ ታ ማጫ ኣሽካራታ ቦላኔ</para>
+  <para style="q2" vid="ACT 2:18">ታ ኣቱማ ኣሽካራታ ቦላ</para>
+  <para style="q3" vid="ACT 2:18">ታ ኣያናፔ ታ ጉሳና።</para>
+  <para style="q2" vid="ACT 2:18">ኢስቲካ ቲንቢቴ ሃሳያና።<verse eid="ACT 2:18"/></para>
+  <para style="q1">
+    <verse number="19" style="v" sid="ACT 2:19"/>ቦላ ሳሎን ማላሊሲዛ ሃኖታ</para>
+  <para style="q2" vid="ACT 2:19">ታ ቤሳና፥</para>
+  <para style="q2" vid="ACT 2:19">ጋርሳ ሳኣን ማላታታ ታ ቤሳና፤</para>
+  <para style="q2" vid="ACT 2:19">ሱ፥ ታማይኔ ቱላላይ ሃናና።<verse eid="ACT 2:19"/></para>
+  <para style="q1">
+    <verse number="20" style="v" sid="ACT 2:20"/>ጊታኔ ቦንቾ ጊዲዳ</para>
+  <para style="q2" vid="ACT 2:20">ጎዳ ጋላሲ</para>
+  <para style="q2" vid="ACT 2:20">ያናፔ ካሴቲዲ</para>
+  <para style="q3" vid="ACT 2:20">ኣርሼይ ማና፤</para>
+  <para style="q2" vid="ACT 2:20">ኣጊናይካ ሱ ሚሳታና።<verse eid="ACT 2:20"/></para>
+  <para style="q1">
+    <verse number="21" style="v" sid="ACT 2:21"/>ጎዳ ሱን ጼይጊዛይ</para>
+  <para style="q2" vid="ACT 2:21">ዉሪ ኣታና› ጊዴስ።<verse eid="ACT 2:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 2:22"/>«ኢስራኤሌ ናይቶ! ሃይሳ ቃላ ሲዪቴ፤ ኢንቴ ኢንቴ ባጋራ ኤሪዛይሳ ማላ ኢንቴ ጊዶን ማላታኔ ኣሲ ሲዪ ኤሮንታ ሚሻታ ኢዛ ኩሼን ኦዲ ጾሲ ናዚሬቴ ዬሱሳስ ማርካቲዴስ። <verse eid="ACT 2:22"/><verse number="23" style="v" sid="ACT 2:23"/>ጾሲ ካሴ ባ ቃቺዳይሳ ኢዛስ ቤኒ ኤራቴ ማላ ሃይሳዴ ኢንቴ ኩሼን ኣ ኢሚዴስ። ኢንቴካ ኢታ ኣሳታ ኩሼን ካቄቲ ሃይቃና ማላ ኦዴታ።<note caller="-" style="x"><char style="xo" closed="false">2፡23 </char><char style="xt" closed="false"><ref loc="MAT 27:35">ማቶ 27፡35</ref>፤ <ref loc="MRK 15:24">ማር 15፡24</ref>፤ <ref loc="LUK 23:33">ሉቃ 23፡33</ref>፤ <ref loc="JHN 19:18">ዮሃ 19፡18</ref></char></note> <verse eid="ACT 2:23"/><verse number="24" style="v" sid="ACT 2:24"/>ጊዶ ኣቲን ጾሲ ኢዛ ቦላፌ ሃይቆ ዎልቃ ዲጊዲ ሃይቆፔ ዴንዴስ፤ ሃይቆይካ ኢዛ ኦይኪ ኣሻናስ ዳንዳይቤና።<note caller="-" style="x"><char style="xo" closed="false">2፡24 </char><char style="xt" closed="false"><ref loc="MAT 28:5-6">ማቶ 28፡5-6</ref>፤ <ref loc="MRK 16:6">ማር 16፡6</ref>፤ <ref loc="LUK 24:5">ሉቃ 24፡5</ref></char></note> <verse eid="ACT 2:24"/><verse number="25" style="v" sid="ACT 2:25"/>ዳዊቲካ ኢዛ ጊሻስ፥</para>
+  <para style="q1" vid="ACT 2:25">« ‹ታኒ ጎዳ ኡባ ዎዴ</para>
+  <para style="q2" vid="ACT 2:25">ታ ሲንን ቤያይስ፤</para>
+  <para style="q2" vid="ACT 2:25">ኢዚ ታ ኡሻቻን ዴስ፤</para>
+  <para style="q2" vid="ACT 2:25">ሙሌካ ሂርጊኬ።<verse eid="ACT 2:25"/></para>
+  <para style="q1">
+    <verse number="26" style="v" sid="ACT 2:26"/>ሄሳ ጊሻስ ታ ዎዚናይ ኡፋዬቴስ፤</para>
+  <para style="q2" vid="ACT 2:26">ታ ዶናይካ ጋላቴስ፤</para>
+  <para style="q2" vid="ACT 2:26">ታ ኣሾይ ኡፋይሳን ዳና።<verse eid="ACT 2:26"/></para>
+  <para style="q1">
+    <verse number="27" style="v" sid="ACT 2:27"/>ኔ ታ ሼምፖዮ ዱፎን ኣጋካ፤</para>
+  <para style="q2" vid="ACT 2:27">ኔ ና ጌሻዛ</para>
+  <para style="q2" vid="ACT 2:27">ዎቃና ማላ ኣጋጋካ።<verse eid="ACT 2:27"/></para>
+  <para style="q1">
+    <verse number="28" style="v" sid="ACT 2:28"/>ኔ ዴኦ ኦጌ</para>
+  <para style="q2" vid="ACT 2:28">ታ ኤራና ማላ ኦዳሳ።</para>
+  <para style="q2" vid="ACT 2:28">ኔ ታናራ ዲዛ ጊሻስ</para>
+  <para style="q2" vid="ACT 2:28">ታ ኡፋይሳይ ኩሜ።›<verse eid="ACT 2:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="ACT 2:29"/>«ታ ኢሻቶ! ቤኒ ኣዋታፔ ዳዊቲ ሃይቂ ሞጌቲዳይሳኔ ኢዛ ዱፎይ ሃች ጋካናስ ኑ ኣቻን ዲዛይሳ ባቦንታ ታ ኢንቴስ ዮታና ዳንዳያይስ። <verse eid="ACT 2:29"/><verse number="30" style="v" sid="ACT 2:30"/>ኢዚ ናቤ ጊዲዳ ጊሻስ ጾሲ ኢዛ ዜሬፌ ኢሳዴ ኢዛ ካዎቴ ኣልጋ ቦላ ዎናይሳ ካሴ ጫቆ ቃላን ዮቲዳይሳ ኤሪዴስ።<note caller="-" style="x"><char style="xo" closed="false">2፡30 </char><char style="xt" closed="false"><ref loc="PSA 132:11">ማዛ 132፡11</ref>፤ <ref loc="2SA 7:12-13">2ሳሜ 7፡12-13</ref></char></note> <verse eid="ACT 2:30"/><verse number="31" style="v" sid="ACT 2:31"/>ሄሳ ካሴቲዲ ኤሪዳ ጊሻሲኔ ኢዛ ኣሾይ ዎቂ ዱፎን ኣቶንታ ዶሬቲዳ ኪርስቶሳ ዴን ጊሻስ ሃሳይዴስ። <verse eid="ACT 2:31"/><verse number="32" style="v" sid="ACT 2:32"/>ሄ ዬሱሳ ጾሲ ሃይቆፔ ዴንዴስ፤ ኑኒካ ዉሪ ሃይሳስ ማርካታ። <verse eid="ACT 2:32"/><verse number="33" style="v" sid="ACT 2:33"/>ሄሳ ጊሻስ ኢዚ ጾሳ ኡሻቻን ቁ ቁ ጊዳፔ ጉዬ ጺሎ ኣያና ኡፋይሳ ባ ኣዋፔ ኤኪዲ ሃኢ ኢንቴ ቤኢዛይሳኔ ሲዪዛይሳ ዱጌ ጉሲዴስ። <verse eid="ACT 2:33"/><verse number="34-35" style="v" sid="ACT 2:34-35"/>ዳዊቲ ፑዴ ሳሎ ኬዚቤና፤ ኢዚ ባ ዶናን፥</para>
+  <para style="q1" vid="ACT 2:34-35">«ጎዳይ ታ ጎዳስ፥</para>
+  <para style="q2" vid="ACT 2:34-35">‹ታ ኔ ሞርኬታ ኔ ቶሆ ጋርሳን</para>
+  <para style="q2" vid="ACT 2:34-35">ዬሳና ጋካናስ</para>
+  <para style="q3" vid="ACT 2:34-35">ታ ኡሻቻን ኡታ› ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">2፡34-35 </char><char style="xt" closed="false"><ref loc="PSA 110:1">ማዛ 110፡1</ref></char></note><verse eid="ACT 2:34-35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="ACT 2:36"/>«ሄሳ ጊሻስ ጾሲ ኢንቴ ካቂዳ ዬሱሳ ጎዳኔ ኪርስቶሳ ሂስቲዳይሳ ኢስራኤሌ ኣሳይ ዉሪ ሎኤ ኤሮ» ጊዴስ።<verse eid="ACT 2:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="ACT 2:37"/>ዴሬይ ሄሳ ሲዪዳ ማላ ዎዚናይ ቦሼቲዴስ፤ ጴጽሮሳኔ ሃንኮ ዬሱሲ ኪቲዳይታ፥ «ሂስቲን ኑ ኢሻቶ! ኑ ኣይ ኦኖ?» ጊዳ።<verse eid="ACT 2:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="ACT 2:38"/>ጴጽሮሲካ፥ «ማሮቴን ጌሊቴ፤ ኢንቴ ናጋራይ ማሬታና ማላ ኢንቴፌ ኢሲ ኢሲ ኣሲ ዬሱስ ኪርስቶሳ ሱንን ጻማቄቲቴ፤ ኢዚ ኢሚዛ ጺሎ ኣያና ኢንቴ ኤካና። <verse eid="ACT 2:38"/><verse number="39" style="v" sid="ACT 2:39"/>ኡፋይሳ ቃላይ ኢንቴሲኔ ኢንቴ ናይታሳ፤ ቃሴካ ጎዳ ጾሲ ባኮ ጼይጊዛ ሃሆን ዲዛይታሳራ ኡባሳ» ጊዴስ።<verse eid="ACT 2:39"/></para>
+  <para style="p">
+    <verse number="40" style="v" sid="ACT 2:40"/>ሃራ ዳሮ ቃላራ ኢስታስ ማርካቲሼ፥ «ሃይሳ ጌላ ዬሌታፔ ኢንቴና ኣሺቴ» ጊዲ ኢስታ ቆፍሲዴስ። <verse eid="ACT 2:40"/><verse number="41" style="v" sid="ACT 2:41"/>ሄ ጋላስ ቃላ ኤኪዳይቲኔ ጻማቄቲዳይቲ ሄ ሺ ማላ ኣሳይ ካሴይታ ቦላ ጉጄቲዴስ። <verse eid="ACT 2:41"/><verse number="42" style="v" sid="ACT 2:42"/>ኢስቲካ ሃዋሬታ ቲሚርቴን፥ ኢሲፌ ቁማ ሙሳኒኔ ዎሳን ሚኒዳ።<verse eid="ACT 2:42"/></para>
+  <para style="p">
+    <verse number="43" style="v" sid="ACT 2:43"/>ሃዋሬታ ኩሼን ዳሮ ማላታቲ ኦሴቲዳ ጊሻስ ኣሲ ኡባይ ኢስታስ ባቢዴስ። <verse eid="ACT 2:43"/><verse number="44" style="v" sid="ACT 2:44"/>ኣማኒዳይቲ ዉሪካ ኢሲፌ ዴኢዳ፤ ባስ ዲዛዚካ ኡባ ኢሲ ቦላ ጎኤቲዳ።<note caller="-" style="x"><char style="xo" closed="false">2፡44 </char><char style="xt" closed="false"><ref loc="ACT 4:32-35">ሃዋ 4፡32-35</ref></char></note> <verse eid="ACT 2:44"/><verse number="45" style="v" sid="ACT 2:45"/>ባስ ዲዛ ሚሼኔ ሜሄ ባይዚ ባይዚ ባ ጊዶን ኮሺዳ ማላ ጊሼቺዳ። <verse eid="ACT 2:45"/><verse number="46" style="v" sid="ACT 2:46"/>ጋላስ ጋላስ ጾሳ ኬን ኢሲፌ ሺቄቴስ፤ ባ ኬንካ ቁማ ኢሲፌ ኡፋይሳኒኔ ሱሬ ዎዚናን ኢሲፌቴን ሜቴስ። <verse eid="ACT 2:46"/><verse number="47" style="v" sid="ACT 2:47"/>ኢስቲ ጾሳ ጋላቲሼ ዴሬ ሲንን ቦንቼቲዳ። ጎዳይካ ኢስታ ቦላ ጋላስ ጋላስ ኦራ ኣማኒዛይታ ጉጂዴስ።<verse eid="ACT 2:47"/></para>
+  <chapter eid="ACT 2"/>
+  <chapter number="3" style="c" sid="ACT 3"/>
+  <para style="s">ጴጽሮሲ ፓዳ ቶሆ ሲላ ኣዴዛ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 3:1"/>ኢሲ ዎዴ ጋላሳፌ ኡዱፉን ሳቴ ቦላ ጴጽሮሲኔ ዮሃኒሲ ዎሳ ሳቴን ጾሳ ኬ ባና ኬዚዳ። <verse eid="ACT 3:1"/><verse number="2" style="v" sid="ACT 3:2"/>ኢሲ ዬሌቶሶፔ ዶሚዲ ቶሆይ ሲሊዳዴ ጾሳ ኬ ጌሊዛ ኣሳፔ ሚሼ ዎሳና ማላ ኣሳይ ጋላስ ጋላስ ቶኪ ኤፊዲ ዎን፥ «ሎኦ» ጌቴቲዛ ጾሳ ኬ ፔንጌን ዎሲዛዴይ ዴስ።<verse eid="ACT 3:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="ACT 3:3"/>ኢዚካ ጴጽሮሲኔ ዮሃኒሲ ጾሳ ኬ ጌሊሺን ቤኢዲ ኢስታፌ ሚሼ ዎሲዴስ። <verse eid="ACT 3:3"/><verse number="4" style="v" sid="ACT 3:4"/>ጴጽሮሲኔ ዮሃኒሲ ኢዛ ቲሺ ሂስቲ ጼሊዳ። ጴጽሮሲካ ኢዛ፥ «ኣኔ ሃ ኑና ጼላ» ጊዴስ። <verse eid="ACT 3:4"/><verse number="5" style="v" sid="ACT 3:5"/>ኣዴዚካ ኢስታፌ ኣይኮ ዴማና ጊዲ ኢስታ ቲሺ ሂስቲ ጼሊዴስ። <verse eid="ACT 3:5"/><verse number="6" style="v" sid="ACT 3:6"/>ጊዶ ኣቲን ጴጽሮሲ ኢዛስ ዛሪዲ፥ «ታስ ቢራይኔ ዎርቃይ ዴና፤ ጊዲኮካ ታስ ዲዛዝ ታ ኔስ ኢማይስ፤ ናዚሬቴ ዬሱስ ኪርስቶሳ ሱንን ዴንዳዳ ኔ ቶሆራ ሄሜታ» ጊዴስ። <verse eid="ACT 3:6"/><verse number="7" style="v" sid="ACT 3:7"/>ኢዛስ ኡሻቻ ኩሼ ኦይኪዲ ዴንዴስ። ሄራካ ኣዴዛ ቶሆይኔ ቶሆ ቂርጴይ ሚኒዴስ። <verse eid="ACT 3:7"/><verse number="8" style="v" sid="ACT 3:8"/>ጉፒ ዴንዲ ኤቂዲ ሄሜ ኦይኪዴስ። ያኔ ሃ ሄሜቲሼኔ ጉፒሼ ጾሳካ ጋላቲሼ ኢስታራ ኢሲፌ ጾሳ ኬ ጊቤ ጌሊዴስ። <verse eid="ACT 3:8"/><verse number="9" style="v" sid="ACT 3:9"/>ኢዚ ጾሳ ጋላቲሼ ያኔ ሃ ሲሜሬቲሺን ኣሳይ ቤዪዴስ። <verse eid="ACT 3:9"/><verse number="10" style="v" sid="ACT 3:10"/>ሃይሳዴይ ሃይሳፌ ካሴ፥ «ሎኦ» ጌቴቲዛ ጾሳ ኬ ፔንጌን ኡቲዲ ሚሼ ዎሲዛይ ኢዛ ጊዲዳይሳ ኤሪዴስ። ኢዛ ቦላ ሃኒዳይሳፌ ዴንዲዳይሳን ኣሳይ ኬሂ ማላሌቲዴስ።<verse eid="ACT 3:10"/></para>
+  <para style="s">ጴጽሮሳ ሃሳያ</para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 3:11"/>ሃ ፓጺዳ ዎሳንቻይ ጴጽሮሳኮኔ ዮሃኒሳኮ ሺጵ ጊዲ ኢስታራ ኦይኬቲ ዲሺን ዴሬይ ዉሪ ማላሌቲዲ ኢስታኮ፥ «ሶሎሞኔ ሲሜሬቴሶ» ጌቴቲዛሶ ዎን ዪዴስ። <verse eid="ACT 3:11"/><verse number="12" style="v" sid="ACT 3:12"/>ጴጽሮሲ ሄ ኣሳ ቤኢዲ፥ «ኢንቴኖ ኢስራኤሌ ዴሬቶ! ሃይሳን ኣዛስ ማላሌቴቲ? ቃሴካ ሃይሳ ኣዴዛ ኑኒ ኑ ዎልቃን ዎይኮ ኑኒ ኑ ጺሎቴን ፓዲ ሄሜቲሲዳ ማላ ቆዲዲ ኑና ኣዛስ ቲሺ ሂስቲ ጼሌቲ? <verse eid="ACT 3:12"/><verse number="13" style="v" sid="ACT 3:13"/>ኑ ኣዋንታ ኣብራሃሜንታ፥ ዪሳቃንታ፥ ያቆቤንታ ጾሲ ባ ናዛ ዬሱሳ ቦንቺዴስ። ኢንቴ ቃሴ ኢዛ ሃይቆስ ኣ ኢሚዴታ፤ ጲላጾሲ ኢዛ ቢርሻና ኮዪንካ ኢንቴ፥ ‹ኮዮኮ› ጊዴታ።<note caller="-" style="x"><char style="xo" closed="false">3፡13 </char><char style="xt" closed="false"><ref loc="EXO 3:15">ኬሳ 3፡15</ref></char></note> <verse eid="ACT 3:13"/><verse number="14" style="v" sid="ACT 3:14"/>ጌሻኔ ጺሎዛ ኢንቴ ካዲዲ ሼምፖ ዎዛይሲ ቢርሼታና ማላ ዎሲዴታ።<note caller="-" style="x"><char style="xo" closed="false">3፡14 </char><char style="xt" closed="false"><ref loc="MAT 27:15-23">ማቶ 27፡15-23</ref>፤ <ref loc="MRK 15:6-14">ማር 15፡6-14</ref>፤ <ref loc="LUK 23:13-23">ሉቃ 23፡13-23</ref>፤ <ref loc="JHN 19:12-15">ዮሃ 19፡12-15</ref></char></note> <verse eid="ACT 3:14"/><verse number="15" style="v" sid="ACT 3:15"/>ዴኦ ኢሚዛዴ ኢንቴ ዎዴታ፤ ጊዶ ኣቲን ጾሲ ኢዛ ሃይቆፔ ዴንዴስ፤ ሄሳስ ኑኒ ማርካ። <verse eid="ACT 3:15"/><verse number="16" style="v" sid="ACT 3:16"/>ሃይሲ ኢንቴ ቤኢዛይሲኔ ኢንቴ ኤሪዛይሲ ሚኒ ኤቂዳይ ዬሱሳ ሱንን ኣማኒዳ ጊሻሳ፤ ኢንቴ ዉሪካ ቤኢዛ ማላ ኢዚ ኩሜ ፓጻቴ ዴሚዳይ ዬሱሳ ሱንኒኔ ኢዛ ሱንን ቤቲዛ ኣማኖና።<verse eid="ACT 3:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 3:17"/>«ሃኢካ ታ ኢሻቶ! ኢንቴ ሄሳ ኦዳይ ኢንቴ ሃላቃታ ማላ ኤሮንታ ጊዲዳይሳ ታ ኤራይስ። <verse eid="ACT 3:17"/><verse number="18" style="v" sid="ACT 3:18"/>ጊዲኮካ ኪርስቶሲ ዋዬ ኤካናይሳ ጾሲ ካሴ ናቤታ ዶናን ሃሳይዳይሳ ፖሊዴስ። <verse eid="ACT 3:18"/><verse number="19" style="v" sid="ACT 3:19"/>ሄሳ ጊሻስ ኢንቴ ናጋራይ ቁጬቲ ያና ማላ ማሮቴን ጌሊቴ፤ ኢንቴ ቢዛ ኦጌፔ ሲሚቴ፤ ጎዳ ማታፔ ኢንቴ ኦራጻና ዎዴይ ኢንቴስ ያና። <verse eid="ACT 3:19"/><verse number="20" style="v" sid="ACT 3:20"/>ቃሴካ ጾሲ ካሴ ኢንቴስ ዶሪ ዎዳ ዬሱስ ኪርስቶሳ ኢዚ ኢንቴስ ዬዳና። <verse eid="ACT 3:20"/><verse number="21" style="v" sid="ACT 3:21"/>ጾሲ ካሴ ጌሻ ናቤታ ዶናን ሃሳይዳይሳ ማላ ሃኒዛይሳ ኡባ ኦራጺሳና ዎዴይ ጋካናስ ኢዚ ሳሎን ጋምኣናስ ኮሼስ። <verse eid="ACT 3:21"/><verse number="22" style="v" sid="ACT 3:22"/>ሙሴይካ፥ ‹ኢንቴ ጎዳ ጾሳይ ኢንቴ ጊዶፌ ታ ማላ ናቤ ኢንቴስ ዴንና። ኢዚ ኢንቴስ ዮቲዛይሳ ሲዪቴ።<note caller="-" style="x"><char style="xo" closed="false">3፡22 </char><char style="xt" closed="false"><ref loc="DEU 18:15">ዛሬ 18፡15</ref>፥<ref loc="DEU 18:18">18</ref></char></note> <verse eid="ACT 3:22"/><verse number="23" style="v" sid="ACT 3:23"/>ሄ ናቤዛ ሲዮንታ ኢጺዳ ሼምፖይ ዉሪ ዴሬ ጊዶፌ ሻኬቲ ዮ።›<verse eid="ACT 3:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 3:24"/>«ቱማፔ ሳሜላፔ ሃ ሲሚን ዴንዲዳ ናቤቲ ዉሪ ሃይታ ዎዴታ ጊሻስ ሃሳይዳ። <verse eid="ACT 3:24"/><verse number="25" style="v" sid="ACT 3:25"/>ኢንቴካ ናቤታ ናይታ፤ ቃሴካ ጾሲ ኣብራሃሜስ፥ ‹ኔ ዜሬን ቢታ ቦላ ዲዛ ኣሲ ዉሪ ኣንጄታና› ጊዲ ኢዚ ጫቂዳ ጫቆዛ ኢንቴ ላታና።<note caller="-" style="x"><char style="xo" closed="false">3፡25 </char><char style="xt" closed="false"><ref loc="GEN 22:18">ሜ 22፡18</ref></char></note> <verse eid="ACT 3:25"/><verse number="26" style="v" sid="ACT 3:26"/>ጾሲ ናዛ ዴንዳ ዎዴ ኢንቴና ኢሳ ኢሳ ኢንቴ ኢታቴፌ ዛሪዲ ኣንጃና ማላ ካሴቲዲ ኢንቴኮ ኪቲዴስ» ጊዴስ።<verse eid="ACT 3:26"/></para>
+  <chapter eid="ACT 3"/>
+  <chapter number="4" style="c" sid="ACT 4"/>
+  <para style="s">ጴጽሮሲኔ ዮሃኒሲ ኣይሁዳ ዱላታሶ ሺቆ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 4:1"/>ጴጽሮሲኔ ዮሃኒሲ ኣሳስ ሃሳያን ዲሺን ቄሴታ<note caller="+" style="f"><char style="fr" closed="false">4፡1 </char><char style="fqa" closed="false">ቄሴታ፡ </char><char style="ft" closed="false">ቄሴታ ኢሲ ኢሲ ጌሻ ማጻፋቲ ቄሴታ ሃላቃ ጌቴስ።</char></note> ሃላቃቲኔ ጾሳ ኬ ናጊዛይታ ሃላቃይ ቃሴካ ሳዱቃዌቲ ኢስታኮ ዪዳ። <verse eid="ACT 4:1"/><verse number="2" style="v" sid="ACT 4:2"/>ሂስቲዲ ሃዋሬቲ ኣሳ ታማርሲዛይሳሲኔ ዬሱሳ ባጋራ ቤቲዳ ሃይቂዳይታ ዴን ጊሻስ ሳባኪዛይሳስ ኬሂ ሃንቄቲዳ። <verse eid="ACT 4:2"/><verse number="3" style="v" sid="ACT 4:3"/>ጴጽሮሳኔ ዮሃኒሳ ጋዴይ ቃሚሺን ኦይኪዲ ዎንታና ጋካናስ ቃሾ ኬን ኣይሲዳ። <verse eid="ACT 4:3"/><verse number="4" style="v" sid="ACT 4:4"/>ጊዶ ኣቲን ቃላ ሲዪዳ ኣሳፔ ዳሪዛ ባጋይ ኣማኒዴስ፤ ኣማኒዳ ኣቱማ ኣሳ ቆዳይ ጌዴ ኢቻሹ ሺ ጋካናስ ቁ ጊዴስ።<verse eid="ACT 4:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 4:5"/>ዎንቴ ጋላስ ኢስታ ሃላቃቲኔ ጪማቲ ቃሴካ ሙሴ ዎጋ ታማርሲዛይቲ ዬሩሳላሜን ሺቂዳ። <figure style="fig" alt="Part of the Sanhedrin council in session" file="LB00284B.TIF" size="col" ref="4፡5">ኣይሁዳ ሃላቃታ፥ ጪማታኔ ዎጋ ታማርሲዛይታ ዱላታ</figure> <verse eid="ACT 4:5"/><verse number="6" style="v" sid="ACT 4:6"/>ኢስታ ቄሴታ ሃላቃ ሃናይኔ ቃያፋይ፥ ዮሃኒሲ፥ ኢስኪንዲሮሲኔ ቄሴታ ሃላቃሶ ኣሳይ ዉሪ ሄን ቤቲዳ። <verse eid="ACT 4:6"/><verse number="7" style="v" sid="ACT 4:7"/>ኢስቲካ ጴጽሮሳኔ ዮሃኒሳ ባ ጊዶን ኣ ኤሲዲ፥ «ሃይሳ ኢንቴ ኦዛይ ኣዛ ዎልቃኔ? ዎይኮ ኦና ሱንኔ?» ጊዲ ኦይቺዳ።<verse eid="ACT 4:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="ACT 4:8"/>ሄ ዎዴ ጴጽሮሲ ጺሎ ኣያናን ኩሚዲ፥ «ኢንቴኖ ዴሬ ሃላቃቶ! ዴሬ ጪማቶ! <verse eid="ACT 4:8"/><verse number="9" style="v" sid="ACT 4:9"/>ኢንቴ ሃች ሃ ቶሆ ሲላ ኣዴዛስ ኦሴቲዳ ሎኦ ኦሶይ ዋኒ ኢዚ ፓጺዳኮ ኢንቴ ኑና ኦይቺዛ ጊዲኮ፥ <verse eid="ACT 4:9"/><verse number="10" style="v" sid="ACT 4:10"/>ኢንቴ ካቂን ጾሲ ሃይቆፔ ዴንዳ ናዚሬቴ ዬሱስ ኪርስቶሳ ሱንን ኢዚ ፓጺዳይሳኔ ኢንቴ ሲንን ኢዚ ኤቂዳይሳ ኢንቴካ ኢስራኤሌ ዴሬ ኣሳይ ዉሪ ሃይሳ ኤሪቴ። <verse eid="ACT 4:10"/><verse number="11" style="v" sid="ACT 4:11"/>ኢዚካ ኢንቴ ኬ ሂላቲ ሌቂ ኣጊዳ ሹቻይ ጊምቤ ኬስ ጉላ<note caller="+" style="f"><char style="fr" closed="false">4፡11 </char><char style="fqa" closed="false">ጉላ፡ </char><char style="ft" closed="false">ጉላ ጊዛይሳ ኢሲ ኢሲ ባጋ ጋሞ ቃላን ማጋላ ዎይኮ ዮቻ ሹች ጌቴስ።</char></note> ቦላ ቦላራ ዎዛ ሹች ጊዲዴስ።<note caller="-" style="x"><char style="xo" closed="false">4፡11 </char><char style="xt" closed="false"><ref loc="PSA 118:22">ማዛ 118፡22</ref></char></note> <verse eid="ACT 4:11"/><verse number="12" style="v" sid="ACT 4:12"/>ኣቶቴ ሃራ ኦናንካ ባ፤ ሳሎፔ ጋርሳ ባጋራ ኑ ኣሳ ናይቲ ኣታና ማላ ኑስ ኢሜቲዳይ ሃይሳፌ ሃራ ሱን ዴና» ጊዴስ።<verse eid="ACT 4:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 4:13"/>ኣይሁዳታ ዱላታ ኣሳይካ ጴጽሮሲኔ ዮሃኒሲ ሄሳ ጻሊ ሃሳይዛይሳ ቤኢዲ ኢስቲ ታማሮንታ ኣስ ጊዲዳይሳ ኤሪዲ ማላሌቲዳኔ ኢስቲ ካሴ ዬሱሳራ ዲዛይታ ጊዲዳይሳ ኣኬኪዳ። <verse eid="ACT 4:13"/><verse number="14" style="v" sid="ACT 4:14"/>ሄ ፓጺዳ ኣዴዚ ኢስታራ ኤቂ ዲሺን ቤኢዳ ጊሻስ ኢስታስ ሃራ ኦናስ ጋሶይካ ይዴስ። <verse eid="ACT 4:14"/><verse number="15" style="v" sid="ACT 4:15"/>ሄሳ ጊሻስ ኢስታ ዱላታፔ ኬሳና ማላ ኣዛዚዳ። ሄሳፌ ቃሴካ ሺቄቲዲ ባ ጊዶን ዞሬቲዳ። <verse eid="ACT 4:15"/><verse number="16" style="v" sid="ACT 4:16"/>ባ ጊዶን፥ «ሃይታ ኣሳታ ዎስቲኖ? ዬሩሳላሜን ዲዛ ኣሳይ ዉሪ ኢስታ ኩሼን ሃኒዳ ጊታ ማላታ ኤሪዴስ። ሄሳ ጊሻስ ኑ ሃ ዮኦዛ ኣሳ ባሌናስ ዳንዳዮኮ። <verse eid="ACT 4:16"/><verse number="17" style="v" sid="ACT 4:17"/>ጊዶ ኣቲን ሃይሲ ዮኦዚ ዴሬ ጊዶን ኬሂ ኣኮንታ ማላኔ ሃይቲ ኣሳቲ ናምኣን ሃይሳ ሃ ሱንን ሃራ ኦናስካ ዮቶንታ ማላ ኢስታስ ሎኤ ዮታና» ጊዳ።<verse eid="ACT 4:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="ACT 4:18"/>ኢስታ ጼይጊዲኔ ሙሌካ ዬሱሳ ሱንን ሃሳዮንታ ማላኔ ታማርሶንታ ማላ ኣዛዚዳ። <verse eid="ACT 4:18"/><verse number="19" style="v" sid="ACT 4:19"/>ጴጽሮሲኔ ዮሃኒሲ ቃሴ ዛሪዲ፥ «ኑኒ ጾሳፌ ቦላራ ኢንቴስ ኣዛዜታናስ ቤሲዛኮ ኣኔ ኢንቴ ጾሳ ሲንን ፒርዲቴ። <verse eid="ACT 4:19"/><verse number="20" style="v" sid="ACT 4:20"/>ኑኒ ኑ ቤኢዳይሳኔ ኑ ሲዪዳይሳ ሃሳያናፔ ጉዬ ጎኮ» ጊዳ።<verse eid="ACT 4:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 4:21"/>ቃሴካ ኢስታ ቦላ ማንዲዲ ዬዲዳ፤ ጋሶይካ ሃንኮ ዴሬይ ዉሪ ሃኒዳ ዮኦዛ ጋሶን ዉሪካ ጾስ ጋላቲዛ ጊሻስ ኢስታ ቃጻያናስ ዳንዳይቤቴና። <verse eid="ACT 4:21"/><verse number="22" style="v" sid="ACT 4:22"/>ሄ ጊታ ማላታን ፓጺዳ ኣዴዛስ ላይይ ኦይዱ ታማፌ ቦላ።<verse eid="ACT 4:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 4:23"/>ጴጽሮሲኔ ዮሃኒሲ ቃሾፔ ቢርሼቲዲ ባ ኣሳታኮ ሲሚዲ ቄሴታ ሃላቃቲኔ ዴሬ ጪማቲ ኢስታ ጊዳይሳ ኡባካ ዮቲዳ። <verse eid="ACT 4:23"/><verse number="24" style="v" sid="ACT 4:24"/>ኢስቲካ ሄሳ ሲዪዳ ማላ ባ ቃላ ቁ ሂስቲዲ ኢሲፌ ጾሳኮ፥ «ዎጋ ጎዳዉ! ኔኒ ሳሎኔ ሳኣ፥ ኣባኔ ኣባ ጊዶን ዲዛይታ ዉርሳ ሜዳሳ።<note caller="-" style="x"><char style="xo" closed="false">4፡24 </char><char style="xt" closed="false"><ref loc="EXO 20:11">ኬሳ 20፡11</ref>፤ <ref loc="NEH 9:6">ናሂ 9፡6</ref>፤ <ref loc="PSA 146:6">ማዛ 146፡6</ref></char></note> <verse eid="ACT 4:24"/><verse number="25" style="v" sid="ACT 4:25"/>ኔ ኣሽካራ ኑ ኣዋ ዳዊቴ ዶናራ ጺሎ ኣያናን፥</para>
+  <para style="q1" vid="ACT 4:25">« ‹ካዎቴይ ኣዛስ</para>
+  <para style="q2" vid="ACT 4:25">ሃንቄቲ ዴንዲዴ?</para>
+  <para style="q2" vid="ACT 4:25">ዴሬይ ኣዛስ ሜላ ማቄቲዜ?<verse eid="ACT 4:25"/></para>
+  <para style="q1">
+    <verse number="26" style="v" sid="ACT 4:26"/>ቢታ ካዎቲ ኢሲፌ ጋጊዲ</para>
+  <para style="q2" vid="ACT 4:26">ቢታ ሃሪዛይቲ</para>
+  <para style="q2" vid="ACT 4:26">ኢሲ ቦላ ሺቄቲዲ</para>
+  <para style="q2" vid="ACT 4:26">ጎዳ ቦላኔ ዶሬቲ</para>
+  <para style="q3" vid="ACT 4:26">ቲዬቲዳይሳ ቦላ ዱላቲዳ›</para>
+  <para style="q3" vid="ACT 4:26">ጊ ዋሲዳ።<verse eid="ACT 4:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 4:27"/>«ቱማፔ ሄርዶሲኔ ጳንጾሳ ጲላጾሲ ኢስራኤሌታራኔ ሃራ ዴሬ ኣሳራ ሃኖ ካታማይን ኔ ዶራ ቲይዳ ጌሻ ናዛ ዬሱሳ ቦላ ዮኦ ቃቻናስ ሺቄቲዳ።<note caller="-" style="x"><char style="xo" closed="false">4፡27 </char><char style="xt" closed="false"><ref loc="LUK 23:1">ሉቃ 23፡1</ref>፥<ref loc="LUK 23:7-11">7-11</ref>፤ <ref loc="MAT 27:1-2">ማቶ 27፡1-2</ref>፤ <ref loc="MRK 15:1">ማር 15፡1</ref>፤ <ref loc="JHN 18:28-29">ዮሃ 18፡28-29</ref></char></note> <verse eid="ACT 4:27"/><verse number="28" style="v" sid="ACT 4:28"/>ሃይሳንካ ኔ ዎልቃኒኔ ኔ ሼኔን ካሴ ኔ ቆፒዳይሳ ኢስቲ ፖሊዳ። <verse eid="ACT 4:28"/><verse number="29" style="v" sid="ACT 4:29"/>ጎዶ! ሃኢካ ኢስታ ማንዴዛ ኔ ቤያ፤ ኑኒ ኔ ኣይሌቲ ኔ ቃላ ባቦንታ ኩሜ ጻላቴራ ዮታና ማላ ዳንዳይሳ። <verse eid="ACT 4:29"/><verse number="30" style="v" sid="ACT 4:30"/>ፓናስ ኔ ኩሼ ሚጫ። ኔ ና ጌሻዛ ሱንን ጊታ ማላታ ኦ» ጊዳ።<verse eid="ACT 4:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="ACT 4:31"/>ኢስቲ ዎሲዳፔ ጉዬ ኢስቲ ዲዛሶይ ቃጺዴስ፤ ዉሪካ ጺሎ ኣያናን ኩሚዲ ጾሳ ቃላ ጻላቴን ዮቲዳ።<verse eid="ACT 4:31"/></para>
+  <para style="s">ኣማኒዛይታ ኢሲፌቴ ዱስ</para>
+  <para style="p">
+    <verse number="32" style="v" sid="ACT 4:32"/>ኣማኒዛይቲ ዉሪካ ኢሲ ዎዚናኒኔ ኢሲ ቆፋን ጋጊ ዴቴስ። ኢስታስ ዲዛይ ዉሪ ኢሲ ቦላ ዴስ ኣቲን ባስ ዲዛዝ፥ «ሃይሲ ታስ ቡዞ ሚሻ» ጊዛዴይ ዴና።<note caller="-" style="x"><char style="xo" closed="false">4፡32 </char><char style="xt" closed="false"><ref loc="ACT 2:44-45">ሃዋ 2፡44-45</ref></char></note> <verse eid="ACT 4:32"/><verse number="33" style="v" sid="ACT 4:33"/>ሃዋሬቲካ ጎዳ ዬሱሳ ዴን ጊታ ዎልቃን ማርካቴ ኦይኪዳ፤ ኡባ ቦላ ጊታ ጾሳ ኪያቴ ዴስ። <verse eid="ACT 4:33"/><verse number="34" style="v" sid="ACT 4:34"/>ኢስታ ጊዶን ሜቶታንቻይ ኢሳዴይካ ዴና፤ ጋሶይካ ጋዴ ጊዲን፥ ኬ ጊዲን ባስ ዲዛ ኡባ ባይዚ ባይዚ ሺሺዳ ሚሽ፥ <verse eid="ACT 4:34"/><verse number="35" style="v" sid="ACT 4:35"/>ሃዋሬታ ኩሼን ዎዲ ኢሳዴስ ኢሳዴስ ኢዛስ ኮሺዛ ማላ ጊሼቴስ።<figure style="fig" alt="Money of Juwish and Romans" file="HK00163B.TIF" size="col" ref="4፡35">ኣይሁዳታ ሚሺኔ ኦሮሜታ ሚሽ</figure><verse eid="ACT 4:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="ACT 4:36"/>ቆጲሮሴ ጌቴቲዛሶን ዲዛ ዮሴፌ ጌቴቲዛዴይ ኢሲ ሌዌ ባጋ ኣሲ ዴስ፤ ኢዚካ ሃዋሬታን፥ «ባርናባሳ» ጌቴቲ ሱሚዴስ። ሄሳስ ቢርሼይ፥ «ሚን ና» ጉሳ። <verse eid="ACT 4:36"/><verse number="37" style="v" sid="ACT 4:37"/>ኢዚካ ባ ጋዴ ባይዚዳ ሚሻ ኤሂዲ ሃዋሬታ ኩሼን ዎዴስ።<verse eid="ACT 4:37"/></para>
+  <chapter eid="ACT 4"/>
+  <chapter number="5" style="c" sid="ACT 5"/>
+  <para style="s">ሃናኒያኔ ሳጵራ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 5:1"/>ኢሲ ሃናኒያ ጌቴቲዛ ኣሲ ሳጵራ ጌቴቲዛ ባ ማቼይራ ባ ጋዴ ባይዚዴስ። <verse eid="ACT 5:1"/><verse number="2" style="v" sid="ACT 5:2"/>ማቼያ ሳጵራይ ሎኤ ኤሪሺን ጋዴዛ ባይዚዳ ሚሻፌ ባጋ ሻኪ ኣሺዲ ባጋ ኤሂዲ ሃዋሬታ ኩሼን ኢሚዴስ። <verse eid="ACT 5:2"/><verse number="3-4" style="v" sid="ACT 5:3-4"/>ቃሴ ጴጽሮሲ፥ «ሃይሶ ሃናኒያ! ኔኒ ጺሎ ኣያና ቦላ ዎርዶታናሲኔ ጋዴዛ ሚሻፌ ኣሻና ማላ ጻላኤይ ኣይስ ኔ ዎዚናን ጌሊዴ? ባይዛናፔ ካሴ ጋዴዚ ኔይሳ ጊዴኔ? ኔ ባይዚዳፔ ጉዬ ቃሴ ሚሻይ ኔ ኩሼን ዴኔ? ሂስቲን ኔ ሃይሳ ማላ ዎስታ ኔ ዎዚናን ቆፓዲ? ኔኒ ጾሳ ቦላ ዎርዶታዳሳ ኣቲን ኣሳ ቦላ ጊዴና» ጊዴስ።<verse eid="ACT 5:3-4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 5:5"/>ሄሳ ሲዪዳ ማላ ሃናኒያይ ኩንዲ ሃይቂዴስ፤ ሄሳ ሲዪዳ ኣሳይ ዉሪ ዳሮ ባቢዴስ።<verse eid="ACT 5:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 5:6"/>ኣቱማሳይ ዴንዲዲ ኣሃ ጻጺዲ ሄራካ ኤፊዲ ሞጊዴስ።<verse eid="ACT 5:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 5:7"/>ሄ ሳቴፔ ጉዬ ማቼያ ኢዚ ዋኒዳኮ ኤሮንታ ዳሼ ያዱስ። <verse eid="ACT 5:7"/><verse number="8" style="v" sid="ACT 5:8"/>ጴጽሮሲካ፥ «ኣኔ ታስ ዮታ፤ ኢንቴ ጋዴዛ ባይዚዳ ዋጋይ ሃኖ ጻላ?» ጊዴስ። ኢዛካ፥ «ኤ ሃኖ ሃ ዋጋይን ባይዚዶስ» ጋዱስ።<verse eid="ACT 5:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 5:9"/>ጴጽሮሲካ፥ «ኢንቴ ጾሳ ኣያና ፓጫናስ ኣይስ ኢሲ ዶና ጊዲዴቲ? ሄኮ ኔ ኣዚና ሞጊዳ ኣሳቲ ሞጊ ሲሚዲ ካሬን ፔንጌ ቦላ ዴቴስ። ኢስቲ ኔናካ ኬሲ ኤኪ ኤፋና» ጊዴስ። <verse eid="ACT 5:9"/><verse number="10" style="v" sid="ACT 5:10"/>ኢዛ ሲዪዳ ማላ ሄራካ ኢዛ ቶሆ ቦላ ኩንዳዳ ሃይቃዱስ። ኣቱማሳይካ ሶ ጌሊዳ ማላ ሃይቂዳሮ ቤኢዲ ኬሲ ኤፊዲ ኢዚ ኣዚና ኣቻን ኢዞ ሞጊዳ። <verse eid="ACT 5:10"/><verse number="11" style="v" sid="ACT 5:11"/>ኩሜ ዎሳ ኬ ኣሳይኔ ሄሳ ሲዪዳ ኣሳይ ዉሪ ዳሮ ባቢዴስ።<verse eid="ACT 5:11"/></para>
+  <para style="s">ሃዋሬታ ኩሼን ፓጺዳ ዳሮ ኣሳ</para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 5:12"/>ሃዋሬቲካ ዴሬ ጊዶን ዳሮ ማላታታኔ ማላሊሲዛ ሚሽ ኦዳ፤ ኣማኒዛይቲ ዉሪ፥ «ሶሎሞኔ ሲሜሬቴሶ» ጌቴቲዛ ፔንጌን ሺቄቴስ። <verse eid="ACT 5:12"/><verse number="13" style="v" sid="ACT 5:13"/>ኢስታስ ባቢዳ ጊሻስ ኦኒካ ኢስታራ ዋላኬታናስ ኮዪቤና፤ ጊዶ ኣቲን ዴሬይ ኢስታ ኬሂ ቦንቼስ። <verse eid="ACT 5:13"/><verse number="14" style="v" sid="ACT 5:14"/>ዳሮ ማጫሳቲኔ ኣዴቲ ዎዴፔ ዎዴን ጎዳን ኣማኒ ኣማኒ ኢስታ ቦላ ጉጄቲዳ። <verse eid="ACT 5:14"/><verse number="15" style="v" sid="ACT 5:15"/>ሄሳ ጋሶን ጴጽሮሲ ኣሺን ሃራይ ኣቲን ኢዛ ኤሾይ ሃርጋንቻታፔ ባጋ ሃርጋንቻታ ቦላ ዎና ማላ ሃርጊዛይቲ ኢቺዛ ኣልጋ ቦላኔ ሃላ ቦላ ካሬን ኢሺሴቴስ። <verse eid="ACT 5:15"/><verse number="16" style="v" sid="ACT 5:16"/>ዬሩሳላሜ ዩሾን ዲዛ ካታማታፔ ሃርጊዛይታኔ ቱና ኣያናይ ዋዪሲዛይታ ኤሂን ዉሪ ፓጺዳ።<verse eid="ACT 5:16"/></para>
+  <para style="s">ሃዋሬታ ቦላ ጋኪዳ ጎዴቴኔ ዋዬ</para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 5:17"/>ሄ ዎዴ ቄሴታ ሃላቃይኔ ኢዛራ ዲዛ ሳዱቃዌታ ባጋይቲ ዉሪካ ቃናቴ ቃናቲዛይታ ጻላ ጊዲዳ። <verse eid="ACT 5:17"/><verse number="18" style="v" sid="ACT 5:18"/>ሃዋሬታ ኦይኪዲ ቃሾ ኬ ጌልዳ። <verse eid="ACT 5:18"/><verse number="19" style="v" sid="ACT 5:19"/>ጊዶ ኣቲን ጎዳ ኪታንቻይ ቃማራ ቃሾ ኬዛ ካሬ ዶይዲ ኢስታ ኬሲዲ፥ <verse eid="ACT 5:19"/><verse number="20" style="v" sid="ACT 5:20"/>«ቢዲ ጾሳ ኬ ጊቤ ጊዶን ኤቂዲ ሃይሳ ዴኦ ቃላ ኡባ ዴራስ ዮቲቴ» ጊዴስ።<verse eid="ACT 5:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 5:21"/>ጋዴይ ዎንቲዳ ማላ ኢስታስ ዮቲዳይሳ ጾሳ ኬ ጊቤ ጌሊዲ ዴሬዛ ታማርሶ ኦይኪዳ፤ ቄሴታ ሃላቃይኔ ኢዛራ ዲዛይቲ ዪዲ ኣይሁዳታ ዱላታኔ ኢስራኤሌ ዴሬ ጪማታ ኩሜ ኢሲ ቦላ ሺሺዳ፤ ሃዋሬታ ቃሾ ኬፌ ኤኪ ያና ማላ ኣስ ዬዲዳ። <verse eid="ACT 5:21"/><verse number="22" style="v" sid="ACT 5:22"/>ኪቴቲ ቢዳ ኣሳቲ ቢዲ ኢስታ ቃሾ ኬን ዴሚቤቴና፤ ሲሚዲ፥ <verse eid="ACT 5:22"/><verse number="23" style="v" sid="ACT 5:23"/>«ቃሾ ኬይ ሎኢ ቁልፔቲ ዴስ፤ ናጊዛይቲካ ፔንጌ ቦላ ኤቂ ዲሺን ኑ ቤኢዶስ፤ ጊዶ ኣቲን ኑ ዶዪ ጌሊሺን ኬን ኦኒካ ባ» ጊዳ። <verse eid="ACT 5:23"/><verse number="24" style="v" sid="ACT 5:24"/>ጾሳ ኬ ናጊዛይታ ሃላቃይኔ ቄሴታ ሃላቃቲካ ሄሳ ሲዪዳ ማላ ሃኖዛን ዳሮ ማላሌቲዳኔ ኢስታስ ሃኖይ ዉሪ ቲኪ ጊዴስ። <verse eid="ACT 5:24"/><verse number="25" style="v" sid="ACT 5:25"/>ሄራካ ኢሲ ኣሲ ዪዲ፥ «ሄኮ ኢንቴ ቃሾ ኬ ጌልዳ ኣሳቲ ጾሳ ኬ ጊቤ ጊዶን ኤቂዲ ዴሬ ታማርሶን ዴቴስ» ጊዴስ። <verse eid="ACT 5:25"/><verse number="26" style="v" sid="ACT 5:26"/>ጾሳ ኬ ናጊዛይታ ሃላቃይ ባ ኦሳንቻታራ ቢዲ ኢስታ ኦይኪ ኤኪ ዪዴስ፤ ኦይኪ ኤሂዳይቲ ኣሳይ ባና ሹቻራ ጫዶንታ ማላ ባቢዲ ዎልቃንታ ሎዳራ ኤሂዳ።<verse eid="ACT 5:26"/></para>
+  <para style="p">
+    <verse number="27-28" style="v" sid="ACT 5:27-28"/>ሃዋሬታ ኤሂዲ ኣይሁዳታ ዱላታ ሲንን ኤሲዳ፤ ቄሴታ ሃላቃይካ ኢስታ፥ «ሃይሳ ሃ ሱንን ኢንቴ ታማርሶንታ ማላ ኢንቴስ ሎኤ ዮቲዶስኮሺን ኢንቴ ኢንቴ ቲሚርቴዛ ዬሩሳላሜ ኡባን ኩንታ፤ ቃሴ ኑናካ ሃ ኣዴዛ ሱስ ኦይሼቲዛይታ ሂስታናስ ጊጺ ዴንዲዴታ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">5፡27 </char><char style="xt" closed="false"><ref loc="MAT 27:25">ማቶ 27፡25</ref></char></note><verse eid="ACT 5:27-28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="ACT 5:29"/>ጴጽሮሲኔ ሃንኮ ሃዋሬቲካ ዛሪዲ፥ «ኑኒ ኣሳፔ ኣዲ ጾሳስ ኣዛዜታናስ ቤሴስ።<verse eid="ACT 5:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 5:30"/>«ኢንቴ ኢዛ ሚ ቦላ ካቂ ዎዳ ዬሱሳ ኑ ኣዋንታ ጾሳይ ኢዛ ሃይቆፔ ዴንዴስ። <verse eid="ACT 5:30"/><verse number="31" style="v" sid="ACT 5:31"/>ኢዚካ ኢስራኤሌ ናይታስ ናጋራፔ ሲሚዲ ማሬታና ማላ ጾሲ ኢዛ ኡባፌ ቦላኔ ኣሺዛዴ ሂስቲዲ ባ ኡሻቻን ቁ ቁ ሂስቲዴስ። <verse eid="ACT 5:31"/><verse number="32" style="v" sid="ACT 5:32"/>ኑኒካ ሃይሳስ ማርካታ፤ ቃሴካ ጾሲ ባስ ኣዛዜቲዛ ኦናስካ ኢሚዳ ጺሎ ኣያናይካ ማርካ» ጊዳ።<verse eid="ACT 5:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="ACT 5:33"/>ኣሳቲ ሄሳ ሲዪዲ ኢታ ሃንቆ ሃንቄቲዳ፤ ዎናካ ኮዪዳ። <verse eid="ACT 5:33"/><verse number="34" style="v" sid="ACT 5:34"/>ጊዶ ኣቲን ዴሬ ኣቻን ኬሂ ቦንቼቲዳ ኢሲ ዎጋ ኣስታማሬ፥ ኢዚካ ጋማልያሌ ጌቴቲዛ ፋርሳዌታ ባጋይ ዴሬ ጪማታ ጊዶን ዴንዲ ኤቂዲ ሃዋሬቲ ጉ ዎዴ ካሬን ጋምኣና ማላ ኣዛዚዴስ። <verse eid="ACT 5:34"/><verse number="35" style="v" sid="ACT 5:35"/>ዴሬ ጪማታስ፥ «ኢስራኤሌ ኣሳቶ! ኢንቴ ሃይታ ኣሳታ ቦላ ኦናይሳ ዳሮ ኣኬካራ ኦናስ ቤሴስ። <verse eid="ACT 5:35"/><verse number="36" style="v" sid="ACT 5:36"/>ሃይሳፌ ካሴ ኢሲ ቴዎዳሳ ጌቴቲዛዴይ ባና ጊታ ኣስ ሂስቲ ቆዲ ዴንዲን ኦይዱ ጼቱ ዴሬይ ኢዛ ካሊዴስ፤ ጊዶ ኣቲን ኢዚ ኣሳ ኩሼን ሃይቂዴስ፤ ኢዛ ካሊዛይቲካ ጮ ላሌቲን ኢዛ ሃኖይ ጮ ሜላ ኣቲዴስ። <verse eid="ACT 5:36"/><verse number="37" style="v" sid="ACT 5:37"/>ኢዛፔ ጉዬካ ዴሬይ ታይቤቲዛ ዎዴ ጋሊላ ዩሁዳይ ዴንዲዲ ዳሮ ዴሬ ባናራ ካሌዴስ። ባና ካሊዛይታካ ዴሚዴስ፤ ጊዶ ኣቲን ኢዚካ ይዴስ፤ ኢዛ ካሊዛይቲካ ዉሪ ይዳ።<verse eid="ACT 5:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="ACT 5:38"/>«ሄሳ ጊሻስ ታ ሃኢ ኢንቴና ጊዛይ ሃይታ ኣሳታ ኣጊቴ፥ ቦቾፍቴ፤ ኢስታ ቆፋይ ዎይኮ ኢስታ ኦሶይ ኣሳፔ ጊዲኮ ያና። <verse eid="ACT 5:38"/><verse number="39" style="v" sid="ACT 5:39"/>ጾሳፌ ጊዲኮ ቃሴ ኢንቴ ኢስታ ቴቃናስ ዳንዳዬኬታ፤ ኦኔ ኤሪዛይ ኢንቴ ጾሳራ ኦዬቲሼ ቤታናኮ» ጊዴስ።<verse eid="ACT 5:39"/></para>
+  <para style="p">
+    <verse number="40" style="v" sid="ACT 5:40"/>ኢስቲካ ኢዛ ዞሬዛ ኤኪዲ ሃዋሬታ ጼይጊዲ ጋራፊሲዳ፤ ናምኣን ዬሱሳ ሱንን ሃሳዮንታ ማላ ኣዛዚዲ ዬዲዳ። <verse eid="ACT 5:40"/><verse number="41" style="v" sid="ACT 5:41"/>ሃዋሬቲካ ኢዛ ሱን ጊሻስ ካዉያናስ ቤሲዛ ጊሻስ ዳሮ ኡፋዬቲሼ ዴሬ ጪማታ ኣቻፌ ኬዚ ቢዳ። <verse eid="ACT 5:41"/><verse number="42" style="v" sid="ACT 5:42"/>ጋላስ ጋላስ ጾሳ ኬኒኔ ኢሳ ኢሳ ኬን ዬሱሲ ኢዚ ጾሲ ዶሪዳዴ ጊዲዳይሳ ታማርሶፌኔ ሳባኮፔ ሙሌካ ጉዬ ጊቤቴና።<verse eid="ACT 5:42"/></para>
+  <chapter eid="ACT 5"/>
+  <chapter number="6" style="c" sid="ACT 6"/>
+  <para style="s">ላፑን ዳቆኔታ ዶሬቴ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 6:1"/>ኣማኒዛይታ ቆዳይ ዳሪ ዳሪ ቢዛ ዎዴ ጊሪኬ ቢታፌ ዪዳ ኣይሁዳ ኣሳቲ ዩሁዳን ዲዛ ኣይሁዳ ኣሳ ጉዬራ ዚጊሬቲዳ፤ ጋሶይካ ኡባ ዎዴ ሚዛ ካ ጊሻሼ ኣምኤታ ዉዴቶንታ ኣጊዳ ጊሻሳ። <verse eid="ACT 6:1"/><verse number="2" style="v" sid="ACT 6:2"/>ሄሳ ጊሻስ ኑ ታማኔ ናምኡ ሃዋሬቲ ኣማኒዛ ሃራታ ኢሲ ቦላ ሺሺዲ፥ «ኑኒ ካ ጊሻሶን ጌሊዲ ጾሳ ቃላ ታማርሶ ኣጋናስ ቤሴና። <verse eid="ACT 6:2"/><verse number="3" style="v" sid="ACT 6:3"/>ሄሳ ጊሻስ ኑ ኢሻቶ! ኢንቴ ጊዶፌ ኤራንቻታ፥ ጺሎ ኣያናን ኩሚዳይታኔ ሎኦ ማርካቴ ዲዛ ላፑን ኣሳታ ዶሪቴ፤ ሃይሳ ኣላፌቴ ኑ ኢስታስ ኢማና። <verse eid="ACT 6:3"/><verse number="4" style="v" sid="ACT 6:4"/>ኑኒ ጊዲኮ ዎሳኒኔ ቃላ ዮቶን ሚናና» ጊዳ።<verse eid="ACT 6:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 6:5"/>ኢስቲ ጊዳ ዮኦይ ሲዪዳይታ ኡፋይሲዴስ፤ ኣማኖኒኔ ጺሎ ኣያናን ኩሚዳይቲ ኢስቲፋኖሴ፥ ፒሊጶሳ፥ ጲሮስቆሮሳ፥ ኒቃሮና፥ ጺሞና፥ ጳርሜናኔ ዩሁዳቴን ጌሊዳ ኣንጾኪያ ዴሬ ኣስ ኒቆሎሳ ዶሪዳ። <verse eid="ACT 6:5"/><verse number="6" style="v" sid="ACT 6:6"/>ሄይታ ኤሂዲ ሃዋሬታ ሲን ሺሺዳ። ኢስቲካ ባ ኩሼ ኢስታ ቦላ ዎዲ ኢስታስ ዎሲዳ።<verse eid="ACT 6:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 6:7"/>ጾሳ ቃላይ ኣኪ ኣኪ ቢዴስ፤ ኣማኒዛይታ ቆዳይ ዬሩሳላሜን ዳሪ ዳሪ ቢዴስ፤ ቄሴታፔ ዳሮቲ ኣማኒዳ።<verse eid="ACT 6:7"/></para>
+  <para style="s">ኢስቲፋኖሴ ኦይኬቴ</para>
+  <para style="p">
+    <verse number="8" style="v" sid="ACT 6:8"/>ሄ ዎዴ ኢስቲፋኖሲ ጾሳ ኢሞቴኒኔ ዎልቃን ኩሚዲ ዴሬዛ ጊዶን ጊታ ማላሊሲዛ ማላታታ ኦዴስ። <verse eid="ACT 6:8"/><verse number="9" style="v" sid="ACT 6:9"/>«ዎዜቲ ኬዚዳ» ጌቴቲ ጼይጌቲዛሶፔ ኣይሁዳታ ዎሳ ኬፌ ዪዳ ኣስ ጊዲዳ ቃሬናፔኔ ኢስኪንዲሪያፔ፤ ቃሴካ ኪልቂያፔኔ ኢሲያ ኣዉራጃታፔ ዪዳ ኣሳቲካ ዉሪ ኢስቲፋኖሴራ ማርሼቲዳ። <verse eid="ACT 6:9"/><verse number="10" style="v" sid="ACT 6:10"/>ጊዶ ኣቲን ኤራቴን ኢዚ ሃሳይዛ ሃሳያኔ ኢዛን ዲዛ ኣያና ኤቄታናስ ዳንዳይቤቴና። <verse eid="ACT 6:10"/><verse number="11" style="v" sid="ACT 6:11"/>ሄሳ ጊሻስ፥ «ኢስቲፋኖሲ ሙሴኔ ጾስ ጫዪሺን ኑ ሲዪዶስ» ጊዛ ኣሳታ ጉዬራ ጊግሲዳ።<verse eid="ACT 6:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 6:12"/>ሄ ዎዴ ዴሬዛ፥ ዴሬ ጪማታኔ ዎጋ ታማርሲዛይታ፥ ዴንዲ ኢስቲፋኖሴ ኦይዲ ዴሬ ዱላታኮ ሺሺዳ። <verse eid="ACT 6:12"/><verse number="13" style="v" sid="ACT 6:13"/>ኢዛ ቦላ «ሃይሲ ኣዴዚ ሃይሳ ጾሳ ኬ ቦላኔ ዎጋ ቦላ ጫሻ ቃላ ሃሳያ ሙሌካ ኣጊቤና። <verse eid="ACT 6:13"/><verse number="14" style="v" sid="ACT 6:14"/>ጋሶይካ ሃይሲ ኣዴዚ፥ ‹ናዚሬቴ ዬሱሲ ሃይሳ ጾሳ ኬ ይሳና› ጊሺኒኔ ‹ኑ ሙሴፔ ኤኪዳ ዎጋ ላማና› ጊ ሃሳይሺን ኑ ሲዪዶስ» ጊ ዎርዶራ ማርካቲዛ ኣሳታ ሺሺዲ ማርካሲዳ።<verse eid="ACT 6:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 6:15"/>ዱላታ ኡቲዳ ኣሳይ ዉሪ ኢስቲፋኖሴ ቲሺ ሂስቲ ጼሊሺን ኢዛ ኣይፌሶይ ኢስታስ ኪታንቻ ኣይፌሶ ሚሳቲ ቤቲዴስ።<verse eid="ACT 6:15"/></para>
+  <chapter eid="ACT 6"/>
+  <chapter number="7" style="c" sid="ACT 7"/>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 7:1"/>ቄሴታ ሃላቃይ ኢስቲፋኖሴ፥ «ሃይሲ ኔ ቦላ ሺቂዳ ዮኦዚ ቱሜ?» ጊ ኦይቺዴስ።<verse eid="ACT 7:1"/></para>
+  <para style="p">
+    <verse number="2" style="v" sid="ACT 7:2"/>ኢስቲፋኖሲካ፥ «ታ ኢሻቶ! ታ ኣዋቶ! ታ ጊዛይሳ ሲዪቴ! ኑ ኣዋ ኣብራሃሜይ ካራኔ ጌቴቲዛሶ ያናፔ ካሴ ቡሮ ሜስጴጾሚያን ዲሺን ቦንቾ ጎዳይ ኢዛስ ቆንጪዲ፥ <verse eid="ACT 7:2"/><verse number="3" style="v" sid="ACT 7:3"/>‹ኔ ዴሬፔኔ ኔ ዳቦፌ ሻኬታዳ ታ ኔና ቤሲዛሶ ባ› ጊዴስ። <verse eid="ACT 7:3"/><verse number="4" style="v" sid="ACT 7:4"/>ኢዚካ ካላዳዌታ ቢታፌ ኬዚዲ ካራኔ ጌቴቲዛ ቢታን ኡቲዴስ። ኢዛ ኣዋይ ሃይቂዳፔ ጉዬ ኢንቴ ሃኢ ዲዛሶ ሃ ዴሬ ኢዛ ኤሂዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡4 </char><char style="xt" closed="false"><ref loc="GEN 11:31">ሜ 11፡31</ref>፤ <ref loc="GEN 12:4">12፡4</ref></char></note> <verse eid="ACT 7:4"/><verse number="5" style="v" sid="ACT 7:5"/>ሃራይ ኣቶሺን ኢሲ ቶሆይ ኤቂዛ ጋዴይ ኢዛስ ሃይሳፌ ኢሜቲቤና፤ ጊዶ ኣቲን ሄ ዎዴ ኢዛስ ኢሲ ናይካ ባይንዳ ዲሺን ኢዚኔ ኢዛፔ ጉዬን ኢዛ ዜሬ ቢታዮ ላታና ማላ ጾሲ ኢዛስ ጫቂዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡5 </char><char style="xt" closed="false"><ref loc="GEN 12:7">ሜ 12፡7</ref>፤ <ref loc="GEN 13:15">13፡15</ref>፤ <ref loc="GEN 15:18">15፡18</ref>፤ <ref loc="GEN 17:8">17፡8</ref></char></note> <verse eid="ACT 7:5"/><verse number="6" style="v" sid="ACT 7:6"/>ቃሴካ ጾሲ ኢዛስ፥ ‹ኔ ዜሬ ኣላጋ ቢታን ቤቴ ኣስ ጊዳና። ኦይዱ ጼቱ ላይ ኣይሌቴ ቃምባራ ጊዶን ዋዬታና።<note caller="-" style="x"><char style="xo" closed="false">7፡6-7 </char><char style="xt" closed="false"><ref loc="GEN 15:13-14">ሜ 15፡13-14</ref></char></note> <verse eid="ACT 7:6"/><verse number="7" style="v" sid="ACT 7:7"/>ጊዶ ኣቲን ኢስታ ኣይሌ ማላ ሃሪዛ ዴሬ ታ ቃጻያና፤ ሄሳፌ ጉዬ ኢስቲ ሄ ቢታፌ ኬዚዲ ሃኖ ሃ ሶሆዪን ታስ ጎይናና› ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡7 </char><char style="xt" closed="false"><ref loc="EXO 3:12">ኬሳ 3፡12</ref></char></note> <verse eid="ACT 7:7"/><verse number="8" style="v" sid="ACT 7:8"/>ሄሳፌ ጉዬ ቃጻራ ዎጋ ጫቆ ኢዛስ ኢሚዴስ፤ ኣብራሃሜይካ ዪሳቃ ዬሊዲ ኢዛ ኦስፑን ጋላስ ቃጻሪዴስ፤ ዪሳቃይካ ያቆቤ ዬሊዴስ፤ ያቆቤይካ ታማኔ ናምኡ ቆሞታ ዬሊዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡8 </char><char style="xt" closed="false"><ref loc="GEN 17:10-14">ሜ 17፡10-14</ref>፤ <ref loc="GEN 21:2-4">21፡2-4</ref>፤ <ref loc="GEN 25:26">25፡26</ref>፤ <ref loc="GEN 29:31-35:18">29፡31—35፡18</ref></char></note><verse eid="ACT 7:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 7:9"/>«ሄ ቆሞታ ኣዋቲ ዮሴፌ ቦላ ቃናቲዲ ኢዛ ኣይሌቴስ ዱጌ ጊብጼ ባይዚዳ፤ ጊዶ ኣቲን ጾሲ ኢዛራ ዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡9 </char><char style="xt" closed="false"><ref loc="GEN 37:11">ሜ 37፡11</ref>፤ <ref loc="GEN 37:28">37፡28</ref>፤ <ref loc="GEN 39:2">39፡2</ref>፥<ref loc="GEN 39:21">21</ref></char></note> <verse eid="ACT 7:9"/><verse number="10" style="v" sid="ACT 7:10"/>ሜቶ ኡባፌ ኢዛ ኣሺዴስ፤ ጊብጼ ካዎ ፓሮኔ ሲንን ቦንቾ ኢሚዴስ፤ ፓሮኔይ ኢዛ ጊብጼ ቢታኒኔ ባ ኬ ኣሳ ኡባ ቦላ ኣላፌቴን ሹሚዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡10 </char><char style="xt" closed="false"><ref loc="GEN 41:39-41">ሜ 41፡39-41</ref></char></note><verse eid="ACT 7:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 7:11"/>«ሄ ዎዴ ካናኔኒኔ ጊብጼን ዳሮ ሜቶ ኤሂዳ ጊታ ኮሻይ ዴንዲዴስ። ኑ ኣዋታስካ ሚዛ ካ ይዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡11 </char><char style="xt" closed="false"><ref loc="GEN 42:1-2">ሜ 42፡1-2</ref></char></note> <verse eid="ACT 7:11"/><verse number="12" style="v" sid="ACT 7:12"/>ያቆቤይ ጊብጼ ዴሬን ካ ዲዛይሳ ሲዪዲ ኑ ኣዋታ ኮይሮ ጊብጼ ዬዲዴስ። <verse eid="ACT 7:12"/><verse number="13" style="v" sid="ACT 7:13"/>ኢስቲ ናምኣን ቢዛ ዎዴ ዮሴፌይ ኢዚ ኦናኮ ባና ባ ኢሻታስ ቆንጪሲዴስ። ፓሮኔይካ ዮሴፌ ኢሻታ ኤሪዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡13 </char><char style="xt" closed="false"><ref loc="GEN 45:1">ሜ 45፡1</ref>፤ <ref loc="GEN 45:16">45፡16</ref></char></note> <verse eid="ACT 7:13"/><verse number="14" style="v" sid="ACT 7:14"/>ሄሳፌ ጉዬ ዮሴፌይ ኪቲዲ ባ ኣዋ ያቆቤኔ ላፑን ታማኔ ኢቻሹ ጊዲዛ ባ ዳቦታ ኩሜ ኤሂሲዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡14 </char><char style="xt" closed="false"><ref loc="GEN 45:9-10">ሜ 45፡9-10</ref>፥<ref loc="GEN 45:17-18">17-18</ref>፤ <ref loc="GEN 46:27">46፡27</ref></char></note> <verse eid="ACT 7:14"/><verse number="15" style="v" sid="ACT 7:15"/>ያቆቤይ ዱጌ ጊብጼ ዎዴስ። ኢዚካ ኑ ኣዋቲካ ዉሪ ሄን ሃይቂዳ።<note caller="-" style="x"><char style="xo" closed="false">7፡15 </char><char style="xt" closed="false"><ref loc="GEN 46:1-7">ሜ 46፡1-7</ref>፤ <ref loc="GEN 49:33">49፡33</ref></char></note> <verse eid="ACT 7:15"/><verse number="16" style="v" sid="ACT 7:16"/>ኢስታ ኣሃይካ ሴኬሜ ጌቴቲዛሶ ኤፊን ኣብራሃሜይ ኤሞሬ ናይታፔ ባ ሚሻን ሻሚዳ ዱፎን ሞጌቲዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡16 </char><char style="xt" closed="false"><ref loc="GEN 23:3-16">ሜ 23፡3-16</ref>፤ <ref loc="GEN 33:19">33፡19</ref>፤ <ref loc="GEN 50:7-13">50፡7-13</ref>፤ <ref loc="JOS 24:32">ኢያ 24፡32</ref></char></note><verse eid="ACT 7:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 7:17"/>«ጾሲ ኣብራሃሜስ ጫቂዳ ቃላይ ፖሌቲዛ ዎዴይ ማቲሺን ጊብጼን ዲዛ ኑ ኣሳ ቆዳይ ዳሪ ዳሪ ቢዴስ። <verse eid="ACT 7:17"/><verse number="18" style="v" sid="ACT 7:18"/>ሄሳፌ ጉዬ ጊብጼ ቢታን ዮሴፌ ኤሮንታ ሃራ ካዎይ ካዎቲዴስ። <verse eid="ACT 7:18"/><verse number="19" style="v" sid="ACT 7:19"/>ኢዚካ ኑ ኣሳ ባ ጌኔ ኦሶን ሜቶዴስ፤ ቡሮ ዬሌቲዳ ጉ ናይቲ ሃይቃና ማላኔ ኣሳይ ዬሊዳ ናይታ ካሬ ኬሲ ዎራ ዬጋና ማላ ዎልቃዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡19 </char><char style="xt" closed="false"><ref loc="EXO 1:10-11">ኬሳ 1፡10-11</ref>፤ <ref loc="EXO 1:22">1፡22</ref></char></note> <verse eid="ACT 7:19"/><verse number="20" style="v" sid="ACT 7:20"/>ሄ ዎዴ ሙሴይ ዬሌቲዴስ፤ ኢዚካ ጾሳ ኣቻን ዶሴቲዳ ማላ ሎኦ ና ጊዲዴስ፤ ባ ኣዋ ኬን ሄ ኣጊና ኣልኢሶን ዲጪዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡20 </char><char style="xt" closed="false"><ref loc="EXO 2:2">ኬሳ 2፡2</ref></char></note> <verse eid="ACT 7:20"/><verse number="21" style="v" sid="ACT 7:21"/>ኢዚ ዎራ ዬጌቲዳ ዎዴ ካዎ ፓሮኔ ማጫ ናያ ዴማዳ ባስ ኤካዱስ፤ ባ ና ማላ ኦዳ ዲቻዱስ።<note caller="-" style="x"><char style="xo" closed="false">7፡21 </char><char style="xt" closed="false"><ref loc="EXO 2:3-10">ኬሳ 2፡3-10</ref></char></note> <verse eid="ACT 7:21"/><verse number="22" style="v" sid="ACT 7:22"/>ሙሴይካ ጊብጼታ ኣ ኤራቴ ኡባ ታማርዴስ፤ ዮኦን ኤራ፤ ኦሶንካ ሚኖ ጊዲዴስ።<verse eid="ACT 7:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 7:23"/>«ሙሴ ላይይ ኦይዱ ታሙ ጊዲዳ ዎዴ ባ ኢሻታ ኢስራኤሌ ናይታ ቤያናስ ባ ዎዚናን ቆፒዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡23-29 </char><char style="xt" closed="false"><ref loc="EXO 2:11-15">ኬሳ 2፡11-15</ref></char></note> <verse eid="ACT 7:23"/><verse number="24" style="v" sid="ACT 7:24"/>ኢዚካ ኢሲ ጊብጼ ኣሲ ሙሴ ባጋ ኣሳፔ ኢሳዴ ቦላ ቆሆ ጋሺን ቤኢዲ ባ ባጋ ኣዴዛ ማዲዴስ፤ ጊብጼ ኣዴዛ ዎዲ ቆሄቲዳይሳ ሃሎ ኬሲዴስ። <verse eid="ACT 7:24"/><verse number="25" style="v" sid="ACT 7:25"/>ሙሴስ ጾሲ ኢዛ ኩሼን ኢስታ ዎዛናይሳ ኢዛ ኣሳይ ኣኬኪዛ ሚሳቲዴስ፤ ጊዶ ኣቲን ኢስቲ ሄሳ ዩሺ ቆፒቤቴና። <verse eid="ACT 7:25"/><verse number="26" style="v" sid="ACT 7:26"/>ዎንቴ ጋላስ ቃሴካ ኢስራኤሌ ናይታፔ ናምኣቲ ባ ጊዶን ኦዬቲሺን ጋኪዲ ኦዬቲዛይታ ጊጊሳናስ ኮዪዲ፥ ‹ሃይቶ ኣሳቶ! ኢንቴ ኢንቴ ጋርሳን ኢሶይ ኢሳራ ኢሻንታ፤ ኢንቴ ዋኒዲ ኢሶይ ኢሳ ቆሄቲ?› ጊዴስ።<verse eid="ACT 7:26"/></para>
+  <para style="p">
+    <verse number="27-28" style="v" sid="ACT 7:27-28"/>«ባ ላጌዛ ቦላ ቆሆ ጋዳይሲ ሙሴ ሱጊ ዬጊዲ፥ ‹ኔና ኑ ቦላ ኑና ሃሪዛዴኔ ኑ ቦላ ፒርዲዛዴ ኦ ሹሚዳይ ኦኔ? ዎይኮ ቃማ ጊብጼ ኣዴዛ ዎይሳ ታናካ ዎና ኮያይ?› ጊዴስ። <verse eid="ACT 7:27-28"/><verse number="29" style="v" sid="ACT 7:29"/>ሙሴይ ሄሳ ሲዪዳ ማላ ሚዲያሜ ቢታ ቤቲዲ ሄን ቤቴ ኣስ ጊዲ ዴኢዴስ፤ ያንካ ናምኡ ኣቱማ ናይታ ዬሊዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡29 </char><char style="xt" closed="false"><ref loc="EXO 18:3-4">ኬሳ 18፡3-4</ref></char></note><verse eid="ACT 7:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 7:30"/>«ሄሳፌ ኦይዱ ታሙ ላይፌ ጉዬ ሲና ዙማ ኣቻን ዲዛ ባዞ ቢታን ቄሪ ዎራ ጊዶን ኤጺዛ ታማ ላጮን ኪታንቻይ ኢዛስ ቤቲዴስ። <verse eid="ACT 7:30"/><verse number="31-32" style="v" sid="ACT 7:31-32"/>ሙሴይካ ኢዛ ቤኢዳ ማላ ማላሌቲዴስ፤ ኣዛኮ ሻኪ ኤራናስ ኢዚ ሄ ኢዛኮ ሺቂሺን ጎዳ ቃላይ፥ ‹ታኒ ኔ ኣዋንታ ጾሳ፤ ኣብራሃሜ፥ ዪሳቃኔ ያቆቤ ጾሳ› ጊሺን ሲዪዴስ። ሙሴይካ ዳሮ ዳጋሚዴስ፤ ጼላናስካ ጻሊቤና።<verse eid="ACT 7:31-32"/></para>
+  <para style="p">
+    <verse number="33-34" style="v" sid="ACT 7:33-34"/>«ጎዳይካ ኢዛስ፥ ‹ሃይሲ ኔ ኤቂዳሶይ ጌሻሶሆ ጊዲዳ ጊሻስ ኔ ቶሆፔ ጫማ ሾዳ፤ ጊብጼን ዲዛ ታ ዴሬታ ዋዬ ታ ቱማፔ ቤያዲስ፤ ኢስቲ ዋሲዛ ዋዬ ዋሶዛ ታ ሲያዳ ኢስታ ኣሻናስ ዎዲስ፤ ሃኢካ ኔ ሃ ያ፤ ታ ኔና ዱጌ ጊብጼ ዛራዳ ኪታና› ጊዴስ።<verse eid="ACT 7:33-34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="ACT 7:35"/>«ሂስቲን ሄይቲ፥ ‹ኑ ቦላ ኔና ሃሪዛዴኔ ፒርዲዛዴ ሂስቲ ኦኒ ሹሚዴ?› ጊዲ ኣሳይ ካሴ ካዳ ሙሴ ጾሲ ቄሪ ዎራ ጊዶን ኢዛስ ቤቲዳ ኪታንቻዛ ባጋራ ኢስታ ሃሪዛዴኔ ኣሺዛዴ ሂስቲዲ ኢስታኮ ዛሪ ዬዲዴስ። <verse eid="ACT 7:35"/><verse number="36" style="v" sid="ACT 7:36"/>ኢዚካ ኢስታ ካሌዲ ጊብጼፔ ኬሲዴስ፤ ጊብጼን፥ ዞኦ ኣባኒኔ ባዞ ቢታን ኦይዱ ታሙ ላይ ዳሮ ማላሊሲዛ ሚሻታኔ ጊታ ማላታታ ኢስታስ ኦዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡36 </char><char style="xt" closed="false"><ref loc="EXO 7:3">ኬሳ 7፡3</ref>፤ <ref loc="EXO 14:21">14፡21</ref>፤ <ref loc="NUM 14:33">ታይ 14፡33</ref></char></note><verse eid="ACT 7:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="ACT 7:37"/>«ኢስራኤሌ ናይታስ፥ ‹ታ ማላ ናቤ ጾሲ ኢንቴ ጊዶፌ ዴንና› ጊዳይሲ ሃይሳ ሙሴኮ!<note caller="-" style="x"><char style="xo" closed="false">7፡37 </char><char style="xt" closed="false"><ref loc="DEU 18:15">ዛሬ 18፡15</ref>፥<ref loc="DEU 18:18">18</ref></char></note> <verse eid="ACT 7:37"/><verse number="38" style="v" sid="ACT 7:38"/>ኢዚካ ሲና ዙማ ቦላ ሃሳይዳ ኪታንቻራኔ ባዞ ቢታን ኑ ኣዋታራ ዴሬ ዱላታ ጊዶን ዴስ፤ ዴኦ ቃላካ ሃ ኑስ ኣናስ ኤኪዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡38 </char><char style="xt" closed="false"><ref loc="EXO 19:1-20:17">ኬሳ 19፡1—20፡17</ref>፤ <ref loc="DEU 5:1-33">ዛሬ 5፡1-33</ref></char></note><verse eid="ACT 7:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="ACT 7:39"/>«ኑ ኣዋቲ ጊዲኮ ኢዛራ ኤቄቲዳ ኣቲን ኢዛስ ኣዛዜታናስ ኮዮንታ ጊሻስ ባ ዎዚናራ ጉዬ ጊብጼ ሲሚዳ። <verse eid="ACT 7:39"/><verse number="40" style="v" sid="ACT 7:40"/>ኣሮኔስካ፥ ‹ኑ ሲንራ ቢዛ ኤቃ ኑስ ጊጊሳ! ኑና ጊብጼፔ ካሌ ኬሲዳ ሙሴይ ዋኒዳኮ ኑ ኤሮኮ› ጊዳ።<note caller="-" style="x"><char style="xo" closed="false">7፡40 </char><char style="xt" closed="false"><ref loc="EXO 32:1">ኬሳ 32፡1</ref></char></note> <verse eid="ACT 7:40"/><verse number="41" style="v" sid="ACT 7:41"/>ሄ ዎዴ ማራ ሚስሌ ሜዲ ኤቃስ ያርሾ ሺሺዳ፤ ባርካ ሜዳ ባ ኩሼ ኦሶን ኡፋዬቲዲ ጉፒዳ።<note caller="-" style="x"><char style="xo" closed="false">7፡41 </char><char style="xt" closed="false"><ref loc="EXO 32:2-6">ኬሳ 32፡2-6</ref></char></note><verse eid="ACT 7:41"/></para>
+  <para style="p">
+    <verse number="42" style="v" sid="ACT 7:42"/>«ጊዶ ኣቲን ጾሲ ኢስታስ ዞኮ ዛሪዴስ፤ ኢስቲ ሳሎ ጾሊንቴታስ ጎይናና ማላ ኣ ኢሚዴስ፤ ሄሲካ ናቤታ ማጻፋን፥</para>
+  <para style="q1" vid="ACT 7:42">« ‹ኢንቴኖ ኢስራኤሌ ናይቶ!</para>
+  <para style="q2" vid="ACT 7:42">ኢንቴ ባዞ ቢታን ኦይዱ ታሙ</para>
+  <para style="q2" vid="ACT 7:42">ላይ ዲዛ ዎዴ</para>
+  <para style="q2" vid="ACT 7:42">ኢንቴፌ ያርሾኔ ሙጹዋታ</para>
+  <para style="q2" vid="ACT 7:42">ታስ ሺሺ ኤሬቲ?<verse eid="ACT 7:42"/></para>
+  <para style="q1">
+    <verse number="43" style="v" sid="ACT 7:43"/>ሃራፔካ ኢንቴ ጎይናናሶሆ</para>
+  <para style="q2" vid="ACT 7:43">ኦዳ</para>
+  <para style="q2" vid="ACT 7:43">ኤቃ ሞሎኬ ዱንካናኔ</para>
+  <para style="q3" vid="ACT 7:43">ኢንቴ ኤቃ ኤራፋኔ ጌቴቲዛ</para>
+  <para style="q3" vid="ACT 7:43">ጾሊንቴ ሚስሌዛ</para>
+  <para style="q3" vid="ACT 7:43">ቁ ቁ ሂስቲ ኦይኪዴታ።</para>
+  <para style="q2" vid="ACT 7:43">ሄሳ ጊሻስ ታ ኢንቴና</para>
+  <para style="q3" vid="ACT 7:43">ኢንቴ ዲዛሶፔ ዴንዳ</para>
+  <para style="q3" vid="ACT 7:43">ባቢሎኔራ ኣ ዬዳና›</para>
+  <para style="q3" vid="ACT 7:43">ጌቴቲዲ ጻፌቲዴስ።<verse eid="ACT 7:43"/></para>
+  <para style="p">
+    <verse number="44" style="v" sid="ACT 7:44"/>«ጾሲ ሙሴ ቤሲዳ ሌሚሶዛ ማላኔ ኣዛዚዳይሳ ማላ ኦሴቲዳ ጾሲ ኣሳራ ጋጊዛ ዱንካኔያ ኑ ኣዋታራ ባዞ ቢታን ዴኣዱስ።<note caller="-" style="x"><char style="xo" closed="false">7፡44 </char><char style="xt" closed="false"><ref loc="EXO 25:9">ኬሳ 25፡9</ref>፥<ref loc="EXO 25:40">40</ref></char></note> <verse eid="ACT 7:44"/><verse number="45" style="v" sid="ACT 7:45"/>ኑ ኣዋቲ ዱንካኔዮ ኤኪዳይሳፌ ጉዬ ጾሲ ኢያሶ ካሌን ካሴ ኢስታ ጎዲዳ ዴሬታ ላቲዳ ዎዴ ዱንካኔዮ ኤኪ ጌሊዳ፤ ዳዊቴ ዎዴ ጋካናስ ዱንካኔያ ሄ ቢታን ዴኣዱስ።<note caller="-" style="x"><char style="xo" closed="false">7፡45 </char><char style="xt" closed="false"><ref loc="JOS 3:14-17">ኢያ 3፡14-17</ref></char></note> <verse eid="ACT 7:45"/><verse number="46" style="v" sid="ACT 7:46"/>ዳዊቲካ ጾሳ ሲንን ቦንቾ ዴሚዲ ያቆቤ ጎዳስ ኣቆሶ ጊጊሳናስ ዎሲዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡46 </char><char style="xt" closed="false"><ref loc="2SA 7:1-16">2ሳሜ 7፡1-16</ref>፤ <ref loc="1CH 17:1-14">1ታሪ 17፡1-14</ref></char></note> <verse eid="ACT 7:46"/><verse number="47" style="v" sid="ACT 7:47"/>ጊዶ ኣቲን ሶሎሞኔይ ኢዛስ ኣቆሶ ኬጺዴስ።<verse eid="ACT 7:47"/></para>
+  <para style="p">
+    <verse number="48-50" style="v" sid="ACT 7:48-50"/>«ጊዶ ኣቲን ዎጋ ጎዳይ ኣሳ ኩሼይ ኬጺዳ ኬን ዴና፤ ሄሲካ ናቤይ ካሴ ጌሻ ማጻፋን ጻፊዳ ማላ፥</para>
+  <para style="q2" vid="ACT 7:48-50">« ‹ሳሎይ ታ ኡቲዛ ኣልጋ፤</para>
+  <para style="q2" vid="ACT 7:48-50">ቢታይካ ታኒ ቶሆን ዬዛሶ፤</para>
+  <para style="q2" vid="ACT 7:48-50">ሂስቲን ኢንቴ ታስ</para>
+  <para style="q3" vid="ACT 7:48-50">ኣይ ማላ ኬ ኬጼቲ?</para>
+  <para style="q2" vid="ACT 7:48-50">ዎይኮ ታ ሼምፓናሶይ</para>
+  <para style="q2" vid="ACT 7:48-50">ኣዋይሴ?<note caller="-" style="x"><char style="xo" closed="false">7፡49-50 </char><char style="xt" closed="false"><ref loc="ISA 66:1-2">ኢሳ 66፡1-2</ref></char></note></para>
+  <para style="q2" vid="ACT 7:48-50">ሃይሳ ኡባ ታ ኩሼይ</para>
+  <para style="q2" vid="ACT 7:48-50">ኦቤኔ?›</para>
+  <para style="m" vid="ACT 7:48-50">ጌስ ጎዳ ጾሳይ።<verse eid="ACT 7:48-50"/></para>
+  <para style="p">
+    <verse number="51" style="v" sid="ACT 7:51"/>«ኢንቴኖ ዎዚና ሙሜቶ! ሃይ ቱሌቶ! ኢንቴካ ኢንቴ ኣዋታ ማላ ኡባ ዎዴ ጺሎ ኣያናራ ኤቄቴታ።<note caller="-" style="x"><char style="xo" closed="false">7፡51 </char><char style="xt" closed="false"><ref loc="ISA 63:10">ኢሳ 63፡10</ref></char></note> <verse eid="ACT 7:51"/><verse number="52" style="v" sid="ACT 7:52"/>ናቤታፔ ኢንቴ ኣዋቲ ጎዶንታ ናቤይ ኦኔ? ጺሎዛ ዮሃኒሳ ካሴቲ ዮቲዳ ናቤታካ ዎዳ፤ ኢንቴካ ሃኢ ኢዛ ኣ ኢሚዴታኔ ዎዴታ። <verse eid="ACT 7:52"/><verse number="53" style="v" sid="ACT 7:53"/>ኪታንቻ ባጋራ ኢንቴስ ኢሜቲዳ ዎጋ ኤኪዴታ ኣቲን ናጊቤኬታ» ጊዴስ።<verse eid="ACT 7:53"/></para>
+  <para style="s">ሹቻን ጫዴቲ ኢስቲፋኖሴ ሃይቆ</para>
+  <para style="p">
+    <verse number="54" style="v" sid="ACT 7:54"/>ዱላታን ዲዛ ኣሳይ ሄሳ ሲዪዳ ማላ ዳሮ ሃንቄቲዲ ኢዛ ቦላ ባ ኣቺ ጋርጪዴስ። <verse eid="ACT 7:54"/><verse number="55-56" style="v" sid="ACT 7:55-56"/>ጊዶ ኣቲን ኢስቲፋኖሲ ጺሎ ኣያናን ኩሚዲ ፑዴ ሳሎ ቲሺ ሂስቲ ጼሊሺን ጾሳ ቦንቾን ዬሱሲ ጾሳ ኡሻቻን ኤቂዳይሳ ቤኢዲ፥ «ሄኮ ታ ሳሎይ ዶዬቲዳይሳኔ ኣሳ ናይ ጾሳ ኡሻቻን ኤቂዳይሳ ቤያይስ» ጊዴስ።<verse eid="ACT 7:55-56"/></para>
+  <para style="p">
+    <verse number="57" style="v" sid="ACT 7:57"/>ሄ ዎዴ ኣሳይ ቃላ ቁ ሂስቲ ዋሲሼ ባ ሃይ ቱጪ ኦይኪዲ ኢዛኮ ኢሲፌ ዎጺዴስ። <verse eid="ACT 7:57"/><verse number="58" style="v" sid="ACT 7:58"/>ኢስቲፋኖሴ ኦይኪዲ ካታማፔ ካሬ ኦሊዳ፤ ሹቻን ጫች ኦይኪዳ፤ ሄሲ ዉሪ ሃኒሺን ማርካቲካ ባ ማይኦ ሳኦሌ ጌቴቲዛ ፓንዛ ኣቻን ዎዳ። <verse eid="ACT 7:58"/><verse number="59" style="v" sid="ACT 7:59"/>ኢስቲ ሹቻራ ኢዛ ጫዲሺን ኢስቲፋኖሲ፥ «ታ ጎዳ ዬሱሳ! ታ ሼምፖዮ ኔኮ ኤካ» ጊዲ ዎሲዴስ። <verse eid="ACT 7:59"/><verse number="60" style="v" sid="ACT 7:60"/>ቃሴካ ጉልባቲዲ ቃ ቃላን «ጎዶ! ሃይታንታ ናጋራ ቆዶፓ» ጊዲ ዋሲዴስ፤ ሄሳ ጊዳፔ ጉዬ ሃይቂዴስ።<verse eid="ACT 7:60"/></para>
+  <chapter eid="ACT 7"/>
+  <chapter number="8" style="c" sid="ACT 8"/>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 8:1"/>ሳኦሊካ ኢስቲፋኖሴ ሃይቆን ኢስታራ ቆፋን ጋጊዴስ፤ ሄ ዎዴ ዬሩሳላሜን ዲዛ ኣማኒዛይታ ቦላ ዎልቃማ ጎዴቴ ዴንዲዴስ። ሃዋሬቲ ኣታፌ ኣማኒዛይቲ ዉሪ ዩሁዳ ኣዉራጃኒኔ ሳማሪያ ኣዉራጃ ኡባን ላሌቲዳ። <verse eid="ACT 8:1"/><verse number="2" style="v" sid="ACT 8:2"/>ኣያና ኦሶን ሚኒ ኤቂዳ ኣሳቲ ኢስቲፋኖሴ ሞጊዲ ኢዛስ ዳሮ ዬኪዳ። <verse eid="ACT 8:2"/><verse number="3" style="v" sid="ACT 8:3"/>ሳኦሊ ቃሴ ዎሳ ኬ ይሳናስ ጊጺ ዴንዲዴስ፤ ኣማኒዛ ኣሳ ኢሳ ኢሳ ኬ ጌሊዲ ማጫሳታኔ ኣዴታ ጎቺ ጎቺ ኬሲዲ ቃሾ ኬ ጌልዴስ።<note caller="-" style="x"><char style="xo" closed="false">8፡3 </char><char style="xt" closed="false"><ref loc="ACT 22:4-5">ሃዋ 22፡4-5</ref>፤ <ref loc="ACT 26:9-11">26፡9-11</ref></char></note><verse eid="ACT 8:3"/></para>
+  <para style="s">ፒሊጶሲ ሳማሪያ ዴሬን ማርካቲዳ ሚሺራቾ ቃላ</para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 8:4"/>ላሌቲዳይቲ ዉሪ ባ ቢዳሶን ቢዳሶን ጾሳ ቃላ ዮቲዳ። <verse eid="ACT 8:4"/><verse number="5" style="v" sid="ACT 8:5"/>ፒሊጶሲካ ሳማሪያ ጌቴቲዛ ካታማ ዎዲ ኣሳስ ኪርስቶሳ ሳባኪዴስ። <verse eid="ACT 8:5"/><verse number="6" style="v" sid="ACT 8:6"/>ዳሮ ዴሬይ ፒሊጶሲ ኦዛ ማላታ ቤኢዲ ኢዚ ዮቲዛ ቃላ ዎዚናፔ ሎኤ ሲዪዴስ። <verse eid="ACT 8:6"/><verse number="7" style="v" sid="ACT 8:7"/>ቱና ኣያናቲካ ዳሮ ኣሳፔ ዋሲ ዋሲ ኬዚዳ፤ ዳሮ ቶሆ ሲላቲኔ ዎቤቲካ ፓጺዳ። <verse eid="ACT 8:7"/><verse number="8" style="v" sid="ACT 8:8"/>ሄሳ ጊሻስ ሄ ካታማ ኣሳይ ዳሮ ኡፋዬቲዴስ።<verse eid="ACT 8:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 8:9"/>ጊዶ ኣቲን ሄሳፌ ካሴ ሄ ካታማዪን ማሮ ማሮቲዲ ሳማሪያ ኣሳ ዳሮ ማላሊሲዛዝ ኦዛ ኢሲ ሲሞና ጌቴቲዛ ማሮይ ዴስ፤ ኢዚካ ባና ጊታ ኣሳ ማላ ቆዲዛዴ። <verse eid="ACT 8:9"/><verse number="10" style="v" sid="ACT 8:10"/>ኣሳይ ዉሪ ጉታፔ ጊታታ ጋካናስ ዉሪካ፥ «ሃይሲ ኣዴዚ ጊታ ዎልቃማ ጌቴቲዛ ጾሳ ዎልቃ» ጊሼ ኢዚ ጊዛይሳ ዉርሲ ዎዚናፔ ሲዬስ። <verse eid="ACT 8:10"/><verse number="11" style="v" sid="ACT 8:11"/>ዳሮ ዎዴ ባ ማሮቴ ኦሶን ኣሳ ማላሊሲዳ ጊሻስ ኣሳይ ኢዛ ዎዚናፔ ካሊሼ ጋምኢዴስ። <verse eid="ACT 8:11"/><verse number="12" style="v" sid="ACT 8:12"/>ጊዶ ኣቲን ፒሊጶሲ ጾሳ ካዎቴ ጊሻሲኔ ዬሱስ ኪርስቶሳ ጊሻስ ሳባኪዳይሳ ሲዪዲ ኣማኒዳ ማጫሳይኔ ኣቱማሳይ ጻማቄቲዴስ። <verse eid="ACT 8:12"/><verse number="13" style="v" sid="ACT 8:13"/>ሲሞኒካ ኣማኒዲ ጻማቄቲዴስ፤ ፒሊጶሳካ ካሊ ቢዲ ሃኒዛ ጊታ ማላታ ቤኢዲ ማላሌቲዴስ።<verse eid="ACT 8:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 8:14"/>ዬሩሳላሜን ዲዛ ሃዋሬቲ ሳማሪያ ኣሳይ ጾሳ ቃላ ኤኪዲ ኣማኒዳይሳ ሲዪዲ ጴጽሮሳኔ ዮሃኒሳ ኢስታኮ ኪቲዳ። <verse eid="ACT 8:14"/><verse number="15" style="v" sid="ACT 8:15"/>ኢስቲካ ሳማሪያ ጋኪዲ ኣማኒዳ ኣሳይ ጺሎ ኣያና ኤካና ማላ ኣሳስ ዎሲዳ። <verse eid="ACT 8:15"/><verse number="16" style="v" sid="ACT 8:16"/>ጋሶይካ ሄ ዎዴ ኢስቲ ጮ ዬሱሳ ሱንን ጻማቄቲዳ ኣቲን ቡሮ ጺሎ ኣያናይ ኢስታፌ ኢሳዴ ቦላካ ዎቤና። <verse eid="ACT 8:16"/><verse number="17" style="v" sid="ACT 8:17"/>ሄሳ ጊሻስ ጴጽሮሲኔ ዮሃኒሲ ባ ኩሼ ኣሳ ቦላ ዎን ኣሳይ ጺሎ ኣያና ኤኪዴስ።<verse eid="ACT 8:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="ACT 8:18"/>ሲሞኒካ ሃዋሬቲ ኩሼ ዎ ዎሲን ጺሎ ኣያናይ ኢሜቲዛይሳ ቤኢዲ ጴጽሮሳሲኔ ዮሃኒሳስ ሚሼ ኤኪ ዪዲ፥ <verse eid="ACT 8:18"/><verse number="19" style="v" sid="ACT 8:19"/>«ታ ኢዛ ቦላ ታ ኩሼ ዎዛዴይ ዉሪ ጺሎ ኣያና ኤካና ማላ ሃይሳ ማላ ጎዳቴ ታስካ ኢሚቴ» ጊን፥<verse eid="ACT 8:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="ACT 8:20"/>ጴጽሮሲ ኢዛስ ዛሪዲ፥ «ጾሳ ኢሞታ ኔ ሚሻን ሻማና ቆፒዳ ጊሻስ ኔኒ ኔ ሚሻራ ኢሲፌ ያ። <verse eid="ACT 8:20"/><verse number="21" style="v" sid="ACT 8:21"/>ኔ ዎዚናይ ጾሳ ሲንን ሱሬ ጊዶንታ ጊሻስ ኔስ ሃይሳ ሃ ኦሶዛን ጊሻይ ዎይኮ ቃዳይ ዴና። <verse eid="ACT 8:21"/><verse number="22" style="v" sid="ACT 8:22"/>ሃይሳ ኔ ኢታቴ ጊሻስ ሃኢ ኤሌ ማሮቴን ጌላ፤ ኔ ዎዚና ቆፋ ኔስ ኣቶ ጋናኮ ኔስ ጎዳ ዎሳ። <verse eid="ACT 8:22"/><verse number="23" style="v" sid="ACT 8:23"/>ጋሶይካ ኔኒ ኢታቴን ኩሚዳይሲኔ ማካላን ቃሼታ ኡቲዳይሲ ታስ ቤቴስ» ጊዴስ።<verse eid="ACT 8:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 8:24"/>ሲሞኒካ ዛሪዲ፥ «ኢንቴ ጊዳ ዮኦታፔ ኣይኮይካ ታ ቦላ ጋኮንታ ማላ ታስ ጎዳ ዎሲቴ» ጊዴስ።<verse eid="ACT 8:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="ACT 8:25"/>ጴጽሮሲኔ ዮሃኒሲ ጎዳ ቃላ ማርካቲዳይሳፌኔ ቆንጪሲ ዮቲዳይሳፌ ጉዬ ዳሮ ሳማሪያ ጉታታን ሚሺራቾ ቃላ ሳባኪሼ ዬሩሳላሜ ሲሚዳ።<verse eid="ACT 8:25"/></para>
+  <para style="s">ፒሊጶሲ ጻማቂዳ ቶጵያ ጉንዱላ ኣዴዛ</para>
+  <para style="p">
+    <verse number="26" style="v" sid="ACT 8:26"/>ጎዳ ኪታንቻይ ፒሊጶሳ «ዴንዳ! ዬሩሳላሜፔ ዱጌ ባጋራ ጌዴ ጋዛ ኤፊዛ ባዞ ኦጌራ ባ» ጊዴስ። <verse eid="ACT 8:26"/><verse number="27" style="v" sid="ACT 8:27"/>ኢዚካ ዴንዲ ቢዴስ፤ ሂንዴኮ ጌቴቲዛ ቶጵያፔ ጊዲዳ ካዎያ ባ ኬኒኔ ባ ካዎቴን ዲዛ ኡባ ሚሻ ቦላ ኣላፌቴን ዎዳ ኢሲ ቶጵያ ዴሬ ጉንዱላ ኣሲ ኢዛራ ጋጊዴስ፤ ሄ ኣዴዚ ጾሳስ ጎይናና ዬሩሳላሜ ቢዴስ። <verse eid="ACT 8:27"/><verse number="28" style="v" sid="ACT 8:28"/>ኢዚ ሄፔ ሲሚሼ ፓራ-ጋሬን ኡቲዲ ናቤ ኢሳያሳ ማጻፋ ናባቤስ። <verse eid="ACT 8:28"/><verse number="29" style="v" sid="ACT 8:29"/>ኣያናይ ፒሊጶሳ፥ «ባ! ጌዴ ፓራ-ጋሬዛኮ ሺቃ» ጊዴስ።<verse eid="ACT 8:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 8:30"/>ፒሊጶሲካ ኤሶቲዲ ፓራ-ጋሬዛኮ ቢዲ ኣዴዚ ናቤ ኢሳያሳ ማጻፋ ናባቢሺን ሲዪዲ፥ «ሄሲ ኔ ናባቢዛይሲ ኔስ ጌሊዜ?» ጊዴስ።<figure style="fig" alt="Philip with the Ethiopian eunuch" file="LB00331B.TIF" size="col" ref="8፡30">ፒሊጶሳኔ ቶጵያ ዴሬ ጉንዱላዛ</figure><verse eid="ACT 8:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="ACT 8:31"/>ጉንዱላ ኣዴዚካ፥ «ታና ኤሪሲዛ ኣሲ ባይንዳ ታ ዎስታ ኤሮ?» ጊዴስ። ኢዚካ ጌዴ ኢዛ ጋሬዛን ጌሊዲ ኢዛ ኣቻን ኡታና ማላ ዎሲዴስ። <verse eid="ACT 8:31"/><verse number="32" style="v" sid="ACT 8:32"/>ኢዚ ናባቢዛ ማጻፋይ፥</para>
+  <para style="q1" vid="ACT 8:32">«ኢዚ ዶርሳ ማላ</para>
+  <para style="q2" vid="ACT 8:32">ሹኬታና ላጌቲዴስ፤</para>
+  <para style="q2" vid="ACT 8:32">ዶርሳ ላቃይ ኢስኬ ቃንጺዛይሳ</para>
+  <para style="q2" vid="ACT 8:32">ሲንን ጮኡ ጊዛ ማላ</para>
+  <para style="q2" vid="ACT 8:32">ሄሳካ ኢዚ ባ ዶና</para>
+  <para style="q2" vid="ACT 8:32">ፖጊቤና።<verse eid="ACT 8:32"/></para>
+  <para style="q1">
+    <verse number="33" style="v" sid="ACT 8:33"/>ባና ካዉሺዲ ፒርዳይ</para>
+  <para style="q2" vid="ACT 8:33">ባይንዳዴ ጊዲዴስ።</para>
+  <para style="q2" vid="ACT 8:33">ኢዛ ሼምፖይ</para>
+  <para style="q2" vid="ACT 8:33">ቢታ ቦላፌ ዲጌቲዴስ።</para>
+  <para style="q1" vid="ACT 8:33">ኢዛ ዬሌታ ጊሻስ</para>
+  <para style="q2" vid="ACT 8:33">ሃሳያና ዳንዳይዛይ</para>
+  <para style="q2" vid="ACT 8:33">ኦኔ?» ጌስ።<verse eid="ACT 8:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="ACT 8:34"/>ጉንዱላ ኣዴዚካ ዛሪዲ ፒሊጶሳ፥ «ናቤዚ ሃይሳ ኦና ጊሻስ ጊዜ? ባ ጊሻስ ጊዜዬ? ዎይኮ ሃራ ኣሳ ጊሻስ ጊዜ? ሃያና፥ ታስ ዮታርኪ!» ጊዴስ። <verse eid="ACT 8:34"/><verse number="35" style="v" sid="ACT 8:35"/>ፒሊጶሲካ ባ ዶና ዶይዲ ሄ ማጻፋፔ ዶሚዲ ዬሱሳ ሚሺራቾ ቃላ ጊሻስ ማርካቲዴስ።<verse eid="ACT 8:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="ACT 8:36"/>ኢስቲ ኢሲፌ ቢሼ ሃ ዲዛሶ ጋኪዳ፤ ኣዴዚካ፥ «ሄኮ ሃ ሃይሳን ዴስ፤ ሂስቲን ታ ጻማቄቶንታ ማላ ታና ዲጊዛይ ኣዜ?» ጊዴስ።<verse eid="ACT 8:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="ACT 8:37"/>ፒሊጶሲካ፥ «ኔ ኩሜ ዎዚናፔ ኣማኒኮ ጻማቄታና ዳንዳያሳ» ጊዴስ። ኣዴዚካ፥ «ዬሱስ ኪርስቶሲ ጾሳ ና ጊዲዳይሳ ታ ኣማናይስ» ጊዴስ።<note caller="+" style="f"><char style="fr" closed="false">8፡37 </char><char style="ft" closed="false">ኢሲ ኢሲ ጌሻ ማጻፋቲ ታይቦ 37 ቦላ ዲዛ ቆፋ ጉጄቴስ፤ ኢሲ ኢሶቲ ቃሴካ ቆፋ ኦይኪቤቴና።</char></note><verse eid="ACT 8:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="ACT 8:38"/>ኣዴዚ ፓራ-ጋሬዚ ኤቃና ማላ ኣዛዚን ናምኣይ ኢሲፌ ሃን ዎን ፒሊጶሲ ኣዴዛ ጻማቂዴስ። <verse eid="ACT 8:38"/><verse number="39" style="v" sid="ACT 8:39"/>ኢስቲ ሃፌ ኬዚሺን ጾሳ ኣያናይ ፒሊጶሳ ዴን ኤፊዴስ፤ ኣዴዚ ሄሳፌ ጉዬ ኢዛ ቤዪቤና፤ ጊዶ ኣቲን ኡፋይሳን ባ ኦጌ ቢዴስ። <verse eid="ACT 8:39"/><verse number="40" style="v" sid="ACT 8:40"/>ሄሳፌ ጉዬ ፒሊጶሲ ኣዛጾኔ ጌቴቲዛሶን ቤቲዴስ፤ ቂሳሪያ ጌቴቲዛሶ ጋካናስ ኢዚ ቢዛ ኦጌ ቦላ ካታማ ኡባን ሚሺራቾ ቃላ ሳባኪዴስ።<verse eid="ACT 8:40"/></para>
+  <chapter eid="ACT 8"/>
+  <chapter number="9" style="c" sid="ACT 9"/>
+  <para style="s">ሳኦሌ ኣማኖ</para>
+  <para style="r">(<ref loc="ACT 22:6-16">ሃዋ 22፡6-16</ref>፤ <ref loc="ACT 26:12-18">26፡12-18</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 9:1"/>ሳኦሊ ጎዳ ኣማኒዛ ኣሳ ዎናስ ጬቄቲሼ ቄሴታ ሃላቃኮ ቢዴስ። <verse eid="ACT 9:1"/><verse number="2" style="v" sid="ACT 9:2"/>ጎዳ ኦጌ ካሊዛይታ ማጫሳታኔ ኣዴታ ዴሚ ቃቺዲ ዬሩሳላሜ ኤኪ ያናስ ዳማስቆ ጌቴቲዛሶን ዲዛ ኣይሁዳታ ዎሳ ኬስ ዳብዳቤ ጻፋና ማላ ቄሴታ ሃላቃ ዎሲዴስ።<verse eid="ACT 9:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="ACT 9:3"/>ዳማስቆ ጋካና ማቲሺን ቆፖንታ ሳሎፔ ፖኦይ ኢዛ ዩሾን ፖልኡ ጊዴስ። <verse eid="ACT 9:3"/><verse number="4" style="v" sid="ACT 9:4"/>ኢዚካ ሄራካ ቢታ ቦላ ኩንዲዲ ሳሎፔ፥ «ሳኦሌ፥ ሳኦሌ፥ ታና ኣዛስ ጎዳይ?» ጊዛ ቃላ ሲዪዴስ።<verse eid="ACT 9:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 9:5"/>ሳኦሊካ፥ «ጎዶ! ኔ ኦኔ?» ጊዴስ። ኢዚካ ኢዛስ፥ «ታኒ ኔ ጎዴዛ ዬሱሳኮ!<note caller="+" style="f"><char style="fr" closed="false">9፡5 </char><char style="ft" closed="false">ኢሲ ኢሲ ጌሻ ማጻፋታ ቢርሼይ፥ «ቃራ ማሻ ቦላ ኔ ኤቂኮ ቆሄታና» ጊሺን ሃራቲ ቃሴ፥ «ጫዲዛ ቢራታራ ኔ ኤቄቲኮ ኔስ ሃ ዳራና» ጌስ።</char></note><note caller="+" style="f"><char style="fr" closed="false">9፡5 </char><char style="ft" closed="false">ኢሲ ኢሲ ጌሻ ማጻፋ ቢርሼቲ ሳኦሊ ኮኮሪዲኔ ያሻቴን ማላሌቲዲ፥ «ጎዶ! ታ ኔስ ኣይ ኦና ማላ ዶሳይ?» ጊዴስ ጊዛ ቆፋ ጉጄቴስ። ሄሲካ ሼምፖ 22፡10ኔ 26፡14 ቦላ ጻፌቲ ቤቴስ።</char></note> <verse eid="ACT 9:5"/><verse number="6" style="v" sid="ACT 9:6"/>ኔ ሃኢ ዴንዳዳ ጌዴ ካታማ ጌላ፤ ኔ ኦናስ ቤሲዛዝ ኔስ ታ ዮታና» ጊዴስ።<verse eid="ACT 9:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 9:7"/>ሳኦሌራ ኢሲፌ ቢዛ ኣሳቲ ቃላ ጊሪስ ሲሳፌ ኣቲን ኦናካ ቤኦንታ ጊሻስ ባ ዶና ኦይኪ ኤቂዳ። <verse eid="ACT 9:7"/><verse number="8" style="v" sid="ACT 9:8"/>ሳኦሊ ባ ኩንዲዳሶሆፔ ዴንዲዲ ኣይፌ ዶዪ ጼሊዛ ዎዴ ኣይኮካ ዴማናስ ዳንዳይቤና፤ ሄሳ ጊሻስ ኢዛራ ዲዛ ኣሳቲ ኢዛ ኩሼ ኦይኪዲ ካሌ ኤኪዲ ዳማስቆ ኤፊዳ። <verse eid="ACT 9:8"/><verse number="9" style="v" sid="ACT 9:9"/>ሄ ጋላስ ጋካናስ ቆቂዲ ካ ሃ ቤዪቤና።<verse eid="ACT 9:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 9:10"/>ዳማስቆን ኢሲ ሃናኒያ ጌቴቲዛ ኣማኒዛዴይ ዴስ፤ ኢዛስ ጎዳይ ኣጁታን፥ «ሃናኒያ» ጊዲ ጼይጊዴስ፤ ኢዚካ፥ «ዬ ጎዶ!» ጊዴስ።<verse eid="ACT 9:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 9:11"/>ጎዳይካ ኢዛ፥ «ዴንዳ! ሱሬ ጌቴቲዛ ኦጌይራ ዩሁዳ ጌቴቲዛሶ ባ። ሄን ሳኦሌ ጌቴቲዛ ኢሲ ጻርሴሴ ኣሲ ዎሲሼ ዴስ፤ ኔ ኢዛ ኮያ ዴማ። <verse eid="ACT 9:11"/><verse number="12" style="v" sid="ACT 9:12"/>ጋሶይካ ሃናኒያ ጌቴቲዛይሲ ሳኦሊ ዲዛሶ ዪዲ ኢዚ ጼላና ማላ ኢዛ ቦላ ባ ኩሼ ዎሺን ኣጁታን ቤዪዴስ።»<verse eid="ACT 9:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 9:13"/>ሃናኒያይካ ዛሪዲ፥ «ጎዶ! ሃይሳዴይ ዬሩሳላሜን ዲዛ ጌሻታ ቦላ ኣይ ማላ ኢታ ሜቶ ጋዳኮ ታ ዳሮ ኣሳፔ ሲያዲስ። <verse eid="ACT 9:13"/><verse number="14" style="v" sid="ACT 9:14"/>ኢዚ ሃ ዪዳይ ኔ ሱን ጼይጊዛይታ ኡባ ቃቻናስ ቄሴታ ሃላቃታፔ ጎዳቴ ኤኪዲኮ» ጊዴስ።<verse eid="ACT 9:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 9:15"/>ጎዳይካ ኢዛስ፥ «ኔ ባ! ሃይሲ ኣዴዚ ኣይዛቤታ ሲንኒኔ ካዎታ ሲንን ሄሳካ ኢስራኤሌ ዴሬ ሲንን ታ ሱን ቶካና ማላ ኢዚ ታስ ዶሬቲዳይሳ። <verse eid="ACT 9:15"/><verse number="16" style="v" sid="ACT 9:16"/>ኢዚ ታ ሱን ጊሻስ ኣይ ማላ ዋዬ ቤያናኮ ታ ኢዛ ቤሳና» ጊዴስ።<verse eid="ACT 9:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 9:17"/>ሃናኒያይ ቢዲ ኢዛስ ዮቴቲዳሶ ጌሊዴስ። ሳኦሌ ቦላ ባ ኩሼ ዎዲ፥ «ታ ኢሻ ሳኦሌ ኔ ሃ ዪሺን ኔስ ኦጌ ቦላ ቆንጪዳ ጎዳ ዬሱሲ ኔ ኣይፌይ ጼላና ማላኔ ኔኒ ጺሎ ኣያናን ኩማና ማላ ታና ኔኮ ኪቲዴስ» ጊዴስ። <verse eid="ACT 9:17"/><verse number="18" style="v" sid="ACT 9:18"/>ሄራካ ሳኦሌ ኣይፌፔ ፖቆ ማላይ ፖቄቲ ዎን ኢዚ ጼላና ዳንዳይዴሲኔ ዴንዲዲ ጻማቄቲዴስ። <verse eid="ACT 9:18"/><verse number="19" style="v" sid="ACT 9:19"/>ካካ ሚዲ ሚኒዴስ፤ ኡንዴና ዎዴ ኣማኒዛይታራ ዳማስቆን ጋምኢዴስ።<verse eid="ACT 9:19"/></para>
+  <para style="s">ሳኦሊ ዳማስቆኒኔ ዬሩሳላሜን ታማርሲዳ ቲሚርቴ</para>
+  <para style="p">
+    <verse number="20" style="v" sid="ACT 9:20"/>ሄራካ ዬሱሲ ጾሳ ና ጊዲዳይሳ ኣይሁዳታ ዎሳ ኬታን ታማርሶ ኦይኪዴስ።<verse eid="ACT 9:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 9:21"/>ሲዪዳ ኣሳይ ዉሪ፥ «ሃይሲ ዬሩሳላሜን ሃ ሱን ጼይጊዛይታ ይሲዛ ኣዴዛ ጊዴኔ? ቃሴ ኢዚ ሃ ዪዳይ ሄ ኣሳታ ቃቺ ኤኪ ቄሴታ ሃላቃታኮ ኤፋናስ ዴኔ?» ጊሼ ማላሌቲዳ።<verse eid="ACT 9:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 9:22"/>ሳኦሊ ካሴፔ ሚኒ ሚኒ ቢዴስ፤ ዳማስቆን ዲዛ ኣይሁዳታስ ዬሱሲ ኢዚ ጾሲ ኪቲዳዴ ጊዲዳይሳ ኣማንሼ ኣሳ ዶና ኦይዴስ።<verse eid="ACT 9:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 9:23"/>ዳሮ ጋላሳታፔ ጉዬ ኣይሁዳቲ ሳኦሌ ዎናስ ዱላቲዳ።<note caller="-" style="x"><char style="xo" closed="false">9፡23-25 </char><char style="xt" closed="false"><ref loc="2CO 11:32-33">2ቆሮ 11፡32-33</ref></char></note> <verse eid="ACT 9:23"/><verse number="24" style="v" sid="ACT 9:24"/>ኢዚካ ኢስታ ቆፋ ኤሪዴስ፤ ኢስቲካ ኢዛ ዎናስ ካታማ ጌልዛ ኦጌን ጋላሲኔ ቃማ ናጊዳ። <verse eid="ACT 9:24"/><verse number="25" style="v" sid="ACT 9:25"/>ኣማኒዛይቲ ጊዲኮ ኢዛ ጊዶ ካታማ ዩሾን ዲዛ ማስኮቴዛራ ኬሼን ዱጌ ዎዳ።<figure style="fig" alt="Throwing Paul by basket though window" file="HK00332B.TIF" size="col" ref="9፡25">ጳዉሎሳ ጊምቤ ጊዶራ ኬሼን ዬጊሺን</figure><verse eid="ACT 9:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="ACT 9:26"/>ሳኦሊ ዬሩሳላሜ ዪዲ ኣማኒዛይታራ ዋላኬታና ኮዪን ኢዚ ቱሙ ኣማኒዛዴ ጊዲዳይሳ ኢስቲ ኣማኔቶንታ ጊሻስ ኢዛስ ባቢዳ። <verse eid="ACT 9:26"/><verse number="27" style="v" sid="ACT 9:27"/>ጊዶ ኣቲን ባርናባሲ ኢዛ ሃዋሬታኮ ኤፊን ሳኦሊ ኢዚ ዳማስቆ ኦጌ ቦላ ጎዳ ዎስቲ ቤኢዳኮ፥ ጎዳይካ ኢዛስ ኣይ ዮቲዳኮኔ ዳማስቆን ዲሼ ኢዚ ኣይ ማላ ጻላቴራ ዬሱሳ ሱንን ሳባኪዳኮ ኢስታስ ዮቲዴስ።<verse eid="ACT 9:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="ACT 9:28"/>ሄሳ ጊሻስ ሳኦሊ ኢስታራ ዲዴስ፤ ዬሩሳላሜን ዩዪ ዩዪ ኣሳስ ባቦንታ ጎዳ ሱንን ታማርሲዴስ። <verse eid="ACT 9:28"/><verse number="29" style="v" sid="ACT 9:29"/>ጊሪኬ ዴሬፔ ዪዳ ኣይሁዳታራ ሃሳይሼ ፓላሜቲዴስ፤ ጊዶ ኣቲን ኣሳይካ ኢዛ ዎናስ ኮዪዴስ። <verse eid="ACT 9:29"/><verse number="30" style="v" sid="ACT 9:30"/>ኣማኒዛይቲ ሄሳ ኤሪዲ ዱጌ ቂሳሪያ ጌቴቲዛሶ ዎዲ ጻርሴሴ ዬዲዳ።<verse eid="ACT 9:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="ACT 9:31"/>ሄ ዎዴ ዩሁዳኒኔ ጋሊላን፥ ሳማሪያንካ ዲዛ ኣማኒዛይቲ ሳሮን ዲዲ ካሴፔ ሚኒዳ፤ ቃሴካ ጾሳ ያሻቴን ሲሜሬቲሼ ጺሎ ኣያናን ሚኔቲዳኔ ካሴፔ ቆዳን ዳሪ ዳሪ ቢዳ።<verse eid="ACT 9:31"/></para>
+  <para style="s">ኤኒያኔ ዶርቃ</para>
+  <para style="p">
+    <verse number="32" style="v" sid="ACT 9:32"/>ጴጽሮሲ ዴሬፔ ዴሬን ዩዪሼ ሊዳ ካታማን ዲዛ ኣማኒዛይታ ቤያናስ ዱጌ ዎዴስ። <verse eid="ACT 9:32"/><verse number="33" style="v" sid="ACT 9:33"/>ሄን ኤኒያ ጌቴቲዛይሳ ኦስፑን ላይ ሂጻን ቃሼቲ ኡቲዳ ኢሲ ጉንዳ ኣስ ዴሚዴስ። <verse eid="ACT 9:33"/><verse number="34" style="v" sid="ACT 9:34"/>ጴጽሮሲካ፥ «ሃይሶ ኤኒያ! ዬሱስ ኪርስቶሲ ኔና ፓና፤ ዴንዳዳ ኔ ሂጻ ዴን!» ጊዴስ፤ ኤኒያይ ሄራካ ፑሱኩ ጊ ዴንዲዴስ። <verse eid="ACT 9:34"/><verse number="35" style="v" sid="ACT 9:35"/>ሊዳኒኔ ሳሮናን ዲዛ ኣሳይ ዉሪ ኢዛ ቤኢዲ ጎዳን ኣማኒዴስ።<verse eid="ACT 9:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="ACT 9:36"/>ኢዮጴ ጌቴቲዛሶን ጻቢታ ጌቴቲዛ ኢሲ ኣማኒዛራ ዳዉስ፤ ኢዚ ሱን ቢርሼ ጊሪኬ ቃላራ፥ «ዶርቃ» ጌቴቴስ፤ ኢዛ ኡባ ዎዴ ሎኦ ኦሶ ሚና ኦሼኔ ማንቆታ ማዳሼ ዳዉስ።<note caller="+" style="f"><char style="fr" closed="false">9፡36 </char><char style="fqa" closed="false">ዶርቃ </char><char style="ft" closed="false">ጉሲ ጊሪኬ ቃላራ፥ «ጌኔሳ ጉሳ»</char></note> <verse eid="ACT 9:36"/><verse number="37" style="v" sid="ACT 9:37"/>ሄ ዎዴ ኢዛ ሃርጋዳ ሃይቂን ኣሳይ ኣሃዛ ሜጪ ፑዴ ፖቄን ኬሲ ዎዴስ። <verse eid="ACT 9:37"/><verse number="38" style="v" sid="ACT 9:38"/>ሊዳይ ኢዮጴስ ማታ ጊዲዳ ጊሻስ ኣማኒዛይቲ ጴጽሮሲ ሊዳን ዲዛይሳ ሲዪዲ ናምኡ ኣሳታ ኪቲዲ፥ «ኤሌ ሃ ያርኪ!» ጊ ዎሲዳ።<verse eid="ACT 9:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="ACT 9:39"/>ጴጽሮሲካ ዴንዲዲ ኪቴቲዳ ኣሳታራ ጋኪዳ ዎዴ ኢዛ ፑዴ ፖቄ ቦላ ኬሲዳ፤ ኣምኤቲካ ዉሪ ኢዛ ዩዪ ኣ ኤቂዲ ዶርቃይ ፓጻ ዳሼ ኢስታራ ኦዳ ቃሚሳታኔ ማይኦታ ቤሲሼ ዬኪዳ።<verse eid="ACT 9:39"/></para>
+  <para style="p">
+    <verse number="40" style="v" sid="ACT 9:40"/>ጴጽሮሲካ ኡባ ኣሳ ኪፊሌዛፔ ኬሲዲ ጉልባቲ ዎሲዴስ። ኣሃኮ ሲሚዲ፥ «ሃኔ ጻቢታ ዴንዳ!» ጊዴስ። ኢዛካ ባ ኣይፌ ዶያዳ ጼላዱስ፤ ጴጽሮሳካ ቤያዳ ዴንዳ ኡታዱስ። <verse eid="ACT 9:40"/><verse number="41" style="v" sid="ACT 9:41"/>ኢዚካ ኢዚ ኩሼ ኦይኪ ዴንዴስ። ኣማኒዛይታኔ ኣምኤታ ጼይጊዲ ኢዞ ኢስታስ ፓ ኢሚዴስ። <verse eid="ACT 9:41"/><verse number="42" style="v" sid="ACT 9:42"/>ሄ ሃኖይ ኩሜ ኢዮጴን ኤሬቲዴሲኔ ዳሮ ኣሳይካ ጎዳ ኣማኒዴስ። <verse eid="ACT 9:42"/><verse number="43" style="v" sid="ACT 9:43"/>ጴጽሮሲካ ኢሲ ሲሞና ጌቴቲዛ ጋልባ ቃጪዛዴራ ኢዮጴን ዳሮ ዎዴ ዴኢዴስ።<verse eid="ACT 9:43"/></para>
+  <chapter eid="ACT 9"/>
+  <chapter number="10" style="c" sid="ACT 10"/>
+  <para style="s">ቆርኖሎሳኔ ጴጽሮሳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 10:1"/>ቂሳሪያ ጌቴቲዛ ዴሬን፥ «ጻላኔ ዎታዳራታ» ጌቴቲዛ ኦላ ኣሳ ጋርሳን ማቶ ሃላቃ ቆርኖሎሳ ጌቴቲዛይሲ ዴስ። <verse eid="ACT 10:1"/><verse number="2" style="v" sid="ACT 10:2"/>ኢዚካ ባ ኬ ኣሳ ኩሜራ ኣያና ሃኖን ሚኖኔ ጾስ ባቢዛዴ፤ ማንቆታስካ ዳሮ ሙጹዋታ ኢሚዛዴኔ ዳሮ ዎዴ ጾስ ዎሲዛ ኣሳ። <verse eid="ACT 10:2"/><verse number="3" style="v" sid="ACT 10:3"/>ኢሲ ጋላስ ጋላሳፌ ኡዱፉን ሳቴ ቦላ ጾሳ ኪታንቻይ ኢዛስ ኣጁታን ቤቲዲ ኢዛኮ ዪዲ፥ «ቆርኖሎሳ!» ጊ ጼይጊሺን ቆንጬን ቤዪዴስ።<verse eid="ACT 10:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 10:4"/>ቆርኖሎሲካ ዳጋማራ ቲሺ ሂስቲ ጼሊሼ፥ «ጎዶ ሃይሲ ኣዜ?» ጊዴስ። ኪታንቻይካ ዛሪዲ፥ «ኔ ዎሳይኔ ኔ ሙጹዋታይ ቆፌታናስ ፑዴ ጾሳ ሲን ጋኪዴስ። <verse eid="ACT 10:4"/><verse number="5" style="v" sid="ACT 10:5"/>ኔ ሃኢ ኣስ ኢዮጴ ዬዳዳ ጴጽሮሳ ጌቴቲዛ ሲሞና ጼይጊሳ። <verse eid="ACT 10:5"/><verse number="6" style="v" sid="ACT 10:6"/>ኢዚካ ኣባ ማታን ዲዛ ጋልባ ቃጪዛ ሲሞናሶን ኢማቴ ዴስ» ጊዴስ።<verse eid="ACT 10:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 10:7"/>ቆርኖሎሳ ሃሳይሲዳ ኪታንቻይ ኢዛፔ ሻኬቲዲ ቢዳፔ ጉዬ ባ ኣሽካራታፔ ናምኣታ ቃሴ ኣያና ዮኦስ ሚኖኔ ኢዛስ ዳሮ ኣማኔቲዛ ዎታዳራታፔ ኢሳ ጼይጊሲዲ፥ <verse eid="ACT 10:7"/><verse number="8" style="v" sid="ACT 10:8"/>ኢዚ ቤኢዳይሳ ኡባ ኢስታስ ዮቲዲ ኢዮጴ ኪቲዴስ።<verse eid="ACT 10:8"/></para>
+  <para style="s">ጴጽሮሲ ቤኢዳ ኣጁታ</para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 10:9"/>ኪቴቲዳ ኣሳቲ ዎንቴ ጋላስ ጌዴ ካታማይኮ ማቲሺን ጴጽሮሲ ኡሱፑን ሳቴ ቦላ ዎሳና ፑዴ ፖቄ ቦላ ኬዚዴስ። <verse eid="ACT 10:9"/><verse number="10-11" style="v" sid="ACT 10:10-11"/>ሄ ዎዴ ኢዚ ጋፊዳ ጊሻስ ቁማይ ቡሮ ካጺሺን ስኮ ማላ ሊጲጲ ሂስቲን ኣጁታራ ሳሎይ ዶዬቲን ኢሲ ጊታ ጻጼቲዳ ማይኦ ማላይ ኦይዱ ባጋራ ኦይኬቲዲ ዱጌ ቢታን ዎሺን ቤዪዴስ። <verse eid="ACT 10:10-11"/><verse number="12" style="v" sid="ACT 10:12"/>ሄ ማይኦዛ ቦላ ኦይዱ ቶሆይ ዲዛ ዱማ ዱማ ዶኣቲ ቢታራ ጎሼቲዛ ሜቴቲኔ ሳሎ ቦላ ፒራዛ ካፎቲ ዴቴስ። <verse eid="ACT 10:12"/><verse number="13" style="v" sid="ACT 10:13"/>ሄ ዎዴ፥ «ጴጽሮሳ ዴንዳ ሃይታ ሹካዳ ማ!» ጊዛ ቃላ ሲዪዴስ።<verse eid="ACT 10:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 10:14"/>ጴጽሮሲ ቃሴ፥ «ጎዶ ሃይሲ ሃኔና! ጌሽ ጊዶንታይሳ ዎይኮ ቱና ሚሽ ታ ሙሌራካ ማ ኤሪኬ» ጊዴስ።<verse eid="ACT 10:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 10:15"/>ሄ ካሴ ቃላይ ቃሴካ ናምኣን ኢዛኮ ዪዲ፥ «ጾሲ ጌሺዳይሳ ኔ ቱና ማላ ቆዶፓ» ጊዴስ። <verse eid="ACT 10:15"/><verse number="16" style="v" sid="ACT 10:16"/>ሄሲካ ሄቶ ሺሬቲ ሺሬቲ ኢዛኮ ዪዳፔ ጉዬ ማይኦ ሚሳቲዛይሲ ሄራካ ፑዴ ሳሎ ቢዴስ።<verse eid="ACT 10:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 10:17"/>ጴጽሮሲካ ባ ቤኢዳ ኣጁታዛ ቢርሼ ኤራናስ ዳሮ ሜቶቲዲ ኬሂ ቆፋ ቦላ ዲሺን ቆርኖሎሲ ኪቲዳ ኣሳቲ ሲሞና ኬ ኮዪሼ ዴሚዲ ፔንጌን ኤቂዳ። <verse eid="ACT 10:17"/><verse number="18" style="v" sid="ACT 10:18"/>ቃላ ቁ ሂስቲዲ፥ «ጴጽሮሳ ጌቴቲዛ ሲሞኒ ዲዛሶይ ሃይሳን ኣዋኔ?» ጊ ኦይቺዳ።<verse eid="ACT 10:18"/></para>
+  <para style="p">
+    <verse number="19-20" style="v" sid="ACT 10:19-20"/>ጴጽሮሲ ባ ቤኢዳይሳ ኬሂ ቆፒሺን ጺሎ ኣያናይ ኢዛ፥ «ሄኮ ሄ ኣሳቲ ኔና ኮዬቴስ፤ ዴንዳ! ዱጌ ዎዳ ኢስታ ዬዲዳይ ታና ጊዲዳ ጊሻስ ሲይ ባይንዳ ኢስታራ ባ» ጊዴስ።<verse eid="ACT 10:19-20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 10:21"/>ጴጽሮሲካ ዱጌ ዎዲ፥ «ሄኮ ኢንቴ ኮይዛዴይ ታናኮ! ኢንቴ ዪዳይ ኣዛሴ?» ጊዴስ። <verse eid="ACT 10:21"/><verse number="22" style="v" sid="ACT 10:22"/>ኢስቲካ ኢዛስ፥ «ኑኒ ማቶ ሃላቃ ቆርኖሎሳ ማታፔ ዪዶስ፤ ኢዚካ ጾሳስ ባቢዛ ጺሎ ኣሳኔ ኣይሁዳ ኣሳ ኡባ ማታን ዳሮ ቦንቼቲዳ ኣሳ፤ ኔካ ኢዛ ሶ ባና ማላኔ ኔ ጊዛይሳ ኢዚ ሲያና ማላ ጌሻ ኪታንቻይ ኢዛስ ዮቲዴስ» ጊዳ።<verse eid="ACT 10:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 10:23"/>ጴጽሮሲካ ኣሳታ ባ ዲዛሶን ሞኪ ኤኪዲ ኣይሲዴስ።</para>
+  <para style="s" vid="ACT 10:23">ቆርኖሎሳ ኬን ጴጽሮሳ</para>
+  <para style="p" vid="ACT 10:23">ጴጽሮሲካ ዎንቴ ጋላስ ዴንዲዲ ኢስታራ ቢዴስ፤ ኢዮጴፌ ዪዳ ኢሲ ኢሲ ኣማኒዛ ኣሳቲ ኢዛራ ኢሲፌ ቢዳ። <verse eid="ACT 10:23"/><verse number="24" style="v" sid="ACT 10:24"/>ቆርኖሎሲካ ባ ዳቦታኔ ማታ ላጌታ ባ ሶን ሺሺዲ ናጎ ቦላ ዲሺን ኢዚ ናምኣን ጋላስ ቂሳሪያ ጋኪዴስ። <verse eid="ACT 10:24"/><verse number="25" style="v" sid="ACT 10:25"/>ጴጽሮሲካ ቆርኖሎሳ ኬ ጌሊን ቆርኖሎሲ ኢዛ ሞኪ ኤኪዲ ኢዛ ቶሆ ቦላ ሆኪ ጎይኒዴስ። <verse eid="ACT 10:25"/><verse number="26" style="v" sid="ACT 10:26"/>ጊዶ ኣቲን ጴጽሮሲ፥ «ታኒካ ኔ ማላ ኣሳኮ! ዴንዳ» ጊዲ ዴንዴስ።<verse eid="ACT 10:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 10:27"/>ጴጽሮሲካ ኢዛ ሃሳይሲሼ ኢዛራ ሶ ጌሊሺን ዳሮ ዴሬይ ሺቂ ኡቲዳይሳ ቤዪዴስ። <verse eid="ACT 10:27"/><verse number="28" style="v" sid="ACT 10:28"/>ኢዚካ ኢስታስ፥ «ኣይሁዳ ኣሲ ሃራ ዴሬ ኣሳራ ጋጎንታ ማላ ዎይኮ ሃራ ዴሬ ኣስ ጊዲዳይታ ማታ ሺቆንታ ማላ ኑ ዎጋይ ዲጊዛይሳ ኢንቴ ኤሬታ፤ ጊዶ ኣቲን ታ ኦናካ ቱና ዎይኮ ኢዚ ጌሽ ዴና ጎንታ ማላ ጾሲ ታስ ቆንጪሲዴስ። <verse eid="ACT 10:28"/><verse number="29" style="v" sid="ACT 10:29"/>ሄሳ ጊሻስ ታ ጼይጌቲዳ ዎዴ ሄኮ ሲንታ ያዲስ፤ ሂስቲን ኢንቴ ታና ኣዛስ ጼይጊዳኮ ኤራና ኮያይስ» ጊዴስ።<verse eid="ACT 10:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 10:30"/>ቆርኖሎሲካ፥ «ኦይዱ ጋላሳፌ ካሴ ሊኬ ሃኒ ዎዴ ጋላሳፌ ኡዱፉን ሳቴን ታኒ ታሶን ዎሲሺን ቆፖንታ ቦ ማይኦ ማይኢዳ ኣሲ ዪዲ ታ ሲንን ኤቂዲ <verse eid="ACT 10:30"/><verse number="31" style="v" sid="ACT 10:31"/>ታና፥ ‹ቆርኖሎሳ! ኔ ዎሳይ ሲዬቲዴስ፤ ኔ ማንቆታስ ኢሚዛ ሙጹዋታይ ጾሳ ሲን ጋኪዴስ። <verse eid="ACT 10:31"/><verse number="32" style="v" sid="ACT 10:32"/>ሄሳ ጊሻስ ኢዮጴ ካታማ ኣስ ኪታዳ ጴጽሮሳ ጌቴቲዛ ሲሞና ኤሂሳ፤ ኢዚ ኣባ ኣቻን ጋልባ ቃጪዛ ሲሞና ኬን ኢማቴ ዴስ› ጊዴስ። <verse eid="ACT 10:32"/><verse number="33" style="v" sid="ACT 10:33"/>ታኒካ ሄራካ ኔኮ ኣስ ኪታዲስ፤ ኔ ዩሳይካ ሎኦ፤ ሂስቲኮ ጎዳይ ኔና ኣዛዚዳይሳ ኔ ኑስ ዮቲኮ ጾሲ ዮቲዳይሳ ኔፔ ሲያናስ ኑ ዉሪካ ሃይሳን ጾሳ ሲንን ዶስ» ጊዴስ።<verse eid="ACT 10:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="ACT 10:34"/>ጴጽሮሲካ፥ «ጾሲ ኦናካ ሻኪ ማዶንታይሳ ቱማፔ ታ ኤራዲስ።<note caller="-" style="x"><char style="xo" closed="false">10፡34 </char><char style="xt" closed="false"><ref loc="DEU 10:17">ዛሬ 10፡17</ref></char></note> <verse eid="ACT 10:34"/><verse number="35" style="v" sid="ACT 10:35"/>ጊዶ ኣቲን ጾሳስ ባቢዛይታኔ ጺሎ ኦዛይታ ኡባ ኦና ባጋፌ ጊዲንካ ኢዚ ኤኬስ። <verse eid="ACT 10:35"/><verse number="36" style="v" sid="ACT 10:36"/>ጾሲ ኡባስ ጎዳ ጊዲዳ ዬሱስ ኪርስቶሳ ባጋራ ኢስራኤሌ ኣሳስ ኪቲዳ ሳሮቴ ሚሺራቾ ኪታይ ሃይሳ። <verse eid="ACT 10:36"/><verse number="37" style="v" sid="ACT 10:37"/>ዮሃኒሲ ጺንቃታ ጊሻስ ሳባኪዳፔ ጉዬ ጋሊላፔ ዶሚዲ ኩሜ ዩሁዳን ሃኒዳይሳ ኢንቴ ኤሬታ። <verse eid="ACT 10:37"/><verse number="38" style="v" sid="ACT 10:38"/>ጾሲ ናዚሬቴ ዬሱሳ ጺሎ ኣያናኒኔ ዎልቃን ቲይዴስ፤ ኢዚካ ጾሲ ኢዛራ ዲዛ ጊሻስ ባ ጋኪዳሶን ኡባን ሎኦ ኦሼ ጻላኤ ጎዳቴ ጊዶን ዲዛይታ ኡባ ፓዴስ።<verse eid="ACT 10:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="ACT 10:39"/>«ኢዚ ኣይሁዳታ ዴሬኒኔ ዬሩሳላሜ ካታማን ኦዳይሳ ኡባስ ኑ ማርካ፤ ቃሴካ ኣሳይ ኢዛ ሚ ቦላ ካቂ ዎዴስ። <verse eid="ACT 10:39"/><verse number="40" style="v" sid="ACT 10:40"/>ጊዶ ኣቲን ጾሲ ኢዛ ሄን ጋላስ ሃይቆፔ ዴንዴሲኔ ኣሲ ኢዛ ቤያና ማላ ኦዴስ። <verse eid="ACT 10:40"/><verse number="41" style="v" sid="ACT 10:41"/>ኢዚ ቆንጪዳይ ኣሳ ኡባስ ጊዶንታ ሃይቆፔ ዴንዲን ኢዛራ ሚዳይታሲኔ ኢዛራ ኡዪዳይታስ ጾሲ ኮይሮ ዶሪዳ ኑስ ኢዛ ማርካታሳ። <verse eid="ACT 10:41"/><verse number="42" style="v" sid="ACT 10:42"/>ኢዚ ኑ ዴሬዛስ ሳባካና ማላኔ ሃይቂዳይታ ቦላኔ ፓጻ ዲዛይታ ቦላ ፒርዳናስ ጾሲ ሹሚዳይ ኢዛ ጊዲዳይሳ ኑ ማርካታና ማላ ኑና ኣዛዚዴስ። <verse eid="ACT 10:42"/><verse number="43" style="v" sid="ACT 10:43"/>ኢዛ ኣማኒዳዴይ ዉሪ ኢዛ ሱንን ናጋራ ማሬቲዲ ጌያናይሳ ናቤቲ ኢዛስ ማርካቴቴስ» ጊ ዮቶ ዶሚዴስ።<verse eid="ACT 10:43"/></para>
+  <para style="p">
+    <verse number="44" style="v" sid="ACT 10:44"/>ጴጽሮሲ ሄሳ ሃሳይሺን ቃላ ሲዪዛይታ ኡባ ቦላ ጺሎ ኣያናይ ዎዴስ። <verse eid="ACT 10:44"/><verse number="45" style="v" sid="ACT 10:45"/>ቃጻሬቲዳይታ ባጋፌ ጴጽሮሳራ ዪዳ ኣማኒዛይቲ ጺሎ ኣያና ኢሞቴ ኣይዛቤታ ቦላ ዎሺን ቤኢዲ ማላሌቲዳ። <verse eid="ACT 10:45"/><verse number="46" style="v" sid="ACT 10:46"/>ሄሲካ ኢስቲ ዱማ ቃላን ሃሳይሺኒኔ ጾሳ ጋላቲሺን ሲዪዳ ጊሻሳ። ሄ ዎዴ ጴጽሮሲ፥<verse eid="ACT 10:46"/></para>
+  <para style="p">
+    <verse number="47" style="v" sid="ACT 10:47"/>«ሃይቲ ኣሳቲ ኑ ማላ ጺሎ ኣያና ኤኪዳ ጊሻስ ኢስቲ ሃን ጻማቄቶንታ ማላ ኢስታ ዲጋናይ ኦኔ?» ጊዴስ። <verse eid="ACT 10:47"/><verse number="48" style="v" sid="ACT 10:48"/>ሄሳ ጊሻስ ዬሱስ ኪርስቶሳ ሱንን ጻማቄታና ማላ ኣዛዚዴስ፤ ሄሳፌ ጉዬ ጴጽሮሲ ጉ ዎዴ ኢስታራ ዳና ማላ ዎሲዳ።<verse eid="ACT 10:48"/></para>
+  <chapter eid="ACT 10"/>
+  <chapter number="11" style="c" sid="ACT 11"/>
+  <para style="s">ጴጽሮሳ ቦላ ሺቂዳ ዋላሳ ቃላ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 11:1"/>ሃዋሬቲኔ ዩሁዳን ዲዛ ኣማኒዛይቲ ኣይዛቤቲ ጾሳ ቃላ ኤኪዳይሳ ሲዪዳ። <verse eid="ACT 11:1"/><verse number="2" style="v" sid="ACT 11:2"/>ሄሳ ጊሻስ ጴጽሮሲ ፑዴ ዬሩሳላሜ ኬዚን ቃጻሬቲዳ ኣይሁዳፔ ኣማኒዛይቲ ጴጽሮሳ፥ <verse eid="ACT 11:2"/><verse number="3" style="v" sid="ACT 11:3"/>«ኔ ቃጻሬቶንታ ኣሳታ ኬ ጌላዳ ኢስታራ ካ ማዳሳ» ጊዲ ዋላሲዳ።<verse eid="ACT 11:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 11:4"/>ጴጽሮሲ ቃሴ ኢስታስ ጌላና ማላ ማራራ ሂዝጊ ዮቲዴስ። <verse eid="ACT 11:4"/><verse number="5" style="v" sid="ACT 11:5"/>«ታኒ ኢዮጴ ካታማን ዎሲሺን ስኮ ማላ ታና ሊጲጲ ሂስቲዲ ኣጁታን ጊታ ማይኦ ሚሳቲዛ ሚሺ ኦይዱ ባጋራ ኦይኬቲዲ ሳሎፔ ታ ዲዛሶ ዎሺን ቤያዲስ። <verse eid="ACT 11:5"/><verse number="6" style="v" sid="ACT 11:6"/>ታ ቲሺ ሂስታ ጼሊሺን ኦይዱ ቶሆራ ዲዛ ሜሄታ፥ ዎራ ዶኣታ፥ ቢታ ቦላ ጎሼቲዛ ሜቴታኔ ሳሎ ቦላ ፒራዛ ካፎታ ቤያዲስ። <verse eid="ACT 11:6"/><verse number="7" style="v" sid="ACT 11:7"/>ሄራካ ታና፥ ‹ጴጽሮሳ ዴንዳ! ሃይሳ ሹካዳ ማ› ጊዛ ቃላ ሲያዲስ።<verse eid="ACT 11:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="ACT 11:8"/>«ታኒካ፥ ‹ጎዶ ሄሲ ሃኔና፤ ታኒ ቱና ዎይኮ ጌሽ ጊዶንታይሳ ሙሌካ ታ ዶናኮ ሺሻ ኤሪኬ› ጋዲስ።<verse eid="ACT 11:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 11:9"/>«ሄ ካሴ ቃላይ ቃሴካ፥ ‹ጾሲ ጌሺዳይሳ ኔ ቱኒሶፓ› ጊዲ ሳሎፔ ታስ ዮቲዴስ። <verse eid="ACT 11:9"/><verse number="10" style="v" sid="ACT 11:10"/>ሄሲካ ሄቶ ሺሬቲ ሺሬቲ ዮቴቲዳፔ ጉዬ ዉሪካ ሲሚዲ ፑዴ ሳሎ ቢዴስ።<verse eid="ACT 11:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 11:11"/>«ቂሳሪያፔ ታኮ ኪቴቲዳ ሄ ኣሳቲ ሄራካ ሄ ሳቴዪን ዪ ጋኪዲ ታ ዲዛ ኬ ካሬን ኤቂዳ። <verse eid="ACT 11:11"/><verse number="12" style="v" sid="ACT 11:12"/>ታ ኣይኔ ሲንታ ኢስታራ ባና ማላ ጺሎ ኣያናይ ታስ ዮቲዴስ። ሄ ኡሱፑን ኢሻቲ ታናራ ኢሲፌ ቢዲ ኣዴዛ ኬ ጌሊዶስ። <verse eid="ACT 11:12"/><verse number="13" style="v" sid="ACT 11:13"/>ኢዚካ ጾሳ ኪታንቻይ ኢዛ ኬን ኤቂዲ ኢዛስ ቤቲዳይሳ፥ ‹ኢዮጴ ጌቴቲዛሶ ኣስ ዬዳዳ ጴጽሮሳ ጌቴቲዛ ሲሞና ጼይጊሳ። <verse eid="ACT 11:13"/><verse number="14" style="v" sid="ACT 11:14"/>ኢዚ ዪዲ ኔናኔ ኔሶ ኣሳ ኡባ ኣሻና ቃላ ዮታና› ጊዳይሳ ኑስ ዮቲዴስ።<verse eid="ACT 11:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 11:15"/>«ታኒካ ባዳ ቡሮ ዮቶ ኦይኪሺን ኮይሮ ጺሎ ኣያናይ ካሴ ኑ ቦላ ዎይሳ ኢስታ ቦላካ ዎዴስ። <verse eid="ACT 11:15"/><verse number="16" style="v" sid="ACT 11:16"/>ካሴ ጎዳይ ኑስ ዮቲሼ፥ ‹ዮሃኒሲ ሃን ጻማቂዴስ፤ ኢንቴ ጊዲኮ ጺሎ ኣያናን ጻማቄታና› ጊዳ ቃላይ ሄራካ ታስ ቆፌቲዴስ።<note caller="-" style="x"><char style="xo" closed="false">11፡16 </char><char style="xt" closed="false"><ref loc="ACT 1:5">ሃዋ 1፡5</ref></char></note> <verse eid="ACT 11:16"/><verse number="17" style="v" sid="ACT 11:17"/>ሄሳ ጊሻስ ኑኒ ጎዳ ዬሱስ ኪርስቶሳ ኣማኒሺን ኑስ ኢሚዳ ጺሎ ኣያና ጾሲ ኢስታስ ኢሚኮ ሂስቲን ጾሳራ ኤቄታናስ ታኒ ኦኔ?» ጊዴስ።<verse eid="ACT 11:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="ACT 11:18"/>ኢስቲ ሄሳ ሲዪዳ ዎዴ ኢስታስ ጊዛዚ ዪን ጮኡ ጊ ሲሚዲ፥ «ሃይሳ ማላ ጊዲኮ ኣይዛቤቲካ ሃ ኦራ ዴኦኮ ያና ማላ ጾሲ ኣሳስ ማሮቴ ኢሚዴስ ጉሳ» ጊዲ ጾሳ ጋላቲዳ።<verse eid="ACT 11:18"/></para>
+  <para style="s">ኣንጾኪያን ዲዛ ዎሳ ኬዮ</para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 11:19"/>ኢስቲፋኖሴ ቦላ ዴንዲዳ ጎዴቴ ጋሶን ላሌቲዳ ኣማኒዛ ኣሳይ ቃላ ኣይሁዳታስ ጻላላ ዮቲሼ ፒንቄ፥ ቆጲሮሴኔ ኣንጾኪያ ጌቴቲዛሶ ጋካናስ ካን ቢዳ።<note caller="-" style="x"><char style="xo" closed="false">11፡19 </char><char style="xt" closed="false"><ref loc="ACT 8:1-4">ሃዋ 8፡1-4</ref></char></note> <verse eid="ACT 11:19"/><verse number="20" style="v" sid="ACT 11:20"/>ቆጲሮሴፔኔ ቃሬናፔ ዪዳ ኢሲ ኢሲ ኣሳቲ ኣንጾኪያ ቢዲ ጊሪኬታስካ ጎዳ ዬሱሳ ሚሺራቾ ቃላ ዮቲዳ። <verse eid="ACT 11:20"/><verse number="21" style="v" sid="ACT 11:21"/>ጎዳ ማዶይካ ኢስታራ ዴስ፤ ቆዳን ኬሂ ዳሮ ኣሳይ ኣማኒዲ ጎዳኮ ሲሚዴስ።<verse eid="ACT 11:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 11:22"/>ሄሳ ዎሬይካ ዬሩሳላሜን ዲዛ ዎሳ ኬ ኣሳ ሃይን ዎን ዎሳ ኬያ ባርናባሳ ኣንጾኪያ ዬዳዱስ። <verse eid="ACT 11:22"/><verse number="23" style="v" sid="ACT 11:23"/>ኢዚካ ሄ ቢ ጋኪዲ ጾሲ ባ ኣ ኪያቴ ዴራስ ኢሚዳይሳ ቤኢዲ ኡፋዬቲዴሲኔ ኣሳይ ዉሪካ ኩሜ ዎዚናፔ ጎዳ ኣማኖን ሚናና ማላ ዞሪዴስ። <verse eid="ACT 11:23"/><verse number="24" style="v" sid="ACT 11:24"/>ኢዚካ ጺሎ ኣያናኒኔ ኣማኖን ኩሚዳ ሎኦ ኣሳ። ዳሮ ዴሬይ ጎዳ ኣማኒዲ ጉጄቲዴስ።<verse eid="ACT 11:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="ACT 11:25"/>ሄሳፌ ካሊዲ ባርናባሲ ሳኦሌ ኮያና ጻርሴሴ ቢዴስ። <verse eid="ACT 11:25"/><verse number="26" style="v" sid="ACT 11:26"/>ኢዛ ዴሚዲ ኣንጾኪያ ኤኪ ዪዴስ፤ ናምኣይካ ሄን ዲዛ ዎሳ ኬ ኣሳራ ጊዲዲ ላይ ኩሜ ዳሮ ዴሬ ታማርሲዳ። ሄን ኣንጾኪያን ኣማኒዛይቲ ኮይሮ፥ «ኪርሳኔ» ጌቴቲ ጼይጌቲዳ።<verse eid="ACT 11:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 11:27"/>ሄ ዎዴ ኢሲ ኢሲ ናቤቲ ዬሩሳላሜፔ ዱጌ ኣንጾኪያ ዎዳ። <verse eid="ACT 11:27"/><verse number="28" style="v" sid="ACT 11:28"/>ኢስታ ጊዶፌ ኢሶይ ኣጋቦሳ ጌቴቲዛይሲ ዴንዲ ኤቂዲ ጺሎ ኣያናይ ኢዛ ቤሲን ኣላሜ ኡባን ጊታ ኮሻይ ዴንዳናይሳ ዮቲዴስ። ሄሲካ ኦሮሜ ካዎ ቃላዎዶሳ ቄሳሬ ጌቴቲዛይሳ ካዎቴ ዎዴ ፖሌቲዴስ።<note caller="-" style="x"><char style="xo" closed="false">11፡28 </char><char style="xt" closed="false"><ref loc="ACT 21:10">ሃዋ 21፡10</ref></char></note> <verse eid="ACT 11:28"/><verse number="29" style="v" sid="ACT 11:29"/>ኣማኒዛይቲ ዉሪ ኢሶይ ኢሶይ ባ ዎልቃ ኬና ሚሼ ኬሴቲዲ ዩሁዳን ዲዛ ኣማኒዛ ኢሻታ ማዳናስ ቃቺዳ። <verse eid="ACT 11:29"/><verse number="30" style="v" sid="ACT 11:30"/>ማዶ ሚሽ ኬሴቲዲ ባርናባሳኔ ሳኦሌ ኩሼን ጪማታስ ጋና ማላ ዬዲዳ።<verse eid="ACT 11:30"/></para>
+  <chapter eid="ACT 11"/>
+  <chapter number="12" style="c" sid="ACT 12"/>
+  <para style="s">ኣማኒዛይታ ቦላ ጋኪዳ ጊታ ሜቶኔ ጎዴቴ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 12:1"/>ሄ ዎዴ ካዎ ሄርዶሲ ኢሲ ኢሲ ኣማኒዛ ኣሳ ጎዲ ጎዲ ሜቶዴስ። <verse eid="ACT 12:1"/><verse number="2" style="v" sid="ACT 12:2"/>ዮሃኒሳ ኢሻ ያቆቤ ማሻን ዎሲዴስ። <verse eid="ACT 12:2"/><verse number="3" style="v" sid="ACT 12:3"/>ኢዚ ሄሳ ኦዳይ ኣይሁዳታ ኡፋይሲዳይሳ ቤኢዲ ጴጽሮሳካ ኦይዴስ፤ ሄሲካ ሃኒዳይ ኣይሁዳታስ ኡኬ ባኣሌ ጌቴቲዛ ባኣሌ ጋላሳ። <verse eid="ACT 12:3"/><verse number="4" style="v" sid="ACT 12:4"/>ጴጽሮሳካ ቃሾ ኬ ጌልዳፔ ጉዬ ኦይዱ ኦይዱ ዎታዳራቲ ታራን ታራን ናጋና ማላ ጊጌቲዳ ዎታዳራታስ ኢሚዴስ። ኢዚ ሄሳ ኦዳይ ፓዚጋ ባኣሌይ ኣዳ ማላ ኬሲዲ ዴሬይ ፒርዳና ማላ ሺሻናሳ።<note caller="-" style="x"><char style="xo" closed="false">12፡4 </char><char style="xt" closed="false"><ref loc="EXO 12:1-27">ኬሳ 12፡1-27</ref></char></note> <verse eid="ACT 12:4"/><verse number="5" style="v" sid="ACT 12:5"/>ሄሳ ጊሻስ ጴጽሮሳ ቃሾ ኬ ጌልዲ ናጌቴስ፤ ጊዶ ኣቲን ዎሳ ኬ ኣሳይ ኢዛስ ኬሂ ሚኖ ዎሳ ዎሲዴስ።<verse eid="ACT 12:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 12:6"/>ሄርዶሲ ጴጽሮሳ ዴሬዛ ሲን ሺሻና ቆፒ ኡቲ ዲሺን ሄ ቃማ ጊዶ ናምኡ ሳንሳላታን ቃሼቲዲ ናምኡ ዎታዳራታ ጊዶን ኢቺዴስ፤ ቃሾ ኬ ናጊዛይቲ ኬ ፔንጌ ቦላ ኤቂ ናጊሺን፥ <verse eid="ACT 12:6"/><verse number="7" style="v" sid="ACT 12:7"/>ጎዳ ኪታንቻይ ኤዝጎንታ ቤቲዴስ፤ ኢስቲ ዲዛ ኪፊሌን ፖኦይ ፖኢዴስ፤ ኪታንቻዚካ ጴጽሮሳ ሚሌ ቦቺ ቤጎዲ፥ «ኤሌ ዴንዳ!» ጊዴስ፤ ሄራካ ሳንሳላታይ ኢዛ ኩሼፔ ጋዴን ዎዴስ።<verse eid="ACT 12:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="ACT 12:8"/>ኪታንቻዚ ኢዛ፥ «ኔ ማይኦ ማይኣ! ጫማካ ኣ!» ጊን ጴጽሮሲካ ኣዛዜቲዳ ማላ ኦዴስ፤ ቃሴካ ኪታንቻይ፥ «ኔ ጋቤ ማይኣዳ ታና ካላ» ጊዴስ። <verse eid="ACT 12:8"/><verse number="9" style="v" sid="ACT 12:9"/>ጴጽሮሲካ ቃሾ ኬፌ ኢዛ ካሊ ኬዚዴስ፤ ጊዶ ኣቲን ኢዛስ ኣጉሞ ቤኢዛ ሚሳቲዴስ ኣቲን ኪታንቻዚ ኦዛይሲ ቱሙ ጊዲዳይሳ ኤሪቤና። <verse eid="ACT 12:9"/><verse number="10" style="v" sid="ACT 12:10"/>ኮይሮ ዛቤታፔኔ ናምኣን ዛቤታፔ ኣዲ ጌዴ ካታማ ኬሲዛ ኦጌ ቦላ ዲዛ ቢራታ ፔንጋኮ ጋኪዳ፤ ፔንጌይካ ባርካ ዶዬቲ ዎዴስ፤ ኢስቲ ኬዚ ቢዳ፤ ኢስቲ ቄሪ ኦጌ ዲዛሮ ኣዳ ማላ ኪታንቻዚ ኢዛፔ ሻኬቲዴስ።<verse eid="ACT 12:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 12:11"/>ጴጽሮሳስ ካሃይ ሲሚሺን፥ «ጎዳይ ባ ኪታንቻ ኪቲዲ ታና ሄርዶሳ ኩሼፔኔ ኣይሁዳቲ ታ ቦላ ቆፒዳ ኡባፌ ኬሲዳይሳ ታ ሃኢ ቱማፔ ኤራዲስ» ጊዴስ።<verse eid="ACT 12:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 12:12"/>ሄሳ ኣኬኪ ኤሪዳፔ ጉዬ ዳሮ ኣሳይ ኢሲ ቦላ ሺቄቲዲ ዎሲዛ ማርቆሳ ጌቴቲዛ ዮሃኒሳ ኣዮ ማራሚሶ ቢዴስ። <verse eid="ACT 12:12"/><verse number="13" style="v" sid="ACT 12:13"/>ኢዚ ሄ ቢዲ ካሬ ፔንጌ ቆጺን ኢሲ ኤሮዶ ጌቴቲዛ ጋራዴያ ካሬ ኦኒ ቆጺዛኮ ኤራናስ ካሬ ማታ ባዱስ። <verse eid="ACT 12:13"/><verse number="14" style="v" sid="ACT 12:14"/>ቃላይ ጴጽሮሳይሳ ጊዲዳይሳ ኤራዳ ኬሃ ኡፋዬቲዳ ጊሻስ ካሬዛ ዶዮንታ ዎን ጉዬ ሲማዳ፥ «ጴጽሮሲ ካሬን ፔንጌ ቦላ ኤቂዴስ» ጋዱስ።<verse eid="ACT 12:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 12:15"/>ኣሳይካ ኢዞ፥ «ሃኔ ጎያይ!» ጊዳ፤ ኢዛ ቃሴ ዛራ ዛራ ኢስታስ ዮቲን፥ «ሂስቲኮ ሄሲ ኢዛ ናጊዛ ኪታንቻ ጊዶንታ ኣጌና» ጊዳ።<verse eid="ACT 12:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="ACT 12:16"/>ጴጽሮሲ ቃሴካ ፔንጌ ቆ ጉጂዴስ፤ ኢስቲካ ፔንጋ ዶይዲ ኢዛ ቤኢዳ ማላ ማላሌቲዳ። <verse eid="ACT 12:16"/><verse number="17" style="v" sid="ACT 12:17"/>ኢዚካ ኢስቲ ጮኡ ጋና ማላ ባ ኩሼን ማላቲ ቤሲዲ ጎዳይ ኢዛ ቃሾሶፔ ዎስቲ ኬሲዳኮ ሎኤ ዮቲዴስ። «ሃይሳ ዉርሲ ያቆቤሲኔ ሃንኮ ኣማኒዛይታስ ዮቲቴ» ጊዴስ። ሄሳፌካ ሃራሶ ቢዴስ።<verse eid="ACT 12:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="ACT 12:18"/>ዎንቴ ጋላስ ዎንታራ ዎታዳራቲ፥ «ጴጽሮሲ ዋኒዴ?» ጊሼ ባ ጊዶን ቡልኣኬቲዳ። <verse eid="ACT 12:18"/><verse number="19" style="v" sid="ACT 12:19"/>ሄርዶሲ ኣስ ዬዲ ጴጽሮሳ ኮዪሲዲ ኢዚ ይዳ ጊሻስ ናጊዛይታ ሎኤ ኦይቺዳፔ ጉዬ ኢስታ ዎና ማላ ኣዛዚዴስ። ሄሳፌ ጉዬ ሄርዶሲ ዩሁዳፔ ዱጌ ቂሳሪያ ዎዲ ሄን ኡቲዴስ።<verse eid="ACT 12:19"/></para>
+  <para style="s">ሄርዶሳ ሃይቆ</para>
+  <para style="p">
+    <verse number="20" style="v" sid="ACT 12:20"/>ሄርዶሲካ ጺሮሴ ኣሳራኔ ሲዶና ኣሳራ ኦሻ፤ ሄ ዴሬ ኣሳይ ካ ዴሚዛይ ሄርዶሳ ዴሬፔ ጊዲዳ ጊሻስ ሄ ዴሬ ካዎ ጼሊዛዴ ቢላስጾሳፔ ማዶ ቃላ ዴሚዳ ማላ ኢሲ ቦላ ጊዲዲ ሄርዶሳራ ማቃዪንናስ ኦይቺዳ።<verse eid="ACT 12:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 12:21"/>ጊጋና ባሬቲዳ ጋላስ ሄርዶሲ ካዎቴ ማይኦ ማይኢዲ ካዎቴ ኣልጋን ኡቲዲ ዴራስ ሃሳይዴስ። <verse eid="ACT 12:21"/><verse number="22" style="v" sid="ACT 12:22"/>ዴሬዚካ፥ «ሃይሲ ጾሳ ቃላፔ ኣቲን ኣሳ ቃላ ዴና!» ጊ ዋሲዴስ። <verse eid="ACT 12:22"/><verse number="23" style="v" sid="ACT 12:23"/>ሄርዶሲካ ጾሳስ ቦንቾ ኢሞንታ ኣጊዳ ጊሻስ ጎዳ ኪታንቻይ ሄራካ ሄርዶሳ ሾጪ ዬጊን ጉጹኒ ሃይቂዴስ።<verse eid="ACT 12:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 12:24"/>ጾሳ ቃላይ ጊዲኮ ዲጪዲ ኣኪ ኣኪ ቢዴስ። <verse eid="ACT 12:24"/><verse number="25" style="v" sid="ACT 12:25"/>ባርናባሲኔ ሳኦሊ ባ ኤኪ ቢዳ ኪታ ፖሊዲ ዬሩሳላሜ ሲሚዲ ማርቆሳ ጌቴቲዛ ዮሃኒሳካ ባናራ ኤኪ ሲሚዳ።<verse eid="ACT 12:25"/></para>
+  <chapter eid="ACT 12"/>
+  <chapter number="13" style="c" sid="ACT 13"/>
+  <para style="s">ባርናባሳኔ ሳኦሌ ኪቴቴ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 13:1"/>ኣንጾኪያን ዲዛ ዎሳ ኬን ናቤቲኔ ኣስታማሬቲ ዴቴስ፤ ሄይቲካ ባርናባሲኔ ኔጌሬ ጌቴቲዛ ሲሞናራ፥ ቃሬና ዴሬ ኣስ ሉቂዮሳራ፥ ሄርዶሳራ ኢሲፌ ዲጪዳ ሚናሄራኔ ሳኦሌራ ዉሪ ኢሲፌ ዴቴስ።<note caller="+" style="f"><char style="fr" closed="false">13፡1 </char><char style="ft" closed="false">ኔጌሬይ ላቲኔ ቃላ ጊዲሺን ቢርሼይ ካሬ ጉሳ።</char></note> <verse eid="ACT 13:1"/><verse number="2" style="v" sid="ACT 13:2"/>ሄይቲ ዉሪ ጎዳስ ጎይኒሼኔ ጾሚሼ ዲሺን ጺሎ ኣያናይ፥ «ባርናባሳኔ ሳኦሌ ታ ኢስታ ጼይጊዳ ኦሶስ ታስ ሻኪ ኬሲቴ» ጊዴስ። <verse eid="ACT 13:2"/><verse number="3" style="v" sid="ACT 13:3"/>ኢስቲካ ጾሚ ዎሲዲ ባ ኩሼ ኢስታ ቦላ ዎዳፔ ጉዬ ሞይዚዳ።<verse eid="ACT 13:3"/></para>
+  <para style="s">ባርናባሲኔ ሳኦሊ ቆጲሮሴ ጌቴቲዛሶን</para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 13:4"/>ባርናባሲኔ ሳኦሊ ጺሎ ኣያና ኪታን ዱጌ ሴላዉቂያ ዎዳ፤ ሄፔካ ማርካቤን ጌሊዲ ቆጲሮሴ ቢዳ። <verse eid="ACT 13:4"/><verse number="5" style="v" sid="ACT 13:5"/>ሳልሚሴ ጌቴቲዛሶ ጋኪዲ ኣይሁዳታ ዎሳ ኬታን ጾሳ ቃላ ሳባኪዳ፤ ማርቆሳ ጌቴቲዛ ዮሃኒሲካ ኢስታራ ቢዲ ኢስታ ማዲዴስ።<verse eid="ACT 13:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 13:6"/>ኣባ ጊዶን ዲዛ ቢታ ቆጲሮሴ ጌቴቲዛ ዴሬዮ ሃ ጋጻፔ ሄ ጋጻ ጋካናስ ካን ኬዚዲ ጳፋ ጌቴቲዛሶ ጋኪሺን ኢሲ ኣይሁዳ ኣሳ ሺን ማሮኔ ዎርዶ ናቤ ባር-ዬሱሳ ጌቴቲዛ ኣስ ዴሚዳ። <verse eid="ACT 13:6"/><verse number="7" style="v" sid="ACT 13:7"/>ኢዚካ ኢሲ ሳርጎሳ ጳዉሎሳ ጌቴቲዛ ዎዚናማ ዴሬ ኣይሲዛይሳራ ኢሲፌ ዴስ፤ ሄሲ ዴሬ ኣይሲዛ ኣዴዚ ጾሳ ቃላ ሲያና ኮዪዲ ባርናባሳኔ ሳኦሌ ጼይጊሲዴስ። <verse eid="ACT 13:7"/><verse number="8" style="v" sid="ACT 13:8"/>ማሮዚ ኤሊማሲ ባ ሱን ቢርሼ ማላ ዴሬ ኣይሲዛይሲ ኣማኖንታ ማላ ጳናስ ኮዪዲ ኢስታራ ኤቄቲዴስ። <verse eid="ACT 13:8"/><verse number="9" style="v" sid="ACT 13:9"/>ጳዉሎሳ ጌቴቲዳ ሳኦሊ ጺሎ ኣያናይ ኢዛን ኩሚን ማሮዛ ቲሺ ሂስቲ ጼሊዲ፥ <verse eid="ACT 13:9"/><verse number="10" style="v" sid="ACT 13:10"/>«ኔኖ ጺሎቴ ኡባስ ሞርኬዞ! ጌኔይኔ ኢታቴ ኔናን ኩሚዳይሶ ሃይሶ ዳቡሎሳ ናዉ! ጎዳ ሱሬ ኦጌ ጌላሴፌ ሼምፒኪ? <verse eid="ACT 13:10"/><verse number="11" style="v" sid="ACT 13:11"/>ሄኮ ሃኢ ጎዳ ኩሼይ ኔ ቦላ ዴስ፤ ኔ ቆቃና፤ ሃኒፌ ጉዬ ኣርሼ ፖኦ ኢሲኖካ ቤያካ» ጊዴስ።</para>
+  <para style="p" vid="ACT 13:11">ሄራካ ሻሩማይኔ ማይ ኢዛ ቦላ ዎዴስ፤ ኩሼ ኦይኪ ባና ካሌናዴ ኮሺ ያኔ ሃ ጊዴስ። <verse eid="ACT 13:11"/><verse number="12" style="v" sid="ACT 13:12"/>ዴሬ ኣይሲዛይሲ ሃ ሃኒዳ ዮኦዛ ቤኢዲ ጎዳ ጊሻስ ሲዪዳ ቲሚርቴዛን ማላሌቲዲ ኣማኒዴስ።<verse eid="ACT 13:12"/></para>
+  <para style="s">ጲሲዲያ ጌቴቲዛ ዴሬን ባርናባሳኔ ሳኦሌ</para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 13:13"/>ጳዉሎሲኔ ኢዛራ ዲዛይቲ ጳፋፔ ዴንዲዲ ጲንፊሊያ ጌቴቲዛሶን ዲዛ ጴርጌኔ ጌቴቲዛሶ ማርካቤን ጌሊ ቢዳ፤ ዮሃኒሲ ኢስታፌ ሻኬቲዲ ጉዬ ዬሩሳላሜ ሲሚዴስ። <verse eid="ACT 13:13"/><verse number="14" style="v" sid="ACT 13:14"/>ኢስቲ ጊዲኮ ጴርጌኔፔ ዴንዲዲ ጲሲዲያ ጊዶን ዲዛ ኣንጾኪያ ቢዳ፤ ሳምባታ ጋላስ ኣይሁዳታ ዎሳ ኬ ጌሊ ኡቲዳ። <verse eid="ACT 13:14"/><verse number="15" style="v" sid="ACT 13:15"/>ሙሴ ዎጋ ማጻፋቲኔ ናቤታ ማጻፋቲ ናባቤቲዳፔ ጉዬ ኣይሁዳታ ዎሳ ኬ ሃላቃቲ፥ «ኑ ኢሻቶ! ኢንቴስ ሃይሳ ኣሳ ዞራና ቃላይ ዲኮ ሃሳይቴ» ጊዲ ኢስታኮ ኣሴ ዬዲዳ።<verse eid="ACT 13:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="ACT 13:16"/>ጳዉሎሲካ ዴንዲ ኤቂዲ ባ ኩሼራ ማላቲዲ፥ «ኢንቴኖ ኢስራኤሌ ኣሳቶ! ቃሴካ ኢንቴኖ ጾሳስ ያዪዛ ኣይዛቤቶ! ሲዪቴ። <verse eid="ACT 13:16"/><verse number="17" style="v" sid="ACT 13:17"/>ሃ ኢስራኤሌ ዴሬ ጾሳይ ካሴ ኑ ኣዋታ ዶሪዴስ፤ ኢስቲ ጊብጼ ዴሬን ዲሺን ኢስታ ቁ ቁ ሂስቲዴስ፤ ባ ዎልቃማ ቄሴራ ሄፔ ኢስታ ኬሲዴስ።<note caller="-" style="x"><char style="xo" closed="false">13፡17 </char><char style="xt" closed="false"><ref loc="EXO 1:7">ኬሳ 1፡7</ref>፤ <ref loc="EXO 12:51">12፡51</ref></char></note> <verse eid="ACT 13:17"/><verse number="18" style="v" sid="ACT 13:18"/>ኦይዱ ታሙ ላይ ኩሜ ኢስታ ባዞ ቢታን ዳንዳይዴስ።<note caller="+" style="f"><char style="fr" closed="false">13፡18 </char><char style="fqa" closed="false">ዳንዳይዴስ፡ </char><char style="ft" closed="false">ዳንዳይዴስ ኢሲ ኢሲ ጌሻ ማጻፋቲ ኢስታ ሎኤ ኦይኪዴስ ጌቴስ።</char></note><note caller="-" style="x"><char style="xo" closed="false">13፡18 </char><char style="xt" closed="false"><ref loc="NUM 14:34">ታይ 14፡34</ref>፤ <ref loc="DEU 1:31">ዛሬ 1፡31</ref></char></note> <verse eid="ACT 13:18"/><verse number="19" style="v" sid="ACT 13:19"/>ካናኔ ቢታን ዲዛይታ ላፑን ካዎታ ይሲዲ ኢስታ ቢታ ባ ዴሬታስ ጋዴ ሂስቲ ላቲሲዴስ።<note caller="-" style="x"><char style="xo" closed="false">13፡19 </char><char style="xt" closed="false"><ref loc="DEU 7:1">ዛሬ 7፡1</ref>፤ <ref loc="JOS 14:1">ኢያ 14፡1</ref></char></note> <verse eid="ACT 13:19"/><verse number="20" style="v" sid="ACT 13:20"/>ሄሲ ዉሪ ፖሌቲዳይ ኦይዱ ጼታኔ ኢቻሹ ታሙ ላይታ ጊዶና፤ ሄሳፌ ጉዬ ናቤ ሳሜላ ዎዴ ጋካናስ ኢስታ ቦላ ፒርዲዛ ዳናታ ኢሚዴስ።<note caller="-" style="x"><char style="xo" closed="false">13፡20 </char><char style="xt" closed="false"><ref loc="DAN 2:16">ዳኔ 2፡16</ref>፤ <ref loc="1SA 3:20">1ሳሜ 3፡20</ref></char></note><verse eid="ACT 13:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 13:21"/>«ሄሳፌ ጉዬ ዴሬይ ባ ቦላ ካዎ ካዎና ማላ ሳሜላ ዎሲዴስ፤ ጾሳይካ ቢኒያሜ ባጋፌ ቂሴ ና ሳኦሌ ኢስታስ ኢሚዴስ፤ ኢዚካ ኢስታ ኦይዱ ታሙ ላይ ሃሪዴስ።<note caller="-" style="x"><char style="xo" closed="false">13፡21 </char><char style="xt" closed="false"><ref loc="1SA 8:5">1ሳሜ 8፡5</ref>፤ <ref loc="1SA 10:21">10፡21</ref></char></note> <verse eid="ACT 13:21"/><verse number="22" style="v" sid="ACT 13:22"/>ሳኦሌ ሻሪዳፔ ጉዬ ዳዊቴ ካዎዴስ፤ ኢዛ ጊሻስ፥ ‹ታ ዎዚና ማላ ሃኒዛይሳኔ ታ ኮዪዳይሳ ኡባ ኦዛ ኢሴዬ ና ዳዊቴ ታ ዴማዲስ› ጊዲ ዳዊቴ ጊሻስ ጾሲ ማርካቲዴስ።<note caller="-" style="x"><char style="xo" closed="false">13፡22 </char><char style="xt" closed="false"><ref loc="1SA 13:14">1ሳሜ 13፡14</ref>፤ <ref loc="1SA 16:12">16፡12</ref>፤ <ref loc="PSA 89:20">ማዛ 89፡20</ref></char></note> <verse eid="ACT 13:22"/><verse number="23" style="v" sid="ACT 13:23"/>ጾሲካ ባ ጫቆ ቃላ ሃ ኣዴዛ ዜሬፌ ኣስ ኣሺዛይሳ ዬሱሳ ኢስራኤሌስ ኤሂዴስ። <verse eid="ACT 13:23"/><verse number="24" style="v" sid="ACT 13:24"/>ዬሱሲ ያናፔ ካሴ ዮሃኒሲ ኢስራኤሌ ዴሬይ ዉሪ ማሮቴን ጌሊዲ ጻማቄታና ማላ ሳባኪዴስ።<note caller="-" style="x"><char style="xo" closed="false">13፡24 </char><char style="xt" closed="false"><ref loc="MRK 1:4">ማር 1፡4</ref>፤ <ref loc="LUK 3:3">ሉቃ 3፡3</ref></char></note> <verse eid="ACT 13:24"/><verse number="25" style="v" sid="ACT 13:25"/>ዮሃኒሲ ባ ኪቴቲዳይሳ ፖሎ ቦላ ዲሼ፥ ‹ታ ኢንቴስ ኦና ሚሳታዚና? ታ ኪቴቲዳይሳ ጊዲኬ፤ ሃራይ ኣቶሺን ታ ኢዛስ ቶሆ ጫማ ኪሬ ቢርሻናስ ቤሶንታይሲ ታፔ ጉዬራ ያና› ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">13፡25 </char><char style="xt" closed="false"><ref loc="JHN 1:20">ዮሃ 1፡20</ref>፤ <ref loc="MAT 3:11">ማቶ 3፡11</ref>፤ <ref loc="MRK 1:7">ማር 1፡7</ref>፤ <ref loc="LUK 3:16">ሉቃ 3፡16</ref>፤ <ref loc="JHN 1:27">ዮሃ 1፡27</ref></char></note><verse eid="ACT 13:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="ACT 13:26"/>«ኢንቴኖ ኣብራሃሜ ዜሬፌ ዬሌቲዳ ኑ ኢሻቶ! ቃሴካ ኢንቴ ጊዶንካ ጾሳስ ያዪዛይቲ ዉሪ ሃይሲ ኣቶቴ ኪታይ ኪቴቲዳይ ኑስ ኡባታሳ! <verse eid="ACT 13:26"/><verse number="27" style="v" sid="ACT 13:27"/>ዬሩሳላሜ ኣሳቲኔ ኢስታ ሃላቃቲ ዬሱሳ ኤሪቤቴና፤ ጊዶ ኣቲን ኢስቲ ኢዛ ቦላ ፒርዲዳ፤ ሄሳንካ ሳምባታን ሳምባታን ናባቤቲዛ ካሴ ናቤታ ቃላይ ኢዛ ቦላ ፖሌቲዴስ። <verse eid="ACT 13:27"/><verse number="28" style="v" sid="ACT 13:28"/>ኢዛ ሃይቆስ ጋዛ ኢሲ ጋሶካ ኢስቲ ዴሞንታ ኣጊኮካ ጲላጾሲ ኢዛ ቦላ ሃይቆ ፒርዳ ፒርዳና ማላ ዎሲዳ።<note caller="-" style="x"><char style="xo" closed="false">13፡28 </char><char style="xt" closed="false"><ref loc="MAT 27:22-23">ማቶ 27፡22-23</ref>፤ <ref loc="MRK 15:13-14">ማር 15፡13-14</ref>፤ <ref loc="LUK 23:21-23">ሉቃ 23፡21-23</ref>፤ <ref loc="JHN 19:15">ዮሃ 19፡15</ref></char></note> <verse eid="ACT 13:28"/><verse number="29" style="v" sid="ACT 13:29"/>ኢዛ ጊሻስ ጻፌቲዳይሳ ኢስቲ ኡባ ፖሊዳፔ ጉዬ ኢዛ ካቄቲዳ ሚ ቦላፌ ጋዴን ዎዲ ዱፎን ሞጊዳ።<note caller="-" style="x"><char style="xo" closed="false">13፡29 </char><char style="xt" closed="false"><ref loc="MAT 27:57-61">ማቶ 27፡57-61</ref>፤ <ref loc="MRK 15:42-47">ማር 15፡42-47</ref>፤ <ref loc="LUK 23:50-56">ሉቃ 23፡50-56</ref>፤ <ref loc="JHN 19:38-42">ዮሃ 19፡38-42</ref></char></note> <verse eid="ACT 13:29"/><verse number="30" style="v" sid="ACT 13:30"/>ጊዶ ኣቲን ጾሲ ኢዛ ሃይቆፔ ዴንዴስ። <verse eid="ACT 13:30"/><verse number="31" style="v" sid="ACT 13:31"/>ጋሊላፔ ዬሩሳላሜ ጋካናስ ባናራ ዲዛይታስ ዳሮ ዎዴ ቤቲዴስ፤ ሄይቲካ ሃኢ ኢዛ ጊሻስ ዴሬታስ ማርካታ።<note caller="-" style="x"><char style="xo" closed="false">13፡31 </char><char style="xt" closed="false"><ref loc="ACT 1:3">ሃዋ 1፡3</ref></char></note><verse eid="ACT 13:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="ACT 13:32"/>«ኑኒካ ካሴ ጾሲ ኑ ኣዋታስ ጫቂዳ ሚሺራቾ ቃላ ኢንቴስ ሳባኮስ። <verse eid="ACT 13:32"/><verse number="33" style="v" sid="ACT 13:33"/>ዬሱሳ ኪቲዲ ኢስታስ ጫቂዳ ቃላ ኑስ ኢስታ ናይታስ ፖሊዴስ፤ ሄሲካ ዬ ማጻፋን ናምኣን ሼምፖን፥ ‹ኔ ታ ናዛ፤ ታ ኔና ሃች ዬላዲስ› ጌቴቲ ጻፌቲዴስ።<note caller="-" style="x"><char style="xo" closed="false">13፡33 </char><char style="xt" closed="false"><ref loc="PSA 2:7">ማዛ 2፡7</ref></char></note> <verse eid="ACT 13:33"/><verse number="34" style="v" sid="ACT 13:34"/>ቃሴካ ኢዚ ዎቆንታይሳኔ ጾሲ ኢዛ ሃይቆፔ ዴንዳይሳ ሻኪ ኤራና ማላ፥</para>
+  <para style="q1" vid="ACT 13:34">« ‹ኣንጄቲዳይሳኔ ኣማኔቲዳ</para>
+  <para style="q2" vid="ACT 13:34">ዳዊቴ ኣንጆ ታ ኢንቴስ</para>
+  <para style="q3" vid="ACT 13:34">ኢማና› ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">13፡34 </char><char style="xt" closed="false"><ref loc="ISA 55:3">ኢሳ 55፡3</ref></char></note><verse eid="ACT 13:34"/></para>
+  <para style="q1">
+    <verse number="35" style="v" sid="ACT 13:35"/>ሄሳ ጊሻስ ሃራሶንካ፥</para>
+  <para style="q2" vid="ACT 13:35">‹ኔ ጌሻይ</para>
+  <para style="q2" vid="ACT 13:35">ሃይቂ ዎቃና ማላ</para>
+  <para style="q3" vid="ACT 13:35">ኔ ኮያካ› ጌስ።<note caller="-" style="x"><char style="xo" closed="false">13፡35 </char><char style="xt" closed="false"><ref loc="PSA 16:10">ማዛ 16፡10</ref></char></note><verse eid="ACT 13:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="ACT 13:36"/>«ዳዊቲ ባ ዎዴን ጾሳ ሼኔ ማላ ኦዳፔ ጉዬ ሃይቂዴስ፤ ካሴ ባ ኣዋታራ ሞጌቲን ኢዛ ኣሾይ ዎቂዴስ። <verse eid="ACT 13:36"/><verse number="37" style="v" sid="ACT 13:37"/>ጾሲ ኢዛ ሃይቆፔ ዴንዳይሲ ኢዚ ጊዲኮ ዎቂቤና። <verse eid="ACT 13:37"/><verse number="38" style="v" sid="ACT 13:38"/>ሄሳ ጊሻስ ታ ኢሻቶ! ናጋራስ ማሮቴ ቤቲዛይ ዬሱሳ ባጋራ ጊዲዳይሲ ኢንቴስ ሳባኬቲዳይሳ ኤሪቴ። <verse eid="ACT 13:38"/><verse number="39" style="v" sid="ACT 13:39"/>ኢዛ ኣማኒዛዴይ ዉሪ ካሴ ሙሴ ዎጋ ባጋራ ዴሞንታ ጺሎቴ ዴማና። <verse eid="ACT 13:39"/><verse number="40-41" style="v" sid="ACT 13:40-41"/>ሄሳ ጊሻስ ካሴ ናቤቲ፥</para>
+  <para style="q1" vid="ACT 13:40-41">« ‹ኢንቴኖ ቂዛይቶ ጼሊቴ፥</para>
+  <para style="q2" vid="ACT 13:40-41">ማላሌቲቴኔ ይቴ፥</para>
+  <para style="q2" vid="ACT 13:40-41">ኢንቴስ ኦኒካ ዮቲን</para>
+  <para style="q2" vid="ACT 13:40-41">ኣማናናስ</para>
+  <para style="q2" vid="ACT 13:40-41">ኢንቴና ሜቲዛ ሚሽ</para>
+  <para style="q2" vid="ACT 13:40-41">ታ ኢንቴ ዎዴን</para>
+  <para style="q2" vid="ACT 13:40-41">ኦና› ጊዳ ቃላይ</para>
+  <para style="q2" vid="ACT 13:40-41">ኢንቴ ቦላ ጋኮንታ ማላ</para>
+  <para style="q2" vid="ACT 13:40-41">ናጌቲቴ» ጊዴስ።<verse eid="ACT 13:40-41"/></para>
+  <para style="p">
+    <verse number="42" style="v" sid="ACT 13:42"/>ጳዉሎሲኔ ባርናባሲ ኣይሁዳታ ዎሳ ኬፌ ኬዚሺን ኣሳይ ኢስታ ሄሳ ኢስቲ ዮቲዳ ቃላ ካሊዛ ሳምባታ ጋላስ ዛሪ ዮታና ማላ ዎሲዴስ። <verse eid="ACT 13:42"/><verse number="43" style="v" sid="ACT 13:43"/>ሺቆይ ላሌቲዳፔ ጉዬ ዳሮ ኣይሁዳቲኔ ኣይሁዳታ ኣማኖን ጌሊዲ ጾስ ጎይኒዛ ኣሳቲ ጳዉሎሳኔ ባርናባሳ ካሊዳ። ጳዉሎሳንቲካ ኢስታ ቆፍሲሼ ኢስቲ ጾሳ ኪያቴን ሚኒ ዳና ማላ ዞሪዳ።<verse eid="ACT 13:43"/></para>
+  <para style="p">
+    <verse number="44" style="v" sid="ACT 13:44"/>ካሊዛ ሳምባታ ጋላስ ካታማ ኣሳፔ ጉቲ ጻላላ ኣቲን ዳሪዛ ባጋይ ዉሪ ጎዳ ቃላ ሲያና ሺቂዴስ። <verse eid="ACT 13:44"/><verse number="45" style="v" sid="ACT 13:45"/>ኣይሁዳቲካ ዳሮ ዴሬ ቤኢዲ ቃናቴቴን ኩሚዳ፤ ጳዉሎሳ ሃሳያ ኤቄቲሼ ኢዛ ጫዪዳ።<verse eid="ACT 13:45"/></para>
+  <para style="p">
+    <verse number="46-47" style="v" sid="ACT 13:46-47"/>ጳዉሎሲኔ ባርናባሲ ባቦንታ ጻላቴን፥ «ጾሳ ቃላይ ኮይሮ ኢንቴስ ዮቴታናስ ቤሴስ፤ ጊዶ ኣቲን ኢንቴ ቃላ ሌቂዴታ። ኢንቴስ ሜርና ዴኦይ ቤሶንታይሳ ኢንቴርካ ኢንቴ ቦላ ፒርዲዳ ጊሻስ ሃኢ ኑኒ ጌዴ ኣይዛቤታኮ ባና ኮዮስ፤ ቃሴካ ጎዳይ ኑና፥ ‹ኣሳስ ኣቶቴ ቃላ ቢታ ጋጻ ጋና ማላ ታ ኔና ኣይዛቤታስ ፖኦ ሂስታ ኪታዲስ› ጊ ኣዛዚዴስ» ጊዳ።<verse eid="ACT 13:46-47"/></para>
+  <para style="p">
+    <verse number="48" style="v" sid="ACT 13:48"/>ኣይዛቤቲ ሄሳ ሲዪዲ ዳሮ ኡፋዬቲዳ፤ ጎዳ ቃላስካ ቦንቾ ኢሚዳ፤ ሜርና ዴኦስ ጊጌቲዳ ዴሬይ ዉሪ ኣማኒዴስ። <verse eid="ACT 13:48"/><verse number="49" style="v" sid="ACT 13:49"/>ጎዳ ቃላይ ሄራን ዲዛ ዴሬ ኡባሶ ጋኪዴስ። <verse eid="ACT 13:49"/><verse number="50" style="v" sid="ACT 13:50"/>ኣይሁዳቲ ቃሴ ኣያና ሃኖን ካሴፔ ሚኒዛይታኔ ዱሳን ቦንቼቲዳ ማጫሳታ ሄሳካ ካታማን ዲዛ ጊታ ኣሳታ ዴንዲ ጳዉሎሳ ቦላኔ ባርናባሳ ቦላ ጎዴቴ ዴንዲ ባ ዴሬፔ ኬሲ ጎዲዳ። <verse eid="ACT 13:50"/><verse number="51" style="v" sid="ACT 13:51"/>ጳዉሎሲኔ ባርናባሲ ኣሳይ ኢስታ ኢጺዳይሳ ቤሳናስ ባ ቶሆ ቦላ ዲዛ ጉዱላ ፒቲዲ ኢቆኒዮኔ ጌቴቲዛሶ ቢዳ።<note caller="-" style="x"><char style="xo" closed="false">13፡51 </char><char style="xt" closed="false"><ref loc="MAT 10:14">ማቶ 10፡14</ref>፤ <ref loc="MRK 6:11">ማር 6፡11</ref>፤ <ref loc="LUK 9:5">ሉቃ 9፡5</ref>፤ <ref loc="LUK 10:11">10፡11</ref></char></note> <verse eid="ACT 13:51"/><verse number="52" style="v" sid="ACT 13:52"/>ኣማኒዛይቲ ኡፋይሳኒኔ ጺሎ ኣያናን ኩሚዳ።<verse eid="ACT 13:52"/></para>
+  <chapter eid="ACT 13"/>
+  <chapter number="14" style="c" sid="ACT 14"/>
+  <para style="s">ኢቆኒዮኔን ጳዉሎሳኔ ባርናባሳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 14:1"/>ኢቆኒዮኔን ጳዉሎሲኔ ባርናባሲ ኢሲፌ ኣይሁዳታ ዎሳ ኬ ጌሊዳ፤ ሄንካ ኢስቲ ኣሳ ሎኤ ታማርሲዳ ጊሻስ ጊሪኬ ኣሳፔኔ ኣይሁዳ ኣሳፔ ዳሮይ ኣማኒዴስ። <verse eid="ACT 14:1"/><verse number="2" style="v" sid="ACT 14:2"/>ሂንኮ ኣማኖንታ ኣይሁዳ ኣሳይ ኣይዛቤታ ኢስታ ቦላ ዴንዲ ኣሳይ ኣማኒዛይታ ኢጻና ማላ ኦዴስ። <verse eid="ACT 14:2"/><verse number="3" style="v" sid="ACT 14:3"/>ጳዉሎሲኔ ባርናባሲ ጎዳ ጊሻስ ጻላቴራ ኣሳስ ዮቲሼ ሄን ዳሮ ዎዴ ጋምኢዳ፤ ጎዳይካ ኢስቲ ዮቲዛ ቃላ ጊታ ማላታራኔ ዎልቃማ ኦሶን ቆንጪሲ ማርካቲዴስ። <verse eid="ACT 14:3"/><verse number="4" style="v" sid="ACT 14:4"/>ካታማ ኣሳይ ባ ጊዶን ናምኡ ኬዚ ሻኬቲዲ ባጋይ ኣይሁዳታ ባጋ፥ ባጋይ ጳዉሎሳንታ ባጋ ጊዲዴስ።<verse eid="ACT 14:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 14:5"/>ሄ ዎዴ ኣይሁዳቲኔ ኣይዛቤቲ ባና ካሌዛይታራ ኢሲፌ ጊዲዲ ኢስታ ዋዪሳናሲኔ ሹቻን ጫዳናስ ኮዪዳ። <verse eid="ACT 14:5"/><verse number="6" style="v" sid="ACT 14:6"/>ኢስቲካ ሄሳ ኤሪዳ ማላ ሊስቲራኔ ዳርቤኔ ጌቴቲዛሶ ሊቃኦኒያ ካታማታኔ ሄ ሄራን ዲዛ ዴሬ ባቃቲዳ። <verse eid="ACT 14:6"/><verse number="7" style="v" sid="ACT 14:7"/>ሄንካ ሚሺራቾ ቃላ ሳባኮ ዶሚዳ።<verse eid="ACT 14:7"/></para>
+  <para style="s">ሊስቲራኒኔ ዳርቤኔን ጳዉሎሳኔ ባርናባሳ</para>
+  <para style="p">
+    <verse number="8" style="v" sid="ACT 14:8"/>ሊስቲራን ዬሌቶሶፔ ባ ቶሆራ ሄሜቲ ኤሮንታ ኢሲ ቶሆ ሲላ ኣዴይ ዴስ። <verse eid="ACT 14:8"/><verse number="9-10" style="v" sid="ACT 14:9-10"/>ሄሳዴይ ጳዉሎሲ ሳባኪሺን ኡቲ ሲዬስ፤ ጳዉሎሲካ ኢዛኮ ቲሺ ሂስቲ ጼሊዲ ኣዴዛ ፓና ኣማኖይ ኢዛ ቦላ ዲዛይሳ ቤኢዲኔ ቃላ ቁ ሂስቲዲ፥ «ሲቲ ጋዳ ኔ ቶሆን ኤቃ!» ጊዴስ። ኣዴዚ ሄራካ ጉፒ ዴንዲዲ ሄሜ ኦይኪዴስ።<verse eid="ACT 14:9-10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 14:11"/>ኣሳይ ጳዉሎሲ ኦዳይሳ ቤኢዲ ሊቃኦኒያ ቃላራ፥ «ኤቃ ጾሳቲ ኣስ ሚሳቲዲ ሃ ኑኮ ዎዳ» ጊዲ ዋሲዴስ። <verse eid="ACT 14:11"/><verse number="12" style="v" sid="ACT 14:12"/>ባርናባሳ፥ «ዲያ» ጊዳ ጳዉሎሳካ ሃሳይዛ ዋናይ ኢዛ ጊዲዳ ጊሻስ፥ «ሄርሜኔ» ጊዳ። <verse eid="ACT 14:12"/><verse number="13" style="v" sid="ACT 14:13"/>ካታማፔ ኣሲ ባይንዳሶን ዲዛ ዲያ ጌቴቲዛ ኤቃ ኬ ቄሴይ ኮርማታኔ ጻጼቲ ጊጊዳ ጪሽ ጌዴ ካታማ ጌሊዛ ኦጌ ቦላ ኤፊዲ ዴሬዛራ ኢሲፌ ጊዲዲ ጳዉሎሳሲኔ ባርናባሳስ ያርሻና ኮዪዴስ።<verse eid="ACT 14:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 14:14"/>ሃዋሬቲ ባርናባሲኔ ጳዉሎሲ ሄሳ ሲዪዳ ማላ ባ ማይኦ ዳኪዲ ጌዴ ዴሬዛ ጊዶ ዎጺዳ፤ ባ ቃላ ቁ ሂስቲዲ ሂዝጊዳ፤ <verse eid="ACT 14:14"/><verse number="15" style="v" sid="ACT 14:15"/>«ሃይቶ ኣሳቶ! ሃይሳ ኣዛስ ኦቲ? ኑኒካ ኢንቴ ማላ ኣሳኮ! ኢንቴካ ቃሴ ሃይሳ ሜላ ሃዳ ዮኦፔ ሃኪዲ ሳሎኔ ሳኣ፥ ኣባካ፥ ኣባታ ጊዶን ዲዛይታ ኡባ ሜዳ ዴኦ ጾሳኮ ኢንቴ ሲማና ማላ ኢንቴስ ሚሺራቾ ቃላ ሳባኮስ።<note caller="-" style="x"><char style="xo" closed="false">14፡15 </char><char style="xt" closed="false"><ref loc="EXO 20:11">ኬሳ 20፡11</ref>፤ <ref loc="PSA 146:6">ማዛ 146፡6</ref></char></note> <verse eid="ACT 14:15"/><verse number="16" style="v" sid="ACT 14:16"/>ኢዚ ካሴ ኣዳ ዬሌታይኔ ዴሬይ ዉሪካ ባ ኮዪዳ ማላ ሃናናስ ዬዲ ቤሲዴስ። <verse eid="ACT 14:16"/><verse number="17" style="v" sid="ACT 14:17"/>ጊዶ ኣቲን ጾሲ ሳሎፔ ኢራኔ ሄሳካ ካ ካጺዛ ዎዴታ ኢሚዲ ኢንቴ ዎዚና ካኒኔ ኡፋይሳን ኩንዴስ፤ ኡፋይሳካ ኢንቴና ካልሲዲ ሎኦ ኦሶን ባና ማርካይ ባይንዳ ኣጊቤና» ጊዳ። <verse eid="ACT 14:17"/><verse number="18" style="v" sid="ACT 14:18"/>ሄሳ ኡባ ሃሳይዲ ኣሳይ ኢስታስ ያርሾንታ ማላ ዋይዲ ዲጊዳ።<verse eid="ACT 14:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 14:19"/>ኣይሁዳቲ ቃሴ ኣንጾኪያፔኔ ኢቆኒዮኔፔ ዪዳ ኣሳይ ኣሳ ዞሪዲ ጳዉሎሳ ሹቻን ጫዳና ማላ ኣማንዳ፤ ጳዉሎሳካ ሹቻን ጫዲዲ ሃይቂዴስ ጊ ጎቺዲ ካታማፔ ጌዴ ካሬ ኬሲዳ። <verse eid="ACT 14:19"/><verse number="20" style="v" sid="ACT 14:20"/>ጊዶ ኣቲን ኣማኒዛይቲ ኢዛ ዩዪ ኣ ናጊሺን ጳዉሎሲ ዴንዲዲ ጌዴ ካታማ ጌሊዴስ፤ ዎንቴ ጋላስ ባርናባሳራ ኢሲፌ ዳርቤኔ ጌቴቲዛሶ ቢዳ።<verse eid="ACT 14:20"/></para>
+  <para style="s">ሶሪያን ዲዛ ኣንጾኪያ ጳዉሎሳኔ ባርናባሳ ሲሞ</para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 14:21"/>ጳዉሎሲኔ ባርናባሲ ዳርቤኔን ሚሺራቾ ቃላ ሳባኪዲ ዳሮ ኣሳ ኣማንዳፔ ጉዬ ጌዴ ሊስቲራ፥ ኢቆኒዮኔኔ ኣንጾኪያ ሲሚዳ። <verse eid="ACT 14:21"/><verse number="22" style="v" sid="ACT 14:22"/>ኣማኒዛይታ ዎዚና ሚንሼ ኢስቲ ኣማኖን ሚኒ ዳና ማላ ዞሪሼ፥ «ኑ ጾሳ ካዎቴ ጌላናስ ዳሮ ሜቶ ጊዶራ ኣናስ ኮሼስ» ጊዳ። <verse eid="ACT 14:22"/><verse number="23" style="v" sid="ACT 14:23"/>ሄሳፌ ጉዬ ዱማ ዱማ ዎሳ ኬታን ጪማታ ዶሪዳፔ ጉዬ ጾማኒኔ ዎሳን ኣማኔቲዳ ጎዳስ ሃዳራ ኣ ኢሚዳ።<verse eid="ACT 14:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 14:24"/>ጲሲዲያራ ኣዲ ጲንፊሊያ ሲሚዳ። <verse eid="ACT 14:24"/><verse number="25" style="v" sid="ACT 14:25"/>ጴርጌኔን ቃላ ሳባኪዲ ዱጌ ኣጻሊያ ጌቴቲዛሶ ዎዳ። <verse eid="ACT 14:25"/><verse number="26" style="v" sid="ACT 14:26"/>ኣጻሊያፔካ ሃኢ ጋካናስ ኢስቲ ኦዳ ኦሶዛ ሃዳራ ኢስታስ ኢሜቲዳ ካታማ ሶሪያን ዲዛ ኣንጾኪያ ማርካቤን ጌሊዲ ሲሚዳ።<verse eid="ACT 14:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 14:27"/>ሄ ጋኪዳ ማላ ዎሳ ኬ ኣሳ ኡባ ሺሺዲ ጾሲ ኢስታራ ኦዳይሳ ቃሴካ ኣይዛቤታስ ኣማኖ ፔንጌይ ዋኒ ዶዬቲዳኮ ዉርሲ ዮቲዳ። <verse eid="ACT 14:27"/><verse number="28" style="v" sid="ACT 14:28"/>ሄን ኣማኒዛይታራ ዳሮ ዎዴ ጋምኢዳ።<verse eid="ACT 14:28"/></para>
+  <chapter eid="ACT 14"/>
+  <chapter number="15" style="c" sid="ACT 15"/>
+  <para style="s">ዬሩሳላሜ ዱላታ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 15:1"/>ኢሲ ኢሲ ኣሳቲ ዩሁዳፔ ዱጌ ኣንጾኪያ ዎዲ፥ «ኢንቴ ሙሴ ዎጋ ማላ ቃጻሬቶንታ ኣጊኮ ኦኒካ ኣታናስ ዳንዳዬኬታ» ጊዲ ኣማኒዛይታ ታማርሶ ዶሚዳ።<note caller="-" style="x"><char style="xo" closed="false">15፡1 </char><char style="xt" closed="false"><ref loc="LEV 12:3">ሌዌ 12፡3</ref></char></note> <verse eid="ACT 15:1"/><verse number="2" style="v" sid="ACT 15:2"/>ሄሲካ ጳዉሎሳኔ ባርናባሳ ጊታ ፓላማኒኔ ኦሻ ጊዶ ጌልዴስ፤ ሄሳ ጊሻስ ጳዉሎሲኔ ባርናባሲ ሃራ ኢሲ ኢሲ ኣማኒዛ ኣሳታራ ዬሩሳላሜ ኬዚዲ ሃ ዮኦዛ ጊሻስ ጪማታኔ ሃዋሬታ ኦይቻና ማላ ጌቴቲዴስ።<verse eid="ACT 15:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="ACT 15:3"/>ሄሳ ጊሻስ ዎሳ ኬያ ኢስታ ዬሩሳላሜ ባና ማላ ኪቲን ኢስቲ ፒንቄራኔ ሳማሪያራ ኣ ቢሼ ሄን ዲዛ ኣይዛቤቲ ኣማኖን ሲሚዳይሳ ዮቲዳ፤ ሄ ዎዴ ኣማኒዛይቲ ሄሳ ሲዪዲ ኬሂ ኡፋዬቲዳ። <verse eid="ACT 15:3"/><verse number="4" style="v" sid="ACT 15:4"/>ኢስቲ ዬሩሳላሜ ጋኪን ዎሳ ኬ ኣሳይ ሃዋሬቲኔ ጪማቲ ኢስታ ሞኪ ኤኪዳ፤ ኪቴቲ ቢዳይቲካ ጾሲ ኢስታራ ጊዲዲ ኦዳይሳ ኡባ ኢስታስ ዮቲዳ። <verse eid="ACT 15:4"/><verse number="5" style="v" sid="ACT 15:5"/>ፋርሳዌታ ባጋ ኣሳታፔ ኣማኒዳ ኢሲ ኢሲ ኣሳቲ ዴንዲዲ፥ «ኣይዛቤቲ ቃጻሬታናሲኔ ሙሴ ዎጋ ናጋና ማላ ኢስታስ ዮታናስ ቤሴስ» ጊዳ።<verse eid="ACT 15:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 15:6"/>ሃዋሬቲኔ ጪማቲ ሄ ዮኦዛ ጊዶ ሎኤ ጼላናስ ሺቂዳ። <verse eid="ACT 15:6"/><verse number="7" style="v" sid="ACT 15:7"/>ዳሮ ፓላማፔ ጉዬ ጴጽሮሲ ዴንዲ ኤቂዲ፥ «ታ ኢሻቶ! ጉ ዎዴፔ ካሴ ጾሲ ታና ኢንቴ ጊዶፌ ዶሪዲ ኣይዛቤቲ ታ ዶናፔ ሚሺራቾ ቃላ ሲዪዲ ኣማናና ማላ ኦዳይሳ ኢንቴ ኤሬታ። <verse eid="ACT 15:7"/><verse number="8" style="v" sid="ACT 15:8"/>ኣሳ ዎዚና ኤሪዛ ጾሲ ኑስ ኢሚዳይሳ ማላ ኢስታስካ ጺሎ ኣያና ኢሚዲ ኢስታ ባስ ኤኪዳይሳ ማርካቲዴስ።<note caller="-" style="x"><char style="xo" closed="false">15፡8 </char><char style="xt" closed="false"><ref loc="ACT 10:44">ሃዋ 10፡44</ref></char></note> <verse eid="ACT 15:8"/><verse number="9" style="v" sid="ACT 15:9"/>ኢስታ ዎዚናካ ኣማኖን ጌሺዲ ኑ ጊዶኒኔ ኢስታ ጊዶን ኣይኮ ሻኮካ ኦቤና። <verse eid="ACT 15:9"/><verse number="10" style="v" sid="ACT 15:10"/>ሄሳ ጊሻስ ኑ ኣዋቲኔ ኑኒካ ቶካናስ ዳንዳዮንታ ቃምባራ ኣማኒዛይታ ቶሳናስ ኢንቴ ኣዛስ ጾስ ፓጬቲ? <verse eid="ACT 15:10"/><verse number="11" style="v" sid="ACT 15:11"/>ኑ ኣቲዳይ ሊኬ ኢስታካ ጎዳ ዬሱሳ ኣ ኪያቴን ጊዲዳይሳ ኣማኖስ» ጊዴስ።<verse eid="ACT 15:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 15:12"/>ሺቂዳ ኣሳይ ዉሪካ ጮኡ ጊን ባርናባሲኔ ጳዉሎሲ ጾሲ ኢስታ ባጋራ ኣይዛቤታ ጊዶን ኦዳ ጊታ ማላታታ ጊሻስ ዮቲሺን ማላሌቲዲ ሎኤ ሲዪዳ። <verse eid="ACT 15:12"/><verse number="13" style="v" sid="ACT 15:13"/>ኢስቲ ዮቲ ዉርሲሺን ያቆቤይ ዴንዲ ኤቂዲ፥ «ታ ኢሻቶ! ታ ጊዛይሳ ሲዪቴ፤ <verse eid="ACT 15:13"/><verse number="14" style="v" sid="ACT 15:14"/>ጾሲ ኣይዛቤታፔ ባስ ጊዳና ዴሬ ካሴቲዲ ኢዚ ዎስቲ ጼይጊ ዎዳኮ ሲሞኒ ኑስ ሎኤ ዮቲዴስ። <verse eid="ACT 15:14"/><verse number="15" style="v" sid="ACT 15:15"/>ካሴ ናቤታን ሂዝጊ ጻፌቲዳ ቃላይ ሃይሳራ ጋጌስ።<verse eid="ACT 15:15"/></para>
+  <para style="q1">
+    <verse number="16" style="v" sid="ACT 15:16"/>« ‹ሃይሳፌ ጉዬ ታ ሲማዳ</para>
+  <para style="q2" vid="ACT 15:16">ላሌቲዳ ዳዊቴ</para>
+  <para style="q2" vid="ACT 15:16">ኬ ኬጻና፤</para>
+  <para style="q2" vid="ACT 15:16">ላሌቲዳይሳ ዛራ ኤሳና፤</para>
+  <para style="q2" vid="ACT 15:16">ዛራዳካ ኬጻና።<verse eid="ACT 15:16"/></para>
+  <para style="q1">
+    <verse number="17" style="v" sid="ACT 15:17"/>ሄሲካ ኣቲዳ ኣሳይ</para>
+  <para style="q2" vid="ACT 15:17">ጎዳ ኮያና ማላኔ</para>
+  <para style="q2" vid="ACT 15:17">ታ ሱንን</para>
+  <para style="q2" vid="ACT 15:17">ጼይጌቲዳ ኣይዛቤቲ</para>
+  <para style="q2" vid="ACT 15:17">ታና ኮያና ማላ ጌስ</para>
+  <para style="q2" vid="ACT 15:17">ኡባ ኦዳ ጾሳይ።<verse eid="ACT 15:17"/></para>
+  <para style="q2">
+    <verse number="18" style="v" sid="ACT 15:18"/>ሃይሳ ኮይሮፔካ ኤሪሲዳ ጾሲ</para>
+  <para style="q3" vid="ACT 15:18">ታና› ጌስ።<verse eid="ACT 15:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 15:19"/>«ሄሳ ጊሻስ ሃ ጾሳኮ ሲሚዳ ኣይዛቤታ ኑ ሜቶንታ ማላ ሃይሲ ታ ባጋራ ታስ ቃሾ። <verse eid="ACT 15:19"/><verse number="20" style="v" sid="ACT 15:20"/>ጊዶ ኣቲን ኤቃስ ያርሼቲዲ ቱኒዳ ካ ሞፒቴ፤ ላይማፔ ሃኪቴ፤ ባዉቲ ሃይቂዳ ሜሄ ኣሾ ሞፒቴ፤ ሱ ኡዮፒቴ ጊዲ ኑ ኢስታስ ጻፋና ቤሴስ።<note caller="-" style="x"><char style="xo" closed="false">15፡20 </char><char style="xt" closed="false"><ref loc="EXO 34:15-17">ኬሳ 34፡15-17</ref>፤ <ref loc="LEV 18:6-23">ሌዌ 18፡6-23</ref></char></note> <verse eid="ACT 15:20"/><verse number="21" style="v" sid="ACT 15:21"/>ሙሴ ዎጋይ ጊዲኮ ቤኒሶፌ ሳምባታ ሳምባታ ጋላስ ኣይሁዳታ ዎሳ ኬን ናባቤቲሼኔ ካታማይ ዲዛሶን ሳባኬቲሼ ዴስ» ጊዴስ።<verse eid="ACT 15:21"/></para>
+  <para style="s">ኣማኒዛ ኣይዛቤታስ ሃዋሬታፔ ጻፌቲዳ ዳብዳቤ</para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 15:22"/>ሄ ዎዴ ሃዋሬቲኔ ጪማቲ ኩሜ ዎሳ ኬ ኣሳራ ጊዲዲ ባ ጊዶፌ ኢሲ ኢሲ ኣሳታ ዶሪዲ ጳዉሎሳራኔ ባርናባሳራ ጋ ኣንጾኪያ ዬዳናስ ቃቺዳ። ኣማኒዛ ኣሳ ጊዶፌ ዋናቲዛይታ ባርሳባሳ ጌቴቲዛ ዩሁዳኔ ሲላሴ ዶሪዳ። <verse eid="ACT 15:22"/><verse number="23" style="v" sid="ACT 15:23"/>ኢስታ ኩሼን ኢሚ ዬዲዳ ዳብዳቤዚ፥ «ኢንቴ ኢሻታፔ፥ ሃዋሬታፔ፥ ጪማታፔ፥ ኣይዛቤታፔ ኣማኒዳ ኣንጾኪያኒኔ ሶሪያን፥ ኪልቂያንካ ዲዛ ኣማኒዛይታስ ኑ ሳሮካይ ኢንቴና ጋኮ።<verse eid="ACT 15:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 15:24"/>«ኢሲ ኢሲ ኣሳቲ ኑፔ ጊዶንታ ባ ባጋራ ኑ ኣቻፌ ቢዲ ባ ሃሳያን ኢንቴ ዎዚና ያኔ ሃ ቃዳይሳኔ ኢንቴና ቡልኣኪዳይሳ ኑ ሲዪዶስ። <verse eid="ACT 15:24"/><verse number="25" style="v" sid="ACT 15:25"/>ሄሳ ጊሻስ ጉ ኣሳታ ዶሪዲ ዶሴቲዳ ባርናባሳራኔ ጳዉሎሳራ ኢንቴኮ ዬዳናስ ኑ ዉሪካ ቃላ ጋጊዶስ። <verse eid="ACT 15:25"/><verse number="26" style="v" sid="ACT 15:26"/>ኢስቲ ጎዳ ዬሱስ ኪርስቶሳ ጊሻስ ባ ሼምፖ ኣ ኢሚዳይታ። <verse eid="ACT 15:26"/><verse number="27" style="v" sid="ACT 15:27"/>ሄሳ ጊሻስ ኑ ኢንቴስ ጻፊዳይሳ ኢስቲ ኢንቴስ ባ ዶናራ ሎኤ ዮታና ማላ ዩሁዳኔ ሲላሴ ኢንቴኮ ዬዲዶስ። <verse eid="ACT 15:27"/><verse number="28" style="v" sid="ACT 15:28"/>ሃይታ ኢንቴስ ኮሺዛ ዮኦታፔ ሃራ ዴጾ ቶሆ ኑ ኢንቴ ቦላ ዎንታ ማላ ኑሲኔ ጺሎ ኣያናስ ሎኦ ሚሳቲ ቤቲዴስ። <verse eid="ACT 15:28"/><verse number="29" style="v" sid="ACT 15:29"/>ሄሲካ ኤቃስ ሹኬቲዳ ኣሾፔ፥ ሱፌ፥ ባዉቲ ሃይቂዳ ሜሄ ኣሾፔኔ ላይማፔ ኢንቴ ሃካና ማላሳ፤ ኢንቴ ሃይታ ሚሳቲዛይታፔ ሃኪኮ ኢንቴስ ሎኦ፤ ሳሮን ዲቴ» ጌስ።<verse eid="ACT 15:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 15:30"/>ኪቴቲዳ ኣሳቲ ሞይዜቲዲ ዱጌ ኣንጾኪያ ዎዳ፤ ሄን ኣማኒዛይታ ዉርሲ ሺሺዲ ኤሂዳ ዳብዳቤዛ ኢስታስ ኢሚዳ። <verse eid="ACT 15:30"/><verse number="31" style="v" sid="ACT 15:31"/>ዴሬይካ ናባቢዲ ሚንዛ ቃላን ኡፋዬቲዴስ። <verse eid="ACT 15:31"/><verse number="32" style="v" sid="ACT 15:32"/>ዩሁዳይኔ ሲላሲ ናቤታ ጊዲዳ ጊሻስ ዳሮ ዞሪዲ ኣማኒዛይታ ሚንዳ። <verse eid="ACT 15:32"/><verse number="33" style="v" sid="ACT 15:33"/>ሄን ጉ ዎዴ ጋምኢዲ ኣማኒዛ ኣሳይ ሞይዚን ጉዬ ባና ኪቲዳይታኮ ሲሚዳ። <verse eid="ACT 15:33"/><verse number="34" style="v" sid="ACT 15:34"/>ሲላሲ ቃሴ ሄን ኣታናስ ኮዪዴስ።<note caller="+" style="f"><char style="fr" closed="false">15፡34 </char><char style="ft" closed="false">ኢሲ ኢሲ ጌሻ ማጻፋቲ ታይቦ 34 ቦላ ዲዛ ቆፋ ጉጄቴና።</char></note> <verse eid="ACT 15:34"/><verse number="35" style="v" sid="ACT 15:35"/>ጳዉሎሲኔ ባርናባሲ ሃራ ዳሮ ኣሳታራ ጊዲዲ ጎዳ ቃላ ታማርሲሼኔ ሳባኪሼ ኣንጾኪያን ጋምኢዳ።<verse eid="ACT 15:35"/></para>
+  <para style="s">ጳዉሎሳኔ ባርናባሳ ሻኬቴ</para>
+  <para style="p">
+    <verse number="36" style="v" sid="ACT 15:36"/>ጳዉሎሲ ጉ ዎዴ ጋምኢዲ ባርናባሳ፥ «ኑ ካሴ ጎዳ ቃላ ዮቲዳ ኡባ ካታማታ ቢዲ ኣማኒዛይቲ ኣይ ማላ ዲዛኮ ኣኔ ዩዪ ቤዮስ፥ ዴንዳ» ጊዴስ። <verse eid="ACT 15:36"/><verse number="37" style="v" sid="ACT 15:37"/>ባርናባሲካ ማርቆሳ ጌቴቲዛ ዮሃኒሲ ኢስታራ ባና ማላ ኮዪዴስ። <verse eid="ACT 15:37"/><verse number="38" style="v" sid="ACT 15:38"/>ጳዉሎሲ ቃሴ ኢዛ ኤኪ ባናስ ኮዪቤና፤ ጋሶይካ ካሴ ማርቆሲ ኢስታፌ ሻኬቲዲ ጲንፊሊያ ጌቴቲዛሶን ጉዬ ኣቲዲ ኢስታራ ኦሶስ ሲን ኬዞንታ ኣጊዳ ጊሻሳ።<note caller="-" style="x"><char style="xo" closed="false">15፡38 </char><char style="xt" closed="false"><ref loc="ACT 13:13">ሃዋ 13፡13</ref></char></note> <verse eid="ACT 15:38"/><verse number="39" style="v" sid="ACT 15:39"/>ሂስቲን ዳሮ ፓላማይ ኢስታ ጊዶን ሜቲዳ ጊሻስ ባ ጊዶን ሻኬቲ ዎዳ፤ ሄሳ ጊሻስ ባርናባሲ ማርቆሳ ኤኪዲ ማርካቤን ጌሊዲ ቆጲሮሴ ቢዴስ። <verse eid="ACT 15:39"/><verse number="40" style="v" sid="ACT 15:40"/>ጳዉሎሲ ቃሴ ሲላሴ ዶሪዴስ፤ ኣማኒዛይቲካ ጎዳ ኣ ኪያቴስ ጳዉሎሳ ሃዳራ ኢሚዳፔ ጉዬ ኢዚ ኢስታፌ ሻኬቲዲ ቢዴስ። <verse eid="ACT 15:40"/><verse number="41" style="v" sid="ACT 15:41"/>ኣማኒዛይታ ሚንሼ ሶሪያራኔ ኪልቂያራ ኣ ቢዴስ።<verse eid="ACT 15:41"/></para>
+  <chapter eid="ACT 15"/>
+  <chapter number="16" style="c" sid="ACT 16"/>
+  <para style="s">ጺምቶሲ ጳዉሎሳራኔ ሲላሴራ ኢሲፌ ጊዴ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 16:1"/>ጳዉሎሲ ዳርቤኔ ጌቴቲዛሶኔ ሊስቲራ ጋኪዲ ኢዛ ኣዋይ ጊሪኬ ኣስ፥ ኣዬያ ቃሴ ኣይሁዳ ኣስ ጊዲዳ ጺምቶሳ ጌቴቲዛ ኢሲ ኣማኒዛዴ ሄን ዴሚዴስ። <verse eid="ACT 16:1"/><verse number="2" style="v" sid="ACT 16:2"/>ኢዚካ ሊስቲራኒኔ ኢቆኒዮኔን ኣማኒዛ ኣሳ ኣቻን ሎኦ ማርካቴ ዲዛዴ። <verse eid="ACT 16:2"/><verse number="3" style="v" sid="ACT 16:3"/>ጳዉሎሲካ ጺምቶሳ ባናራ ኤኪ ባናስ ኮዪዴስ፤ ሄሳ ጊሻስ ሄ ሄራን ኣይሁዳታ ጊሻስ ጊዲ ጺምቶሳ ቃጻሪዴስ፤ ጋሶይካ ኣይሁዳቲ ጺምቶሳ ኣዋይ ጊሪኬ ኣስ ጊዲዳይሳ ኤሪዛ ጊሻሳ።<verse eid="ACT 16:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 16:4"/>ኢስቲ ኢሲ ካታማፔ ሃራ ካታማ ኣ ኣ ቢሼ ሃዋሬቲኔ ዬሩሳላሜ ዎሳ ኬ ጪማቲ ዬዲዳ ኪታ ኣሳይ ኤኪዲ ናጋና ማላ ኣማኒዛ ኣሳስ ኢሚ ኢሚ ኣዳ። <verse eid="ACT 16:4"/><verse number="5" style="v" sid="ACT 16:5"/>ዎሳ ኬ ኣሳይ ኣማኖን ሚኒ ሚኒ ቢዴስ፤ ቃሴ ኣሳይካ ቆዳን ጋላስ ጋላስ ጉጄቲ ጉጄቲ ቢዴስ።<verse eid="ACT 16:5"/></para>
+  <para style="s">ጳዉሎሲ ማቂዶኒያ ጊሻስ ቤኢዳ ኣጁታ</para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 16:6"/>ጳዉሎሲኔ ኢዛራ ዲዛ ዛታቲ ቃላ ኢሲያን ሳባኮንታ ማላ ጺሎ ኣያናይ ዲጊዳ ጊሻስ ፒርጊያራኔ ጋላቲያ ዴሬራ ኣ ቢዳ። <verse eid="ACT 16:6"/><verse number="7" style="v" sid="ACT 16:7"/>ኢስቲ ሚሲያ ጌቴቲዛሶ ጋካና ማቲሼ ቢቲኒያ ጌቴቲዛሶ ጌላና ቆፒን ዬሱሳ ኣያናይ ኢስታ ዲጊዴስ። <verse eid="ACT 16:7"/><verse number="8" style="v" sid="ACT 16:8"/>ሄሳ ጊሻስ ሚሲያራ ኣዲ ጺሮኣዳ ጌቴቲዛሶ ዎዳ። <verse eid="ACT 16:8"/><verse number="9" style="v" sid="ACT 16:9"/>ኢሲ ማቂዶኒያ ኣሲ ኤቂዲ ጳዉሎሳ ማቂዶኒያ ፒናዳ ኑና ማዳ ጊሺን ጳዉሎሲ ኦማርስ ኣጁታን ቤዪዴስ። <verse eid="ACT 16:9"/><verse number="10" style="v" sid="ACT 16:10"/>ኢዚካ ሄ ኣጁታ ቤዪን ኑኒ ሄራካ ማቂዶኒያ ባና ኮዪዶስ፤ ጾሲ ኑኒ ኢስታስ ሚሺራቾ ቃላ ዮታና ማላ ጼይጊዴስ ጊ ቆፒዳ ጊሻሳ።<verse eid="ACT 16:10"/></para>
+  <para style="s">ሊዲያ ኣማኖ</para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 16:11"/>ማርካቤራ ጺሮኣዳ ጌቴቲዛሶፔ ዴንዲዲ ሲቲ ጊዲ ሳሞቲራቄ ጌቴቲዛሶ ቢዶስ፤ ዎንቴ ጋላስ ናጱሌ ጌቴቲዛሶ ሲን ሄሜ ጉጂዶስ። <verse eid="ACT 16:11"/><verse number="12" style="v" sid="ACT 16:12"/>ሄፔካ ኦሮሜ ኣሳይ ቶራን ሃሪዳ ዴሬ ጊዲዳ ማቂዶኒያ ዴሬ ዋና ካታማ ጊዲዳ ፒሊጲሲዮሴ ጌቴቲዛሶ ጌሊዶስ፤ ሄንካ ኡንዴና ዎዴ ኡቲዶስ።<verse eid="ACT 16:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 16:13"/>ሳምባታ ጋላስ ዎሳ ዎሲዛሶ ኮዪሼ ካታማ ጌሊዛሶ ፔንጌ ኬዚዲ ዱጌ ሻፋ ዎስ፤ ኑ ሄን ኡቲዲ ሺቂ ዲዛ ማጫሳታስ ቃላ ዮቲዶስ። <verse eid="ACT 16:13"/><verse number="14" style="v" sid="ACT 16:14"/>ቃላ ሎኤ ሲዪዛ ማጫሳታፔ ኢሲ ሊዲያ ጌቴቲዛራ ኢዛካ ጾስ ጎይኒዛሮኔ ቲያጺሮኔ ካታማፔ ያዳ ዞኦ ሃሬ ማይኦ ዛልኢዛሮ ጳዉሎሲ ዮቲዛ ቃላ ኢዛ ዎዚናን ዎ ሲያና ማላ ጎዳይ ኢዚ ዎዚና ዶይዴስ። <verse eid="ACT 16:14"/><verse number="15" style="v" sid="ACT 16:15"/>ኢዛኔ ኢዚሶ ኣሳይካ ጻማቄቲዳፔ ጉዬ፥ «ታኒ ጾስ ኣማኒዳይሳ ኢንቴ ቱሙ ኤሪዳ ጊዲኮ ሃ ታሶ ዪዲ ጉ ዎዴ ዲሺቴ» ጋዳ ኢስታ ሚን ዎሳዱስ።<verse eid="ACT 16:15"/></para>
+  <para style="s">ጳዉሎሲኔ ሲላሲ ቃሾ ኬን</para>
+  <para style="p">
+    <verse number="16" style="v" sid="ACT 16:16"/>ኢሲ ጋላስ ኑ ዎሳሶ ቢሺን ካዮ ካዮታ ማሮቲዛ ኢሲ ጋራዴ ና ዲዛራ ኑና ዴማዱስ፤ ኢዛካ ባ ማሮቴን ባና ኣይሲዛይታስ ዳሮ ሚሽ ጌልዉስ። <verse eid="ACT 16:16"/><verse number="17" style="v" sid="ACT 16:17"/>ሃና ጋራዴ ናያ ጳዉሎሳኔ ኑና ካላ ካላ፥ «ሃይቲ ኣሳቲ ኢንቴስ ኢንቴ ኣታና ኦጌ ዮቲዛይቲ ዎጋ ጾሳ ኦሳንቻታ» ጋ ጋ ዋሳዱስ። <verse eid="ACT 16:17"/><verse number="18" style="v" sid="ACT 16:18"/>ሄሳካ ዳሮ ጋላስ ሺራ ሺራ ጋዱስ፤ ጊዶ ኣቲን ጳዉሎሲ ኢዚ ቃላን ዳሮ ሜቶቲዳ ጊሻስ ኢዚኮ ሲሚዲ ኢዚ ዶናራ ሃሳይዛ ቱና ኣያናዛ፥ «ኔ ኢዚፔ ኬዛና ማላ ታ ኔና ጎዳ ዬሱስ ኪርስቶሳ ሱንን ኣዛዛይስ» ጊዴስ። ሄ ኣያናይ ሄራካ ዬጊ ኢዚፔ ኬዚዴስ።<verse eid="ACT 16:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 16:19"/>ኢዞ ኣይሲዛ ኣሳቲ ኢስታስ ሚሼ ዴሚዛ ኦጌይ ዱጺን ኢስታ ሂዶታይ ቃንጼቲዳይሲ ኢስታስ ጌሊን ጳዉሎሳኔ ሲላሴ ኦይኪዲ ቢታራ ጎቺዲ ዋናቲ ዲዛሶ ጊያ ጊዶ ኤፊዳ። <verse eid="ACT 16:19"/><verse number="20" style="v" sid="ACT 16:20"/>ዴሬ ኣይሲዛ ዋናታኮ ሺሺዲ፥ «ሃይቲ ኣሳቲ ባስ ኣይሁዳ ኣስ ጊዲ ኡቲዲ ኑ ካታማ ቡልኣኬቴስ፤ <verse eid="ACT 16:20"/><verse number="21" style="v" sid="ACT 16:21"/>ቃሴ ኑ ኦሮሜ ኣሳቲ ኤካናስ ዎይኮ ኦናስ ኑስ ቤሶንታ ዎጋ ኑ ኣሳ ጊዶን ላሌቴስ» ጊዳ።<verse eid="ACT 16:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 16:22"/>ዴሬይካ ኢሲ ቦላ ጊዲዲ ጳዉሎሳ ቦላኔ ሲላሴ ቦላ ዴንዲዴስ፤ ዴራ ኣይሲዛይቲ ጳዉሎሳንታ ማይኦ ቃሪ ኤኪዲ ዱርቃራ ቆጻና ማላ ኣዛዚዳ። <verse eid="ACT 16:22"/><verse number="23" style="v" sid="ACT 16:23"/>ኢታ ቡካ ቡኪዲ ቃሾ ኬን ዬጊዳ፤ ቃሾ ኬ ናጊዛይሲካ ኢስታ ሎኤ ናጋና ማላ ኣዛዚዳ። <verse eid="ACT 16:23"/><verse number="24" style="v" sid="ACT 16:24"/>ኢዚካ ሄሳ ማላ ሚኖ ኣዛዞ ኤኪዲ ቃሾ ኬስ ዋና ጊዶ ኪፊሌ ጌልዲ ኢስታ ቶሆ ጊታ ዱሩማራ ሺሺ ቃቺዴስ።<figure style="fig" alt="Paul and Silas in stocks" file="LB00337B.TIF" size="col" ref="16፡24">ጳዉሎሳ ቶሆቲኔ ሲላሴ ቶሆቲ ዱሩማ ጊዶን ዋጼቲ ዲሺን</figure><verse eid="ACT 16:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="ACT 16:25"/>ጊዲ ጊዶ ጊዲሺን ጳዉሎሲኔ ሲላሲ ዎሳኒኔ ዬን ጾሳ ጋላቲሺን ቃሾ ኣሳይ ኢስታ ዬኔ ጋላታ ኤዝጊ ሲዪዴስ። <verse eid="ACT 16:25"/><verse number="26" style="v" sid="ACT 16:26"/>ሃሳኣይ ባይንዳ ዲንጋቴ ቃሾ ኬ ጻጶፔ ቃዛ ሚኖ ቢታ ቃ ሃኒዴስ፤ ሄራካ ቃሾ ኬ ፔንጌቲ ዶዬቲዳ፤ ቃሼቲዳ ኡባ ኣሳ ቃሾይ ቢርሼቲዴስ። <verse eid="ACT 16:26"/><verse number="27" style="v" sid="ACT 16:27"/>ቃሾ ኬ ናጊዛይሲ ስኮፌ ቤጊዲ ቃሾ ኬ ፔንጌቲ ዶያ ዲዛይሳ ቤኢዲ ቃሾ ኣሳይ ዉሪ ኬሲ ኤኪዳ ሚሳቲን ባና ዎና ማሻ ሾዲዴስ። <verse eid="ACT 16:27"/><verse number="28" style="v" sid="ACT 16:28"/>ጳዉሎሲ ቃሴ ባ ቃላ ቁ ሂስቲዲ፥ «ኑ ዉሪ ሃን ዶስ! ኔ ቦላ ኣይኔ ኢታ ኦፋ» ጊ ዋሲዴስ።<verse eid="ACT 16:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="ACT 16:29"/>ቃሾ ኬ ናጊዛይሲ ጾምፔ ዎሲ ኤኪዲ ጊዶ ጉፒ ጌሊዴስ፤ ኮኮሪሼ ጳዉሎሳ ቶሆ ቦላኔ ሲላሴ ቶሆ ቦላ ኩንዲዴስ። <verse eid="ACT 16:29"/><verse number="30" style="v" sid="ACT 16:30"/>ኢስታ ኤኪ ካሬ ኬዚዲ፥ «ሃ ኣሳቶ! ታ ኣታና ማላ ኣይ ኦ?» ጊዴስ።<verse eid="ACT 16:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="ACT 16:31"/>ኢስቲካ ኢዛስ፥ «ጎዳ ዬሱሳ ኣማና፤ ኔካ ኔሶ ኣሳይካ ኢንቴ ዉሪ ኣታና» ጊዳ። <verse eid="ACT 16:31"/><verse number="32" style="v" sid="ACT 16:32"/>ሄሳፌ ጉዬ ኢዛሲኔ ኢዛሶን ዲዛ ኣሳስ ኡባስ ጎዳ ቃላ ዮቲዳ። <verse eid="ACT 16:32"/><verse number="33" style="v" sid="ACT 16:33"/>ቃሾ ኬ ናጊዛይሲ ሄራካ ሄ ጋላስ ቃማራ ኤፊዲ ኢስታ ማዱን ሜጪዴስ፤ ሄራካ ኢዚኔ ኢዛሶ ኣሳይ ዉሪ ጻማቄቲዳ። <verse eid="ACT 16:33"/><verse number="34" style="v" sid="ACT 16:34"/>ቃሾ ኬ ናጊዛይሲካ ኢስታ ባ ኬ ኤፊዲ ኢስታስ ካ ኣዴስ፤ ባሶ ኣሳ ኡባራ ጾሳ ኣማኒዳ ጊሻስ ኣዴዚ ዳሮ ኡፋዪዴስ።<verse eid="ACT 16:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="ACT 16:35"/>ጋዴይ ዎንቲሺን ዴሬ ኣይሲዛይቲ፥ «ሄይታ ኣሳታ ቢርሻ ዬዳ» ጊዲ ባ ሹሜታ ቃሾ ኬ ናጊዛይሳኮ ዬዲዳ። <verse eid="ACT 16:35"/><verse number="36" style="v" sid="ACT 16:36"/>ቃሾ ኬ ናጊዛይሲካ ኢስታስ፥ «ዴሬ ኣይሲዛይቲ ኢንቴ ቢርሼታና ማላ ኣዛዚዳ፤ ሄሳ ጊሻስ ሃኢ ሳሮን ኬዚ ቢቴ» ጊዲ ጳዉሎሳስ ዮቲዴስ። <verse eid="ACT 16:36"/><verse number="37" style="v" sid="ACT 16:37"/>ጳዉሎሲ ቃሴ፥ «ኑ ኦሮሜ ዬሌቴ ጊዲሺን ፒርዳይ ባይንዳ ዴሬ ሲንን ዱርቃራ ቡኪዲ ቃሾ ኬን ዬጊዳ፤ ሂስቲን ሃኢ ቃሴ ኑና ቆታራ ኣሲ ኤሮንታ ኬሳና ኮዪዞ? ሄሲ ሃኔና፤ ኢስቲ ዪዲ ባርካ ቢርሼቶ!» ጊዴስ።<verse eid="ACT 16:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="ACT 16:38"/>ሹሜቲ ሄ ኢዚ ጊዳ ቃላ ዴሬ ኣይሲዛይታስ ዮቲዳ፤ ኢስቲካ ጳዉሎሲኔ ሲላሲ ኦሮሜ ዬሌታ ጊዲዳይሳ ሲዪዲ ዳጋሚዳ። <verse eid="ACT 16:38"/><verse number="39" style="v" sid="ACT 16:39"/>ዪዲ ኢስታፌ ማሬቴ ኦይቺዲ ዎይኔፔ ኬሲዳ፤ ኢስቲ ሄ ካታማዮ ኣጊዲ ሃራሶ ባና ማላ ኢስታ ዎሲዳ።<verse eid="ACT 16:39"/></para>
+  <para style="p">
+    <verse number="40" style="v" sid="ACT 16:40"/>ጳዉሎሲኔ ሲላሲ ቃሾ ኬፌ ኬዚዲ ሊዲያሶ ቢዳ፤ ሄንካ ዲዛ ኣማኒዛይቲ ኢስታ ኬሂ ሚንዲ ሄፔ ኬዚ ቢዳ።<verse eid="ACT 16:40"/></para>
+  <chapter eid="ACT 16"/>
+  <chapter number="17" style="c" sid="ACT 17"/>
+  <para style="s">ታሶሎንቄን ጳዉሎሳኔ ሲላሴ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 17:1"/>ጳዉሎሲኔ ሲላሲ ኣንፊጶላኔ ኣጶሎኒያ ጌቴቲዛ ዴሬራ ኣዲ ታሶሎንቄ ጌቴቲዛ ዴሬ ቢዳ፤ ሄንካ ኣይሁዳታ ዎሳ ኬ ዴስ። <verse eid="ACT 17:1"/><verse number="2" style="v" sid="ACT 17:2"/>ጳዉሎሲካ ኢዛስ ሎሴ ጊዲዳ ማላ ኣይሁዳታ ዎሳ ኬ ጌሊዴስ፤ ሄ ሳሚንታ ኩሜ ቃላፔ ኤኪ ኤኪ ኢስታራ ሃሳዬቲዴስ። <verse eid="ACT 17:2"/><verse number="3" style="v" sid="ACT 17:3"/>ኪርስቶሲ ዋዬ ኤካናሲኔ ሃይቂ ዴንዳናስ ቤሲዛይሳ ቆንጪሲ ኣማንን፥ «ሃይሲ ታ ሳባኪዛ ዬሱሲ ኢዚ ኪቴቲ ያና ጌቴቲዳይሳኮ!» ጊዴስ። <verse eid="ACT 17:3"/><verse number="4" style="v" sid="ACT 17:4"/>ኣይሁዳታፔ ኢሲ ኢሲ ኣሳይ ባ ሲዪዳይሳ ኣማኒዲ ጳዉሎሳራኔ ሲላሴራ ኢሲፌ ጊዲዴስ፤ ቃሴካ ዳሮ ዴሬይ ጾሳስ ያዪዛ ጊሪኬታፔ ዳሮ ኤሬቲዳ ማጫሳቲ ባ ሲዪዳ ቃላን ኣማኒዲ ኢስታራ ኢሲኖ ጊዲዳ።<verse eid="ACT 17:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 17:5"/>ኣይሁዳቲ ቃሴ ኢስታ ቃናቲዲ ጊያን ዲዛ ዎርዶ ኣሳታ ሺሺዲ ኩሜ ዴሬዛ ኢስታ ቦላ ዴንዲ ካታማን ሺሮ ሜዳ። ጳዉሎሳኔ ሲላሴ ሺሺዲ ዴራ ሲንን ኤሳናስ ኢሲ ኢያሶኔ ጌቴቲዛይሳሶ ኮያናስ ኤሌሊ ቢዳ። <verse eid="ACT 17:5"/><verse number="6" style="v" sid="ACT 17:6"/>ጊዶ ኣቲን ኢስታ ኢያሶኔ ኬን ዴሞንታ ኣጊዳ ጊሻስ ኢያሶኔኔ ሃራ ኣማኒዛ ኣሳታ ካታማ ዳናታ ሲንራ ጎቺሼ፥ «ሃይቲ ኣሳቲ ዴሬ ዉርሲ ቡልኣኪሼ ጋምኢዲ ቃሴ ሃኢ ሃ ዪዳ። <verse eid="ACT 17:6"/><verse number="7" style="v" sid="ACT 17:7"/>ኢያሶኔይካ ኢስታ ባ ኬን ዎዴስ፤ ሃይቲ ኣሳቲ ዉሪ፥ ‹ዬሱሳ ጌቴቲዛ ሃራ ካዎይ ዴስ› ጊዲ ቄሳሬ ዎጋ ኤኬቴና» ጊሼ ዋሲዳ። <verse eid="ACT 17:7"/><verse number="8" style="v" sid="ACT 17:8"/>ዴሬይኔ ሄ ካታማ ዳናቲ ሄሳ ሲዪዲ ባ ጊዶን ቡቄቲዳ። <verse eid="ACT 17:8"/><verse number="9" style="v" sid="ACT 17:9"/>ኢያሶኔኔ ሃራታካ ዋሴ ጼይጊሲዲ ዬዲዳ።<verse eid="ACT 17:9"/></para>
+  <para style="s">ቤሪያን ጳዉሎሳኔ ሲላሴ</para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 17:10"/>ኣማኒዛይቲ ሄራካ ጳዉሎሳኔ ሲላሴ ቃማራ ቤሪያ ዬዲዳ፤ ኢስቲካ ሄ ጋኪዳ ማላ ኣይሁዳታ ዎሳ ኬ ጌሊዳ። <verse eid="ACT 17:10"/><verse number="11" style="v" sid="ACT 17:11"/>ቤሪያ ኣሳይ ታሶሎንቄ ኣሳፔ ኣዲ ኣኬካራ ዲዛ ኣሳ። ጋሶይካ ሃይሲ ዮኦዚ ቱሜሻ? ጊ ጊዲ ጌሻ ማጻፋታ ቃላ ዎንቲን ዎንቲን ፒልጊ ጼሊዲ ኡፋይሳን ኤኪዴስ። <verse eid="ACT 17:11"/><verse number="12" style="v" sid="ACT 17:12"/>ሄሳ ጊሻስ ኢስታፌ ዳሮ ኣሳይ ኣማኒዴስ፤ ቃሴካ ኢስታራ ቆዳን ዳሮቲ ቦንቼቲዳ ጊሪኬ ዴሬ ማጫሳቲኔ ኣዴቲካ ኣማኒዳ።<verse eid="ACT 17:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 17:13"/>ታሶሎንቄን ዲዛ ኣይሁዳ ኣሳቲ ጳዉሎሲ ጾሳ ቃላ ቤሪያንካ ሳባኪዛይሳ ኤሪዳ ማላ ዴሬዛ ዴንናስ ቃሴካ ኢስታኮ ቢዳ። <verse eid="ACT 17:13"/><verse number="14" style="v" sid="ACT 17:14"/>ሄ ዎዴ ኣማኒዛይቲ ጳዉሎሳ ኤሌሲዲ ጌዴ ኣባ ኣቺ ዬዲዳ፤ ሲላሲኔ ጺምቶሲ ሄን ኣቲዳ። <verse eid="ACT 17:14"/><verse number="15" style="v" sid="ACT 17:15"/>ጳዉሎሳ ሞይዚዳ ኣሳቲ ኢዛ ኣቴና ጋዳ፤ ቃሴካ ሲላሲኔ ጺምቶሲ ኢዛኮ ኤሌሊ ጋካና ማላ ጊዛ ኪታ ጳዉሎሳፔ ኤኪዲ ሲሚዳ።<verse eid="ACT 17:15"/></para>
+  <para style="s">ኣቴናን ጳዉሎሳ</para>
+  <para style="p">
+    <verse number="16" style="v" sid="ACT 17:16"/>ጳዉሎሲ ኣቴናን ኢስታ ናጊሺን ኣቴና ካታማን ኤቃቲ ኩሚዳይሳ ቤኢዲ ዳሮ ሼኔቲዴስ። <verse eid="ACT 17:16"/><verse number="17" style="v" sid="ACT 17:17"/>ሄሳ ጊሻስ ኣይሁዳታ ዎሳ ኬን ኣይሁዳታራኔ ጾሳስ ያዪዛ ጊሪኬ ኣሳራ ቃሴካ ጊያይ ዲዛሶን ጋላስ ጋላስ ባናራ ጋጊዛ ኣሳራ ሃሳዬቲዴስ። <verse eid="ACT 17:17"/><verse number="18" style="v" sid="ACT 17:18"/>ኤፊቆሮሴኔ ኢስቶይኮ ጌቴቲዛ ኤራንቻታ ባጋ ጊዲዳይቲ ጳዉሎሳኮ ሺቂዲ ኢዛራ ሃሳዬቲዳ፤ ኢስታፌ ኢሲ ኢሲ ኣሳቲ፥ «ሃይሲ ሎምኡሎምኣይ ኣይ ጋና ኮይዜ?» ጊዳ፤ ባጋይቲ ቃሴ ዬሱሳ ጊሻሲኔ ሃይቆፔ ኢዛ ዴን ሚሺራቾ ኢዚ ሳባኪሺን ሲዪዲ፥ «ሄሲ ሃራ ኦራ ኤቃታ ጊሻስ ዮቲዛ ሚሳቴስ» ጊዳ።<verse eid="ACT 17:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 17:19"/>ኢዛ ኦይኪዲ ኣሪዮስፋጎሴ ጌቴቲዛ ዴሬ ዱላታ ሲን ኤፊዲ፥ «ሃ ኔ ታማርሲዛ ኦራ ቲሚርቴይ ኣዛኮ ኑ ኤራና ማላ ኔ ኮያይ?» ጊዳ።<figure style="fig" alt="Areopagus" file="HK00355B.TIF" size="col" ref="17፡19">ኣሪዮስፋጎሴ</figure> <verse eid="ACT 17:19"/><verse number="20" style="v" sid="ACT 17:20"/>ቃሴ ኔ ኑና ኑ ሃይን ሲሲዛ ዮኦይ ኑ ኤሮንታ ኦራ ጊዲዳ ጊሻስ ኢዚ ኣዛኮ ኑ ኤራና ኮዮስ። <verse eid="ACT 17:20"/><verse number="21" style="v" sid="ACT 17:21"/>ኣቴና ኣሳይ ኩሜ ቃሴካ ሃን ዲዛ ሃራ ዴሬ ኣሳይካ ባስ ዎዴ ኣናስ ኦራ ዮኦ ሃሳያኒኔ ሲሳን ኣቲን ሃራ ሚሻን ዎዴ ኣቴና።<verse eid="ACT 17:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 17:22"/>ሄሳ ጊሻስ ጳዉሎሲ ኣሪዮስፋጎሴ ጌቴቲዛ ዱላታን ሺቂዳ ዴሬዛ ሲንን ኤቂዲ፥ «ሃይቶ ኣቴና ኣሳቶ! ኢንቴ ቤቶ ሚሽ ኡባ ኣማኒዛይታ ጊዲዳይሳ ታ ቤያይስ። <verse eid="ACT 17:22"/><verse number="23" style="v" sid="ACT 17:23"/>ታ ያኔ ሃ ዩዪሺን ኢንቴ ኢስታስ ጎይኒዛ ሚሻታ ታ ጼሊሺን፥ ‹ኤሬቶንታ ጾስ› ጌቴቲ ጻፌቲዳይሳ ኢሲ ያርሾሶሆ ዴማዲስ፤ ሄሳ ጊሻስ ሄሳ ኢንቴ ኤሮንታ ጎይኒዛይሳ ታ ኢንቴና ኤሪሳና። <verse eid="ACT 17:23"/><verse number="24" style="v" sid="ACT 17:24"/>ሃይሳ ኣላሜዛኔ ኢዛ ጊዶንካ ዲዛይሳ ኡባ ሜዳ ጾሲ ኢዚ ሳሎኔ ሳኣ ጎዳ፤ ሄሳ ጊሻስ ኢዚ ኣሳ ኩሼን ኬጼቲዳ ኬን ዴና። <verse eid="ACT 17:24"/><verse number="25" style="v" sid="ACT 17:25"/>ኢዚ ኣስ ኡባስ ዴኦኔ ሼምፖ፤ ቃሴካ ሃራ ዉርሲ ኢሚዛይሳ ጊዲዳ ጊሻስ ኢዛስ ፓጪዛዚ ባይንዳ ጊሻስ ኢዚ ኣሳ ኩሼፔ ማዶ ኤኬና። <verse eid="ACT 17:25"/><verse number="26" style="v" sid="ACT 17:26"/>ኣሳ ዜሬ ኡባ ኢሳዴፌ ሜዲ ኣሲ ቢታ ቦላ ዳና ማላ ኦዴስ፤ ኣሳይ ዳና ዎዴኔ ዉርሴ ስ ዎዴስ። <verse eid="ACT 17:26"/><verse number="27" style="v" sid="ACT 17:27"/>ሄሲካ ኣሲ ጾስ ኮዪዲኔ ፒልጊዲ ዴማናኮ ጊዲ ዎዴስ፤ ሄሲ ሄሳ ጊዲኮካ ኢዚ ኑፔ ኢሲ ኢሳዴፌ ሃኪ ዲዛ ጊሻስ ጊዴና። <verse eid="ACT 17:27"/><verse number="28" style="v" sid="ACT 17:28"/>ኑ ዴኦ ዴሚዳይ፥ ዲዛይኔ ቃጼቲዛይ ኢዛና፤ ኢንቴ ዴሬን ማዛሙሬ ኬሲዛ ኢሲ ኢሲ ኣሳቲ፥ ‹ኑኒካ ኢዛ ናይታ› ጊዳ ማላ።<verse eid="ACT 17:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="ACT 17:29"/>«ሂስቲኮ ኑ ጾሳ ናይታ ጊዲኮ ጾሲ ኣስ ኤራቴን ሜ ኬሲዳ ዎርቃ ዎይኮ ቢራ ዎይኮ ሹች ሚሳቴስ ጊዲ ኑ ቆፓናስ ቤሴና። <verse eid="ACT 17:29"/><verse number="30" style="v" sid="ACT 17:30"/>ካሴቲዲ ጾሲ ሃይሳ ማላ ሃኖታ ኣሳይ ኤሮንታ ኦዳይሳ ዳንዳያን ኣዴስ፤ ሃኢ ጊዲኮ ኣሲ ዉሪ ባ ዲዛሶን ዲዛሶን ማሮቴን ጌላና ማላ ኣዛዜስ» ጊዴስ። <verse eid="ACT 17:30"/><verse number="31" style="v" sid="ACT 17:31"/>ኢዚ ባ ዶሲዳዴ ባጋራ ቢታ ቦላ ጺሎቴን ፒርዳና ጋላስ ባሬ ዎዴስ። ኢዛካ ሃይቆፔ ዴንዲ ኣስ ኡባስ ሃይሳ ቱማቴ ኤሪሲዴስ።<verse eid="ACT 17:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="ACT 17:32"/>ኢስቲካ ሃይቂዳይታ ዴን ጊሻስ ሲዪዳ ማላ ኢሲ ኢሲ ኣሳቲ ኢዛ ቂዳ፤ ባጋይቲ ቃሴ፥ «ሃይሳ ቃሴካ ኑ ኔፔ ሃራ ጋላስ ሲያና ኮዮስ» ጊዳ። <verse eid="ACT 17:32"/><verse number="33" style="v" sid="ACT 17:33"/>ሄራካ ጳዉሎሲ ኢስታ ጊዶፌ ኬዚ ቢዴስ። <verse eid="ACT 17:33"/><verse number="34" style="v" sid="ACT 17:34"/>ኢሲ ኢሲ ኣሳቲ ቃሴ ጳዉሎሳ ካሊዳኔ ኣማኒዳ፤ ሄይታፔካ ዲዮናሲዮሳ ጌቴቲዛ ኣሪዮስፋጎሴ ዱላታ ኬ ኣባሌ ጊዲዳ ዴማርሶ ጌቴቲዛ ማጫሳያኔ ሃራቲካ ኢሲፌ ዴቴስ።<verse eid="ACT 17:34"/></para>
+  <chapter eid="ACT 17"/>
+  <chapter number="18" style="c" sid="ACT 18"/>
+  <para style="s">ቆሮንቶሴን ጳዉሎሳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 18:1"/>ሄሳፌ ጉዬ ጳዉሎሲ ኣቴናፔ ዴንዲዲ ቆሮንቶሴ ካታማ ቢዴስ። <verse eid="ACT 18:1"/><verse number="2" style="v" sid="ACT 18:2"/>ሄንካ ጳንጾሳን ዬሌቲዳ ኣቂላ ጌቴቲዛ ኣይሁዳ ኣስ ዴሚዴስ፤ ኢዚካ ኣይሁዳቲ ዉሪ ኦሮሜፔ ኬዛና ማላ ቃላዎዶሳ ጌቴቲዛ ኦሮሜ ካዎይ ኣዛዚዳ ማላ ባ ማቼዮ ጲርሲቂላራ ማታ ዎዴ ኢጻሊያ ዴሬፔ ዪዳይሳ ቤያናስ ጳዉሎሲ ሄ ኢስታኮ ቢዴስ። <verse eid="ACT 18:2"/><verse number="3" style="v" sid="ACT 18:3"/>ኢዚካ ኢስታ ዱንካኔ ሲኪዛዴ ጊዲዳ ጊሻስ ኢስታ ኣቻን ኡቲዲ ዱንካኔ ሲኮን ጌሊዴስ። <verse eid="ACT 18:3"/><verse number="4" style="v" sid="ACT 18:4"/>ሳምባታ ሳምባታ ጋላስ ኣይሁዳታ ዎሳ ኬን ኣይሁዳታራኔ ጊሪኬ ኣሳታራ ሃሳዬቲሼ ኢስታ ኣማንናስ ባጼቲዴስ።<verse eid="ACT 18:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 18:5"/>ሲላሲኔ ጺምቶሲ ማቂዶኒያፔ ዱጌ ኢዛኮ ዎን ጳዉሎሲ ሳባኮን ሚኒዲ ዬሱሲ ኢዚ ኪርስቶሳ ጊዲዳይሳ ኣይሁዳታስ ማርካቲዴስ። <verse eid="ACT 18:5"/><verse number="6" style="v" sid="ACT 18:6"/>ጊዶ ኣቲን ኢስቲ ኢዛራ ኤቄቲዲ ኢዛ ጫዪዳ ጊሻስ ጳዉሎሲ ባ ማይኦ ቆቆፊዲ፥ «ታ ኢንቴፌ ጺሎ፤ ኢንቴ ፒርዴታናይ ኢንቴ ሞሮን ጊዲዳ ጊሻስ ታ ኢንቴ ሱ ጎሜን ኦይሼቲኬ፤ ሄሳ ጊሻስ ታ ኣይዛቤታኮ ባይስ» ጊዴስ።<verse eid="ACT 18:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 18:7"/>ሄፔ ኬዚዲ ቲቶሳ ኢዮስጾሳ ጌቴቲዛ ጾስ ዎሲዛይሳሶ ቢዴስ፤ ሄ ኣዴዛ ኬይ ኣይሁዳታ ዎሳ ኬ ኣቻን ዴስ። <verse eid="ACT 18:7"/><verse number="8" style="v" sid="ACT 18:8"/>ኣይሁዳታ ዎሳ ኬ ሃላቃይ ቄሪስጶሲ ባሶ ኣሳ ኡባራ ጎዳ ኣማኒዴስ፤ ጳዉሎሲ ዮቲሺን ሲዪዳ ዳሮ ቆሮንቶሴ ካታማ ኣሳይ ኣማኒዲ ጻማቄቲዴስ።<verse eid="ACT 18:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 18:9"/>ጎዳይ ቃማራ ኣጁታን ጳዉሎሳ፥ «ባቦፋ፤ ዮታ፤ ጮኡ ጎፓ፤ <verse eid="ACT 18:9"/><verse number="10" style="v" sid="ACT 18:10"/>ታ ኔናራ ዳይስ፤ ኦኒካ ኔ ቦላ ዴንዲ ኔና ቆሃናስ ዳንዳዬና፤ ሃኖ ሃ ካታማይን ታስ ዳሮ ኣሲ ዴስ» ጊዴስ።<verse eid="ACT 18:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 18:11"/>ሄሳ ጊሻስ ጳዉሎሲ ጾሳ ቃላ ኣሳ ታማርሲሼ ኢሲ ላይኔ ባጋ ኢስታራ ኡቲዴስ።<verse eid="ACT 18:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 18:12"/>ጋልዮሳ ጌቴቲዛ ዴሬ ኣይሲዛይሲ ኣካያን ዲዛ ዎዴ ኣይሁዳቲ ኢሲፌ ጊዲዲ ጳዉሎሳ ቦላ ዴንዲዳ፤ ፒርዳ ዎምቦራ ሲን ሺሺዲ፥ <verse eid="ACT 18:12"/><verse number="13" style="v" sid="ACT 18:13"/>«ሃይሲ ኣዴዚ ዎጋፔ ካሬራ ኣሳይ ጾሳስ ጎይናና ማላ ኣሳ ባሌስ» ጊዳ።<verse eid="ACT 18:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 18:14"/>ጳዉሎሲ ሃሳያና ቡሮ ዶና ዶይሺን ጋልዮሲ ኣይሁዳታ፥ «ኢንቴኖ ኣይሁዳ ኣሳቶ! ኢንቴ ሺሺዳ ዮኦይ ዴሬ ዴን ዎይኮ ዴሬ ጊታ ሜቶን ዬጊዛ ዮኦ ጊዲዳኮ ታ ዎዚናፔ ሲያናሺን። <verse eid="ACT 18:14"/><verse number="15" style="v" sid="ACT 18:15"/>ጊዶ ኣቲን ኢንቴ ፓላማይ ኢሲ ኢሲ ቃላታ ጊሻሲኔ ኢሲ ኢሲ ሱንታ ጊሻስ ቃሴካ ኢንቴ ዎጋ ጊሻስ ጊዲዳ ጊሻስ ኢንቴ ሄን ኢንቴ ባጋራ ዉርሲቴ፤ ታ ሄሳ ማላ ዮኦ ፒርዳናስ ኮይኬ» ጊዴስ። <verse eid="ACT 18:15"/><verse number="16" style="v" sid="ACT 18:16"/>ሄሳ ጊሻስ ፒርዳ ዎምቦራ ሲንፌ ኢስታ ኬሲዴስ። <verse eid="ACT 18:16"/><verse number="17" style="v" sid="ACT 18:17"/>ሄ ዎዴ ዉሪካ ኣይሁዳ ዎሳ ኬ ሃላቃ ሶስቲኔሴ ጌቴቲዛይሳ ኦይኪዲ ፒርዳ ኬ ሲንን ቡኪዳ፤ ጋልዮሲ ጊዲኮ ሄሳ ዉዳንካ ዬጊቤና።<verse eid="ACT 18:17"/></para>
+  <para style="s">ጲርሲቂላ፥ ኣቂላኔ ኣጲሎሳ</para>
+  <para style="p">
+    <verse number="18" style="v" sid="ACT 18:18"/>ሄሳፌ ጉዬ ጳዉሎሲ ቆሮንቶሴ ካታማን ዳሮ ዎዴ ጋምኢዴስ፤ ሄፔካ ኣማኒዛ ኣሳይ ሞይዚን ጲርሲቂላራኔ ኣቂላራ ኢሲፌ ማርካቤን ጌሊዲ ሶሪያ ጌቴቲዛሶ ቢዴስ፤ ኣዲና<note caller="+" style="f"><char style="fr" closed="false">18፡18 </char><char style="fqa" closed="false">ኣዲና፡ </char><char style="ft" closed="false">ኣዲና ጊዛይሳ ኢሲ ኢሲ ባጋ ጋሞ ቃላን፥ «ታሳላ ዎይኮ ጋላታስ ኢሜቲዛ ኢሞታ» ጌቴስ።</char></note> ጋናስ ኪንኪራኦሴ ጌቴቲዛሶን ባ ሁኤ ሜዴቲዴስ።<note caller="-" style="x"><char style="xo" closed="false">18፡18 </char><char style="xt" closed="false"><ref loc="NUM 6:18">ታይ 6፡18</ref></char></note> <verse eid="ACT 18:18"/><verse number="19" style="v" sid="ACT 18:19"/>ኤፌሶኔ ጋኪዳ ማላ ጲርሲቂላኔ ኣቂላ ሄን ኣጊዲ ጳዉሎሲ ኣይሁዳታ ዎሳ ኬ ጌሊዲ ኣይሁዳታራ ሃሳዬቲዴስ። <verse eid="ACT 18:19"/><verse number="20" style="v" sid="ACT 18:20"/>ባናራ ጋምኣና ማላ ኢስቲ ኦይቺን ኢዚ፥ «ኣካይ» ጊዲ ኢጺዴስ። <verse eid="ACT 18:20"/><verse number="21" style="v" sid="ACT 18:21"/>ጊዶ ኣቲን ኢዚ ኢስታፌ ሻኬቲሼ፥ «ጾሳ ሼኔ ጊዲኮ ታ ሲማዳ ያና» ጊዴስ፤ ኤፌሶኔፔ ዴንዲዲ ማርካቤን ጌሊዲ ቢዴስ።<verse eid="ACT 18:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 18:22"/>ቂሳሪያ ጌቴቲዛሶ ጋኪዳፔ ጉዬ ኬዚዲ ኣማኒዛይታ ሳሮ ጊዲ ሄፔ ኣንጾኪያ ዎዴስ። <verse eid="ACT 18:22"/><verse number="23" style="v" sid="ACT 18:23"/>ኣንጾኪያን ጉ ዎዴ ታኪዳፔ ጉዬ ሄፔ ዴንዲዲ ጋላቲያ ባጋራኔ ፒርጊያ ጌቴቲዛ ዴሬታራ ዩዪ ኣዲ ኣማኒዛይታ ሚንዴስ።<verse eid="ACT 18:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 18:24"/>ሄ ዎዴ ኢሲ ኢስኪንዲሪያ ካታማን ዬሌቲዳ ኣጲሎሳ ጌቴቲዛ ኢሲ ኣይሁዳ ኣሲ ኤፌሶኔ ዪዴስ፤ ኢዚካ ታማርዳዴኔ ጌሻ ማጻፋታ ሎኤ ኤሪዛዴ። <verse eid="ACT 18:24"/><verse number="25" style="v" sid="ACT 18:25"/>ኢዚ ጎዳ ኦጌ ታማርዳዴኔ ዬሱሳ ጊሻስ ባላይ ባይንዳ ሃሳይዛዴኔ ጺሎ ኣያናን ጹጌቲሼ ታማርሲዛዴ፤ ጊዶ ኣቲን ኢዚ ሎኤ ኤሪዛይ ዮሃኒሳ ጺንቃታ ጻላላ። <verse eid="ACT 18:25"/><verse number="26" style="v" sid="ACT 18:26"/>ኢዚካ ኣይሁዳ ዎሳ ኬን ባቦንታ ዮቶ ኦይኪዴስ፤ ጲርሲቂላይኔ ኣቂላይ ኢዚ ጊዛይሳ ሲዪዲ ኢዛ ባሶ ኤፊዲ ጾሳ ኦጌ ኢዛ ካሴፔ ሎኤ ኤሪሲዳ።<verse eid="ACT 18:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 18:27"/>ኣጲሎሲ ኣካያ ባናስ ኮዪን ኣማኒዛይቲ ኢዛ ሚንዳ፤ ሄን ዲዛ ኣማኒዛ ኣሳይካ ኢዛ ሞኪ ኤካና ማላ ኢዛስ ዳብዳቤ ጻፊዳ፤ ኢዚ ሄ ጋኪዳ ማላ ኢዛስ ዲዛ ኢሞታፔ ዴንዲዳይሳን ኣማኒዛይታ ዳሮ ማዲዛዴ ጊዲዴስ። <verse eid="ACT 18:27"/><verse number="28" style="v" sid="ACT 18:28"/>ጌሻ ማጻፋታ ያይሳ ሃይሳራ ጋ ማርካሲ ማርካሲ ዬሱሲ ኢዚ ኪርስቶሳ ጊዲዳይሳ ኣይሁዳታራ ዳሮ ፓላሜቲዲ ዴሬ ሲንን ኢስታ ላዴስ።<verse eid="ACT 18:28"/></para>
+  <chapter eid="ACT 18"/>
+  <chapter number="19" style="c" sid="ACT 19"/>
+  <para style="s">ኤፌሶኔን ጳዉሎሳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 19:1"/>ኣጲሎሲ ቆሮንቶሴን ዲዛ ዎዴ ጳዉሎሲ ፑዴሃ ባጋ ዴሬራ ካንዲ ኤፌሶኔ ዪዲ ሄን ዲዛ ኢሲ ኢሲ ኣማኒዛ ኣሳታ ዴሚዲ፥ <verse eid="ACT 19:1"/><verse number="2" style="v" sid="ACT 19:2"/>«ኢንቴ ኣማኒዳ ዎዴ ጺሎ ኣያና ኤኪዴቲ?» ጊዴስ፤ ኢስቲካ «ኤኪቤኮ ሃራይ ኣቶሺን ጺሎ ኣያናይ ዲዛኮ ኑ ሲዪቤኮ» ጊዳ።<verse eid="ACT 19:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="ACT 19:3"/>ጳዉሎሲካ ኢስታ፥ «ሂስቲን ኢንቴ ኣዛን ጻማቄቲዴቲ?» ጊዴስ፤ ኢስቲካ ኢዛስ፥ «ዮሃኒሳ ጺንቃታን ጻማቄቲዶስ» ጊዳ።<verse eid="ACT 19:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 19:4"/>ጳዉሎሲካ ኢስታስ፥ «ዮሃኒሳ ጺንቃታይ ጊዲኮ ኣሳይ ማሮቴን ሲሚዳይሳ ቤሲዛ ጺንቃታኮ! ዮሃኒሲ ባ ባጋራ ኣሳይ ኢዛፔ ጉዬራ ዪዛ ዬሱሳ ኣማናና ማላ ዮቲዴስ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">19፡4 </char><char style="xt" closed="false"><ref loc="MAT 3:11">ማቶ 3፡11</ref>፤ <ref loc="MRK 1:4">ማር 1፡4</ref>፥<ref loc="MRK 1:7">7</ref>፥<ref loc="MRK 1:8">8</ref>፤ <ref loc="LUK 3:4">ሉቃ 3፡4</ref>፥<ref loc="LUK 3:16">16</ref>፤ <ref loc="JHN 1:26-27">ዮሃ 1፡26-27</ref></char></note><verse eid="ACT 19:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 19:5"/>ኢስቲካ ሄሳ ሲዪዳፔ ጉዬ ጎዳ ዬሱሳ ሱንን ጻማቄቲዳ። <verse eid="ACT 19:5"/><verse number="6" style="v" sid="ACT 19:6"/>ጳዉሎሲካ ኢስታ ቦላ ባ ኩሼ ዎዳ ማላ ጺሎ ኣያናይ ኢስታ ቦላ ዎን ኢስቲ ዱማ ዴሬታ ቃላራ ሃሳይዳ፤ ቲንቢቴካ ዮቲዳ። <verse eid="ACT 19:6"/><verse number="7" style="v" sid="ACT 19:7"/>ሄ ኣሳቲ ዉሪካ ታማኔ ናምኡ ጊዲዛይታ።<verse eid="ACT 19:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="ACT 19:8"/>ጳዉሎሲ ኣይሁዳታ ዎሳ ኬ ጌሊዲ ጾሳ ካዎቴ ጊሻስ ሃሳዬቲሼኔ ኢስታ ኣማንሼ ሄ ኣጊና ኩሜ ኦናስካ ባቦንታ ኣሳስ ቆንጪሲ ዮቲዴስ። <verse eid="ACT 19:8"/><verse number="9" style="v" sid="ACT 19:9"/>ኢሲ ኢሲ ኣሳይ ፓላማ ጺንኢ ጊዲ ኣማናናስ ኮዪቤና፤ ጎዳ ኦጌ ቆንጬን ኢጺዳ፤ ሄሳ ጊሻስ ጳዉሎሲ ኢስታ ኣጊዲ ሃራሶ ቢዴስ፤ ኣማኒዛይታካ ዱማ ሻኪ ኬሲዲ ጺራኖሴ ቲሚርቴ ኬን ጋላስ ጋላስ ኢስታራ ሃሳዬቲዴስ። <verse eid="ACT 19:9"/><verse number="10" style="v" sid="ACT 19:10"/>ሄሳ ማላ ኦሶን ናምኡ ላይ ጋምኢዳ ጊሻስ ኢሲያ ኣዉራጃን ዲዛ ኣይሁዳቲኔ ጊሪኬ ኣሳይ ዉሪ ጎዳ ቃላ ሲያና ዳንዳይዴስ።<verse eid="ACT 19:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 19:11"/>ጾሲ ጳዉሎሳ ባጋራ ዳሮ ማላሊሲዛ ማላታ ኦዴስ። <verse eid="ACT 19:11"/><verse number="12" style="v" sid="ACT 19:12"/>ማራቤ ዎይኮ ኢዛ ኣሳቴ ቦቺዳ ጫርቃ ኤፊዲ ሃርጋንቻታ ቦቺኮ ሃርጌይ ዬዴስ፤ ቱና ኣያናቲካ ባ ኦይኪዳ ኣሳፔ ኬዜቴስ። <verse eid="ACT 19:12"/><verse number="13" style="v" sid="ACT 19:13"/>ዩዪ ዩዪ ኣሳፔ ዳይዳን ኬሲዛ ኢሲ ኢሲ ኣይሁዳ ኣሳቲ፥ «ጳዉሎሲ ሳባኪዛ ዬሱሳ ሱንን ኢንቴ ኬዛና ማላ ኣዛዛይስ» ጊዲ ጎዳ ሱን ቱና ኣያናቲ ኦይኪዳ ኣሳታ ቦላ ጼይጋና ፓጪዳ። <verse eid="ACT 19:13"/><verse number="14" style="v" sid="ACT 19:14"/>ኢሲ ኣይሁዳታፔ ጊዲዳ ቄሴታ ሃላቃ ኣስቄዌስ ኣቱማ ና ላፑናቲ ሄሳ ኦዳ።<verse eid="ACT 19:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 19:15"/>ቱና ኣያናይካ፥ «ታ ዬሱሳካ ኤራይስ፤ ጳዉሎሳካ ኤራይስ ሺን ኢንቴ ቃሴ ኦናንቴ?» ጊዴስ።<verse eid="ACT 19:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="ACT 19:16"/>ቃሴካ ቱና ኣያናይ ኢዛ ኦይኪዳዴይ ጉፒዲ ኣሳታ ኦይኪዴስ፤ ኢስታ ቦላ ዎልቃቲዲ ዳሮ ሚኒን ማዱንጺዲ ኬፌ ሜላ ካሎ ባቃቲዳ። <verse eid="ACT 19:16"/><verse number="17" style="v" sid="ACT 19:17"/>ሄሲካ ኤፌሶኔን ዲዛ ኣይሁዳታ ኣቻኒኔ ጊሪኬ ኣሳ ኡባ ኣቻን ኤሬቲን ዉሪካ ባቢዳ፤ ሄሳንካ ጎዳ ዬሱሳ ሱን ቦንቼቲዴስ። <verse eid="ACT 19:17"/><verse number="18" style="v" sid="ACT 19:18"/>ኣማኒዳ ኣሳፔ ዳሮይ ሺቂዲ ባ ኢታ ኦሶ ቆንጬን ፓጺዴስ። <verse eid="ACT 19:18"/><verse number="19" style="v" sid="ACT 19:19"/>ማሮ ማሮቲዛይታፔ ዳሮቲ ባ ማሮቲዛ ማጻፋ ሺሺዲ ዴሬ ሲንን ታማን ጹጊዳ፤ ማጻፋ ዋጋይ ሺሺ ቆዲን ኢቻሹ ታሙ ሺ ቢራ ማላ ጊዲዴስ። <verse eid="ACT 19:19"/><verse number="20" style="v" sid="ACT 19:20"/>ሃይሳ ማላን ጎዳ ቃላይ ኬሂ ዲጪሼኔ ጾኒ ጾኒ ቢዴስ።<verse eid="ACT 19:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 19:21"/>ሃይሲ ዉሪ ሃንዳፔ ጉዬ ጳዉሎሲ ማቂዶኒያራኔ ኣካያ ባጋራ ኣዲ ዬሩሳላሜ ባናስ ቆፋ ቃቺዲ፥ «ታ ሄ ጋኪዳፔ ጉዬ ታ ኦሮሜ ቃሴካ ቤያና ኮሼስ» ጊዴስ። <verse eid="ACT 19:21"/><verse number="22" style="v" sid="ACT 19:22"/>ባና ማዲዛይታፔ ናምኣታ ጺምቶሳኔ ኤሪስጾሳ ጌዴ ማቂዶኒያ ጌቴቲዛሶ ኪቲዲ ባስ ኢሲያ ኣዉራጃን ጉ ዎዴ ሄን ዴኢዴስ።<verse eid="ACT 19:22"/></para>
+  <para style="s">ኤፌሶኔን ዴንዲዳ ሺሮ</para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 19:23"/>ሄ ዎዴ ጎዳ ኦጌ ጊሻስ ዳሮ ሺሮይ ሜቲዴስ። <verse eid="ACT 19:23"/><verse number="24" style="v" sid="ACT 19:24"/>ዲሜጺሮሳ ጌቴቲዛ ኢሲ ቢራ ቆጺዛይሲ ኣርጼሚሴ ጌቴቲዛ ኤቃ ሚስሌ ቢራፔ ሴሪሲ ሜ ሜ ሂላንቻታስ ዎ ሚሼ ዴሚሴስ። <verse eid="ACT 19:24"/><verse number="25" style="v" sid="ACT 19:25"/>ኢዚካ ሄ ሂላንቻታን ሄሳ ማላ ኦሶን ኣቂዛ ሃራ ኣሳታ ኢሲ ቦላ ሺሺዲ፥ «ኣሶ! ሃይሲ ኦሶዚ ኑስ ሚሽ ኬሲዛይሳ ኢንቴ ኤሬታ። <verse eid="ACT 19:25"/><verse number="26" style="v" sid="ACT 19:26"/>ሃይሲ ጳዉሎሳ ጌቴቲዛይሲ ኤፌሶኔን ጻላ ጊዶንታ ኩሜ ኢሲያ ኣዉራጃን ዲዛ ዳሮ ዴሬዛ ኣማን ኣማን ባሌዛይሳ ኢንቴ ዉሪካ ቤኢዛይሳ ማላኔ ሲዪዛይሳ ማላ፥ ‹ኣሳ ኩሼን ኦሴቲዳ ኤቃቲ ሙሌካ ጾስ ጊዴቴና› ጊ ዮቴስ። <verse eid="ACT 19:26"/><verse number="27" style="v" sid="ACT 19:27"/>ሃይሳ ኑ ኦሶዛስ ሎኦ ሱን ሂራይሲዛይሳፌ ቦላራ ኩሜ ኢሲያይኔ ኩሜ ኣላሜይ ጎይኒዛ ዎጋ ኣርጼሚሴ ኤቃ ኬይካ ጎኣይ ባይንዳይሳ ጊዳና፤ ቃሴካ ኬሂ ቁ ጊዳ ኢዚ ቦንቾይካ ካዉያና» ጊዴስ።<verse eid="ACT 19:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="ACT 19:28"/>ኣሳይ ሄሳ ሲዪዲ ኢታ ሃንቆ ሃንቄቲዲ፥ «ኤፌሶኔ ኣርጼሚሳ ዎጋ ጊታ!» ጊዲ ዋሶ ዶሚዴስ።<figure style="fig" alt="Goddess Diana or Artemis of the Ephesians" file="HK00286B.TIF" size="col" ref="19፡28">ኣርጼሚሶ ጌቴቲዛ ኤፌሶኔ ኤቃ ጾስ</figure> <verse eid="ACT 19:28"/><verse number="29" style="v" sid="ACT 19:29"/>ሄራካ ኩሜ ካታማይ ሺሮቲዴስ፤ ዴሬይካ ዉሪ ኢሲ ቦላ ጊዲዲ ማቂዶኒያ ኣሳ ጊዲዳይታኔ ጳዉሎሳራ ኢሲፌ ዩዪዛ ኢዛ ላጌታ ጋዪዮሳኔ ኣሪስጺሮኮሳ ኦይኪዲ ዴሬይ ካሴ ካኢዛሶ ዎን ጌሊዳ። <verse eid="ACT 19:29"/><verse number="30" style="v" sid="ACT 19:30"/>ጳዉሎሲካ ካሬ ኬዚዲ ኣሳ ሲን ሺቃና ኮዪን ኣማኒዛይቲ ዲጊዳ። <verse eid="ACT 19:30"/><verse number="31" style="v" sid="ACT 19:31"/>ሄ ኣዉራጃ ዳናታፔ ኢሲ ኢሲ ጳዉሎሳ ላጌቲ ጳዉሎሲ ኣሳይ ካሴ ካኢዛሶ ጻሊዲ ጌሎንታ ማላ ኣስ ኪቲዲ ዎሲዳ።<verse eid="ACT 19:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="ACT 19:32"/>ሺቂዳ ኣሳይ ኡንኤቲዲ ኢሳዴይ ኢሲ ሚሽ ሃሳይሺን ሃራይ ቃሴ ሃራ ሃሳዬሲኔ ኣሳይ ዉሪ ዋሴስ፤ ዳሪዛ ባጋ ኣሳይ ኣዛስ ሄን ሺቂዳኮ ኤሬና። <verse eid="ACT 19:32"/><verse number="33" style="v" sid="ACT 19:33"/>ኣይሁዳ ኣሳይ ኢስኪንዲሮሳ ጌቴቲዛይሳ ዴራ ጊዶፌ ሱጌሬ ሲን ኬሲዳ ዎዴ ኢሲ ኢሲ ኣሳቲ ባ ጊሻስ ኢዚ ሃሳያና ማላ ዋሲዳ፤ ኢዚካ ኢስታ ጊሻስ ፓላሜታና ኮዪዲ ኣሳይ ጮኡ ጋና ማላ ማላቲ ቤሲዴስ። <verse eid="ACT 19:33"/><verse number="34" style="v" sid="ACT 19:34"/>ጊዶ ኣቲን ኢዚ ኣይሁዳ ኣስ ጊዲዳይሳ ኤሪዳ ዎዴ ዉሪካ ኢሲ ቦላ፥ «ኤፌሶኔ ኣርጼሚሳ ዎጋ ጊታ!» ጊሼ ናምኡ ሳቴ ማላ ኣሳይ ዋሲዴስ።<verse eid="ACT 19:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="ACT 19:35"/>ሄ ካታማስ ዋና ጻፌይ ኣሳ ጮኡ ሂስቲዲ፥ «ኢንቴኖ ኤፌሶኔ ኣሳቶ! ጊታ ኣርጼሚሲ ኤቃ ኬዮኔ ሳሎፔ ዎዳ ኢዚ ሚስሌ ናጊዛይ ኤፌሶኔ ካታማ ኣስ ጊዲዳይሳ ኤሮንታይ ኦኔ? <verse eid="ACT 19:35"/><verse number="36" style="v" sid="ACT 19:36"/>ሄሳ ጊሻስ ሃይሲ ሃ ቱማይ ካዴታና ዳንዳዬቶንታይሳ ማላ ኢንቴ ጉ ዩሺ ቆፓናሲኔ ሎዱ ጋናስ ቤሴስ። <verse eid="ACT 19:36"/><verse number="37" style="v" sid="ACT 19:37"/>ሃይታ ኣሳታ ጾሳ ኬ ቦንቆንታ ዎይኮ ኑ ጾስ ጊዲዳይሳ ቦላ ጫሻ ቃላ ዴንንታ ዲሺን ኢንቴ ኦይኪዲ ሃ ጋናስ ጮ ኤሂዴታ።<verse eid="ACT 19:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="ACT 19:38"/>«ሄሳ ጊሻስ ዲሞጺሮሲኔ ኢዛራ ዲዛ ቢራ ሴሪሲ ኦዛ ሂላንቻቲ ኦና ቦላካ ሞቲዛ ዮኦይ ዲኮ ፒርዳ ኬይ ኢስታስ ዶያ ዴስ፤ ዳናቲካ ዴቴስ፤ ባ ኮዪዳዴ ሞታናስ ዳንዳዬስ። <verse eid="ACT 19:38"/><verse number="39" style="v" sid="ACT 19:39"/>ሃይሳፌ ሃራ ጋናስ ኢንቴ ኮይኮ ዎጋይ ዲዛ ሺቆሶን ቤዬቶ። <verse eid="ACT 19:39"/><verse number="40" style="v" sid="ACT 19:40"/>ሄሲ ኣቲኮ ሃች ሃኒዳ ሺሮይ ኑና ሞቲሶንታ ማላ ሂርጊሴስ፤ ሞቶስ ጋዛ ጋሶይካ ባይንዳ ጊሻስ ሃ ሃኒዳ ሺሮዛ ጊሻስ ኑ ኦይሼቲኮ ጋናዚ ኑስ ዴና» ጊዴስ። <verse eid="ACT 19:40"/><verse number="41" style="v" sid="ACT 19:41"/>ኢዚ ሄሳ ጊዳፔ ጉዬ ሺቆይ ላሌቲዴስ።<verse eid="ACT 19:41"/></para>
+  <chapter eid="ACT 19"/>
+  <chapter number="20" style="c" sid="ACT 20"/>
+  <para style="s">ጳዉሎሲ ማቂዶኒያኔ ጊሪኬ ቡስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 20:1"/>ኣሳይ ጮኡ ጊዳፔ ጉዬ ጳዉሎሲ ኣማኒዛይታ ኢሲ ቦላ ጼይጊዲ ኢስታ ሚንዛ ቃላራ ዞሪዳፔ ጉዬ ኢስታ ሳሮኪዲ ማቂዶኒያ ባና ኬዚዴስ። <verse eid="ACT 20:1"/><verse number="2" style="v" sid="ACT 20:2"/>ኢዚ ኣ ቢዛ ዴሬን ዲዛ ኣማኒዛ ኣሳ ሎኤ ዞሬን ሚንሼ ጊሪኬ ዴሬ ቢዴስ። <verse eid="ACT 20:2"/><verse number="3" style="v" sid="ACT 20:3"/>ጊሪኬን ሄ ኣጊና ታኪዳፔ ጉዬ ማርካቤራ ሶሪያ ጌቴቲዛ ዴሬ ባናስ ቆፒዴስ ሺን ኣይሁዳ ኣሳቲ ኢዛ ቦላ ኢታ ሚሽ ኦና ዞሬቲዳይሳ ኤሪዲ ማቂዶኒያ ባጋራ ባና ቆፋ ቃቺዴስ።<verse eid="ACT 20:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 20:4"/>ቤሪያፔ ጳሪዮሳ ና ሶጳጺሮሲ፥ ታሶሎንቄፌ ኣሪስጺሮኮሲኔ ሲኮንዶሲ፥ ዳርቤኔፔ ጋዪዮሲኔ ጺምቶሲ፥ ኢሲያፔ ጺሮፊሞሲኔ ቲቂቆሲ ጳዉሎሳራ ኢሲፌ ቢዳ። <verse eid="ACT 20:4"/><verse number="5" style="v" sid="ACT 20:5"/>ሄይቲ ዉሪ ኑፔ ካሴቲዲ ጺሮኣዳን ኑና ናጊዳ። <verse eid="ACT 20:5"/><verse number="6" style="v" sid="ACT 20:6"/>ኑ ቃሴ ኡኬ ባኣሌፔ ጉዬ ፒሊጲሲዮሴፔ ማርካቤን ኢስቲ ዲዛሶ ጺሮኣዳ ጌቴቲዛሶ ኢቻሻን ጋላስ ጋኪዲ ሄን ላፑን ጋላስ ጋምኢዶስ።<verse eid="ACT 20:6"/></para>
+  <para style="s">ጳዉሎሲ ዉርሴን ጺሮኣዳ ቡስ</para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 20:7"/>ሳሚንታፌ ኮይሮ ዎጋ ጋላስ ኢሲፌ ካ ማናስ ኑ ሺቂ ዲሺን ጳዉሎሲ ዎንቶ ባናስ ኮሺዛ ጊሻስ ሺቂዳ ኣሳስ ቃላ ዮቲሺን ኢዚ ዮኦዛ ሌላ ጊዶ ጋካናስ ኣዱሲዴስ።<note caller="+" style="f"><char style="fr" closed="false">20፡7 </char><char style="ft" closed="false">«ሳሚንታፌ ኮይሮ ጋላሳን» ቄራ ኦማርስ ዎጋይ ዎንታናዉ ጉሳ።</char></note> <verse eid="ACT 20:7"/><verse number="8" style="v" sid="ACT 20:8"/>ቦላ ፎቄን ዳሮ ፖኦይ ዲዛሶን ኑ ሺቂዶስ። <verse eid="ACT 20:8"/><verse number="9" style="v" sid="ACT 20:9"/>ኣዉጼኪሴ ጌቴቲዛ ኢሲ ናቴ ናይ ማስኮቴ ቦላ ኡቲ ዲሺን ጳዉሎሲ ዮኦዛ ኣዱሲዳይሳፌ ዴንዲዳይሳን ኢዛ ስኮይ ኤኪ ቢዴስ፤ ዎልቃማ ስኮን ጾኔቲዲ ቦላ ሄን ፎቄፔ ዱጌ ኩንዲን ኣሳይ ዴንዛ ዎዴ ሃይቂ ቤቲዴስ። <verse eid="ACT 20:9"/><verse number="10" style="v" sid="ACT 20:10"/>ጊዶ ኣቲን ጳዉሎሲ ዱጌ ዎዲ ናዛ ቦላ ሆኪ ኢዲሚዲ፥ «ሃይቂቤና ፓጻ ዴስ፥ ዳጋሞፍቴ!» ጊዴስ። <verse eid="ACT 20:10"/><verse number="11" style="v" sid="ACT 20:11"/>ጳዉሎሲ ሄሳፌ ፑዴ ፎቄ ኬዚዲ ኡኬ ሜንዲ ኣማኒዛይታራ ሚዴስ፤ ጋዴይ ዎንታና ጋካናስ ኣሳታራ ሃሳዬቲሼ ጋምኢ ቢዴስ። <verse eid="ACT 20:11"/><verse number="12" style="v" sid="ACT 20:12"/>ኣሳይካ ሃይቆፔ ፓጺዳ ናዛ ኢዛሶ ኤፊዲ ዉሪካ ኡፋዬቲዴስ።<verse eid="ACT 20:12"/></para>
+  <para style="s">ጳዉሎሲ ጺሮኣዳፌ ሚሊጺኔ ጌቴቲዛሶ ቡስ</para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 20:13"/>ኑኒ ጳዉሎሳ ማርካቤን ጌልና ኮዪዳ ጊሻስ ካሴቲዲ ማርካቤን ኣሶሳ ጌቴቲዛሶ ቢዶስ፤ ኑ ሄሳ ኦዳይ ጳዉሎሲ ኣሶሳ ጋካናስ ቶሆራ ባና ኮዪዳ ጊሻሲኔ ኑ ሲን ባና ማላ ኢዚ ኣዛዚዳ ጊሻሳ። <verse eid="ACT 20:13"/><verse number="14" style="v" sid="ACT 20:14"/>ኑ ኢዛራ ኣሶሳን ጋጊዲ ኢዚ ማርካቤን ጌሊን ኢዛራ ኢሲፌ ሚጺሊኔ ቢዶስ። <verse eid="ACT 20:14"/><verse number="15" style="v" sid="ACT 20:15"/>ዎንቴ ጋላስ ሄፔ ዴንዲዲ ሲንራ ዲዛ ኪኦሴ ጌቴቲዛሶ ጋኪዶስ፤ ቃሴ ዎንቴ ጋላስ ሳሞሴ ጌቴቲዛሶ ፒኒዲ ሄፔ ዎንቴ ጋላስ ሚሊጼ ጋኪዶስ። <verse eid="ACT 20:15"/><verse number="16" style="v" sid="ACT 20:16"/>ጴንጼቆስቴ ጌቴቲዛ ኣይሁዳታ ፓዚጋ ባኣሌ ባስ ዳንዳዬቲዳ ማላ ቦንቻና ዬሩሳላሜን ቤታና ኮዪዲ ኢዚ ኢሲያን ዎዴይ ኣንታ ዲሺን ኤፌሶኔ ኣ ባናስ ኮዪዴስ። ኢዚ ሄሳ ኦና ኮዪዳይ ጴንጼቆስቴ ባኣሌስ ዬሩሳላሜን ቤታናስ ኮዪዳ ጊሻሳ።<verse eid="ACT 20:16"/></para>
+  <para style="s">ጳዉሎሲ ኤፌሶኔ ዎሳ ኬ ጪማታራ ዉርሴ ሞይዞ ሳሮካ ሳሮኬቴ</para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 20:17"/>ጳዉሎሲ ሚሊጼፔ ኤፌሶኔ ዎሳ ኬ ጪማታ ኣሴ ኪቲዲ ጼይጊሲዴስ። <verse eid="ACT 20:17"/><verse number="18" style="v" sid="ACT 20:18"/>ኢስቲካ ዪን ጳዉሎሲ ኢስታ፥ «ታ ኢሲያ ጌሊዳ ጋላሳፌ ሃ ሲሚን ኡባ ዎዴ ታ ኢንቴናራ ዋና ዋና ዴኢዳኮ ኢንቴ ኤሬታ። <verse eid="ACT 20:18"/><verse number="19" style="v" sid="ACT 20:19"/>ኣይሁዳቲ ታ ቦላ ኣሳ ዴንዲ ሂሊዳ ጋሶን ዳሮ ሜቶይ ታ ቦላ ጋኪኮካ ታኒ ኩሜ ኣሽኬቴራኔ ኣፉንራ ጎዳስ ኦዲስ። <verse eid="ACT 20:19"/><verse number="20" style="v" sid="ACT 20:20"/>ጮ ዴምባንካ፥ ኢንቴሶን ኢንቴሶን ታኒ ኢንቴና ታማርሳሼ ጎኢዛይሳ ዉርሳ ኢንቴስ ዮታዲስ ኣቲን ኢንቴና ጎኢዛ ሚሻፌ ኣይኮካ ኣሻቤኬ። <verse eid="ACT 20:20"/><verse number="21" style="v" sid="ACT 20:21"/>ኣይሁዳ ኣሳታ ጊዲንካ ጊሪኬ ኣሳ ጊዲንካ ማሮቴን ጌሊዲ ጾሳኮ ሲማና ማላኔ ጎዳ ዬሱሳን ኣማናና ማላ ሎኤ ዮታዲስ።<verse eid="ACT 20:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 20:22"/>«ሃኢካ ታ ሄ ጋኪሺን ታ ቦላ ኣዚ ጋካናኮ ኤሪኬ ሺን ጺሎ ኣያናይ ታና ኣዛዚዳ ማላ ዬሩሳላሜ ባይስ። <verse eid="ACT 20:22"/><verse number="23" style="v" sid="ACT 20:23"/>ሄን ታና ዱማ ዱማ ቃሾይኔ ሜቶይ ናጊዛይሳ ጺሎ ኣያናይ ታስ ዮቲዴስ። <verse eid="ACT 20:23"/><verse number="24" style="v" sid="ACT 20:24"/>ጊዶ ኣቲን ጎዳ ዬሱሲ ታስ ኢሚዳ ዎ ዎጻ ዉርሳና ጋካናሲኔ ኦሶዛ ታ ፖላና ጋካናስ ታኒ ታ ሼምፖስ ሚሼቲኬ፤ ታስ ኢሜቲዳ ኦሶይካ ጾሳ ሚሺራቾ ቃላ ዮቶኮ።<note caller="-" style="x"><char style="xo" closed="false">20፡24 </char><char style="xt" closed="false"><ref loc="2TI 4:7">2ጺም 4፡7</ref></char></note><verse eid="ACT 20:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="ACT 20:25"/>«ሃኢ ጋካናስ ታ ኢንቴ ጊዶን ሲሜሬታሼ ጾሳ ካዎቴ ሳባካዲስ፤ ሃይሳፌ ጉዬ ኢንቴፌ ኦኒካ ሙሌ ታ ኣይፌሶ ቤኦንታይሳ ታ ኤራይስ። <verse eid="ACT 20:25"/><verse number="26" style="v" sid="ACT 20:26"/>ሄሳ ጊሻስ ኢንቴፌ ኢሳዴይካ ይኮ ታ ኦይሼቶንታይሳ ሃች ታ ኢንቴና ኤሪሳይስ። <verse eid="ACT 20:26"/><verse number="27" style="v" sid="ACT 20:27"/>ኣይስ ጊኮ ታ ጾሳ ቆፋ ዉርሳ ኢንቴስ ዮታዲስ ኣቲን ኣይኮካ ታ ዮቶንታ ኣሺዳይ ዴና። <verse eid="ACT 20:27"/><verse number="28" style="v" sid="ACT 20:28"/>ጺሎ ኣያናይ ኢንቴና ጾሳ ዶርሳታ ሄማናስ ሹሚዴስ፤ ሄሳ ጊሻስ ኢንቴ ሁኤሲኔ ጾሳ ዶርሳታስ ናጌቲቴ፤ ጎዳይ ባ ሱን ዎዚዳ ዎሳ ኬዮ ናጊቴ። <verse eid="ACT 20:28"/><verse number="29" style="v" sid="ACT 20:29"/>ታ ቢዳፔ ጉዬ ጾሳ ዶርሳታስ ሚሼቶንታ ኢታ ኣሳቲ ኢንቴ ጋርስ ጌላናይሳ ታ ኤራይስ። <verse eid="ACT 20:29"/><verse number="30" style="v" sid="ACT 20:30"/>ሄሳካ ኢሲ ኢሲ ኣሳቲ ኢንቴ ጊዶፌ ዴንዲዲ ጌላ ዮኦ ኢንቴና ታማርሲዲ ኣማኒዛ ኣሳፔ ዳሮታ ጌዴ ባኮ ዛራና። <verse eid="ACT 20:30"/><verse number="31" style="v" sid="ACT 20:31"/>ሄሳ ጊሻስ ኢንቴና ኢሳ ኢሳ ሄ ላይ ቃማኔ ጋላስ ኣፉንን ዞሪዳይሳ ዩሺ ቆፒቴኔ ናጌቲቴ።<verse eid="ACT 20:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="ACT 20:32"/>«ሃኢካ ኢንቴና ጾሳስ ሚን ኤሳናሲኔ ኣማኒዛይታ ጊዶን ኢንቴስ ላታሶ ኢማናስ ዳንዳይዛ ኢዛ ኣ ኪያቴ ቃላስ ታ ሃዳራ ኢማዲስ። <verse eid="ACT 20:32"/><verse number="33" style="v" sid="ACT 20:33"/>ታ ኦና ቢራካ ዎርቃካ ዎይኮ ማይኦ ኣሞታቤኬ። <verse eid="ACT 20:33"/><verse number="34" style="v" sid="ACT 20:34"/>ታኒ ታ ኩሼን ኦ ኦዳ ታስ ማዴታዳ ታናራ ዲዛይታካ ማዲዳይሳ ኢንቴካ ኤሬታ። <verse eid="ACT 20:34"/><verse number="35" style="v" sid="ACT 20:35"/>‹ሃ ኤኪዛዴፌ ጌዴ ኢሚዛዴይ ኣንጄቲዳዴ› ጊዛ ጎዳ ዬሱሳ ቃላ ኑ ዩሺ ቆፒዲ ኑርካ ኑ ኩሼራ ኑ ኦ ዴሚዲ ሃራ ዳቡራንቻታ ጌዴ ማዳናስ ኑስ ቤሲዛይሳ ታ ኢንቴና ዳሮ ዱማ ዱማ ኦጌራ ቤሳዲስ» ጊዴስ።<verse eid="ACT 20:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="ACT 20:36"/>ሄሳፌ ጉዬ ጳዉሎሲ ኡባ ኣሳራ ጉልባቲዲ ዎሲዴስ። <verse eid="ACT 20:36"/><verse number="37" style="v" sid="ACT 20:37"/>ኣሳይ ዉሪ ዬኪሼ ጳዉሎሳ ኢዲሚ ኦይኪዲ ዬሪዴስ። <verse eid="ACT 20:37"/><verse number="38" style="v" sid="ACT 20:38"/>ሃራፔካ ኢስቲ ዳሮ ሚሼቲዳይ ኢዚ፥ «ሃይሳፌ ጉዬ ኢንቴ ናምኣን ታና ቤዬኬታ» ጊዳ ጊሻሳ፤ ሄፔካ ኢዛ ማርካቤኮ ጋካናስ ሞይዚዳ።<verse eid="ACT 20:38"/></para>
+  <chapter eid="ACT 20"/>
+  <chapter number="21" style="c" sid="ACT 21"/>
+  <para style="s">ጳዉሎሲ ዬሩሳላሜ ቡስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 21:1"/>ኑ ኢስታፌ ሻኬቲዲኔ ማርካቤን ጌሊዲ ሲቲ ጊዲ ቆሴ ጌቴቲዛ ኣባ ጊዶን ዲዛ ዴሬ ቢዶስ፤ ዎንቴ ጋላስ ሃራ ኤሮዶሴ ጌቴቲዛ ኣባ ጊዶን ዲዛ ዴሬ ጋኪዶስ፤ ሄፔካ ኢሲ ጳጺራ ጌቴቲዛ ካታማ ቢዶስ። <verse eid="ACT 21:1"/><verse number="2" style="v" sid="ACT 21:2"/>ሄን ፒንቄ ጌቴቲዛሶ ቢዛ ማርካቤ ዲዛሮ ዴሚዲ ኢዚን ጌሊዲ ቢዶስ። <verse eid="ACT 21:2"/><verse number="3" style="v" sid="ACT 21:3"/>ኣባ ጊዶን ዲዛ ቆጲሮሴ ጌቴቲዛ ዴሬ ሃዲርሳ ባጋን ዬጊዲ ሶሪያ ጌቴቲዛ ዴሬ ቢዲ ጺሮሴ ጌቴቲዛ ኣባ ኣቻን ዲዛ ዴሬ ቢዶስ፤ ሄሳስ ጋሶይካ ማርካቤያ ባ ጫኔቲዳ ጫና ሄን ዎናስ ኮሺዛ ጊሻሳ። <verse eid="ACT 21:3"/><verse number="4" style="v" sid="ACT 21:4"/>ሄን ኣማኒዛይታ ኮዪ ዴሚዲ ኢስታራ ላፑን ጋላስ ጋምኢዶስ፤ ኢስቲካ ጺሎ ኣያና ካሌን ጳዉሎሳ፥ «ዬሩሳላሜ ቦፓ» ጊዲ ዮቲዳ። <verse eid="ACT 21:4"/><verse number="5" style="v" sid="ACT 21:5"/>ኑ ሄን ጋምኣና ዎዴይ ዉሪን ኢስታፌ ሻኬቲዲ ኑ ኦጌ ቢዶስ፤ ኢስቲ ዉሪ ባ ማቼታራኔ ባ ናይታራ ኢሲፌ ካታማፔ ካሬ ኬዛና ጋካናስ ኑና ሞይዚዳ፤ ኣባ ኣቻን ኑ ዉሪ ጉልባቲዲ ዎሲዳፔ ጉዬ ዴንዲዲ ኢሶይ ኢሳራ ሳሮኬቲዲ ሻኬቲዶስ። <verse eid="ACT 21:5"/><verse number="6" style="v" sid="ACT 21:6"/>ሄሳፌ ጉዬ ኑ ማርካቤን ጌሊን ኢስቲ ባሶ ሲሚዳ።<verse eid="ACT 21:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 21:7"/>ኑ ጺሮሴፔ ዴንዲዲ ጌዴ ጲጺላማይሴ ጌቴቲዛሶ ጋኪዶስ፤ ሄንካ ኣማኒዛ ኣሳራ ጋጊ ሳሮኬቲዲ ሄን ኢስታ ኣቻን ኢሲ ጋላስ ጋምኢዶስ። <verse eid="ACT 21:7"/><verse number="8" style="v" sid="ACT 21:8"/>ዎንቴ ጋላስ ሄፔ ኬዚዲ ቂሳሪያ ጌቴቲዛሶ ቢዶስ፤ ቂሳሪያን ላፑን ዳቆኔታፔ ኢሳ ዎንጌላዌ ፒሊጶሳሶ ጌሊዲ ኢዛ ኣቻን ሼምፒዶስ።<note caller="-" style="x"><char style="xo" closed="false">21፡8 </char><char style="xt" closed="false"><ref loc="ACT 6:5">ሃዋ 6፡5</ref>፤ <ref loc="ACT 8:5">8፡5</ref></char></note> <verse eid="ACT 21:8"/><verse number="9" style="v" sid="ACT 21:9"/>ኢዛስ ናቤ ጊዲዳ ኦይዱ ጌሎንታ ጌላኦቲ ዴቴስ።<verse eid="ACT 21:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 21:10"/>ዳሮ ጋላስ ኑ ሄን ጋምኢን ኢሲ ኣጋቦሳ ጌቴቲዛ ናቤዚ ዩሁዳ ዴሬፔ ዪዴስ። <verse eid="ACT 21:10"/><verse number="11" style="v" sid="ACT 21:11"/>ሄ ናቤይ ኑኮ ሺቂዲ ጳዉሎሳ ዳንጮ ኤኪዲ ባ ቶሆኔ ባ ኩሼ ቃቺዲ፥ «ጺሎ ኣያናይ ሃይሳ ዳንጫ ጎዳ ዬሩሳላሜን ዲዛ ኣይሁዳ ኣሳቲ ሃይሳ ቃቺዲ ኣይዛቤታስ ኣ ኢማና ጌስ» ጊዴስ።<verse eid="ACT 21:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 21:12"/>ሄሳ ሲዪዲ ኑኒካ ኑናራ ዲዛ ኣሳይካ ጳዉሎሲ ዬሩሳላሜ ቦንታ ማላ ዎሲዶስ። <verse eid="ACT 21:12"/><verse number="13" style="v" sid="ACT 21:13"/>ቃሴ ጳዉሎሲ፥ «ኢንቴ ኣይስ ዬኪ ዬኪዲ ታ ዎዚና ሜንቲ? ታኒ ጎዳ ዬሱሳ ሱን ጊሻስ ዬሩሳላሜን ቃሾ ጻላላ ጊዶንታ ሃይቃናስካ ጊጌታዲስ» ጊዴስ።<verse eid="ACT 21:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 21:14"/>ኢዚ ኑ ዞሬ ኤኮንታ ኢጺን፥ «ሂስቲኮ ጎዳ ሼኔይ ሃኖ» ጊዲ ኣጋጊዶስ።<verse eid="ACT 21:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 21:15"/>ኑ ሄን ጉ ጋላሳታ ጋምኢዳፔ ጉዬ ኑ ሚሼ ኡባ ጊግሲ ኤኪዲ ዬሩሳላሜ ቢዶስ። <verse eid="ACT 21:15"/><verse number="16" style="v" sid="ACT 21:16"/>ቂሳሪያን ዲዛ ኢሲ ኢሲ ኣማኒዛይቲ ኑናራ ኢሲፌ ዪዳ፤ ኢስቲካ ኑኒ ሚናሶኔ ኬን ዳና ማላ ኑና ኢዛሶ ካሌዳ፤ ሚናሶኒ ካሴቲዲ ኣማኒዳ ቆጲሮሴ ዴሬ ኣሳ።<verse eid="ACT 21:16"/></para>
+  <para style="s">ጳዉሎሲ ዬሩሳላሜን ያቆቤ ቤዪዴስ</para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 21:17"/>ኑ ዬሩሳላሜ ጋኪዳ ማላ ኣማኒዛይቲ ኑና ኡፋይሳን ሞኪ ኤኪዳ። <verse eid="ACT 21:17"/><verse number="18" style="v" sid="ACT 21:18"/>ዎንቴ ጋላስ ጳዉሎሲ ኑናራ ያቆቤኮ ቢዴስ፤ ሄ ዎዴ ዎሳ ኬ ጪማቲ ሄን ዴቴስ። <verse eid="ACT 21:18"/><verse number="19" style="v" sid="ACT 21:19"/>ጳዉሎሲ ኣሳ ዉርሲ ሳሮኪዳፔ ጉዬ ጾሲ ኢዛ ባጋራ ኣይዛቤታ ጊዶን ኦዳይሳ ኡባ ኢሲኖ ኣሾንታ ዮቲዴስ።<verse eid="ACT 21:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="ACT 21:20"/>ሄሳ ሲዪዲ ኣሳይ ዉሪ ጾስ ጋላቲዴስ፤ ጳዉሎሲካ፥ «ኑ ኢሻዞ ዳሮ ሺያን ቆዴቲዛ ኣማኒዛይቲ ኣይሁዳታ ጊዶን ዲዛይሳኔ ዉሪካ ሙሴ ዎጋ ዎዚናፔ ናጊዛይታ ጊዲዳይሳ ኔካ ኤራሳ። <verse eid="ACT 21:20"/><verse number="21" style="v" sid="ACT 21:21"/>ኔኒ ኣይዛቤታ ጊዶን ዲዛ ኣይሁዳታ፥ ‹ኢንቴ ናይታ ቃጻሮፒቴ ዎይኮ ዎጋታ ኦፍቴ› ጋዳ ኔ ታማርሲዳ ኣሳይ ሙሴ ዎጋ ሻራና ማላ ኦስ ጊዛ ዎሬ ኣሳይ ሲዪዴስ። <verse eid="ACT 21:21"/><verse number="22" style="v" sid="ACT 21:22"/>ሂስቲን ሃኢ ኣዜ ሎኦይ? ሃኢ ኔ ዩሳ ኣሳይ ሲዮንታ ኣጌና። <verse eid="ACT 21:22"/><verse number="23" style="v" sid="ACT 21:23"/>ሄሳ ጊሻስ ኑ ኔና ጊዛይሳ ኦ፤ ኑ ኣቻን ታሳላ ጋና ዪዳ ኦይዱ ኣሳቲ ዴቴስ።<note caller="-" style="x"><char style="xo" closed="false">21፡23-24 </char><char style="xt" closed="false"><ref loc="NUM 6:13-21">ታይ 6፡13-21</ref></char></note> <verse eid="ACT 21:23"/><verse number="24" style="v" sid="ACT 21:24"/>ኔ ኢስታ ኔናራ ኤካዳ ኢስታራ ጊዳዳ ኔና ጌሻ፤ ኣሳቲ ባ ሁኤ ሜዴታና ማላኔ ጾሳ ኬን ኢሜቲዛ ሙጹዋታ ሚሻ ኔ ኢስታስ ቃንጻ፤ ኔ ሄሳ ኦኮ ኔ ቦላ ዎሬቲዳይሲ ዉሪ ጮ ሃዳ ጊዲዳይሳኔ ኔካ ሙሴ ዎጋ ፖላ ናጊዛዴ ጊዲዳይሳ ኣሳይ ዉሪ ኤራና። <verse eid="ACT 21:24"/><verse number="25" style="v" sid="ACT 21:25"/>ሂንኮ ኣይዛቤታፔ ኣማኒዳይታ ጊሻስ ጊዲኮ፥ ‹ኤቃስ ሹኬቲዲ ቱኒዳይሳ ሞፒቴ፤ ሱካ ኡዮፒቴ፤ ባዉታ ሃይቂዳ ሜሄ ኣሾ ሞፒቴ፤ ላይማፔ ሃኪቴ› ጊዲ ጪማቲ ቃቺዳ ቃላ ዳብዳቤ ጻፊዲ ኑ ኢስታስ ዬዲዶስ።»<note caller="-" style="x"><char style="xo" closed="false">21፡25 </char><char style="xt" closed="false"><ref loc="ACT 15:29">ሃዋ 15፡29</ref></char></note><verse eid="ACT 21:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="ACT 21:26"/>ሄሳፌ ጉዬ ጳዉሎሲ ሄ ኦይዱ ኣሳታ ባናራ ኤኪዲ ዎንቴ ጋላስ ኢስታራ ባና ጌሺዴስ፤ ኢስቲ ጌይዛ ጋላሳቲ ኣፑን ጋላሲኮኔ ኢሳዴ ኢሳዴ ጊሻስ ኢሜቲዛ ሚሽ ኢሚዛ ዎዴይ ኣይዴኮ ኤሪሳናስ ጾሳ ኬ ጌሊዴስ።<verse eid="ACT 21:26"/></para>
+  <para style="s">ጾሳ ኬን ጳዉሎሳ ኦይኬቴ</para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 21:27"/>ላፑን ጋላስ ኩማና ማቲሺን ኢሲያ ዴሬፔ ዪዳ ኣይሁዳ ኣሳይ ጳዉሎሳ ጾሳ ኬን ቤኢዲ ዴራ ኢዛ ቦላ ዴንዲ ኢዛ ኦይኪዳ። <verse eid="ACT 21:27"/><verse number="28" style="v" sid="ACT 21:28"/>«ኢስራኤሌ ኣሳቶ! ኑና ማዲቴ! ኑ ኣሳኔ ኑ ዎጋ ሃይሳ ኑ ዲዛሶዛ ጫዪሼኔ ዴሬይ ዲዛሶን ኡባን ኣሳ ታማርሲዛይሲ ሃይሲ ኢዛኮ! ሄሲካ ጊዴና ጊዲ ኣይዛቤታ ጾሳ ኬ ጌልዲ ሃይሳ ጌሻሶሆዛ ቱኒሲዴስ» ጊሼ ዋሲዳ። <verse eid="ACT 21:28"/><verse number="29" style="v" sid="ACT 21:29"/>ኢስቲ ሄሳ ጊዳ ጋሶይካ ሃይሳፌ ካሴ ኤፌሶኔ ዬሌታ ጺሮፊሞሳ ኢዛራ ኢሲፌ ካታማ ጊዶን ቤኢዳ ጊሻስ ኢዛ ጳዉሎሲ ጾሳ ኬ ኤኪ ጌሊዳ ሚሳቲዳ ጊሻሳ።<note caller="-" style="x"><char style="xo" closed="false">21፡29 </char><char style="xt" closed="false"><ref loc="ACT 20:4">ሃዋ 20፡4</ref></char></note><verse eid="ACT 21:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 21:30"/>ኩሜ ካታማይ ባ ጊዶን ሺሮቲዴስ፤ ዴሬይ ዉሪ ኢሲፌ ዎጺ ኮዪዲ ጳዉሎሳ ኦይኪ ኤኪ ጾሳ ኬ ጊቤፌ ጎሼቺ ኬሲዴስ፤ ጾሳ ኬ ፔንጌቲ ሄራካ ጎርዴቲዳ። <verse eid="ACT 21:30"/><verse number="31" style="v" sid="ACT 21:31"/>ኣሳይ ጳዉሎሳ ዎና ኮዪሺን፥ «ዬሩሳላሜን ዲዛ ኩሜ ዴሬይ ባ ጊዶን ሺሮቲዴስ» ጊዛ ኪታይ ኦሮሜ ዎታዳራታ ኣዛዚዛይሳኮ ጋኪዴስ። <verse eid="ACT 21:31"/><verse number="32" style="v" sid="ACT 21:32"/>ሄሳ ጊሻስ ኢዚ ዎታዳራታኔ ማቶ ሃላቃታ ካሌዲ ኤሶን ዎጺሼ ኣሳይ ዲዛሶ ቢዴስ፤ ኣሳይ ኦላንቻታ ኣዛዚዛይሳ ቤኢዲ ጳዉሎሳ ቡካ ኣጊዴስ።<verse eid="ACT 21:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="ACT 21:33"/>ማቶ ሃላቃዚ ኢዛኮ ሺቂዲ ጳዉሎሳ ኦይኪዲ ናምኡ ሳንሳላታን ቃሼታና ማላ ኣዛዚዲ ኢዚ ኦናኮኔ ኣይ ኦዳኮ ኤራናስ ኢዛ ኦይቺዴስ። <verse eid="ACT 21:33"/><verse number="34" style="v" sid="ACT 21:34"/>ዴሬይካ ባ ጊዶን ባጋይ ሄሳ፥ ባጋይ ሃይሳ ጊዴስ፤ ማቶ ሃላቃዚ ዴሬዛ ዋሶፔ ዴንዲዳይሳን ቱማይ ኣዋይሳኮኔ ኤራናስ ዳንዳዬቶንታ ኢጺን ጳዉሎሳ ጌዴ ዎታዳራቲ ዲዛሶ ኤፋና ማላ ኣዛዚዴስ። <verse eid="ACT 21:34"/><verse number="35" style="v" sid="ACT 21:35"/>ጳዉሎሲ ፑዴ ቃሶ ጋኪሺን ዴሬይ ዳሮ ሃንቆን ኢዛ ቦላ ሜቶ ጋናስ ኮዪዳ ጊሻስ ዎታዳራቲ ኢዛ ሃሼን ቶኪ ኤፊዳ። <verse eid="ACT 21:35"/><verse number="36" style="v" sid="ACT 21:36"/>ዴሬይካ፥ «ኢዚ ሃይቆ! ሃይቆ» ጊ ዋሲሼ ኢዛ ካሊዴስ።<verse eid="ACT 21:36"/></para>
+  <para style="s">ጳዉሎሲ ባና ኣሻና ማዲዛ ዮኦ ዮቲዴስ</para>
+  <para style="p">
+    <verse number="37" style="v" sid="ACT 21:37"/>ዎታዳራቲ ጳዉሎሳ ባ ዲዛሶ ጌልና ማቲሺን ጳዉሎሲ ዎታዳራታ ኣዛዚዛይሳ፥ «ታ ኔስ ኢሲ ሚሽ ዮታና ማላ ዶሳይ?» ጊዴስ። ማቶ ሃላቃዚካ፥ «ኔ ጊሪኬ ቃላ ኤራይ? <verse eid="ACT 21:37"/><verse number="38" style="v" sid="ACT 21:38"/>ሂስቲን ሃኢ ማታ ዎዴ ዴሬ ጊዶን ሜቶ ዴንዳ ሼምፖ ዎዳ ኦይዱ ሺ ኣሳ ኤካዳ ባዞ ባቃቲዳ ጊብጼ ኣዴዚ ኔና ዲኪ?» ጊዴስ።<verse eid="ACT 21:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="ACT 21:39"/>ጳዉሎሲካ፥ «ታኒ ኪልቂያ ጊዶን ዳሮ ኤሬቲዳ ጻርሴሴ ካታማን ዬሌቲዳ ኣይሁዳ ኣሳ፤ ሃይሳ ኣሳስ ታና ዮቻርኪ!» ጊዴስ።<verse eid="ACT 21:39"/></para>
+  <para style="p">
+    <verse number="40" style="v" sid="ACT 21:40"/>ኢዚ ሃሳያና ማላ ኤሮ ጊን ጳዉሎሲ ቃሶሆን ኤቂዲ ኣሳይ ጮኡ ጋና ማላ ባ ኩሼራ ማላቲዴስ፤ ኣሳይ ጮኡ ጊን ኢስራኤሌታ ቃላራ፥<verse eid="ACT 21:40"/></para>
+  <chapter eid="ACT 21"/>
+  <chapter number="22" style="c" sid="ACT 22"/>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 22:1"/>«ታ ኢሻቶ! ታ ኣዋቶ! ታ ቦላ ዎርዶ ዎዳይሳስ ታ ኢንቴስ ኢሚዛ ዛሮ ሲዪቴ!» <verse eid="ACT 22:1"/><verse number="2" style="v" sid="ACT 22:2"/>ኢዚ ኣይሁዳታ ቃላራ ሃሳይሺን ሲዪዲ ካሴፔ ኣሳይ ጮኡ ጊዴስ፤ ጳዉሎሲካ ሃሳያ ጉጂዲ፥<verse eid="ACT 22:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="ACT 22:3"/>«ታኒ ኪልቂያ ጊዶን ዲዛ ጻርሴሴ ካታማን ዬሌቲዳ ኣይሁዳ ኣሳ፤ ታኒ ዲጪዳይ ጊዲኮ ሃኒን ዬሩሳላሜና፤ ታ ኑ ኣዋታ ዎጋ ዉርሳ ጋማልያሌፔ ሎኤ ታማራዲሴኔ ኢንቴ ሃች ኦዛይሳ ጾሳስ ሱሬ ዎዚናፔ ኦሼ ዴኣዲስ።<note caller="-" style="x"><char style="xo" closed="false">22፡3 </char><char style="xt" closed="false"><ref loc="ACT 5:34-39">ሃዋ 5፡34-39</ref></char></note> <verse eid="ACT 22:3"/><verse number="4" style="v" sid="ACT 22:4"/>ሃይሳ ሃ ኦጌዛ ካሊዛ ኣሳታ ኡባ ዎና ጋካናስ ጎዳዛ ኣሳኮሺን፤ ማጫሳታኔ ኣዴታ ቃቻ ቃቻ ቃሾ ኬ ዬዲዛዴኮሺን። <verse eid="ACT 22:4"/><verse number="5" style="v" sid="ACT 22:5"/>ሃይሲ ዉሪ ቱሙ ጊዲዳይሳ ቄሴታ ሃላቃቲኔ ዴሬ ጪማቲካ ዉሪ ታስ ማርካታና፤ ሃራይ ኣቶሺን ዳማስቆን ዲዛ ኣማኒዛ ኣሳ ቃቻ ዬሩሳላሜ ኤሃዳ ቃጻይሳናስ ዳማስቆን ዲዛይታስ ጻፌቲዳ ዳብዳቤ ቄሴታ ሃላቃታፔኔ ዴሬ ጪማታፔ ኤካዲስ።<verse eid="ACT 22:5"/></para>
+  <para style="s">ጳዉሎሲ ኪርስቶሳ ዎስቲ ኣማኒዳኮ ዮቲዴስ</para>
+  <para style="r">(<ref loc="ACT 9:1-19">ሃዋ 9፡1-19</ref>፤ <ref loc="ACT 26:12-18">26፡12-18</ref>)</para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 22:6"/>«ታኒ ዳማስቆ ቢሺኒኔ ካታማ ጌላና ማቲሺን ሴታ ጋላስ ታ ቆፖንታ ዲሺን ሳሎፔ ዎልቃማ ፖኦይ ታና ዩዪ ኣ ፖኢዴስ። <verse eid="ACT 22:6"/><verse number="7" style="v" sid="ACT 22:7"/>ሄ ዎዴ ታኒ ቢታ ቦላ ኩንዳዳ፥ ‹ሳኦሌ! ሳኦሌ! ኔ ታና ኣዛስ ጎዳይ?› ጊዛ ቃላ ሲያዲስ። <verse eid="ACT 22:7"/><verse number="8" style="v" sid="ACT 22:8"/>ታኒካ፥ ‹ጎዶ፥ ኔ ኦኔ?› ጋዲስ፤ ኢዚካ፥ ‹ታ ኔኒ ጎዲዛ ናዚሬቴ ዬሱሳ› ጊዴስ። <verse eid="ACT 22:8"/><verse number="9" style="v" sid="ACT 22:9"/>ታናራ ኢሲፌ ዲዛ ኣሳቲ ፖኦዛ ቤኢዳ ኣቲን ኢዚ ታናራ ሃሳይሺን ቃላ ሲዪቤቴና። <verse eid="ACT 22:9"/><verse number="10" style="v" sid="ACT 22:10"/>ታኒካ፥ ‹ጎዶ፥ ታ ኣይ ኦ?› ጋዲስ፤ ጎዳይካ፥ ‹ዴንዳዳ ዳማስቆ ባ፤ ኔ ኦናይሳ ኢስቲ ኔስ ሄን ዮታና› ጊዴስ። <verse eid="ACT 22:10"/><verse number="11" style="v" sid="ACT 22:11"/>ፖኦዛ ጾልቄቴ ዳሮፔ ዴንዲዳይሳን ታ ጼላናስ ዳንዳያቤኬ፤ ታናራ ዲዛ ኣሳቲ ታ ኩሼ ኦይኪ ጎቺዲ ታና ዳማስቆ ጋዳ።<verse eid="ACT 22:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 22:12"/>«ሃናኒያ ጌቴቲዛ ኢሳዴይ ሄን ዴስ፤ ሃናኒያይ ዳማስቆን ዲዛ ኣይሁዳታ ኣቻን ዳሮ ጋላቴቲዳይሳኔ ዎጋ ቦንቺዛ ኣሳ። <verse eid="ACT 22:12"/><verse number="13" style="v" sid="ACT 22:13"/>ኢዚ ታ ኣች ሺቂ ኤቂዲ፥ ‹ታ ኢሻ ሳኦሌ! ኔ ኣይፌይ ቃሴካ ጼሎ› ጊዴስ፤ ሄራካ ታ ኣይፌይ ኢዛ ጼሊዴስ። <verse eid="ACT 22:13"/><verse number="14" style="v" sid="ACT 22:14"/>ኢዚካ ታና፥ ‹ኑ ኣዋንታ ጾሲ ኔ ኢዛ ሼኔ ኤራና ማላ፥ ኢዛ ጺሎዛ ኔ ቤያና ማላኔ ኢዚ ጊዛይሳ ኔ ሲያና ማላ ኔና ካሴቲ ዶሪዴስ። <verse eid="ACT 22:14"/><verse number="15" style="v" sid="ACT 22:15"/>ኢዚ ሄሳ ኦዳይ ኔ ቤኢዳይሳኔ ሲዪዳይሳ ኣሳ ኡባ ሲንን ኢዛስ ኔ ማርካታናሳ። <verse eid="ACT 22:15"/><verse number="16" style="v" sid="ACT 22:16"/>ሂስቲን ሃኢ ኣዛስ ጋምኣይ? ዴንዳዳ ኢዛ ሱን ጼይጋዳ ጻማቄታ፤ ኔ ናጋራፔካ ሜጬታ› ጊዴስ። <verse eid="ACT 22:16"/><verse number="17" style="v" sid="ACT 22:17"/>ሄሳፌ ጉዬ ታ ዬሩሳላሜ ሲማዳ ጾሳ ኬን ዎሲሺን ኣጁታይ ታስ ቤቲዴስ። <verse eid="ACT 22:17"/><verse number="18" style="v" sid="ACT 22:18"/>ጎዳይካ ታስ ቆንጪዲ፥ ‹ኔ ታ ጊሻስ ኢማና ማርካቴ ኢስቲ ኤኮንታ ጊሻስ ኔ ጋምኦንታ ዳሼ ዬሩሳላሜፔ ኤሌላ ኬዛ!› ጊዴስ። <verse eid="ACT 22:18"/><verse number="19" style="v" sid="ACT 22:19"/>ታኒካ ኢዛስ፥ ‹ጎዶ! ታ ኣይሁዳታ ዎሳ ኬቲ ዲዛሶ ባዳ ኔና ኣማኒዛይታ ኡባ ቃቻዳ ኢስታ ቡኪዳይሳ ባ ባጋራ ኢስቲካ ኤሬቴስ። <verse eid="ACT 22:19"/><verse number="20" style="v" sid="ACT 22:20"/>ኔ ጊሻስ ማርካቲዛ ኢስቲፋኖሴ ኣሳይ ዎዛ ዎዴ ታኒካ ሄ ዎዛ ኣሳታ ኣቻን ኤቃዳ ኢስቲ ዎዛይሳ ታኒካ ዶሳዲሴኔ ዎዛይታ ማይኦካ ናጋዲስ› ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">22፡20 </char><char style="xt" closed="false"><ref loc="ACT 7:58">ሃዋ 7፡58</ref></char></note> <verse eid="ACT 22:20"/><verse number="21" style="v" sid="ACT 22:21"/>ጎዳይካ፥ ‹ሃሆን ዲዛ ኣይዛቤታኮ ታ ኔና ኪቲዛ ጊሻስ ዴንዳዳ ባ!› » ጊዴስ።<verse eid="ACT 22:21"/></para>
+  <para style="s">ጳዉሎሲ ኦሮሜ ዴሬ ኣስ ጊዲዳይሳ ቆንጪሴ</para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 22:22"/>ኣሳይ ሂኖ ጋካናስ ጳዉሎሳ ሃሳያ ዎዚናፔ ሎኤ ሲዪሼ ኣጊዲ ባ ቃላ ቁ ሂስቲዲ፥ «ሃይሳ ማላ ኣሲ ኑ ቢታፌ ዮ፤ ሃይሳ ማላ ኣሲ ኑ ቢታን ሼምፖራ ፓጻ ዳናስ ቤሴና» ጊሼ ዋሲዴስ። <verse eid="ACT 22:22"/><verse number="23" style="v" sid="ACT 22:23"/>ኣሳይ ዋሲሼ ባ ማይኦ ቃሪ ቃሪ ዉጺሼኔ ቢታ ፑዴ ሳሎ ርጪዴስ። <verse eid="ACT 22:23"/><verse number="24" style="v" sid="ACT 22:24"/>ማቶ ሃላቃዚ ሄሳ ቤኢዲ ጳዉሎሳ ዎታዳራቲ ዲዛሶ ጌልና ማላ ኣዛዚዴስ፤ ዴሬይካ ኢዛ ቦላ ኣዛስ ሄሳ ማላ ዋሲዛኮ ኤራና ማላ ኢዛ ጋራፊዲ ፓጺሳና ማላ ኣዛዚዴስ። <verse eid="ACT 22:24"/><verse number="25" style="v" sid="ACT 22:25"/>ጊዶ ኣቲን ዳፎን ዋጺ ቃቺዲ ኢዛ ጋራፋና ጊጌቲሺን ጳዉሎሲ ባ ኣቻን ኤቂዳ ኢሲ ማቶ ሃላቃስ፥ «ኦሮሜ ኣስ ፒርዳይ ባይንዳ ጋራፋናስ ኢንቴስ ፒቃዴይ ዲዜ?» ጊዴስ። <verse eid="ACT 22:25"/><verse number="26" style="v" sid="ACT 22:26"/>ማቶ ሃላቃይ ሄሳ ሲዪዳ ማላ ሃላቃታ ኣዛዚዛይሳኮ ቢዲ፥ «ኣይ ኦና ጋይ? ሃይሲ ኣዴዚ ኦሮሜ ኣሳኮ!» ጊዴስ። <verse eid="ACT 22:26"/><verse number="27" style="v" sid="ACT 22:27"/>ሄሳ ጊሻስ ሃላቃታ ኣዛዚዛይሲ ጳዉሎሳኮ ሺቂዲ፥ «ኣኔ ታስ ዮታ፥ ኔ ኦሮሜ ኣሴ?» ጊዴስ፤ ኢዚካ፥ «ኤ ታ ኦሮሜ ኣሳ» ጊዴስ። <verse eid="ACT 22:27"/><verse number="28" style="v" sid="ACT 22:28"/>ኣዛዚዛይሲካ፥ «ታ ኦሮሜ ኣስ ጊዳናስ ዳሮ ሚሽ ቃንጻዳ ሻማዲስ» ጊን ጳዉሎሲ፥ «ታኒ ጊዲኮ ኦሮሜን ዬሌታዲስ» ጊዴስ። <verse eid="ACT 22:28"/><verse number="29" style="v" sid="ACT 22:29"/>ሄሳ ጊሻስ ኢዛ ፒልጊ ጼላናስ ጊጌቲዳ ኣሳቲ ሄራካ ኢዛ ኣቻፌ ሃኪዳ፤ ኣዛዚዛይሲካ ኢዚ ኦሮሜ ኣስ ሳንሳላታን ቃቺዳይሳ ዩሺ ቆፒዲ ባቢዴስ።<verse eid="ACT 22:29"/></para>
+  <para style="s">ኣይሁዳታ ዱላታ ሲን ጳዉሎሳ ሺቆ</para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 22:30"/>ዎንቴ ጋላስ ኣዛዚዛይሲ ኣይሁዳቲ ጳዉሎሳ ሞቲዛ ኣይፌ ዮኦይ ኣዛኮ ኤራና ኮዪዴስ፤ ቄሴታ ሃላቃቲኔ ኣይሁዳታ ሻንጎ ዱላታ ኣሳይ ዉሪ ኢሳዴይካ ኣቶንታ ኩሜ ሺቃና ማላ ኣዛዚዴስ፤ ጳዉሎሳካ ቃሾፔ ቢርሺዲ ሺቂዳ ኣሳ ሲን ሺሺ ኤሲዴስ።<verse eid="ACT 22:30"/></para>
+  <chapter eid="ACT 22"/>
+  <chapter number="23" style="c" sid="ACT 23"/>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 23:1"/>ጳዉሎሲ ዱላታ ኣሳ ቲሺ ሂስቲ ጼሊዲ፥ «ታ ኢሻቶ! ሃች ጋካናስ ታ ጾሳ ሲንን ሎኦ ቆፋራ ዳይስ» ጊዴስ። <verse eid="ACT 23:1"/><verse number="2" style="v" sid="ACT 23:2"/>ቄሴታ ሃላቃ ሃናኒያይ ቃሴ ጳዉሎሳ ዶናን ሾጫና ማላ ኢዛ ኣቻን ኤቂዳይታ ኣዛዚዴስ። <verse eid="ACT 23:2"/><verse number="3" style="v" sid="ACT 23:3"/>ሄራካ ጳዉሎሲ ሃናኒያ፥ «ሃይሶ ኣኖራ ቲዬቲዳ ኬዞ! ኔናካ ጾሲ ሾጫና፤ ዎጋራ ፒርዳና ኡታዳ ዎጋይ ባይንዳ ታና ሾጫና ማላ ኣዛዛይ?» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">23፡3 </char><char style="xt" closed="false"><ref loc="MAT 23:27-28">ማቶ 23፡27-28</ref></char></note><verse eid="ACT 23:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 23:4"/>ሄ ዎዴ ሄን ዲዛ ኣሳይ ጳዉሎሳ፥ «ጾሳ ቄሴታ ሃላቃ ጫያይ?» ጊዴስ። <verse eid="ACT 23:4"/><verse number="5" style="v" sid="ACT 23:5"/>ጳዉሎሲካ ኢስታስ፥ «ታ ኢሻቶ! ኢዚ ቄሴታ ሃላቃ ጊዲዳይሳ ታ ኤራቤኬ፤ ጋሶይካ፥ ‹ኔ ዴሬ ሃላቃ ቦላ ኢታ ቃላ ጎፓ› ጊዛይሲ ጻፌቲዴስ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">23፡5 </char><char style="xt" closed="false"><ref loc="EXO 22:28">ኬሳ 22፡28</ref></char></note><verse eid="ACT 23:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 23:6"/>ጳዉሎሲ ሄን ዲዛ ኣሳፔ ባጋይ ሳዱቃዌታ፥ ባጋይ ፋርሳዌታ ጊዲዳይሳ ኤሪዲ፥ «ታ ኢሻቶ! ታ ፋርሳዌፔ ዬሌታዲስ፤ ታኒካ ፋርሳዌ፤ ሄኮ ሃኢ ታ ፒርዴታና ሺቂዳይ ሃይቂዳይቲ ዴንዳናይሳ ታ ኡፋይስ ኦዛ ጊሻሳ» ጊዲ ባ ቃላ ቁ ሂስቲዲ ዱላታ ኣሳ ሲንን ዮቲዴስ።<note caller="-" style="x"><char style="xo" closed="false">23፡6 </char><char style="xt" closed="false"><ref loc="ACT 26:5">ሃዋ 26፡5</ref>፤ <ref loc="PHP 3:5">ፒሊ 3፡5</ref></char></note><verse eid="ACT 23:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 23:7"/>ጳዉሎሲ ሄሳ ዮቲዳ ማላ ፋርሳዌታ ጊዶኒኔ ሳዱቃዌታ ጊዶንካ ኦሺ ዴንዲን ዱላታይ ናምኡ ኬዚ ሻኬቲ ዎዴስ። <verse eid="ACT 23:7"/><verse number="8" style="v" sid="ACT 23:8"/>ጋሶይካ ሳዱቃዌቲ፥ «ሃይቂዳይታስ ዴን ዴና፤ ኪታንቻይካ ባ፤ ኣያናይካ ዴና ጊዛይታ፤ ፋርሳዌቲ ጊዲኮ ሄይቲ ዉሪካ ዴቴስ» ጊ ኣማኒዛይታ።<note caller="-" style="x"><char style="xo" closed="false">23፡8 </char><char style="xt" closed="false"><ref loc="MAT 22:23">ማቶ 22፡23</ref>፤ <ref loc="MRK 12:18">ማር 12፡18</ref>፤ <ref loc="LUK 20:27">ሉቃ 20፡27</ref></char></note><verse eid="ACT 23:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 23:9"/>ሄ ዎዴ ዳሮ ሺሮይ ኣሳ ጊዶን ሃኒዴስ፤ ፋርሳዌታ ባጋታ ጊዲዳ ኢሲ ኢሲ ሙሴ ዎጋ ታማርዛይቲ ዴንዲዲ፥ «ኑ ሃይሳ ኣዴዛ ቦላ ኣይኮካ ኢታ ሚሽ ዴሚቤኮ፤ ኣያናይ ዎይኮ ኪታንቻይ ኢዛስ ዮቲዳ ጊዳና፤ ኑ ኣይ ኤሪዞኒ?» ጊዲ ፓላሜቲዳ።<verse eid="ACT 23:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 23:10"/>ፓላማይ ሚኒ ሚኒ ቢዳ ጊሻስ ኣሳይ ጳዉሎሳ ታርሼሬንታ ማላ ባቢዲ ሃላቃታ ኣዛዚዛይሲ፥ «ዱጌ ዎዲ ጳዉሎሳ ኣሳ ጊዶፌ ሃ ኬሲ ኤኪ ዪዲ ዎታዳራቲ ዲዛሶ ኤፍቴ!» ጊዲ ዎታዳራታ ሃላቃታ ኣዛዚዴስ። <verse eid="ACT 23:10"/><verse number="11" style="v" sid="ACT 23:11"/>ዎንቴ ጋላስ ሌላ ጊዶ ጎዳይ ጳዉሎሳ ኣቻን ኤቂዲ፥ «ኣይኮይ ባ፤ ኔ ዬሩሳላሜን ታስ ማርካቲዳይሳ ኦሮሜንካ ኔ ታስ ማርካታናስ ቤሴስ» ጊዴስ።<verse eid="ACT 23:11"/></para>
+  <para style="s">ጳዉሎሳ ዎናስ ኣሳ ማቄቴ</para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 23:12"/>ጋዴይ ዎንቲን ኣይሁዳ ኣሳቲ ሺቄቲዲ፥ «ኑ ጳዉሎሳ ዎንታ ዲሼ ካ ሞኮ፤ ሃካ ኡዮኮ» ጊ ጫቄቲዳ። <verse eid="ACT 23:12"/><verse number="13" style="v" sid="ACT 23:13"/>ሄሳ ሄ ማቆዛን ኢሲፌ ጊዲዳ ኣሳ ቆዳይ ኦይዱ ታማፌ ቦላራ ዴስ። <verse eid="ACT 23:13"/><verse number="14" style="v" sid="ACT 23:14"/>ኢስቲካ ቄሴታ ሃላቃታኮኔ ዴሬ ጪማታኮ ቢዲ ኢስታስ፥ «ኑ ጳዉሎሳ ዎንታ ዲሼ ካ ሞንታ ማላ ሚን ጫቂዶስ። <verse eid="ACT 23:14"/><verse number="15" style="v" sid="ACT 23:15"/>ሄሳ ጊዲዳ ጊሻስ ኢንቴ ዴሬ ጪማታራ ዞሬቲዲ ኢዛ ኬሂ ፒልጊ ጼሊዛ ሚሳቲዲ ኢስቲ ኢንቴስ ጳዉሎሳ ኤሃና ማላ ኣዛዚዛይሳ ኦይቺቴ፤ ኑኒካ ኢዚ ሃ ሃኖ ጋካናፔ ካሴቲዲ ኢዛ ዎና ጊጌቲዶስ» ጊዳ።<verse eid="ACT 23:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="ACT 23:16"/>ጊዶ ኣቲን ኢሲ ጳዉሎሳስ ሚቺ ናይ ሄሳ ኢስታ ማቆዛ ሲዪዳ ጊሻስ ዎታዳራቲ ዲዛሶ ቢ ጌሊዲ ዮኦዛ ጳዉሎሳስ ዮቲዴስ። <verse eid="ACT 23:16"/><verse number="17" style="v" sid="ACT 23:17"/>ጳዉሎሲካ ማቶ ሃላቃታፔ ኢሳ ባኮ ጼይጊዲ፥ «ሃይሲ ናዚ ዎታዳራታ ኣዛዚዛይሳስ ዮቲዛ ዮኦይ ዲዛ ጊሻስ ኢዛኮ ኤፋ» ጊዴስ። <verse eid="ACT 23:17"/><verse number="18" style="v" sid="ACT 23:18"/>ማቶ ሃላቃይ ናዛ ዋና ኣዛዚዛይሳኮ ኤኪ ጌሊዲ፥ «ቃሼቲዳ ጳዉሎሲ ታና ባኮ ጼይጊዲ ሃይሲ ናዚ ኔስ ዮቲዛ ዮኦይ ዲዛ ጊሻስ ታ ኢዛ ኔኮ ሺሻና ማላ ታና ዎሲዴስ» ጊዴስ።<verse eid="ACT 23:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 23:19"/>ኣዛዚዛይሲካ ናዛ ኩሼ ኦይኪ ኤኪዲ ሃራሶ ፖቂዲ፥ «ኔ ታስ ዮታናይሲ ኣዜ?» ጊዲ ኢዛ ዱማ ኦይቺዴስ።<verse eid="ACT 23:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="ACT 23:20"/>ናዚካ፥ «ኣይሁዳ ኣሳቲ ጳዉሎሳ ዮኦዛ ሎኤ ማራማሪዛዴ ሚሳቲሲዲ ዎንቶ ኔ ኢዛ ኢስታስ ሺሻና ማላ ኦይቻናስ ቃቺ ዎዳ። <verse eid="ACT 23:20"/><verse number="21" style="v" sid="ACT 23:21"/>ጊዶ ኣቲን ኔ ኢስታስ ኤሮ ጎፓ፤ ጋሶይካ፥ ‹ኑ ኢዛ ዎንታ ዲሼ ካ ሞኮ፤ ሃካ ኡዮኮ› ጊዲ ጫቄቲዳይቲ ኦይዱ ታማፌ ቦላ ጊዲዛ ኣሲ ኢዛ ዎናስ ኦጌ ቦላ ዙጌስ፤ ሃኢ ኢስቲ ናጊዛይ ኔ ዛሮ ጻላላ» ጊዴስ።<verse eid="ACT 23:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 23:22"/>ኣዛዚዛይሲካ፥ «ኔ ሃይሳ ታስ ዮቲዳይሳ ሃራ ኦናካ ኤሪሶፋ» ጊዲ ናዛ ሞይዚዴስ።<verse eid="ACT 23:22"/></para>
+  <para style="s">ዴሬ ሃሪዛ ፊልኪሴ ሲን ጳዉሎሳ ሺቆ</para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 23:23"/>ሄሳፌ ጉዬ ዎታዳራታ ኣዛዚዛይሲ ማቶ ሃላቃታፔ ናምኣታ ጼይጊዲ፥ «ቃማፌ ሄ ሳቴ ጊዲሺን ቂሳሪያ ጌቴቲዛሶ ባና ማላ ናምኡ ጼቱ ዎታዳራታ፥ ላፑን ታሙ ቶጋንቻታኔ ናምኡ ጼቱ ቶራንቻታ ጊግሲቴ፤ <verse eid="ACT 23:23"/><verse number="24" style="v" sid="ACT 23:24"/>ጳዉሎሳሲካ ፓራ ጊግሲዲ ዴሬ ሃሪዛ ፊልኪሴኮ ሎኦን ጋካና ማላ ኦቴ» ጊዴስ።<verse eid="ACT 23:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="ACT 23:25"/>ዳብዳቤ ሂዝጊ ጻፊዴስ፤ <verse eid="ACT 23:25"/><verse number="26" style="v" sid="ACT 23:26"/>«ዴሬ ሃሪዛ ቦንቾ ፊልኪሴስ፥ ቃላዎዶሳ ሉሲዮሳፔ፥ ሳሮይ ኔስ ጊዶ። <verse eid="ACT 23:26"/><verse number="27" style="v" sid="ACT 23:27"/>ሃይሳ ኣዴዛ ኣይሁዳ ኣሳቲ ኦይኪ ዎና ጊሺን ኢዚ ኦሮሜ ኣስ ጊዲዳይሳ ታ ጋካ ኤሪዳ ጊሻስ ዎታዳራታራ ጋካዳ ኣሻዲስ። <verse eid="ACT 23:27"/><verse number="28" style="v" sid="ACT 23:28"/>ኢስቲ ኢዛ ኣዛስ ሞቲዛኮ ታ ኤራና ኮያዳ ዴሬ ዱላታኮ ሺሻዲስ። <verse eid="ACT 23:28"/><verse number="29" style="v" sid="ACT 23:29"/>ኢስቲ ኢዛ ቦላ ሺሺዳ ሞቶይ ባ ዎጋ ጊሻስ ጊዲዳይሳ ኤራዲስ፤ ጊዶ ኣቲን ኢዛ ሃይቆስ ዎይኮ ቃሾስ ጋዛ ሚሺ ዴና። <verse eid="ACT 23:29"/><verse number="30" style="v" sid="ACT 23:30"/>ሃይሳ ኣዴዛ ዎናስ ኣሳይ ማቄቲዳይሳ ታ ሲዪዳ ማላ ሄራካ ኔኮ ዬዳዲስ፤ ሞቲዛይቲካ ሄን ኔ ሲንን ባ ሞቶ ሺሻና ማላ ኢስታስ ዮታዲስ» ጊዴስ።<verse eid="ACT 23:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="ACT 23:31"/>ሄሳ ጊሻስ ዎታዳራቲ ባ ኣዛዜቲዳ ማላ ጳዉሎሳ ቃማራ ኤፊዲ ኣንቲጳጺሮሴ ጌቴቲዛሶ ጋዳ። <verse eid="ACT 23:31"/><verse number="32" style="v" sid="ACT 23:32"/>ዎንቴ ጋላስ ቶጋንቻቲ ጳዉሎሳራ ባና ማላ ኦዲ ኢስቲ ቃሴ ጉዬ ሶ ሲሚዳ። <verse eid="ACT 23:32"/><verse number="33" style="v" sid="ACT 23:33"/>ቶጋንቻቲ ቂሳሪያ ጋኪዲ ዳብዳቤዛ ዴሬ ሃሪዛይሳስ ኢሚዲ ጳዉሎሳ ኢዛ ሲን ሺሺዳ። <verse eid="ACT 23:33"/><verse number="34" style="v" sid="ACT 23:34"/>ዴሬ ሃሪዛይሲ ዳብዳቤዛ ናባቢዲኔ ጳዉሎሳ፥ «ኔ ኣዋ ዴሬፔ ያዲ?» ጊ ኦይቺዴስ። ኢዚ ኪልቂያ ዴሬ ኣስ ጊዲዳይሳ ኤሪዲ፥ <verse eid="ACT 23:34"/><verse number="35" style="v" sid="ACT 23:35"/>«ኔና ሞቲዛይቲ ዪሺን ታ ኔ ዮኦ ሲያና» ጊዴስ፤ ሄርዶሳ ጊቤ ጋን ኢዚ ናጌታና ማላ ኣዛዚዴስ።<verse eid="ACT 23:35"/></para>
+  <chapter eid="ACT 23"/>
+  <chapter number="24" style="c" sid="ACT 24"/>
+  <para style="s">ኣይሁዳ ኣሳይ ጳዉሎሳ ሞቲዴስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 24:1"/>ኢቻሹ ጋላሳፌ ጉዬ ቄሴታ ሃላቃ ሃናኒያይ ኢሲ ኢሲ ጪማታራኔ ጻርጹሎሳ ጌቴቲዛ ጻባቃራ ቂሳሪያ ቢዴስ፤ ኢስቲካ ዴሬ ኣይሲዛ ፊልኪሴኮ ሺቂዲ ጳዉሎሳ ሞቲዳ። <verse eid="ACT 24:1"/><verse number="2" style="v" sid="ACT 24:2"/>ጳዉሎሲ ጼይጌቲ ሺቂን ጻርጹሎሲ ኢዛ፥ «ቦንቾ ፊልኪሴ! ኑኒ ኔ ባጋራ ዳሮ ሳሮቴ ዴሚዶስ፤ ኔ ሎኦ ኣይሶንካ ኑ ዴሬስ ሎኤቴ ቤቲዴስ።<verse eid="ACT 24:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="ACT 24:3"/>«ሄሳ ኔ ሎኦ ኦሶዛ ኑ ኣዋን ጊዲን ኣይዴካ ቁ ጊዳ ቦንቾራኔ ጋላታራ ኤኮስ። <verse eid="ACT 24:3"/><verse number="4" style="v" sid="ACT 24:4"/>ታ ሃኢ ኔና ጋምኢሶንታኔ ዳቡርሶንታ ቃንራ ኔስ ዮቲዛይሳ ኪያቴን ኑ ጊዛይሳ ኔ ሲያና ማላ ዎሶስ።<verse eid="ACT 24:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 24:5"/>«ሃይሲ ኣዴዚ ኑስ ኢታ ሃርጌ ጊዲዴስ፤ ኣላሜን ዲዛ ኣይሁዳታ ኡባ ቦላ ሜቶ ሜስ፤ ናዚራዌ ጌቴቲዛ ዎርዶ ኣሳታ ካሌዛ ዋናይ ኢዛ። <verse eid="ACT 24:5"/><verse number="6" style="v" sid="ACT 24:6"/>ኢዚ ጾሳ ኬ ቱኒሳና ጊሺን ኑ ኢዛ ኦይኪዶስ። [ኑ ዎጋ ማላ ኑ ኢዛ ቦላ ፒርዳና ቆፒዶስ፤ <verse eid="ACT 24:6"/><verse number="7" style="v" sid="ACT 24:7"/>ጊዶ ኣቲን ዎታዳራታ ሃላቃታ ኣዛዚዛይሲ ሉሲዮሲ ጋኪዲ ኑ ኩሼፔ ኢዛ ዎልቃራ ዎ ኤኪዴስ። <verse eid="ACT 24:7"/><verse number="8" style="v" sid="ACT 24:8"/>ኢዛ ሞቲዛ ኣሳይካ ኔኮ ያና ማላ ኣዛዚዴስ።] ሃይሲ ኑ ኢዛ ቦላ ሺሺዳ ሞቶዚ ዉሪ ቱሙ ጊዲዳይሳ ኔኒ ኔ ባጋራ ኢዛ ኦይቻ ጋካናስ ዳንዳያሳ» ጊ ሞቲዴስ።<verse eid="ACT 24:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 24:9"/>ሂንኮ ኣይሁዳ ኣሳቲካ፥ «ኤ ሃይሲ ዮኦዚ ዉሪካ ቱሙኮ» ጊዲ ኣማኔቲዳ።<verse eid="ACT 24:9"/></para>
+  <para style="s">ጳዉሎሲ ባና ኣሻና ኦጌ ሜዴስ</para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 24:10"/>ዴሬ ኣይሲዛ ፊልኪሴይ ጳዉሎሲ ሃሳያና ማላ ባ ኩሼራ ማላቲ ቤሲዴስ፤ ጳዉሎሲካ፥ «ኔኒ ዳሮ ላይ ሃይሳ ዴሬዛ ኣይሲዛዴ ጊዲዳይሳ ታ ኤሪዛ ጊሻስ ታ ቦላ ሺቂዳ ሞቶዛስ ታ ኔስ ኡፋይሳን ዛሮ ሺሻይስ። <verse eid="ACT 24:10"/><verse number="11" style="v" sid="ACT 24:11"/>ታ ጾሳስ ጎይናናስ ዬሩሳላሜ ቢን ሃች ታማኔ ናምኡ ጋላሳፌ ዳሮንታይሳ ኔኒ ኔ ባጋራ ኤራናስ ዳንዳያሳ። <verse eid="ACT 24:11"/><verse number="12" style="v" sid="ACT 24:12"/>ጾሳ ኬን ጊዲን ኣይሁዳታ ዎሳ ኬን ዎይኮ ካታማ ጊዶን ታ ኦናራካ ፓላሜቲሺን ዎይኮ ዴሬ ጊዶን ሜቶ ሜሺን ታና ዴሚቤቴና። <verse eid="ACT 24:12"/><verse number="13" style="v" sid="ACT 24:13"/>ሃኢ ታ ቦላ ኢስቲ ሺሺዳ ሞቶዛስ ኣይ ማርካካ ሺሻናስ ዳንዳዬቴና።<verse eid="ACT 24:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 24:14"/>«ጊዶ ኣቲን ታ ኔስ ቆንጪሳና ኮይዛይ ኢስቲ ዎርዶ ጊዛ ጎዳ ኦጌራ ኑ ኣዋንታ ጾሳስ ጎይናይሲኔ ሙሴ ዎጋኒኔ ናቤታ ማጻፋን ጻፌቲዳይሳካ ኡባ ኣማናይስ። <verse eid="ACT 24:14"/><verse number="15" style="v" sid="ACT 24:15"/>ኢስቲካ ኡፋይስ ኦዛ ማላ ታኒካ ናጋራንቻቲኔ ጺሎቲ ሃይቆፔ ዴንዳናይሳ ጾሳን ኣማኔታይስ። <verse eid="ACT 24:15"/><verse number="16" style="v" sid="ACT 24:16"/>ሄሳ ጊሻስ ጾሳ ሲንኒኔ ኣሳ ሲንን ሲይ ባይንዳ ሃኖይ ታስ ዳና ማላ ኡባ ዎዴ ሚናይስ።<verse eid="ACT 24:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 24:17"/>«ታ ዬሩሳላሜፔ ኬዚን ታስ ዳሮ ላይ ጊዲዳፔ ጉዬ ታ ዴሬ ኣሳስ ማዶ ሚሼኔ ጾሳስ ኢሜቲዛ ሚሼ ኤካ ያዲስ። <verse eid="ACT 24:17"/><verse number="18" style="v" sid="ACT 24:18"/>ታና ኢስቲ ጾሳ ኬን ዴሚዳይ ታ ሄሳ ጋሺና፤ ሄ ዎዴ ታ ጌይዛ ዎጋ ፖሊሺን ታናራ ዳሮ ኣሲ ዴና፤ ኦሺኔ ሺሮይካ ዴና። <verse eid="ACT 24:18"/><verse number="19" style="v" sid="ACT 24:19"/>ጊዶ ኣቲን ኢሲያፔ ዪዳ ኢሲ ኢሲ ኣይሁዳ ኣሳቲ ዴቴስ፤ ኢስታስካ ታና ሞቶስ ጋዛዚ ዲዛ ጊዲኮ ኔ ሲንን ታና ሞቴቶ። <verse eid="ACT 24:19"/><verse number="20" style="v" sid="ACT 24:20"/>ሄሳፌ ጉዬ ታኒ ዱላታ ሲን ሺቂኮ ታ ኦዳ ቆሆይ ዲኮ ሄ ኣሳቲ ዮቴቶ። <verse eid="ACT 24:20"/><verse number="21" style="v" sid="ACT 24:21"/>ታና ሃይሳስ ጋዳ ጋሶይካ ታ ኢስታ ጊዶን ኤቃዳ፥ ‹ሃይቂዳይታስ ዴን ዴስ› ጋ ዮቲዳ ጊሻስ፥ ‹ሃች ፒርዳስ ኢንቴ ሲን ሺቃዲስ› ጋዳ ታ ቃላ ቁ ሂስታ ዮታዲስ ኣቲን ሃራ ታኒ ኦዳ ሚሺ ዴና» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">24፡21 </char><char style="xt" closed="false"><ref loc="ACT 23:6">ሃዋ 23፡6</ref></char></note><verse eid="ACT 24:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 24:22"/>ፊልኪሴይ ጎዳ ኦጌ ሎኤ ኤሪዛ ጊሻስ፥ «ዎታዳራታ ሃላቃታ ኣዛዚዛይሲ ሉሲዮሲ ዪዛ ዎዴ ታ ኢንቴ ዮኦዛ ጊሻስ ቃሾ ጊዲዛ ዮኦ ኢማና» ጊዲ ኢስታ ዬዲዴስ። <verse eid="ACT 24:22"/><verse number="23" style="v" sid="ACT 24:23"/>ጳዉሎሳ ናጊዛ ማቶ ሃላቃይ፥ «ኢዛ ዳሮ ዋዪሶንታ ሎኤ ናጋ፤ ኢዛ ላጌቲ ኢዛስ ኮሺዛ ሚሽ ኤኪ ዪኮ ዲጎፋ» ጊዴስ።<verse eid="ACT 24:23"/></para>
+  <para style="s">ፊልኪሴ ሲንኔ ዲሩሲላ ሲን ጳዉሎሳ ሺቆ</para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 24:24"/>ጉ ዎዴፔ ካሊዲ ፊልኪሴይ ኣይሁዳ ኣስ ጊዲዳ ባ ማቼዮ ዱሪሲላራ ዪዴስ፤ ጳዉሎሳካ ጼይጊዲ ዬሱስ ኪርስቶሳን ኣማኖ ጊሻስ ኢዚ ዮቲሺን ሲዪዴስ። <verse eid="ACT 24:24"/><verse number="25" style="v" sid="ACT 24:25"/>ጳዉሎሲ ጺሎቴ ጊሻስ፥ ኣሲ ባርካ ባና ሃሮ ጊሻሲኔ ቡሮፔ ያና ፒርዳ ጊሻስ ዮቲን ፊልኪሴይ ባቢዲ፥ «ሃኢ ኔ ባ፤ ሃራ ዎዴ ታስ ጊጊሺን ታ ኔና ጼይጋ ኤካና» ጊዴስ። <verse eid="ACT 24:25"/><verse number="26" style="v" sid="ACT 24:26"/>ፊልኪሴይ ጳዉሎሳፔ ጉቦ ኤካናስ ኡፋይስ ኦ ናጊዳ ጊሻስ ዳሮ ዎዴ ጋካናስ ጼይጊ ጼይጊ ሃሳይሲዴስ።<verse eid="ACT 24:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 24:27"/>ናምኡ ላይፌ ጉዬ ጶርቂዮሳ ፊስጾሲ ፊልኪሴ ሶሆን ሹሜቲዴስ፤ ፊልኪሴይ ኣይሁዳታ ኡፋይሳናስ ኮዪዲ ጳዉሎሳ ቃሾሶን ኣጋጊዴስ።<verse eid="ACT 24:27"/></para>
+  <chapter eid="ACT 24"/>
+  <chapter number="25" style="c" sid="ACT 25"/>
+  <para style="s">ጳዉሎሲ ባ ዮኦዛ ኦሮሜ ካዎይ ቤያና ማላ ኦይቺዴስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 25:1"/>ፊስጾሲ ባ ኣይሲዛ ዴሬ ቂሳሪያ ጌሊዲ ሄ ጋላስ ኣቄቲዲ ሄፔ ዬሩሳላሜ ቢዴስ። <verse eid="ACT 25:1"/><verse number="2-3" style="v" sid="ACT 25:2-3"/>ሄን ዲዛ ቄሴታ ሃላቃቲኔ ኢሲ ኢሲ ኣይሁዳታ ጊዶፌ ጊታ ጊታ ኣሳቲ ጳዉሎሳ ቦላ ባ ሞቶ ሺሺዳ፤ «ጳዉሎሳ ሃ ዬሩሳላሜ ኤሂዲ፥ ‹ኑስ ሎኦ ኦሶ ኦርኪ!› » ጊዲ ዎሲዳ፤ ኢስቲ ሄሳ ጊዳይ ጳዉሎሳ ናጊዲ ኦጌ ቦላ ዎናስ ኮዪዳ ጊሻሳ። <verse eid="ACT 25:2-3"/><verse number="4" style="v" sid="ACT 25:4"/>ጊዶ ኣቲን ፊስጾሲ፥ «ጳዉሎሲ ቂሳሪያን ቃሾ ኬን ናጌቴስ፤ ታኒካ ሃኢ ኤሌ ሲማዳ ሄ ኢዛኮ ባና። <verse eid="ACT 25:4"/><verse number="5" style="v" sid="ACT 25:5"/>ኢንቴ ጊዶፌ ዳናቴ ዲዛይቲ ታናራ ቂሳሪያ ቤቶ፤ ጳዉሎሲ ኦዳ ቆሆይ ዲዛ ጊዲኮ ሄን ሞቴቶ» ጊዴስ።<verse eid="ACT 25:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 25:6"/>ፊስጾሲ ኦስፑን ዎይኮ ታሙ ጋላሳፌ ዳሮንታ ዎዴ ኢስታራ ጋምኢዳፔ ጉዬ ቂሳሪያ ቢዴስ፤ ሄ ጋኪዳ ማላ ዎንቴ ጋላስ ፒርዳ ዎምቦራ ቦላ ኡቲዲ ጳዉሎሳ ባኮ ሺሻና ማላ ኣዛዚዴስ። <verse eid="ACT 25:6"/><verse number="7" style="v" sid="ACT 25:7"/>ጳዉሎሲ ኢዛ ሲን ሺቂን ዬሩሳላሜፔ ዪዳ ኣይሁዳቲ ጳዉሎሳ ጊዶዲ ማርካይ ባይንዳ ዳሮ ዴጾ ሞቶ ኢዛ ቦላ ሺሺዳ።<verse eid="ACT 25:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="ACT 25:8"/>ጳዉሎሲካ፥ «ታኒ ኣይሁዳ ዎጋ ቦላ ጊዲን ጾሳ ኬ ቦላ ዎይኮ ኦሮሜ ካዎ ቄሳሬ ቦላካ ጋዳ ቆሆይ ዴና» ጊዲ ኢስታ ሞቶዛ ሻሪዛ ዛሮ ኢስታስ ኢሚዴስ።<verse eid="ACT 25:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 25:9"/>ጊዶ ኣቲን ፊስጾሲ ኣይሁዳታ ኡፋይሳናስ ኮዪዲ ጳዉሎሳ፥ «ኔኒ ዬሩሳላሜ ባዳ ሃይሳ ዮኦዛ ሄን ታ ሲንን ፒርዴታና ኮያይ?» ጊዴስ። <verse eid="ACT 25:9"/><verse number="10" style="v" sid="ACT 25:10"/>ጳዉሎሲ ቃሴ ኢዛስ፥ «ሄኮ ታ ፒርዴታናስ ታስ ቤሲዛ ቄሳሬ ፒርዳ ዎምቦራ ሲንን ኤቃዲስ፤ ኔካ ሎኤ ኤሪዛ ማላ ታ ኣይሁዳታ ቦላ ኦዳ ኣይኮ ቆሆይካ ዴና። <verse eid="ACT 25:10"/><verse number="11" style="v" sid="ACT 25:11"/>ታ ቆሂዳ ጊዲኮ ዎይኮ ታና ሃይቆስ ጋዛ ቆሆ ታ ኦዳ ጊዲኮ ታ ሃይቆፔ ኣታና ጊኬ፤ ጊዶ ኣቲን ኢስቲ ሺሺዛ ሞቶይ ሃዳ ጊዲኮ ኦኒካ ታና ኢስታስ ኣ ኢማናስ ዳንዳዬና፤ ታኒካ ታ ዮኦይ ቄሳሬ ሲን ሺቃና ማላ፥ ‹ዪጊባይኔ› ጋዲስ» ጊ ዛሪዴስ።<verse eid="ACT 25:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 25:12"/>ሄ ዎዴ ፊስጾሲ ባና ዞሪዛይታራ ሃሳዬቲዲ፥ «ኔ ቄሳሬኮ፥ ‹ዪጊባይኔ› ጊዛ ጊዲኮ ቄሳሬኮ ባንዳሳ» ጊዴስ።<verse eid="ACT 25:12"/></para>
+  <para style="s">ጳዉሎሲ ኣጊርጳ ሲንኔ ባርኒቄ ሲን ሺቂዴስ</para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 25:13"/>ጉ ጋላሳታፔ ጉዬ ካዎ ኣጊርጳይኔ ባርኒቄይ ፊስጾሳ፥ «ሃሹ ሎኦን ያዳሳ» ጊ ሞካናስ ቂሳሪያ ቢዳ። <verse eid="ACT 25:13"/><verse number="14" style="v" sid="ACT 25:14"/>ኢስቲ ሄን ዳሮ ጋላስ ኡቲዳ ጊሻስ ፊስጾሲ ጳዉሎሳ ዮኦዛ ካዎ ኣጊርጳስ፥ «ፊልኪሴይ ቃሾ ኬን ዬጊ ኣጊዳ ኢሳዴይ ሃን ዴስ። <verse eid="ACT 25:14"/><verse number="15" style="v" sid="ACT 25:15"/>ታ ዬሩሳላሜን ዲዛ ዎዴ ቄሴታ ሃላቃቲኔ ኣይሁዳታ ጪማቲ ሃ ኣዴዛ ዮኦ ታኮ ኤሂዲ ታ ኢዛ ቦላ ፒርዳና ማላ ኦይቺዳ። <verse eid="ACT 25:15"/><verse number="16" style="v" sid="ACT 25:16"/>ታ ቃሴ፥ ‹ሞቴቲዳዴይ ሞቲዛይታ ሲንን ኤቂዲ ባና ሞቲዛ ዮኦዛስ ቤሲዛ ዛሮ ኢሞንታ ዲሺን ሞቴቲዳዴ ኣ ኢሞይ ኦሮሜ ካዎቴስ ዎጋ ጊዴና› ጋዳ ዛራዲስ።<verse eid="ACT 25:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 25:17"/>«ሄሳ ጊሻስ ኢዛ ሞቲዛይቲ ሺቄቲዲ ዪዳ ማላ ሄራካ ዎንቴ ጋላስ ፒርዳ ዎምቦራን ኡታዳ ጳዉሎሳ ታ ሲን ሺሻና ማላ ኣዛዛዲስ። <verse eid="ACT 25:17"/><verse number="18" style="v" sid="ACT 25:18"/>ኢዛ ሞቲዛይቲ ኢዛ ኣቻን ኤቂዳ ዎዴ ኢስቲ ኢዛ ቦላ ሺሺዳ ሞቶይ ታ ባጋራ ኢዚ ኢታ ኦንታ ኣጌና ጋዳ ቆፒዳ ማላ ጊዲቤና። <verse eid="ACT 25:18"/><verse number="19" style="v" sid="ACT 25:19"/>ጊዶ ኣቲን ኢስቲ ኢዛራ ሞቴቲዛይ ባ ኣማኖ ጊሻሲኔ ጳዉሎሲ ሃይቂዳይሳ፥ ‹ፓጻ ዴስ› ጊዛ ዬሱሳ ጊሻስ ጊዲዴስ። <verse eid="ACT 25:19"/><verse number="20" style="v" sid="ACT 25:20"/>ታኒካ ሄሳ ማላ ዮኦ ቆራ ጼላናስ ታና ሜቲዳ ጊሻስ ጳዉሎሳ፥ ‹ኔ ዬሩሳላሜ ባዳ ሄሳ ዮኦዛ ሄን ፒርዴታና ኮያይ?› ጋዲስ። <verse eid="ACT 25:20"/><verse number="21" style="v" sid="ACT 25:21"/>ሂስቲን ኢዚ ዮኦዚ ኦሮሜ ካዎ ሲንን ቤዬታና ማላ ኮዪዲ፥ ‹ታ ዮኦይ ቄሳሬ ሲን ሺቃና ማላ ኦይቻይስ› ጊዳ ጊሻስ ኢዛ ዮኦ ቄሳሬኮ ታ ዬዳና ጋካናስ ኢዚ ቃሾ ኬን ጋምኣና ማላ ኣዛዛዲስ» ጊ ዮቲዴስ።<verse eid="ACT 25:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 25:22"/>ኣጊርጳይ ፊስጾሳ፥ «ታኒካ ኢዚ ጊዛ ሲያና ኮያይስ» ጊዴስ። ፊስጾሲካ፥ «ዎንቶ ሲያንዳሳ» ጊዴስ።<verse eid="ACT 25:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 25:23"/>ሄሳ ጊሻስ ዎንቴ ጋላስ ኣጊርጳይኔ ባርኒቄይ ካዎቲ ማይኢዛ ማይኦ ማይኢዲኔ ዳሮ ቦንቾራ ዎታዳራታ ሃላቃታራኔ ሄ ካታማን ዲዛ ጊታ ኣሳታን ኣዣቤቲ ዪዲ ፒርዳ ኬ ጌሊዳ፤ ሄሳፌ ጉዬ ፊስጾሲ ጳዉሎሳ ጼይጊሲዴስ። <verse eid="ACT 25:23"/><verse number="24" style="v" sid="ACT 25:24"/>ፊስጾሲ፥ «ካዎ ኣጊርጳ! ኑናራ ዲዛ ኣሳቶ! ኣይሁዳ ኣሳቲ ዉሪ፥ ‹ሃይሲ ኣዴዚ ሃይሳፌ ጉዬ ፓጻ ዳና ቤሴና› ጊዲ ዋሲሼ ዬሩሳላሜንካ ሃንካ ኢዛ ቦላ ፒርዴታና ማላ ኢስቲ ታና ኦይቺዛይ ሃይሳ ኢንቴ ቤኢዛ ኣዴዛ ጊሻሳ። <verse eid="ACT 25:24"/><verse number="25" style="v" sid="ACT 25:25"/>ታኒ ታ ባጋራ ኢዛ ሃይቆስ ጋዛ ኢሲ ባላካ ኢዛ ቦላ ዴማቤኬ፤ ኢዚ፥ ‹ታ ዮኦይ ኦሮሜ ካዎ ሲን ሺቂ ቤዬቶ› ጊዳ ጊሻስ ታ ኢዛ ሄ ዬዳናስ ቃቻዲስ።<verse eid="ACT 25:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="ACT 25:26"/>«ጊዶ ኣቲን ኢዛ ጊሻስ ታኒ ታ ጎዳስ ጻፋና ጊዛ ኤሬቲዳ ዮኦይ ዴና፤ ሄሳ ጊሻስ ኢዛ ኢሲ ኢሲ ፓጬ ኦይሻታ ኦይቺኮ ታስ ጻፋናይሲ ዳናኮኔ ጋዳ ኢንቴኮ፥ ሃራፔካ ካዎ ኣጊርጳ ኔኮ ሺሻዲስ። <verse eid="ACT 25:26"/><verse number="27" style="v" sid="ACT 25:27"/>ጋሶይካ ቃሾ ኣሲ ፑዴ ቦላቲዛ ቃ ዳናኮ ቢሺን ኢዚ ሞቴቲዛ ዮኦ ቆንጪሶንታ ኣጎይ ኣሳ ኤያ ኬሲዛይሲ ታስ ቤቲዴስ» ጊዴስ።<verse eid="ACT 25:27"/></para>
+  <chapter eid="ACT 25"/>
+  <chapter number="26" style="c" sid="ACT 26"/>
+  <para style="s">ጳዉሎሲ ካዎ ኣጊርጳ ሲንን ዮቲዳ ዮኦ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 26:1"/>ኣጊርጳይ ጳዉሎሳ፥ «ኔኒ ኔ ጊሻስ ሃሳያናስ ዳንዳያሳ» ጊዴስ፤ ጳዉሎሲካ ባ ኩሼ ዴንዲ ዛሮ ኢሚዴስ። <verse eid="ACT 26:1"/><verse number="2" style="v" sid="ACT 26:2"/>«ካዎ ኣጊርጳ! ታና ኣይሁዳቲ ሞቲዛ ዮኦ ኡባስ ሃች ታ ኔ ሲንን ታና ማዳና ዛሮ ኢሚዛ ጊሻስ ታና ዳሮ ኡፋይሴስ። <verse eid="ACT 26:2"/><verse number="3" style="v" sid="ACT 26:3"/>ጋሶይካ ኔ ኣይሁዳታ ዎጋኔ ኢስታ ፓላማ ኡባ ሎኤ ኤራሳ፤ ሄሳ ጊሻስ ኔ ታ ጊዛ ኡባ ዳንዳያዳ ሲያና ማላ ታ ኔና ዎሳይስ።<verse eid="ACT 26:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 26:4"/>«ታኒ ጉ ናቴ ዎዴፔ ዶማዳ ዋና ዴኢዳኮ ኣይሁዳ ኣሳቲ ኤሬቴስ፤ ኮይሮፔ ሃኢ ጋካናስ ታኒ ታ ዴሬ ኣሳ ጊዶኒኔ ዬሩሳላሜን ታ ዴኢዳ ዱስ ኣሳይ ኤሬስ። <verse eid="ACT 26:4"/><verse number="5" style="v" sid="ACT 26:5"/>ቃሴካ ኢስቲ ማርካታና ኮይኮ ኑ ኣማኖ ጊሻስ ታ ኬሃ ሚን ዎጋ ናጊዛ ፋርሳዌ ባጋ ጊዳዳ ጋምኢዳዴ ጊዲዳይሳ ኢስቲ ኮይሮፔ ዴንዲ ኤሬቴስ።<note caller="-" style="x"><char style="xo" closed="false">26፡5 </char><char style="xt" closed="false"><ref loc="ACT 23:6">ሃዋ 23፡6</ref>፤ <ref loc="PHP 3:5">ፒሊ 3፡5</ref></char></note> <verse eid="ACT 26:5"/><verse number="6" style="v" sid="ACT 26:6"/>ሃኢ ቃሴ ፒርዳስ ታና ሃይሳን ኤሲዳይ ጾሲ ካሴ ኑ ኣዋታስ ኢሚዳ ጫቆ ቃላ ኡፋይሳ ጊሻሳ። <verse eid="ACT 26:6"/><verse number="7" style="v" sid="ACT 26:7"/>ሃ ኡፋይሳኮ ጋካናስ ኑ ዛርኬቲ ታማኔ ናምኣቲ ጋላሲኔ ቃማ ጾስ ጎይኒሼ ናጊዳ፤ ካዎ ኢንቴስ ሆላ! ኣይሁዳቲ ታና ሞቲዛይ ሃ ዮኦዛ ጊሻሳ። <verse eid="ACT 26:7"/><verse number="8" style="v" sid="ACT 26:8"/>ጾሲ ሃይቂዳይታ ዴንናይሲ ዋኒዲ ኣይሁዳ ጊዲዳ ኢንቴ ኣቻን ኣማኔቲቤኔ?<verse eid="ACT 26:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 26:9"/>«ታኒካ ታ ባጋራ ናዚሬቴ ዬሱሳ ሱንስ ኤቄታናስ ቤሴስ ጋዳ ቆፓዲስ ሺን፤<note caller="-" style="x"><char style="xo" closed="false">26፡9-11 </char><char style="xt" closed="false"><ref loc="ACT 8:3">ሃዋ 8፡3</ref>፤ <ref loc="ACT 22:4-5">22፡4-5</ref></char></note> <verse eid="ACT 26:9"/><verse number="10" style="v" sid="ACT 26:10"/>ታኒ ዬሩሳላሜን ኦዳይካ ሄሳኮሺን፤ ቄሴታ ሃላቃታፔ ታ ኤኪዳ ጎዳቴራ ኣማኒዛይታፔ ዳሮታ ቃሾ ኬን ዬጊሳዲስ፤ ኢስታ ዎሺን ዎዛይታራ ኢሲፌ ዳይስ። <verse eid="ACT 26:10"/><verse number="11" style="v" sid="ACT 26:11"/>ዳሮ ዎዴ ኣይሁዳታ ዎሳ ኬቲ ዲዛሶን ኣዋንካ ኢስቲ ቃጻዬታና ማላኔ ባ ኣማኖ ካዳና ማላ ኦዲስ፤ ኢስታ ቦላ ዳሮ ሃንቄታዳካ ኢስራኤሌፔ ካሬን ዲዛ ሃራ ካታማታካ ባዳ ኣማኒዛይታ ጎዳዲስ።<verse eid="ACT 26:11"/></para>
+  <para style="s">ጳዉሎሲ ኪርስቶሳኮ ዋኒ ሲሚዳኮ ዮቲዴስ</para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 26:12"/>«ሃይሳ ሃ ዮኦዛስ ቄሴታ ሃላቃታፔ ኩሜ ጎዳቴኔ ኣዛዞ ኤካዳ ዳማስቆ ጌቴቲዛሶ ታ ቢሺን፥ <verse eid="ACT 26:12"/><verse number="13" style="v" sid="ACT 26:13"/>ካዎ ኢንቴስ ሆላ! ቡሮ ታ ኦጌን ዲሺን ጋዴይ ሴታ ጋላስ ጊዲሺን ኣርሼ ፖኦፔ ኣዛ ፖኦ ቤያዲስ፤ ሄ ፖኦይ ታናኔ ታናራ ቢዛ ኣሳታ ዩዪ ኣዲ ሳሎፔ ፖኢዴስ። <verse eid="ACT 26:13"/><verse number="14" style="v" sid="ACT 26:14"/>ኑ ዉሪካ ቢታ ቦላ ኩንዲ ዲሺን ኣይሁዳታ ቃላራ፥ ‹ሳኦሌ! ሳኦሌ! ታና ኣዛስ ጎዳይ? ኔኒ ቃራ ማሻ ቦላ ኤቂኮ ኔርካ ኔና ቆሃሳ› ጊዛ ቃላ ሲያዲስ።<verse eid="ACT 26:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 26:15"/>«ታኒካ፥ ‹ጎዶ! ኔ ኦኔ?› ጋዲስ፤ ጎዳይካ፥ ‹ታኒ ኔ ጎዲዛ ዬሱሳኮ! <verse eid="ACT 26:15"/><verse number="16" style="v" sid="ACT 26:16"/>ሃኢ ዴንዳዳ ኔ ቶሆን ኤቃ፤ ታ ኔስ ቆንጪዳይ ኔ ታና ሃኢ ቤኢዳይሳኒኔ ሲንፌ ታ ኔና ቤሳናይሳን ኔ ታስ ማርካቲዛዴ ጊዳና ማላ ታ ኔና ሹማና ኮያዲስ። <verse eid="ACT 26:16"/><verse number="17" style="v" sid="ACT 26:17"/>ኢስራኤሌ ኣሳ ኩሼፔኔ ታ ኔና ኢስታኮ ኪቲዛ ኣይዛቤታ ኩሼፔካ ኣሻና። <verse eid="ACT 26:17"/><verse number="18" style="v" sid="ACT 26:18"/>ኔ ኢስታ ኣይፌ ዶያና ማላኔ ማፔ ፖኦን ኬሳና ማላ ቃሴካ ጻላኤስ ሃሬቲዛሶፔ ጾሳኮ ኔ ዛራና ማላ ኦና፤ ኢስቲካ ታና ኣማኒዳ ጊሻስ ባ ናጋራፔ ማሬታና፤ ቃሴ ዶሬቲዳይታ ጊዶን ኢስቲ ጺንጾ ዴማና› ጊዴስ።<verse eid="ACT 26:18"/></para>
+  <para style="s">ጳዉሎሲ ባ ኦሶ ጊሻስ ዮቲዴስ</para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 26:19"/>«ሄሳ ጊሻስ ካዎ ኣጊርጳ! ሳሎፔ ታስ ኢሜቲዳ ኣጁታስ ታ ኣዛዜታዲስ። <verse eid="ACT 26:19"/><verse number="20" style="v" sid="ACT 26:20"/>ጊዶ ኣቲን ታ ካሴታዳ ዳማስቆን ዲዛ ኣሳ ካሌዳ ዬሩሳላሜኒኔ ዩሁዳ ዴሬ ኡባን ዲዛይታ ቃሴካ ኣይዛቤቲካ ናጋራ ኦጌፔ ጾሳኮ ሲሚዲ ማሬታና ማላ ኤሪሳዲስ፤ ኢስቲ ናጋራፔ ሲሚዳይሳ ቤሲዛዝ ኦና ማላ ታ ኢስታስ ዮታዲስ።<note caller="-" style="x"><char style="xo" closed="false">26፡20 </char><char style="xt" closed="false"><ref loc="ACT 9:20">ሃዋ 9፡20</ref>፥<ref loc="ACT 9:28-29">28-29</ref></char></note> <verse eid="ACT 26:20"/><verse number="21" style="v" sid="ACT 26:21"/>ሄሳ ጋሶን ኣይሁዳቲ ታኒ ጾሳ ኬን ዲሺን ታና ኦይኪዲ ዎና ኮዪዳ። <verse eid="ACT 26:21"/><verse number="22" style="v" sid="ACT 26:22"/>ሃች ጋካናስካ ታስ ጾሳፌ ማዶይ ፓጪ ኤሬና፤ ሄሳ ጊሻስ ጉስካ ጊታስካ ማርካታሼ ሃይሳን ኤቃዲስ፤ ናቤቲኔ ሙሴይ ካሴቲዲ ሃይሳ ማላይ ሃናና ጊዳይሳ ዮቶፔ ኣቲን ታ ሃራ ኣይኮካ ዮታቤኬ። <verse eid="ACT 26:22"/><verse number="23" style="v" sid="ACT 26:23"/>ኢስቲካ ዮቲዳይሲ፥ ‹ጾሲ ኪቲዳዴይ ሜቶ ቤያና፤ ሃይቆፔ ዴንዶን ኮይሮ ጊዲዲ ኣሲ ኣታና ፖኦይ ኢስራኤሌ ዴሬሲኔ ኣይዛቤታስ ቆንጫና› ጊዛይሳ» ጊዴስ።<note caller="-" style="x"><char style="xo" closed="false">26፡23 </char><char style="xt" closed="false"><ref loc="1CO 15:20">1ቆሮ 15፡20</ref>፤ <ref loc="ISA 42:6">ኢሳ 42፡6</ref>፤ <ref loc="ISA 49:6">49፡6</ref></char></note><verse eid="ACT 26:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 26:24"/>ጳዉሎሲ ሄሳ ዮቲሺን ፊስጾሲ፥ «ጳዉሎሳ! ሃኢ ኔ ጎዮንታ ኣጋካ፤ ኔ ዳሮ ታማርዳይሲ ኔና ጎሺዴስ» ጊ ዋሲዴስ።<verse eid="ACT 26:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="ACT 26:25"/>ጳዉሎሲ ጊዲኮ ኢዛስ፥ «ቦንቾ ፊስጾሳ! ታ ኔስ ቱማ ኤራዳ ዮታይስ ኣቲን ጎያቤኬ። <verse eid="ACT 26:25"/><verse number="26" style="v" sid="ACT 26:26"/>ታ ኢዛ ሲንን ቆንጬራ ዮቲዳ ካዎይ ሃይሳ ዮኦዛ ኤሬስ፤ ሃይሲካ ቆታራ ኦሴቶንታይሳ ጊዲዳ ጊሻስ ካዎይ ኤራናይሳ ታ ኣማኔታይስ። <verse eid="ACT 26:26"/><verse number="27" style="v" sid="ACT 26:27"/>ካዎ ኣጊርጳ! ናቤታ ኣማናሳ ጊዲኪ? ኔ ኣማኒዛይሳ ታ ኤራይስ» ጊ ዛሪዴስ።<verse eid="ACT 26:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="ACT 26:28"/>ኣጊርጳይካ ጳዉሎሳ፥ «ሄኮ ኔ ታና ሃኖ ጉ ዎዴ ጊዶን ኣማንና ኮያሳ» ጊዴስ። <verse eid="ACT 26:28"/><verse number="29" style="v" sid="ACT 26:29"/>ጳዉሎሲካ ኢዛስ ዛሪዲ፥ «ጉ ዎዴን ጊዲንካ ዎይኮ ዳሮ ዎዴን ኔ ጻላ ጊዶንታ ዲሺን ሃች ታ ዮቲዳይሳ ሲዪዳይ ዉሪ ሃኖ ታ ቃሼቴያ ኣታ ዉሪካ ታ ማላ ጊዳና ማላ ታኒ ጾሳ ዎሳይስ» ጊዴስ።<verse eid="ACT 26:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 26:30"/>ሄሳፌ ጉዬ ካዎይ፥ ዴሬ ኣይሲዛይሲ፥ ባርኒቄይኔ ኢስታራ ኡቲዳ ኣሳይካ ዉሪ ዴንዲዴስ። <verse eid="ACT 26:30"/><verse number="31" style="v" sid="ACT 26:31"/>ኢስቲ ሄፔ ኬዚ ቢሼ ባ ጊዶን፥ «ሃይሲ ኣዴዚ ሃይቆስ ዎይኮ ቃሾስ ጋዛ ሚሼ ኣይኮካ ኦቤና» ጊዳ። <verse eid="ACT 26:31"/><verse number="32" style="v" sid="ACT 26:32"/>ኣጊርጳይካ ፊስጾሳ፥ «ሃይሲ ኣዴዚ ዮኦዛ ቄሳሬስ ሺቆ ጎንታኮ ኣይኮ ዎሶይ ባይንዳ ሜላ ዬዴታናኮ ሺን» ጊዴስ።<verse eid="ACT 26:32"/></para>
+  <chapter eid="ACT 26"/>
+  <chapter number="27" style="c" sid="ACT 27"/>
+  <para style="s">ጳዉሎሲ ኦሮሜ ቢዴስ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 27:1"/>ኑኒ ጻላኔ ዴሬ ማርካቤን ባና ማላ ጌቴቲ ቃሼቲዳ ጊሻስ ጳዉሎሳኔ ሃራ ቃሾ ኣሳታካ ካዎ ኣዉጊስጾሳ ዎታዳራታፔ ጊዲዳ ዩሊዮሳ ጌቴቲዛ ማቶ ሃላቃስ ኣ ኢሚዳ። <verse eid="ACT 27:1"/><verse number="2" style="v" sid="ACT 27:2"/>ኢሲያ ኣባ ኣቻን ዲዛ ዴሬታ ቢዛ ማርካቤን ጌሊዲ ቢዶስ። ታሶሎንቄን ዲዛ ኢሲ ማቂዶኒያ ኣስ ኣሪስጺሮኮሳ ጌቴቲዛይሲ ኑናራ ዴስ።<verse eid="ACT 27:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="ACT 27:3"/>ዎንቴ ጋላስ ሲዶና ጌቴቲዛሶ ጋኪዶስ፤ ዩሊዮሲ ጳዉሎሳስ ሎኦ ጊዲዳ ጊሻስ ጳዉሎሲ ባ ላጌታኮ ቢዲ ኣሳይ ኢዛስ ኮሺዛ ማዶ ኦና ማላ ፒቃዴ ኢሚዴስ። <verse eid="ACT 27:3"/><verse number="4" style="v" sid="ACT 27:4"/>ሄፔ ዴንዲ ኑ ቢሺን ሲን ባጋራ ጫርኮይ ኑ ቦላ ጫርኪዛ ጊሻስ ኣባ ጊዶን ዲዛ ቆጲሮሴ ዴሬን ጌሜቲዲ ሲን ቢዶስ። <verse eid="ACT 27:4"/><verse number="5" style="v" sid="ACT 27:5"/>ኪልቂያ ጌቴቲዛሶኔ ጲንፊሊያ ጌቴቲዛ ዴሬ ኣቻን ዲዛ ኣባ ፒኒዲ ሎቂያ ዴሬን ዲዛ ሙራ ጌቴቲዛ ካታማ ጋኪዶስ። <verse eid="ACT 27:5"/><verse number="6" style="v" sid="ACT 27:6"/>ሄን ማቶ ሃላቃይ ጻላኔ ዴሬ ቢዛ ኢስኪንዲሪያ ዴሬ ማርካቤ ዴሚዲ ኑና ኢዛን ጌልዴስ።<verse eid="ACT 27:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 27:7"/>ዳሮ ጋላስ ሎዱ ጊ ቢዲ ዳሮ ዋዬቲዲ ቃንዶሴ ጌቴቲዛ ካታማ ኣች ጋኪዶስ፤ ጫርኮይካ ኑ ሲን ቦንታ ማላ ዲጊን ሳልሞና ኣቻራ ኣዲ ቃርጼሴ ጌቴቲዛ ኣባ ጊዶን ዲዛ ዴሬን ጌሜቲዲ ቢዶስ። <verse eid="ACT 27:7"/><verse number="8" style="v" sid="ACT 27:8"/>ዳሮ ዋዬቲዲ ላንቄ ላንቄ<note caller="+" style="f"><char style="fr" closed="false">27፡8 </char><char style="fqa" closed="false">ላንቄ፡ </char><char style="ft" closed="false">ላንቄ ጊዛይሲ ኣባ ጊዶን ዲዛ ቃርጼሴ ጋጻ ቤሴስ።</char></note> ኦይኪ ኑ ኣዳፔ ጉዬ ላሲያ ጌቴቲዛ ካታማ ኣቻን ዲዛ፥ «ሎኦ» ጌቴቲዛ ማርካቤይ ኤቂዛሶ ጋኪዶስ።<verse eid="ACT 27:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 27:9"/>ኑ ቢዛ ኦጌ ቦላ ዳሮ ዳቡራን ጾማ ዎዴይ ኣዳ ጊሻስ ሃኢ ኣባ ቦላራ ባናስ ዳሮ ሜቶ ጊዲዳ ጊሻስ ጳዉሎሲ ባናራ ዲዛ ኣሳይ ናጌታና ማላ ሂዝጊዴስ፤ <verse eid="ACT 27:9"/><verse number="10" style="v" sid="ACT 27:10"/>«ኣሶ! ሃይሳፌ ኑ ካሊዲ ባና ቡሳይ ዳሮ ሜቶራ ዲዛይሲ ታስ ቤቴስ፤ ማርካቤዛን ዲዛ ጫናዛ ቦላኔ ማርካቤዛ ቦላ ጻላላ ጊዶንታ ኣሳ ሼምፖ ቦላካ ጊታ ቆሆይ ጋካና።» <verse eid="ACT 27:10"/><verse number="11" style="v" sid="ACT 27:11"/>ማቶ ሃላቃይ ቃሴ ጳዉሎሳ ዞሬፔ ቦላራ ማርካቤዛ ላጊዛ ዋናዚኔ ማርካቤዛ ጎዳይ ጊዛይሳ ሲዪዴስ። <verse eid="ACT 27:11"/><verse number="12" style="v" sid="ACT 27:12"/>ሄ ማርካቤይ ኤቂዛሶይ ባልጎይ ኣና ጋካናስ ማርካቤስ ሎኦ ሼምፖሶ ጊዶንታ ጊሻስ ዳሪዛ ባጋ ኣሳይ፥ «ሄሜ ሲን ጉጃናስ ዳንዳዬቲኮ ኣርሼይ ዉሊዛሶፔ ዱጌሃ ባጋራኔ ፑዴሃ ባጋራ ዲዛ ፒንቄ ጌቴቲዛሶ ቃርጼሴ ማርካቤ ሼምፖሶ ኑ ጋኪዲ ባልጎ ሄን ኣስ» ጊዲ ባ ቆፋ ሺሺዳ።<verse eid="ACT 27:12"/></para>
+  <para style="s">ኣባ ቦላ ዳምባላ ዴን</para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 27:13"/>ዱጌሃ ባጋራ ጉ ጫርኮይ ጫርኪሺን ቤኢዲ ኢስቲ ቆፒዳ ማላ ሃናና ሚሳቲን ባና ኬዚዳ፤ ማርካቤይ ኤቂዛሶፔ ባና ዴንዲዲ ቃርጼሴ ኣቻራ ላንቄ ላንቄ ኦይኪዲ ኣ ቢዳ። <verse eid="ACT 27:13"/><verse number="14" style="v" sid="ACT 27:14"/>ጊዶ ኣቲን ጉ ዎዴፔ ጉዬ፥ «ኣርሼይ ሞኪዛሶፔ ፑዴሃፔ ዪዛ ጎቴ ጫርኮ» ጌቴቲዛ ኢታ ዎልቃማ ጫርኮይ ኣባ ጊዶን ዲዛ ዴሬይፔ ዴንዲዲ ኢስታኮ ኣባ ጊዶ ዪዴስ። <verse eid="ACT 27:14"/><verse number="15" style="v" sid="ACT 27:15"/>ማርካቤዛ ጫርኮይ ሱጊን ጫርካራ ኤቄታናስ ዳንዳዮንታ ኢጺን ኑ ጮኡ ጊዲ ጫርኮይ ኤፊዛሶ ቢዶስ። <verse eid="ACT 27:15"/><verse number="16" style="v" sid="ACT 27:16"/>ቄዳ ጌቴቲዛ ኣባ ጊዶን ዲዛ ዴሬ ዲዛሪን ጌሜቲዲ ኑ ቢሺን ዳሮ ዋዬቲዲ ማርካቤዛ ቄሪ ዎጎሎዪን ኦይኪዲ ኤሳናስ ዳንዳይዶስ። <verse eid="ACT 27:16"/><verse number="17" style="v" sid="ACT 27:17"/>ማርካቤዛ ላጊዛይቲ ቄሪ ዎጎሎዮ ማርካቤዛኮ ጎቺ ኬሲዲ ማርካቤዛ ዎዶሮራ ጻጺዳ፤ ማርካቤዚካ ሲርቲሴ ጌቴቲዛ ኣባ ኣጬይ ዳሪ ዲዛሶን ኩንዶንታ ማላ ባቢዲ ኢዛ ቦላ ዲዛ ሻራ ዎዲ ጫርኮን ላጌቲ ቢዳ። <verse eid="ACT 27:17"/><verse number="18" style="v" sid="ACT 27:18"/>ጎቴ ጫርኮይ ሚኒ ቢዳ ጊሻስ ዎንቴ ጋላስ ማርካቤዛን ጫኔቲዳ ሚሻታ ኢሳ ኢሳ ኣባ ጊዶ ዬጌ ኦይኪዳ። <verse eid="ACT 27:18"/><verse number="19" style="v" sid="ACT 27:19"/>ሄን ጋላስ ማርካቤዛስ ኮሺዛ ሚሻታካ ባ ኩሼራ ኬሲ ኬሲ ዬጊዳ። <verse eid="ACT 27:19"/><verse number="20" style="v" sid="ACT 27:20"/>ዳሮ ዎዴ ጋካናስ ኣርሼካ፥ ጾሊንቴካ ቤኦንታ ኣጊዳ ጊሻሲኔ ጫርኮይካ ካሴፔ ሚኒ ሚኒ ቢዛ ጊሻስ ሃይሳፌ ጉዬ ኑ ኣታና ዳንዳዮኮ ጊዛ ቆፋን ኡፋይስ ቃንጺዶስ።<verse eid="ACT 27:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 27:21"/>ኣሳይ ካ ሞንታ ዳሮ ጋላስ ኡቲዴስ፤ ሄሳ ጊሻስ ጳዉሎሲ ኣሳ ጊዶን ኤቂዲ፥ «ሃ ኣሳቶ! ኢንቴ ታ ጊዛይሳ ሲዪዲ ቃርጼሴፔ ዴንዶንታኮ ሃ ቆሆይኔ ዮይ ኢንቴ ቦላ ጋኬናኮሺን። <verse eid="ACT 27:21"/><verse number="22" style="v" sid="ACT 27:22"/>ሃኢካ ማርካቤዚ ጻላ ቆሄታና ኣቲን ኢንቴፌ ኢሳዴ ሼምፖይካ ዬና፤ ሄሳ ጊሻስ ኣይኮይ ባ፤ ባቦፍቴ ጋዳ ታኒ ኢንቴና ዞራይስ። <verse eid="ACT 27:22"/><verse number="23" style="v" sid="ACT 27:23"/>ቃማ ኦማርስ ታ ኢዛስ ጊዲዳ ታ ጎይኒዛ ጾሳይ ኪቲዳ ኪታንቻይ ታ ኣቻን ኤቂዲ፥ <verse eid="ACT 27:23"/><verse number="24" style="v" sid="ACT 27:24"/>‹ጳዉሎሳ! ባቦፋ! ኔ ቄሳሬ ሲንን ኤቃና ቤሴስ፤ ሄኮ ኔናራ ኢሲፌ ቢዛይታ ዉርሲ ጾሲ ኔ ጊሻስ ሃይቆፔ ኣሻና› ጊዲ ታስ ዮቲዴስ። <verse eid="ACT 27:24"/><verse number="25" style="v" sid="ACT 27:25"/>ሄሳ ጊሻስ ኢንቴኖ ሃ ኣሳቶ ኣይኮይ ባ፤ ጾሲ ታስ ሃይሳ ዮቲዳይሳ ፖላናይሳ ታ ኣማናይስ። <verse eid="ACT 27:25"/><verse number="26" style="v" sid="ACT 27:26"/>ጊዲኮካ ሃይሲ ጎቴ ጫርኮዚ ጌዴ ኢሲ ኣባ ጊዶን ዲዛ ዴሬ ኣች ኤፊዲ ኑና ዬጋና» ጊዴስ።<verse eid="ACT 27:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 27:27"/>ታማኔ ኦይዳን ቃማ ኣንዲርያ ኣባ<note caller="+" style="f"><char style="fr" closed="false">27፡27 </char><char style="fqa" closed="false">ኣንዲርያ ኣባ፡ </char><char style="ft" closed="false">ኣንዲርያ ኣባ ሜዲቴራኔ ኣባፌ ኢሲ ባጋራ ዲዛ ኣባ።</char></note> ጊዶን ጫርኮይ ኑና ዋዪሲሺን ቢሼ ሌላ ጊዶ ማርካቤዛ ላጊዛይታስ ኣባፌ ቢታ ቦላ ጋኪዳ ሚሳቲዴስ። <verse eid="ACT 27:27"/><verse number="28" style="v" sid="ACT 27:28"/>ሄሳ ጊሻስ ኣባ ጪማቴ ኤራናስ ኣባን ዬጊ ጼሊዛ ዎዶሮ ኢስቲ ዬጊ ጼሊሺን ኣባ ጪማቴ ኦይዱ ታሙ ሜቲሬ ኬና ጊዲ ቤቲዴስ፤ ጋምኢሼ ሃኢካ ዬጊን ሄ ታሙ ሜቲሬ ኬና ጪማ ጊዲዳይሳ ዴሚዳ። <verse eid="ACT 27:28"/><verse number="29" style="v" sid="ACT 27:29"/>ኑ ዲዛ ማርካቤይ ኣባ ጋጻን ዲዛ ዛላ ሹቻራ ኢጬቶንታ ማላ ባቢዲ ማርካቤዛፔ ጉዬ ባጋራ ማርካቤዚ ቃጾንታ ማላ ናጊዛ ሽኬ ዱጌ ኣባ ጊዶ ዬጊዳ፤ ሄሳፌ ጉዬ ኢስታስ ቃማይ ዎንታና ማላ ዎሳ ኦይኪዳ። <verse eid="ACT 27:29"/><verse number="30" style="v" sid="ACT 27:30"/>ማርካቤዛ ላጊዛይቲ ማርካቤዛፔ ኬዚዲ ባቃታና ኮዪዳ ጊሻስ ማርካቤዛፔ ሲን ባጋራ ማርካቤ ናጊዛ ሽኬ ዬጊዛ ሚሳቲዲ ማርካቤዛ ቦላ ዲዛ ቄሪ ዎጎሎዮ ዱጌ ኣባ ጊዶ ዬጊዳ። <verse eid="ACT 27:30"/><verse number="31" style="v" sid="ACT 27:31"/>ሄ ዎዴ ጳዉሎሲ ማቶ ሃላቃኔ ዎታዳራታ፥ «ሃይቲ ማርካቤዛን ዲዛ ኣሳቲ ማርካቤዛ ቦላ ሼምፒዲ ኡቶንታ ኣጊኮ ኢንቴካ ኣታና ዳንዳዬኬታ» ጊዴስ። <verse eid="ACT 27:31"/><verse number="32" style="v" sid="ACT 27:32"/>ሄሳ ጊሻስ ዎታዳራቲ ዎጎሎዮ ኦይኪዳ ዎዶሮዛ ቃንጺ ዬጊን ኢዛ ኣባ ቦላ ቶኬታና ማላ ዬዲ ኣጊዳ።<verse eid="ACT 27:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="ACT 27:33"/>ጋዴይ ዎንታና ጊሺን ዉሪካ ካ ማና ማላ ጳዉሎሲ ኢስታ፥ «ኢንቴ ኣዚ ሃናኔሻ ጊዲ ሂርጋን ካ ሞንታ ኣጊን ሃች ታማኔ ኦይዳን ጋላሳ። <verse eid="ACT 27:33"/><verse number="34" style="v" sid="ACT 27:34"/>ሄሳ ጊሻስ ኢንቴ ካ ማና ማላ ታ ኢንቴና ዎሳይስ፤ ኢንቴ ሚኮ ሚናና፤ ሙሌካ ኣይኮ ቆሆይካ ኢንቴ ቦላ ጋኬና» ጊ ዎሲዴስ። <verse eid="ACT 27:34"/><verse number="35" style="v" sid="ACT 27:35"/>ኢዚ ሄሳ ጊዳፔ ጉዬ ካ ኤኪዲ ጾስ ጋላቲዲ ኡባ ኣሳ ሲንን ካ ሙስ ኦይኪዴስ። <verse eid="ACT 27:35"/><verse number="36" style="v" sid="ACT 27:36"/>ሄ ዎዴ ዉሪካ ሚኔቲዲ ካ ሚዳ። <verse eid="ACT 27:36"/><verse number="37" style="v" sid="ACT 27:37"/>ማርካቤዛ ጊዶን ዲዛ ኣሳይ ዉሪ ናምኡ ጼታኔ ላፑን ታማኔ ኡሱፑና። <verse eid="ACT 27:37"/><verse number="38" style="v" sid="ACT 27:38"/>ዉሪካ ሚ ካሊዳፔ ጉዬ ማርካባን ጫኔቲዳ ጊስቴዛ ዱጌ ኣባ ጊዶ ዬጊዲ ማርካቤዛ ዴጾ ካዉሺዳ።<verse eid="ACT 27:38"/></para>
+  <para style="s">ማርካቤዛ ሜቆ</para>
+  <para style="p">
+    <verse number="39" style="v" sid="ACT 27:39"/>ጋዴይ ዎንቲን ባ ዲዛሶ ኤሪቤቴና፤ ጊዶ ኣቲን ኣጬይ ዲዛሶ ኣባ ኩርቁን ዴሚዳ፤ ኢስታስ ዳንዳዬቲዛኮ ማርካቤዛ ሄ ሱጊ ሺሻና ቆፒዳ። <verse eid="ACT 27:39"/><verse number="40" style="v" sid="ACT 27:40"/>ማርካቤዛ ኦይኪዛ ሽኬ ቃንጺዲ ኣባ ጊዶ ዬጊዳ፤ ሄ ዎዴ ማርካቤ ላጌዛ ሚሻ ኦይኪዳ ዎዶሮታ ቢርሺዳ። ሃ ባጋራ ዲዛ ሻራ ጫርኮ ባጋ ቁ ሂስቲዲ ኬዛና ኣባ ጋጻ ቢዳ። <verse eid="ACT 27:40"/><verse number="41" style="v" sid="ACT 27:41"/>ጊዶ ኣቲን ማርካቤዚ ዳሮ ኣጬይ ኮሬቲ ኡቲዳይሳራ ኢጬቲዲ ዱጌ ጉፋኒዴስ፤ ሲን ቦላ ዱጌ ጉፋኒ ሽኬቲዲ ቃጾንታይሳ ጊዲዴስ፤ ቃሴ ኣባ ዳምባላይ ዳሮፔ ዴንዲዳይሳን ጉዬ ባጋራ ሜቄሬቴ ኦይኪዴስ።<verse eid="ACT 27:41"/></para>
+  <para style="p">
+    <verse number="42" style="v" sid="ACT 27:42"/>ቃሾ ኣሳፔ ኢሳዴይካ ኣባን ዎዲ ኬሲ ኤኮንታ ማላ ዎታዳራቲ ዎና ቆፒዳ። <verse eid="ACT 27:42"/><verse number="43" style="v" sid="ACT 27:43"/>ማቶ ሃላቃይ ቃሴ ጳዉሎሳ ኣሻናስ ኮዪዳ ጊሻስ ኢስታ ቆፋ ኤካና ኮዪቤና፤ ጊዶ ኣቲን ሃ ዋ ኤሪዛይቲ ማርካቤዛፔ ዱጌ ኣባን ጉፒ ጉፒ ዎዲ ቢታ ቦላ ኬዛና ማላ ኣዛዚዴስ።<verse eid="ACT 27:43"/></para>
+  <para style="p">
+    <verse number="44" style="v" sid="ACT 27:44"/>ሃንኮ ኣቲዳይቲ ሳንቃታኒኔ ማርካቤ ሜቆታን ኣባ ፒናና ማላ ኣዛዚዴስ፤ ሄሳ ሃኒዲ ዉሪካ ሳሮን ኣባ ጊዶፌ ቢታ ቦላ ጋኪዳ።<verse eid="ACT 27:44"/></para>
+  <chapter eid="ACT 27"/>
+  <chapter number="28" style="c" sid="ACT 28"/>
+  <para style="s">ሜላጺያ ቢታን ጳዉሎሳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 28:1"/>ኑ ቢታይ ዲዛሶ ሳሮቴን ጋኪዳፔ ጉዬ ኑ ጋኪዳ ኣባ ጊዶን ዲዛ ዴሬይ ሜላጺያ ጌቴቲዛ ዴሬ ጊዲዳሮ ኤሪዶስ። <verse eid="ACT 28:1"/><verse number="2" style="v" sid="ACT 28:2"/>ሄ ዴሬዪን ዲዛ ኣሳይ ዳሮ ማላሊሲዛ ኪያቴ ኑስ ኦዴስ፤ ሄ ዎዴ ኢራይ ቡኪዳ ጊሻሲኔ ሜጎ ጊዲዳ ጊሻስ ታማ ኤዲ ኑና ሞኪ ኤኪዳ። <verse eid="ACT 28:2"/><verse number="3" style="v" sid="ACT 28:3"/>ጳዉሎሲ ኣፊራ<note caller="+" style="f"><char style="fr" closed="false">28፡3 </char><char style="fqa" closed="false">ኣፊራ ጌቴቲዛ ሚ፡ </char><char style="ft" closed="false">ሃ ሚይ ኢሲ ኢሲ ጋሞ ቃላን ቃይጻሬ፥ ሁንጼ ጌቴቴስ።</char></note> ጌቴቲዛ ሚ ሺሺዲ ታማን ጉጂን ታማ ሴላፔ ዴንዲዳይሳን ሾሺ ኬዚዲ ኢዛ ኩሼ ቦላ ጻጼቲዴስ። <verse eid="ACT 28:3"/><verse number="4" style="v" sid="ACT 28:4"/>ማልታ ኣሳይ ሾሺ ጳዉሎሳ ኩሼ ቦላ ጻጼቲዳይሳ ቤኢዲ፥ «ሃይሲ ኣዴዚ ሼምፖ ዎዳዴ፤ ጋሶይካ ኣባ ዳምባላፔ ኢዚ ኣቲዲ ዪኮካ ፒርዲዛ ጾሳፌ ኬሲ ኤኪ ፓጻ ዳና ዳንዳይቤና» ጊዲ ባ ጊዶን ሃሳዬቲዳ <verse eid="ACT 28:4"/><verse number="5" style="v" sid="ACT 28:5"/>ጳዉሎሲ ቃሴ ሾሻ ዱጌ ታማን ቆቆፊ ዬጊዲ ኣይኮካ ሃኒቤና። <verse eid="ACT 28:5"/><verse number="6" style="v" sid="ACT 28:6"/>ኣሳይካ፥ «ኣይዴፔ ኣይዴ ኢዛ ኣሳቴይ ኪጻኔሻ፤ ዎይኮ ኢዚ ቆፖንታ ኩንዲዲ ሃይቃና» ጊዲ ናጊዴስ፤ ጊዶ ኣቲን ኢስቲ ዳሮ ዎዴ ናጊሺን ኢዛ ቦላ ኣይኮይካ ሃኖንታይሳ ቤኢዲ ባ ቆፋ ላሚዲ፥ «ሃይሲ ኣዴዚ ጾሳ!» ጊዴስ።<verse eid="ACT 28:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 28:7"/>ሄ ኑ ዲዛሶ ማታን ኣባ ጊዶን ዲዛ ዴሬዮ ኣይሲዛ ፑፑልዮሳ ጌቴቲዛዴስ ጋዴይ ዴስ፤ ሄ ኣዴዚ ኑና ሞኪ ኤኪዲ ባሶን ሄ ጋላስ ጋካናስ ሎኤ ኢማቲዴስ። <verse eid="ACT 28:7"/><verse number="8" style="v" sid="ACT 28:8"/>ሄን ፑፑልዮሳ ኣዋ ሚሻይኔ ጉሶ ሃርጌይ ሳኪን ኢቺዲ ዴስ፤ ጳዉሎሲ ኢዛኮ ጌሊዲ ኢዛስ ዎሲዴሲኔ ኢዛ ቦላ ባ ኩሼ ዎዲ ፓዴስ። <verse eid="ACT 28:8"/><verse number="9" style="v" sid="ACT 28:9"/>ሄሲ ሄሳ ሃንዳፔ ጉዬ ሄ ዴሬዪን ዲዛ ሃራ ሃርጋንቻቲ ዪዲ ፓጺዳ። <verse eid="ACT 28:9"/><verse number="10" style="v" sid="ACT 28:10"/>ኣሳይካ ኑስ ዳሮ ሚሽ ኤሂዲ ኑና ቦንቺዛይሳ ኑና ቤሲዴስ፤ ኑኒ ማርካቤን ባና ዴንዲን ኑስ ኮሺዛይሳ ማርካቤን ኡባ ጫኒዳ።<verse eid="ACT 28:10"/></para>
+  <para style="s">ሚሊጺኔፔ ኦሮሜ ጳዉሎሳ ቡስ</para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 28:11"/>ኑ ሚሊጺኔን ሄ ኣጊና ጋምኢዳፔ ጉዬ ባልጎይ ኣና ጋካናስ ኣባ ጊዶን ዲዛ ዴሬዪን ጋምኢዲ ኢስኪንዲሪያፔ ዪዛ ማርካቤን ጌሊዲ ባና ዴንዲዶስ፤ ሄ ማርካቤዛ ቦላ ዲዮሲቆሮሳ ጌቴቲዛ ናምኡ ሜንቴ ኤቃታ ሚስሌይ ዴስ። <verse eid="ACT 28:11"/><verse number="12" style="v" sid="ACT 28:12"/>ሲራኩሴ ጌቴቲዛ ካታማ ጋኪዲ ሄን ሄ ጋላስ ጋምኢዶስ። <verse eid="ACT 28:12"/><verse number="13" style="v" sid="ACT 28:13"/>ሄፔ ኣባ ቦላራ ቢዲ ኤሬጊዮሜ ጌቴቲዛ ካታማ ጋኪዶስ፤ ሄን ኢሲ ጋላስ ኣቂዲ ዱጌ ባጋራ ዪዛ ጫርኮይ ጫርኪዳ ጊሻስ ናምኣን ጋላስ ፑቲዮሎሴ ጌቴቲዛሶ ቢዶስ። <verse eid="ACT 28:13"/><verse number="14" style="v" sid="ACT 28:14"/>ሄን ኣማኒዛይታ ዴሚዲ ኢስታራ ኑ ላፑን ጋላስ ጋካናስ ኡታና ማላ ኑና ዎሲዳ፤ ሄፔ ቃሴ ኦሮሜ ቢዶስ። <verse eid="ACT 28:14"/><verse number="15" style="v" sid="ACT 28:15"/>ኦሮሜን ዲዛ ኣማኒዛ ኣሳይ ኑ ጊሻስ ሲዪዲ ኣፒዮሴ ጌቴቲዛ ጊያኔ «ሄ ኣቆሶታ» ጌቴቲዛሶ ጋካናስ ኑና ሞካና ዪዳ፤ ጳዉሎሳይካ ኢስታ ቤኢዲ ጾስ ጋላቲዴሲኔ ሚኔቲዴስ።<verse eid="ACT 28:15"/></para>
+  <para style="s">ኦሮሜን ጳዉሎሳ</para>
+  <para style="p">
+    <verse number="16" style="v" sid="ACT 28:16"/>ኑኒ ኦሮሜ ጌሊዳ ዎዴ ጳዉሎሳ ናጋናስ ኢሲ ዎታዳራይ ኢዛስ ኢሜቲን ጳዉሎሲ ባርካ ዳና ማላ ኢዛስ ፒቃዴይ ኢሜቲዴስ።<verse eid="ACT 28:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 28:17"/>ሄ ጋላሳፌ ጉዬ ጳዉሎሲ ኦሮሜን ዲዛ ኣይሁዳታፔ ጊታ ኣሳታ ባኮ ጼይጊሲዴስ፤ ኢስቲካ ኢዛኮ ሺቂን፥ «ታ ኢሻቶ! ታኒ ኢስራኤሌ ዴሬ ቦላኔ ኑ ኣዋታ ዎጋ ቦላ ኦዳ ኢሲ ቆሆይካ ዴና፤ ጊዶ ኣቲን ዬሩሳላሜን ታና ቃቺዲ ኦሮሜ ኣሳታስ ኣ ኢሚዳ። <verse eid="ACT 28:17"/><verse number="18" style="v" sid="ACT 28:18"/>ኦሮሜ ኣሳቲ ታና ቆሪ ኦይቺዳፔ ጉዬ ታና ሃይቆስ ጋዛ ሚሽ ዴሞንታ ኣጊዳ ጊሻስ ቢርሺ ዬዳና ኮዪዳ። <verse eid="ACT 28:18"/><verse number="19" style="v" sid="ACT 28:19"/>ጊዶ ኣቲን ኣይሁዳ ኣሳይ ታ ቦላ ኢሲ ዎሶይ ባይንዳ ዬዴቶንታ ማላ ኤቄቲን ታ ዮኦይ ቄሳሬ ሲን ሺቂዲ ቤቶ ጋናስ ታስ ጊዴ ጊዲዴስ፤ ጊዶ ኣቲን ታኒ ታ ዴሬታ ሞቲዛ ጋሶይካ ታስ ዴና። <verse eid="ACT 28:19"/><verse number="20" style="v" sid="ACT 28:20"/>ታ ቃሴ ሃኢ ኢንቴና ጼይጊሲዳይ ኢንቴና ቤያናሲኔ ሃኖ ኢንቴስ ዮታናሳ፤ ሃይሳ ሳንሳላታን ታኒ ቃሼቲዳይ ኢስራኤሌ ናይታስ ኢሜቲዳ ኡፋይሳ ጋሶና» ጊዴስ።<verse eid="ACT 28:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 28:21"/>ኢስቲካ ኢዛስ፥ «ኔ ጊሻስ ዩሁዳ ዴሬፔ ጻፌቲዳ ዳብዳቤይ ኑና ጋኪቤና፤ ሃ ዪዳ ኣሳታፔ ኦኒካ ኔ ጊሻስ ኢታ ሃሳይዳይ ባ። <verse eid="ACT 28:21"/><verse number="22" style="v" sid="ACT 28:22"/>ሃይሳ ኔ ካሊዛ ኣማኖዛ ጊሻስ ኣዋንካ ኣሳይ ኢታ ሃሳይዛይሳ ኑ ኤሮስ፤ ሄሳ ጊሻስ ኔ ቆፋይ ኣዛኮ ኑ ሲያና ኮዮስ» ጊ ዛሪዳ።<verse eid="ACT 28:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 28:23"/>ባሬ ኢዛስ ኢሚዲ ሃራ ጋላስ ኩሼ ኩሚዲ ኢዚ ዲዛ ኬ ዪዳ፤ ኢዚካ ማላዶፔ ኦማርስ ጋካናስ ጾሳ ካዎቴ ጊሻስ ማርካቴን ባ ቆፋ ኢስታስ ቆንጪሲዴስ። ሙሴ ዎጋፔኔ ናቤታ ማጻፋታፔ ጻቃሲ ጻቃሲ ዬሱሳ ጊሻስ ኢስታስ ቆንጪሲ ዮቲዴስ። <verse eid="ACT 28:23"/><verse number="24" style="v" sid="ACT 28:24"/>ኢስታፌ ኢሲ ኢሲ ኣሳቲ ኢዚ ዮቲዳ ቃላ ኣማኒዳ፤ ባጋይቲ ቃሴ ኣማኒቤቴና። <verse eid="ACT 28:24"/><verse number="25" style="v" sid="ACT 28:25"/>ኢስቲካ ባ ጊዶን ኢሶይ ኢሳራ ቆፋን ጋጎንታ ሻኬቲዳ፤ ጳዉሎሲ ዉርሴን ዮቲሼ፥ «ጺሎ ኣያናይ ናቤ ኢሳያሳ ባጋራ ካሴ ኢንቴ ኣዋታስ ዮቲዳይሲ ቱማኮ! <verse eid="ACT 28:25"/><verse number="26" style="v" sid="ACT 28:26"/>ኢዚ ዮቲዳ ቃላይ፥</para>
+  <para style="q1" vid="ACT 28:26">« ‹ሃይሳ ዴራኮ ባዳ</para>
+  <para style="q2" vid="ACT 28:26">ኢንቴ ሲስ ሲያናሺን</para>
+  <para style="q2" vid="ACT 28:26">ዩሺ ቆፔኬታ፥</para>
+  <para style="q2" vid="ACT 28:26">ኣይፌራ ቤያናሺን</para>
+  <para style="q3" vid="ACT 28:26">ዎዚናን ዎኬታ</para>
+  <para style="q3" vid="ACT 28:26">ጋዳ ዮታ።<verse eid="ACT 28:26"/></para>
+  <para style="q1">
+    <verse number="27" style="v" sid="ACT 28:27"/>ጋሶይካ ሄ ኣሳታ</para>
+  <para style="q2" vid="ACT 28:27">ዎዚናይ ሙሚዴስ፤</para>
+  <para style="q2" vid="ACT 28:27">ኢስታ ሃይይካ ቱሊዴስ፤</para>
+  <para style="q2" vid="ACT 28:27">ኢስታ ኣይፌይ ቆቂዴስ።</para>
+  <para style="q2" vid="ACT 28:27">ሄሳ ሃኖንታኮ</para>
+  <para style="q3" vid="ACT 28:27">ኢስቲ ባ ኣይፌራ ቤኢዲ፥</para>
+  <para style="q3" vid="ACT 28:27">ባ ሃይራ ሲዪዲ</para>
+  <para style="q3" vid="ACT 28:27">ባ ዎዚናን ዩሺ ቆፒዲ፥</para>
+  <para style="q2" vid="ACT 28:27">ታኮ ሃ ሲማናኔ</para>
+  <para style="q2" vid="ACT 28:27">ታኒካ ኢስታ ፓናሺን› ጊዴስ።<verse eid="ACT 28:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="ACT 28:28"/>«ሂስቲኮ ጾሲ ኣስ ኣሺዛ ኪታይ ኣይዛቤታስካ ኪቴቲዳይሳ ኢንቴ ኤሪቴ፤ ኢስቲካ ኤሮ ጊዲ ኤኬቴስ» ጊዴስ። <verse eid="ACT 28:28"/><verse number="29" style="v" sid="ACT 28:29"/>ጳዉሎሲ ሄሳ ዮቲዳፔ ጉዬ ኣይሁዳ ኣሳቲ ባ ጊዶን ዳሮ ፓላሜቲሼ ኬዚ ቢዳ።<note caller="+" style="f"><char style="fr" closed="false">28፡29 </char><char style="ft" closed="false">ኢሲ ኢሲ ጌሻ ማጻፋታን ታይቦ 29 ቦላ ዲዛ ቆፋይ ጉጄቲቤና።</char></note><verse eid="ACT 28:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 28:30"/>ጳዉሎሲ ኪራቲዳ ኬን ናምኡ ላይ ኩሜ ዴኢዴስ፤ ባኮ ዪዛ ኣስ ኡባ ሞኪ ኤኪዴስ። <verse eid="ACT 28:30"/><verse number="31" style="v" sid="ACT 28:31"/>ጾሳ ካዎቴ ሳባኮን ጎዳ ዬሱስ ኪርስቶሳ ጊሻስ ኦኒካ ኢዛ ዲጎንታ ጻላቴራ ኣሳ ታማርሲዴስ።<verse eid="ACT 28:31"/></para>
+  <chapter eid="ACT 28"/>
+</usx>

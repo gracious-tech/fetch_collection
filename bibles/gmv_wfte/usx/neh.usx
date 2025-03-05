@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="3.0">
+  <book code="NEH" style="id">- Gamo Full Bible final version</book>
+  <para style="h">ናሂሚያ ማጻፋ</para>
+  <para style="toc1">ናሂሚያ ማጻፋ</para>
+  <para style="toc2">ናሂሚያ ማጻፋ</para>
+  <para style="toc3">ናሂ</para>
+  <para style="mt">ናሂሚያ</para>
+  <para style="imt">ጊዶ ቆፋ</para>
+  <para style="ip">ናሂሚያ ማጻፋይ ሄ ኬዚ ሻኬታናስ ዳንዳዬስ።</para>
+  <para style="ipi">1. ዩሁዳ ዴሬዛ ኣይሳናስ ፓሪሴ ካዎይ ዬዲዳ ናሂሚያይ ካሌን ዬሩሳላሜ ጊምቤቲ ኦራጺዳይሳ ዮቴስ፤ ሄሳፌካ ናሂሚያይ ኣያና ዮኦታኔ ኣሾ ዮኦታ ኦራዴስ።</para>
+  <para style="ipi">2. ጾሳ ዎጋ ማጻፋ ኢዝራይ ናባቢዳይሳ፥ ዴሬዚ ባ ናጋራ ፓጺዳይሳ ሃ ማጻፋዚ ዮቴስ።</para>
+  <para style="ipi">3. ናሂሚያይ ዩሁዳ ዴሬ ኣይሲሼ ኢዚ ኦዳ ሃራ ሃራ ኦሶታካ ሃ ማጻፋዚ ዮቴስ። ኢዛ ማጻፋዛን ኬሂ ቆንጬን ቤቲዛይ ናሂሚያይ ጾሳን ኣማኒዛ ሚኖ ኣማኖኔ ኢዚ ጾሳኮ ሺሺዳ ዎሳታ ጊሻስ ዮቲዛ ታሪኬ።</para>
+  <para style="iot">ሃ ማጻፋይ ኦይኪዳ ኩሜ ቆፋ</para>
+  <para style="io1">ካዎ ኣርጼኪሲሲ ናሂሚያ ዬሩሳላሜ ዬዶ <char style="ior"><ref loc="NEH 1:1-2:10">1፡1—2፡10</ref> </char></para>
+  <para style="io1">ዬሩሳላሜ ጊምቤይ ናምኣን ሲሚ ጊምቤቴ <char style="ior"><ref loc="NEH 2:11-4:22">2፡11—4፡22</ref> </char></para>
+  <para style="io1">ማንቆታስ ናሂሚያይ ቆፒዳ ቆፋ <char style="ior"><ref loc="NEH 5:1-19">5፡1-19</ref> </char></para>
+  <para style="io1">ሞርኬይ ኢዛ ቦላ ዴንዲሺንካ ጊምቤዛ ጊምቤቴ <char style="ior"><ref loc="NEH 6:1-3">6፡1-3</ref> </char></para>
+  <para style="io1">ዲኤቴፌ ሲሚዳይታ <char style="ior"><ref loc="NEH 7:4-73">7፡4-73</ref> </char></para>
+  <para style="io1">ኢዝራይ ጾሳ ዎጋ ዴራስ ናባቢን ኣሳይ ዳሴ ባኣሌ ቦንቺዳ ቦንቾ <char style="ior"><ref loc="NEH 8:1-18">8፡1-18</ref> </char></para>
+  <para style="io1">ዴሬዚ ባ ናጋራ ፓጼ <char style="ior"><ref loc="NEH 9:1-37">9፡1-37</ref> </char></para>
+  <para style="io1">ኣሳይ ጾሳ ዎጋስ ኣዛዜታናስ ዶሲ ዉሌ ፓራሚዴስ <char style="ior"><ref loc="NEH 9:38-10:39">9፡38—10፡39</ref> </char></para>
+  <para style="io1">ዩሁዳኒኔ ዬሩሳላሜን ዲዛ ኣሳታ <char style="ior"><ref loc="NEH 11:1-36">11፡1-36</ref> </char></para>
+  <para style="io1">ዲኤቴፌ ሲሚዳ ቄሴታኔ ሌዌ ዛርኬታ <char style="ior"><ref loc="NEH 12:1-26">12፡1-26</ref> </char></para>
+  <para style="io1">ናሂሚያይ ካታማ ጊምቤዛ ኣንጂሴ <char style="ior"><ref loc="NEH 12:27-47">12፡27-47</ref> </char></para>
+  <para style="io1">ናሂሚያይ ኤሂዳ ላሜ <char style="ior"><ref loc="NEH 13:1-31">13፡1-31</ref> </char></para>
+  <chapter number="1" style="c" sid="NEH 1"/>
+  <para style="s">ናሂሚያ ዎሳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="NEH 1:1"/>ሃካሊያ ና ናሂሚያይ ሃሳይዳ ቃላይ ሃይሳፌ ካሊ ዲዛይሳ፤ ኣርጼኪሲሲ ፓሪሴ ዴሬን ካዎቲዳ ናምኡ ታማን ላይን ኪሶሌ<note caller="+" style="f"><char style="fr" closed="false">1፡1 </char><char style="fqa" closed="false">ኪሶሌ፡ </char><char style="ft" closed="false">ኪሶሌ ጌቴቲዛይሲ ኢብራዌታ ኣጊና ቆዳን ኡዱፉን ኣጊና ጊዲሺን ኑ ታይቦን ሂዳሬ ኣጊና ባጋፌ ቢዲ ቲሳሴ ኣጊና ባጋ ጋካና ዲዛይሳ ቤሴስ።</char></note> ጌቴቲ ጼይጌቲዛ ኣጊናን ታ ናሂሚያይ ዋና ካታማ ሱሳን ዳይስ። <verse eid="NEH 1:1"/><verse number="2" style="v" sid="NEH 1:2"/>ታ ኢሻታፔ ኢሲ ሃናኒያ ጌቴቲዛይሲ ሃራ ኣሳታ ካሌዲ ዩሁዳፔ ታኮ ዪዴስ፤ ታኒ ኢስታ ዬሩሳላሜ ጊሻሲኔ ዲኤቲዲ ባቢሎኔ ቦንታ ሄን ኣቲዳ ኣሳ ጊሻስ ኦይቻዲስ። <verse eid="NEH 1:2"/><verse number="3" style="v" sid="NEH 1:3"/>ኢስቲካ ታስ፥ «ዲኤቲዲ ባቢሎኔ ቢታ ቦንታ ኣቲዳ ኣይሁዳቲ ጊታ ሜቶኒኔ ዋዬ ጊዶን ዴቴስ፤ ዬሩሳላሜ ጊምቤቲ ላሌቲዲ ኩንዲዳ፤ ቃሴ ጊምቤዛ ጎርዲዛ ፔንጌቲ ታማን ጹጌቲዳ» ጊዳ።<verse eid="NEH 1:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="NEH 1:4"/>ሃይሳ ኡባ ሲዪዳፔ ጉዬ ኡታዳ ዬካዲስ፤ ዳሮ ጋላስ ጾማኒኔ ሙዞቴን ጋምኣዳ ጾሳ ሂዝጋ ዎሳዲስ፥<verse eid="NEH 1:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="NEH 1:5"/>«ሳሎ ጎዳዉ! ኔና ዶሲዛይታራኔ ኔ ኣዛዞ ናጊዛይታራ ሜርናስ ኔኒ ኔ ጫቆ ቃላ ናጊዛ ጊታኔ ያሺሲዛ ጾሳ። <verse eid="NEH 1:5"/><verse number="6" style="v" sid="NEH 1:6"/>ጾሳዉ! ኔ ኣይሌ ጊዲዳ ኢስራኤሌ ኣሳስ ኪያና ማላ ጋላሲኔ ኦማርስ ታ ዎሲዛ ዎሳ ሲያ፤ ታናካ ቆፓ፤ ኑኒ ኢስራኤሌ ኣሳይ ኦዳ ናጋራ ታኒ ኔስ ፓጻይስ፤ ቱማፔ ታኒኔ ካሴ ኑ ኣዋቲ ናጋራ ኦዶስ። <verse eid="NEH 1:6"/><verse number="7" style="v" sid="NEH 1:7"/>ኔኒ ኔ ኣይሌ ሙሴስ ኢሚዳ ኣዛዞዛኔ ዎጋዛ ኑኒ ናጎንታ ኣጊዳ ጊሻስ ኔና ቆሂዶስ።<verse eid="NEH 1:7"/></para>
+  <para style="p">
+    <verse number="8-9" style="v" sid="NEH 1:8-9"/>«ኔ ሙሴስ፥ ‹ኢንቴኖ ኢስራኤሌ ኣሳዉ! ኢንቴ ታና ኣማኖን ካሎንታ ኣጊኮ ታኒ ኢንቴና ካዎቴታ ጊዶን ላላና፤ ጊዶ ኣቲን ኢንቴ ታኮ ሲሚዲ ታ ኣዛዞ ፖሊዛ ጊዲኮ ታ ኢንቴና ቢታ ጋጻን ኢንቴ ላሌቲዳ ጊዲኮካ ታ ሱንይ ጼይጌታና ማላ ታ ዶሪዳሶ ሺሻዳ ዛራ ታ ኤሃና› ጋዳ ዮቲዳ ቃላ ቆፓ።<note caller="-" style="x"><char style="xo" closed="false">1፡8-9 </char><char style="xt" closed="false"><ref loc="LEV 26:33">ሌዌ 26፡33</ref>፤ <ref loc="DEU 30:1-5">ዛሬ 30፡1-5</ref></char></note><verse eid="NEH 1:8-9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="NEH 1:10"/>«ጾሳዉ! ሃይቲ ሃይሳፌ ካሴ ኔኒ ኔ ጊታ ዎልቃኒኔ ሚኖ ቄሴን ዎዚዳ ኔ ኦሳንቻታኔ ኔ ዴሬታ። <verse eid="NEH 1:10"/><verse number="11" style="v" sid="NEH 1:11"/>ጎዳዉ! ሃኢካ ታ ዎሲዛ ዎሳ ሲያ፤ ኔና ዶሲዲ ቦንቻና ኮይዛ ኦሳንቻታ ዎሳ ኤዝጋ፤ ቃሴ ሃይሳ ካዎዛ ሲንን ታስ ቴማቴ ኢማዳ ሃች ታኒ ኔ ኦሳንቻዚ ኦና ኮይዛይሳ ታስ ፖሊሳ።»</para>
+  <para style="p" vid="NEH 1:11">ታኒ ሄ ዎዴ ካዎሶን ዎይኔ ኡሹ ጋሴዛ ኣሳ።<verse eid="NEH 1:11"/></para>
+  <chapter eid="NEH 1"/>
+  <chapter number="2" style="c" sid="NEH 2"/>
+  <para style="s">ናሂሚያይ ዬሩሳላሜ ቡስ</para>
+  <para style="p">
+    <verse number="1-2" style="v" sid="NEH 2:1-2"/>ካዎ ኣርጼኪሲሲ ካዎቲዳ ናምኡ ታማን ላይን ኒሳኔ<note caller="+" style="f"><char style="fr" closed="false">2፡1-2 </char><char style="fqa" closed="false">ኒሳኔ፡ </char><char style="ft" closed="false">ኒሳኔ ጌቴቲዛይሲ ኑ ኣጊና ቆዳን ማዚያ ኣጊና ቤሴስ።</char></note> ጌቴቲዛ ኣጊናን ጋላሳታፔ ኢሲ ጋላስ ካዎዛስ ዎይኔፔ ኦሴቲዳ ኡሹ ዱቃ ኢማዲስ፤ ሄ ዎዴፔ ኣቲን ካሴ ታ ጬጪሺን ካዎዚ ቤዪ ኤሮንታ ጊሻስ፥ «ኢሲ ሜቶይ ኔ ቦላ ጋኪን ኣቲን ሳኬቶንታ ጮ ሜላ ኔ ኣይፌሶይ ዋኒ ላሜቲዴ?» ጊ ኦይቺዴስ። <verse eid="NEH 2:1-2"/><verse number="3" style="v" sid="NEH 2:3"/>ታኒካ ኬሃ ባባሼ፥ «ካዎ! ኔ ሜርናስ ካዎታ! ካሴ ኑ ኣዋቲ ኢዛን ሞጌቲዳ ካታማይ ላሌቲዲኔ ሄ ካታማ ጊምቤ ፔንጌይ ታማን ጹጌቲ ይሺን ታኒ ዋናዳ ጬጪኪና!» ጋዲስ።<note caller="-" style="x"><char style="xo" closed="false">2፡3 </char><char style="xt" closed="false"><ref loc="2KI 25:8-10">2ካዎ 25፡8-10</ref>፤ <ref loc="2CH 36:19">2ታሪ 36፡19</ref>፤ <ref loc="JER 52:12-14">ኤር 52፡12-14</ref></char></note><verse eid="NEH 2:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="NEH 2:4"/>ካዎዚ ታና፥ «ሂስቲን ሃኢ ኔ ኮይዛይ ኣዜ?» ጊ ኦይቺዴስ፤ ታኒካ ሳሎ ጾሳኮ ዎሲዳፔ ጉዬ፥ <verse eid="NEH 2:4"/><verse number="5" style="v" sid="NEH 2:5"/>ካዋስ፥ «ካዎ! ታኒ ኔና ኡፋይሲዛ ጊዲኮ ቃሴ ታ ኦይሾ ኔ ኤኪዛ ጊዲኮ ካሴ ታ ኣዋቲ ሞጌቲዳሶ ዩሁዳ ዴሬ ባዳ ሄ ካታማዮ ዛራዳ ኬጻና ማላ ታና ዬዳርኪ» ጋ ዎሳይስ።<verse eid="NEH 2:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="NEH 2:6"/>ሄ ዎዴ ካዋ ማቼያ ኢዛ ማታን ኡታ ዲሺን ካዎዚ ታና፥ «ኔ ባና ኦጌይ ኣፑን ጋላስ ዉርሳኔ? ቃሴ ኔ ኣይ ዎዴ ሲማኔ?» ጊ ኦይቺን ታኒ ኣፑን ጋላስ ጋምኣናኮኔ ኣይዴ ሲማናኮ ዮታዲስ።<verse eid="NEH 2:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="NEH 2:7"/>ሄሳፌ ጉዬ ታ ዩሁዳ ዴሬ ፒና ባና ማላ ኤፊራጺሴ ሻፋፔ ኣርሼይ ዉሊዛ ባጋራ ዲዛ ዴሬ ኣይሲዛይታስ፥ «ኣ ቦ» ጊዛ ዳብዳቤይ ታስ ጻፌቲ ኢሜታና ማላ ካዎዛ ዎሳዲስ፤ <verse eid="NEH 2:7"/><verse number="8" style="v" sid="NEH 2:8"/>ካዎ ዎራ ናጊዛ ኣሳፌ ጌቴቲዛዴይ ጾሳ ኬ ጊምቤ ፔንጌታስ፥ ካታማ ጊምቤ ፔንጌታሲኔ ታ ኢዛን ዴኣናሶ ኬጻናስ ሚ ቃንጺሺን ዲጎንታ ማላ ኣዛዚዛ ዳብዳቤ ታስ ኢማና ማላ ኦይቻዲስ፤ ጾሳ ኪያቴ ታናራ ዲዛ ጊሻስ ካዎዛ ታ ኦይቺዳ ኡባ ኢሚዴስ።<verse eid="NEH 2:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="NEH 2:9"/>ካዎዚ ኣማርዳ ኦላ ሞኮኔቲኔ ፓራን ኦሌቲዛይቲ ታናራ ባና ማላ ኪቲዴስ፤ ታኒ ኤፊራጺሴ ሻፋ ፒንን ኣርሼይ ዉሊዛ ባጋራ ዲዛ ዴሬ ኣይሲዛይታኮ ጋኪዳ ማላ ካዎዚ ዬዲዳ ዳብዳቤዛ ኢማዲስ። <verse eid="NEH 2:9"/><verse number="10" style="v" sid="NEH 2:10"/>ጊዶ ኣቲን ቤቲ-ሆሮኔ ካታማ ኣስ ጊዲዳ ሳንባላጼይኔ ኣሞኔ ዴሬ ኣይሲዛ ጾቢያይ ኢስራኤሌ ዴራ ሳሮቴስ ሎኦ ሚሽ ኦዛ ኣሲ ዪዳይሳ ሲዪዲ ኬሂ ሃንቄቲዳ።<verse eid="NEH 2:10"/></para>
+  <para style="s">ናሂሚያይ ዬሩሳላሜ ካታማ ጊምቤዛ ዩዪ ጼሎ</para>
+  <para style="p">
+    <verse number="11" style="v" sid="NEH 2:11"/>ታኒካ ዬሩሳላሜ ባዳ ሄ ጋላስ ጋምኢዳፔ ጉዬ፥ <verse eid="NEH 2:11"/><verse number="12" style="v" sid="NEH 2:12"/>ዬሩሳላሜ ካታማን ታ ኦናይሳ ጾሲ ታስ ቆንጪሲዳይሳ ታ ኦናስካ ዮቶንታ ታ ዎዚናን ኦይካ ጋምኢዳፔ ጉዬ ጉ ኣሳታ ታናራ ካሌ ኤካዳ ኦማርሳፌ ጊዲ ጊዶ ባዲስ፤ ሄ ዎዴ ኑስ ዲዛ ቶጋ ሜሄይ ታ ቶጊዳይሳፌ ሃራይ ባዋ።<verse eid="NEH 2:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="NEH 2:13"/>ጊዶ ዙሌ<note caller="+" style="f"><char style="fr" closed="false">2፡13 </char><char style="fqa" closed="false">ዙሌ፡ </char><char style="ft" closed="false">ዙሌ ጉሲ ናምኡ ባጋራ ቁ ጊዲ ዲዛ ዙማታስ ጊዶን ዚቂ ጊ ኡቲዳሶ።</char></note> ፔንጌራ ኬዛዳ ዳዌ ፑልቶ ጌቴቲዛሶራ ፒናዳ ዱጌ ባጋን ቡራ ዬጊዛሶራ ኣ ባሼ ላሌቲዳ ካታማኔ ታማን ኤጺ ይዳ ጊምቤ ፔንጌታ ቤያዲስ። <verse eid="NEH 2:13"/><verse number="14" style="v" sid="NEH 2:14"/>ሄሳፌ ጉዬ ካላዳ ኣርሼይ ሞኪዛሶስ ፑዴሃ ባጋራ ዲዛ፥ «ፑልቶ ሃ ጊምቤ ፔንጌ» ጌቴቲዛሶራ ካዎ ኤሌ ሃኮ ባዲስ፤ ጊዶ ኣቲን ታኒ ቶጊዳ ቶጋ ሜሄይ ላሌቲዳ ጊምባ ላሌ ቦላራ ኣ ቢዛ ኦጌይ ዴና። <verse eid="NEH 2:14"/><verse number="15" style="v" sid="NEH 2:15"/>ሄሳ ጊሻስ ኦማርስ ቄዲሮኔ ሻፋ ዎዳ ጊምቤታ ጼላሼ ባዲስ፤ ዉርሴን ካሴ ታ ዪዳ ኦጌዛራ ጉዬ ሲማዳ ሾባ ጊምቤ ፔንጌ ባጋራ ካታማ ሲማ ጌላዲስ።<verse eid="NEH 2:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="NEH 2:16"/>ዴራን ዲዛ ዳናታፔ ኢሳዴይካ ታ ኣዋ ቢዳኮ ኣይ ኦዳኮ ኤሪዳይ ኦኒካ ዴና፤ ሃራይ ኣቶሺን ኣይሁዳታፔ ቄሴታስ፥ ካሌዛይታስ፥ ዳናታስ ዎይኮ ታናራ ኦዛ ሃራ ኣሳታፔ ኦናስካ ኣይኮካ ዮታቤኬ።<verse eid="NEH 2:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="NEH 2:17"/>ሃይሳፌ ጉዬ፥ «ኣኔ ኑስ ዲዛ ሜቶ ጼሊቴ! ዬሩሳላሜይ ላሌቲዳ ላሌ ዶሬ ጊዲዴስ፤ ኢዚ ጊምቤዛ ፔንጌቲካ ታማን ጹጌቲ ይዳ፤ ሄሳ ጊሻስ ኣኔ ዴንዲዲ ካታማዛ ጊምቤ ዛሪ ጊምቦስ፤ ኑ ቦላ ጋኪዳ ዬላቴካ ኣኔ ዲጎስ» ጋዲስ። <verse eid="NEH 2:17"/><verse number="18" style="v" sid="NEH 2:18"/>ቃሴ ጾሳ ኪያቴ ታናራ ዲዛይሳኔ ኢዚ ታና ዎስቲ ማዲዳኮ ካዎዚ ታስ ዮቲዳይሳ ኡባ ታ ኢስታስ ዮታዲስ፤ ኢስቲ «ኣኔ ቃሴካ ዛሪ ኦስ!» ጊዳፔ ጉዬ፥ ኦሶ ኦና ጊጌቲዳ።<verse eid="NEH 2:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="NEH 2:19"/>ጊዶ ኣቲን ሆሮኔ ኣስ ሳንባላጼይ፥ ኣሞኔ ዴሬ ሹሜ ጾቢያይኔ ኣራቤ ዴሬ ኣስ ጌሻሜይ ኑ ኦሶስ ኬሲዳ ቆፋታ ሲዪዳ ዎዴ ኑ ቦላ ናጪ<note caller="+" style="f"><char style="fr" closed="false">2፡19 </char><char style="ft" closed="false">ናጪ፡ </char><char style="ft" closed="false">ናጪ ጉሲ ሚሬን ኣስ ቂ ዎይኮ ቄሴ ሜን ጉሳ</char></note> ሚጪሼ፥ «ሃይሲ ኢንቴ ኦዛይሲ ኣዜ? ዎይኮ ካዎዛ ቦላ ማካላና ኮዬቲ?» ጊ ኦይቺዳ።<verse eid="NEH 2:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="NEH 2:20"/>ታኒካ፥ «ኑ ኦዛ ኦሶዛን ሳሎ ጾሲ ኑና ማዳና፤ ሄሳ ጊሻስ ኑኒ ኢዛ ኦሳንቻቲ ዴንዲዲ ኦና፤ ኢንቴስ ጊዲኮ ዬሩሳላሜን ኣይ ሚሻንካ ኢንቴና ጋዛ ዎጋይኔ ኢንቴ ቆፌታና ታሪኬይ ኢንቴስ ዴና!» ጋ ኢስታስ ዛራዲስ።<verse eid="NEH 2:20"/></para>
+  <chapter eid="NEH 2"/>
+  <chapter number="3" style="c" sid="NEH 3"/>
+  <para style="s">ዬሩሳላሜ ካታማ ዲርሳ ዛሬ ጊምቤ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="NEH 3:1"/>ካታማዛ ዲርሳይ ጊምቤቲዳይ ሃይሳፌ ካሊ ዲዛይሳ ማላ፤ ቄሴታ ሃላቃ ኤልያሼቤይኔ ኢዛራ ኦዛ ቄሴቲ፥ «ዶርሳታ ፔንጌ» ጌቴቲዛ ጊምቤ ፔንጌዛ ዛሪ ጊምቢዲ ጾሳስ ዱማሲዳ፤ ኢዛስ ፔንጌታካ ጊግሲዳ፤ ጊምቤዛካ «ጼቱ» ጌቴቲ ጼይጌቲዛ ናጌሶ ጊምቤዛኔ «ሃናኒኤሌ ጊምቤ» ጌቴቲ ጼይጌቲዛ ሻኮ ጊምቤዛኮ ጋካናስ ጾሳስ ዱማሲዳ።<note caller="+" style="f"><char style="fr" closed="false">3፡1 </char><char style="ft" closed="false">ሻኮ ጌቴቲዛይሲ ኢሲ ኢሲ ባጋ ጋሞ ቃላን ሴላ ጌቴቴስ።</char></note><verse eid="NEH 3:1"/></para>
+  <para style="p">
+    <verse number="2" style="v" sid="NEH 3:2"/>ኢዛፔ ካሊ ዲዛይሳ ኢያርኮ ኣሳቲ ኦሺን ኢዛፔ ካሊዛይሳ ኢሚሬ ና ዛኩሬይ ዛሪ ኦዴስ።<verse eid="NEH 3:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="NEH 3:3"/>ሃሲናኣ ዜሬቲ ሞሌ ጊምቤ ፔንጌ ጌቴቲዛሶ ዛሪ ኦዳ፤ ቱሳታካ ኤሲዳ፤ ፔንጌታካ ጌልዳ፥ ፔንጌታ ጎርዲዛ ቁልፔታኔ ኮላታታ ጊግሲዳ።<verse eid="NEH 3:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="NEH 3:4"/>ኢዛፔ ካሊ ዲዛይሳ ሃቆጼ ናዛ ና ኡሪያ ና ሜርሞቴይ ዛሪ ኦዴስ፤ ካሊ ዲዛይሳ ሜሼዛቤሌ ናዛ ና ባራካዬ ና ማሹላሜይ ዛሪ ኦዴስ፤ ኢዛፔ ካሊ ዲዛይሳ ባኣና ና ሳዶቄይ ዛሪ ኦዴስ።<verse eid="NEH 3:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="NEH 3:5"/>ኢዛፔ ካሊ ዲዛይሳ ቴቁሄ ካታማ ኣሳቲ ዛሪ ኦዳ፤ ጊዶ ኣቲን ሄ ካታማን ዲዛ ሹሜቲ ኢስታ ኦሲሲዛ ኣሳቲ ኢስታስ ጊሻ ኢሚዳ ኦሶዛ፥ «ኦኮ!» ጊ ኢጺዳ።<verse eid="NEH 3:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="NEH 3:6"/>ፋሳሄ ና ዮያዳኤይኔ ቤሲዲያ ና ማሹላሜይ ዪሻኔ ጋልኣ ጊምቤ ፔንጌ ዛሪ ኦዳ፤ ቃሴ ቱሳታካ ኤሲዳ፤ ፔንጌ ጌልዳ፤ ፔንጌታስ ቁልፔታኔ ኮላታታ<note caller="+" style="f"><char style="fr" closed="false">3፡6 </char><char style="fqa" closed="false">ኮላታታ፡ </char><char style="ft" closed="false">ኮላታታ ጌቴቲዛይሲ ኢሲ ኢሲ ባጋ ጋሞ ቃላን ኮልጌ ዎይኮ ኮሌ ዎይኮ ጎልጌ ጌቴቴስ።</char></note> ጌልዳ። <verse eid="NEH 3:6"/><verse number="7" style="v" sid="NEH 3:7"/>ሄሳፌ ካሊ ዲዛይሳ ጌባኦኔ ካታማ ኣስ ማላጺያራኔ ሜሮኖቴ ዴሬ ኣስ ያዶኔራ ዛሪ ኦዳ። ቃሴካ ጌባኦኔኔ ሚጺጳ ካታማ ኣሳቲካ ኢስታራ ኢሲፌ ጊዲዲ ኤፊራጺሴ ሻፋ ፒንን ኣርሼይ ዉሊዛ ባጋራ ዲዛ ዴሬ ኣይሲዛይ ዴኢዛሶ ጋካናስ ዲዛይሳ ዛሪ ጊምቢዳ።<verse eid="NEH 3:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="NEH 3:8"/>ኢዛፔ ካሊ ዲዛይሳ ዎርቃ ቆጺዛ ሃርሃያ ና ኡዚኤሌይ ዛሪ ኦዴስ፤ ካሊ ዲዛይሳ ሺቶ ኬሲዛ ሃናኒያይ ዛሪ ኦዴስ፤ ሃ ኣሳቲ ዬሩሳላሜን፥ «ኣሆ ጊምቤ» ጌቴቲዛሶ ጋካናስ ዲዛይሳ ኡባ ዛሪ ኦዳ።<verse eid="NEH 3:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="NEH 3:9"/>ኢስታፌ ካሊ ዲዛይሳ ኦዳይ ዬሩሳላሜ ዎራዳ ሄካ ባጋ ሻኪ ኣይሲዛ ኡሬ ና ኤራፋያይ ዛሪ ኦዴስ።<verse eid="NEH 3:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="NEH 3:10"/>ሃሩማፌ ና ዬዳያይ ባ ኬ ፔንጌ ጊናን ዲዛይሳ ዛሪ ኦዴስ፤ ካሊ ዲዛይሳ ሃሻቢናዬ ና ሃጹሼይ ዛሪ ኦዴስ። <verse eid="NEH 3:10"/><verse number="11" style="v" sid="NEH 3:11"/>ሃሪሜ ና ማልኪያይኔ ፓሃቴ-ሞኣቤ ና ሃሹቤይ ሄሳፌ ካሊ ዲዛይሳ፥ «ኢቶኔ ጊምቤ» ጌቴቲ ጼይጌቲዛይሳ ዛሪ ኦዳ። <verse eid="NEH 3:11"/><verse number="12" style="v" sid="NEH 3:12"/>ዬሩሳላሜ ዎራዳስ ኣቲዳ ሄካ ባጋ ኣይሲዛ ሃሉሄሼ ና ሻሎሜይ ካሊ ዲዛይሳ ዛሪ ኦሺን ኢዛ ማጫ ናይቲ ኢዛ ማዲዳ።<verse eid="NEH 3:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="NEH 3:13"/>ሃኖኔኒኔ ዛኖሄን ዲዛ ኣሳይ ኢሲፌ ማዴቲዲ ዙሌ ጊምቤ ፔንጌ ዛሪ ኦዳ፤ ቃሴ ኢዛስ ፔንጌታ ጌልዳ፤ ቁልፔታኔ ኮላታታ ጌልዳ፤ ቡራ ዬጌሶ ጋካናስ ኣዱሳቴይ 1,000 ዋ ጊዲዳ ጊምቤ ዛሪ ኦዳ።<verse eid="NEH 3:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="NEH 3:14"/>ቤቲ-ሃካሪሜ ዎራዳ ኣይሲዛ ኤሬካቤ ና ማልኪያይ፥ «ቡራ ዬጊዛ ጊምቤ ፔንጌ» ጌቴቲዛይሳ ዛሪ ኦዴስ፤ ቃሴ ኢዛስ ፔንጌታ ጌልዴስ፤ ፔንጌታስካ ቁልፔኔ ኮላታታ ጌልዴስ።<verse eid="NEH 3:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="NEH 3:15"/>ሚጺጳ ዎራዳ ኣይሲዛ ኮሊ-ሆዜ ና ሻሎሜይ፥ «ፑልቶ ሃ ጊምቤ ፔንጌ» ጌቴቲዛ ጊምቤዛ ዛሪ ኦዴስ፤ ቃሴ ኢዛስ ካማ ኦዳፔ ጉዬ ጎርዲዛ ፔንጌታ ጌልዴስ፤ ፔንጌታስካ ቁልፔታኔ ኮላታታ ጌልዴስ፤ ሼላሄ ኤሌ ሃ ባጋራ ካዎ ኣታኪልቴሶፔ ኦይኪዲ ካዎ ዳዊቴ ካታማ ጋካናስ ዎ ቢዛ ኬላ ዛሪ ኬሊዴስ። <verse eid="NEH 3:15"/><verse number="16" style="v" sid="NEH 3:16"/>ቤቲ-ጹሬ ዎራዳ ሄካ ባጋ ኣይሲዛ ኣዚቡቄ ና ናሂሚያይ ዳዊቴ ዱፎሶ ጋካናስ፥ ኤሌ ሃ ጌቴቲዛሶዛ ጋካናሲኔ ኦላ ቃራቲ ዲዛሶ ጋካናስ ዲዛይሳ ዛሪ ኦዴስ።<verse eid="NEH 3:16"/></para>
+  <para style="s">ጊምባ ኦሶን ቤቲዳ ሌዌታ ዛርኬታ</para>
+  <para style="p">
+    <verse number="17" style="v" sid="NEH 3:17"/>ጊምቤዛ ኦሶን ዲዛ ሌዌ ዜሬታ ሱን ሃይሳፌ ካሊ ዲዛይሳ፤ ባኔ ና ኤሬሁሜይ ኢዛፔ ካሊ ዲዛይሳ ዛሪ ኦዴስ፤ ቃሴ ቂኢላ ዎራዳ ሄካ ባጋ ኣይሲዛ ሃሻቢያይ ባ ዎራዳ ሱንን ካሊ ዲዛይሳ ዛሪ ኦዴስ።<verse eid="NEH 3:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="NEH 3:18"/>ሄሳፌ ካሊ ዲዛይሳ ሃንኮ ኣቲዳ ቂኢላ ዎራዳስ ሄካ ባጋ ኣይሲዛ ሄናዳዴ ና ባዌይ ዛሪ ኦዴስ።<verse eid="NEH 3:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="NEH 3:19"/>ሚጺጳ ዎራዳ ኣይሲዛ ኢያሶ ና ኤዜሬይ ኦላ ሚሻታ ዎዛ ኬ ሲን ባጋን ዲዛይሳፌ ቢዲ ጊምቤዛስ ጉላ ጋካናስ ዲዛይሳ ኡባ ዛሪ ኦዴስ። <verse eid="NEH 3:19"/><verse number="20" style="v" sid="NEH 3:20"/>ዛካዬ ና ባሮኬይ ዋና ቄሴ ኤልያሼቤሶ ፔንጌ ጋካናስ ዲዛይሳ ዛሪ ኦዴስ። <verse eid="NEH 3:20"/><verse number="21" style="v" sid="NEH 3:21"/>ሃቆጼስ ናዛ ና ጊዲዳ ኡሪያ ና ሜርሞቴይ ኤልያሼቤ ፔንጌፌ ቢዲ ኢዛ ኬ ዉርሴ ጋካናስ ዲዛይሳ ዛሪ ኦዴስ።<verse eid="NEH 3:21"/></para>
+  <para style="s">ካታማ ዲርሳ ኦዳ ቄሴታ</para>
+  <para style="p">
+    <verse number="22" style="v" sid="NEH 3:22"/>ሄሳፌ ካሊ ዲዛ ጊምቤዛ ዬሩሳላሜ ዩሾን ዲዛ ቄሴቲ ዛሪ ኦዳ። <verse eid="NEH 3:22"/><verse number="23" style="v" sid="NEH 3:23"/>ኢስታፌ ካሊዛይሳ ቢኒያሜይኔ ሃሹቤይ ባንታ ኬ ሲንራ ዲዛ ጊምቤዛ ዛሪ ኦዳ፤ ቃሴ ኣናኒያ ናዛ ና ማኢሳያ ና ኣዛሪያሲ ባ ኬ ሲን ባጋራ ዲዛ ጊምቤዛ ዛሪ ኦዴስ።<verse eid="NEH 3:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="NEH 3:24"/>ሄናዳዴ ና ቢኑዌይ ኣዛሪያሳ ሶፔ ዶሚዲ ጊምቤዛ ጉላ ጋካናስ ዲዛይሳ ዛሪ ኦዴስ። <verse eid="NEH 3:24"/><verse number="25" style="v" sid="NEH 3:25"/>ኡጻዬ ና ፓላሌይ ጊምቤዛ ጉላፔ ቢዲ ዛቤ ናጌሶ ማታን ፑዴ ባጋራ ዲዛ ካዎ ኬ ጊምቤ ሲን ጋካናስ ዲዛይሳ ኡባ ዛሪ ኦዴስ። <verse eid="NEH 3:25"/><verse number="26" style="v" sid="NEH 3:26"/>ሄሳፌ ካሊ ዲዛይሳ ፓሮሴ ና ፓዳያይ፥ «ኦፌሌ» ዙምቡላን ዲዛ ጾሳ ኬ ኦሳንቻቲ ሃ ፔንጌ ጌቴቲዛሶፔ ቢዲ ኣርሼይ ኬዚዛ ባጋ ጋካናስ ዲዛ ጊምቤዛ ዛሪ ኦዴስ።<verse eid="NEH 3:26"/></para>
+  <para style="s">ኢስታራ ኢሲፌ ኦዳ ኦሳንቻታ</para>
+  <para style="p">
+    <verse number="27" style="v" sid="NEH 3:27"/>ሄሳፌ ካሊ ዲዛይሳ ቴቁሄ ኣሳይ ሃራ ቃሴካ ጾሳ ኬ ናጌስ ኦሴቲዳ ጊታ ጊምቤፌ ዶሚዲ፥ «ኦፌሌ» ማታን ዲዛ ጊምቤ ጋካናስ ዲዛይሳ ዛሪ ኦዳ።<verse eid="NEH 3:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="NEH 3:28"/>ሃንኮ ቄሴቲ ኢሶይ ኢሶይ ባ ኬ ፔንጌን ዲዛይሳ ካሊ ካሊዲ ፓራ ጊምቤ ፔንጌ ጌቴቲዛሶፔ ፑዴ ባጋራ ዲዛይሳ ዛሪ ኦዳ። <verse eid="NEH 3:28"/><verse number="29" style="v" sid="NEH 3:29"/>ኢሜሬ ና ሳዶቄይ ባ ኬ ሲንን ዲዛይሳ ኦሺን ኣርሼይ ሞኪዛ ባጋራ ዲዛ ጊምቤዛ ፔንጌ ናጊዛ ሻካኒያ ና ሻማኤይ ካሊ ዲዛይሳ ዛሪ ኦዴስ። <verse eid="NEH 3:29"/><verse number="30" style="v" sid="NEH 3:30"/>ሼሌሚያ ና ሃናኒያይኔ ጻላፌስ ኡሱፑን ና ሃኖኔይ ኢስታስ ናምኣን ዩሾ ኢሜቲዳይሳ ዛሪ ኦዳ። ባራካዬ ና ማሹላሜይ ባ ኬስ ሲን ባጋራ ዲዛይሳ ዛሪ ኦዴስ። <verse eid="NEH 3:30"/><verse number="31" style="v" sid="NEH 3:31"/>ሄሳፌ ካሊ ዲዛይሳ ዎርቃ ቆጺዛ ማልኪያይ ጊምቤዛ ጉላፔ ዶሚዲ ፑዴ ጼራ ባጋራ ዲዛሶ ጋካናስ ዛሪ ኦዴስ፤ ቃሴካ ሄ ናጊዛሶ ፔንጌ ጌቴቲዛሶ ባጋራ ጾሳ ኬ ኦሳንቻቲኔ ዛልኣንቻቲ ጎኤቲዛሶ ጋካናስ ዲዛይሳ ዛሪ ኦዴስ።<verse eid="NEH 3:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="NEH 3:32"/>ዎርቃ ቆጺዛ ኣሳቲኔ ዛልኣንቻቲ ጊምቤዛ ጉላፔ ዶሚዲ ዶርሳታ ፔንጌ ጌቴቲዛሶ ጋካናስ ዲዛይሳ ዛሪ ኦዳ።<verse eid="NEH 3:32"/></para>
+  <chapter eid="NEH 3"/>
+  <chapter number="4" style="c" sid="NEH 4"/>
+  <para style="s">ጊምቤዛ ኦሶስ ጴ ጊዲዳ ኣሳታራ ኤቄቴ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="NEH 4:1"/>ኑኒ ጊምቤዛ ኦሶ ዶሚዳይሳ ሳንባላጼይ ሲዪዲ ኬሂ ዪሎቲዲ ኑና ናጫናስ ዴንዲዴስ። <verse eid="NEH 4:1"/><verse number="2" style="v" sid="NEH 4:2"/>ባ ላጌታኔ ሳማሪያ ዎታዳራታ ሲንን፥ «ሃይቲ ላፋ ኣይሁዳቲ ኣይ ኦና ቆፒዶ? ባ ካታማ ጊምቤዛ ዛሪ ኦና ቆፒዞ? ያርሾ ሺሻናስ ኮዪዞ? ኦሶዛ ኢሲ ጋላስ ፖላናስ ኢስታስ ሚሳቲዜ? ጊምቤስ ጊዲዛ ሹቻታ ካሴ ጹጌቲ ላሌቲዳ ጊምቤ ጋርሳፌ ኬሲ ጊምባናስ ዳንዳይዞ?» ጊዲ ናጪዴስ።<verse eid="NEH 4:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="NEH 4:3"/>ኢዛ ማታን ኤቂዳ ኣሞኔ ዴሬ ኣስ ጾቢያይ ባ ባጋራ፥ «ኢስቲ ዋኒዳ ጊምቤ ጊምባና ዳንዳይዞ? ኢስቲ ጊምቢዳ ጊምቤዛ ቦላ ሃራይ ኣቶሺን ዎራካናይ ኬዚዳኮ ላሌታና!» ጊዲ ናጪዴስ።<verse eid="NEH 4:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="NEH 4:4"/>ታኒካ፥ «ጎዳዉ! ኢስቲ ኑና ኣይ ማላ ናጪዛኮ ኔ ሃይሳ ቤያ፤ ኢስታ ጫሺ ጌዴ ኢስታ ቦላ ሲሞ፤ ኢስታስ ዲዛ ሃሮይ ቦንቄቲን ኣላጋ ቢታን ቤቴ ኣስ ጊዴቶ! <verse eid="NEH 4:4"/><verse number="5" style="v" sid="NEH 4:5"/>ኢስቲ ኦዳ ኢታ ኦሶዛ ጊሻስ ኔ ኢስታ ማሮፓ፤ ላሌቲዳይሳ ኑኒ ዛሪ ኦዳ ጊሻስ ኢስቲ ኑና ጫሻን ካዉሺዳ ቆሆዛ ኔ ባሎፓ» ጋ ዎሳዲስ።<verse eid="NEH 4:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="NEH 4:6"/>ኣሳይ ዎዚናፔ ኦዛ ጊሻስ ጊምቤዛ ኦሶይ ኤሶራ ባጋ ጋኪዴስ።<verse eid="NEH 4:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="NEH 4:7"/>ሳንባላጼይ፥ ጾቢያይ፥ ኣራቤ ዴሬ ኣሳይ፥ ኣሞኔ ዴሬ ኣሳይኔ ኣሽዶዴ ዴሬ ኣሳይ ኡባይ ኑኒ ዬሩሳላሜ ጊምቤዛ ዛሪ ሎኤ ኦዳ ጊምቤታ ጊዶን ኣቲዳ ጾኤታ ኡባ ቱጪሺን ሲዪዲ ኬሂ ሃንቄቲዳ። <verse eid="NEH 4:7"/><verse number="8" style="v" sid="NEH 4:8"/>ሄሳ ጊሻስ ኢስቲ ኢሲ ቦላ ጊዲዲ ዬሩሳላሜ ዪዲ ኦላናሲኔ ሜቶ ሜናስ ኑ ቦላ ሴሪዳ። <verse eid="NEH 4:8"/><verse number="9" style="v" sid="NEH 4:9"/>ጊዶ ኣቲን ኑኒ ኑ ጎዳኮ ዎሲዶስ፤ ኦማርሲኔ ጋላስ ኢስታራ ኤቄታናስ ዳንዳይዛ ኣሳታ ዎዶስ።<verse eid="NEH 4:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="NEH 4:10"/>ሄ ዎዴ ዩሁዳ ኣሳቲ፥ «ቶሆይ ኑና ኢጼዴስ፤ ቡሮ ኦሴታናስ ቤሲዛሶይ ዳሮይ ዴስ፤ ሄሳ ጊሻስ ጊምቤዛ ኦናስ ዳንዳዮኮ» ጊዳ።<verse eid="NEH 4:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="NEH 4:11"/>ኑ ሞርኬቲ፥ «ኑ ኢስታ ጊዶ ጌሊዲ ኢስታ ዎዲ ኦሶዛ ቴቃና ጋካናስ ኤሬቴናኔ ቤዬቴና» ጊ ቆፒዳ። <verse eid="NEH 4:11"/><verse number="12" style="v" sid="NEH 4:12"/>ኑ ሞርኬታ ማታን ዲዛ ኣይሁዳቲ ኑኮ ዪዲ ሞርኬቲ ኑና ኦላና ጊዛይሳ ኑስ ዛሪ ዛሪ ዮቲዳ። <verse eid="NEH 4:12"/><verse number="13" style="v" sid="NEH 4:13"/>ሄሳ ጊሻስ ኣሳ ጊዶፌ ጊ ማሻ፥ ቶራኔ ዎንዳፌ ኦይኪዳ ኣሳ፥ ዳቦፌ ዳቦፌ ጊጊሳዳ ጊምቤይ ኦሴቲ ፖሌቶንታሶስ ጉዬ ባጋራ ናጋና ማላ ኦዲስ።<verse eid="NEH 4:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="NEH 4:14"/>ኣሳይ ኬሂ ሂርጊዛይሳ ታኒ ቤያዳ ካሌዛይታ፥ ዳናታኔ ሃራ ኣሳታ ኡባ፥ «ባቦፍቴ! ያሺዛ ዎልቃማ ጾሳ ቆፒቴ! ኢንቴ ዳቦታስ፥ ናይታስ፥ ማቼታሲኔ ሃሮታስ ኦሌቲቴ!» ጋዲስ። <verse eid="NEH 4:14"/><verse number="15" style="v" sid="NEH 4:15"/>ኑ ሞርኬቲ ኑና ቆሃና ጊዲ ባ ጋርሳን ሴሬቲ ጫቄቲዳይሲ ኑኮ ጋኪዳይሳ ሲዪዲኔ ጾሳይካ ኢስታ ቆፋ ሃዳ ኦዳይሳ ኢስቲ ኤሪዳፔ ጉዬ ኑኒ ኡባይ ጊምቤዛ ኦሶ ጌዴ ሲን ጉጂዶስ።<verse eid="NEH 4:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="NEH 4:16"/>ሄ ዎዴፔ ዶሚዲ ታ ኣሳታፔ ባጋቲ ኦሺን፥ ባጋቲ ቲራን ዎዛ ኦላ ማይኦ ማይኢዲ፥ ቶራ ኦይኪዲ፥ ጎንዳሌኔ ዎንዳፌ ኦይኪዲ ዛቤ ጊዲ ናጋና ማላ ኦዲስ፤ ኦላ ኣሳ ካሌዛይቲ ዩሁዳ ኣሳፔ ጉዬራ ኤቂዲ ናጌቴስ። <verse eid="NEH 4:16"/><verse number="17" style="v" sid="NEH 4:17"/>ዲርሳ ጊምቢዛይታ ኡባ ሚንቴስ፤ ቶኪዛይቲካ ኢሲ ኩሼን ኦላ ማሳራ ኦይኪ ናጌቲሼ ሃንኮ ኩሻራ ኦቴስ። <verse eid="NEH 4:17"/><verse number="18" style="v" sid="NEH 4:18"/>ዲርሳ ጊምቢዛ ኣሳይ ዉሪካ ኦሼ ባ ጊ ማሻ ጊጺዲ ኦቴስ፤ ቃሴ ዛዬ ፑኒዛይሲ ታ ኣቻፌ ሻኬቲ ኤሬና። <verse eid="NEH 4:18"/><verse number="19" style="v" sid="NEH 4:19"/>ዴሬዛስ፥ ካሌዛይታሲኔ ሹሜታስ፥ «ጊምቤዛ ኦሶይ ኬሂ ጊታኔ ኣሆ ጊዲዳ ጊሻስ ኑኒ ኑ ጋርሳን ኢሶይ ኢሶይ ሃኪ ሃኪ ኦዛ ጊሻስ ኢሶይ ኢሳራ ጋይታናስ ዳንዳዬቴና። <verse eid="NEH 4:19"/><verse number="20" style="v" sid="NEH 4:20"/>ኢንቴ ዛዬይ ፑኔቲሺን ሲዪዳ ማላ ሃ ታኮ ሺቂቴ፤ ኑ ጎዳይ ኑ ጊሻስ ኦሌታና» ጋዲስ። <verse eid="NEH 4:20"/><verse number="21" style="v" sid="NEH 4:21"/>ሄሳ ጊሻስ ዉሪ ማላዶ ዎንታ ዶሚዲ ኦማርስ ጾሊንቴይ ኬዛና ጋካናስ ባጋይ ኦሺን ባጋይ ቃሴ ኦላ ማሳራ ጊጺዲ ናጌስ።<verse eid="NEH 4:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="NEH 4:22"/>ሄ ዎዴ ታኒ ኣሳስ፥ «ኦማርስ ናጊሼኔ ጋላስ ኦሶ ኦ ማዳና ማላ ኢሲ ኢሲ ኣሲ ባ ኦሳንቻራ ዬሩሳላሜን ጋምኦ» ጋዲስ። <verse eid="NEH 4:22"/><verse number="23" style="v" sid="NEH 4:23"/>ታኒ፥ ታ ላጌቲ፥ ዛቤቲ፥ ሃራ ኦሳንቻቲ ኡባይካ ኦማርስ ኑ ቦላፌ ማይኦ ቃሪ ኤሮኮ፤ ቃሴ ሃ ዱቃና ቢሼ ማሳራ ሃሼፔ ዎ ኤሮኮ።<verse eid="NEH 4:23"/></para>
+  <chapter eid="NEH 4"/>
+  <chapter number="5" style="c" sid="NEH 5"/>
+  <para style="s">ማንቆታ ቦላ ጋኪዳ ቆሆ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="NEH 5:1"/>ኢሲ ዎዴ ኣዴቲኔ ኢስታ ማቼቲ ባ ባጋ ጊዲዳ ኣይሁዳ ኣሳታ ሞሮ ጊሻስ ናሂሚያስ ኬሂ ዋሲዳ። <verse eid="NEH 5:1"/><verse number="2" style="v" sid="NEH 5:2"/>ኢስታ ጊዶፌ ኢሲ ኢሲ ኣሳቲ፥ «ኑኒ ኑ ናይታራ ኢሲ ኢሲ ኬን ዳሮ ኣሲ ዲዛ ጊሻስ ኑ ሼምፖ ኣሻናስ ካ ኮዮስ» ጊዳ።<verse eid="NEH 5:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="NEH 5:3"/>ቃሴካ ሃራቲ፥ «ኑ ቦላ ጋኪዳ ዎልቃማ ኮሻፔ ዴንዲዳይሳን ሼምፖ ኣሺዛ ካ ዴማና ጊዲ ኑስ ዲዛ ጋዴ፥ ዎይኔ ኣታኪልቴኔ ኑ ኬ ኡባ ኦይና ጋኪዶስ» ጊዳ።<verse eid="NEH 5:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="NEH 5:4"/>ባጋይቲ ቃሴካ፥ «ኑ ጋዴ ጊሻሲኔ ኑ ኣታኪልቴ ጊሻስ ካዎይ ኑና ጊራ ኦይቺን ኢዛ ቃንጻናስ ኣሳፔ ሚሽ ታልኢ ኤኪዶስ፤ <verse eid="NEH 5:4"/><verse number="5" style="v" sid="NEH 5:5"/>ኑ ዜሬኔ ኣይሁዳ ዜሬ ኢሲኖ፤ ኑ ናይታሲኔ ኢስታ ናይታስ ኣይኮ ዱማቴካ ባዋ፤ ጊዶ ኣቲን ኑ ዬሊዳ ናይታ ዶሳይ ባይንዳ ኣይሌቴስ ኣ ኢሚዶስ፤ ቃሴ ኑ ማጫ ናይታፔ ኢሲ ኢሲኖቲ ኣይሌ ጊዲዳ፤ ኑ ጋዴይኔ ዎይኔ ኣታኪልቴይ ኑፔ ኤኬቲዳ ጊሻስ ኑስ ዎልቃይ ባይንዳይታ ጊዲዶስ» ጊዲ ባንታ ሚሻ ቃንጊዳ።<verse eid="NEH 5:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="NEH 5:6"/>ታኒካ ኢስቲ ቃንጊዳ ቃላ ሲያዳ ኬሃ ሃንቄታዲስ። <verse eid="NEH 5:6"/><verse number="7" style="v" sid="NEH 5:7"/>ታኒ ኦና ቤሲዛዝ ታ ዎዚናን ቃቻዳ ዴሬ ካሌዛይታ፥ «ሄኮ ኢንቴ ኢንቴ ኢሻታ ቆሂዲ ኢስታፌ ዲች ሜታ» ጋዳ ኬሃ ሃንቄታዲስ፤ ሄ ሜቶዛ ቢርሻናስ ጋዳ ኣሳ ኢሲ ቦላ ሺሻዳ፥<note caller="-" style="x"><char style="xo" closed="false">5፡7 </char><char style="xt" closed="false"><ref loc="EXO 22:25">ኬሳ 22፡25</ref>፤ <ref loc="LEV 25:35-37">ሌዌ 25፡35-37</ref>፤ <ref loc="DEU 23:19-20">ዛሬ 23፡19-20</ref></char></note> <verse eid="NEH 5:7"/><verse number="8" style="v" sid="NEH 5:8"/>«ኣይዛቤታስ ባይዜቲዳ ኢንቴ ባጋ ጊዲዳ ኣይሁዳታ ዎዛናስ ኑስ ኑስ ዳንዳዬቲዳ ማላ ኦዶስ፤ ጊዶ ኣቲን ኢንቴ ኢንቴ ኢሻታ ኣይዛቤታስ ኣ ባይዜታ» ጋዳ ሃንቃዲስ፤ ካሌዛይቲካ ጋናዚ ዪን ጮኡ ጊዳ።<verse eid="NEH 5:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="NEH 5:9"/>ቃሴካ ካሌዳ ኢስታስ፥ «ሃይሲ ኢንቴ ኦዳ ኦሶዚ ዎጋ ጊዴና! ኢንቴ ጾሳስ ያዪዲ ሎኦ ኦሶ ኦናስ ቤሴስ፤ ሄሳ ኢንቴ ኦዳኮ ኑ ሞርኬ ጊዲዳ ኣይዛቤቲ ኑና ናጫናስ ዳንዳዬቴናኮሺን። <verse eid="NEH 5:9"/><verse number="10" style="v" sid="NEH 5:10"/>ታኒ ታናራ ኦዛ ታ ላጌቲኔ ታስ ኦዛ ታ ኦሳንቻቲ ኣሳታስ ሚሼ ጊዲን ዎይኮ ካ ጊዲን ታልኤ ኢሚዶስ፤ ሄሳ ጊሻስ፥ ‹ኢንቴ ታልኢ ኤኪዳይሳ ዲቻ ዛሪቴ› ጊ ኦይሾይ ኑፔ ኣቶ። <verse eid="NEH 5:10"/><verse number="11" style="v" sid="NEH 5:11"/>ኢንቴ ሚሽ ጊዲን፥ ካ ጊዲን ዎይኔኔ ዎጋራ ዛይቴ ጊዲን ኢስታስ ኢንቴ ታልኢ ኢሚዳ ኡባ ዲቻ ኣጋጊቴ፤ ኢስታ ጋዴ፥ ዎይኔኔ ዎጋራ ዛይቴ፥ ኢስታ ኣታኪልቴኔ ኢስታ ኬ ኡባ ኢስታስ ኤሌሲ ዛሪቴ!» ጋዲስ።<verse eid="NEH 5:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="NEH 5:12"/>ካሌዛይቲካ፥ «ኔ ኑና ኣዛዚዳ ማላ ኑ ኦና፤ ኢስታፌ ኑ ኤኪዳ ሚሽ ኡባ ዛራና፤ ኑፔ ኢስቲ ታልኢዳ ሚሽ ኑስ ጪጊቴ ጊዲ ኦይቾኮ» ጊዳ። ታኒካ ታኮ ቄሴታ ጼይጋዳ፥ ካሌዛይቲ ባ ኦና ጊዳ ቃላ ፖላናስ ኢስቲ ጫቂሳና ማላ ኢስታስ ዮታዲስ። <verse eid="NEH 5:12"/><verse number="13" style="v" sid="NEH 5:13"/>ሄሳፌ ጉዬ ታ ማይኢዳ ማይኦ ኬሳ ቆቆፋዳ፥ «ኣይ ኣሲካ ኢንቴ ጊዶፌ ባ ጌሊዳ ቃላ ፖሎንታ ኣጊዛ ጊዲኮ ጾሲ ኢዛ ኬኔ ሃሮ ሃይሳዳ ሜላ ኣሾ!» ታ ጊን ሄን ዲዛ ኣሳይ ዉሪ ኢሲ ቃላራ፥ «ኣሚን» ጊዲ ጾሳ ጋላቲዴስ፤ ካሌዛይቲካ ባ ጫቂዳ ቃላ ፖሊዳ።<verse eid="NEH 5:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="NEH 5:14"/>ካዎ ኣርጼኪሲሲ ካዎቲዳ ናምኡ ታማን ላይፌ ዶሚዲ ሄ ታማኔ ናምኡ ላይ ጋካናስ ዲዛ 12 ላይታ ጊዶን ታኒ ዩሁዳ ዴሬ ኩሜ ኣይሲዛ ኣስ ጊዳ ኡታዳ ታና ጊዲን ታ ዳቦታ ጊዲን ዴሬ ኣይሲዛዴስ ቤሲዛ ሚሽ ኣይኮካ ጎኤቲቤኮ። <verse eid="NEH 5:14"/><verse number="15" style="v" sid="NEH 5:15"/>ቃሴካ ታፔ ካሴ ዴሬ ኣይሲዛይቲ ኡባይ ዴራ ቦላ ጊታ ቶሆ ጊዲዲ ጋላስ ጋላስ ሚዛዚኔ ኡዪዛዚ ኢዛፔ ኣቲን ቦላራካ ኦይዱ ታሙ ሳቂሌ ቢራ ጪጊሲዳ፤ ሃራይ ኣቶሺን ኢስታ ኣይሌቲካ ዴራ ቦላ ኬሂ ጎዳቲዲ ዋዪሲዳ፤ ጊዶ ኣቲን ታኒ ጾሳስ ያዪዛ ጊሻስ ሄሳ ኦቤኬ። <verse eid="NEH 5:15"/><verse number="16" style="v" sid="NEH 5:16"/>ታስ ዲዛ ዎልቃ ኡባ ዬሩሳላሜ ጊምቤ ዛራ ጊምባናስ ኢማዲስ ኣቲን ታስ ኣይኮ ጋዴካ ሃራቤኬ፤ ታ ኦሳንቻቲካ ኡባይ ሄ ኦሶዛን ታናራ ኢሲፌ ኦዳ። <verse eid="NEH 5:16"/><verse number="17" style="v" sid="NEH 5:17"/>ኑ ማታን ዲዛ ካዎቴታፔ ዪዳ ኣሳቲ ኣቲን ታናራ ታ ካ ሚዛይቲ ኣይሁዳ ኣሳቲኔ ዴሬ ካሌዛይቲ ኢሲ ቦላ 150። <verse eid="NEH 5:17"/><verse number="18" style="v" sid="NEH 5:18"/>ጋላስ ጋላስ ኢሲ ቦራ፥ ዶሬቲዳ ኡሱፑን ዶርሲኔ ዳሮ ኩቶታ ሹካ ኢስታስ ሺሻይስ፤ ቃሴካ ታሙ ጋላሳፌ ኢሲ ጋላስ ሎኦ ዎይኔ ኡሹ ኢስታስ ጊጊሳይስ፤ ጊዶ ኣቲን ዴራ ቦላ ቶሆይ ዳሪዳይሳ ታ ኤሪዛ ጊሻስ ዴሬ ኣይሲዛዴስ ቤሲዛ ሚሽ ታስ ኦይቻቤኬ።<verse eid="NEH 5:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="NEH 5:19"/>ታ ጎዳዉ! ታኒ ሃ ዴራስ ኦዳ ሎኦ ኦሶ ማላ ኔ ታስ ኪያቴ ኦ።<verse eid="NEH 5:19"/></para>
+  <chapter eid="NEH 5"/>
+  <chapter number="6" style="c" sid="NEH 6"/>
+  <para style="s">ናሂሚያ ቦላ ዴንዲዳ ሃራ ሴራ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="NEH 6:1"/>ሳንባላጼይ፥ ጾቢያይ፥ ኣራቤ ዴሬ ኣስ ጌሻሜይኔ ሃራ ኑ ሞርኬቲካ ታኒ ጊምቤዛ ጊምባ ዉርሲዳይሳኔ ኦሴቶንታ ኣቲዳ ፓጬሶይ ባይንዳይሳ ሲዪዳ፤ ጊዶ ኣቲን ታኒ ቡሮ ጊምቤ ፔንጌታስ ሳንቃታ ጌልቤኬ። <verse eid="NEH 6:1"/><verse number="2" style="v" sid="NEH 6:2"/>ሄሳፌ ዴንዲዳይሳን ሳንባላጼይኔ ጌሻሜይ፥ «ኦኖ ዴምባን ኢሲ ሄራን ያዳ ኑናራ ጋይታ» ጊዲ ኪታ ታስ ዬዲዳ፤ ኢስቲ ሄሳ ጊዳይ ታ ቦላ ቆሆ ጋናሳ። <verse eid="NEH 6:2"/><verse number="3" style="v" sid="NEH 6:3"/>ታኒካ፥ «ታስ ዳሮ ኦሶይ ዲዛ ጊሻስ ኦሳ ኣጋዳ ኢንቴ ጊዛሶ ባና ዳንዳይኬ፤ ታ ኣጋ ቢን ኦሶይ ኣይስ ኤቂዜ?» ጋዳ ታኮ ኪቴቲ ዪዳ ኣሳታስ ዮታ ዬዳዲስ።<verse eid="NEH 6:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="NEH 6:4"/>ሄሳ ማላ ኪታ ታስ ኢስቲ ኦይዱቶ ዛሪ ዛሪ ኪቲን ታኒካ ኢስታስ ካሴይሳ ዛራ ዬዳዲስ።<verse eid="NEH 6:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="NEH 6:5"/>ቃሴካ ሳንባላጼይ ኢቻሻን ዩሾ ባ ኣይሌታፔ ኢሳ ቦላ ማታሜይ ሾጬቶንታኔ ጮ ዶያ ዲዛ ዳብዳቤ ታስ ዬዲዴስ።<verse eid="NEH 6:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="NEH 6:6"/>ኢዚ ዬዲዳ ዳብዳቤዚ፥ «ኔኒኔ ኣይሁዳ ኣሳቲ ማካላቴ ዴንናስ ቆፒዳይሳኔ ኢንቴ ጊምቤዛ ጊምቢዛይሲ ኑ ሄራን ዲዛ ካዎቴ ኣቻን ዎሬቲዛይሳ ጌሻሜይ ሲዪዲ ታስ ዮቲዴስ፤ ቃሴ ኔ ካዎታና ቆፒዳይሳኔ <verse eid="NEH 6:6"/><verse number="7" style="v" sid="NEH 6:7"/>ኔ ዩሁዳ ካዎ ጊዲዳይሳ ዬሩሳላሜን ኣሳይ ኣዋጃና ማላ ናቤታ ኔ ጊግሲዳይሳ ጌሻሜይ ታስ ዮቲዴስ፤ ሄሳ ካዎዚ ሲያናይሲ ኤሬቲዳ ሚሽ ጊዲዳ ጊሻስ ታኒኔ ኔኒ ኢሲፌ ጋይቲዲ ሄ ዮኦዛ ቦላ ኑ ሃሳዬቲዳኮ ሎኦ» ጌስ።<verse eid="NEH 6:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="NEH 6:8"/>ታኒካ፥ «ሃይሲ ኔ ጊዛይሲ ቱሙ ጊዶንታ ኔኒ ኔፔ ሜ ኤኪዳ ዎርዶ ዮኦ» ጋ ዛራዲስ።<verse eid="NEH 6:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="NEH 6:9"/>ኡባይካ፥ «ኢስታ ኩሼይ ኢጼቲኮ ኦሶይ ፖሌቶንታ ኣታና» ጊዲ ታና ሂርጊሳናስ ፓጪዳ፤ ታኒ ጊዲኮ፥ «ታ ጾሳዉ! ታ ዎዚና ኔኒ ሚን» ጋዳ ዎሳዲስ።<verse eid="NEH 6:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="NEH 6:10"/>ሄ ዎዴ ኢዛ ቦላ ኢዛ ኬ ካሬይ ጎርዴቲን ዲዛ ማሄጻቢኤሌ ናዛ ና ዳላያ ና ሻማያኮ ባዲስ፤ ኢዚካ «ኔና ዎና ኦማርሳታፔ ኢሲ ኦማርስ ዪዛ ጊሻስ ታኒኔ ኔኒ ጾሳ ኬ ጌሊ ኑ ቦላ ፔንጌታ ጎርዲዲ ኣኔ ቆቴቶስ» ጊዴስ።<verse eid="NEH 6:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="NEH 6:11"/>ጊዶ ኣቲን ታኒ፥ «ታ ማላ ኣሲ ባቃቲ ቆቴቲ ኤሪዜ? ታ ማላ ኣሲ ባ ሼምፖ ኣሻና ጊዲ ጾሳ ኬ ጌሊ ቆቴታና ቤሲዜ? ሃይሳ ኡባካ ታ ሃኒኬ!» ጋ ዛራዲስ። <verse eid="NEH 6:11"/><verse number="12" style="v" sid="NEH 6:12"/>ሃ ዞሬዛ ታ ዩሻ ቆፒሺን ሻማያይ ሃይሳ ማላ ዎርዶ ዮኦ ታስ ዮታና ማላ ጾቢያይኔ ሳንባላጼይ ሚሻን ኢዛ ባሌዳ ጊሻስ ኣቲን ኢዚ ጾሳፌ ኪቴቲዳ ኣስ ጊዶንታይሳ ታ ሻካ ኤራዲስ። <verse eid="NEH 6:12"/><verse number="13" style="v" sid="NEH 6:13"/>ኢዚ ሚሻን ሻሜቲዲ ሄሳ ኦዳይ ታና ባቢሲዲ ናጋራ ኦሲሳናሲኔ ታ ሱን ሞሬታና ማላ ኮዪዳ ጊሻሳ።<verse eid="NEH 6:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="NEH 6:14"/>ታኒካ፥ «ጾሳዉ! ጾቢያይኔ ሳንባላጼይ ኦዳይሳ ኔ ቤያ፤ ቃሴ ኢስታ ቦላካ ኔ ፒርዳ፤ ኖኣዶ ጌቴቲዛ ማጫሳ ናቤያኔ ሃራ ዎርዶ ናቤቲ ታና ባቢሳና ጊዲ ኦዳ ኦሶ ኡባ ኔ ቆፓ» ጋዳ ዎሳዲስ።<verse eid="NEH 6:14"/></para>
+  <para style="s">ዲርሳ ጊምቤ ጊጎ</para>
+  <para style="p">
+    <verse number="15" style="v" sid="NEH 6:15"/>ኦሶዚ ዶሜቲዳፔ ኢቻሽ ታማኔ ናምኣን ጋላስ ኤሉሌ ጌቴቲዛ ኣጊናይ ጌሊን ናምኡ ታማኔ ኢቻሻን ጋላስ ጊምቤዛ ኦሶ ኡባይ ኦሴቲ ጊጊዴስ። <verse eid="NEH 6:15"/><verse number="16" style="v" sid="NEH 6:16"/>ኑ ዩሾን ዲዛ ካዎቴ ጊዶን ዲዛ ኑ ሞርኬቲ ኦሶዚ ጾሲ ማዲን ፖሌቲዳይሳ ሲዪዲ ኬሂ ሂርጊዲ ያዪዳ።<verse eid="NEH 6:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="NEH 6:17"/>ሄ ዎዴ ዩሁዳ ዴሬ ካሌዛይቲ ጾቢያስ ዳሮ ዳብዳቤ ጻፊን ኢዚ ኢስታስ ዛሮ ጻፊዴስ። <verse eid="NEH 6:17"/><verse number="18" style="v" sid="NEH 6:18"/>ጋሶይካ ኣራሄ ና ሻካኒያይ ጾቢያ ቦሎ ጊዲዳ ጊሻሲኔ ኢዛ ና ዪሆሃናኔይካ ባራካዬ ና ማሹላሜ ናዮ ማቾ ኤኪዳ ጊሻስ ዩሁዳ ዴሬፔ ዳሮ ኣሳይ ኢዛራ ጫቆ ቃላ ጌሊዴስ። <verse eid="NEH 6:18"/><verse number="19" style="v" sid="NEH 6:19"/>ሄ ኣሳቲ ጾቢያይ ኦዳ ሎኦ ኦሶታ ታ ሲንንካ ናሺዳ፤ ታ ጊዛይሳካ ኡባ ኢዛስ ኤፊ ኤፊ ዮቴቴስ፤ ሄሳፌ ዴንዲዳይሳን ኢዚካ ታና ባቢሳና ጊዲ ዳብዳቤታ ዳሮ ዎዴ ዬዲዴስ።<verse eid="NEH 6:19"/></para>
+  <chapter eid="NEH 6"/>
+  <chapter number="7" style="c" sid="NEH 7"/>
+  <para style="p">
+    <verse number="1" style="v" sid="NEH 7:1"/>ጊምባ ኦሶይ ኦሴቲ ጊጊዴስ፤ ፔንጌ ሳንቃቲ ባ ዲዛሶን ዲዛሶን ጌሊዳ፤ ጾሳ ኬ ናጊዛ ዛቤታስ፥ ዬ ዬጺዛይታሲኔ ሌዌ ባጋታስ ኢስታ ጊሻ ጊሻ ኦሶይ ኢሜቲዴስ። <verse eid="NEH 7:1"/><verse number="2" style="v" sid="NEH 7:2"/>ታኒካ ዬሩሳላሜ ካታማ ኣይሳና ማላ ታ ኢሻ ሃናኔኔ ሚጻ ናጊዛ ሃናኒያ ዶራ ዎዲስ፤ ጺሎቴኒኔ ጾሳስ ያሻቴን ሃናኒያይ ማላይ ዴና። <verse eid="NEH 7:2"/><verse number="3" style="v" sid="NEH 7:3"/>ታ ኢስታስ ዬሩሳላሜ ጊምቤ ፔንጌቲ ጻልቄይ ኬዛና ጋካናስ ዶዬቶንታ ማላኔ ኣርሼይ ዉሊዛ ዎዴ ዛቤቲ ባሶ ባናፔ ሲንን ጊምባ ፔንጌታ ሎኤ ጎርዳና ማላ ኣዛዛዲስ፤ ቃሴካ ዬሩሳላሜን ዲዛ ኣሳ ጊዶፌ ናጊዛ ዛቤታ ዴሬይ ዶሪዲ ዎና ማላ ኢስታፌ ባጋይታ ኢሲ ኢሲ ሄራስ ኣላፌ ኦ ዎና ማላኔ ሃንኮ ኣቲዳይታ ባንታ ኬ ካሬን ናጋና ማላ ዮታዲስ።<verse eid="NEH 7:3"/></para>
+  <para style="s">ዲኤቴፌ ሲሚዳ ኣሳታ ሱን</para>
+  <para style="p">
+    <verse number="4" style="v" sid="NEH 7:4"/>ዬሩሳላሜይ ኣሆኔ ጊታ ካታማ፤ ጊዶ ኣቲን ኢዚን ዲዛ ኣሳ ቆዳይ ጉ ጊዲዳ ጊሻስ ዳሮ ኬቲ ቡሮ ኬጼቲቤቴና። <verse eid="NEH 7:4"/><verse number="5" style="v" sid="NEH 7:5"/>ጾሳይ ዴሬዛ፥ ዴራ ኣይሲዛይታኔ ሹሜታ ታ ሺሻዳ ኢስታ ዬሌታ ዛርኬይ ዋኒ ዋኒ ጻፌቲዳኮ ታ ጼላና ማላ ታና ቆፍሲዴስ፤ ሄሳ ጊሻስ ካሴ ዲኤቴፌ ሲሚዳ ኣሳታ ማዝጋባ ዴማዲስ፤ ታ ዴሚዳ ማዝጋባይ ሃይሳፌ ካሊዛይሳ፤<verse eid="NEH 7:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="NEH 7:6"/>ባቢሎኔ ካዎ ናቡካዳናጾሬይ ዲኢዲ ባ ዴሬ ኤፊዳ ኣሳታፔ ጉዬ ባ ካታማ ካታማ ዬሩሳላሜኔ ዩሁዳ ሲሚዳ ኣሳቲ ሃይሳፌ ካሊዛይታ፤ <verse eid="NEH 7:6"/><verse number="7" style="v" sid="NEH 7:7"/>ኢስቲ ሲሚሺን ኢስታ ካሌ ኤሂዳ ኣሳቲ ዜሩባቤሌ፥ ኢያሶ፥ ናሂሚያ፥ ኣዛሪያሳ፥ ኤራኢሜ፥ ናሆሜ፥ ማርዲኪዮሳ፥ ባልሻኔ፥ ሚሲፋሬ፥ ቢጉዋዬ፥ ኑሁሜኔ ባኣና።<verse eid="NEH 7:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="NEH 7:8"/>ዲኤቴፌ ሲሚዳ ኢስራኤሌ ኣሳ ዛርኬፌ ጻፌቲዳ ዜሬታ ቆዳይ ሃይሳፌ ካሊዛይሳ፤ ፓሮሴ ዜሬፌ 2,172፤ <verse eid="NEH 7:8"/><verse number="9" style="v" sid="NEH 7:9"/>ሻፋጺያ ዜሬፌ 372፤ <verse eid="NEH 7:9"/><verse number="10" style="v" sid="NEH 7:10"/>ኣራሄ ዜሬፌ 652፤ <verse eid="NEH 7:10"/><verse number="11" style="v" sid="NEH 7:11"/>ኢያሶፔኔ ኢዮኣቤ ዜሬ ጊዲዳ ፓሃቴ-ሞኣቤ ዜሬቲ 2,818። <verse eid="NEH 7:11"/><verse number="12" style="v" sid="NEH 7:12"/>ኤላሜ ዜሬፌ 1,254፤ <verse eid="NEH 7:12"/><verse number="13" style="v" sid="NEH 7:13"/>ዛቶ ዜሬፌ 845፤ <verse eid="NEH 7:13"/><verse number="14" style="v" sid="NEH 7:14"/>ዛካዬ ዜሬፌ 760፤ <verse eid="NEH 7:14"/><verse number="15" style="v" sid="NEH 7:15"/>ቢኑዌ ዜሬፌ 648፤ <verse eid="NEH 7:15"/><verse number="16" style="v" sid="NEH 7:16"/>ቤባዬ ዜሬፌ 628፤ <verse eid="NEH 7:16"/><verse number="17" style="v" sid="NEH 7:17"/>ኣዝጋዴ ዜሬፌ 2,322፤ <verse eid="NEH 7:17"/><verse number="18" style="v" sid="NEH 7:18"/>ኣዶንቃሜ ዜሬፌ 667፤ <verse eid="NEH 7:18"/><verse number="19" style="v" sid="NEH 7:19"/>ቢጉዋዬ ዜሬፌ 2,067፤ <verse eid="NEH 7:19"/><verse number="20" style="v" sid="NEH 7:20"/>ኣዲኔ ዜሬፌ 655፤ <verse eid="NEH 7:20"/><verse number="21" style="v" sid="NEH 7:21"/>ሂዝቂያሳ ጌቴቲ ጼይጌቲዛ ኣጻሬ ዜሬፌ 98፤ <verse eid="NEH 7:21"/><verse number="22" style="v" sid="NEH 7:22"/>ሃሹሜ ዜሬፌ 328፤ <verse eid="NEH 7:22"/><verse number="23" style="v" sid="NEH 7:23"/>ቤሳዬ ዜሬፌ 324፤ <verse eid="NEH 7:23"/><verse number="24" style="v" sid="NEH 7:24"/>ሃርፔ ዜሬፌ 102፤ <verse eid="NEH 7:24"/><verse number="25" style="v" sid="NEH 7:25"/>ጌባኦኔ ዜሬፌ 95፤<verse eid="NEH 7:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="NEH 7:26"/>ካሴ ኢስታ ኣዋቲ ሃይሳፌ ካሊዛ ካታማታን ዲዛይቲ ዲኤቴፌ ሲሚዳ፤ ቤቴሊሄሜፔኔ ናጾፌ ዴሬ ኣሳታፔ 188፤ <verse eid="NEH 7:26"/><verse number="27" style="v" sid="NEH 7:27"/>ኣናቶቴ ዴሬ ኣሳታፔ 128፤ <verse eid="NEH 7:27"/><verse number="28" style="v" sid="NEH 7:28"/>ቤቲ-ኣዚሞቴ ዴሬ ኣሳታፔ 42፤ <verse eid="NEH 7:28"/><verse number="29" style="v" sid="NEH 7:29"/>ቂሪያቴ-ዪኣሪሜ፥ ካፊሬኔ ቢኤሮቴ ዴሬ ኣሳታፔ 743 <verse eid="NEH 7:29"/><verse number="30" style="v" sid="NEH 7:30"/>ኤራማፔኔ ጌባ ዴሬ ኣሳታፔ 621፤ <verse eid="NEH 7:30"/><verse number="31" style="v" sid="NEH 7:31"/>ማኪማሴ ዴሬ ኣሳታፔ 122፤ <verse eid="NEH 7:31"/><verse number="32" style="v" sid="NEH 7:32"/>ቤቴሌፔኔ ኣዬ ዴሬ ኣሳታፔ 123፤ <verse eid="NEH 7:32"/><verse number="33" style="v" sid="NEH 7:33"/>ኔቦ ጌቴቲዛ ናምኣን ዴሬን ዲዛ ኣሳታፔ 52፤ <verse eid="NEH 7:33"/><verse number="34" style="v" sid="NEH 7:34"/>ኤላሜ ጌቴቲዛ ናምኣን ዴሬን ዲዛ ኣሳታፔ 1,254፥ <verse eid="NEH 7:34"/><verse number="35" style="v" sid="NEH 7:35"/>ሃሪሜ ዴሬ ኣሳታፔ 320፤ <verse eid="NEH 7:35"/><verse number="36" style="v" sid="NEH 7:36"/>ኢያርኮ ዴሬ ኣሳታፔ 345፤ <verse eid="NEH 7:36"/><verse number="37" style="v" sid="NEH 7:37"/>ሎዳ፥ ሃዲዴኒኔ ኦኖ ዴሬ ኣሳታፔ 721፤ <verse eid="NEH 7:37"/><verse number="38" style="v" sid="NEH 7:38"/>ሳናኣ ዴሬ ኣሳታፔ 3,930።<verse eid="NEH 7:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="NEH 7:39"/>ዲኤቴፌ ሲሚዳ ቄሴታ ዜሬቲ ሃይሳፌ ካሊ ዲዛይታ፤ ኢያሶ ዜሬ ጊዲዳ ያዳያ ዜሬፌ 973፥ <verse eid="NEH 7:39"/><verse number="40" style="v" sid="NEH 7:40"/>ኢሜሬ ዜሬፌ 1,052፥ <verse eid="NEH 7:40"/><verse number="41" style="v" sid="NEH 7:41"/>ፓሽኩሬ ዜሬፌ 1,247፥ <verse eid="NEH 7:41"/><verse number="42" style="v" sid="NEH 7:42"/>ሃሪሜ ዜሬፌ 1,017።<verse eid="NEH 7:42"/></para>
+  <para style="p">
+    <verse number="43" style="v" sid="NEH 7:43"/>ዲኤቴፌ ሲሚዳ ሌዌ ዜሬቲ ሃይሳፌ ካሊ ዲዛይታ፤ ሆዳዬ ዜሬ ጊዲዳ ኢያሶፔኔ ቃዲምኤሌ ዜሬፌ 704። <verse eid="NEH 7:43"/><verse number="44" style="v" sid="NEH 7:44"/>ዲኤቴፌ ሲሚዳ ዬ ዬጺዛይቲ ሃይሳፌ ካሊ ዲዛይታ፤ ኣሳፌ ዜሬታፔ 148። <verse eid="NEH 7:44"/><verse number="45" style="v" sid="NEH 7:45"/>ዲኤቴፌ ሲሚዳ ጾሳ ኬ ፔንጌ ናጊዛ ዛቤታ ዜሬቲ ሃይሳፌ ካሊ ዲዛይታ፤ ጻልሞኔ፥ ኣጻሬ፥ ሻሎሜ፥ ኣቁቤ፥ ሃጺጼኔ ሾባዬ ዜሬታፔ 138።<verse eid="NEH 7:45"/></para>
+  <para style="p">
+    <verse number="46" style="v" sid="NEH 7:46"/>ዲኤቴፌ ሲሚዳ ጾሳ ኬ ኦሳንቻታ ዜሬቲ ሃይሳፌ ካሊ ዲዛይታ፤ ጺሃ፥ ሃሱጳ፥ ጻባኦቴ፥ <verse eid="NEH 7:46"/><verse number="47" style="v" sid="NEH 7:47"/>ቂሮሴ፥ ሲኣ፥ ፓዶኔ፥ <verse eid="NEH 7:47"/><verse number="48" style="v" sid="NEH 7:48"/>ሌባና፥ ሃጋቤ፥ ሻሚላዬ፥ <verse eid="NEH 7:48"/><verse number="49" style="v" sid="NEH 7:49"/>ሃናኔ፥ ጊዴሌ፥ ጋሃሬ፥ <verse eid="NEH 7:49"/><verse number="50" style="v" sid="NEH 7:50"/>ኤራኣዬ፥ ኤራሶኔ፥ ኔቆዳ፥ <verse eid="NEH 7:50"/><verse number="51" style="v" sid="NEH 7:51"/>ጋዛሜ፥ ኦዛ፥ ፋሳሄ፥ <verse eid="NEH 7:51"/><verse number="52" style="v" sid="NEH 7:52"/>ቤሳዬ፥ ማኡኔ፥ ናፋሺሲሜ፥ <verse eid="NEH 7:52"/><verse number="53" style="v" sid="NEH 7:53"/>ባቂቡቄ፥ ሃቁፋ፥ ሃሪሁሬ፥ <verse eid="NEH 7:53"/><verse number="54" style="v" sid="NEH 7:54"/>ባጺልቴ፥ ማሂዳ፥ ሃርሻ፥ <verse eid="NEH 7:54"/><verse number="55" style="v" sid="NEH 7:55"/>ባርቆሳ፥ ሲሳራ፥ ቴማሄ፥ <verse eid="NEH 7:55"/><verse number="56" style="v" sid="NEH 7:56"/>ኔጺሃ፥ ሃጺፋ።<verse eid="NEH 7:56"/></para>
+  <para style="p">
+    <verse number="57" style="v" sid="NEH 7:57"/>ዲኤቴፌ ሲሚዳ ሶሎሞኔ ኦሳንቻታ ዜሬቲ ሃይሳፌ ካሊ ዲዛይታ፤ ሶጻዬ፥ ሶፌሬቴ፥ ፔሪዳ፥ <verse eid="NEH 7:57"/><verse number="58" style="v" sid="NEH 7:58"/>ያኢላ፥ ዳርቆኔ፥ ጊዴሌ፥ <verse eid="NEH 7:58"/><verse number="59" style="v" sid="NEH 7:59"/>ሻፋጺያ፥ ሃጺላ፥ ፖኬሬቴ-ሃጼባሜኔ ኣሞኔ።<verse eid="NEH 7:59"/></para>
+  <para style="p">
+    <verse number="60" style="v" sid="NEH 7:60"/>ዲኤቴፌ ሲሚዳ ጾሳ ኬ ኦሳንቻታ ቆዳይኔ ሶሎሞኔ ኦሳንቻታ ቆዳይ ኢሲ ቦላ 392። <verse eid="NEH 7:60"/><verse number="61-62" style="v" sid="NEH 7:61-62"/>ቴሊ-ሜላ፥ ቴሊ-ሃርሻ፥ ኪሩቤ፥ ኣዶኔኔ ኢሜሬ ጌቴቲዛ ጋጻሬ ካታማታፔ ሲሚዳይቲ ዳላያ፥ ጾቢያኔ ኔቆዳ ዜሬታ ቆዳይ ኢሲ ቦላ 642፤ ጊዶ ኣቲን ሄይቲ ኡባይ ኢስራኤሌ ዜሬ ጊዲዳይሳ ኤሪሳናስ ዳንዳይዛ ሚሺ ዴና።<verse eid="NEH 7:61-62"/></para>
+  <para style="p">
+    <verse number="63-64" style="v" sid="NEH 7:63-64"/>ሃይሳፌ ካሊ ዲዛ ቄሴታ ዜሬቲ ካሴ ባ ኣዋታ ዜሬ ዛርኬ ሻኪ ኤሪሳናስ ዳንዳይቤቴና፤ ኢስቲካ ሃባዬ፥ ሃቆጼ፥ ባርዚሌ፤ ቄሴታ ባጋ ጊዲዳ ባርዚሌዬስ ካሴ ኣዋይ ጋላኣዴ ዴሬን ዬሌቲዳ ባርዚሌ ዜሬፌ ኢሲ ማጫሳዮ ኤኪዳ ጊሻስ ባ ማቼይ ኣዋ ቆሞ ሱንን ጼይጌታና ዳንዳይዴስ። ካሴ ባ ኣዋታ ዬሌታ ዛርኬ ሻኪ ኤሪሳናስ ዳንዳዮንታ ኣጊዳ ጊሻስ ጌዮንታ ኣሳ ማላ ቆዴቲዲ ቄሴቴን ኦናስ ዳንዳይቤቴና። <verse eid="NEH 7:63-64"/><verse number="65" style="v" sid="NEH 7:65"/>ሄሳ ጊሻስ ዩሁዳ ዴሬ ኣይሲዛዴይ ኡሪሜኒኔ ቱሚሜን<note caller="+" style="f"><char style="fr" closed="false">7፡65 </char><char style="ft" closed="false">ኡሪሜይኔ ቱሚሜይ ቄሴታ ማይኦስ ሲን ባጋራ ቲራ ኪሴን ኡቲዲ ኢስቲ ጾሳ ሼኔ ሻኪ ኤራና ማላ ማዲዛ ሚሻታ።</char></note> ጾሳስ ኦዛ ቄሴይ ዴንዳና ጋካናስ ጾሳስ ሺቂዛ ያርሾፌ፥ ካፌ ኦኒካ ማናስ ዳንዳዮንታይሳ ኢስታስ ዮቲዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡65 </char><char style="xt" closed="false"><ref loc="EXO 28:30">ኬሳ 28፡30</ref>፤ <ref loc="DEU 33:8">ዛሬ 33፡8</ref></char></note> <verse eid="NEH 7:65"/><verse number="66" style="v" sid="NEH 7:66"/>ዲኤቴፌ ሲሚዳ ኣሳ ኩሜ ቆዳይ ኢሲ ቦላ 42,360 <verse eid="NEH 7:66"/><verse number="67" style="v" sid="NEH 7:67"/>ቃሴካ ኢስታ ኦሳንቻታ፥ ማጫሳታኔ ኣቱማሳታ ቆዳይ 7,337 ቃሴ ማዛሙሬ ዬጺዛ ማጫሳቲኔ ኣቱማሳታ ቆዳይ ኢሲ ቦላ 245 <verse eid="NEH 7:67"/><verse number="68" style="v" sid="NEH 7:68"/>ፓራቲ 736፥ ባቁሎቲ 245 <verse eid="NEH 7:68"/><verse number="69" style="v" sid="NEH 7:69"/>ጋሜላቲ 435፥ ሃሬቲ 6,720።<verse eid="NEH 7:69"/></para>
+  <para style="p">
+    <verse number="70" style="v" sid="NEH 7:70"/>ኢሲ ኢሲ ኬ ኣዋቲ ጾሳ ኬ ኦሶስ ኢሞታ ሺሺዳ፤ ኢስታ ጊዶፌ ዴሬዛ ኣይሲዛይሲ ጌዳራን 8 ኪሎኔ ባጋ ጊዲዛ ዎርቃ፥ 50 ጉቃ ሳኔ፥ 530 ቄሴታ ማይኦ ኢሚዴስ። <verse eid="NEH 7:70"/><verse number="71" style="v" sid="NEH 7:71"/>ኬ ኣዋቲካ ጌዳራን 168 ኪሎ ጊዲዛ ዎርቃኔ 1,250 ኪሎ ጊዲዛ ቢራ ኢሚዳ። <verse eid="NEH 7:71"/><verse number="72" style="v" sid="NEH 7:72"/>ኣቲዳ ኣሳቲ 168 ኪሎ ጊዲዛ ዎርቃ 1,100 ኪሎ ጊዲዛ ቢራኔ 67 ቄሴታ ማይኦታካ ኢሚዳ። <verse eid="NEH 7:72"/><verse number="73" style="v" sid="NEH 7:73"/>ቄሴቲ፥ ሌዌቲ፥ ጾሳ ኬ ጊቤ ናጊዛ ዛቤቲ፥ ዬ ዬጺዛይቲ ዴራፔ ዳሪዛ ባጋይኔ ጾሳ ኬን ኦዛይቲ ኡባይ ኢሲ ቦላ ኢስራኤሌ ዴሬ ኣሳይ ባ ካታማን ካታማን ጌሊ ዴኢዴስ።<note caller="-" style="x"><char style="xo" closed="false">7፡73 </char><char style="xt" closed="false"><ref loc="1CH 9:2">1ታሪ 9፡2</ref>፤ <ref loc="NEH 11:3">ናሂ 11፡3</ref></char></note><verse eid="NEH 7:73"/></para>
+  <chapter eid="NEH 7"/>
+  <chapter number="8" style="c" sid="NEH 8"/>
+  <para style="s">ጾሳ ዎጋ ማጻፋ ናባቤቴ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="NEH 8:1"/>ኢስራኤሌ ዴሬይ ላፑን ኣጊናን ባ ዲዛ ካታማን ካታማን ኡቲዴስ፤ ሄ ኣጊናን ኮይሮ ጋላስ ዬሩሳላሜን ሃ ፔንጌ ጌቴቲዛሶን ጋ ባጋራ ኣሳይ ኢሲ ዎዚናን ጊዲዲ ኢሲ ቦላ ሺቂዴስ፤ ኢስቲካ ጾሳ ዎጋ ማጻፋ ኤራንቻ ጊዲዳ ኣስታማሬ ኢዝራይ ጾሳይ ኢስራኤሌስ ኣዛዚዳ ዎጋ ማጻፋ ኢስታስ ኤሃና ማላ ኦይቺዳ። <verse eid="NEH 8:1"/><verse number="2" style="v" sid="NEH 8:2"/>ሄሳ ጊሻስ ኢዝራይ ላፑን ኣጊናይ ጌሊዳ ኮይሮ ጋላስ ሎኤ ኣኬካናዉ ዳንዳይዛ ኣሲ ኡባይ፥ ማጫይ፥ ኣቱማይ ዉሪ ሺቂዳሶ ዎጋ ማጻፋ ኤኪ ዪዴስ። <verse eid="NEH 8:2"/><verse number="3" style="v" sid="NEH 8:3"/>ሄ ዴምባን ኢዝራይ ጊምቤ ፔንጌ ጌቴቲዛይሳ ማታን ኤቂዲ ዎንታ ማላዶፔ ሴታ ጋላስ ጋካናስ ዎጋ ማጻፋ ኣኬካናስ ዳንዳይዛ ኣሳ ኡባ ሲንን ባ ቃላ ቁ ሂስቲ ናባቢዴስ፤ ዴሬይ ዉሪ ሎኤ ሲዪዴስ።<verse eid="NEH 8:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="NEH 8:4"/>ሄ ኦሶዛስ ኢንጄ ጊዳና ማላ ኢዝራይ ሚፌ ኦሴቲዳ ቃሶሆን ኤቂዴስ፤ ኢዛስ ኡሻቻ ባጋራ ኤቂዳ ኣሳቲ ማቲቲያ፥ ሼማኤ፥ ኣናያ፥ ኡሪያ፥ ሂልቂያኔ ማኢሳያ ጊዲሺን ሃዲርሳ ባጋራ ኤቂዳይቲ ፓዳያ፥ ሚሻኤሌ፥ ማልኪያ፥ ሃሹሜ፥ ሃሺባዳኔ፥ ዛካራሳኔ ማሹላሜ።<verse eid="NEH 8:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="NEH 8:5"/>ኢዝራይ ቁ ጊዲ ኦሴቲዳ ማዲራኬዛ ቦላ ኬዚ ኤቂዳ ዎዴ ኣሳይ ዉሪ ኢዛ ቲሺ ሂስቲ ጼሊዴስ፤ ኢዚ ዎጋ ማጻፋ ዶይዳ ማላ ኡባ ኣሳይ ባ ኡቲዳሶሆፔ ዴንዲ ኤቂዴስ። <verse eid="NEH 8:5"/><verse number="6" style="v" sid="NEH 8:6"/>ኢዝራይ ጊታ ጾሳ ጋላቲዴስ፤ ኣሳይ ዉሪ ባ ኩሼ ፑዴ ዴንዲ «ኣሚን! ኣሚን!» ጊ ዛሪዴስ፤ ቢታ ቦላ ዉሪ ጉፋኒዲ ጾሳስ ጎይኒዴስ።<verse eid="NEH 8:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="NEH 8:7"/>ሄሳፌ ጉዬ ኣሳይ ባ ዲዛሶን ዲዛሶን ዴንዲ ኤቂዴስ፤ ሃይሳፌ ካሊ ሱንይ ጻፌቲዳ ሌዌ ባጋቲ ዎጋ ማጻፋ ዴራስ ናባቢዳ፤ ኢስቲካ ኢያሶ፥ ባኔ፥ ሼሬቢያ፥ ያሚኔ፥ ኣቁቤ፥ ሳባታ፥ ሆዲያ፥ ማኢሳያ፥ ቃሊጻ፥ ኣዛሪያሳ፥ ዮዛባዴ፥ ሃናኔኔ ፓላዬ። <verse eid="NEH 8:7"/><verse number="8" style="v" sid="NEH 8:8"/>ኢስቲካ ኣሳስ ናባቤቲዳ ጾሳ ዎጋ ማጻፋይ ሎኢ ጌላና ማላ ሎኤ ቢርሺ ዮቲዳ።<verse eid="NEH 8:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="NEH 8:9"/>ጾሳ ዎጋ ኣሳይ ሲዪዳ ማላ ዬኪዳ ጊሻስ ዴሬ ኣይሲዛ ናሂሚያይ፥ ቄሴኔ ዎጋ ሎኤ ኤሪዛ ኢዝራይ፥ ዴራ ታማርሲዛ ሌዌ ባጋቲ «ሃና ጋላሳያ ኢንቴ ጾሳስ ዱማቲዳ ጋላስ ጊዲዳ ጊሻስ ጬጮፒቴኔ ዬኮፍቴ» ጊዳ። <verse eid="NEH 8:9"/><verse number="10" style="v" sid="NEH 8:10"/>ናሂሚያይ፥ «ቢዲ ሎኦ ካ ሚቴ፤ ቃሴ ማልኢዛ ኡሹ ኡዪ ኡፋዬቲቴ፤ ኣይኮይ ባይንዳይታስ ኢንቴስ ዲዛይሳፌ ኢሚቴ፤ ሃይሲ ኑ ጾሳስ ኣንጄቲዳ ጋላሳ፤ ጾሳ ኡፋይሳይ ኢንቴስ ዎልቃ ጊዲዳ ጊሻስ ጬጮፒቴ» ጊዴስ።<verse eid="NEH 8:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="NEH 8:11"/>ሌዌ ባጋቲ፥ «ሃ ኣንጄቲዳ ጋላስ ኢንቴ ጬጫና ቤሴና» ጊዲ ዴራ ሃይዚሲዳ። <verse eid="NEH 8:11"/><verse number="12" style="v" sid="NEH 8:12"/>ኣሳይ ባ ሲዪዳ ቃላ ሎኤ ኤሪዳ ጊሻስ ባሶ ቢዲ ካ ሚዲኔ ሃ ኡዪ ኡፋዬቲዲ ባስ ዲዛ ካፌ ሃራታስ ሻኪ ኢሚዴስ።<verse eid="NEH 8:12"/></para>
+  <para style="s">ዳሴ ባኣሌ ቦንቼቴ</para>
+  <para style="p">
+    <verse number="13" style="v" sid="NEH 8:13"/>ላፑን ኣጊናን ናምኣን ጋላስ ኮራፒኔቲ ቄሴታራኔ ሌዌ ባጋታራ ኢሲፌ ጊዲዲ ጾሳ ዎጋ ታማራናስ ጻፌ ኢዝራኮ ቢዳ። <verse eid="NEH 8:13"/><verse number="14" style="v" sid="NEH 8:14"/>ኢስራኤሌ ኣሳይ ላፑን ኣጊናን ቦንቼቲዛ ዳሴ ባኣሌዛን ዳሴ ጊዶን ኡታና ማላ ጾሲ ሙሴ ባጋራ ኢሚዳ ኣዛዞዚ ዎጋ ማጻፋን ጻፌቲ ዲዛይሳ ዴሚዳ። <verse eid="NEH 8:14"/><verse number="15" style="v" sid="NEH 8:15"/>ሄሳ ጊሻስ ኣሳይ ባ ዲዛ ካታማን ካታማኒኔ ዬሩሳላሜን ቢዲ፥ «ፑዴ ዙማታ ቦላ ኬዚቴ፤ ዛይቴይ ኬዚዛ ዎጋራ ሚኔ ዎራ ዎጋራ ሚ ሃጋ፥ ባርሲኔቴ ጌቴቲዛ ሚ፥ ዛምባ ሃጋታ ኤሂዲ ዳሴ ዬጊቴ» ጊ ኣዋጃና ማላኔ ዮታና ማላ ካሴ ዎጋ ማጻፋን ጻፌቲዳ ማላ ኣዛዚዳ።<note caller="-" style="x"><char style="xo" closed="false">8፡14-15 </char><char style="xt" closed="false"><ref loc="LEV 23:33-36">ሌዌ 23፡33-36</ref>፤ <ref loc="DEU 16:13-15">ዛሬ 16፡13-15</ref></char></note><verse eid="NEH 8:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="NEH 8:16"/>ሄሳ ጊሻስ ኣሳይ ሚ ሃጋታ ቃንጺ ኤኪ ኤሂዲ ባ ኬ ፖቄ ቦላን፥ ጾሳ ኬ ፔንጌን ዲዛ ዴምባኒኔ ሃ ፔንጌ ጌቴቲዛ ዴምባን፥ ሄሳካ ኤፍሬሜ ፔንጌን ዲዛ ዴምባን ዳሴ ዬጊዳ። <verse eid="NEH 8:16"/><verse number="17" style="v" sid="NEH 8:17"/>ዲኤቴፌ ሲሚዳ ኣሳይ ዉሪ ዳሴ ዬጊዲ ኢዛ ጊዶን ኡቲዴስ፤ ሄሲካ ናዌ ና ኢያሶ ዎዴፔ ሃ ሲሚን ኮይሮ ሃኒዴስ፤ ሄሳ ጊሻስ ኣሳይ ዉሪ ኢሶይ ኢሶይ ኬሂ ኡፋዬቲዴስ። <verse eid="NEH 8:17"/><verse number="18" style="v" sid="NEH 8:18"/>ባኣሌዚ ዶሜቲዳ ጋላሳፌ ቢ ዉራና ጋላስ ጋካናስ ኢዝራይ ጾሳ ዎጋ ማጻፋፔ ኡባ ዎዴ ጋላስ ጋላስ ኢሲ ኢሲ ኪፊሌ ኣሳስ ናባቢዴስ፤ ባኣሌዛካ ላፑን ጋላስ ጋካናስ ቦንቺዳ፤ ኦስፑን ጋላስ ዎጋዚ ኣዛዚዛ ማላ ባኣሌዛ ዉርሴን ሞይዞ ባኣሌ ኦዳ።<verse eid="NEH 8:18"/></para>
+  <chapter eid="NEH 8"/>
+  <chapter number="9" style="c" sid="NEH 9"/>
+  <para style="s">ኢስራኤሌ ኣሳይ ባ ናጋራ ፓጼ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="NEH 9:1"/>ሄ ኣጊናን ናምኡ ታማኔ ኦይዳን ጋላስ ኢስራኤሌ ኣሳይ ኢሲ ቦላ ሺቂዲ ባ ናጋራ ጊሻስ ኬሂ ሞቲዳይሳኔ ጬጪዳይሳ ቆንጪሲናስ ማቃ ማይኢዲ ባ ሁኤ ቦላ ጉዱላ ላሊዲ ጾሚዴስ። <verse eid="NEH 9:1"/><verse number="2" style="v" sid="NEH 9:2"/>ኢስራኤሌ ኣሳይ ኣላጋ ኣሳ ኡባፌ ባና ሻኪዴስ፤ ሄሳፌ ጉዬ ኣሳይ ዉሪ ዴንዲ ኤቂዲ ኢስቲኔ ካሴ ኢስታ ኣዋቲ ኦዳ ናጋራ ኡባ ፓጺዳ። <verse eid="NEH 9:2"/><verse number="3" style="v" sid="NEH 9:3"/>ሄን ኢስቲ ኤቂዳ ማላ ዲሺን ኢስታ ጾሳ ዎጋ ማጻፋይ ሄ ሳቴ ኩሜ ኢስታስ ናባቤቲዴስ፤ ቃሴ ሃራ ሄ ሳቴ ኩሜ ኢስቲ ባ ናጋራ ፓጺሼ ጎዳስ ባ ጾሳስ ሆኪ ጎይኒዳ። <verse eid="NEH 9:3"/><verse number="4" style="v" sid="NEH 9:4"/>ሌዌ ባጋታስካ ኤቂዛ ማዲራኬይ ዴስ፤ ሄ ማዲራኬዛ ቦላ ኢያሶይ፥ ባኔይ፥ ቃዲምኤሌይ፥ ሼባኒያይ፥ ቡኔይ፥ ሼሬቢያይ፥ ባኔይኔ ካናኔይ ኤቂዲ ባ ቃላ ቁ ሂስቲዲ ጎዳ ባንታ ጾሳኮ ዎሲዳ። <verse eid="NEH 9:4"/><verse number="5" style="v" sid="NEH 9:5"/>ኢያሶ፥ ቃዲምኤሌ፥ ባኔ፥ ሃሻቢናዬ፥ ሼሬቢያ፥ ሆዲያ፥ ሼባኒያኔ ፓታያ ጌቴቲዛ ሌዌ ባጋ ኣሳቲ፥</para>
+  <para style="q1" vid="NEH 9:5">«ኢንቴ ዴንዲ ኤቂዲ ሜርና ጎዳ</para>
+  <para style="q2" vid="NEH 9:5">ኢንቴ ጾሳ ጋላቲቴ፤</para>
+  <para style="q2" vid="NEH 9:5">ጋላታፔኔ ኣንጆፌ</para>
+  <para style="q2" vid="NEH 9:5">ቁ ቁ ጊዳ</para>
+  <para style="q3" vid="NEH 9:5">ቦንቼቲዳ ጾሳ ሱን</para>
+  <para style="q3" vid="NEH 9:5">ሳቢቴ» ጊዳ።<verse eid="NEH 9:5"/></para>
+  <para style="s">ማሬታና ዎሲዳ ዎሳ</para>
+  <para style="p">
+    <verse number="6" style="v" sid="NEH 9:6"/>ሄሳፌ ጉዬ ኢስራኤሌ ኣሳይ፥</para>
+  <para style="q1" vid="NEH 9:6">«ጾሶ፥ ኔ ጻላ ጎዳ፤</para>
+  <para style="q2" vid="NEH 9:6">ሳሎኔ ሳሎ ቦላ ዲዛይታ፥</para>
+  <para style="q2" vid="NEH 9:6">ሳኣኔ ሳኣ ቦላ ዲዛይታ፥</para>
+  <para style="q2" vid="NEH 9:6">ጊታ ኣባኔ ኢዛ ጊዶን ዲዛይታ</para>
+  <para style="q3" vid="NEH 9:6">ኡባ ሜዳይ ኔና።</para>
+  <para style="q2" vid="NEH 9:6">ኡባስ ዴኦ ሼምፖ ኢማዳሳ፤</para>
+  <para style="q1" vid="NEH 9:6">ሳሎ ሜቴቲ ኡባይ</para>
+  <para style="q2" vid="NEH 9:6">ኔስ ጎይኔቴስ።<verse eid="NEH 9:6"/></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="NEH 9:7"/>ጎዳዉ፥ ኔኒ ጾሳ!</para>
+  <para style="q2" vid="NEH 9:7">ኔኒ ኣብራሜ ኡሬ ጌቴቲዛ</para>
+  <para style="q2" vid="NEH 9:7">ካላዳዌ ዴሬፔ ዶራዳ</para>
+  <para style="q3" vid="NEH 9:7">ጼይጋ ኬሳዳሳ፤</para>
+  <para style="q2" vid="NEH 9:7">ኢዛ ሱንካ</para>
+  <para style="q2" vid="NEH 9:7">ኣብራሃሜ ጋዳሳ።<note caller="-" style="x"><char style="xo" closed="false">9፡7 </char><char style="xt" closed="false"><ref loc="GEN 11:31-12:1">ሜ 11፡31—12፡1</ref>፤ <ref loc="GEN 17:5">17፡5</ref></char></note><verse eid="NEH 9:7"/></para>
+  <para style="q1">
+    <verse number="8" style="v" sid="NEH 9:8"/>ኢዚ ኔስ ኣማኔቲዳ ኣስ</para>
+  <para style="q2" vid="NEH 9:8">ጊዲዳይሳ ቤያዳ</para>
+  <para style="q2" vid="NEH 9:8">ኢዛራ ጫቄታዳሳ፤</para>
+  <para style="q1" vid="NEH 9:8">ካናኔ ኣሳይ፥ ሂቴ ኣሳይ፥</para>
+  <para style="q2" vid="NEH 9:8">ኣሞሬ ኣሳይ፥</para>
+  <para style="q2" vid="NEH 9:8">ፓሪዜ ኣሳይ፥ ያቡሴ ኣሳይኔ</para>
+  <para style="q2" vid="NEH 9:8">ጌርጌሴ ኣሳይ</para>
+  <para style="q3" vid="NEH 9:8">ኢዛን ዲዛ ቢታ፥</para>
+  <para style="q3" vid="NEH 9:8">ኢዛ ዜሬታስ</para>
+  <para style="q3" vid="NEH 9:8">ዱሳ ቢታ ጊዳና ማላ</para>
+  <para style="q3" vid="NEH 9:8">ላቲሳናስ ጫቆ</para>
+  <para style="q2" vid="NEH 9:8">ቃላ ጌላዳሳ፤</para>
+  <para style="q2" vid="NEH 9:8">ኔኒ ጺሎ ጊዲዳ ጊሻስ</para>
+  <para style="q2" vid="NEH 9:8">ኔ ጫቆ ቃላ ሚን ናጋዳሳ።<note caller="-" style="x"><char style="xo" closed="false">9፡8 </char><char style="xt" closed="false"><ref loc="GEN 15:18-21">ሜ 15፡18-21</ref></char></note><verse eid="NEH 9:8"/></para>
+  <para style="b"/>
+  <para style="q1">
+    <verse number="9" style="v" sid="NEH 9:9"/>«ኔኒ ኑ ኣዋታ ቦላ</para>
+  <para style="q2" vid="NEH 9:9">ካሴ ጊብጼ ቢታን ጋኪዳ</para>
+  <para style="q2" vid="NEH 9:9">ዋዬዛ ቤያዳሳ፤</para>
+  <para style="q2" vid="NEH 9:9">ኢስቲ ዞኦ ኣባ ማታን ዲሼ</para>
+  <para style="q2" vid="NEH 9:9">ማዶ ኮዪዲ</para>
+  <para style="q3" vid="NEH 9:9">ኔና ዎሲዳ ዎሳ ሲያዳሳ።<note caller="-" style="x"><char style="xo" closed="false">9፡9 </char><char style="xt" closed="false"><ref loc="EXO 3:7">ኬሳ 3፡7</ref>፤ <ref loc="EXO 14:10-12">14፡10-12</ref></char></note><verse eid="NEH 9:9"/></para>
+  <para style="q1">
+    <verse number="10" style="v" sid="NEH 9:10"/>ጊብጼ ካዎ ቦላ፥</para>
+  <para style="q2" vid="NEH 9:10">ሹሜታ ቦላኔ</para>
+  <para style="q2" vid="NEH 9:10">ሄ ቢታን ዲዛ ኣሳ</para>
+  <para style="q2" vid="NEH 9:10">ኩሜ ቦላ</para>
+  <para style="q3" vid="NEH 9:10">ጊታ ማላታታ ቆንጪሳ ቤሳዳሳ።</para>
+  <para style="q1" vid="NEH 9:10">ሄሳ ኔ ኦዳይ ካሴ ኑ ኣዋታ</para>
+  <para style="q2" vid="NEH 9:10">ጊብጼ ኣሳይ ኣይ ማላ ኢስታስ</para>
+  <para style="q2" vid="NEH 9:10">ሜንጼ ኢቲዲ ዋዪሲዳኮ</para>
+  <para style="q3" vid="NEH 9:10">ኔ ቤኢዳ ጊሻሳ፤</para>
+  <para style="q2" vid="NEH 9:10">ኔ ሄሳ ኦይሳ ጋሶን</para>
+  <para style="q3" vid="NEH 9:10">ሃች ጋካናስ</para>
+  <para style="q2" vid="NEH 9:10">ኔ ሱንይ ቦንቾን</para>
+  <para style="q2" vid="NEH 9:10">ጼይጌታና ማላ ኦዳሳ።<note caller="-" style="x"><char style="xo" closed="false">9፡10 </char><char style="xt" closed="false"><ref loc="EXO 7:8-12:32">ኬሳ 7፡8—12፡32</ref></char></note><verse eid="NEH 9:10"/></para>
+  <para style="q1">
+    <verse number="11" style="v" sid="NEH 9:11"/>ኢስታ ሲንን ኣባ</para>
+  <para style="q2" vid="NEH 9:11">ናምኡ ኬሳ ሻካዳ፥</para>
+  <para style="q2" vid="NEH 9:11">ሜላ ቢታራካ</para>
+  <para style="q2" vid="NEH 9:11">ኢስታ ፒንዳሳ፤</para>
+  <para style="q1" vid="NEH 9:11">ሹች ዱጌ ጪማ ሃ</para>
+  <para style="q2" vid="NEH 9:11">ጊዶን ዬጊዛ ማላ</para>
+  <para style="q2" vid="NEH 9:11">ኢስታ ጎዲዛይታ ጪማ</para>
+  <para style="q2" vid="NEH 9:11">ሃ ጊዶ ዬጋዳሳ።<note caller="-" style="x"><char style="xo" closed="false">9፡11 </char><char style="xt" closed="false"><ref loc="EXO 14:21-29">ኬሳ 14፡21-29</ref>፤ <ref loc="EXO 15:4-5">15፡4-5</ref></char></note><verse eid="NEH 9:11"/></para>
+  <para style="q1">
+    <verse number="12" style="v" sid="NEH 9:12"/>ጋላስ ቱሳ ማላ ኤቂዳ ሻራን፥</para>
+  <para style="q2" vid="NEH 9:12">ኦማርሲ ቱሳ ማላ</para>
+  <para style="q2" vid="NEH 9:12">ታማን ፖኢሳዳ</para>
+  <para style="q3" vid="NEH 9:12">ኢስቲ ባናስ ቤሲዛ ኦጌራ</para>
+  <para style="q2" vid="NEH 9:12">ባና ማላ ካሌዳሳ።<note caller="-" style="x"><char style="xo" closed="false">9፡12 </char><char style="xt" closed="false"><ref loc="EXO 13:21-22">ኬሳ 13፡21-22</ref></char></note><verse eid="NEH 9:12"/></para>
+  <para style="b"/>
+  <para style="q1">
+    <verse number="13" style="v" sid="NEH 9:13"/>«ሳሎፔ ዱጌ</para>
+  <para style="q2" vid="NEH 9:13">ሲና ዙማ ቦላ ዎዳ</para>
+  <para style="q2" vid="NEH 9:13">ኔ ዴሬዛ ሃሳይሳዳሳ፤</para>
+  <para style="q2" vid="NEH 9:13">ሎኦ ዎጋታኔ ሱሬ ቲሚርቴታ</para>
+  <para style="q3" vid="NEH 9:13">ኔ ኢስታስ ኢማዳሳ።<verse eid="NEH 9:13"/></para>
+  <para style="q1">
+    <verse number="14" style="v" sid="NEH 9:14"/>ጌሻ ኔ ሳምባታ</para>
+  <para style="q2" vid="NEH 9:14">ኢስቲ ቦንቻና ማላ</para>
+  <para style="q2" vid="NEH 9:14">ታማርሳዳሳ፤</para>
+  <para style="q1" vid="NEH 9:14">ኔ ኣዛዞታ፥ ዎጋታኔ ማራታ</para>
+  <para style="q2" vid="NEH 9:14">ኔ ኦሳንቻ ሙሴ ባጋራ</para>
+  <para style="q2" vid="NEH 9:14">ኢስታስ ኢማዳሳ።<note caller="-" style="x"><char style="xo" closed="false">9፡13-14 </char><char style="xt" closed="false"><ref loc="EXO 19:18-23:33">ኬሳ 19፡18—23፡33</ref></char></note><verse eid="NEH 9:14"/></para>
+  <para style="q1">
+    <verse number="15" style="v" sid="NEH 9:15"/>ኢስቲ ጋፌቲዳ ዎዴ</para>
+  <para style="q2" vid="NEH 9:15">ሳሎፔ ካ ኢማዳሳ፤</para>
+  <para style="q2" vid="NEH 9:15">ኢስቲ ሳሜቲዳ ዎዴ ሃ</para>
+  <para style="q2" vid="NEH 9:15">ዛላፌ ኢስታስ ፑልቲሳዳሳ፤</para>
+  <para style="q2" vid="NEH 9:15">ቃሴ ኔ ኢስታስ ኢማና ጋዳ</para>
+  <para style="q3" vid="NEH 9:15">ጫቂዳ ቢታ ጌሊዲ</para>
+  <para style="q3" vid="NEH 9:15">ኤካና ማላ ኣዛዛዳሳ።<note caller="-" style="x"><char style="xo" closed="false">9፡15 </char><char style="xt" closed="false"><ref loc="EXO 16:4-15">ኬሳ 16፡4-15</ref>፤ <ref loc="EXO 17:1-7">17፡1-7</ref>፤ <ref loc="DEU 1:21">ዛሬ 1፡21</ref></char></note><verse eid="NEH 9:15"/></para>
+  <para style="b"/>
+  <para style="q1">
+    <verse number="16" style="v" sid="NEH 9:16"/>«ካሴ ኑ ኣዋቲ ኦቶራንቻኔ</para>
+  <para style="q2" vid="NEH 9:16">ዎዚና ሙሜ ጊዲዳ ጊሻስ</para>
+  <para style="q2" vid="NEH 9:16">ኔ ኣዛዞ ናጊቤቴና፤<verse eid="NEH 9:16"/></para>
+  <para style="q1">
+    <verse number="17" style="v" sid="NEH 9:17"/>ኔስ ኣዛዜቲቤቴና፤</para>
+  <para style="q2" vid="NEH 9:17">ኔ ኢስታስ ኦዳ ጊታ</para>
+  <para style="q2" vid="NEH 9:17">ማላታካ ኡባ ዶጊዳ፤</para>
+  <para style="q3" vid="NEH 9:17">ዎዚና ሙሜ ጊዲዳ፤</para>
+  <para style="q2" vid="NEH 9:17">ቃሴ ጉዬ ጊብጼ ኣይሌቴን</para>
+  <para style="q2" vid="NEH 9:17">ዛራና ማላ</para>
+  <para style="q3" vid="NEH 9:17">ባንታና ካሌዛ</para>
+  <para style="q3" vid="NEH 9:17">ኣስ ዶሪዳ።</para>
+  <para style="q1" vid="NEH 9:17">ጊዶ ኣቲን ኔኒ ሲቆን</para>
+  <para style="q2" vid="NEH 9:17">ኩሚዳ ጾሳ፥</para>
+  <para style="q2" vid="NEH 9:17">ሃንቆስ ታኪዛ ጾሳ፥</para>
+  <para style="q2" vid="NEH 9:17">ኣቶ ጊዛ ጾሳ፥</para>
+  <para style="q2" vid="NEH 9:17">ኪያኔ ማሪዛ</para>
+  <para style="q2" vid="NEH 9:17">ጎዳ ጊዲዳ ጊሻስ</para>
+  <para style="q3" vid="NEH 9:17">ኔ ኢስታ ኣጋቤካ።<note caller="-" style="x"><char style="xo" closed="false">9፡17 </char><char style="xt" closed="false"><ref loc="EXO 34:6">ኬሳ 34፡6</ref>፤ <ref loc="NUM 14:18">ታይ 14፡18</ref></char></note><verse eid="NEH 9:17"/></para>
+  <para style="q1">
+    <verse number="18" style="v" sid="NEH 9:18"/>ማራ ሌሚሶን ባስ ኤቃ ጾስ ኦዲ፥</para>
+  <para style="q2" vid="NEH 9:18">‹ጊብጼ ቢታፌ</para>
+  <para style="q3" vid="NEH 9:18">ኑና ካሌዲ ኬሲዳ</para>
+  <para style="q3" vid="NEH 9:18">ጾሲ ሃይሳኮ!› ጊዳ።</para>
+  <para style="q3" vid="NEH 9:18">ኔ ሱንካ ኣይ ማላ</para>
+  <para style="q3" vid="NEH 9:18">ሞሮ ሞሪዶ!<note caller="-" style="x"><char style="xo" closed="false">9፡18 </char><char style="xt" closed="false"><ref loc="EXO 32:1-4">ኬሳ 32፡1-4</ref></char></note><verse eid="NEH 9:18"/></para>
+  <para style="b"/>
+  <para style="q1">
+    <verse number="19" style="v" sid="NEH 9:19"/>«ኔ ማሮታይ ጊታ ጊዲዳ ጊሻስ</para>
+  <para style="q2" vid="NEH 9:19">ኢስቲ ሄን ባዞ ቢታን ዪ</para>
+  <para style="q2" vid="NEH 9:19">ኣታና ማላ ኣጋቤካ፤</para>
+  <para style="q3" vid="NEH 9:19">ጊዶ ኣቲን ኢስቲ ጋላስ</para>
+  <para style="q3" vid="NEH 9:19">ቱሳ ማላ ሻራን</para>
+  <para style="q3" vid="NEH 9:19">ኦማርስ ቱሳ ማላ ታማን</para>
+  <para style="q3" vid="NEH 9:19">ኢስቲ ባናስ ቤሲዛ ኦጌራ</para>
+  <para style="q3" vid="NEH 9:19">ኢስታ ካሌ ኣጋቤካ።<verse eid="NEH 9:19"/></para>
+  <para style="q1">
+    <verse number="20" style="v" sid="NEH 9:20"/>ሎኦ ጊዲዳ ኔ ኣያና</para>
+  <para style="q2" vid="NEH 9:20">ኢስታ ታማርሳና ማላ ኢማዳሳ፤</para>
+  <para style="q3" vid="NEH 9:20">ኢስታስ ማና ማላ ማና፥</para>
+  <para style="q3" vid="NEH 9:20">ኡያና ማላ ሃ ኢማዳሳ።<verse eid="NEH 9:20"/></para>
+  <para style="q1">
+    <verse number="21" style="v" sid="NEH 9:21"/>ኦይዱ ታሙ ላይ ኩሜ</para>
+  <para style="q2" vid="NEH 9:21">ኢስታ ባዞ ቢታን ማዳዳ</para>
+  <para style="q2" vid="NEH 9:21">ኢስታስ ኮሺዛ ሚሼ</para>
+  <para style="q2" vid="NEH 9:21">ኢሲኖካ ዲጋቤካ፤</para>
+  <para style="q3" vid="NEH 9:21">ኢስቲ ማይኢዳ ማይኦይ</para>
+  <para style="q3" vid="NEH 9:21">ዉሪቤና፤</para>
+  <para style="q3" vid="NEH 9:21">ቃሴ ኢስታ ቶሆይካ</para>
+  <para style="q3" vid="NEH 9:21">ፑሪቤና።<verse eid="NEH 9:21"/></para>
+  <para style="b"/>
+  <para style="q1">
+    <verse number="22" style="v" sid="NEH 9:22"/>«ኢስታ ዴራ ዩዪ</para>
+  <para style="q2" vid="NEH 9:22">ኣ ዲዛ ዴሬታኔ</para>
+  <para style="q2" vid="NEH 9:22">ኢስቲ ካዎቴታ ኡባ</para>
+  <para style="q2" vid="NEH 9:22">ጾኒዲ ሄ ቢታ</para>
+  <para style="q2" vid="NEH 9:22">ኤካና ማላ ኦዳሳ፤</para>
+  <para style="q2" vid="NEH 9:22">ሄሳ ጊሻስ</para>
+  <para style="q2" vid="NEH 9:22">ካዎ ሲሆኔይ ኣይሲዛ</para>
+  <para style="q3" vid="NEH 9:22">ሃሴቦኔ ጌቴቲዛ ቢታኔ</para>
+  <para style="q2" vid="NEH 9:22">ካዎ ኣጌይ ኣይሲዛ</para>
+  <para style="q3" vid="NEH 9:22">ባሳኔ ጌቴቲዛ ቢታ</para>
+  <para style="q3" vid="NEH 9:22">ጾኒዲ ላቲዳ።<note caller="-" style="x"><char style="xo" closed="false">9፡22 </char><char style="xt" closed="false"><ref loc="NUM 21:21-35">ታይ 21፡21-35</ref></char></note><verse eid="NEH 9:22"/></para>
+  <para style="q1">
+    <verse number="23" style="v" sid="NEH 9:23"/>ኢስታስ ቆዳይ ሳሎ ጾሊንቴ ማላ</para>
+  <para style="q2" vid="NEH 9:23">ዳሪዳ ናይታ ኢማዳሳ፤</para>
+  <para style="q2" vid="NEH 9:23">ካሴ ኢስታ ኣዋታስ ኔ ኢማና ጋ</para>
+  <para style="q2" vid="NEH 9:23">ቃላ ጌሊዳ ቢታ</para>
+  <para style="q3" vid="NEH 9:23">ኢስቲ ጾኒ ላታና ማላ</para>
+  <para style="q3" vid="NEH 9:23">ኦዳሳ።<note caller="-" style="x"><char style="xo" closed="false">9፡23 </char><char style="xt" closed="false"><ref loc="GEN 15:5">ሜ 15፡5</ref>፤ <ref loc="GEN 22:17">22፡17</ref>፤ <ref loc="JOS 3:14-17">ኢያ 3፡14-17</ref></char></note><verse eid="NEH 9:23"/></para>
+  <para style="q1">
+    <verse number="24" style="v" sid="NEH 9:24"/>ኢስታ ናይቲ ካናኔ ቢታ</para>
+  <para style="q2" vid="NEH 9:24">ጾኒ ላቲዳ፤</para>
+  <para style="q2" vid="NEH 9:24">ሄ ቢታን ዲዛ ኣሳታ</para>
+  <para style="q2" vid="NEH 9:24">ኔኒ ጾናዳሳ፤</para>
+  <para style="q3" vid="NEH 9:24">ኢስታ ካዎታ ቦላኔ ካናኔ</para>
+  <para style="q3" vid="NEH 9:24">ቢታን ዲዛ ኣሳታ ቦላ</para>
+  <para style="q3" vid="NEH 9:24">ባ ዶሲዳ ማላ ኦና ማላ</para>
+  <para style="q3" vid="NEH 9:24">ዎልቃ ኢማዳሳ።<note caller="-" style="x"><char style="xo" closed="false">9፡24 </char><char style="xt" closed="false"><ref loc="JOS 11:23">ኢያ 11፡23</ref></char></note><verse eid="NEH 9:24"/></para>
+  <para style="q1">
+    <verse number="25" style="v" sid="NEH 9:25"/>ቃሴ ሎኢ ጊምቤቲዳ</para>
+  <para style="q2" vid="NEH 9:25">ካታማታኔ ኣራዳ ቢታ፥</para>
+  <para style="q2" vid="NEH 9:25">ሎኦ ሚሽ</para>
+  <para style="q2" vid="NEH 9:25">ኢስታን ኩሚዳ ኬታ፥</para>
+  <para style="q2" vid="NEH 9:25">ሃ ኦላታኔ</para>
+  <para style="q2" vid="NEH 9:25">ዎይኔ ኣታኪልቴይ ቶኬቲዛ ጋዴ፥</para>
+  <para style="q2" vid="NEH 9:25">ዎጋራ ሚታኔ ዳሮ ኣይፌ</para>
+  <para style="q2" vid="NEH 9:25">ኣይፊዛ ሚታ ላቲዳ፤</para>
+  <para style="q3" vid="NEH 9:25">ሚዲኔ ኡዪዲ ሞዳ፤</para>
+  <para style="q3" vid="NEH 9:25">ኔኒ ኔ ኪያቴን ኢሚዳ ሎኦ ሚሻን ዉሪ ኡፋዬቲዳ።<note caller="-" style="x"><char style="xo" closed="false">9፡25 </char><char style="xt" closed="false"><ref loc="DEU 6:10-11">ዛሬ 6፡10-11</ref></char></note><verse eid="NEH 9:25"/></para>
+  <para style="b"/>
+  <para style="q1">
+    <verse number="26" style="v" sid="NEH 9:26"/>«ጊዶ ኣቲን ኢስቲ ኔ ቦላ ማካሊዳ፤</para>
+  <para style="q2" vid="NEH 9:26">‹ኔ ቃላስካ ኣዛዜቶኮ› ጊዳ፤</para>
+  <para style="q2" vid="NEH 9:26">ኔ ዎጋ ሲዮኮ ጊዲ</para>
+  <para style="q2" vid="NEH 9:26">ኔስ ዞኮ ዛሪዳ፤</para>
+  <para style="q3" vid="NEH 9:26">ቃሴ ኢስቲ ኔኮ ዛራና ጊዲ</para>
+  <para style="q3" vid="NEH 9:26">ሴሪ ታማርሲዳ ናቤታ ዎዳ፤</para>
+  <para style="q3" vid="NEH 9:26">ኡባ ዎዴ ኔ ቦላ</para>
+  <para style="q3" vid="NEH 9:26">ጫሻ ቃላ ሃሳይዳ።<verse eid="NEH 9:26"/></para>
+  <para style="q1">
+    <verse number="27" style="v" sid="NEH 9:27"/>ሄሳ ጊሻስ ኢስታ ሞርኬቲ</para>
+  <para style="q2" vid="NEH 9:27">ኢስታ ጾኒዲ ሃራና ማላ</para>
+  <para style="q2" vid="NEH 9:27">ኣ ኢማዳሳ፤</para>
+  <para style="q3" vid="NEH 9:27">ሞርኬቲካ ኢስታ ሜቶዳ፤</para>
+  <para style="q2" vid="NEH 9:27">ኢስቲ ባንታና ሜቲዳ ዎዴ</para>
+  <para style="q2" vid="NEH 9:27">ኔኮ ዋሲዳ፤</para>
+  <para style="q2" vid="NEH 9:27">ኔካ ኢስታ ዋሳ</para>
+  <para style="q2" vid="NEH 9:27">ሳሎን ዳዳ ሲያዳሳ፤</para>
+  <para style="q2" vid="NEH 9:27">ኔ ማሮቴ ጊታቴፌ ዴንዲዳይሳን</para>
+  <para style="q3" vid="NEH 9:27">ኢስታ ሞርኬታፔ ኣሻና</para>
+  <para style="q3" vid="NEH 9:27">ካሌዛይታ ዬዳዳሳ።<verse eid="NEH 9:27"/></para>
+  <para style="b"/>
+  <para style="q1">
+    <verse number="28" style="v" sid="NEH 9:28"/>«ጊዶ ኣቲን ሳሮ ዴሚዳ ዎዴ</para>
+  <para style="q2" vid="NEH 9:28">ቃሴካ ሲሚ ናጋራ ኦዳ፤</para>
+  <para style="q2" vid="NEH 9:28">ሄሳ ጊሻስ ኔ ኢስታ ሞርኬታስ</para>
+  <para style="q2" vid="NEH 9:28">ኣ ኢማዳሳ፤</para>
+  <para style="q2" vid="NEH 9:28">ኢስታ ሞርኬቲካ ኢስታ ሃሪዳ፤</para>
+  <para style="q2" vid="NEH 9:28">ጊዶ ኣቲን ኔ ማዳና ማላ ጊዲ</para>
+  <para style="q2" vid="NEH 9:28">ኔኮ ሲሚ ዎሲዳ ዎዴ</para>
+  <para style="q3" vid="NEH 9:28">ሳሎን ዳሼ ኢስታ ዎሳ ሲያዳሳ፤</para>
+  <para style="q2" vid="NEH 9:28">ኔኒ ኔ ቃቴፌ</para>
+  <para style="q2" vid="NEH 9:28">ዴንዲዳይሳን</para>
+  <para style="q3" vid="NEH 9:28">ኢስታ ኡባ ዎዴ ማዳዳሳ።<note caller="-" style="x"><char style="xo" closed="false">9፡26-28 </char><char style="xt" closed="false"><ref loc="JDG 2:11-16">ዳና 2፡11-16</ref></char></note><verse eid="NEH 9:28"/></para>
+  <para style="q1">
+    <verse number="29" style="v" sid="NEH 9:29"/>ኔ ቃላኮ ሲማና ማላ</para>
+  <para style="q2" vid="NEH 9:29">ኔኒ ኢስታ ሴራዳሳ፤</para>
+  <para style="q2" vid="NEH 9:29">ጊዶ ኣቲን ባ ኦቶሮቴፌ</para>
+  <para style="q2" vid="NEH 9:29">ዴንዲዳይሳን</para>
+  <para style="q3" vid="NEH 9:29">ኔ ኣዛዞታ ካዳ፤</para>
+  <para style="q2" vid="NEH 9:29">ኢስቲ ኣዛዜቲዳኮ</para>
+  <para style="q3" vid="NEH 9:29">ኢስታስ ዴኦ ኢሚዛ</para>
+  <para style="q2" vid="NEH 9:29">ኔ ዎጋታ ቦላ ናጋራ ኦዳ።</para>
+  <para style="q2" vid="NEH 9:29">ኢስታ ዎዚናይ ሙሚዳ ጊሻስ</para>
+  <para style="q2" vid="NEH 9:29">ባ ሲን ሃራሶ ዛሪዳ፤</para>
+  <para style="q3" vid="NEH 9:29">ቃሴ ባ ዎዚና ሙሚሲዲ</para>
+  <para style="q3" vid="NEH 9:29">ኔ ኣዛዞታ ኢጺዳ።<note caller="-" style="x"><char style="xo" closed="false">9፡29 </char><char style="xt" closed="false"><ref loc="LEV 18:5">ሌዌ 18፡5</ref></char></note><verse eid="NEH 9:29"/></para>
+  <para style="q1">
+    <verse number="30" style="v" sid="NEH 9:30"/>ዳሮ ላይ ኔ ኢስታ ዳንዳያዳሳ፤</para>
+  <para style="q2" vid="NEH 9:30">ኢስታ ታማርሳና ማላ ናቤታ</para>
+  <para style="q3" vid="NEH 9:30">ኔ ኣያናን ኢስታስ ዴንዳሳ፤</para>
+  <para style="q2" vid="NEH 9:30">ጊዶ ኣቲን ኢስቲ ሎኤ</para>
+  <para style="q2" vid="NEH 9:30">ሲዪቤቴና፤</para>
+  <para style="q2" vid="NEH 9:30">ሄሳ ጊሻስ ኢስታ ዴሬ</para>
+  <para style="q2" vid="NEH 9:30">ማታን ዲዛ ኣሳቲ</para>
+  <para style="q3" vid="NEH 9:30">ጾናና ማላ</para>
+  <para style="q3" vid="NEH 9:30">ኢስታ ኣ ኢማዳሳ።<note caller="-" style="x"><char style="xo" closed="false">9፡30 </char><char style="xt" closed="false"><ref loc="2KI 17:13-18">2ካዎ 17፡13-18</ref>፤ <ref loc="2CH 36:15-16">2ታሪ 36፡15-16</ref></char></note><verse eid="NEH 9:30"/></para>
+  <para style="q1">
+    <verse number="31" style="v" sid="NEH 9:31"/>ጊዶ ኣቲን ኔ ማሮቴ</para>
+  <para style="q2" vid="NEH 9:31">ጊታቴፌ ዴንዲዳይሳን</para>
+  <para style="q2" vid="NEH 9:31">ኢስታ ኣጋቤካ፤</para>
+  <para style="q2" vid="NEH 9:31">ኔ ኪያኔ ኣቶ ጊዛ</para>
+  <para style="q2" vid="NEH 9:31">ጾሳ ጊዲዳ ጊሻስ</para>
+  <para style="q3" vid="NEH 9:31">ኢስታ ይሳቤካ።<verse eid="NEH 9:31"/></para>
+  <para style="q1">
+    <verse number="32" style="v" sid="NEH 9:32"/>ጊታ፥ ዎልቃማኔ ያሺዛ</para>
+  <para style="q2" vid="NEH 9:32">ኑ ጾሳዉ!</para>
+  <para style="q2" vid="NEH 9:32">ኔኒ ኔ ጫቆ ቃላኔ ሜርና ጋካናዉ ዲዛ</para>
+  <para style="q2" vid="NEH 9:32">ኔ ሲቆ ናጋሳ፤</para>
+  <para style="q2" vid="NEH 9:32">ኑ ቦላ፥ ኑ ካዎታ ቦላኔ</para>
+  <para style="q3" vid="NEH 9:32">ኑና ካሌዛይታ ቦላ</para>
+  <para style="q3" vid="NEH 9:32">ኑ ቄሴታ ቦላኔ ኑ ናቤታ ቦላ</para>
+  <para style="q3" vid="NEH 9:32">ኑ ኣዋታ ቦላ፥</para>
+  <para style="q2" vid="NEH 9:32">ቃሴካ ዴሬ ኡባ ቦላ፥</para>
+  <para style="q3" vid="NEH 9:32">ኣሶሬ ካዎታፔ ዶሚዲ</para>
+  <para style="q3" vid="NEH 9:32">ሃች ጋካናስ ጋኪዳ ሜቶ</para>
+  <para style="q2" vid="NEH 9:32">ኡባ ኔ ቆፓ።<note caller="-" style="x"><char style="xo" closed="false">9፡32 </char><char style="xt" closed="false"><ref loc="2KI 15:19">2ካዎ 15፡19</ref>፥<ref loc="2KI 15:29">29</ref>፤ <ref loc="2KI 17:3-6">17፡3-6</ref>፤ <ref loc="EZR 4:2">ኢዝ 4፡2</ref>፥<ref loc="EZR 4:10">10</ref></char></note><verse eid="NEH 9:32"/></para>
+  <para style="q1">
+    <verse number="33" style="v" sid="NEH 9:33"/>ኔ ኑና ቃጻያና ጋዳ</para>
+  <para style="q2" vid="NEH 9:33">ኔ ኦዳይሲ ዉሪ ሊኬ፤</para>
+  <para style="q2" vid="NEH 9:33">ኑኒ ናጋራ ኦኮካ</para>
+  <para style="q3" vid="NEH 9:33">ኔኒ ኔ ኣማኔቴን</para>
+  <para style="q3" vid="NEH 9:33">ሚና ኤቃዳሳ።<verse eid="NEH 9:33"/></para>
+  <para style="q1">
+    <verse number="34" style="v" sid="NEH 9:34"/>ካሴ ኑ ኣዋቲኔ</para>
+  <para style="q2" vid="NEH 9:34">ኑ ካዎቲ፥</para>
+  <para style="q2" vid="NEH 9:34">ኑና ካሌዛይቲኔ ኑ ቄሴቲ</para>
+  <para style="q3" vid="NEH 9:34">ኔ ዎጋ ናጊቤቴና፤</para>
+  <para style="q3" vid="NEH 9:34">ቃሴ ኔ ኢስታስ ኢሚዳ</para>
+  <para style="q3" vid="NEH 9:34">ኣዛዞታኔ</para>
+  <para style="q3" vid="NEH 9:34">ሴራ ዞሬ ሲዪቤቴና።<verse eid="NEH 9:34"/></para>
+  <para style="q1">
+    <verse number="35" style="v" sid="NEH 9:35"/>ኔ ኢስታ ካዎቴን</para>
+  <para style="q2" vid="NEH 9:35">ኢስታስ ጊታ ኣንጆ ኢማዳሳ፤</para>
+  <para style="q2" vid="NEH 9:35">ኣራዳኔ ኣሆ ቢታ</para>
+  <para style="q2" vid="NEH 9:35">ኢስታስ ኢማዳሳ፤</para>
+  <para style="q3" vid="NEH 9:35">ጊዶ ኣቲን ኢስቲ</para>
+  <para style="q2" vid="NEH 9:35">ባ ናጋራፔ ሲሚዲ</para>
+  <para style="q3" vid="NEH 9:35">ኔስ ጎይኒቤቴና።<verse eid="NEH 9:35"/></para>
+  <para style="q1">
+    <verse number="36" style="v" sid="NEH 9:36"/>ሄሳፌ ዴንዲዳይሳን</para>
+  <para style="q2" vid="NEH 9:36">ኔ ኑ ኣዋቲ</para>
+  <para style="q2" vid="NEH 9:36">ኣይፌዮ ማና ማላኔ</para>
+  <para style="q2" vid="NEH 9:36">ሎኦ ሚሻን ኡፋዬታና ማላ</para>
+  <para style="q3" vid="NEH 9:36">ኔ ኢስታስ ኢሚዳ ቢታን</para>
+  <para style="q3" vid="NEH 9:36">ሃች ኑ ኣይሌ ጊዲዶስ።<verse eid="NEH 9:36"/></para>
+  <para style="q1">
+    <verse number="37" style="v" sid="NEH 9:37"/>ኑኒ ናጋራ ኦዳ ጋሶን</para>
+  <para style="q2" vid="NEH 9:37">ኔኒ ኑ ቦላ ካዎዳ ካዎቲ</para>
+  <para style="q3" vid="NEH 9:37">ኑ ቢታ ኣንጆ ኡባ</para>
+  <para style="q3" vid="NEH 9:37">ኢስቲ ጎኤቴቴስ፤</para>
+  <para style="q2" vid="NEH 9:37">ቃሴ ኑ ቦላኔ ኑ ሜሄታ ቦላ</para>
+  <para style="q3" vid="NEH 9:37">ባ ኮዪዳ ማላ ኦቴስ፤</para>
+  <para style="q2" vid="NEH 9:37">ሄሳፌ ዴንዲዳይሳን</para>
+  <para style="q3" vid="NEH 9:37">ኑኒ ሃኢ ጊታ ዋዬ ቦላ ዶስ።<verse eid="NEH 9:37"/></para>
+  <para style="s">ኣሳይ ቃቺዳ ቃላ ፒርማን ቆንጪሴ</para>
+  <para style="p">
+    <verse number="38" style="v" sid="NEH 9:38"/>«ሃኒዳ ዮኦ ኡባስ ኑኒ ኢስራኤሌ ኣሳይ ቃላን ጋጊዳይሳ ጻፊ ዎናስ ቃላ ቃቺዶስ፤ ኑ ቃቺን ጻፌቲዳ ቃላ ቦላ ኑና ካሌዛይቲ፥ ሌዌ ባጋቲኔ ኑ ቄሴቲ ባ ማታሜ ሾጪዳ» ጊዳ።<verse eid="NEH 9:38"/></para>
+  <chapter eid="NEH 9"/>
+  <chapter number="10" style="c" sid="NEH 10"/>
+  <para style="p">
+    <verse number="1" style="v" sid="NEH 10:1"/>ማታሜ ሾጪዳይቲ ሃካሊያ ና ዴሬ ኣይሲዛ ናሂሚያ፥ ሴዴቂያሳ፥ <verse eid="NEH 10:1"/><verse number="2" style="v" sid="NEH 10:2"/>ቄሴታ ባጋፌ ሳራያ፥ ኣዛሪያሳ፥ ኤርማሳ <verse eid="NEH 10:2"/><verse number="3" style="v" sid="NEH 10:3"/>ፓሽኩሬ፥ ኣማሪያ፥ ማልኪያ፥ <verse eid="NEH 10:3"/><verse number="4" style="v" sid="NEH 10:4"/>ሃጹሼ፥ ሼባኒያ፥ ማሉኬ፥ <verse eid="NEH 10:4"/><verse number="5" style="v" sid="NEH 10:5"/>ሃሪሜ፥ ሜርሞቴ፥ ኣብዲዩ፥ <verse eid="NEH 10:5"/><verse number="6" style="v" sid="NEH 10:6"/>ዳኔላ፥ ጊንቶኔ፥ ባሮኬ፥ <verse eid="NEH 10:6"/><verse number="7" style="v" sid="NEH 10:7"/>ማሹላሜ፥ ኣቢያ፥ ሚያሚኔ፥ <verse eid="NEH 10:7"/><verse number="8" style="v" sid="NEH 10:8"/>ማኣዚያ፥ ቢልጋዬኔ ሻማኤ።<verse eid="NEH 10:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="NEH 10:9"/>ሌዌ ባጋታፔ ኣዛኒያ ና ኢያሶ፥ ሄናዳዴ ዛሬፔ ቢኑዌ፥ ቃዲምኤሌ፥ <verse eid="NEH 10:9"/><verse number="10" style="v" sid="NEH 10:10"/>ኢስታ ኢሻታፔ ሼባኒያ፥ ሆዲያ፥ ቃሊጻ፥ ፓላዬ፥ ሃናኔ፥ <verse eid="NEH 10:10"/><verse number="11" style="v" sid="NEH 10:11"/>ሚካ፥ ኤራሆቤ፥ ሃሻቢያ፥ <verse eid="NEH 10:11"/><verse number="12" style="v" sid="NEH 10:12"/>ዛኩሬ፥ ሼሬቢያ፥ ሼባኒያ፥ <verse eid="NEH 10:12"/><verse number="13" style="v" sid="NEH 10:13"/>ሆዲያ፥ ባኔኔ ቤኒኔ።<verse eid="NEH 10:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="NEH 10:14"/>ዴሬ ኣይሲዛይታ ባጋፌ ፓሮሴ፥ ፓሃቴ-ሞኣቤ፥ ኤላሜ፥ ዛቶ፥ ባኔ፥ <verse eid="NEH 10:14"/><verse number="15" style="v" sid="NEH 10:15"/>ቡኔ፥ ኣዝጋዴ፥ ቤባዬ፥ <verse eid="NEH 10:15"/><verse number="16" style="v" sid="NEH 10:16"/>ኣዶኒያሳ፥ ቢጉዋዬ፥ ኣዲኔ፥ <verse eid="NEH 10:16"/><verse number="17" style="v" sid="NEH 10:17"/>ኣጻሬ፥ ሂዝቂያሳ፥ ኣዙሬ፥ <verse eid="NEH 10:17"/><verse number="18" style="v" sid="NEH 10:18"/>ሆዲያ፥ ሃሹሜ፥ ቤሳዬ፥ <verse eid="NEH 10:18"/><verse number="19" style="v" sid="NEH 10:19"/>ሃርፔ፥ ኣናቶቴ፥ ኔባዬ፥ <verse eid="NEH 10:19"/><verse number="20" style="v" sid="NEH 10:20"/>ማጊፒኣሼ፥ ማሹላሜ፥ ሄዚሬ፥ <verse eid="NEH 10:20"/><verse number="21" style="v" sid="NEH 10:21"/>ሜሼዛቤሌ፥ ሳዶቄ፥ ያዱኤ፥ <verse eid="NEH 10:21"/><verse number="22" style="v" sid="NEH 10:22"/>ፓላጺያ፥ ሃናኔ፥ ኣናያ፥ <verse eid="NEH 10:22"/><verse number="23" style="v" sid="NEH 10:23"/>ሆሴኤ፥ ሃናኒያ፥ ሃሹቤ፥ <verse eid="NEH 10:23"/><verse number="24" style="v" sid="NEH 10:24"/>ሃሉሄሼ፥ ፒሊሄ፥ ሾቤቄ፥ <verse eid="NEH 10:24"/><verse number="25" style="v" sid="NEH 10:25"/>ኤሬሁሜ፥ ሃሻቢኔ፥ ማኢሳያ፥ <verse eid="NEH 10:25"/><verse number="26" style="v" sid="NEH 10:26"/>ኣካያ፥ ሃናኔ፥ ኣናኔ፥ <verse eid="NEH 10:26"/><verse number="27" style="v" sid="NEH 10:27"/>ማሉኬ፥ ሃሪሜኔ ባኣና።<verse eid="NEH 10:27"/></para>
+  <para style="s">ኢስራኤሌ ኣሳይ ዎዳ ጫቆ ቃላ</para>
+  <para style="p">
+    <verse number="28" style="v" sid="NEH 10:28"/>«ኣቲዳ ኣሳይ፥ ቄሴቲ፥ ሌዌ ባጋቲ፥ ጾሳ ኬ ጊቤ ናጊዛ ዛቤቲ፥ ዬ ዬጺዛይቲኔ ጾሳ ኬ ኦሳንቻቲ ቃሴካ ጾሳ ዎጋስ ኣዛዜታና» ጊዲ ኣይዛቤታፔ ባና ሻኪዳ ኣሳቲ ባ ማቼታራ፥ ባ ኣቱማ ናይታራኔ ማጫ ናይታራ ኢሲፌ ጊዲዲ ኤሪዛይቲኔ ኣኬኪዛይቲ ኡባይ ጫቂዳ፤ <verse eid="NEH 10:28"/><verse number="29" style="v" sid="NEH 10:29"/>ባና ካሌዛይታራ ኢሲፌ ጊዲዲ ጾሳ ኣይሌ ሙሴ ባጋራ ኢሜቲዳ ኣዛዞታ፥ ፒርዳኔ ዎጋ ናጋና ጊዲ ቃላ ጌሊዳ፤ «ሄሳ ኦንታ ኣጊኮ ኑና ጎሞ፤ <verse eid="NEH 10:29"/><verse number="30" style="v" sid="NEH 10:30"/>ኑ ዴሬ ሄራን ዲዛ ኣይዛቤታፔ ማቾ ኑ ናይታስ ኤኮንታ ማላኔ ኑ ማጫ ናይታ ጌዴ ኢሞንታ ማላ ጫቆስ።<note caller="-" style="x"><char style="xo" closed="false">10፡30 </char><char style="xt" closed="false"><ref loc="EXO 34:16">ኬሳ 34፡16</ref>፤ <ref loc="DEU 7:3">ዛሬ 7፡3</ref></char></note><verse eid="NEH 10:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="NEH 10:31"/>«ኣይዛቤቲ ባ ዴሬፔ ሳምባታ ጋላስ ዎይኮ ሃራ ባኣሌታን ካ ዎይኮ ኣይ ሚሺካ ዛልኤስ ኤኪ ዪኮ ኢስታፌ ሻሞኮ። ላፑን ላይን ላይን ኑ ጋዴ ሼምፒሳናስ ጎዮኮ፤ ኑ ታልኤ ኢሚዳ ኣጮዛካ ዛሪ ኤኮኮ።<note caller="-" style="x"><char style="xo" closed="false">10፡31 </char><char style="xt" closed="false"><ref loc="EXO 23:10-11">ኬሳ 23፡10-11</ref>፤ <ref loc="LEV 25:1-7">ሌዌ 25፡1-7</ref>፤ <ref loc="DEU 15:1-2">ዛሬ 15፡1-2</ref></char></note><verse eid="NEH 10:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="NEH 10:32"/>«ላይን ላይን ጾሳ ኬ ኦሶስ ማዲዛ ቢራ ሄፌ ኢሲ ኩሼ ኑ ኤሂ ኢማና።<note caller="-" style="x"><char style="xo" closed="false">10፡32 </char><char style="xt" closed="false"><ref loc="EXO 30:11-16">ኬሳ 30፡11-16</ref></char></note> <verse eid="NEH 10:32"/><verse number="33" style="v" sid="NEH 10:33"/>ሄሳካ ጾሳ ኬ ኦሶስ ቤሲዛ ሚሻታ ኩንዲ ሺሻና፤ ሄይቲካ ዱማቲዳ ኡኬ፥ ጋላስ ጋላስ ሺቂዛ ያርሾ ካ፥ ጹጌቲዛ ያርሾስ ጊዲዛ ሜሄታ፥ ሳምባታ ጋላሳታን፥ ኣጊናይ ጋኪሺኒኔ ሃራ ባኣሌ ጋላሳታን ሺቂዛ ሃራ ጌሻ ያርሾ ኡባ፥ ኢስራኤሌ ኣሳ ናጋራ ዉርሳናስ ሺቃና ቤሲዛ ሚሺኔ ጾሳ ኬ ኦሶስ ኮሺዛ ሚሻታ ኡባ ኢማና።<verse eid="NEH 10:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="NEH 10:34"/>«ያርሾ ጊሻስ ሙሴ ዎጋን ጻፌቲዳ ማላ ጎዳ ኑ ጾሳስ ሺቂዛ ያርሾ ጹጋናስ ቤሲዛ ኤሶ ሚ ሺሻና ቤሲዛ ቆሞቲ ኦናንታኮ ኤራናስ ኑኒ ዴሬይ ቄሴቲኔ ሌዌ ባጋቲ ላይን ላይን ሳማ ዬጊዲ ዮኦዛ ቃቾስ።<verse eid="NEH 10:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="NEH 10:35"/>«ላይን ላይን ኑ ካታኔ ሚ ኣይፌታ ማጺ ሺሺዛ ዎዴ ኮይሮ ጋኪዛ ሻቻስ ጼራ ጾሳ ኬ ኤፊ ኢማና።<note caller="-" style="x"><char style="xo" closed="false">10፡35 </char><char style="xt" closed="false"><ref loc="EXO 23:19">ኬሳ 23፡19</ref>፤ <ref loc="EXO 34:26">34፡26</ref>፤ <ref loc="DEU 26:2">ዛሬ 26፡2</ref></char></note><verse eid="NEH 10:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="NEH 10:36"/>«ኑፔ ኢሶይ ኢሶይ ኮይሮ ዬሌቲዳ ኣቱማ ናይታ ጾሳ ዎጋይ ኣዛዚዛ ማላ ኢስታ ጾሳስ ዱማሳና፤ ጾሳ ኬን ኦዛ ቄሴታስ ኢማና፤ ቃሴ ኑ ሚዛታፔ፥ ኑ ዶርሳታፔ፥ ኑ ዴይሻታፔ ኮይሮ ዬሌቲዛ ማራታኔ ላቃታ ኡባ ጾሳስ ዱማ ሻካና።<note caller="-" style="x"><char style="xo" closed="false">10፡36 </char><char style="xt" closed="false"><ref loc="EXO 13:2">ኬሳ 13፡2</ref></char></note><verse eid="NEH 10:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="NEH 10:37"/>«ኑኒ ካ ሺሺዛ ዎዴ ኮይሮ ጋኪዛ ካ ሌፌ፥ ዱማ ዱማ ሜቴቲዛ ሚ ኣይፌፔ፥ ኦራ ዎይኔ ኡሻፌኔ ዎጋራ ዛይቴ ኡባፌ ጼራ ጾሳ ኬን ኦዛ ቄሴታስ ኤሂ ኢማና፤ ኑ ጎሻ ጋዴይ ዲዛሶን ዲዛሶን ካጺዛ ካፌ ጊራ ቃንጺሲዛ ሌዌ ባጋታስ ታማፌ ኢሲ ኩሼ ኢማና።<note caller="-" style="x"><char style="xo" closed="false">10፡37 </char><char style="xt" closed="false"><ref loc="NUM 18:21">ታይ 18፡21</ref></char></note> <verse eid="NEH 10:37"/><verse number="38" style="v" sid="NEH 10:38"/>ኣስራታይ ሺቂዛ ዎዴ ኣሮኔ ዜሬፌ ጊዲዳ ቄሴይ ሌዌ ባጋታራ ኢሲፌ ኤኬቴስ፤ ሌዌ ባጋቲ ጾሳ ኬ ኦሶስ ሺሺዳ ኣስራታፔ ታማፌ ኢሲ ኩሼ ጾሳ ኬ ሚሺ ኡቲዛ ሚንጃ ኬን ዎቴስ።<note caller="-" style="x"><char style="xo" closed="false">10፡38 </char><char style="xt" closed="false"><ref loc="NUM 18:26">ታይ 18፡26</ref></char></note> <verse eid="NEH 10:38"/><verse number="39" style="v" sid="NEH 10:39"/>ኢስራኤሌ ኣሳይኔ ሌዌ ባጋቲ ካ፥ ዎይኔ ኡሹኔ ዎጋራ ዛይቴ ኢሞታ ጾሳ ኬ ሚሻቲ ኡቲዛሶኒኔ ቄሴቲ፥ ጾሳ ኬ ጊቤ ናጊዛ ዛቤቲኔ ዬ ዬጺዛይቲ ሼምፒዛ ሚንጃ ኬን ኤሂ ዎቶ።</para>
+  <para style="p" vid="NEH 10:39">«ሄሳ ጊሻስ፥ ‹ኑ ጾሳ ኬ ኦሶ ኑና ኣይ ሜቲዴ!› ጊ ኣጎኮ» ጊዲ ጫቂዳ።<verse eid="NEH 10:39"/></para>
+  <chapter eid="NEH 10"/>
+  <chapter number="11" style="c" sid="NEH 11"/>
+  <para style="s">ዬሩሳላሜን ዲዛ ኣሳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="NEH 11:1"/>ዴራ ካሌዛይቲ ዬሩሳላሜን ዴኢዳ፤ ቃሴካ ሃንኮ ታሙ ኬ ኣሳፔ ኢሲ ኬ ኣሲ ጌሽ ጊዲዳ ዬሩሳላሜ ካታማን ዳናይታስ ሳማ ዬጊ ዶሪዳ፤ ሃንኮ ኣቲዳ ኣሳይ ጊዲኮ ዱማ ዱማ ካታማታ ባስ ዴሶ ኦዴስ፤ <verse eid="NEH 11:1"/><verse number="2" style="v" sid="NEH 11:2"/>ኣሳይካ፥ «ዬሩሳላሜን ዳና» ጊዲ ባ ሼኔን ዴንዴቲዳ ኣሳ ኡባ ኣንጂዴስ። <verse eid="NEH 11:2"/><verse number="3" style="v" sid="NEH 11:3"/>ሃራ ጉታታኒኔ ካታማታን ዴኢዛ ኢስራኤሌ ኣሳይ፥ ቄሴቲ፥ ሌዌ ባጋቲ፥ ጾሳ ኬ ኦሳንቻቲኔ ሶሎሞኔ ኣይሌታ ዜሬቲ ባ ሃሮይ ዲዛሶን ዲዛሶን ዴኢዳ፤ ሃይሳፌ ካሊ ጻፌቲዳይቲ ዬሩሳላሜን ዴኢዛ ዩሁዳ ዴሬ ካሌዛ ኣሳታ።<note caller="-" style="x"><char style="xo" closed="false">11፡3 </char><char style="xt" closed="false"><ref loc="NEH 7:73">ናሂ 7፡73</ref></char></note> <verse eid="NEH 11:3"/><verse number="4" style="v" sid="NEH 11:4"/>ዩሁዳ ዛርኬፌ ዪዳ ካሌዛይቲ ፓሬሴ ዜሬፌ ጊዲዳይቲ ማላልኤሌ ና፥ ሻፋጺያ ና፥ ኣማሪያ ና፥ ዛካራሳ ና፥ ኦዚያ ና፥ ኣታዪያ፥ <verse eid="NEH 11:4"/><verse number="5" style="v" sid="NEH 11:5"/>ሴሎ ዜሬፌ ዛካራሳ ና፥ ዮያሪቤ ና፥ ኣዳያ ና፥ ኦዚያ ና፥ ኮሊ-ሆዜ ና፥ ባሮኬ ና፥ ማኢሳያ።<verse eid="NEH 11:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="NEH 11:6"/>ዬሩሳላሜን ኡቲዳ ፓሬሴ ዜሬታፔ ኤሬቲዳ ዎልቃማ ኣሳቲ 468።<verse eid="NEH 11:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="NEH 11:7"/>ቢኒያሜ ዜሬታፔ፥ ዬሻኢያ ና፥ ኢቲኤሌ ና፥ ማኢሳያ ና፥ ቆላያ ና፥ ፓዳያ ና፥ ዮኤዴ ና፥ ማሹላሜ ና፥ ሳሉዬ፥ <verse eid="NEH 11:7"/><verse number="8" style="v" sid="NEH 11:8"/>ሳሉስ ማታ ዳቦቲ፥ ጋባያኔ ሳላዬ፥ ዬሩሳላሜን ዴኢዛ ቢኒያሜ ዜሬቲ ኢሲ ቦላ 928። <verse eid="NEH 11:8"/><verse number="9" style="v" sid="NEH 11:9"/>ዚኪሬ ና ኢዩኤሌይ ኢስታ ካሌዛይሳ ጊዲሺን ሃሳኑኤ ና ዩሁዳይ ኢዛፔ ጋርሳራ ካታማ ኣይሲዛ ናምኣን ዳና።<verse eid="NEH 11:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="NEH 11:10"/>ቄሴታ ባጋፌ፥ ዮያሪቤ ና፥ ያዳያ ና፥ ያኪኔ ና፥ <verse eid="NEH 11:10"/><verse number="11" style="v" sid="NEH 11:11"/>ጾሳ ኬ ሃላቃ ጊዲዳ ኣሂጹቤ ና፥ ማራዮታ ና፥ ሳዶቄ ና፥ ማሹላሜ ና፥ ኪልቂያሳ ና ሳራያ፥ <verse eid="NEH 11:11"/><verse number="12" style="v" sid="NEH 11:12"/>ኢስታራ ኢሲፌ ጾሳ ኬ ኦሶ ኦዳ ኣሳይ ኢሲ ቦላ 822፤ ማልኪያ ና፥ ፓሽኩሬ ና፥ ዛካራሳ ና፥ ኣሞዛኔ ና፥ ፓላሊያ ና፥ ዪሮሃሜ ና ኣዳያ፥ <verse eid="NEH 11:12"/><verse number="13" style="v" sid="NEH 11:13"/>ሃ ዜሬታ ጊዶፌ 242 ኮራፒኔታ። ኢሜሬ ና፥ ማሺሌሚቴ ና፥ ኣሂዛያ ና፥ ኣዛሪኤሌ ና፥ ኣማሺሳ፥ <verse eid="NEH 11:13"/><verse number="14" style="v" sid="NEH 11:14"/>ሃ ዜሬታ ጊዶፌ ኤሬቲዳ ዎታዳራቲ 128፤ ኢስታ ካሌዛይ ሃጊዶሌሜ ና ዛብዲኤሌ።<verse eid="NEH 11:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="NEH 11:15"/>ሌዌ ባጋፌ፥ ቡኔ ና፥ ሃሻቢያ ና፥ ኣዚርቃሜ ና፥ ሃሹቤ ና ሻማኤ፥ <verse eid="NEH 11:15"/><verse number="16" style="v" sid="NEH 11:16"/>ሳባታይኔ ዮዛባዴ ጌቴቲዛ ኤዌ ባጋታ ካሌዛይቲ ጾሳ ኬስ ካሬ ባጋራ ኦሴቲዛ ኡባ ኦሶስ ኣላፌታ። <verse eid="NEH 11:16"/><verse number="17" style="v" sid="NEH 11:17"/>ዛብዴ ና፥ ሚካ ና ማታኒያ፥ ዬ ዬጺዛይታ ሃላቃ ጊዲዳ ኣሳፌ ና፥ ባ ኢሻታፔ ናምኣንዛ ባቂቡቂያ፥ ሻሙኤ ና ጊዲዳ ኣቢዳ ና፥ ጋላሌ ና፥ ኤዶታኔ ና። <verse eid="NEH 11:17"/><verse number="18" style="v" sid="NEH 11:18"/>ሌዌ ዜሬታፔ 284 ኣሳቲ ጌሻ ካታማ ዬሩሳላሜን ዴኢዳ። <verse eid="NEH 11:18"/><verse number="19" style="v" sid="NEH 11:19"/>ጾሳ ኬ ጊቤ ናጊዛ ዛቤቲ፥ ኣቁቤ፥ ጻልሞኔኔ ኢስታራ ኢሲፌ ኦዛ ዛቤቲ 172።<verse eid="NEH 11:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="NEH 11:20"/>ሃንኮ ኢስራኤሌ ኣሳይ፥ ቄሴቲኔ ሌዌ ባጋቲ ዉሪ ባ ጋዴን ጋዴን ዩሁዳ ካታማ ጊዶን ዴኢዳ። <verse eid="NEH 11:20"/><verse number="21" style="v" sid="NEH 11:21"/>ጾሳ ኬ ኦሳንቻቲ ዬሩሳላሜስ ኢሲ ባጋራ ዲዛ ኦፌሌ ጌቴቲዛ ቃሶሆን ዴቴስ፤ ጺሃይኔ ጊሻፋ ጌቴቲዛይቲ ኢስታስ ሃላቃታ።<verse eid="NEH 11:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="NEH 11:22"/>ዬሩሳላሜን ሌዌታ ባጋ ሃላቃ ሚካ ና፥ ማታኒያ ና፥ ሃሻቢያ ና፥ ባኔ ና፥ ኡዜይ ጾሳ ኬን ዬ ዬጺዛይታ ሃላቃ ጊዲዳ ኣሳፌ ዜሬ። <verse eid="NEH 11:22"/><verse number="23" style="v" sid="NEH 11:23"/>ኢስቲ ጋላስ ጋላስ ጾሳ ኬን ዬጼቲዛ ዬ ማራን ማራን ታራ ኦይኪ ዬጻና ማላ ካዎፔ ኢዛስ ኢሜቲዳ ኣዛዞይ ዴስ።<verse eid="NEH 11:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="NEH 11:24"/>ዩሁዳ ዛርኬን ዛራሄ ዛሬፔ ሜሼዛቤሌ ና ፓታያይ ፓሪሴ ካዎቴ ጊዶን ዲዛ ኢስራኤሌ ዴራ ኮሺዛ ዮኦታስ ካዎ ኢንዲራሴ።<verse eid="NEH 11:24"/></para>
+  <para style="s">ሃራ ቄሪ ካታማታን ዲዛ ኣሳ</para>
+  <para style="p">
+    <verse number="25" style="v" sid="NEH 11:25"/>ዩሁዳ ኣሳፔ ኢሶቲ ኢሶቲ ባ ጋዴ ማታን ዲዛ ካታማታ ቂሪያቴ-ኣርባኤኒኔ ኢዛ ማታን ዲዛ ጉታታን፥ ዲቦኒኔ ኢዛ ሄራን ዲዛ ጉታታን ቃሴ ዪቂቢጼኤሌኒኔ ኢዛ ሄራን ዲዛ ጉታታን ኡቲዳ። <verse eid="NEH 11:25"/><verse number="26" style="v" sid="NEH 11:26"/>ሃራይ ቃሴ ኢያሶ፥ ሞላዴ፥ ቤቲ-ጳሌጼ፥ <verse eid="NEH 11:26"/><verse number="27" style="v" sid="NEH 11:27"/>ሃጻሬ-ሹኣሌ ጌቴቲዛ ካታማታን ዴቴስ፤ ቤርሳቤሄኒኔ ኢዚ ሄራን ዲዛ ቄሪ ካታማቲካ ኢስታስ ዱሳሶ፤ <verse eid="NEH 11:27"/><verse number="28" style="v" sid="NEH 11:28"/>ጺጊላጌ ካታማን ሃራፔካ ሜኮናኒኔ ኢዚ ሄራን ዲዛ ጉታታን፥ <verse eid="NEH 11:28"/><verse number="29" style="v" sid="NEH 11:29"/>ኤን-ሪሞናን፥ ጾራኣን፥ ያርሙቴን፥ <verse eid="NEH 11:29"/><verse number="30" style="v" sid="NEH 11:30"/>ዛኖሄን፥ ኣዱላሜኒኔ ሄ ካታማታ ማታን ዲዛ ጉታታ ኡባሶን ዴቴስ፤ ቃሴ ላኪሼኒኔ ኢዚ ማታን ዲዛ ጋዴታን፥ ኣዜቄኒኔ ኢዚ ማታን ዲዛ ጉታቲ ዉሪ ኢስታስ ዱሳሶ፤ ሄሳካ ዩሁዳ ዴሬ ኣሳይ ዱጌ ባጋራ ቤርሳቤሄፔ ቢዲ ፑዴ ባጋ ሄኖሜ ሾባፌ ሃ ሲሚን ዲዛሶን ኡቲዳ።<verse eid="NEH 11:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="NEH 11:31"/>ቃሴካ ቢኒያሜ ዜሬቲ፥ ጌባን፥ ማኪማሴን፥ ኣዬን፥ ቤቴሌኒኔ ኢዚ ሄራን ዲዛ ጉታታን ዴቴስ፤ <verse eid="NEH 11:31"/><verse number="32" style="v" sid="NEH 11:32"/>ቃሴ ኣናቶቴን፥ ኖቤን፥ ኣናኒያን፥ <verse eid="NEH 11:32"/><verse number="33" style="v" sid="NEH 11:33"/>ሃጾሬን፥ ኤራማን፥ ጌቲሜ፥ <verse eid="NEH 11:33"/><verse number="34" style="v" sid="NEH 11:34"/>ሃዲዴን፥ ጼቦኢሜን፥ ናባላጼን፥ <verse eid="NEH 11:34"/><verse number="35" style="v" sid="NEH 11:35"/>ሎዳኒኔ፥ ኦኖን ሄሳካ «ኩሼ ሂላንቻታ ሾባ» ጌቴቲዛሶ ኡባይ ኢስታስ ዱሳሶ። <verse eid="NEH 11:35"/><verse number="36" style="v" sid="NEH 11:36"/>ዩሁዳ ዴሬ ጋርሳን ዲዛ ሌዌ ባጋታፔ ባጋይቲ ቢኒያሜ ዴሬራ ኢሲፌ ኡቲዳ።<verse eid="NEH 11:36"/></para>
+  <chapter eid="NEH 11"/>
+  <chapter number="12" style="c" sid="NEH 12"/>
+  <para style="s">ዲኤቴፌ ሲሚዳ ሌዌታ ሱንኔ ቄሴታ ሱን</para>
+  <para style="p">
+    <verse number="1" style="v" sid="NEH 12:1"/>ሳላቲያሌ ና ዜሩባቤሌኔ ቄሴታ ሃላቃ ኢያሶራ ዲኤቴፌ ሲሚዳ ቄሴታ ሱንኔ ሌዌታ ሱን ሃይሳፌ ካሊዛይሳ፤ ቄሴቲ፥ ሳራያ፥ ኤርማሳ፥ ኢዝራ፥ <verse eid="NEH 12:1"/><verse number="2" style="v" sid="NEH 12:2"/>ኣማሪያ፥ ማሉኬ፥ ሃጹሼ፥ <verse eid="NEH 12:2"/><verse number="3" style="v" sid="NEH 12:3"/>ሻካኒያ፥ ኤሬሁሜ፥ ሜርሞቴ፥ <verse eid="NEH 12:3"/><verse number="4" style="v" sid="NEH 12:4"/>ኢዶ፥ ጊንቶዬ፥ ኣቢያ፥ <verse eid="NEH 12:4"/><verse number="5" style="v" sid="NEH 12:5"/>ሚያሚኔ፥ ማኣዲያ፥ ቢልጋ፥ <verse eid="NEH 12:5"/><verse number="6" style="v" sid="NEH 12:6"/>ሻማኤ፥ ዮያሪቤ፥ ያዳያ፥ <verse eid="NEH 12:6"/><verse number="7" style="v" sid="NEH 12:7"/>ሳሉ፥ ኣሞኬ፥ ኪልቂያሳ፥ ያዳያ። ሃይታንቲ ቄሴታ ሃላቃ ኢያሶ ዎዴን ባ ባጋ ቄሴታ ካሌዛ ቄሴታ።<verse eid="NEH 12:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="NEH 12:8"/>ሌዌታ፥ ጋላታ ዬ ዬጺሲዛይታስ ኣላፌ ጊዲዲ ሌዌቲ፥ ኢያሶ፥ ቢኑዌ፥ ቃዲምኤሌ፥ ሼሬቢያ፥ ዩሁዳኔ ማታኒያ። <verse eid="NEH 12:8"/><verse number="9" style="v" sid="NEH 12:9"/>ባቂቡቂያ፥ ኡኔኔ ሃራ ሌዌ ባጋፌ ጊዲዳ ኢስታ ኢሻቲ ኢስታራ ኢሲፌ ሶሬኒኔ ኤዶን ኢሶይ ኢሳፌ ኤኪ ዬጼቴስ።<verse eid="NEH 12:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="NEH 12:10"/>ኢያሶይ ኢዮኣቄሜ ዬሊዴስ፤ ኢዮኣቄሜይ ኤልያሼቤ ዬሊዴስ፤ ኤልያሼቤይ ዮያዳኤ ዬሊዴስ። <verse eid="NEH 12:10"/><verse number="11" style="v" sid="NEH 12:11"/>ዮያዳኤይ ዮናታኔ ዬሊዴስ፤ ዮናታኔይ ያዱኤ ዬሊዴስ።<verse eid="NEH 12:11"/></para>
+  <para style="s">ቄሴታ ዜሬ ሃላቃታ</para>
+  <para style="p">
+    <verse number="12" style="v" sid="NEH 12:12"/>ኢዮኣቄሜይ ቄሴታ ሃላቃቴን ዲዛ ዎዴ ቄሴቲኔ ኢስታ ሃላቃቲ ሃይሳፌ ካሊዛይታ፤ ሳራያ ዜሬፌ ማራዬ፥ ኤርማሳ ዜሬፌ ሃናኒያ፥ <verse eid="NEH 12:12"/><verse number="13" style="v" sid="NEH 12:13"/>ኢዝራ ዜሬፌ ማሹላሜ፥ ኣማሪያ ዜሬፌ ዪሆሃናኔ፥ <verse eid="NEH 12:13"/><verse number="14" style="v" sid="NEH 12:14"/>ማሉኬ ዜሬፌ ዮናታኔ፥ ሼባኒያ ዜሬፌ ዮሴፌ፥ <verse eid="NEH 12:14"/><verse number="15" style="v" sid="NEH 12:15"/>ሃሪሜ ዜሬፌ ኣዳና፥ ማራዮታ ዜሬፌ ሂልቂያ፥ <verse eid="NEH 12:15"/><verse number="16" style="v" sid="NEH 12:16"/>ኢዶ ዜሬፌ ዛካራሳ፥ ጊንቶኔ ዜሬፌ ማሹላሜ፥ <verse eid="NEH 12:16"/><verse number="17" style="v" sid="NEH 12:17"/>ኣቢያ ዜሬፌ ዚኪሬ፥ ሚኒያሚኔፔኔ ሞኣዲያ ዜሬፌ ፒልጻዬ፥<note caller="+" style="f"><char style="fr" closed="false">12፡17 </char><char style="ft" closed="false">ኢብራዌታ ማጻፋን ሚኒያሚኔ ጌቴቲዛ ኣዴዛ ሱን ባዋ።</char></note> <verse eid="NEH 12:17"/><verse number="18" style="v" sid="NEH 12:18"/>ቢልጋ ዜሬፌ ሻማኤ፥ ሻማኤ ዜሬፌ ዮናታኔ፥ <verse eid="NEH 12:18"/><verse number="19" style="v" sid="NEH 12:19"/>ዮያሪቤ ዜሬፌ ማታኒያ፥ ያዳያ ዜሬፌ ኡዜ፥ <verse eid="NEH 12:19"/><verse number="20" style="v" sid="NEH 12:20"/>ሳላዬ ዜሬፌ ቃላዬ፥ ኣሞኬ ዜሬፌ ኤቦሬ፥ <verse eid="NEH 12:20"/><verse number="21" style="v" sid="NEH 12:21"/>ኪልቂያሳ ዜሬፌ ሃሻቢያ፥ ያዳያ ዜሬፌ ናቲናኤሌ፥<verse eid="NEH 12:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="NEH 12:22"/>ቄሴታሶ ኣሳ ሱንኔ ሌዌ ባጋ ኣሳታስ ሶ ኣሳ ሱን ሃይሳፌ ካሊ ዲዛይሳ፤ ኤልያሼቤ፥ ዮያዳኤ፥ ዮሃናኔኔ ያዱኤ ጌቴቲዛ ቄሴታ ሃላቃቲ ዲዛ ዎዴ ሌዌ ባጋታ ሶ ኣሳታ ሃላቃቲኔ ቄሴታ ሶ ኣሳታ ሃላቃቲ ሻኬቲ ኤሬቲዛ ማዝጋቤይ ዴስ፤ ሄሲካ ፓሪሴ ዴሬ ካዎ ዳሪዮሲ ካዎቲ ዲዛ ዎዴና። <verse eid="NEH 12:22"/><verse number="23" style="v" sid="NEH 12:23"/>ጊዶ ኣቲን ሌዌ ባጋታ ሶ ኣሳታ ሃላቃታፔ ቆንጬን ማዝጋቤቲዲ ኤሬቲዳይቲ ኤልያሼቤስ ናዛ ና ዮሃናኔይ ሃይቃና ጋካናስ ዲዛ ዎዴን ጻላ።<verse eid="NEH 12:23"/></para>
+  <para style="s">ጾሳ ኬን ኦና ኣሳታ ኢስቲ ኦና ኦሶን ሱን</para>
+  <para style="p">
+    <verse number="24" style="v" sid="NEH 12:24"/>ሃሻቢያይ፥ ሼሬቢያይ፥ ኢያሶይ፥ ቢኑዌይኔ ቃዲምኤሌይ ካሌዛ ሌዌ ባጋቲ ናምኡ ኬዚ ሻኬቲዳ። ሄ ናምኡ ባጋቲካ ጾሳ ኣሲ ካዎ ዳዊቲ ኣዛዚዳ ኣዛዞ ማላ ጾሳስ ጋላታ ዬ ሶሬኒኔ ኤዶን ኢሶይ ኢሳፌ ኤኪ ዬጺሼ ሺሺዳ።<verse eid="NEH 12:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="NEH 12:25"/>ጾሳ ኬ ጊምቤ ፔንጌ ኣቻን ኦሴቲዳ ሚሽ ዎዛ ሚንጃ ኬ ናጊዛ ዛቤቲ ማታኒያ፥ ባቂቡቂያ፥ ኣብዲዩ፥ ማሹላሜ፥ ጻልሞኔኔ ኣቁቤ ጌቴቲዛይታ።<verse eid="NEH 12:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="NEH 12:26"/>ሄይቲ ኢዮሳዶቄ ናዛ ና ኢያሶ ና ኢዮኣቄሜ ዴሬ ኣይሲዛ ናሂሚያ፥ ቄሴኔ ዎጋ ኬሂ ኤሪዛ ቄሴ ኢዝራንቲ ዲዛ ዎዴ ዶሬቲዳ ኦሳንቻቲ ዴቴስ።<verse eid="NEH 12:26"/></para>
+  <para style="s">ዬሩሳላሜ ካታማ ጊምቤ ኣንጂሶ ባኣሌ</para>
+  <para style="p">
+    <verse number="27" style="v" sid="NEH 12:27"/>ዬሩሳላሜ ካታማ ጊምቤይ ኣንጄቲዛ ጋላስ ሌዌ ባጋቲ ዳላን፥ ባጋናኒኔ ማሲንቆን ዬጺዲ ቦንቻና ማላ ኢስቲ ዲዛሶፔ ዲዛሶፔ ኮዬቲዲ ዪዳ። <verse eid="NEH 12:27"/><verse number="28" style="v" sid="NEH 12:28"/>ሄ ባኣሌዛ ቦንቻና ሌዌ ባጋፌ ዬጺዛይቲ ዉሪ ባ ዲዛሶፔ ዬሩሳላሜ ሄራፔኔ ናጾፌ ቢታን ዲዛ ሄራታፔ፥ <verse eid="NEH 12:28"/><verse number="29" style="v" sid="NEH 12:29"/>ዬሩሳላሜ ዩሾን ኢስቲ ባንታስ ዱሳሶ ኦዳ ጊሻስ ዬጺዛይታ ቤቲ-ጋልጋላፔ፥ ጌባፔኔ ኣዚሞቴፔ ሺሺዲ ኤሂዳ። <verse eid="NEH 12:29"/><verse number="30" style="v" sid="NEH 12:30"/>ቄሴቲኔ ሌዌ ባጋቲ ባ ጊሻስ፥ ዴራ ጊሻስ፥ ካታማ ጊምቤዛ ጊሻሲኔ ጊምቤዛ ፔንጌታ ጊሻስ ጌሾ ዎጋ ኦዳ።<verse eid="NEH 12:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="NEH 12:31"/>ታኒ ናሂሚያይ ዩሁዳ ዴሬ ካሌዛይቲ ጊምባ ቦላ ኬዛና ማላ ሂስቲዳፔ ጉዬ ሎኤ ዬ ዬጺዛይቲ ናምኡ ቡቴን ሻኬቲዲ ዬጻና ማላ ኦዲስ፤ ኮይሮ ቡቴዚ ጊምባስ ሁኤ ቦላ ኬዚዲ ኡሻቻ ባጋራ ዲዛ፥ «ቡራ ዬሳሶ» ኣ ቢዳ። <verse eid="NEH 12:31"/><verse number="32" style="v" sid="NEH 12:32"/>ኢስታካ ሆሻኢያይኔ ዩሁዳ ዴሬ ካሌዛይታፔ ባጋቲ ካሊዳ። <verse eid="NEH 12:32"/><verse number="33" style="v" sid="NEH 12:33"/>ሃራቲ ቃሴ ኢስታራ ዲዛ ኣዛሪያሲ፥ ኢዝራይ፥ ማሹላሜይ፥ <verse eid="NEH 12:33"/><verse number="34" style="v" sid="NEH 12:34"/>ዩሁዳይ፥ ቢኒያሜይ፥ ሻማኤይ፥ ኤርማሲ ሳልፊዲ ኣዳ፤ <verse eid="NEH 12:34"/><verse number="35" style="v" sid="NEH 12:35"/>ዛዬ ፑኒዛ ቄሴቲ፥ ቃሴካ ኣሳፌ ና፥ ዛኩሬ ና፥ ሚካያ ና፥ ማታኒያ ና፥ ሻማኤ ና፥ ዮናታኔ ና ዛካራሲ ኢስታራ ኣዳ። <verse eid="NEH 12:35"/><verse number="36" style="v" sid="NEH 12:36"/>ዛካራሳ ዜሬ ሻማኤይ፥ ኣዛሪኤሌይ፥ ሚላላይ፥ ጊላላይ፥ ማኣዳይ፥ ናቲናኤሌይ፥ ዩሁዳይኔ ሃናኒያይ ጾሳ ኣስ ዳዊቲ ኢዛን ዬጺዛ ዬ ሚሽ ኤኪ ካሊዳ፤ ሄ ቡቴዛ ካሌዛይ ዎጋ ሎኤ ኤሪዛ ቄሴ ኢዝራ። <verse eid="NEH 12:36"/><verse number="37" style="v" sid="NEH 12:37"/>ፑልቶ ሃ ፔንጌኮ ጋኪዳፔ ጉዬ ዳዊቴ ካታማ ኤፊዛ ኦጌ ኦይኪዳ፤ ጊምባ ቦላ ዲዛ ኬቻታ ፑዴ ኬዚዲ ካዎ ዳዊቴ ካዎቴ ኬ ኣቻራ ኣዲ ሄ ካታማይስ ኣርሼይ ኬዚዛ ባጋራ ዲዛ ሃ ጊምቤ ፔንጌ ሲሚዳ።<verse eid="NEH 12:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="NEH 12:38"/>ሃንኮ ዬ ዬጺዛ ቡቴዚ ጊምባ ቦላራ ሃዲርሳ ባጋ ኣ ቢዴስ፤ ታኒካ ባጋ ኣሳራ ሃ ቡቴዛ ካላዲስ፤ ኢቶኔ ጊምቤ ጌቴቲዛሶራ ካንዲ ጌዴ ኣሆ ጊምቤዛኮ ጋኪዶስ። <verse eid="NEH 12:38"/><verse number="39" style="v" sid="NEH 12:39"/>ቃሴ ኑ ሄሳፌ ኣ ኤፍሬሜ ጊምቤ ፔንጌ፥ ዪሻና ጊምቤ ፔንጌ፥ ሞሌ ጊምቤ ፔንጌ ጌቴቲዛሶኔ ሃናኒኤሌ ጊምቤ፥ ጼቱ ጊምቤታኔ ዶርሳታ ጊምቤ ፔንጌ ጌቴቲዛሶታ ጋኪዶስ፤ ጾሳ ኬ ማታን ዲዛ ዛቤታ ጊምቤ ፔንጌ ጌቴቲዛሶዛ ጋኪዲ ሳልፌዛ ጊጊዶስ።<verse eid="NEH 12:39"/></para>
+  <para style="p">
+    <verse number="40" style="v" sid="NEH 12:40"/>ሃይሳ ናምኡ ቡቴ ሳልፌዚ ጾሳ ዬን ጋላቲሼ ታናራ ዲዛ ዴራ ካሌዛይታራ ጾሳ ኬ ዲዛሶ ዛዋ ጋኪዶስ፤ <verse eid="NEH 12:40"/><verse number="41" style="v" sid="NEH 12:41"/>ታ ዲዛ ሳልፌዛን ጹሩምባ ፑኒዛ ቄሴቲ ሃይሳፌ ካሊ ዲዛይታ፤ ኤልያቄሜ፥ ማኢሳያ፥ ሚኒያሚኔ፥ ሚካያ፥ ኤልዮኤናዬ፥ ዛካራሳኔ ሃናኒያ፤ <verse eid="NEH 12:41"/><verse number="42" style="v" sid="NEH 12:42"/>ኢስታካ ካሊዛይቲ ማኢሳያ፥ ሻማኤ፥ ኤልኤዜሬ፥ ኡዜ፥ ዪሆሃናኔ፥ ማልኪያ፥ ኤላሜኔ ኤዜሬ፤ ሄይቲ ባ ኤቂዛሶ ኤቂዛሶ ኦይኪዳ፤ ዬጺዛይቲ ዪዚራሄያይ ካሌን ባ ቃላ ቁ ሂስቲዲ ዬጺዳ።<verse eid="NEH 12:42"/></para>
+  <para style="p">
+    <verse number="43" style="v" sid="NEH 12:43"/>ሄ ጋላስ ኣሳይ ዳሮ ያርሾ ሺሺዴስ፤ ጾሳይ ኢዛ ኡፋይሲዳ ጊሻስ ዴሬዚ ኬሂ ኡፋዬቲዴስ፤ ማጫሳይኔ ናይቲካ ኢስታራ ኢሲፌ ኡፋዬቲዳ፤ ዬሩሳላሜን ሃኒዳ ኢሊሊሳ ቃላይ ሃሆን ሲዬቲዴስ።<verse eid="NEH 12:43"/></para>
+  <para style="p">
+    <verse number="44" style="v" sid="NEH 12:44"/>ሄ ዎዴ ጾሳ ኬ ኦሶስ ኢሜቲዛ ኣስራታኔ ላይን ላይን ኮይሮ ጋኪዛ ካ ጼራኔ ሜቴቲዛ ዱማ ዱማ ሚታ ኣይፌ ጼራ ዎዛ ኬ ናጊዛ ዛቤታ ዶሪዳ፤ ሄ ኣሳቲ ዱማ ዱማ ካታማታ ማታን ዲዛ ጎሻ ጋዴፔ ዎጋይ ኣዛዚዛ ማላ ቄሴታሲኔ ሌዌ ባጋታስ ኢሜታና ቤሲዛይሳ ሺሻና ኣላፌቴ ኢስታስ ዴስ፤ ኩሜ ዩሁዳ ኣሳይ ቄሴታ ቦላኔ ሌዌ ባጋታ ቦላ ኬሂ ኡፋዬቲዳ። <verse eid="NEH 12:44"/><verse number="45" style="v" sid="NEH 12:45"/>ኢስቲ ኡፋዬቲዳይካ ጾሳይ ኢስታ ኣዛዚዳ ቄሴቲኔ ሌዌቲ ፖላናስ ቤሲዛ ዎጋኔ ጌሾ ዎጋታ ኦዳ ጊሻሳ፤ ጾሳ ኬን ዬጺዛይቲኔ ጾሳ ኬ ናጊዛ ዛቤቲካ ዳዊቲኔ ኢዛ ና ሶሎሞኔይ ካሴ ዎዳ ዎጋ ማላ ኢስታፌ ናጌቲዛ ኦሶ ኦ ፖሊዳ።<note caller="-" style="x"><char style="xo" closed="false">12፡45 </char><char style="xt" closed="false"><ref loc="1CH 25:1-8">1ታሪ 25፡1-8</ref>፤ <ref loc="1CH 26:12">26፡12</ref></char></note> <verse eid="NEH 12:45"/><verse number="46" style="v" sid="NEH 12:46"/>ካሴ ካዎ ዳዊታፔኔ ኣሳፌ ዎዴፔ ዶሚዲ ዬ ዬጺዛይታሲኔ ጋላታ ዬን ጾሳ ቦንቺዛ ኣሳታ ካሌዛይቲ ዴቴስ። <verse eid="NEH 12:46"/><verse number="47" style="v" sid="NEH 12:47"/>ዜሩባቤሌ ዎዴኒኔ ናሂሚያ ዎዴን ኩሜ ኢስራኤሌ ኣሳይ ጾሳ ኬን ዬጺዛይታሲኔ ናጊዛ ዛቤታስ ጋላስ ጋላስ ኢሜታና ቤሲዛይሳ ኢሜቴስ፤ ሃንኮ ሌዌ ባጋታይሳ ዱማ ኢሜቴስ፤ ሌዌ ባጋቲካ ኣሮኔ ዜሬፌ ጊዲዳ ቄሴታስ ቤሲዛይሳ ኢሜቴስ።<verse eid="NEH 12:47"/></para>
+  <chapter eid="NEH 12"/>
+  <chapter number="13" style="c" sid="NEH 13"/>
+  <para style="s">ኣላጋታፔ ኢስራኤሌ ኣሳ ሻኬቴ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="NEH 13:1"/>ሄ ዎዴ ኣሳይ ዉሪ ሙሴ ማጻፋይ ናባቤቲን ሲዪሼ፥ «ሞኣቤ ኣሳይኔ ኣሞኔ ኣሳይ ጾሳ ኣሳራ ሜርና ጋካናስ ዋላኬቶፌቶ» ጊዛሶ ጋኪ ዴሚዴስ። <verse eid="NEH 13:1"/><verse number="2" style="v" sid="NEH 13:2"/>ሃ ኣዛዞዚ ኢሜቲዳ ጋሶይካ ኢስራኤሌ ኣሳይ ጊብጼ ቢታፌ ኬዚ ቢዛ ዎዴ ሞኣቤ ዴሬ ኣሳይኔ ኣሞኔ ዴሬ ኣሳይ ካኔ ሃ ኢስራኤሌ ኣሳ ዲጊዳ ጊሻሳ፤ ሄሳፌ ቦላራካ ኢስራኤሌ ኣሳ ዶቃና ማላ ባላሜ ጌቴቲዛዴስ ሚሽ ኢሚዳ፤ ጊዶ ኣቲን ጾሳይ ሄ ዶቄዛ ኣንጆን ላሚዴስ።<note caller="-" style="x"><char style="xo" closed="false">13፡1-2 </char><char style="xt" closed="false"><ref loc="DEU 23:3-5">ዛሬ 23፡3-5</ref></char></note><note caller="-" style="x"><char style="xo" closed="false">13፡2 </char><char style="xt" closed="false"><ref loc="NUM 22:1-6">ታይ 22፡1-6</ref></char></note> <verse eid="NEH 13:2"/><verse number="3" style="v" sid="NEH 13:3"/>ሄ ዎጋ ቃላዛ ኢስራኤሌ ኣሳይ ሲዪዳ ዎዴ ኣላጋ ጊዲዳ ኣሳ ባ ጊዶፌ ሻኪ ኬሲዳ።<verse eid="NEH 13:3"/></para>
+  <para style="s">ናሂሚያይ ኦራዳ ዎጋ</para>
+  <para style="p">
+    <verse number="4" style="v" sid="NEH 13:4"/>ጾሳ ኬ ሚሻታ ዎዛ ኪፊሌታስ ኣላፌ ጊዲዳ ቄሴ ኤልያሼቤስ ዳሮ ላይፌ ዶሚዲ ጾቢያራ ሚኖ ጋይቶቴ ዴስ፤ <verse eid="NEH 13:4"/><verse number="5" style="v" sid="NEH 13:5"/>ሄሳፌ ዴንዲዳይሳን ካ ሙጹዋታ፥ ኤጻኔ፥ ጾሳ ኬን ዲዛ ዱማ ዱማ ሚሻታፔ፥ ካፌ፥ ዎይኔ ኡሻፌኔ ዎጋራ ዛይቴፔ ኬሲዲ ሌዌ ባጋታስ፥ ጾሳ ኬን ዬጺዛይታሲኔ ናጊዛ ዛቤታስ ኢሜቲዛ ኣስራታይኔ ቄሴታስ ኢሜቲዛ ሙጹዋታ ዎናስ ኦሴቲዳ ኣሆ ኪፊሌዛ ጾቢያይ ኢዛን ዳና ማላ ኤልያሺቤይ ኢዛስ ኢሚዴስ።<verse eid="NEH 13:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="NEH 13:6"/>ሃይሲ ኡባይ ሃኒሺን ታ ዬሩሳላሜን ዲኬ፤ ጋሶይካ ካዎ ኣርጼኪሲሲ ባቢሎኔን ካዎቲዳ ሄ ታማኔ ናምኣን ላይን ታኒ ጉዬ ሲማ ባቢሎኔ ዴሬ ባዲስ፤ ጊዶ ኣቲን ጉ ዎዴፔ ጉዬ ካዎዛ ፒቃዴ ኦይቻዲስ፤ <verse eid="NEH 13:6"/><verse number="7" style="v" sid="NEH 13:7"/>ኦይቻዳካ ዬሩሳላሜ ሲማዲስ፤ ታ ሄ ጋኪዳ ማላ ኤልያሼቤይ ጾቢያስ ጾሳ ኬ ጊቤ ጊዶን ኢዚ ዳና ማላ ኢዛስ ኢሲ ኪፊሌ ኢሚዳይሳ ሲያዲስ። <verse eid="NEH 13:7"/><verse number="8" style="v" sid="NEH 13:8"/>ሄሳ ጊሻስ ሃንቄታዳ ጾቢያስ ዲዛ ሚሽ ኡባ ኢዚ ጌልዳ ኪፊላፔ ካሬ ኬሳ ኬሳ ኦላዲስ። <verse eid="NEH 13:8"/><verse number="9" style="v" sid="NEH 13:9"/>ኪፊሌቲካ ዎጋይ ጊዛይሳ ጌያና ማላኔ ጾሳ ኬ ሚሻቲ፥ ካ ሙጹዋታቲኔ ኤጻኔቲ ሲሚ ባ ካሴ ዲዛሶ ጌላና ማላ ኣዛዛዲስ።<verse eid="NEH 13:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="NEH 13:10"/>ቃሴ ኣሳይ ጾሳ ኬን ዬጺዛይታሲኔ ሌዌ ባጋታስ ኮሺዛይሳ ኢሞንታ ኣጊዳ ጊሻስ ዬሩሳላሜፔ ጾሳ ኦሳ ኣጊዲ ካሴ ባ ዲዛ ጎሻ ጋዴ ጎዪ ዳናስ ጉዬ ሲሚ ቢዳይሳ ኤራዲስ። <verse eid="NEH 13:10"/><verse number="11" style="v" sid="NEH 13:11"/>ሄሳ ጊሻስ ታኒ ሃላቃታ፥ «ጾሳ ኬ ኦሶ ኣይስ ኣጊዴቲ?» ጋዳ ሃንቄታዲስ፤ ሄሳፌ ጉዬ ሌዌ ባጋታኔ ዬጺዛይታ ጼይጋዳ ካሴ ኢስቲ ጾሳ ኬን ኦዛ ኦሶዛ ሲሚ ኦና ማላ ዛራ ጌልዲስ። <verse eid="NEH 13:11"/><verse number="12" style="v" sid="NEH 13:12"/>ሄሳፌ ጉዬ ኢስራኤሌ ኣሳይ ዉሪ ባ ካፌ፥ ዎይኔ ኡሻፌኔ ዎጋራ ዛይቴፔ ኢስታፌ ኮዬቲዛ ታማፌ ኢሲ ኩሼ ኬሲዲ ጾሳ ኬ ሚሽ ዎዛ ሚንጃ ኬ ኤሆ ዶሚዴስ። <verse eid="NEH 13:12"/><verse number="13" style="v" sid="NEH 13:13"/>ታኒ ቄሴ ሼሌሚያ፥ ዎጋ ኤራንቻ ሳዶቄይኔ ሌዌ ባጋፌ ፓዳያ ሚሽ ዎዛ ሚንጃ ኬስ ኣላፌ ሂስታ ዶራዲስ፤ ማታኒያ ናዛ ና ዛኩሬ ና ሃናኔይ ኢስታ ማዳና ማላ ዎዲስ፤ ሃ ኣሳቲ ዉሪ ባ ኢሻታስ ኮሺዛ ሚሼታ ሻኪ ሻኪ ኢማናስ ኣማኔቲዳይታ።<verse eid="NEH 13:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="NEH 13:14"/>ታ ጎዶ! ኔ ኬይኔ ኔ ኬ ኦሶይ ሱሬ ባና ማላ ታ ኣማኔቴን ኦዳ ሎኦ ኦሶዛ ቆፓዳ ኔ ታስ ኪያቴ ኦ።<verse eid="NEH 13:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="NEH 13:15"/>ሄ ዎዴ ዩሁዳ ዴሬ ኣሳይ ሳምባታ ጋላስ ዎይኔ ኣይፌፔ ዎይኔ ጉምኢሺን ቤያዲስ፤ ቃሴ ካ፥ ዎይኔ ኡሹ፥ ዎይኔ ኣይፌ፥ ባላሴ ኣይፌኔ ሃራ ሚሻታካ ሃሬን ጫኒዲ ዬሩሳላሜ ኤሂሺን ቤያዳ ናምኣን ሳምባታ ጋላስ ኣይኮካ ዛልኦንታ ማላ ጋዳ ሚን ዮታዲስ። <verse eid="NEH 13:15"/><verse number="16" style="v" sid="NEH 13:16"/>ዬሩሳላሜን ዲዛ ጺሮሴ ዴሬ ኣሳቲ ሞሌኔ ሃራ ሃራ ዛልኤ ሚሻታ ኤሂዲ ሳምባታ ጋላስ ዬሩሳላሜን ዲዛ ዩሁዳ ዴሬ ኣሳስ ባይዜቴስ፤ <verse eid="NEH 13:16"/><verse number="17" style="v" sid="NEH 13:17"/>ሄሳ ጊሻስ ታኒ ኣይሁዳ ካሌዛይታ ሃንቄታዳ «ሃይሳ ኢንቴ ኦዛ ኢታ ኦሶዛ ኡባ ቤኢቴ! ሄኮ ኢንቴ ሳምባታ ቱኒሲሼ ዴታ፤ <verse eid="NEH 13:17"/><verse number="18" style="v" sid="NEH 13:18"/>ኑ ጾሳይ ኑ ቦላኔ ሃ ካታማ ቦላ ኤሂዳ ሃንቆይ ካሴ ኢንቴ ኣዋቲ ሃይሳ ማላ ኢታ ኦሶ ኦዳ ጊሻስ ጊዴኔ? ሃኢካ ኢንቴ ሳምባታ ቦንቾንታ ጊሻስ ጾሳ ሃንቆ ኢስራኤሌ ዴራ ቦላ ዴንታ» ጋዲስ።<verse eid="NEH 13:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="NEH 13:19"/>ሄሳፌ ጉዬ ሳምባታይ ጌላናፔ ሲን ጋላስ ጋዴይ ሌምኢ ሌምኢሺን ዬሩሳላሜ ፔንጌቲ ጎርዴቲዲ ሳምባታይ ኣና ጋካናስ ዶዬቶንታ ማላ ታኒ ኣዛዛዲስ፤ ቃሴ ሳምባታ ጋላስ ኣይኮ ሚሼ ዛልኣና ኤኪ ዮንታ ማላ ታ ኦሳንቻታፔ ኢሶታ ኢሶታ ጊምባ ፔንጌ ናጋና ማላ ዛቤ ዎዲስ። <verse eid="NEH 13:19"/><verse number="20" style="v" sid="NEH 13:20"/>ዱማ ዱማ ሚሻታ ኤሂ ዛልኢዛ ዛልኣንቻቲ ኢሲቶ ዎይኮ ናምኡቶ ማላ ኣርባ ኦማርስ ዬሩሳላሜ ጊምቤስ ካሬ ባጋራ ኣቂዳ፤ <verse eid="NEH 13:20"/><verse number="21" style="v" sid="NEH 13:21"/>ታኒካ ኢስታስ፥ «ኢንቴ ማላዶ ዎንታራ ጌላናስ ቆፒዲ ጊምባፌ ካሬ ባጋራ ኣቂዛይሲ ኢንቴና ማዴና፤ ቃሴ ኢንቴ ሄሳ ማላ ኦሶ ናምኣን ኦዛ ጊዲኮ ታ ኢንቴ ቦላ ታ ዎልቃ ቤሳና» ጋዳ ሚን ዮታዲስ፤ ሄሳፌ ዶሚዲ ሳምባታ ጋላስ ዩስ ኣጊዳ። <verse eid="NEH 13:21"/><verse number="22" style="v" sid="NEH 13:22"/>ሄሳፌ ጉዬ ሌዌቲ ባንታና ጌሺዲ ሳምባታ ጋላስ ዱማቴን ናጌቲዛይሳ ኤሪሳናስ ጊምባ ፔንጌታ ናጋና ማላ ኢስታ ኣዛዛዲስ።</para>
+  <para style="p" vid="NEH 13:22">ታ ጾሳዉ! ሃይሳ ኡባ ጊሻስ ታና ቆፓ፤ ቃሴ ኔኒ ኔ ሚኖ ሲቆዛን ታና ማዳና ማላ ታ ኔና ዎሳይስ።<verse eid="NEH 13:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="NEH 13:23"/>ሄ ዎዴ ኣይሁዳ ኣሳፔ ዳሮቲ ኣሽዶዴ፥ ኣሞኔኔ ሞኣቤ ዴሬፔ ማጫሳታ ማቾ ባስ ኤኪዳይሳ ኤራዲስ።<note caller="-" style="x"><char style="xo" closed="false">13፡23-25 </char><char style="xt" closed="false"><ref loc="EXO 34:11-16">ኬሳ 34፡11-16</ref>፤ <ref loc="DEU 7:1-5">ዛሬ 7፡1-5</ref></char></note> <verse eid="NEH 13:23"/><verse number="24" style="v" sid="NEH 13:24"/>ኢስታ ናይታፔ ባጋቲ ኣሽዶዴ ዴሬ ቃላኔ ኢሲ ኢሲ ሃራ ዴሬ ቃላን ሃሳዬቴስ ኣቲን ኣይሁዳ ዴሬ ቃላን ሃሳያና ዳንዳይቤቴና። <verse eid="NEH 13:24"/><verse number="25" style="v" sid="NEH 13:25"/>ታኒ ሄ ኣሳታ ሃንቃዳ ቃንጋዲስ፤ ዋዲሲኔ ኢስታ ሁኤ ቢናናካ ቡጫዲስ፤ ሄሳፌ ጉዬ ኢስታ ጊዲን ኢስታ ናይቲ ኣላጋ ኣሳታራ ኤኬቶንታ ማላኔ ጌሌቶንታ ማላ ጾሳ ሱንን ጫቄዲስ። <verse eid="NEH 13:25"/><verse number="26" style="v" sid="NEH 13:26"/>ቃሴ ኢስታስ፥ «ኢስራኤሌ ካዎ ሶሎሞኔይ ናጋራ ኦዳይ ሃይሳ ማላ ኣላጋ ኣሳታፔ ማቾ ኤኮን ጊዴኔ? ዳሮ ካዎቴ ጊዶን ኢዛ ማላ ካዎይ ቤቲቤና፤ ጾሳይ ኢዛ ዶሲዳ ጊሻስ ኢስራኤሌ ዴሬ ቦላ ካዎዴስ፤ ጊዶ ኣቲን ኣላጋ ዴሬ ማጫሳቲ ኢዚ ናጋራ ኦና ማላ ካሌዳ።<note caller="-" style="x"><char style="xo" closed="false">13፡26 </char><char style="xt" closed="false"><ref loc="2SA 12:24-25">2ሳሜ 12፡24-25</ref>፤ <ref loc="1KI 11:1-8">1ካዎ 11፡1-8</ref></char></note> <verse eid="NEH 13:26"/><verse number="27" style="v" sid="NEH 13:27"/>ሂስቲን ኢንቴ ኣላጋ ካዎቴ ማጫሳታ ኤኮን ሃይሳ ማላ ጊታ ሞሮ ኦይሳኔ ኢንቴ ኑ ጎዳስካ ኣማኔቶንታ ኣጎይሳ ኑ ሲያና ቤሲዜ?» ጋዲስ።<verse eid="NEH 13:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="NEH 13:28"/>ቄሴ ኤልያሼቤ ናይታፔ ኢሶይ ዮዳሄ ጌቴቲዛይሲ ቤቲ-ሆሮኔ ካታማ ኣሲ ሳንባላጼ ናዮ ባስ ማቾ ኤኪዴስ፤ ሄሳ ጊሻስ ዮዳሄይ ዬሩሳላሜ ዬዲ ባና ማላ ጎዳዲስ።<note caller="-" style="x"><char style="xo" closed="false">13፡28 </char><char style="xt" closed="false"><ref loc="NEH 4:1">ናሂ 4፡1</ref></char></note><verse eid="NEH 13:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="NEH 13:29"/>«ታ ጾሳዉ! ሃይቲ ቄሴቴ ዎጋ፥ ቄሴታራኔ ሌዌ ባጋታራ ኔ ካሴ ዎዳ ጫቆ ቃላ ኢስቲ ዎስቲ ቱኒሲዳኮ ሃይሳ ጾሶ ኔ ጼላ!» ጋ ዎሳይስ።<verse eid="NEH 13:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="NEH 13:30"/>ኢስቲ ኣላጋ ዴሬ ቱናቴፌ ባና ጌሻና ማላ ታ ኦዲስ፥ ቄሴቲኔ ሌዌ ባጋቲ ባ ኦሶ ኦሶ ኤሪ ኦና ማላ ዎጋ ጊጊሳዲስ። <verse eid="NEH 13:30"/><verse number="31" style="v" sid="NEH 13:31"/>ቃሴ ያርሾ ጹጋናስ ኤሶ ሚ ኮሺዛ ዎዴን ኤሃና ማላ ጊጊሳዲስ፤ ኣሳይካ ባ ሺሺዛ ካፌኔ ኣይፊዛ ሚ ኣይፌፔ ኮይሮ ጋኪዳ ጼራ ዎስቲ ሺሻናስ ቤሲዛኮ ማራ ኦይዲስ፤ ታ ጾሳዉ! ኔ ሎኤቴን ሃይሳ ታ ኦዳ ሎኦ ኦሶዛ ጊሻስ ታና ቆፓ።<verse eid="NEH 13:31"/></para>
+  <chapter eid="NEH 13"/>
+</usx>
