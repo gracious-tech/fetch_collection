@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Biblija pe romani Čergarsko čhib",
+        "local_abbrev": "RČB",
+        "english": "Chergash New Testament",
+        "english_abbrev": "CNT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=65b675fa952d5d27"
+    },
+    "ids": {
+        "dbl": "65b675fa952d5d27"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=65b675fa952d5d27&type=release",
+        "updated": "2025-03-03",
+        "revision": 12
+    },
+    "literalness": null,
+    "tags": []
+}
