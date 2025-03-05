@@ -1,39 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usx version="2.6">
-  <book code="3JN" style="id">- Goofa</book>
-  <para style="h">3Yohaannisa</para>
-  <para style="toc3">3Yoha</para>
-  <para style="toc2">3Yohaannisa</para>
-  <para style="toc1">Yohaannisi Xaafida Heedzantho kiitaa</para>
-  <para style="mt1">Yohaannisi Xaafida</para>
-  <para style="mt2">Heedzantho kiitaa</para>
-  <para style="imt">Gaatha Qofaa</para>
-  <para style="ip">Yohaannisi xaafida heedzantho kiitaa Yesuusa hawaare gidida cimaa Yohaannisi xaafis. I xaafidaykka Gaayoosa giya issi woosa keethaa heemmeyssassa. Xaafey issi baggara Gaayoosi hara ammaneyssata maaddida gisho iya galatees; qassi hara baggara Diyotirafiisa geetettiya woosa keetha halaqa gidanaw koyaa geella uraappe naagettana mela akeekisees.</para>
-  <para style="iot">3Yohaannisa kiitaa ayfe qofata</para>
-  <para style="io1">Gelo qofaa 1-4</para>
-  <para style="io1">Gaayoosi galatettis 5-8</para>
-  <para style="io1">Diyotirafiisi borettis 9-10</para>
-  <para style="io1">Dimexiroosi galatettis 11-12</para>
-  <para style="io1">Kuushsha qofaa 13-15</para>
+<usx version="3.0">
+  <book code="3JN" style="id">- Gofa Full Bible Latin Version Final</book>
+  <para style="h">3 Yohaanisa Kiita</para>
+  <para style="toc1">3 Yohaanisa Kiita</para>
+  <para style="toc3">3 Yoha</para>
+  <para style="toc2">3 Yohaanisa</para>
+  <para style="mt1">Yohaanisi Xaafida</para>
+  <para style="mt2">Heedzantho Kiita</para>
+  <para style="imt">Gaatha Qofa</para>
+  <para style="ip">Yohaanisi xaafida heedzantho kiita, Yesuusa hawaare gidida cimay, Yohaanisi xaafis. I ha kiita xaafiday, Gaayoosa geetetiya issi woosa keetha addiyasa. Xaafey issi baggara, Gaayoosi hara ammaniya asaa maaddida gisho iya galatees; hara baggara qassi, Diyotrafisa geetetiya woosa keetha halaqa gidanaw koya geella uraape naagetana mela akeekisees.</para>
+  <para style="iot">Maxaafa Ayfe Qofata</para>
+  <para style="io1">Sarothonne woosa <char style="ior">(<ref loc="3JN 1:1-4">1-4</ref>)</char></para>
+  <para style="io1">Gaayoosi sabetis <char style="ior">(<ref loc="3JN 1:5-8">5-8</ref>)</char></para>
+  <para style="io1">Diyotrafisi boretis <char style="ior">(<ref loc="3JN 1:9-10">9-10</ref>)</char></para>
+  <para style="io1">Dimexroosi nashetis <char style="ior">(<ref loc="3JN 1:11-12">11-12</ref>)</char></para>
+  <para style="io1">Sarotho <char style="ior">(<ref loc="3JN 1:13-15">13-15</ref>)</char></para>
   <para style="ie"/>
-  <chapter number="1" style="c"/>
+  <chapter number="1" style="c" sid="3JN 1"/>
+  <para style="s1">Sarothonne woosa</para>
   <para style="p">
-    <verse number="1" style="v"/>Taani tumaa dosiya Gaayoosas, taani cimay kiittida kiita.<note caller="-" style="x"><char style="xo" closed="false">1 </char><char style="xt" closed="false"><ref loc="ACT 19:29">Ha@O 19:29</ref>; <ref loc="ROM 16:23">Roome 16:23</ref>; <ref loc="1CO 1:14">1Qoro 1:14</ref></char></note> <verse number="2" style="v"/>Ta siiquwaw, neeni ne shemppuwan lo77o de7eyssa ta ereyssada new payyatethi daana melanne ne oothiyabay suurana mela new Xoossaa woossays. <verse number="3" style="v"/>Guutha ammaniyaa asati yidi, ubba wode neeni tuman de7eyssanne ne tumatethabaa markkattida wode taani daro ufayttas. <verse number="4" style="v"/>Ta nayti tumatethan de7eyssa si7eyssafe aadhdhidi, tana ufayssiyabay baawa.</para>
-  <para style="s">Gaayoosi galatettis</para>
+    <verse number="1" style="v" sid="3JN 1:1"/>Taani cimay, tumaa dosiya Gaayoosas kiitida kiita.<note caller="-" style="x"><char style="xo" closed="false">1 </char><char style="xt" closed="false"><ref loc="ACT 19:29">Hawa 19:29</ref>; <ref loc="ROM 16:23">Roome 16:23</ref>; <ref loc="2CO 1:14">2 Qoro 1:14</ref>.</char></note> <verse eid="3JN 1:1"/><verse number="2" style="v" sid="3JN 1:2"/>Ta siiquwaw, neeni ne shempuwan lo77o de7eysa ta ereysada new payyatethi daana melanne ne oothiyabay suurana mela new Xoossaa woossayis. <verse eid="3JN 1:2"/><verse number="3" style="v" sid="3JN 1:3"/>Guutha ammaniya asati yidi, ubba wode neeni tuman de7eysanne ne tumatethaba markatida wode taani daro ufaytas. <verse eid="3JN 1:3"/><verse number="4" style="v" sid="3JN 1:4"/>Ta nayti tumatethan de7eysa si7eysafe aadhidi, tana ufaysiyabay baawa.<verse eid="3JN 1:4"/></para>
+  <para style="s1">Gaayoosi Sabetis</para>
   <para style="p">
-    <verse number="5" style="v"/>Ta siiquwaw, entti new imathe gidikkoka, neeni ammaniyaa asatas ammanthiya ooso oothaasa. <verse number="6" style="v"/>Entti ne siiquwabaa woosa keethan markkattoosona. Ha77ika entti biya ogiyan Xoossay doseyssada oothada entta maaddiko lo77o oothaasa. <verse number="7" style="v"/>Entti Kiristtoosa sunthaa gisho keyishe, ammanonna asatappe aykkoka ekkibookkonna. <verse number="8" style="v"/>Nuuni tuma oosuwa enttara issife oothanaw hayssa mela asata maaddanaw bessees.</para>
-  <para style="s">Diyotirafiisanne Dimexiroosa</para>
+    <verse number="5" style="v" sid="3JN 1:5"/>Ta siiquwaw, enti new imathe gidikoka, neeni ammaniya asatas ammanthiya ooso oothaasa. <verse eid="3JN 1:5"/><verse number="6" style="v" sid="3JN 1:6"/>Enti ne siiquwaba woosa keethan markatoosona. Ha77ika enti biya ogiyan Xoossay doseysada oothada enta maaddiko lo77o oothaasa. <verse eid="3JN 1:6"/><verse number="7" style="v" sid="3JN 1:7"/>Enti Kiristoosa sunthaa gisho keyishe, ammanonna asatape aykoka ekibookona. <verse eid="3JN 1:7"/><verse number="8" style="v" sid="3JN 1:8"/>Nuuni tuma oosuwa entara issife oothanaw haysa mela asata maaddanaw bessees.<verse eid="3JN 1:8"/></para>
+  <para style="s1">Diyotrafisi Boretis</para>
   <para style="p">
-    <verse number="9" style="v"/>Taani woosa keethatas dabddaabbe xaafas, shin entta halaqaa gidanaw koyaa Diyotirafiisi nuuni geyssa ekkenna. <verse number="10" style="v"/>Hessa gisho, taani yaa biya wode I nu bolla odettiya iita odanne I oothida oosuwa odana. I hessi guuxis gidi, nu ishati yaa wode mokkenna. Hari attoshin, entta mokkanaw koyeyssatakka diggidi woosa keethafe kessees.</para>
+    <verse number="9" style="v" sid="3JN 1:9"/>Taani woosa keethatas dabdaabe xaafas, shin enta halaqaa gidanaw koyiya Diyotrafisi nuuni geysa ekenna. <verse eid="3JN 1:9"/><verse number="10" style="v" sid="3JN 1:10"/>Hessa gisho, taani yaa biya wode I nu bolla odetiya iita odanne I oothida oosuwa odana. I hessi guuxis gidi, nu ishati yaa wode mokenna. Hari attoshin, enta mokanaw koyeysataka diggidi woosa keethafe kessees.<verse eid="3JN 1:10"/></para>
+  <para style="s1">Dimexroosi Nashetis</para>
   <para style="p">
-    <verse number="11" style="v"/>Ta siiquwaw, lo77obaa daanappe attin iitabaa daanoppa. Lo77obaa oothiya oonikka Xoossaa asi, shin iitabaa oothiya oonikka Xoossaa be7ibeenna.</para>
+    <verse number="11" style="v" sid="3JN 1:11"/>Ta siiquwaw, lo77oba daanape attishin, iitabaa daanopa. Lo77oba oothiya oonika Xoossaa asi, shin iitabaa oothiya oonika Xoossaa be7ibeenna.<verse eid="3JN 1:11"/></para>
   <para style="p">
-    <verse number="12" style="v"/>Dimexiroosi lo77o asi gideyssa asa ubbay markkattees. Tumay ba huu7en iyabaa markkattees; nukka iyabaa markkattoos; nu markkatethay tuma gideyssa hintte ereeta.</para>
-  <para style="s">Wurssetha sarotaa</para>
+    <verse number="12" style="v" sid="3JN 1:12"/>Dimexroosi lo77o asi gideysa asa ubbay markatees. Tumay ba huuphen iyabaa markatees; nuka iyabaa markatoos; nu markatethay tuma gideysa hinte ereeta.<verse eid="3JN 1:12"/></para>
+  <para style="s1">Sarotho</para>
   <para style="p">
-    <verse number="13" style="v"/>Taani new xaafanaw koyida darobay de7ees, shin qalameninne worqqaten xaafanaw koyikke. <verse number="14" style="v"/>Shin taani matara neera gayttanaw qoppays; he wode nuuni odettana.</para>
+    <verse number="13" style="v" sid="3JN 1:13"/>Taani new xaafanaw koyida darobay de7ees, shin qalameninne worqaten xaafanaw koyke. <verse eid="3JN 1:13"/><verse number="14" style="v" sid="3JN 1:14"/>Shin taani matara neera gahetanaw qopayis; he wode nuuni odetana.<verse eid="3JN 1:14"/></para>
   <para style="p">
-    <verse number="15" style="v"/>Saroy new gido.</para>
-  <para style="p">Ne dabboti nena saro yaagosona. Nu dabbota ubbaa entta sunthaa sunthaa xeegada tana “Saro gis” yaaga.</para>
-  <para style="restore">02-Oct-2008@09:05, Backup Description=23-Sep-2008@16:55, Ed Owen -</para>
+    <verse number="15" style="v" sid="3JN 1:15"/>Saroy new gido.</para>
+  <para style="p" vid="3JN 1:15">Ne dabboti nena saro yaagosona. Nu dabbota ubbaa enta sunthaa sunthaa xeegada tana “Saro gis” yaaga.<verse eid="3JN 1:15"/></para>
+  <chapter eid="3JN 1"/>
 </usx>

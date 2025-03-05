@@ -1,68 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<usx version="2.6">
-  <book code="2TH" style="id">2TH- Goofa</book>
-  <para style="h">2Teselonqe</para>
-  <para style="toc3">2Tese</para>
-  <para style="toc2">2Teselonqe</para>
-  <para style="toc1">Phawuloosi Teselonqe Asaas Xaafida Nam77antho Kiitaa</para>
+<usx version="3.0">
+  <book code="2TH" style="id">- Gofa Full Bible Latin Version Final</book>
+  <para style="h">2 Taselonqe Kiita</para>
+  <para style="toc1">2 Taselonqe Kiita</para>
+  <para style="toc3">2 Tase</para>
+  <para style="toc2">2 Taselonqe</para>
   <para style="mt1">Phawuloosi Teselonqe Asaas</para>
-  <para style="mt2">Xaafida Nam77antho Kiitaa</para>
-  <para style="imt">Gaatha Qofaa</para>
-  <para style="ip">Kiristtoosa nam77antho yuussaa bolla denddida oyshoy palama medhdhishe bida gisho, Teselonqe woosa keethan metoy dari dari bis. Phawuloosi Teselonqe asaas xaafida nam77antho kiitay, “Godaa yuussaa gallasay matis” yaagiya ammano timirttiya bolla minthidi odees. Phawuloosi odishe, Kiristtoosi yaanappe sinthe, “Geella uraa” geetettiya Kiristtoosa ixxeyssa kaalesuwan ha alamiya bolla iitatethinne geellatethi darishe baana yaagidi entta ammanuwa suurisees.</para>
-  <para style="ip">Hawaarey, metoynne waayey darikkoka entti bantta ammanuwan minnanaada inne iyara issife de7eyssati ootheyssada, entti bantta duussaas koshshiyabaa demmanaw minnidi oothana mela qassi lo77o ooso oothanaw guye goonna mela entta minthidi zorees.</para>
-  <para style="iot">2Teselonqe kiitaa ayfe qofata</para>
-  <para style="io1">Gelo qofaa 1:1-2</para>
-  <para style="io1">Galatanne woosaa 1:3-12</para>
-  <para style="io1">Kiristtoosa nam77antho yuussabaa imettida timirtte 2:1-17</para>
-  <para style="io1">Ammano duussaa wogaa bolla imettida zore 3:1-15</para>
-  <para style="io1">Kuushsha qofanne sarotho 3:16-18</para>
+  <para style="mt2">Xaafida Nam7antho Kiita</para>
+  <para style="imt">Gaatha Qofa</para>
+  <para style="ip">Kiristoosa nam7antho yuussaa bolla dendida oyshoy palama medhida gisho, Teselonqe woosa keethan metoy dari dari bis. Phawuloosi Teselonqe asaas xaafida nam7antho kiitay, “Godaa yuussaa gallasay matis” giya ammano timirtiya bolla minthidi odees. Phawuloosi odishe, Kiristoosi yaanape sinthe, “Geella ura” geetetiya “Kiristoosa ixeysi kaalethin, ha alamiya bolla iitatethinne geellatethi darishe baana” yaagidi enta ammanuwa suurisees.</para>
+  <para style="ip">Hawaarey, metoynne waayey darikoka, enti banta ammanuwan minnanaada, banta duussas koshshiyaba demmanaw minnidi oothana melanne lo77o ooso oothanaw guye goonna mela enta minthidi zorees.</para>
+  <para style="iot">Maxaafa Ayfe qofata</para>
+  <para style="io1">Gelo qofa <char style="ior">(<ref loc="2TH 1:1-2">1:1-2</ref>)</char></para>
+  <para style="io1">Godaa yuussanne suure pirda <char style="ior">(<ref loc="2TH 1:3-12">1:3-12</ref>)</char></para>
+  <para style="io1">Goday yaana <char style="ior">(<ref loc="2TH 2:1-12">2:1-12</ref>)</char></para>
+  <para style="io1">Ammanetada de7a <char style="ior">(<ref loc="2TH 2:13-17">2:13-17</ref>)</char></para>
+  <para style="io1">Woossite; minnidi oothite <char style="ior">(<ref loc="2TH 3:1-15">3:1-15</ref>)</char></para>
+  <para style="io1">Sarothonne anjo <char style="ior">(<ref loc="2TH 3:16-18">3:16-18</ref>)</char></para>
   <para style="ie"/>
-  <chapter number="1" style="c"/>
+  <chapter number="1" style="c" sid="2TH 1"/>
   <para style="p">
-    <verse number="1" style="v"/>Phawuloosi, Sillaaseynne Ximotiyoosi Teselonqe woosa keethan de7iya, Xoossaa Aawabaanne Godaa Yesuus Kiristtoosabaa gidida asaas xaafettida kiitaa.<note caller="-" style="x"><char style="xo" closed="false">1:1 </char><char style="xt" closed="false"><ref loc="ACT 17:1">Ha@O 17:1</ref></char></note></para>
+    <verse number="1" style="v" sid="2TH 1:1"/>Phawuloosi, Sillaaseynne Ximotiyoosi Teselonqe woosa keethan de7iya, Xoossaa Aawabanne Godaa Yesuus Kiristoosaba gidida asaas xaafetida kiita.<note caller="-" style="x"><char style="xo" closed="false">1:1 </char><char style="xt" closed="false"><ref loc="ACT 17:1">Hawa 17:1</ref>.</char></note><verse eid="2TH 1:1"/></para>
   <para style="p">
-    <verse number="2" style="v"/>Xoossaa nu Aawappenne Godaa Yesuus Kiristtoosappe aadho keehatethaynne sarotethay hinttew gido.</para>
-  <para style="s">Kiristtoosi yaa wode hanana pirddaa</para>
+    <verse number="2" style="v" sid="2TH 1:2"/>Xoossaa nu Aawapenne Godaa Yesuus Kiristoosape aadho keehatethaynne sarotethay hintew gido.<verse eid="2TH 1:2"/></para>
+  <para style="s1">Kiristoosi Simmiya Wode</para>
   <para style="p">
-    <verse number="3" style="v"/>Nu ishato, hintte ammanoynne hintte issoy issuwanne harata siiqiya siiqoy daro dicciya gisho, nuuni hessas Xoossaa ubba wode galatanaw bessees. <verse number="4" style="v"/>Hinttena gakkida goodaninne waaye ubban genccaninne ammanon minnidi eqqida gisho, nuuni nu huu7en Xoossaa woosa keethatan hinttebaa markkattishe hinttenan ceeqettoos.</para>
+    <verse number="3" style="v" sid="2TH 1:3"/>Nu ishato, hinte ammanoynne hinte issoy issuwanne harata siiqiya siiqoy daro dicciya gisho, nuuni hessas Xoossaa ubba wode galatanaw bessees. <verse eid="2TH 1:3"/><verse number="4" style="v" sid="2TH 1:4"/>Hintena gakida goodaninne waaye ubban gencaninne ammanon minnidi eqida gisho, nuuni nu huuphen Xoossaa woosa keethatan hintebaa markatishe hintenan ceeqetoos.<verse eid="2TH 1:4"/></para>
   <para style="p">
-    <verse number="5" style="v"/>Hintte iya gisho gidi meto ekkiya Xoossaa kawotethaas besseyssata gididi taybettana mela Xoossaa xillo pirddaas hayssi malla. <verse number="6" style="v"/>Xoossay tuma pirddaa pirddana. Xoossay hinttena waayseyssata bolla waaye ehana. <verse number="7" style="v"/>Goday Yesuusi ba wolqqaama kiitanchchotara, tama lacora saloppe yaa wode waayettiya hinttenanne nuna shemppisana. <verse number="8" style="v"/>Qassi Xoossay bana eronnayssatanne nu Godaa Yesuus Kiristtoosa Wonggelaas kiitettonayssata pirddana. <verse number="9" style="v"/>Entti Godaa sinthafenne iya bonchchuwa wolqqaafe shaakettidi merinaa dhayuwan pirddettana.<note caller="-" style="x"><char style="xo" closed="false">1:9 </char><char style="xt" closed="false"><ref loc="ISA 2:10">Isa 2:10</ref></char></note> <verse number="10" style="v"/>He gallas, I bayssataninne bana ammaneyssata ubban bonchchettanwunne sabettanaw yaa wode nu hinttew odida kiitaa hintte ammanida gisho, hintte iya bonchcheyssata giddoninne sabbeyssata giddon daana.</para>
+    <verse number="5" style="v" sid="2TH 1:5"/>Hinte iya gisho gidi meto ekiya Xoossaa kawotethaas besseyisata gididi taybetana mela Xoossaa xillo pirdaas haysi malla. <verse eid="2TH 1:5"/><verse number="6" style="v" sid="2TH 1:6"/>Xoossay tuma pirdaa pirdana. Xoossay hintena waayseysata bolla waaye ehana. <verse eid="2TH 1:6"/><verse number="7" style="v" sid="2TH 1:7"/>Goday Yesuusi ba wolqaama kiitanchotara, tama lacora salope yaa wode waayetiya hintenanne nuna shempisana. <verse eid="2TH 1:7"/><verse number="8" style="v" sid="2TH 1:8"/>Qassi Xoossay bana eronnaysatanne nu Godaa Yesuus Kiristoosa Wongelas kiitetonayisata pirdana. <verse eid="2TH 1:8"/><verse number="9" style="v" sid="2TH 1:9"/>Enti Godaa sinthafenne iya bonchuwa wolqaafe shaaketidi merinaa dhayuwan pirdetana.<note caller="-" style="x"><char style="xo" closed="false">1:9 </char><char style="xt" closed="false"><ref loc="ISA 2:10">Isa 2:10</ref>.</char></note> <verse eid="2TH 1:9"/><verse number="10" style="v" sid="2TH 1:10"/>He gallas, I ba geeshsha asaaninne bana ammaniya ubban bonchetanawunne sabetanaw yaa wode nu hintew odida kiitaa hinte ammanida gisho, hinte iya boncheyisata giddoninne sabbeyisata giddon daana.<verse eid="2TH 1:10"/></para>
   <para style="p">
-    <verse number="11" style="v"/>Nuuni hinttew ubba wode Xoossaa woossey hessassa. Nu Xoossay hinttena xeegida de7uwas besseyssata gididi taybettana mela nuuni woossos. Hintte lo77obaa oothanaw amottiya amuwaanne hintte ammano oosuwa I ba wolqqan polo. <verse number="12" style="v"/>Hessan nu Xoossaanne nu Godaa Yesuus Kiristtoosa aadho keehatethan, Godaa Yesuusa sunthaa hintte bonchchana; hinttenakka I bonchchana.</para>
-  <chapter number="2" style="c"/>
-  <para style="s">Geella uraa</para>
+    <verse number="11" style="v" sid="2TH 1:11"/>Nuuni hintew ubba wode Xoossaa woossey hessasa. Nu Xoossay hintena xeegida de7uwas besseyisata gididi taybetana mela nuuni woossoos. Hinte lo77oba oothanaw amotiya amuwanne hinte ammano oosuwa I ba wolqan polo. <verse eid="2TH 1:11"/><verse number="12" style="v" sid="2TH 1:12"/>Hessan nu Xoossaanne nu Godaa Yesuus Kiristoosa aadho keehatethan, Godaa Yesuusa sunthaa hinte bonchana; hintenaka I bonchana.<verse eid="2TH 1:12"/></para>
+  <chapter eid="2TH 1"/>
+  <chapter number="2" style="c" sid="2TH 2"/>
+  <para style="s1">Geella Ura</para>
   <para style="p">
-    <verse number="1" style="v"/>Nu ishato, nu Godaa Yesuus Kiristtoosa yuussabaanne nu iyara gayttanaw shiiqanabas nu hinttena woossos.<note caller="-" style="x"><char style="xo" closed="false">2:1 </char><char style="xt" closed="false"><ref loc="1TH 4:15-17">1Tese 4:15-17</ref></char></note> <verse number="2" style="v"/>Tinbbiten woykko hara asappe si7ida qaalan woykko nuuppe ekkida kiitada oothidi, “Godaa gallasay gakkis” gidi hintte wozanay dagammofonne waabbaqoppo. <verse number="3" style="v"/>Hinttena oonikka ay ogenkka balethofo. Kasetidi wurssetha uraa geellatethay qoncconnanne dhayoy bessiya geella uray yoonna de7ishin, Godaa gallasay gakkenna. <verse number="4" style="v"/>Asi goynniyabanne xoossayaba ubbaa I ixxananne bana dhoqqu oothana. Hari attoshin, Xoossa keethi geli uttidi, “Taani Xoosse” gaana.<note caller="-" style="x"><char style="xo" closed="false">2:4 </char><char style="xt" closed="false"><ref loc="DAN 11:36">Daane 11:36</ref>; <ref loc="EZK 28:2">Hiz 28:2</ref></char></note></para>
+    <verse number="1" style="v" sid="2TH 2:1"/>Nu ishato, nu Godaa Yesuus Kiristoosa yuussabaanne nu iyara gahetanaw shiiqanabas nu hintena woossoos.<note caller="-" style="x"><char style="xo" closed="false">2:1 </char><char style="xt" closed="false"><ref loc="ISA 2:10">Isa 2:10</ref>.</char></note> <verse eid="2TH 2:1"/><verse number="2" style="v" sid="2TH 2:2"/>Tinbiten woyko hara asape si7ida qaalan woyko nuupe ekida kiittada oothidi, “Godaa gallasay gakis” gidi hinte wozanay dagammofonne waabaqopo. <verse eid="2TH 2:2"/><verse number="3" style="v" sid="2TH 2:3"/>Hintena oonika ay ogenka balethofo. Kasetidi geellatethay qonconnanne dhayoy bessiya geella uray yoonna de7ishin, Godaa gallasay gakenna. <verse eid="2TH 2:3"/><verse number="4" style="v" sid="2TH 2:4"/>Asi goyinniyabanne xoossayaba ubbaa I ixananne bana dhoqu oothana. Hari attoshin, Xoossa keethi geli uttidi, “Taani Xoosse” gaana.<note caller="-" style="x"><char style="xo" closed="false">2:4 </char><char style="xt" closed="false"><ref loc="DAN 11:36">Daane 11:36</ref>; <ref loc="EZK 28:2">Hiz 28:2</ref>.</char></note><verse eid="2TH 2:4"/></para>
   <para style="p">
-    <verse number="5" style="v"/>Taani hinttera de7ashe hinttew odidayssa akeekekketii? <verse number="6" style="v"/>I ba gallas yaanappe attin ha77i yaanayssa aybi iya teqqiyako hintte ereeta.</para>
+    <verse number="5" style="v" sid="2TH 2:5"/>Taani hintera de7ashe hintew odidaysa akeekeketii? <verse eid="2TH 2:5"/><verse number="6" style="v" sid="2TH 2:6"/>I ba gallasan yaanape attishin, ha77i yaanaysa aybi iya teqiyako hinte ereeta.<verse eid="2TH 2:6"/></para>
   <para style="p">
-    <verse number="7" style="v"/>Asaas qoncciboonna geellatetha xuura wolqqay ha77ika oothees, shin ha77i iya teqqeyssi de7ees. Iya teqqeyssi ogeppe kichchana gakkanaw I qonccenna. <verse number="8" style="v"/>Hessafe guye, geella uray qonccana, shin Godaa Yesuusi ba doonappe keyaa shemppuwan ba bonchcho yuussan iya wodhana.<note caller="-" style="x"><char style="xo" closed="false">2:8 </char><char style="xt" closed="false"><ref loc="ISA 11:4">Isa 11:4</ref></char></note> <verse number="9" style="v"/>Geella uray Xalahiya wolqqan yidi worddo malaatatanne malaalisiyabata oothana.<note caller="-" style="x"><char style="xo" closed="false">2:9 </char><char style="xt" closed="false"><ref loc="MAT 24:24">Maato 24:24</ref></char></note> <verse number="10" style="v"/>Hessadakka, dhayos de7iya asata dumma dumma cimmiya iita ooson balethana. Entti dhayiday ashshiya tumaa dosidi ekkonna ixxida gishossa. <verse number="11" style="v"/>Hessa gisho, entti worddo gidiyabaa ammanana mela Xoossay wolqqaama baleso entta bolla yeddana. <verse number="12" style="v"/>Hessika, tumaa ammanonna asati, nagara ooson ufayttessati ubbay pirddettana melassa.</para>
-  <para style="s">Atotethaas doorettida asata</para>
+    <verse number="7" style="v" sid="2TH 2:7"/>Asaas qonciboonna geellatetha xuura wolqay ha77ika oothees, shin ha77i iya teqeysi de7ees. Iya teqeysi ogepe kichana gakanaw I qoncenna. <verse eid="2TH 2:7"/><verse number="8" style="v" sid="2TH 2:8"/>Hessafe guye, geella uray qoncana, shin Godaa Yesuusi ba doonape keyiya shempuwan, ba boncho yuussan iya wodhana.<note caller="-" style="x"><char style="xo" closed="false">2:8 </char><char style="xt" closed="false"><ref loc="ISA 11:4">Isa 11:4</ref>.</char></note> <verse eid="2TH 2:8"/><verse number="9" style="v" sid="2TH 2:9"/>Geella uray, Xalahe wolqan yidi wordo malaatatanne malaalsiyabata oothana.<note caller="-" style="x"><char style="xo" closed="false">2:9 </char><char style="xt" closed="false"><ref loc="MAT 24:24">Maato 24:24</ref>.</char></note> <verse eid="2TH 2:9"/><verse number="10" style="v" sid="2TH 2:10"/>Hessadaka, dhayos de7iya asata dumma dumma cimmiya iita ooson balethana. Enti dhayiday ashshiya tumaa dosidi ekonna ixida gishosa. <verse eid="2TH 2:10"/><verse number="11" style="v" sid="2TH 2:11"/>Hessa gisho, enti wordo gidiyaba ammanana mela Xoossay wolqaama baleso enta bolla yeddana. <verse eid="2TH 2:11"/><verse number="12" style="v" sid="2TH 2:12"/>Hessika, tumaa ammanonna asati, nagara ooson ufayteysati ubbay pirdetana melasa.<verse eid="2TH 2:12"/></para>
+  <para style="s1">Ammanthiya Asi Gida</para>
   <para style="p">
-    <verse number="13" style="v"/>Goday dosiya nu ishato, nuuni Xoossaa hintte gisho, ubba wode galatanaw bessees. Hintte attana mela Xoossay Geeshsha Ayyaana wolqqan hinttena geeshshidayssanne hintteka tumaa ammanidayssan I hinttena bayrada dooris. <verse number="14" style="v"/>Xoossay, nu hinttew odida Wonggelaa baggara hinttena xeegiday, hintte nu Godaa Yesuus Kiristtoosara issife bonchchettanassa. <verse number="15" style="v"/>Hiza, nu ishato, minnidi eqqite. Nuuni hinttena nu doonan gidin woykko dabddaabbiyan gidin tamaarssida timirttiya oykkite.</para>
+    <verse number="13" style="v" sid="2TH 2:13"/>Goday dosiya nu ishato, nuuni Xoossaa hinte gisho, ubba wode galatanaw bessees. Hinte attana mela Xoossay Geeshsha Ayyaana wolqan hintena geeshshidaysanne hinteka tumaa ammanidaysan I hintena bayrada dooris. <verse eid="2TH 2:13"/><verse number="14" style="v" sid="2TH 2:14"/>Xoossay, nu hintew odida Wongela baggara hintena xeegiday, hinte nu Godaa Yesuus Kiristoosara issife bonchetanaasa. <verse eid="2TH 2:14"/><verse number="15" style="v" sid="2TH 2:15"/>Hiza, nu ishato, minnidi eqite. Nuuni hintena nu doonan gidin woyko dabdaabiyan gidin tamaarsida timirtiya oykite.<verse eid="2TH 2:15"/></para>
   <para style="p">
-    <verse number="16-17" style="v"/>Xoossay nu aaway nuna dosees. I nuus keeha; I merinaa minthethonne lo77o ufayssaa nuus immis. Hintte ubba wode lo77obaa oothanawunne odettanaw minthethana melanne maaddana mela nu Godaa Yesuus Kiristtoosanne Xoossaa nu aawa woossos.</para>
-  <chapter number="3" style="c"/>
-  <para style="s">Nuus woossite</para>
+    <verse number="16-17" style="v" sid="2TH 2:16-17"/>Xoossay nu aaway nuna dosees. I nuus keeha; I merinaa minthethonne lo77o ufaysaa nuus immis. Hinte ubba wode lo77oba oothanawunne odetanaw minthethana melanne maaddana mela nu Godaa Yesuus Kiristoosanne Xoossaa nu aawa woossoos.<verse eid="2TH 2:16-17"/></para>
+  <chapter eid="2TH 2"/>
+  <chapter number="3" style="c" sid="2TH 3"/>
+  <para style="s1">Nuus Woossite</para>
   <para style="p">
-    <verse number="1" style="v"/>Wurssethan nu ishato, Godaa qaalay hintte giddon ellesidi aakkanaadanne bonchchettanaada nuus woossite. <verse number="2" style="v"/>Hessadakka, asi ubbay qaalaa si7idi ammanonna gisho, Xoossay geellatappenne iita asatappe nuna ashshana mela nuus woossite.</para>
+    <verse number="1" style="v" sid="2TH 3:1"/>Wursethan nu ishato, Godaa qaalay hinte giddon ellesidi dalganaadanne bonchetanaada nuus woossite. <verse eid="2TH 3:1"/><verse number="2" style="v" sid="2TH 3:2"/>Hessadaka, asi ubbay qaala si7idi ammanonna gisho, Xoossay geellatapenne iita asatape nuna ashshana mela nuus woossite.<verse eid="2TH 3:2"/></para>
   <para style="p">
-    <verse number="3" style="v"/>Shin Goday ammanettidayssa; I hinttena minthethananne Xalaheppe naagana. <verse number="4" style="v"/>Nuuni hinttena kiitteyssa ha77ika sinthafekka hintte oothanayssas Godan nuuni ammanettos.</para>
+    <verse number="3" style="v" sid="2TH 3:3"/>Shin Goday ammanetidaysa; I hintena minthethananne Xalahepe naagana. <verse eid="2TH 3:3"/><verse number="4" style="v" sid="2TH 3:4"/>Nuuni hintena kiitteysa ha77ika sinthafeka hinte oothanaysas Godan nuuni ammanetoos.<verse eid="2TH 3:4"/></para>
   <para style="p">
-    <verse number="5" style="v"/>Goday hintte wozanaa Xoossaa siiquwakkonne Kiristtoosa dandda7aakko kaaletho.</para>
-  <para style="s">Ooso billonna de7ite</para>
+    <verse number="5" style="v" sid="2TH 3:5"/>Goday hinte wozanaa Xoossa siiquwakonne Kiristoosa danda7aako kaaletho.<verse eid="2TH 3:5"/></para>
+  <para style="s1">Boozopite</para>
   <para style="p">
-    <verse number="6" style="v"/>Nu ishato, hintte nuuppe ekkida kiitaa kaallonnayssatappenne ooso billiya azalla ammaniyaa asatappe hintte shaakettanaada Godaa Yesuus Kiristtoosa sunthan hinttena kiittoos. <verse number="7" style="v"/>Nuuda hanidi daanaw besseyssa hinttee, hintte huu7en ereeta. Nuuni hinttera de7iya wode ooso billibookko. <verse number="8" style="v"/>Nuuni oodefekka kathi mela mibookko. Nuus dandda7ettida mela qammanne gallas oothi daaburidi de7idappe attin oodeskka tooho gidibookko. <verse number="9" style="v"/>Nuuni hessa oothiday, hinttew leemiso gidanaassafe attin hinttefe maade oychchanaw nuus maati dhayina gidenna. <verse number="10" style="v"/>Nu hinttera de7iya wodekka, “Oothanaw koyonna asi oonikka mooppo” yaagidi kiittida.</para>
+    <verse number="6" style="v" sid="2TH 3:6"/>Nu ishato, hinte nuupe ekida kiitaa kaallonaysatapenne ooso billiya azalla ammaniya asatape hinte shaaketanaada Godaa Yesuus Kiristoosa sunthan hintena kiittoos. <verse eid="2TH 3:6"/><verse number="7" style="v" sid="2TH 3:7"/>Nuuda hanidi daanaw besseysa hinte, hinte huuphen ereeta. Nuuni hintera de7iya wode ooso billibooko. <verse eid="2TH 3:7"/><verse number="8" style="v" sid="2TH 3:8"/>Nuuni oodefeka kathi mela mibooko. Nuus danda7etida mela qammanne gallas oothi daaburidi de7idape attishin, oodeska tooho gidibooko. <verse eid="2TH 3:8"/><verse number="9" style="v" sid="2TH 3:9"/>Nuuni hessa oothiday, hintew leemiso gidanaasafe attishin, hintefe maade oychanaw nuus maati dhayina gidenna. <verse eid="2TH 3:9"/><verse number="10" style="v" sid="2TH 3:10"/>Nu hintera de7iya wodeka, “Oothanaw koyonna asi oonika moopo” yaagidi kiitida.<verse eid="2TH 3:10"/></para>
   <para style="p">
-    <verse number="11" style="v"/>Nuuni hessa giday, hintte giddon issi issi azallati de7eyssa si7ida gishossa. He asati gelssonnaban gelidi harata ooso bilisoosonappe attin aykkoka oothokona. <verse number="12" style="v"/>Nuuni hessa mela asati maara de7o daanadanne banttana koshshiyabaa oothidi demmanaada Godaa Yesuus Kiristtoosa sunthan entta kiittosinne zoroos.</para>
+    <verse number="11" style="v" sid="2TH 3:11"/>Nuuni hessa giday, hinte giddon issi issi azallati de7eysa si7ida gishosa. He asati gelsonnaban gelidi harata ooso bilisoosonape attishin, aykoka oothokona. <verse eid="2TH 3:11"/><verse number="12" style="v" sid="2TH 3:12"/>Nuuni hessa mela asati maara de7o daanadanne bantana koshshiyaba oothidi demmanaada Godaa Yesuus Kiristoosa sunthan enta kiittoosinne zoroos.<verse eid="2TH 3:12"/></para>
   <para style="p">
-    <verse number="13" style="v"/>Shin nu ishato, lo77o ooso oothanaw azallofite. <verse number="14" style="v"/>Ha77i nuuni ha dabddaabbiyan kiittida kiitas kiitettonna asi oonikka de7ikko he uraa erite. I yeellatana mela iyappe shaakettite. <verse number="15" style="v"/>Shin iya ishada seeriteppe attin morkkeda xeellofite.</para>
-  <para style="s">Wurssetha sarotaa</para>
+    <verse number="13" style="v" sid="2TH 3:13"/>Shin nu ishato, lo77o ooso oothanaw azallofite. <verse eid="2TH 3:13"/><verse number="14" style="v" sid="2TH 3:14"/>Ha77i nuuni ha dabdaabiyan kiitida kiittas kiitetonna asi oonika de7iko he uraa erite. I yeellatana mela iyape shaaketite. <verse eid="2TH 3:14"/><verse number="15" style="v" sid="2TH 3:15"/>Shin iya ishada seeritepe attishin, morkeda xeellofite.<verse eid="2TH 3:15"/></para>
+  <para style="s1">Sarotho</para>
   <para style="p">
-    <verse number="16" style="v"/>Saro immiya Goday, ba huu7en hinttew ubba wodenne ubba baggara saro immo. Goday hintte ubbaara gido.</para>
+    <verse number="16" style="v" sid="2TH 3:16"/>Saro immiya Goday, ba huuphen hintew ubba wodenne ubba baggara saro immo. Goday hinte ubbaara gido.<verse eid="2TH 3:16"/></para>
   <para style="p">
-    <verse number="17" style="v"/>Taani Phawuloosi, ha kiitaa ta kushen xaafas. Ta kiita ubbaas mallay hayssa; taani hessada xaafays.</para>
+    <verse number="17" style="v" sid="2TH 3:17"/>Taani Phawuloosi, ha kiitaa ta kushen xaafas. Ta kiita ubbaas mallay haysa; taani hessada xaafayis.<verse eid="2TH 3:17"/></para>
   <para style="p">
-    <verse number="18" style="v"/>Nu Godaa Yesuus Kiristtoosa aadho keehatethay hintte ubbaara gido.</para>
-  <para style="restore">02-Oct-2008@09:05, Backup Description=23-Sep-2008@16:55, Ed Owen -</para>
+    <verse number="18" style="v" sid="2TH 3:18"/>Nu Godaa Yesuus Kiristoosa aadho keehatethay hinte ubbaara gido.<verse eid="2TH 3:18"/></para>
+  <chapter eid="2TH 3"/>
 </usx>
