@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "ጌሻ ማጻፋ",
+        "local_abbrev": "",
+        "english": "Dawro Bible (Ethiopic)",
+        "english_abbrev": "DBE"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=812ecd29a9e60fdc"
+    },
+    "ids": {
+        "dbl": "812ecd29a9e60fdc"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=812ecd29a9e60fdc&type=release",
+        "updated": "2024-10-22",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}
