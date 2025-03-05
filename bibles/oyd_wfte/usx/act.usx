@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="3.0">
+  <book code="ACT" style="id">- Oyda New Testament</book>
+  <para style="h">ሐዋሩን ኦቻ</para>
+  <para style="toc1">ሐዋሩን ኦቻ</para>
+  <para style="toc2">ሐዋሩን ኦቻ</para>
+  <para style="toc3">ሐዋ.</para>
+  <para style="mt1">ሐዋሩን ኦቻ</para>
+  <para style="imt1">ገለ</para>
+  <para style="ip">ሐዋሩን ኦቻ ማጻፍዘ፥ ሉቃሳ ዎንገለ ካሊ ጻፍንትደ ማጻፈ። ማጻፍዘስ የዘ ኣፈ ቆፍታ ቲኖ የሱሳ ካልደ አሱን ጌሽ አያና ካልን፥ ኤ ባዝ ኦህዘ ዎንገለ ቃላ፥ የሩሳላመ፥ ይሁዳ ሳአ ኡባ፥ ሳማራ፥ ሳአ ጋጻፓ ጋጻ የሎደስ (1:8) ዋይዝ የልዛኮ ኦሆደስ። ማጻፍዘ፥ ማርካት አይሁደ አሱን ግዳ አይኪ፥ ኩሙ አላምተ የዘ አሱን ስኦደ ዎንስ ዋይዝ ዳልገዛኮ ኦህዘ ታሪከ አይክዳያ። Ꮉይ ማጻፍዘ ጻፍዘ፥ አማንዘ አሱን ሮመ ካእቱሞ ጎልእሳደስ ግዳራ ዞርንትዘ አስ ማቅካይዛኖን አማኖ አይሁዱን ሃይማኖተ ፎሎ ኦችዛ ማቅዛኖ ኤርሶደስ ጋማ ላቢ ኦችዳ።</para>
+  <para style="ip">ሐዋሩን ኦቻ ማጻፍተ የሱሳ ባዝ ኦህዘ ዎንገለ የልዘ በስታ ዎድተ ዎድተ ዳልጊ ዳልጊ Ꮉማዳኖን ዎሳ ኬ ኤቅዳኖ ቤዘ Ꮉይ ኣፈ ክፍለ ታጎደስ ዳንዳእንታነ፦</para>
+  <para style="ip">አማኖ የሱሳ ሳሎ ኬዚ ማቅን አይክንትዳኖ።</para>
+  <para style="ip">አማኖ እስራኤለ ሳአ ኡባ የልዳኖ።</para>
+  <para style="ip">ሮመ ጉጂ መድትራነ አባ ካለ ዉቲ የዘ ሳአ ኡባ ዳልግዳኖ ቤዛነ።</para>
+  <para style="ip">ሐዋሩን ኦቻ ማጻፍተ አ በንትዘ ጌሽ አያና ኦቻ ማቃደራ፥ ጰንጠቆስጠ ዎደ የሩሳላመ የዘ አማንዙንላ ዎልቃራ ዎዳኖ ኦህነ። ይኒ ጋራ፥ ማጻፍዘ ግዳ ኦችንትደ ኦችቶ ኡባ በንትዳንጋራ ጌሽ አያና ዎሳ ኬን ዎሳ ኬ አህዙንና ካልዳኖን ምንዳኖ ጉጂ ኦህነ። ሐዋሩን ኦቻ ግዳ ኦችንትደ ኦችቶ ኪትዘ አማንዘ አሱን ደእተን ዎሳ ኬ ፈተት የዘ ዎልቃ አኮ ጋር ዳማ የዛኮ ቤዛነ።</para>
+  <para style="iot">ኣፈ ቆፉን</para>
+  <para style="io1">ማርካትስ ጊግንተ <char style="ior"><ref loc="ACT 1:1-26">1:1-26</ref> </char></para>
+  <para style="io2">የሱሳ ዉርሱተ እንግደ ኪታን የኦደስ የዘ አያና እንግደ ኡፋይስ <char style="ior"><ref loc="ACT 1:1-14">1:1-14</ref> </char></para>
+  <para style="io2">ይሁዳ በስተ ማትያሳ ዶረ <char style="ior"><ref loc="ACT 1:15-26">1:15-26</ref> </char></para>
+  <para style="io1">ማርካት የሩሳላመ <char style="ior"><ref loc="ACT 2:1-8:3">2:1—8:3</ref> </char></para>
+  <para style="io1">ማርካት ይሁዳን ሳማራን <char style="ior"><ref loc="ACT 8:4-12:25">8:4—12:25</ref> </char></para>
+  <para style="io1">ጳዉሎሳ ሐዋረት ኦቻ <char style="ior"><ref loc="ACT 13:1-28:31">13:1—28:31</ref> </char></para>
+  <para style="io2">ቲኖ ሐዋረት ቅተ <char style="ior"><ref loc="ACT 13:1-14:28">13:1—14:28</ref> </char></para>
+  <para style="io2">የሩሳላመ ሺቆ <char style="ior"><ref loc="ACT 15:1-35">15:1-35</ref> </char></para>
+  <para style="io2">ላምእን ሐዋረት ቅተ <char style="ior"><ref loc="ACT 15:36-18:22">15:36—18:22</ref> </char></para>
+  <para style="io2">Ꮉይን ሐዋረት ቅተ <char style="ior"><ref loc="ACT 18:23-21:16">18:23—21:16</ref> </char></para>
+  <para style="io2">ጳዉሎሳ የሩሳላመ፥ ቂሳርያን ሮመን አጭንተ <char style="ior"><ref loc="ACT 21:17-28:31">21:17—28:31</ref> </char></para>
+  <chapter number="1" style="c" sid="ACT 1"/>
+  <para style="p">
+    <verse number="1-2" style="v" sid="ACT 1:1-2"/>ተዎፍሎሳ፥ የሱሳ ፋ ኦችቶ አይክደ ዎደፓ ሳሎ ቅቶደ ዎደ የሎደስ፥ ኦችዳኖን ታማርስዳኖን ኡባ ታኒ ታ ቲኖ ማጻፍተ ጻፍዳ። ሳሎ ኬሳዳንፓ ቲኖ ኤ ፋ ዶርደ ሐዋሩንና ጌሽ አያናራ ኪትዳ።<note caller="-" style="x"><char style="xo" closed="false">1:1 </char><char style="xt" closed="false"><ref loc="LUK 1:1-4">ሉቃ. 1:1-4</ref></char></note> <verse eid="ACT 1:1-2"/><verse number="3" style="v" sid="ACT 1:3"/>ኤ ፋ ማትፕ ሱባ Ꮉይቆፓ ደንድዳኖ ደኦ ማቂ ኡንትስ ፋና ቤዝዳ። ኦይታም ቃማ ኡንትስ በንቲ ጾዘ ካእቱሞ ኡንታና ታማርስዳ። <verse eid="ACT 1:3"/><verse number="4" style="v" sid="ACT 1:4"/>ፈቲ ኦደ ኡንታራ ዎላ ሙእተራ ኡንታና Ꮉንጋር ጋእ ኪትዳ፦ «ታ ይንትስ ኦህደ፥ ታ አዳይ እንጎዳ ጋይደ ኡፋይስ ቃልቶ ናጎተፕ አትን የሩሳላመፓ ኬዝፐተ።<note caller="-" style="x"><char style="xo" closed="false">1:4 </char><char style="xt" closed="false"><ref loc="LUK 24:49">ሉቃ. 24:49</ref></char></note> <verse eid="ACT 1:4"/><verse number="5" style="v" sid="ACT 1:5"/>አኮስ ጋይኮ፥ ዋሐንሳ Ꮉራ ጻማቅዳ፥ የዝን ኤራ ዎደፓ ሱባ ጌሽ አያናራ ይን ጻማቅንቶዳ» ጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">1:5 </char><char style="xt" closed="false"><ref loc="MAT 3:11">ማቶ. 3:11</ref>፤ <ref loc="MRK 1:8">ማር. 1:8</ref>፤ <ref loc="LUK 3:16">ሉቃ. 3:16</ref>፤ <ref loc="JHN 1:33">ዋሐ. 1:33</ref></char></note><verse eid="ACT 1:5"/></para>
+  <para style="s1">የሱሳ ሳሎ ቅተ</para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 1:6"/>ኡንትን ዎላ ሺቅደ ዎደ፥ «ላ፥ እስራኤሉንስ ካእቱምቶ ነ ማሆደ ዎድታ Ꮉኖ?» ያጋእ ኦጭዳ።<verse eid="ACT 1:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 1:7"/>የሱሳ ኡንታጎ፥ «ታ አዳይ ፋ አደት ዎልቂተ ኦችዘ ዎድቶን በርቶን ይን ኤሮደስ ዳንዳኦስ። <verse eid="ACT 1:7"/><verse number="8" style="v" sid="ACT 1:8"/>የዝን ጌሽ አያና ይንታላ ዎደ ዎደ ይን ዎልቃ ኤኮዳ። የይዝ ማቂ፥ የሩሳላመ፥ ይሁዳ ሳአ ኡባ፥ ሳማራን ሳአ ጋጻ የሎደስ ይን ታስ ማርካ ማቃዳ» ጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">1:8 </char><char style="xt" closed="false"><ref loc="MAT 28:19">ማቶ. 28:19</ref>፤ <ref loc="MRK 16:15">ማር. 16:15</ref>፤ <ref loc="LUK 24:47-48">ሉቃ. 24:47-48</ref></char></note><verse eid="ACT 1:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 1:9"/>ይኖ ጋይዳንፕ ማቂ ኡን በእዝን፥ ቅ ቅ ጋእ፥ ሳሎ ከዝን ነ ኤዛ ኡን ኣፍትፓ ጌንዳ።<note caller="-" style="x"><char style="xo" closed="false">1:9 </char><char style="xt" closed="false"><ref loc="MRK 16:19">ማር. 16:19</ref>፤ <ref loc="LUK 24:50-51">ሉቃ. 24:50-51</ref></char></note><verse eid="ACT 1:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 1:10"/>የሱሳ ቅቶደራ ኡን ሳሎ ማህ በአደራ፥ ቦ ማኦ ማእደ ላምእ አሱን ቲርካይዝን ኡን ካለ ኤቂ፥ <verse eid="ACT 1:10"/><verse number="11" style="v" sid="ACT 1:11"/>«ጋልላ አሱን፥ ሳሎ ብእተራ፥ ይን አኮስ ኤቅዶተ? Ꮉይ ይን በእዝን ሳሎ ቅትደ የሱሳ ይኒ ፋና ማቂ የኦዳ» ጋይዳ።<verse eid="ACT 1:11"/></para>
+  <para style="s1">ይሁዳ በስተ ማትያሳ ዶርንትዳ</para>
+  <para style="r">(<ref loc="MAT 27:3-10">ማቶ. 27:3-10</ref>)</para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 1:12"/>ይንፓ ማቂ፥ ሐዋሩን ሻማሄ ደርዘፓ የሩሳላመ ማቅዳ። ሻማሄ ደርዘ የሩሳላመስ ፈቲ ክሎ መትረ ፋና የነ። <verse eid="ACT 1:12"/><verse number="13" style="v" sid="ACT 1:13"/>ኡን የሩሳላመ ገሊ፥ ፋ የዘ ፎቀ ኬትላ ከዝዳ። ኡንትን፦ ጴጥሮሳ፥ ዋሐንሳ፥ ያይቆባ፥ እንድራሰ፥ ፍልጶሳ፥ ቶማሳ፥ ባርቶሎምዮሳ፥ ማቶሳ፥ እልፍዮሳ ናአ ያይቆባ፥ ፋ ሳእትስ ይቅስንትዘ ስሞናራ ያይቆባ ናአ ይሁዳ።<note caller="-" style="x"><char style="xo" closed="false">1:13 </char><char style="xt" closed="false"><ref loc="MAT 10:2-4">ማቶ. 10:2-4</ref>፤ <ref loc="MRK 3:16-19">ማር. 3:16-19</ref>፤ <ref loc="LUK 6:14-16">ሉቃ. 6:14-16</ref></char></note> <verse eid="ACT 1:13"/><verse number="14" style="v" sid="ACT 1:14"/>Ꮉንስ ኡቡን ማቹንራ፥ የሱሳ እንታ ማይራምራን የሱሳ እሹንራን ኡባ ፈቲ ዎዝና ማቂ ምን ዎሳነ።<verse eid="ACT 1:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 1:15"/>የ ዎደ ጴጥሮሳ ጼት ላምእታም ማቃደ አማንዘ አሱን ሺቅደ በስተ ደንዲ ኤቂ፥ Ꮉንጋር ጋይዳ፦ <verse eid="ACT 1:15"/><verse number="16" style="v" sid="ACT 1:16"/>«አሱን፥ የሱሳ አይክዱንና ካልደ ይሁዳባዝ ጌሽ አያና ቲኖ ዳዉተ ዶንተ ኦህደ ጾዘ ቃልታ ፎልንቶደስ ቤዛነ። <verse eid="ACT 1:16"/><verse number="17" style="v" sid="ACT 1:17"/>ይሁዳ ኑራ ዎላ Ꮉና ኦችቶ ኦቾደስ ዶርንትደ አስ።»<verse eid="ACT 1:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="ACT 1:18"/>የዝን ይሁዳ ፋ ገነ ኦችትራ ደንግደ ሚሸራ ጋደ ዎንግዳ። ኤ ቲኖር ጉጱንቲ ጎልእን፥ ኤ ሳዝታ ፌንትዳ፤ ኤ መርቅታ ዉልእንትዳ።<note caller="-" style="x"><char style="xo" closed="false">1:18 </char><char style="xt" closed="false"><ref loc="MAT 10:2-4">ማቶ. 10:2-4</ref>፤ <ref loc="MRK 3:16-19">ማር. 3:16-19</ref>፤ <ref loc="LUK 6:14-16">ሉቃ. 6:14-16</ref></char></note> <verse eid="ACT 1:18"/><verse number="19" style="v" sid="ACT 1:19"/>ይሁዳላ አፋ Ꮉንዳኖ የሩሳላመ የዘ አስ ኡቡን ስእዳ። ይኒ ግሾ፥ ይና ሳእቶ ፋ ዶናራ አኬልዳማ (ሱ ጋደ) ጋእ ጼግዳ።<verse eid="ACT 1:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="ACT 1:20"/>«ይናን ማዝሙረ ማጻፍተ፥</para>
+  <para style="q1" vid="ACT 1:20">«ኤ ኬታ Ꮉሪ አቶ፤</para>
+  <para style="q2" vid="ACT 1:20">ኦደን እዘ የዝፐ።</para>
+  <para style="q2" vid="ACT 1:20">ማህ ‹ኤ ሹማትቶ መለ ኤኮ› ጋእንት ጻፍንትዳ።<note caller="-" style="x"><char style="xo" closed="false">1:20 </char><char style="xt" closed="false"><ref loc="PSA 69:25">ማዝ. 69:25</ref>፤ <ref loc="PSA 109:8">109:8</ref></char></note><verse eid="ACT 1:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 1:21"/>«ይኒ ግሾ፥ ላ የሱሳ ኑ ግዳ ዉቲ Ꮉንትደ ዎደ ኡባ ኑራ የዙንፓ፥ <verse eid="ACT 1:21"/><verse number="22" style="v" sid="ACT 1:22"/>ማህ ጻማቅዘ ዋሐንሳ ዎድትፓ አይኪ ላ የሱሳ ሳሎ ከዝደ ዎደ የሎደስ ኑራ የዙንፓ ፈቲ አስ ኤ ደንድትስ ኑራ ማርካ ማቃደስ ቤዛነ» ያጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">1:22 </char><char style="xt" closed="false"><ref loc="MAT 3:16">ማቶ. 3:16</ref>፤ <ref loc="MRK 1:9">ማር. 1:9</ref>፤ <ref loc="LUK 3:21">ሉቃ. 3:21</ref></char></note><verse eid="ACT 1:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 1:23"/>ይኒ ግሾ፥ አሱን ዶርትስ ኢዮስጦሳ ጋዘ ባርሳባሳ ጋእንትዘ ዮሴፋን ማትያሳ ላምኡንና ሺሽዳ። <verse eid="ACT 1:23"/><verse number="24" style="v" sid="ACT 1:24"/>ይንፓ ሱባ፥ ጾዝ ዎስተራ፥ «አስ ኡባ ዎዝና ኤርዘ ላ፥ Ꮉን ላምኡንፓ ነ ኦና ዶረዛኮ ኑና ቤዞ። <verse eid="ACT 1:24"/><verse number="25" style="v" sid="ACT 1:25"/>ይሁዳ ፋ በሳ ቅቲ፥ አሽደ ኦችተ ሐዋረት ኦቻ ኤኮደ ጋር Ꮉንሳፓ ኑስ ሻጎ» ጋይዳ። <verse eid="ACT 1:25"/><verse number="26" style="v" sid="ACT 1:26"/>ኡንትስ እጻ ኦልዳ። እጽታን ማትያሳስ ዎን ማትያሳ ታጶ ፈቲ ሐዋሩንላ ጉጅንትዳ።<verse eid="ACT 1:26"/></para>
+  <chapter eid="ACT 1"/>
+  <chapter number="2" style="c" sid="ACT 2"/>
+  <para style="s1">ጌሽ አያና ዎ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 2:1"/>ጰንጠቆስጠ ጋዘ ቃማ የልደ ዎደ አማንዙን ኡባ ዎላ ፈቲ በሳ ሺቂ የነ።<note caller="-" style="x"><char style="xo" closed="false">2:1 </char><char style="xt" closed="false"><ref loc="LEV 23:15-21">ሌዌ 23:15-21</ref>፤ <ref loc="DEU 16:9-11">ማሄ 16:9-11</ref></char></note> <verse eid="ACT 2:1"/><verse number="2" style="v" sid="ACT 2:2"/>ቆፕካይዝን ዳማ ቶኪ ኤኪ ቅቶደ ፋና የዘ ባቆ ጉሚ ሳሎፓ ይእ ኡን የዘ ኬተ ኩምዳ። <verse eid="ACT 2:2"/><verse number="3" style="v" sid="ACT 2:3"/>ማህ ታማ ሎጸ ፋና አዝዘ ልሳኑን ኡንትስ በንትዳ፥ ሻክንት ሻክንት ኡን ኡቡንላ በትዳ። <verse eid="ACT 2:3"/><verse number="4" style="v" sid="ACT 2:4"/>ኡን ኡቡን ጌሽ አያናራ ኩሚ ዱማ ዱማ ዶናራ ኦህንቶደ ፋና ጌሽ አያና ኡንትስ ኦሆደ ፋና እንግዳንጋር ኦሄ አይክዳ።<verse eid="ACT 2:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 2:5"/>የ ዎደ ሳሎፓ ኦሞራ የዘ ሳአ ኡባፓ ይእደ ጾዝ ዣሽትዘ አይሁዱን የሩሳላመ የነ። <verse eid="ACT 2:5"/><verse number="6" style="v" sid="ACT 2:6"/>ይና ኦቶ ስእደ ዎደ ጋማ አስ ሺቅዳ። አማንዘ አሱን ኡን ፋ ዶናራ ኦህንቶደራ ስእደ ግሾ <verse eid="ACT 2:6"/><verse number="7" style="v" sid="ACT 2:7"/>ጋዉደ ባዝ ብን ጋማ ቆፒ፥ «Ꮉን ኦህንትዘ አሱን ኡባ ጋልላ አስ ባነ? <verse eid="ACT 2:7"/><verse number="8" style="v" sid="ACT 2:8"/>ዬዝን፥ ኑኒ፥ ኑ የልንትደ ጋደ ዶናር ኡን ኦህንቶደራ ዋይዝ ስኦደስ ዳንዳእዶ? <verse eid="ACT 2:8"/><verse number="9" style="v" sid="ACT 2:9"/>ኑኒ ጳርተ፥ ሜዶና፥ ኤላመን፥ መስጴጦምያ፥ ይሁዳ ግዳ፥ ቃጳዶቅያ፥ ጳንጾሳ፥ እስያ፥ <verse eid="ACT 2:9"/><verse number="10" style="v" sid="ACT 2:10"/>ጵርገ፥ ጵንፍለ፥ ግብጸ፥ ቃረና ካለ የዘ ሊብያ ዎራዳ የዙንና። ኑፓ ባጉን ሮመፓ ይእደ አስ። <verse eid="ACT 2:10"/><verse number="11" style="v" sid="ACT 2:11"/>አይሁዱንን አይሁዱን አማኖ ገልደ አሱን፥ ቃርጼሳን አራበ አሱን፥ ጾዚ ኦችደ ዳማ ኦችቶ ኑ ዶናር ኦህንቶደራ ኑ ስእነ» ያጋይዳ። <verse eid="ACT 2:11"/><verse number="12" style="v" sid="ACT 2:12"/>ኡቡን ጋማ ቆፒ፥ ጋኦደባዝ ብን ዎልጎ፥ «ዪእ Ꮉኖ አኮ ጋዉደ?» ጋይዳ። <verse eid="ACT 2:12"/><verse number="13" style="v" sid="ACT 2:13"/>የዝን መሉን፥ «Ꮉንስ ካጽካይዘ ዎይነ ኡዢ ማንትዳ» ያጋእ ለቂዳ።<verse eid="ACT 2:13"/></para>
+  <para style="s1">ጴጥሮሳ ኦሄ</para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 2:14"/>የዝን ጴጥሮሳ፥ ታጶ ፈቲ ሐዋሩንራ ደንዲ ኤቂ፥ ፋ ቃልቶ ቅ ዪዚ፥ ኡንታጎ Ꮉንጋራ ያጋእ ኦህዳ፦ አይሁዱን፥ የሩሳላመ የዘ ኡቡን፥ ታ ኦህዛኖ ስኦተ። <verse eid="ACT 2:14"/><verse number="15" style="v" sid="ACT 2:15"/>ዎንታፓ Ꮉይ ሳተ ማቅደ ግሾ ይን ቆፕዛንጋራ Ꮉን አሱን ማንትካያ፤ ይና ይን አቻ ኤርንትደባዝ ማቆ። <verse eid="ACT 2:15"/><verse number="16" style="v" sid="ACT 2:16"/>የዝን Ꮉና Ꮉንዳና ናበ እዩኤላ ኦህዳና ፎልንቶደ ፋና።<verse eid="ACT 2:16"/></para>
+  <para style="q1">
+    <verse number="17" style="v" sid="ACT 2:17"/>« ‹ጾዚ፥ ዎደ ዉርሱተ Ꮉንጋራ Ꮉኖዳ ያጋነ፦</para>
+  <para style="q2" vid="ACT 2:17">ታኒ አስ ኡባላ ታ አያና ጉሶዳ።</para>
+  <para style="q2" vid="ACT 2:17">ይን ራ ናኡንን ማች ናኡን፥</para>
+  <para style="q2" vid="ACT 2:17">ትንቢተ ኦሆዳ።</para>
+  <para style="q2" vid="ACT 2:17">ይን ይን ቆንጭ በአዳ፤</para>
+  <para style="q2" vid="ACT 2:17">ይን ጭሙን አቡኮ አቡኮዳ።<note caller="-" style="x"><char style="xo" closed="false">2:17-21 </char><char style="xt" closed="false"><ref loc="JOL 2:28-32">ኢዩ. 2:28-32</ref></char></note><verse eid="ACT 2:17"/></para>
+  <para style="q1">
+    <verse number="18" style="v" sid="ACT 2:18"/>ይና ዎድተ ታና አማንዘ ራ አሩንላን ማች አሩንላ</para>
+  <para style="q2" vid="ACT 2:18">ታ ታ አያንቶ ጉሶዳ፤</para>
+  <para style="q2" vid="ACT 2:18">ኡን ትንቢተ ኦሆዳ።<verse eid="ACT 2:18"/></para>
+  <para style="q1">
+    <verse number="19" style="v" sid="ACT 2:19"/>ማህ ታኒ አፋ ሳሎ ክሌ ባዝ፥</para>
+  <para style="q2" vid="ACT 2:19">ዬካ ሳአ ማላ ቤሳዳ።</para>
+  <para style="q2" vid="ACT 2:19">ሱ፥ ታማን ዳማ ጩጋ ቃይቃዮ በንቶዳ።<verse eid="ACT 2:19"/></para>
+  <para style="q1">
+    <verse number="20" style="v" sid="ACT 2:20"/>ዳማን ቦንቾ ማቅደ ላ ዎደ፥</para>
+  <para style="q2" vid="ACT 2:20">የሎዳንፓ ቲኖ አዋ ሞዳ፤</para>
+  <para style="q2" vid="ACT 2:20">አግናን ሱ ፋና ይኦዳ።<verse eid="ACT 2:20"/></para>
+  <para style="q1">
+    <verse number="21" style="v" sid="ACT 2:21"/>ይና ዎድተ Ꮉንጋራ ይኦዳ፤</para>
+  <para style="q2" vid="ACT 2:21">ላ ሱንቶ ጼግዘ ኦደን አቶዳ› ያጋይዳ።<verse eid="ACT 2:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 2:22"/>«እስራኤለ አሱን፥ Ꮉና ቃልቶ ስኦተ። ናዝረተ የሱሳ ኦና የዛኮ፥ ጾዚ ይን ግዳ ኦችደ ክለ ባዝን ማላን ይንትስ ቆንጭዳኖ ይን፥ ይን ኦምተ ኤራነ። <verse eid="ACT 2:22"/><verse number="23" style="v" sid="ACT 2:23"/>ጾዘ ቲኖ ቆፍተን ኤ ኤርቲ ባጋራ የሱሳ አ እንግንትዳ። ይንትን ኤዛ ህገ ባይዙን ኩሸ ማስቃላላ ሱጺ ዎዳ።<note caller="-" style="x"><char style="xo" closed="false">2:23 </char><char style="xt" closed="false"><ref loc="MAT 27:35">ማቶ. 27:35</ref>፤ <ref loc="MRK 15:24">ማር. 15:24</ref>፤ <ref loc="LUK 23:33">ሉቃ. 23:33</ref>፤ <ref loc="JHN 19:18">ዋሐ. 19:18</ref></char></note> <verse eid="ACT 2:23"/><verse number="24" style="v" sid="ACT 2:24"/>የዝን Ꮉይቆ ኤዛ አይኮደስ ዳንዳኦሰ ግሾ ጾዚ Ꮉይቆ ዎልቃ ብሲ ኤዛ ደንዳ።<note caller="-" style="x"><char style="xo" closed="false">2:24 </char><char style="xt" closed="false"><ref loc="MAT 28:5-6">ማቶ. 28:5-6</ref>፤ <ref loc="MRK 16:6">ማር. 16:6</ref>፤ <ref loc="LUK 24:5">ሉቃ. 24:5</ref></char></note> <verse eid="ACT 2:24"/><verse number="25" style="v" sid="ACT 2:25"/>ዳዉተ ኤ ባዝ ኦህተራ፥</para>
+  <para style="q1" vid="ACT 2:25">« ‹ታኒ ታናመ ፋና፥</para>
+  <para style="q2" vid="ACT 2:25">ላ ታ ምዛቅተ የነ።</para>
+  <para style="q2" vid="ACT 2:25">ላ ኡባ ዎደ ታ ቲኖ በእነ።<verse eid="ACT 2:25"/></para>
+  <para style="q1">
+    <verse number="26" style="v" sid="ACT 2:26"/>ይኒ ግሾ፥ ታ ዎዝንታ ኡፋይትዳ፤</para>
+  <para style="q2" vid="ACT 2:26">ታ እልአንተ ኡፋይስ ኩምዳ፤</para>
+  <para style="q2" vid="ACT 2:26">Ꮉይቅዘ ታ አሽታ ኡፋይሳራ የሳዳ።<verse eid="ACT 2:26"/></para>
+  <para style="q1">
+    <verse number="27" style="v" sid="ACT 2:27"/>አኮስ ጋይኮ፥ ታ ሸምፕቶ ስኦለ ግዳ አሾስ።</para>
+  <para style="q2" vid="ACT 2:27">ማህ ነ ጌሻ ዎቃስ አሾስ።<verse eid="ACT 2:27"/></para>
+  <para style="q1">
+    <verse number="28" style="v" sid="ACT 2:28"/>ነ ታና ደኦ ኦገ ኤርስዳ፤</para>
+  <para style="q2" vid="ACT 2:28">ነ ታራ የዛንፓ ታ ኡፋይስታ ኩሙ ማቃነ›<note caller="-" style="x"><char style="xo" closed="false">2:28 </char><char style="xt" closed="false"><ref loc="PSA 16:8-11">ማዝ. 16:8-11</ref></char></note> ያጋይዳ።<verse eid="ACT 2:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="ACT 2:29"/>«እሹን፥ ኑ አዳይ ዳዉተባዝ ታ ይንትስ ጌሽ ኦሆዳ። ዳዉተ Ꮉይቂ ሞግንትዳ፤ ኤ ቦዝታ Ꮉይኖ የሎደስ ኑ ካለ የነ። <verse eid="ACT 2:29"/><verse number="30" style="v" sid="ACT 2:30"/>ዳዉተ ናበ ማቅደ ግሾ ጾዚ ኤ ናኡንፓ ፈታ ኤ ካእቱሞ አራታላ በትደስ ኤስ ጫቂደ ጫቅቶ ኤራነ።<note caller="-" style="x"><char style="xo" closed="false">2:30 </char><char style="xt" closed="false"><ref loc="PSA 132:11">ማዝ. 132:11</ref>፤ <ref loc="2SA 7:12-13">2 ሳመ. 7:12-13</ref></char></note> <verse eid="ACT 2:30"/><verse number="31" style="v" sid="ACT 2:31"/>ይኒ ግሾ፥ ክርስቶሳ ደንድቶ ቲኖ ብእ፥ ‹ኤ ሸምፕታ ስኦለ በንታማኖን፤ ኤ አሽታ ዎቃማኖ› ኦህዳ።<verse eid="ACT 2:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="ACT 2:32"/>«ጾዚ፥ Ꮉያ የሱሳ Ꮉይቆፓ ደንዳንስ ኑኒ ኡቡን ማርካ። <verse eid="ACT 2:32"/><verse number="33" style="v" sid="ACT 2:33"/>ይኒ ግሾ፥ ጾዘ ምዛቅ ዛላራ ኤዛ ቅ ቅ ዪዚ፥ ኤስ እንጎዳ ጋእንትደ ጌሽ አያን አደፓ ኤኪ፥ Ꮉኖ ይን Ꮉተ በእዛኖን ስእዛኖ ኑላ አፋ ጉስዳ። <verse eid="ACT 2:33"/><verse number="34-35" style="v" sid="ACT 2:34-35"/>አኮስ ጋይኮ፥ ዳዉተ ፋ ኦምተ ሳሎ ከዝካያ የዝን፦</para>
+  <para style="q1" vid="ACT 2:34-35">«ላ፥ ታ ላ፥ ‹ታ ነ ሞርኩንና</para>
+  <para style="q2" vid="ACT 2:34-35">ነ ቶህታ የዘ በሲ ማሆደ ዎንስ</para>
+  <para style="q2" vid="ACT 2:34-35">Ꮉነ ታፓ ምዛቅ ዛላ በቶ ጋይዳ›</para>
+  <para style="m" vid="ACT 2:34-35">ያጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">2:34-35 </char><char style="xt" closed="false"><ref loc="PSA 110:1">ማዝ. 110:1</ref></char></note><verse eid="ACT 2:34-35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="ACT 2:36"/>«ይኒ ግሾ፥ Ꮉይ ይን ማስቃላላ ሱጽደ የሱሳ፥ ጾዚ ላን ክርስቶሳ ማህዳኖ እስራኤለ አስ ኡቡን ቱርፕ ኤሮ» ያጋይዳ።<verse eid="ACT 2:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="ACT 2:37"/>አሱን ጴጥሮሳ ጋእዳኖ ስኤዘ ዎደ ፋ ዎዝንተ አዛኒ ቦችንቲ ጴጥሮሳን Ꮉንኩን ሐዋሩንጎ፥ «እሹን፥ ዬዝን ኑኒ አኮ ኦቾ?» ያጋይዳ።<verse eid="ACT 2:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="ACT 2:38"/>ጴጥሮሳ ኡንታጎ፥ «ይን ናጋርታ አቶ ጋእንቶደ ጋር ናጋርትፓ ማቂ፥ ይን ፈተ ፈተ የሱስ ክርስቶሳ ሱንተ ጻማቅንቶተ። ጾዚ እንግዘ ጌሽ አያና እሞ ኤኮዳ። <verse eid="ACT 2:38"/><verse number="39" style="v" sid="ACT 2:39"/>ጾዚ እንጎዳ ጋይደ ኡፋይስ ቃላ ይንትስ፥ ይን ናኡንስን ላ ኑ ጾዛይ ፋጎ ጼግዘ Ꮉኮ የዘ ኡቡንስ» ያጋይዳ።<verse eid="ACT 2:39"/></para>
+  <para style="p">
+    <verse number="40" style="v" sid="ACT 2:40"/>ጴጥሮሳ ኡንትስ መለ ቃላን ጉጂ ማርክ፥ «Ꮉን ዎቦ አሱንላ ዮኦደስ የዘ ፍርዳፓ ይን ኦምቶ አሾተ» ያጋእ ዞርዳ። <verse eid="ACT 2:40"/><verse number="41" style="v" sid="ACT 2:41"/>ጴጥሮሳ ኦህዳኖ ኤክዱን ጻማቅንትዳ። የ ዎደ Ꮉይ ሙኩል ማቃደ አሱን አማኒ ጉጁንትዳ። <verse eid="ACT 2:41"/><verse number="42" style="v" sid="ACT 2:42"/>ኡን ሐዋሩን ትምርተራ፥ ፈተትራ፥ ዎላ ካ መኤራን ጾዝ ዎሳራ ሚንግ የነ።<verse eid="ACT 2:42"/></para>
+  <para style="s1">አማንዘ አስ ፈተት ደኦ</para>
+  <para style="p">
+    <verse number="43" style="v" sid="ACT 2:43"/>ሐዋሩን ኩሸ ጋማ ክለ ባዝን ማላ ኦችንትዘ ግሾ አሱን ኡባ ዣሽትዳ። <verse eid="ACT 2:43"/><verse number="44" style="v" sid="ACT 2:44"/>አማንዘ ኡቡን ፈትላ የነ፤ ፋስ የዘባዝቶን ኡባ ፈትላ ግሽንታነ።<note caller="-" style="x"><char style="xo" closed="false">2:44 </char><char style="xt" closed="false"><ref loc="ACT 4:32-35">ሐዋ. 4:32-35</ref></char></note> <verse eid="ACT 2:44"/><verse number="45" style="v" sid="ACT 2:45"/>ኡን ፋስ የዘባዝቶ ባይዝ ብርቶ ፈተስ ፈተስ ኮሽደ ፋና ግሻነ። <verse eid="ACT 2:45"/><verse number="46" style="v" sid="ACT 2:46"/>ኡባ ዎደ ፈቲ ዎዝናራ ማቂ ጾዘ ኬ ሺቃነ። ፋ ኬን ፈተ ፈታ ጼጊ ኡፋይሳራን ሎኦ ዎዝናራ ካ ሙነ። <verse eid="ACT 2:46"/><verse number="47" style="v" sid="ACT 2:47"/>ጾዛ ጋላትተራ አስ ኡባ ግዳ ናሽንትዳ። ላ አትዘ ሸምፖ ቃምተ ቃምተ ኡንታላ ጉጃነ።<verse eid="ACT 2:47"/></para>
+  <chapter eid="ACT 2"/>
+  <chapter number="3" style="c" sid="ACT 3"/>
+  <para style="s1">ቶሄ ዎቦ አ ፋጸ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 3:1"/>ፈቲ ኦደ ጴጥሮሳን ዋሐንሳን ጾዝ ዎሶደስ ኡዱፉን ሳተ ጾዘ ኬ Ꮉንግዳ። <verse eid="ACT 3:1"/><verse number="2" style="v" sid="ACT 3:2"/>የልንትዳንፓ ደንዲ ቶሄ ዎቦ ማቅደ ፈቲ አስ ጾዘ ኬ ገልዘ አሳፓ ሙጻታ ዎሶደ ፋና ኡባ ዎደ ሎኦ ጋዘ ጾዘ ኬትስ ፉርተ ቶኪ ክእ ጋዳነ። <verse eid="ACT 3:2"/><verse number="3" style="v" sid="ACT 3:3"/>የ አ ጴጥሮሳን ዋሐንሳን ጾዘ ኬተ ገሎደስ የኦደራ ብእ ኡንታና ሙጻታ ዎስዳ።<verse eid="ACT 3:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 3:4"/>ኡንትን ኤዛ ዳኪ ብእ፥ ጴጥሮሳ «ኑና Ꮉንካ ቦኦ» ያጋይዳ። <verse eid="ACT 3:4"/><verse number="5" style="v" sid="ACT 3:5"/>ቶሄ ዎቦ አ ኡን አኮ ባዝ እማዳ አዝን ኡንታና ብእዳ። <verse eid="ACT 3:5"/><verse number="6" style="v" sid="ACT 3:6"/>የዝን ጴጥሮሳ ኤጎ፥ «ታስ ብራን ዎርቃን ባያ፥ የዝን ታስ የዛኖ ታ ኔስ እንጎዳ። ናዝረተ የሱስ ክርስቶሳ ሱንተ ደንዲ ጎደን Ꮉንካን የ» ያጋይዳ።<verse eid="ACT 3:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 3:7"/>ይንፓ ማቂ፥ ኤ ምዛቅ ኩሽቶ አይኪ ደንዳ። ኤልሲ ኤ ቶህታን ቅልችታን ምንግዳ። <verse eid="ACT 3:7"/><verse number="8" style="v" sid="ACT 3:8"/>አይ ዶሊ ደንዲ ኤቅዳ። ጎደን Ꮉንካን የ አይክዳ። ይንፓ ማቂ፥ የተራ፥ ዶልተራን ጾዝ ጋላትተራ ኡንታራ ዎላ ጾዘ ኬ ገልዳ።<verse eid="ACT 3:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 3:9"/>ኤ የደራ ጾዝ ጋላቶደራን አሱን ኡባ ኤዛ ብእዳ። <verse eid="ACT 3:9"/><verse number="10" style="v" sid="ACT 3:10"/>ብእደ ኡባ ሙጻታ ዎሶደስ ሎኦ ጋዘ ጾዘ ኬ ፉርተ በትደ ኤዛ ማቅዳኖ ኤርዳ፤ ኤ Ꮉንዳኖ ብእ ጋማ ቆፋራ ኩምዳ።<verse eid="ACT 3:10"/></para>
+  <para style="s1">ጴጥሮሳ ጾዘ ኬ ኦህደ ኦሄ</para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 3:11"/>አይ ጴጥሮሳፓን ዋሐንሳፓን ዱጾስ ጋእ አይኪ የዝን አሱን ኡባ ጋማ ቆፒ፥ ሶሎሞና ፉር ጋዘ በሳ ዎላ ኡንታጎ ይእዳ። <verse eid="ACT 3:11"/><verse number="12" style="v" sid="ACT 3:12"/>ጴጥሮሳ አሱንና ብእደ ዎደ አሱንጎ፥ «እስራኤለ አሱን፥ አኮስ Ꮉነ ጋማ ቆፐተ? ዎይ አኮስ ኑና ዳኪ በኤተ? ኑኒ ኑ ዎልቃራ ዎይ ኑ ጾዝ ዣሽትደ ግሾ Ꮉይ አ ፋ ቶሄር የደ ጋር ዪሳዳ ይንትስ አዛነ? <verse eid="ACT 3:12"/><verse number="13" style="v" sid="ACT 3:13"/>አብራሃማ፥ ይሳቃ፥ ያይቆባ ጾዘ፥ ኑ አዱን ጾዘ፥ ፋ ናአያ የሱሳ ቦንችዳ። የዝን ይን Ꮉይቆስ አ እንግዳያ ጵላጦሳ ብሎደስ ኮይን ይን ኤ ቲኖ፥ ‹ኑ ኤዛ ኮዮስ› ያጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">3:13 </char><char style="xt" closed="false"><ref loc="EXO 3:15">ከዘ 3:15</ref></char></note> <verse eid="ACT 3:13"/><verse number="14" style="v" sid="ACT 3:14"/>ይን ጌሽዛን ጽልዛን፥ ‹ኑ ኤዛ ኮዮስ› ጋእ፥ ሸምፖ ዎዳያ ይንትስ ብሎደ ጋር ጵላጦሳ ዎስዳ።<note caller="-" style="x"><char style="xo" closed="false">3:14 </char><char style="xt" closed="false"><ref loc="MAT 27:15-23">ማቶ. 27:15-23</ref>፤ <ref loc="MRK 15:6-14">ማር. 15:6-14</ref>፤ <ref loc="LUK 23:13-23">ሉቃ. 23:13-23</ref>፤ <ref loc="JHN 19:12-15">ዋሐ. 19:12-15</ref></char></note> <verse eid="ACT 3:14"/><verse number="15" style="v" sid="ACT 3:15"/>ደኦ እንግዛያ ይን ዎዳ፥ የዝን ጾዚ Ꮉይቆፓ ኤዛ ደንዳ። ይንስ ኑ ማርካ። <verse eid="ACT 3:15"/><verse number="16" style="v" sid="ACT 3:16"/>Ꮉይ ይን በእዘን ኤርዘ አ ፋጺ ሚንግዳና የሱሳ ሱንተ አማንዳነ። Ꮉይ ይን ኡቡን ቲንተ ኤዛ Ꮉንጋር ፋደ ኤ የሱሳ አማንደ ግሾ።<verse eid="ACT 3:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 3:17"/>«Ꮉተን ታ እሹን፥ ይንትን ይንታና ካልዙን ጋር፥ ኤርካይዛራ ኦችዳኖ ታ ኤራነ። <verse eid="ACT 3:17"/><verse number="18" style="v" sid="ACT 3:18"/>የዝን ጾዚ ዛጋ ናቡን ኡቡን ዶንተ፥ ‹ክርስቶሳ ማ ኤኮደስ ቤዛነ› ያጋይዳኖ ይእ ፎልንቶደ ፋና ኦችዳ። <verse eid="ACT 3:18"/><verse number="19" style="v" sid="ACT 3:19"/>ይኬ፥ ጾዚ ይን ናጋርቶ አቶ ጋዉደ ጋር ማሮት ገሎተን ላጎ ማቆተ። <verse eid="ACT 3:19"/><verse number="20" style="v" sid="ACT 3:20"/>ላ ካለፓ ምንዘ ዎደ ይንትስ የኦደ ፋና ጾዚ ኤዛ ቲን ዶርደ ክርስቶስ የሱሳ ይንትስ ዳኮዳ። <verse eid="ACT 3:20"/><verse number="21" style="v" sid="ACT 3:21"/>ጾዚ ፋ ጌሽ ናቡን ዶንተ ዛጋ ኦህዳን ጋር ኡባ ባዝ ክልደ ዎደ የሎደስ የሱሳ ሳሎ ጋምኦደስ ቤዛነ። <verse eid="ACT 3:21"/><verse number="22" style="v" sid="ACT 3:22"/>ሙሴ፥ ‹ላ ጾዚ ታና ደንዳን ጋር ይን ግዳ ፋ ይንትስ ናበ ደንዳ። ይን ኤ ጋዛኖ ኡባ ስኦተ።<note caller="-" style="x"><char style="xo" closed="false">3:22 </char><char style="xt" closed="false"><ref loc="DEU 18:15">ማሄ 18:15</ref>፥ <ref loc="DEU 18:18">18</ref></char></note> <verse eid="ACT 3:22"/><verse number="23" style="v" sid="ACT 3:23"/>የ ናብዘ ኦህዛኖ ስኦሰ አ ኦደን አስ ግዳፓ ሻክንት ቦዳ› ጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">3:23 </char><char style="xt" closed="false"><ref loc="DEU 18:19">ማሄ 18:19</ref></char></note><verse eid="ACT 3:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 3:24"/>«ማህ ሳሙኤላፓ አይኪ የዘ ናቡን ኡባ ይና ቃምትባዝ ኦህዳ። <verse eid="ACT 3:24"/><verse number="25" style="v" sid="ACT 3:25"/>ይን ናቡን ናኡንና፤ ማህ ጾዚ አብራሃማስ፥ ‹ሳአ የዘ አስ ኡባ ታ ነ ኮችት ባጋር አንጆዳ› ጋእ ኑ አዱንስ ጫቆ ቃላ ላቶደ ናኡንና።<note caller="-" style="x"><char style="xo" closed="false">3:25 </char><char style="xt" closed="false"><ref loc="GEN 22:18">መ 22:18</ref></char></note> <verse eid="ACT 3:25"/><verse number="26" style="v" sid="ACT 3:26"/>ጾዚ ይንታና ኡባ ይን ኢታ ኦግትፓ ማህ አንጆደ ፋና ፋ ናአያ ደን ይንትስ ቲኒ ዳክዳ» ያጋይዳ።<verse eid="ACT 3:26"/></para>
+  <chapter eid="ACT 3"/>
+  <chapter number="4" style="c" sid="ACT 4"/>
+  <para style="s1">ጴጥሮሳን ዋሐንሳን አይሁደ ሻንጎ ቲኖ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 4:1"/>ጴጥሮሳን ዋሐንሳን አሱንስ ኦሆደራ ካህኑን Ꮉላቁን፥ ጾዘ ኬቶ ናግዙን Ꮉላቅዘን ሳዱቃዉን ኡንታጎ ይእዳ። <verse eid="ACT 4:1"/><verse number="2" style="v" sid="ACT 4:2"/>ኡን የሱሳ Ꮉይቆፓ ደንድዳኖን ኤ ባጋራ Ꮉይቆፓ ደንዶ የዛኖ አሱንና ታማርስደ ግሾ ካጭዳ። <verse eid="ACT 4:2"/><verse number="3" style="v" sid="ACT 4:3"/>ይኒ ግሾ፥ ኡንታና አይኪ ሳእታ ኡጉርደ ግሾ ዎንቶደ ዎንስ አች ኬ ገልዳ። <verse eid="ACT 4:3"/><verse number="4" style="v" sid="ACT 4:4"/>የዝን ቃላ ስእዱንፓ ጋሙን አማንዳ። አማንደ ራ አሱን ፋይድታ እችን ሙኩል የልዳ።<verse eid="ACT 4:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 4:5"/>ዎንትት ኦደ ጋደ አህዙን፥ ጭሙንን፥ ህገ አስታማሩን የሩሳላመ ሺቅዳ።<figure style="fig" alt="Part of the Sanhedrin council in session" file="LB00284B.TIF" size="span" ref="4:5">ኣይሁዱ ኣህዜ ዎደ</figure> <verse eid="ACT 4:5"/><verse number="6" style="v" sid="ACT 4:6"/>የን አሱን ግዳ ካህኑን Ꮉላቅዘ ሃናን፥ ቃያፋ፥ ዋሐንሳ፥ እስክንድሮሳን ካህኑን Ꮉላቃ እግኑን ኡባ የነ። <verse eid="ACT 4:6"/><verse number="7" style="v" sid="ACT 4:7"/>ጴጥሮሳን ዋሐንሳን ፋ ቲንተ ኤስ፥ «አኮ ዎልቃራ ዎይ ኦደ ሱንተ Ꮉኖ ይን ኦችዶ?» ያጋእ ኦጭዳ።<verse eid="ACT 4:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="ACT 4:8"/>የ ዎደ ጴጥሮሳ ጌሽ አያናር ኩሚ፥ «አህዙንን፥ ጭሙን፥ <verse eid="ACT 4:8"/><verse number="9" style="v" sid="ACT 4:9"/>Ꮉይኖ Ꮉይ ቶሄ ዎቦ አስ ኦችንትደ ሎኦ ኦችትስን ኤ ዋይዝ ፋጸዛኮ ይን ኑና ቁርችኮ፥ <verse eid="ACT 4:9"/><verse number="10" style="v" sid="ACT 4:10"/>ማስቃላላ ይን ሱጽን፥ ጾዚ Ꮉይቆፓ ደንደ ናዝረተ የሱስ ክርስቶሳ ሱንተ Ꮉይ አ ፋጺ ይን ቲንተ ኤቅዳይ ይንትስን እስራኤለ አስ ኡቡንስ ኤርንትደባዝ ማቀ።<verse eid="ACT 4:10"/></para>
+  <para style="q1">
+    <verse number="11" style="v" sid="ACT 4:11"/>«ይን ‹ኬጽዙን ለቂ እጽደ ሹችዘ፥</para>
+  <para style="q2" vid="ACT 4:11">ኬ ማይዘነስ ኦማን፥</para>
+  <para style="q2" vid="ACT 4:11">ኡባፓ አዘ ሹች ማቅዳ፤</para>
+  <para style="q2" vid="ACT 4:11">የ ሹችዘ የሱሳ።›<note caller="-" style="x"><char style="xo" closed="false">4:11 </char><char style="xt" closed="false"><ref loc="PSA 118:22">ማዝ. 118:22</ref></char></note><verse eid="ACT 4:11"/></para>
+  <para style="m">
+    <verse number="12" style="v" sid="ACT 4:12"/>ይኒ ግሾ፥ አቶት ኤ ባጋራፕ አትን መለ ኦደ ባጋራን ይእካያ። ኑ ኤ ሱንተ አቶደ ጋር አስ ኡባስ ጾዚ ሳሎፓ ኦሞራ እንግደ መለ ሱን ባያ» ያጋይዳ።<verse eid="ACT 4:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 4:13"/>ሺቅደ አሱን ጴጥሮሳን ዋሐንሳን ቆንጭዝ ኦህዳኖ ብእደ ዎደ ኡን ታማርካይዘ ጨር አስ ማቅዳኖ ቆፒ ጋማ ናሽዳ፤ ኡን የሱሳራ የዛኖ ኤርዳ። <verse eid="ACT 4:13"/><verse number="14" style="v" sid="ACT 4:14"/>ማህ ፋጽደ አ ጴጥሮሳራን ዋሐንሳራ ኤቅዳኖ አሱን ብእን ጋዉደ ባዝ ብዳ። <verse eid="ACT 4:14"/><verse number="15" style="v" sid="ACT 4:15"/>የዝን ጴጥሮሳን ዋሐንሳን ባለ ኬሳደ ጋር ዪዚ ፋ ግዳ፥ <verse eid="ACT 4:15"/><verse number="16" style="v" sid="ACT 4:16"/>«Ꮉን አሱንላ ኑ አኮ ኦቾ? ኡን ኩሽተ ኦችንትደ ዳማ ክለ ባዝ የሩሳላመ የዘ ኡቡንስ ቆንጭዳ። ኑ ይኖ አቾደስ ዳንዳኦስ። <verse eid="ACT 4:16"/><verse number="17" style="v" sid="ACT 4:17"/>የዝን Ꮉና ኦህታ አስ ግዳ ዳልጋመ ጋር ይኬፓ Ꮉን አሱን የሱሳ ሱንተ ሙሎን ኦሃመ ፋናን ታማርሳመ ፋና ካዮዳ» ጋእ ዞርንትዳ።<verse eid="ACT 4:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="ACT 4:18"/>ኡንታና ጼጊ፥ የሱሳ ሱንተ ይኬፓ ኦሃመ ጋር ዎይ ታማርሳመ ጋር ኪትዳ። <verse eid="ACT 4:18"/><verse number="19" style="v" sid="ACT 4:19"/>የዝን ጴጥሮሳን ዋሐንሳን ኡንታጎ ማህ፥ «ጾዘስ ኪትንቶዳንፓን ይንትስ ኪትንቶዳንፓ ጾዘ ቲኖ አና ሎኦ የዛኮ አነ ይን ፍርዶተ። <verse eid="ACT 4:19"/><verse number="20" style="v" sid="ACT 4:20"/>ኑ ብእዳኖን ስእዳኖን ኦህካይዛራ ስእ ጋዉደስ ዳንዳኦስ» ያጋይዳ።<verse eid="ACT 4:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 4:21"/>ጭሙንን ዎርዣ አህዙን ቲኖስትፓ ምን ካጪ ኡንታና ዳኪ አሽዳ። አሱን Ꮉንዳንስ ጾዝ ጋላቲ ቦንችደ ግሾ ኡንታና ፍርዶደስ ዳንዳእካያ። <verse eid="ACT 4:21"/><verse number="22" style="v" sid="ACT 4:22"/>ይና ክለ ኦችተ Ꮉርግትፓ ፋጽደ አስ ላይታ ኦይታማፓ አነ።<verse eid="ACT 4:22"/></para>
+  <para style="s1">አማንዘ አስ ዎሳ</para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 4:23"/>ጴጥሮሳን ዋሐንሳ ብልንቲ አማንዘ ባጉንጎ Ꮉንግ፥ ካህኑን Ꮉላቁንን ጭሙን ፋጎ ጋይደባዝ ኡባ ኡንትስ ኦህዳ። <verse eid="ACT 4:23"/><verse number="24" style="v" sid="ACT 4:24"/>ኡን ይኖ ስእደ ዎደ ፈቲ ዎዝና ማቂ ጾዛ Ꮉንጋራ ያጋእ ዎስዳ፦ «ኡባ አህዘ ላዮ፥ ሳሎ፥ ሳአ፥ አባን ኡን ግዳ የዛኖ ኡባ መዳዮ፥<note caller="-" style="x"><char style="xo" closed="false">4:24 </char><char style="xt" closed="false"><ref loc="EXO 20:11">ከዘ 20:11</ref>፤ <ref loc="NEH 9:6">ናህ. 9:6</ref>፤ <ref loc="PSA 146:6">ማዝ. 146:6</ref></char></note> <verse eid="ACT 4:24"/><verse number="25" style="v" sid="ACT 4:25"/>ኔኒ ነ አርዘ፥ ኑ አዳይ ዳዉተ ዶንተ ጌሽ አያናራ፥</para>
+  <para style="q1" vid="ACT 4:25">«አይሁደ ማቆሱን አኮስ ዙዝንግዶ?</para>
+  <para style="q2" vid="ACT 4:25">ዎርዡን አኮስ ጨር ዞርንትዶ?<note caller="-" style="x"><char style="xo" closed="false">4:25-26 </char><char style="xt" closed="false"><ref loc="PSA 2:1-2">ማዝ. 2:1-2</ref></char></note><verse eid="ACT 4:25"/></para>
+  <para style="q1">
+    <verse number="26" style="v" sid="ACT 4:26"/>ሳአ ካቱንን</para>
+  <para style="q2" vid="ACT 4:26">ዎርዣ አህዙን ዎላ ላላን</para>
+  <para style="q2" vid="ACT 4:26">ትዥንትደላን ደንድዳ ያጋይዳ።<verse eid="ACT 4:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 4:27"/>«ቱሮን፥ ሄሮድሳን ጰንጠ ጵላጦሳ አይሁደ ማቆሰ አሱንራን እስራኤለ አሱንራ ነ ትዥደ ነ ጌሽ ናአይ የሱሳላ ደንዶደስ Ꮉና ካታምተ ሺቅዳ።<note caller="-" style="x"><char style="xo" closed="false">4:27 </char><char style="xt" closed="false"><ref loc="MAT 27:1-2">ማቶ. 27:1-2</ref>፤ <ref loc="MRK 15:1">ማር. 15:1</ref>፤ <ref loc="LUK 23:1">ሉቃ. 23:1</ref>፥ <ref loc="LUK 23:7-11">7-11</ref>፤ <ref loc="JHN 18:28-29">ዋሐ. 18:28-29</ref></char></note> <verse eid="ACT 4:27"/><verse number="28" style="v" sid="ACT 4:28"/>ማህ ኔኒ ነ ዎልቃራን ነ ቆፋር ኦቾዳ ጋእ ቆፒ በትደ ባዝ ኡባ ኡን ፎልዳ። <verse eid="ACT 4:28"/><verse number="29" style="v" sid="ACT 4:29"/>Ꮉተን ላ፥ ኡን ማንድዛኖ ቦኦ፤ ኑኒ ነ አሩን ነ ቃልቶ ኩሙ ዎዝናር ኦሆደ ጋር ኑስ ዎልቃ እንጎ። <verse eid="ACT 4:29"/><verse number="30" style="v" sid="ACT 4:30"/>ነ ጌሽ ኦቻንችዘ የሱሳ ሱንተ Ꮉርግንትዙንና ፋደስ፥ ክለ ባዝን ጋማ ቆፍዘ ባዝ ኦችንቶደ ጋር ነ ኩሽቶ ምጮ» ጋእ ዎስዳ።<verse eid="ACT 4:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="ACT 4:31"/>ኡን ጾዝ ዎስዳንፓ ሱባ ኡን ሺቅደ በስታ ኤንእዳ። ኡን ኡቡን ግዳ ጌሽ አያና ኩምን ጾዘ ቃልቶ ቆንጭዝ ኦህዳ።<verse eid="ACT 4:31"/></para>
+  <para style="s1">ቲኖ አማንዘ አሱን ፈተት</para>
+  <para style="p">
+    <verse number="32" style="v" sid="ACT 4:32"/>አማንዙን ኡቡን ቆፋራን ዎዝናራን ፈቶ ማቅዳ። ኡን ፋስ የዘ ባዝ ኡባ ታ ባዝ ጋእ ኦሆስ። የዝን ፋስ የዛኖ ኡባ ዎላ ማድንታነ።<note caller="-" style="x"><char style="xo" closed="false">4:32 </char><char style="xt" closed="false"><ref loc="ACT 2:44-45">ሐዋ. 2:44-45</ref></char></note> <verse eid="ACT 4:32"/><verse number="33" style="v" sid="ACT 4:33"/>ሐዋሩን ላ የሱሳ Ꮉይቆፓ ደንድዳኖ ዳማ ዎልቃራ ማርክነ። ጾዚ ኡን ኡቡንስ ዳማ አ ኬሃት እንግዳ። <verse eid="ACT 4:33"/><verse number="34" style="v" sid="ACT 4:34"/>ጋደ ማቅን ኬ የዘ ኡባ ባይዝ ብርቶ ዎላላ ጋዳነ። ይኒ ግሾ አማንዙን ግዳ ማዘ ፈትን ባያ። <verse eid="ACT 4:34"/><verse number="35" style="v" sid="ACT 4:35"/>ብርቶ ክእ ሐዋሩንስ እንጋነ፤ ይና ብርቶ ፈተስ ፈተስ ኮሽደ ፋና ሻኪ ሻኪ እንጋነ።<verse eid="ACT 4:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="ACT 4:36"/>ቆጵሮሳ ጋዘ በስተ የልንትደ ዮሰፋ ጋዘ ሌወ ኮቻፓ ማቅደ ፈተ የነ። ኤ ሱንቶ ሐዋሩን ባርናባሳ (ምንዘ ናአ) ጋይዳ። <verse eid="ACT 4:36"/><verse number="37" style="v" sid="ACT 4:37"/>ባርናባሳ ፋስ የዘ ጋድቶ ባይዝ ብርቶ ክእ ሐዋሩንስ እንግዳ።<verse eid="ACT 4:37"/></para>
+  <chapter eid="ACT 4"/>
+  <chapter number="5" style="c" sid="ACT 5"/>
+  <para style="s1">ሀናንያን ኤ ማችታ ሳጲራን</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 5:1"/>ፈቲ ሀናንያ ጋዘ አ ፋ ማችታ ሳጲርራ ጋደ ባይዝዳ። <verse eid="ACT 5:1"/><verse number="2" style="v" sid="ACT 5:2"/>ይና ባይዝደ ብርትፓ ፋ ማችታ ኤርዝን አሺ፥ አትዳኖ ክእ ሐዋሩንስ እንግዳ።<verse eid="ACT 5:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="ACT 5:3"/>የዝን ጴጥሮሳ ሀናንያጎ፥ «ነ ጌሽ አያና ጭሞደ ጋራን ጋድቶ ባይዝደ ብርትፓ ሻኪ አሾደ ጋር ጻላሄ ነ ዎዝንተ አኮስ ገልዶ? <verse eid="ACT 5:3"/><verse number="4" style="v" sid="ACT 5:4"/>ኔኒ ባይዞዳንፓ ቲኖ ጋድዘ ነባዝ ባነ? ማህ ነ ባይዝ ማቅንን ሚሽታ ነባዝ ባነ? ዬዝን፥ ይኒ ጋርዘ ባዝ ኦቾደስ አኮስ ነ ዎዝንተ ቆፕዶ? ነ ጾዝ ቲኖ ዎርድዳፕ አትን አስ ቲኖ ዎርድካያ» ያጋይዳ።<verse eid="ACT 5:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 5:5"/>ሀናንያ ይና ቃልቶ ስእደ ጋር ጎልእ Ꮉይቂዳ፤ ይኖ ስእደ ኡቡን ዳማ ዣሽትዳ። <verse eid="ACT 5:5"/><verse number="6" style="v" sid="ACT 5:6"/>ናአትን ደንዲ ኤ አህቶ ዚ ጻጺ ካንግ ሞግዳ።<verse eid="ACT 5:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 5:7"/>Ꮉይ ሳተፓ ሱባ ሀናንያ ማችታ ይኖ ኤርካይዛራ ጴጥሮሳ የዘ በስተ ገልዳ። <verse eid="ACT 5:7"/><verse number="8" style="v" sid="ACT 5:8"/>ጴጥሮሳ ኢጎ፥ «ይን ጋድቶ ይና ብርትስ ጋማቲ ባይዝዳተ? አነ ታስ ኦሆ» ያጋይዳ።</para>
+  <para style="p" vid="ACT 5:8">እዛን፥ «ዬ፥ ይና ብርትስ ጋማቲ ባይዝዳ» ያጋይዳ።<verse eid="ACT 5:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 5:9"/>ጴጥሮሳ ማችቶ፥ «ኔራን ነ አዝንዘራ ላ አያና ፋታኖደስ አኮስ ዞርንትዶተ? ይኬ፥ ነ አዝንዛ ሞግደ አሱን ባለ የነ፤ ነናን ኡን ባለ ከሶዳ» ያጋይዳ።<verse eid="ACT 5:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 5:10"/>ማችታ ኢራ ጴጥሮሳ ቶህት ካለ ጎልእ Ꮉይቂዳ፤ ሻካኑን ገልዘ ዎደ Ꮉይቂዳኖ ደንግ ባለ ኬሲ፥ እ አዝንዘ ካለ ካንግ ሞግዳ። <verse eid="ACT 5:10"/><verse number="11" style="v" sid="ACT 5:11"/>ኩሙ ዎሳ ኬታን ይኖ ስእደ መለ አሱን ኡባ ዳማ ዣሽትዳ።<verse eid="ACT 5:11"/></para>
+  <para style="s1">ክለ ባዝን ጋማ ቆፍዘ ባዝን</para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 5:12"/>ሐዋሩን ጋማ ቆፍዘ ባዝን ክሌ ባዝ አሱን ግዳ ኦችተር የነ። ኡቡን ፈቲ ዎዝናር ሶሎሞነ ፉር ሺቃነ። <verse eid="ACT 5:12"/><verse number="13" style="v" sid="ACT 5:13"/>መለ አሳፓ ፈቲ አስን ኡንታር ማድንቶደስ ሚንግካያ፥ የዝን አሱን ኡንታና ቦንችዳ። <verse eid="ACT 5:13"/><verse number="14" style="v" sid="ACT 5:14"/>አማንዘ ራንን ማቹን ፋይድታ ቲኖስትፓ ጋንግተ ቅትዳ። <verse eid="ACT 5:14"/><verse number="15" style="v" sid="ACT 5:15"/>ይኒ ግሾ፥ አሱን Ꮉርጋንቹንና ሻንቻፋራን አልጋራ ቶኪ ጴጥሮሳ አዘ ዎደ ኤ ዳሽታ ኡንታፓ ፈተላ ፈተላ ዳሾደ ጋር ኦገ ዶና ኬሲ ጋዳነ። <verse eid="ACT 5:15"/><verse number="16" style="v" sid="ACT 5:16"/>ማህ ጋማ አሱን የሩሳላመ ካለ የዘ ካታማፓ Ꮉርግንትዙንና ቱና አያና ዋይዘ አሱንና ኤኪ የእነ፤ ኡቡንን ፋጻነ።<verse eid="ACT 5:16"/></para>
+  <para style="s1">ሐዋሩንላ ባይ ደንድዳ</para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 5:17"/>ካህኑን Ꮉላቅዘን ኤራ የዘ ሳዱቃዉን ኡባ እጸራ ኩሚ ሐዋሩንላ ደንድዳ። <verse eid="ACT 5:17"/><verse number="18" style="v" sid="ACT 5:18"/>ሐዋሩንና አይኪ ዎርዣ አች ኬ ኦልዳ። <verse eid="ACT 5:18"/><verse number="19" style="v" sid="ACT 5:19"/>የዝን ላ ኪታንቾ ቃማ አች ኬ ፉርቶ ቡጊ ሐዋሩንና ባለ ኬሲ፥ <verse eid="ACT 5:19"/><verse number="20" style="v" sid="ACT 5:20"/>«Ꮉንግ፥ ጾዘ ኬ ኤቂ Ꮉና ክለ ደኦ ቃልቶ አሱንስ ኡባ ኦሆተ» ያጋይዳ። <verse eid="ACT 5:20"/><verse number="21" style="v" sid="ACT 5:21"/>ሐዋሩን ይኖ ስእደ ዎደ ዎንታ ጎዳ ጾዘ ኬ ገሊ ታማርሰ አይክዳ።</para>
+  <para style="p" vid="ACT 5:21">ካህኑን Ꮉላቅዘን ኤራ የዙን ይእ፥ እስራኤለ ጭሙንና ኡባ ጼጊ ሺሺ ሐዋሩንና ፋ ቲኖ ኮኦደ ጋር ዎታዳሩንና አች ኬ ኪትዳ። <verse eid="ACT 5:21"/><verse number="22" style="v" sid="ACT 5:22"/>የዝን ዎታዳሩን አች ኬተ Ꮉንግ ሐዋሩንና ደንግካያ። ሱብ ማቂ ይእ አሱንጎ፥ <verse eid="ACT 5:22"/><verse number="23" style="v" sid="ACT 5:23"/>«ኑ Ꮉንግዘ ዎደ አች ኬት ፉርታ ምን ጎርድንትን፥ ናግዙን ፉርተ ኤቅዱንና ደንግዳ። የዝን ኑ ፉርቶ ቡግዘ ዎደ ግዳ መለ አቶ የዝን ፈቲ አስን ባያ» ያጋይዳ። <verse eid="ACT 5:23"/><verse number="24" style="v" sid="ACT 5:24"/>ይኒ ግሾ፥ ጾዘ ኬተ ዎታዳሩንና ኪትዘ ካህኑን Ꮉላቁን ይኖ ስኤዘ ዎደ «ሐዋሩንላ አኮ Ꮉንዶ?» ጋእ ታውዳ።<verse eid="ACT 5:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="ACT 5:25"/>የ ዎደ ፈቲ አስ ኡንታጎ ይእ፥ «ይኬ፥ ይን አጭደ አሱን ጾዘ ኬተ ኤቂ አሱንና ታማርሳነ» ያጋእ ኡንትስ ኦህዳ። <verse eid="ACT 5:25"/><verse number="26" style="v" sid="ACT 5:26"/>ጾዘ ኬተ ዎታዳሩንና ኪትዘ ፋ ዎታዳሩንራ Ꮉንግ ሐዋሩንና ክእዳ። የዝን ኡን ፋና አሱን ሹቻራ ጎዳ ጋእ ዣሽትደ ግሾ ኡንታና አዳሽ ክእዳ።<verse eid="ACT 5:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 5:27"/>ኡን ሐዋሩንና ክእ፥ ሺቅደ ሻንጉን ቲንተ ኤስን ካህኑን Ꮉላቅዘ ኡንታጎ፥ <verse eid="ACT 5:27"/><verse number="28" style="v" sid="ACT 5:28"/>«ይንታና ኑኒ የ አ ሱንተ ታማርሳመ ጋር ምን ኪትካነ? ይኬ፥ ይን ትምርትቶ የሩሳላመ ካታማ ኡባ የልዳ። የ አ ሸምፕትስ ኑና ጋልሳደስ ኮያነነ?» ያጋእ ኦጭዳ።<note caller="-" style="x"><char style="xo" closed="false">5:28 </char><char style="xt" closed="false"><ref loc="MAT 27:25">ማቶ. 27:25</ref></char></note><verse eid="ACT 5:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="ACT 5:29"/>ጴጥሮሳራን Ꮉንኮ ሐዋሩንራ ኡንትስ ማህተ፥ «ኑኒ አስስ ኪትንቶዳንፓ ጾዝስ ኪትንቶደስ ቤዛነ። <verse eid="ACT 5:29"/><verse number="30" style="v" sid="ACT 5:30"/>ማስቃላላ ይን ሱጺ ዎደ የሱሳ ኑ አዱን ጾዘ Ꮉይቆፓ ደንዳ። <verse eid="ACT 5:30"/><verse number="31" style="v" sid="ACT 5:31"/>እስራኤሉን ናጋራፓ ማቃደ ጋራን ኡን ናጋርታ አቶ ጋእንቶደ ጋር ጾዚ የሱሳ አህዛያን አሽዛያ ማህ ቦንቾራ ፋፓ ምዛቅ ዛላር በትዳ። <verse eid="ACT 5:31"/><verse number="32" style="v" sid="ACT 5:32"/>ይንስ ኑ ማርካ፤ ማህ ጾዘ ፋና ኪትንትዙንስ እንግደ ጌሽ አያናን ማርካ» ያጋይዳ።<verse eid="ACT 5:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="ACT 5:33"/>ሺቅደ አሱን ይኖ ስኤዘ ዎደ ዳማ ዥል፥ ሐዋሩንና ዎደስ ቆፕዳ። <verse eid="ACT 5:33"/><verse number="34" style="v" sid="ACT 5:34"/>የዝን አስ ኡባ ግዳ ዳማ ቦንችንትደ፥ ህገ አስታማረ ማቅደ፥ ጋማልያለ ጋዘ ፈቲ ፋርሳዉዘ ደንዲ ኤቂ ሐዋሩንና ኤራ ጎደ ባለ ከሶደ ጋር ኪትዳ። <verse eid="ACT 5:34"/><verse number="35" style="v" sid="ACT 5:35"/>ይንፓ ሱባ፥ ሺቅደ አሱንጎ፥ «እስራኤለ አሱን፥ Ꮉን አሱንላ ይን ኦቾደስ ቆፕደ ባዝትፓ ናግንቶተ። <verse eid="ACT 5:35"/><verse number="36" style="v" sid="ACT 5:36"/>አኮስ ጋይኮ፥ Ꮉንፓ ቲኖ ተዎዳሳ ፋና፥ ‹ታ ዳማ› ጋእ ደንድን፥ ኦይዲ ጼት ማቃደ አሱን ኤራ ዎላ ማቅዳ። የዝን ኤዛ ዎን ኤዛ ካልዘ ኡቡን ላንትን ፋሰ አስ ማቂ አትዳ። <verse eid="ACT 5:36"/><verse number="37" style="v" sid="ACT 5:37"/>ይንፓ ሱባ፥ አሱን ፋይድንትደ ዎደ ጋልላፓ የዘ ይሁዳ ደንዲ ጋማ አሱን ፋና ካሎደ ጋር ዪዝዳ፥ የዝን ኤዛ ዎን ኤዛ ካልዘ አሱን ኡባ ላንትዳ። <verse eid="ACT 5:37"/><verse number="38" style="v" sid="ACT 5:38"/>Ꮉተን ታ ይንትስ ኦህነ፤ Ꮉን አሱንፓ ሻግንቶተ፤ ኡንታና ቦችፐተ። አኮስ ጋይኮ፥ Ꮉና ቆፍቶን Ꮉና ኦችቶ አስ ኦችዘባዝ ማቅኮ ቦዳ። <verse eid="ACT 5:38"/><verse number="39" style="v" sid="ACT 5:39"/>የዝን Ꮉና ቆፍታን Ꮉና ኦችታ ጾዛፓ ይእደባዝ ማቅኮ፥ ይን ኡንታና ብሶደስ ዳንዳኦስ። ቱርፓ ይን ጾዛራ ካጭንትተራ በንታመ ፋና» ያጋእ ኦህዳ። ይኒ ግሾ፥ ሺቅደ አሱን ጋማልያለ ዞርዳኖ ኤክዳ።<verse eid="ACT 5:39"/></para>
+  <para style="p">
+    <verse number="40" style="v" sid="ACT 5:40"/>ሐዋሩንና Ꮉንካ ፋጎ ጼጊ አላንጋራ ጋራፍዝዳ። ይንፓ ሱባ፥ ኡንታጎ፥ «የሱሳ ሱንቶ ላምእን ኦህፐተ» ጋእ ብሊ ዳክዳ። <verse eid="ACT 5:40"/><verse number="41" style="v" sid="ACT 5:41"/>የሱሳ ሱንት ግሾ ኡን ቦርንቴ ቤዘባዝ ማቅዳኖ ኤርዘ ግሾ ሻንጉን ቲኖፓ ኡፋይትተራ ከዝዳ። <verse eid="ACT 5:41"/><verse number="42" style="v" sid="ACT 5:42"/>ኡን ኡባ ዎደ ጾዘ ኬን አስ ኬን የሱሳ ኤ ክርስቶሳ ማቅዳኖ ታማርሰን ሳባኬን አሽካያ።<verse eid="ACT 5:42"/></para>
+  <chapter eid="ACT 5"/>
+  <chapter number="6" style="c" sid="ACT 6"/>
+  <para style="s1">ላፑን ድያቆናቱን ዶርንቶ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 6:1"/>የ ዎደ ካልዙን ፋይድታ ጋንግ ጋንግ Ꮉንጎደራ፥ ግርኬ ዶና ኦህንትዘ አይሁዱን ይሁዳ ግዳ የልንት የዘ አይሁዱንላ ዙዝንግዳ። አኮስ ጋይኮ፥ ግርኬ ዶናራ ኦህንትዘ አይሁዱን፥ «አዋራስ እንግንትዘ ካተ ኑ አዝኒ ባይዘ ማቹን ቆህንትዳ» ያጋይዳ። <verse eid="ACT 6:1"/><verse number="2" style="v" sid="ACT 6:2"/>ታጶ ላምእ ሐዋሩን ዎሳ ኬ አስ ኡባ ጼጊ፥ «ኑ ጾዘ ቃላ ኦህዛኖ አሺ ካ ሙዛና ኑስ ቤዞስ። <verse eid="ACT 6:2"/><verse number="3" style="v" sid="ACT 6:3"/>ይኬ፥ እሹን፥ ሎኦ ኦቻራ፥ ጌሽ አያናራን ጭንጫትራ ኩምደ ላፑን አሱንና ይን ግዳፓ ዶሮተ፤ ኑኒ ኡንታና Ꮉና ኦችትስ ሹሞዳ። <verse eid="ACT 6:3"/><verse number="4" style="v" sid="ACT 6:4"/>የዝን ኑኒ፥ ኡባ ዎደ ጾዝ ዎሳራን ቃላ ታማርሰራ ምንጎዳ» ያጋይዳ።<verse eid="ACT 6:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 6:5"/>ሐዋሩን ኦህደ ኦህታ አሱንና ኡባ ኡፋይስዳ። ይኒ ግሾ፥ አማኖን ጌሽ አያና ኩምደ እስጢፋኖሳ፥ ፍልጶሳ፥ ጵሮኮሮሳ፥ ንቃሮና፥ ጽሞና፥ ጳርሜናን አይሁደ አማኖ ገሊ ማቅደ አንጾክያ ንቆላዎሳ ዶርዳ። <verse eid="ACT 6:5"/><verse number="6" style="v" sid="ACT 6:6"/>ኡንታና ሐዋሩን ቲኖ ኤስን፥ ሐዋሩን ኡንታላ ኩሸ ጋዲ ጾዝ ዎስዳ።<verse eid="ACT 6:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 6:7"/>ጾዘ ቃላ ዳልግተር Ꮉንግዳ። የሩሳላመ የዘ አማንዙን ፋይድታ ሎይ ጋንግተር Ꮉንግዳ፤ ጋማ ካህኑንን አማንዳ።<verse eid="ACT 6:7"/></para>
+  <para style="s1">እስጢፋኖሳ አይክንተ</para>
+  <para style="p">
+    <verse number="8" style="v" sid="ACT 6:8"/>እስጢፋኖሳ አ ኬሃትራን ዎልቃራ ኩሚ አሱን ግዳ ጋማ ቆፍዘ ባዝን ክለ ባዝ ኦቻነ። <verse eid="ACT 6:8"/><verse number="9" style="v" sid="ACT 6:9"/>አሮትፓ ከዝደ አይሁደ ዎሳ ኬ አሱን ቀሬናፓን እስክንድርያፓ ክልቅያፓን እስያፓን ይእደ ፈቲ ፈቲ አሱን ደንዲ እስጢፋኖሳራ ላልዳ። <verse eid="ACT 6:9"/><verse number="10" style="v" sid="ACT 6:10"/>የዝን እስጢፋኖሳ ኦህተ የዘ ጭንጫትቶን አያንዛ ኡን እጾደስ ዳንዳእካያ።<verse eid="ACT 6:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 6:11"/>ይና ዎድተ ኡን፥ «ሙሴን ጾዝን ኤ ጫሻደራ ስእዳ» ጋዘ ዎርዶ አሱንና ደንዳ። <verse eid="ACT 6:11"/><verse number="12" style="v" sid="ACT 6:12"/>ይኒ ጋር ዪዚ አሱንና፥ ጭሙንናን ህገ አስታማሩንና ኤላ አፋ ደንዳ። እስጢፋኖሳ አይኪ ሻንጎ ቲኖ ካንግዳ። <verse eid="ACT 6:12"/><verse number="13" style="v" sid="ACT 6:13"/>ኤላ አፋ ፋይድደ ዎርዶ ማርኩን፥ «Ꮉይ አ Ꮉና ጌሽ ኬቶን ሙሴ ህግቶን ማህ ማህ ጫዣነ። <verse eid="ACT 6:13"/><verse number="14" style="v" sid="ACT 6:14"/>ኤ፥ ‹Ꮉይ ናዝረተ የሱሳ፥ Ꮉና ጾዘ ኬቶ ላሎዳ፤ ማህ ሙሴ ኑስ እንግደ ህግቶ ላሞዳ› ያጋዘ ዎርዶ ማርካ ኤስዳ» ያጋይዳ።<verse eid="ACT 6:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 6:15"/>ሻንጎ ሺቅተ በትደ አሱን ኡባና እስጢፋኖሳ ሎይ በእዘ ዎደ ኤ ስንታ ኪታንቾ ስኖ ማቂ በንትዳ።<verse eid="ACT 6:15"/></para>
+  <chapter eid="ACT 6"/>
+  <chapter number="7" style="c" sid="ACT 7"/>
+  <para style="s1">እስጢፋኖሳ ኦሄ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 7:1"/>ካህኑን Ꮉላቅዘ እስጢፋኖሳጎ፥ «Ꮉና ቱሮ?» ያጋእ ኦጭዳ።<verse eid="ACT 7:1"/></para>
+  <para style="p">
+    <verse number="2" style="v" sid="ACT 7:2"/>እስጢፋኖሳ፥ «ታ እሹንን፥ ታ አዱን፥ ስኦተ! ኑ አዳይ አብራሃማ ካራነ የሳደስ Ꮉማዳንፓ ቲኖ ማሰጰጦምያ የሳደራ፥ ቦንቾ ጾዘ ኤስ ቆንጪ፥<note caller="-" style="x"><char style="xo" closed="false">7:2-3 </char><char style="xt" closed="false"><ref loc="GEN 12:1">መ 12:1</ref></char></note> <verse eid="ACT 7:2"/><verse number="3" style="v" sid="ACT 7:3"/>‹ነ ጋድትፓን ነ እግኑንፓ ሻክንት ታ ነና ቤዘ ሳአ ቅቶ› ያጋይዳ። <verse eid="ACT 7:3"/><verse number="4" style="v" sid="ACT 7:4"/>የ ዎደ አብራሃማ ካልዳዉያነ ጋደፓ ኬዚ ካራነ ሳአ የዝዳ። ኤ አዳይ Ꮉይቂዳንፓ ሱባ ጾዚ ኤዛ Ꮉና ሳእተ Ꮉተ ይን የዛነ ክእዳ።<note caller="-" style="x"><char style="xo" closed="false">7:4 </char><char style="xt" closed="false"><ref loc="GEN 11:31">መ 11:31</ref>፤ <ref loc="GEN 12:4">12:4</ref></char></note> <verse eid="ACT 7:4"/><verse number="5" style="v" sid="ACT 7:5"/>ኤ Ꮉና ጋድትፓ መለ አቶ የዝን ቶሄር የዘ በስን አብራሃማስ እንግካያ። የዝን ናአ ኤስ ባይዘ ዎደ ጾዚ Ꮉና ሳእተ ኤስን ኤ ኮችትስ ላቶደ በሲ ማህ እንጎዳኖ ቃላ ገልዳ።<note caller="-" style="x"><char style="xo" closed="false">7:5 </char><char style="xt" closed="false"><ref loc="GEN 12:7">መ 12:7</ref>፤ <ref loc="GEN 13:15">13:15</ref>፤ <ref loc="GEN 15:18">15:18</ref>፤ <ref loc="GEN 17:8">17:8</ref></char></note> <verse eid="ACT 7:5"/><verse number="6" style="v" sid="ACT 7:6"/>ጾዚ አብራሃማጎ፥ ‹ነ ኮችታ መለ ሳአ ዛቆት የሳዳ፤ እዘ ኦይዲ ጼት በረ ኡን አሮ ማቂ አቆደ ፋናን ኡንእንቶደ ፋና ኦህዳ።<note caller="-" style="x"><char style="xo" closed="false">7:6-7 </char><char style="xt" closed="false"><ref loc="GEN 15:13-14">መ 15:13-14</ref></char></note> <verse eid="ACT 7:6"/><verse number="7" style="v" sid="ACT 7:7"/>የዝን ታ ነ ኮችቶ አህዘ ዎርዡንላ ፍርዶዳ። ይንፓ ማቂ፥ ኡን ይና ጋድትፓ ከዚ Ꮉነ ታስ ጎይኖዳ› ጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">7:7 </char><char style="xt" closed="false"><ref loc="EXO 3:12">ከዘ 3:12</ref></char></note> <verse eid="ACT 7:7"/><verse number="8" style="v" sid="ACT 7:8"/>ጾዚ አብራሃማ ኮችታ ጋራዝንቶደ ጋር ኤራ ጫቅን፥ ይሳቃ የልንትደ ኦስፉን ቃምተ ጋራዝንትዳ። ይሳቃ ያይቆባ የልዳ፤ ማህ ያይቆባ ታጶ ላምእ ፋ ናኡንና፥ ዛርቲ አደ ማቅዱንና ጋራዝዳ።<note caller="-" style="x"><char style="xo" closed="false">7:8 </char><char style="xt" closed="false"><ref loc="GEN 17:10-14">መ 17:10-14</ref>፤ <ref loc="GEN 21:2-4">21:2-4</ref>፤ <ref loc="GEN 25:26">25:26</ref>፤ <ref loc="GEN 29:31-35">29:31-35</ref></char></note><verse eid="ACT 7:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 7:9"/>«ያይቆባ ናኡን ዮሰፋ እጺ ግብጸ ጋደ አሮተስ ባይዝዳ፥ የዝን ጾዘ ኤራ የነ።<note caller="-" style="x"><char style="xo" closed="false">7:9 </char><char style="xt" closed="false"><ref loc="GEN 37:11">መ 37:11</ref>፥ <ref loc="GEN 37:28">28</ref>፤ <ref loc="GEN 39:2">39:2</ref>፥ <ref loc="GEN 39:21">21</ref></char></note> <verse eid="ACT 7:9"/><verse number="10" style="v" sid="ACT 7:10"/>ኤዛ፥ ኤ ማት ኡባፓ ከስዳ። ግብጸ ካት ፋሮና ቲኖ ሳባን ጭንጫትን ኤስ እንግዳ። ግብጸ ካት ዮሰፋስ ግብጸ ሳአን ፋ ኬቶ ኡባ አሆደ ፋና አደት ዎልቃ እንግዳ።<note caller="-" style="x"><char style="xo" closed="false">7:10 </char><char style="xt" closed="false"><ref loc="GEN 41:39-41">መ 41:39-41</ref></char></note><verse eid="ACT 7:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 7:11"/>«ግብጸን ካናነ ሳአ ኡባ ናየ ገሊ ጋማ አስ ዋይዳ። የ ዎደ ኑ አዳይ ያይቆባ ናኡን ካ ደንጎደስ ዳንዳእካያ።<note caller="-" style="x"><char style="xo" closed="false">7:11 </char><char style="xt" closed="false"><ref loc="GEN 42:1-2">መ 42:1-2</ref></char></note> <verse eid="ACT 7:11"/><verse number="12" style="v" sid="ACT 7:12"/>ያይቆባ ግብጸ ሳአ ካ የዛኖ ስእ ኑ አዱንና ቲኖ የይጋ ዳክዳ። <verse eid="ACT 7:12"/><verse number="13" style="v" sid="ACT 7:13"/>ላምእን Ꮉንግተ ዮሰፋ ፋ እሹንስ ፋና ኤርስዳ። ግብጸ ካትዘን ዮሰፋ ኮችቶ ኤርዳ።<note caller="-" style="x"><char style="xo" closed="false">7:13 </char><char style="xt" closed="false"><ref loc="GEN 45:1">መ 45:1</ref>፤ <ref loc="GEN 16">16</ref></char></note> <verse eid="ACT 7:13"/><verse number="14" style="v" sid="ACT 7:14"/>ዮሰፋ ፋ አዳይ ያይቆባራን ፋ ካራ አሱንና፥ ላፑን ታም እችን አሱንና ፋጎ የኦደ ጋር ዳኪ ክእዝዳ።<note caller="-" style="x"><char style="xo" closed="false">7:14 </char><char style="xt" closed="false"><ref loc="GEN 45:9-10">መ 45:9-10</ref>፥ <ref loc="GEN 45:17-18">17-18</ref>፤ <ref loc="GEN 46:27">46:27</ref></char></note> <verse eid="ACT 7:14"/><verse number="15" style="v" sid="ACT 7:15"/>ያይቆባ ግብጸ ሳአ ዎዳ፤ ኤዝን ኤ ናኡን እዘ Ꮉይቂዳ።<note caller="-" style="x"><char style="xo" closed="false">7:15 </char><char style="xt" closed="false"><ref loc="GEN 46:1-7">መ 46:1-7</ref>፤ <ref loc="GEN 49:33">49:33</ref></char></note> <verse eid="ACT 7:15"/><verse number="16" style="v" sid="ACT 7:16"/>ኡን አህታ ይና በስትፓ ሴኬመ ቶክንት Ꮉንግ፥ እዘ አብራሃማ ኤሞረ ናኡንፓ ጋማ ብራራ ዎንግደ ቦዝተ ሞግንትዳ።<note caller="-" style="x"><char style="xo" closed="false">7:16 </char><char style="xt" closed="false"><ref loc="GEN 23:3-16">መ 23:3-16</ref>፤ <ref loc="GEN 33:19">33:19</ref>፤ <ref loc="GEN 50:7-13">50:7-13</ref>፤ <ref loc="JOS 24:32">ኢያ. 24:32</ref></char></note><verse eid="ACT 7:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 7:17"/>«የዝን ጾዚ አብራሃማስ እማዳ ጋይዳኖ ፎልዘ ዎድታ የሎደስ ኡክደ ዎደ ግብጸ ሳአ የዘ ኑ አሱን ጋንግ ጋንግ Ꮉንግዳ።<note caller="-" style="x"><char style="xo" closed="false">7:17-18 </char><char style="xt" closed="false"><ref loc="EXO 1:7-8">ከዘ 1:7-8</ref></char></note> <verse eid="ACT 7:17"/><verse number="18" style="v" sid="ACT 7:18"/>ይንፓ ሱባ፥ ዮሰፋ ኤሮሰ መለ ካት ግብጸ ሳአ ካእትዳ። <verse eid="ACT 7:18"/><verse number="19" style="v" sid="ACT 7:19"/>የ ካትዘ ኑ ኮችቶ ገኒ ኤራ ናኡን Ꮉይቆደ ፋናን ኡንታና ባለ ኬሲ ኦሎደ ፋና ኑ አዱንና ኡንእዳ።<note caller="-" style="x"><char style="xo" closed="false">7:19 </char><char style="xt" closed="false"><ref loc="EXO 1:10-11">ከዘ 1:10-11</ref>፤ <ref loc="EXO 22">22</ref></char></note><verse eid="ACT 7:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="ACT 7:20"/>«ይና ዎድተ ሙሴ የልንትዳ፤ ኤ ጾዘ ቲኖ ጋማ ሎኦ ብሻር የዘ ናአ። ፋ አዳይ ኬ Ꮉይ አግና የሎደስ ድጭዳ።<note caller="-" style="x"><char style="xo" closed="false">7:20 </char><char style="xt" closed="false"><ref loc="EXO 2:2">ከዘ 2:2</ref></char></note> <verse eid="ACT 7:20"/><verse number="21" style="v" sid="ACT 7:21"/>ሙሴ ካንግ Ꮉ ጋጻ ጋድደ ዎደ ግብጸ ካት ናታ ደንግ ኤኪ ፋስ ናአ ማህ ኤዛ ድችዳ።<note caller="-" style="x"><char style="xo" closed="false">7:21 </char><char style="xt" closed="false"><ref loc="EXO 2:3-10">ከዘ 2:3-10</ref></char></note> <verse eid="ACT 7:21"/><verse number="22" style="v" sid="ACT 7:22"/>ሙሴ ግብጹን ኤራት ኡባ ታማሪ ኦሄራን ኦቻራን ምን አስ ማቅዳ።<verse eid="ACT 7:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 7:23"/>«ሙሴስ ላይታ ኦይታም ኩምደ ዎደ ፋ እሹንና፥ እስራኤሉንና በአደስ ፋ ዎዝንተ ቆፕዳ።<note caller="-" style="x"><char style="xo" closed="false">7:23-29 </char><char style="xt" closed="false"><ref loc="EXO 2:11-15">ከዘ 2:11-15</ref></char></note> <verse eid="ACT 7:23"/><verse number="24" style="v" sid="ACT 7:24"/>እስራኤሉንፓ ፈታ ግብጸ አ ቆሆደራ ብእ የ እስራኤለ አ ማዲ፥ የ ቆህዛ ግብጸ አ ዎ ኩሸ ማህዳ። <verse eid="ACT 7:24"/><verse number="25" style="v" sid="ACT 7:25"/>ሙሴ ፋ እሹንና ፋ ባጋራ ጾዚ አሾደስ ዪዛኖ ኡን ቲሮዳ ጋይዳ፥ የዝን ኡን ቲሪካያ።<verse eid="ACT 7:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="ACT 7:26"/>«ዎንትስት ዎደ ላምእ እስራኤለ አሱን ፈተ ፈተራ Ꮉንቶደራ ደንግ ኡንታና ጊግሳደስ ኮይ፥ ‹አሱን፥ ይን ዎልስ እሸ፤ አኮስ ፈተ ፈታ ቆሄ?› ያጋይዳ።<verse eid="ACT 7:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 7:27"/>«የዝን ፋ ላግዛ ቆህዘ ሙሴጎ፥ ‹ነና ኑላ አህዘ አስን ዳይና ማህደ ኦደ? <verse eid="ACT 7:27"/><verse number="28" style="v" sid="ACT 7:28"/>ነ ኦማ ግብጸ አ ዎዳንጋራ ታና ዎደስ ኮያነ?› ያጋእ ሙሴ ኡርቂ ዳክዳ። <verse eid="ACT 7:28"/><verse number="29" style="v" sid="ACT 7:29"/>ሙሴ ይኖ ስእደ ዎደ ግብጸፓ በቲ ሚድያመ ሳአ በተ አስ ማቂ የዝተራ ላምእ ራ ናኡንና የልዳ።<note caller="-" style="x"><char style="xo" closed="false">7:29 </char><char style="xt" closed="false"><ref loc="EXO 18:3-4">ከዘ 18:3-4</ref></char></note><verse eid="ACT 7:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 7:30"/>«ላ ኪታንቾ ኦይታም በረፓ ሱባ ሲና ደረ ካለ የዘ አኮ ባይዘ ጋናሳ ዥልኦ ኩበ ግዳ ኤጽዘ ታማ ሎጸ ግዳ ሙሴስ በንትዳ።<note caller="-" style="x"><char style="xo" closed="false">7:30-34 </char><char style="xt" closed="false"><ref loc="EXO 3:1-10">ከዘ 3:1-10</ref></char></note> <verse eid="ACT 7:30"/><verse number="31" style="v" sid="ACT 7:31"/>ሙሴ ፋ ብእዳነ ጋማ ቆፒ፥ ሎይ በአደስ ዥልኦ ኩበ ካለ ሺቂ የዝን፥ ላ ቃላ፥ <verse eid="ACT 7:31"/><verse number="32" style="v" sid="ACT 7:32"/>‹ታኒ ነ አዱን፥ አብራሃማ ጾዝ፥ ይሳቃ ጾዝ፥ ያይቆባ ጾዝ› ያጋእተራ ሙሴጎ ይእዳ። ሙሴ ዣሽሞራ ጎቂ በአደስ ዳንዳእካያ።<verse eid="ACT 7:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="ACT 7:33"/>«ላ ሙሴጎ፥ ‹ኔኒ ኤቅደ ሳእታ ጌሽ ማቅደ ግሾ ነ ቶህተ የዘ ጫምቶ ኬሶ። <verse eid="ACT 7:33"/><verse number="34" style="v" sid="ACT 7:34"/>ታኒ ግብጸ የዘ ታ አሱን ማራን ፍርዳራ ኡንእንትዛኖ ብእዳ። ኡን ኡፍቶ ስእ ኡንታና አሾደስ ዎዳ። Ꮉተ Ꮉይጋ! ታ ነና ግብጸ ኪቶዳ› ያጋይዳ።<verse eid="ACT 7:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="ACT 7:35"/>«እስራኤሉን Ꮉያ ሙሴ፥ ‹ነና ኑላ Ꮉላቃን ዳይና ማህደ ኦደ?› ያጋእ እጽዳኖ Ꮉይ አ ዥልኦ ኩበ ግዳ ኤስ በንትደ ኪታንቹን ባጋራ Ꮉላቃን አሽዛ ማህ ጾዚ ኪትዳ።<note caller="-" style="x"><char style="xo" closed="false">7:35 </char><char style="xt" closed="false"><ref loc="EXO 2:14">ከዘ 2:14</ref></char></note> <verse eid="ACT 7:35"/><verse number="36" style="v" sid="ACT 7:36"/>Ꮉይ አ ሙሴ እስራኤሉንና ግብጸፓ ኬሲ ጋማ ቆፍዘ ባዝን ክለ ባዝ ኦቺ ኡንታና ግብጸ ሳአ፥ ኤርተራ አባን፥ አኮ ባይዘ ጋናሳ ኦይታም በረ ካልዳ።<note caller="-" style="x"><char style="xo" closed="false">7:36 </char><char style="xt" closed="false"><ref loc="EXO 7:5">ከዘ 7:5</ref>፤ <ref loc="EXO 14:21">14:21</ref>፤ <ref loc="NUM 14:33">ፋይዶ 14:33</ref></char></note><verse eid="ACT 7:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="ACT 7:37"/>«Ꮉይ አ እስራኤለ አሱንጎ፥ ‹ጾዚ ታና ደንዳን ፋና ይን ኮችቲ ግዳፓ ታ ጋር ናበ ይንትስ ደንዳ› ጋይዳይ ኤዛ ሙሴ።<note caller="-" style="x"><char style="xo" closed="false">7:37 </char><char style="xt" closed="false"><ref loc="DEU 18:15">ማሄ 18:15</ref>፥ <ref loc="DEU 18:18">18</ref></char></note> <verse eid="ACT 7:37"/><verse number="38" style="v" sid="ACT 7:38"/>አኮ ባይዘ ጋናሳ ሺቅደ እስራኤለ አሱንራ የዝዳይ፥ ኑ አዱንራ የዝዳይ ሲና ደርዘላ ኤስ ኦህደ ኪታንቹንራ የዝደ ሙሴ ኤዛ። የይዝ፥ ጾዘ ደኦ ቃላ ኑስ እንጎደስ ኤክዳ።<note caller="-" style="x"><char style="xo" closed="false">7:38 </char><char style="xt" closed="false"><ref loc="EXO 19:1-20:17">ከዘ 19:1—20:17</ref>፤ <ref loc="DEU 5:1-33">ማሄ 5:1-33</ref></char></note><verse eid="ACT 7:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="ACT 7:39"/>«የዝን ኑ ማይዙን ሙሴስ ኪትንቶደስ ካካያ፤ ኤዛ እጺ ሱብ ግብጸ ማቃደስ አሙዳ። <verse eid="ACT 7:39"/><verse number="40" style="v" sid="ACT 7:40"/>ማህ አሮናን፥ ‹ኑና ካልዘ ኤቁንና ኑስ መ። አኮስ ጋይኮ፥ Ꮉይኒ ኑና ግብጸፓ ክእደ ሙሴ፥ ዋየዛኮ ኑኒ ኤሮስ› ያጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">7:40 </char><char style="xt" closed="false"><ref loc="EXO 32:1">ከዘ 32:1</ref></char></note> <verse eid="ACT 7:40"/><verse number="41" style="v" sid="ACT 7:41"/>የ ዎደ Ꮉርና አዝዝ ኤቁንና መዳ። የን ኤቁንስ ዣርሾ ዣርሺ ፋ ኩሽተ ኦችደ ኦችታ ኡን ቆፍት ፋና Ꮉንደ ግሾ ኡፋይትዳ።<note caller="-" style="x"><char style="xo" closed="false">7:41 </char><char style="xt" closed="false"><ref loc="EXO 32:2-6">ከዘ 32:2-6</ref></char></note> <verse eid="ACT 7:41"/><verse number="42" style="v" sid="ACT 7:42"/>የዝን ጾዚ ኡንትስ ባንተ ማህዳ። ኡን ሳሎ ጾልንቶ ጎይኖደ ጋር ኡንታና ኦሊ አሽዳ። ናቡን ማጻፍተ፥</para>
+  <para style="q1" vid="ACT 7:42">« ‹እስራኤለ አሱን፥ ኦይታም በረ ኡባ</para>
+  <para style="q2" vid="ACT 7:42">አኮ ባይዘ ጋናስ ሳአ ሹክደ Ꮉርስን</para>
+  <para style="q2" vid="ACT 7:42">ዣርሽደ ዣርሽቶ ታስ ሺሽዳነ?<note caller="-" style="x"><char style="xo" closed="false">7:42-43 </char><char style="xt" closed="false"><ref loc="AMO 5:25-27">አሞ. 5:25-27</ref></char></note><verse eid="ACT 7:42"/></para>
+  <para style="q1">
+    <verse number="43" style="v" sid="ACT 7:43"/>ይን፥ ይንትስ ጎይኖደስ ኬስደ ሞሎኬ ዱንካነ</para>
+  <para style="q2" vid="ACT 7:43">ረፋነ ጋእንትዘ ይን ኤቅዘ ጾልንቶ ምስለ ቱክዳ።</para>
+  <para style="q2" vid="ACT 7:43">ታ ይንታና ባብሎነፓ</para>
+  <para style="q2" vid="ACT 7:43">ጎደ ዳኮዳ› ጋእንት ጻፍንትዳ።<verse eid="ACT 7:43"/></para>
+  <para style="p">
+    <verse number="44" style="v" sid="ACT 7:44"/>«ኑ አዱንስ አኮ ባይዘ ጋናሳ ማርካ ዱንካነ የነ። ኤዛን ጾዚ ሙሴ ኪትዳንጋራን ኤዛ ቤዝዳንጋራን መዳ።<note caller="-" style="x"><char style="xo" closed="false">7:44 </char><char style="xt" closed="false"><ref loc="EXO 25:9">ከዘ 25:9</ref>፥ <ref loc="EXO 25:40">40</ref></char></note> <verse eid="ACT 7:44"/><verse number="45" style="v" sid="ACT 7:45"/>ማህ ኑ አዱን ይና ዱንካንቶ ፋ አዱንፓ ኤኪ ጾዚ ቲኖ ባይእደ አይሁደ ማቆሰ አሱን ጋድቶ አይክደ ዎደ እያሱራ የይጋ ኤኪ ገልዳ። የ ዱንካንዛ ዳዉተ ዎደ የሎደስ ይና በስተ የዝዳ።<note caller="-" style="x"><char style="xo" closed="false">7:45 </char><char style="xt" closed="false"><ref loc="JOS 3:14-17">ኢያ. 3:14-17</ref></char></note> <verse eid="ACT 7:45"/><verse number="46" style="v" sid="ACT 7:46"/>ዳዉተ ጾዛፓ ናሽንትዳ። ማህ ያይቆባ ጾዘስ የሳደ ኬ ኬጻደስ ጾዝ ዎስዳ።<note caller="-" style="x"><char style="xo" closed="false">7:46 </char><char style="xt" closed="false"><ref loc="2SA 7:1-16">2 ሳመ. 7:1-16</ref>፤ <ref loc="1CH 17:1-14">1 ዜና 17:1-14</ref></char></note> <verse eid="ACT 7:46"/><verse number="47" style="v" sid="ACT 7:47"/>የዝን ኤስ ኬ ኬጽደ ሶሎሞና።<note caller="-" style="x"><char style="xo" closed="false">7:47 </char><char style="xt" closed="false"><ref loc="1KI 6:1-38">1 ካት 6:1-38</ref>፤ <ref loc="2CH 3:1-17">2 ዜና 3:1-17</ref></char></note><verse eid="ACT 7:47"/></para>
+  <para style="p">
+    <verse number="48" style="v" sid="ACT 7:48"/>«ማቅኮን፥ ኡባፓ ካታራ የዘ ጾዘ አስ ኬጽደ ኬ የዞስ። ናብዘ ጋይዳን ጋር፥<verse eid="ACT 7:48"/></para>
+  <para style="q1">
+    <verse number="49" style="v" sid="ACT 7:49"/>« ‹ሳሎ ታስ አራታ፥</para>
+  <para style="q2" vid="ACT 7:49">ሳአን ታ ቶህታ የዘ በሲ።</para>
+  <para style="q1" vid="ACT 7:49">ዬዝን፥ ታስ ይን አኮ ጋርዘ ኬ ኬጾደ?</para>
+  <para style="q2" vid="ACT 7:49">ዎይ ታ ሸምፕዘ በስታ አባ?<note caller="-" style="x"><char style="xo" closed="false">7:49 </char><char style="xt" closed="false"><ref loc="ISA 66:1-2">ኢሳ. 66:1-2</ref></char></note> <verse eid="ACT 7:49"/><verse number="50" style="v" sid="ACT 7:50"/>Ꮉኖ ኡባ ታ ኩሽተ መካ?› ያጋይዳ ላ።<verse eid="ACT 7:50"/></para>
+  <para style="p">
+    <verse number="51" style="v" sid="ACT 7:51"/>«ይን ዋይደ ስኦሰ አሶ? ይን ዎዝንታ ጾዘ ቃላ ኤኮደስ አኮስ እጽዶ? ይን Ꮉይታ አኮስ ቱልዶ? ይን፥ ይን አዱን ጋር ኡባ ዎደ ጌሽ አያና እጻነ።<note caller="-" style="x"><char style="xo" closed="false">7:51 </char><char style="xt" closed="false"><ref loc="ISA 63:10">ኢሳ. 63:10</ref></char></note> <verse eid="ACT 7:51"/><verse number="52" style="v" sid="ACT 7:52"/>ናቡን ግዳፓ ይን አዱን ባይእካይዘ ኦደ? ጽልዛይ ዮኦዳኖ ቲን ኦህዱንና ዎዳ። Ꮉተ ይን ኤዛ አ እንግ ዎዳ። <verse eid="ACT 7:52"/><verse number="53" style="v" sid="ACT 7:53"/>ይን ኪታንቾ ኩሸፓ ጾዘ ህግቶ ኤክዳ፥ የዝን ኪትንትካያ» ያጋይዳ።<verse eid="ACT 7:53"/></para>
+  <para style="s1">እስጢፋኖሳ ሹቻራ ግንተ</para>
+  <para style="p">
+    <verse number="54" style="v" sid="ACT 7:54"/>ኡን ይኖ ስእደ ዎደ ፋ ዎዝንተ እስጢፋኖሳላ ጋማ ዥል፥ ፋ ዶንቶ እ ማንድዳ። <verse eid="ACT 7:54"/><verse number="55" style="v" sid="ACT 7:55"/>የዝን እስጢፋኖሳ ጌሽ አያናራ ኩሚ፥ ሳሎ ኡደ ብእ፥ ጾዘ ቦንችቶን የሱሳ ጾዘ ምዛቅ ዛላራ ኤቅዳኖ ብእዳ። <verse eid="ACT 7:55"/><verse number="56" style="v" sid="ACT 7:56"/>«ይኬ፥ ታኒ ሳሎ ቡጉንትን፥ አስ ናአይ፥ ጾዘ ምዛቅ ዛላራ ኤቅዳያ ብእዳ» ያጋይዳ።<verse eid="ACT 7:56"/></para>
+  <para style="p">
+    <verse number="57" style="v" sid="ACT 7:57"/>ፋ ቃልቶ ቅ ዪዚ ዉይስተራ፥ ፋ Ꮉይቶ አይኪ ፈትላ ኤጎ ዎጽዳ <verse eid="ACT 7:57"/><verse number="58" style="v" sid="ACT 7:58"/>ኤዛ ካታማፓ ጋጻ ኬሲ፥ ሹቻራ ግዳ። ማርኩን ፋ ማእቶ ፈቲ ሳዉላ ጋዘ ናአት አ ካለ ጋድዳ።<verse eid="ACT 7:58"/></para>
+  <para style="p">
+    <verse number="59" style="v" sid="ACT 7:59"/>እስጢፋኖሳ፥ «ታ ላ የሱሳ፥ ታ ሸምፕቶ ኤኮ» ያጋእ ጼጎደራ ኡን ኤዛ ሹቻራ ጋነ። <verse eid="ACT 7:59"/><verse number="60" style="v" sid="ACT 7:60"/>ቡንቁንቲ፥ ፋ ቃልቶ ቅ ዪዚ፥ «ታ ላዮ፥ Ꮉና ናጋርቶ ኡንትስ አቶ ጋኦ» ያጋይዳ። ይኖ ያጋእ ማቂ Ꮉይቂዳ።<verse eid="ACT 7:60"/></para>
+  <chapter eid="ACT 7"/>
+  <chapter number="8" style="c" sid="ACT 8"/>
+  <para style="s1">ሳዉላ አማንዙንና ባይእዳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 8:1"/>ሳዉላ እስጢፋኖሳ ዎ ቆፍተ ገልዳ። የ ዎደ የሩሳላመ የዘ ዎሳ ኬተ ዳማ ባይኤ ደንድዳ። ሐዋሩንፕ አትን አማንዘ ኡቡን ይሁዳ ሳአን ሳማራ ሳአ ላልንትዳ። <verse eid="ACT 8:1"/><verse number="2" style="v" sid="ACT 8:2"/>ፈቲ ፈቲ ጾዝ አሱን እስጢፋኖሳ ሞግዳ፤ ማህ ኤስ ዳማ ዬክዳ። <verse eid="ACT 8:2"/><verse number="3" style="v" sid="ACT 8:3"/>የዝን ሳዉላ ዎሳ ኬቶ ላሎደስ ኮያነ። ኡቡን ካራ ዉቲ ገሊ፥ አማንዘ ራንናን ማቹንና ጎቺ ኬሲ አች ኬ ገልነ።<note caller="-" style="x"><char style="xo" closed="false">8:3 </char><char style="xt" closed="false"><ref loc="ACT 22:4-5">ሐዋ. 22:4-5</ref>፤ <ref loc="ACT 26:9-11">26:9-11</ref></char></note><verse eid="ACT 8:3"/></para>
+  <para style="s1">ዎንገለ ሳማራ ሳባክንትዳ</para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 8:4"/>ላልንትደ አማንዙን ቅትደ በሳ ኡባ ቃላ ኦህነ። <verse eid="ACT 8:4"/><verse number="5" style="v" sid="ACT 8:5"/>ፍልጶሳ ሳማራ ካታማ ገሊ ክርስቶሳ ባዝ አሱንስ ኦህዳ። <verse eid="ACT 8:5"/><verse number="6" style="v" sid="ACT 8:6"/>ጋማ አሱን ፍልጶሳ ጋይዳኖ ስእደ ዎደን ኤ ኦችደ ክለ ባዝቶ ብእደ ዎደን ኤዛ አካኪ ስእዳ። <verse eid="ACT 8:6"/><verse number="7" style="v" sid="ACT 8:7"/>ቱና አያና ኡክ ጋማ አሱንፓ ከዝዳ፤ ማህ ጋማ ቶሄ ጉንዱንን ዎቡንን ብልንትዳ። <verse eid="ACT 8:7"/><verse number="8" style="v" sid="ACT 8:8"/>ይና ካታምተ የዘ አሱን ዳማ ኡፋይትዳ።<verse eid="ACT 8:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 8:9"/>የዝን ስሞና ጋዘ ፈቲ አ ይና ካታምተ የነ። ኤ፥ ታኒ ዳማ ጋእ ሳማራ አሱንና ማርተራ ጋማ ቆፍዝተራ ጋምእዳ። <verse eid="ACT 8:9"/><verse number="10" style="v" sid="ACT 8:10"/>ኤራፓ ዳማ የሎደስ የዘ አሱንና ኡባ፥ «ዳማ ጾዘ ዎልቅታ Ꮉኖ» ጋእ ኤዛ ስእነ። <verse eid="ACT 8:10"/><verse number="11" style="v" sid="ACT 8:11"/>ጋማ ዎደፓ አይኪ ማርተራ ሳማራ አሱንና ጋማ ቆፍዘ ግሾ አሱን ኤዛ ስእነ። <verse eid="ACT 8:11"/><verse number="12" style="v" sid="ACT 8:12"/>የዝን ፍልጶሳ ጾዘ ካእቱሞን የሱስ ክርስቶሳ ሱንትባዝ ራንስን ማቹንስ ኦህን፥ ኡን ኤ ባዝ አማኒ ጻማቅንትዳ። <verse eid="ACT 8:12"/><verse number="13" style="v" sid="ACT 8:13"/>ማህ ስሞናን ፋ ኦምተ አማኒ ጻማቅንትዳ። ፍልጶሳር ዎላ Ꮉንግደ በሳ ኡባ ኦችንትዘ ዳማ ክለ ባዝ ብእ ጋማ ቆፕዳ።<verse eid="ACT 8:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 8:14"/>የሩሳላመ የዘ ሐዋሩን ሳማራ አሱን ጾዘ ቃላ ኤክዳኖ ስእደ ዎደ ጴጥሮሳን ዋሐንሳን ኡንታጎ ዳክዳ። <verse eid="ACT 8:14"/><verse number="15" style="v" sid="ACT 8:15"/>ጴጥሮሳን ዋሐንሳን Ꮉንግ፥ አማንዙን ጌሽ አያና ኤኮደ ጋር ኡንትስ ጾዝ ዎስዳ። <verse eid="ACT 8:15"/><verse number="16" style="v" sid="ACT 8:16"/>አኮስ ጋይኮ፥ ሳማራ አሱን ላ የሱሳ ሱንተ ጻላላ ጻማቅንትዳፕ አትን ኡንታፓ ፈተላን ጌሽ አያና Ꮉጋ ዎካያ። <verse eid="ACT 8:16"/><verse number="17" style="v" sid="ACT 8:17"/>የ ዎደ ጴጥሮሳን ዋሐንሳን ፋ ኩሽቶ ኡንታላ ጋድን፥ ኡን ጌሽ አያና ኤክዳ።<verse eid="ACT 8:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="ACT 8:18"/>ሐዋሩን ፋ ኩሽቶ ኡንታላ ጋድን፥ ኡንትስ ጌሽ አያና እንግንትዳኖ ስሞና ብእደ ዎደ ጴጥሮሳስን ዋሐንሳስ ሚሸ ክእ፥ <verse eid="ACT 8:18"/><verse number="19" style="v" sid="ACT 8:19"/>«ታንን ታ ኩሽቶ ጋድዘ ኡቡን ጌሽ አያና ኤኮደ ፋና Ꮉና አደት ዎልቅቶ ታስን እንጎያ» ያጋይዳ።<verse eid="ACT 8:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="ACT 8:20"/>የዝን ጴጥሮሳ ኤጎ፥ «ነ ጾዘ እሞት ሚሸራ ኤኮደስ ቆፕደ ግሾ ነ ሚሽታ ኔራ ቦ። <verse eid="ACT 8:20"/><verse number="21" style="v" sid="ACT 8:21"/>ነ ዎዝንታ ጾዘ ቲኖ ልከ ማቅካይዘ ግሾ ኔስ Ꮉነ ግሾ ዎይ እጻ ባያ። <verse eid="ACT 8:21"/><verse number="22" style="v" sid="ACT 8:22"/>ይኬ፥ Ꮉና ነ ዎዝና ኢታትት ግሾ ናጋርትፓ ማቆ። ነ ዎዝንተ የዘ ኢታ ቆፍቶ ጾዚ አቶ ጋዉደ ጋር ላ ዎሶ። <verse eid="ACT 8:22"/><verse number="23" style="v" sid="ACT 8:23"/>አኮስ ጋይኮ፥ ኔኒ ኢታ እጸራን ናጋራ አቻራ የዛኖ ታ በእነ» ጋይዳ።<verse eid="ACT 8:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 8:24"/>ስሞና ማህ፥ «ይን ጋእዳንፓ ፈትን ታና የላመ ጋር ታስ ላ ዎሶተ» ያጋይዳ።<verse eid="ACT 8:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="ACT 8:25"/>ጴጥሮሳን ዋሐንሳን ማርክዳንፓን ላ ቃላ ኦህዳንፓ ሱባ የሩሳላመ ማቅዳ። ሳማራ የዘ ጋማ ጉታ ዎንገለ ኦህዳ።<verse eid="ACT 8:25"/></para>
+  <para style="s1">ፍልጶሳ ቶጰ ሞርና ጻማቅዳ</para>
+  <para style="p">
+    <verse number="26" style="v" sid="ACT 8:26"/>ላ ኪታንቾ ፍልጶሳጎ፥ «ደንዲ የሩሳላመፓ ጋዛ ካንግዘ አኮ ባይዘ ጋናሳ ኦግዘራ Ꮉንጎ። ይና ኦግታ ዬካ ዛላራ የነ» ጋይዳ። <figure style="fig" alt="Philip with the Ethiopian eunuch" file="LB00331B.TIF" size="span" ref="8:26">ፍልጶሳን ቶጰ ካትቶ ህንደኮን </figure> <verse eid="ACT 8:26"/><verse number="27" style="v" sid="ACT 8:27"/>ፍልጶሳ ደንዲ ቅትዳ። ህንደኮ ጋዘ ቶጰ ካትስ እ ሚሽቶ ኡባ ናግዘ ቶጰ አስ የነ። ኤዝን ጎይኖደስ የሩሳላመ ይእዳ። <verse eid="ACT 8:27"/><verse number="28" style="v" sid="ACT 8:28"/>ፋራ ጋረላ በቲ፥ የሩሳላመፓ ፋ ሳአ ማቅተራ ናበ ኢሳያሳ ማጻፈ ናባባነ።<verse eid="ACT 8:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="ACT 8:29"/>ጌሽ አያና ፍልጶሳጎ፥ «የ ጋርዘጎ Ꮉንግ ኤ ካለ ሺቆ» ያጋይዳ።<verse eid="ACT 8:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 8:30"/>ዬዝን ፍልጶሳ ዎጺ Ꮉንግ የልዘ ዎደ ሞርንዘ ናበ ኢሳያሳ ማጻፈፓ ናባቦደራ ስእ፥ «ነ ናባብዛና ኔስ ገላነ?» ያጋይዳ።<verse eid="ACT 8:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="ACT 8:31"/>ሞርንዘ «ታስ ኦህ ገልዘ አስ ባይዝን ዋይዝ ገሎደ?» ያጋይዳ። ፋራ ጋርዘላ ኬዚ በቶደ ፋና ፍልጶሳ ዎስዳ። <verse eid="ACT 8:31"/><verse number="32" style="v" sid="ACT 8:32"/>ሞርንዘ ናባብዘ ማጻፈ ክፍልዘ፥<note caller="+" style="f"><char style="fr" closed="false">8:32-33 </char><char style="ft" closed="false">ኢሳ። 53:7-8 </char><char style="ft" closed="false">8:37 ፋይዶ 37 ግዳ የዘ ቆፍቶ ዛጋ ግርኬ ማጻፉን ጉጅካያ።</char></note></para>
+  <para style="q1" vid="ACT 8:32">«ኤ ዱሮ ፋና ሹክንቶደስ እዥንትዳ፤</para>
+  <para style="q2" vid="ACT 8:32">ዱሮ ናአ ፋ እስንቶ ሜድዙን ቲኖ ስእ ጋዛን ፋና፥</para>
+  <para style="q2" vid="ACT 8:32">ኤዝን ፋ ዶንቶ ቡግካያ።<verse eid="ACT 8:32"/></para>
+  <para style="q1">
+    <verse number="33" style="v" sid="ACT 8:33"/>ኤ ቶችንትዳ፤ ኤስ ጽሎ ፍርዳ ብዳ።</para>
+  <para style="q2" vid="ACT 8:33">ኤ ደእታ Ꮉና ሳእትፓ Ꮉልእደ ግሾ</para>
+  <para style="q2" vid="ACT 8:33">ኤ የለቱንፓ ኦኒ ኦሆደ?» ጋይዳ።<verse eid="ACT 8:33"/></para>
+  <para style="p">
+    <verse number="34" style="v" sid="ACT 8:34"/>ሞርንዘ ማህ ፍልጶሳጎ፥ «ናብዘ ኦባዝ ኦሄ? ፋ ባዝ ኦህነን ዎይ መለ አስ ባዝ ኦህነ? ታስ ኦሆያ» ጋይዳ። <verse eid="ACT 8:34"/><verse number="35" style="v" sid="ACT 8:35"/>ፍልጶሳ ማህ፥ ጾዘ ቃላ ይና በስትፓ አይኪ፥ የሱሳ ባዝ ኦህዘ ዎንገለ ኤስ ኦህዳ።<verse eid="ACT 8:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="ACT 8:36"/>ኡን Ꮉንግተር Ꮉ የዘ በሳ የልዳ። ሞርንዘ፥ «Ꮉ Ꮉኖ ቦኦ፤ ታ ጻማቅንታመ ፋና አኮ ካይዘ?» ጋይዳ።<verse eid="ACT 8:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="ACT 8:37"/>ፍልጶሳ ኤጎ፥ «ኔኒ ነ ኩሙ ዎዝናፓ አማንኮ ዳንዳአነ» ጋይዳ።</para>
+  <para style="p" vid="ACT 8:37">ኤ ማህ፥ «የሱስ ክርስቶሳ ጾዘ ናአ ማቅዳኖ ታ አማናነ» ጋይዳ።<verse eid="ACT 8:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="ACT 8:38"/>ጋርዘ ኤቆደ ፋና ሞርንዘ ኪትን፥ ላምኡን ዎ Ꮉ ገልዳ፤ ፍልጶሳን ኤዛ ጻማቅዳ። <verse eid="ACT 8:38"/><verse number="39" style="v" sid="ACT 8:39"/>ኡን Ꮉትፓ ጋጻ ከዝደ ዎደ ላ አያና ፍልጶሳ ቆፕካይዝን ኤክዳ። ላምእን ሞርንዘ ፍልጶሳ ብእካያ፥ የዝን ፋ ኦግቶ ኡፋይትተር ቅትዳ። <verse eid="ACT 8:39"/><verse number="40" style="v" sid="ACT 8:40"/>ፍልጶሳ አዛጦነ በንትዳ። ማህ ቂሳርያ የኦደ ዎንስ ካታማር ዉቲ ዎንገለ ማርክዳ።<verse eid="ACT 8:40"/></para>
+  <chapter eid="ACT 8"/>
+  <chapter number="9" style="c" sid="ACT 9"/>
+  <para style="s1">ሳዉላ ክርስቶሳ አማንዳ</para>
+  <para style="r">(<ref loc="ACT 22:6-16">ሐዋ. 22:6-16</ref>፤ <ref loc="ACT 26:12-18">26:12-18</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 9:1"/>የ ዎደ ሳዉላ ላ ታማሩንና ዎደስ ማንዲ ካህኑን Ꮉላቅዘጎ ቅትዳ። <verse eid="ACT 9:1"/><verse number="2" style="v" sid="ACT 9:2"/>ላ ኦግቶ ካልዘ ራንናን ማቹንና ደንግኮ፥ አጭተራ የሩሳላመ ኮኦደስ፥ ደማስቆ የዘ አይሁደ ዎሳ ኬስ ዳብዳበ ጻፍንቶደ ጋር ኤዛ ዎስዳ።<verse eid="ACT 9:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="ACT 9:3"/>ኤ Ꮉንግ፥ ደማስቆ ካታማ የሎደስ ኡኮደራ፥ ቆፕካይዝን ሳሎፓ ዳማ ፎኦ ኤ ካንተ ፎእዳ። <verse eid="ACT 9:3"/><verse number="4" style="v" sid="ACT 9:4"/>ኤ ሳእተ ጎልእን፥ «ሳዉላ፥ ሳዉላ፥ አኮስ ታና ባይኤ?» ጋዘ ቃላ ስእዳ።<verse eid="ACT 9:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 9:5"/>ሳዉላ፥ «ላ፥ ነ ኦደ?» ያጋእ ኦጭዳ።</para>
+  <para style="p" vid="ACT 9:5">«ታኒ፥ ነ ባይእዘ የሱሳ» ያጋይዳ።<verse eid="ACT 9:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 9:6"/>ላ ኤጎ፥ «ደንዲ ካታማ ገሎ፤ ነ ኦቾደስ ኮሽዘ ባዝ እዘ ኔስ ኦሆዳ» ያጋይዳ።<verse eid="ACT 9:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 9:7"/>ሳዉላራ ኦግቶ Ꮉንዘ አሱን አኮን ኦህካይዛራ ኤቂ አትዳ። ኦቶ ስእነ፥ የዝን ኦና የዛኮን ብእካያ። <verse eid="ACT 9:7"/><verse number="8" style="v" sid="ACT 9:8"/>ሳዉላ ጎልእደ በስትፓ ደንዲ በእዘ ዎደ ኤ ኣፍታ ደንጋንጽዳ። ይኒ ግሾ፥ ኡን ኤ ኩሽቶ አይኪ ካል ዳማስቆ ገልዳ። <verse eid="ACT 9:8"/><verse number="9" style="v" sid="ACT 9:9"/>Ꮉይ ቃማ የሎደስ ኤ በአደስ ዳንዳእካያ፤ አኮን ሙእካያ፤ ኡዥካያ።<verse eid="ACT 9:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 9:10"/>ዳማስቆ ግዳ ፈቲ ሀናንያ ጋዘ የሱሳ ታማርዘ የነ። ላ ቆንጭራ፥ «ሀናንያ» ያጋእ ጼግዳ።</para>
+  <para style="p" vid="ACT 9:10">ሀናንያ ማህ፥ «ታ ላ፥ ዮ» ያጋይዳ።<verse eid="ACT 9:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 9:11"/>ላ ኤጎ፥ «ደንዲ ሞሎ ጋእንትዘ ኦግቶ Ꮉንግ፥ ይሁዳ ኬ ሳዉላ ጋዘ ተርሰሰፓ የኤዘ አ ኮዮ፤ ሳዉላ Ꮉተ ዎሳላ የነ። <verse eid="ACT 9:11"/><verse number="12" style="v" sid="ACT 9:12"/>ማህ ሀናንያ ጋዘ አ ገሊ፥ ሳዉላ ላምእን በአደ ጋር ፋ ኩሽቶ ኤላ ጋዶደራ ቆንጭራ ብእዳ» ያጋይዳ።<verse eid="ACT 9:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 9:13"/>ሀናንያ ማህ፥ «ላ፥ የሩሳላመ ነ ጌሽ አሱንላ የ አ አኮ ጋር ኢታ ባዝ ኦቼዛኮ ታ ጋማ አሳፓ ስእዳ። <verse eid="ACT 9:13"/><verse number="14" style="v" sid="ACT 9:14"/>ማህ ዳማስቆ ግዳ ነ ሱንቶ ጼግዙንና ኡባ አጮደስ፥ ካህኑን Ꮉላቁን ኤስ አደት ዎልቃ እንግዳ» ያጋይዳ።<verse eid="ACT 9:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 9:15"/>የዝን ላ ኤጎ፥ «ሳዉላ አይሁደ ማቆሰ አሱን ቲኖ፥ ካቱን ቲኖን እስራኤለ አሱን ቲኖን፥ ታ ሱንቶ ቶኮደስን ታስ ኦቾደስ ዶርንትደ ሚሸ ማቅደ ግሾ ነ ኤጎ ቅቶ። <verse eid="ACT 9:15"/><verse number="16" style="v" sid="ACT 9:16"/>አኮስ ጋይኮ፥ ታ ሱንት ግሾ ኤ ዋን ማ ኤኮደስ ኮሽዛኮ ታ ኤዛ ቤሳዳ» ያጋይዳ።<verse eid="ACT 9:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 9:17"/>ሀናንያ Ꮉንግ፥ ኬ ገሊ፥ ፋ ኩሽቶ ሳዉላላ ጋዲ፥ «ታ እሸ ሳዉላ፥ ነ ይእዘ ኦግተ ኔስ በንትደ ኤ ላ የሱሳ፥ ነ በአደ ጋራን ጌሽ አያናራ ኩሞደ ጋር ታና ኪትዳ» ጋይዳ። <verse eid="ACT 9:17"/><verse number="18" style="v" sid="ACT 9:18"/>ኤልሲ፥ ሳዉላ ኣፍትፓ ፈቲ ቁሮ ፋና የዘ ባዝ ዎን፥ ሳዉላ ላምእን ብእዳ። ማህ ደንዲ ጻማቅንትዳ። <verse eid="ACT 9:18"/><verse number="19" style="v" sid="ACT 9:19"/>ካ ሙእ ምንግዳ። ዳማስቆ ግዳ የዘ ታማሩራ ኤራ ቃማ ጋምእዳ።<verse eid="ACT 9:19"/></para>
+  <para style="s1">ሳዉላ ዳማስቆ ታማርስዳ</para>
+  <para style="p">
+    <verse number="20" style="v" sid="ACT 9:20"/>ኤሊሲ ሳዉላ፥ «የሱሳ ጾዘ ናአ» ያጋእ ዳማስቆ ግዳ የዘ አይሁደ ዎሳ ኬ ቃላ ታማርስዳ።<verse eid="ACT 9:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 9:21"/>ይኖ ስእዘ ኡቡን ቆፒ፥ «Ꮉይ የሩሳላመ የሱሳ ሱንቶ ጼግዙንና ባይእዛያ ባነ? ማህ Ꮉይጋ ይእዳና ኡንታና አጪ፥ ካህኑን Ꮉላቁን ቲኖ ካንጎደስ ባነ?» ያጋይዳ።<verse eid="ACT 9:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 9:22"/>የዝን ሳዉላ ቃላ ኦሄራ ሚንግተር Ꮉንግዳ። የሱሳ፥ ኤ ክርስቶሳ ማቅዳኖ ቆንጭዝ ኦህደ ግሾ ዳማስቆ ግዳ የዘ አይሁዱን ኤስ ማሆደባዝ ብዳ።<verse eid="ACT 9:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 9:23"/>ጋማ ቃማፓ ማቂ አይሁዱን ሺቂ፥ ሳዉላ ዎደስ ዞርንትዳ።<note caller="-" style="x"><char style="xo" closed="false">9:23-25 </char><char style="xt" closed="false"><ref loc="2CO 11:32-33">2 ቆሮ. 11:32-33</ref></char></note> <verse eid="ACT 9:23"/><verse number="24" style="v" sid="ACT 9:24"/>የዝን አይሁዱን ፋና ዎደስ ቆፕዳኖ ሳዉላ ኤርዳ። ኡን ኤዛ ዎደስ ቃማን አዋራን ካታማ ፉርተ ናጋነ። <verse eid="ACT 9:24"/><verse number="25" style="v" sid="ACT 9:25"/>ማህ ኤ ታማሩን ኤዛ ቃማ ካንግ፥ ግምበ ጋሰ ዉሉንቀራ ኬሲ ዳቾራ ኬዳ።<verse eid="ACT 9:25"/></para>
+  <para style="s1">ሳዉላ የሩሳላመ ታማርስዳ</para>
+  <para style="p">
+    <verse number="26" style="v" sid="ACT 9:26"/>ሳዉላ የሩሳላመ የልደ ዎደ አማንዙንራ የልንቶደስ ቆፕዳ። የዝን ኤ ክርስቶሳ አማንዳና ኡንትስ ቱሮ አዛንጽ እጽን ኤስ ዣሽትዳ። <verse eid="ACT 9:26"/><verse number="27" style="v" sid="ACT 9:27"/>የዝን ባርናባሳ ሳዉላ ሐዋሩንጎ ካንግዳ። ኦገ ላ ዋይዝ ቆንጨዛኮን ኦህዘዛኮ፥ ማህ ሳዉላ ዳማስቆ ግዳ የሱሳ ሱንተ ዣሽትካይዛራ ዋይዝ ቃላ ኦሄዛኮ ኡንትስ ጌሽ ኦህዳ። <verse eid="ACT 9:27"/><verse number="28" style="v" sid="ACT 9:28"/>ሳዉላ የሩሳላመ ዉቲ ላ ሱንተ ዣሽትካይዛራ ቃላ ኦህተራ፥ ሐዋሩንራ ዎላ የዝዳ። <verse eid="ACT 9:28"/><verse number="29" style="v" sid="ACT 9:29"/>ማህ ሳዉላ ግርኬ ዶና ኦህዘ አይሁዱንራ ኦህንት ላልዳ። የዝን ኡን ኤዛ ዎደስ ኮይዳ። <verse eid="ACT 9:29"/><verse number="30" style="v" sid="ACT 9:30"/>አማንዘ አሱን ይኖ ስእ፥ ሳዉላ ቂሳርያ ካንግ ተርሴሰ ዳክዳ።<verse eid="ACT 9:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="ACT 9:31"/>ይሁዳ፥ ጋልላን ሳማራን ኡባ ግዳ የዘ ዎሳ ኬታ ሳሮራ የዝዳ። ማህ ምንግዳ፤ ላስ ዣሽትተር ጌሽ አያና ሚንደራ ጋንግተር Ꮉንግዳ።<verse eid="ACT 9:31"/></para>
+  <para style="s1">ጴጥሮሳ ሊዳን እዮጰን ታማርስዳ</para>
+  <para style="p">
+    <verse number="32" style="v" sid="ACT 9:32"/>ጴጥሮሳ ሳአ ኡባ ዉቲ ሊዳ የዘ አማንዘ አሱንጎ የልዳ። <verse eid="ACT 9:32"/><verse number="33" style="v" sid="ACT 9:33"/>እዘ ኦስፉን በረ ኩሙ ዎቢ ዪ ዎይእ የዘ ኤንያ ጋዘ አ ደንግዳ። <verse eid="ACT 9:33"/><verse number="34" style="v" sid="ACT 9:34"/>ጴጥሮሳ፥ «ኤንያ፥ የሱስ ክርስቶሳ ነና ፋዳ፤ ደንዲ ነ ይቶ ደን» ያጋይዳ። ኤዝን ኤልሲ ደንዲ ኤቅዳ። <verse eid="ACT 9:34"/><verse number="35" style="v" sid="ACT 9:35"/>ሊዳን ሳሮናን የዘ አሱን ኡባ ኤንያ ብእ፥ ላጎ ማቅዳ።<verse eid="ACT 9:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="ACT 9:36"/>እዮጰ ካታማ ፈቲ ጻብቶ ጋዘ አማንዛና የነ። (ጻብቶ ጋእንትዛና ገንኤ ጋእንተ) እዛ ፋ የዝደ ዎድተ ኡባ ሎኦ ባዝ ኦችተራን ዳሁንና ማድተ የዝዳ። <verse eid="ACT 9:36"/><verse number="37" style="v" sid="ACT 9:37"/>የ ዎደ እዛ Ꮉርግንቲ Ꮉይቂን፥ አሱን እ አህቶ ሜጪ፥ ፎቀላ ኬሲ ዎይዳ። <verse eid="ACT 9:37"/><verse number="38" style="v" sid="ACT 9:38"/>ሊዳ እዮጰስ ካለ። አማንዙን ጴጥሮሳ ሊዳ የዛኖ ስእ፥ «ዎይአ ኑጎ ኤልሲ ዮኦ» ያጋዘ ኪታ ላምእ አሳራ ኤጎ ኪትዳ።<verse eid="ACT 9:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="ACT 9:39"/>ይኒ ግሾ፥ ጴጥሮሳ ደንዲ፥ ኡንታራ ቅትዳ። የይጋ የልን፥ ፎቀላ የዘ ክፍልተ ኤዛ ገልዳ። አዝን ባይዘ ማቹን ጴጥሮሳ ካንተ ኤቂ ዬክተራ ዶርቃ ኡንታራ ፋጻ የዝተራ ማእደ ቃምስቶን አፉልቶ ኡባ ጴጥሮሳ ቤዝዳ። <verse eid="ACT 9:39"/><verse number="40" style="v" sid="ACT 9:40"/>ጴጥሮሳ ኡንታና ኡባ ባለ ኬሲ፥ ቡንቁንቲ ጾዝ ዎስዳ። ማህ አህትጎ ማቂ፥ «ጣብተ፥ ደንዶ» ያጋይዳ። ጣብታ ፋ ኣፍቶ ቡጊ ጴጥሮሳ ብእ፥ ደንዲ በትዳ። <verse eid="ACT 9:40"/><verse number="41" style="v" sid="ACT 9:41"/>ጴጥሮሳ እዞ ፋ ኩሽተ ካትዚ ደን ኤስዳ። ይንፓ ማቂ፥ አማንዙንናን አዝኒ ባይዙንና ጼጊ፥ ኡን ቲኖ ሺሽዳ።<verse eid="ACT 9:41"/></para>
+  <para style="p">
+    <verse number="42" style="v" sid="ACT 9:42"/>Ꮉና ኦህታ እዮጰ ካታማ ኡባ የልዳ። ጋማ አሱን ላ አማንዳ። <verse eid="ACT 9:42"/><verse number="43" style="v" sid="ACT 9:43"/>ጴጥሮሳ እዮጰ ስሞና ጋዘ ቆለ Ꮉሽዘ ካራ ጋማ ዎደ ጋምእዳ።<verse eid="ACT 9:43"/></para>
+  <chapter eid="ACT 9"/>
+  <chapter number="10" style="c" sid="ACT 10"/>
+  <para style="s1">ጴጥሮሳን ቆርነልዮሳን</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 10:1"/>ቂሳርያ፥ «ጣልያ ኦላ አሱንና» ጋእንትዘ ኦልንትዙን ግዳ ፈቲ ቆርነልዮሳ ጋእንትዘ ማቶ Ꮉላቃ የነ። <verse eid="ACT 10:1"/><verse number="2" style="v" sid="ACT 10:2"/>ቆርነልዮሳ ፋ ካራ አሱንራ ጾዝ ጎይንዛን ዣሽትዘ አስን፥ ዳሁንና ማዳነ፥ ማህ ኡባ ዎደ ጾዝ ዎሳነ። <verse eid="ACT 10:2"/><verse number="3" style="v" sid="ACT 10:3"/>ፈቲ ዎደ ኡዱፉን ሳተ ኩምዝን ጾዝ ኪታንቾ ኤጎ ይእ፥ «ቆርነልዮሳ» ጋእ ጼጎደራ ኤ ቆንጭራ ጌሽ ብእዳ።<verse eid="ACT 10:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 10:4"/>ቆርነልዮሳ ዣሽቲ ኪታንችዛ ዳኪ ሎይ ብእ፥ «ላ፥ ይና አኮ?» ያጋይዳ።</para>
+  <para style="p" vid="ACT 10:4">ኪታንችዘ ማህ፥ «ነ ዎስታን ዳሁንና ነ ማድዳና ጾዘ ቲኖ ቆፍንተስ የልዳ። <verse eid="ACT 10:4"/><verse number="5" style="v" sid="ACT 10:5"/>Ꮉተ አሱንና እዮጰ ዳኪ፥ ጴጥሮሳ ጋዘ ስሞና ክእዞ። <verse eid="ACT 10:5"/><verse number="6" style="v" sid="ACT 10:6"/>ጴጥሮሳ አባ ጋጻ ቆለ Ꮉሽዘ ስሞና ካራ ዛቆተ በትዳ» ጋይዳ።<verse eid="ACT 10:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 10:7"/>ቆርነልዮሳ ፋስ ኦህደ ኪታንችዘ ቅትን፥ ፋ አሩንፓ ላምኡንና ጾዝ ጎይንዘ ፋ ካለ የዘ ዎታዳሩንፓ ፈታ ጼጊ፥ <verse eid="ACT 10:7"/><verse number="8" style="v" sid="ACT 10:8"/>ኡንትስ ኦህ እዮጰ ኪትዳ።<verse eid="ACT 10:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 10:9"/>ዎንትስት ዎደ ኡን Ꮉንግ፥ እዮጰ ካታማ ኡኮደራ እዝፑን ሳተ ጋር የዝን ጾዝ ዎሶደስ ጴጥሮሳ ፎቀላ ከዝዳ። <verse eid="ACT 10:9"/><verse number="10" style="v" sid="ACT 10:10"/>ኤ ናይ ካ ማደስ ኮይዳ፥ የዝን ካ ካጾደራ ኤ አያናራ ማቂ ቆንጭ ብእዳ። <verse eid="ACT 10:10"/><verse number="11" style="v" sid="ACT 10:11"/>ሳሎ ቡጉንትን፥ ዳማ አፉላ አዝዘ ባዝ ኦይዲ ዛላራ አይክንቲ ዎደራ ኤ ብእዳ። <verse eid="ACT 10:11"/><verse number="12" style="v" sid="ACT 10:12"/>እዛ በስተ ኦይዲ ቶሄራ የዘ ጉርደ ጾ፥ ሳዛራ ጎችንትዘ መትን ሳሎ ላንዳ ኡባ የነ። <verse eid="ACT 10:12"/><verse number="13" style="v" sid="ACT 10:13"/>የ ዎደ «ጴጥሮሳ፥ ደንዲ ኤቂ ሹኪ ሞኦ» ጋዘ ቃላ ኤጎ ይእዳ።<verse eid="ACT 10:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 10:14"/>የዝን ጴጥሮሳ፥ «ላ፥ አደ! ታ ቱና ባዝ ሙሎን ሙእ ኤሮስ» ጋይዳ።<verse eid="ACT 10:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 10:15"/>ማህ፥ «ጾዚ ጌሽዳኖ ነ ቱና ጋእፐ» ጋዘ ቃላ ላምእን ኤጎ ይእዳ። <verse eid="ACT 10:15"/><verse number="16" style="v" sid="ACT 10:16"/>ይናን፥ Ꮉይ ቶሄ ይእዳንፓ ማቂ የ ዳማ አፉላ አዝዘ ኤልሲ ኡደ ሳሎ ኤክንትዳ።<verse eid="ACT 10:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 10:17"/>ጴጥሮሳ ፋ በኤዘ ቆንጭት ብልታ፥ «አኮ ማቃድ የሳ?» ጋእ ፋ ዎዝንተ ቆፖደራ፥ ቆርነልዮሳ ኪተዘ አሱን ስሞና ካራ ኦጪ ደንግ ባለ ኤቅዳ። <verse eid="ACT 10:17"/><verse number="18" style="v" sid="ACT 10:18"/>ፋ ቃልቶ ኡን ቅ ዪዚ፥ «ጴጥሮሳ ጋዘ ስሞና ዛቆት የዘ Ꮉነ የነ?» ያጋእ ኦጭዳ።<verse eid="ACT 10:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 10:19"/>ጴጥሮሳ ቆንጭራ ብእዳኖ ታዎደራ፥ ጌሽ አያና ኤጎ፥ «Ꮉይቼ፥ Ꮉይ አሱን ነና ኮያነ። <verse eid="ACT 10:19"/><verse number="20" style="v" sid="ACT 10:20"/>ደንዲ ዎ፥ ታ ኡንታና ኪተዘ ግሾ ሶእካይዛራ ኡንታራ ቅቶ» ያጋይዳ።<verse eid="ACT 10:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 10:21"/>ጴጥሮሳ አሱንጎ ዎ፥ «ይን ኮይዘ ታና፤ አኮስ ይእዶተ?» ያጋይዳ።<verse eid="ACT 10:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 10:22"/>ኡን ማህ፥ «ኑና ማቶ Ꮉላቅዘ ቆርነልዮሳ ኪትዳ። ኤ ጽሎ፥ ጾዝ ጎይንዘ አስን አይሁደ አሱን ግዳ ኡባ ጋማ ቦንችንትደ አስ። ቆርነልዮሳ፥ ነና ፋ ካራ ክእዚ ቃላ ኔፓ ስኦደ ፋና ጌሽ ኪታንቾ ኤስ ኦህዳ» ያጋይዳ። <verse eid="ACT 10:22"/><verse number="23" style="v" sid="ACT 10:23"/>ጴጥሮሳ አሱንና ኬ ገል ሞክዳ።</para>
+  <para style="p" vid="ACT 10:23">ዎንትስት ዎደ፥ ደንዲ ኡንታራ ቅትዳ። እዮጴ ካታማ የዘ አማንዙንፓ ፈቲ ፈቲ አሱን ኤራ ዎላ ቅትዳ። <verse eid="ACT 10:23"/><verse number="24" style="v" sid="ACT 10:24"/>ዎንትስት ዎደ፥ ቂሳርያ የልዳ። ቆርነልዮሳ ፋ እግኑንናን ፋ ካለ ላጉንና ፈትላ ጼጊ ሺሺ፥ ጴጥሮሳ ናጋነ። <verse eid="ACT 10:24"/><verse number="25" style="v" sid="ACT 10:25"/>ጴጥሮሳ ኬ ገሎደስ ይአደራ፥ ቆርነልዮሳ ኤራ የልንት ኤ ቲኖ ጎልእ ኤስ ጎይኖደስ ኮይዳ። <verse eid="ACT 10:25"/><verse number="26" style="v" sid="ACT 10:26"/>የዝን ጴጥሮሳ፥ «ደንዶ፥ ታንን ታ ኦምተ ነ ጋር አስ» ያጋእ ኤዛ ደንዳ።<verse eid="ACT 10:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 10:27"/>ጴጥሮሳ ቆርነልዮሳራ ኦህተራ ኬ ገልዘ ዎደ ጋማ አሱን ሺቅዳኖ ደንግዳ። <verse eid="ACT 10:27"/><verse number="28" style="v" sid="ACT 10:28"/>ኤ አሱንጎ፥ «አይሁደ አስ መለ ዎርዣራ ዎላ ማቃደስ ዎይ የልንቶደስ ዎጋ ባይዛኖ ይን ኤራነ። የዝን ታኒ ኦደን ቱና ዎይ ጌሽ ጋአመ ጋር ጾዚ ታና ቤዝዳ። <verse eid="ACT 10:28"/><verse number="29" style="v" sid="ACT 10:29"/>ይኒ ግሾ፥ ይን ታጎ ኪትን እጽካይዛራ ይእዳ። Ꮉተ ታና አኮስ ጼግዘዛኮ ታስ ኦሆተ» ያጋይዳ።<verse eid="ACT 10:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 10:30"/>ቆርነልዮሳ፥ «ታኒ Ꮉይኖ ኦይዲ ቃማፓ ቲኖ Ꮉኒ ዎደ ኡዱፉን ሳተ ዎሳ ዎሶደራ፥ ፎእዘ ማኦ ማእደ አስ ታ ቲኖ ኤቅዳ። <verse eid="ACT 10:30"/><verse number="31" style="v" sid="ACT 10:31"/>ኤ ታጎ፥ ‹ቆርነልዮሳ፥ ጾዚ ነ ዎስቶ ስእዳ፥ ኔኒ ዳሁንና ማድዳኖ ቆፕዳ። <verse eid="ACT 10:31"/><verse number="32" style="v" sid="ACT 10:32"/>ይኬ፥ አስ እዮጰ ኪቲ፥ ስሞን ጴጥሮሳ ጋዛያ ጼግዞ። ኤ፥ ስሞና ጋዘ ቆለ Ꮉሽዘ አ ካራ አባ ጋጻ በትዳ› ያጋይዳ። <verse eid="ACT 10:32"/><verse number="33" style="v" sid="ACT 10:33"/>ይኒ ግሾ፥ ታ ኔጎ ኤልሲ ኪትዳ፤ ነ ይእዳና ሎኦ። ይኬ፥ ጾዚ ነና ኪትደባዝ ኡባ ስኦደስ Ꮉተ ኑ ኡቡን Ꮉነ ላ ቲኖ የነ» ያጋይዳ።<verse eid="ACT 10:33"/></para>
+  <para style="s1">ጴጥሮሳ ኦሄ</para>
+  <para style="p">
+    <verse number="34" style="v" sid="ACT 10:34"/>ካሊ፥ ጴጥሮሳ፥ «ጾዚ አስስ ስኖ ብእ አስ አሳፓ ሻጎስ።<note caller="-" style="x"><char style="xo" closed="false">10:34 </char><char style="xt" closed="false"><ref loc="DEU 10:17">ማሄ 10:17</ref></char></note> <verse eid="ACT 10:34"/><verse number="35" style="v" sid="ACT 10:35"/>የዝን አስ ኡባ ኦና ማቅኮን ፋስ ዣሽትዛያን ጽሎ ኦቻ ኦችዘላ ጾዚ ኡፋይትዛኖ ታ ቱሮ ቆፕዳ። <verse eid="ACT 10:35"/><verse number="36" style="v" sid="ACT 10:36"/>ጾዚ፥ ኡቡን ላ ማቅደ የሱስ ክርስቶሳ ባጋራ ሳሮት ኦህተራ Ꮉና ዎንገልቶ እስራኤለ አሱንስ ኪተዛኖ ይን ኤራነ። <verse eid="ACT 10:36"/><verse number="37" style="v" sid="ACT 10:37"/>ዋሐንሳ ጽንቃተ ባዝ ሳባክደ ዎደፓ አይኪ ጋልላን ይሁዳ ሳአ ኡባ የሎደስ Ꮉንዳኖ ይን ኤራነ። <verse eid="ACT 10:37"/><verse number="38" style="v" sid="ACT 10:38"/>ጾዚ ናዝረተ የሱሳ ጌሽ አያናራ ትዢ ዎልቃ እንግዳ። ጾዚ ኤራ የዘ ግሾ ሎኦ ባዝ ኤ ኦችተራ ጻላሄ ኩሸ አቅዱንና ኡባ ፋተራ ዉትዳ።<verse eid="ACT 10:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="ACT 10:39"/>«አይሁደ ሳአን የሩሳላመ ኤ ኦችደ ኡባባዝትስ ኑ ማርካ። ኡን ማስቃላላ ሱጺ ኤዛ ዎዳ። <verse eid="ACT 10:39"/><verse number="40" style="v" sid="ACT 10:40"/>የዝን ጾዚ Ꮉይን ዎደ Ꮉይቆፓ ኤዛ ደን አሱንስ ቆንጮደ ጋር ዪዝዳ። <verse eid="ACT 10:40"/><verse number="41" style="v" sid="ACT 10:41"/>ይና ቆንጭታ ጾዚ ቲኖ ዶርደ ማርኩንስ ፋትን አስ ኡባስ ማቆስ። ኤ Ꮉይቆፓ ደንድዳንፓ ማቂ ኤራ ሙእ ኡዥዳ። <verse eid="ACT 10:41"/><verse number="42" style="v" sid="ACT 10:42"/>ኑ ዎንገለ አሱንስ ኦሆደ ጋራን ፋጻ የዙንላን Ꮉይቂዱንላ ፍርዶደስ ጾዚ ሹምደ የሱሳ ማቅዛኖ ማርክደ ጋር ኑና ኪትዳ። <verse eid="ACT 10:42"/><verse number="43" style="v" sid="ACT 10:43"/>ጾዚ ኤዛ አማንዘ ኡባ ናጋርታ፥ ኤ ሱንተ አቶ ጋእንትዛኖ ናቡን ማርክነ» ያጋይዳ።<verse eid="ACT 10:43"/></para>
+  <para style="s1">አይሁደ ማቆሰ አሱን አማኒ ጌሽ አያና ኤክዳ</para>
+  <para style="p">
+    <verse number="44" style="v" sid="ACT 10:44"/>ጴጥሮሳ Ꮉጋ ይና ኦህቶ Ꮉስካይዝን ቃላ ስእዘ ኡቡንላ ጌሽ አያና ዎዳ። <verse eid="ACT 10:44"/><verse number="45" style="v" sid="ACT 10:45"/>ጴጥሮሳራ እዮጴፓ ይእደ አማንዘ ጋራዝንትደ አይሁደ ኡቡንላን፥ አይሁደ ማቆሱንላን ጌሽ አያና ዎዳኖ ብእ ጋማ ቆፕዳ። <verse eid="ACT 10:45"/><verse number="46" style="v" sid="ACT 10:46"/>አኮስ ጋይኮ፥ ኡን መለ መለ ዶናራ ኦህተራን ጾዘ ዳማትቶ ሳቦደራ ስእዳ።</para>
+  <para style="p" vid="ACT 10:46">የ ዎደ ጴጥሮሳ ማህ፥ <verse eid="ACT 10:46"/><verse number="47" style="v" sid="ACT 10:47"/>«Ꮉንስ ማህ ኑ ጋር ጌሽ አያና ኤክዱን ጻማቅንታመ ጋር Ꮉ ካዮደ ኦደ?» ያጋይዳ። <verse eid="ACT 10:47"/><verse number="48" style="v" sid="ACT 10:48"/>ኡን የሱስ ክርስቶሳ ሱንተ ጻማቅንቶደ ጋር ኡንታና ኪትዳ። ይንፓ ማቂ፥ ኡን ፋራ ኤራ ዎደ በቶደ ጋር ጴጥሮሳ ዎስዳ።<verse eid="ACT 10:48"/></para>
+  <chapter eid="ACT 10"/>
+  <chapter number="11" style="c" sid="ACT 11"/>
+  <para style="s1">ጴጥሮሳ ፋ ኦችዳኖ የሩሳላመ ዎሳ ኬስ ኦህዳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 11:1"/>ሐዋሩንን ይሁዳ የዘ አማንዙን፥ አይሁደ ማቆሱንን ጾዘ ቃላ ኤክዳኖ ስእዳ። <verse eid="ACT 11:1"/><verse number="2" style="v" sid="ACT 11:2"/>ጴጥሮሳ የሩሳላመ ቅትደ ዎደ ጋራዝንትደ አማንዙን፥ <verse eid="ACT 11:2"/><verse number="3" style="v" sid="ACT 11:3"/>ኤጎ፥ «ነ ጋራዝንትካይዙንጎ ገሊ ኡንታራ ካ አኮስ ሙእዶ?» ጋእ ላልዳ።<verse eid="ACT 11:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 11:4"/>የዝን ጴጥሮሳ Ꮉንዳኖ ቲኖፓ አይኪ ታራራ ታራራ ኦህዳ፦ <verse eid="ACT 11:4"/><verse number="5" style="v" sid="ACT 11:5"/>«ታኒ እዮጴ ካታማ ጾዝ ዎስተራ ቆንጭ ብእዳ። ዳማ አፉላ አዝዘ ባዝ ኦይዲ ዛላራ አይክንቲ ሳሎፓ ዎተራ ታጎ ይእዳ። <verse eid="ACT 11:5"/><verse number="6" style="v" sid="ACT 11:6"/>ታኒ ዳኪ ሎይ ኤ ግድቶ በእዘ ዎደ ኦይዲ ቶሄራ የዘ ጉርደ ጾን፥ ሳዛራ ጎችንትዘ መን ሳሎ ላንዱንና ብእዳ። <verse eid="ACT 11:6"/><verse number="7" style="v" sid="ACT 11:7"/>‹ጴጥሮሳ፥ ደንዲ፥ ሹኪ ሞኦ› ጋዘ ቃላ ስእዳ።<verse eid="ACT 11:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="ACT 11:8"/>«የዝን ታኒ፥ ‹ላ፥ አደ፥ ቱና ባዝ ዎይ ጌዥካይዘባዝ ሙሎን ዶናጎ ሺሺ ኤሮስ› ያጋይዳ።<verse eid="ACT 11:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 11:9"/>« ‹ጾዚ ጌሽዳኖ ኔኒ ቱና ጋእፐ› ያጋዘ ቃላ ላምእን ሳሎፓ ይእዳ።<verse eid="ACT 11:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 11:10"/>«ይና Ꮉይ ቶሄ Ꮉንዳንፓ ሱባ፥ ማቂ ኡባ ባዝታ ሳሎ ኡደ ኤክንትዳ። <verse eid="ACT 11:10"/><verse number="11" style="v" sid="ACT 11:11"/>ይና ሳተ Ꮉይ አሱን ቂሳርያፓ ታጎ ኪትንቲ ታ የዘ ኬተ የልዳ። <verse eid="ACT 11:11"/><verse number="12" style="v" sid="ACT 11:12"/>ሶእካይዛራ ኡንታራ ቅቶደ ጋር አያና ታስ ኦህዳ። ማህ Ꮉና እዝፑን እሹን እዮጴፓ ታራ ቂሳርያ Ꮉንግዱንራ ቆርነልዮሳ ካራ ገልዳ። <verse eid="ACT 11:12"/><verse number="13" style="v" sid="ACT 11:13"/>ኪታንቾ ኤ ካራ ኤቂ፥ ‹እዮጴ ኪቲ ጴጥሮሳ ጋእንትዘ ስሞና ጼግዞ። <verse eid="ACT 11:13"/><verse number="14" style="v" sid="ACT 11:14"/>ነናን ነ ካራ አስ ኡባ አሽዘ ቃላ ኤ ኔስ ኦሆዳ› ጋይዳኖ ቆርነልዮሳ ኑስ ኦህዳ።<verse eid="ACT 11:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 11:15"/>«ታኒ ኦሄ አይክዘ ዎደ ጌሽ አያና ቲኖ ኑላ ዎዳንጋራ ኡንታላን ዎዳ። <verse eid="ACT 11:15"/><verse number="16" style="v" sid="ACT 11:16"/>የ ዎደ ‹ዋሐንሳ Ꮉራ ጻማቅዳ፥ የዝን ይን ጌሽ አያናራ ጻማቅንቶዳ› ያጋይደ ላ ቃልታ ታስ ቲርንትዳ።<note caller="-" style="x"><char style="xo" closed="false">11:16 </char><char style="xt" closed="false"><ref loc="ACT 1:5">ሐዋ. 1:5</ref></char></note> <verse eid="ACT 11:16"/><verse number="17" style="v" sid="ACT 11:17"/>ጾዚ ኑስ ላ የሱስ ክርስቶሳ አማንዙንስ እንግደ እሞትቶ ማህ እዞ አይሁደ ማቆሱንስን እንግኮ፥ ዬዝን ጾዝ ካዮደስ ታ ኦደ?» ያጋይዳ።<verse eid="ACT 11:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="ACT 11:18"/>ኡን ይኖ ስእደ ዎደ ፋ ላልዛኖ አሺ፥ «ይኖ ማቅኮ፥ ጾዚ አይሁደ ማቆሱንን ናጋራፓ ማቂ ደኦ የሳደ ጋር እጻ እንግዳ» ያጋእ ጾዝ ጋላትዳ።<verse eid="ACT 11:18"/></para>
+  <para style="s1">አንጾክያ ዎሳ ኬ</para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 11:19"/>እስጢፋኖሳ Ꮉይቆስ የልደ ባይኤ ግሾ ላልንትደ አማንዙን ቃላ አይሁዱን ጻላላስ ኦህተራ ስሮፍንቀ፥ ቆጵሮሳን አንጾክያ የሎደስ ዉትዳ።<note caller="-" style="x"><char style="xo" closed="false">11:19 </char><char style="xt" closed="false"><ref loc="ACT 8:1-4">ሐዋ. 8:1-4</ref></char></note> <verse eid="ACT 11:19"/><verse number="20" style="v" sid="ACT 11:20"/>የዝን ቆጵሮሳፓን ቀሬናፓን ይእደ ፈቲ ፈቲ አማንዘ አሱን አንጾክያ Ꮉንግ፥ ላ የሱሳ ዎንገለ ግርኬ አሱንስ ኦህዳ። <verse eid="ACT 11:20"/><verse number="21" style="v" sid="ACT 11:21"/>ላ ዎልቃ ኡንታራ የነ፤ ማህ ጋማ አሱን አማኒ ላጎ ማቅዳ።<verse eid="ACT 11:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 11:22"/>ይና ኦህቶ የሩሳላመ የዘ ዎሳ ኬታ ስእደ ግሾ ባርናባሳ አንጾክያ ኪትዳ። <verse eid="ACT 11:22"/><verse number="23" style="v" sid="ACT 11:23"/>ባርናባሳ አንጾክያ ቅትደ ዎደ ጾዘ አ ኬሃት ኦቻ ብእ ኡፋይትዳ። ኡን ኡቡን ፋ ኩሙ ዎዝንተ ላ ግዳ ሚንግ የሳደ ጋር ኡንታና ዞርዳ፤ <verse eid="ACT 11:23"/><verse number="24" style="v" sid="ACT 11:24"/>ይኒ ግሾ ባርናባሳ ጌሽ አያናራን አማኖራ ኩምደ ሎኦ አስ። ጋማ አሱን ላ አማንዳ።<verse eid="ACT 11:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="ACT 11:25"/>ይንፓ ማቂ፥ ባርናባሳ ሳዉላ ኮዮደስ ተርሴሰ ቅትዳ። <verse eid="ACT 11:25"/><verse number="26" style="v" sid="ACT 11:26"/>እዘ ሳዉላ ደንግደ ዎደ አንጾክያ ኤኪ ይእዳ። ባርናባሳን ሳዉላ ዎሳ ኬ አሱንራ ፈቲ በረ ሙሎ በቲ ጋማ አሱንና ታማርስዳ። ታማሩን አንጾክያ ዎሳ ኬ «ክርስታነ» ጋእንት ቲኒ ጼግንትዳ።<verse eid="ACT 11:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 11:27"/>የ ዎደ ፈቲ ፈቲ ናቡን የሩሳላመፓ አንጾክያ ዎዳ። <verse eid="ACT 11:27"/><verse number="28" style="v" sid="ACT 11:28"/>ኡን ግዳፓ አጋቦሳ ጋእንትዘ ደንዲ ሳአ ኡባ ዳማ ናየ ኬሳዳኖ አያና ዎልቃራ ትንቢተ ኦህዳ። ይና Ꮉንዳና ሮመ ካት ቃላዉድዮሳ ዎደ።<note caller="-" style="x"><char style="xo" closed="false">11:28 </char><char style="xt" closed="false"><ref loc="ACT 21:10">ሐዋ. 21:10</ref></char></note> <verse eid="ACT 11:28"/><verse number="29" style="v" sid="ACT 11:29"/>አማንዙን ፈተ ፈተ ፋ ዎልቂት ጋር ሚሸ ኬሲ ይሁዳ የዘ አማንዙስ ማደ ዳኮደስ ቆፋ አጭዳ። <verse eid="ACT 11:29"/><verse number="30" style="v" sid="ACT 11:30"/>ኡን Ꮉንጋራ የይዝ፥ ሚሽቶ ባርናባሳራን ሳዉላራን ዎሳ ኬ ጭሙንስ ዳክዳ።<verse eid="ACT 11:30"/></para>
+  <chapter eid="ACT 11"/>
+  <chapter number="12" style="c" sid="ACT 12"/>
+  <para style="s1">ዎሳ ኬላ ዳማ ባይ የልዳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 12:1"/>የ ዎደ ካት ሄሮድሳ<note caller="+" style="f"><char style="fr" closed="false">12:1 </char><char style="fk" closed="false">ካት ሄሮድሳ፦ </char><char style="ft" closed="false">Ꮉይ ካት ሄሮድሳ፥ ሄሮድሳ አግርጳ ጋዘስ አንግሳያ። ኤ፥ 37-44 ማሮት በረ የሎደስ አህዳ። ኤ ካት ሄሮድሳስ ናዘስ ናአ። ኤዝን ሐዋሩን ኦቻ ዞፋ። 25 የዘስ አደ።</char></note> ዎሳ ኬ አሱንፓ ባጉንና ባይኤ አይክዳ። <verse eid="ACT 12:1"/><verse number="2" style="v" sid="ACT 12:2"/>ዋሐንሳ እሸ ያይቆባ ማሻራ ዎዳ። <verse eid="ACT 12:2"/><verse number="3" style="v" sid="ACT 12:3"/>ይና አይሁዱንና ኡፋይስዳኖ ብእ፥ ጉጂ ጴጥሮሳን አይዳ። ይና Ꮉንዳና ቦራ ባአለ ቦንችዘ ቃምተ። <verse eid="ACT 12:3"/><verse number="4" style="v" sid="ACT 12:4"/>ጴጥሮሳ አይኪ አጭዳ። ፋስጋ ቦንችዘ ዎድትፓ ማቂ ዎርዡን ቲኖ ኣደስ ቆፒ፥ ኦይዲ ኦይዲ ዎታዳሩን ኤዛ ናጎደ ጋር ታጶ እዝፑን ዎታዳሩንስ አ እንግዳ።<note caller="-" style="x"><char style="xo" closed="false">12:4 </char><char style="xt" closed="false"><ref loc="EXO 12:1-27">ከዘ 12:1-27</ref></char></note> <verse eid="ACT 12:4"/><verse number="5" style="v" sid="ACT 12:5"/>ይኒ ግሾ፥ ጴጥሮሳ አች ኬ ናግንታነ። የዝን ዎሳ ኬ አሱን ኤስ ምን ጾዝ ዎሳነ።<verse eid="ACT 12:5"/></para>
+  <para style="s1">ኪታንቾ ጴጥሮሳ አች ኬፓ ከስዳ</para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 12:6"/>ሄሮድሳ ጴጥሮሳ አሱን ቲኖ ሺሾዳንፓ ቲኖ ቃማ ጴጥሮሳ ላምእ ዛላራ ላምእ ዎታዳሩንራን ላምእ ሳንላታራ አጭንቲ ኡን ግዳ ገንትዳ። ናግዙን አች ኬ ፉርተ ኤቂ ናጋነ። <verse eid="ACT 12:6"/><verse number="7" style="v" sid="ACT 12:7"/>ቲርካይዝን ላ ኪታንቾ በንትዳ። አች ኬ ፎኦ ፎእዳ። ኪታንችዘ ጴጥሮሳ ምልቶ ቦቺ ባርክዚ፥ «ኤለ ደንዶ» ያጋይዳ። ኢራ ሳንላታን ኤ ኩሽትፓ ዎዳ። <verse eid="ACT 12:7"/><verse number="8" style="v" sid="ACT 12:8"/>ኪታንችዘ ኤጎ፥ «ነ ማእቶ ማኦ፥ ነ ጫምቶን ኣ» ያጋይዳ። ጴጥሮሳ Ꮉንጋራ ኦችዳ፤ ኪታንችዘ፥ «ነ ላጽንዛ ማእ ታና ካሎ» ያጋይዳ።<verse eid="ACT 12:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 12:9"/>ጴጥሮሳ አች ኬፓ ኬዚ ኪታንችዛ ካልዳ። ኤስ ቆንጭ በእዘጋራ ይእዳፕ አትን ኪታንችዘ ኦችዘ ባዝታ ቱሮ አዝካያ። <verse eid="ACT 12:9"/><verse number="10" style="v" sid="ACT 12:10"/>ኪታንችዘን ጴጥሮሳን ቲኖን ላምእን ናግዘ ዛብዛ አ ካታማ ካንግዘ ብርታ ፉርትጎ የልዳ። ፉርታ ኡንትስ ፋ ፋስ ኤሪ ቡጉንትዳ። ኡን ኬዚ ፈቲ ኦገራ Ꮉንጎደራ ኪታንችዘ ቲርካይዝን ጴጥሮሳፓ ሻክንትዳ።<verse eid="ACT 12:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 12:11"/>ጴጥሮሳስ ዎዝንታ ማቅን፥ «ታና ላ ፋ ኪታንችዛ ዳኪ፥ ሄሮድሳ ኩሽትፓን ናጊ በትደ አይሁደ አሱን ኡባፓ አሽዳኖ Ꮉተ ቱሮ ኤርዳ» ያጋይዳ።<verse eid="ACT 12:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 12:12"/>ኤ ይኖ አካክደ ዎደ ጋማ አሱን ዎላ ሺቂ ጾዝ ዎስዘ በስተ፥ ማርቆሳ ጋዘ ዋሐንሳ እንታ ማይራም ካራ ቅትዳ። <verse eid="ACT 12:12"/><verse number="13" style="v" sid="ACT 12:13"/>እዘ ባለ ኤቂ ጼግዳ። ፈቲ ሮዳ ጋእንትዘ አርታ ፉርቶ ቡጎደስ ይእዳ። <verse eid="ACT 12:13"/><verse number="14" style="v" sid="ACT 12:14"/>ሮዳ ጴጥሮሳ ቃላ ማቅዳኖ ኤርደ ዎደ ኡፋይሳር ኩሚ ፉርቶ ቡግካይዝን ሱብ ዎጺ Ꮉንግ፥ «ጴጥሮሳ ባለ ኤቅዳ» ያጋእ አሱንስ ኦህዳ።<verse eid="ACT 12:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 12:15"/>አሱን ኢጎ፥ «ነ ዣሽታነ!» ያጋይዳ። ሮዳ ጴጥሮሳ ማቅዳኖ ጌሽ ኦህዳ። ኡን፥ «የ ኤ ኪታንቾ» ያጋይዳ።<verse eid="ACT 12:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="ACT 12:16"/>የዝን ጴጥሮሳ ባለ ኤቂ ጼጊ አሻንጽን አሱን ፉርቶ ቡጊ ኤዛ ብእ ጋማ ቆፕዳ። <verse eid="ACT 12:16"/><verse number="17" style="v" sid="ACT 12:17"/>የዝን ኡን ስእ ጋዉደ ጋር ጴጥሮሳ ፋ ኩሽተ ማሊ ላ አች ኬፓ ኤዛ ዋይዝ ኬሰዛኮ ኡንትስ ቆንጭዝ ኦህ፥ «Ꮉኖ ያይቆባስን አማንዘ አሱንስ ኦሆተ» ጋእ እዝፕ ኬዚ መለ በሳ ቅትዳ።<verse eid="ACT 12:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="ACT 12:18"/>ሳአ ዎንትዘ ዎደ «ጴጥሮሳ አባ ቅትዶ?» ጋእ ዎታዳሩን ዎል ግዳ ጋማ ካጭንትዳ። <verse eid="ACT 12:18"/><verse number="19" style="v" sid="ACT 12:19"/>ሄሮድሳ ጴጥሮሳ ኮይዝን፥ ኤ ብደ ዎደ ናግዙንና ቁሪ፥ ኡንታና ዎደ ጋር ኪትዳ። ይንፓ ሱባ፥ ሄሮድሳ ይሁዳፓ ቂሳርያ ዎ እዘ ኤራ ዎደ በትዳ።<verse eid="ACT 12:19"/></para>
+  <para style="s1">ሄሮድሳ Ꮉይቆ</para>
+  <para style="p">
+    <verse number="20" style="v" sid="ACT 12:20"/>ሄሮድሳ ጢሮሳ አሱንላን ስዶና አሱንላ ጋማ ካጭዳ። ኡን ዎላ ፈትላ ይእ ካት ሞርና ብላስጦሳ ማድንቶደ ጋራ ዎሲ ዬኤ ጋእዚ ፋስ ጭማ ማህ ጊጎደስ ሄሮድሳጎ Ꮉንግዳ። ኡን ጋድታ ካ ካትዘ ጋደፓ ደንጋነ የሻ።<verse eid="ACT 12:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 12:21"/>ሄሮድሳ ሹምንትደ ዎደ ፋ ካእቱሞ አፉልቶ ማእ፥ አራታላ በቲ አሱንስ ኦህዳ። <verse eid="ACT 12:21"/><verse number="22" style="v" sid="ACT 12:22"/>አሱን፥ «ይና ጾዘ ቃላ፥ አስ ቃላ ባያ» ያጋእ ዉይስዳ። <verse eid="ACT 12:22"/><verse number="23" style="v" sid="ACT 12:23"/>ሄሮድሳ ጾዝ ቦንችካይዘ ግሾ ኢራ ላ ኪታንቾ ኤዛ ጉድን ዛቅላራ ሙእንት Ꮉይቂዳ።<verse eid="ACT 12:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 12:24"/>የዝን ጾዘ ቃላ ድጭተራን ዳልግተራ Ꮉንግዳ።<verse eid="ACT 12:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="ACT 12:25"/>ባርናባሳን ሳዉላን ፋ ኦችቶ ፋዲ ማርቆሳ ጋዘ ዋሐንሳ ፋራ ኤኪ የሩሳላመፕ ማቅዳ።<verse eid="ACT 12:25"/></para>
+  <chapter eid="ACT 12"/>
+  <chapter number="13" style="c" sid="ACT 13"/>
+  <para style="s1">ባርናባሳን ሳዉላን ኪትንትዳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 13:1"/>አንጾክያ የዘ ዎሳ ኬ ናቡንን አስታማሩንን የነ። ኡን ባርናባሳ፥ ካር ጋእንትዘ ስሞና፥ ቀሬናፓ ይእደ ሉክዮሳ፥ ካት ሄሮድሳራ ድጭደ ምናሄነን ሳዉላን። <verse eid="ACT 13:1"/><verse number="2" style="v" sid="ACT 13:2"/>ኡን ላ ጎይኖደራን ጾሞደራ ጌሽ አያና፥ «ታኒ ጼግደ ኦችትስ ባርናባሳን ሳዉላን ታስ ሻኮተ» ያጋይዳ።<verse eid="ACT 13:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="ACT 13:3"/>ይኒ ግሾ፥ ኡን ጾምዳንፓን ዎስዳንፓ ማቂ ፋ ኩሽቶ ኡንታላ ጋዲ ዳክዳ።<verse eid="ACT 13:3"/></para>
+  <para style="s1">ባርናባሳን ሳዉላን ቆጵሮሳ ቅትዳ</para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 13:4"/>ይኒ ግሾ፥ ጌሽ አያና ኡንታና ኪትዳ። ሰለዉቀ Ꮉንግዳ፤ ኢፓ ማርካበ ግዳ ገሊ ቆጵሮሳ Ꮉራ ተቅንትደ ሳአ ቅትዳ። <verse eid="ACT 13:4"/><verse number="5" style="v" sid="ACT 13:5"/>ኡን ስልማና የሊ አይሁደ ዎሳ ኬ ጾዘ ቃላ ኦህዳ። ዋሐንሳ<note caller="+" style="f"><char style="fr" closed="false">13:5 </char><char style="fk" closed="false">ዋሐንሳ፦ </char><char style="ft" closed="false">Ꮉና በስተ ጻፍንትደ፥ ሐዋረ ዋሐንሳ ማቅካይዝን ዋሐንሳ ማርቆሳ ጋእንትዘ ማርቆሳ ዎንገለ ጻፍዳያ።</char></note> ማድተራ ኡንታራ የነ።<verse eid="ACT 13:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 13:6"/>ኡን ቆጵሮሳ Ꮉራ ተቅንትደ ሳአ አ ጳፉ የልዘ ዎደ ፈቲ ዎርዶ ናበ ባር-የሱሳ ጋዘ አይሁደ ማሮ ደንግዳ። <verse eid="ACT 13:6"/><verse number="7" style="v" sid="ACT 13:7"/>የ ማርዘ ዎርዣ አህዘ ሳርግዮሳ ጳዉሎሳ ጋዘ ቆፋራ የዘ አራ የነ። ሳርግዮሳ ጳዉሎሳ ባርናባሳን ሳዉላን ፋጎ ጼጊ ጾዘ ቃላ ስኦደስ ኮይዳ። <verse eid="ACT 13:7"/><verse number="8" style="v" sid="ACT 13:8"/>የዝን ግርኬ ዶናራ ማርዛይ ሱንታን «ኤልማሳ» ጋእንታነ። ኤ ጋደ አህዘ አማናመ ጋር ካዮደስ ኮይ ባርናባሳን ጳዉሎሳን እጽዳ።<verse eid="ACT 13:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 13:9"/>የዝን ጳዉሎሳ ጋዘ ሳዉላ ጌሽ አያናራ ኩሚ ማርዛያ ዳኪ ብእ፥ <verse eid="ACT 13:9"/><verse number="10" style="v" sid="ACT 13:10"/>«ናተ፥ ጻላሄ ናአዮ፥ ኢታት ኡባ ኩምዳዮ፥ ጽሎት ኡባስ ሞርክዛዮ፥ ሉለ ላ ኦግቶ ምርቅዛኖ አሾሶ? <verse eid="ACT 13:10"/><verse number="11" style="v" sid="ACT 13:11"/>ይኬ፥ Ꮉተ ላ ኩሸ ኔላ የነ። ነ ቆቀ ማቃዳ፤ ኤራ ዎደስ አዋ ፎኦ በአማ» ያጋይዳ።</para>
+  <para style="p" vid="ACT 13:11">ኢራ ቃይቃዮን ማን ኤ ኣፍቶ ጎዝን፥ ፋ ኩሽቶ አይኪ ካልዘ አስ ኮይተራ ዉትዳ። <verse eid="ACT 13:11"/><verse number="12" style="v" sid="ACT 13:12"/>ጋደ አህዘ ይኖ ብእደ ዎደ ላ ባዝ ታማርስዛነ ጋማ ቆፒ አማንዳ።<verse eid="ACT 13:12"/></para>
+  <para style="s1">ባርናባሳን ጳዉሎሳን ጵስድያ አንጾክያ ቅትዳ</para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 13:13"/>ጳዉሎሳን ኤራ የዙን ጳፉፓ ደንዲ፥ ጵንፍልያ የዘ ጰርገ ማርካበራ ቅትዳ። ዋሐንሳ ኡንታፓ ሻክንት የሩሳላመ ማቅዳ። <verse eid="ACT 13:13"/><verse number="14" style="v" sid="ACT 13:14"/>የዝን ኡን ጰርገፓ አ ጵስድያ የዘ አንጾክያ የልዳ። ሳምባታ ዎደ አይሁደ ዎሳ ኬ ገሊ በትዳ። <verse eid="ACT 13:14"/><verse number="15" style="v" sid="ACT 13:15"/>ሙሴ ህግቶን ናቡን ማጻፍታን ናባብንትዳንፓ ማቂ አይሁደ ዎሳ ኬ Ꮉላቁን፥ «ኑ እሹን፥ አስ ምንዘ ቃላ ይንትስ የዛኮ አሱንስ ኦሆያተ» ጋእ ኡንታጎ ኪትዳ።<verse eid="ACT 13:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="ACT 13:16"/>ጳዉሎሳ ደንዲ ኤቂ ፋ ኩሽትራ ማልተራ፥ «እስራኤለ አሱንስ፥ ማህ ጾዝ ጎይንዘ አይሁደ ማቆሰ አሱን፥ ስኦተ። <verse eid="ACT 13:16"/><verse number="17" style="v" sid="ACT 13:17"/>Ꮉን እስራኤለ አሱን ጾዘ፥ ኑ ማይዙንና ዶርዳ። ግብጸ ሳአ ዛቆት ኡን የሳደራ፥ ኡንታና ጋን ፋ ዳማ ዎልቃራ ግብጸ ሳአፓ ኡንታና ከስዳ።<note caller="-" style="x"><char style="xo" closed="false">13:17 </char><char style="xt" closed="false"><ref loc="EXO 1:7">ከዘ 1:7</ref>፤ <ref loc="EXO 12:51">ከዘ 12:51</ref></char></note> <verse eid="ACT 13:17"/><verse number="18" style="v" sid="ACT 13:18"/>አኮ ባይዘ ሳአ ኦይታም በረ ጋር ኡንታና ዳንዳእዳ።<note caller="-" style="x"><char style="xo" closed="false">13:18 </char><char style="xt" closed="false"><ref loc="NUM 14:34">ፋይዶ 14:34</ref>፤ <ref loc="DEU 1:31">ማሄ 1:31</ref></char></note> <verse eid="ACT 13:18"/><verse number="19" style="v" sid="ACT 13:19"/>ካናነ ሳአ አይሁደ ማቆሰ ላፑን ካእቱሞ ካይ ኡን ጋድቶ ፋ አሱንና ላትዝዳ።<note caller="-" style="x"><char style="xo" closed="false">13:19 </char><char style="xt" closed="false"><ref loc="DEU 7:1">ማሄ 7:1</ref>፤ <ref loc="JOS 14:1">ኢያ. 14:1</ref></char></note> <verse eid="ACT 13:19"/><verse number="20" style="v" sid="ACT 13:20"/>ይና ኡባ Ꮉንዳንፓ ኦይዲ ጼት እችንታም በረ ማቅዳ። ይንፓ ማቂ ሳሙኤላ ዎደ የሎደስ አህዘ ዳይና ኡንትስ እንግዳ።<note caller="-" style="x"><char style="xo" closed="false">13:20 </char><char style="xt" closed="false"><ref loc="DEU 2:16">ማሄ 2:16</ref>፤ <ref loc="1SA 3:20">1 ሳመ. 3:20</ref></char></note> <verse eid="ACT 13:20"/><verse number="21" style="v" sid="ACT 13:21"/>ይንፓ ማቂ፥ ኡን ፋስ ካት እንጎደ ጋር ዎስን፥ ጾዚ ብንያመ ኮቻፓ ቂሰ ናአ፥ ሳኦላ ኦይታም በረ ካእቶደ ጋር ኡንትስ እንግዳ።<note caller="-" style="x"><char style="xo" closed="false">13:21 </char><char style="xt" closed="false"><ref loc="1SA 8:5">1 ሳመ. 8:5</ref>፤ <ref loc="1SA 10:21">10:21</ref></char></note> <verse eid="ACT 13:21"/><verse number="22" style="v" sid="ACT 13:22"/>ጾዚ ሳኦላ ሻርዳንፓ ማቂ ኡንታላ ዳዉተ ካእዳ። ጾዚ ዳዉተባዝ ማርክተ፥ ‹ታ ዎዝንት ጋር ማቅዳያ ታ ቆፍቶ ኡባ ኦችዛ እሰይ ናአ ዳዉተ ደንግዳ› ጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">13:22 </char><char style="xt" closed="false"><ref loc="1SA 13:14">1 ሳመ. 13:14</ref>፤ <ref loc="1SA 16:12">16:12</ref>፤ <ref loc="PSA 89:20">ማዝ. 89:20</ref></char></note><verse eid="ACT 13:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 13:23"/>«ጾዚ፥ ታኒ ዳዉተ ኮቻፓ እስራኤለ አሱንና ኡፋይስዛ ኮኦዳ ጋይዳን ጋር የሱሳ ክእዳ። <verse eid="ACT 13:23"/><verse number="24" style="v" sid="ACT 13:24"/>የሱሳ ዮኦዳንፓ ቲኖ እስራኤለ አሱን ኡባ ፋ ናጋርትፓ ማቂ ጻማቅንቶደ ጋር ዋሐንሳ ቃላ ኦህዳ።<note caller="-" style="x"><char style="xo" closed="false">13:24 </char><char style="xt" closed="false"><ref loc="MRK 1:4">ማር. 1:4</ref>፤ <ref loc="LUK 3:3">ሉቃ. 3:3</ref></char></note> <verse eid="ACT 13:24"/><verse number="25" style="v" sid="ACT 13:25"/>ማህ ዋሐንሳ ፋ ኦችቶ ፎሎደስ ይእተ አሱንጎ፥ ‹ታና ኦና ጋእ ቆፐተ? ታኒ ይን ናግዘ ክርስቶሳ ባያ፥ የዝን ታ ኤ ጫማ ብሎደስ ታስ ቤዞሰ ታፓ ሱብተ የእነ› ጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">13:25 </char><char style="xt" closed="false"><ref loc="MAT 3:11">ማቶ. 3:11</ref>፤ <ref loc="MRK 1:7">ማር. 1:7</ref>፤ <ref loc="LUK 3:16">ሉቃ. 3:16</ref>፤ <ref loc="JHN 1:20">ዋሐ. 1:20</ref>፥ <ref loc="JHN 1:27">27</ref></char></note><verse eid="ACT 13:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="ACT 13:26"/>«እሹን፥ አብራሃማ ኮቹን፥ ማህ Ꮉነ አይሁደ ማቅካይዛራ ጾዝስ ዣሽትዙን፥ Ꮉና አሽዘ ቃልታ ኑስ ኪትንትዳ። <verse eid="ACT 13:26"/><verse number="27" style="v" sid="ACT 13:27"/>አኮስ ጋይኮ፥ የሩሳላመ የዘ አሱንን ኡን Ꮉላቁን የሱሳ ኤርካያ። ሳምባታ ኡባነ ናባብንትዘ ናቡን ቃልቶ ቲሪካይዘ ግሾ ኤዛላ ፍርድ ናቡን ኦህደ ቃልቶ ፎልዳ። <verse eid="ACT 13:27"/><verse number="28" style="v" sid="ACT 13:28"/>የሱሳ ዎዽሳደስ ፈቲ ምክናተን በንታንጽን ጵላጦሳ ኤዛ ዎደስ እንጎደ ጋር ዎስዳ።<note caller="-" style="x"><char style="xo" closed="false">13:28 </char><char style="xt" closed="false"><ref loc="MAT 27:22-23">ማቶ. 27:22-23</ref>፤ <ref loc="MRK 15:13-14">ማር. 15:13-14</ref>፤ <ref loc="LUK 23:21-23">ሉቃ. 23:21-23</ref>፤ <ref loc="JHN 19:15">ዋሐ. 19:15</ref></char></note> <verse eid="ACT 13:28"/><verse number="29" style="v" sid="ACT 13:29"/>ኡን የሱሳ ባዝ ጌሽ ማጻፍተ ጻፍንትዳኖ ኡባ ፎልደ ዎደ ማስቃላፓ ኤዛ ኬ ሞግዳ።<note caller="-" style="x"><char style="xo" closed="false">13:29 </char><char style="xt" closed="false"><ref loc="MAT 27:57-61">ማቶ. 27:57-61</ref>፤ <ref loc="MRK 15:42-47">ማር. 15:42-47</ref>፤ <ref loc="LUK 23:50-56">ሉቃ. 23:50-56</ref>፤ <ref loc="JHN 19:38-42">ዋሐ. 19:38-42</ref></char></note> <verse eid="ACT 13:29"/><verse number="30" style="v" sid="ACT 13:30"/>የዝን ጾዚ Ꮉይቆፓ የሱሳ ደንዳ። <verse eid="ACT 13:30"/><verse number="31" style="v" sid="ACT 13:31"/>ይንፓ ማቂ፥ ኤ ፋራ ጋልላፓ የሩሳላመ ይእዱንስ ጋማ ቃማ በንትዳ። ኡን Ꮉተ ኤ ባዝ አሱንስ ማርክነ።<note caller="-" style="x"><char style="xo" closed="false">13:31 </char><char style="xt" closed="false"><ref loc="ACT 1:3">ሐዋ. 1:3</ref></char></note><verse eid="ACT 13:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="ACT 13:32"/>«ጾዚ ኑ አዱንስ እንጎዳ ጋይደ ዎንገለ ኑኒ ይንትስ ኦህነ። <verse eid="ACT 13:32"/><verse number="33" style="v" sid="ACT 13:33"/>ዳዉተ ፋ ማዝሙረ ማጻፍተ ላምእን ዞፋንተ፥</para>
+  <para style="q1" vid="ACT 13:33">« ‹ኔኒ፥ ታ ናአያ፥</para>
+  <para style="q2" vid="ACT 13:33">ታ Ꮉይኖ ነና የልዳ›</para>
+  <para style="m" vid="ACT 13:33">ጋእንት ጻፍንትደ የሱሳ፥ ጾዚ Ꮉይቆፓ ደን ኑ ማይዙንስ እንጎዳ ጋይዳኖ ኑስ ኡን ናኡንስ ፎልዳ።<note caller="-" style="x"><char style="xo" closed="false">13:33 </char><char style="xt" closed="false"><ref loc="PSA 2:7">ማዝ. 2:7</ref></char></note> <verse eid="ACT 13:33"/><verse number="34" style="v" sid="ACT 13:34"/>ኤ ዎቃመ ጋር ጾዚ Ꮉይቆፓ ኤዛ ደንተ ኤርሶደስ፥</para>
+  <para style="q1" vid="ACT 13:34">« ‹ታኒ ዳዉተስ እንጎዳ ጋይደ</para>
+  <para style="q2" vid="ACT 13:34">አማንንትደ ጌሽ አንጆ ይንትስ እንጎዳ› ያጋእ ኦህዳ።<note caller="-" style="x"><char style="xo" closed="false">13:34 </char><char style="xt" closed="false"><ref loc="ISA 55:3">ኢሳ. 55:3</ref></char></note><verse eid="ACT 13:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="ACT 13:35"/>«ይኒ ግሾ፥ ማዝሙረ ማጻፍተ መለ በሳ ማህ፥</para>
+  <para style="q1" vid="ACT 13:35">« ‹ነ ጌሽዘ አህቶ ዎቂዞስ› ጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">13:35 </char><char style="xt" closed="false"><ref loc="PSA 16:10">ማዝ. 16:10</ref></char></note><verse eid="ACT 13:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="ACT 13:36"/>«ዳዉተ ፋ ዎደ ጾዘ ቆፍቶ ፎልዳንፓ ማቂ Ꮉይቂ ፋ አዱንራ ሞግንቲ ዎቂዳ። <verse eid="ACT 13:36"/><verse number="37" style="v" sid="ACT 13:37"/>የዝን ጾዚ Ꮉይቆፓ ደንዳይ ዎቂካያ።<verse eid="ACT 13:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="ACT 13:38"/>«ይኒ ግሾ፥ ታ እሹን፥ ናጋራ አሽዘ የሱሳ ባጋር ቲን ይንትስ ኦህንትዳኖ ኤሮተ። ሙሴ ህግታ ናጋራፓ ጽልሳደስ ዳንዳኦስ። <verse eid="ACT 13:38"/><verse number="39" style="v" sid="ACT 13:39"/>የዝን የሱሳ አማንዘ ኡቡን ናጋራፓ ጽላነ። <verse eid="ACT 13:39"/><verse number="40" style="v" sid="ACT 13:40"/>ይኒ ግሾ፥ ናቡን ጋይዳና ይንታና የላመ ፋና ናግንቶተ።<verse eid="ACT 13:40"/></para>
+  <para style="q1">
+    <verse number="41" style="v" sid="ACT 13:41"/>« ‹ጾዚ ጋይደባዝ ለቂዙን! ቦኦተ!</para>
+  <para style="q2" vid="ACT 13:41">ጋማ ቆፖተ! ቦተ!</para>
+  <para style="q1" vid="ACT 13:41">ኦደን ኦህን፥ ይን አማኖሰ ኦቻ</para>
+  <para style="q2" vid="ACT 13:41">ታ ይን ዎድተ ኦቾዳ› » ያጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">13:41 </char><char style="xt" closed="false"><ref loc="HEB 1:5">እብ. 1:5</ref></char></note><verse eid="ACT 13:41"/></para>
+  <para style="p">
+    <verse number="42" style="v" sid="ACT 13:42"/>ጳዉሎሳን ባርናባሳን አይሁደ ዎሳ ኬፓ ከሳደራ፥ ካልዘ ሳምባታ ይኖ ጉጂ ኦሆደ ጋር አሱን ኡንታና ዎስዳ። <verse eid="ACT 13:42"/><verse number="43" style="v" sid="ACT 13:43"/>ሺቅታ ላንትዳንፓ ማቂ ጋማ አይሁዱንን አይሁዱን አማንተ ገሊ ጾዝ ጎይንዘ ጋሙን ጳዉሎሳን ባርናባሳን ካልዳ። አማንዱን ጾዘ አ ኬሃትተ ምን የሳደ ጋር ኡንታና ዞርዳ።<verse eid="ACT 13:43"/></para>
+  <para style="p">
+    <verse number="44" style="v" sid="ACT 13:44"/>ላምእን ሳምባታ ካታማ የዘ አሱንፓ አትደ ባያ ያጋዉደ ዎንስ ጾዘ ቃላ ስኦደስ ሺቅዳ። <verse eid="ACT 13:44"/><verse number="45" style="v" sid="ACT 13:45"/>የዝን አይሁዱን ጋማ አሱንና በኤዘ ዎደ ጳዉሎሳ አንንቲ ኤ ኦህቶ እጺ ኤዛ ጫዥዳ።<verse eid="ACT 13:45"/></para>
+  <para style="p">
+    <verse number="46" style="v" sid="ACT 13:46"/>ጳዉሎሳን ባርናባሳን ዣሽትካይዛራ፥ «ጾዘ ቃልታ ቲን ይንትስ ኦህንቶደስ ቤዛነ። የዝን ይን ቃላ እጺ መዽና ደኦ ኤኮደስ ኑስ ቤዞስ ጋእ ይን፥ ይን ኦምተ ፍርድደ ግሾ ይኬ ኑኒ አይሁደ ማቆሱንጎ ማቃዳ። <verse eid="ACT 13:46"/><verse number="47" style="v" sid="ACT 13:47"/>አኮስ ጋይኮ ላ፥</para>
+  <para style="q1" vid="ACT 13:47">« ‹አላመ ኩሙታ ነ ባጋራ አቶደ ጋር፥</para>
+  <para style="q2" vid="ACT 13:47">ታ ነና አይሁደ ማቆሰ አሱንስ ፎኦ ማህዳ› ጋእ ኑና ኪትዳ» ጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">13:47 </char><char style="xt" closed="false"><ref loc="ISA 42:6">ኢሳ. 42:6</ref>፤ <ref loc="ISA 49:6">49:6</ref></char></note><verse eid="ACT 13:47"/></para>
+  <para style="p">
+    <verse number="48" style="v" sid="ACT 13:48"/>አይሁደ ማቆሱን ይኖ ስእደ ዎደ ኡፋይት ጾዘ ቃላ ቦንችዳ። ማህ መዽና ደኦስ ዶርንትደ ኡባ አማንዳ።<verse eid="ACT 13:48"/></para>
+  <para style="p">
+    <verse number="49" style="v" sid="ACT 13:49"/>ላ ቃልታ ይና ሳእቶ ኡባ የልዳ። <verse eid="ACT 13:49"/><verse number="50" style="v" sid="ACT 13:50"/>የዝን አይሁዱን፥ አይሁደ ማቆሰ ጾዝ ጎይንዘ ቦንችንትደ ማቹንናን ካታማ የዘ ዳማ አሱንና ጳዉሎሳላን ባርናባሳላን ደንዳ። የን አሱን ኡንታና ባይኤ አይኪ ፋ ሳእትፓ ከስዳ። <verse eid="ACT 13:50"/><verse number="51" style="v" sid="ACT 13:51"/>የዝን ጳዉሎሳራን ባርናባሳራን እጽዙንስ ማላ ማቃደ ጋር ፋ ቶህትፓ ጹራ ፍጺ እቆንዮነ ካታማ ቅትዳ።<note caller="-" style="x"><char style="xo" closed="false">13:51 </char><char style="xt" closed="false"><ref loc="MAT 10:14">ማቶ. 10:14</ref>፤ <ref loc="MRK 6:11">ማር. 6:11</ref>፤ <ref loc="LUK 9:5">ሉቃ. 9:5</ref>፤ <ref loc="LUK 10:11">10:11</ref></char></note> <verse eid="ACT 13:51"/><verse number="52" style="v" sid="ACT 13:52"/>ማህ አንጾክያ የዘ አማንዙን ጌሽ አያናራን ኡፋይሳራ ኩምዳ።<verse eid="ACT 13:52"/></para>
+  <chapter eid="ACT 13"/>
+  <chapter number="14" style="c" sid="ACT 14"/>
+  <para style="s1">ጳዉሎሳን ባርናባሳን እቆንዮነ ቅትዳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 14:1"/>ካሰንጋራ፥ ጳዉሎሳን ባርናባሳን እቆንዮነን አይሁዱን ዎሳ ኬ ገሊ ጋማ አይሁዱንን አይሁደ ማቆሱን አማኖደ ዎደስ ቃላ ኦህዳ። <verse eid="ACT 14:1"/><verse number="2" style="v" sid="ACT 14:2"/>የዝን አማንካይዘ አይሁዱን፥ አይሁደ ማቆሱን ዎዝንቶ ላሚ እሹንላ ደንዳ። <verse eid="ACT 14:2"/><verse number="3" style="v" sid="ACT 14:3"/>ሐዋሩን እዘ ጋማ ዎደ ጋምእዳ። ኡን ዣሽትካይዛራ ላ ባዝ ኦህዳ። ላ ማላን ክሌ ባዝ ኡን ኦቾደ ጋር ኡንትስ አደት ዎልቃ እንግ ፋ አ ኬሃት ቃልታ ቱሮ ማቅዛኖ ቤዝዳ። <verse eid="ACT 14:3"/><verse number="4" style="v" sid="ACT 14:4"/>የዝን የን ካታማ አሱን ሻክንት፥ ባግታ አይሁዱንራ ባግታ ማህ ሐዋሩንራ ማቅዳ።<verse eid="ACT 14:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 14:5"/>አይሁደ ማቆሱንን አይሁዱንን ፋ Ꮉላቁንራ ዎላ ማቂ ሐዋሩንና ቆሆደስን ሹቻራ ጎደስ ኮይዳ። <verse eid="ACT 14:5"/><verse number="6" style="v" sid="ACT 14:6"/>ሐዋሩን ይኖ ኤሪ፥ ልስጥራን ደርበ ጋእንትዘ ልቃኦንያ ካታሙን ግዳን ኡን ጉታ የዘ ሳአ አችንትዳ። <verse eid="ACT 14:6"/><verse number="7" style="v" sid="ACT 14:7"/>እዘ ዎንገለ ኦህዳ።<verse eid="ACT 14:7"/></para>
+  <para style="s1">ጳዉሎሳራን ባርናባሳራ ልስጥራን ዳርበን</para>
+  <para style="p">
+    <verse number="8" style="v" sid="ACT 14:8"/>የልንትዳንፓ አይኪ ላምእ ቶህታ ዎቢን የ ኤሮሰ ፈቲ አስ ልስጥራ የነ። <verse eid="ACT 14:8"/><verse number="9" style="v" sid="ACT 14:9"/>የ አይ ጳዉሎሳ ኦሆደራ በቲ ስእነ። ጳዉሎሳ ኤዛ ዳኪ በእዘ ዎደ ፋጾደስ ኤስ አማኖ የዛኖ ብእ፥ <verse eid="ACT 14:9"/><verse number="10" style="v" sid="ACT 14:10"/>ፋ ቃልቶ ቅ ዪዚ፥ «ሞሊ ነ ቶህትራ ኤቆ» ያጋይዳ። ዬዝን፥ ዶሊ ደንዲ ኤቂ የ አይክዳ።<verse eid="ACT 14:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 14:11"/>ጳዉሎሳ ኦችዳኖ አሱን ብእ ፋ ቃልቶ ቅ ዪዚ ልቃኦንያ ዶናራ፥ «ኤቁን አስ አዚ ኑጎ ዎዳ» ያጋይዳ። <verse eid="ACT 14:11"/><verse number="12" style="v" sid="ACT 14:12"/>ባርናባሳ፥ «ድያ» ጋእ፥ ጳዉሎሳ ኦህዘ ዋንዘ ግሾ ኤዛ፥ «ሄርሜነ» ጋእ ሱንዳ። <verse eid="ACT 14:12"/><verse number="13" style="v" sid="ACT 14:13"/>ካታማፓ ጋጻ የዘ ድያ ጎይኖ ኬ ካህንዘን አሱን ኮርማን ቦንቾ ፉ ሐዋሩንስ ዣርሾደስ ኮይ ካታማ ፉር ክእዳ።<verse eid="ACT 14:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 14:14"/>የዝን ባርናባሳን ጳዉሎሳን ይኖ ስኤዘ ዎደ ኡን ኦቾደስ ቆፕዳኖ እጺ ፋ ማእቶ ፌዳ። አሱን ግዳ ዎጺ ገሊ፥ <verse eid="ACT 14:14"/><verse number="15" style="v" sid="ACT 14:15"/>ፋ ቃልቶ ቅ ዪዚ፥ «አሱን፥ Ꮉኖ አኮስ ኦቼተ? ኑንን ይን ፋና አስ። Ꮉና ፋሰ ባዝትፓ ሳሎን ሳአን፥ አባ ኡን ግዳ የዘ ኡባባዝቶ መደ ደኦ ጾዘጎ ይን ማቃደ ጋር ይንትስ ኑኒ ዎንገለ ኦህነ።<note caller="-" style="x"><char style="xo" closed="false">14:15 </char><char style="xt" closed="false"><ref loc="EXO 20:11">ከዘ 20:11</ref>፤ <ref loc="PSA 146:6">ማዝ. 146:6</ref></char></note> <verse eid="ACT 14:15"/><verse number="16" style="v" sid="ACT 14:16"/>ኤ ዛጋ አሱንና ፋ ኦግቶ የደ ጋር ዳኪ አሽዳ። <verse eid="ACT 14:16"/><verse number="17" style="v" sid="ACT 14:17"/>የዝን እራ ሳሎፓ ቡክዝዳ፥ ካን ዎደር ዎደር እንግዳ፥ ካ እንግ ይንታና ጋማ ኡፋይስዳ፥ የይዝ ይንትስ ሎኦ ባዝ ኦቺ ፋስ ማርካ ብስካያ» ያጋይዳ። <verse eid="ACT 14:17"/><verse number="18" style="v" sid="ACT 14:18"/>ሐዋሩን ይኖ ጋእ ፋስ አሱን ዣርሻመ ጋር ዋይ ካይዳ።<verse eid="ACT 14:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 14:19"/>አንጾክያፓን እቆንዮነፓን ይእደ አይሁዱን፥ አሱንና ፋ ዛላ ማህ ሹቻራ ጳዉሎሳ ግዳ። ኡንትስ ኤ Ꮉይቂደ ጋር አዝን ካታማፓ ጋጻ ጎቺ ካንግ ኦልዳ። <verse eid="ACT 14:19"/><verse number="20" style="v" sid="ACT 14:20"/>የዝን አማንዙን ይእ፥ ኤ ካለ ዉቲ ኤቀዝን ኤ ደንዲ ካታማ ገልዳ። ዎንትስት ዎደ ባርናባሳራ ዎላ ዳርበ ቅትዳ።<verse eid="ACT 14:20"/></para>
+  <para style="s1">ጳዉሎሳን ባርናባሳን ሶርያ አንጾክያ ማቅዳ</para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 14:21"/>ኡን ዳርበ ካታማ ዎንገለ ኦህ ጋሙንና አማንዙንና ማህዳንፕ ሱባ ልስጥራ፥ እቆንዮነን ጵስድያ አንጾክያ ማቅዳ። <verse eid="ACT 14:21"/><verse number="22" style="v" sid="ACT 14:22"/>እዘ አማንዙን አማኖራ ሚንግ የሳደ ጋር ዞሪ፥ «ጾዘ ካእቱሞ ገሎደስ ኑኒ ጋማ ማ ኤኮደስ ቤዛነ» ያጋእ ታማርስዳ። <verse eid="ACT 14:22"/><verse number="23" style="v" sid="ACT 14:23"/>ማህ ዎሳ ኬስ ኦምተ ኦምተ ጭሙንና ዶርዳ። ጾምዳንፓን ዎስዳንፓ ማቂ ኡን አማንዘ ላስ ኡን Ꮉዳርቶ እንግዳ።<verse eid="ACT 14:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 14:24"/>ጵስድያ ሳአ ካን አ ጵንፍልያ ቅትዳ። <verse eid="ACT 14:24"/><verse number="25" style="v" sid="ACT 14:25"/>ጰርገን ቃላ ኦህዳንፓ ማቂ አጣልያ ቅትዳ። <verse eid="ACT 14:25"/><verse number="26" style="v" sid="ACT 14:26"/>ኢፓ ኡን ፋ ፎልደ ኦችትስ ጾዘ አ ኬሃትትስ ኡንትስ Ꮉዳራ እንግደ አንጾክያ ማርካበራ ማቅዳ።<verse eid="ACT 14:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 14:27"/>አንጾክያ የልደ ዎደ ዎሳ ኬ አሱንና ሺሺ ጾዚ ኡንታራ ኦችደ ኦችቶ ኡባ አይሁደ ማቆሰ አሱን አማኖደ ጋር ኡንትስ ዋይዝ ፉር ቡገዛኮ ኦህዳ። <verse eid="ACT 14:27"/><verse number="28" style="v" sid="ACT 14:28"/>ኤዝን አማንዙንራ ጋማ ዎደ ጋምእዳ።<verse eid="ACT 14:28"/></para>
+  <chapter eid="ACT 14"/>
+  <chapter number="15" style="c" sid="ACT 15"/>
+  <para style="s1">የሩሳላመ ሺቆ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 15:1"/>ፈቲ ፈቲ አሱን ይሁዳፓ አንጾክያ Ꮉንግ፥ «ሙሴ ዎግት ጋር ይን ጋራዝንታንጽኮ አቶደስ ዳንዳኦስ» ጋእ አማንዙንና ታማርሰ አይክዳ።<note caller="-" style="x"><char style="xo" closed="false">15:1 </char><char style="xt" closed="false"><ref loc="LEV 12:3">ሌዌ 12:3</ref></char></note> <verse eid="ACT 15:1"/><verse number="2" style="v" sid="ACT 15:2"/>ይና ጳዉሎሳን ባርናባሳን ኡንታራ ጋማ ላሎደ ጋራን ካጭንቶደ ጋር ዪዝዳ። ይኒ ግሾ፥ አንጾክያ የዘ ፈቲ ፈቲ አሱን ጳዉሎሳራን ባርናባሳራ የሩሳላመ Ꮉንግ ሐዋሩንራ ጭሙንራ የልንት ይና ኦህቶ ብሎደ ጋር ቆፋ አጭንትዳ።<verse eid="ACT 15:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="ACT 15:3"/>ዎሳ ኬታ ኡንታና ኪትን ቅትዳ። ኡን ፍንቀራን ሳማራራ አተራ አይሁደ ማቆሱን ጾዛጎ ዋይዝ ማቀዛኮ ኦህዳ። ይና አማንዙንና ኡባ ጋማ ኡፋይስዳ። <verse eid="ACT 15:3"/><verse number="4" style="v" sid="ACT 15:4"/>ኡን የሩሳላመ የልደ ዎደ ዎሳ ኬታ፥ ሐዋሩንን ጭሙን ኡንታና ሞክዳ። ጾዚ ኡንታራ ኦችዳኖ ኡባ ኦህዳ። <verse eid="ACT 15:4"/><verse number="5" style="v" sid="ACT 15:5"/>የዝን ፋርሳዉን ባጋፓ አማንደ ፈቲ ፈቲ አሱን ደንዲ ኤቂ፥ «አይሁደ ማቆሰ አማንዘ አሱን ጋራዝንቶደስን ሙሴ ህግቶ ናጎደስ ቤዛነ» ያጋይዳ።<verse eid="ACT 15:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 15:6"/>ሐዋሩንን ጭሙን ይኖ ዞርንቶደስ ሺቅዳ። <verse eid="ACT 15:6"/><verse number="7" style="v" sid="ACT 15:7"/>ጋማ ኦህንትዳንፓ ማቂ፥ ጴጥሮሳ ደንዲ ኤቂ፥ «ታ እሹን፥ አይሁደ ማቆሱን ዎንገለ ቃላ ታ ዶናፓ ስእ አማኖደ ጋር ቲን ታና ጾዚ ይን ግዳፓ ዶርዳኖ ይን ኤራነ።<note caller="-" style="x"><char style="xo" closed="false">15:7 </char><char style="xt" closed="false"><ref loc="ACT 10:1-43">ሐዋ. 10:1-43</ref></char></note> <verse eid="ACT 15:7"/><verse number="8" style="v" sid="ACT 15:8"/>አስ ዎዝና ኤርዘ ጾዘ ጌሽ አያና ኑስ እንግዳንጋር ኡንትስን እንግ ቱርዝዳ።<note caller="-" style="x"><char style="xo" closed="false">15:8 </char><char style="xt" closed="false"><ref loc="ACT 2:4">ሐዋ. 2:4</ref>፤ <ref loc="ACT 10:44">10:44</ref></char></note> <verse eid="ACT 15:8"/><verse number="9" style="v" sid="ACT 15:9"/>አማኖራ ኡን ዎዝንቶ ጌሽደ ግሾ ኑ ግዳን ኡን ግዳ ሻኮ ጋድካያ። <verse eid="ACT 15:9"/><verse number="10" style="v" sid="ACT 15:10"/>ይኒ ግሾ፥ ኑ አዱንን ኑኒ ቶኮደስ ዳንዳኦስ ቃምባራ አማንዙን ጌታላ ጋዲ Ꮉተ አኮስ ጾዝ ፋታነተ? <verse eid="ACT 15:10"/><verse number="11" style="v" sid="ACT 15:11"/>ላ የሱስ አ ኬሃትተ ኡን አትዳን ጋራ ኑንን አትዳኖ አማናነ» ያጋይዳ።<verse eid="ACT 15:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 15:12"/>አሱን ስእ ጋእ፥ ባርናባሳን ጳዉሎሳ አይሁደ ማቆሰ አሱን ግዳ ኡን ባጋራ ጾዚ ኦችደ ማላን ክሌ ባዝ ኡባ ኦሆደራ ስእነ።<verse eid="ACT 15:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 15:13"/>ኡን ኦህ Ꮉስዳንፓ ማቂ ያይቆባ፥ «እሹን፥ ታ ጋዛኖ ስኦተ። <verse eid="ACT 15:13"/><verse number="14" style="v" sid="ACT 15:14"/>ጾዚ አይሁደ ማቆሱን ግዳ ፋ ፋ ሱንቶ ጼግዘ ዎርዣ ዶሮደስ ኮይ ኡንታና ቲኖ ዋይዝ ቆፐዛኮ ስሞና ኦህዳ። <verse eid="ACT 15:14"/><verse number="15" style="v" sid="ACT 15:15"/>ናቡን ቃልታ Ꮉንራ ጊጋነ። ጌሽ ማጻፍተ፥<verse eid="ACT 15:15"/></para>
+  <para style="q1">
+    <verse number="16" style="v" sid="ACT 15:16"/>« ‹Ꮉንፓ ሱባ፥ ታ ማቃዳ፥</para>
+  <para style="q2" vid="ACT 15:16">ዎድደ ዳዉተ ኬቶ ኬጾዳ።<note caller="-" style="x"><char style="xo" closed="false">15:16-18 </char><char style="xt" closed="false"><ref loc="AMO 9:11-12">አሞ. 9:11-12</ref></char></note></para>
+  <para style="q2" vid="ACT 15:16">ዉልእንትደ ኬቶን ማህ ኤሶዳ።<verse eid="ACT 15:16"/></para>
+  <para style="q1">
+    <verse number="17-18" style="v" sid="ACT 15:17-18"/>አትደ አሱን ኡባ ታጎ የኦዳ፥</para>
+  <para style="q2" vid="ACT 15:17-18">ታ ጼግደ አይሁደ ማቆሰ አሱን ኡባ ታና ኮዮዳ። ዛጋፓ አይኪ ይና ኤርንቶደ ፋና ዪዝደ</para>
+  <para style="q2" vid="ACT 15:17-18">ላ፥ ታ ኦህነ› ያጋይዳ።<verse eid="ACT 15:17-18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 15:19"/>«ይኒ ግሾ፥ ታ ቆፍታ ጾዛጎ ማቅዘ አይሁደ ማቆሱንና ኑኒ ዋይሳኮ ሎኦ። <verse eid="ACT 15:19"/><verse number="20" style="v" sid="ACT 15:20"/>የዝን ኡን ኤቃስ ዣርሽንቲ ቱንደባዝ ማአመ ጋር፥ ኦላላመ ጋር፥ ባዉታ ማአመ ጋራን ሱ ኡዣመ ጋራን ማአመ ጋር ኡንትስ ኑኒ ዳብዳበ ጻፎደስ ቤዛነ።<note caller="-" style="x"><char style="xo" closed="false">15:20 </char><char style="xt" closed="false"><ref loc="EXO 34:15-17">ከዘ 34:15-17</ref>፤ <ref loc="LEV 17:10-16">ሌዌ 17:10-16</ref>፤ <ref loc="LEV 18:6-23">18:6-23</ref></char></note> <verse eid="ACT 15:20"/><verse number="21" style="v" sid="ACT 15:21"/>ሙሴ ህገ ዛጋፓ አይኪ ሳምባታ ሳምባታ አይሁደ ዎሳ ኬ ናባብንቲ ካታማ ኡባ ሳባክንታነ» ያጋይዳ።<verse eid="ACT 15:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 15:22"/>ይንፓ ማቂ፥ ሐዋሩንን ጭሙን ዎሳ ኬ አስ ኡቡንራ ፈትላ ፋ ግዳ ፋ ኤራ አሱንና ዶሪ ጳዉሎሳራን ባርናባሳራ አንጾክያ ዳኮደስ ቆፋ አጭዳ። ጋማ ኤርንትደ ካልዙንና ባርሳባሳ ጋእንትዘ ይሁዳን ስላሰን ዶርዳ። <verse eid="ACT 15:22"/><verse number="23" style="v" sid="ACT 15:23"/>Ꮉንጋራ ጋእንት ዳብዳበ ኡንታላ ዳክዳ፦ «ኑ ሐዋሩንን ጭሙን ይን እሹን፥ አንጾክያ፥ ሶርያ ክልቅያ የዘ አይሁደ ማቆሰ እሹንስ ኑ ሳሮት ኪትዳ።<verse eid="ACT 15:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 15:24"/>«ኑኒ ኪትካይዘ አሱን ኑ ግዳፓ Ꮉንግ፥ ‹ይን ጋራዝንቶደስን ህግቶ ናጎደስ ቤዛነ› ጋእ፥ ይንታና ዋይዳኖን ዥልዝዳኖ ስእዳ። <verse eid="ACT 15:24"/><verse number="25" style="v" sid="ACT 15:25"/>ኑኒ ካዽዘ ባርናባሳን ጳዉሎሳ ዶርንትደ አሱንራ ዎላ ይንታጎ ዳኮደስ ፈቲ ዎዝናራ ኑ ቆፍቶ አጭዳ። <verse eid="ACT 15:25"/><verse number="26" style="v" sid="ACT 15:26"/>ኡን ኑ ላ የሱስ ክርስቶሳ ግሾ ፋ ደእቶ አ እንግዳ። <verse eid="ACT 15:26"/><verse number="27" style="v" sid="ACT 15:27"/>ይኒ ግሾ፥ ኑ ጻፍዳኖ ኡን ፋ ዶናራ ጉጂ ይንትስ ኦሆደ ፋና ይሁዳን ስላሰን ኪትዳ።<verse eid="ACT 15:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="ACT 15:28"/>«Ꮉና ኮሽዙንፕ አትን መለ ቶፎ ይንታና ቶሳመ ጋር ኑንን ጌሽ አያና ኦህቶ አጭዳ። <verse eid="ACT 15:28"/><verse number="29" style="v" sid="ACT 15:29"/>ኤቃስ ዣርሽንቲ ቱንደባዝ ሙእፐተ፥ ሱ ኡዥፐተ፥ ባዉታ ሙእፐተ፥ ኦላልፐተ። Ꮉን ኡባፓ ይን፥ ይን ኦምቶ ናግኮ ሎኦ ባዝ ኦቻነ። ሎኦ የዞተ» ያጋይዳ።<verse eid="ACT 15:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 15:30"/>ይኒ ግሾ፥ ኪትንትዱን ሞይዝንቲ አንጾክያ ቅቲ አማንዘ አሱንና ሺሺ፥ ዳብዳቢዛ እንግዳ። <verse eid="ACT 15:30"/><verse number="31" style="v" sid="ACT 15:31"/>ኡን የ ምንዘ ዳብዳቢዛ ናባብደ ዎደ ኡፋይትዳ። <verse eid="ACT 15:31"/><verse number="32" style="v" sid="ACT 15:32"/>ማህ ይሁዳን ስላሰን ፋ ኦምተ ናቡንና ማቅደ ግሾ አማንዙንና ሎይ ዞሪ ምንዳ። <verse eid="ACT 15:32"/><verse number="33" style="v" sid="ACT 15:33"/>ኡን አንጾክያ ኤራ ዎደ በትዳንፓ ሱባ አማንዘ እሹን ሎይ ሞይዝን ፋና ኪተዙንጎ ማቅዳ። <verse eid="ACT 15:33"/><verse number="34" style="v" sid="ACT 15:34"/>[የዝን ስላሰን እዘ አቶደስ ኮይዳ።]<note caller="+" style="f"><char style="fr" closed="false">15:34 </char><char style="ft" closed="false">ፈቲ ፈቲ ኩሸራ ጻፍደ ማጻፍተ ፋይዶ 34 ባያ። </char></note><verse eid="ACT 15:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="ACT 15:35"/>ማህ ጳዉሎሳን ባርናባሳን መለ ጋማ አሱንራ ዎላ ላ ቃላ ታማርስተራ ዎንገለ ኦህተራ አንጾክያ ጋምእዳ።<verse eid="ACT 15:35"/></para>
+  <para style="s1">ጳዉሎሳን ባርናባሳን ሻክንትዳ</para>
+  <para style="p">
+    <verse number="36" style="v" sid="ACT 15:36"/>ኤራ ቃማፓ ሱባ ጳዉሎሳ ባርናባሳጎ፥ «ኑ ላ ቃላ ኦህደ ካታምተ ኡባ አማንዙን ዋይዝ የዛኮ ሱባ ማቅተራ በአዳ» ያጋይዳ። <verse eid="ACT 15:36"/><verse number="37" style="v" sid="ACT 15:37"/>ባርናባሳ ማርቆሳ ጋእንትዘ ዋሐንሳ ፋራ Ꮉማደ ፋና ኮይዳ። <verse eid="ACT 15:37"/><verse number="38" style="v" sid="ACT 15:38"/>የዝን ጳዉሎሳ ማርቆሳ ፋራ Ꮉማደ ፋና ኮይካያ። አኮስ ጋይኮ፥ ኤ ጵንፍልያ ሻክንት ኡንታራ ኦቾደስ Ꮉንግካያ።<note caller="-" style="x"><char style="xo" closed="false">15:38 </char><char style="xt" closed="false"><ref loc="ACT 13:13">ሐዋ. 13:13</ref></char></note> <verse eid="ACT 15:38"/><verse number="39" style="v" sid="ACT 15:39"/>ኡን ግዳ ኢታ ካች ከዝን ፈታይ ፈታይፓ ሻክንትዳ። ባርናባሳ ማርቆሳ ኤኪ ማርካበራ ቆጵሮሳ ቅትዳ። <verse eid="ACT 15:39"/><verse number="40" style="v" sid="ACT 15:40"/>የዝን ጳዉሎሳ ስላሰ ዶርዳ፤ አማንዙን ጳዉሎሳ ጾዘ አ ኬሃት Ꮉዳርቶ እንግዳንፓ ማቂ ኤ ኬዚ ቅትዳ። <verse eid="ACT 15:40"/><verse number="41" style="v" sid="ACT 15:41"/>የይዝ፥ ዎሳ ኬ ምንተራ ሶርያራን ክልቅያራን ዉትዳ።<verse eid="ACT 15:41"/></para>
+  <chapter eid="ACT 15"/>
+  <chapter number="16" style="c" sid="ACT 16"/>
+  <para style="s1">ጢሞትዮሳ ጳዉሎሳራን ስላሰራ የልንትዳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 16:1"/>ጳዉሎሳ ዳርበን ልስጥራን ቅትዳ። እዘ ጢሞትዮሳ ጋዘ አማንዘ አስ የነ። ኤ እንታ አማንዘ አይሁደ ማቾ፥ ኤ አዳይ ግርኬ አስ። <verse eid="ACT 16:1"/><verse number="2" style="v" sid="ACT 16:2"/>ልስጥራን እቆንዮነ የዘ አማንዙን ጢሞትዮሳ ባዝ ሎይ ማርክዳ። <verse eid="ACT 16:2"/><verse number="3" style="v" sid="ACT 16:3"/>ጳዉሎሳ ጢሞትዮሳ ፋራ ኤኮደስ ኮይ፥ ኤ አዳይ ግርኬ አስ ማቅዳኖ ይና በስተ የዘ አይሁደ ኡቡን ኤርዘ ግሾ ኤዛ ጋራዝዳ። <verse eid="ACT 16:3"/><verse number="4" style="v" sid="ACT 16:4"/>ኡን ካታማራ አተር የሩሳላመ የዘ ሐዋሩንን ጭሙንን አጭደ ቆፍቶ አማንዙን ናጎደ ጋር ኡንትስ ኦህተራ አዳ። <verse eid="ACT 16:4"/><verse number="5" style="v" sid="ACT 16:5"/>ይኒ ግሾ፥ ዎሳ ኬታ አማኖራ ሚንግተ፥ ፋይዶራን ቃምተ ቃምተ ጋንግተር Ꮉንግዳ።<verse eid="ACT 16:5"/></para>
+  <para style="s1">ጳዉሎሳ መቀዶንያ ቅቶደ ጋር ጼግንትዳ</para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 16:6"/>እስያ ግዳ ቃላ ኦሃመ ጋር ጌሽ አያና ኡንታና ካይደ ግሾ ጵርገራን ጋላትያ ሳአራ አዳ። <verse eid="ACT 16:6"/><verse number="7" style="v" sid="ACT 16:7"/>ኡን ሚስያ ጋጻ የልደ ዎደ ብቲንያ ቅቶደስ ቆፕዳ የሻ። የዝን የሱሳ አያና ኡንታና ካይዳ። <verse eid="ACT 16:7"/><verse number="8" style="v" sid="ACT 16:8"/>ይኒ ግሾ፥ ኡን ሚስያ ካለራ አተራ ጢሮአዳ ዎዳ። <verse eid="ACT 16:8"/><verse number="9" style="v" sid="ACT 16:9"/>ጳዉሎሳ ቃማ ቆንጭራ ፈቲ መቀዶንያ አስ ፋጎ፥ «መቀዶንያ ፊንግ ኑና ማዶያ» ጋእ ኤቂ ዎሶደራ ብእዳ። <verse eid="ACT 16:9"/><verse number="10" style="v" sid="ACT 16:10"/>ቆንጭ ኤ ብእዳንፓ ማቂ ኑ መቀዶንያ ቅቶደስ ኮይዳ። ይናን፥ ዎንገለ እዘ የዘ አሱንስ ኦሆደስ ጾዚ ኑና ጼግዳ አዝዳ።<verse eid="ACT 16:10"/></para>
+  <para style="s1">ሊድያ ክርስቶሳ አማንዳ</para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 16:11"/>ጢሮአዳፓ ደንዲ ማርካበ ግዳ ገሊ ሳሞትራቀ Ꮉንግደ፥ ዎንትስት ዎደ ናጱለ Ꮉንግዳ። <verse eid="ACT 16:11"/><verse number="12" style="v" sid="ACT 16:12"/>እዝፓ ደንዲ መቀዶንያ ሳአ የዘ ፍልጵስዩሳ ጋእንትዘ ዎራዳ ካታማ Ꮉንግዳ። ማህ ፍልጵስዩሳ ሮሙን አህዘ ካታማ። ኑ ይና ካታምተ ኤራ ዎደ በትዳ።<verse eid="ACT 16:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 16:13"/>ሳምባታ ዎደ ካታማፓ ጋጻ ቦርካ ዶና አይሁዱን ጾዘ ዎስዘ በሲ የዛኖ ቆፒ እዘ Ꮉንግዳ። ይና በስተ ሺቅደ ማቹንስ ቃላ ኦህዳ።<verse eid="ACT 16:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 16:14"/>ኑና ስእዘ አሱንፓ ፈቲ ሊድያ ጋእንትዘ ትያጥሮነ ካታማፓ ይእደ፥ ጾዝ አማንዘ ዞቆ ማኦ ዛልእዘ፥ ማችታ የነ። ጳዉሎሳ ኦህዛኖ እዛ ስኦደ ጋር ላ እ ዎዝንቶ ቡግዳ። <verse eid="ACT 16:14"/><verse number="15" style="v" sid="ACT 16:15"/>ሊድያ ፋ ካራ አሱንራ ዎላ ጻማቅንትዳንፓ ማቂ ኑጎ፥ «ይን ታና ላ ቱሮ አማንዳ ጋይኮ ታ ካራ ይእ ሸምፖተ» ጋእ ምን ዎስዳ።<verse eid="ACT 16:15"/></para>
+  <para style="s1">ጳዉሎሳን ስላሰን አጭንትዳ</para>
+  <para style="p">
+    <verse number="16" style="v" sid="ACT 16:16"/>ኑ ጾዝ ዎስዘ በስተ Ꮉንጎደራ ኢታ አያና ኢላ አፋ የዚ ማርዘ ፈቲ ዉዱር አርታ ኑራ የልንትዳ። እዛ ማር ጋማ ብራ ፋ ላንስ ከእነ። <verse eid="ACT 16:16"/><verse number="17" style="v" sid="ACT 16:17"/>ጳዉሎሳን ኑናን ካሊ፥ «Ꮉንስ ኡባፓ ካታራ ጾዘ አሩንና! ኡን ይን አቶደ ኦግቶ ኦህዙንና» ጋእ ኡክዳ።<verse eid="ACT 16:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="ACT 16:18"/>ኡባ ዎደ ይኒ ጋር ጋነ። የዝን ጳዉሎሳ ዥል ሱብ ማቂ፥ የ አያንዛ፥ «የሱስ ክርስቶሳ ሱንተ ኢፓ ከዞ» ጋእ ኪትዳ። ኢራ ኢታ አያንዘ ኢፓ ከዝዳ።<verse eid="ACT 16:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 16:19"/>የዝን እ ላን ፋስ ብራ ደንግዘ ኦግታ ብዳኖ ብእ፥ ጳዉሎሳን ስላሰን አይኪ፥ ፍርዳ ኬ ዳይኑን ቲኖ ጎቺ ካንግዳ። <verse eid="ACT 16:19"/><verse number="20" style="v" sid="ACT 16:20"/>ዳይኑን ቲኖ ኡንታና ካንግ፥ «Ꮉንስ አይሁደ አስ ማቂ ኑ ካታማ አሱንና ጋማ ዋይነ። <verse eid="ACT 16:20"/><verse number="21" style="v" sid="ACT 16:21"/>ኑ ሮመ ጋደ አሱን ኤኮደስን ኦቾደስ ዎጋ ማቆሰ ባዝ ታማርሳነ» ጋይዳ።<verse eid="ACT 16:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 16:22"/>አሱን ፈቲ ዛላ ማቂ፥ ጳዉሎሳላን ስላሰላን ደንድዳ። ዳይኑን ኡን ማእቶ ጋሪ ጉፈር ኡንታና ጉዳደ ፋና ኪትዳ። <verse eid="ACT 16:22"/><verse number="23" style="v" sid="ACT 16:23"/>ኡንታና ጋማ Ꮉዳንፓ ሱባ አች ኬ ገልዳ። አች ኬቶ ካፍዛይ ኡንታና ምን ካፎደ ጋር ኪትዳ። <verse eid="ACT 16:23"/><verse number="24" style="v" sid="ACT 16:24"/>አች ኬቶ ካፍዘ ይና ኪቶ ኤኪ፥ ጳዉሎሳን ስላሰን አች ኬትስ ቆልአ ገልዳ። ኡን ቶህቶ ዱራ አጭዳ።<verse eid="ACT 16:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="ACT 16:25"/>የዝን ቃማ ብላሄ ማቅዘ ዎደ ጳዉሎሳራን ስላሰራን ዎስተራን ማዝሙረ የጽተራን ጾዝ ጋላታነ። አች ኬተ የዘ መለ አሱንን ኡን ጋዛኖ ስእነ።<figure style="fig" alt="Paul and Silas in stocks" file="LB00337B.TIF" size="span" ref="16:25">ጳዉሎሳን ስላሰን አች ኬ </figure> <verse eid="ACT 16:25"/><verse number="26" style="v" sid="ACT 16:26"/>ቆፕካይዝን አች ኬት ሳእታ ኤንእንቶደ ዎንስ ሳአ ኤንእዳ። ይና ሳተ ፉርታ ኡባ ቡጉንቲ አትዳ፤ አጭንትደ አሱን ኡቡን ሳንላታ ብልንቲ ዎዳ። <verse eid="ACT 16:26"/><verse number="27" style="v" sid="ACT 16:27"/>አች ኬቶ ካፍዘ ገንቶፓ ባርክደ ዎደ አች ኬት ፉርታ ኡባ ቡጉንትዳኖ ብእ አጭንትደ አሱን ኬሲ ኤኪ ቅትደ ጋር ኣዝን ፋና ዎደስ ማሻ ኤክዳ። <verse eid="ACT 16:27"/><verse number="28" style="v" sid="ACT 16:28"/>የዝን ጳዉሎሳ ፋ ቃልቶ ቅ ዪዚ «ኑ ኡባና Ꮉነ የዘ ግሾ ነ ነና ቆህፐ» ጋይዳ።<verse eid="ACT 16:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="ACT 16:29"/>አች ኬቶ ካፍዘ ጾምፐ ዎሲ ኤኪ ኤልሲ ግዳ ዎጽዳ። ጎቅተራ ጳዉሎሳ ቲኖን ስላሰ ቲኖ ዙግዳ። <verse eid="ACT 16:29"/><verse number="30" style="v" sid="ACT 16:30"/>ኡንታና ባለ ኬሲ፥ «ታ ላን፥ ታ አቶደስ አኮ ኦቾደስ ቤዘ?» ጋይዳ።<verse eid="ACT 16:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="ACT 16:31"/>ጳዉሎሳራን ስላሰራ ኤጎ፥ «ላ የሱስ ክርስቶሳ አማኖ፤ ኔራን ነ ካራ አሱንራን አቶዳ» ጋይዳ። <verse eid="ACT 16:31"/><verse number="32" style="v" sid="ACT 16:32"/>ኡን ኤስን ኤ ካራ የዘ ኡቡንስ ላ ቃላ ኦህዳ። <verse eid="ACT 16:32"/><verse number="33" style="v" sid="ACT 16:33"/>ቃማ ይና ሳተ አች ኬቶ ካፍዘ ኡንታና ካንግ ኡን Ꮉርግዘ በስቶ ሜጭዳ። ኤልሲ ፋ ካራ አስ ኡቡንራ ጻማቅንትዳ። <verse eid="ACT 16:33"/><verse number="34" style="v" sid="ACT 16:34"/>ጳዉሎሳን ስላሰን ፋ ካራ ካንግ ኡንትስ ካ አዳ። ኤ ፋ ካራ አስ ኡቡንራ ጾዝ አማንደ ግሾ ኡፋይትዳ።<verse eid="ACT 16:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="ACT 16:35"/>ሳእታ ዎንትን ዳይኑን፥ «የን አሱንና ብሎ» ያጋእ ፖሊሱንና ኤጎ ኪትዳ። <verse eid="ACT 16:35"/><verse number="36" style="v" sid="ACT 16:36"/>አች ኬቶ ካፍዘ፥ «ይን ብልንቶደ ጋር ዳይኑን ኪትዳ። ይኬ፥ ኬዚ ሳሮ ቅቶተ» ያጋእ ይና ኪቶ ጳዉሎሳስ ኦህዳ።<verse eid="ACT 16:36"/></para>
+  <para style="p">
+    <verse number="37" style="v" sid="ACT 16:37"/>የዝን ጳዉሎሳ የን ፖሊሱንጎ፥ «ኑ ሮመ አስ<note caller="+" style="f"><char style="fr" closed="false">16:37 </char><char style="fk" closed="false">ሮመ አስ፦ </char><char style="ft" closed="false">ጳዉሎሳ ሮመ አስ ያጋእ ፋና ጼግዳና የ ዎደ አይሁደ ሳአ አህዘ ሮመ ካእቱሞ ማቅደ ግሾ። የ ዎደ ሮመ ሳእተ የዘ አሱን ፍርዳ ባይዝን ጋራፍንቶስ። </char></note> ማቃደራ ኡን ኑና ፍርዳ ባይ አስ ቲኖ Ꮉ፥ አች ኬ ኦልዳ። Ꮉተ ኑና አችንት ኬዚ ቅቶ ጋነ? Ꮉኖስ፥ ኡን ፋ ኦምትስ ይእ ኑና ኬሶ» ጋይዳ።<verse eid="ACT 16:37"/></para>
+  <para style="p">
+    <verse number="38" style="v" sid="ACT 16:38"/>ፖሊሱን ዳይኑንስ ይኖ ኦህን፥ ጳዉሎሳራን ስላሰራን ሮመ ሳአ አስ ማቅዳኖ ስእደ ዎደ ዣሽትዳ። <verse eid="ACT 16:38"/><verse number="39" style="v" sid="ACT 16:39"/>ይኒ ግሾ፥ ዳይኑን ይእ ኡንታጎ፥ ኑ ይንታና ቆህዳ ያጋእ ማሮት ኦጭዳ። አች ኬትፓ ባለ ኡንታና ኬሲ፥ ካታማፓ ኬዚ ቅቶደ ጋር ዎስዳ። <verse eid="ACT 16:39"/><verse number="40" style="v" sid="ACT 16:40"/>ጳዉሎሳራን ስላሰራን አች ኬትፓ ኬዚ ሊድያ ካራ Ꮉንግዳ። እዘ አማንዙንራ የልንት ኡንታና ምን ኬዚ ቅትዳ።<verse eid="ACT 16:40"/></para>
+  <chapter eid="ACT 16"/>
+  <chapter number="17" style="c" sid="ACT 17"/>
+  <para style="s1">ጳዉሎሳ ተሰሎንቄ ታማርስዳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 17:1"/>ጳዉሎሳራ ስላሰራን አምፍጶልሳራን አጶሎንያራ አ ተሰሎንቄ ቅትዳ። እዘ አይሁደ ዎሳ ኬ የነ። <verse eid="ACT 17:1"/><verse number="2" style="v" sid="ACT 17:2"/>ጳዉሎሳ ዛጋን ጋራ እዘ ገልዳ። እዘ Ꮉይ ሳምባታ ጾዘ ቃላፓ አሱንስ ኦህዳ። <verse eid="ACT 17:2"/><verse number="3" style="v" sid="ACT 17:3"/>ክርስቶሳ ማ ኤኮደስን Ꮉይቆፓ ደንዶደስን ቤዛኖ ኡንትስ ጌሽ ኦህተራ፥ «የሱሳ Ꮉይ ታ ይንትስ ኦህዛይ ክርስቶሳ» ያጋይዳ። <verse eid="ACT 17:3"/><verse number="4" style="v" sid="ACT 17:4"/>ኡንታፓ ፈተ ፈተ ኦህዳና ቱሮ ማቅዳኖ ኤኪ ጳዉሎሳራን ስላሰራ ዎላ ፈቶ ማቅዳ። ይኒ ፋና፥ ጾዝ ጎይንዘ ጋማ ግርኬ አሱንን ጋማ ቦንችንትደ ማቹንን ኡንታራ ዎላ ማቅዳ።<verse eid="ACT 17:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 17:5"/>የዝን አይሁዱን እጺ ፈቲ ፈቲ ኦቻ ባይዘ ኢታ አሱንና ኦገፓ ሺሽዳ። ካታምቶ ቡቀ አይክዳ፤ ጳዉሎሳን ስላሰን አሱንስ አ እንጎደስ ኮይ ኢያሶነ ኬቶ ተቂዳ። <verse eid="ACT 17:5"/><verse number="6" style="v" sid="ACT 17:6"/>ጳዉሎሳን ስላሰን ኡንትስ በንታንጽን፥ ኢያሶነን ፈቲ ፈቲ አማንዙንና ካታማ Ꮉላቁንጎ ጎቺ ካንግ፥ «Ꮉንስ ሳእቶ ኡባ ቡቅዙን Ꮉተ ኑጎ ይእዳ። <verse eid="ACT 17:6"/><verse number="7" style="v" sid="ACT 17:7"/>ኢያሶነ ኡንታና ፋ ካራ ጋድዳ። Ꮉንስ፥ ‹የሱሳ ጋዘ መለ ካት የነ› ጋእ ቄሳረ ኪቶ እጻነ» ጋእ ቅ ጋይደ ቃላራ ኦህዳ።<verse eid="ACT 17:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="ACT 17:8"/>ሺቅደ አሱንን ካታማ Ꮉላቁን ይኖ ስእ Ꮉኖደባዝ ብዳ። <verse eid="ACT 17:8"/><verse number="9" style="v" sid="ACT 17:9"/>Ꮉላቁን ኢያሶነን መሉንና ዋሰር ብልዳ።<verse eid="ACT 17:9"/></para>
+  <para style="s1">ጳዉሎሳ ቤርያ ታማርስዳ</para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 17:10"/>አማንዙን ጳዉሎሳን ስላሰን ቃማራ ቤርያ ዳክዳ። ቤርያ የሊ፥ አይሁደ ዎሳ ኬ ገልዳ። <verse eid="ACT 17:10"/><verse number="11" style="v" sid="ACT 17:11"/>ቤርያ አሱን ተሰሎንቄ አሱንፓ አ ዎዝና ዳልጋ። ኡን ቃልቶ ኩሙ ዎዝናፓ ኤክዳ፤ ጳዉሎሳ ጋይዳና ቱሮ ማቅዳኖ ሻኪ ኤሮደስ ኡባ ዎደ ጌሽ ማጻፈ ናባባነ። <verse eid="ACT 17:11"/><verse number="12" style="v" sid="ACT 17:12"/>ይኒ ግሾ፥ ኡንታፓ ጋሙን፥ ግርኩንፓ ቦንችንትደ ጋማ ማቹንን ጋማ ራን አማንዳ።<verse eid="ACT 17:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 17:13"/>የዝን ተሰሎንቄ የዘ አይሁዱን ጳዉሎሳ ጾዘ ቃላ ቤርያ ግዳን ኦህዳኖ ስእደ ዎደ ቤርያ ይእ አሱንና ቡቅዳ። <verse eid="ACT 17:13"/><verse number="14" style="v" sid="ACT 17:14"/>ይንፓ ማቂ፥ አማንዙን ኤልሲ ጳዉሎሳ አባ ካለ ዳክዳ። የዝን ስላሰን ጢሞትዮሳን ቤርያ አትዳ። <verse eid="ACT 17:14"/><verse number="15" style="v" sid="ACT 17:15"/>ጳዉሎሳ ሞይዝደ አሱን አቴና የልዳ። የን አሱን ስላሰን ጢሞትዮሳን ፋስ ዳንዳእንትደ ጋር ኤልሲ ፋጎ የኦደ ጋር ጳዉሎሳ ኪተዘ ኪቶ ኤኪ ቤርያ ማቅዳ።<verse eid="ACT 17:15"/></para>
+  <para style="s1">ጳዉሎሳ አቴና ቅትዳ</para>
+  <para style="p">
+    <verse number="16" style="v" sid="ACT 17:16"/>ጳዉሎሳ አቴና ስላሰን ጢሞትዮሳን ካፍተራ፥ ካታማ ኤቃ ኩምዳኖ ብእ ዥልዳ። <verse eid="ACT 17:16"/><verse number="17" style="v" sid="ACT 17:17"/>ይኒ ግሾ፥ አይሁደ ዎሳ ኬተ አይሁዱንራን ጾዝ ጎይንዘ አይሁደ ማቆሰ አሱንራ ማህ ፋራ የልንትዘ አሱንራ ኡባ ዎደ ጋበ ላላነ። <verse eid="ACT 17:17"/><verse number="18" style="v" sid="ACT 17:18"/>ኤጵቆሮሳን እስቶይኬ ጋእንትዘ ባጉንፓ ፈቲ ፈቲ ኤሩን ጳዉሎሳራ ዎላ ላልዳ። ኡንታፓ ፈተ ፈተ፥ «Ꮉይ ጫንጭዘ አኮ ኦሆደስ ኮየ?» ያጋይዳ።</para>
+  <para style="p" vid="ACT 17:18">መሉን ጳዉሎሳ የሱሳን Ꮉይቆፓ ደንዶ ባዝ ፋስ ኦህደ ግሾ «መለ ኤቁን ባዝ ኦህዛ አዛነ» ያጋይዳ።<verse eid="ACT 17:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 17:19"/>ጳዉሎሳ አይኪ አርዮስፓጎሳ ጋዘ ሺቆ በስተ ካንግ፥ «Ꮉና ነ ታማርስዘ ክለ ባዝታ አኮ የዛኮን ኑና ኤርሶ? <verse eid="ACT 17:19"/><verse number="20" style="v" sid="ACT 17:20"/>አኮስ ጋይኮ፥ ነ ኑስ ክሌ ባዝ ኦህነ፤ ይኬ ይና አኮ የዛኮን ኑ ኤሮደስ ኮያነ» ያጋይዳ።<figure style="fig" alt="Paul speaking to the Areopagus" file="cn02136b.tif" size="span" ref="17:16">ጳዉሎሳ አርዮስፓጎሳ አሱንስ ማርክነ</figure> <verse eid="ACT 17:20"/><verse number="21" style="v" sid="ACT 17:21"/>አቴና አሱን ኡቡንን እዘ የዘ ዛቁን ክሌ ባዝ ኦህካይዛራን ስእካይዛራን ፌዦስ።<verse eid="ACT 17:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 17:22"/>ጳዉሎሳ አርዮስፓጎሳ ግዳ ሺቅደ አሱን ቲኖ ኤቂ፥ «አቴና አሱን፥ ይን ኤቁንስ ኡባ ባዛ ጋማ ዣሽትዛኖ ታ ብእዳ። <verse eid="ACT 17:22"/><verse number="23" style="v" sid="ACT 17:23"/>ታኒ ይን ካታማራ ዉትተራ ይን ጎይንዘ በስተ በእዘ ዎደ ‹ኤርንቶሰ ጾዘስ› ጋእንት ጻፍንትደ ዣርሾ በስቶ ደንግዳ። Ꮉና ይን ኤርካይዛራ ጎይንዛያ ታ ይንትስ ኦሆዳ። <verse eid="ACT 17:23"/><verse number="24" style="v" sid="ACT 17:24"/>ሳአን ሳአላ የዘ ኡባባዝቶ መደ ጾዘ፥ ሳሎን ሳአ ላ፥ አስ ኬጽደ ኬ የዞስ።<note caller="-" style="x"><char style="xo" closed="false">17:24-25 </char><char style="xt" closed="false"><ref loc="1KI 8:27">1 ካት 8:27</ref>፤ <ref loc="ISA 42:5">ኢሳ. 42:5</ref>፤ <ref loc="ACT 7:48">ሐዋ. 7:48</ref></char></note> <verse eid="ACT 17:24"/><verse number="25" style="v" sid="ACT 17:25"/>ኤ ደኦ፥ ሸምፖን ኡባ ባዝ አስ ኡባስ እንግደ ግሾ ፋጨ የዘ አስ ፋና አስ ማደ ኮዮስ። <verse eid="ACT 17:25"/><verse number="26" style="v" sid="ACT 17:26"/>ጾዚ ኡን የሳደ ዎደስን በስስ ዉዙላ እንግዳ። ይንፓ አስ ኮች ኡባ ፈቲ አሳፓ መ ሳአ ኡባ ጋድዳ። <verse eid="ACT 17:26"/><verse number="27" style="v" sid="ACT 17:27"/>ኤ ይኖ ኦችዳና አስ ኤዛ ኮዮደ ፋናን ቁርች ደንጎደ ፋና። ማቅኮን ኤ ኑፓ Ꮉኮ ባያ። <verse eid="ACT 17:27"/><verse number="28" style="v" sid="ACT 17:28"/>ይንታፓ ፈቲ ፈቲ የጽዙን፥ ‹ኑ ኤ ናኡንና› ማቅዳን ፋና፥ ኑ ኤ ግዳ ፋጻ የነ፥ ኤንእንታነ። <verse eid="ACT 17:28"/><verse number="29" style="v" sid="ACT 17:29"/>ይኬ፥ ኑ ጾዘ ናኡንና ማቅደ ግሾ ‹ጾዚ አስ ዪላትራን ቆፋራ ዎርቃፓ ዎይ ብራፓ ዎይ ሹቻፓ ኦችንትደባዝ አዛነ› ጋእ ቆፖደስ ቤዞስ። <verse eid="ACT 17:29"/><verse number="30" style="v" sid="ACT 17:30"/>ይኒ ግሾ፥ ጾዚ ቲኖ ዎደ አስ ኤርካይዛራ ኦችዳኖ አሺ አዳ፥ የዝን Ꮉተ ኡባ በሳ የዘ አስ ኡባ ናጋራፓ ማቃደ ጋር ኪታነ። <verse eid="ACT 17:30"/><verse number="31" style="v" sid="ACT 17:31"/>አኮስ ጋይኮ፥ ጾዚ ፋ ዶርደ አራ ሳአላ የዘ አስ ኡባላ ጽሎ ፍርዳ ፍርዶደስ ቃማ ጊግዚ ጋድዳ። ኤዛ Ꮉይቆፓ ደን ይኖ አስ ኡባስ ጌሽዳ» ጋይዳ።<verse eid="ACT 17:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="ACT 17:32"/>ኡንታፓ ፈቲ ፈቲ አሱን Ꮉይቆፓ ደንደባዝ ጳዉሎሳፓ ስእ፥ ኤዛ ለቂዳ። የዝን መሉን፥ «ኑኒ ይኖ ኔፓ ጉጂ ስኦደስ ኮያነ» ጋይዳ። <verse eid="ACT 17:32"/><verse number="33" style="v" sid="ACT 17:33"/>ይኒ ግሾ፥ ጳዉሎሳ ኡን ግዳፓ ከዝዳ። <verse eid="ACT 17:33"/><verse number="34" style="v" sid="ACT 17:34"/>የዝን ፈቲ ፈቲ ራን ጳዉሎሳራ የሊ አማንዳ። ኡን ግዳፓ አርዮስፓጎሳን ሺቅተ የዘ ድዮናስዮሳ ጋዘ አ፥ ዳማሪሶ ጋዘ ፈቲ ማችታን መሉንን ኡንታራ የነ።<verse eid="ACT 17:34"/></para>
+  <chapter eid="ACT 17"/>
+  <chapter number="18" style="c" sid="ACT 18"/>
+  <para style="s1">ጳዉሎሳ ቆሮንቶሳ ቅትዳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 18:1"/>ይንፓ ሱባ፥ ጳዉሎሳ አቴናፓ ኬዚ፥ ቆሮንቶሳ ቅትዳ። <verse eid="ACT 18:1"/><verse number="2" style="v" sid="ACT 18:2"/>እዘ አቂላ ጋዘ ጳንጦሳ የልንትደ ፈቲ አይሁደ አስ ደንግዳ። አይሁደ አሱንና ኡባ ሮመፓ ኬሳደ ጋር ካት ቃላዉድዮሳ ኪትደ ግሾ ኤራ ዎደፓ ቲኖ ኤ ፋ ማችት ጵርስቅላራ ጣለፓ ይእዳ። ጳዉሎሳ ኡንታራ የልንቶደስ Ꮉንግዳ። <verse eid="ACT 18:2"/><verse number="3" style="v" sid="ACT 18:3"/>ኤ ኦችታ ኡንትንጋራ ዱንካነ ስከ ማቅደ ግሾ ኡንታራ በቲ ዎላ ኦችዳ። <verse eid="ACT 18:3"/><verse number="4" style="v" sid="ACT 18:4"/>ጳዉሎሳ ሳምባታ ኡባ አይሁዱንናን ግርኩንና አማንደስ አይሁደ ዎሳ ኬ ሚንግ ኦህነ።<verse eid="ACT 18:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 18:5"/>ስላሰን ጢሞትዮሳን መቀዶንያፓ ይእደ ዎደ ጳዉሎሳ ፋ ኩሙ ዎድቶ እንግ አይሁዱንስ የሱሳ ኤ፥ ክርስቶሳ ጋእ ቃላ ኦህዳ። <verse eid="ACT 18:5"/><verse number="6" style="v" sid="ACT 18:6"/>የዝን ኡን ጳዉሎሳ እጺ ኤዛ ጫዥን ጳዉሎሳ ፋ ማእትፓ ጹራ ትቅዝ፥ «ይን ጎምታ ይንታና የሎ፤ ታ ይነ የዞስ። ይኬፓ ሱባ፥ ታ አይሁደ ማቆሰ አሱንጎ ቅታነ» ጋይዳ።<verse eid="ACT 18:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 18:7"/>እዝፕ ኬዚ ጾዝ ጎይንዘ ትቶስ ኢዮስጦሳ ጋዘ አ ካራ ቅትዳ። ኢዮስጦሳ ኬታ አይሁደ ዎሳ ኬ ካለ የነ። <verse eid="ACT 18:7"/><verse number="8" style="v" sid="ACT 18:8"/>አይሁደ ዎሳ ኬት Ꮉላቅዘ ቃርስጶሳ ፋ ካራ አሱን ኡቡንራ ላ አማንዳ። ቆሮንቶሳ አሱንፓ ጋሙን ጾዝ ቃላ ስእደ ዎደ አማኒ ጻማቅንትዳ።<verse eid="ACT 18:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 18:9"/>ላ ፈቲ ቃማ ጳዉሎሳስ በንቲ፥ «ዣሽትፐ፤ ኦሆ፥ ስእ ጋይፐ። <verse eid="ACT 18:9"/><verse number="10" style="v" sid="ACT 18:10"/>ታኒ ኔራ የነ። ታስ Ꮉና ካታምተ፥ ጋማ አስ የዘ ግሾ ነና ቆሂ ኢታበሳ ኦሎደ አስ ኦደን ባያ» ጋይዳ። <verse eid="ACT 18:10"/><verse number="11" style="v" sid="ACT 18:11"/>ይኒ ግሾ፥ ጳዉሎሳ ጾዘ ቃላ አሱንና ታማርስተራ ፈቲ በረን እዝፑን አግና ኡንታራ በትዳ።<verse eid="ACT 18:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 18:12"/>ጋልዮሳ አካያ ሳአ አህዘ ዎደ አይሁዱን ፈትላ ጳዉሎሳላ ደንዲ ፍርዳ ኬ ኤዛ ካንግ፥ <verse eid="ACT 18:12"/><verse number="13" style="v" sid="ACT 18:13"/>«Ꮉይ አይ ህገ እጺ፥ አሱን ጾዝ ጎይኖደ ጋር ዪዛነ» ጋይዳ።<verse eid="ACT 18:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 18:14"/>ጳዉሎሳ ኦሆደስ ይአደራ፥ ጋልዮሳ አይሁዱንጎ፥ «አይሁዱን፥ ይና ኢታ ኦቻ ዎይ ቆሄ ማቅኮ ታ ይን ባዝ ዳንዳእ ስኦደስ ቤዛነ። <verse eid="ACT 18:14"/><verse number="15" style="v" sid="ACT 18:15"/>የዝን ቃላስን፥ ሱንስን ይን ህግትስን ይን ላልዘባዝ ማቅኮ ይን፥ ይንትስ ብሎተ፤ ይኖ ታ ፍርዶስ» ጋይዳ። <verse eid="ACT 18:15"/><verse number="16" style="v" sid="ACT 18:16"/>የይዝ፥ ኡንታና ፍርዳ ኬፓ ባለ ከስዳ። <verse eid="ACT 18:16"/><verse number="17" style="v" sid="ACT 18:17"/>ይንፓ ሱባ፥ አሱን ኡባ አይሁደ ዎሳ ኬ Ꮉላቅዛ ሶስተንሳ አይኪ ፍርዳ ኬ ቲኖ Ꮉዳ። የዝን ጋልዮሳስ ይና አኮን አዝካያ።<verse eid="ACT 18:17"/></para>
+  <para style="s1">ጳዉሎሳ አንጾክያ ቅትዳ</para>
+  <para style="p">
+    <verse number="18" style="v" sid="ACT 18:18"/>ጳዉሎሳ ጋማ ዎደ ቆሮንቶሳ ግዳ በትዳንፓ ሱባ አማንዘ አሱንና ሳሮ፥ ጵርስቅልራን አቂላራ ማርካበራ ሶርያ ቅትዳ። የዝን ኤ ቅቶዳንፓ ቲኖ ፋስ ቃይንግደባዝ የዘ ግሾ ክንክርያ ካታማ ፋ ኦምቶ መድንትዳ።<note caller="-" style="x"><char style="xo" closed="false">18:18 </char><char style="xt" closed="false"><ref loc="NUM 6:18">ፋይዶ 6:18</ref></char></note> <verse eid="ACT 18:18"/><verse number="19" style="v" sid="ACT 18:19"/>ኡን ኤፈሶነ የልደ ዎደ ጳዉሎሳ ጵርስቅላን አቂላን እዘ አሽዳ። የዝን ፋስ አይሁደ ዎሳ ኬ ገሊ አይሁዱንራ ኦህንትዳ። <verse eid="ACT 18:19"/><verse number="20" style="v" sid="ACT 18:20"/>ኡን ፋራ ጋማ ዎደ በቶደ ጋር ጳዉሎሳ ዎስዳ የዝን ኤ እጽዳ። <verse eid="ACT 18:20"/><verse number="21" style="v" sid="ACT 18:21"/>ኡንታፓ ሻክንትተር፤ «ጾዚ ጋይኮ ይንታጎ ማቂ ዮኦዳ» ያጋእ ኤፈሶነፓ ማርካበራ ቅትዳ። <verse eid="ACT 18:21"/><verse number="22" style="v" sid="ACT 18:22"/>ቂሳርያ የልደ ዎደ የሩሳላመ Ꮉንግ ዎሳ ኬ አሱንና ሳርዳንፓ ሱባ አንጾክያ ቅትዳ።<verse eid="ACT 18:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 18:23"/>እዘ ኤራ ዎደ ጋምእዳንፓ ሱባ አማንዘ አሱንና ኡባ ምንተራ ጋላትያራን ጵርገራን አዳ።<verse eid="ACT 18:23"/></para>
+  <para style="s1">አጵሎሳ ኤፈሶነን ቆሮንቶሳን</para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 18:24"/>እስክንድርያ የልንትደ ፈቲ አጵሎሳ ጋዘ አይሁደ አስ ኤፈሶነ ቅትዳ። ኤ ኦሄ ኤርዘ አስን ጾዘ ቃላ ጋማ ኤርዘ አስ። <verse eid="ACT 18:24"/><verse number="25" style="v" sid="ACT 18:25"/>ኤ ላ ኦግቶ ታማሪ፥ አያናራ ኤጺ የሱሳ ባዝ ሉለ ታማርሳነ። ማቆ የዝን፥ ዋሐንሳ ጽንቃተ ጻላላ ኤራነ። <verse eid="ACT 18:25"/><verse number="26" style="v" sid="ACT 18:26"/>ኤ አይሁደ ዎሳ ኬተ ዣሽትካይዛራ ታማርሳነ። ጵርስቅላን አቂላን ኤ ኦህዛኖ ስእደ ዎደ ኤዛ ፋራ ካራ ካንግ ጾዘ ኦግቶ ቲኖስትፓ ጌሽ ኤስ ኦህዳ።<verse eid="ACT 18:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 18:27"/>አጵሎሳ አካያ ቅቶደስ ኮይን ኤፈሶነ የዘ አማንዘ አሱን ኤ ቆፍቶ ኤኪ አካያ የዘ አማንዙን ኤዛ ሞኮደ ጋር ኡንትስ ዳብዳበ ጻፍዳ። ኤ እዘ የልደ ዎደ ጾዘ አ ኬሃትት ባጋራ የሱስ ክርስቶሳ አማንዱንና ጋማ ማድዳ። <verse eid="ACT 18:27"/><verse number="28" style="v" sid="ACT 18:28"/>አኮስ ጋይኮ፥ የሱሳ ኤ ክርስቶሳ ማቅዛኖ አይሁዱንስ ጾዘ ቃላፓ ቆንጭዝ አሱን ቲኖ ምን ኦህ ኡንታና ላዳ።<verse eid="ACT 18:28"/></para>
+  <chapter eid="ACT 18"/>
+  <chapter number="19" style="c" sid="ACT 19"/>
+  <para style="s1">ጳዉሎሳ ኤፈሶነ ቅትዳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 19:1"/>አጵሎሳ ቆሮንቶሳ የዘ ዎደ፥ ጳዉሎሳ ዎካ ዛላራ አ ኤፈሶነ ቅትዳ። እዘን ፈቲ ፈቲ አማንዘ አሱንና ደንግዳ። <verse eid="ACT 19:1"/><verse number="2" style="v" sid="ACT 19:2"/>ኡንታጎ፥ «ይን አማንደ ዎደ ጌሽ አያና ኤክዳተ?» ጋእ ኦጭዳ።</para>
+  <para style="p" vid="ACT 19:2">ኡን፥ «አደ፥ ኤክካያ፤ መለ አቶ የዝን፥ ጌሽ አያና የዛኖን ስእካያ» ጋይዳ።<verse eid="ACT 19:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="ACT 19:3"/>ጳዉሎሳ ኡንታጎ፥ «ዬዝን፥ አኮር ጻማቅንትዶተ?» ጋይዳ።</para>
+  <para style="p" vid="ACT 19:3">ኡን፥ «ኑኒ ዋሐንሳ ጽንቃተ ጻማቅንትዳ» ጋእ ማህዳ።<verse eid="ACT 19:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 19:4"/>ጳዉሎሳ፥ «ዋሐንሳ ፋፓ ሱባራ የእዘ የሱሳ አማኖደ ጋር አሱንስ ኦህተር፥ ናጋራፓ ማቀስ ኮሽዘ ጽንቃተ ጻማቅዳ» ጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">19:4 </char><char style="xt" closed="false"><ref loc="MAT 3:11">ማቶ. 3:11</ref>፤ <ref loc="MRK 1:4">ማር. 1:4</ref>፥ <ref loc="MRK 1:7-8">7-8</ref>፤ <ref loc="LUK 3:4">ሉቃ. 3:4</ref>፤ <ref loc="LUK 16">16</ref>፤ <ref loc="JHN 1:26-27">ዋሐ. 1:26-27</ref></char></note><verse eid="ACT 19:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 19:5"/>ኡን ይኖ ስእደ ዎደ ላ የሱሳ ታማረ ማቃደስ ጻማቅንትዳ። <verse eid="ACT 19:5"/><verse number="6" style="v" sid="ACT 19:6"/>ጳዉሎሳ ፋ ኩሽቶ ኡንታላ ጋድዘ ዎደ ጌሽ አያና ኡንታላ ዎን፥ መለ መለ ዶናራ ዎላ ኦህንትዳ፤ ማህ ትንቢተ ኦህዳ። <verse eid="ACT 19:6"/><verse number="7" style="v" sid="ACT 19:7"/>ይና በስተ ታጶ ላምእ ማቅዘ አሱን የነ።<verse eid="ACT 19:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="ACT 19:8"/>ጳዉሎሳ አይሁደ ዎሳ ኬ ገሊ፥ ጾዘ ካእቱሞ ባዝ ዣሽትካይዛራ ማርክተር ሎይ ቆንጭዝተር ኡንታራ Ꮉይ አግና የሎደስ ጋምእዳ። <verse eid="ACT 19:8"/><verse number="9" style="v" sid="ACT 19:9"/>የዝን ኡንታፓ ፈተ ፈተ በ ማቂ ጋማ አሱን ቲኖ ላ ኦግቶ ጫዥ አማናንጺ እጽዳ። ጳዉሎሳ አማንዙንና ኡንታፓ ሻጊ ኤኪ ጥራኖሳ ጋዘ ትምርተ ኬ ኡባ ዎደ ኡንታና ታማርስዳ። <verse eid="ACT 19:9"/><verse number="10" style="v" sid="ACT 19:10"/>ጳዉሎሳ ላምእ በረ የሎደስ ቃላ ኦህዳ። ይኒ ግሾ፥ እስያ የዘ አሱን ኡባ፥ አይሁዱንን አይሁደ ማቆሱን ላ ቃላ ስእዳ።<verse eid="ACT 19:10"/></para>
+  <para style="s1">ጾዚ ጳዉሎሳ ኩሽተ ኦችደ ክለ ባዝ</para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 19:11"/>ጾዚ ጳዉሎሳ ኩሽተ ዳማ ክለ ባዝ ኦችዳ። <verse eid="ACT 19:11"/><verse number="12" style="v" sid="ACT 19:12"/>ይኒ ግሾ፥ አሱን ኤ ጋልቶ ቦችደ ማራብቶ ዎይ ማእቶ Ꮉርጋንቹንስ ካንጋነ። ኡንትን ፋጻነ፤ ቱና አያኑንን ኡንታፓ ከዛነ።<verse eid="ACT 19:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 19:13"/>ቱና አያና ከስተራ ዉትዘ አይሁዱንፓ ፈተ ፈተ፥ «ጳዉሎሳ ሳባክዘ የሱሳ ሱንተ ከዞተ ጋእ ይንታና ኪታነ» ጋእ፥ ቱና አያና አይክደ አሱንላ ላ የሱሳ ሱንቶ ጼግዳ <verse eid="ACT 19:13"/><verse number="14" style="v" sid="ACT 19:14"/>አይሁደ ማቅደ ካህኑን Ꮉላቃፓ ፈቲ አስቄወ ጋዘ አስ ይኖ ኦችዘ ላፑን ራ ናኡን የነ።<verse eid="ACT 19:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 19:15"/>የዝን ቱና አያንዘ ኡንታጎ፥ «ታኒ የሱሳን ኤራነ ጳዉሎሳ ባዝን ኤራነ፥ የዝን ይን ኦደ?» ያጋይዳ።<verse eid="ACT 19:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="ACT 19:16"/>ቱና አያንዘ አይክደ አ ኡንታላ ዶሊ ዎ፥ ኡንታና Ꮉርግዝ፥ ይና ኬትፋ ካሎ ዎጽ ቦደ ዎንስ ዎልቂዳ። <verse eid="ACT 19:16"/><verse number="17" style="v" sid="ACT 19:17"/>ኤፈሶነ የዘ አይሁዱንን አይሁደ ማቆሱን ኡባ ይኖ ስእ ጋማ ዣሽትዳ። ላ የሱሳ ሱንታ ጋማ ቦንችንትዳ። <verse eid="ACT 19:17"/><verse number="18" style="v" sid="ACT 19:18"/>አማንዙንፓ ጋሙን ፋ ኦችደ ኢታ ኦችቶ ቡጽተራ ቆንጨ ኦህተር የነ። <verse eid="ACT 19:18"/><verse number="19" style="v" sid="ACT 19:19"/>ብትዙንፓ ጋሙን ፋ ማጻፍቶ ሺሺ አስ ኡባ ቲኖ ምችዳ። ይና ማጻፍት ዋግታ እችንታም ሙኩል ሹች ብራ ሳንትመ<note caller="+" style="f"><char style="fr" closed="false">19:19 </char><char style="fk" closed="false">ብራ ሳንትመ፦ </char><char style="ft" closed="false">ማቶሳ 26:15 ቦኦተ። </char></note> ማቅዳ። <verse eid="ACT 19:19"/><verse number="20" style="v" sid="ACT 19:20"/>ይኒ ጋር ይእ ጾዘ ቃላ ዎልቃር ድጭተራን ዳልግተር ቅትዳ።<verse eid="ACT 19:20"/></para>
+  <para style="s1">ኤፈሶነ ካታማ ካች ደንድዳ</para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 19:21"/>ይና ፎልንትዳንፓ ሱባ ጳዉሎሳ፥ «ታኒ የሩሳላመ ቅቲ ማቂ ሮመን Ꮉንጎደስ ቤዛነ» ጋእ መቀዶንያራን አካያራን አ የሩሳላመ Ꮉንጎደስ ቆፋ አጭዳ። <verse eid="ACT 19:21"/><verse number="22" style="v" sid="ACT 19:22"/>ማህ ፋና ማድዙንፓ ላምኡንና ጢሞትዮሳን ኤራስጦሳ መቀዶንያ ኪቲ፥ ፋስ እስያ ግዳ ኤራ ዎደ ጋምእዳ።<verse eid="ACT 19:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 19:23"/>የ ዎደ ላ ኦግት ግሾ ኤፈሶነ ግዳ ዳማ ካች ከዝዳ። <verse eid="ACT 19:23"/><verse number="24" style="v" sid="ACT 19:24"/>ፈቲ ብራ ቆጽዘ ድሜጥሮሳ ጋዘ አ አርጤሚሳ ኤቃ ኬ ምስለ ብራፓ መ ጋማ ትርፈ ድንግዛነ። <verse eid="ACT 19:24"/><verse number="25" style="v" sid="ACT 19:25"/>ይኒ ግሾ፥ ይኒ ፋና ኦቻ ኦችዙንና ፈትላ ሺሺ፥ «አሱን፥ ኑ ዱረትታ Ꮉና ኦችተ ማቅዳኖ ይን ኤራነ። <verse eid="ACT 19:25"/><verse number="26" style="v" sid="ACT 19:26"/>Ꮉይ ጳዉሎሳ፥ ‹አስ ኩሸ መንትደ ኤቁንና ባነ› ጋእ፥ ኤፈሶነን ኤራ ሳአፕ አትን ኩሙ እስያ ኡባ የዘ ጋማ አሱንና ኦህ አማንዳኖን ባልዳኖን ይን ብእዳ ስእዳ። <verse eid="ACT 19:26"/><verse number="27" style="v" sid="ACT 19:27"/>ማ ማቅዳና፥ ኑ ኦችታ ለቂንትዛኖ ጻላላ ማቅካይዝን እስያ ሳአ ኡባ የዘ አስ ጎይንዘ ዳማ ኤቃ አርጤሚሰ ኬታ ቦንችንትካይዛር አቶዳና እ ዳማትታ ጎልኦዳኖ» ጋይዳ።<verse eid="ACT 19:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="ACT 19:28"/>አሱን ይኖ ስኤዘ ዎደ ዥል፥ «ኤፈሶነ አርጤሚሳ ዳማ» ጋእ ኡክዳ።<figure style="fig" alt="Goddess Diana or Artemis of the Ephesians" file="HK00286B.TIF" size="span" ref="19:28">ኤፈሶነ አርጤሚሶ</figure> <verse eid="ACT 19:28"/><verse number="29" style="v" sid="ACT 19:29"/>ይና ኡፍታ ካታማ ኡባ የልዳ። ጳዉሎሳራ የዘ መቀዶንያ አሱንና፥ ጋዮሳን አርስጥሮኮሳን አይኪ ጎችተር ካእዘ በሳ ዎጽዳ። <verse eid="ACT 19:29"/><verse number="30" style="v" sid="ACT 19:30"/>ጳዉሎሳን አሱን ሺቅደ በስተ ገሎደስ ኮይዳ፥ የዝን አማንዙን ኤዛ ካይዳ። <verse eid="ACT 19:30"/><verse number="31" style="v" sid="ACT 19:31"/>እስያ ሳአ Ꮉላቁንፓ ጳዉሎሳ ላገ ማቅደ ፈተ ፈተ ጳዉሎሳጎ ኪቲ፥ «ካስ በስተ ቆንጨ ኬዚ በንትፐ» ጋእ ኤዛ ዎስዳ።<verse eid="ACT 19:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="ACT 19:32"/>ሺቅደ አሱን Ꮉኖደባዝ ብዳ፤ ጋንግዘ ባጋ አሱን መለ አቶ የዝን አኮስ ሺቀዛኮ ኤሮሰ ግሾ ፈተ ፈትባዝስ ኡክዘ ዎደ Ꮉንካይ መለባዝስ ኡካነ። <verse eid="ACT 19:32"/><verse number="33" style="v" sid="ACT 19:33"/>አይሁዱን እስክንድረ ጋዘ አ አ ቤዝን፥ ፈቲ ፈቲ አሱን ኤ ጋዉደ ባዝ ኦህ ኤዛ ቲኖ አዳ። ኤ አሱን ስእ ጋዉደ ጋር ፋ ኩሽተ ማሊ ቤዚ፥ አሱንስ ሞትንቶደስ ኤቅዳ። <verse eid="ACT 19:33"/><verse number="34" style="v" sid="ACT 19:34"/>የዝን እስክንድረ አይሁደ አስ ማቅዳኖ አሱን ኤርደ ዎደ ላምእ ሳተ ማቃደ ጋር ኡቡን ፈቲ ቃላራ፥ «ኤፈሶነ አርጤሚሰ ዳማ» ጋእ ኡክዳ።<verse eid="ACT 19:34"/></para>
+  <para style="p">
+    <verse number="35" style="v" sid="ACT 19:35"/>ዉርሱተ ካታማ ጻፍዘ አሱንና ስእ ዪዚ፥ «ኤፈሶነ አሱን! ኤፈሶነ ካታማ ዳማ አርጤሚሰ ኤቃ ኬን ሳሎፓ ዎደ ዳማ ሹችዛ ናግዛኖ ኤሮሰ አስ ባያ። <verse eid="ACT 19:35"/><verse number="36" style="v" sid="ACT 19:36"/>Ꮉኖ ካድዘ አስ ባይዘ ግሾ ይን ስእ ጋኦደስን ኤልሲ አኮ ባዝ ዪዛንጽ አሾደስ ቤዛነ። <verse eid="ACT 19:36"/><verse number="37" style="v" sid="ACT 19:37"/>ይን Ꮉን አሱንና፥ ኤቃ ኬ ብራ ካይስትካይዙንናን ኑ ጾዛ ጫዝካይዙንና ክእዳ። <verse eid="ACT 19:37"/><verse number="38" style="v" sid="ACT 19:38"/>ይኒ ግሾ፥ ድሜጥሮሳን ኤራ የዘ ኦችዘ አሱን ሞቶደስ ኦና ኮይዛኮ፥ ፍርዳ ኬታ ቡጉ የነ፤ ዳይኑንን የነ፤ ኡን ሞቶደስ ዳንዳአነ። <verse eid="ACT 19:38"/><verse number="39" style="v" sid="ACT 19:39"/>የዝን ይን መለ ኦሄ ኮይኮ፥ ሻንጎ ሺቅተ ኦህታ ብእንቶ። <verse eid="ACT 19:39"/><verse number="40" style="v" sid="ACT 19:40"/>ይኖ ማቃንጽኮ Ꮉይኖ Ꮉንደ ባዝስ ሮመ ካእቱምታ ኑና ኦጮዳ። Ꮉና ቡቁትስ ምክናተ ባይዘ ግሾ ኑ ምክናቶ ኦሆደስ ዳንዳኦስ» <verse eid="ACT 19:40"/><verse number="41" style="v" sid="ACT 19:41"/>ያጋእ ሺቅቶ ላልዳ።<verse eid="ACT 19:41"/></para>
+  <chapter eid="ACT 19"/>
+  <chapter number="20" style="c" sid="ACT 20"/>
+  <para style="s1">ጳዉሎሳ መቀዶናን ግርኬን ቅትዳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 20:1"/>ኡክታ ስእ ጋይዳንፓ ሱባ ጳዉሎሳ አማንዘ አሱንና ጼግዝ ኡንታና ዞሪ ምንዳንፓ ሱባ ሳር መቀዶና ቅቶደስ ከዝዳ። <verse eid="ACT 20:1"/><verse number="2" style="v" sid="ACT 20:2"/>ኤ አዘ ሳአ የዘ አማንዘ አሱንስ ቃላ ኦህ ምንዳንፓ ሱባ ግርከ ሳአ ቅትዳ። <verse eid="ACT 20:2"/><verse number="3" style="v" sid="ACT 20:3"/>ኤ እዘ Ꮉይ አግና በቲ፥ ማርካበራ ሶርያ ቅቶደስ ቆፒ የዝን፥ አይሁዱን ፋና ዎደስ ኮይዛኖ ኤሪ መቀዶንያራ ሱብ ማቃደስ ኮይዳ።<verse eid="ACT 20:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 20:4"/>ጳዉሎሳ ሞይዝዱን ቤርያፓ ጳርሁሳ ናአያ ሶጳጥሮሳ፥ ተሰሎንቀፓ አርስጥሮኮሳን ስኮንዱሳ፥ ደርበፓ ጋዮሳ፥ እስያፓ ትክቆሳ፥ ጥሮፍሞሳን ጢሞትዮሳን። <verse eid="ACT 20:4"/><verse number="5" style="v" sid="ACT 20:5"/>Ꮉንስ ቲኖ Ꮉንግ ኑና ጢሮአዳላ ካፋነ። <verse eid="ACT 20:5"/><verse number="6" style="v" sid="ACT 20:6"/>ኑ ቦራ ባአለ ቦንችዳንፓ ሱባ ፍልጵስዩሳፓ ማርካበራ ደንዲ፥ እችን ቃማራ ኡንታና ጢሮአዳ የሊ እዘ ላፑን ቃማ ጋምእዳ።<verse eid="ACT 20:6"/></para>
+  <para style="s1">ጳዉሎሳ ጢሮአዳላ</para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 20:7"/>ሳምንታፓ ቲኖ ቃማ ኑ ቦራ ባጾደስ ሺቂ የዝን፥ ጳዉሎሳ ዎንትስቶ ቅቶደስ ቆፕደ ግሾ ኡንትስ ቃላ ኦህተራ ግዲ ብላሄ የሎደስ ኦህቶ ጋምእዝዳ። <verse eid="ACT 20:7"/><verse number="8" style="v" sid="ACT 20:8"/>ኑ ሺቂ በትደ ፎቅተ ጋማ ፎኦ የነ። <verse eid="ACT 20:8"/><verse number="9" style="v" sid="ACT 20:9"/>ኤዉጥኮሳ ጋዘ ፈቲ ይዘ ማስኮተላ በቲ፥ ፋና ቦቲ ገንትዳ። ጳዉሎሳ ኦህቶ ጳርግዝደ ዎደ ኤዉጥኮሳ ገንት Ꮉይን ፎቅዘፓ ጎልእ Ꮉይቀዝን አሱን ደንዳ። <verse eid="ACT 20:9"/><verse number="10" style="v" sid="ACT 20:10"/>የዝን ጳዉሎሳ ዎ፥ ኤላ ዙግዳ። ኤዛ እርንግ፥ «ኤ Ꮉይቂካያ፥ ታንፐተ» ጋይዳ። <verse eid="ACT 20:10"/><verse number="11" style="v" sid="ACT 20:11"/>ይንፓ ሱባ፥ ኡደ ፎቀላ ኬዚ ቦራ ባጽ ሙእዳ። ሳአ ዎንቶደ ዎንስ አሱንስ ኦህዳንፓ ሱባ ደንዲ ቅትዳ። <verse eid="ACT 20:11"/><verse number="12" style="v" sid="ACT 20:12"/>የ ፋጽደ ይዛ ካራ ካንግ ጋማ ኡፋይትዳ።<verse eid="ACT 20:12"/></para>
+  <para style="s1">ጳዉሎሳ ጢሮአዳፓ ምሊጠ ቅትዳ</para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 20:13"/>የዝን ጳዉሎሳ ፋና እዝፓ ሞኮደ ጋር ኑስ ኦህደ ግሾ ቲን ማርካበጎ Ꮉንግ፥ አሶሳ ቅቶደስ ደንድዳ። አኮስ ጋይኮ፥ ኤ ቶሄራ ቅቶደስ ቆፕደ ግሾ ኑና Ꮉኒ ጋር ኪትዳ። <verse eid="ACT 20:13"/><verse number="14" style="v" sid="ACT 20:14"/>ኤ ኑራ አሶሳ የልንትን ማርካበራ ኤዛ ኤኪ ምጢሊነ Ꮉንግዳ። <verse eid="ACT 20:14"/><verse number="15" style="v" sid="ACT 20:15"/>ዎንትስት ዎደ እዝፓ ደንዲ ማርካበራ ክዮሳ ቲኖ የዘ በስተ የልዳ፤ ማህ ዎንትስት ዎደ ሳሞሳ ፊንግ ካልዘ ዎድተ ምሊጠ የልዳ። <verse eid="ACT 20:15"/><verse number="16" style="v" sid="ACT 20:16"/>ጳዉሎሳ እስያ ግዳ ጋማ ጋምእካይዛራ ኤፈሶነ ካለራ አደስ ቆፕዳ። ፋስ ዳንዳእንትኮ ጰንጠቆስጠ ባአለ ዎደ የሩሳላመ የሎደስ ኤልሳነ።<verse eid="ACT 20:16"/></para>
+  <para style="s1">ጳዉሎሳ ኤፈሶነ ጭሙንን ዞርዳ</para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 20:17"/>ጳዉሎሳ ምሊጠፓ ኤፈሶነ ኪቲ ዎሳ ኬ ጭሙንና ጼግዝዳ። <verse eid="ACT 20:17"/><verse number="18" style="v" sid="ACT 20:18"/>ዎሳ ኬ ጭሙን ኤጎ ይእን፥ ኡንታጎ Ꮉንጋራ ያጋይዳ፦ «ታኒ እስያ ገልደ ቲኖ ቃምትፓ አይኪ ይንታራ የዝደ ዎደ ኡባ ዋይዝ የዘዛኮ ይን ኤራነ። <verse eid="ACT 20:18"/><verse number="19" style="v" sid="ACT 20:19"/>አይሁዱን ሺቂ ታላ ማ የልኮን ታ አሽከትራን ጋማ አፉራ ላስ ኦችዳ። <verse eid="ACT 20:19"/><verse number="20" style="v" sid="ACT 20:20"/>ቡጫን ይን ኬተ ኬተ ይንታና ታማርስተራ ይንታና ማድዘ ባዛፓ ፈትባዝን ፋጭዝካያ። <verse eid="ACT 20:20"/><verse number="21" style="v" sid="ACT 20:21"/>ታኒ አይሁዱንስን አይሁደ ማቆሱንስ ናጋራፓ ጾዛጎ ማቃደ ጋራን ኑ ላ የሱሳ አማኖደ ጋር ማርክዳ።<verse eid="ACT 20:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 20:22"/>«እዘ ታና አኮ የሎደ የዛኮ ኤሮስ፥ የዝን Ꮉተ ታኒ ጌሽ አያናስ ኪትንቲ የሩሳላመ ቅታነ። <verse eid="ACT 20:22"/><verse number="23" style="v" sid="ACT 20:23"/>ይኖ ማቅኮን ጌሽ አያና ካታማ ኡባ አችን ማን ታና ናግዛኖ ታስ ማርክዳ። <verse eid="ACT 20:23"/><verse number="24" style="v" sid="ACT 20:24"/>የዝን ታ ዎቶ ፎሎደስ ላ የሱሳፕ ኤክደ ኦችቶ፥ ጾዘ አ ኬሃት ዎንገለ ማርክዛኖ ፎሎደስ ታ ሸምፕቶ ፋሰ ባዝ ፋና ፋይዳነ።<note caller="-" style="x"><char style="xo" closed="false">20:24 </char><char style="xt" closed="false"><ref loc="2TI 4:7">2 ጢሞ. 4:7</ref></char></note><verse eid="ACT 20:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="ACT 20:25"/>«ታኒ Ꮉተን ጾዘ ካእቱሞ ማርክተራ ይን ግዳ ዉትዳ። ይኬፓ ሱባ ይንታፓ ኦደን ታና በአማኖ ኤራነ። <verse eid="ACT 20:25"/><verse number="26" style="v" sid="ACT 20:26"/>ይኒ ግሾ፥ ይንታፓ ፈቲ አስ ብኮን ታ ኦጭንታማኖ Ꮉይኖ ቃማ ይንትስ ጌሽ ኦህነ። <verse eid="ACT 20:26"/><verse number="27" style="v" sid="ACT 20:27"/>አኮስ ጋይኮ፥ ጾዘ ቆፋ ኡባ ይንትስ አኮ ባዝን አሽካይዛራ ኦህዳ።<verse eid="ACT 20:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="ACT 20:28"/>«ፋ ናአይ ሱተ ዎንግደ ጾዘ ዎሳ ኬቶ ናጎተ። ጌሽ አያና ይንታና የንግዙንና ማህ ዶርደ ዉድትስን ይን ኦምትስን ናግንቶተ። <verse eid="ACT 20:28"/><verse number="29" style="v" sid="ACT 20:29"/>ታኒ Ꮉንግዳንፓ ሱባ፥ ዉድትስ ይቅስንቶሰ ኢታ ሱዹሙን ይን ግዳ ገሎዳኖ ታ ኤራነ። <verse eid="ACT 20:29"/><verse number="30" style="v" sid="ACT 20:30"/>ታማሩንና ፋ ሱብ ካልደስ ዎርዶ ታማርስዘ አሱን ይን ግዳፓ ደንዶዳ። <verse eid="ACT 20:30"/><verse number="31" style="v" sid="ACT 20:31"/>ይኒ ግሾ፥ ታ Ꮉይ በረ ቃማን አዋራን አፉራ ይንታና ኦምተ ኦምተ ካጭዳኖ ቆፕተር ምንጎተ።<verse eid="ACT 20:31"/></para>
+  <para style="p">
+    <verse number="32" style="v" sid="ACT 20:32"/>«Ꮉተን ይንታና ምንደስን ጌሽ አሱንራ ላታ እማደስ ዳንዳእዘ ጾዘስን ኤ አ ኬሃት ቃላስ ይንታና Ꮉዳራ እንጋነ።<verse eid="ACT 20:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="ACT 20:33"/>«ታኒ ኦደፓን ብራ ዎይ ዎርቃ ዎይ አፉላ ኤክካያ። <verse eid="ACT 20:33"/><verse number="34" style="v" sid="ACT 20:34"/>ታኒ ታ ኩሽተ ኦቺ ታስን ታራ የዙንና ቤዘባዝ ማድዳኖ ይን፥ ይን ኦምተ ኤራነ። <verse eid="ACT 20:34"/><verse number="35" style="v" sid="ACT 20:35"/>ይን Ꮉንፋና ላቢ ኦችተራ ላቢዱንና ማዶዳኖን ላ የሱሳ፥ ‹ኤክዘፓ አ እንግዛይ አንጅንትዳያ› ጋይደ ቃልቶ ይን ቆፖደስ ቤዛኖ ታ ይንታና ኡባባዝተ ቤዝዳ» ያጋይዳ።<verse eid="ACT 20:35"/></para>
+  <para style="p">
+    <verse number="36" style="v" sid="ACT 20:36"/>ጳዉሎሳ ይኖ ኦህ Ꮉሲ ኡን ኡቡንራ ቡንቁንቲ ጾዝ ዎስዳ። <verse eid="ACT 20:36"/><verse number="37" style="v" sid="ACT 20:37"/>ኡን ኡቡን ጳዉሎሳ እርንግ ዬኪ ዬሪዳ። <verse eid="ACT 20:37"/><verse number="38" style="v" sid="ACT 20:38"/>ኤ ማህ፥ «ታና በአማ» ያጋይደ ቃልታ ኡንታና ጋማ አዛንዳ። ኡን ማርካበ የሎደስ ኤዛ ሞይዝዳ።<verse eid="ACT 20:38"/></para>
+  <chapter eid="ACT 20"/>
+  <chapter number="21" style="c" sid="ACT 21"/>
+  <para style="s1">ጳዉሎሳ የሩሳላመ ቅትዳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 21:1"/>ኑ ኤፈሶነ ጭሙንፓ ሻግንትደፓ ሱባ ማርካበራ ቆሰ ቅትዳ። ዎንትስት ዎደ ሮዳ የሊ እዝፓ ጳጥራ ቅትዳ። <verse eid="ACT 21:1"/><verse number="2" style="v" sid="ACT 21:2"/>ፈንቀ ፊንግዘ ማርካበ ደንግ ኤ ግዳ ገሊ ቅቶደስ ደንድዳ። <verse eid="ACT 21:2"/><verse number="3" style="v" sid="ACT 21:3"/>ኑ ቆጵሮሳ ብእደ ዎደ፥ ቆጵሮሳ ዎርክታ ባጋ አሺ ሶርያ የዳ። ማርካብዘ ፋ ጫንቶ እዘ ኬደስ ኮይደ ግሾ ጢሮሳ ቅትዳ። <verse eid="ACT 21:3"/><verse number="4" style="v" sid="ACT 21:4"/>እዘ አማንዘ አሱንና ደንግ ኡንታራ ላፑን ቃማ በትዳ። ጳዉሎሳ የሩሳላመ ቅታመ ጋር ኡን ኤስ አያናራ ኦህዳ። <verse eid="ACT 21:4"/><verse number="5" style="v" sid="ACT 21:5"/>ኑኒ ኡን ካለ ጋምእዘ ዎድታ Ꮉልእን ኬዚ ቅትዳ። ኡን ኡባ ፋ ማቹንራን ፋ ናኡንራ ዎላ ካታማፓ ጋጻ ኬሲ ኑና ሞይዝዳ። ኑ አባ ካለ ቡንቁንቲ ጾዝ ዎስዳ። <verse eid="ACT 21:5"/><verse number="6" style="v" sid="ACT 21:6"/>ይንፓ ሱባ፥ ዎል ሳሮን ኑ ማርካብተ ገልዳ፤ ኡን ፋ ካራ ማቅዳ።<verse eid="ACT 21:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 21:7"/>ኑ አባ ኦግቶ Ꮉሲ፥ ጢሮሳፓ ጰጠለማይሳ የልዳ። እዘ አማንዘ አሱንና ሳር፥ ኡን ካለ ፈቲ ቃማ ፌዥዳ። <verse eid="ACT 21:7"/><verse number="8" style="v" sid="ACT 21:8"/>ዎንትስት ዎደ ኬዚ፥ ቂሳርያ ቅትዳ። ሳባኬ ፍልጶሳ ካራ የሊ ኤ ካለ በትዳ። ኤ የሩሳላመ ቲኖ ዶርንትደ ላፑንፋ ፈታ።<note caller="-" style="x"><char style="xo" closed="false">21:8 </char><char style="xt" closed="false"><ref loc="ACT 6:5">ሐዋ. 6:5</ref>፤ <ref loc="ACT 8:5">8:5</ref></char></note> <verse eid="ACT 21:8"/><verse number="9" style="v" sid="ACT 21:9"/>ፍልጶሳስ ናበ ማቅደ ኦይዲ ዉዱር ናኡን የነ።<verse eid="ACT 21:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 21:10"/>ኑኒ ኡንደና ቃማ እዘ በቴዝን አጋቦሳ ጋዘ ናበ ይሁዳፓ ቂሳርያ ይእዳ።<note caller="-" style="x"><char style="xo" closed="false">21:10 </char><char style="xt" closed="false"><ref loc="ACT 11:28">ሐዋ. 11:28</ref></char></note> <verse eid="ACT 21:10"/><verse number="11" style="v" sid="ACT 21:11"/>ኑጎ ይእ ጳዉሎሳ ሳቀ ኤኪ ናብዘ ፋ ኩሽቶን ፋ ቶህቶ አጪ፥ «ጌሽ አያና Ꮉይ ሳቂዘ አዳያ፥ የሩሳላመ አይሁዱን Ꮉንጋራ አጪ፥ አይሁደ ማቆሰ አሱንስ አ እንጎዳ ጋነ» ያጋይዳ።<verse eid="ACT 21:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 21:12"/>ኑኒ ይኖ ስእደ ዎደ ኑንን የዘ አሱን ጳዉሎሳ የሩሳላመ ቅታመ ጋር ዎስዳ። <verse eid="ACT 21:12"/><verse number="13" style="v" sid="ACT 21:13"/>የዝን ጳዉሎሳ ማህ፥ «ይን Ꮉንጋራ ዬክተራ አኮስ ታ ዎዝንቶ ታንዘ? ታኒ፥ ላ የሱሳ ሱንት ግሾ አጭንተ ጻላላ ማቅካይዝን የሩሳላመ Ꮉይቆደስን ጊግንትዳ» ያጋይዳ።<verse eid="ACT 21:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 21:14"/>ኑ ዞሪዳኖ ኤ ኤካንጽ እጽን፥ «ላ ቆፍታ Ꮉኖ» ጋእ ስእ ጋይዳ።<verse eid="ACT 21:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 21:15"/>እዘ ኤራ ዎደ ጋምእዳንፓ ሱባ ጊግንቲ የሩሳላመ ቅቶደስ ከዝዳ። <verse eid="ACT 21:15"/><verse number="16" style="v" sid="ACT 21:16"/>ቂሳርያ የዘ አማንዘ አሱንፓ ኤራን ኑራ Ꮉንግዳ። ኡን ኑኒ ሸምፖደ በሲ ምናሶነ ጋዘ ቆጵሮሳ አ ካራ ካልዳ። ምናሶነ ቲኖ አማንደ አሱንፓ ፈታ።<verse eid="ACT 21:16"/></para>
+  <para style="s1">ጳዉሎሳ የሩሳላመ ያይቆባ የልዳ</para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 21:17"/>ኑኒ የሩሳላመ የልደ ዎደ አማንዘ አሱን ኑና ኡፋይት ሞክዳ። <verse eid="ACT 21:17"/><verse number="18" style="v" sid="ACT 21:18"/>ዎንትስት ዎደ ጳዉሎሳን ኑኒ ያይቆባራ የልንቶደስ ቅትዳ። ዎሳ ኬ ጭሙን ኡቡን እዘ የነ። <verse eid="ACT 21:18"/><verse number="19" style="v" sid="ACT 21:19"/>ጳዉሎሳ ኡንታና ሳርዳንፓ ሱባ አይሁደ ማቆሰ አሱን ግዳ ፋ ባጋራ ጾዚ ኦችዳኖ ኡባ ኡንትስ ኦህዳ።<verse eid="ACT 21:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="ACT 21:20"/>ኡን ይኖ ስእደ ዎደ ጾዝ ጋላቲ ጳዉሎሳጎ Ꮉንጋራ ያጋይዳ፦ «ኑ እሻዮ፥ አይሁዱን ግዳ ዋን ሙኩሉን ጾዝ አማነዛኮ ነ በእነ፤ ኡን ኡቡንን ህገ ምን ናጋነ። <verse eid="ACT 21:20"/><verse number="21" style="v" sid="ACT 21:21"/>ኔኒ አይሁደ ማቆሱንና ሳአ የዘ አይሁደ ኡባ ፋ ናኡን ጋራዝንታመ ጋር፥ አይሁዱን ዎጋ ካላመ ጋራን ሙሴ ህገ እጾደ ጋር ኔኒ ታማርስዛኖ የሩሳላመ የዘ አይሁዱን ስእዳ። <verse eid="ACT 21:21"/><verse number="22" style="v" sid="ACT 21:22"/>ዬዝን አኮ ሎኦ? ነ ይእዳኖ ቱሮ ስኦዳ።<verse eid="ACT 21:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 21:23"/>«ይኒ ግሾ፥ ኑኒ ኔስ ኦህዛኖ ስኦ፤ ገፋ የዘ ኦይዲ አሱን ኑ ካለ የነ።<note caller="-" style="x"><char style="xo" closed="false">21:23-24 </char><char style="xt" closed="false"><ref loc="NUM 6:13-21">ፋይዶ 6:13-21</ref></char></note> <verse eid="ACT 21:23"/><verse number="24" style="v" sid="ACT 21:24"/>ኡንታና ኤኪ ኡንታራ ጌዦ፤ ማህ ኡን ፋ ኦምቶ ሜድንቶደ ጋር ኡንትስ ሚሸ እንጎ። ኡን ዛጋ ነባዝ ስእዳና ቱሮ ማቅካይዛኖን ኔኒ ነ ኦምተን ህገ ናግዘ አስ ማቅዳኖ ኡቡን ኤራነ።<verse eid="ACT 21:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="ACT 21:25"/>«የዝን አማንዘ አይሁደ ማቆሰ አሱንና ማቅዛኮ፥ ኡን ኤቃስ ዣርሽንትደባዝ ማአመ ጋር፥ ሱ ኡዣመ ጋር፥ ባዉታ ማአመ ጋራን ኦላላመ ጋር፥ ኑኒ ኦህቶ አጪ፥ ፍርድ ኡንትስ ኪታ ጻፍዳ» ጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">21:25 </char><char style="xt" closed="false"><ref loc="ACT 15:29">ሐዋ. 15:29</ref></char></note><verse eid="ACT 21:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="ACT 21:26"/>ይንፓ ሱባ፥ ጳዉሎሳ ዎንትስት ዎደ አሱንና ኤኪ፥ ኡንታራ ጌዥዳ። ኤ ፋ ጌዠ ዎድታ አይደ ፎልንቶደ የዛኮ ኤርሶደስን ፋ ዣርሽቶ አይደ ዣርሾደ የዛኮ ኤርሶደስ ጾዘ ኬ ገልዳ።<verse eid="ACT 21:26"/></para>
+  <para style="s1">ጳዉሎሳ አይክንትዳ</para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 21:27"/>ላፑን ቃማ ፎልንቶደስ ኡኮደራ፥ እስያፓ ይእደ አይሁዱን ጾዘ ኬ ጳዉሎሳ ብእ፥ አስ ኡባ ደን ጳዉሎሳ አይክዳ። <verse eid="ACT 21:27"/><verse number="28" style="v" sid="ACT 21:28"/>«እስራኤለ አሱን፥ ኑና ማዶተ፤ Ꮉይ አ፥ ኑ ዎርዥቶ፥ ኑ ህግቶን Ꮉና ጾዘ ኬቶ እጾደ ጋር አስ ኡቡንና ኡባ በሳ ታማርሳነ። ይናን ማቃንጽ እጽን አይሁደ ማቆሱንና ጾዘ ኬ ገል፥ Ꮉና ጌሽ በስቶ ቱንዝዳ» ያጋእ ኡክዳ። <verse eid="ACT 21:28"/><verse number="29" style="v" sid="ACT 21:29"/>ኡን ይኖ ጋይዳና ዛጋ ኤፈሶነ ጥሮፍሞሳ ጳዉሎሳራ ካታማ ብእደ ግሾ Ꮉተ ጳዉሎሳ ጾዘ ኬ ኤዛ ኤኪ ገልደባዝ ኡንትስ አዝዳ።<note caller="-" style="x"><char style="xo" closed="false">21:29 </char><char style="xt" closed="false"><ref loc="ACT 20:4">ሐዋ. 20:4</ref></char></note><verse eid="ACT 21:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 21:30"/>ካታምታ ኡባ ቡቅንትዳ፤ አሱን ኡባ ሺቂ ጳዉሎሳ አይኪ ጾዘ ኬፓ ባለ ጎችዳ። ጾዘ ኬ ፉርታ ኤልሲ ጎርድንትዳ። <verse eid="ACT 21:30"/><verse number="31" style="v" sid="ACT 21:31"/>አሱን ጳዉሎሳ ዎደስ ይአደራ፥ «የሩሳላመ ካታማ ኩሙ ቡቅንትዳ» ጋዘ ዎርታ ሮመ ሻላቃጎ የልዳ። <verse eid="ACT 21:31"/><verse number="32" style="v" sid="ACT 21:32"/>ሻላቅዘ ዎታዳሩንናን ማቶ Ꮉላቁንና ኤኪ ዎጽተራ ይእዳ። አሱን ሻላቅዛን ዎታዳሩንና ብእደ ዎደ ጳዉሎሳ ጉድዛኖ አሽዳ።<verse eid="ACT 21:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="ACT 21:33"/>የ ዎደ ሻላቅዘ ሺቂ፥ ጳዉሎሳ አይኪ፥ ላምእ ሳንላታራ አጭንቶደ ጋር ኪትዳ። የይዝ፥ ኤ ኦና የዛኮን አኮ ኦቼዛኮ አሱንና ኦጭዳ። <verse eid="ACT 21:33"/><verse number="34" style="v" sid="ACT 21:34"/>አሱንፓ ባግታ ፈትባዝ ጋእ ኡክዘ ዎደ Ꮉንኩን መለባዝ ጋእ ኡካነ። ኡክታ ጋንግደ ግሾ ሻላቅዘ ቱርቶ ሻጎደስ ዳንዳእንታንጽን፥ ዎታዳሩን ጳዉሎሳ ፋ የዘ በሳ ካንጎደ ጋር ኪትዳ። <verse eid="ACT 21:34"/><verse number="35" style="v" sid="ACT 21:35"/>ጳዉሎሳ የ ከዝዘ ዳራጅቶ የልዘ ዎደ አሱን ኡርቂዛን ግሾ ዎታዳሩን ኤዛ ቶክዳ። <verse eid="ACT 21:35"/><verse number="36" style="v" sid="ACT 21:36"/>ጋማ አሱን፥ «ኤ Ꮉይቆ!» ጋእ ኡክተራ ካላነ።<verse eid="ACT 21:36"/></para>
+  <para style="s1">ጳዉሎሳ ሞትስ ማሄ እንግዳ</para>
+  <para style="p">
+    <verse number="37" style="v" sid="ACT 21:37"/>ዎታዳሩን ጳዉሎሳ ፋ የዘ በስቶ ገልደስ ይአደራ፥ ጳዉሎሳ ሻላቅዘጎ፥ «ታኒ ኔስ ፈትባዝ ኦህኮ ስኦዳተ?» ጋይዳ።</para>
+  <para style="p" vid="ACT 21:37">ኤ ጳዉሎሳጎ፥ «ነ ግርኬ ዶና ኤራነ? <verse eid="ACT 21:37"/><verse number="38" style="v" sid="ACT 21:38"/>ኔኒ Ꮉንፓ ቲኖ ቡቁ መ ሸምፖ ዎደ ኦይዲ ሙኩል አሱንና ኤኪ አኮ ባይዘ ጋናስ ገልደ ግብጸ አ ባነ?» ጋይዳ።<verse eid="ACT 21:38"/></para>
+  <para style="p">
+    <verse number="39" style="v" sid="ACT 21:39"/>የዝን ጳዉሎሳ፥ «ታኒ፥ ክልቅያ የዘ ኤርንትደ ተርሴሰ ካታማ አስ ማቅደ አይሁደ አስ። ታና አሱንስ ኦህዞያ?» ጋይዳ።<verse eid="ACT 21:39"/></para>
+  <para style="p">
+    <verse number="40" style="v" sid="ACT 21:40"/>ሻላቅዘ ኤጎ፥ «ኦሆ» ጋእን ጳዉሎሳ ዳራጃላ ኤቂ፥ አሱን ስእ ጋዉደ ጋር ፋ ኩሽትራ ማሊዳ። አሱን ስእ ጋእን እብራይስጠ ዶናራ Ꮉንጋራ ጋይዳ፦<verse eid="ACT 21:40"/></para>
+  <chapter eid="ACT 21"/>
+  <chapter number="22" style="c" sid="ACT 22"/>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 22:1"/>«ታ እሹንን፥ ታ አዱን፥ ታኒ Ꮉተ ይንትስ እንግዘ ማህቶ ስኦተ።» <verse eid="ACT 22:1"/><verse number="2" style="v" sid="ACT 22:2"/>ጳዉሎሳ ኡንትስ እብራይስጠ ዶናራ ኦህዛና ስእ ካሰንፓ አ ስእ ጋይዳ። ኤ ካሊ፥<verse eid="ACT 22:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="ACT 22:3"/>«ታኒ ክልቅያ የዘ ተርሴሰ የልንት Ꮉና ካታምተ ድጭዳ። ታ አስታማርዘን ጋማልያለ፤ ታኒ ኑ አዱን ህግቶ ምን ታማርዳ፥ Ꮉይኖ ይን ኡባ Ꮉንዛንጋራ ጾዝስ ምሽንትዘ አይሁደ አስ።<note caller="-" style="x"><char style="xo" closed="false">22:3 </char><char style="xt" closed="false"><ref loc="ACT 5:34-39">ሐዋ. 5:34-39</ref></char></note> <verse eid="ACT 22:3"/><verse number="4" style="v" sid="ACT 22:4"/>ታ Ꮉና ኦግቶ ካልዘ ማቹንናን ራንሳና አይኪ አች ኬ ኦልተራን ኡንታና ዎዽሳደ ዎንስ ማ ቤዘ አስ።<note caller="-" style="x"><char style="xo" closed="false">22:4 </char><char style="xt" closed="false"><ref loc="ACT 8:3">ሐዋ. 8:3</ref>፤ <ref loc="ACT 26:9-11">26:9-11</ref></char></note> <verse eid="ACT 22:4"/><verse number="5" style="v" sid="ACT 22:5"/>ይኒ ጋራ፥ ካህኑን Ꮉላቅዘን ሻንጎ ኡባ ታ ባዝ ማርክደስ ዳንዳአነ። ታኒ ዳማስቆ የዘ ኡን እሹንስ ኡንታፓ ዳብዳበ ኤኪ እዘ የዘ አሱን አጭንቲ ሴርንቶደ ጋር የሩሳላመ ኡንታና ኮኦደስ እዘ ቅትዳ።<verse eid="ACT 22:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 22:6"/>«ታ Ꮉንግ ዳማስቆ ኡክደ ዎደ አዋራ ሳተ ቆፕካይዝን ሳሎፓ ዳማ ፎኦ ታ ካንቶ ዉቲ ፎእዳ። <verse eid="ACT 22:6"/><verse number="7" style="v" sid="ACT 22:7"/>ታ ሳእተ ጎልእ የሳደራ፥ ‹ሳዉላ፥ ሳዉላ፥ ታና አኮስ ባይ?› ጋዘ ቃላ ስእዳ። <verse eid="ACT 22:7"/><verse number="8" style="v" sid="ACT 22:8"/>ታኒ ማህ፥ ‹ላ፥ ኔኒ ኦደ?› ያጋይዳ።</para>
+  <para style="p" vid="ACT 22:8">«ኤ ማህ፥ ታኒ፥ ነ ባይዘ ናዝረተ የሱሳ» ያጋይዳ። <verse eid="ACT 22:8"/><verse number="9" style="v" sid="ACT 22:9"/>ታራ የዙን ፎእቶ ብእዳፕ አትን ታስ ኦህዘ ቃልቶ ስእካያ።<verse eid="ACT 22:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 22:10"/>«ታኒ፥ ‹ላ፥ ታ አኮ ኦቾ?› ያጋይዳ።</para>
+  <para style="p" vid="ACT 22:10">«ላ ታጎ፥ ‹ደንዲ ዳማስቆ ቅቶ። ነ ኦቾደ ጋር ጾዚ ቆፕደባዝ ኡባ እዘ ኔስ ኦህንቶዳ› ያጋይዳ። <verse eid="ACT 22:10"/><verse number="11" style="v" sid="ACT 22:11"/>ይና ዳማ ፎእትፓ ደንዲ ታ ኣፍታ ምን፥ ታራ የዘ አሱን ታ ኩሽቶ አይኪ፥ ታና ጎቺ ዳማስቆ የልዳ።<verse eid="ACT 22:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 22:12"/>«ዳማስቆ የዘ አይሁዱን ኡባ ማርክዘን ጋማ ቦንችዘ ፈቲ ሀናንያ ጋዘ አ፥ ኑ ህግቶ ቦንችዘን ጾዝ ምን ዎስዘ የነ። <verse eid="ACT 22:12"/><verse number="13" style="v" sid="ACT 22:13"/>ኤ ታጎ ይእ፥ ታ ካለ ኤቂ፥ ‹ታ እሸ ሳዉላ፥ ቦኦ› ጋይዳ። ኤልሲ ታ ኤዛ ብእዳ።<verse eid="ACT 22:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 22:14"/>«ኤ ታጎ፥ ‹ኑ አዱን ጾዘ ኔኒ ኤ ቆፍቶ ኤሮደ ጋር፥ ጽልዛ በአደ ጋራን ኤ ዶንትፓ ቃላ ስአደ ጋር ቲኒ ነና ዶርዳ። <verse eid="ACT 22:14"/><verse number="15" style="v" sid="ACT 22:15"/>ኔኒ ብእደባዝስን ስእደባዝ አስ ኡባ ቲኖ ኤስ ማርካ ማቃደ ፋና። <verse eid="ACT 22:15"/><verse number="16" style="v" sid="ACT 22:16"/>Ꮉተ አኮስ ጋምኤ? ጻማቅንቶ፤ ኤ ሱንቶ ጼጊ ነ ናጋርትፓ ሜጭንቶ› ያጋይዳ።<verse eid="ACT 22:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 22:17"/>«ታኒ ሱባ የሩሳላመ ማቂ ጾዘ ኬ ዎሶደራ፥ ታስ ቆንጭ በንትዳ። <verse eid="ACT 22:17"/><verse number="18" style="v" sid="ACT 22:18"/>ቆንጭስተ ላ ታጎ፥ ‹ነ ታስ ማርክዘ ማርካትቶ አሱን ኤኮሰ ግሾ ኤልሲ የሩሳላመፓ ከዞ› ያጋኦደራ ብእዳ።<verse eid="ACT 22:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 22:19"/>«ታኒ፥ ‹ላ፥ አይሁደ ዎሳ ኬ ኡባ ነና አማንዙንና አይኪ Ꮉዳያን አች ኬ ኦልዳያ ማቅዛኖ ኡን ኤራነ። <verse eid="ACT 22:19"/><verse number="20" style="v" sid="ACT 22:20"/>ኡን ነ ማርካ እስጢፋኖሳ ዎዘ ዎደ ታ ይና ኦችተ ዎላ የነ። ማህ ኡን ካለ ኤቂ ኤዛ ዎዙን ማእቶ ናጋነ› ያጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">22:20 </char><char style="xt" closed="false"><ref loc="ACT 7:58">ሐዋ. 7:58</ref></char></note><verse eid="ACT 22:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 22:21"/>«ላ ታጎ፥ ‹ታኒ ነና አይሁደ ማቆሰ አሱንጎ Ꮉኮ ሳአ ኪቶደ ግሾ ደንዲ ቅቶ› » ያጋይዳ።<verse eid="ACT 22:21"/></para>
+  <para style="s1">ጳዉሎሳ ሮመ አስ ማቅዛኖ ኤርስዳ</para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 22:22"/>ጳዉሎሳ ይና ቃልቶ ኦህ Ꮉሶደ ዎንስ አሱን ኤ ጋዛኖ ስእነ። ይንፓ ሱባ፥ ፋ ቃልቶ ቅ ዪዚ፥ «Ꮉና ሳእትፓ ብሶ! ኤ የሳደስ ቤዞስ» ያጋይዳ።<verse eid="ACT 22:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 22:23"/>ኡን ካጭንቲ፥ ፋ ማእቶ ኤላ አፋ ጊ ጹራ ኡደ ላሎደራ፤ <verse eid="ACT 22:23"/><verse number="24" style="v" sid="ACT 22:24"/>ሻላቅዘ ብእ ዎታዳሩን ጳዉሎሳ ኡን ፋ የዘ በሳ ካንጎደ ጋራ ኪትዳ። ማህ አሱን አኮስ Ꮉንጋራ ካጭንተዛኮ ኤሮደስ ኮይ ጳዉሎሳ ዳፈራ ጋራፊ ሎይ ኦጮደ ጋር ኡንታና ኪትዳ። <verse eid="ACT 22:24"/><verse number="25" style="v" sid="ACT 22:25"/>የዝን ዎታዳሩን ጳዉሎሳ ዳፈራ ምን አጪ ጋራፎደስ ዪዘ ዎደ ጳዉሎሳ ፋ ካንተ ኤቅደ ማቶ Ꮉላቅዘጎ፥ «ሮመ አስ<note caller="+" style="f"><char style="fr" closed="false">22:25 </char><char style="fk" closed="false">ሮመ አስ፦ </char><char style="ft" closed="false">16:37 ቦኦተ። </char></note> ፍርዳ ባይዝን ጋራፍዛና ይንትስ ዎጋ?» ያጋይዳ።<verse eid="ACT 22:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="ACT 22:26"/>ማቶ Ꮉላቅዘ ይኖ ስእደ ዎደ ሻላቅዘጎ Ꮉንግ፥ «Ꮉይ አ ሮመ አስ። ኔኒ አኮ ኦቾደስ ቆፐ?» ያጋእ ኦጭዳ።<verse eid="ACT 22:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 22:27"/>ሻላቅዘ ጳዉሎሳጎ ሺቂ፥ «ነ ሮመ አሶ? አነ ታስ ኦሆ» ያጋይዳ።</para>
+  <para style="p" vid="ACT 22:27">ጳዉሎሳ፥ «ዬ» ያጋይዳ።<verse eid="ACT 22:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="ACT 22:28"/>ሻላቅዘ ማህ፥ «ታኒ Ꮉኖ ጋደትቶ ጋማ ሚሸራ ኤክዳ» ያጋይዳ።</para>
+  <para style="p" vid="ACT 22:28">የዝን ጳዉሎሳ፥ «ታ Ꮉና ጋደትቶ የልንት ኤክዳ» ያጋይዳ።<verse eid="ACT 22:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="ACT 22:29"/>ይኒ ግሾ፥ ጳዉሎሳ ሎይ ኦጮደስ ቆፕዱን ኢራ ኤፓ ሻክንትዳ። ሻላቅዘ ሮመ አስ ሳንላታራ አጭዳኖ ኤርደ ዎደ ዣሽትዳ።<verse eid="ACT 22:29"/></para>
+  <para style="s1">ጳዉሎሳ አይሁደ ሻንጎ ቲኖ ሺቅዳ</para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 22:30"/>ዎንትስት ዎደ ሻላቅዘ፥ አይሁዱን ጳዉሎሳ አኮስ ሞተዛኮ ሻኪ ኤሮደስ ኮይ ብልዳ። ካህኑን Ꮉላቁንን ሻንጎ ኡቡን ሺቆደ ጋር ኪትዳ፤ ማህ ጳዉሎሳ ክእ ኡን ቲኖ ኤስዳ።<verse eid="ACT 22:30"/></para>
+  <chapter eid="ACT 22"/>
+  <chapter number="23" style="c" sid="ACT 23"/>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 23:1"/>ጳዉሎሳ ፍርድዘ አሱንና ዳኪ ብእ፥ «ታ እሹን፥ ታ Ꮉይኖ የሎደስ ጾዘ ቲኖ ታ የስተ ኡባ ሎኦ ዎዝናራ የዝዳ» ጋይዳ። <verse eid="ACT 23:1"/><verse number="2" style="v" sid="ACT 23:2"/>ካህኑን Ꮉላቅዘ ሀናንያ፥ ጳዉሎሳ ዶንቶ ባቆደ ጋር ኤ ካለ ኤቅዱንና ኪትዳ። <verse eid="ACT 23:2"/><verse number="3" style="v" sid="ACT 23:3"/>የ ዎደ ጳዉሎሳ ኤጎ፥ «ናተ ቦ ፎርቾ ትዥንትደ ዶቸይ፥ ጾዚ ነና ባቆዳ። ኔኒ ታላ ህገራ ፍርዶደስ በቲ የዝተ ህገ አሺ ታና ባቃደ ጋር ኪታነ?» ያጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">23:3 </char><char style="xt" closed="false"><ref loc="MAT 23:27-28">ማቶ. 23:27-28</ref></char></note><verse eid="ACT 23:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 23:4"/>ጳዉሎሳ ካለ ኤቅዱን ኤጎ፥ «ነ ጾዘ ካህኑን Ꮉላቃ ጫዣነ?» ያጋይዳ።<verse eid="ACT 23:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="ACT 23:5"/>ጳዉሎሳ፥ «ታ እሹን፥ ኤ ካህኑን Ꮉላቃ ማቅዳኖ ታ ኤርካያ፤ አኮስ ጋይኮ ጾዘ ቃልተ፥ ‹ነ ዎርዣ አህዘላ ኢታ ቃላ ኦህፐ› ያጋእንት ጻፍንትዳ» ያጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">23:5 </char><char style="xt" closed="false"><ref loc="EXO 22:28">ከዘ 22:28</ref></char></note><verse eid="ACT 23:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 23:6"/>የዝን ጳዉሎሳ ይና በስተ የዘ አሱንፓ ባጉን ሳዱቃዉያነ፥ ባጉን ፋርሳዉያነ ማቅዛኖ ኤሪ፥ «ታ እሹን፥ ታ ፋርሳዉያነ ፋርሳዉያነ ናአ፤ ‹Ꮉይቂዱን Ꮉይቆፓ ደንዶዳ› ጋእ ታኒ ኡፋይሳራ ናግዘ ግሾ ኡን ታላ ፍርዳነ» ያጋእ ኦህዳ።<note caller="-" style="x"><char style="xo" closed="false">23:6 </char><char style="xt" closed="false"><ref loc="ACT 26:5">ሐዋ. 26:5</ref>፤ <ref loc="PHP 3:5">ፍልፕ. 3:5</ref></char></note><verse eid="ACT 23:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 23:7"/>ጳዉሎሳ ይኖ ጋይደ ዎደ ፋርሳዉን ግዳን ሳዱቃዉን ግዳ ካች ከዝን ሻክንትዳ። <verse eid="ACT 23:7"/><verse number="8" style="v" sid="ACT 23:8"/>አኮስ ጋይኮ፥ ሳዱቃዉን፥ «Ꮉይቂደ አስ ደንዶስ፤ ኪታንቾን፥ አያናን ባያ» ያጋዙንና። የዝን ፋርሳዉን ኡባ የዛኖ አማናነ።<note caller="-" style="x"><char style="xo" closed="false">23:8 </char><char style="xt" closed="false"><ref loc="MAT 22:23">ማቶ. 22:23</ref>፤ <ref loc="MRK 12:18">ማር. 12:18</ref>፤ <ref loc="LUK 20:27">ሉቃ. 20:27</ref></char></note> <verse eid="ACT 23:8"/><verse number="9" style="v" sid="ACT 23:9"/>ዳማ ካች ከዝዳ፤ ፋርሳዉን ዛላ ማቅደ ህገ አስታማሩን ደንዲ ኤቂ፥ «Ꮉይ አላ አኮ ባላ ባዝ ደንግካያ፤ ኤስ አያና ዎይ ኪታንቾ ኦህካይዛራ አሾስ» ያጋእ ዎላ ላልዳ።<verse eid="ACT 23:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 23:10"/>ካችታ ጋንግን አሱን ጳዉሎሳ ሻቅ ኤካመ ጋር ጋእ፥ ሻላቅዘ ፋ ዎታዳሩን ዎ ኡን ግዳ ፋ ኤዛ ኤልሲ ኬሲ ፋ የዘ በሳ ካንጎደ ጋር ኪትዳ።<verse eid="ACT 23:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 23:11"/>ይኒ ቃማ ላ ጳዉሎሳ ካለ ኤቂ፥ «ጳዉሎሳ፥ ነ ታስ የሩሳላመ ማርክዳን ፋና ሮመን ማርክደስ ቤዛነ፤ ምንጎ፤ አኮ ባያ» ያጋይዳ።<verse eid="ACT 23:11"/></para>
+  <para style="s1">ጳዉሎሳ ዎደስ ዞርንትዳ</para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 23:12"/>ዎንትስት ዎደ አይሁዱን፥ «ጳዉሎሳ ዎካይዛራ ሞኦስ ኡዦስ» ጋእ ጫቂዳ። <verse eid="ACT 23:12"/><verse number="13" style="v" sid="ACT 23:13"/>ጳዉሎሳላ ይኖ ዞርንት ጫቂደ አሱን ኦይታማፓ አነ። <verse eid="ACT 23:13"/><verse number="14" style="v" sid="ACT 23:14"/>ኡን ካህኑን Ꮉላቁን ጋደ ጭሙንጎ Ꮉንግ፥ «ኑኒ ጳዉሎሳ ዎካይዛራ ካ ጋዘባዝ ሞኦስ ጋእ ጫቂዳ። <verse eid="ACT 23:14"/><verse number="15" style="v" sid="ACT 23:15"/>ይኬ፥ ይንትን ሻንጉንን ኤ ባዝ ሎይ ቁርችዘባዝ የዘ ባዝ ማህ፥ ጳዉሎሳ ይንታጎ ኮኦደ ጋር ሻላቅዛ ኦጮተ። ኑኒ ኤ Ꮉና ሺቅታ የሎዳንፓ ቲኖ ኤዛ ዎደስ ጊጊ በትዳ» ያጋይዳ።<verse eid="ACT 23:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="ACT 23:16"/>የዝን ጳዉሎሳ ምሽት ናአይ ይና ዞርንትዳኖ ስእ Ꮉንግ ዎታዳሩን የዘ በስቶ ገሊ፥ ጳዉሎሳስ ኦህዳ። <verse eid="ACT 23:16"/><verse number="17" style="v" sid="ACT 23:17"/>ጳዉሎሳ ማቶ Ꮉላቁንፓ ፈታ ጼጊ፥ «Ꮉይ ናአያ ሻላቅዘስ ኦህዘ ባዝ የዘ ግሾ ኤዛ ሻላቅዘጎ ካንጎ» ጋይዳ።<verse eid="ACT 23:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="ACT 23:18"/>ማቶ Ꮉላቅዘ ናአያ ሻላቅዘጎ ካንግ፥ «አች ኬ የዘ ጳዉሎሳ ታና ፋጎ ጼጊ፥ Ꮉይ ናአይ ኔስ ኦህዘ ባዝ የዘ ግሾ ኤዛ ኔጎ ኮኦደ ጋር ታና ዎስዳ» ያጋይዳ።<verse eid="ACT 23:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 23:19"/>ሻላቅዘ ናአይ ኩሽቶ አይኪ፥ ባለ ኬሲ፥ «ነ ታስ ኦሆደ ቆፍታ አኮ?» ያጋእ ኦጭዳ።<verse eid="ACT 23:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="ACT 23:20"/>ናአይ ሻላቅዘጎ፥ «አይሁዱን ጳዉሎሳባዝ ቲኖፓን ሚን ቁርቾደስ ኮይዘ ጋር አዝን ኔኒ ዎንታ ኤዛ ሺቅተ ኮኦደ ጋር ነና ዎሶደስ ዞረ አጭዳ። <verse eid="ACT 23:20"/><verse number="21" style="v" sid="ACT 23:21"/>የዝን ኔኒ ኡን ጋዛኖ ስእፐ። አኮስ ጋይኮ፥ ኦይታማፓ አዘ አሱን ጳዉሎሳ ዎካይዛራ ‹ካ ሞኦስ፥ Ꮉ ኡዦስ› ጋእ ጫቂ፥ አችንት ኤዛ ካፋነ። Ꮉተ ነ ጋዘባዝ ጻላላ ስኦደስ ካፋነ» ያጋይዳ።<verse eid="ACT 23:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 23:22"/>ሻላቅዘ ማህ፥ «Ꮉና ኦህቶ ነ ታስ ኦህዳኖ መለ ኦደስን ኦህፐ» ያጋእ ናአያ ሱብ ዳክዳ።<verse eid="ACT 23:22"/></para>
+  <para style="s1">ጳዉሎሳ ዎርዣ አህዘ ፍልክሳ ቲኖ ኪትዳ</para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 23:23"/>ሻላቅዘ ማቶ Ꮉላቁንፓ ላምኡንና ጼጊ፥ «ቃማፓ Ꮉይ ሳተ ቂሳርያ ቅቶደስ፥ ላምእ ጼት ዎታዳሩንና፥ ላፑን ታም ፋራ አሱንናን ላምእ ጼት ቶራ ዎርንግዙንና ጊግዞተ። <verse eid="ACT 23:23"/><verse number="24" style="v" sid="ACT 23:24"/>ጋድቶ አህዘ ፍልክሳጎ ጳዉሎሳ ሳሮ የልደስ ቶግዘ ፋራ ጊግዞተ» ያጋእ ኡንታና ኪትዳ። <verse eid="ACT 23:24"/><verse number="25" style="v" sid="ACT 23:25"/>ሻላቅዘ ፍልክሳስ Ꮉንጋራ ጋዘ ዳብዳበ ጻፍዳ፦<verse eid="ACT 23:25"/></para>
+  <para style="p">
+    <verse number="26" style="v" sid="ACT 23:26"/>«ቃላዉድዮሳ ሉስዮሳፓ ጋደ አህዘ ቦንቾ ፍልክሳሳ፥ ሳሮ ኔስ ማቀ። <verse eid="ACT 23:26"/><verse number="27" style="v" sid="ACT 23:27"/>አይሁዱን Ꮉይ አ አይኪ ዎደስ ይአደራ፥ ኤ ሮመ ሳአ አስ ማቅዳኖ ኤሪ ዎታዳሩንራ የሊ ኤዛ አሽዳ። <verse eid="ACT 23:27"/><verse number="28" style="v" sid="ACT 23:28"/>ኡን ኤዛ አኮስ ሞትዛኮ ኤሮደስ ኮይ ኡን ሺቅተ ኤዛ ታ ሺሽዳ። <verse eid="ACT 23:28"/><verse number="29" style="v" sid="ACT 23:29"/>ኡን ፋ ህግትስ ኤዛ ሞትዳፕ አትን ኤዛ ዎዘባዝ ዎይ አጭዘባዝ ባይዛኖ ታ ደንግዳ። <verse eid="ACT 23:29"/><verse number="30" style="v" sid="ACT 23:30"/>ኡን Ꮉይ አላ ዞርንትደ ዝግርስታ ታና የልን፥ ታ ኤልሲ ኤዛ ኔጎ ዳክዳ። ኤዛ ሞትዙን ነ ቲኖ Ꮉንግ ሞቶደ ጋር ኪትዳ» ያጋይዳ።<verse eid="ACT 23:30"/></para>
+  <para style="p">
+    <verse number="31" style="v" sid="ACT 23:31"/>ይኒ ግሾ፥ ዎታዳሩን ኪትንትዳን ፋና ጳዉሎሳ ኤኪ፥ ቃማ አንትጳጥርሳ የልዳ። <verse eid="ACT 23:31"/><verse number="32" style="v" sid="ACT 23:32"/>ዎንትስት ዎደ ፋራ አሱን ኤራ Ꮉንጎደ ጋር የይዝ አሱን ሱብ ማቅዳ። <verse eid="ACT 23:32"/><verse number="33" style="v" sid="ACT 23:33"/>ቶግዱን ቂሳርያ የሊ ዳብዳቢዛ ጋደ አህዘስ እንግ፥ ጳዉሎሳ ኤ ቲኖ አዳ። <verse eid="ACT 23:33"/><verse number="34" style="v" sid="ACT 23:34"/>ጋደ አህዛይ ዳብዳቢዛ ናባብዳንፓ ማቂ «ጳዉሎሳ፥ ነ አባ ጋደ አሶ?» ጋእ ኤዛ ኦጭዳ። ኤ ክልቅያ አስ ማቅዳኖ ኤርደ ዎደ <verse eid="ACT 23:34"/><verse number="35" style="v" sid="ACT 23:35"/>«ታኒ ነባዝ ነና ሞትዙን ይእደ ዎደ ስኦዳ» ያጋይዳ። ዎታዳሩን ጳዉሎሳ ሄሮድሳ ግበ ናጎደ ጋር ኪትዳ።<verse eid="ACT 23:35"/></para>
+  <chapter eid="ACT 23"/>
+  <chapter number="24" style="c" sid="ACT 24"/>
+  <para style="s1">ጳዉሎሳ አይሁዱን ሞትዳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 24:1"/>እችን ቃማፓ ሱባ ካህኑን Ꮉላቅዘ ሀናንያ፥ ጭሙንራን ጠርጠሉሳ ጋዘ ፈቲ ጻባቅዘራ ቂሳርያ ቅትዳ። ኡን ጋደ አህዙንላ ጳዉሎሳ ሞትዳ። <verse eid="ACT 24:1"/><verse number="2" style="v" sid="ACT 24:2"/>ጳዉሎሳ ጼግንት ገልደ ዎደ ጸርጸሉሳ ኤዛ Ꮉንጋራ ያጋእ ሞትዳ፦</para>
+  <para style="p" vid="ACT 24:2">«ቦንቾ ፍልክሳ፥ ኑኒ ነ ባጋራ ጋማ ሳሮ ደንግዳ፥ ነ ሎኦ አህዛነ ኑ ጋድታ ጋማ ላምንትዳ። <verse eid="ACT 24:2"/><verse number="3" style="v" sid="ACT 24:3"/>ቦንቾ ፍልክሳ፥ ኑኒ አባን አይደ ማቅን ፎሎ ጋላታራ ይኖ ኤካነ። <verse eid="ACT 24:3"/><verse number="4" style="v" sid="ACT 24:4"/>ታኒ ነና ጋምእዝካይዛራ ኔኒ ነ ኬሃትተ ኑ ባዝ Ꮉታራ ስኦደ ጋር ነና ዎሳነ። <verse eid="ACT 24:4"/><verse number="5" style="v" sid="ACT 24:5"/>Ꮉይ አ በ ማቂ ሳአ ኡባ የዘ አይሁዱን ግዳ ቡቁ መ ናዝራዉን ባጋ አሱንና ካልዛያ ማቅዳኖ ኤርዳ። <verse eid="ACT 24:5"/><verse number="6" style="v" sid="ACT 24:6"/>መለ አቶ የዝን፥ ጾዘ ኬቶ ቱንሳደስ ይአደራ ኑኒ ኤዛ አይክዳ፤ [ኑ ህግትጋራ ኤዛላ ፍርዶደስ ቆፕዳ። <verse eid="ACT 24:6"/><verse number="7" style="v" sid="ACT 24:7"/>የዝን ሻላቅዘ ሉስዮሳ ይእ፥ ዎልቃራ ኑ ኩሽትፓ ኤዛ ኬሲ ኤክዳ። <verse eid="ACT 24:7"/><verse number="8" style="v" sid="ACT 24:8"/>ኤዛ ሞትዙንን ኔጎ የኦደ ጋር ኪትዳ]<note caller="+" style="f"><char style="fr" closed="false">24:8 </char><char style="ft" closed="false">ፈቲ ፈቲ ዛጋ ማጻፍተ Ꮉይ ክፍልዘ ባያ</char></note>። ኔኒ ነ ኦምተ Ꮉይ አ ቁርች ኑኒ ኤዛ ሞትዘ ሞቶ ኡባ ኤሮደስ ዳንዳአነ» ጋይዳ።<verse eid="ACT 24:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 24:9"/>አይሁዱንን፥ «Ꮉና ኦህታ ቱሮ» ጋእ ኤ ቆፍቶ ማእዳ።<verse eid="ACT 24:9"/></para>
+  <para style="s1">ጳዉሎሳ ሞትስ ማሄ እንግዳ</para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 24:10"/>ጋደ አህዛይ ጳዉሎሳ ኦሆ ጋእ ማሊዳ። ጳዉሎሳ Ꮉንጋራ ጋእ ማህዳ፦ «ኔኒ ጋማ ዎደፓ አይኪ፥ Ꮉን አሱንስ ፍርድተራ የዛኖ ኤሪ ታ ኦህትስ ኡፋይስ ዎን ማሄ እንጋነ። <verse eid="ACT 24:10"/><verse number="11" style="v" sid="ACT 24:11"/>ታኒ ጎይኖደስ የሩሳላመ ከዝን ታጶ ላምእ ቃማፓ አሳኖ ኔኒ ነ ኦምተ ኤሮደስ ዳንዳአነ። <verse eid="ACT 24:11"/><verse number="12" style="v" sid="ACT 24:12"/>አይሁዱን ታና ጾዘ ኬ ማቅን አይሁዱን ዎሳ ኬ ማቅን ካታማ ማቅን ኦደራን ላሎደራ ዎይ አስ ሺሺ ቡቁስ ደንደራ ፈቲ አስን ደንግካያ። <verse eid="ACT 24:12"/><verse number="13" style="v" sid="ACT 24:13"/>Ꮉተን ኡን ታና ሞትዘ ባዝትስ ማርካ ደንጎደስ ዳንዳኦስ።<verse eid="ACT 24:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="ACT 24:14"/>«የዝን ታኒ ፈትባዝ አማናነ፤ ታኒ ህገ ግዳ የዘባዝን ናቡን ጻፍደ ኡባባዝቶ አማኒ፥ ኑ አዱን ጾዛ፥ ኡን ዎርዶ ትምርትተ ኦግተ ጎይናነ። <verse eid="ACT 24:14"/><verse number="15" style="v" sid="ACT 24:15"/>ኡን ፋ ኦምተ አማንዛን ጋር ጽሉንን ናጋራንቹንን Ꮉይቆፓ ደንዶዳኖ ታንን አማናነ። <verse eid="ACT 24:15"/><verse number="16" style="v" sid="ACT 24:16"/>ይኒ ግሾ፥ ታኒ ጾዘ ቲኖን አስ ቲኖ ኡባ ዎደ ሎኦ ቆፋ ታስ የሳደ ጋር ምንጋነ።<verse eid="ACT 24:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 24:17"/>«ታኒ የሩሳላመፓ ከዝዳንፓ ጋማ በረፓ ሱባ ታ ባጋ ዳሁንስ ማደ እማደስን ዣርሾ ዣርሾደስ የሩሳላመ ይእዳ።<note caller="-" style="x"><char style="xo" closed="false">24:17-18 </char><char style="xt" closed="false"><ref loc="ACT 21:17-28">ሐዋ. 21:17-28</ref></char></note> <verse eid="ACT 24:17"/><verse number="18" style="v" sid="ACT 24:18"/>ታኒ ጾዘ ኬተ ይኖ ኦቺ ጌዠ ዎጋ ፎሊ ማቃደራ ታና ደንግዳ። የ ዎደ ታራ ጋማ አስ ባያ፥ ካችን ከዝካያ። <verse eid="ACT 24:18"/><verse number="19" style="v" sid="ACT 24:19"/>የዝን እስያፓ ይእደ ፈቲ ፈቲ አይሁዱን እዘ የነ፤ ኡን ታላ ኦሆደስ ኮይኮ ይእ ታና ኔላ ሞቶደስ ዳንዳአነ። <verse eid="ACT 24:19"/><verse number="20" style="v" sid="ACT 24:20"/>ዎይ ታኒ ሻንጎ ቲኖ ሺቅደ ዎደ ኦችደ ባላ የዝኮ Ꮉንስ ነ ቲኖ የዙን ኦሆ። <verse eid="ACT 24:20"/><verse number="21" style="v" sid="ACT 24:21"/>ቱሮ ታኒ ኡን ግዳ ኤቂ ‹Ꮉይቂዱን ደንዶ የነ ጋእ Ꮉይኖ ፍርዳስ ይን ቲኖ ሺቅዳ› ጋእ ኡክ ኦህዳ፤ ይንፓ መለ ዪዝደ ባዝ ባያ» ያጋይዳ።<note caller="-" style="x"><char style="xo" closed="false">24:21 </char><char style="xt" closed="false"><ref loc="ACT 23:6">ሐዋ. 23:6</ref></char></note><verse eid="ACT 24:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 24:22"/>የዝን ፍልክሳ ላ ኦገ ባዝ ሻኪ ኤርደ ግሾ «ታኒ ይን ኦህቶ ሻላቃ ሉስዮሳ ይእደ ዎደ ፍርዶዳ» ጋእ ቃጻሮ እንግ ዳክዳ። <verse eid="ACT 24:22"/><verse number="23" style="v" sid="ACT 24:23"/>ፍልክሳ ማህ ጳዉሎሳ አጭካየዛራ ናጎደ ጋራን ኤ እግኑንፓ ኦደን ኤዛ ኦጮደስ የኦደራ ካያመ ፋና ማቶ Ꮉላቅዘስ ኦህዳ።<verse eid="ACT 24:23"/></para>
+  <para style="s1">ጳዉሎሳ ፍልክሳ ቲኖን ድሩሲላ ቲኖ ሺቅዳ</para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 24:24"/>ኤራ ቃማፓ ሱባ፥ ፍልክሳ አይሁደ ማቅደ ፋ ማችት ድሩሲላራ ይእ ጳዉሎሳ ኪቲ ክእዚ ክርስቶስ የሱሳ አማኖ ባዝ ኤፓ ስእዳ። <verse eid="ACT 24:24"/><verse number="25" style="v" sid="ACT 24:25"/>ጳዉሎሳ ጽሎትባዝ፥ ፋ ኦማ አህዘባዝን ዮኦደስ የዘ ፍርዳባዝ ኦሆደራ፥ ፍልክሳ ዣሽቲ፥ «ነ Ꮉተስ ቅቶ፤ ታስ ዎትደ ዎደ ነና ጼግሳዳ» ያጋይዳ። <verse eid="ACT 24:25"/><verse number="26" style="v" sid="ACT 24:26"/>የ ዎደ ጳዉሎሳፓ ጉቦ ኤኮደስ ቆፒ ኤዛ ማህ ማህ ጼግዝ ኤራ ኦህንታነ።<verse eid="ACT 24:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 24:27"/>ላምእ በረፓ ሱባ፥ ፍልክሳ በስተ ጶርቅዮስ ፍስጦሳ ሹሙንትዳ። ፍልክሳ አይሁዱንና ኡፋይሶደስ ኮይ ጳዉሎሳ ብልካይዛራ አሽዳ።<verse eid="ACT 24:27"/></para>
+  <chapter eid="ACT 24"/>
+  <chapter number="25" style="c" sid="ACT 25"/>
+  <para style="s1">ጳዉሎሳ ሮመ ካትዘጎ አቤት ጋይዳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 25:1"/>ፍስጦሳ ፋ አዉራጃ ገሊ Ꮉይ ቃማፓ ሱባ ቂሳርያፓ የሩሳላመ ቅትዳ። <verse eid="ACT 25:1"/><verse number="2" style="v" sid="ACT 25:2"/>እዘ ካህኑን Ꮉላቁንን አይሁዱንና ካልዙን ጳዉሎሳ ሞትዳ። <verse eid="ACT 25:2"/><verse number="3" style="v" sid="ACT 25:3"/>«ጳዉሎሳ የሩሳላመ ክእዚ ኑስ ሎኦ ባዝ ኦቾያ» ጋእ ዎስዳ፤ ይኖ ኡን ጋይዳና ጳዉሎሳ ኦገ ናጊ ኤዛ ዎደስ ኮይደ ግሾ። <verse eid="ACT 25:3"/><verse number="4" style="v" sid="ACT 25:4"/>ፍስጦሳ ኡንታጎ፥ «ጳዉሎሳ፥ ቂሳርያ አች ኬ የነ፤ ታኒ ታ ኦምተን ኤልሲ ሱባ ማቃደስ ይእነ። <verse eid="ACT 25:4"/><verse number="5" style="v" sid="ACT 25:5"/>ኤ ባልደባዝ የዝኮ ይን ሹሙን ታራ ቂሳርያ ዎ ኤዛ ሞቶ» ያጋእ ማህዳ።<verse eid="ACT 25:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="ACT 25:6"/>ፍስጦሳ ኡን ካለ ኦስፉን ዎይ ታጵ ቃማ ጋር ጋምእዳንፓ ሱባ ቂሳርያ ዎዳ። ዎንትስት ዎደ ፍርዳ ኦይዳላ በቲ ጳዉሎሳ ኮኦደ ጋር ኪትዳ። <verse eid="ACT 25:6"/><verse number="7" style="v" sid="ACT 25:7"/>ኤ ይእን የሩሳላመፓ ይእደ አይሁዱን ኤ ካለ ኤቂ ኡን ማርካ ሺሾደስ ዳንዳኦሰ ዳማ ምን ሞቶ ኤላ ሺሽዳ። <verse eid="ACT 25:7"/><verse number="8" style="v" sid="ACT 25:8"/>ጳዉሎሳ ማህ፥ «ታኒ አይሁዱን ህገ ማቅን ጾዘ ኬ ማቅን ዎይ ሮመ ካት ማቅን ቄሳረ ቆህካያ» ጋይዳ።<verse eid="ACT 25:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 25:9"/>የዝን ፍስጦሳ አይሁዱንና ኡፋይሶደስ ኮይ ጳዉሎሳጎ፥ «የሩሳላመ Ꮉንግ Ꮉና ሞትስ እዘ ታ ቲንተ ፍርድንቶደስ ኮያነ?» ያጋእ ኦጭዳ።<verse eid="ACT 25:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="ACT 25:10"/>የዝን ጳዉሎሳ፥ «ታኒ ፍርድንቶደስ ቤዝዘ ቄሳረ ፍርዳ ኬ ቲኖ ኤቅዳ። ኔኒ ሎይ ኤርዛን ጋር ታ አይሁዱንና አኮራን ቆህካያ። <verse eid="ACT 25:10"/><verse number="11" style="v" sid="ACT 25:11"/>ይኬ፥ ታኒ ቆህደባዝን Ꮉይቆስ የልደባዝ ኦችደባዝ ማቅዛኮ Ꮉይቆፓ ታና አሾ ጋኦስ። የዝን ኡን ታና ሞትዘ ሞታ ጨር ማቅኮ ኦደን ታና ኡንትስ አ እንጎደስ ዳንዳኦስ። ቄሳረ ታ ባዝ ፍርዶ ጋእ ኦጫነ» ጋይዳ።<verse eid="ACT 25:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 25:12"/>የ ዎደ ፍስጦሳ ፋ ዞርንትዙንራ ዞርንት፥ «ኔኒ ቄሳረ ታ ባዝ ፍርዶ ጋእ ኦጭዳ፤ ቄሳረጎ ቅቶዳ» ጋእ ማህዳ።<verse eid="ACT 25:12"/></para>
+  <para style="s1">ጳዉሎሳ አግርጳ ቲኖን ባርኒቀ ቲኖ ሺቅዳ</para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 25:13"/>ኤራ ቃማፓ ሱባ ካት አግርጳን ባርኒቀን ፍስጦሳ ሳርደስ ቂሳርያ Ꮉንግዳ። <verse eid="ACT 25:13"/><verse number="14" style="v" sid="ACT 25:14"/>እዘ ኡን ጋማ ዎደ ጋምእን፥ ፍስጦሳ ካትዘስ ጳዉሎሳባዝ Ꮉንጋራ ያጋእ ቆንጭዝዳ፤ «ፍልክሳ ብልካይዛራ አሺ ቅትደ ፈቲ አ Ꮉነ የነ። <verse eid="ACT 25:14"/><verse number="15" style="v" sid="ACT 25:15"/>ታኒ የሩሳላመ Ꮉንግደ ዎደ ካህኑን Ꮉላቁንን አይሁደ ጭሙን ኤላ አፋ ፍርዶደ ጋር ታና ዎሲ ኤ ባዝ ታላ ሞትዳ። <verse eid="ACT 25:15"/><verse number="16" style="v" sid="ACT 25:16"/>ታኒ፥ ‹ሞትንትደ አ ፋና ሞትዙን ቲኖ ኤቂ ፋ ሞትዳንስ ማሄ እንግካይዝን፥ ኦና ማቅኮን አ እንግንትዛና ሮመ ዎጋ ባያ› ጋእ ኡንትስ ማህዳ።<verse eid="ACT 25:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 25:17"/>«ይኒ ግሾ፥ ኡን Ꮉነ ሺቅደ ዎደ ታኒ ጋምእካይዛራ ዎንትስት ዎደ ፍርዳ ኬ ገሊ ጳዉሎሳ ኮኦደ ጋር ኪትዳ። <verse eid="ACT 25:17"/><verse number="18" style="v" sid="ACT 25:18"/>ኤዛ ሞትዙን ኤ ካለ ዉቲ ኤቂ፥ ኢታባዛራ ኤዛ ሞትካይዛር አሻማ ጋእ ታኒ ቆፕዳን ጋር ኤዛ ሞትካያ። <verse eid="ACT 25:18"/><verse number="19" style="v" sid="ACT 25:19"/>የዝን ኡን ፋ አማኖባዝን ጳዉሎሳ፥ ‹ፋጻ የነ› ጋዘ ፈቲ Ꮉይቂደ የሱሳ ጋእንትዘ አባዝ ኤራ ላላነ። <verse eid="ACT 25:19"/><verse number="20" style="v" sid="ACT 25:20"/>Ꮉና ኦህታ ታና ሻኮደስ ዴጽደ ግሾ ጳዉሎሳ የሩሳላመ Ꮉንግ፥ እዘ ፍርድንቶደስ ኮይዛኮ ጋእ ኤዛ ኦጭዳ። <verse eid="ACT 25:20"/><verse number="21" style="v" sid="ACT 25:21"/>የዝን ጳዉሎሳ ፋ ኦህቶ ቄሳረ በአደ ዎንስ አች ኬ ጋምኦደስ ኦጭዳ። ታኒ ኤዛ ቄሳረጎ ዳኮደ ዎንስ ኤ አጭንቶደ ጋር ኪትዳ» ያጋይዳ።<verse eid="ACT 25:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="ACT 25:22"/>ይኒ ግሾ፥ አግርጳ ፍስጦሳጎ፥ «ታኒ ታ ኦምተን Ꮉይ አ ጋዛኖ ስኦደስ ኮያነ» ጋይዳ።</para>
+  <para style="p" vid="ACT 25:22">ፍስጦሳ ኤጎ፥ «ኔኒ ዎንታ ኤ ጋዛኖ ስኦዳ» ያጋይዳ።<verse eid="ACT 25:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 25:23"/>ዎንትስት ዎደ አግርጳን ባርኒቀን ዳማ ቦንቾራ ሻላቁንራ ካታማ የዘ አህዘ አሱንራ ይእ ፍርዳ ኬ ገልዳ። ፍስጦሳ ጳዉሎሳ ጼግዝ ክእዳ። <verse eid="ACT 25:23"/><verse number="24" style="v" sid="ACT 25:24"/>ፍስጦሳ፥ «ካት አግርጳ፥ Ꮉነ ኑራ የዘ አሱን፥ አይሁዱን የሩሳላመን Ꮉነን ዉይሲ፥ ‹ኤ ይኬፓ ሱባ ፋጻ የሳደስ ቤዞስ› ያጋእ፥ ታና ዎስደ አ Ꮉያ ይን በእነ። <verse eid="ACT 25:24"/><verse number="25" style="v" sid="ACT 25:25"/>የዝን ኤዛ Ꮉይቆስ የልዘባዝ አኮ ባዝን ታኒ ደንግካያ። ኤ ፋ ኦምተ፥ ‹ቄሳረ ታ ባዝ ፍርዶ ጋእ ኦጫነ› ጋይደ ግሾ ቄሳረጎ ኤዛ ዳኮደስ ቆፋ አጭዳ። <verse eid="ACT 25:25"/><verse number="26" style="v" sid="ACT 25:26"/>ታኒ ኤ ባዝ ታ ላ ቄሳረስ ጻፎደስ ማቅዘ ኤርንትደባዝ አኮን ባያ። ይኒ ግሾ፥ ኤ ባዝ ይን ብእኮ ታ ጻፎደባዝ በንቶድ የዛኮ ጋእ ይን ቲኖ አ ካት፥ አግርጳ፥ ነ ቲኖ ኤዛ ክእዳ። <verse eid="ACT 25:26"/><verse number="27" style="v" sid="ACT 25:27"/>አኮስ ጋይኮ፥ አጭንትደ አ አዘ ዎደ ኤ አኮስ ሞትንተዛኮ ምክናቶ ኤርስዝካይዛራ አሽዛና ታስ ኤያት አዛነ» ያጋይዳ።<verse eid="ACT 25:27"/></para>
+  <chapter eid="ACT 25"/>
+  <chapter number="26" style="c" sid="ACT 26"/>
+  <para style="s1">ጳዉሎሳ አግርጳ ቲኖ ማህደ ማሄ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 26:1"/>አግርጳ ጳዉሎሳጎ፥ «ኔኒ ነባዝ ኦሆደስ ዳንዳአነ» ጋይዳ። የ ዎደ ጳዉሎሳ ፋ ኩሽቶ ደን Ꮉንጋራ ጋይዳ፦<verse eid="ACT 26:1"/></para>
+  <para style="p">
+    <verse number="2" style="v" sid="ACT 26:2"/>«ካት፥ አግርጳ፥ አይሁዱን ታና ሞትደ ባዝስ ኡባ ማሄ እንጎደስ Ꮉይኖ ነ ቲኖ ኤቅተራ ታስ እጻ ሎኦ ጋእ ቆፓነ። <verse eid="ACT 26:2"/><verse number="3" style="v" sid="ACT 26:3"/>ይናን ኔኒ አይሁደ ዎጋን ላለን ሎይ ኤራነ፤ ይኒ ግሾ ታና አዛልእካይዛራ ስአደ ጋር ዎሳነ።<verse eid="ACT 26:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="ACT 26:4"/>«ታኒ ናአትፓ አይኪ ታ አሱን ግዳን የሩሳላመ የዝደ ታ የስቶ አይሁዱን ኡባ ኤራነ። <verse eid="ACT 26:4"/><verse number="5" style="v" sid="ACT 26:5"/>ታኒ ቲኖፓ አይኪ፥ ኑ አማኖ ህግቶ ምን ናግዘ ፋርሳዉን ኮቻፓ ማቅዳኖ ኡን ማርክደስ ኮይኮ ኤራነ።<note caller="-" style="x"><char style="xo" closed="false">26:5 </char><char style="xt" closed="false"><ref loc="ACT 23:6">ሐዋ. 23:6</ref>፤ <ref loc="PHP 3:5">ፍልፕ. 3:5</ref></char></note> <verse eid="ACT 26:5"/><verse number="6" style="v" sid="ACT 26:6"/>Ꮉተን ታኒ ጾዚ ኑ አዱንስ እንጎዳ ጋይደ ኡፋይስቶ ናግዘ ግሾ ሞትንቲ Ꮉነ ኤቅዳ። <verse eid="ACT 26:6"/><verse number="7" style="v" sid="ACT 26:7"/>ማህ ታጶ ላምእ ኑ አዱን ኮችታ ጾዛ ቃማን አዋራን ምን ጎይንተር ጾዚ እንጎዳ ጋእዳኖ ኤኮደስ ኡፋይሳራ ናጊ የነ። ካት አግርጳ፥ አይሁዱን ታና ሞትዛና ታኒ ኡፋይሳራ ይኖ ናግዘ ግሾ። <verse eid="ACT 26:7"/><verse number="8" style="v" sid="ACT 26:8"/>ጾዚ Ꮉይቂዱንና ደንዛና አኮስ ይን ግዳ አማንንቶሰ ባዝ ማቅዶ?<verse eid="ACT 26:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 26:9"/>«ዛጋ ታኒ ታ ኦምተን ናዝረተ የሱሳ ሱንቶ እጾደስ ዳንዳእንትደ ባዝ ኡባ ኦቾደስ ቤዛነ ጋእ ቆፕዳ።<note caller="-" style="x"><char style="xo" closed="false">26:9-11 </char><char style="xt" closed="false"><ref loc="ACT 8:3">ሐዋ. 8:3</ref>፤ <ref loc="ACT 22:4-5">22:4-5</ref></char></note> <verse eid="ACT 26:9"/><verse number="10" style="v" sid="ACT 26:10"/>ታኒ የሩሳላመ ኦችዳና Ꮉኖ። ካህኑን Ꮉላቁንፓ አደት ዎልቃ ኤኪ ጾዝ አሱንፓ ጋሙንና አጭዝዳ። ኡንታና ዎዘ ዎደን ዎዘ ቆፍተ ጊግዳ። <verse eid="ACT 26:10"/><verse number="11" style="v" sid="ACT 26:11"/>ጋማ ዎደ አይሁደ ዎሳ ኬ ኡባ ኡን ሴርንቶደ ጋራን የሱሳ ጫዦደ ፋና ዎልቂስ ቆፕዳ። ታኒ ዎጋባዝ ኡንታና ካጪ መለ አቶ የዝን፥ ባለ ሳአ ካታማ የሎደስ ኡንታና ባይአነ።<verse eid="ACT 26:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="ACT 26:12"/>«ታኒ Ꮉና ኦህትስ ካህኑን Ꮉላቁንፓ አደት ዎልቃን ኪታ ኤኪ ዳማስቆ ቅታነ። <verse eid="ACT 26:12"/><verse number="13" style="v" sid="ACT 26:13"/>ካታዮ፥ ታኒ አዋራ ሳተ ኦገ የሳደራ አዋ ፎኦፓ ጋማ አዘ ፎኦ ብእዳ፤ ይናን ታ ካንቶን ታራ የዙን ካንቶ ዉቲ ሳሎፓ ፎእዳ። <verse eid="ACT 26:13"/><verse number="14" style="v" sid="ACT 26:14"/>ኑኒ ኡቡን ሳእተ ጎልኤዘ ዎደ እብራይስጠ ዶናራ፥ ‹ሳዉላ፥ ሳዉላ፥ ታና አኮስ ባይኤ? ኔኒ ነና ጫድዘ ብራትዛ እጽኮ ኔስ ዎዝ ኢቶዳ› ጋእ ታስ ኦሆደራ ስእዳ።<verse eid="ACT 26:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 26:15"/>«ታኒ፥ ‹ላ፥ ነ ኦደ?› ጋይዳ።</para>
+  <para style="p" vid="ACT 26:15">«ላ፥ ‹ታኒ፥ ነ ባይእዘ የሱሳ፤ <verse eid="ACT 26:15"/><verse number="16" style="v" sid="ACT 26:16"/>የዝን ደንዲ ኤቆ። Ꮉይኖ ኔኒ ታና ብእዳኖን ቲኖፓ ታ ነና ቤሳዳኖ መሉንስ ማርክደ ጋር ታ ታስ ኦችዛ ማህ ነና ሹሞደስ ኔስ በንትዳ። <verse eid="ACT 26:16"/><verse number="17" style="v" sid="ACT 26:17"/>እስራኤለ አሱንፓን ታኒ ነና ኡንታጎ ኪትዘ አይሁደ ማቆሱንፓ ነና አሾዳ። <verse eid="ACT 26:17"/><verse number="18" style="v" sid="ACT 26:18"/>ኔኒ ኡን ኣፍቶ ቡጎዳ፥ ማፓ ፎኦጎ፥ ጻላሄ ኩሸፓ ጾዛጎ ኡንታና ማሆዳ። ኡን ታና አማኒ ናጋራ አቶት ኤኮዳ። ጾዚ አማኒ ጌዥደ አሱን ግዳ ፋ ላቶ ደማዳ› ያጋይዳ።<verse eid="ACT 26:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="ACT 26:19"/>«ካት አግርጳ፥ ይኒ ግሾ፥ ታስ ሳሎፓ በንትደ ቆንጭትስ ኪትንቶዳኖ እጽካያ። <verse eid="ACT 26:19"/><verse number="20" style="v" sid="ACT 26:20"/>የዝን ታኒ ቲን ዳማስቆ ግዳ ይንፓ ሱባ የሩሳላመ ግዳ ይሁዳ ሳአ ኡባ የዙንን አይሁደ ማቆሱን ፋ ናጋራፓ ጾዛጎ ማቃደ ጋራን ናጋራፓ ማቅዳኖ ቤዝዘ ኦቻ ኦቾደ ጋር ቃላ ኦህዳ።<note caller="-" style="x"><char style="xo" closed="false">26:20 </char><char style="xt" closed="false"><ref loc="ACT 9:20">ሐዋ. 9:20</ref>፥ <ref loc="ACT 9:28-29">28-29</ref></char></note> <verse eid="ACT 26:20"/><verse number="21" style="v" sid="ACT 26:21"/>ይኒ ግሾ፥ አይሁዱን ታና ጾዘ ኬ አይኪ ዎደስ ኮይዳ። <verse eid="ACT 26:21"/><verse number="22" style="v" sid="ACT 26:22"/>Ꮉይኖ የሎደስ ጾዘ ማደ ታፓ ሻክንትካያ፤ ይኒ ግሾ፥ ኤራስን ዳማስ ማርክተራ Ꮉነ ኤቅዳ። ናቡንን ሙሴን Ꮉኖዳ ጋእ ኦህዳንፓ መለ ፈትባዝን ታኒ ኦህደባዝ ባያ። <verse eid="ACT 26:22"/><verse number="23" style="v" sid="ACT 26:23"/>ይናን፥ ‹ክርስቶሳ ማ ኤኮደስ ቤዛነ፤ ማህ Ꮉይቆፓ ቲኖ ደንድ አይሁዱንስን አይሁደ ማቆሱንስ ፎኦ አዋጃነ› ጋእ።»<note caller="-" style="x"><char style="xo" closed="false">26:23 </char><char style="xt" closed="false"><ref loc="1CO 15:20">1 ቆሮ. 15:20</ref>፤ <ref loc="ISA 42:6">ኢሳ. 42:6</ref>፤ <ref loc="ISA 49:6">49:6</ref></char></note><verse eid="ACT 26:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="ACT 26:24"/>ጳዉሎሳ ይኖ ጋእ ማሆደራ፥ ፍስጦሳ ፋ ቃልቶ ቅ ዪዚ፥ «ጳዉሎሳ፥ ነ ዣሽትዳ፤ ነ ጋማ ታማርዳና ነና ዣሻስ የልዳ» ያጋይዳ።<verse eid="ACT 26:24"/></para>
+  <para style="p">
+    <verse number="25" style="v" sid="ACT 26:25"/>የዝን ጳዉሎሳ፥ «ቦንቾ ፍስጦሳ፥ ታኒ ቱርባዝን ኮሽዘ ባዝን ኦህነፕ አትን ዣሽትካያ። <verse eid="ACT 26:25"/><verse number="26" style="v" sid="ACT 26:26"/>ታኒ ቆንጨ ኦህዘ ኦህቶ ካት ኤራነ። Ꮉና ኦህታ አችቻ ኦችንትካይዘ ግሾ ፈትን ኤፓ ገንጎሳኖ ታኒ ጌሽ ኤራነ።<verse eid="ACT 26:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 26:27"/>«ካት አግርጳ፥ ኔኒ ናቡንና አማናነ ባነ? ነ አማንዛኖ ታኒ ኤራነ» ጋይዳ።<verse eid="ACT 26:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="ACT 26:28"/>ካት አግርጳ፥ ጳዉሎሳጎ፥ «Ꮉና ኤራ ሳተ ታና ክርስታነ ማሆደስ ኮያነ?» ያጋይዳ።<verse eid="ACT 26:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="ACT 26:29"/>ጳዉሎሳ፥ «ጋማ ዎደ ማቅን ኤራ ዎደ ነ ጻላላ ማቅካይዝን Ꮉይኖ ታና ስእዘ ኡቡን Ꮉና አችትፕ አትን ታ ፋና ማቃደ ፋና ጾዝ ዎሳነ» ያጋይዳ።<verse eid="ACT 26:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 26:30"/>ይንፓ ሱባ፥ ካት አግርጳ ጋደ አህዘ ፍስጦሳ፥ ባርኒቀን ኡንታራ በትደ ኡቡን ደንድዳ። <verse eid="ACT 26:30"/><verse number="31" style="v" sid="ACT 26:31"/>እዝፓ ኬዚ ቅትተራ ፈተ ፈተራ፥ «Ꮉይ አ Ꮉይቆስ ዎይ አችስ የልዘባዝ አኮን ኦችካያ» ጋእ ዎላ ኦህንትዳ። <verse eid="ACT 26:31"/><verse number="32" style="v" sid="ACT 26:32"/>አግርጳ ፍስጦሳጎ፥ «Ꮉይ አ ‹ቄሳረ ታ ባዝ ፍርዶ› ጋይካይዛኮ ብልንቶደስ ዳንዳአነ፥ የዝን አትዳ» ጋይዳ።<verse eid="ACT 26:32"/></para>
+  <chapter eid="ACT 26"/>
+  <chapter number="27" style="c" sid="ACT 27"/>
+  <para style="s1">ጳዉሎሳ ሮመ ቅትዳ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 27:1"/>ኑኒ ማርካበራ ጣልያ ቅቶደ ፋና ኡን አጭደ ዎደ ካቱን ዋና ማቅደስ ዎታዳሩንና ኦላስ ኪትዘ ፈተ ዩልዮሳ ጋዘ ማቶ Ꮉላቅዘስ ጳዉሎሳን መለ ኤራ አቻ የዘ አሱንና እንግዳ። <verse eid="ACT 27:1"/><verse number="2" style="v" sid="ACT 27:2"/>እስያ ጋጻ የዘ ጉታ ቅትዘ አድራምጥዮነ ማርካበ ግዳ ገሊ ደንድዳ። መቀዶንያ አስ ማቅደ ተሰሎንቄ አርስጥሮኮሳ ኑራ የነ።<verse eid="ACT 27:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="ACT 27:3"/>ዎንትስት ዎደ ኑኒ ስዶና የሎደራ፥ ዩልዮሳ ጳዉሎሳስ ሎይ ፋ ላጉንጎ Ꮉንግ ኮሽዘ ባዝ ማድንቶደ ጋር ኡንታጎ ዳክዳ። <verse eid="ACT 27:3"/><verse number="4" style="v" sid="ACT 27:4"/>እዝፓ ደንዲ ቲኖራ ኑላ ባቂዘ ግሾ Ꮉራ ተቅንትደ ሳአ፥ ቆጵሮሳራ ካተ ማህ ዬካ ዛላራ አዳ። <verse eid="ACT 27:4"/><verse number="5" style="v" sid="ACT 27:5"/>ክልቅያን ጵንፍልያ ካለ የዘ አባ ፊንግ ሊቅያን የዘ ሙራ የልዳ። <verse eid="ACT 27:5"/><verse number="6" style="v" sid="ACT 27:6"/>እዘ ማቶ Ꮉላቅዘ ጣልያ ቅትዘ እስክንድርያ ማርካበ ደንግ፥ እዘ ኑና ገልዳ።<verse eid="ACT 27:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="ACT 27:7"/>ኑኒ ጋማ ዎደ ለሚ የዺ፥ ጋማ ማራ ቃንዶሳ ካታማ ካለ የልዳ። የይጋራ ቅቶደስ ኑና ጎተ ካይን ሳልሞናራ አ Ꮉራ ተቅንትደ ሳአ፥ ቃርጠሳራ ካቲ አዳ። <verse eid="ACT 27:7"/><verse number="8" style="v" sid="ACT 27:8"/>ጋማ ማራ ጋጻ ጋጻ አይኪ ላስያ ካታማ ካለ የዘ አባ ጋጽተ «ሎኦ ማርካበ ሸምፕዘ በሲ» ጋእንትዘ በስተ የልዳ።<verse eid="ACT 27:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="ACT 27:9"/>ኑኒ እዘ ጋማ ዎደ ጋምእዳንፓ ሱባ ጾማ ብልንትን፥ ማርካበራ የዛና ዋይዘ ግሾ ጳዉሎሳ ኡንታና ዞርዳ። <verse eid="ACT 27:9"/><verse number="10" style="v" sid="ACT 27:10"/>«አሱን፥ ኑ Ꮉንግዘ ኦግተ ዳማ ቆሄን ዳማ በ የዛና ታስ በንታነ፤ ቆህታ ጫናላን ማርካበላ ጻላላ ማቅካይዝን ኑ ኦምትላን የሎዳ» ጋይዳ። <verse eid="ACT 27:10"/><verse number="11" style="v" sid="ACT 27:11"/>የዝን ማቶ Ꮉላቅዘ ጳዉሎሳ ጋይዳንፓ አ ማርካበ እዥዛይን ማርካብት አዳይን ጋዛኖ አማንዳ። <verse eid="ACT 27:11"/><verse number="12" style="v" sid="ACT 27:12"/>ይና አባ ጋጻ የዘ ካታማ ባልጎ አግና ኣደስ ኡንትስ ጊጎሰ ግሾ ጋማ አሱን ፋስ ዳንዳእንትኮ ፍንቀ ካታማ የሊ ስላ አግና የይጋ ኣደስ ዞርንትዳ። ፍንቀ ዎካ አዋ ገሎፓን ዬካ አዋ ገሎፓን ግዳ አባ ጋጻ የዘ ማርካበ ጫና ኬዘ በሲ ስላ አግና እዘ ኣደስ ቆፋ ሺሽዳ።<verse eid="ACT 27:12"/></para>
+  <para style="s1">አባላ ጎተ ደንድዳ</para>
+  <para style="p">
+    <verse number="13" style="v" sid="ACT 27:13"/>ኤራ ዬካ ባቆ ባቂደ ዎደ ኡን ቆፕዳንጋራ Ꮉንደ ፋና ይእን ደንዲ፥ ማርካብዘ ኤንአመ ጋር አይክዘ መቅዛ ኡደ ኤኪ ቃርጠሰ ካለራ አዳ። <verse eid="ACT 27:13"/><verse number="14" style="v" sid="ACT 27:14"/>የዝን ጋማ ጋምእካይዝን «አዉራቂስ» ጋዘ ዳማ ጎተ Ꮉራ ተቅንትደ ሳእትፓ ሱለ ኡንታላ አፋ ደንድዳ። <verse eid="ACT 27:14"/><verse number="15" style="v" sid="ACT 27:15"/>የ ጎትዘ ማርካብዛ ኡርቂ Ꮉንጋመ ፋና ካይደ ግሾ ባቅዘ ማርካብዛ ፋ ኮይደ በሳ ካንጎደ ፋና ዳኪ አሽዳ።<verse eid="ACT 27:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="ACT 27:16"/>ኑኒ ቄዳ ጋዘ Ꮉራ ተቅንትደ ሳአ ካቲ Ꮉንግተራ ጋማ ዋየራ ማርካብዘ ጎንግዛ አሾደስ ዳንዳእዳ። <verse eid="ACT 27:16"/><verse number="17" style="v" sid="ACT 27:17"/>ኡን ጎንግዛ ኡደ ከስዳንፓ ሱባ ጋደራ ማርካብዘላ ጻጺ፥ ምን አጭዳ። ሱርቲሳ ጋዘ ሻፍተ ፋና ጎልእዛመ ጋር ይርጊ፥ ማርካብዘ ሻርቶ ኬ ማርካብዛ Ꮉሪ እዥዳ።<verse eid="ACT 27:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="ACT 27:18"/>ጎትዘ ሚንግ Ꮉንጎደራ ዎንትስት ዎደ ጫንትፓ ባግቶ አባ ኦለ አይክዳ። <verse eid="ACT 27:18"/><verse number="19" style="v" sid="ACT 27:19"/>Ꮉይን ቃማ ማርካብዘ ሚሽቶ ኤኪ ፋ ኩሽትራ ኦልዳ። <verse eid="ACT 27:19"/><verse number="20" style="v" sid="ACT 27:20"/>ኑኒ ጋማ ዎደ አዋ ኣፈን ጾልንቶን ብእካይዘ ግሾን ዳማ ጎተ ኑላ ባቂደ ግሾ ቲኖፓ ሸምፖራ አቶዳ ጋእ ቆፕካያ።<verse eid="ACT 27:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 27:21"/>የ ዎደ ኡን ጋማ ዎደ ካ ሚካይዛራ ጋምእደ ግሾ ጳዉሎሳ ኡን ግዳ ደንዲ ኤቂ፥ «አሱን፥ ይን ታ ዞርቶ ኤኪ ቃርጠሳፓ ደንድካይዛራ አተዛኮ Ꮉና ቆህታን ብታን ኑና የላማ የሻ። <verse eid="ACT 27:21"/><verse number="22" style="v" sid="ACT 27:22"/>የዝን ታኒ ይንታና ዣሽትፐተ ጋእ ዞራነ፤ አኮስ ጋይኮ፥ Ꮉይ ማርካብዘ ቦዳፕ አትን ይንታፓ ፈቲ አስ ሸምፖን ቦስ። <verse eid="ACT 27:22"/><verse number="23" style="v" sid="ACT 27:23"/>Ꮉይኖ ቃማ ታ ኤ ባዝ ማቅዳይን ታ ጎይንዘ ጾዘ ኪትደ ኪታንቾ ታ ካለ ኤቂ፥ <verse eid="ACT 27:23"/><verse number="24" style="v" sid="ACT 27:24"/>‹ጳዉሎሳ፥ ዣሽትፐ፤ ኔኒ ሮመ ካት ቄሳረ ቲኖ ኤቆደስ ቤዛነ። ይኬ ጾዚ ነ ግሾ ኔራ Ꮉንግዘ አሱን ኡቡን ሸምፕቶ አሽዳ› ጋይዳ። <verse eid="ACT 27:24"/><verse number="25" style="v" sid="ACT 27:25"/>ይኒ ግሾ፥ አሱን፥ ዣሽትፐተ። የ ኪታንችዘ ታስ ኦህዳና Ꮉኖዳኖ ታ ጾዛ አማናነ። <verse eid="ACT 27:25"/><verse number="26" style="v" sid="ACT 27:26"/>የዝን ባቅዘ ኑና ካንግ ፈቲ Ꮉራ ተቅንትደ ሳአ ጋጻ ኦሎዳ» ጋይዳ።<verse eid="ACT 27:26"/></para>
+  <para style="p">
+    <verse number="27" style="v" sid="ACT 27:27"/>ታጶ ኦይድን ቃማ አድርያ አባ ግዳ ኑና ባቅታ ጎደን Ꮉንካን ኡርቆደራ፥ ቃማ ግዲ ብላሄ ማቅዘ ዎደ ማርካብተ ኦችዙንስ ሳአጎ ኡክደ ጋር አዝዳ። <verse eid="ACT 27:27"/><verse number="28" style="v" sid="ACT 27:28"/>ኡን ጌናትቶ ኤሮደስ ኮይ ጋደ በር ዴጾባዝ አጪ አባ ኦልን፥ አባ ገንታ ኦስፉን ታም Ꮉ ማቅዳ። ኤራ ጋምእ፥ ማህ ኦልን እዝፑን ታም Ꮉ ማቅዳ። <verse eid="ACT 27:28"/><verse number="29" style="v" sid="ACT 27:29"/>ኡን አባ ጋጻ የዘ ሹቻላ ዶምእንታመ ጋር ዣሽቲ፥ ማርካብዘ ቅታመ ጋር አይክዘ ኦይዲ መቆ ማርካብዘፓ ሱባራ አባ ዳኪ፥ ሳእታ ዎንቶደ ጋር ጾዝ ዎስዳ። <verse eid="ACT 27:29"/><verse number="30" style="v" sid="ACT 27:30"/>ማርካብተ ኦችዙን ማርካብዘፓ ቦደስ ኮይ፥ ማርካብዘ ቅታመ ጋር አይክዘ መቅቶ ማርካብዘፓ ቲኖ ዛላራ አባ ኦልዘ ጋር አዝዝ ጎንግዛ አባ ኦልዳ። <verse eid="ACT 27:30"/><verse number="31" style="v" sid="ACT 27:31"/>ጳዉሎሳ ማቶ Ꮉላቅዘጎን ዎታዳሩንጎ፥ «Ꮉንስ ማርካብተ ሸምፒ በታንጽኮ ይን አቶደስ ዳንዳኦስ» ጋይዳ። <verse eid="ACT 27:31"/><verse number="32" style="v" sid="ACT 27:32"/>ይኒ ግሾ፥ ዎታዳሩን ጎንግዘ አጭንትደ ጋድዛ ጋቺ ዳኪ አሽዳ።<verse eid="ACT 27:32"/></para>
+  <para style="p">
+    <verse number="33" style="v" sid="ACT 27:33"/>ሳአ ዎንቶደስ ይአደራ ኡቡን ካ ማአደ ጋር ጳዉሎሳ አሱንጎ፥ «ይን ካ ሙእካይዛራ ጋምእደ Ꮉይኖራ ታጶ ኦይዲ ቃማ ጋምእዳ። <verse eid="ACT 27:33"/><verse number="34" style="v" sid="ACT 27:34"/>ይኒ ግሾ፥ ኤራ ካ ይን ማአደ ጋር ታኒ ይንታና ዎሳነ። ይን ምንጎደ ጋራን ሸምፖራ የሳደ ጋር ኤራ ካ ማአደስ ኮሻነ፤ መለ አቶ የዝን ይን ኦማ እስንትፕ ፈትን ቦስ» ጋይዳ። <verse eid="ACT 27:34"/><verse number="35" style="v" sid="ACT 27:35"/>ጳዉሎሳ ይኖ ጋእ ቦራ ኤኪ ኡቡን ቲኖ ጾዝ ጋላትዳ፤ ቦርዛ ባጽ መኤ አይክዳ። <verse eid="ACT 27:35"/><verse number="36" style="v" sid="ACT 27:36"/>ኡቡን ሚንግ ፋ ፋስ ካ ኤኪ ሙእዳ። <verse eid="ACT 27:36"/><verse number="37" style="v" sid="ACT 27:37"/>ኑኒ ማርካብተ የዙን ላምእ ጼት ላፑን ታም እዝፑን። <verse eid="ACT 27:37"/><verse number="38" style="v" sid="ACT 27:38"/>ኡን ሙእ ምዥደ ዎደ ጫና ዛርግቶ አባ ኦልን ማርካብዘ ዴጽቶ ፎልዝዳ።<verse eid="ACT 27:38"/></para>
+  <para style="s1">ማርካብዘ መቂዳ</para>
+  <para style="p">
+    <verse number="39" style="v" sid="ACT 27:39"/>ሳአ ዎንትደ ዎደ ማርካበ ኦችዙን አባ ሳአ የለዛኮ ኤርካይዛራ፥ አባ ጋጻ የዘ ሻፈ ስልሞ ብእዳ። ፋስ ዳንዳእንትኮ ማርካብዛ ይና ሻፍትጎ ሺሾደስ ቆፕዳ። <verse eid="ACT 27:39"/><verse number="40" style="v" sid="ACT 27:40"/>የይዝ፥ ማርካብዘ ቅታመ ጋር አይክዘ መቅቶ ብሊ አባ ኦልዳ። የ ዎደ እዥዘ ምንጻ አጭዘ ጋድዛ ብልዳ። ይንፓ ሱባ፥ ባቅታ ማርካብዛ ቲኖ ኡርቆደ ጋር ማርካብዛ ካንግዘ ሻራ ቲኖ ዛላራ ቅ ዪዚ የ አይክዳ። <verse eid="ACT 27:40"/><verse number="41" style="v" sid="ACT 27:41"/>የዝን ማርካብዘ ሻፈ ናድንትደላ ዶምእንቲ ቆንትዳ። ማርካብዘስ ቲኖ ዛልታ ጾስንቲ ሻፍቶ ጫዲ አይኪ ኤንአንጽ እጽን፥ ሱባ ዛልቶ ጎተ ኡርቅዛንፓ ደንዲ መቀ አይክዳ።<verse eid="ACT 27:41"/></para>
+  <para style="p">
+    <verse number="42" style="v" sid="ACT 27:42"/>ዎታዳሩን አች አሱንፓ ፈትን Ꮉተ Ꮉ ኬዚ ባመ ጋር ኡንታና ዎደስ ዞርንትዳ። <verse eid="ACT 27:42"/><verse number="43" style="v" sid="ACT 27:43"/>የዝን ማቶ Ꮉላቅዘ ጳዉሎሳ አሾደስ ኮይ ዎታዳሩንራ ዞርንቶ እጽዳ። Ꮉ Ꮉ ኤርዘ ኡባ ማርካብዘፓ Ꮉተ ዶሊ ዶሊ ዎ ቲን ጋጻ ኬሳደ ጋር ኪትዳ። <verse eid="ACT 27:43"/><verse number="44" style="v" sid="ACT 27:44"/>አትዱን ሳንቂትላን፥ ማርካብዘ መቅትላ አፋ ኬሳደ ጋር ኪትዳ። ይኒ ጋራ ይእ ኡቡን ጋጻ ሳሮራ ከዝዳ።<verse eid="ACT 27:44"/></para>
+  <chapter eid="ACT 27"/>
+  <chapter number="28" style="c" sid="ACT 28"/>
+  <para style="s1">ጳዉሎሳ ማልታ Ꮉራ ተቅንትደ ሳአ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="ACT 28:1"/>ኑኒ ጋጻ ሳሮራ ከዝደ ዎደ የልዳና Ꮉራ ተቅንትደ ሳእታ ማልታ ጋእንትዛኖ ኤርዳ። <verse eid="ACT 28:1"/><verse number="2" style="v" sid="ACT 28:2"/>ማልታ አሱን ኑስ ጋማ ሎእዳ። እራ ቡክደ ግሾን ጪሽዘ ግሾ ታማ ኤ ኑና ኡባ ሞክዳ። <verse eid="ACT 28:2"/><verse number="3" style="v" sid="ACT 28:3"/>ጳዉሎሳ ጋማ Ꮉይጸ ሺሺ ታማ ጋዶደራ፥ ጎፕ ሾሽ ምችት ግሾ ኬዚ ኤ ኩሽትላ ጻጽንት ኤዛ ይዳ። <verse eid="ACT 28:3"/><verse number="4" style="v" sid="ACT 28:4"/>ማልታ አሱን ሾሽ ጳዉሎሳ ኩሽትላ ጻጽንትዳኖ ብእደ ዎደ ፈታይ ፈተጎ፥ «ቱሮ Ꮉይ አ ሸምፖ ዎደ አስ፤ መለ አቶ የዝን አባፓ ኤ አትንን ጾዘ ፍርዳፓ<note caller="+" style="f"><char style="fr" closed="false">28:4 </char><char style="fk" closed="false">ጾዘ ፍርዳፓ፦ </char><char style="ft" closed="false">የ ዎደ ይና ሳእተ መለ መለ ማች ጾዙን የነ። ኡንታፓ ፈታ ኢታ ኦችዘ አሱንና ፍርድዛኖ። እዛ ፍርዳ ጾዚ ጋእንት ጼግንትዳ።</char></note> አቲ ፋጻ የሳደስ ዳንዳእካያ» ያጋይዳ። <verse eid="ACT 28:4"/><verse number="5" style="v" sid="ACT 28:5"/>የዝን ጳዉሎሳ ፋ ኩሽትፓ ሾስዛ ዉጹርክ፥ ታማ ኦልዳ፤ ኤዛ አኮን ቆህካያ። <verse eid="ACT 28:5"/><verse number="6" style="v" sid="ACT 28:6"/>ኡን፥ «ኤ ጋልታ ክጻነ፥ ዎይ ቲርካይዝን ጎልእ Ꮉይቃነ» ጋእ ናጋነ። የዝን ጋማ ዎደ ናጊ ኤ ጋልተ አኮን ዱሙዽደ ባዝ ብን፥ «Ꮉይ ኤቃ» ጋእ ፋ ቆፍቶ ላምዳ። <verse eid="ACT 28:6"/><verse number="7" style="v" sid="ACT 28:7"/>ይና ካራ ጋንጭተ Ꮉራ ተቅንትደ ሳአ Ꮉላቅዘ፥ ፑፕልዮሳ ጋዘስ ጋደ የነ፤ Ꮉይ ቃማ የሎደስ ኤ ኑና ሲቆራ ሞክዳ። <verse eid="ACT 28:7"/><verse number="8" style="v" sid="ACT 28:8"/>ፑፕልዮሳ አዳይ ኦማ ኦ፥ ምቻራን ጋንጨ Ꮉርገራ ዎይእ የነ። ጳዉሎሳ ኤ ካራ ገሊ ኤስ ጾዝ ዎስዳ፤ ፋ ኩሽቶ ኤላ ጋዲ ፋዳ። <verse eid="ACT 28:8"/><verse number="9" style="v" sid="ACT 28:9"/>ይንፓ ሱባ፥ ማልታን የዘ Ꮉርግንትዘ መለ አሱንን ይእ ፋጽዳ። <verse eid="ACT 28:9"/><verse number="10" style="v" sid="ACT 28:10"/>ኡን ኑና ጋማ ቦንችዳ፤ ኑኒ ማርካበራ ቅቶደስ ደንድደ ዎደ ኦገስ ኮሽዘ ባዝ ኑስ እንግዳ።<verse eid="ACT 28:10"/></para>
+  <para style="s1">ጳዉሎሳ ማልታፓ ሮመ ቅትዳ</para>
+  <para style="p">
+    <verse number="11" style="v" sid="ACT 28:11"/>Ꮉይ አግናፓ ሱባ፥ ማልታ ግዳ ሴተ አ እስክንድርያ ማርካበራ Ꮉማደስ ደንድዳ። የ ማርካብዘላ ድዮስቆሮሳ ጋዘ መንተ ኤቁን ምስለ የነ። <verse eid="ACT 28:11"/><verse number="12" style="v" sid="ACT 28:12"/>ስራኩሰ ካታማ ገሊ እዘ Ꮉይ ቃማ በትዳ። <verse eid="ACT 28:12"/><verse number="13" style="v" sid="ACT 28:13"/>እዝፓ ደንዲ ረግዩመ ካታማ የልዳ። ፈቲ ቃማፓ ሱባ፥ ዬካ ዛላራ ባቆ ባቂን፥ ዎንትስት ዎደ ፉትዩሎሳ ካታማ ይእዳ። <verse eid="ACT 28:13"/><verse number="14" style="v" sid="ACT 28:14"/>እዘ ኑ ፈቲ ፈቲ አማንዘ አሱንና ደንግን፥ ፋራ ሳምንታ ጋምኦደ ጋር ኑና ዎስዳ። ይንፓ ሱባ፥ ሮመ ኑ ቅትዳ።<verse eid="ACT 28:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="ACT 28:15"/>ሮመ የዘ አማንዘ አሱን ኑ ባዝ ስእ፥ አፍዮሳ ጋበ፥ Ꮉይ አቅዘ በሲ ጋእንትዘ በስቶ የሎደስ ኑና ሞኮደስ ይእዳ። ጳዉሎሳ ኡንታና ብእደ ዎደ ጾዝ ጋላቲ ምንግዳ።<verse eid="ACT 28:15"/></para>
+  <para style="s1">ጳዉሎሳ ሮመ ግዳ</para>
+  <para style="p">
+    <verse number="16" style="v" sid="ACT 28:16"/>ኑ ሮመ ገልደ ዎደ ጳዉሎሳ ናግዘ ዎታዳረ እንግንትን ፋስ የዞ ጋእንትዳ።<verse eid="ACT 28:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="ACT 28:17"/>Ꮉይ ቃማፓ ሱባ፥ ጳዉሎሳ አይሁዱን Ꮉላቁንና ፋጎ ጼግዝዳ። ኡን ሺቅደ ዎደ ኡንታጎ፥ «ታ እሹን፥ ታኒ ኑ አሱንና ዎይ ኑ አዱን ዎጋላ አኮ ቆህዘ ባዝን ኦችካያ፥ የዝን ታና የሩሳላመ አጪ ሮመ አሱንስ አ እንግዳ። <verse eid="ACT 28:17"/><verse number="18" style="v" sid="ACT 28:18"/>ኡን ታ ሞቶ ብእ Ꮉይቆስ የልዘባዝ ታላ አኮ ባዝን ደንግካይዘ ግሾ ታና ብሎደስ ቆፕዳ። <verse eid="ACT 28:18"/><verse number="19" style="v" sid="ACT 28:19"/>የዝን አይሁዱን ይኖ እጽደ ዎደ ኡንእንት ‹ታ ባዝ ቄሳረ ፍርዶ› ጋይዳፕ አትን ታኒ ታ ዎርዥቶ ሞትዘባዝ የዝን ባያ።<note caller="-" style="x"><char style="xo" closed="false">28:19 </char><char style="xt" closed="false"><ref loc="ACT 25:11">ሐዋ. 25:11</ref></char></note> <verse eid="ACT 28:19"/><verse number="20" style="v" sid="ACT 28:20"/>ታ ይንታና ጼግዝዳና ይንታና በአደስን ይንትስ Ꮉኖ ኦሆደስ። ታ Ꮉና ሳንላታር አጭንትዳና እስራኤለ አሱን ናግዘ ኡፋይስት ግሾ» ጋይዳ።<verse eid="ACT 28:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="ACT 28:21"/>አይሁደ Ꮉላቁን ጳዉሎሳጎ፥ «ኑስ ይሁዳፓ ነባዝ ዳብዳበ የልካያ። እዝፓ የኤዘ አሱንፓ ፈትን ነባዝ ኢታ ኦህዘ ባያ። <verse eid="ACT 28:21"/><verse number="22" style="v" sid="ACT 28:22"/>የዝን Ꮉና ነ ካልዘ አማንቶ መለ መለ በስተ አሱን እጽዛኖ ኑኒ ኤርዘ ግሾ ነ ቆፍቶ ስኦደስ ኮያነ» ጋይዳ።<verse eid="ACT 28:22"/></para>
+  <para style="p">
+    <verse number="23" style="v" sid="ACT 28:23"/>ኡን ፋ የኦደ ቃምቶ ጳዉሎሳስ ቃጻሪ፥ ይና ቃምተ ጋንግ ኤ የዘ በስተ ይእዳ። ኤ ዎንታፓ ኡጉረ የሎደስ ጾዘ ካእቱሞ ባዝ ኡንትስ ማርክዳ። ማህ ኡን የሱሳ ባዝ አማኖደ ጋር ሙሴ ህገፋን ናቡን ማጻፈፓ ጌሽ ኡንታና ታማርስዳ። <verse eid="ACT 28:23"/><verse number="24" style="v" sid="ACT 28:24"/>ፈተ ፈተ ጳዉሎሳ ጋይዳኖ አማንዳ፥ የዝን መሉን አማንካያ። <verse eid="ACT 28:24"/><verse number="25" style="v" sid="ACT 28:25"/>ኡን ዎል ግዳ ኦህቶ ኤካንጽደ ዎደ ጳዉሎሳ ፈትባዝ ጋይዳንፓ ሱባ ቅትዳ። ኤ Ꮉንጋራ ጋይዳ፦ «ጌሽ አያና ይን አዱንስ ናበ ኢሳያሳ ዶንተ ኦህዳና ቱሮ።<verse eid="ACT 28:25"/></para>
+  <para style="q1">
+    <verse number="26" style="v" sid="ACT 28:26"/>«ኔኒ የን አሱንጎ Ꮉንግ፥</para>
+  <para style="q2" vid="ACT 28:26">ይን ስስ ስእነ፥ የዝን ይን ቆፖስ፤</para>
+  <para style="q2" vid="ACT 28:26">ይን በኤ በእነ፥ የዝን ደንጎስ።<note caller="-" style="x"><char style="xo" closed="false">28:26-27 </char><char style="xt" closed="false"><ref loc="ISA 6:9-10">ኢሳ. 6:9-10</ref></char></note><verse eid="ACT 28:26"/></para>
+  <para style="q1">
+    <verse number="27" style="v" sid="ACT 28:27"/>Ꮉን አሱን ዎዝንታ ሙምዳ፤</para>
+  <para style="q2" vid="ACT 28:27">ኡን Ꮉይታ ቱልዳ፤</para>
+  <para style="q2" vid="ACT 28:27">ኡን አፍታን ጎዝንትዳ።</para>
+  <para style="q1" vid="ACT 28:27">ይና ባይዛኮ፥</para>
+  <para style="q2" vid="ACT 28:27">ኡን ፋ ኣፍተ ብእ፥ ፋ Ꮉይተ ስእ፥ ፋ ዎዝንተ ቲሪ፥</para>
+  <para style="q2" vid="ACT 28:27">ኡን ታጎ ማቅኮ፤</para>
+  <para style="q2" vid="ACT 28:27">ታንን ኡንታና ፋድ የሻ ጋኦ» ጋይዳ።<verse eid="ACT 28:27"/></para>
+  <para style="p">
+    <verse number="28" style="v" sid="ACT 28:28"/>«ይኬ፥ Ꮉና ጾዘ አሽዘ ኪታ አይሁደ ማቆሱንስ ማቅዳኖ ኤራነ። ኡንትን ስኦዳ» ጋይዳ።<verse eid="ACT 28:28"/></para>
+  <para style="p">
+    <verse number="29" style="v" sid="ACT 28:29"/>ጳዉሎሳ ይኖ ጋእዳንፓ ሱባ አይሁዱን ፋ ግዳ ጋማ ላልተ ኬዚ ቅትዳ<note caller="+" style="f"><char style="fr" closed="false">28:29 </char><char style="ft" closed="false">ዛጋ ፈቲ ፈቲ ኩሸራ ጻፍንትደ ማጻፍተ ፋይዶ 29 ባያ።</char></note>።<verse eid="ACT 28:29"/></para>
+  <para style="p">
+    <verse number="30" style="v" sid="ACT 28:30"/>ጳዉሎሳ ክራ ኬ ላምእ በረ ኩሙ የዝዳ፤ እዘ የዝተራ ፋጎ ይእዛ ኡባ ሞካነ። <verse eid="ACT 28:30"/><verse number="31" style="v" sid="ACT 28:31"/>ዣሽሞ ባይ ኦደን ካይካይዝን ጾዘ ካእቱሞ ሳባክዳ፤ ላ የሱስ ክርስቶሳ ባዝ ቆንጭዝ ታማርስዳ።<verse eid="ACT 28:31"/></para>
+  <chapter eid="ACT 28"/>
+</usx>

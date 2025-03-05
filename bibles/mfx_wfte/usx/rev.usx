@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="3.0">
+  <book code="REV" style="id">- Melo New Testament Ethiopic</book>
+  <para style="h">ዋንሳ ቆንጭ</para>
+  <para style="toc1">ዋንሳ ቆንጭ</para>
+  <para style="toc2">ዋንሳ ቆንጭ</para>
+  <para style="toc3">ዋን. ቆን.</para>
+  <para style="mt1">ዋንሳ ቆንጭይስ</para>
+  <para style="imt">ገሎ</para>
+  <para style="ip">ዋንሳ ቆንጭይ፥ አማንዛ አሳይ የሱስ ክርስቶሳና ፓስ ጎድ ኡዲ አማኔዝ ግሾኔ፥ ጌሸትር የዜዝ ግሾስ ኡንታን መቶኔ ዋየ ሄሌዝ ዎዳይድ ጻፍንቴዛ። ጻፋይ ሾጪ በኤዝ ኣፈ ቆፋይ፥ አማንዛ አሳይ ኡፋይሳይ ኩን ማቆዳይ ጋርክ ኡንታን ምን፥ ኡንታን ሄሌዝ ባይእ ባጋኔ መቶ ጋንጨ ፋ አማናይር ሚንጊ ኤቆድ ጋርክ ደንዳይሲ።</para>
+  <para style="ip">Ꮊ ማጻፋይስ ኡንደና ክፍልታይ ጋመኔ ካል ካሊ ቆንጬዝ ቆንጭታ አይክዛ። Ꮊ ቆንጭታይ የ ዎደ የዝ አሳይስ ገልዛ፥ ዝን Ꮊንክታይስ ጹራ ማቂ ጋምእዛኔ ኡንቲ ኣዝሶ ምስለር ኦድንቴዛ። ማዝሙረ አዝማቸ ማቂ ማቂ የጽንትዛይ ጋርክ፥ የ ማጻፋይድ የዝ ኣፈ ቆፍታይ ዱማ ዱማ ቆንጭታይ ባጋር ዱማ ዱማ ኦገር ማቂ ማቂ ሺቄዛ። Ꮊ ማጻፋይ ብልእይስ ዱማ ዱማ ቆፋይ የዝኮካ፥ ኤስ ኣፈ ቆፋይ ቆንጨ። የይካ፥ «ጾስ ጎዳ ክርስቶሳ ባጋር ላምሶዋ ኦገር ፋ ሞርክታ፥ ጻላሄራ ጉጂ፥ ፐቲ ቶኬኔ ዉርሲ ጋሞዳ። የ ጋምይፕ ጉየ፥ ኤስ አማንንቲ የዜዝ ፋ ባግታ ኦሮ ሳሎኔ ኦሮ ሳአ አንጆ ላትሶዳ» ዬግዛያ።</para>
+  <para style="iot">ዋንሳ ቆንጭይ አይኬዝ ቆፍታ</para>
+  <para style="io1">ገሎ <char style="ior"><ref loc="REV 1:1-8">1:1-8</ref> </char></para>
+  <para style="io1">ላፑን ዎሳ ኬታይስ እንግንቴ ኪታኔ ብል <char style="ior"><ref loc="REV 1:9-20">1:9-20</ref> </char></para>
+  <para style="io1">ላፑን ዎሳ ኬታይስ ጻፍንቴዝ ኪትታ <char style="ior"><ref loc="REV 2:1-3:22">2:1—3:22</ref> </char></para>
+  <para style="io1">ዙፋነ፥ ጻ ማጻፈራኔ ላፑን ማታምታ <char style="ior"><ref loc="REV 4:1-8:1">4:1—8:1</ref> </char></para>
+  <para style="io1">ላፑን ናስታ <char style="ior"><ref loc="REV 8:2-11:19">8:2—11:19</ref> </char></para>
+  <para style="io1">ዳዋኔ ናምኢ ዶእታ <char style="ior"><ref loc="REV 12:1-13:18">12:1—13:18</ref> </char></para>
+  <para style="io1">ዱማ ዱማ ቆንጭታ <char style="ior"><ref loc="REV 14:1-15:8">14:1—15:8</ref> </char></para>
+  <para style="io1">ላፑን ጾስ ካቺ ጹእታ <char style="ior"><ref loc="REV 16:1-21">16:1-21</ref> </char></para>
+  <para style="io1">ባብሎነ ባ፥ ዶአኔ ዎርዶ ናበኔ ዳቡሎሳ ጋምንታ <char style="ior"><ref loc="REV 17:1-20:10">17:1—20:10</ref> </char></para>
+  <para style="io1">ዉርስ ፕርዳ <char style="ior"><ref loc="REV 20:11-15">20:11-15</ref> </char></para>
+  <para style="io1">ኦሮ ሳሎ፥ ኦሮ ሳአኔ ኦሮ የሩሳላመ <char style="ior"><ref loc="REV 21:1-22:5">21:1—22:5</ref> </char></para>
+  <para style="io1">ኩስተ ቆፋ <char style="ior"><ref loc="REV 22:6-21">22:6-21</ref> </char></para>
+  <para style="ie"/>
+  <chapter number="1" style="c" sid="REV 1"/>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 1:1"/>ኤለራ ሀኖዳይስ የዛ ባዝ ፋ አይልታ ቤዞዳይ ጋርክ ጾሲ ኤስ እንጌዝ የሱስ ክርስቶሳ ቆንጭይ Ꮊያ። የሱሳ ፋ ኪታንቻ ኪቲ፥ ፋ አይለ ዋንሳስ ቆንጭሴዛ። <verse eid="REV 1:1"/><verse number="2" style="v" sid="REV 1:2"/>ዋንሳ ጾሳ ቃላ፥ የሱስ ክርስቶሳ ኦዝባዝኔ ፓ በኤዝ ባዝ ኡባ ማርካቴዛ። <verse eid="REV 1:2"/><verse number="3" style="v" sid="REV 1:3"/>Ꮊ ኡባይ ሀኖዳይስ ዎደ ሄሌዝ ግሾስ Ꮊ ትንቢተ ቃላ ናባብዛ ኦካ አንጅንቴዛያ። ማ Ꮊ ቃላ ስእዝታይኔ ጻፍንቴዝ ኪታ ናግዛ ኡባይ አንጀቴዝታ።<verse eid="REV 1:3"/></para>
+  <para style="s1">ላፑን ኢሳ ዎሳ ኬታይስ ኪትንቴዝ ሳሮ</para>
+  <para style="p">
+    <verse number="4-5" style="v" sid="REV 1:4-5"/>Ꮊ ዳብዳባይ፥ ዋንሳፕ፥ ኢሳ ቢታ የዝ ላፑን ዎሳ ኬታይስ ጻፍንቴዛ። ብንካ፥ Ꮊተካ የዝ፥ ቲናፐካ የኦዳይስ የዝ ጾሳይፕ፥ ማ ኤ ዙፋናይ ቲና የዝ ላፑን አያናታይፕ፥ Ꮊይ ጋርክ፥ Ꮊይቆፐ ደንዶር ቲና ማቄዛይፕ፥ ሳአ ካትታ ሞድዛ አማንንቴዝ ማርካ ማቄዝ የሱስ ክርስቶሳፕ፥ ኣ ኬሃትኔ ሳሮት ይንትስ ማቆ።<note caller="-" style="x"><char style="xo" closed="false">1:4 </char><char style="xt" closed="false"><ref loc="EXO 3:14">ከስ 3:14</ref>፤ <ref loc="REV 4:5">ዋን. ቆን. 4:5</ref></char></note></para>
+  <para style="p" vid="REV 1:4-5">የሱሳ ኑና ዶስዛ፥ ማ ፋ ሱር ናጋራ አይለትፕ ኑና ዎዚ ከሴዛ።<note caller="-" style="x"><char style="xo" closed="false">1:4-5 </char><char style="xt" closed="false"><ref loc="ISA 55:4">ኢሳ. 55:4</ref>፤ <ref loc="PSA 89:27">ማዝ. 89:27</ref></char></note> <verse eid="REV 1:4-5"/><verse number="6" style="v" sid="REV 1:6"/>ኑኒ የሱስ ክርስቶሳ አዳይስ ጾሳይስ ኦዳይ ጋርክ ኑና ካተትታኔ ቄስታ ማሄዝ ኤስ መናፐ መና ሄሎዳይስ ቦንቾኔ ዎልቃ ማቆ። አምንኤ።<note caller="-" style="x"><char style="xo" closed="false">1:6 </char><char style="xt" closed="false"><ref loc="EXO 19:6">ከስ 19:6</ref>፤ <ref loc="REV 5:10">ዋን. ቆን. 5:10</ref></char></note><verse eid="REV 1:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 1:7"/>ይኬ፥ የሱሳ ሻራራ የኦዳ። አስ ኡባይ ሀራ አቶዝን፥ ኤዛ ጫዴዝ አሳይካ ኤዛ በአዳ። ሳአል የዝ አስ ኡባይ ኤ ግሾስ ዬኮዳ። የይ ቱማ ሀኖዳ! አምንኤ።<note caller="-" style="x"><char style="xo" closed="false">1:7 </char><char style="xt" closed="false"><ref loc="DAN 7:13">ዳነ. 7:13</ref>፤ <ref loc="MAT 24:30">ማቶ. 24:30</ref>፤ <ref loc="MRK 13:26">ማር. 13:26</ref>፤ <ref loc="LUK 21:27">ሉቃ. 21:27</ref>፤ <ref loc="1TH 4:17">1ተሰ. 4:17</ref>፤ <ref loc="ZEC 12:10">ዛክ. 12:10</ref>፤ <ref loc="JHN 19:34">ዋን. 19:34</ref></char></note><verse eid="REV 1:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 1:8"/>ብንካ፥ Ꮊተካ የዛይ፥ ቲናፐካ የኦድ ጎዳይ፥ ኡባፕ ዎልቃማ ጾሳይ፥<note caller="-" style="x"><char style="xo" closed="false">1:8 </char><char style="xt" closed="false"><ref loc="REV 22:13">ዋን. ቆን. 22:13</ref>፤ <ref loc="EXO 3:14">ከስ 3:14</ref></char></note> «አልፋኔ ኦመጋ ታና»<note caller="+" style="f"><char style="fr" closed="false">1:8 </char><char style="fqa" closed="false">አልፋኔ ኦመጋ፦ </char><char style="ft" closed="false">ግርኬ ዶናር አልፋኔ ኦመጋ ኮይሮኔ ዉርስ ፕዳልታ፤ ብርሸይካ ደንዶኔ ዉርስ ጉሲ።</char></note> ዬግዛ ጎዳይ ጾሳይ።<verse eid="REV 1:8"/></para>
+  <para style="s1">ክርስቶሳ ቆንጭር በንት</para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 1:9"/>ታኒ፥ ዋንሳ፥ ይ እሻይ፥ ይንታር ፐትፕ የሱሳር ኤ መቶ፥ ኤ ካተትኔ ኤ ዳንዳአ በኤዛ። ታኒ ጾስ ቃላ ግሾኔ የሱሳባዝ ማርካቴዝ ግሾስ ፕጽሞ ግዝ ሃር ማርንቴዝ ቢታል ታ የዛ። <verse eid="REV 1:9"/><verse number="10" style="v" sid="REV 1:10"/>ጎዳይ ጋላስ ታ አያናር የዛ፤ ታፕ ጉየር ቱቱሎ ፑጎ ጋርክ ግታ ጊር ታ ስኤዛ። <verse eid="REV 1:10"/><verse number="11" style="v" sid="REV 1:11"/>የ ጊርይ ታና፥ «ነ ብእዛና ማጻፋይድ ጻፊ፥ ኢሳ የዝ ላፑን ዎሳ ኬታይስ፥ ኤፈሶነስ፥ ሳምርኔሳስ፥ ጰርጋሞናስ፥ ትያትሮናስ፥ ሳርዴሳስ፥ ፍላደልፋስኔ ሎዶቃስ ዳኮባ» ዬጌዛ።<verse eid="REV 1:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 1:12"/>ታኒ ታስ ኦድዛ ጊር በአዳይስ ጉየ ማቂ ጾምፐ ጋድዝ ላፑን ዎርቃ ኮችታ በኤዛ። <verse eid="REV 1:12"/><verse number="13" style="v" sid="REV 1:13"/>የ ኮችታይ ጋንጨ አስ ናአ ኣዝዛና ታ በኤዛ። ኤ አዱስ አፍላ ፋ ቶኬ ሄል ማኤዛ፥ ዎርቃ ዳንጮር ፋ ትራ ዳንጬዛ።<note caller="-" style="x"><char style="xo" closed="false">1:13 </char><char style="xt" closed="false"><ref loc="DAN 7:13">ዳነ. 7:13</ref>፤ <ref loc="DAN 10:5">ዳነ. 10:5</ref></char></note> <verse eid="REV 1:13"/><verse number="14" style="v" sid="REV 1:14"/>ኤ ኦማይኔ ኤ ብናናይ ቦ ዱር እክሰ ጋርከኔ ሻች ጋርከ፤ ኤ ኣፋይካ ታማ ላ ኣዝዛ።<note caller="-" style="x"><char style="xo" closed="false">1:14 </char><char style="xt" closed="false"><ref loc="DAN 7:9">ዳነ. 7:9</ref></char></note> <verse eid="REV 1:14"/><verse number="15" style="v" sid="REV 1:15"/>ኤ ቶካይ ታማር ቴሌዝ ዞቄዝ ናሰ ብራታ ኣዝዛ፤ ኤ ግርይካ ግታ ጋመ ሃታይ ኦሽች ጋርከ።<note caller="-" style="x"><char style="xo" closed="false">1:15 </char><char style="xt" closed="false"><ref loc="EZK 1:24">ኢዝቀ. 1:24</ref>፤ <ref loc="EZK 43:2">43:2</ref></char></note> <verse eid="REV 1:15"/><verse number="16" style="v" sid="REV 1:16"/>ኤ ፋ ኡሻች ኩሸር ላፑን ጾልንትታ አይኬዛ። ኤ ዶናይፕ ናምኢ ባጋር ሌፍንቴዝ ኦጮ ማሻ ከዜዝ። ኤ ስናይ ሴታ ጋላሳ አዋ ኣፈ ኣዝዛ።<verse eid="REV 1:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="REV 1:17"/>ታኒ ኤዛ በኤዝ ዎደ Ꮊይቄዝ አስ ጋርክ ሀኒ ኤ ቶኬ አቻ ፖኬዛ። ኤ ፋ ኡሻቻ ኩሻ ታል አፋ ጋዲ፥ «ያሽትፐ፤ ቲናይ ዉርስይ ታና።<note caller="-" style="x"><char style="xo" closed="false">1:17 </char><char style="xt" closed="false"><ref loc="ISA 44:6">ኢሳ. 44:6</ref>፤ <ref loc="ISA 48:12">48:12</ref>፤ <ref loc="REV 2:8">ዋን. ቆን. 2:8</ref>፤ <ref loc="REV 22:13">22:13</ref></char></note> <verse eid="REV 1:17"/><verse number="18" style="v" sid="REV 1:18"/>ታኒ የዛያ፤ ታኒ Ꮊይቄዛ ዝን መ መናስካ ፓ የዛ። Ꮊይቆኔ ስኦለ ቁልፐ ታ ኩሸ የዛ። <verse eid="REV 1:18"/><verse number="19" style="v" sid="REV 1:19"/>ይኬ፥ Ꮊት ሀንዛባዝኔ ቲናፕ ሀኖድ ባዝ ነ በኤዝ ባዝ ጻፎባ። <verse eid="REV 1:19"/><verse number="20" style="v" sid="REV 1:20"/>ኔኒ ታ ኡሻች ኩሻይድ በኤዝ ላፑን ጾልንትታኔ ላፑን ዎርቃ ኮችታይ ብልእይ Ꮊይ፦ ላፑን ጾልንትታይ ላፑን ዎሳ ኬታይ ኪታንችታ፤ ላፑን ዎርቃ ኮችታይ ላፑን ዎሳ ኬታ።»<verse eid="REV 1:20"/></para>
+  <chapter eid="REV 1"/>
+  <chapter number="2" style="c" sid="REV 2"/>
+  <para style="s1">ኤፈሶነ ዎሳ ኬስ ኪትንቴዝ ኪታ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 2:1"/>«ኤፈሶና ዎሳ ኬ ኪታንቻይስ Ꮊይ ጋርክ ዬጊ ጻፎባ።</para>
+  <para style="pi" vid="REV 2:1">ፋ ኡሻች ኩሸር ላፑን ጾልንትታ አይኬዛይኔ ላፑን ዎርቃ ኮችታይ ጋንጨር የዛይ Ꮊይ ጋርክ ዬግዛ፦ <verse eid="REV 2:1"/><verse number="2" style="v" sid="REV 2:2"/>ታኒ ነ ኦሳ፥ ነ ዳቡራኔ ነ ጋርዣ ኤርዛ። ኔኒ ኢታ አስታይባጋ ጋርዦዳይስ ዳንዳኤካዛ ታ ኤርዛ። ማ ሀዋረ ባዝር ፋና፥ ሀዋረ ግዝታ ፕላጊ ኤሪ ኡንቲ ዎርዳንቾ ማቄዛና ደንጌዛና ታ ኤርዛ። <verse eid="REV 2:2"/><verse number="3" style="v" sid="REV 2:3"/>ኔኒ ጋርዦር ሚንጌዛናኔ ታ ሱንይ ግሾስ ዶልኤካዛር መቶ ኤኬዛና ታ ኤርዛ። <verse eid="REV 2:3"/><verse number="4" style="v" sid="REV 2:4"/>ሀኖ ዝን፥ Ꮊት ታ ነና ቦርዛባዝ የዛ፤ የይካ ኔኒ ነ ቲና ሲቃ አሼዛ። <verse eid="REV 2:4"/><verse number="5" style="v" sid="REV 2:5"/>ይኬ፥ ነ ኣብ ጋርክ ቃ አቆፕ ፖኬዛኮ ቆፖባ! ማሮት ገሎባ፤ ኔኒ ካሰ ኦዛ ኦሳ ኦባ። የያ ኡባ ነ ኦም እጽኮ ታ ኔኮ የኦዳ። ኔኒ ማሮት ገላም እጽኮ፥ ነ ጾምፓ ጋድዛ ኮቻ ያ አቃይፕ ኤኮዳ። <verse eid="REV 2:5"/><verse number="6" style="v" sid="REV 2:6"/>Ꮊት ታ ነና ናሽችዛ ፐትባዝ የዛ፤ ታ እጽዛ ንቆላዉታይ ኦሳ ኔካ እጼዛ።<verse eid="REV 2:6"/></para>
+  <para style="pi">
+    <verse number="7" style="v" sid="REV 2:7"/>አያናይ ዎሳ ኬታይስ ግዝባዝ ስኦዳይስ ሀየ የዝ ኦንካ ስኦ። ጋሜዝ ኦንካ ጾስ ገነተ የዝ ደኦ ም ኣፈፕ ማዳይ ጋርክ ማዉተ እማዳ።<note caller="-" style="x"><char style="xo" closed="false">2:7 </char><char style="xt" closed="false"><ref loc="GEN 2:9">መ. 2:9</ref>፤ <ref loc="REV 22:2">ዋን. ቆን. 22:2</ref>፤ <ref loc="EZK 28:13">ኢዝቀ. 28:13</ref>፤ <ref loc="EZK 31:8">31:8</ref></char></note><verse eid="REV 2:7"/></para>
+  <para style="s1">ሳምርኔሳ ዎሳ ኬስ ኪትንቴዝ ኪታ</para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 2:8"/>«ሳምርኔሳ ዎሳ ኬ ኪታንቻይስ Ꮊይ ጋርክ ዬጊ ጻፎባ።<note caller="-" style="x"><char style="xo" closed="false">2:8 </char><char style="xt" closed="false"><ref loc="ISA 44:6">ኢሳ. 44:6</ref>፤ <ref loc="ISA 48:12">48:12</ref>፤ <ref loc="REV 1:17">ዋን. ቆን. 1:17</ref>፤ <ref loc="REV 22:13">22:13</ref></char></note></para>
+  <para style="p" vid="REV 2:8">ቲናይኔ ዉርስይ፥ Ꮊይቄዛይነ Ꮊይቆፕ ደንዴዛይ Ꮊይ ጋርክ ዬግዛ፦<verse eid="REV 2:8"/></para>
+  <para style="pi">
+    <verse number="9" style="v" sid="REV 2:9"/>ታኒ ነ መታኔ ነ ማንቆት ኤርዛ፤ ማቆዝን ኔኒ ዱረ። ጻላሄ ማባራ የዝታይ፥ አይሁደ ባዛር ፋና አይሁደ ግዝታይ ነና ጫዥዛ ጫሻ ታ ኤርዛ። <verse eid="REV 2:9"/><verse number="10" style="v" sid="REV 2:10"/>ኔኒ ኤኮዳይስ የዝ መታ ያሽትፐ። ዳቡሎሳ ይንትፕ ፐትታ ፐትታ ፋጮዳይስ አች ኬ ገልሶዳይ፤ ታጲ ጋላስ ሄሎዳይስ ይ መትንቶዳ። Ꮊይቆድ ሄሎዳይስ አማንንቴዛ ማቆባ፤ ታ ኔስ ደኦ ዛዉደ እንጎዳ።<verse eid="REV 2:10"/></para>
+  <para style="pi">
+    <verse number="11" style="v" sid="REV 2:11"/>አያናይ ዎሳ ኬታይስ ግዝባዝ ስእዝ ሀየ የዝ ኦንካ ስኦ። ጋምዝ ኦንካ ናምእን Ꮊይቆር ቆህንተና።<note caller="-" style="x"><char style="xo" closed="false">2:11 </char><char style="xt" closed="false"><ref loc="REV 20:14">ዋን. ቆን. 20:14</ref>፤ <ref loc="REV 21:8">21:8</ref></char></note><verse eid="REV 2:11"/></para>
+  <para style="s1">ጰርጋሞና ዎሳ ኬስ ኪትንቴዝ ኪታ</para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 2:12"/>«ጰርጋሞኔ ዎሳ ኬ ኪታንቻይስ Ꮊይ ጋርክ ዬጊ ጻፎባ።</para>
+  <para style="pi" vid="REV 2:12">ናምኢ ባጋር ሌፕንቴዝ ማሻ የዛይ Ꮊይ ጋርክ ዬግዛ፦ <verse eid="REV 2:12"/><verse number="13" style="v" sid="REV 2:13"/>ታኒ ነ የዝ አቃ ኤርዛ፤ ኔኒ ጻላሄ ዙፋናይ የዝ አቆ የዛ፤ ታ ሱን ነ ሚን አይኬዛ። ሀራ አቶዝን፥ ጻላሄ የዝ ይ ካታማይ Ꮊይቄዝ ታስ አማንንቴዝ ማርካይ፥ አንትጳሳ፥ የዝ ዎደካ አማና አሸካያ።<verse eid="REV 2:13"/></para>
+  <para style="pi">
+    <verse number="14" style="v" sid="REV 2:14"/>ሀኖ ዝን፥ ታ ነና ቦርዛ ፐትባዚ የዛ። የይካ እስሬለ አሳይ ኤቃስ ያርሽንቴዝ ካ ም ቱኖዳይ ጋርከኔ ኢታ ኦሶስ ዥምባሮ ናጋራ ኦድ ጋርክ ባላቃና ታማርሴዝ ባላማ ትምርታ ኤኬዝ ፐቲ ፐቲ አስታይ ኔራ የዛ።<note caller="-" style="x"><char style="xo" closed="false">2:14 </char><char style="xt" closed="false"><ref loc="NUM 22:5">ታይ. 22:5</ref></char></note> <verse eid="REV 2:14"/><verse number="15" style="v" sid="REV 2:15"/>የይ ጋርከካ፥ ንቆላውታይ ትምርታ ታማርዛ አስታይ ኔራ የዛ። <verse eid="REV 2:15"/><verse number="16" style="v" sid="REV 2:16"/>የይ ግሾስ፥ ኔኒ ነ ናጋራይፕ ማቆባ። የይ ሀናም እጽኮ፥ ታ ኔኮ ኤልሲ ይኢ የ አስታ ታ ዶናይፕ ከዝዝ ቃላ ማሻይር ኦሎዳ።<verse eid="REV 2:16"/></para>
+  <para style="pi">
+    <verse number="17" style="v" sid="REV 2:17"/>አያናይ ዎሳ ኬታይስ ግዝባዝ ስእዝ ሀየር የዝ ኦንካ ስኦ። ጋምዝ ኦስካ ቆስንቲ የዝ ማና<note caller="+" style="f"><char style="fr" closed="false">2:17 </char><char style="fqa" closed="false">ማና፦ </char><char style="ft" closed="false">እስሬለ አሳይ ሊዦ ቢታ የዳር ሳሎፕ ጾሲ ኡንትስ እንጌዝ ዱማ ካ ዎይ ኪታንቾ ቁማ።</char></note> እማዳ። ኦሮ ሱንይ ጻፍንቴዝ ቦ ሹቻ ታ ኤስ እማዳ። የያ ኤክዛይፕ አትን ሀራ ኦንካ ኤሮያ።<note caller="-" style="x"><char style="xo" closed="false">2:17 </char><char style="xt" closed="false"><ref loc="EXO 16:14">ከስ 16:14</ref></char></note><verse eid="REV 2:17"/></para>
+  <para style="s1">ትያጽሮና ዎሳ ኬስ ኪትንቴዝ ኪታ</para>
+  <para style="p">
+    <verse number="18" style="v" sid="REV 2:18"/>«ትያጽሮና ዎሳ ኬ ኪታንቻይስ Ꮊይ ጋርክ ዬጊ ጻፎባ።</para>
+  <para style="pi" vid="REV 2:18">ታማ ላ ኣዝዝ ኣፈ የዛይ፥ ማ ታማር ቴሌዝ ናሰ ብራታ ኣዝዝ ቶክ የዛይ፥ ጾስ ናአይ፥ Ꮊይ ጋርክ ዬግዛ፦ <verse eid="REV 2:18"/><verse number="19" style="v" sid="REV 2:19"/>ታኒ ነ ኦሳ፥ ነ ሲቃ፥ ነ አማና፥ ነ ጾስስ ኦዛያኔ ነ ጋርዣ ኤርዛ። ኔኒ ቲና ኦዛይፕ Ꮊት ኣ ኦዛናካ ታ ኤርዛ።<verse eid="REV 2:19"/></para>
+  <para style="pi">
+    <verse number="20" style="v" sid="REV 2:20"/>ሀኖ ዝን፥ ታ ነና ቦርዛ ፐትባዚ የዛ፤ ፋና ናበ ግዝ አስት፥ ኤልዛበሊ ባጋ፥ ሸናኮ ግ አሼዛ። የ አስታ ኤቃስ ያርሽንቴዝ ካ ም ቱኖዳይ ጋርከኔ ላግቶድ ጋርክ ኡዲ ታ አይልታ ባልዛ።<note caller="-" style="x"><char style="xo" closed="false">2:20 </char><char style="xt" closed="false"><ref loc="1KI 16:31">1ካት. 16:31</ref>፤ <ref loc="2KI 9:22">2ካት. 9:22</ref></char></note> <verse eid="REV 2:20"/><verse number="21" style="v" sid="REV 2:21"/>እዛ ፋ ናጋራይፕ ማቆዳይ ጋርክ ታ ኢስ ዎደ እንጌዛ፥ ዝን እዛ ማቆዳይስ ኮየካያ። <verse eid="REV 2:21"/><verse number="22" style="v" sid="REV 2:22"/>የይ ግሾስ ታ እዞ ኢታ ሀርገር አርሳል ኦሎዳ። ኢር ላግትዝታይካ ፋ ኢታ ኦሳይፕ ማቃም እጽኮ፤ ኢታ መቶል ኦሎዳ። <verse eid="REV 2:22"/><verse number="23" style="v" sid="REV 2:23"/>ታኒ እ ናእታካ ዎዳ፤ ማ ዎሳ ኬ ኡባይ ታ አስ ቆፋኔ አስ ዎዝና ኤርዛያ ማቄዛና ኤሮዳ። ታ ፐታይስ ፐታይስ ኤ ኦሳይ ጋርክ እማዳ።<note caller="-" style="x"><char style="xo" closed="false">2:23 </char><char style="xt" closed="false"><ref loc="PSA 7:9">ማዝ. 7:9</ref>፤ <ref loc="JER 17:10">ኤርም. 17:10</ref>፤ <ref loc="PSA 62:12">ማዝ. 62:12</ref></char></note> <verse eid="REV 2:23"/><verse number="24" style="v" sid="REV 2:24"/>ትያትሮና የዝ Ꮊንክታ፥ የ ኢታ ትምርታ ኤከካዝታይኔ፥ «ጻላሄ ግታ ጹራ» ግንትንትዝ Ꮊ ትምርታ ታማረካ ይንታን ሀራ ዴጾ ቶፎ ቶሳሚ። <verse eid="REV 2:24"/><verse number="25" style="v" sid="REV 2:25"/>ሀኖ ዝን፥ ታ የኦድ ሄሎዳይስ ይንትስ የዛ ባዝ ሚን ናጎይታ።<verse eid="REV 2:25"/></para>
+  <para style="pi">
+    <verse number="26" style="v" sid="REV 2:26"/>ጋምዛይኔ ዉርስ ሄሎዳይስ ታስ ኪትንትዛ ኦስካ ዎያ ኡባይል ማዉተ እማዳ።<note caller="-" style="x"><char style="xo" closed="false">2:26-28 </char><char style="xt" closed="false"><ref loc="PSA 2:8-9">ማዝ. 2:8-9</ref></char></note><verse eid="REV 2:26"/></para>
+  <para style="q1">
+    <verse number="27" style="v" sid="REV 2:27"/>«‹ኤ ኡንታን ብራታ ጉፈራ ሃሮዳይ፤</para>
+  <para style="q2" vid="REV 2:27">ዢጨፕ ኦንቴዝ ሚሸጋርከካ ትንቺ ልቅሶዳ።›</para>
+  <para style="mi" vid="REV 2:27">የ ማዉታ ታኒ ታ አዳይፕ ኤኬዝ ማዉታይ ጋርከ። <verse eid="REV 2:27"/><verse number="28" style="v" sid="REV 2:28"/>ማ ታ ኤስ ባካላ ጾልንቶ እማዳ። <verse eid="REV 2:28"/><verse number="29" style="v" sid="REV 2:29"/>አያናይ ዎሳ ኬታይስ ግዝባዝ ስእዝ ሀየ የዝ ኦንካ ስኦ።<verse eid="REV 2:29"/></para>
+  <chapter eid="REV 2"/>
+  <chapter number="3" style="c" sid="REV 3"/>
+  <para style="s1">ሳርዴሳ ዎሳ ኬስ ኪትንቴዝ ኪታ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 3:1"/>«ሰርዴሰ ዎስ ኬ ኪታንቻይስ Ꮊይ ጋርክ ዬጊ ጻፎባ።</para>
+  <para style="pi" vid="REV 3:1">ላፑን ጾስ አያንታኔ ላፑን ጾልንትታ አይኬዛይ Ꮊይ ጋርክ ዬግዛ፦ ታኒ ነ ኦሳ ኤርዛ፤ ሱንስ ነ ፓ የዛ ዝን፥ ነ Ꮊይቄዛ። <verse eid="REV 3:1"/><verse number="2" style="v" sid="REV 3:2"/>ባርኮባ! Ꮊይቆዳይስ ሄሌዝታኔ አቴዝ ጽቃ ዎልቃ ምንባ። ነ ኦሳይ ታ ጾሳይ ቲና ፎሎ ማቂ በንተካያ። <verse eid="REV 3:2"/><verse number="3" style="v" sid="REV 3:3"/>ይኬ፥ ነ ኤኬዝባዝኔ ስኤዝባዝ አካኮባ፤ ናጎባ፤ ነ ናጋራይፕ ማቆባ። ኔኒ ባርካም እጽኮ ታ ነ ቆፐካዝን ካይዞ ጋርክ ኔኮ የኦዳ፤ ታ አባ ዎደ የኦዳዛኮ ነ ኤሮያ።<note caller="-" style="x"><char style="xo" closed="false">3:3 </char><char style="xt" closed="false"><ref loc="MAT 24:43">ማቶ. 24:43</ref></char></note><verse eid="REV 3:3"/></para>
+  <para style="pi">
+    <verse number="4" style="v" sid="REV 3:4"/>ዝን ፋ ማኦ ቅትሶዋ ጽቃ አስታይ ሳርዴሳ የዛ። ኡንትስ ቤዝዛ ባዝ ማቄዝ ግሾስ ቦ ማኦ ማኢ ታር የዳ። <verse eid="REV 3:4"/><verse number="5" style="v" sid="REV 3:5"/>ጋምዝ ኦንካ ኡንቲሳይ ጋርክ ቦ ማኦ ማኦዳ። ታኒ ኤ ሱን ደኦ ማጻፋይፕ ኡጫሚ። ታኒ ታ አዳይ ቲናኔ ታ አዳይ ኪታንችታይ ቲና ኤ ታባዝ ማቄዛና ማርካቶዳ።<note caller="-" style="x"><char style="xo" closed="false">3:5 </char><char style="xt" closed="false"><ref loc="EXO 32:32">ከስ 32:32</ref></char></note> <verse eid="REV 3:5"/><verse number="6" style="v" sid="REV 3:6"/>አያናይ ዎሳ ኬታይስ ግዝባዝ ስእዝ ሀየር የዝ ኦንካ ስኦ።<verse eid="REV 3:6"/></para>
+  <para style="s1">ፍላደልፋ ዎሳ ኬስ ኪትንቴዝ ኪታ</para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 3:7"/>«ፍላደልፋ ዎሳ ኬ ኪታንቻይስ Ꮊይ ጋርክ ዬጊ ጻፎባ።</para>
+  <para style="pi" vid="REV 3:7">ጌሽኔ ቱማንቻይ፥ ዳዉተ ቁልፐ ፋ ኩሸ አይኬዛይ፥ Ꮊይ ጋርክ ዬግዛ፦ ኤ ጎርድን ኦንካ ዶዮዳይስ ዳንዳኦያ፤ ማ ኤ ዶይን ኦንካ ጎርዶዳይስ ዳንዳኦዋ።<note caller="-" style="x"><char style="xo" closed="false">3:7 </char><char style="xt" closed="false"><ref loc="ISA 22:22">ኢሳ. 22:22</ref>፤ <ref loc="JOB 12:14">ኢዮ. 12:14</ref></char></note> <verse eid="REV 3:7"/><verse number="8" style="v" sid="REV 3:8"/>ታኒ ነ ኦሳ ኤርዛ፤ ይኬ ታ ነ ቲና ኦንካ ጎርዶዳይስ ዳንዳኦዋ ዶያ ፐንገ ጋዴዛያ። ነ ዎልቃይ ጽቃ ማቅኮካ፥ ታ ቃላ ናጌዛ፤ ታና ካደካ። <verse eid="REV 3:8"/><verse number="9" style="v" sid="REV 3:9"/>አይሁደ ባዛር ፋና አይሁደ ግዝ ዎርድታኔ ጻላሄ ባግታ ኔኮ ኮኦዳኔ ነ ቲና ጹጉንዳ። ታ ነና ዶስዛያ ኡንታን ኤርሶዳ።<note caller="-" style="x"><char style="xo" closed="false">3:9 </char><char style="xt" closed="false"><ref loc="ISA 49:23">ኢሳ. 49:23</ref>፤ <ref loc="ISA 60:14">60:14</ref>፤ <ref loc="ISA 43:4">ኢሳ. 43:4</ref></char></note> <verse eid="REV 3:9"/><verse number="10" style="v" sid="REV 3:10"/>ኔኒ፥ ‹ጋርዦባ› ግ ታ ኪቴዝ ኪታ ናጌዝ ግሾስ ኩን አላማ ፋጮዳይስ የኦድ ዋየ ዎዳይፕ ታኒ ነና ናጎዳ።<verse eid="REV 3:10"/></para>
+  <para style="pi">
+    <verse number="11" style="v" sid="REV 3:11"/>ታኒ ኤልሲ የኦዳ፤ ኦንካ ነ ዛዉዳ ኤካማይ ጋርክ ኔስ የዛ ባዝ ሚን አይኮባ። <verse eid="REV 3:11"/><verse number="12" style="v" sid="REV 3:12"/>ጋሜዛና ታ ጾስ ካራ ቱስ ኡዶዳ፤ ኤ ኤዛይድ መናስ የዞዳ። ታኒ ታ ጾሳይ ሱንኔ ታ ጾሳይ ካታማይ ሱን ኤዛል አፋ ጻፎዳ፤ እዛካ ታ ጾስ ካለፕ ዎዝ ኦሮ የሩሳላመ። ማ ታ ታ ኦሮ ሱንካ ኤዛል አፋ ጻፎዳ።<note caller="-" style="x"><char style="xo" closed="false">3:12 </char><char style="xt" closed="false"><ref loc="REV 21:2">ዋን. ቆን. 21:2</ref>፤ <ref loc="ISA 62:2">ኢሳ. 62:2</ref>፤ <ref loc="ISA 65:15">65:15</ref></char></note> <verse eid="REV 3:12"/><verse number="13" style="v" sid="REV 3:13"/>አያናይ ዎሳ ኬታይስ ግዝባዝ ስእዝ ሀየ የዝ ኦንካ ስኦ።»<verse eid="REV 3:13"/></para>
+  <para style="s1">ሎዶቃ ዎሳ ኬስ ኪትንቴዝ ኪታ</para>
+  <para style="p">
+    <verse number="14" style="v" sid="REV 3:14"/>«ሎዶቃ ዎሳ ኬ ኪታንቻይስ Ꮊይ ጋርክ ዬጊ ጻፎባ።</para>
+  <para style="pi" vid="REV 3:14">‹አምንኤ› ማቄዝ አማንንቴዝ ቱማ ማርካይ፥ ጾስ መት ኡባ ሃርዛይ Ꮊይ ጋርክ ዬግዛ:<note caller="-" style="x"><char style="xo" closed="false">3:14 </char><char style="xt" closed="false"><ref loc="PRO 8:22">ኣዝ. 8:22</ref></char></note> <verse eid="REV 3:14"/><verse number="15" style="v" sid="REV 3:15"/>ታኒ ነ ኦሳ ኡባ ኤርዛ፤ ኔኒ እርጻ ዎይ ምሻ ማቀካያ፤ ኔኒ ናምአይፕ ፐታ ማቄዛኮ ኔስ ሎኦ ዝኒ! <verse eid="REV 3:15"/><verse number="16" style="v" sid="REV 3:16"/>ኔኒ እርጻ ዎይ ምሻ ባ ቦልኦ ማቄዝ ግሾስ ታ ነና ታ ዶናይፕ ጩቶዳይስ ሀንዛ። <verse eid="REV 3:16"/><verse number="17" style="v" sid="REV 3:17"/>ይኬ፥ ኔኒ፥ ‹ታኒ ዱረ፥ ጋመ ሻሎር የዛ፥ ታስ አብካ ፓጨካያ› ነ ዬግዛ። ዝን ኔኒ ሶንቄዛ፥ ማንቆ፥ ቶአኔ ካሎቴዛ ማቄዛና ኤሮያ። <verse eid="REV 3:17"/><verse number="18" style="v" sid="REV 3:18"/>የይ ግሾስ፥ ነ ዱርቶዳይስ ታማር ጌዤዝ ዎርቃ፥ ነ ዬላ ካሎ ካሞዳይስ ቦ ማኦኔ ሎእ በአዳይስ ማድዛ ኣፈ ለ ታፕ ዎንጎዳይ ጋርክ ታ ነና ዞርዛ።<verse eid="REV 3:18"/></para>
+  <para style="pi">
+    <verse number="19" style="v" sid="REV 3:19"/>ታ ታ ዶስዝታ ካጭዛኔ ሴርዛ፤ ይኬ ሉሎባ፤ ነ ናጋራይፕ ማቆባ።<note caller="-" style="x"><char style="xo" closed="false">3:19 </char><char style="xt" closed="false"><ref loc="PRO 3:12">ኣዝ. 3:12</ref>፤ <ref loc="HEB 12:6">እብራ. 12:6</ref></char></note> <verse eid="REV 3:19"/><verse number="20" style="v" sid="REV 3:20"/>ዬዛኮ፥ ታ ባለር ኤቂ ጼጎዳ። ኦንካ ታ ጼሳ ስኢ፥ ጋዛራ ዶይኮ፥ ታ ኤኮ ገሎዳ፤ ኤዛር ፐትፕ ካ ማዳ፤ ኤካ ታራ ፐትፕ ማዳ።<verse eid="REV 3:20"/></para>
+  <para style="pi">
+    <verse number="21" style="v" sid="REV 3:21"/>ታ ጋሚ ታ አዳይራ ኤ ዙፋናይል በቴዛይ ጋርክ ጋሜዛይ ታራ ታ ዙፋነል በቶዳይ ጋርክ ማዉተ እንጎዳ። <verse eid="REV 3:21"/><verse number="22" style="v" sid="REV 3:22"/>አያናይ ዎሳ ኬታይስ ግዝባዝ ስእዝ ሀየር የዝ ኦንካ ስኦ» ዬጌዛ።<verse eid="REV 3:22"/></para>
+  <chapter eid="REV 3"/>
+  <chapter number="4" style="c" sid="REV 4"/>
+  <para style="s1">ሳሎ የዝ ጎይኖ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 4:1"/>የይፕ ጉየ፥ ታኒ በኤዛ፥ ሳሎ ዶይንቴዝ ፐንገ የዛ። ማ ታ ቲና ስኤዝ ቱልቱሎ ግርስ ጋርከዛይ ታኮ፥ «Ꮊንካ ከዞባ፤ Ꮊይፕ ጉየ፥ ሀኖዳይስ የዛ ባዝ ታ ነና ቤዞዳ» ዬጌዛ። <verse eid="REV 4:1"/><verse number="2" style="v" sid="REV 4:2"/>የ ዎደ ታ አያናር ኩሚ የዛ። ይኬ፥ ሳሎ ዙፋነ ታ በኤዛ ዙፋናይል አፋ ፐታ በቴዛና በኤዛ።<note caller="-" style="x"><char style="xo" closed="false">4:2-3 </char><char style="xt" closed="false"><ref loc="EZK 1:26-28">ኢዝቀ. 1:26-28</ref>፤ <ref loc="EZK 10:1">10:1</ref></char></note> <verse eid="REV 4:2"/><verse number="3" style="v" sid="REV 4:3"/>የ በቴዛይ ማላይ እያስጰደኔ ሳርድዮና ግዝ አልኦ ሹቻይጋርከ። ኤ ዙፋናይ ዩሻይድ አልኦ መርገደ ሹች ኣዝዝ ዙላይ የዛ። <verse eid="REV 4:3"/><verse number="4" style="v" sid="REV 4:4"/>የ ዙፋናይ ዩሻይድ ላታማኔ ኦይዲ ዙፋንታይ የዛ፤ ኡንታል አፋ ቦ ማኦ ማኢ፥ ኦማል ዎርቃ ዛዉደ ጋዴዝ ላታማኔ ኦይዲ ጭምታይ በቴዛ። <verse eid="REV 4:4"/><verse number="5" style="v" sid="REV 4:5"/>ዙፋናይፕ ዜልን፥ ዳዳ ጉምኔ ሳር ከዝዛ። ዙፋነ ቲና ላፑን ፖእዛ ታማ ጾምፕታይ የዛ፤ ኡንቲ ላፑን ጾስ አያንታ።<note caller="-" style="x"><char style="xo" closed="false">4:5 </char><char style="xt" closed="false"><ref loc="EXO 19:16">ከስ 19:16</ref>፤ <ref loc="REV 1:4">ዋን. ቆን. 1:4</ref>፤ <ref loc="REV 8:5">ዋን. ቆን. 8:5</ref>፤ <ref loc="REV 11:19">11:19</ref>፤ <ref loc="REV 16:18">16:18</ref>፤ <ref loc="EZK 1:13">ኢዝቀ. 1:13</ref>፤ <ref loc="ZEC 4:2">ዛክ. 4:2</ref></char></note> <verse eid="REV 4:5"/><verse number="6" style="v" sid="REV 4:6"/>ዙፋናይ ቲና ብርለ ኣዝዛ ፎጭዝ ቡርጩኮ አባይ የዛ።<note caller="-" style="x"><char style="xo" closed="false">4:6 </char><char style="xt" closed="false"><ref loc="EZK 1:22">ኢዝቀ. 1:22</ref></char></note></para>
+  <para style="p" vid="REV 4:6">ቲናራኔ ጉየር ኣፈ ኩሜዝ ሸምፖር የዝ ኦይዲ መትታይ ዙፋናይ ዩሻይራኔ ዙፋናይ ጋንጨ የዛ። <verse eid="REV 4:6"/><verse number="7" style="v" sid="REV 4:7"/>ቲና መትይ ጋሞ ኣዝዛ፤ ናምእንይ ገማተ ኣዝዛ፤ ሃይንይ ቲናይር አስ ኣዝዛ፤ ማ ኦይድንይ ፕራዛ አንኮ ኣዝዛ። <verse eid="REV 4:7"/><verse number="8" style="v" sid="REV 4:8"/>ኦይዲ መተታይ ፐታይስ ፐታይስ ኡሱፑን ቀፍታይ የዛ፤ የ ቀፍታይ አፋ ባጋራኔ ኦሞ ባጋር ኣፈ ኩሜዛ።<note caller="-" style="x"><char style="xo" closed="false">4:8 </char><char style="xt" closed="false"><ref loc="EZK 1:18">ኢዝቀ. 1:18</ref>፤ <ref loc="EZK 10:12">10:12</ref>፤ <ref loc="ISA 6:2">ኢሳ. 6:2</ref></char></note>ኡንቲ ቃማኔ ጋላስ ጋቼካዛር፥</para>
+  <para style="qc" vid="REV 4:8">«ጌሻዮ፥ ጌሻዮ፥ ጌሻዮ፥</para>
+  <para style="qc" vid="REV 4:8">ጎዳዮ፥ ኡባ ሃርዛ ጾሳዮ፥</para>
+  <para style="qc" vid="REV 4:8">ብንካ፥ Ꮊተካ የዛዮ፥ ቲናፕ የኦዳዮ»</para>
+  <para style="m" vid="REV 4:8">ዬግዛ። <verse eid="REV 4:8"/><verse number="9" style="v" sid="REV 4:9"/>የ መተታይ ዙፋናይል በቴዛይኔ መናስ የዛይስ ሳባ፥ ቦንቾኔ ጋላታ እንጌዝ ዎደ <verse eid="REV 4:9"/><verse number="10" style="v" sid="REV 4:10"/>ላታማኔ ኦይዲ ጭምታይ ዙፋነል በቴዛኔ መናስ የዛይ ቲና ጹጉኒ ጎይኔዛ፤ ፋ ዛዉደ ዙፋናይ ቲና ጋዲ፥<verse eid="REV 4:10"/></para>
+  <para style="q1">
+    <verse number="11" style="v" sid="REV 4:11"/>«ኑ ጎዳዮ፥ ኑ ጾሳዮ፥</para>
+  <para style="q1" vid="REV 4:11">ኔኒ ኡባ መዛ፤</para>
+  <para style="q2" vid="REV 4:11">ኡባ ባዝ ነ ሸነ ጋርክ ሀኔዛይ ጋርክ</para>
+  <para style="q2" vid="REV 4:11">ኔኒ ቦንቾ፥ ቴማኔ ዎልቃ ኤኮዳይስ ቤዝዛ»</para>
+  <para style="m" vid="REV 4:11">ዬጌዛ።<verse eid="REV 4:11"/></para>
+  <chapter eid="REV 4"/>
+  <chapter number="5" style="c" sid="REV 5"/>
+  <para style="s1">ዱራኔ ማጻፍቶ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 5:1"/>የይፕ ጉየ፥ ዙፋናይል አፋ በቴዛይ ኡሻች ኩሻይድ ጋንጨራኔ አፋር ጻፍንቲ ላፑን ማታመር ጎርድንቴዝ ጻ ማጻፍቶ ታ በኤዛ።<note caller="-" style="x"><char style="xo" closed="false">5:1 </char><char style="xt" closed="false"><ref loc="EZK 2:9">ኢዝቀ. 2:9</ref></char></note> <verse eid="REV 5:1"/><verse number="2" style="v" sid="REV 5:2"/>ፐቲ ምኖ ኪታንቻይ ፋ ቃላ ቅ ኡዲ፥ «ማታማ ብሎዳይስኔ ማጻፍቶ ዶዮዳይስ ቤዝዛይ ኦኖ?» ዬጊ አዋጆዳር በኤዛ። <verse eid="REV 5:2"/><verse number="3" style="v" sid="REV 5:3"/>ዝን ሳሎ ማቅን ሳአ ዎይ ሳአፕ ኦሞ ማቅን የ ጻ ማጻፍቶ ዶዮዳይስኔ ጋንጫ በአዳይስ ዳንዳኤዝ ኦንካ ባያ። <verse eid="REV 5:3"/><verse number="4" style="v" sid="REV 5:4"/>ጻ ማጻፍቶ ዶዮዳይስኔ እ ጋንጫ በአዳይስ ቤዝዛ አስ ቤዝ ግሾስ ታ ኢታ ዬኬዛ። <verse eid="REV 5:4"/><verse number="5" style="v" sid="REV 5:5"/>የ ዎደ፥ ጭምታይፕ ፐታይ ታኮ፥ «ዬክፐ! ይሁዳ ዘረ ማቄዝ ጋማይ፥ ዳዉተ ሼሻይ፥ ላፑን ማታምታ ብሎዳይስኔ ማጻፍቶ ዶዮዳይስ ዳንዳኤዛ» ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">5:5 </char><char style="xt" closed="false"><ref loc="GEN 49:9">መ. 49:9</ref>፤ <ref loc="ISA 11:1">ኢሳ. 11:1</ref></char></note><verse eid="REV 5:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="REV 5:6"/>የይፕ ጉየ፥ ዙፋናይል ኦይዲ መተታይስኔ ጭምታይስ ጋንጨ፥ ሹክንቴዝ ዱር ጋርክ ኤቄዛና ታ በኤዛ። ኤስ ላፑን ካጭታይኔ ላፑን ኣፍታይ የዛ። የይትታይ ሳአ ኡባይል ኪትንቴዝ ጾስ አያና ላፑንታ።<note caller="-" style="x"><char style="xo" closed="false">5:6 </char><char style="xt" closed="false"><ref loc="ISA 53:7">ኢሳ. 53:7</ref>፤ <ref loc="ZEC 4:10">ዛክ. 4:10</ref></char></note> <verse eid="REV 5:6"/><verse number="7" style="v" sid="REV 5:7"/>የ ዱራይ ይኢ፥ ዙፋናይል አፋ በቴዛይ ኡሻች ኩሸፕ ጻ ማጻፍቶ ኤኬዛ። <verse eid="REV 5:7"/><verse number="8" style="v" sid="REV 5:8"/>ኤ የ ጻ ማጻፍቶ ኤኬዝ ዎደ ኦይዲ መትታይኔ ላታማኔ ኦይዲ ጭምታይ ዱራይ ቲናይድ ጉጲንጌዛ። ኡንቲ ፐታይ ፐታይ ዲኔ ጌሽታይ ዎሳ ማቄዝ እጻኔ ኩሜዝ ዎርቃ ሻተ አይኬዛ።<note caller="-" style="x"><char style="xo" closed="false">5:8 </char><char style="xt" closed="false"><ref loc="PSA 141:2">ማዝ. 141:2</ref></char></note> <verse eid="REV 5:8"/><verse number="9" style="v" sid="REV 5:9"/>ኡንቲ፥</para>
+  <para style="q1" vid="REV 5:9">«ጻ ማጻፍቶ ኤኮዳይስ፥</para>
+  <para style="q2" vid="REV 5:9">ማታመ ብልኦዳይስ ኔስ ቤዝዛ።</para>
+  <para style="q1" vid="REV 5:9">
+    <note caller="-" style="x">
+      <char style="xo" closed="false">5:9 </char>
+      <char style="xt" closed="false">
+        <ref loc="PSA 33:3">ማዝ. 33:3</ref>፤ <ref loc="PSA 98:1">98:1</ref>፤ <ref loc="ISA 42:10">ኢሳ. 42:10</ref></char>
+    </note>አብስ ጊኮ፥ ኔኒ ሹክንቴዛያ፤</para>
+  <para style="q2" vid="REV 5:9">ዘረ ኡባይፕ፥ ዱማ ዱማ ዶናፕ፥</para>
+  <para style="q2" vid="REV 5:9">ያርታይፐኔ ካተት ኡባይፕ፥</para>
+  <para style="q2" vid="REV 5:9">ነ ሱይር ጾሳይስ ዎዜዛ።<verse eid="REV 5:9"/></para>
+  <para style="q1">
+    <verse number="10" style="v" sid="REV 5:10"/>ኑ ጾሳይስ ካተትኔ ቄሰ ማቃዳይ ጋርክ ኡዴዛ</para>
+  <para style="q2" vid="REV 5:10">ኡንቲ ቢታል አፋ ካዉቶዳ።</para>
+  <para style="q1" vid="REV 5:10">ኡንትካ ጋደ ኡባ ሞዶዳይ»</para>
+  <para style="m" vid="REV 5:10">ዬጊ ኦሮ ማዝሙረ የጼዛ።<note caller="-" style="x"><char style="xo" closed="false">5:10 </char><char style="xt" closed="false"><ref loc="EXO 19:6">ከስ 19:6</ref>፤ <ref loc="REV 1:6">ዋን. ቆን. 1:6</ref></char></note><verse eid="REV 5:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 5:11"/>ታ በአዳር ዙፋናይ፥ ኦይዲ መትታይኔ ጭምታይ ዩሻይድ ጋመ ኪታንችታይ የዛ። ኡ ጋመትይ ሙኩሎ ቶኬ ሙኩሎኔ ታጲ ሙኩሎ ቶኬ ታጲ ሙኩሎ ማቄዝ ጊር ስኤዛ።<note caller="-" style="x"><char style="xo" closed="false">5:11 </char><char style="xt" closed="false"><ref loc="DAN 7:10">ዳነ. 7:10</ref></char></note> <verse eid="REV 5:11"/><verse number="12" style="v" sid="REV 5:12"/>የ ኪታንችታይ ቅ ጌዝ ቃላር፥</para>
+  <para style="q1" vid="REV 5:12">«ሹክንቴዝ ዱራይ ዎልቃ፥ ዱረት፥</para>
+  <para style="q2" vid="REV 5:12">ኤጨትኔ ምኖት፥ ቦንቾ፥ ሳባኔ</para>
+  <para style="q2" vid="REV 5:12">አንጆ ኤኮዳይስ ቤዝዛ»</para>
+  <para style="m" vid="REV 5:12">ዬጌዛ።<verse eid="REV 5:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 5:13"/>የይፕ ጉየ፥ ሳአ፥ ሳሎ፥ ሳአፕ ኦሞራኔ አባ ጋንጨ የዝ መት ኡባይ፥</para>
+  <para style="q1" vid="REV 5:13">«ዙፋነል አፋ በቴዛይስኔ ዱራይስ፥</para>
+  <para style="q2" vid="REV 5:13">ጋላታ፥ ቦንቾ፥ ሳባኔ ዎልቃ</para>
+  <para style="q2" vid="REV 5:13">መፐ መናስ ማቆ»</para>
+  <para style="m" vid="REV 5:13">ዬጊ የጾዳር ስኤዛ።<verse eid="REV 5:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="REV 5:14"/>ኦይዲ መትታይካ፥ «አምንኤ» ዬጌዛ፤ ማ ጭምታይካ ጹጉኒ ጎይኔዛ።<verse eid="REV 5:14"/></para>
+  <chapter eid="REV 5"/>
+  <chapter number="6" style="c" sid="REV 6"/>
+  <para style="s1">ማታምታይ ዶይንቶ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 6:1"/>ዱራይ ላፑን ማታምታይፕ ፐታ ዶዮዳር በኤዛ። ማ ኦይዲ መትታይፕ ፐታይ፥ ዳዳ ጋርክ ጉምር፥ «Ꮊና የኦባ!» ዬጎዳር ታ ስኤዛ። <verse eid="REV 6:1"/><verse number="2" style="v" sid="REV 6:2"/>የይፕ ቦ ፋራ ታ በኤዛ። የ ፋራ ቶጌዛይ ዶንገ አይኬዛ፤ ኤ ኦማይስ ዛዉደ እንግንቴዛ። ኤካ ጋምዛያ ማቂ ጋምፕ ጋምኮ Ꮊማዳይስ ከዜዝ።<note caller="-" style="x"><char style="xo" closed="false">6:2 </char><char style="xt" closed="false"><ref loc="ZEC 1:7">ዛክ. 1:7</ref></char></note><verse eid="REV 6:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 6:3"/>ማ ዱራይ ናምእን ማታማ ዶዬዝ ዎደ ናምእን መትይ፥ «Ꮊና የኦባ!» ዬጎዳር ስኤዛ። <verse eid="REV 6:3"/><verse number="4" style="v" sid="REV 6:4"/>ማ ሀራ ስሃ ዞቆ ፋራ ከዜዝ። የ ፋራ ቶጌዛይስ ቢታላፕ ሳሮ ብሶዳይ ጋርከኔ አሳይ ዎል ዉርሶዳይ ጋርክ ማዉተኔ ግታ ማሻ እንግንቴዛ።<note caller="-" style="x"><char style="xo" closed="false">6:4 </char><char style="xt" closed="false"><ref loc="ZEC 1:7">ዛክ. 1:7</ref></char></note><verse eid="REV 6:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="REV 6:5"/>ዱራይ ሀይን ማታማ ዶዬዝ ዎደ ሃይን መትይ፥ «Ꮊና የኦባ!» ዬጎዳር ታ ስኤዛ። የይፕ ካር ፋራ ታ በኤዛ፤ ፓራይል በቴዛይ ፋ ኩጬ ምዛነ አይኬዛ<note caller="-" style="x"><char style="xo" closed="false">6:5 </char><char style="xt" closed="false"><ref loc="ZEC 6:2">ዛክ. 6:2</ref></char></note>። <verse eid="REV 6:5"/><verse number="6" style="v" sid="REV 6:6"/>ኦይዲ መትታይ ጋንጨፕ ከዜዝ ጊር፥ «ባጋ ክሎ ግስተ፤ ፐቲ ድናረ፥ ማካ ፐቲ ክሎኔ ባጋ ባንጋ ፐቲ ድናረ ማቆ። ዝን ዛይተኔ ዎይነ ቆህፐ» ዬጎዳር ስኤዛ።<verse eid="REV 6:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 6:7"/>ዱራይ ኦይድን ማታማ ዶዬዝ ዎደ ኦይድን መትይ፥ «Ꮊና የኦባ!» ዬጎዳር ስኤዛ። <verse eid="REV 6:7"/><verse number="8" style="v" sid="REV 6:8"/>የይፕ ጫምፓ ፋራ ታ በኤዛ። የ ፋራ ቶጌዛይ ሱንይ Ꮊይቆ፤ ኤ ላሳ ስኦለ ካልዛ። ኡንትስ አላማይስ ስካ ኦላ፥ ናየ፥ ጋዶራኔ ዶአር ዎሶዳይ ጋርክ ማዉተ እንግንቴዛ።<note caller="-" style="x"><char style="xo" closed="false">6:8 </char><char style="xt" closed="false"><ref loc="EZK 14:21">ኢዝቀ. 14:21</ref></char></note><verse eid="REV 6:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 6:9"/>ዱራይ እችን ማታማ ዶዬዝ ዎደ ኡንቲ ጾስ ቃላ ኦዴዝ ግሾኔ ፋ ማርካትይር አማንንቴዝ ግሾስ ሹክንቴዝ አሳይ ሸምፕታይ ያርሾ አቆፕ ኦሞ የዛና ታ በኤዛ። <verse eid="REV 6:9"/><verse number="10" style="v" sid="REV 6:10"/>ኡንቲ ፋ ቃላ ቅ ኡዲ፥ «ኡባ ሞድዝ ጎዳዮ፥ ጌሻዮ፥ ቱማንቻዮ፥ ሳአ የዝ አሳይል አፋ ነ ፕርዶዳይኔ ኑ ሱይ ግሾስ ኩሸ ከሶዳይ አይዴ?» ዬጌዛ። <verse eid="REV 6:10"/><verse number="11" style="v" sid="REV 6:11"/>ኡንትስ ፐታይስ ፐታይስ ቦ አዱስ ማኦ እንግንቴዛ። ኡ ጋርክ ሀኒ Ꮊይቆዳይስ ቤዝዛ ኡ አይልታይ ዣምታይኔ እሽታይ ታይባይ ኩሞድ ሄሎዳይስ ጽቃ ዎደ ሸምፖዳይ ጋርክ ኡንትስ ኦድንቴዛ።<verse eid="REV 6:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 6:12"/>ዱራይ ኡሱፑን ማታማ ዶዬዝ ዎደ ታ በኤዛ፤ ቢታ ዎልቃማ ኤንኦ ኤንኤዛ። አዋ ኣፋይ ካርቲ ካያ አፍላ ኣዝዛ። አግናይካ ዞቂ ሱ ማቄዛ።<note caller="-" style="x"><char style="xo" closed="false">6:12 </char><char style="xt" closed="false"><ref loc="REV 11:13">ዋን. ቆን. 11:13</ref>፤ <ref loc="REV 16:18">16:18</ref>፤ <ref loc="ISA 13:10">ኢሳ. 13:10</ref>፤ <ref loc="JER 2:10">ኤርም. 2:10</ref></char></note> <verse eid="REV 6:12"/><verse number="13" style="v" sid="REV 6:13"/>ዎልቃማ ጫርኮ ጫርኪ ባላሰ ም ኤንእስን ቃምኤ ኣፋይ ጉፍዛይ ጋርክ ሳሎ ጾልንትታይ ሳአል ጉፌዛ።<note caller="-" style="x"><char style="xo" closed="false">6:13-14 </char><char style="xt" closed="false"><ref loc="ISA 34:4">ኢሳ. 34:4</ref></char></note> <verse eid="REV 6:13"/><verse number="14" style="v" sid="REV 6:14"/>ሳላይ ጻ ማጻፈ ጋርክ ጻጽንቲ ኣዛ፤ አምብታይኔ ሃር ማርንቴዝ ቢትታይ ፋ አቃይፕ ቤዛ።<note caller="-" style="x"><char style="xo" closed="false">6:14 </char><char style="xt" closed="false"><ref loc="REV 16:20">ዋን. ቆን. 16:20</ref></char></note> <verse eid="REV 6:14"/><verse number="15" style="v" sid="REV 6:15"/>ጋደ ካትታይ፥ ጋደ ሀርዝታይ፥ ኦላ ካልዝታይ፥ ዱርታይ፥ ዎልቃምታይ፥ አይልታይኔ፥ ዎማንታይ ኮምእታይዳኔ አምባል አፋ የዝ ዛልታይ ጋንጨ ቆስንቴዛ።<note caller="-" style="x"><char style="xo" closed="false">6:15 </char><char style="xt" closed="false"><ref loc="ISA 2:19">ኢሳ. 2:19</ref></char></note> <verse eid="REV 6:15"/><verse number="16" style="v" sid="REV 6:16"/>ኡንትካ አምብታይኮኔ ዛልታይኮ፥ «ኑል አፋ ዎይታ፤ ኑና ቆሶይታ፤ ዙፋነል አፋ በቴዛይ አፋይፐኔ ዱራይ ካቻይፕ ኑና ገንይታ።<note caller="-" style="x"><char style="xo" closed="false">6:16 </char><char style="xt" closed="false"><ref loc="HOS 10:8">ሆሳ. 10:8</ref>፤ <ref loc="LUK 23:30">ሉቃ. 23:30</ref></char></note> <verse eid="REV 6:16"/><verse number="17" style="v" sid="REV 6:17"/>ኡ ግታ ካቺ ጋላሳይ የኤዛ፤ ኦኖ ዳንዳኢ ኤቆዳይ?» ኡ ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">6:17 </char><char style="xt" closed="false"><ref loc="JER 2:11">ኤርም. 2:11</ref>፤ <ref loc="MAL 3:2">ሚል. 3:2</ref></char></note><verse eid="REV 6:17"/></para>
+  <chapter eid="REV 6"/>
+  <chapter number="7" style="c" sid="REV 7"/>
+  <para style="s1">ጼታኔ ኦይታማኔ ኦይዲ ሙኩሎ እስረልታ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 7:1"/>የይፕ ጉየ፥ ኦይዲ ኪታንችታይ ኦይዲ ሳአ ጎንትታይል ኤቄዝታ በኤዛ። የ ኪታንችታይ ሳአል አፋ ዎይ አባል አፋ ዎይ አባ ምላካ አፋ ጫርካይ ኦይዲ ሳአ ጋጻፕ ጫርካማይ ጋርክ አይኬዛ።<note caller="-" style="x"><char style="xo" closed="false">7:1-2 </char><char style="xt" closed="false"><ref loc="JER 49:36">ኤርም. 49:36</ref>፤ <ref loc="DAN 7:2">ዳነ. 7:2</ref>፤ <ref loc="ZEC 6:5">ዛክ. 6:5</ref></char></note> <verse eid="REV 7:1"/><verse number="2" style="v" sid="REV 7:2"/>ማ ደኦ ጾስ ማታመ የዝ ሀራ ኪታንቻይ አዋ ከስ ባጋፕ ከሳዳር ታ በኤዛ። የ ኪታንቻይ ፋ ቃላ ቅ ኡዲ፥ ሳአኔ አባ ቆሆዳይስ ዎልቃ እንግንቴዝ ኦይዲ ኪታንችታይኮ፥ <verse eid="REV 7:2"/><verse number="3" style="v" sid="REV 7:3"/>«ኑኒ ጾስ አይልታይ ስናይድ ማታመ ጋዶድ ሄሎዳይስ ቢታ ዎይ አባ ዎይ ም ቆህፓተ» ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">7:3 </char><char style="xt" closed="false"><ref loc="EZK 9:4">ኢዝቀ. 9:4</ref></char></note><verse eid="REV 7:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 7:4"/>የዝን፥ ታኒ ጾስ ማታመ ስኖል ጋድንቴዝታይ ፓይዳ ስኤዛ። እስሬለ ኮች ኡባይፕ ጼታኔ ኦይታማነ ኦይዲ ሙኩሎ አሳይስ ስናይል ማታመ ጋዴዛ።<verse eid="REV 7:4"/></para>
+  <para style="q1">
+    <verse number="5" style="v" sid="REV 7:5"/>ይሁዳ ኮቻፕ ታጶ ናምኢ ሙኩሎ፥</para>
+  <para style="q1" vid="REV 7:5">ሮቤላ ኮቻፕ ታጶ ናምኢ ሙኩሎ፥</para>
+  <para style="q1" vid="REV 7:5">ጋደ ኮቻፕ ታጶ ናምኢ ሙኩሎ፥<verse eid="REV 7:5"/></para>
+  <para style="q1">
+    <verse number="6" style="v" sid="REV 7:6"/>ኣሴራ ኮቻፕ ታጶ ናምኢ ሙኩሎ፥</para>
+  <para style="q1" vid="REV 7:6">ንፍታለመ ኮቻፕ ታጶ ናምኢ ሙኩሎ፥</para>
+  <para style="q1" vid="REV 7:6">ምናሰ ኮቻፕ ታጶ ናምኢ ሙኩሎ፥<verse eid="REV 7:6"/></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="REV 7:7"/>ስሞና ኮቻፕ ታጶ ናምኢ ሙኩሎ፤</para>
+  <para style="q1" vid="REV 7:7">ለወ ኮቻፕ ታጶ ናምኢ ሙኩሎ፥</para>
+  <para style="q1" vid="REV 7:7">ይሳኮሬ ኮቻፕ ታጶ ናምኢ ሙኩሎ፥<verse eid="REV 7:7"/></para>
+  <para style="q1">
+    <verse number="8" style="v" sid="REV 7:8"/>ዛብሎነ ኮቻፕ ታጶ ናምኢ ሙኩሎ፥</para>
+  <para style="q1" vid="REV 7:8">ዮሴፋ ኮቻፕ ታጶ ናምኢ ሙኩሎ፥</para>
+  <para style="q1" vid="REV 7:8">ቢናማ ኮቻፕ ታጶ ናምኢ ሙኩሎ፥</para>
+  <para style="m" vid="REV 7:8">አሳይ ስናይል ማታመ ጋዴዛ።<verse eid="REV 7:8"/></para>
+  <para style="s1">ቦ ማኦ ማኤዝ ጋመ ዎይታ</para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 7:9"/>የይፕ ጉየ፥ ዘረ ኡባይፕ፥ ካተት ኡባይፕ፥ ኮች ኡባይፐኔ ዱማ ዱማ ዶና ኦድንትዝታይፕ ዛዋ ባ ጋመ ዎያ ታ በኤዛ። የ አሳይ ቦ አዱስ ማኦ ማኢ፥ ዛምባ ሀየ ፋ ኩሸ አይኪ፥ ዙፋናይ ቲናኔ ዱራይ ቲና ኤቄዛ። <verse eid="REV 7:9"/><verse number="10" style="v" sid="REV 7:10"/>ኡንቲ ፋ ቃላ ቅ ኡዲ፥ «አቶት ዙፋናይል በቴዝ ኑ ጾሳይፐኔ ዱራይፕ ይእዛ» ዬጌዛ።<verse eid="REV 7:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 7:11"/>ኪታንችታይ ኡባይ፥ ዙፋናይስኔ፥ ጭምታይስኔ ኦይዲ መትታይ ዩሻይር ማር ኤቄዛ። ኡንቲ ዙፋናይ ቲና ጹጉኒ ጾሳይስ ጎይኔዛ።<verse eid="REV 7:11"/></para>
+  <para style="q1">
+    <verse number="12" style="v" sid="REV 7:12"/>«አምንኤ!</para>
+  <para style="q2" vid="REV 7:12">አንጆ፥ ቦንቾ፥ ኤጨት፥ ጋላታ፥ ሳባ</para>
+  <para style="q2" vid="REV 7:12">ዎልቃ፥ ምኖት መናፕ መና ሄሎዳይስ</para>
+  <para style="q2" vid="REV 7:12">ኑ ጾሳይስ ማቆ።</para>
+  <para style="q1" vid="REV 7:12">አምንኤ!» ዬጌዛ።<verse eid="REV 7:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 7:13"/>ጭምታይፕ ፐታይ ታኮ፥ «Ꮊ ቦ ማአ ማኤዝ አስታይ ኦናንታራ? ኡንቲ አናፕ የኤኔ?» ዬጊ ታ ኦይጬዛ።<verse eid="REV 7:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="REV 7:14"/>ታንካ ማሂ፥ «ጎዳዮ፥ ነ ኤርዛ» ዬጌዛ።</para>
+  <para style="p" vid="REV 7:14">ኤካ ታኮ፥ «የይትታይ ጋመ ዋየ ኣ የኤዝታ። ኡንቲ ፋ ማአ ዱራይ ሱር ሜጪ ቦ ኡዴዛ።<note caller="-" style="x"><char style="xo" closed="false">7:14 </char><char style="xt" closed="false"><ref loc="DAN 12:1">ዳነ. 12:1</ref>፤ <ref loc="MAT 24:21">ማቶ. 24:21</ref>፤ <ref loc="MRK 13:19">ማር. 13:19</ref></char></note> <verse eid="REV 7:14"/><verse number="15" style="v" sid="REV 7:15"/>የይ ግሾስ፥</para>
+  <para style="q1" vid="REV 7:15">«ኡንቲ ጾስ ዙፋናይ ቲና የዝ</para>
+  <para style="q2" vid="REV 7:15">ቃማኔ ጋላስ ኤ ኬ ኤዛ ጎይኔዛ።</para>
+  <para style="q1" vid="REV 7:15">ማ ዙፋናይል አፋ በቴዛይ ኡንትስ ካምፓ ማቆዳ።<verse eid="REV 7:15"/></para>
+  <para style="q1">
+    <verse number="16" style="v" sid="REV 7:16"/>ይከፕ ጉየ፥ ኡንቲ ናይንታሚ፥ ሳምንታሚ።</para>
+  <para style="q2" vid="REV 7:16">አዋ ምቻካ ኡንታን ሾጫሚ።<note caller="-" style="x"><char style="xo" closed="false">7:16 </char><char style="xt" closed="false"><ref loc="ISA 49:10">ኢሳ. 49:10</ref></char></note><verse eid="REV 7:16"/></para>
+  <para style="q1">
+    <verse number="17" style="v" sid="REV 7:17"/>ዙፋንታይ ግዶ በቴዝ ዱራይ ኡንታን ሄንጎዳ።</para>
+  <para style="q2" vid="REV 7:17">ደኦ ፑልቶ ሃኮ ኡንታን ካልዳ።</para>
+  <para style="q1" vid="REV 7:17">ጾሲ ኡ ኣፋይፕ አፉ ኡባ ኡጮዳ»</para>
+  <para style="m" vid="REV 7:17">ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">7:17 </char><char style="xt" closed="false"><ref loc="PSA 23:1">ማዝ. 23:1</ref>፤ <ref loc="EZK 34:23">ኢዝቀ. 34:23</ref>፤ <ref loc="PSA 23:2">ማዝ. 23:2</ref>፤ <ref loc="ISA 49:10">ኢሳ. 49:10</ref>፤ <ref loc="ISA 25:8">ኢሳ. 25:8</ref></char></note><verse eid="REV 7:17"/></para>
+  <chapter eid="REV 7"/>
+  <chapter number="8" style="c" sid="REV 8"/>
+  <para style="s1">ላፑን ማታማይ ዶይንቶ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 8:1"/>ዱራይ ላፑን ማታማ ዶዬዝ ዎደ ባጋ ሳተ ማቆዳና ሳሎ ጭጭርክ ጌዛ።<verse eid="REV 8:1"/></para>
+  <para style="p">
+    <verse number="2" style="v" sid="REV 8:2"/>የይፕ ጉየ፥ ታኒ ላፑን ቱልቱልታይ እንግንቴዝ ላፑን ኪታንችታይ ጾስ ቲና ኤቄዛና በኤዛ።<verse eid="REV 8:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 8:3"/>እጻኔ ጩይሽዝ ዎርቃ ቀንደለ አይኬዝ ሀራ ኪታንቻይ ይኢ፥ ያርሾ አቃይ ካላይድ ኤቄዛ። ኤ ዙፋናይ ቲና የዝ ዎርቃ እቃይል ያርሾ አቃይል አፋ ጌሽታይስ ኡባይስ ዎሳራ ጉጂ ያርሾድ ጋርክ ኤስ ጋመ እጻኔ እንግንቴዛ። <verse eid="REV 8:3"/><verse number="4" style="v" sid="REV 8:4"/>እጻኔ ጩያይ ጌሽታይ ዎሳር ፐትፕ ኪታንቻ ኩሸፕ ኡዴ ጾስኮ ከዜዝ። <verse eid="REV 8:4"/><verse number="5" style="v" sid="REV 8:5"/>የይፕ ጉየ፥ ኪታንቻይ እጻኔ ጩይሽዝ ቀንደላ ኤኪ፥ ኤዛይድ ያርሾ አቃይፕ ቃቃ ታማ ኩን ሳአ ሱለ ጌዛ። የይፕ ዳዳ፥ ዳዳ ሳር፥ ዜልንኔ ቢታ ኤንኦ ሀኔዛ።<note caller="-" style="x"><char style="xo" closed="false">8:5 </char><char style="xt" closed="false"><ref loc="LEV 16:12">ለዊ. 16:12</ref>፤ <ref loc="EZK 10:2">ኢዝቀ. 10:2</ref>፤ <ref loc="EXO 19:16">ከስ 19:16</ref>፤ <ref loc="REV 11:19">ዋን. ቆን. 11:19</ref>፤ <ref loc="REV 16:18">16:18</ref></char></note><verse eid="REV 8:5"/></para>
+  <para style="s1">ላፑን ቱልቱልታ</para>
+  <para style="p">
+    <verse number="6" style="v" sid="REV 8:6"/>የይፕ ጉየ፥ ላፑን ኪታንችታይ አይኬዝ ላፑን ቱቱልታ ፑጎዳይስ ጊግንቴዛ።<verse eid="REV 8:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 8:7"/>ቲና ኪታንቻይ ፋ ቱልቱሎ ፑግን ሻችኔ ሱር ዋላክንቴዝ ታማ ማቂ ሳአል ዎዛ። ሳአስ ሀይ ኩሸፕ ፐታይ ጹግንቴዛ፤ ምፕ ሀይ ኩሸፕ ፐታይ ጹግንቴዛ፤ ጭልኦ ማታ ኡባይ ጹግንቴዛ።<note caller="-" style="x"><char style="xo" closed="false">8:7 </char><char style="xt" closed="false"><ref loc="EXO 9:23-25">ከስ 9:23-25</ref>፤ <ref loc="EZK 38:22">ኢዝቀ. 38:22</ref></char></note><verse eid="REV 8:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 8:8"/>ናምእን ኪታንቻይ ፋ ቱልቱላ ፑጌዝ ዎደ ዎልቃማ አምባ ኣዝዝባዝ ታማር ኤጽታር አባ ኦልንቴዛ። የይፐ፥ አባይፕ ሀይ ኩሸፕ ፐታይ ሱ ማቄዛ። <verse eid="REV 8:8"/><verse number="9" style="v" sid="REV 8:9"/>አባ ሸምፖር የዝ መትታይፕ ሀይ ኩሸፕ ፐታይ Ꮊይቄዛ፤ ማርካብታይፐክ ሀይ ኩሸፕ ፐታይ ቤዛ።<verse eid="REV 8:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="REV 8:10"/>ሃይን ኪታንቻይ ፋ ቱልቱሎ ፑጌዝ ዎደ ዣበ ጋርክ ኤጽዝ ዎልቃማ ጾልንታይ ሃታይፕ ሀይ ኩሸፕ ፐታይል አፋኔ ፑልትታይል አፋ ሳሎፕ ዎዛ።<note caller="-" style="x"><char style="xo" closed="false">8:10 </char><char style="xt" closed="false"><ref loc="ISA 14:12">ኢሳ. 14:12</ref></char></note> <verse eid="REV 8:10"/><verse number="11" style="v" sid="REV 8:11"/>የ ጾልንታይ ሱንይ ጫሞ ግንትዛ። ሃይፕ ሀይ ኩሸፕ ፐታይ ጫንግሴዛ፤ ሃይ ጫንጌዝ ግሾስ ጋመ አሳይ የ ሃ ኡዢ Ꮊይቄዛ።<note caller="-" style="x"><char style="xo" closed="false">8:11 </char><char style="xt" closed="false"><ref loc="JER 9:15">ኤርም. 9:15</ref></char></note><verse eid="REV 8:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 8:12"/>ኦይድን ኪታንቻይ ፋ ቱልቱላ ፑጌዛ። አዋፕ፥ ኣግናፐኔ ጾልንትታይፕ ሀይ ኩሸፕ ፐታይ ሾጭንቴዛ፤ ኡ ፖአይፕ ሀይ ኩሸፕ ፐታይ ሜዛ። ጋላሳይፕ ሀይ ኩሸፕ ፐታይ፥ ቃማፐካ ሀይ ኩሸፕ ፐታይ ሜዛ።<note caller="-" style="x"><char style="xo" closed="false">8:12 </char><char style="xt" closed="false"><ref loc="ISA 13:10">ኢሳ. 13:10</ref>፤ <ref loc="EZK 32:7">ኢዝቀ. 32:7</ref>፤ <ref loc="JOL 2:10">ኢዩ. 2:10</ref></char></note><verse eid="REV 8:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 8:13"/>የይፕ ፐቲ ጎሎ ሳሎል ቅ ግ፥ ፕራዳር በኤዛ። የ ጎላይ ፋ ቃላ ቅ ኡዲ፥ «አቴዝ ሀይ ኪታንችታይ ፋ ቱልቱሎ ፑጎዳይስ የዝ ግሾስ ሳአ የዝ አሳይኮ አየ! አየ! አየ!» ዬጎዳር ስኤዛ።<verse eid="REV 8:13"/></para>
+  <chapter eid="REV 8"/>
+  <chapter number="9" style="c" sid="REV 9"/>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 9:1"/>የይፕ ጉየ፥ እችን ኪታንቻይ ፋ ቱልቱሎ ፑግን ሳሎፕ ሱል ሳአ ፖኬዝ ጾልንታ ታ በኤዛ። ኤስ ዎልቃማ ጪሞ ኦላ ዶይዛ ቁልፐ እንግንቴዛ። <verse eid="REV 9:1"/><verse number="2" style="v" sid="REV 9:2"/>ኤዚ ጪሞ ኦላ ዶይን ዳልገ ታማ ኦላፕ ከዝዝ ጩያ ጋርክ ጩያይ የ ኦላይፕ ከዜዝ። ያ ኦላይፕ ከዝዝ ጩያይር አዋኔ ሳላይ ሜዛ።<note caller="-" style="x"><char style="xo" closed="false">9:2 </char><char style="xt" closed="false"><ref loc="GEN 19:28">መ. 19:28</ref></char></note><verse eid="REV 9:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 9:3"/>የ ጩያይፕ ቦልታይ ቢታል ከዜዛ። ሳአ የዝ Ꮊንጋርጮስ የዛ ዎልቃይ ጋርክ ዎልቃ ቦልታይስ እንግንቴዛ።<note caller="-" style="x"><char style="xo" closed="false">9:3 </char><char style="xt" closed="false"><ref loc="EXO 10:12">ከስ 10:12</ref></char></note> <verse eid="REV 9:3"/><verse number="4" style="v" sid="REV 9:4"/>ጾስ ማታመ ስኖል ባ አሳይ ኣዳፕ አትን ሳአ የዝ ማታ ዎይ ም ዎይ አባ ጭልኦ ባዝ ማቅን ቆሃማይ ጋርክ ቦልታይስ ኦድንቴዛ።<note caller="-" style="x"><char style="xo" closed="false">9:4 </char><char style="xt" closed="false"><ref loc="EZK 9:4">ኢዝቀ. 9:4</ref></char></note> <verse eid="REV 9:4"/><verse number="5" style="v" sid="REV 9:5"/>ቦልታይ አሳ እችን አግና ሄሎዳይስ ፓጻ ካኦዳይ ጋርክ ማዉተ እንጌዛይፕ አትን አሳ ዎዳይ ጋርክ ባያ። Ꮊንጋርጮ አስ ዱክን ዛምዛይ ጋርክ ቦልታይካ ዱኪ ዛምስዛ። <verse eid="REV 9:5"/><verse number="6" style="v" sid="REV 9:6"/>የ ጋላስታይድ አሳይ Ꮊይቆ ኮዮዳ፥ ዝን ደንገና። ኡንቲ Ꮊይቆዳይስ አሞቶዳ፥ ዝን Ꮊይቆ ኡንታፕ ሃኮዳ።<note caller="-" style="x"><char style="xo" closed="false">9:6 </char><char style="xt" closed="false"><ref loc="JOB 3:21">ኢዮ. 3:21</ref>፤ <ref loc="JER 8:3">ኤርም. 8:3</ref></char></note><verse eid="REV 9:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 9:7"/>ቦልታይካ ኦላስ ጊጊ በቴዝ ፋራ ኣዝዛ። ቦልታይ ኦማይል ዎርቃ ዛዉደ ኣዝዛ ባዝ የዛ፤ ኡ ኣፋይራይካ አስ ኣዝዛ።<note caller="-" style="x"><char style="xo" closed="false">9:7 </char><char style="xt" closed="false"><ref loc="JOL 2:4">ኢዩ. 2:4</ref></char></note> <verse eid="REV 9:7"/><verse number="8" style="v" sid="REV 9:8"/>ኡ ብናናይ ማች ብናና ጋርክ ኣዱሰ። ኡ አቻይካ ጋሞ አች ኣዝዛ።<note caller="-" style="x"><char style="xo" closed="false">9:8 </char><char style="xt" closed="false"><ref loc="JOL 1:6">ኢዩ. 1:6</ref></char></note> <verse eid="REV 9:8"/><verse number="9" style="v" sid="REV 9:9"/>ኡንትስ ትራል ጋድዛ ብራታ ጹሩረ የዛ፤ ኡ ቀፍታይ ጊርይ ኦላስ ጋላብዛ ፋራኔ ፋራ ጋረ ጊር ጋርክ።<note caller="-" style="x"><char style="xo" closed="false">9:9 </char><char style="xt" closed="false"><ref loc="JOL 2:5">ኢዩ. 2:5</ref></char></note> <verse eid="REV 9:9"/><verse number="10" style="v" sid="REV 9:10"/>ኡንትስ Ꮊንጋርጮ ጎይኖ ኣዝዝ ጎይኖኔ ዱክዛ ዪሺ የዛ። የ ጎይናይር እችን አግና አሳ ቆሆዳይ ጋርክ ዎልቃ እንግቴዛ። <verse eid="REV 9:10"/><verse number="11" style="v" sid="REV 9:11"/>ኡንትስ ካቲ የዛ፤ የ ካታይ ጪሞ ኦላ ኪታንቻ። ኤ ሱንይ እብራይስጸ ዶናር አብዶና፤ ማ ግርኬ ዶናር አጶሎና ግንትትዛ።<note caller="+" style="f"><char style="fr" closed="false">9:11 </char><char style="ft" closed="false">አብዶና ጉሳይ ብስዛያ ጉሲ።</char></note><verse eid="REV 9:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 9:12"/>ቲና ኣያይ ኣዛ፤ ይኬ፥ ሀጋ ሀራ ናምኢ አይታይ ይእዛ።<verse eid="REV 9:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 9:13"/>ኡሱፑን ኪታንቻይ ፋ ቱልቱላ ፑጌዛ። ጾስ ቲና ኤቄዝ፥ ዎርቀ ያርሾ አቆ የዝ ኦይዲ ካጭታይፕ ፐቲ ጊር ታ ስኤዛ።<note caller="-" style="x"><char style="xo" closed="false">9:13 </char><char style="xt" closed="false"><ref loc="EXO 30:1">ከስ 30:1</ref></char></note> <verse eid="REV 9:13"/><verse number="14" style="v" sid="REV 9:14"/>የ ጊርይ ቱልቱላ አይኬዝ ኡሱፑን ኪታንቻይኮ፥ «ኤፍራጺሰ ግዝ ዳማ ሃ አጭንቴዝ ኦይዲ ኪታንችታ ብልኦባ» ዬጌዛ። <verse eid="REV 9:14"/><verse number="15" style="v" sid="REV 9:15"/>አሳይፕ ሀይ ኩሸፕ ፐታ ዎዳይ ጋርክ የ ሳታይስ፥ የ ጋላሳይስ፥ የ አግናይስኔ የ ላይይስ ጊጊ በቴዝ ኦይዲ ኪታንችታይ ብልእንቴዛ። <verse eid="REV 9:15"/><verse number="16" style="v" sid="REV 9:16"/>ኦላ ፋራ ቶግዛ ኦላንችታይ ታይባይ ናምኢ ጼት ምሎነ ማቄዛና ታ ስኤዛ።<verse eid="REV 9:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="REV 9:17"/>ማ ታ ቆንጭር ፓርታኔ የ ፓርታ ቶጌዝ አሳ በኤዛ። የ አሳይ ትራል ጋድዛ ብራታ ጹሩራይ ታማ ቃቃ ጋርክ ዞቆ፥ ያክንተ ጋርክ ካር ጩሉኮኔ እርደ ኣዝዝ ዲኔ ኣዝዛ። ፓርታይ ኦማይ ጋሞ ኦማይ ጋርከ፤ ኡ ዶናይፐካ ታማ፥ ጩያኔ ዲኔ ከዜዛ። <verse eid="REV 9:17"/><verse number="18" style="v" sid="REV 9:18"/>ፓርታይ ዶናይፕ ከዜዝ ታማይራ፥ ጩያይራኔ ዲናይር ያ ሀይ ጋድታይር ሳአ የዝ አሳይፕ ሀይዚ ኩሸፕ ፐታይ Ꮊይቄዛ። <verse eid="REV 9:18"/><verse number="19" style="v" sid="REV 9:19"/>ያ ፓርታይ ዎልቃይ ኡ ዶናይዳኔ ኡ ጎይናይል የዛ። ኡ ጎይናይካ ሾሽ ኦማ ጋርክ፤ ኡ የይር አሳ ቆህዛ።<verse eid="REV 9:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="REV 9:20"/>Ꮊ ጋድታይር Ꮊይቀካ አቴዝታይ ፋ ኩሸ ኦሳይፕ ማሂ ማሮት ገለካያ። ኡንቲ ቱና አያናስኔ ዎርቃፕ፥ ብራፕ፥ ናሰ ብራታፕ ሹቻፐኔ ምፕ፥ ኦስንቴዝ ኤቃስ ጎይንዛ። በአዳይስ፥ ስኦዳይስ፥ የዳይስ ዳንዳኦዋ ኤቃይስ ጎይን አሸካያ።<note caller="-" style="x"><char style="xo" closed="false">9:20 </char><char style="xt" closed="false"><ref loc="PSA 115:4">ማዝ. 115:4</ref></char></note> <verse eid="REV 9:20"/><verse number="21" style="v" sid="REV 9:21"/>አሳይ ኡ ሸምፖ ዎዛይስ፥ ብቴዛይስ፥ ላግቴዛይስኔ ካስቴዛይስ ማሮት ገለካያ።<verse eid="REV 9:21"/></para>
+  <chapter eid="REV 9"/>
+  <chapter number="10" style="c" sid="REV 10"/>
+  <para style="s1">ኪታንቻኔ ጻ ማጻፈ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 10:1"/>የይፕ ጉየ፥ ሻራ ማኤዛ ሀራ ምኖ ኪታንቻይ ሳሎፕ ሳአ ዎዳር ታ በኤዛ። ኤ ኦማይል አፋ ዙላ የዛ። ኤ ስናይ አዋ ጋርከ፤ ኤ ቶክታይ ታማ ቱስታይ ጋርከ። <verse eid="REV 10:1"/><verse number="2" style="v" sid="REV 10:2"/>የ ኪታንቻይ ዶያ የዝ ፐቲ ጽቃ ጻ ማጻፍቶ ፋ ኩሸር አይኪ፥ ፋ ኡሻቻ ቶካ አባል አፋ፥ ፋ ሀድርሳ ቶካ ቢታል አፋ ኤሴዛ። <verse eid="REV 10:2"/><verse number="3" style="v" sid="REV 10:3"/>ጻግዛ ጋሞ ጋርክ ፋ ቃላ ቅ ኡዲ ኡኬዛ። ኤ ኡኬዝ ዎደ ላፑን ዳድታይ ፋ ጉም ስሴዛ።<verse eid="REV 10:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 10:4"/>ላፑን ዳድታይ ኦድንቴዝ ዎደ ታ ጻፎዳይስ ጊግንቴዛ። ዝን ሳሎፕ፥ «ላፑን ዳድታይ ኦድንቴዛና ማታመር ጎርዶባፕ አትን ጻፍፐ» ዬግዝ ጊር ታ ስኤዛ።<verse eid="REV 10:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="REV 10:5"/>የይፕ ጉየ አባል አፋኔ ቢታል አፋ ኤቂ፥ ታ በኤዝ ኪታንቻይ፥ ፋ ኡሻቻ ኩሸ ሳሎ ኡዴ ሚጬዛ።<note caller="-" style="x"><char style="xo" closed="false">10:5-7 </char><char style="xt" closed="false"><ref loc="EXO 20:11">ከስ 20:11</ref>፤ <ref loc="DEU 32:40">ናምእ. 32:40</ref>፤ <ref loc="DAN 12:7">ዳነ. 12:7</ref>፤ <ref loc="AMO 3:7">አሞ. 3:7</ref></char></note> <verse eid="REV 10:5"/><verse number="6" style="v" sid="REV 10:6"/>ኤ ምጪ ሳሎኔ ሳሎ የዝ ኡባ፥ ሳአኔ ሳአል የዝ ኡባ፥ አባኔ ኤ ጋንጨ የዝ ኡባ መዝ መናስ የዝ ጾሳይ ሱንይር ጫቂ፥ «Ꮊይፕ ጉየ፥ ጋምኤና! <verse eid="REV 10:6"/><verse number="7" style="v" sid="REV 10:7"/>ዝን ላፑን ኪታንቻይ ፋ ቱልቱላ ስስዛ ዎደ ጾሲ ፋ አይለ ማቄዝ ናብታይ ባጋር ቆንጭሴዝ ጹራ ቆፋይ ፖልንቶዳ» ዬጌዛ።<verse eid="REV 10:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 10:8"/>የይፕ ጉየ፥ «አባል አፋኔ ቢታል አፋ ኤቄዛይ ኪታንቻይ ኩሸ ዶይንቲ የዝ ጻ ማጻፍቶ ኤኮባ» ዬጊ ናምእን ሳሎፕ ታስ ኦዶዳር ታ ስኤዛ።<note caller="-" style="x"><char style="xo" closed="false">10:8-10 </char><char style="xt" closed="false"><ref loc="EZK 2:8-3:3">ኢዝቀ. 2:8—3:3</ref></char></note><verse eid="REV 10:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 10:9"/>ታኒ የ ኪታንቻይኮ Ꮊንጊ፥ ጽቃ ጻ ማጻፍቶ እንጎባ ግ ኦይጬዛ። ኤ ታኮ፥ «ኤኪ እዞ ሞባ፤ እዛ ነ ኡላይድ ጫንጎዳ፥ ዝን ነ ዶናይድ ኤስ ጋርክ ማልኦዳ» ዬጌዛ።<verse eid="REV 10:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="REV 10:10"/>ታኒ ኪታንቻይ ኩሸፕ የ ጽቃ ጻ ማጻፍቶ ኤኪ ሜዛ፤ ታ ዶናይድ ኤስ ጋርክ ማልኤዛ፥ ዝን ታ ሜዛይፕ ጉየ ታ ኡላይድ ጫንጌዛ። <verse eid="REV 10:10"/><verse number="11" style="v" sid="REV 10:11"/>የይፕ ጉየ፥ ታኮ፥ «ኔኒ ጋመ ኮችታይስ፥ ዎያስ፥ ዱማ ዱማ ዶናር ኦድንትዝታይስኔ ካትታይስ ትንቢተ ማሂ ኦዶዳይስ ቤዝዛ» ዬጌዛ።<verse eid="REV 10:11"/></para>
+  <chapter eid="REV 10"/>
+  <chapter number="11" style="c" sid="REV 11"/>
+  <para style="s1">ናምኢ ማርክታ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 11:1"/>የይፕ ጉየ፥ Ꮊስ ማድዝ ጉፈ እንጊ፥ «Ꮊንጊ ጾስ ካራኔ ያርሾ አቃይ ኣፑን Ꮊዛኮ Ꮊባ፤ ኤዛይድ ጎይንዝታካ ፓይዶባ።<note caller="-" style="x"><char style="xo" closed="false">11:1 </char><char style="xt" closed="false"><ref loc="EZK 40:3">ኢዝቀ. 40:3</ref>፤ <ref loc="ZEC 2:1">ዛክ. 2:1</ref></char></note> <verse eid="REV 11:1"/><verse number="2" style="v" sid="REV 11:2"/>ዝን ጾስ ኬ ድርሳፕ ጋጻ የዛይ አይሁደ ማቀካ አሳይስ እንግንቴዝ ግሾስ Ꮊካዛር አሺ አሾባ። አይሁደ ባ አሳይ ጌሽ ካታምቶ ኦይታማኔ ናምኢ አግናስ የ ሃሮዳ።<note caller="-" style="x"><char style="xo" closed="false">11:2 </char><char style="xt" closed="false"><ref loc="LUK 21:24">ሉቃ. 21:24</ref></char></note> <verse eid="REV 11:2"/><verse number="3" style="v" sid="REV 11:3"/>ታኒ ካዮ አፍላ ማኤዝ ታ ናምኢ ማርክታ ኪቶዳ፤ ኡንቲ ፐቲ ሙኩሎኔ ናምኢ ጼትኔ ኡሱፑንታም ጋላስ ትንቢተ ኦዶዳይ ጋርክ ታ ኡንትስ ዎልቃ እንጎዳ» ዬጌዛ።<verse eid="REV 11:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 11:4"/>የ ናምኢ ማርክታይ አላመ ጎዳይ ቲና ኤቂዛ ናምኢ ዎይራ ምታኔ ናምኢ ጾምፐ ጋድዝ ኮችታ።<note caller="-" style="x"><char style="xo" closed="false">11:4 </char><char style="xt" closed="false"><ref loc="ZEC 4:3">ዛክ. 4:3</ref></char></note> <verse eid="REV 11:4"/><verse number="5" style="v" sid="REV 11:5"/>ኦንካ ኡንታን ቆሆዳይስ ኮይኮ ኡ ዶናይፕ ታማ ከዚ፥ ኡ ሞርክታ ጹግዛ። ኡንታን ቆሆዳይስ ኮዬዝ ኦንካ Ꮊይ ጋርክ ሀኒ Ꮊይቆዳ። <verse eid="REV 11:5"/><verse number="6" style="v" sid="REV 11:6"/>ኡንቲ ትንቢተ ኦድዛ ዎደ እራ ቡካማይ ጋርክ ሳሎ ጎርዶዳይስ ኡንትስ ማዉተ የዛ። ኡባራካ ሃ ሱ ላሞዳይስ፥ ማካ ኡ ፋ ኮዬዛይ ጋርክ ቢታ ዱማ ዱማ ጋዶር ብሶዳይስ ኡንትስ ማዉተ የዛ።<note caller="-" style="x"><char style="xo" closed="false">11:6 </char><char style="xt" closed="false"><ref loc="1KI 17:1">1ካት. 17:1</ref>፤ <ref loc="EXO 7:17">ከስ 7:17</ref></char></note><verse eid="REV 11:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 11:7"/>ኡንቲ ፋ ማርካት ሃሴዛይፕ ጉየ፥ ጪሞ ኦላፕ ከዜዝ ዶአይ ኡንታር ኦልንቲ ኡንታን ጋሞዳ፤ ዎዳ።<note caller="-" style="x"><char style="xo" closed="false">11:7 </char><char style="xt" closed="false"><ref loc="DAN 7:7">ዳነ. 7:7</ref>፤ <ref loc="REV 13:5">ዋን. ቆን. 13:5</ref></char></note> <verse eid="REV 11:7"/><verse number="8" style="v" sid="REV 11:8"/>ኡ አሃይ ኣዝሶር ሶዶመ ዎይ ግብጸ ግንትንቲ ጼግንትዝ ግታ ካታማ ኦጋይል አፋ ኦልንቶዳ። እዛካ ኡ ጎዳይ ማዝቃለል አፋ ሶትንቴዛኖ።<note caller="-" style="x"><char style="xo" closed="false">11:8 </char><char style="xt" closed="false"><ref loc="ISA 1:9">ኢሳ. 1:9</ref></char></note> <verse eid="REV 11:8"/><verse number="9" style="v" sid="REV 11:9"/>ማ ዘረ ኡባይፕ፥ ኮች ኡባይፕ፥ ዱማ ዱማ ዶና ኦድንትዝታይፐኔ ካተት ኡባይፕ የኤዝ አሳይ ኡ አሃ ሀይ ጋላስኔ ባጋ ሄሎዳይስ በአዳ። ኡ አሃይ ሞግንታማይ ጋርክ አሳይ ካዮዳ። <verse eid="REV 11:9"/><verse number="10" style="v" sid="REV 11:10"/>Ꮊ ናምኢ ናብታይ ሳአ የዝ አሳ ዋይዝ ግሾስ አሳይ ኡ Ꮊይቃይድ ኡፋይቴዛ። ፋ ኡፋይሳ ቤዞዳይስ ፐታይ ፐታይስ እሞታ እንጌዛ።<verse eid="REV 11:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 11:11"/>ሀይ ጋላስኔ ባጋፕ ጉየ፥ ሸምፖ እንግዝ አያና ጾስ ካለፕ ይኢ ኡ ጋንጨ ገልን፥ ኡንቲ ደንዲ ኤቄዛ። ኡንታን በኤዝ ኡባይ ኢታ ያሽቴዛ።<note caller="-" style="x"><char style="xo" closed="false">11:11 </char><char style="xt" closed="false"><ref loc="EZK 37:10">ኢዝቀ. 37:10</ref></char></note> <verse eid="REV 11:11"/><verse number="12" style="v" sid="REV 11:12"/>የይፕ ጉየ፥ የ ናምኢ ናብታይ፥ «Ꮊና ኡድ ሳሎ ከዞይታ» ግዝ ቃላ ኡ ሳሎፕ ስኤዛ። ኡ ሞርክታይ ኡንታን በአዳር፥ ኡንቲ ሻራ ጋንጨ ገሊ ፑድ ሳሎ ከዜዝ።<note caller="-" style="x"><char style="xo" closed="false">11:12 </char><char style="xt" closed="false"><ref loc="2KI 2:11">2ካት. 2:11</ref></char></note><verse eid="REV 11:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 11:13"/>የ ሳታይድ ቢታይ ዎልቃማ ኤንኦ ኤንእን፥ ካታማይፕ ታጵን ኩሻይ ቤዛ። ማ ቢታ ኤንኦር ላፑን ሙኩሎ አሳይ Ꮊይቄዛ። አቴዝ አሳይ ኢታ ኩኩሪ Ꮊሽቲ፤ ሳሎ ጾሳይስ ቦንቾ እንጌዛ።<note caller="-" style="x"><char style="xo" closed="false">11:13 </char><char style="xt" closed="false"><ref loc="REV 6:12">ዋን. ቆን. 6:12</ref>፤ <ref loc="REV 16:18">16:18</ref></char></note><verse eid="REV 11:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="REV 11:14"/>ናምአን ኣያይ ኣዛ፥ ይኬ ሃይን ኣያይ ኤለ የኦዳ።<verse eid="REV 11:14"/></para>
+  <para style="s1">ላፑን ቱልቱላ</para>
+  <para style="p">
+    <verse number="15" style="v" sid="REV 11:15"/>ላፑን ኪታንቻይ ፋ ቱልቱላ ፑጌዛ። ሳሎፕ፥ «ሳአ ካተትይ ኑ ጎዳይስነ ኤስ ክርስቶሳስ ማቄዛ፤ ኤ መናፐ መና ሄሎዳይስ ካዉቶዳ» ዬግዝ ዎልቃማ ጊርታይ ስንቴዛ።<note caller="-" style="x"><char style="xo" closed="false">11:15 </char><char style="xt" closed="false"><ref loc="EXO 15:18">ከስ 15:18</ref>፤ <ref loc="DAN 2:44">ዳነ. 2:44</ref>፤ <ref loc="DAN 7:14">7:14</ref></char></note> <verse eid="REV 11:15"/><verse number="16" style="v" sid="REV 11:16"/>የይፕ፥ ጾስ ቲና፥ ፋ ዙፋንታይል በቴዝ ላታማኔ ኦይዲ ጭምታይ ጹጉኒ፥ ጾስስ ጎይንታር፥<verse eid="REV 11:16"/></para>
+  <para style="q1">
+    <verse number="17" style="v" sid="REV 11:17"/>«Ꮊተካ ብንካ የዛዮ፥</para>
+  <para style="q1" vid="REV 11:17">ኡባ ሞድዝ ጎዳ ጾሳዮ፥</para>
+  <para style="q2" vid="REV 11:17">ኔኒ ነ ግታ ዎልቃ አይኬዛ።</para>
+  <para style="q1" vid="REV 11:17">ነ ካዉቴዝ ግሾስ</para>
+  <para style="q2" vid="REV 11:17">ኑኒ ነና ጋላትዛ።<note caller="-" style="x"><char style="xo" closed="false">11:17 </char><char style="xt" closed="false"><ref loc="EXO 3:14">ከስ 3:14</ref></char></note><verse eid="REV 11:17"/></para>
+  <para style="q1">
+    <verse number="18" style="v" sid="REV 11:18"/>አይሁደ ባ አሳይ ካጭንቴዛ፥</para>
+  <para style="q2" vid="REV 11:18">ዝን ነ ካቻይ የኤዛ።</para>
+  <para style="q1" vid="REV 11:18">Ꮊይቄዝታይል አፋ ነ ፕርድዛ ዎዳይ የኤዛ።</para>
+  <para style="q2" vid="REV 11:18">ኔኒ ነ አይልታይስ፥ ናብታይስ፥</para>
+  <para style="q2" vid="REV 11:18">ጌሽታይስኔ ነ ሱንይስ ያሽትዝታይስ፥</para>
+  <para style="q2" vid="REV 11:18">ላፍታይስኔ ግትታይስ፥</para>
+  <para style="q2" vid="REV 11:18">ኡ ኦሳይ ጋርክ እንግዛ ዎዳይ ሄሌዛ።</para>
+  <para style="q1" vid="REV 11:18">አላመ ብስዝታ ብስዛ ዎዳይ የኤዛ»</para>
+  <para style="m" vid="REV 11:18">ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">11:18 </char><char style="xt" closed="false"><ref loc="PSA 2:5">ማዝ. 2:5</ref>፤ <ref loc="PSA 110:5">110:5</ref>፤ <ref loc="PSA 115:13">115:13</ref></char></note><verse eid="REV 11:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="REV 11:19"/>ሳሎ የዝ ጾስ ኬይ ዶይንቴዛ፤ ኤ ጋንጨ ጾስ ጫቆ ታቦታይ በንቴዛ። ማ ዜልን ዜልንጌዛ፥ ዳዳኔ ዳዳ ሳር ጉሜዛ፤ ቢታ ኤንኤዛ፤ ዎልቃማ ሻቺ ሻጬዛ።<note caller="-" style="x"><char style="xo" closed="false">11:19 </char><char style="xt" closed="false"><ref loc="REV 8:5">ዋን. ቆን. 8:5</ref>፤ <ref loc="REV 16:18">16:18</ref>፤ <ref loc="REV 21">21</ref></char></note><verse eid="REV 11:19"/></para>
+  <chapter eid="REV 11"/>
+  <chapter number="12" style="c" sid="REV 12"/>
+  <para style="s1">ማቻትኔ ዳዋ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 12:1"/>የይፕ ጉየ፥ ዎልቃማ ማላ ሳሎ በንቴዛ። አዋ ማኤዝ፥ አግና ፋ ቶኬ ኦሞ ኣዝ፥ ታጶ ናምኢ ጾልንትታ ዛዉደ ጋርክ ፋ ኦማል ጋዴዝ፥ ፐቲ አስታ በንቴዛ። <verse eid="REV 12:1"/><verse number="2" style="v" sid="REV 12:2"/>የ አስታ ዎልቃ ኢታዝን፥ እዞ የሎስ እቅ አይክን ኡንእንቲ ኡኬዛ።<verse eid="REV 12:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 12:3"/>ማ ሀራ ማላ ሳሎ በንቴዛ። ላፑን ኦምታይኔ ታጲ ካጭታይ የዝ ዳምግታ ዞቆ ዳወ በንቴዛ። ኤ ፋ ኦምታይል አፋ ላፑን ዛዉደ ጋዴዛ።<note caller="-" style="x"><char style="xo" closed="false">12:3 </char><char style="xt" closed="false"><ref loc="DAN 7:7">ዳነ. 7:7</ref></char></note> <verse eid="REV 12:3"/><verse number="4" style="v" sid="REV 12:4"/>የ ዳዋይ ፋ ጎይናይር ጾልንትታይፕ ስካ ሳሎፕ ዳፊ ሳአ ኦሌዛ። የ ዳዋይ አስታ ናአ የሊ ኦሌዛን ጋርክ ማዳይስ ኮዪ፥ የሎስ እቅንትዝ አስቲ ቲና ኤቄዛ።<note caller="-" style="x"><char style="xo" closed="false">12:4 </char><char style="xt" closed="false"><ref loc="DAN 8:10">ዳነ. 8:10</ref></char></note><verse eid="REV 12:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="REV 12:5"/>የ አስታ ካተት ኡባ ብራታ ጉፈር ሃሮዳይስ የዝ ራ ናአ የሌዛ። ናአይ ጾስኮኔ ኤ ዙፋናይኮ ኡዴ ኤክንቴዛ።<note caller="-" style="x"><char style="xo" closed="false">12:5 </char><char style="xt" closed="false"><ref loc="ISA 66:7">ኢሳ. 66:7</ref>፤ <ref loc="PSA 2:9">ማዝ. 2:9</ref></char></note> <verse eid="REV 12:5"/><verse number="6" style="v" sid="REV 12:6"/>አስታ ፐቲ ሙኩሎኔ ናምኢ ጼታኔ ኡሱፑንታም ጋላስ ሄሎዳይስ እዞ ናጎዳይ ጋርክ ጾሲ ኢስ ጊግሲ ጋዴዝ አቃ ሊዦ ጋደ ቆስንቶ ቅቴዛ።<verse eid="REV 12:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 12:7"/>ሳሎ ኦላ መንቴዛ። ምካኤለኔ ኤ ኪታንችታይ ዳዋይራ ኦልንቴዛ፤ ዳዋይኔ ኤ ኪታንችታይካ ማሂ ኦልንቴዛ።<note caller="-" style="x"><char style="xo" closed="false">12:7 </char><char style="xt" closed="false"><ref loc="DAN 10:13">ዳነ. 10:13</ref></char></note> <verse eid="REV 12:7"/><verse number="8" style="v" sid="REV 12:8"/>ዝን ዳዋይኔ ኤ ኪታንችታይ ጋምንቴዛ፥ የይፕ ሳሎ ኡንትስ አቆ ቤዛ። <verse eid="REV 12:8"/><verse number="9" style="v" sid="REV 12:9"/>ዳማ ዳወ፥ ብኒ ሾሻይ፥ ሳአ ግንቴዛ። ኤካ ዳቡሎሳ ዎይ ጻላሄ ግንትንትዝ አላማ ባልዛያ። ኤዛ ኤ ኪታንችታይራ ፐትፕ ሱል ኦሌዛ።<note caller="-" style="x"><char style="xo" closed="false">12:9 </char><char style="xt" closed="false"><ref loc="GEN 3:1">መ. 3:1</ref>፤ <ref loc="LUK 10:18">ሉቃ. 10:18</ref></char></note><verse eid="REV 12:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="REV 12:10"/>የይፕ ጉየ፥ ሳሎፕ Ꮊይ ጋርክ ዬግዝ ጊር ታ ስኤዛ።</para>
+  <para style="q1" vid="REV 12:10">«Ꮊት አቶት፥ ዎልቃኔ ካተትይ፥ ኑ ጾሳይስ ማቄዛ፤</para>
+  <para style="q2" vid="REV 12:10">ማዉተ ክርስቶሳስ ማቄዛ።</para>
+  <para style="q1" vid="REV 12:10">ይኬ፥ ቃማኔ ጋላስ ጾስ ቲና፥</para>
+  <para style="q2" vid="REV 12:10">ኑ እሽታ ሞትዛይ ሳሎፕ ሱል ግንቴዛ።<note caller="-" style="x"><char style="xo" closed="false">12:10 </char><char style="xt" closed="false"><ref loc="JOB 1:9">ኢዮ. 1:9</ref></char></note><verse eid="REV 12:10"/></para>
+  <para style="q1">
+    <verse number="11" style="v" sid="REV 12:11"/>ኡንቲ ዱራይ ሱይራኔ ፋ ማርካት ቃላይር፥</para>
+  <para style="q2" vid="REV 12:11">ኤዛ ጋሜዛ።</para>
+  <para style="q1" vid="REV 12:11">ኡንቲ ፋ ሸምፖስ ቃንተካዛር</para>
+  <para style="q2" vid="REV 12:11">ፋና Ꮊይቆስ ኣ እንጌዛ።<verse eid="REV 12:11"/></para>
+  <para style="q1">
+    <verse number="12" style="v" sid="REV 12:12"/>የይ ግሾስ፥ ሳሎኔ ኤ ጋንጨ የዝታዮ ኡፋይቶይታ።</para>
+  <para style="q2" vid="REV 12:12">ዝን ቢታኔ አባ አየ!</para>
+  <para style="q1" vid="REV 12:12">ይኬ፥ ዳቡሎሳ ፋሳ ጽቃ ዎደ አቴዛና ኤሬዝ ግሾስ</para>
+  <para style="q2" vid="REV 12:12">ዎልቃማ ካቻር ይንትኮ ዎዛ»</para>
+  <para style="m" vid="REV 12:12">ዬጌዛ።<verse eid="REV 12:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 12:13"/>ዳዋይ ፋና ሳአ ኦሌዛና በኤዝ ዎደ ራ ናአ የሌዝ አስቶ ባይእዛ። <verse eid="REV 12:13"/><verse number="14" style="v" sid="REV 12:14"/>አስቶ ሾሻይ ቆሃማይ ጋርክ ሊዦ ጋ ኢስ ጊግንቴዛ አቆ ፕራ Ꮊማዳይ ጋርክ ናምኢ ዎልቃማ ጎሎ ቀፈ ኣዝዛይ ኢስ እንግቴዛ። ኤዛይድ ሾሻይ ቲናይፕ ሃኪ ሀይ ላይኔ ባጋ ቦንቾር ናግንትዛ።<note caller="-" style="x"><char style="xo" closed="false">12:14 </char><char style="xt" closed="false"><ref loc="DAN 7:25">ዳነ. 7:25</ref>፤ <ref loc="DAN 12:7">12:7</ref></char></note><verse eid="REV 12:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="REV 12:15"/>ሾሻይ የ አስቶ ድኦ ኤኪ ቅቶዳይ ጋርክ ዳዋይ ቦርካ ሃ ጋርክ ፋ ዶናይፕ አስቲ ጉየር ጮዢ ጎግሴዛ። <verse eid="REV 12:15"/><verse number="16" style="v" sid="REV 12:16"/>ዝን ቢታይ አስቶ ማዴዛ፤ ቢታይ ፋ ዶና ዶዪ ዳዋይ ዶናይፕ ከዜዝ ሃ ምጻጼዛ። <verse eid="REV 12:16"/><verse number="17" style="v" sid="REV 12:17"/>የ ዳዋይ አስትል አፋ ኢታ ሸንቲ፥ ኤ ዘርታ፥ ጾስ ኪታ ናግዝታኔ የሱሳስ አማንንቴዝ ማርክታ ኦሎዳይስ Ꮊንጌዛ። <verse eid="REV 12:17"/><verse number="18" style="v" sid="REV 12:18"/>ዳዋይ አባ ላንቀ የዝ ሻፈል ኤቄዛ።<verse eid="REV 12:18"/></para>
+  <chapter eid="REV 12"/>
+  <chapter number="13" style="c" sid="REV 13"/>
+  <para style="s1">ናምኢ ዶእታ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 13:1"/>የይፕ ጉየ፥ ፐቲ ዶአይ<note caller="+" style="f"><char style="fr" closed="false">13:1 </char><char style="ft" closed="false">ግርኬ ማጻፈፕ ባግታይ ኤ ኤቄዛ ማ ባግታይ ታ ኤቄዛ ግዛ</char></note> አባፕ ከሳዳር ታ በኤዛ። ኤስ ታጲ ካጭታይኔ ላፑን ኦምታይ የዛ። የ ታጲ ካጭታይል አፋ ታጲ ዛዉድታይ የዛ። የ ኦምታይል አፋ ጫሽ ሱንታይ የዛ።<note caller="-" style="x"><char style="xo" closed="false">13:1 </char><char style="xt" closed="false"><ref loc="DAN 7:3">ዳነ. 7:3</ref>፤ <ref loc="REV 17:3">ዋን. ቆን. 17:3</ref></char></note> <verse eid="REV 13:1"/><verse number="2" style="v" sid="REV 13:2"/>ታ በኤዝ ዶአይ ማሄ ኣዝዛ፤ ኤ ቶካይ ባንባርቀ ቶኬ ጋርከ፤ ኤ ዶናይካ ጋሞ ዶና ኣዝዛ። ዳዋይ ፋ ዎልቃ፥ ፋ ዙፋናኔ ፋ ግታ ማዉታ የ ዶአይስ እንጌዛ።<note caller="-" style="x"><char style="xo" closed="false">13:2 </char><char style="xt" closed="false"><ref loc="DAN 7:4">ዳነ. 7:4</ref></char></note><verse eid="REV 13:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 13:3"/>የ ዶአይ ኦማይፕ ፐታይል አፋ Ꮊይቆስ ሄልዝ ማዶ ታ በኤዛ፥ ዝን የ ማዶይ ፓጼዛ። አላማይ ኡባይ ማላባዝ ግ የ ዶአ ካሌዛ። <verse eid="REV 13:3"/><verse number="4" style="v" sid="REV 13:4"/>ዳዋይ ፋ ማዉታ ዶአይስ እንጌዝ ግሾስ አሲ ኡባይ ዳዋ ጎይኔዛ። ማ አሳይ፥ «ዶአና ኣዝዛይ ኦኖ? ኤዛር ኦልንቶዳይስ ዳንዳእዛይ ኦኖ?» ዬግታር ዶአይስ ጎይኔዛ።<verse eid="REV 13:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="REV 13:5"/>የ ዶአይስ ኡትርቶዳይ ጋርከኔ ጫዦዳይ ጋርክ ዶና ኤስ እንግንቴዛ፤ ኦይታማነ ናምኢ አግና ሃሮዳይ ጋርክ ማዉተ ኤስ እንግንቴዛ።<note caller="-" style="x"><char style="xo" closed="false">13:5-6 </char><char style="xt" closed="false"><ref loc="DAN 7:8">ዳነ. 7:8</ref>፥ <ref loc="DAN 7:25">25</ref>፤ <ref loc="DAN 11:36">11:36</ref></char></note> <verse eid="REV 13:5"/><verse number="6" style="v" sid="REV 13:6"/>የ ዶአይ ጾሳ፥ ጾስ ሱን፥ ኤ የዝ አቃኔ ሳሎ የዝ ባዝታ ጫዥ አይኬዛ። <verse eid="REV 13:6"/><verse number="7" style="v" sid="REV 13:7"/>የ ዶአይ ጌሽታይራ ኦልንቲ፥ ኡንታን ጋሞዳይ ጋርክ ዎልቃ ኤስ እንግንቴዛ። ኮች ኡባይል፥ ጋደ ኡባይል፥ ዱማ ዱማ ዶና ኦድንትዛ ኡባይላኔ ዘረ ኡባይል ማዉተ ኤስ እንግንቴዛ።<note caller="-" style="x"><char style="xo" closed="false">13:7 </char><char style="xt" closed="false"><ref loc="DAN 7:21">ዳነ. 7:21</ref></char></note> <verse eid="REV 13:7"/><verse number="8" style="v" sid="REV 13:8"/>አላመ መንቴዛይፕ አይኪ፥ ሹክንቴዝ ዱራይር ደኦ ማጻፋይድ ኡ ሱንታይ ጻፍንተካ Ꮊ ሳአ የዝ አስ ኡባይ የ ዶአይስ ጎይኖዳ።<note caller="-" style="x"><char style="xo" closed="false">13:8 </char><char style="xt" closed="false"><ref loc="PSA 69:28">ማዝ. 69:28</ref></char></note><verse eid="REV 13:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 13:9"/>ስእዝ ሀየ የዝ አሲ ስኦ። <verse eid="REV 13:9"/><verse number="10" style="v" sid="REV 13:10"/>ኦንካ ድእንቶዳይስ የዛይ ድእንትዛ። ማሻር Ꮊይቆዳይስ የዛይ ማሻር Ꮊይቆዳ። ጌሽታይ ጋርዣይኔ አማናይ የ ዎደ ኤርንቶዳይ።<note caller="-" style="x"><char style="xo" closed="false">13:10 </char><char style="xt" closed="false"><ref loc="JER 15:2">ኤርም. 15:2</ref>፤ <ref loc="JER 43:11">43:11</ref></char></note><verse eid="REV 13:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 13:11"/>ማካ፥ ሀራ ዶአ ሳአፕ ከሳዳር ታ በኤዛ። ኤስ ዱር ካጨ ኣዝዛ ናምኢ ካጭታይ የዛ፤ ኤ ናሻይካ ዳዌሳይ ጋርከ። <verse eid="REV 13:11"/><verse number="12" style="v" sid="REV 13:12"/>የ ዶአይ ቲና ዶአይ ማዉታይር ኡባ ባዝ ኤ ቲና ኦዛ። ኤካ Ꮊይቆስ ሄልዝ ማዶፕ ፓጼዝ ቲና ዶአይስ፤ ቢታ የዝ አስ ኡባይ ጎይኖዳይ ጋርክ ኡድዛ። <verse eid="REV 13:12"/><verse number="13" style="v" sid="REV 13:13"/>የ ናምአን ዶአይ ሀራ አቶዝን፥ ታማ ሳሎፕ አስ ኡቢታይ ቲና ዎድ ሄሎዳይስ ግታ ማላባዝታ ኦዛ። <verse eid="REV 13:13"/><verse number="14" style="v" sid="REV 13:14"/>ቲና ዶአይ ቲናይድ ኦዳይ ጋርክ፥ ኤስ እንግንቴዝ ማላ ባዛር ሳአ የዝ አስ ኡባ ኤ ባልዛ። ማሻር ማዶ ፓጼዝ ዶአይስ ቦንቾ ምስለ ጊግሶዳይ ጋርክ ቢታል ኤዝ አሳ ኪቴዛ። <verse eid="REV 13:14"/><verse number="15" style="v" sid="REV 13:15"/>ናምእን ዶአይ ቲና ዶአይ ምስላይስ ፔኖ እንግንቴዛ። ማዉተ እንግንቴዛይ ኦድንቶዳይ ጋርከኔ ኤስ ጎይኖዝታይ Ꮊይቆድ ጋርክ ኦዛ ማዉተ ኤስ እንግቴዛ።<verse eid="REV 13:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="REV 13:16"/>የ ናምእን ዶአይ ጽቅታይኔ ዳምታይ፥ ማንቅታይኔ ዱርታይ፥ ጎድታይኔ አይልታይ ፋ ኡሻች ኩሸል ዎይ ፋ ስኖል ማላ ጋዶዳይ ጋርክ ጪጲቼዛ። <verse eid="REV 13:16"/><verse number="17" style="v" sid="REV 13:17"/>የ ዶአ ሱን ቤዝዛ ማላ ዎይ ኤ ሱን ፓይዳይ ባ አስ ኦንካ ባይዞዳይስኔ ዎንጎዳይስ ዳንዳኦዋ።<verse eid="REV 13:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="REV 13:18"/>ኤጨት ኮሽዛይ የይዳ። ካሃር የዝ ኦካ የ ዶአይ ፓይዳ ኤሮ፤ የ ታይባይ ማልዛይ አሰ። የ ታይባይ ኡሱፑን ጼትኔ ኡሱፑን ታማኔ ኡሱፑን።<verse eid="REV 13:18"/></para>
+  <chapter eid="REV 13"/>
+  <chapter number="14" style="c" sid="REV 14"/>
+  <para style="s1">ዱራኔ ጼታኔ ኦይታማኔ ኦይዲ ሙኩሎ አስታ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 14:1"/>የይፕ ጉየ፥ ዱራይ ጽዮነ አምባል አፋ ኤቄዛና ታ በኤዛ። ኤ ሱንኔ ኤ አዳይ ሱንይ ኡ ስናይድ ጻፍንቴዝ፥ ጼታኔ ኦይታማኔ ኦይዲ ሙኩሎ አስታይ ኤዛር የዛ።<note caller="-" style="x"><char style="xo" closed="false">14:1 </char><char style="xt" closed="false"><ref loc="EZK 9:4">ኢዝቀ. 9:4</ref>፤ <ref loc="REV 7:3">ዋን. ቆን. 7:3</ref></char></note> <verse eid="REV 14:1"/><verse number="2" style="v" sid="REV 14:2"/>ሳሎፕ ግታ ሶሳ ሃ ጉምኔ ዳዳ ጉም ኣዝዝ ዎልቃማ ጊር ታ ስኤዛ። ማ ታ ስኤዝ ጊርይ ዲ ዲጾዳር ስእንትዝ ጊር ጋርከ። <verse eid="REV 14:2"/><verse number="3" style="v" sid="REV 14:3"/>ጼታኔ ኦይታማኔ ኦይዲ ሙኩሎ አስታይ ዙፋናይ ቲና፥ ኦይዲ ሸምፖር የዝ መትታይ ቲናኔ ጭምታይ ቲና ኤቂ ቢታፕ ዎዝንቴዝታይፕ ሀራ ኦንካ ታማሮዳይስ ዳንዳኦዋ ኦሮ ማዝሙረ የጼዛ። <verse eid="REV 14:3"/><verse number="4" style="v" sid="REV 14:4"/>የይትታይ ማቻር ፋና ቱንሰካ ናጌዝ ጌሽታ። ኡንቲ ዱራይ Ꮊንግዛ አቆ ኡባ ካልዛ። ኡንቲ ጾስስኔ ዱራይስ አስ ኡባይ ጋንጨፕ ባይራ ማቃዳይ ጋርክ ዎዝንቲ ሺቄዝታ። <verse eid="REV 14:4"/><verse number="5" style="v" sid="REV 14:5"/>ኡንቲ ዎርዶኔ ቦሮ ባ አስታ።<note caller="-" style="x"><char style="xo" closed="false">14:5 </char><char style="xt" closed="false"><ref loc="ZEP 3:13">ሶፎ. 3:13</ref></char></note><verse eid="REV 14:5"/></para>
+  <para style="s1">ሀይ ኪታንችታ</para>
+  <para style="p">
+    <verse number="6" style="v" sid="REV 14:6"/>የይፕ ጉየ፥ መና ዎንግለ ሳአል አፋ የዝ ካተት ኡባይስ፥ ኮች ኡባይስ፥ ያራ ኡባይስኔ ዱማ ዱማ ዶና ኦድንትዛ ኡባይስ ማርካቶዳይስ ሳሎራ ፕራዛ ሀራ ኪታንቾ ታ በኤዛ። <verse eid="REV 14:6"/><verse number="7" style="v" sid="REV 14:7"/>የ ኪታንቻይ ፋ ቃላ ቅ ኡዲ፥ «ጾሲ አላማ ፕርድዛ ሳታይ ሄሌዛ፥ ጾሳይስ ያሽቶይታ፤ ኤዛ ቦንቾይታ። ሳሎኔ ሳአ፥ አባኔ ፑልቶ ሃ መዝ ጾሳይስ ጎይኖይታ» ዬጌዛ።<verse eid="REV 14:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 14:8"/>ሀራ ናምእን ኪታንቻይ፥ «ዎይታ ኡባ ማስዝ ላግተ ዎይነ ኡሼዛን፥ ግታ ባብሎነ ፖኬዛ! ፖኬዛ!» ዬጊ ኡክታር ቲና ኪታንቻ ካሌዛ።<verse eid="REV 14:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 14:9"/>ሃይን ኪታንቻይ ኡንታን ካሊ፥ ፋ ቃላ ቅ ኡዲ፥ «ዶአይስኔ ኤ ምስላይስ ጎይንዛይ ዎይ ኤ ማላ ፋ ስኖል ዎይ ፋ ኩሸል ጋዴዝ ኡባይ፥ <verse eid="REV 14:9"/><verse number="10" style="v" sid="REV 14:10"/>ጾስ ካች ዎይና ኡ ኡዦዳ የይካ ዎይናይካ ዋላክንተካ ኤ ካች ጹአይር ኣዳ ዱቅንቴዛያ። ኡንቲ ጌሻ ኪታንችታይ ቲናኔ ዱራይ ቲና ኤጽዝ ዲኔ ታማ ጋንጨ ፋ ካእንቶዳ።<note caller="-" style="x"><char style="xo" closed="false">14:10 </char><char style="xt" closed="false"><ref loc="ISA 51:17">ኢሳ. 51:17</ref>፤ <ref loc="GEN 19:24">መ. 19:24</ref>፤ <ref loc="EZK 38:22">ኢዝቀ. 38:22</ref></char></note> <verse eid="REV 14:10"/><verse number="11" style="v" sid="REV 14:11"/>ኡንቲ ዋይንትዛ ታማይፕ ከዝዝ ጩያር መ መናስ ጩይታር የዞዳ። ዶአኔ ኤ ምስላ ጎይንዛኔ ማ የ ዶአይ ሱን ማላይ የዝ ኦንካ ቃማኔ ጋላስ ሸምፖ ባይ ካእንቶዳ» ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">14:11 </char><char style="xt" closed="false"><ref loc="ISA 34:10">ኢሳ. 34:10</ref></char></note><verse eid="REV 14:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 14:12"/>ጾስ አዛዛ ናግዛይኔ የሱሳስ አማንንቴዝታይ ጋርዤዝ ምኖትይ ቆንጮዳይ የይዳ።<verse eid="REV 14:12"/></para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 14:13"/>ሳሎፕ Ꮊይ ጋርክ ዬግዝ ጊር ታ ስኤዛ። «Ꮊያ ጻፎባ፥ ይከፕ ጉየ ጎዳይር የዚ Ꮊይቅዝታይ አንጅንቴዝታ» ዬግዝ ጊር ሳሎፕ ታ ስኤዛ። አያናይ፥ «ኤ ቱማ፥ ኡ ኦሳይ ኡንታን ካልዛ ግሾስ ኡንቲ ፋ ዳቡራይፕ ሸምፖዳ» ዬግዛ።<verse eid="REV 14:13"/></para>
+  <para style="s1">ጎዳይ ካቺ ቢታል</para>
+  <para style="p">
+    <verse number="14" style="v" sid="REV 14:14"/>የይፕ ጉየ፥ ቦ ሻራ በንቴዛ። Ꮊ ሻራይል አፋ በቴዝ አስ ናአ ኣዝዛና ታ በኤዛ። ኤ ፋ ኦማይል አፋ ዎርቃ ዛዉደ ጋዴዛ፤ ፋ ኩሻይዳካ ኦጮ ባጫ አይኬዛ።<note caller="-" style="x"><char style="xo" closed="false">14:14 </char><char style="xt" closed="false"><ref loc="DAN 7:13-14">ዳነ. 7:13-14</ref></char></note> <verse eid="REV 14:14"/><verse number="15" style="v" sid="REV 14:15"/>ሀራ ኪታንቻይ ጾስ ኬይፕ ከዚ፥ ሻራል አፋ በቴዛይኮ ፋ ቃላ ቅ ኡዲ፥ «ካ ሺሾ ቶርቼ ሄሌዝ ግሾስ ነ ባጫ ዳኪ ካ ቡጮባ፤ ሳአ የዝ ካ ቡጭዝ ዎደ ሄሌዛ» ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">14:15 </char><char style="xt" closed="false"><ref loc="JOL 3:13">ኢዩ. 3:13</ref></char></note> <verse eid="REV 14:15"/><verse number="16" style="v" sid="REV 14:16"/>የይፐ ሻራል አፋ በቴዛይ ፋ ባጫ ሳአ ዳኪ፥ ሳአ የዝ ካ ቡጬዛ።<verse eid="REV 14:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="REV 14:17"/>ማካ ሳሎ የዝ ጾስ ኬይፕ ሀራ ኪታንቻይ ከዜዝ፤ ኤስካ ኦጮ ባጫ የዛ።<verse eid="REV 14:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="REV 14:18"/>ታማል አፋ ማዉተ የዝ ሀራ ኪታንቻይ ያርሾ አቃይ ካላይፕ ከዜዝ። ኤ ፋ ቃላ ቅ ኡዲ ኦጮ ባጫ አይኬዝ ኪታንቻይኮ፥ «ዎይነ ኣፋይ ቴሬዝ ግሾስ ነ ኦጮ ባጫ ዳኪ፥ ሳአ የዝ ዎይናይ ኮሻ ጋቺ ሺሾባ» ዬጌዛ። <verse eid="REV 14:18"/><verse number="19" style="v" sid="REV 14:19"/>የ ኪታንቻይ ፋ ባጫ ዳኪ፥ ሳአ የዝ ዎይናይፕ ኮሻ ጋቺ፥ ጾስ ግታ ካች ቡልዝ አቆ ኦሌዛ። <verse eid="REV 14:19"/><verse number="20" style="v" sid="REV 14:20"/>ኡንቲ ካታማይፕ ጋጻ የዝ ዎይነ ኣፈ ቡልዝ አቆ ቡሌዛ። ሱ ዎይነ ቡልዝ አቃይፕ ከዚ ሀይ ጼት ክሎ ምትረ ጋርክ ሃኪ፥ ፋራ ፑሎ ሄልዛ ጋርክ ኤል ቅ ጌዛ።<note caller="-" style="x"><char style="xo" closed="false">14:20 </char><char style="xt" closed="false"><ref loc="ISA 63:3">ኢሳ. 63:3</ref>፤ <ref loc="JER 1:15">ኤርም. 1:15</ref>፤ <ref loc="REV 19:15">ዋን. ቆን. 19:15</ref></char></note><verse eid="REV 14:20"/></para>
+  <chapter eid="REV 14"/>
+  <chapter number="15" style="c" sid="REV 15"/>
+  <para style="s1">ዉርስ ቦሽታ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 15:1"/>ታኒ ሳሎል ሀራ ዳማኔ ፓላ ማላባዝ በኤዛ። ጾስ ዉርስ ካች ፖልዛ ላፑን ቦሽታ አይኬዝ ላፑን ኪታንችታ ታ በኤዛ።<verse eid="REV 15:1"/></para>
+  <para style="p">
+    <verse number="2" style="v" sid="REV 15:2"/>የይፕ ጉየ ታማር ዋላክንቴዝ ቡርጩኮ አባ ኣዝዛ ባዝ ታ በኤዛ። የ አባይ ጋጻ ዶአ፥ ኤ ምስላኔ ኤ ሱንይ ታይባ ጋሜዝታ ታ በኤዛ። ጾሲ ኡንትስ እንጌዝ ዲ አይኪ ቡርጩኮ አባል ኤቄዛ። <verse eid="REV 15:2"/><verse number="3" style="v" sid="REV 15:3"/>ኡንቲ ጾስ አይለ ሙሰ ማዝሙራኔ ዱራይ ማዝሙራና Ꮊይ ጋርክ ዬጊ የጼዛ።</para>
+  <para style="q1" vid="REV 15:3">«ጎዳዮ፥ ኡባፕ ዎልቃማ ጾሳዮ፥</para>
+  <para style="q2" vid="REV 15:3">ነ ኦሳይ ዳማኔ ማላባዚ።</para>
+  <para style="q1" vid="REV 15:3">ዎያ ኡባይስ ካታዮ፥</para>
+  <para style="q2" vid="REV 15:3">ነ ኦጋይ ጽሎኔ ቱማ።<note caller="-" style="x"><char style="xo" closed="false">15:3 </char><char style="xt" closed="false"><ref loc="EXO 15:1">ከስ 15:1</ref></char></note><verse eid="REV 15:3"/></para>
+  <para style="q1">
+    <verse number="4" style="v" sid="REV 15:4"/>ጌሺ ነ ኣዳ ማቄዝ ግሾስ</para>
+  <para style="q2" vid="REV 15:4">ጎዳዮ፥ ኔስ ያሽቶዛይኔ</para>
+  <para style="q2" vid="REV 15:4">ነ ሱን ቦንቾዛይ ኦኖ?</para>
+  <para style="q1" vid="REV 15:4">ነ ጽሎ ኦሳይ አስ ኡባይስ ቆንጨ ማቄዝ ግሾስ ዎያ</para>
+  <para style="q2" vid="REV 15:4">ኡባይ ነ ቲና ይኢ ጎይኖዳ»</para>
+  <para style="m" vid="REV 15:4">ዬጊ የጽዛ።<note caller="-" style="x"><char style="xo" closed="false">15:4 </char><char style="xt" closed="false"><ref loc="JER 10:7">ኤርም. 10:7</ref>፤ <ref loc="PSA 86:9">ማዝ. 86:9</ref></char></note><verse eid="REV 15:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="REV 15:5"/>የይፕ ጉየ፥ ሳሎ ዶይንቲ የዝ ማርካት ዱንካነ ማቄዝ ጾስ ኬ ታ በኤዛ።<note caller="-" style="x"><char style="xo" closed="false">15:5 </char><char style="xt" closed="false"><ref loc="EXO 38:21">ከስ 38:21</ref></char></note> <verse eid="REV 15:5"/><verse number="6" style="v" sid="REV 15:6"/>ላፑን ቦሽታ አይኬዝ ላፑን ኪታንችታይ ጾስ ኬይፕ ከዜዝ። ኡንቲ ጌሽኔ ፖጭዝ ሊኖ ማኦ ማኤዛ፤ ፋ ትራል ዎርቀ ዳንጮ ዳንጬዛ። <verse eid="REV 15:6"/><verse number="7" style="v" sid="REV 15:7"/>ኦይዲ መትታይፕ ፐታይ፥ መናስ የዝ ጾስ ካቺ ኩሜዝ ላፑን ዎርቃ ጹእታ ላፑን ኪታንችታይስ እንጌዛ። <verse eid="REV 15:7"/><verse number="8" style="v" sid="REV 15:8"/>ጾስ ቦንቻይፐኔ ኤ ዎልቃይፕ ደንዴዛይድ ጾስ ኬይ ጩያር ኩሜዛ። ላፑን ኪታንችታይ አይኬዝ ላፑን ቦሽታይ ፖልንቶድ ሄሎዳይስ ጾስ ካራ ኦንካ ገሎዳይስ ዳንዳኤካያ።<note caller="-" style="x"><char style="xo" closed="false">15:8 </char><char style="xt" closed="false"><ref loc="EXO 40:34">ከስ 40:34</ref>፤ <ref loc="1KI 8:10">1ካት. 8:10</ref></char></note><verse eid="REV 15:8"/></para>
+  <chapter eid="REV 15"/>
+  <chapter number="16" style="c" sid="REV 16"/>
+  <para style="s1">ጾስ ካቺ ኩሜዝ ጹእታ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 16:1"/>የይፕ ጉየ፥ ላፑን ኪታንችታይኮ፥ «Ꮊንጊ ጾስ ካች አይኬዝ ላፑን ጹእታ ሳአ ላሎይታ» ዬጊ፥ ዎልቃማ ጊር ጾስ ኬፕ ከሳዳር ታ ስኤዛ።<verse eid="REV 16:1"/></para>
+  <para style="p">
+    <verse number="2" style="v" sid="REV 16:2"/>ቲና ኪታንቻይ Ꮊንጊ፥ ጹአና ሳአ ላልን፥ ዶአይ ማላይ የዝታይላኔ ኤ ምስላይስ ጎይንዝታይል ኢታኔ ዛምዝ ማዶ ከዜዝ።<note caller="-" style="x"><char style="xo" closed="false">16:2 </char><char style="xt" closed="false"><ref loc="EXO 9:10">ከስ 9:10</ref></char></note><verse eid="REV 16:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 16:3"/>ናምእን ኪታንቻይ ጹአና አባል ላልን፥ አባይ Ꮊይቄዝ አስ ሱ ማቄዛ። ማ አባ ጋንጨ የዝ ሸምፖር የዝ መተ ኡባይ Ꮊይቄዛ።<verse eid="REV 16:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 16:4"/>ሃይን ኪታንቻይ ጹአና ዳማ ሃላኔ ፑልቶ ሃል ላልን፥ ሃታይካ ሱ ማቄዛ።<note caller="-" style="x"><char style="xo" closed="false">16:4 </char><char style="xt" closed="false"><ref loc="EXO 7:17">ከስ 7:17</ref></char></note> <verse eid="REV 16:4"/><verse number="5" style="v" sid="REV 16:5"/>የይፕ ጉየ፥ ሃል አፋ ማዉተ የዝ ኪታንቻይ Ꮊይ ጋርክ ዬጎዳር ታ ስኤዛ።</para>
+  <para style="q1" vid="REV 16:5">«Ꮊተካ ብንካ የዝ ጌሻ ጎዳዮ፥</para>
+  <para style="q2" vid="REV 16:5">
+    <note caller="-" style="x">
+      <char style="xo" closed="false">16:5 </char>
+      <char style="xt" closed="false">
+        <ref loc="EXO 3:14">ከስ 3:14</ref>
+      </char>
+    </note>Ꮊይ ጋርክ ነ ፕርዴዝ ግሾስ ኔኒ ጌሺ።<verse eid="REV 16:5"/></para>
+  <para style="q1">
+    <verse number="6" style="v" sid="REV 16:6"/>ኡንቲ ጌሽታይ ሱኔ ናብታይ ሱ ላሌዝ ግሾስ</para>
+  <para style="q2" vid="REV 16:6">ነ ኡንታን ሱ ኡሼዛ የይካ ኡንትስ ቤዝዛ ባዚ»</para>
+  <para style="m" vid="REV 16:6">ዬጌዛ። <verse eid="REV 16:6"/><verse number="7" style="v" sid="REV 16:7"/>ያርሾ አቃይፕ፥</para>
+  <para style="q1" vid="REV 16:7">«ኤ ጎዳዮ፥ ኡባፕ ዎልቃማ ጾሳዮ፥</para>
+  <para style="q2" vid="REV 16:7">ነ ፕርዳይ ቱማኔ ጽሎ»</para>
+  <para style="m" vid="REV 16:7">ዬግዝ ቃላ ስኤዛ።<verse eid="REV 16:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 16:8"/>ኦይዳን ኪታንቻይ ጹአ አዋል አፋ ላልን፥ አዋ ፋ ምሻይር አሳ ጹጎዳይ ጋርክ አዋስ ዎልቃ እንግንቴዛ። <verse eid="REV 16:8"/><verse number="9" style="v" sid="REV 16:9"/>አሳይ ዎልቃማ ምሻይር ጹግንቲ፥ የ ቦሽታይል አፋ ማዉተ የዝ ጾስ ሱን ጫዤዛ፤ ማሮት ገለካያ፥ ጾሳናካ ቦንቼካያ።<verse eid="REV 16:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="REV 16:10"/>እችን ኪታንቻይ ጹአና ዶአይ ዙፋናይል አፋ ላልን፥ የ ዶአይ ካተትይ ሜዛ። አሳይካ ኡንኣይፕ ደንዴዛይድ ፋ እንጻርሳ ጮንግዛ።<note caller="-" style="x"><char style="xo" closed="false">16:10 </char><char style="xt" closed="false"><ref loc="EXO 10:21">ከስ 10:21</ref></char></note> <verse eid="REV 16:10"/><verse number="11" style="v" sid="REV 16:11"/>ማ አሳይ ኡንኣይ ግሾኔ ማዶይ ግሾስ ሳሎ ጾሳ ባዴዛ፤ ፋ ኦዝ ናጋራይፐካ ማቀካያ።<verse eid="REV 16:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 16:12"/>ኡሱፑን ኪታንቻይ ጹአና ግታ ኤፍራጺሰ ሃል ላልን፥ አዋ ከስ ባጋፕ የኦድ ካትታይስ ኦገ ጊጎዳይ ጋርክ ሃይ መሌዛ።<note caller="-" style="x"><char style="xo" closed="false">16:12 </char><char style="xt" closed="false"><ref loc="ISA 11:15">ኢሳ. 11:15</ref></char></note> <verse eid="REV 16:12"/><verse number="13" style="v" sid="REV 16:13"/>የይፕ ጉየ፥ ዳዋይ ዶናይፕ፥ ዶአይ ዶናይፐኔ ዎርዶ ናበ ዶናይፕ ኦቃነ ኣዝዛ ሀይ ቱና አያንታይ ከሳዳር ታ በኤዛ። <verse eid="REV 16:13"/><verse number="14" style="v" sid="REV 16:14"/>ኡንቲ ማላባዝታ ኦዝ ቱና አያንታ። የ ሀይ ቱና አያንታይ ኡባፕ ዎልቃማ ጾስ ግታ ጋላስ ሀኖዳይስ የዝ ኦላይስ አሳ ሺሾዳይስ አላመ ካት ኡባይኮ Ꮊንጎዳ።<verse eid="REV 16:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="REV 16:15"/>«ይኬ፥ ታኒ ካይዞ ጋርክ የኦዳ! አስ ቲና ካሎ ማቂ ፋ ካሎትይስ ዬላታማይ ጋርክ ባርኪ፥ ፋ ማአ ናግዛ አይ አንጅንቴዛያ!» ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">16:15 </char><char style="xt" closed="false"><ref loc="MAT 24:43">ማቶ. 24:43</ref></char></note><verse eid="REV 16:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="REV 16:16"/>የ ቱና አያንታይ ካትታና እብራይስጸ ዶናር አርማገዶነ ግዝ አቆ ሺሼዛ።<note caller="-" style="x"><char style="xo" closed="false">16:16 </char><char style="xt" closed="false"><ref loc="2KI 23:29">2ካት. 23:29</ref>፤ <ref loc="ZEC 12:11">ዛክ. 12:11</ref></char></note><verse eid="REV 16:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="REV 16:17"/>ላፑን ኪታንቻይ ጹአና ጫርኮል አፋ ላልን፥ ጾስ ካራ የዝ ዙፋናይፕ፥ «ፖልንቴዛ» ዬግዝ ዎልቃማ ግር ከዜዛ። <verse eid="REV 16:17"/><verse number="18" style="v" sid="REV 16:18"/>የይፕ ዜልን ዜልንጌዝ፤ ዳዳይ ሳሪ ቄዝ፥ ቢታይ ኤንኤዛ። የይ ጋርክ ዎልቃማ ቢታ ኤንኦ አሲ መንቴዛይፕ አይኪ የሻ ኤንኤካያ።<note caller="-" style="x"><char style="xo" closed="false">16:18 </char><char style="xt" closed="false"><ref loc="REV 8:5">ዋን. ቆን. 8:5</ref>፤ <ref loc="REV 11:13">11:13</ref></char></note> <verse eid="REV 16:18"/><verse number="19" style="v" sid="REV 16:19"/>ዳማ ካታምታ ሀይ ከዚ ሻክንቴዛ፤ ጋደ ኡባይድ የዝ ካታምታይ ላልንቴዛ። ጾስ ግታ ካታማ ባብሎነ ቆፒ፥ ፋ ኢታ ካቺ ዎይነ ኡሺ ኩሜዝ ጹአና ኢስ እንጌዛ።<note caller="-" style="x"><char style="xo" closed="false">16:19 </char><char style="xt" closed="false"><ref loc="ISA 51:17">ኢሳ. 51:17</ref></char></note> <verse eid="REV 16:19"/><verse number="20" style="v" sid="REV 16:20"/>ሃር ማርንቴዝ ቢትታይ ቤዛ፤ አምብታይካ በንተካያ።<note caller="-" style="x"><char style="xo" closed="false">16:20 </char><char style="xt" closed="false"><ref loc="REV 6:14">ዋን. ቆን. 6:14</ref></char></note> <verse eid="REV 16:20"/><verse number="21" style="v" sid="REV 16:21"/>አሳይል አፋ ኦይታማኔ እችን ክሎ ግራመ ጋርክ ዴጽዛ ዎልቃማ ሻች ሳሎፕ ቡኬዛ። ቦሻይ ኡሳ ኢታ ማቄዝ ግሾስ አሳይ ሻቻይ ቦሻይ ግሾስ ጾሳና ጫዤዛ።<note caller="-" style="x"><char style="xo" closed="false">16:21 </char><char style="xt" closed="false"><ref loc="EXO 9:23">ከስ 9:23</ref></char></note><verse eid="REV 16:21"/></para>
+  <chapter eid="REV 16"/>
+  <chapter number="17" style="c" sid="REV 17"/>
+  <para style="s1">ላሞር ኤርንቴዝ አስቶ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 17:1"/>ላፑን ጹእታ አይኬዝ ላፑን ኪታንችታይፕ ፐታይ ታኮ ይኢ፥ «Ꮊና የኦባ፤ ጋመ ሃታይል አፋ በቴዝ ግታ ላምዛ አስትል አፋ የኦዳይስ የዝ ፕርዳ ታ ነና ቤሳዳ።<note caller="-" style="x"><char style="xo" closed="false">17:1 </char><char style="xt" closed="false"><ref loc="JER 51:13">ኤርም. 51:13</ref></char></note> <verse eid="REV 17:1"/><verse number="2" style="v" sid="REV 17:2"/>አላመ ካትታይ ኢር ላሜዛ፤ አላመል የዝ አሳይካ እ ላመት ዎይና ኡዢ ማዛ» ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">17:2 </char><char style="xt" closed="false"><ref loc="ISA 23:17">ኢሳ. 23:17</ref>፤ <ref loc="JER 51:7">ኤርም. 51:7</ref></char></note><verse eid="REV 17:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 17:3"/>የ ኪታንቻይ ታና አያናር ሊዦ ጋ ካንጌዛ። ኤዛይድ ፐቲ አስታ ጫሽ ሱንይ ኤዛል አፋ ጻፍንቴዝ፥ ላፑን ኦማኔ ታጲ ካጨ የዝ ዞቆ ዶአ ቶጌዝ ፐቲ አስቶ በኤዛ።<note caller="-" style="x"><char style="xo" closed="false">17:3 </char><char style="xt" closed="false"><ref loc="REV 13:1">ዋን. ቆን. 13:1</ref></char></note> <verse eid="REV 17:3"/><verse number="4" style="v" sid="REV 17:4"/>የ አስታ ካሎሰ ማኦኔ ዞቆ ማኦ ማኤዛ፤ እዛ ዎርቃር፥ ቦንቾ ሹቻራኔ እንቆ ግዝ አልኦ ሹቻር ቡቁርንቴዛ። እዛ ፋ ኩሻይድ ቦርስዛባዝኔ ላመት ቱናትር ኩሜዝ ዎርቀ ጹአ አይኬዛ።<note caller="-" style="x"><char style="xo" closed="false">17:4 </char><char style="xt" closed="false"><ref loc="JER 51:7">ኤርም. 51:7</ref></char></note> <verse eid="REV 17:4"/><verse number="5" style="v" sid="REV 17:5"/>እ ስናይል አፋ የዝ ጹራ ሱንይ፥ «ዳማ ባብሎነ፥ ላሞስኔ ሳአ የዝ ቱና ባዝ ኡባይስ እንዶ» ዬግዝ ጹፈ ጻፍንቲ በቴዛ። <verse eid="REV 17:5"/><verse number="6" style="v" sid="REV 17:6"/>ማ የ ማቻት ጌሽታይ ሱኔ የሱሳስ ማርካትታር Ꮊይቄዝታይ ሱ ኡዢ ማዛኖ ታ ብኢ Ꮊይ ማላባዝ ጌዛ።<verse eid="REV 17:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 17:7"/>ኪታንቻይ ታኮ፥ «ኔኒ አብስ ማላባዝ ጌ? ታኒ ኔስ የ አስቲ ጹራኔ እዛ ቶኬዝ ላፑን ኦማኔ ታጲ ካጨ የዝ ዶአይ ጹራ ኦዶዳ። <verse eid="REV 17:7"/><verse number="8" style="v" sid="REV 17:8"/>ኔኒ በኤዝ ዶአይ ብኒ የዛ፥ ዝን Ꮊት ባያ። ጉየፕ የ ዶአይ ጪሞ ኦላፕ ከዞዳ፥ ቦኮ Ꮊማዳ። አላማይ መንቴዛይፕ አይኪ፥ ደኦ ማጻፋይድ ኡ ሱንይ ጻፍንተካ ሳአ የዝ አሳይ ዶአና ብኢ ማላባዝ ጎዳ። አብስ ጊኮ፥ ያ ዶአይ ካሰ የዛ፤ Ꮊት ባያ፥ ዝን ቲናፕ የኦዳ።<note caller="-" style="x"><char style="xo" closed="false">17:8 </char><char style="xt" closed="false"><ref loc="DAN 7:7">ዳነ. 7:7</ref>፤ <ref loc="REV 11:7">ዋን. ቆን. 11:7</ref>፤ <ref loc="PSA 69:28">ማዝ. 69:28</ref></char></note><verse eid="REV 17:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 17:9"/>«ኤጨትር የዝ ካሃ ኮሽዛይ Ꮊይዳ። ላፑን ኦምታይ አስታ በትዝ ላፑን አምብታ፤ የይትታይ ማ ላፑን ካትታ። <verse eid="REV 17:9"/><verse number="10" style="v" sid="REV 17:10"/>ኡንታፕ እችን ካትታይ ፖኬዛ። ፐታይ Ꮊኖ ሄሎዳይስ ሃርዛ፤ Ꮊንኮ ካታይ የኤካ። ኤ ጽቃ ዎደስ ኣዳ ካታምእ የኦዳይስ ቤዝዛ። <verse eid="REV 17:10"/><verse number="11" style="v" sid="REV 17:11"/>ካሰ የዛ ዶአይ፥ Ꮊት ባዛይ፥ ኤ ፋ ኦማስ ሆስፑን ዶአ። ኤ ላፑን ዶእታይፕ ፐታ፤ ኤ ቦኮ Ꮊንግዛ።<verse eid="REV 17:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 17:12"/>«ኔኒ በኤዝ ታጲ ካጭታይ ሀጋ ሃሮ አይከካ ታጲ ካትታ። ዝን ኡንቲ ዶአይራ ፐቲ ሳተ ካዉቲ ሃሮዳይስ ኡንትስ ማዉተ እንግንቶዳ።<note caller="-" style="x"><char style="xo" closed="false">17:12 </char><char style="xt" closed="false"><ref loc="DAN 7:24">ዳነ. 7:24</ref></char></note> <verse eid="REV 17:12"/><verse number="13" style="v" sid="REV 17:13"/>ኡንትስ ኡባይስ ፐቲ ቆፋ የዛ፤ ኡንቲ ፋ ዎልቃኔ ፋ ማዉታ ዶአይስ እንጎዳ። <verse eid="REV 17:13"/><verse number="14" style="v" sid="REV 17:14"/>ኡንቲ ዱራይር ኦልንቶዳ፥ ዝን ዱራይ ጎድታይ ጎዳነ ካትታይ ካት ማቄዝ ግሾስ ኤር የዝ ኤ ጼጌዝታይ፥ ዶሬዝታይኔ አማንንቴዝታይ የ ካትታ ጋሞዳ» ዬጌዛ።<verse eid="REV 17:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="REV 17:15"/>ኪታንቻይ ማካ ታኮ፥ «ላምዛና በቴዝ የ ኔኒ በኤዝ ሃታይ ኮችታ፥ ካተተታ፥ ዘረታኔ ዱማ ዱማ ዶናር ኦድንትዝታ። <verse eid="REV 17:15"/><verse number="16" style="v" sid="REV 17:16"/>ማ ኔኒ በኤዝ ታጲ ካጨኔ ዶአይ ላምዛ አስቶ እጾዳ። ኡንቲ ኢስ የዝ ኡባ ባዝ ኤኮዳ። ማ እዞ ካሎ አሾዳነ እ አሾ ማዳ፤ የይፕ ኡንቲ እዞ ታማር ጹጎዳ። <verse eid="REV 17:16"/><verse number="17" style="v" sid="REV 17:17"/>ይኬ፥ ጾስ ቃላይ ፖልንቶድ ሄሎዳይስ ኡ ቆፋይ ፐቶ ማቃዳይ ጋርክ ኡንቲ ፋ ካተት ዶአይስ እንጎዳኔ ጾሲ ቆፔዛና ኡንቲ ኦዳይ ጋርክ ኡ ዎዝናይድ ጾስ አሞ ጋዴዛ። <verse eid="REV 17:17"/><verse number="18" style="v" sid="REV 17:18"/>የ ኔኒ በኤዝ አስታ ሳአ ካትታ ሃርዛ ግታ ካታምቶ» ዬጌዛ።<verse eid="REV 17:18"/></para>
+  <chapter eid="REV 17"/>
+  <chapter number="18" style="c" sid="REV 18"/>
+  <para style="s1">ባብሎነ ቦ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 18:1"/>የይፕ ጉየ፥ ግታ ማዉተር የዝ ሀራ ኪታንቻይ ሳሎፕ ዎዳር ታ በኤዛ። የ ኪታንቻይ ቦንቻይ ሳአ ፖእሴዛ። <verse eid="REV 18:1"/><verse number="2" style="v" sid="REV 18:2"/>ፋ ቃላ ቅ ኡዲ፥</para>
+  <para style="q1" vid="REV 18:2">«ዳማ ባብሎነ ቤዛ! ኤ ቤዛ!</para>
+  <para style="q2" vid="REV 18:2">ባብሎነ ጋለነስ አቅዛ አቆ ማቄዛ።</para>
+  <para style="q1" vid="REV 18:2">ዱማ ዱማ ቱና አያንታይስ ኬ ማቄዛ፤</para>
+  <para style="q2" vid="REV 18:2">ቱናኔ ፍልንቴዝ ካፍታይ ሸምፕዛ አቆ ማቄዛ።<note caller="-" style="x"><char style="xo" closed="false">18:2 </char><char style="xt" closed="false"><ref loc="ISA 21:9">ኢሳ. 21:9</ref>፤ <ref loc="JER 51:8">ኤርም. 51:8</ref>፤ <ref loc="REV 14:8">ዋን. ቆን. 14:8</ref>፤ <ref loc="ISA 13:21">ኢሳ. 13:21</ref>፤ <ref loc="JER 50:39">ኤርም. 50:39</ref></char></note><verse eid="REV 18:2"/></para>
+  <para style="q1">
+    <verse number="3" style="v" sid="REV 18:3"/>አስ ዘረ ኡባ ፋ ላመ ዎይና ኡሼዛ።</para>
+  <para style="q1" vid="REV 18:3">ሳአ ካትታይ ኢር ላሜዛ። ኢስ የዝ አቆፕ ኣዝ ዱረትይፕ ደንዴዛይድ</para>
+  <para style="q2" vid="REV 18:3">ቢታል የዝ ዛልእዝታይ ዱረቴዛ»</para>
+  <para style="m" vid="REV 18:3">ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">18:3 </char><char style="xt" closed="false"><ref loc="ISA 23:17">ኢሳ. 23:17</ref>፤ <ref loc="JER 51:7">ኤርም. 51:7</ref></char></note><verse eid="REV 18:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 18:4"/>የይፕ ጉየ፥ ታ ሳሎፕ Ꮊይ ጋርክ ዬግዝ ሀራ ግርሲ ስኤዛ።</para>
+  <para style="q1" vid="REV 18:4">«ታ ዎይታዮ እ ናጋራ ኢር ኮጻማይ ጋርከኔ፥</para>
+  <para style="q2" vid="REV 18:4">እዛ ኤኮዳይስ የዝ ሴራ ይ ኤካማይ ጋርክ፥</para>
+  <para style="q2" vid="REV 18:4">ኢፐ ከዞይታ።<note caller="-" style="x"><char style="xo" closed="false">18:4 </char><char style="xt" closed="false"><ref loc="ISA 23:17">ኢሳ. 23:17</ref>፤ <ref loc="JER 51:7">ኤርም. 51:7</ref></char></note><verse eid="REV 18:4"/></para>
+  <para style="q1">
+    <verse number="5" style="v" sid="REV 18:5"/>ይኬ፥ እ ናጋራይ ሳሎ ሄሎዳይስ ዶርንቴዛ።</para>
+  <para style="q2" vid="REV 18:5">ጾሲ እ ናቃ ቆፔዛ።<note caller="-" style="x"><char style="xo" closed="false">18:5 </char><char style="xt" closed="false"><ref loc="GEN 18:20">መ. 18:20</ref></char></note><verse eid="REV 18:5"/></para>
+  <para style="q1">
+    <verse number="6" style="v" sid="REV 18:6"/>እዛ እንጌዛን ጋርክ ማሂ ኢስ እንጎይታ።</para>
+  <para style="q2" vid="REV 18:6">እዛ ኦዝ ኦሳይስ ናምኢ ኩሸ ኢስ ማሆይታ።</para>
+  <para style="q2" vid="REV 18:6">እዛ ዋላኬዝ ኡሻይል አፋ ይ ናምኢ ኩሸ ዋላክንቴዝ ኡሽ እ ጹአይድ ኩንይታ።<note caller="-" style="x"><char style="xo" closed="false">18:6 </char><char style="xt" closed="false"><ref loc="PSA 137:8">ማዝ. 137:8</ref>፤ <ref loc="JER 50:29">ኤርም. 50:29</ref></char></note><verse eid="REV 18:6"/></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="REV 18:7"/>እዛ ቦንችንቴዛኔ ኢስ ጊጌዛይ ጋርክ፥</para>
+  <para style="q2" vid="REV 18:7">ኢስ መቶኔ ካዮ እንጎይታ።</para>
+  <para style="q1" vid="REV 18:7">እዛ ፋ ዎዛናይር፥</para>
+  <para style="q2" vid="REV 18:7">‹ታኒ ካታቲ ጋርክ በቴዛ፤ ታ ኣዝን ባ ማች ባያ፤</para>
+  <para style="q2" vid="REV 18:7">ታኒ ኡባራካ ካያካ የሻ ታን በአሚ› ዬጌዛ።<verse eid="REV 18:7"/></para>
+  <para style="q1">
+    <verse number="8" style="v" sid="REV 18:8"/>የይ ግሾስ፥ ቦሻ ኡባይ፥ Ꮊይቆ</para>
+  <para style="q2" vid="REV 18:8">ሀርገ፥ ካያኔ ናየ እዞ ፐቲ ጋላስ አይኮዳ።</para>
+  <para style="q1" vid="REV 18:8">ማ እዛ ታማር ጹግንቶዳ፤</para>
+  <para style="q2" vid="REV 18:8">አብስ ጊኮ፥ እዝል አፋ ፕርድዛ ጎዳ ጾሳይ ዎልቃማ»</para>
+  <para style="m" vid="REV 18:8">ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">18:7-8 </char><char style="xt" closed="false"><ref loc="ISA 47:7-9">ኢሳ. 47:7-9</ref></char></note><verse eid="REV 18:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 18:9"/>«ኢር ላሜዝታይስኔ እ ጊጋይድ የዜዝ፥ አላመ ካትታይ የ ካታምታ ጹግንትን ከዜዝ ጩያ በኤዝ ዎደ ኢስ ኡኪ ዬኮዳ።<note caller="-" style="x"><char style="xo" closed="false">18:9-10 </char><char style="xt" closed="false"><ref loc="EZK 26:16-17">ኢዝቀ. 26:16-17</ref></char></note> <verse eid="REV 18:9"/><verse number="10" style="v" sid="REV 18:10"/>ኡንቲ የ ካታምት ዋየ ብኢ Ꮊሽቴዝ ግሾስ ሃኪ ኤቂ፥</para>
+  <para style="q1" vid="REV 18:10">«‹Ꮊ ግታ ካታምተ! ዎልቃማ ካታምተ!</para>
+  <para style="q2" vid="REV 18:10">ባብሎነ፥ ነና አየ! አየ!</para>
+  <para style="q1" vid="REV 18:10">ኔኒ ፐቲ ሳተ ጋንጨ ነ ፕርዳ ኤኬዛ› ዬጎዳ።<verse eid="REV 18:10"/></para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 18:11"/>«ኡ ማርካበ ጫና ይከፕ ዎንግዛ አስ ባዛይ ግሾስ ሳአ የዝ ዛልአንችታይ የ ካታምትስ ዋስዛ ካዮትዛ<note caller="-" style="x"><char style="xo" closed="false">18:11 </char><char style="xt" closed="false"><ref loc="EZK 27:31">ኢዝቀ. 27:31</ref></char></note> <verse eid="REV 18:11"/><verse number="12" style="v" sid="REV 18:12"/>ኡ ማርካባይድ ጫንንቴዛይካ ዎርቀ፥ ብራ፥ ቦንቾ ሹቺ፥ እንቆ ግዝ አልኦ ሹቺ፥ ሌኦ ማኦ፥ ጩልኮ ማኦ፥ ሊኖ ማኦ፥ ሀረ ማኦ፥ ዞቆ ማኦ፥ ዱማ ዱማ ሳዉዛ ም፥ ዛለ አቻፕ፥ አልኦ ምፕ፥ ናሰ ብራታፕ፥ ጎለ ሹቻፕ ኦንቴዝ ሚሻ ኡባ፥<note caller="-" style="x"><char style="xo" closed="false">18:12-13 </char><char style="xt" closed="false"><ref loc="EZK 27:12-13">ኢዝቀ. 27:12-13</ref>፥ <ref loc="EZK 27:22">22</ref></char></note> <verse eid="REV 18:12"/><verse number="13" style="v" sid="REV 18:13"/>ቃራፋ፥ ሳዎ፥ እጻኔ፥ ካርበ፥ ሽቶ፥ ዎይነ፥ ዛይተ፥ ሊቆ ለ፥ ግስተ፥ መሄ፥ ዱረ፥ ፋራ፥ ፋራ ጋረ፥ አይልታኔ ሀራ አስታ።<verse eid="REV 18:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="REV 18:14"/>«ዛልአንችታይ አስትኮ፥ ‹ኔኒ አሞቴዝ ሎኦ ባዝ ኡባይ ኔፕ ቤዛ። ነ ሻላይኔ ቡቁርታይ ኡባይ ኔፕ ሃኬዛ። ኔኒ ማሂ ኡንታን የሻ ደንጋሚ› ዬጌዛ። <verse eid="REV 18:14"/><verse number="15" style="v" sid="REV 18:15"/>የይትታ ዛልእ ዱረቴዝ ዛልአንችታይ እ መታ ያሽቲ ኢፕ ሃኪ ኤቆዳ። ኡንቲ ዬኮዳኔ ካያቶዳ።<note caller="-" style="x"><char style="xo" closed="false">18:15 </char><char style="xt" closed="false"><ref loc="EZK 27:31">ኢዝቀ. 27:31</ref></char></note> <verse eid="REV 18:15"/><verse number="16" style="v" sid="REV 18:16"/>ማ፥</para>
+  <para style="q1" vid="REV 18:16">«‹ሊኖ ማኦ፥ ሌኦ ማኦኔ ዞቆ ማኦ ማኢ፥</para>
+  <para style="q2" vid="REV 18:16">ዎርቃር፥ ቦንቾ ሹቻራኔ እንቆ ግዝ አልኦ ሹቻር ቡቁርንቴዛ፥</para>
+  <para style="q2" vid="REV 18:16">የ ግታ ካታምታ አየ! አየ!<verse eid="REV 18:16"/></para>
+  <para style="q1">
+    <verse number="17" style="v" sid="REV 18:17"/>Ꮊይ ጋርክ ግታ ሻሎ ኡባይ ፐቲ ሳተር ቤዛ› ዬጌዛ።</para>
+  <para style="p" vid="REV 18:17">«ማርካበ ላግዝታይ ኡባይ፥ ማርካበር Ꮊንግዝታይ ኡባይ፥ ማርካበል አፋ ኦዛ ኡባይኔ አባል ዛልእዛ ኡባይ ሃኪ ኤቄዛ።<note caller="-" style="x"><char style="xo" closed="false">18:17 </char><char style="xt" closed="false"><ref loc="ISA 23:14">ኢሳ. 23:14</ref>፤ <ref loc="EZK 27:26">ኢዝቀ. 27:26</ref></char></note> <verse eid="REV 18:17"/><verse number="18" style="v" sid="REV 18:18"/>የ ካታምታ ጹግንትን ከዜዝ ጩያ በኤዝ ዎደ ‹Ꮊ ዎልቃማ ካታምቶ ኣዝዛ ሀራ ካታማ የነሻ?› ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">18:18 </char><char style="xt" closed="false"><ref loc="EZK 27:32">ኢዝቀ. 27:32</ref></char></note> <verse eid="REV 18:18"/><verse number="19" style="v" sid="REV 18:19"/>ኡንቲ ፋ ኦማል ቡልአ ቆል፥ ዬኬዛኔ ካያቴዛ።</para>
+  <para style="q1" vid="REV 18:19">«‹አባል አፋ ማርካብታይ የዝ ኡባይ፥</para>
+  <para style="q2" vid="REV 18:19">እ ሻላይድ ዱረቴዝ ኡባይ፥</para>
+  <para style="q2" vid="REV 18:19">የ ካታምታ ፐቲ ሳተ ቤዝ ግሾስ</para>
+  <para style="q2" vid="REV 18:19">እዞ አየ! እዞ አየ!<verse eid="REV 18:19"/></para>
+  <para style="q1">
+    <verse number="20" style="v" sid="REV 18:20"/>ሳሎ፥ እ ባይድ ኡፋይቶባ!</para>
+  <para style="q2" vid="REV 18:20">ጌሽታዮ፥ ሀዋርታዮ፥ ናብታዮ፥</para>
+  <para style="q2" vid="REV 18:20">ጾሲ ይ ግሾስ ኢል አፋ ፕርዴዝ ግሾስ ኡፋይቶይታ›»</para>
+  <para style="m" vid="REV 18:20">ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">18:20 </char><char style="xt" closed="false"><ref loc="EZK 27:30">ኢዝቀ. 27:30</ref>፤ <ref loc="DEU 32:43">ናምእ. 32:43</ref>፤ <ref loc="JER 51:48">ኤርም. 51:48</ref></char></note><verse eid="REV 18:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="REV 18:21"/>የይፕ ጉየ፥ ፐቲ ምኖ ኪታንቻይ ዎጻ ኣዝዛ ግታ ሹች ደን አባ ጋንጨ ግታር፥ «ዳማ ካታምታ ባብሎነ ዎልቃር ኡርቅንቲ Ꮊይ ጋርክ ፖኮዳ፤ እዛ Ꮊይኖፕ ጉየ ኡባራካ በንታሚ።<note caller="-" style="x"><char style="xo" closed="false">18:21 </char><char style="xt" closed="false"><ref loc="JER 51:63">ኤርም. 51:63</ref></char></note> <verse eid="REV 18:21"/><verse number="22" style="v" sid="REV 18:22"/>ዲ ዲጽዝታይኔ የጽዝታይ፥ ሹልሹሎኔ ቱልቱላ ፑግዝታይ፥ ይከፕ ጉየ ነ ጋንጨ ኡባራካ ስእንታሚ። አብ ኩሸ ህላር ኦዛ አስካ ነ ጋንጨ በንተና። ዎጻ ግርስ ይከፕ ጉየ ነ ጋንጨ ስእንታም።<note caller="-" style="x"><char style="xo" closed="false">18:22 </char><char style="xt" closed="false"><ref loc="ISA 24:8">ኢሳ. 24:8</ref>፤ <ref loc="EZK 26:13">ኢዝቀ. 26:13</ref></char></note> <verse eid="REV 18:22"/><verse number="23" style="v" sid="REV 18:23"/>ጾምፐ ፖኦ Ꮊይፕ ጉየ ነ ጋንጨ ፖኤና። ማቾ ኤክዛይኔ ኣዝን ገልዝታይ ግርሳይ ይከፕ ጉየ ነ ጋንጨ ስእንታም። ነ ዛልአንችታይ ቢታ ኡባይል ኤርንቴዝ ዎልቃምታ። ነ ቢታይር ዎያ ኡባ ባልዛ» ዬጌዛ።<verse eid="REV 18:23"/></para>
+  <para style="p">
+    <verse number="24" style="v" sid="REV 18:24"/>ናብታይ ሱ፥ ጌሽታይ ሱኔ ቢታል ሹክንቴዝ አስ ኡባ ሱ እ ጋንጨ በንቴዝ ግሾስ ባብሎነ ፕርድንቴዛ።<note caller="-" style="x"><char style="xo" closed="false">18:24 </char><char style="xt" closed="false"><ref loc="JER 51:49">ኤርም. 51:49</ref></char></note><verse eid="REV 18:24"/></para>
+  <chapter eid="REV 18"/>
+  <chapter number="19" style="c" sid="REV 19"/>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 19:1"/>የይፕ ጉየ፥ Ꮊይ ጋርክ ዬግዝ ዎያ ጊር ኣዝዝ ዎልቃማ ኦሽር ሳሎፕ፥</para>
+  <para style="q1" vid="REV 19:1">«ሀለ ሉያ!</para>
+  <para style="q2" vid="REV 19:1">ፓጾትኔ ቦንቾ ዎልቃይካ ኑ ጾሳይስ ማቆ።<verse eid="REV 19:1"/></para>
+  <para style="q1">
+    <verse number="2" style="v" sid="REV 19:2"/>ኤ ፕርዳይ ቱማኔ ሉለ።</para>
+  <para style="q2" vid="REV 19:2">ቢታ ፋ ኢታ ላመር ቱንሴዛኖ ጾሲ ፕርዴዛ።</para>
+  <para style="q1" vid="REV 19:2">ጾሲ ፋ አይልታይ ሱ ኢፐ ኤኬዛ»</para>
+  <para style="m" vid="REV 19:2">ዬጎዳር ታ ስኤዛ።<note caller="-" style="x"><char style="xo" closed="false">19:2 </char><char style="xt" closed="false"><ref loc="DEU 32:43">ናምእ. 32:43</ref>፤ <ref loc="2KI 9:7">2ካት. 9:7</ref></char></note><verse eid="REV 19:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 19:3"/>የ አሳይ ማሂ ፋ ቃላ ቅ ኡዲ፥</para>
+  <para style="q1" vid="REV 19:3">«ሀለ ሉያ።</para>
+  <para style="q2" vid="REV 19:3">የ ካታምታ መናስ ፑድ አፋ ጩይታር የዞዳ»</para>
+  <para style="m" vid="REV 19:3">ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">19:3 </char><char style="xt" closed="false"><ref loc="ISA 34:10">ኢሳ. 34:10</ref></char></note><verse eid="REV 19:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 19:4"/>ላታማኔ ኦይዲ ጭምታይኔ ሸምፖር የዝ ኦይዲ መትታይ ዙፋናይል በቴዝ ጾሳይስ ጹጉኒ፥</para>
+  <para style="q1" vid="REV 19:4">«አምንኤ! ሀለ ሉያ»</para>
+  <para style="m" vid="REV 19:4">ዬጊ ጎይኔዛ።<verse eid="REV 19:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="REV 19:5"/>የይፕ ጉየ፥</para>
+  <para style="q1" vid="REV 19:5">«ጾስ አይልታይ፥</para>
+  <para style="q2" vid="REV 19:5">ጾስስ ያሽትዝ ጽቅታይኔ ዳምታይ ኡባይ፥ ኑ ጾሳይ ጋላትንቶ»</para>
+  <para style="m" vid="REV 19:5">ዬግዝ ጊርይ ዙፋናይፕ ከዜዛ።<note caller="-" style="x"><char style="xo" closed="false">19:5 </char><char style="xt" closed="false"><ref loc="PSA 115:13">ማዝ. 115:13</ref></char></note><verse eid="REV 19:5"/></para>
+  <para style="p">
+    <verse number="6" style="v" sid="REV 19:6"/>የይፕ ጉየ፥ ጋመ አስ ጋርክ አዉክዝ፥ ዎልቃማ ጎግዝ ዳማ ሃ ጉምኔ ዳዳ ሳር ጋርክ ጊርይ፥</para>
+  <para style="q1" vid="REV 19:6">«ሀለ ሉያ፤</para>
+  <para style="q2" vid="REV 19:6">ኑ ጎዳይ፥ ኡባ ዳንዳእዛ ጾሳይ ካዉቴዛ።<note caller="-" style="x"><char style="xo" closed="false">19:6 </char><char style="xt" closed="false"><ref loc="EZK 1:24">ኢዝቀ. 1:24</ref>፤ <ref loc="PSA 93:1">ማዝ. 93:1</ref>፤ <ref loc="PSA 97:1">97:1</ref>፤ <ref loc="PSA 99:1">99:1</ref></char></note><verse eid="REV 19:6"/></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="REV 19:7"/>ዱራይ ቦሳይ ሄሌዝ ግሾኔ፥</para>
+  <para style="q2" vid="REV 19:7">ኤዛ ገልዛና ጊጌዝ ማቄዝ ግሾስ Ꮊና የኦይታ</para>
+  <para style="q2" vid="REV 19:7">ዎላ ኡፋይቶዳ፥ ጋላቶዳኔ ኤዛ ቦንቾዳ።<verse eid="REV 19:7"/></para>
+  <para style="q1">
+    <verse number="8" style="v" sid="REV 19:8"/>ፖጭዛኔ ጌሽ ማቄዝ ሌኦ</para>
+  <para style="q2" vid="REV 19:8">ማኦ ማኦዳይ ጋርክ ኢስ እንግንቴዛ»።</para>
+  <para style="m" vid="REV 19:8">(ሌኦ ማአይ ጌሽታይ ጽሎ ኦሳይስ ኣዝሶ።)<verse eid="REV 19:8"/></para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 19:9"/>የይፕ ጉየ፥ ኪታንቻይ ታኮ፥ «ዱራይ ቦሳይ ሙነይስ ጼግንቴዝታይ አንጅንቴዝታ» ግ ጻፎባ። የ ኪታንቻይ ጉጂካ፥ «Ꮊይ ጾስ ቱማ ቃላ» ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">19:9 </char><char style="xt" closed="false"><ref loc="MAT 22:2">ማቶ. 22:2</ref></char></note><verse eid="REV 19:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="REV 19:10"/>የ ዎደ ታ ኤዝስ ጎኖዳይስ ኤ ቶካይል አፋ ጉጲፕንጌዛ። ዝን ኤ፥ «የያ ኦፐ! ታኒ የሱሳባጋ ማርካትዝ ነ ጋርከኔ ነ እሽታይ ጋርከ፤ ጾስስ ጎይኖባ ዬጌዛ። ይኬ፥ የሱሳ ባጋ ማርካቴዛይስ ናበት አያና ታኮ» ዬጌዛ።<verse eid="REV 19:10"/></para>
+  <para style="s1">ቦ ፋራ ቶጌዛያ</para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 19:11"/>የይፕ ጉየ፥ ሳሎ ዶይንትን፥ ኤዛይድ ቦ ፋራ የዛና ታ በኤዛ። የ ፋራ ቶጌዛይ አማንንቴዛኔ ቱማንቾ ግንትንትዛያ። ኤ ጽሎትር ፕርድዛኔ ኦልንትዛ።<note caller="-" style="x"><char style="xo" closed="false">19:11 </char><char style="xt" closed="false"><ref loc="EZK 1:1">ኢዝቀ. 1:1</ref></char></note> <verse eid="REV 19:11"/><verse number="12" style="v" sid="REV 19:12"/>ኤ ኣፋይ ታማ ላ ኣዝዛ፤ ኤ ኦማይል ጋመ ዛዉድታይ የዛ። ኤፕ አትን ሀራ ኦንካ ኤሮዋ ኤል ጻፍንቴዝ ሱን የዛ።<note caller="-" style="x"><char style="xo" closed="false">19:12 </char><char style="xt" closed="false"><ref loc="DAN 10:6">ዳነ. 10:6</ref></char></note> <verse eid="REV 19:12"/><verse number="13" style="v" sid="REV 19:13"/>ኤ ሱር ሙክንቴዝ ማኦ ማኤዛ፤ ኤ ሱንይካ ጾስ ቃላ። <verse eid="REV 19:13"/><verse number="14" style="v" sid="REV 19:14"/>ቦኔ ጌሽ ሊኖ ማኦ ማኤዝ ሳሎ ኦላንችታይ ቦ ፓርታ ቶጊ ኤ ገደኖ ካልዛ። <verse eid="REV 19:14"/><verse number="15" style="v" sid="REV 19:15"/>ዎይታ ጋችዛ ኦጮ ማሻ ኤ ዶናይፕ ከዝዛ። ኤ ብራታ ጉፈራ አሳ ሃሮዳ። ኡባፕ ዎልቃማ ጾስ ካች ዎይነ ኡሻ ቡልዝ አቃ ኤ የዳ።<note caller="-" style="x"><char style="xo" closed="false">19:15 </char><char style="xt" closed="false"><ref loc="PSA 2:9">ማዝ. 2:9</ref>፤ <ref loc="ISA 63:3">ኢሳ. 63:3</ref>፤ <ref loc="JOL 3:13">ኢዩ. 3:13</ref>፤ <ref loc="REV 14:20">ዋን. ቆን. 14:20</ref></char></note> <verse eid="REV 19:15"/><verse number="16" style="v" sid="REV 19:16"/>ኤ ማአይል አፋኔ ኤ ዎድራይል አፋ፥ «ካትታይ ካትኔ ጎድታይ ጎዳ» ዬግዝ ሱንይ ጻፍንቴዛ።<verse eid="REV 19:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="REV 19:17"/>የይፕ ጉየ፥ አዋል አፋ ኤቄዝ ፐቲ ኪታንቻና ታ በኤዛ። የ ኪታንቻይ ሳሎራ ፕራዛ ካፎ ኡባይስ ፋ ቃላ ቅ ኡዲ፥ «Ꮊና የኦይታ! ጾሳ ስብረ ማዳይስ ፐቲ አቆ ሺቆይታ።<note caller="-" style="x"><char style="xo" closed="false">19:17-18 </char><char style="xt" closed="false"><ref loc="EZK 39:17-20">ኢዝቀ. 39:17-20</ref></char></note> <verse eid="REV 19:17"/><verse number="18" style="v" sid="REV 19:18"/>ካትታይ አሾ፥ ሻላቅታይ አሾ፥ ዎታዳርታይ አሾ፥ ፓርታይ አሾ፥ ፓርታ ቶግዝታይ አሾ፥ አስ ኡባይ አሾ፥ አይልታይ አሾ፥ ዎማንታይ አሾ፥ ግትታይኔ ጽቅታይ Ꮊ ኡቢታይ አሻ ሞይታ» ዬጌዛ።<verse eid="REV 19:18"/></para>
+  <para style="p">
+    <verse number="19" style="v" sid="REV 19:19"/>Ꮊይ ጋርከካ ዶአይ፥ ፋራ ቶጌዝታይራኔ ኤ ኦላንችታይራ ኦልንቶዳይስ ሳአ ካትታይኔ ኡ ኦላንችታይ ፐቲ አቆ ሺቄዛዝን ታ በኤዛ። <verse eid="REV 19:19"/><verse number="20" style="v" sid="REV 19:20"/>ዝን የ ዶአይ አይክንቴዛ ኤ ሱንይር ማላባዝ ኦዝ ዎርዶ ናባይ ኤዛር ፐትፕ አይክንቴዛ። ኤ ቲናይድ ማላባዝ ኦዝታይ ዶአይ ማላይ የዝታኔ ኤ ምስላ ጎይንዝታ ኤ ባልዛ። ዶአኔ ዎርዶ ናባይ ናምአይካ ዲኔ ኤጽዝ ታማ ኣባይድ ፓ ኦልንቴዛ።<note caller="-" style="x"><char style="xo" closed="false">19:20 </char><char style="xt" closed="false"><ref loc="REV 13:1-18">ዋን. ቆን. 13:1-18</ref></char></note> <verse eid="REV 19:20"/><verse number="21" style="v" sid="REV 19:21"/>አቴዝታይ ቦሀ ፋራ ቶጌዛይ ዶናይፕ ከዜዝ ማሻይር Ꮊይቄዛ። ካፍታይ ኡባይ ኡ አሻ ም ካሌዛ።<verse eid="REV 19:21"/></para>
+  <chapter eid="REV 19"/>
+  <chapter number="20" style="c" sid="REV 20"/>
+  <para style="s1">ሙኩሎ ላይ ካተት</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 20:1"/>የይፕ ጉየ ዛዋ ባ ጪሞ ኦላይ ቁልፐኔ ግታ ሳንላተ ፋ ኩሸ አይኬዝ ፐቲ ኪታንቻይ ሳሎፕ ዎዳር ታ በኤዛ። <verse eid="REV 20:1"/><verse number="2" style="v" sid="REV 20:2"/>ኤ ዳዋና አይኪ ሙኩሎ ላይስ አጬዛ። የ ዳዋይ ዳቡሎሳ ዎይ ጻላሄ ግንትንትዝ ብኒ ሾሻ።<note caller="-" style="x"><char style="xo" closed="false">20:2 </char><char style="xt" closed="false"><ref loc="GEN 3:1">መ. 3:1</ref></char></note> <verse eid="REV 20:2"/><verse number="3" style="v" sid="REV 20:3"/>ኪታንቻይ ዛዋ ባ ጪሞ ኦላ ኤዛ ኦሊ፥ ሙኩሎ ላይ ዉሮድ ሄሎዳይስ ካተትታ ማሂ ባልማይ ጋርክ ቁልፐር ጎርዲ ማታመር አታሜዛ። የይፕ ጉየ፥ ዳዋይ ጽቃ ዎደስ ብልንቶዳይስ ቤዝዛ።<verse eid="REV 20:3"/></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 20:4"/>የይፕ ጉየ፥ ዙፋንታኔ ዙፋንታይል አፋ በቲ ፕርዶዳይ ጋርክ ማዉተ እንግንቴዛና ታ በኤዛ። የሱሳስ ማርካቴዝ ግሾኔ ጾስ ቃላ ኦዴዝ ግሾስ ፋ ቆ ጋችንቴዝ አሳይ ሸምፓ ታ በኤዛ። ኡንቲ ዶአ ዎይ ዶአ ምስላይስ ጎይነካያ። ኡንቲ ዶአይ ማላ ፋ ስናይድ ዎይ ፋ ኩሸል ጋደካያ። ኡንቲ Ꮊይቆፕ ደንዲ ክርስቶሳር ፐትፕ ሙኩሎ ላይ ካዉቴዛ።<note caller="-" style="x"><char style="xo" closed="false">20:4 </char><char style="xt" closed="false"><ref loc="DAN 7:9">ዳነ. 7:9</ref></char></note> <verse eid="REV 20:4"/><verse number="5" style="v" sid="REV 20:5"/>አቴዝ Ꮊንኮ Ꮊይቄዝታይ ሙኩሎ ላይይ ዉሮድ ሄሎዳይስ Ꮊይቆፕ ደንደካያ፥ Ꮊይካ ቲና ደንዶ። <verse eid="REV 20:5"/><verse number="6" style="v" sid="REV 20:6"/>ቲና Ꮊይቆፕ ደንዳ ደንድዝታይ አንጀቴዝታኔ ጌሽታ። ኡንታል አፋ ናምእን Ꮊይቆስ ማዉተ ባያ። ኡንቲ ጾስስኔ ክርስቶሳስ ቄሰ ማቆዳ፤ ኤዛር ፐትፕ ሙኩሎ ላይ ካዉቶዳ።<verse eid="REV 20:6"/></para>
+  <para style="s1">ጻላሄ ጋምንቶ</para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 20:7"/>ሙኩሎ ላይይ ዉሬዛይፕ ጉየ ጻላሄ አቻፕ ብልንቶዳ። <verse eid="REV 20:7"/><verse number="8" style="v" sid="REV 20:8"/>ኤ አላመ ኦይዲ ጎንትታይድ የዝ ዎይታ፥ ኡንትካ ጎገኔ ማጎገ ግንትንትዝታ ባለ ኦላስ ሺሾዳይስ ከዞዳ። ኡ ታይባይ አባ ጋጻ የዝ ሻፈ ጋርክ።<note caller="-" style="x"><char style="xo" closed="false">20:8 </char><char style="xt" closed="false"><ref loc="EZK 38:2">ኢዝቀ. 38:2</ref></char></note> <verse eid="REV 20:8"/><verse number="9" style="v" sid="REV 20:9"/>ኡንቲ ቢታ ኡባይል ላልንቲ፥ ጌሽታይ ሄራኔ ጾሲ ዶስዛ ካታምቶ ማሬዛ። ዝን ታማ ሳሎፕ ዎ ኡንታን ሜዛ።<verse eid="REV 20:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="REV 20:10"/>ኡንታን ባልዝ ዳቡሎሳ፥ ዶአይኔ ዎርዶ ናባይ ዎዝ ኤጽዝ ዲኔ ታማ አባ ኡንታን ኦሌዛ። ኡንቲ ቃማኔ ጋላስ መናስ ፓጻ ካእንቶዳ።<verse eid="REV 20:10"/></para>
+  <para style="s1">ዉርስ ፕርዳ</para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 20:11"/>የይፕ ጉየ፥ ግታ ቦ ዙፋናኔ ዙፋናይል አፋ በቴዛና ታ በኤዛ። ሳአኔ ሳሎ ኤ ቲናፕ በቴዛ፤ ዝን ኡንትስ ቆስንቶዳይስ አቆ በንተካያ።<note caller="-" style="x"><char style="xo" closed="false">20:11-12 </char><char style="xt" closed="false"><ref loc="DAN 7:9-10">ዳነ. 7:9-10</ref></char></note> <verse eid="REV 20:11"/><verse number="12" style="v" sid="REV 20:12"/>Ꮊይቄዝ፥ ዳምታይኔ ጽቅታይ ዙፋናይ ቲና ኤቄዛና ታ በኤዛ፤ ማጻፍታይ ዶይንቴዛ፤ ማ ሀራ ደኦ ማጻፋይካ ዶይንቴዛ። Ꮊይቄዝታይ ማጻፋይድ ጻፍንቴዝ ፋ ኦሳይ ጋርክ ፕርዳ ኤኬዛ። <verse eid="REV 20:12"/><verse number="13" style="v" sid="REV 20:13"/>አባይ ፋ ጋንጨ የዝ Ꮊይቄዝታ እንጌዛ፤ Ꮊይቆኔ ስኦለ ፋ ጋንጨ የዝ Ꮊይቄዝታ እንጌዛ። ፐቲ ፐቲ አስ ፋ ኦሳይ ጋርክ ፕርዳ ኤኬዛ። <verse eid="REV 20:13"/><verse number="14" style="v" sid="REV 20:14"/>Ꮊይቆኔ ስኦለ ታማ አባ ኦልንቴዛ። የ ታማ አባይ ናምእን Ꮊይቆ። <verse eid="REV 20:14"/><verse number="15" style="v" sid="REV 20:15"/>ደኦ ማጻፋይድ ሱንይ ጻፍንተካ ኦንካ ታማ አባ ዎዛ።<verse eid="REV 20:15"/></para>
+  <chapter eid="REV 20"/>
+  <chapter number="21" style="c" sid="REV 21"/>
+  <para style="s1">ኦሮ ሳሎኔ ኦሮ ሳአ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 21:1"/>Ꮊይፕ ጉየ ኦሮ ሳሎኔ ኦሮ ሳአ ታ በኤዛ። ቲና ሳላይኔ ቲና ሳአይ ቤዛ፤ ኣባይካ Ꮊይፕ ጉየ የዛሚ።<note caller="-" style="x"><char style="xo" closed="false">21:1 </char><char style="xt" closed="false"><ref loc="ISA 65:17">ኢሳ. 65:17</ref>፤ <ref loc="ISA 66:22">66:22</ref>፤ <ref loc="2PE 3:13">2ጵጽ. 3:13</ref></char></note> <verse eid="REV 21:1"/><verse number="2" style="v" sid="REV 21:2"/>ጌሻ ካታምታ፥ ኦሮ የሩሳላመ፥ ኣዝን ገሎዳይስ ቡቁርንቲ ጊጊ የዝ ማች ጋርክ ሳሎ ጾስ ካለፕ ሱል ዎዳር ታ በኤዛ።<note caller="-" style="x"><char style="xo" closed="false">21:2 </char><char style="xt" closed="false"><ref loc="ISA 52:1">ኢሳ. 52:1</ref>፤ <ref loc="REV 3:12">ዋን. ቆን. 3:12</ref>፤ <ref loc="ISA 61:10">ኢሳ. 61:10</ref></char></note><verse eid="REV 21:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 21:3"/>የይ ጋርከካ ዙፋናይፕ Ꮊይ ጋርክ ዬጊ፥ ኦድዛ ግታ ቃላ ታ ስኤዛ፤ «ጾስ ኬይ አሳይ ጋንጨ የዛ፤ ኤ ኡንታራሳ የሳዳ። ኡንቲ ኤ ዎያ ማቆዳ፤ ጾሲ ፋ ኦማስ ኡንታራ የሳዳ፤ ኤ ኡ ጾስ ማቆዳ።<note caller="-" style="x"><char style="xo" closed="false">21:3 </char><char style="xt" closed="false"><ref loc="EZK 37:27">ኢዝቀ. 37:27</ref>፤ <ref loc="LEV 26:11">ለዊ. 26:11</ref></char></note> <verse eid="REV 21:3"/><verse number="4" style="v" sid="REV 21:4"/>ጾሲ ኡ ኣፋይፕ አፉ ኡባ ኡጮዳ። ብኒ ዎጋይ ኣዝ ግሾስ Ꮊይቆ፥ ካያ፥ ኡፎኔ ዋየ ባያ» ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">21:4 </char><char style="xt" closed="false"><ref loc="ISA 25:8">ኢሳ. 25:8</ref>፤ <ref loc="ISA 35:10">ኢሳ. 35:10</ref>፤ <ref loc="ISA 65:19">65:19</ref></char></note><verse eid="REV 21:4"/></para>
+  <para style="p">
+    <verse number="5" style="v" sid="REV 21:5"/>ዙፋነል አፋ በቴዛይ፥ «ታኒ ኡባ ባዝ ኦሮ ኡዶዳ» ዬጌዛ። ማካ ታኮ፥ «ታኒ ኦድዛይ አማንዛኔ ቱማ ማቄዝ ግሾስ ጻፎባ» ዬጌዛ። <verse eid="REV 21:5"/><verse number="6" style="v" sid="REV 21:6"/>የይፕ ጉየ፥ «ፖልንቴዛ! ታኒ አልፋኔ ኦመጋ፤ ደንዶኔ ዉርስ። ሳምንቴዝ ኦስካ ደኦ ሃ ፑልታይፕ ጭግሰካዛር ጨረ እማዳ።<note caller="-" style="x"><char style="xo" closed="false">21:6 </char><char style="xt" closed="false"><ref loc="ISA 55:1">ኢሳ. 55:1</ref></char></note> <verse eid="REV 21:6"/><verse number="7" style="v" sid="REV 21:7"/>ጋምዝ ኦንካ የያ ኡባ ላቶዳ፤ ታኒ ኤስ ጾስ ማቃዳ፤ ኤካ ታ ናአ ማቃዳ።<note caller="-" style="x"><char style="xo" closed="false">21:7 </char><char style="xt" closed="false"><ref loc="2SA 7:14">2ሳም. 7:14</ref>፤ <ref loc="PSA 89:26">ማዝ. 89:26</ref></char></note> <verse eid="REV 21:7"/><verse number="8" style="v" sid="REV 21:8"/>ዝን ያሽትዝታይ፥ አማኖዝታይ፥ ቱንታይ፥ ሸምፖ ዎዝታይ፥ ላምዝታይ፥ ብትዝታይ፥ ኤቃ ጎይንዝታይኔ ዎርዶትዝታይ አንጃይ ዲኔ ኤጽዝ ታማ አባ ማቆዳ። የይካ ናምእን Ꮊይቆ» ዬጌዛ።<verse eid="REV 21:8"/></para>
+  <para style="s1">ኦሮ የሩሳላመ</para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 21:9"/>ላፑን ዉርስ ቦሽታይ ኩሜዝ ላፑን ጹእታ አይኬዝ ላፑን ኪታንችታይፕ ፐታይ ታኮ ይኢ፥ «Ꮊንካ የኦባ፥ ታኒ ነና ዱራይስ ማቾ ማቄዝ ዉድርቶ ቤዞዳ» ዬጌዛ። <verse eid="REV 21:9"/><verse number="10" style="v" sid="REV 21:10"/>አያናር ታና አዱስኔ ቀ አምባ ጼራል አፋ ከሲ፥ ጌሻ ካታማ፥ የሩሳላመ፥ ሳሎፕ ጾስ ካለፕ ሱለ ዎዳር ቤዜዛ።<note caller="-" style="x"><char style="xo" closed="false">21:10 </char><char style="xt" closed="false"><ref loc="EZK 40:1">ኢዝቀ. 40:1</ref></char></note> <verse eid="REV 21:10"/><verse number="11" style="v" sid="REV 21:11"/>የ ካታምታ ጾስ ቦንቾር ፖእዛ። የ ካታምቲ ፖኦ ያስጲደ ግዝ አልኦ ሹች ጋርክ፤ ጌሻ ብርለ ጋርክ ፎጭዛ። <verse eid="REV 21:11"/><verse number="12" style="v" sid="REV 21:12"/>የ ካታምቲ ግምበ ጋሳይ ዎልቃማኔ ኣዱሰ። ኢስ ታጶ ናምኢ ፐንገኔ የ ፐንግታ ናግዛ ታጶ ናምኢ ኪታንችታይ የዛ። ፐንግታይል አፋ ታጶ ናምኢ እስሬለ ዘረታይ ሱንታይ ጻፍንቴዛ።<note caller="-" style="x"><char style="xo" closed="false">21:12-13 </char><char style="xt" closed="false"><ref loc="EZK 48:30-35">ኢዝቀ. 48:30-35</ref></char></note> <verse eid="REV 21:12"/><verse number="13" style="v" sid="REV 21:13"/>አዋ ከሲ ባጋር ሀይ ፐንግታይ፥ ፑደ ባጋር ሀይ ፐንግታይ፥ ሱለ ባጋር ሀይ ፐንገኔ አዋ ገሎ ባጋር ሀይ ፐንግታይ የዛ። <verse eid="REV 21:13"/><verse number="14" style="v" sid="REV 21:14"/>ካታምቲ ግምበ ጋሳይ ታጶ ናምኢ ባስታይል አፋ ኤቄዛ። ኡንታል አፋ ታጶ ናምኢ ዱረ ሀዋርታይ ሱንይ ጻፍንቴዛ።<verse eid="REV 21:14"/></para>
+  <para style="p">
+    <verse number="15" style="v" sid="REV 21:15"/>ታስ ኦድዛ ኪታንቻይስ፥ ካታምቶ፥ እ ፐንግታኔ ግምበ ጋሰ ዩሻ Ꮊዛ ዎርቃ ጉፈ የዛ።<note caller="-" style="x"><char style="xo" closed="false">21:15 </char><char style="xt" closed="false"><ref loc="EZK 40:3">ኢዝቀ. 40:3</ref></char></note> <verse eid="REV 21:15"/><verse number="16" style="v" sid="REV 21:16"/>ካታምታ ኦይዲ ማይዛንታይ የዛ፤ ካታማቲ አዱሰትይኔ ጎምፓይ ፐቲ ቃራ። ኪታንቻይ ካታምቶ ፋ ጉፈራ Ꮊዛ፥ ካታማይ ናምኢ ሙኩሎ ኦይዲ ጼት ክሎ ምትረ ማቄዛ፤ ካታምቲ ኣዱሰትይ፥ ዳልጋትይኔ ቃትይ የይ ጋርክ ፐቲ ማላ። <verse eid="REV 21:16"/><verse number="17" style="v" sid="REV 21:17"/>ኪታንቻይ ግንበ ጋሳይ ዩሻ አስ ኩሸር Ꮊን ፐቲ ጼታኔ ኦይታማኔ ኦይዲ Ꮊ ማቄዛ፥ የይካ ኪታንቻይ Ꮊራ።<verse eid="REV 21:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="REV 21:18"/>ካታማይ ግንበ ያስጲደ ግዝ ሹቻር ጋስንቴዛ። ካታማይ ቡርጩኮ ጋርክ ፖጭዝ ጌሻ ዎርቃር ኦስንቴዛ። <verse eid="REV 21:18"/><verse number="19" style="v" sid="REV 21:19"/>ካታምቲ ግምባይስ ባሳይ ኡባይ ቦንችንቴዝ ሹቻር የገልቴዛ። ቲና ሂጽንቴዝ ሹቻይ ያስጲደ፥ ናምእንይ ሳንፔረ፥ ሃንይ ኬልቀዶኔ፥ ኦይድንይ መርገደ፥ <verse eid="REV 21:19"/><verse number="20" style="v" sid="REV 21:20"/>እችንይ ሳርዶንክሰ፥ ኡሱፑንይ ሳርዶነ፥ ላፑንይ ክርስትሎበ፥ ሆስፑንይ ብርለ፥ ኡዱፉንይ ዎራዉረ፥ ታጵንይ ክርስጲራስሰ፥ ታጶ ፐትንይ ያክንተ፥ ታጶ ናምአንይ አመተስጽኖሰ።<verse eid="REV 21:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="REV 21:21"/>ታጶ ናምኢ ፐንግታይስ ታጶ ናምኢ እንቅታይ የዛ። ፐቲ ፐቲ ፐንጋይ ፐቲ እንቆር ኦስንቴዛ። ካታምቲ ኦጋይ ሎኦ ቡርጩኮ ጋርክ ፖጭዝ ትላ ዎርቃፕ ኦስንቴዛ።<verse eid="REV 21:21"/></para>
+  <para style="p">
+    <verse number="22" style="v" sid="REV 21:22"/>ጎዳይ፥ ኡባይፕ ዎልቃማ ጾሳይኔ ዱራይ ካታምትስ ኬ ማቄዝ ግሾስ ታ የ ካታምተ ሀራ ኬ በኤካያ። <verse eid="REV 21:22"/><verse number="23" style="v" sid="REV 21:23"/>ጾስ ቦንቾ የ ካታምትስ ፖእዛ ግሾኔ ዱራይ ኢስ ጾምፐ ማቄዝ ግሾስ ካታምትስ አዋ ዎይ አግና ፖኦ ኮሾያ።<note caller="-" style="x"><char style="xo" closed="false">21:23 </char><char style="xt" closed="false"><ref loc="ISA 60:19">ኢሳ. 60:19</ref></char></note> <verse eid="REV 21:23"/><verse number="24" style="v" sid="REV 21:24"/>ዎይታይ የ ካታምቲ ፖኦር የዳ፤ አላመ ካትታይካ ፋ ቦንቻ ገድ ኤዛይድ ኮኦዳ።<note caller="-" style="x"><char style="xo" closed="false">21:24 </char><char style="xt" closed="false"><ref loc="ISA 60:3">ኢሳ. 60:3</ref></char></note> <verse eid="REV 21:24"/><verse number="25" style="v" sid="REV 21:25"/>ቃማ ኤዛይድ ባ ግሾስ ካታማ ፐንግታይ ኡባ ዎደ ዶያ ማቃዳ፤ ጎርድንታሚ።<note caller="-" style="x"><char style="xo" closed="false">21:25-26 </char><char style="xt" closed="false"><ref loc="ISA 60:11">ኢሳ. 60:11</ref></char></note> <verse eid="REV 21:25"/><verse number="26" style="v" sid="REV 21:26"/>ካትታይ ግታትይኔ ቦንቻይ የ ካታምተ ገሎዳ። <verse eid="REV 21:26"/><verse number="27" style="v" sid="REV 21:27"/>ዱራይስ ማቄዛይኔ ደኦ ማጻፋይድ ሱንይ ጻፍንቴዝታይ ኣዳፕ አትን ቱናባዝ ዎይ ፒልንትዛባዝ ኦዝ ዎይ ዎርዶ ኦድዝ ኦንካ የ ካታምቶ የሻ ገላሚ።<note caller="-" style="x"><char style="xo" closed="false">21:27 </char><char style="xt" closed="false"><ref loc="ISA 52:1">ኢሳ. 52:1</ref>፤ <ref loc="EZK 44:9">ኢዝቀ. 44:9</ref></char></note><verse eid="REV 21:27"/></para>
+  <chapter eid="REV 21"/>
+  <chapter number="22" style="c" sid="REV 22"/>
+  <para style="s1">ደኦ ሃኔ ም</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 22:1"/>የይፕ ጉየ፥ ኪታንቻይ ታና ጾስ ዙፋናይፐኔ ዱራይ ዙፋናይፕ ጎግዝ ቡርጩኮ ጋርክ ፖጭዝ ግታ ደኦ ሃ ታና ቤዜዛ።<note caller="-" style="x"><char style="xo" closed="false">22:1 </char><char style="xt" closed="false"><ref loc="EZK 47:1">ኢዝቀ. 47:1</ref>፤ <ref loc="ZEC 14:8">ዛክ. 14:8</ref></char></note> <verse eid="REV 22:1"/><verse number="2" style="v" sid="REV 22:2"/>የ ሃታ የ ካታምቲ ዋና ጎሳ ቆኢ ኣዛ። የ ሃትስ ኡሻች ባጋራኔ ሀድርስ ባጋር ላይ ታጶ ናምኢ ቶኬ አግናር አግናር ኣፍዝ ደኦ ም የዛ። የ ምቲ ሀይታይ ዎያ ፓዛ።<note caller="-" style="x"><char style="xo" closed="false">22:2 </char><char style="xt" closed="false"><ref loc="GEN 2:9">መ. 2:9</ref></char></note><note caller="+" style="f"><char style="fr" closed="false">22:2 </char><char style="ft" closed="false">ፐቲ ፐቲ ግርኬ ማጻፍታይድ የ ደኦ ምይ ካታማ ዋና ጎሳይስኔ ጎግዝ ሃይስ ጋንጨ የዛ ዬግዛ።</char></note><verse eid="REV 22:2"/></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 22:3"/>Ꮊንፕ ጉየ አባ ባድ የዛሚ። ጾስ ዙፋናይኔ ዱራይ ዙፋናይ የ ካታማይድ የዞዳ። ኤ አይልታይ ኤዛ ጎይኖዳ።<note caller="-" style="x"><char style="xo" closed="false">22:3 </char><char style="xt" closed="false"><ref loc="ZEC 14:10">ዛክ. 14:10</ref></char></note> <verse eid="REV 22:3"/><verse number="4" style="v" sid="REV 22:4"/>ኡንቲ ኤ ኣፋ በአዳ፤ ኤ ሱንይ ኡ ስኖል ጻፍንቶዳ። <verse eid="REV 22:4"/><verse number="5" style="v" sid="REV 22:5"/>ይከፕ ጉየ ቃማ ባያ፤ ጎዳይ ጾሳይ ኡንትስ ፖእዛ ማቄዝ ግሾስ ኡንትስ ጾምፐ ዎይ አዋ ፖኦ ኮሾያ። ኡንቲ መ መናስ ካዉቶዳ።<note caller="-" style="x"><char style="xo" closed="false">22:5 </char><char style="xt" closed="false"><ref loc="ISA 60:19">ኢሳ. 60:19</ref>፤ <ref loc="DAN 7:18">ዳነ. 7:18</ref></char></note><verse eid="REV 22:5"/></para>
+  <para style="s1">የሱሳ ማቂ ይእ</para>
+  <para style="p">
+    <verse number="6" style="v" sid="REV 22:6"/>የይፕ ጉየ ኪታንቻይ ታኮ፥ «Ꮊ ታ ኦድዛ ቃላይ አማንቴዝታኔ ቱምታ። ጎዳ ጾሳይ፥ ናብታይስ ፋ አያናር እንግዛይ፥ ኡከር አተካ ሀኖድ ባዝ ፋ አይልታ ቤሳዳይስ ፋ ኪታንቻ ኪቴዛ» ዬጌዛ።<verse eid="REV 22:6"/></para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 22:7"/>የሱሳካ፥ «ዬዛኮ ታ ኤለር የኦዳ፤ Ꮊ ማጻፋይድ የዝ ትንቢተ ቃላ ናግዛ ኦንካ አንጅንቴዛያ» ዬጌዛ።<verse eid="REV 22:7"/></para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 22:8"/>ታ፥ ዋንሳ፥ የ ኡባባዛ ስኤዛኔ በኤዛ። ታኒ የያ ስኤዝ ዎደኔ በኤዝ ዎደ የያ ታና ቤዜዝ ኪታንቻ ጎይኖዳይስ ኤ ቶከል አፋ ጉጲንጌዛ። <verse eid="REV 22:8"/><verse number="9" style="v" sid="REV 22:9"/>ዝን ኪታንቻይ ታኮ፥ «አሾባ! የያ ኦፐ! ታኒ ነጋርከ፥ ነ እሽታይ ናብታይጋርከኔ Ꮊ ማጻፋይድ የዝ ኡባ ኪትንትዛ አይልታይ ጋርከ፤ ጾስስ ጎይኖባ» ዬጌዛ።<verse eid="REV 22:9"/></para>
+  <para style="p">
+    <verse number="10" style="v" sid="REV 22:10"/>Ꮊይፕ ጉየ ኪታንቻይ ማሂ፥ «Ꮊ ኡባይ ፖልንትዛ ዎዳይ ኡኬዝ ግሾስ Ꮊ ማጻፋይድ ጻፍንቴዝ ትንቢተ ቃላ ማታመር ጎርድፐ። <verse eid="REV 22:10"/><verse number="11" style="v" sid="REV 22:11"/>ኢታ ኦዛይ ጉጂ ኢታ ኦ፤ ቱናይካ ጉጂ ቱኖ። ጽላይክ ጉጂ ጽሎ፤ ጌዥዛይ ጉጂ ጌዦ» ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">22:11 </char><char style="xt" closed="false"><ref loc="DAN 12:10">ዳነ. 12:10</ref></char></note><verse eid="REV 22:11"/></para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 22:12"/>የሱሳ፥ «ዬዛኮ፥ ታኒ ኤልሲ የኦዳ። ፐታይስ ፐታይስ ኤ ኦሳይ ጋርክ እማድ ዎይታይ ታር የዛ።<note caller="-" style="x"><char style="xo" closed="false">22:12 </char><char style="xt" closed="false"><ref loc="ISA 40:10">ኢሳ. 40:10</ref>፤ <ref loc="ISA 62:11">62:11</ref>፤ <ref loc="PSA 28:4">ማዝ. 28:4</ref>፤ <ref loc="JER 17:10">ኤርም. 17:10</ref></char></note> <verse eid="REV 22:12"/><verse number="13" style="v" sid="REV 22:13"/>ታኒ አልፋኔ ኦመጋ፤ ቲናኔ ጉያ፤ ደንዶኔ ዉርስ።<note caller="-" style="x"><char style="xo" closed="false">22:13 </char><char style="xt" closed="false"><ref loc="REV 1:8">ዋን. ቆን. 1:8</ref>፥ <ref loc="REV 1:17">17</ref>፤ <ref loc="REV 2:8">2:8</ref>፤ <ref loc="ISA 44:6">ኢሳ. 44:6</ref>፤ <ref loc="ISA 48:12">48:12</ref></char></note><verse eid="REV 22:13"/></para>
+  <para style="p">
+    <verse number="14" style="v" sid="REV 22:14"/>«ፋ ማአ ሜጪ ጌሼዝታይ አንጅንቴዝታ። ደኦ ም ኣፋ ማዳይስኔ ካታምት ፐንግታይር ገሎዳይስ ኡንትስ ማዉተ እንግቴዛ።<note caller="-" style="x"><char style="xo" closed="false">22:14 </char><char style="xt" closed="false"><ref loc="GEN 2:9">መ. 2:9</ref>፤ <ref loc="GEN 3:22">3:22</ref></char></note> <verse eid="REV 22:14"/><verse number="15" style="v" sid="REV 22:15"/>ዝን ካንታይ፥ ብትዝታይ፥ ላግትዝታይ፥ ሸምፖ ዎዝታይ፥ ኤቃ ጎይንዝታይ፥ ዎርዶ ዶስዝታይኔ ኦዝታይ ባለር የዛ።<verse eid="REV 22:15"/></para>
+  <para style="p">
+    <verse number="16" style="v" sid="REV 22:16"/>«ታ፥ የሱሳ፥ Ꮊ ማርካት ይንትስ፥ ዎሳ ኬታይስ ኦዶዳይ ጋርክ ታ ኪታንቻ ኪቴዛ። ታኒ ዳዉተ ሼሽኔ ዘረ። ታኒ ፖእዛ ጉራ ባካላ ጾልንቶ» ዬጌዛ።<note caller="-" style="x"><char style="xo" closed="false">22:16 </char><char style="xt" closed="false"><ref loc="ISA 11:1">ኢሳ. 11:1</ref></char></note><verse eid="REV 22:16"/></para>
+  <para style="p">
+    <verse number="17" style="v" sid="REV 22:17"/>አያናይኔ ገሎዳይስ ጊጌዝ ማቻት፥ «Ꮊና የኦባ» ዬግዛ። ማ Ꮊያ ስእዝ ኦንካ፥ «Ꮊና የኦባ» ዬጎ። ሳምንቴዝ ኦንካ Ꮊና የኦ፤ ደኦ ሃ ኮይዝ ኦንካ ጭጋ ባይ ጨር ኤኪ ኡዦ።<note caller="-" style="x"><char style="xo" closed="false">22:17 </char><char style="xt" closed="false"><ref loc="ISA 55:1">ኢሳ. 55:1</ref></char></note><verse eid="REV 22:17"/></para>
+  <para style="p">
+    <verse number="18" style="v" sid="REV 22:18"/>ታኒ Ꮊ ማጻፋይድ ጻፍንቴዝ ትንቢተ ቃላ ስእዝ ኦናካ ናግንቶዳይ ጋርክ ማርካትዛ። ኦንካ Ꮊ ቃላይል አፋ ፐትባዝ ጉጅኮ፥ ጾ Ꮊ ማጻፋይድ ጻፍንቴዝ ቦሻ ኤዛል አፋ ጉጆዳ።<note caller="-" style="x"><char style="xo" closed="false">22:18-19 </char><char style="xt" closed="false"><ref loc="DEU 4:2">ናምእ. 4:2</ref>፤ <ref loc="DEU 12:32">12:32</ref></char></note> <verse eid="REV 22:18"/><verse number="19" style="v" sid="REV 22:19"/>ኦንካ ማጻፋይድ የዝ ትንቢተ ቃላይፕ ፐትባዝ ፓጭንችኮ፥ ጾ Ꮊ ማጻፋይድ ጻፍንቴዝ ደኦ ም ኣፈፐኔ ጌሽ ካታምትፕ ኤ አንጃ ፓጭንዳ።<verse eid="REV 22:19"/></para>
+  <para style="p">
+    <verse number="20" style="v" sid="REV 22:20"/>Ꮊ ኡባ ማርካትዛይ፥ «ቱማ፥ ታኒ ኤልሲ የኦዳ» ዬግዛ።</para>
+  <para style="p" vid="REV 22:20">አምንኤ፤ ጎዳ የሱሳ፥ የኦባ።<verse eid="REV 22:20"/></para>
+  <para style="p">
+    <verse number="21" style="v" sid="REV 22:21"/>ጎዳ የሱሳ ኣ ኬሃትይ ኑ ኡባይር ማቆ። አምንኤ።<verse eid="REV 22:21"/></para>
+  <chapter eid="REV 22"/>
+</usx>
