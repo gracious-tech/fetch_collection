@@ -1,25 +1,24 @@
 {
     "name": {
-        "local": "Ooratha Caaquwaa",
+        "local": "Geeshsha Mas'aafaa",
         "local_abbrev": "",
-        "english": "Dawro New Testament (Latin script)",
-        "english_abbrev": "DNT"
+        "english": "Dawuro Bible (Latin script)",
+        "english_abbrev": "DBL"
     },
-    "year": 2011,
+    "year": 2024,
     "direction": "ltr",
     "copyright": {
         "licenses": [
             {
-                "license": "cc-by-nd",
-                "url": "https://creativecommons.org/licenses/by-nd/4.0/"
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
             }
         ],
         "attribution": "The Word for the World International",
         "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=7c2039be44102b2b"
     },
     "ids": {
-        "dbl": "7c2039be44102b2b",
-        "ebible": "dwrNT"
+        "dbl": "7c2039be44102b2b"
     },
     "source": {
         "service": "dbl",

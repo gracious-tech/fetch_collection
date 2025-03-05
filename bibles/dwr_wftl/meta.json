@@ -3,7 +3,7 @@
         "local": "",
         "local_abbrev": "",
         "english": "Dawro New Testament (Latin script)",
-        "english_abbrev": "DNT"
+        "english_abbrev": "DNTL"
     },
     "year": 2011,
     "direction": "ltr",
@@ -18,7 +18,8 @@
         "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=e578524a0893c6b7"
     },
     "ids": {
-        "dbl": "e578524a0893c6b7"
+        "dbl": "e578524a0893c6b7",
+        "ebible": "dwrNT"
     },
     "source": {
         "service": "dbl",
