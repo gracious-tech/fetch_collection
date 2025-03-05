@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Alkitab Tambee",
+        "local_abbrev": "",
+        "english": "Alkitab Tambee Bible",
+        "english_abbrev": "MZQ"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=9fa574bf6f5dab47"
+    },
+    "ids": {
+        "dbl": "9fa574bf6f5dab47"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=9fa574bf6f5dab47&type=release",
+        "updated": "2025-02-12",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

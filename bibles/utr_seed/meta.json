@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Etulo",
+        "local_abbrev": "",
+        "english": "Etulo New Testament",
+        "english_abbrev": "ENT"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=107c0b030eea6ace"
+    },
+    "ids": {
+        "dbl": "107c0b030eea6ace"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=107c0b030eea6ace&type=release",
+        "updated": "2024-12-10",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

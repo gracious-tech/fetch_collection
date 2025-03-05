@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Akitab Padoe",
+        "local_abbrev": "AP",
+        "english": "Akitab Padoe Bible",
+        "english_abbrev": "APB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=cbb2fd1d5339d241"
+    },
+    "ids": {
+        "dbl": "cbb2fd1d5339d241"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=cbb2fd1d5339d241&type=release",
+        "updated": "2025-02-12",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

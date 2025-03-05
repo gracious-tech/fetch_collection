@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Kille Caaqo",
+        "local_abbrev": "KC",
+        "english": "Oyda New Testament Latin",
+        "english_abbrev": "ONTL"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=1468fe84d36e75bf"
+    },
+    "ids": {
+        "dbl": "1468fe84d36e75bf"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=1468fe84d36e75bf&type=release",
+        "updated": "2025-01-29",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}

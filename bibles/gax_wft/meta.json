@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "Kitaaba Woyyuu",
+        "local_abbrev": "KW",
+        "english": "Guji Oromo Bible",
+        "english_abbrev": "GUJ"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=ea01d11d8edb7f6a"
+    },
+    "ids": {
+        "dbl": "ea01d11d8edb7f6a"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=ea01d11d8edb7f6a&type=release",
+        "updated": "2025-01-10",
+        "revision": 1
+    },
+    "literalness": null,
+    "tags": []
+}
