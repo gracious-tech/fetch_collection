@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Dawro New Testament (Latin script)",
+        "english_abbrev": "DNT"
+    },
+    "year": 2011,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=e578524a0893c6b7"
+    },
+    "ids": {
+        "dbl": "e578524a0893c6b7"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=e578524a0893c6b7&type=release",
+        "updated": "2019-05-02",
+        "revision": 4
+    },
+    "literalness": null,
+    "tags": []
+}
