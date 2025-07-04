@@ -1,0 +1,29 @@
+{
+    "name": {
+        "english": "Tyndale Open Study Notes",
+        "english_abbrev": "TOSN",
+        "local": "",
+        "local_abbrev": ""
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "attribution": "Tyndale House Publishers",
+        "attribution_url": "https://tyndaleopenresources.com/",
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ]
+    },
+    "ids": {},
+    "source": {
+        "service": "manual",
+        "format": null,
+        "revision": 1.25,
+        "updated": "2025-07-04",
+        "url": "https://tyndaleopenresources.com/wp-content/themes/tyndale-openresources/files/tyndale_open-studynotes.zip"
+    },
+    "tags": []
+}
