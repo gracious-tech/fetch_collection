@@ -1,0 +1,5206 @@
+{
+  "id": 53,
+  "name": "2Th",
+  "chapters": [
+    {
+      "id": 1,
+      "verses": [
+        {
+          "id": "53001001",
+          "words": [
+            {
+              "id": "5300100101",
+              "text": "Παῦλος,",
+              "grammar": "N-NMS",
+              "lemma": "G3972"
+            },
+            {
+              "id": "5300100102",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300100103",
+              "text": "Σιλουανὸς,",
+              "grammar": "N-NMS",
+              "lemma": "G4610"
+            },
+            {
+              "id": "5300100104",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300100105",
+              "text": "Τιμόθεος,",
+              "grammar": "N-NMS",
+              "lemma": "G5095"
+            },
+            {
+              "id": "5300100106",
+              "text": "τῇ",
+              "grammar": "Art-DFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100107",
+              "text": "ἐκκλησίᾳ",
+              "grammar": "N-DFS",
+              "lemma": "G1577"
+            },
+            {
+              "id": "5300100108",
+              "text": "Θεσσαλονικέων,",
+              "grammar": "N-GMP",
+              "lemma": "G2331"
+            },
+            {
+              "id": "5300100109",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300100110",
+              "text": "Θεῷ",
+              "grammar": "N-DMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300100111",
+              "text": "Πατρὶ",
+              "grammar": "N-DMS",
+              "lemma": "G3962"
+            },
+            {
+              "id": "5300100112",
+              "text": "ἡμῶν,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300100113",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300100114",
+              "text": "Κυρίῳ",
+              "grammar": "N-DMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300100115",
+              "text": "Ἰησοῦ",
+              "grammar": "N-DMS",
+              "lemma": "G2424"
+            },
+            {
+              "id": "5300100116",
+              "text": "Χριστῷ.",
+              "grammar": "N-DMS",
+              "lemma": "G5547"
+            }
+          ]
+        },
+        {
+          "id": "53001002",
+          "words": [
+            {
+              "id": "5300100201",
+              "text": "χάρις",
+              "grammar": "N-NFS",
+              "lemma": "G5485"
+            },
+            {
+              "id": "5300100202",
+              "text": "ὑμῖν",
+              "grammar": "PPro-D2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300100203",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300100204",
+              "text": "εἰρήνη,",
+              "grammar": "N-NFS",
+              "lemma": "G1515"
+            },
+            {
+              "id": "5300100205",
+              "text": "ἀπὸ",
+              "grammar": "Prep",
+              "lemma": "G0575"
+            },
+            {
+              "id": "5300100206",
+              "text": "Θεοῦ",
+              "grammar": "N-GMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300100207",
+              "text": "Πατρὸς",
+              "grammar": "N-GMS",
+              "lemma": "G3962"
+            },
+            {
+              "id": "5300100208",
+              "text": "[ἡμῶν],",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300100209",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300100210",
+              "text": "Κυρίου",
+              "grammar": "N-GMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300100211",
+              "text": "Ἰησοῦ",
+              "grammar": "N-GMS",
+              "lemma": "G2424"
+            },
+            {
+              "id": "5300100212",
+              "text": "Χριστοῦ.",
+              "grammar": "N-GMS",
+              "lemma": "G5547"
+            }
+          ]
+        },
+        {
+          "id": "53001003",
+          "words": [
+            {
+              "id": "5300100301",
+              "text": "Εὐχαριστεῖν",
+              "grammar": "V-PNA",
+              "lemma": "G2168"
+            },
+            {
+              "id": "5300100302",
+              "text": "ὀφείλομεν",
+              "grammar": "V-PIA-1P",
+              "lemma": "G3784"
+            },
+            {
+              "id": "5300100303",
+              "text": "τῷ",
+              "grammar": "Art-DMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100304",
+              "text": "Θεῷ",
+              "grammar": "N-DMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300100305",
+              "text": "πάντοτε,",
+              "grammar": "Adv",
+              "lemma": "G3842"
+            },
+            {
+              "id": "5300100306",
+              "text": "περὶ",
+              "grammar": "Prep",
+              "lemma": "G4012"
+            },
+            {
+              "id": "5300100307",
+              "text": "ὑμῶν,",
+              "grammar": "PPro-G2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300100308",
+              "text": "ἀδελφοί,",
+              "grammar": "N-VMP",
+              "lemma": "G0080"
+            },
+            {
+              "id": "5300100309",
+              "text": "καθὼς",
+              "grammar": "Adv",
+              "lemma": "G2531"
+            },
+            {
+              "id": "5300100310",
+              "text": "ἄξιόν",
+              "grammar": "Adj-NNS",
+              "lemma": "G0514"
+            },
+            {
+              "id": "5300100311",
+              "text": "ἐστιν,",
+              "grammar": "V-PIA-3S",
+              "lemma": "G1510"
+            },
+            {
+              "id": "5300100312",
+              "text": "ὅτι",
+              "grammar": "Conj",
+              "lemma": "G3754"
+            },
+            {
+              "id": "5300100313",
+              "text": "ὑπεραυξάνει",
+              "grammar": "V-PIA-3S",
+              "lemma": "G5232"
+            },
+            {
+              "id": "5300100314",
+              "text": "ἡ",
+              "grammar": "Art-NFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100315",
+              "text": "πίστις",
+              "grammar": "N-NFS",
+              "lemma": "G4102"
+            },
+            {
+              "id": "5300100316",
+              "text": "ὑμῶν,",
+              "grammar": "PPro-G2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300100317",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300100318",
+              "text": "πλεονάζει",
+              "grammar": "V-PIA-3S",
+              "lemma": "G4121"
+            },
+            {
+              "id": "5300100319",
+              "text": "ἡ",
+              "grammar": "Art-NFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100320",
+              "text": "ἀγάπη",
+              "grammar": "N-NFS",
+              "lemma": "G0026"
+            },
+            {
+              "id": "5300100321",
+              "text": "ἑνὸς",
+              "grammar": "Adj-GMS",
+              "lemma": "G1520"
+            },
+            {
+              "id": "5300100322",
+              "text": "ἑκάστου",
+              "grammar": "Adj-GMS",
+              "lemma": "G1538"
+            },
+            {
+              "id": "5300100323",
+              "text": "πάντων,",
+              "grammar": "Adj-GMP",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300100324",
+              "text": "ὑμῶν",
+              "grammar": "PPro-G2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300100325",
+              "text": "εἰς",
+              "grammar": "Prep",
+              "lemma": "G1519"
+            },
+            {
+              "id": "5300100326",
+              "text": "ἀλλήλους;",
+              "grammar": "RecPro-AMP",
+              "lemma": "G0240"
+            }
+          ]
+        },
+        {
+          "id": "53001004",
+          "words": [
+            {
+              "id": "5300100401",
+              "text": "ὥστε",
+              "grammar": "Conj",
+              "lemma": "G5620"
+            },
+            {
+              "id": "5300100402",
+              "text": "αὐτοὺς,",
+              "grammar": "PPro-AM3P",
+              "lemma": "G0846"
+            },
+            {
+              "id": "5300100403",
+              "text": "ἡμᾶς",
+              "grammar": "PPro-A1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300100404",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300100405",
+              "text": "ὑμῖν",
+              "grammar": "PPro-D2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300100406",
+              "text": "ἐνκαυχᾶσθαι,",
+              "grammar": "V-PNM/P",
+              "lemma": "G2744"
+            },
+            {
+              "id": "5300100407",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300100408",
+              "text": "ταῖς",
+              "grammar": "Art-DFP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100409",
+              "text": "ἐκκλησίαις",
+              "grammar": "N-DFP",
+              "lemma": "G1577"
+            },
+            {
+              "id": "5300100410",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100411",
+              "text": "Θεοῦ,",
+              "grammar": "N-GMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300100412",
+              "text": "ὑπὲρ",
+              "grammar": "Prep",
+              "lemma": "G5228"
+            },
+            {
+              "id": "5300100413",
+              "text": "τῆς",
+              "grammar": "Art-GFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100414",
+              "text": "ὑπομονῆς",
+              "grammar": "N-GFS",
+              "lemma": "G5281"
+            },
+            {
+              "id": "5300100415",
+              "text": "ὑμῶν,",
+              "grammar": "PPro-G2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300100416",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300100417",
+              "text": "πίστεως",
+              "grammar": "N-GFS",
+              "lemma": "G4102"
+            },
+            {
+              "id": "5300100418",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300100419",
+              "text": "πᾶσιν",
+              "grammar": "Adj-DMP",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300100420",
+              "text": "τοῖς",
+              "grammar": "Art-DMP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100421",
+              "text": "διωγμοῖς",
+              "grammar": "N-DMP",
+              "lemma": "G1375"
+            },
+            {
+              "id": "5300100422",
+              "text": "ὑμῶν,",
+              "grammar": "PPro-G2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300100423",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300100424",
+              "text": "ταῖς",
+              "grammar": "Art-DFP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100425",
+              "text": "θλίψεσιν",
+              "grammar": "N-DFP",
+              "lemma": "G2347"
+            },
+            {
+              "id": "5300100426",
+              "text": "αἷς",
+              "grammar": "RelPro-DFP",
+              "lemma": "G3739"
+            },
+            {
+              "id": "5300100427",
+              "text": "ἀνέχεσθε;",
+              "grammar": "V-PIM/P-2P",
+              "lemma": "G0430"
+            }
+          ]
+        },
+        {
+          "id": "53001005",
+          "words": [
+            {
+              "id": "5300100501",
+              "text": "ἔνδειγμα",
+              "grammar": "N-NNS",
+              "lemma": "G1730"
+            },
+            {
+              "id": "5300100502",
+              "text": "τῆς",
+              "grammar": "Art-GFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100503",
+              "text": "δικαίας",
+              "grammar": "Adj-GFS",
+              "lemma": "G1342"
+            },
+            {
+              "id": "5300100504",
+              "text": "κρίσεως",
+              "grammar": "N-GFS",
+              "lemma": "G2920"
+            },
+            {
+              "id": "5300100505",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100506",
+              "text": "Θεοῦ",
+              "grammar": "N-GMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300100507",
+              "text": "εἰς",
+              "grammar": "Prep",
+              "lemma": "G1519"
+            },
+            {
+              "id": "5300100508",
+              "text": "τὸ",
+              "grammar": "Art-ANS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100509",
+              "text": "καταξιωθῆναι",
+              "grammar": "V-ANP",
+              "lemma": "G2661"
+            },
+            {
+              "id": "5300100510",
+              "text": "ὑμᾶς",
+              "grammar": "PPro-A2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300100511",
+              "text": "τῆς",
+              "grammar": "Art-GFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100512",
+              "text": "βασιλείας",
+              "grammar": "N-GFS",
+              "lemma": "G0932"
+            },
+            {
+              "id": "5300100513",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100514",
+              "text": "Θεοῦ,",
+              "grammar": "N-GMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300100515",
+              "text": "ὑπὲρ",
+              "grammar": "Prep",
+              "lemma": "G5228"
+            },
+            {
+              "id": "5300100516",
+              "text": "ἧς",
+              "grammar": "RelPro-GFS",
+              "lemma": "G3739"
+            },
+            {
+              "id": "5300100517",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300100518",
+              "text": "πάσχετε;",
+              "grammar": "V-PIA-2P",
+              "lemma": "G3958"
+            }
+          ]
+        },
+        {
+          "id": "53001006",
+          "words": [
+            {
+              "id": "5300100601",
+              "text": "εἴπερ",
+              "grammar": "Conj",
+              "lemma": "G1512"
+            },
+            {
+              "id": "5300100602",
+              "text": "δίκαιον",
+              "grammar": "Adj-NNS",
+              "lemma": "G1342"
+            },
+            {
+              "id": "5300100603",
+              "text": "παρὰ",
+              "grammar": "Prep",
+              "lemma": "G3844"
+            },
+            {
+              "id": "5300100604",
+              "text": "Θεῷ,",
+              "grammar": "N-DMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300100605",
+              "text": "ἀνταποδοῦναι",
+              "grammar": "V-ANA",
+              "lemma": "G0467"
+            },
+            {
+              "id": "5300100606",
+              "text": "τοῖς",
+              "grammar": "Art-DMP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100607",
+              "text": "θλίβουσιν",
+              "grammar": "V-PPA-DMP",
+              "lemma": "G2346"
+            },
+            {
+              "id": "5300100608",
+              "text": "ὑμᾶς,",
+              "grammar": "PPro-A2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300100609",
+              "text": "θλῖψιν,",
+              "grammar": "N-AFS",
+              "lemma": "G2347"
+            }
+          ]
+        },
+        {
+          "id": "53001007",
+          "words": [
+            {
+              "id": "5300100701",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300100702",
+              "text": "ὑμῖν",
+              "grammar": "PPro-D2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300100703",
+              "text": "τοῖς",
+              "grammar": "Art-DMP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100704",
+              "text": "θλιβομένοις,",
+              "grammar": "V-PPM/P-DMP",
+              "lemma": "G2346"
+            },
+            {
+              "id": "5300100705",
+              "text": "ἄνεσιν",
+              "grammar": "N-AFS",
+              "lemma": "G0425"
+            },
+            {
+              "id": "5300100706",
+              "text": "μεθ’",
+              "grammar": "Prep",
+              "lemma": "G3326"
+            },
+            {
+              "id": "5300100707",
+              "text": "ἡμῶν,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300100708",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300100709",
+              "text": "τῇ",
+              "grammar": "Art-DFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100710",
+              "text": "ἀποκαλύψει",
+              "grammar": "N-DFS",
+              "lemma": "G0602"
+            },
+            {
+              "id": "5300100711",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100712",
+              "text": "Κυρίου",
+              "grammar": "N-GMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300100713",
+              "text": "Ἰησοῦ",
+              "grammar": "N-GMS",
+              "lemma": "G2424"
+            },
+            {
+              "id": "5300100714",
+              "text": "ἀπ’",
+              "grammar": "Prep",
+              "lemma": "G0575"
+            },
+            {
+              "id": "5300100715",
+              "text": "οὐρανοῦ,",
+              "grammar": "N-GMS",
+              "lemma": "G3772"
+            },
+            {
+              "id": "5300100716",
+              "text": "μετ’",
+              "grammar": "Prep",
+              "lemma": "G3326"
+            },
+            {
+              "id": "5300100717",
+              "text": "ἀγγέλων",
+              "grammar": "N-GMP",
+              "lemma": "G0032"
+            },
+            {
+              "id": "5300100718",
+              "text": "δυνάμεως",
+              "grammar": "N-GFS",
+              "lemma": "G1411"
+            },
+            {
+              "id": "5300100719",
+              "text": "αὐτοῦ,",
+              "grammar": "PPro-GM3S",
+              "lemma": "G0846"
+            }
+          ]
+        },
+        {
+          "id": "53001008",
+          "words": [
+            {
+              "id": "5300100801",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300100802",
+              "text": "πυρὶ⇔",
+              "grammar": "N-DNS",
+              "lemma": "G4442"
+            },
+            {
+              "id": "5300100803",
+              "text": "φλογός,",
+              "grammar": "N-GFS",
+              "lemma": "G5395"
+            },
+            {
+              "id": "5300100804",
+              "text": "διδόντος",
+              "grammar": "V-PPA-GMS",
+              "lemma": "G1325"
+            },
+            {
+              "id": "5300100805",
+              "text": "ἐκδίκησιν",
+              "grammar": "N-AFS",
+              "lemma": "G1557"
+            },
+            {
+              "id": "5300100806",
+              "text": "τοῖς",
+              "grammar": "Art-DMP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100807",
+              "text": "μὴ",
+              "grammar": "Adv",
+              "lemma": "G3361"
+            },
+            {
+              "id": "5300100808",
+              "text": "εἰδόσιν",
+              "grammar": "V-RPA-DMP",
+              "lemma": "G1492"
+            },
+            {
+              "id": "5300100809",
+              "text": "Θεὸν,",
+              "grammar": "N-AMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300100810",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300100811",
+              "text": "τοῖς",
+              "grammar": "Art-DMP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100812",
+              "text": "μὴ",
+              "grammar": "Adv",
+              "lemma": "G3361"
+            },
+            {
+              "id": "5300100813",
+              "text": "ὑπακούουσιν",
+              "grammar": "V-PPA-DMP",
+              "lemma": "G5219"
+            },
+            {
+              "id": "5300100814",
+              "text": "τῷ",
+              "grammar": "Art-DNS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100815",
+              "text": "εὐαγγελίῳ",
+              "grammar": "N-DNS",
+              "lemma": "G2098"
+            },
+            {
+              "id": "5300100816",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100817",
+              "text": "Κυρίου",
+              "grammar": "N-GMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300100818",
+              "text": "ἡμῶν,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300100819",
+              "text": "Ἰησοῦ;",
+              "grammar": "N-GMS",
+              "lemma": "G2424"
+            }
+          ]
+        },
+        {
+          "id": "53001009",
+          "words": [
+            {
+              "id": "5300100901",
+              "text": "οἵτινες",
+              "grammar": "RelPro-NMP",
+              "lemma": "G3748"
+            },
+            {
+              "id": "5300100902",
+              "text": "δίκην",
+              "grammar": "N-AFS",
+              "lemma": "G1349"
+            },
+            {
+              "id": "5300100903",
+              "text": "τίσουσιν,",
+              "grammar": "V-FIA-3P",
+              "lemma": "G5099"
+            },
+            {
+              "id": "5300100904",
+              "text": "ὄλεθρον",
+              "grammar": "N-AMS",
+              "lemma": "G3639"
+            },
+            {
+              "id": "5300100905",
+              "text": "αἰώνιον,",
+              "grammar": "Adj-AMS",
+              "lemma": "G0166"
+            },
+            {
+              "id": "5300100906",
+              "text": "ἀπὸ",
+              "grammar": "Prep",
+              "lemma": "G0575"
+            },
+            {
+              "id": "5300100907",
+              "text": "προσώπου",
+              "grammar": "N-GNS",
+              "lemma": "G4383"
+            },
+            {
+              "id": "5300100908",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100909",
+              "text": "Κυρίου,",
+              "grammar": "N-GMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300100910",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300100911",
+              "text": "ἀπὸ",
+              "grammar": "Prep",
+              "lemma": "G0575"
+            },
+            {
+              "id": "5300100912",
+              "text": "τῆς",
+              "grammar": "Art-GFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100913",
+              "text": "δόξης",
+              "grammar": "N-GFS",
+              "lemma": "G1391"
+            },
+            {
+              "id": "5300100914",
+              "text": "τῆς",
+              "grammar": "Art-GFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300100915",
+              "text": "ἰσχύος",
+              "grammar": "N-GFS",
+              "lemma": "G2479"
+            },
+            {
+              "id": "5300100916",
+              "text": "αὐτοῦ;",
+              "grammar": "PPro-GM3S",
+              "lemma": "G0846"
+            }
+          ]
+        },
+        {
+          "id": "53001010",
+          "words": [
+            {
+              "id": "5300101001",
+              "text": "ὅταν",
+              "grammar": "Conj",
+              "lemma": "G3752"
+            },
+            {
+              "id": "5300101002",
+              "text": "ἔλθῃ",
+              "grammar": "V-ASA-3S",
+              "lemma": "G2064"
+            },
+            {
+              "id": "5300101003",
+              "text": "ἐνδοξασθῆναι",
+              "grammar": "V-ANP",
+              "lemma": "G1740"
+            },
+            {
+              "id": "5300101004",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300101005",
+              "text": "τοῖς",
+              "grammar": "Art-DMP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300101006",
+              "text": "ἁγίοις",
+              "grammar": "Adj-DMP",
+              "lemma": "G0040"
+            },
+            {
+              "id": "5300101007",
+              "text": "αὐτοῦ,",
+              "grammar": "PPro-GM3S",
+              "lemma": "G0846"
+            },
+            {
+              "id": "5300101008",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300101009",
+              "text": "θαυμασθῆναι",
+              "grammar": "V-ANP",
+              "lemma": "G2296"
+            },
+            {
+              "id": "5300101010",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300101011",
+              "text": "πᾶσιν",
+              "grammar": "Adj-DMP",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300101012",
+              "text": "τοῖς",
+              "grammar": "Art-DMP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300101013",
+              "text": "πιστεύσασιν,",
+              "grammar": "V-APA-DMP",
+              "lemma": "G4100"
+            },
+            {
+              "id": "5300101014",
+              "text": "ὅτι",
+              "grammar": "Conj",
+              "lemma": "G3754"
+            },
+            {
+              "id": "5300101015",
+              "text": "ἐπιστεύθη",
+              "grammar": "V-AIP-3S",
+              "lemma": "G4100"
+            },
+            {
+              "id": "5300101016",
+              "text": "τὸ",
+              "grammar": "Art-NNS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300101017",
+              "text": "μαρτύριον",
+              "grammar": "N-NNS",
+              "lemma": "G3142"
+            },
+            {
+              "id": "5300101018",
+              "text": "ἡμῶν",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300101019",
+              "text": "ἐφ’",
+              "grammar": "Prep",
+              "lemma": "G1909"
+            },
+            {
+              "id": "5300101020",
+              "text": "ὑμᾶς,",
+              "grammar": "PPro-A2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300101021",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300101022",
+              "text": "τῇ",
+              "grammar": "Art-DFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300101023",
+              "text": "ἡμέρᾳ",
+              "grammar": "N-DFS",
+              "lemma": "G2250"
+            },
+            {
+              "id": "5300101024",
+              "text": "ἐκείνῃ.",
+              "grammar": "DPro-DFS",
+              "lemma": "G1565"
+            }
+          ]
+        },
+        {
+          "id": "53001011",
+          "words": [
+            {
+              "id": "5300101101",
+              "text": "Εἰς",
+              "grammar": "Prep",
+              "lemma": "G1519"
+            },
+            {
+              "id": "5300101102",
+              "text": "ὃ",
+              "grammar": "RelPro-ANS",
+              "lemma": "G3739"
+            },
+            {
+              "id": "5300101103",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300101104",
+              "text": "προσευχόμεθα",
+              "grammar": "V-PIM/P-1P",
+              "lemma": "G4336"
+            },
+            {
+              "id": "5300101105",
+              "text": "πάντοτε",
+              "grammar": "Adv",
+              "lemma": "G3842"
+            },
+            {
+              "id": "5300101106",
+              "text": "περὶ",
+              "grammar": "Prep",
+              "lemma": "G4012"
+            },
+            {
+              "id": "5300101107",
+              "text": "ὑμῶν,",
+              "grammar": "PPro-G2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300101108",
+              "text": "ἵνα",
+              "grammar": "Conj",
+              "lemma": "G2443"
+            },
+            {
+              "id": "5300101109",
+              "text": "ὑμᾶς",
+              "grammar": "PPro-A2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300101110",
+              "text": "ἀξιώσῃ",
+              "grammar": "V-ASA-3S",
+              "lemma": "G0515"
+            },
+            {
+              "id": "5300101111",
+              "text": "τῆς",
+              "grammar": "Art-GFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300101112",
+              "text": "κλήσεως",
+              "grammar": "N-GFS",
+              "lemma": "G2821"
+            },
+            {
+              "id": "5300101113",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300101114",
+              "text": "Θεὸς",
+              "grammar": "N-NMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300101115",
+              "text": "ἡμῶν,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300101116",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300101117",
+              "text": "πληρώσῃ",
+              "grammar": "V-ASA-3S",
+              "lemma": "G4137"
+            },
+            {
+              "id": "5300101118",
+              "text": "πᾶσαν",
+              "grammar": "Adj-AFS",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300101119",
+              "text": "εὐδοκίαν",
+              "grammar": "N-AFS",
+              "lemma": "G2107"
+            },
+            {
+              "id": "5300101120",
+              "text": "ἀγαθωσύνης,",
+              "grammar": "N-GFS",
+              "lemma": "G0019"
+            },
+            {
+              "id": "5300101121",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300101122",
+              "text": "ἔργον",
+              "grammar": "N-ANS",
+              "lemma": "G2041"
+            },
+            {
+              "id": "5300101123",
+              "text": "πίστεως",
+              "grammar": "N-GFS",
+              "lemma": "G4102"
+            },
+            {
+              "id": "5300101124",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300101125",
+              "text": "δυνάμει,",
+              "grammar": "N-DFS",
+              "lemma": "G1411"
+            }
+          ]
+        },
+        {
+          "id": "53001012",
+          "words": [
+            {
+              "id": "5300101201",
+              "text": "ὅπως",
+              "grammar": "Conj",
+              "lemma": "G3704"
+            },
+            {
+              "id": "5300101202",
+              "text": "ἐνδοξασθῇ",
+              "grammar": "V-ASP-3S",
+              "lemma": "G1740"
+            },
+            {
+              "id": "5300101203",
+              "text": "τὸ",
+              "grammar": "Art-NNS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300101204",
+              "text": "ὄνομα",
+              "grammar": "N-NNS",
+              "lemma": "G3686"
+            },
+            {
+              "id": "5300101205",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300101206",
+              "text": "Κυρίου",
+              "grammar": "N-GMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300101207",
+              "text": "ἡμῶν,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300101208",
+              "text": "Ἰησοῦ,",
+              "grammar": "N-GMS",
+              "lemma": "G2424"
+            },
+            {
+              "id": "5300101209",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300101210",
+              "text": "ὑμῖν,",
+              "grammar": "PPro-D2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300101211",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300101212",
+              "text": "ὑμεῖς",
+              "grammar": "PPro-N2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300101213",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300101214",
+              "text": "αὐτῷ,",
+              "grammar": "PPro-DM3S",
+              "lemma": "G0846"
+            },
+            {
+              "id": "5300101215",
+              "text": "κατὰ",
+              "grammar": "Prep",
+              "lemma": "G2596"
+            },
+            {
+              "id": "5300101216",
+              "text": "τὴν",
+              "grammar": "Art-AFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300101217",
+              "text": "χάριν",
+              "grammar": "N-AFS",
+              "lemma": "G5485"
+            },
+            {
+              "id": "5300101218",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300101219",
+              "text": "Θεοῦ",
+              "grammar": "N-GMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300101220",
+              "text": "ἡμῶν,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300101221",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300101222",
+              "text": "Κυρίου",
+              "grammar": "N-GMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300101223",
+              "text": "Ἰησοῦ",
+              "grammar": "N-GMS",
+              "lemma": "G2424"
+            },
+            {
+              "id": "5300101224",
+              "text": "Χριστοῦ.",
+              "grammar": "N-GMS",
+              "lemma": "G5547"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "verses": [
+        {
+          "id": "53002001",
+          "words": [
+            {
+              "id": "5300200101",
+              "text": "Ἐρωτῶμεν",
+              "grammar": "V-PIA-1P",
+              "lemma": "G2065"
+            },
+            {
+              "id": "5300200102",
+              "text": "δὲ",
+              "grammar": "Conj",
+              "lemma": "G1161"
+            },
+            {
+              "id": "5300200103",
+              "text": "ὑμᾶς,",
+              "grammar": "PPro-A2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300200104",
+              "text": "ἀδελφοί,",
+              "grammar": "N-VMP",
+              "lemma": "G0080"
+            },
+            {
+              "id": "5300200105",
+              "text": "ὑπὲρ",
+              "grammar": "Prep",
+              "lemma": "G5228"
+            },
+            {
+              "id": "5300200106",
+              "text": "τῆς",
+              "grammar": "Art-GFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200107",
+              "text": "παρουσίας",
+              "grammar": "N-GFS",
+              "lemma": "G3952"
+            },
+            {
+              "id": "5300200108",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200109",
+              "text": "Κυρίου",
+              "grammar": "N-GMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300200110",
+              "text": "ἡμῶν,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300200111",
+              "text": "Ἰησοῦ",
+              "grammar": "N-GMS",
+              "lemma": "G2424"
+            },
+            {
+              "id": "5300200112",
+              "text": "Χριστοῦ,",
+              "grammar": "N-GMS",
+              "lemma": "G5547"
+            },
+            {
+              "id": "5300200113",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300200114",
+              "text": "ἡμῶν",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300200115",
+              "text": "ἐπισυναγωγῆς",
+              "grammar": "N-GFS",
+              "lemma": "G1997"
+            },
+            {
+              "id": "5300200116",
+              "text": "ἐπ’",
+              "grammar": "Prep",
+              "lemma": "G1909"
+            },
+            {
+              "id": "5300200117",
+              "text": "αὐτόν,",
+              "grammar": "PPro-AM3S",
+              "lemma": "G0846"
+            }
+          ]
+        },
+        {
+          "id": "53002002",
+          "words": [
+            {
+              "id": "5300200201",
+              "text": "εἰς",
+              "grammar": "Prep",
+              "lemma": "G1519"
+            },
+            {
+              "id": "5300200202",
+              "text": "τὸ",
+              "grammar": "Art-ANS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200203",
+              "text": "μὴ",
+              "grammar": "Adv",
+              "lemma": "G3361"
+            },
+            {
+              "id": "5300200204",
+              "text": "ταχέως",
+              "grammar": "Adv",
+              "lemma": "G5030"
+            },
+            {
+              "id": "5300200205",
+              "text": "σαλευθῆναι",
+              "grammar": "V-ANP",
+              "lemma": "G4531"
+            },
+            {
+              "id": "5300200206",
+              "text": "ὑμᾶς",
+              "grammar": "PPro-A2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300200207",
+              "text": "ἀπὸ",
+              "grammar": "Prep",
+              "lemma": "G0575"
+            },
+            {
+              "id": "5300200208",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200209",
+              "text": "νοὸς,",
+              "grammar": "N-GMS",
+              "lemma": "G3563"
+            },
+            {
+              "id": "5300200210",
+              "text": "μηδὲ",
+              "grammar": "Conj",
+              "lemma": "G3366"
+            },
+            {
+              "id": "5300200211",
+              "text": "θροεῖσθαι,",
+              "grammar": "V-PNM/P",
+              "lemma": "G2360"
+            },
+            {
+              "id": "5300200212",
+              "text": "μήτε",
+              "grammar": "Conj",
+              "lemma": "G3383"
+            },
+            {
+              "id": "5300200213",
+              "text": "διὰ",
+              "grammar": "Prep",
+              "lemma": "G1223"
+            },
+            {
+              "id": "5300200214",
+              "text": "πνεύματος,",
+              "grammar": "N-GNS",
+              "lemma": "G4151"
+            },
+            {
+              "id": "5300200215",
+              "text": "μήτε",
+              "grammar": "Conj",
+              "lemma": "G3383"
+            },
+            {
+              "id": "5300200216",
+              "text": "διὰ",
+              "grammar": "Prep",
+              "lemma": "G1223"
+            },
+            {
+              "id": "5300200217",
+              "text": "λόγου,",
+              "grammar": "N-GMS",
+              "lemma": "G3056"
+            },
+            {
+              "id": "5300200218",
+              "text": "μήτε",
+              "grammar": "Conj",
+              "lemma": "G3383"
+            },
+            {
+              "id": "5300200219",
+              "text": "δι’",
+              "grammar": "Prep",
+              "lemma": "G1223"
+            },
+            {
+              "id": "5300200220",
+              "text": "ἐπιστολῆς,",
+              "grammar": "N-GFS",
+              "lemma": "G1992"
+            },
+            {
+              "id": "5300200221",
+              "text": "ὡς",
+              "grammar": "Adv",
+              "lemma": "G5613"
+            },
+            {
+              "id": "5300200222",
+              "text": "δι’",
+              "grammar": "Prep",
+              "lemma": "G1223"
+            },
+            {
+              "id": "5300200223",
+              "text": "ἡμῶν,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300200224",
+              "text": "ὡς",
+              "grammar": "Adv",
+              "lemma": "G5613"
+            },
+            {
+              "id": "5300200225",
+              "text": "ὅτι",
+              "grammar": "Conj",
+              "lemma": "G3754"
+            },
+            {
+              "id": "5300200226",
+              "text": "ἐνέστηκεν",
+              "grammar": "V-RIA-3S",
+              "lemma": "G1764"
+            },
+            {
+              "id": "5300200227",
+              "text": "ἡ",
+              "grammar": "Art-NFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200228",
+              "text": "ἡμέρα",
+              "grammar": "N-NFS",
+              "lemma": "G2250"
+            },
+            {
+              "id": "5300200229",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200230",
+              "text": "Κυρίου.",
+              "grammar": "N-GMS",
+              "lemma": "G2962"
+            }
+          ]
+        },
+        {
+          "id": "53002003",
+          "words": [
+            {
+              "id": "5300200301",
+              "text": "μή",
+              "grammar": "Adv",
+              "lemma": "G3361"
+            },
+            {
+              "id": "5300200302",
+              "text": "τις",
+              "grammar": "IPro-NMS",
+              "lemma": "G5100"
+            },
+            {
+              "id": "5300200303",
+              "text": "ὑμᾶς",
+              "grammar": "PPro-A2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300200304",
+              "text": "ἐξαπατήσῃ",
+              "grammar": "V-ASA-3S",
+              "lemma": "G1818"
+            },
+            {
+              "id": "5300200305",
+              "text": "κατὰ",
+              "grammar": "Prep",
+              "lemma": "G2596"
+            },
+            {
+              "id": "5300200306",
+              "text": "μηδένα",
+              "grammar": "Adj-AMS",
+              "lemma": "G3367"
+            },
+            {
+              "id": "5300200307",
+              "text": "τρόπον,",
+              "grammar": "N-AMS",
+              "lemma": "G5158"
+            },
+            {
+              "id": "5300200308",
+              "text": "ὅτι",
+              "grammar": "Conj",
+              "lemma": "G3754"
+            },
+            {
+              "id": "5300200309",
+              "text": "ἐὰν",
+              "grammar": "Conj",
+              "lemma": "G1437"
+            },
+            {
+              "id": "5300200310",
+              "text": "μὴ",
+              "grammar": "Adv",
+              "lemma": "G3361"
+            },
+            {
+              "id": "5300200311",
+              "text": "ἔλθῃ",
+              "grammar": "V-ASA-3S",
+              "lemma": "G2064"
+            },
+            {
+              "id": "5300200312",
+              "text": "ἡ",
+              "grammar": "Art-NFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200313",
+              "text": "ἀποστασία",
+              "grammar": "N-NFS",
+              "lemma": "G0646"
+            },
+            {
+              "id": "5300200314",
+              "text": "πρῶτον,",
+              "grammar": "Adv-S",
+              "lemma": "G4412"
+            },
+            {
+              "id": "5300200315",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300200316",
+              "text": "ἀποκαλυφθῇ",
+              "grammar": "V-ASP-3S",
+              "lemma": "G0601"
+            },
+            {
+              "id": "5300200317",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200318",
+              "text": "ἄνθρωπος",
+              "grammar": "N-NMS",
+              "lemma": "G0444"
+            },
+            {
+              "id": "5300200319",
+              "text": "τῆς",
+              "grammar": "Art-GFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200320",
+              "text": "ἀνομίας,",
+              "grammar": "N-GFS",
+              "lemma": "G0458"
+            },
+            {
+              "id": "5300200321",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200322",
+              "text": "υἱὸς",
+              "grammar": "N-NMS",
+              "lemma": "G5207"
+            },
+            {
+              "id": "5300200323",
+              "text": "τῆς",
+              "grammar": "Art-GFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200324",
+              "text": "ἀπωλείας;",
+              "grammar": "N-GFS",
+              "lemma": "G0684"
+            }
+          ]
+        },
+        {
+          "id": "53002004",
+          "words": [
+            {
+              "id": "5300200401",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200402",
+              "text": "ἀντικείμενος",
+              "grammar": "V-PPM/P-NMS",
+              "lemma": "G0480"
+            },
+            {
+              "id": "5300200403",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300200404",
+              "text": "ὑπεραιρόμενος",
+              "grammar": "V-PPM/P-NMS",
+              "lemma": "G5229"
+            },
+            {
+              "id": "5300200405",
+              "text": "ἐπὶ",
+              "grammar": "Prep",
+              "lemma": "G1909"
+            },
+            {
+              "id": "5300200406",
+              "text": "πάντα",
+              "grammar": "Adj-AMS",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300200407",
+              "text": "λεγόμενον",
+              "grammar": "V-PPM/P-AMS",
+              "lemma": "G3004"
+            },
+            {
+              "id": "5300200408",
+              "text": "Θεὸν",
+              "grammar": "N-AMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300200409",
+              "text": "ἢ",
+              "grammar": "Conj",
+              "lemma": "G2228"
+            },
+            {
+              "id": "5300200410",
+              "text": "σέβασμα,",
+              "grammar": "N-ANS",
+              "lemma": "G4574"
+            },
+            {
+              "id": "5300200411",
+              "text": "ὥστε",
+              "grammar": "Conj",
+              "lemma": "G5620"
+            },
+            {
+              "id": "5300200412",
+              "text": "αὐτὸν",
+              "grammar": "PPro-AM3S",
+              "lemma": "G0846"
+            },
+            {
+              "id": "5300200413",
+              "text": "εἰς",
+              "grammar": "Prep",
+              "lemma": "G1519"
+            },
+            {
+              "id": "5300200414",
+              "text": "τὸν",
+              "grammar": "Art-AMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200415",
+              "text": "ναὸν",
+              "grammar": "N-AMS",
+              "lemma": "G3485"
+            },
+            {
+              "id": "5300200416",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200417",
+              "text": "Θεοῦ",
+              "grammar": "N-GMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300200418",
+              "text": "καθίσαι,",
+              "grammar": "V-ANA",
+              "lemma": "G2523"
+            },
+            {
+              "id": "5300200419",
+              "text": "ἀποδεικνύντα",
+              "grammar": "V-PPA-AMS",
+              "lemma": "G0584"
+            },
+            {
+              "id": "5300200420",
+              "text": "ἑαυτὸν",
+              "grammar": "RefPro-AM3S",
+              "lemma": "G1438"
+            },
+            {
+              "id": "5300200421",
+              "text": "ὅτι",
+              "grammar": "Conj",
+              "lemma": "G3754"
+            },
+            {
+              "id": "5300200422",
+              "text": "ἔστιν",
+              "grammar": "V-PIA-3S",
+              "lemma": "G1510"
+            },
+            {
+              "id": "5300200423",
+              "text": "Θεός.",
+              "grammar": "N-NMS",
+              "lemma": "G2316"
+            }
+          ]
+        },
+        {
+          "id": "53002005",
+          "words": [
+            {
+              "id": "5300200501",
+              "text": "Οὐ",
+              "grammar": "Adv",
+              "lemma": "G3756"
+            },
+            {
+              "id": "5300200502",
+              "text": "μνημονεύετε",
+              "grammar": "V-PIA-2P",
+              "lemma": "G3421"
+            },
+            {
+              "id": "5300200503",
+              "text": "ὅτι,",
+              "grammar": "Conj",
+              "lemma": "G3754"
+            },
+            {
+              "id": "5300200504",
+              "text": "ἔτι",
+              "grammar": "Adv",
+              "lemma": "G2089"
+            },
+            {
+              "id": "5300200505",
+              "text": "ὢν",
+              "grammar": "V-PPA-NMS",
+              "lemma": "G1510"
+            },
+            {
+              "id": "5300200506",
+              "text": "πρὸς",
+              "grammar": "Prep",
+              "lemma": "G4314"
+            },
+            {
+              "id": "5300200507",
+              "text": "ὑμᾶς,",
+              "grammar": "PPro-A2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300200508",
+              "text": "ταῦτα",
+              "grammar": "DPro-ANP",
+              "lemma": "G3778"
+            },
+            {
+              "id": "5300200509",
+              "text": "ἔλεγον",
+              "grammar": "V-IIA-1S",
+              "lemma": "G3004"
+            },
+            {
+              "id": "5300200510",
+              "text": "ὑμῖν?",
+              "grammar": "PPro-D2P",
+              "lemma": "G4771"
+            }
+          ]
+        },
+        {
+          "id": "53002006",
+          "words": [
+            {
+              "id": "5300200601",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300200602",
+              "text": "νῦν",
+              "grammar": "Adv",
+              "lemma": "G3568"
+            },
+            {
+              "id": "5300200603",
+              "text": "τὸ",
+              "grammar": "Art-ANS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200604",
+              "text": "κατέχον,",
+              "grammar": "V-PPA-ANS",
+              "lemma": "G2722"
+            },
+            {
+              "id": "5300200605",
+              "text": "οἴδατε,",
+              "grammar": "V-RIA-2P",
+              "lemma": "G1492"
+            },
+            {
+              "id": "5300200606",
+              "text": "εἰς",
+              "grammar": "Prep",
+              "lemma": "G1519"
+            },
+            {
+              "id": "5300200607",
+              "text": "τὸ",
+              "grammar": "Art-ANS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200608",
+              "text": "ἀποκαλυφθῆναι",
+              "grammar": "V-ANP",
+              "lemma": "G0601"
+            },
+            {
+              "id": "5300200609",
+              "text": "αὐτὸν",
+              "grammar": "PPro-AM3S",
+              "lemma": "G0846"
+            },
+            {
+              "id": "5300200610",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300200611",
+              "text": "τῷ",
+              "grammar": "Art-DMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200612",
+              "text": "ἑαυτοῦ",
+              "grammar": "RefPro-GM3S",
+              "lemma": "G1438"
+            },
+            {
+              "id": "5300200613",
+              "text": "καιρῷ.",
+              "grammar": "N-DMS",
+              "lemma": "G2540"
+            }
+          ]
+        },
+        {
+          "id": "53002007",
+          "words": [
+            {
+              "id": "5300200701",
+              "text": "τὸ",
+              "grammar": "Art-NNS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200702",
+              "text": "γὰρ",
+              "grammar": "Conj",
+              "lemma": "G1063"
+            },
+            {
+              "id": "5300200703",
+              "text": "μυστήριον,",
+              "grammar": "N-NNS",
+              "lemma": "G3466"
+            },
+            {
+              "id": "5300200704",
+              "text": "ἤδη",
+              "grammar": "Adv",
+              "lemma": "G2235"
+            },
+            {
+              "id": "5300200705",
+              "text": "ἐνεργεῖται,",
+              "grammar": "V-PIM-3S",
+              "lemma": "G1754"
+            },
+            {
+              "id": "5300200706",
+              "text": "τῆς",
+              "grammar": "Art-GFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200707",
+              "text": "ἀνομίας;",
+              "grammar": "N-GFS",
+              "lemma": "G0458"
+            },
+            {
+              "id": "5300200708",
+              "text": "μόνον",
+              "grammar": "Adv",
+              "lemma": "G3440"
+            },
+            {
+              "id": "5300200709",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200710",
+              "text": "κατέχων",
+              "grammar": "V-PPA-NMS",
+              "lemma": "G2722"
+            },
+            {
+              "id": "5300200711",
+              "text": "ἄρτι",
+              "grammar": "Adv",
+              "lemma": "G0737"
+            },
+            {
+              "id": "5300200712",
+              "text": "ἕως",
+              "grammar": "Conj",
+              "lemma": "G2193"
+            },
+            {
+              "id": "5300200713",
+              "text": "ἐκ",
+              "grammar": "Prep",
+              "lemma": "G1537"
+            },
+            {
+              "id": "5300200714",
+              "text": "μέσου",
+              "grammar": "Adj-GNS",
+              "lemma": "G3319"
+            },
+            {
+              "id": "5300200715",
+              "text": "γένηται.",
+              "grammar": "V-ASM-3S",
+              "lemma": "G1096"
+            }
+          ]
+        },
+        {
+          "id": "53002008",
+          "words": [
+            {
+              "id": "5300200801",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300200802",
+              "text": "τότε",
+              "grammar": "Adv",
+              "lemma": "G5119"
+            },
+            {
+              "id": "5300200803",
+              "text": "ἀποκαλυφθήσεται",
+              "grammar": "V-FIP-3S",
+              "lemma": "G0601"
+            },
+            {
+              "id": "5300200804",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200805",
+              "text": "ἄνομος,",
+              "grammar": "Adj-NMS",
+              "lemma": "G0459"
+            },
+            {
+              "id": "5300200806",
+              "text": "ὃν",
+              "grammar": "RelPro-AMS",
+              "lemma": "G3739"
+            },
+            {
+              "id": "5300200807",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200808",
+              "text": "Κύριος",
+              "grammar": "N-NMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300200809",
+              "text": "Ἰησοῦς",
+              "grammar": "N-NMS",
+              "lemma": "G2424"
+            },
+            {
+              "id": "5300200810",
+              "text": "ἀνελεῖ",
+              "grammar": "V-FIA-3S",
+              "lemma": "G0337"
+            },
+            {
+              "id": "5300200811",
+              "text": "τῷ",
+              "grammar": "Art-DNS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200812",
+              "text": "πνεύματι",
+              "grammar": "N-DNS",
+              "lemma": "G4151"
+            },
+            {
+              "id": "5300200813",
+              "text": "τοῦ",
+              "grammar": "Art-GNS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200814",
+              "text": "στόματος",
+              "grammar": "N-GNS",
+              "lemma": "G4750"
+            },
+            {
+              "id": "5300200815",
+              "text": "αὐτοῦ,",
+              "grammar": "PPro-GM3S",
+              "lemma": "G0846"
+            },
+            {
+              "id": "5300200816",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300200817",
+              "text": "καταργήσει",
+              "grammar": "V-FIA-3S",
+              "lemma": "G2673"
+            },
+            {
+              "id": "5300200818",
+              "text": "τῇ",
+              "grammar": "Art-DFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200819",
+              "text": "ἐπιφανείᾳ",
+              "grammar": "N-DFS",
+              "lemma": "G2015"
+            },
+            {
+              "id": "5300200820",
+              "text": "τῆς",
+              "grammar": "Art-GFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200821",
+              "text": "παρουσίας",
+              "grammar": "N-GFS",
+              "lemma": "G3952"
+            },
+            {
+              "id": "5300200822",
+              "text": "αὐτοῦ;",
+              "grammar": "PPro-GM3S",
+              "lemma": "G0846"
+            }
+          ]
+        },
+        {
+          "id": "53002009",
+          "words": [
+            {
+              "id": "5300200901",
+              "text": "οὗ",
+              "grammar": "RelPro-GMS",
+              "lemma": "G3739"
+            },
+            {
+              "id": "5300200902",
+              "text": "ἐστιν",
+              "grammar": "V-PIA-3S",
+              "lemma": "G1510"
+            },
+            {
+              "id": "5300200903",
+              "text": "ἡ",
+              "grammar": "Art-NFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200904",
+              "text": "παρουσία,",
+              "grammar": "N-NFS",
+              "lemma": "G3952"
+            },
+            {
+              "id": "5300200905",
+              "text": "κατ’",
+              "grammar": "Prep",
+              "lemma": "G2596"
+            },
+            {
+              "id": "5300200906",
+              "text": "ἐνέργειαν",
+              "grammar": "N-AFS",
+              "lemma": "G1753"
+            },
+            {
+              "id": "5300200907",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300200908",
+              "text": "Σατανᾶ,",
+              "grammar": "N-GMS",
+              "lemma": "G4567"
+            },
+            {
+              "id": "5300200909",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300200910",
+              "text": "πάσῃ",
+              "grammar": "Adj-DFS",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300200911",
+              "text": "δυνάμει,",
+              "grammar": "N-DFS",
+              "lemma": "G1411"
+            },
+            {
+              "id": "5300200912",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300200913",
+              "text": "σημείοις,",
+              "grammar": "N-DNP",
+              "lemma": "G4592"
+            },
+            {
+              "id": "5300200914",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300200915",
+              "text": "τέρασιν",
+              "grammar": "N-DNP",
+              "lemma": "G5059"
+            },
+            {
+              "id": "5300200916",
+              "text": "ψεύδους,",
+              "grammar": "N-GNS",
+              "lemma": "G5579"
+            }
+          ]
+        },
+        {
+          "id": "53002010",
+          "words": [
+            {
+              "id": "5300201001",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300201002",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300201003",
+              "text": "πάσῃ",
+              "grammar": "Adj-DFS",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300201004",
+              "text": "ἀπάτῃ",
+              "grammar": "N-DFS",
+              "lemma": "G0539"
+            },
+            {
+              "id": "5300201005",
+              "text": "ἀδικίας,",
+              "grammar": "N-GFS",
+              "lemma": "G0093"
+            },
+            {
+              "id": "5300201006",
+              "text": "τοῖς",
+              "grammar": "Art-DMP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201007",
+              "text": "ἀπολλυμένοις,",
+              "grammar": "V-PPM/P-DMP",
+              "lemma": "G0622"
+            },
+            {
+              "id": "5300201008",
+              "text": "ἀνθ’",
+              "grammar": "Prep",
+              "lemma": "G0473"
+            },
+            {
+              "id": "5300201009",
+              "text": "ὧν",
+              "grammar": "RelPro-GNP",
+              "lemma": "G3739"
+            },
+            {
+              "id": "5300201010",
+              "text": "τὴν",
+              "grammar": "Art-AFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201011",
+              "text": "ἀγάπην",
+              "grammar": "N-AFS",
+              "lemma": "G0026"
+            },
+            {
+              "id": "5300201012",
+              "text": "τῆς",
+              "grammar": "Art-GFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201013",
+              "text": "ἀληθείας",
+              "grammar": "N-GFS",
+              "lemma": "G0225"
+            },
+            {
+              "id": "5300201014",
+              "text": "οὐκ",
+              "grammar": "Adv",
+              "lemma": "G3756"
+            },
+            {
+              "id": "5300201015",
+              "text": "ἐδέξαντο,",
+              "grammar": "V-AIM-3P",
+              "lemma": "G1209"
+            },
+            {
+              "id": "5300201016",
+              "text": "εἰς",
+              "grammar": "Prep",
+              "lemma": "G1519"
+            },
+            {
+              "id": "5300201017",
+              "text": "τὸ",
+              "grammar": "Art-ANS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201018",
+              "text": "σωθῆναι",
+              "grammar": "V-ANP",
+              "lemma": "G4982"
+            },
+            {
+              "id": "5300201019",
+              "text": "αὐτούς.",
+              "grammar": "PPro-AM3P",
+              "lemma": "G0846"
+            }
+          ]
+        },
+        {
+          "id": "53002011",
+          "words": [
+            {
+              "id": "5300201101",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300201102",
+              "text": "διὰ",
+              "grammar": "Prep",
+              "lemma": "G1223"
+            },
+            {
+              "id": "5300201103",
+              "text": "τοῦτο",
+              "grammar": "DPro-ANS",
+              "lemma": "G3778"
+            },
+            {
+              "id": "5300201104",
+              "text": "πέμπει",
+              "grammar": "V-PIA-3S",
+              "lemma": "G3992"
+            },
+            {
+              "id": "5300201105",
+              "text": "αὐτοῖς",
+              "grammar": "PPro-DM3P",
+              "lemma": "G0846"
+            },
+            {
+              "id": "5300201106",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201107",
+              "text": "Θεὸς",
+              "grammar": "N-NMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300201108",
+              "text": "ἐνέργειαν",
+              "grammar": "N-AFS",
+              "lemma": "G1753"
+            },
+            {
+              "id": "5300201109",
+              "text": "πλάνης,",
+              "grammar": "N-GFS",
+              "lemma": "G4106"
+            },
+            {
+              "id": "5300201110",
+              "text": "εἰς",
+              "grammar": "Prep",
+              "lemma": "G1519"
+            },
+            {
+              "id": "5300201111",
+              "text": "τὸ",
+              "grammar": "Art-ANS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201112",
+              "text": "πιστεῦσαι",
+              "grammar": "V-ANA",
+              "lemma": "G4100"
+            },
+            {
+              "id": "5300201113",
+              "text": "αὐτοὺς",
+              "grammar": "PPro-AM3P",
+              "lemma": "G0846"
+            },
+            {
+              "id": "5300201114",
+              "text": "τῷ",
+              "grammar": "Art-DNS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201115",
+              "text": "ψεύδει;",
+              "grammar": "N-DNS",
+              "lemma": "G5579"
+            }
+          ]
+        },
+        {
+          "id": "53002012",
+          "words": [
+            {
+              "id": "5300201201",
+              "text": "ἵνα",
+              "grammar": "Conj",
+              "lemma": "G2443"
+            },
+            {
+              "id": "5300201202",
+              "text": "κριθῶσιν",
+              "grammar": "V-ASP-3P",
+              "lemma": "G2919"
+            },
+            {
+              "id": "5300201203",
+              "text": "πάντες",
+              "grammar": "Adj-NMP",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300201204",
+              "text": "οἱ",
+              "grammar": "Art-NMP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201205",
+              "text": "μὴ",
+              "grammar": "Adv",
+              "lemma": "G3361"
+            },
+            {
+              "id": "5300201206",
+              "text": "πιστεύσαντες",
+              "grammar": "V-APA-NMP",
+              "lemma": "G4100"
+            },
+            {
+              "id": "5300201207",
+              "text": "τῇ",
+              "grammar": "Art-DFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201208",
+              "text": "ἀληθείᾳ,",
+              "grammar": "N-DFS",
+              "lemma": "G0225"
+            },
+            {
+              "id": "5300201209",
+              "text": "ἀλλὰ",
+              "grammar": "Conj",
+              "lemma": "G0235"
+            },
+            {
+              "id": "5300201210",
+              "text": "εὐδοκήσαντες",
+              "grammar": "V-APA-NMP",
+              "lemma": "G2106"
+            },
+            {
+              "id": "5300201211",
+              "text": "τῇ",
+              "grammar": "Art-DFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201212",
+              "text": "ἀδικίᾳ.",
+              "grammar": "N-DFS",
+              "lemma": "G0093"
+            }
+          ]
+        },
+        {
+          "id": "53002013",
+          "words": [
+            {
+              "id": "5300201301",
+              "text": "Ἡμεῖς",
+              "grammar": "PPro-N1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300201302",
+              "text": "δὲ",
+              "grammar": "Conj",
+              "lemma": "G1161"
+            },
+            {
+              "id": "5300201303",
+              "text": "ὀφείλομεν",
+              "grammar": "V-PIA-1P",
+              "lemma": "G3784"
+            },
+            {
+              "id": "5300201304",
+              "text": "εὐχαριστεῖν",
+              "grammar": "V-PNA",
+              "lemma": "G2168"
+            },
+            {
+              "id": "5300201305",
+              "text": "τῷ",
+              "grammar": "Art-DMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201306",
+              "text": "Θεῷ",
+              "grammar": "N-DMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300201307",
+              "text": "πάντοτε",
+              "grammar": "Adv",
+              "lemma": "G3842"
+            },
+            {
+              "id": "5300201308",
+              "text": "περὶ",
+              "grammar": "Prep",
+              "lemma": "G4012"
+            },
+            {
+              "id": "5300201309",
+              "text": "ὑμῶν,",
+              "grammar": "PPro-G2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300201310",
+              "text": "ἀδελφοὶ",
+              "grammar": "N-VMP",
+              "lemma": "G0080"
+            },
+            {
+              "id": "5300201311",
+              "text": "ἠγαπημένοι",
+              "grammar": "V-RPM/P-VMP",
+              "lemma": "G0025"
+            },
+            {
+              "id": "5300201312",
+              "text": "ὑπὸ",
+              "grammar": "Prep",
+              "lemma": "G5259"
+            },
+            {
+              "id": "5300201313",
+              "text": "Κυρίου,",
+              "grammar": "N-GMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300201314",
+              "text": "ὅτι",
+              "grammar": "Conj",
+              "lemma": "G3754"
+            },
+            {
+              "id": "5300201315",
+              "text": "εἵλατο",
+              "grammar": "V-AIM-3S",
+              "lemma": "G0138"
+            },
+            {
+              "id": "5300201316",
+              "text": "ὑμᾶς",
+              "grammar": "PPro-A2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300201317",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201318",
+              "text": "Θεὸς,",
+              "grammar": "N-NMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300201319",
+              "text": "ἀπ᾽‿",
+              "grammar": "Prep",
+              "lemma": "G0575"
+            },
+            {
+              "id": "5300201320",
+              "text": "ἀρχῆς,",
+              "grammar": "N-GFS",
+              "lemma": "G0746"
+            },
+            {
+              "id": "5300201321",
+              "text": "εἰς",
+              "grammar": "Prep",
+              "lemma": "G1519"
+            },
+            {
+              "id": "5300201322",
+              "text": "σωτηρίαν",
+              "grammar": "N-AFS",
+              "lemma": "G4991"
+            },
+            {
+              "id": "5300201323",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300201324",
+              "text": "ἁγιασμῷ",
+              "grammar": "N-DMS",
+              "lemma": "G0038"
+            },
+            {
+              "id": "5300201325",
+              "text": "Πνεύματος,",
+              "grammar": "N-GNS",
+              "lemma": "G4151"
+            },
+            {
+              "id": "5300201326",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300201327",
+              "text": "πίστει",
+              "grammar": "N-DFS",
+              "lemma": "G4102"
+            },
+            {
+              "id": "5300201328",
+              "text": "ἀληθείας;",
+              "grammar": "N-GFS",
+              "lemma": "G0225"
+            }
+          ]
+        },
+        {
+          "id": "53002014",
+          "words": [
+            {
+              "id": "5300201401",
+              "text": "εἰς",
+              "grammar": "Prep",
+              "lemma": "G1519"
+            },
+            {
+              "id": "5300201402",
+              "text": "ὃ",
+              "grammar": "RelPro-ANS",
+              "lemma": "G3739"
+            },
+            {
+              "id": "5300201403",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300201404",
+              "text": "ἐκάλεσεν",
+              "grammar": "V-AIA-3S",
+              "lemma": "G2564"
+            },
+            {
+              "id": "5300201405",
+              "text": "ὑμᾶς,",
+              "grammar": "PPro-A2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300201406",
+              "text": "διὰ",
+              "grammar": "Prep",
+              "lemma": "G1223"
+            },
+            {
+              "id": "5300201407",
+              "text": "τοῦ",
+              "grammar": "Art-GNS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201408",
+              "text": "εὐαγγελίου",
+              "grammar": "N-GNS",
+              "lemma": "G2098"
+            },
+            {
+              "id": "5300201409",
+              "text": "ἡμῶν,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300201410",
+              "text": "εἰς",
+              "grammar": "Prep",
+              "lemma": "G1519"
+            },
+            {
+              "id": "5300201411",
+              "text": "περιποίησιν",
+              "grammar": "N-AFS",
+              "lemma": "G4047"
+            },
+            {
+              "id": "5300201412",
+              "text": "δόξης",
+              "grammar": "N-GFS",
+              "lemma": "G1391"
+            },
+            {
+              "id": "5300201413",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201414",
+              "text": "Κυρίου",
+              "grammar": "N-GMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300201415",
+              "text": "ἡμῶν,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300201416",
+              "text": "Ἰησοῦ",
+              "grammar": "N-GMS",
+              "lemma": "G2424"
+            },
+            {
+              "id": "5300201417",
+              "text": "Χριστοῦ.",
+              "grammar": "N-GMS",
+              "lemma": "G5547"
+            }
+          ]
+        },
+        {
+          "id": "53002015",
+          "words": [
+            {
+              "id": "5300201501",
+              "text": "Ἄρα",
+              "grammar": "Conj",
+              "lemma": "G0686"
+            },
+            {
+              "id": "5300201502",
+              "text": "οὖν,",
+              "grammar": "Conj",
+              "lemma": "G3767"
+            },
+            {
+              "id": "5300201503",
+              "text": "ἀδελφοί,",
+              "grammar": "N-VMP",
+              "lemma": "G0080"
+            },
+            {
+              "id": "5300201504",
+              "text": "στήκετε,",
+              "grammar": "V-PMA-2P",
+              "lemma": "G4739"
+            },
+            {
+              "id": "5300201505",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300201506",
+              "text": "κρατεῖτε",
+              "grammar": "V-PMA-2P",
+              "lemma": "G2902"
+            },
+            {
+              "id": "5300201507",
+              "text": "τὰς",
+              "grammar": "Art-AFP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201508",
+              "text": "παραδόσεις",
+              "grammar": "N-AFP",
+              "lemma": "G3862"
+            },
+            {
+              "id": "5300201509",
+              "text": "ἃς",
+              "grammar": "RelPro-AFP",
+              "lemma": "G3739"
+            },
+            {
+              "id": "5300201510",
+              "text": "ἐδιδάχθητε,",
+              "grammar": "V-AIP-2P",
+              "lemma": "G1321"
+            },
+            {
+              "id": "5300201511",
+              "text": "εἴτε",
+              "grammar": "Conj",
+              "lemma": "G1535"
+            },
+            {
+              "id": "5300201512",
+              "text": "διὰ",
+              "grammar": "Prep",
+              "lemma": "G1223"
+            },
+            {
+              "id": "5300201513",
+              "text": "λόγου,",
+              "grammar": "N-GMS",
+              "lemma": "G3056"
+            },
+            {
+              "id": "5300201514",
+              "text": "εἴτε",
+              "grammar": "Conj",
+              "lemma": "G1535"
+            },
+            {
+              "id": "5300201515",
+              "text": "δι’",
+              "grammar": "Prep",
+              "lemma": "G1223"
+            },
+            {
+              "id": "5300201516",
+              "text": "ἐπιστολῆς",
+              "grammar": "N-GFS",
+              "lemma": "G1992"
+            },
+            {
+              "id": "5300201517",
+              "text": "ἡμῶν.",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            }
+          ]
+        },
+        {
+          "id": "53002016",
+          "words": [
+            {
+              "id": "5300201601",
+              "text": "Αὐτὸς",
+              "grammar": "PPro-NM3S",
+              "lemma": "G0846"
+            },
+            {
+              "id": "5300201602",
+              "text": "δὲ",
+              "grammar": "Conj",
+              "lemma": "G1161"
+            },
+            {
+              "id": "5300201603",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201604",
+              "text": "Κύριος",
+              "grammar": "N-NMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300201605",
+              "text": "ἡμῶν,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300201606",
+              "text": "Ἰησοῦς",
+              "grammar": "N-NMS",
+              "lemma": "G2424"
+            },
+            {
+              "id": "5300201607",
+              "text": "Χριστὸς,",
+              "grammar": "N-NMS",
+              "lemma": "G5547"
+            },
+            {
+              "id": "5300201608",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300201609",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201610",
+              "text": "Θεὸς,",
+              "grammar": "N-NMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300201611",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201612",
+              "text": "Πατὴρ",
+              "grammar": "N-NMS",
+              "lemma": "G3962"
+            },
+            {
+              "id": "5300201613",
+              "text": "ἡμῶν,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300201614",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201615",
+              "text": "ἀγαπήσας",
+              "grammar": "V-APA-NMS",
+              "lemma": "G0025"
+            },
+            {
+              "id": "5300201616",
+              "text": "ἡμᾶς,",
+              "grammar": "PPro-A1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300201617",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300201618",
+              "text": "δοὺς",
+              "grammar": "V-APA-NMS",
+              "lemma": "G1325"
+            },
+            {
+              "id": "5300201619",
+              "text": "παράκλησιν",
+              "grammar": "N-AFS",
+              "lemma": "G3874"
+            },
+            {
+              "id": "5300201620",
+              "text": "αἰωνίαν,",
+              "grammar": "Adj-AFS",
+              "lemma": "G0166"
+            },
+            {
+              "id": "5300201621",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300201622",
+              "text": "ἐλπίδα",
+              "grammar": "N-AFS",
+              "lemma": "G1680"
+            },
+            {
+              "id": "5300201623",
+              "text": "ἀγαθὴν",
+              "grammar": "Adj-AFS",
+              "lemma": "G0018"
+            },
+            {
+              "id": "5300201624",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300201625",
+              "text": "χάριτι,",
+              "grammar": "N-DFS",
+              "lemma": "G5485"
+            }
+          ]
+        },
+        {
+          "id": "53002017",
+          "words": [
+            {
+              "id": "5300201701",
+              "text": "παρακαλέσαι",
+              "grammar": "V-AOA-3S",
+              "lemma": "G3870"
+            },
+            {
+              "id": "5300201702",
+              "text": "ὑμῶν",
+              "grammar": "PPro-G2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300201703",
+              "text": "τὰς",
+              "grammar": "Art-AFP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300201704",
+              "text": "καρδίας,",
+              "grammar": "N-AFP",
+              "lemma": "G2588"
+            },
+            {
+              "id": "5300201705",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300201706",
+              "text": "στηρίξαι",
+              "grammar": "V-AOA-3S",
+              "lemma": "G4741"
+            },
+            {
+              "id": "5300201707",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300201708",
+              "text": "παντὶ",
+              "grammar": "Adj-DNS",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300201709",
+              "text": "ἔργῳ",
+              "grammar": "N-DNS",
+              "lemma": "G2041"
+            },
+            {
+              "id": "5300201710",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300201711",
+              "text": "λόγῳ",
+              "grammar": "N-DMS",
+              "lemma": "G3056"
+            },
+            {
+              "id": "5300201712",
+              "text": "ἀγαθῷ.",
+              "grammar": "Adj-DMS",
+              "lemma": "G0018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "verses": [
+        {
+          "id": "53003001",
+          "words": [
+            {
+              "id": "5300300101",
+              "text": "Τὸ",
+              "grammar": "Art-ANS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300102",
+              "text": "λοιπὸν,",
+              "grammar": "Adj-ANS",
+              "lemma": "G3063"
+            },
+            {
+              "id": "5300300103",
+              "text": "προσεύχεσθε,",
+              "grammar": "V-PMM/P-2P",
+              "lemma": "G4336"
+            },
+            {
+              "id": "5300300104",
+              "text": "ἀδελφοί,",
+              "grammar": "N-VMP",
+              "lemma": "G0080"
+            },
+            {
+              "id": "5300300105",
+              "text": "περὶ",
+              "grammar": "Prep",
+              "lemma": "G4012"
+            },
+            {
+              "id": "5300300106",
+              "text": "ἡμῶν,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300300107",
+              "text": "ἵνα",
+              "grammar": "Conj",
+              "lemma": "G2443"
+            },
+            {
+              "id": "5300300108",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300109",
+              "text": "λόγος",
+              "grammar": "N-NMS",
+              "lemma": "G3056"
+            },
+            {
+              "id": "5300300110",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300111",
+              "text": "Κυρίου",
+              "grammar": "N-GMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300300112",
+              "text": "τρέχῃ",
+              "grammar": "V-PSA-3S",
+              "lemma": "G5143"
+            },
+            {
+              "id": "5300300113",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300300114",
+              "text": "δοξάζηται,",
+              "grammar": "V-PSM/P-3S",
+              "lemma": "G1392"
+            },
+            {
+              "id": "5300300115",
+              "text": "καθὼς",
+              "grammar": "Adv",
+              "lemma": "G2531"
+            },
+            {
+              "id": "5300300116",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300300117",
+              "text": "πρὸς",
+              "grammar": "Prep",
+              "lemma": "G4314"
+            },
+            {
+              "id": "5300300118",
+              "text": "ὑμᾶς;",
+              "grammar": "PPro-A2P",
+              "lemma": "G4771"
+            }
+          ]
+        },
+        {
+          "id": "53003002",
+          "words": [
+            {
+              "id": "5300300201",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300300202",
+              "text": "ἵνα",
+              "grammar": "Conj",
+              "lemma": "G2443"
+            },
+            {
+              "id": "5300300203",
+              "text": "ῥυσθῶμεν",
+              "grammar": "V-ASP-1P",
+              "lemma": "G4506"
+            },
+            {
+              "id": "5300300204",
+              "text": "ἀπὸ",
+              "grammar": "Prep",
+              "lemma": "G0575"
+            },
+            {
+              "id": "5300300205",
+              "text": "τῶν",
+              "grammar": "Art-GMP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300206",
+              "text": "ἀτόπων",
+              "grammar": "Adj-GMP",
+              "lemma": "G0824"
+            },
+            {
+              "id": "5300300207",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300300208",
+              "text": "πονηρῶν",
+              "grammar": "Adj-GMP",
+              "lemma": "G4190"
+            },
+            {
+              "id": "5300300209",
+              "text": "ἀνθρώπων;",
+              "grammar": "N-GMP",
+              "lemma": "G0444"
+            },
+            {
+              "id": "5300300210",
+              "text": "οὐ",
+              "grammar": "Adv",
+              "lemma": "G3756"
+            },
+            {
+              "id": "5300300211",
+              "text": "γὰρ",
+              "grammar": "Conj",
+              "lemma": "G1063"
+            },
+            {
+              "id": "5300300212",
+              "text": "πάντων",
+              "grammar": "Adj-GMP",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300300213",
+              "text": "ἡ",
+              "grammar": "Art-NFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300214",
+              "text": "πίστις.",
+              "grammar": "N-NFS",
+              "lemma": "G4102"
+            }
+          ]
+        },
+        {
+          "id": "53003003",
+          "words": [
+            {
+              "id": "5300300301",
+              "text": "Πιστὸς",
+              "grammar": "Adj-NMS",
+              "lemma": "G4103"
+            },
+            {
+              "id": "5300300302",
+              "text": "δέ",
+              "grammar": "Conj",
+              "lemma": "G1161"
+            },
+            {
+              "id": "5300300303",
+              "text": "ἐστιν",
+              "grammar": "V-PIA-3S",
+              "lemma": "G1510"
+            },
+            {
+              "id": "5300300304",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300305",
+              "text": "Κύριος,",
+              "grammar": "N-NMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300300306",
+              "text": "ὃς",
+              "grammar": "RelPro-NMS",
+              "lemma": "G3739"
+            },
+            {
+              "id": "5300300307",
+              "text": "στηρίξει",
+              "grammar": "V-FIA-3S",
+              "lemma": "G4741"
+            },
+            {
+              "id": "5300300308",
+              "text": "ὑμᾶς,",
+              "grammar": "PPro-A2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300300309",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300300310",
+              "text": "φυλάξει",
+              "grammar": "V-FIA-3S",
+              "lemma": "G5442"
+            },
+            {
+              "id": "5300300311",
+              "text": "ἀπὸ",
+              "grammar": "Prep",
+              "lemma": "G0575"
+            },
+            {
+              "id": "5300300312",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300313",
+              "text": "πονηροῦ.",
+              "grammar": "Adj-GMS",
+              "lemma": "G4190"
+            }
+          ]
+        },
+        {
+          "id": "53003004",
+          "words": [
+            {
+              "id": "5300300401",
+              "text": "πεποίθαμεν",
+              "grammar": "V-RIA-1P",
+              "lemma": "G3982"
+            },
+            {
+              "id": "5300300402",
+              "text": "δὲ",
+              "grammar": "Conj",
+              "lemma": "G1161"
+            },
+            {
+              "id": "5300300403",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300300404",
+              "text": "Κυρίῳ,",
+              "grammar": "N-DMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300300405",
+              "text": "ἐφ’",
+              "grammar": "Prep",
+              "lemma": "G1909"
+            },
+            {
+              "id": "5300300406",
+              "text": "ὑμᾶς,",
+              "grammar": "PPro-A2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300300407",
+              "text": "ὅτι",
+              "grammar": "Conj",
+              "lemma": "G3754"
+            },
+            {
+              "id": "5300300408",
+              "text": "ἃ",
+              "grammar": "RelPro-ANP",
+              "lemma": "G3739"
+            },
+            {
+              "id": "5300300409",
+              "text": "παραγγέλλομεν,",
+              "grammar": "V-PIA-1P",
+              "lemma": "G3853"
+            },
+            {
+              "id": "5300300410",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300300411",
+              "text": "ποιεῖτε",
+              "grammar": "V-PIA-2P",
+              "lemma": "G4160"
+            },
+            {
+              "id": "5300300412",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300300413",
+              "text": "ποιήσετε.",
+              "grammar": "V-FIA-2P",
+              "lemma": "G4160"
+            }
+          ]
+        },
+        {
+          "id": "53003005",
+          "words": [
+            {
+              "id": "5300300501",
+              "text": "Ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300502",
+              "text": "δὲ",
+              "grammar": "Conj",
+              "lemma": "G1161"
+            },
+            {
+              "id": "5300300503",
+              "text": "Κύριος",
+              "grammar": "N-NMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300300504",
+              "text": "κατευθύναι",
+              "grammar": "V-AOA-3S",
+              "lemma": "G2720"
+            },
+            {
+              "id": "5300300505",
+              "text": "ὑμῶν",
+              "grammar": "PPro-G2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300300506",
+              "text": "τὰς",
+              "grammar": "Art-AFP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300507",
+              "text": "καρδίας",
+              "grammar": "N-AFP",
+              "lemma": "G2588"
+            },
+            {
+              "id": "5300300508",
+              "text": "εἰς",
+              "grammar": "Prep",
+              "lemma": "G1519"
+            },
+            {
+              "id": "5300300509",
+              "text": "τὴν",
+              "grammar": "Art-AFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300510",
+              "text": "ἀγάπην",
+              "grammar": "N-AFS",
+              "lemma": "G0026"
+            },
+            {
+              "id": "5300300511",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300512",
+              "text": "Θεοῦ,",
+              "grammar": "N-GMS",
+              "lemma": "G2316"
+            },
+            {
+              "id": "5300300513",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300300514",
+              "text": "εἰς",
+              "grammar": "Prep",
+              "lemma": "G1519"
+            },
+            {
+              "id": "5300300515",
+              "text": "τὴν",
+              "grammar": "Art-AFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300516",
+              "text": "ὑπομονὴν",
+              "grammar": "N-AFS",
+              "lemma": "G5281"
+            },
+            {
+              "id": "5300300517",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300518",
+              "text": "Χριστοῦ.",
+              "grammar": "N-GMS",
+              "lemma": "G5547"
+            }
+          ]
+        },
+        {
+          "id": "53003006",
+          "words": [
+            {
+              "id": "5300300601",
+              "text": "Παραγγέλλομεν",
+              "grammar": "V-PIA-1P",
+              "lemma": "G3853"
+            },
+            {
+              "id": "5300300602",
+              "text": "δὲ",
+              "grammar": "Conj",
+              "lemma": "G1161"
+            },
+            {
+              "id": "5300300603",
+              "text": "ὑμῖν,",
+              "grammar": "PPro-D2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300300604",
+              "text": "ἀδελφοί,",
+              "grammar": "N-VMP",
+              "lemma": "G0080"
+            },
+            {
+              "id": "5300300605",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300300606",
+              "text": "ὀνόματι",
+              "grammar": "N-DNS",
+              "lemma": "G3686"
+            },
+            {
+              "id": "5300300607",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300608",
+              "text": "Κυρίου",
+              "grammar": "N-GMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300300609",
+              "text": "‹ἡμῶν›,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300300610",
+              "text": "Ἰησοῦ",
+              "grammar": "N-GMS",
+              "lemma": "G2424"
+            },
+            {
+              "id": "5300300611",
+              "text": "Χριστοῦ,",
+              "grammar": "N-GMS",
+              "lemma": "G5547"
+            },
+            {
+              "id": "5300300612",
+              "text": "στέλλεσθαι",
+              "grammar": "V-PNM",
+              "lemma": "G4724"
+            },
+            {
+              "id": "5300300613",
+              "text": "ὑμᾶς",
+              "grammar": "PPro-A2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300300614",
+              "text": "ἀπὸ",
+              "grammar": "Prep",
+              "lemma": "G0575"
+            },
+            {
+              "id": "5300300615",
+              "text": "παντὸς",
+              "grammar": "Adj-GMS",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300300616",
+              "text": "ἀδελφοῦ",
+              "grammar": "N-GMS",
+              "lemma": "G0080"
+            },
+            {
+              "id": "5300300617",
+              "text": "ἀτάκτως",
+              "grammar": "Adv",
+              "lemma": "G0814"
+            },
+            {
+              "id": "5300300618",
+              "text": "περιπατοῦντος,",
+              "grammar": "V-PPA-GMS",
+              "lemma": "G4043"
+            },
+            {
+              "id": "5300300619",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300300620",
+              "text": "μὴ",
+              "grammar": "Adv",
+              "lemma": "G3361"
+            },
+            {
+              "id": "5300300621",
+              "text": "κατὰ",
+              "grammar": "Prep",
+              "lemma": "G2596"
+            },
+            {
+              "id": "5300300622",
+              "text": "τὴν",
+              "grammar": "Art-AFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300623",
+              "text": "παράδοσιν",
+              "grammar": "N-AFS",
+              "lemma": "G3862"
+            },
+            {
+              "id": "5300300624",
+              "text": "ἣν",
+              "grammar": "RelPro-AFS",
+              "lemma": "G3739"
+            },
+            {
+              "id": "5300300625",
+              "text": "παρελάβοσαν",
+              "grammar": "V-AIA-3P",
+              "lemma": "G3880"
+            },
+            {
+              "id": "5300300626",
+              "text": "παρ’",
+              "grammar": "Prep",
+              "lemma": "G3844"
+            },
+            {
+              "id": "5300300627",
+              "text": "ἡμῶν.",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            }
+          ]
+        },
+        {
+          "id": "53003007",
+          "words": [
+            {
+              "id": "5300300701",
+              "text": "αὐτοὶ",
+              "grammar": "PPro-NM3P",
+              "lemma": "G0846"
+            },
+            {
+              "id": "5300300702",
+              "text": "γὰρ,",
+              "grammar": "Conj",
+              "lemma": "G1063"
+            },
+            {
+              "id": "5300300703",
+              "text": "οἴδατε",
+              "grammar": "V-RIA-2P",
+              "lemma": "G1492"
+            },
+            {
+              "id": "5300300704",
+              "text": "πῶς",
+              "grammar": "Conj",
+              "lemma": "G4459"
+            },
+            {
+              "id": "5300300705",
+              "text": "δεῖ",
+              "grammar": "V-PIA-3S",
+              "lemma": "G1163"
+            },
+            {
+              "id": "5300300706",
+              "text": "μιμεῖσθαι",
+              "grammar": "V-PNM/P",
+              "lemma": "G3401"
+            },
+            {
+              "id": "5300300707",
+              "text": "ἡμᾶς,",
+              "grammar": "PPro-A1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300300708",
+              "text": "ὅτι",
+              "grammar": "Conj",
+              "lemma": "G3754"
+            },
+            {
+              "id": "5300300709",
+              "text": "οὐκ",
+              "grammar": "Adv",
+              "lemma": "G3756"
+            },
+            {
+              "id": "5300300710",
+              "text": "ἠτακτήσαμεν",
+              "grammar": "V-AIA-1P",
+              "lemma": "G0812"
+            },
+            {
+              "id": "5300300711",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300300712",
+              "text": "ὑμῖν;",
+              "grammar": "PPro-D2P",
+              "lemma": "G4771"
+            }
+          ]
+        },
+        {
+          "id": "53003008",
+          "words": [
+            {
+              "id": "5300300801",
+              "text": "οὐδὲ",
+              "grammar": "Conj",
+              "lemma": "G3761"
+            },
+            {
+              "id": "5300300802",
+              "text": "δωρεὰν",
+              "grammar": "Adv",
+              "lemma": "G1432"
+            },
+            {
+              "id": "5300300803",
+              "text": "ἄρτον",
+              "grammar": "N-AMS",
+              "lemma": "G0740"
+            },
+            {
+              "id": "5300300804",
+              "text": "ἐφάγομεν",
+              "grammar": "V-AIA-1P",
+              "lemma": "G5315"
+            },
+            {
+              "id": "5300300805",
+              "text": "παρά",
+              "grammar": "Prep",
+              "lemma": "G3844"
+            },
+            {
+              "id": "5300300806",
+              "text": "τινος,",
+              "grammar": "IPro-GMS",
+              "lemma": "G5100"
+            },
+            {
+              "id": "5300300807",
+              "text": "ἀλλ’",
+              "grammar": "Conj",
+              "lemma": "G0235"
+            },
+            {
+              "id": "5300300808",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300300809",
+              "text": "κόπῳ",
+              "grammar": "N-DMS",
+              "lemma": "G2873"
+            },
+            {
+              "id": "5300300810",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300300811",
+              "text": "μόχθῳ,",
+              "grammar": "N-DMS",
+              "lemma": "G3449"
+            },
+            {
+              "id": "5300300812",
+              "text": "νυκτὸς",
+              "grammar": "N-GFS",
+              "lemma": "G3571"
+            },
+            {
+              "id": "5300300813",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300300814",
+              "text": "ἡμέρας",
+              "grammar": "N-GFS",
+              "lemma": "G2250"
+            },
+            {
+              "id": "5300300815",
+              "text": "ἐργαζόμενοι,",
+              "grammar": "V-PPM/P-NMP",
+              "lemma": "G2038"
+            },
+            {
+              "id": "5300300816",
+              "text": "πρὸς",
+              "grammar": "Prep",
+              "lemma": "G4314"
+            },
+            {
+              "id": "5300300817",
+              "text": "τὸ",
+              "grammar": "Art-ANS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300818",
+              "text": "μὴ",
+              "grammar": "Adv",
+              "lemma": "G3361"
+            },
+            {
+              "id": "5300300819",
+              "text": "ἐπιβαρῆσαί",
+              "grammar": "V-ANA",
+              "lemma": "G1912"
+            },
+            {
+              "id": "5300300820",
+              "text": "τινα",
+              "grammar": "IPro-AMS",
+              "lemma": "G5100"
+            },
+            {
+              "id": "5300300821",
+              "text": "ὑμῶν.",
+              "grammar": "PPro-G2P",
+              "lemma": "G4771"
+            }
+          ]
+        },
+        {
+          "id": "53003009",
+          "words": [
+            {
+              "id": "5300300901",
+              "text": "οὐχ",
+              "grammar": "Adv",
+              "lemma": "G3756"
+            },
+            {
+              "id": "5300300902",
+              "text": "ὅτι",
+              "grammar": "Conj",
+              "lemma": "G3754"
+            },
+            {
+              "id": "5300300903",
+              "text": "οὐκ",
+              "grammar": "Adv",
+              "lemma": "G3756"
+            },
+            {
+              "id": "5300300904",
+              "text": "ἔχομεν",
+              "grammar": "V-PIA-1P",
+              "lemma": "G2192"
+            },
+            {
+              "id": "5300300905",
+              "text": "ἐξουσίαν,",
+              "grammar": "N-AFS",
+              "lemma": "G1849"
+            },
+            {
+              "id": "5300300906",
+              "text": "ἀλλ’",
+              "grammar": "Conj",
+              "lemma": "G0235"
+            },
+            {
+              "id": "5300300907",
+              "text": "ἵνα",
+              "grammar": "Conj",
+              "lemma": "G2443"
+            },
+            {
+              "id": "5300300908",
+              "text": "ἑαυτοὺς",
+              "grammar": "RefPro-AM3P",
+              "lemma": "G1438"
+            },
+            {
+              "id": "5300300909",
+              "text": "τύπον",
+              "grammar": "N-AMS",
+              "lemma": "G5179"
+            },
+            {
+              "id": "5300300910",
+              "text": "δῶμεν",
+              "grammar": "V-ASA-1P",
+              "lemma": "G1325"
+            },
+            {
+              "id": "5300300911",
+              "text": "ὑμῖν,",
+              "grammar": "PPro-D2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300300912",
+              "text": "εἰς",
+              "grammar": "Prep",
+              "lemma": "G1519"
+            },
+            {
+              "id": "5300300913",
+              "text": "τὸ",
+              "grammar": "Art-ANS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300300914",
+              "text": "μιμεῖσθαι",
+              "grammar": "V-PNM/P",
+              "lemma": "G3401"
+            },
+            {
+              "id": "5300300915",
+              "text": "ἡμᾶς.",
+              "grammar": "PPro-A1P",
+              "lemma": "G1473"
+            }
+          ]
+        },
+        {
+          "id": "53003010",
+          "words": [
+            {
+              "id": "5300301001",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300301002",
+              "text": "γὰρ,",
+              "grammar": "Conj",
+              "lemma": "G1063"
+            },
+            {
+              "id": "5300301003",
+              "text": "ὅτε",
+              "grammar": "Adv",
+              "lemma": "G3753"
+            },
+            {
+              "id": "5300301004",
+              "text": "ἦμεν",
+              "grammar": "V-IIA-1P",
+              "lemma": "G1510"
+            },
+            {
+              "id": "5300301005",
+              "text": "πρὸς",
+              "grammar": "Prep",
+              "lemma": "G4314"
+            },
+            {
+              "id": "5300301006",
+              "text": "ὑμᾶς,",
+              "grammar": "PPro-A2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300301007",
+              "text": "τοῦτο",
+              "grammar": "DPro-ANS",
+              "lemma": "G3778"
+            },
+            {
+              "id": "5300301008",
+              "text": "παρηγγέλλομεν",
+              "grammar": "V-IIA-1P",
+              "lemma": "G3853"
+            },
+            {
+              "id": "5300301009",
+              "text": "ὑμῖν,",
+              "grammar": "PPro-D2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300301010",
+              "text": "ὅτι",
+              "grammar": "Conj",
+              "lemma": "G3754"
+            },
+            {
+              "id": "5300301011",
+              "text": "εἴ",
+              "grammar": "Conj",
+              "lemma": "G1487"
+            },
+            {
+              "id": "5300301012",
+              "text": "τις",
+              "grammar": "IPro-NMS",
+              "lemma": "G5100"
+            },
+            {
+              "id": "5300301013",
+              "text": "οὐ",
+              "grammar": "Adv",
+              "lemma": "G3756"
+            },
+            {
+              "id": "5300301014",
+              "text": "θέλει",
+              "grammar": "V-PIA-3S",
+              "lemma": "G2309"
+            },
+            {
+              "id": "5300301015",
+              "text": "ἐργάζεσθαι,",
+              "grammar": "V-PNM/P",
+              "lemma": "G2038"
+            },
+            {
+              "id": "5300301016",
+              "text": "μηδὲ",
+              "grammar": "Conj",
+              "lemma": "G3366"
+            },
+            {
+              "id": "5300301017",
+              "text": "ἐσθιέτω.",
+              "grammar": "V-PMA-3S",
+              "lemma": "G2068"
+            }
+          ]
+        },
+        {
+          "id": "53003011",
+          "words": [
+            {
+              "id": "5300301101",
+              "text": "ἀκούομεν",
+              "grammar": "V-PIA-1P",
+              "lemma": "G0191"
+            },
+            {
+              "id": "5300301102",
+              "text": "γάρ",
+              "grammar": "Conj",
+              "lemma": "G1063"
+            },
+            {
+              "id": "5300301103",
+              "text": "τινας",
+              "grammar": "IPro-AMP",
+              "lemma": "G5100"
+            },
+            {
+              "id": "5300301104",
+              "text": "περιπατοῦντας",
+              "grammar": "V-PPA-AMP",
+              "lemma": "G4043"
+            },
+            {
+              "id": "5300301105",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300301106",
+              "text": "ὑμῖν",
+              "grammar": "PPro-D2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300301107",
+              "text": "ἀτάκτως,",
+              "grammar": "Adv",
+              "lemma": "G0814"
+            },
+            {
+              "id": "5300301108",
+              "text": "μηδὲν",
+              "grammar": "Adj-ANS",
+              "lemma": "G3367"
+            },
+            {
+              "id": "5300301109",
+              "text": "ἐργαζομένους,",
+              "grammar": "V-PPM/P-AMP",
+              "lemma": "G2038"
+            },
+            {
+              "id": "5300301110",
+              "text": "ἀλλὰ",
+              "grammar": "Conj",
+              "lemma": "G0235"
+            },
+            {
+              "id": "5300301111",
+              "text": "περιεργαζομένους.",
+              "grammar": "V-PPM/P-AMP",
+              "lemma": "G4020"
+            }
+          ]
+        },
+        {
+          "id": "53003012",
+          "words": [
+            {
+              "id": "5300301201",
+              "text": "τοῖς",
+              "grammar": "Art-DMP",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300301202",
+              "text": "δὲ",
+              "grammar": "Conj",
+              "lemma": "G1161"
+            },
+            {
+              "id": "5300301203",
+              "text": "τοιούτοις,",
+              "grammar": "DPro-DMP",
+              "lemma": "G5108"
+            },
+            {
+              "id": "5300301204",
+              "text": "παραγγέλλομεν",
+              "grammar": "V-PIA-1P",
+              "lemma": "G3853"
+            },
+            {
+              "id": "5300301205",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300301206",
+              "text": "παρακαλοῦμεν",
+              "grammar": "V-PIA-1P",
+              "lemma": "G3870"
+            },
+            {
+              "id": "5300301207",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300301208",
+              "text": "Κυρίῳ",
+              "grammar": "N-DMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300301209",
+              "text": "Ἰησοῦ",
+              "grammar": "N-DMS",
+              "lemma": "G2424"
+            },
+            {
+              "id": "5300301210",
+              "text": "Χριστῷ,",
+              "grammar": "N-DMS",
+              "lemma": "G5547"
+            },
+            {
+              "id": "5300301211",
+              "text": "ἵνα",
+              "grammar": "Conj",
+              "lemma": "G2443"
+            },
+            {
+              "id": "5300301212",
+              "text": "μετὰ",
+              "grammar": "Prep",
+              "lemma": "G3326"
+            },
+            {
+              "id": "5300301213",
+              "text": "ἡσυχίας",
+              "grammar": "N-GFS",
+              "lemma": "G2271"
+            },
+            {
+              "id": "5300301214",
+              "text": "ἐργαζόμενοι,",
+              "grammar": "V-PPM/P-NMP",
+              "lemma": "G2038"
+            },
+            {
+              "id": "5300301215",
+              "text": "τὸν",
+              "grammar": "Art-AMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300301216",
+              "text": "ἑαυτῶν",
+              "grammar": "RefPro-GM3P",
+              "lemma": "G1438"
+            },
+            {
+              "id": "5300301217",
+              "text": "ἄρτον",
+              "grammar": "N-AMS",
+              "lemma": "G0740"
+            },
+            {
+              "id": "5300301218",
+              "text": "ἐσθίωσιν.",
+              "grammar": "V-PSA-3P",
+              "lemma": "G2068"
+            }
+          ]
+        },
+        {
+          "id": "53003013",
+          "words": [
+            {
+              "id": "5300301301",
+              "text": "Ὑμεῖς",
+              "grammar": "PPro-N2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300301302",
+              "text": "δέ,",
+              "grammar": "Conj",
+              "lemma": "G1161"
+            },
+            {
+              "id": "5300301303",
+              "text": "ἀδελφοί,",
+              "grammar": "N-VMP",
+              "lemma": "G0080"
+            },
+            {
+              "id": "5300301304",
+              "text": "μὴ",
+              "grammar": "Adv",
+              "lemma": "G3361"
+            },
+            {
+              "id": "5300301305",
+              "text": "ἐγκακήσητε",
+              "grammar": "V-ASA-2P",
+              "lemma": "G1573"
+            },
+            {
+              "id": "5300301306",
+              "text": "καλοποιοῦντες.",
+              "grammar": "V-PPA-NMP",
+              "lemma": "G2569"
+            }
+          ]
+        },
+        {
+          "id": "53003014",
+          "words": [
+            {
+              "id": "5300301401",
+              "text": "εἰ",
+              "grammar": "Conj",
+              "lemma": "G1487"
+            },
+            {
+              "id": "5300301402",
+              "text": "δέ",
+              "grammar": "Conj",
+              "lemma": "G1161"
+            },
+            {
+              "id": "5300301403",
+              "text": "τις",
+              "grammar": "IPro-NMS",
+              "lemma": "G5100"
+            },
+            {
+              "id": "5300301404",
+              "text": "οὐχ",
+              "grammar": "Adv",
+              "lemma": "G3756"
+            },
+            {
+              "id": "5300301405",
+              "text": "ὑπακούει",
+              "grammar": "V-PIA-3S",
+              "lemma": "G5219"
+            },
+            {
+              "id": "5300301406",
+              "text": "τῷ",
+              "grammar": "Art-DMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300301407",
+              "text": "λόγῳ",
+              "grammar": "N-DMS",
+              "lemma": "G3056"
+            },
+            {
+              "id": "5300301408",
+              "text": "ἡμῶν,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300301409",
+              "text": "διὰ",
+              "grammar": "Prep",
+              "lemma": "G1223"
+            },
+            {
+              "id": "5300301410",
+              "text": "τῆς",
+              "grammar": "Art-GFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300301411",
+              "text": "ἐπιστολῆς,",
+              "grammar": "N-GFS",
+              "lemma": "G1992"
+            },
+            {
+              "id": "5300301412",
+              "text": "τοῦτον",
+              "grammar": "DPro-AMS",
+              "lemma": "G3778"
+            },
+            {
+              "id": "5300301413",
+              "text": "σημειοῦσθε",
+              "grammar": "V-PMM-2P",
+              "lemma": "G4593"
+            },
+            {
+              "id": "5300301414",
+              "text": "μὴ",
+              "grammar": "Adv",
+              "lemma": "G3361"
+            },
+            {
+              "id": "5300301415",
+              "text": "συναναμίγνυσθαι",
+              "grammar": "V-PNM",
+              "lemma": "G4874"
+            },
+            {
+              "id": "5300301416",
+              "text": "αὐτῷ,",
+              "grammar": "PPro-DM3S",
+              "lemma": "G0846"
+            },
+            {
+              "id": "5300301417",
+              "text": "ἵνα",
+              "grammar": "Conj",
+              "lemma": "G2443"
+            },
+            {
+              "id": "5300301418",
+              "text": "ἐντραπῇ.",
+              "grammar": "V-ASP-3S",
+              "lemma": "G1788"
+            }
+          ]
+        },
+        {
+          "id": "53003015",
+          "words": [
+            {
+              "id": "5300301501",
+              "text": "καὶ",
+              "grammar": "Conj",
+              "lemma": "G2532"
+            },
+            {
+              "id": "5300301502",
+              "text": "μὴ",
+              "grammar": "Adv",
+              "lemma": "G3361"
+            },
+            {
+              "id": "5300301503",
+              "text": "ὡς",
+              "grammar": "Adv",
+              "lemma": "G5613"
+            },
+            {
+              "id": "5300301504",
+              "text": "ἐχθρὸν",
+              "grammar": "Adj-AMS",
+              "lemma": "G2190"
+            },
+            {
+              "id": "5300301505",
+              "text": "ἡγεῖσθε,",
+              "grammar": "V-PMM/P-2P",
+              "lemma": "G2233"
+            },
+            {
+              "id": "5300301506",
+              "text": "ἀλλὰ",
+              "grammar": "Conj",
+              "lemma": "G0235"
+            },
+            {
+              "id": "5300301507",
+              "text": "νουθετεῖτε",
+              "grammar": "V-PMA-2P",
+              "lemma": "G3560"
+            },
+            {
+              "id": "5300301508",
+              "text": "ὡς",
+              "grammar": "Adv",
+              "lemma": "G5613"
+            },
+            {
+              "id": "5300301509",
+              "text": "ἀδελφόν.",
+              "grammar": "N-AMS",
+              "lemma": "G0080"
+            }
+          ]
+        },
+        {
+          "id": "53003016",
+          "words": [
+            {
+              "id": "5300301601",
+              "text": "Αὐτὸς",
+              "grammar": "PPro-NM3S",
+              "lemma": "G0846"
+            },
+            {
+              "id": "5300301602",
+              "text": "δὲ",
+              "grammar": "Conj",
+              "lemma": "G1161"
+            },
+            {
+              "id": "5300301603",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300301604",
+              "text": "Κύριος",
+              "grammar": "N-NMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300301605",
+              "text": "τῆς",
+              "grammar": "Art-GFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300301606",
+              "text": "εἰρήνης,",
+              "grammar": "N-GFS",
+              "lemma": "G1515"
+            },
+            {
+              "id": "5300301607",
+              "text": "δῴη",
+              "grammar": "V-AOA-3S",
+              "lemma": "G1325"
+            },
+            {
+              "id": "5300301608",
+              "text": "ὑμῖν",
+              "grammar": "PPro-D2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300301609",
+              "text": "τὴν",
+              "grammar": "Art-AFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300301610",
+              "text": "εἰρήνην",
+              "grammar": "N-AFS",
+              "lemma": "G1515"
+            },
+            {
+              "id": "5300301611",
+              "text": "διὰ,",
+              "grammar": "Prep",
+              "lemma": "G1223"
+            },
+            {
+              "id": "5300301612",
+              "text": "παντὸς",
+              "grammar": "Adj-GMS",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300301613",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300301614",
+              "text": "παντὶ",
+              "grammar": "Adj-DMS",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300301615",
+              "text": "τρόπῳ.",
+              "grammar": "N-DMS",
+              "lemma": "G5158"
+            },
+            {
+              "id": "5300301616",
+              "text": "ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300301617",
+              "text": "Κύριος",
+              "grammar": "N-NMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300301618",
+              "text": "μετὰ",
+              "grammar": "Prep",
+              "lemma": "G3326"
+            },
+            {
+              "id": "5300301619",
+              "text": "πάντων",
+              "grammar": "Adj-GMP",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300301620",
+              "text": "ὑμῶν.",
+              "grammar": "PPro-G2P",
+              "lemma": "G4771"
+            }
+          ]
+        },
+        {
+          "id": "53003017",
+          "words": [
+            {
+              "id": "5300301701",
+              "text": "Ὁ",
+              "grammar": "Art-NMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300301702",
+              "text": "ἀσπασμὸς",
+              "grammar": "N-NMS",
+              "lemma": "G0783"
+            },
+            {
+              "id": "5300301703",
+              "text": "τῇ",
+              "grammar": "Art-DFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300301704",
+              "text": "ἐμῇ",
+              "grammar": "PPro-DF1S",
+              "lemma": "G1699"
+            },
+            {
+              "id": "5300301705",
+              "text": "χειρὶ -- ",
+              "grammar": "N-DFS",
+              "lemma": "G5495"
+            },
+            {
+              "id": "5300301706",
+              "text": "Παύλου,",
+              "grammar": "N-GMS",
+              "lemma": "G3972"
+            },
+            {
+              "id": "5300301707",
+              "text": "ὅ",
+              "grammar": "RelPro-NNS",
+              "lemma": "G3739"
+            },
+            {
+              "id": "5300301708",
+              "text": "ἐστιν",
+              "grammar": "V-PIA-3S",
+              "lemma": "G1510"
+            },
+            {
+              "id": "5300301709",
+              "text": "σημεῖον",
+              "grammar": "N-NNS",
+              "lemma": "G4592"
+            },
+            {
+              "id": "5300301710",
+              "text": "ἐν",
+              "grammar": "Prep",
+              "lemma": "G1722"
+            },
+            {
+              "id": "5300301711",
+              "text": "πάσῃ",
+              "grammar": "Adj-DFS",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300301712",
+              "text": "ἐπιστολῇ:",
+              "grammar": "N-DFS",
+              "lemma": "G1992"
+            },
+            {
+              "id": "5300301713",
+              "text": "οὕτως",
+              "grammar": "Adv",
+              "lemma": "G3779"
+            },
+            {
+              "id": "5300301714",
+              "text": "γράφω.",
+              "grammar": "V-PIA-1S",
+              "lemma": "G1125"
+            }
+          ]
+        },
+        {
+          "id": "53003018",
+          "words": [
+            {
+              "id": "5300301801",
+              "text": "ἡ",
+              "grammar": "Art-NFS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300301802",
+              "text": "χάρις",
+              "grammar": "N-NFS",
+              "lemma": "G5485"
+            },
+            {
+              "id": "5300301803",
+              "text": "τοῦ",
+              "grammar": "Art-GMS",
+              "lemma": "G3588"
+            },
+            {
+              "id": "5300301804",
+              "text": "Κυρίου",
+              "grammar": "N-GMS",
+              "lemma": "G2962"
+            },
+            {
+              "id": "5300301805",
+              "text": "ἡμῶν,",
+              "grammar": "PPro-G1P",
+              "lemma": "G1473"
+            },
+            {
+              "id": "5300301806",
+              "text": "Ἰησοῦ",
+              "grammar": "N-GMS",
+              "lemma": "G2424"
+            },
+            {
+              "id": "5300301807",
+              "text": "Χριστοῦ,",
+              "grammar": "N-GMS",
+              "lemma": "G5547"
+            },
+            {
+              "id": "5300301808",
+              "text": "μετὰ",
+              "grammar": "Prep",
+              "lemma": "G3326"
+            },
+            {
+              "id": "5300301809",
+              "text": "πάντων",
+              "grammar": "Adj-GMP",
+              "lemma": "G3956"
+            },
+            {
+              "id": "5300301810",
+              "text": "ὑμῶν.",
+              "grammar": "PPro-G2P",
+              "lemma": "G4771"
+            },
+            {
+              "id": "5300301811",
+              "text": "<Ἀμήν>.",
+              "grammar": "Heb",
+              "lemma": "G0281"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

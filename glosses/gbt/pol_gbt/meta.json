@@ -1,0 +1,30 @@
+{
+    "name": {
+        "english": "Global Bible Tools glosses (Polish)",
+        "english_abbrev": "GBTP",
+        "local": "",
+        "local_abbrev": ""
+    },
+    "year": 2025,
+    "copyright": {
+        "attribution": "Global Bible Tools",
+        "attribution_url": "https://globalbibletools.com/",
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://sellingjesus.org/free"
+            }
+        ]
+    },
+    "ids": {
+        "gbt": "pol"
+    },
+    "source": {
+        "service": "gbt",
+        "format": null,
+        "revision": 0,
+        "updated": "2025-07-04",
+        "url": "https://github.com/globalbibletools/data/archive/refs/heads/main.zip"
+    },
+    "tags": []
+}
