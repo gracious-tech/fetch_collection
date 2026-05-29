@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Majority Standard Bible",
+        "local_abbrev": "MSB",
+        "english": "Majority Standard Bible",
+        "english_abbrev": "MSB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+            }
+        ],
+        "attribution": "Berean Bible Translation Committee",
+        "attribution_url": "https://majoritybible.com/"
+    },
+    "ids": {
+        "ebible": "engmsb"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/engmsb_usfm.zip",
+        "updated": "2026-05-22",
+        "revision": 0
+    },
+    "tags": []
+}
