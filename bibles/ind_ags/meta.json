@@ -1,7 +1,7 @@
 {
     "name": {
         "local": "Alkitab Gratis untuk Semua",
-        "local_abbrev": "",
+        "local_abbrev": "AGS",
         "english": "Indonesian Bible for All",
         "english_abbrev": "IBA"
     },
@@ -18,7 +18,8 @@
         "attribution_url": "https://ebible.org/Scriptures/details.php?id=indags"
     },
     "ids": {
-        "ebible": "indags"
+        "ebible": "indags",
+        "dbl": "e40ae2c831fae448"
     },
     "source": {
         "service": "ebible",
