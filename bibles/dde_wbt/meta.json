@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Doondo Bible",
+        "english_abbrev": "DB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://app.library.bible/content/6324c54f3396d23d"
+    },
+    "ids": {
+        "dbl": "6324c54f3396d23d"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/6324c54f3396d23d/zip",
+        "updated": "2025-08-28",
+        "revision": 1
+    },
+    "tags": []
+}

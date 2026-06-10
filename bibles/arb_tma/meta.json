@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "المعنى الصحيح لإنجيل المسيح",
+        "local_abbrev": "",
+        "english": "True Meaning Arabic",
+        "english_abbrev": "TMA"
+    },
+    "year": 2021,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Eastern Zone",
+        "attribution_url": "https://app.library.bible/content/16c2ae6602e699ce"
+    },
+    "ids": {
+        "dbl": "16c2ae6602e699ce"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/16c2ae6602e699ce/zip",
+        "updated": "2021-08-24",
+        "revision": 13
+    },
+    "tags": []
+}

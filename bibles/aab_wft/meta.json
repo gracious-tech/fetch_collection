@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Arum Bible Translation",
+        "english_abbrev": "ABT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/b0bf598f0ff4424b"
+    },
+    "ids": {
+        "dbl": "b0bf598f0ff4424b"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/b0bf598f0ff4424b/zip",
+        "updated": "2025-10-03",
+        "revision": 2
+    },
+    "tags": []
+}

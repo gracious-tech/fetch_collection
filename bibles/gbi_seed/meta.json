@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Galela Bible",
+        "english_abbrev": "GB"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/3eb670b750df39f7"
+    },
+    "ids": {
+        "dbl": "3eb670b750df39f7"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/3eb670b750df39f7/zip",
+        "updated": "2026-01-20",
+        "revision": 2
+    },
+    "tags": []
+}

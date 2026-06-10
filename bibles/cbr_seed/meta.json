@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Nuevo Testamento Kakataibo",
+        "local_abbrev": "NTK",
+        "english": "",
+        "english_abbrev": ""
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/148192fa800f97cf"
+    },
+    "ids": {
+        "dbl": "148192fa800f97cf"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/148192fa800f97cf/zip",
+        "updated": "2026-03-31",
+        "revision": 1
+    },
+    "tags": []
+}

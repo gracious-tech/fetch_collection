@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Birifor Bible",
+        "english_abbrev": "BB"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/2a3b1da6f79ca791"
+    },
+    "ids": {
+        "dbl": "2a3b1da6f79ca791"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/2a3b1da6f79ca791/zip",
+        "updated": "2026-03-19",
+        "revision": 1
+    },
+    "tags": []
+}

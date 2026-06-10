@@ -10,23 +10,23 @@
     "copyright": {
         "licenses": [
             {
-                "license": "cc-by-sa",
-                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
             }
         ],
         "attribution": "Bridge Connectivity Solutions Pvt. Ltd.",
-        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=3ea0147e32eebe47"
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=3847624917e94649"
     },
     "ids": {
-        "dbl": "3ea0147e32eebe47",
+        "dbl": "3847624917e94649",
         "ebible": "mal"
     },
     "source": {
         "service": "dbl",
         "format": "usx",
-        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=3ea0147e32eebe47&type=release",
-        "updated": "2024-08-05",
-        "revision": 4
+        "url": "https://api.library.bible/v1/content-entries/3847624917e94649/zip",
+        "updated": "2025-10-27",
+        "revision": 3
     },
     "tags": []
 }

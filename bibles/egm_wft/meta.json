@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Benamanga",
+        "local_abbrev": "",
+        "english": "Benamanga Bible",
+        "english_abbrev": "BB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/0d83530b6a897308"
+    },
+    "ids": {
+        "dbl": "0d83530b6a897308"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/0d83530b6a897308/zip",
+        "updated": "2025-10-01",
+        "revision": 2
+    },
+    "tags": []
+}

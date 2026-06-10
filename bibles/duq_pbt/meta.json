@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Terjemahan Bahasa Dusun Malang",
+        "local_abbrev": "TBDM",
+        "english": "",
+        "english_abbrev": ""
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.library.bible/content/7b28235d5b2bb584"
+    },
+    "ids": {
+        "dbl": "7b28235d5b2bb584"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/7b28235d5b2bb584/zip",
+        "updated": "2025-08-08",
+        "revision": 2
+    },
+    "tags": []
+}

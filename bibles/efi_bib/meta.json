@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Open Efik Living New Testament",
+        "english_abbrev": "ELNT"
+    },
+    "year": 1995,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.library.bible/content/6284aebbb6092d93"
+    },
+    "ids": {
+        "dbl": "6284aebbb6092d93"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/6284aebbb6092d93/zip",
+        "updated": "2025-09-23",
+        "revision": 4
+    },
+    "tags": []
+}

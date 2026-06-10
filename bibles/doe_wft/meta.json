@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Chidowe",
+        "local_abbrev": "",
+        "english": "Dowe Bible",
+        "english_abbrev": "DB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/722b2e672e82b9d0"
+    },
+    "ids": {
+        "dbl": "722b2e672e82b9d0"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/722b2e672e82b9d0/zip",
+        "updated": "2025-09-15",
+        "revision": 1
+    },
+    "tags": []
+}

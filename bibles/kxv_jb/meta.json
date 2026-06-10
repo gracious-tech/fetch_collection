@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Jathapu Bible",
+        "english_abbrev": "JB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/d044be931cd316d0"
+    },
+    "ids": {
+        "dbl": "d044be931cd316d0"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/d044be931cd316d0/zip",
+        "updated": "2025-08-22",
+        "revision": 2
+    },
+    "tags": []
+}

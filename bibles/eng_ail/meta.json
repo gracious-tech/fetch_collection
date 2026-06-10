@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "African International: Literal (American English)",
+        "english_abbrev": "AIL"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Word Biblical Ministries",
+        "attribution_url": "https://app.library.bible/content/e368831dd78a4451"
+    },
+    "ids": {
+        "dbl": "e368831dd78a4451"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/e368831dd78a4451/zip",
+        "updated": "2026-05-08",
+        "revision": 15
+    },
+    "tags": []
+}

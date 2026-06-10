@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Bassa (akwaromba)",
+        "english_abbrev": "BA"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/a736b3e49f496170"
+    },
+    "ids": {
+        "dbl": "a736b3e49f496170"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/a736b3e49f496170/zip",
+        "updated": "2025-08-08",
+        "revision": 2
+    },
+    "tags": []
+}

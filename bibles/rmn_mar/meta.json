@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Makedonsko Arli Romani Biblija",
+        "local_abbrev": "MAR",
+        "english": "Macedonian Arli Romani",
+        "english_abbrev": "MAR"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/a9b597227452d7c7"
+    },
+    "ids": {
+        "dbl": "a9b597227452d7c7"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/a9b597227452d7c7/zip",
+        "updated": "2026-04-14",
+        "revision": 4
+    },
+    "tags": []
+}

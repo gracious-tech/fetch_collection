@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Lamma Bible Translation Project",
+        "english_abbrev": "LBT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/6fec21b499f7e625"
+    },
+    "ids": {
+        "dbl": "6fec21b499f7e625"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/6fec21b499f7e625/zip",
+        "updated": "2025-11-13",
+        "revision": 2
+    },
+    "tags": []
+}

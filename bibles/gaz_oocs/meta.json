@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Katabbiiwwan Qulqulluu, Turjumaana Ammayyaa Banamaa",
+        "local_abbrev": "",
+        "english": "Open Oromo Contemporary Scriptures",
+        "english_abbrev": "OOCS"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.library.bible/content/4d4cf8432222fef3"
+    },
+    "ids": {
+        "dbl": "4d4cf8432222fef3"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/4d4cf8432222fef3/zip",
+        "updated": "2025-08-03",
+        "revision": 1
+    },
+    "tags": []
+}

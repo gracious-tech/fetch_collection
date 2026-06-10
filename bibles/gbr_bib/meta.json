@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Open Gbagyi Nyizeyenya Baibwulu: Shekwoyi Ɓədagbma",
+        "local_abbrev": "",
+        "english": "Open Gbagyi Contemporary Bible",
+        "english_abbrev": "OGCB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.library.bible/content/a877a4afb69e0f39"
+    },
+    "ids": {
+        "dbl": "a877a4afb69e0f39"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/a877a4afb69e0f39/zip",
+        "updated": "2025-09-16",
+        "revision": 2
+    },
+    "tags": []
+}

@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Adele Old Testament",
+        "english_abbrev": "AOT"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/85509607cf13bf35"
+    },
+    "ids": {
+        "dbl": "85509607cf13bf35"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/85509607cf13bf35/zip",
+        "updated": "2026-02-26",
+        "revision": 1
+    },
+    "tags": []
+}

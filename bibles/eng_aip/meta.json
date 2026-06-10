@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "African International: Paraphrase (British English)",
+        "english_abbrev": "AIP"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Word Biblical  Ministries",
+        "attribution_url": "https://app.library.bible/content/55933bbd04844303"
+    },
+    "ids": {
+        "dbl": "55933bbd04844303"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/55933bbd04844303/zip",
+        "updated": "2026-05-10",
+        "revision": 15
+    },
+    "tags": []
+}

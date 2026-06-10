@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Boga New Testament",
+        "english_abbrev": "BNT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/a42c6d807cc08f34"
+    },
+    "ids": {
+        "dbl": "a42c6d807cc08f34"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/a42c6d807cc08f34/zip",
+        "updated": "2025-06-10",
+        "revision": 1
+    },
+    "tags": []
+}

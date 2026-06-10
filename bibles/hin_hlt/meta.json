@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "हिंदी लिटरल टेक्स्ट",
+        "local_abbrev": "",
+        "english": "Hindi GLT",
+        "english_abbrev": "HG"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Bridge Connectivity Solutions Pvt. Ltd.",
+        "attribution_url": "https://app.library.bible/content/75f4ad3bc1126c8f"
+    },
+    "ids": {
+        "dbl": "75f4ad3bc1126c8f"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/75f4ad3bc1126c8f/zip",
+        "updated": "2024-08-01",
+        "revision": 2
+    },
+    "tags": []
+}

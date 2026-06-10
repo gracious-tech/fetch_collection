@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Bhasa Buli",
+        "local_abbrev": "BB",
+        "english": "",
+        "english_abbrev": ""
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/ee5e0031df270ea8"
+    },
+    "ids": {
+        "dbl": "ee5e0031df270ea8"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/ee5e0031df270ea8/zip",
+        "updated": "2026-01-14",
+        "revision": 2
+    },
+    "tags": []
+}

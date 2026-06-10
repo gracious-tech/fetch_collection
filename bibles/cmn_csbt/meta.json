@@ -1,0 +1,26 @@
+{
+    "name": {
+        "local": "中文標準譯本",
+        "local_abbrev": "",
+        "english": "Chinese Standard Bible (Traditional Script)",
+        "english_abbrev": "CSBT"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [],
+        "attribution": "Global Bible Initiative",
+        "attribution_url": "https://gbi.llc/initiatives/chinese-standard-bible"
+    },
+    "ids": {
+        "dbl": "40ea8ed06ad4491f"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/40ea8ed06ad4491f/zip",
+        "updated": "2026-05-18",
+        "revision": 11
+    },
+    "tags": []
+}

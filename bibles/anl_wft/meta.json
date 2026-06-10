@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "N’hra Kly Har Anu Ca",
+        "local_abbrev": "",
+        "english": "Anu Bible",
+        "english_abbrev": "AB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/37f4f9e1f7daf031"
+    },
+    "ids": {
+        "dbl": "37f4f9e1f7daf031"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/37f4f9e1f7daf031/zip",
+        "updated": "2025-08-09",
+        "revision": 1
+    },
+    "tags": []
+}

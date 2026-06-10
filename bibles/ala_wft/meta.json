@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "OKOYI PEPE",
+        "local_abbrev": "",
+        "english": "Alago Bible Translation Project",
+        "english_abbrev": "AB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/5762b83c586abca6"
+    },
+    "ids": {
+        "dbl": "5762b83c586abca6"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/5762b83c586abca6/zip",
+        "updated": "2025-08-11",
+        "revision": 1
+    },
+    "tags": []
+}

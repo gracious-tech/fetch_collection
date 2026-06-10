@@ -1,9 +1,9 @@
 {
     "name": {
-        "local": "Ndagano mp'ya kwa wanth'u wose",
+        "local": "Kingulu",
         "local_abbrev": "",
-        "english": "Nguu New Testament",
-        "english_abbrev": "NGBV"
+        "english": "Nguu Bible",
+        "english_abbrev": "NB"
     },
     "year": 2014,
     "direction": "ltr",
@@ -15,16 +15,16 @@
             }
         ],
         "attribution": "The Word for the World International",
-        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=324f457845cb5d21"
+        "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=ace2eca02cc539c3"
     },
     "ids": {
-        "dbl": "324f457845cb5d21",
+        "dbl": "ace2eca02cc539c3",
         "ebible": "ngp"
     },
     "source": {
         "service": "dbl",
         "format": "usx",
-        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=324f457845cb5d21&type=release",
+        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=ace2eca02cc539c3&type=release",
         "updated": "2014-04-24",
         "revision": 2
     },

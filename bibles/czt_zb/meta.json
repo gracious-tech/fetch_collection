@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Zotung Bible",
+        "english_abbrev": "ZB"
+    },
+    "year": 2016,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc",
+                "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        ],
+        "attribution": "Bible Society of Myanmar",
+        "attribution_url": "https://app.library.bible/content/1a340f5ae072b2f4"
+    },
+    "ids": {
+        "dbl": "1a340f5ae072b2f4"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/1a340f5ae072b2f4/zip",
+        "updated": "2019-02-05",
+        "revision": 1
+    },
+    "tags": []
+}

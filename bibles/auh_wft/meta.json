@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Aushi Bible Translation Project",
+        "english_abbrev": "ABT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/b0707a0d2654dbe7"
+    },
+    "ids": {
+        "dbl": "b0707a0d2654dbe7"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/b0707a0d2654dbe7/zip",
+        "updated": "2025-08-05",
+        "revision": 1
+    },
+    "tags": []
+}

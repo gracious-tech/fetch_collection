@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Open Dangme Living New Testament & Psalms",
+        "english_abbrev": "ODL"
+    },
+    "year": 1997,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.library.bible/content/fcdb7801a656e5aa"
+    },
+    "ids": {
+        "dbl": "fcdb7801a656e5aa"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/fcdb7801a656e5aa/zip",
+        "updated": "2025-08-14",
+        "revision": 1
+    },
+    "tags": []
+}

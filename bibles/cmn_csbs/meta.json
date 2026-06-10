@@ -1,0 +1,26 @@
+{
+    "name": {
+        "local": "中文标准译本",
+        "local_abbrev": "",
+        "english": "Chinese Standard Bible (Simplified Script)",
+        "english_abbrev": "CSBS"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [],
+        "attribution": "Global Bible Initiative",
+        "attribution_url": "https://gbi.llc/initiatives/chinese-standard-bible"
+    },
+    "ids": {
+        "dbl": "ae1879177a93cd1e"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/ae1879177a93cd1e/zip",
+        "updated": "2026-05-18",
+        "revision": 21
+    },
+    "tags": []
+}

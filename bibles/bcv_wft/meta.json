@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Bandawa Language Project",
+        "english_abbrev": "BLP"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/368c053e8213085b"
+    },
+    "ids": {
+        "dbl": "368c053e8213085b"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/368c053e8213085b/zip",
+        "updated": "2025-11-14",
+        "revision": 3
+    },
+    "tags": []
+}

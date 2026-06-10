@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Buyu Traduction",
+        "local_abbrev": "BT",
+        "english": "",
+        "english_abbrev": ""
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/36036564e34219be"
+    },
+    "ids": {
+        "dbl": "36036564e34219be"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/36036564e34219be/zip",
+        "updated": "2025-10-28",
+        "revision": 1
+    },
+    "tags": []
+}

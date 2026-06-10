@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "ગુજરાતી સમકાલીન સ્વતંત્ર બાઇબલ",
+        "local_abbrev": "",
+        "english": "Open Gujarati Contemporary Bible",
+        "english_abbrev": "OGCB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.library.bible/content/3f8bb02b7da6818d"
+    },
+    "ids": {
+        "dbl": "3f8bb02b7da6818d"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/3f8bb02b7da6818d/zip",
+        "updated": "2025-12-16",
+        "revision": 1
+    },
+    "tags": []
+}

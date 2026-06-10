@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Chala New Testiment",
+        "english_abbrev": "CNT"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/9201f7fea75332cd"
+    },
+    "ids": {
+        "dbl": "9201f7fea75332cd"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/9201f7fea75332cd/zip",
+        "updated": "2026-02-26",
+        "revision": 1
+    },
+    "tags": []
+}

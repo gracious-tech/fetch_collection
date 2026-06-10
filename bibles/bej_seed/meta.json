@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Ugalad Ugayi",
+        "local_abbrev": "UU",
+        "english": "",
+        "english_abbrev": ""
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/752fe0f7dfba7b5f"
+    },
+    "ids": {
+        "dbl": "752fe0f7dfba7b5f"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/752fe0f7dfba7b5f/zip",
+        "updated": "2026-02-27",
+        "revision": 1
+    },
+    "tags": []
+}

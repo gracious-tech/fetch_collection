@@ -18,15 +18,15 @@
         "attribution_url": "https://berean.bible/"
     },
     "ids": {
-        "dbl": "bba9f40183526463",
+        "dbl": "317e03834065a236",
         "ebible": "engbsb"
     },
     "source": {
-        "service": "manual",
-        "format": "usfm",
-        "url": "https://bereanbible.com/bsb_usfm.zip",
-        "updated": "2024-12-20",
-        "revision": 0
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/317e03834065a236/zip",
+        "updated": "2026-02-13",
+        "revision": 1
     },
     "tags": ["recommended"]
 }

@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Woyyichchaa Maxaafa",
+        "local_abbrev": "WM",
+        "english": "Gedeo Bible",
+        "english_abbrev": ""
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/2b894378475c6aea"
+    },
+    "ids": {
+        "dbl": "2b894378475c6aea"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/2b894378475c6aea/zip",
+        "updated": "2025-08-09",
+        "revision": 1
+    },
+    "tags": []
+}

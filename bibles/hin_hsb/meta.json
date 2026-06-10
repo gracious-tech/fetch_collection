@@ -1,0 +1,26 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Hindi Standard Bible",
+        "english_abbrev": "HSB"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [],
+        "attribution": "Global Bible Initiative",
+        "attribution_url": "https://app.library.bible/content/38fa4be736b9bab9"
+    },
+    "ids": {
+        "dbl": "38fa4be736b9bab9"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/38fa4be736b9bab9/zip",
+        "updated": "2024-04-10",
+        "revision": 12
+    },
+    "tags": []
+}
