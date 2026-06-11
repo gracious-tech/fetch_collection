@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Inesaait Mamainaang Laa Sin Notsi",
+        "local_abbrev": "",
+        "english": "Notsi New Testament",
+        "english_abbrev": "NNT"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2024 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=ncf"
+    },
+    "ids": {
+        "ebible": "ncf"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/ncf_usfm.zip",
+        "updated": "2026-05-27",
+        "revision": 0
+    },
+    "tags": []
+}

@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Hset Hadròeh",
+        "local_abbrev": "",
+        "english": "Hre New Testament",
+        "english_abbrev": "HNT"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2024 Baq Thi",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=hrebt"
+    },
+    "ids": {
+        "ebible": "hrebt"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/hrebt_usfm.zip",
+        "updated": "2025-09-04",
+        "revision": 0
+    },
+    "tags": []
+}

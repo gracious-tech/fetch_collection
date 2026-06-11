@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "اكتاب مولانا المقدس",
+        "local_abbrev": "",
+        "english": "Hassaniyya Bible",
+        "english_abbrev": "HB"
+    },
+    "year": 2024,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2024 Pioneer Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=mey"
+    },
+    "ids": {
+        "ebible": "mey"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/mey_usfm.zip",
+        "updated": "2025-05-13",
+        "revision": 0
+    },
+    "tags": []
+}

@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Oofulilu Na",
+        "local_abbrev": "",
+        "english": "Kwomtari (Glefe) Bible",
+        "english_abbrev": "KB"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2024 SIL PNG and Wycliffe Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=kwo"
+    },
+    "ids": {
+        "ebible": "kwo"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/kwo_usfm.zip",
+        "updated": "2025-11-07",
+        "revision": 0
+    },
+    "tags": []
+}

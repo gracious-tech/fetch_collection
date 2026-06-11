@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Gurrgoni Scripture",
+        "local_abbrev": "GS",
+        "english": "",
+        "english_abbrev": ""
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2025 Wycliffe Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=gge"
+    },
+    "ids": {
+        "ebible": "gge"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/gge_usfm.zip",
+        "updated": "2026-02-25",
+        "revision": 0
+    },
+    "tags": []
+}

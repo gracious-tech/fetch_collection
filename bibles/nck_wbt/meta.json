@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Nakara Bible",
+        "local_abbrev": "",
+        "english": "Nakara Bible",
+        "english_abbrev": "NB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2025 Wycliffe Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=nck"
+    },
+    "ids": {
+        "ebible": "nck"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/nck_usfm.zip",
+        "updated": "2026-02-28",
+        "revision": 0
+    },
+    "tags": []
+}
