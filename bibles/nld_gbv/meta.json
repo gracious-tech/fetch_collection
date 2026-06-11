@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Gods Boek",
+        "local_abbrev": "GB",
+        "english": "",
+        "english_abbrev": ""
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Operation Mobilization International",
+        "attribution_url": "https://app.library.bible/content/c6b730bfed79fc23"
+    },
+    "ids": {
+        "dbl": "c6b730bfed79fc23"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/c6b730bfed79fc23/zip",
+        "updated": "2025-03-13",
+        "revision": 1
+    },
+    "tags": []
+}

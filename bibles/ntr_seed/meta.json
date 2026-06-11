@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Ntrubo Old Testament",
+        "english_abbrev": "NOT"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/78c171300a42ca75"
+    },
+    "ids": {
+        "dbl": "78c171300a42ca75"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/78c171300a42ca75/zip",
+        "updated": "2026-05-12",
+        "revision": 2
+    },
+    "tags": []
+}

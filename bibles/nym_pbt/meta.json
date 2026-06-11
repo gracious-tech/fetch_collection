@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Bibliya Ki'nyamwezi",
+        "local_abbrev": "",
+        "english": "Nyamwezi Bible",
+        "english_abbrev": "NB"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.library.bible/content/a92f442307b6f8fa"
+    },
+    "ids": {
+        "dbl": "a92f442307b6f8fa"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/a92f442307b6f8fa/zip",
+        "updated": "2026-02-12",
+        "revision": 1
+    },
+    "tags": []
+}

@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "तिचुरोङ क्येला सारबा करारयि किताबतेबा",
+        "local_abbrev": "",
+        "english": "Tichurong New Testament",
+        "english_abbrev": "TNT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/cbec87edeb1eeb20"
+    },
+    "ids": {
+        "dbl": "cbec87edeb1eeb20"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/cbec87edeb1eeb20/zip",
+        "updated": "2025-08-02",
+        "revision": 2
+    },
+    "tags": []
+}

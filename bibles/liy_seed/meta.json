@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Banda-Linda New Testament",
+        "english_abbrev": "BLNT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/7c1bcb0f6c35eea8"
+    },
+    "ids": {
+        "dbl": "7c1bcb0f6c35eea8"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/7c1bcb0f6c35eea8/zip",
+        "updated": "2025-10-24",
+        "revision": 1
+    },
+    "tags": []
+}

@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Songola Traduction",
+        "local_abbrev": "",
+        "english": "Songola Bible",
+        "english_abbrev": "SB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/2d8c7ee0fda46b5c"
+    },
+    "ids": {
+        "dbl": "2d8c7ee0fda46b5c"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/2d8c7ee0fda46b5c/zip",
+        "updated": "2025-10-28",
+        "revision": 1
+    },
+    "tags": []
+}

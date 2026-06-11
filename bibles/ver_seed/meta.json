@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Kobo Bible",
+        "english_abbrev": "KB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/10a6e50e9f90b6ef"
+    },
+    "ids": {
+        "dbl": "10a6e50e9f90b6ef"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/10a6e50e9f90b6ef/zip",
+        "updated": "2025-12-29",
+        "revision": 2
+    },
+    "tags": []
+}

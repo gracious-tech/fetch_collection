@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Endagano Eénsha omu Chiziinza",
+        "local_abbrev": "",
+        "english": "Zinza New Testament",
+        "english_abbrev": "ZNT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://app.library.bible/content/3c43806d73ec99c0"
+    },
+    "ids": {
+        "dbl": "3c43806d73ec99c0"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/3c43806d73ec99c0/zip",
+        "updated": "2025-03-25",
+        "revision": 1
+    },
+    "tags": []
+}

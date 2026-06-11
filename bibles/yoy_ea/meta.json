@@ -1,0 +1,26 @@
+{
+    "name": {
+        "local": "พระวรสาร",
+        "local_abbrev": "",
+        "english": "Mark in Yoy Language",
+        "english_abbrev": "YL"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [],
+        "attribution": "Empower Asia Bible Translation Movement",
+        "attribution_url": "https://app.library.bible/content/f50314ee89fb4f93"
+    },
+    "ids": {
+        "dbl": "f50314ee89fb4f93"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/f50314ee89fb4f93/zip",
+        "updated": "2026-03-20",
+        "revision": 4
+    },
+    "tags": []
+}

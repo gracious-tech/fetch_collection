@@ -2,8 +2,8 @@
     "name": {
         "local": "Pathien Lekhabu Inthieng Chongtung Thar",
         "local_abbrev": "",
-        "english": "Sakachep Bible Translation",
-        "english_abbrev": "SAK"
+        "english": "Sakachep Bible",
+        "english_abbrev": "SB"
     },
     "year": 2018,
     "direction": "ltr",
@@ -24,7 +24,10 @@
     "source": {
         "service": "dbl",
         "format": "usx",
-        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=619fcff92275df23&type=release",
+        "url": [
+            "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=619fcff92275df23&type=release",
+            "https://api.library.bible/v1/content-entries/1c18e3bbb2704a35/zip"
+        ],
         "updated": "2023-04-05",
         "revision": 2
     },

@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Ang Salita ng Diyos",
+        "local_abbrev": "ASD",
+        "english": "Open Tagalog Contemporary Bible",
+        "english_abbrev": "TCB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.library.bible/content/797c5bee4849d8b3"
+    },
+    "ids": {
+        "dbl": "797c5bee4849d8b3"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/797c5bee4849d8b3/zip",
+        "updated": "2025-10-28",
+        "revision": 2
+    },
+    "tags": []
+}

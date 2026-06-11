@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "इसोराक्‌ दुला़ड़ आड़ाङ",
+        "local_abbrev": "",
+        "english": "Santhali Bible",
+        "english_abbrev": "SB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/6d9dded1b30ec72f"
+    },
+    "ids": {
+        "dbl": "6d9dded1b30ec72f"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/6d9dded1b30ec72f/zip",
+        "updated": "2026-05-21",
+        "revision": 2
+    },
+    "tags": []
+}

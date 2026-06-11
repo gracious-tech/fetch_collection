@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Nyanja",
+        "local_abbrev": "",
+        "english": "Nyanja Tanzania Bible",
+        "english_abbrev": "NTB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/5f84a5b042979396"
+    },
+    "ids": {
+        "dbl": "5f84a5b042979396"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/5f84a5b042979396/zip",
+        "updated": "2025-08-23",
+        "revision": 1
+    },
+    "tags": []
+}

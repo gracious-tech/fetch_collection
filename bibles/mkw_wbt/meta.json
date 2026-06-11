@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Mambu ya Nzambi",
+        "local_abbrev": "",
+        "english": "Kituba Bible",
+        "english_abbrev": "KB"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://app.library.bible/content/65ee5077753c3bed"
+    },
+    "ids": {
+        "dbl": "65ee5077753c3bed"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/65ee5077753c3bed/zip",
+        "updated": "2025-05-12",
+        "revision": 2
+    },
+    "tags": []
+}

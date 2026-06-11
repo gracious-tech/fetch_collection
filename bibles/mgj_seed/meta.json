@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Abureni Bible",
+        "english_abbrev": "AB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/84b07ecd8b4b2c47"
+    },
+    "ids": {
+        "dbl": "84b07ecd8b4b2c47"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/84b07ecd8b4b2c47/zip",
+        "updated": "2025-06-03",
+        "revision": 5
+    },
+    "tags": []
+}

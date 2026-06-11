@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Sahu Bible",
+        "english_abbrev": "SB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/a789a28ecfb26531"
+    },
+    "ids": {
+        "dbl": "a789a28ecfb26531"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/a789a28ecfb26531/zip",
+        "updated": "2026-05-14",
+        "revision": 2
+    },
+    "tags": []
+}

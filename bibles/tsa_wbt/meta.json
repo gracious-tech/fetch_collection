@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Tsaangi",
+        "local_abbrev": "",
+        "english": "Tsaangi New Testament & Psalms",
+        "english_abbrev": "TNT"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://app.library.bible/content/6e65462278162711"
+    },
+    "ids": {
+        "dbl": "6e65462278162711"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/6e65462278162711/zip",
+        "updated": "2026-04-29",
+        "revision": 6
+    },
+    "tags": []
+}

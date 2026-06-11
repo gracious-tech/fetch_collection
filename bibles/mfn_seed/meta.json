@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Mbembe Osopong",
+        "local_abbrev": "",
+        "english": "Mbembe Osopong Bible",
+        "english_abbrev": "MOB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/89c3f9396b94bd6c"
+    },
+    "ids": {
+        "dbl": "89c3f9396b94bd6c"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/89c3f9396b94bd6c/zip",
+        "updated": "2025-08-01",
+        "revision": 1
+    },
+    "tags": []
+}

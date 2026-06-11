@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Tsishingini Bible",
+        "english_abbrev": "TB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/fa741c92bfb3c82d"
+    },
+    "ids": {
+        "dbl": "fa741c92bfb3c82d"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/fa741c92bfb3c82d/zip",
+        "updated": "2026-05-27",
+        "revision": 3
+    },
+    "tags": []
+}

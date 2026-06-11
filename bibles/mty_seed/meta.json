@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Nabt New Testament",
+        "english_abbrev": "NNT"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/16dfe2deb3a3b523"
+    },
+    "ids": {
+        "dbl": "16dfe2deb3a3b523"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/16dfe2deb3a3b523/zip",
+        "updated": "2026-03-23",
+        "revision": 1
+    },
+    "tags": []
+}

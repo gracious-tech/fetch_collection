@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Zul",
+        "local_abbrev": "",
+        "english": "Zul Bible",
+        "english_abbrev": "ZB"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/0ae49e1d4d276551"
+    },
+    "ids": {
+        "dbl": "0ae49e1d4d276551"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/0ae49e1d4d276551/zip",
+        "updated": "2025-06-10",
+        "revision": 2
+    },
+    "tags": []
+}

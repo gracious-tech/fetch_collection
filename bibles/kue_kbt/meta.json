@@ -1,0 +1,26 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Kuman Bible",
+        "english_abbrev": "KB"
+    },
+    "year": 2015,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [],
+        "attribution": "Global Partners",
+        "attribution_url": "https://app.library.bible/content/59843d5bcf10c9b7"
+    },
+    "ids": {
+        "dbl": "59843d5bcf10c9b7"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/59843d5bcf10c9b7/zip",
+        "updated": "2026-01-25",
+        "revision": 1
+    },
+    "tags": []
+}

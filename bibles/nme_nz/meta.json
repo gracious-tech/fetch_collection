@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Northern Zeme Bible",
+        "english_abbrev": "NZ"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Bridge Connectivity Solutions Pvt. Ltd.",
+        "attribution_url": "https://app.library.bible/content/067bdfb7336cd686"
+    },
+    "ids": {
+        "dbl": "067bdfb7336cd686"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/067bdfb7336cd686/zip",
+        "updated": "2023-06-27",
+        "revision": 2
+    },
+    "tags": []
+}

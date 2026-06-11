@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Open Nzema Word of Life",
+        "english_abbrev": "NWL"
+    },
+    "year": 1984,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.library.bible/content/31a1ef009fde5625"
+    },
+    "ids": {
+        "dbl": "31a1ef009fde5625"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/31a1ef009fde5625/zip",
+        "updated": "2025-09-29",
+        "revision": 1
+    },
+    "tags": []
+}

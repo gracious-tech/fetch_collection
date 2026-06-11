@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Kitab al Mukadas ma Arabi Juba",
+        "local_abbrev": "KMAJ",
+        "english": "Southern Arabic Bible",
+        "english_abbrev": "SAB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.library.bible/content/30dbb59c0d561d29"
+    },
+    "ids": {
+        "dbl": "30dbb59c0d561d29"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/30dbb59c0d561d29/zip",
+        "updated": "2025-06-25",
+        "revision": 1
+    },
+    "tags": []
+}

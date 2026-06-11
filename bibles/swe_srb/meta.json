@@ -1,0 +1,26 @@
+{
+    "name": {
+        "local": "Svenska Reformationsbibeln",
+        "local_abbrev": "SRB",
+        "english": "",
+        "english_abbrev": ""
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [],
+        "attribution": "Swedish Reformation Bible Society",
+        "attribution_url": "https://app.library.bible/content/a69b45ff594fc632"
+    },
+    "ids": {
+        "dbl": "a69b45ff594fc632"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/a69b45ff594fc632/zip",
+        "updated": "2026-03-19",
+        "revision": 1
+    },
+    "tags": []
+}

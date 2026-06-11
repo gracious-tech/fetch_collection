@@ -1,0 +1,26 @@
+{
+    "name": {
+        "local": "พระวรสาร",
+        "local_abbrev": "",
+        "english": "Mark in Aheu Language",
+        "english_abbrev": "AL"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [],
+        "attribution": "Empower Asia Bible Translation Movement",
+        "attribution_url": "https://app.library.bible/content/633d3de81c4f45ba"
+    },
+    "ids": {
+        "dbl": "633d3de81c4f45ba"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/633d3de81c4f45ba/zip",
+        "updated": "2026-03-20",
+        "revision": 5
+    },
+    "tags": []
+}

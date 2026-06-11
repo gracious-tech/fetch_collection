@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Kishambaa",
+        "local_abbrev": "",
+        "english": "Shambala Bible",
+        "english_abbrev": "SB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/832180b6425143f2"
+    },
+    "ids": {
+        "dbl": "832180b6425143f2"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/832180b6425143f2/zip",
+        "updated": "2025-09-15",
+        "revision": 1
+    },
+    "tags": []
+}

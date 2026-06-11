@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Open Kirundi Contemporary Bible",
+        "english_abbrev": "KCB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.library.bible/content/916af8770096015e"
+    },
+    "ids": {
+        "dbl": "916af8770096015e"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/916af8770096015e/zip",
+        "updated": "2025-09-16",
+        "revision": 2
+    },
+    "tags": []
+}

@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Teke Sud-Ouest",
+        "local_abbrev": "TSO",
+        "english": "Teke-Tyee Bible",
+        "english_abbrev": ""
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://app.library.bible/content/fedca726f2c72512"
+    },
+    "ids": {
+        "dbl": "fedca726f2c72512"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/fedca726f2c72512/zip",
+        "updated": "2025-08-28",
+        "revision": 2
+    },
+    "tags": []
+}

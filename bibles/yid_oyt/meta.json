@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "ארטאדאקסישע יידישע תּנ״ך",
+        "local_abbrev": "",
+        "english": "Orthodox Yiddish Tanakh",
+        "english_abbrev": "OYT"
+    },
+    "year": 2025,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc",
+                "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        ],
+        "attribution": "Artists for Israel International",
+        "attribution_url": "https://app.library.bible/content/bfdb25f511477276"
+    },
+    "ids": {
+        "dbl": "bfdb25f511477276"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/bfdb25f511477276/zip",
+        "updated": "2025-11-17",
+        "revision": 3
+    },
+    "tags": []
+}

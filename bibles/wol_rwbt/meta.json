@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Kàddug Yàlla",
+        "local_abbrev": "KY",
+        "english": "Regional Wolof Bible",
+        "english_abbrev": "RWB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc",
+                "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        ],
+        "attribution": "WorldVenture",
+        "attribution_url": "https://app.library.bible/content/f31163c81bba4b74"
+    },
+    "ids": {
+        "dbl": "f31163c81bba4b74"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/f31163c81bba4b74/zip",
+        "updated": "2026-04-20",
+        "revision": 7
+    },
+    "tags": []
+}

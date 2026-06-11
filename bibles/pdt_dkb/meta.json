@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "De Kjennichs Bibel",
+        "local_abbrev": "DKB",
+        "english": "Plautdietsch Bible",
+        "english_abbrev": ""
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc",
+                "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        ],
+        "attribution": "Lebenswasser",
+        "attribution_url": "https://app.library.bible/content/ba493b2d93531334"
+    },
+    "ids": {
+        "dbl": "ba493b2d93531334"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/ba493b2d93531334/zip",
+        "updated": "2025-11-18",
+        "revision": 1
+    },
+    "tags": []
+}

@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Perjanjian Baru Bahasa Sawai",
+        "local_abbrev": "",
+        "english": "Sawai Bible",
+        "english_abbrev": "SB"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/5130dfe848263b6b"
+    },
+    "ids": {
+        "dbl": "5130dfe848263b6b"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/5130dfe848263b6b/zip",
+        "updated": "2026-01-14",
+        "revision": 2
+    },
+    "tags": []
+}

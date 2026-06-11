@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "KoreKore Bible",
+        "english_abbrev": "KKB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/7e47cd934792d014"
+    },
+    "ids": {
+        "dbl": "7e47cd934792d014"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/7e47cd934792d014/zip",
+        "updated": "2025-08-06",
+        "revision": 1
+    },
+    "tags": []
+}

@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Bahasa Tabaru",
+        "local_abbrev": "",
+        "english": "Tabaru Bible",
+        "english_abbrev": "TB"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/7604fe791478d847"
+    },
+    "ids": {
+        "dbl": "7604fe791478d847"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/7604fe791478d847/zip",
+        "updated": "2026-05-07",
+        "revision": 5
+    },
+    "tags": []
+}

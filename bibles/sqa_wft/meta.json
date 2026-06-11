@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Ushama Bible",
+        "english_abbrev": "UB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/cec4d5bce6c08fc6"
+    },
+    "ids": {
+        "dbl": "cec4d5bce6c08fc6"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/cec4d5bce6c08fc6/zip",
+        "updated": "2025-11-27",
+        "revision": 3
+    },
+    "tags": []
+}

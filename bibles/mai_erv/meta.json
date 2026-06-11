@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "devanagari",
+        "local_abbrev": "",
+        "english": "Maithli Full Bible (Easy to Read Version)",
+        "english_abbrev": "MTFB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Bridge Connectivity Solutions Pvt. Ltd.",
+        "attribution_url": "https://app.library.bible/content/2acb82c33dca4c67"
+    },
+    "ids": {
+        "dbl": "2acb82c33dca4c67"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/2acb82c33dca4c67/zip",
+        "updated": "2025-12-01",
+        "revision": 1
+    },
+    "tags": []
+}

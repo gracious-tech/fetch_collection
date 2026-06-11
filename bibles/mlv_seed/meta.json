@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Motlap New Testament",
+        "english_abbrev": "MNT"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/ae2bad925cc7f490"
+    },
+    "ids": {
+        "dbl": "ae2bad925cc7f490"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/ae2bad925cc7f490/zip",
+        "updated": "2026-05-18",
+        "revision": 1
+    },
+    "tags": []
+}

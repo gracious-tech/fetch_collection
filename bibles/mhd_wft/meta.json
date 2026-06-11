@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Mbugu",
+        "local_abbrev": "",
+        "english": "Mbugu New Testament",
+        "english_abbrev": "MNT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/610d3dc78ced0749"
+    },
+    "ids": {
+        "dbl": "610d3dc78ced0749"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/610d3dc78ced0749/zip",
+        "updated": "2025-08-14",
+        "revision": 2
+    },
+    "tags": []
+}

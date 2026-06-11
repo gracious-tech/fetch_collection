@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Me̱ꞌpha̱a̱ Mañúwi̱ín",
+        "local_abbrev": "MM",
+        "english": "",
+        "english_abbrev": ""
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://app.library.bible/content/7168751f91082b62"
+    },
+    "ids": {
+        "dbl": "7168751f91082b62"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/7168751f91082b62/zip",
+        "updated": "2025-07-31",
+        "revision": 1
+    },
+    "tags": []
+}

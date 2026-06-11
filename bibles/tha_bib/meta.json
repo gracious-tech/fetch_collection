@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "พระคริสตธรรมคัมภีร์ไทย ฉบับอมตธรรมร่วมสมัยแบบเปิด",
+        "local_abbrev": "",
+        "english": "Open Thai New Contemporary Version",
+        "english_abbrev": "TNCV"
+    },
+    "year": 2007,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.library.bible/content/2ce937c12ac62906"
+    },
+    "ids": {
+        "dbl": "2ce937c12ac62906"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/2ce937c12ac62906/zip",
+        "updated": "2025-07-31",
+        "revision": 1
+    },
+    "tags": []
+}

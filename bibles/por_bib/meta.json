@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Open Nova Bíblia Viva",
+        "local_abbrev": "NBV",
+        "english": "",
+        "english_abbrev": ""
+    },
+    "year": 2007,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.library.bible/content/941380703fcb500c"
+    },
+    "ids": {
+        "dbl": "941380703fcb500c"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/941380703fcb500c/zip",
+        "updated": "2025-05-15",
+        "revision": 1
+    },
+    "tags": []
+}

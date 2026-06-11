@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Lokonda Bible",
+        "english_abbrev": "LB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/cf984f1e31b35fbb"
+    },
+    "ids": {
+        "dbl": "cf984f1e31b35fbb"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/cf984f1e31b35fbb/zip",
+        "updated": "2025-09-29",
+        "revision": 1
+    },
+    "tags": []
+}

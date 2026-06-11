@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Miwera",
+        "local_abbrev": "",
+        "english": "Miwera Bible",
+        "english_abbrev": "MB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/13f88ca7fd81bc47"
+    },
+    "ids": {
+        "dbl": "13f88ca7fd81bc47"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/13f88ca7fd81bc47/zip",
+        "updated": "2025-09-29",
+        "revision": 1
+    },
+    "tags": []
+}

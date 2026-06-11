@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Mbula-Bwazza",
+        "local_abbrev": "",
+        "english": "Mbula Bible",
+        "english_abbrev": "MB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/3109e777c3c9485a"
+    },
+    "ids": {
+        "dbl": "3109e777c3c9485a"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/3109e777c3c9485a/zip",
+        "updated": "2025-08-01",
+        "revision": 2
+    },
+    "tags": []
+}

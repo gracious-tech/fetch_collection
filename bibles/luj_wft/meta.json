@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Kuba Bible",
+        "english_abbrev": "KB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/dfceee8f9bf63cb8"
+    },
+    "ids": {
+        "dbl": "dfceee8f9bf63cb8"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/dfceee8f9bf63cb8/zip",
+        "updated": "2025-09-15",
+        "revision": 1
+    },
+    "tags": []
+}

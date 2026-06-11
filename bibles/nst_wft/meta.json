@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Koran Tamrunx Chuyo Naga",
+        "local_abbrev": "",
+        "english": "Tangshang: Chuyo Bible",
+        "english_abbrev": "TCB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/0370374733847b92"
+    },
+    "ids": {
+        "dbl": "0370374733847b92"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/0370374733847b92/zip",
+        "updated": "2025-08-08",
+        "revision": 1
+    },
+    "tags": []
+}

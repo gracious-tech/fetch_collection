@@ -1,0 +1,26 @@
+{
+    "name": {
+        "local": "หนังสือมาระโกในภาษา",
+        "local_abbrev": "",
+        "english": "Mark in Moklen Language",
+        "english_abbrev": "ML"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [],
+        "attribution": "Empower Asia Bible Translation Movement",
+        "attribution_url": "https://app.library.bible/content/d55400a06fce43d1"
+    },
+    "ids": {
+        "dbl": "d55400a06fce43d1"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/d55400a06fce43d1/zip",
+        "updated": "2026-03-20",
+        "revision": 2
+    },
+    "tags": []
+}

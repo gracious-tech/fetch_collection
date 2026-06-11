@@ -1,0 +1,26 @@
+{
+    "name": {
+        "local": "พระวรสาร",
+        "local_abbrev": "",
+        "english": "Mark in Nyaw Language",
+        "english_abbrev": "NL"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [],
+        "attribution": "Empower Asia Bible Translation Movement",
+        "attribution_url": "https://app.library.bible/content/8b0087e5dba74931"
+    },
+    "ids": {
+        "dbl": "8b0087e5dba74931"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/8b0087e5dba74931/zip",
+        "updated": "2026-03-20",
+        "revision": 2
+    },
+    "tags": []
+}

@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Toka-Leya Bible",
+        "english_abbrev": "TLB"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/99e41087ffe75f60"
+    },
+    "ids": {
+        "dbl": "99e41087ffe75f60"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/99e41087ffe75f60/zip",
+        "updated": "2026-04-06",
+        "revision": 2
+    },
+    "tags": []
+}

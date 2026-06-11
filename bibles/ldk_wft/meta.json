@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Munga Bible",
+        "english_abbrev": "MB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/abc557f289f8b13f"
+    },
+    "ids": {
+        "dbl": "abc557f289f8b13f"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/abc557f289f8b13f/zip",
+        "updated": "2025-11-14",
+        "revision": 2
+    },
+    "tags": []
+}

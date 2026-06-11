@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Mbunga",
+        "local_abbrev": "",
+        "english": "Mbunga New Testament",
+        "english_abbrev": "MNT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/6f6cca05a7913c93"
+    },
+    "ids": {
+        "dbl": "6f6cca05a7913c93"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/6f6cca05a7913c93/zip",
+        "updated": "2025-08-14",
+        "revision": 1
+    },
+    "tags": []
+}

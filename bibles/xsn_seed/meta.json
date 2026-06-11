@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Sanga New Testament",
+        "english_abbrev": "SNT"
+    },
+    "year": 2022,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/fac9a9a43e03231b"
+    },
+    "ids": {
+        "dbl": "fac9a9a43e03231b"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/fac9a9a43e03231b/zip",
+        "updated": "2025-05-26",
+        "revision": 2
+    },
+    "tags": []
+}

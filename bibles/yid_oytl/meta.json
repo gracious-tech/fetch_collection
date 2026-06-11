@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Vort far vort iberzetsung fun Orthodoksishe Yidishe Tanakh",
+        "local_abbrev": "",
+        "english": "Orthodox Yiddish Tanakh (Latin script)",
+        "english_abbrev": "OYTL"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc",
+                "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        ],
+        "attribution": "Artists for Israel International",
+        "attribution_url": "https://app.library.bible/content/77bafd78af8cbae8"
+    },
+    "ids": {
+        "dbl": "77bafd78af8cbae8"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/77bafd78af8cbae8/zip",
+        "updated": "2025-11-19",
+        "revision": 1
+    },
+    "tags": []
+}

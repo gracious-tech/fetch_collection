@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "दयान बचन",
+        "local_abbrev": "",
+        "english": "Kaike New Testament",
+        "english_abbrev": "KNT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/0621d8e081d356b2"
+    },
+    "ids": {
+        "dbl": "0621d8e081d356b2"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/0621d8e081d356b2/zip",
+        "updated": "2025-08-06",
+        "revision": 1
+    },
+    "tags": []
+}

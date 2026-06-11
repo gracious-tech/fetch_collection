@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Kapin",
+        "local_abbrev": "",
+        "english": "Kapin Bible",
+        "english_abbrev": "KB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/a9e92144b9ab404b"
+    },
+    "ids": {
+        "dbl": "a9e92144b9ab404b"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/a9e92144b9ab404b/zip",
+        "updated": "2025-05-12",
+        "revision": 2
+    },
+    "tags": []
+}

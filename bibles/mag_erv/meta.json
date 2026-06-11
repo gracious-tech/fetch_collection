@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "devanagari",
+        "local_abbrev": "",
+        "english": "Magahi Full Bible (Easy to Read Version)",
+        "english_abbrev": "MFB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Bridge Connectivity Solutions Pvt. Ltd.",
+        "attribution_url": "https://app.library.bible/content/884acb88d7c24cb9"
+    },
+    "ids": {
+        "dbl": "884acb88d7c24cb9"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/884acb88d7c24cb9/zip",
+        "updated": "2025-12-01",
+        "revision": 1
+    },
+    "tags": []
+}

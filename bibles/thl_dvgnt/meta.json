@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "देउखरिया थारु",
+        "local_abbrev": "",
+        "english": "Deukhuri Bible",
+        "english_abbrev": "DB"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Beyond Translation",
+        "attribution_url": "https://app.library.bible/content/3db2519064179783"
+    },
+    "ids": {
+        "dbl": "3db2519064179783"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/3db2519064179783/zip",
+        "updated": "2023-01-03",
+        "revision": 4
+    },
+    "tags": []
+}
