@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Adisana Ñwed AbasiKe Ikọ Ibibio Ayio Mfịn",
+        "local_abbrev": "",
+        "english": "Ibibio Contemporary Bible",
+        "english_abbrev": "ICB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.library.bible/content/825826284e6a73a9"
+    },
+    "ids": {
+        "dbl": "825826284e6a73a9"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/825826284e6a73a9/zip",
+        "updated": "2025-09-16",
+        "revision": 2
+    },
+    "tags": []
+}

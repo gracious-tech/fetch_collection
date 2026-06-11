@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Kitab Kehidupan Perjanjian Baru",
+        "local_abbrev": "KKPB",
+        "english": "Indonesian Contemporary New Testament",
+        "english_abbrev": "ICNT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.library.bible/content/75bcbe01601faaf6"
+    },
+    "ids": {
+        "dbl": "75bcbe01601faaf6"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/75bcbe01601faaf6/zip",
+        "updated": "2026-05-19",
+        "revision": 3
+    },
+    "tags": []
+}

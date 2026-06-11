@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Kalanga Translation",
+        "english_abbrev": "KT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/462d6dedcd43919a"
+    },
+    "ids": {
+        "dbl": "462d6dedcd43919a"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/462d6dedcd43919a/zip",
+        "updated": "2025-10-07",
+        "revision": 2
+    },
+    "tags": []
+}

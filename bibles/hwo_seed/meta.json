@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Hona Bible",
+        "english_abbrev": "HB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/0574f6c96804cf47"
+    },
+    "ids": {
+        "dbl": "0574f6c96804cf47"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/0574f6c96804cf47/zip",
+        "updated": "2025-06-10",
+        "revision": 4
+    },
+    "tags": []
+}

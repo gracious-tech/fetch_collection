@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Ajigha Bible",
+        "english_abbrev": "AB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/4493d06cd026920d"
+    },
+    "ids": {
+        "dbl": "4493d06cd026920d"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/4493d06cd026920d/zip",
+        "updated": "2025-04-23",
+        "revision": 1
+    },
+    "tags": []
+}

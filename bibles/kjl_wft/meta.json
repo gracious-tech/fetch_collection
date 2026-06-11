@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "सा:रौ बाचा",
+        "local_abbrev": "",
+        "english": "Wale Magar Kham New Testament",
+        "english_abbrev": "WMK"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/07333533b2c19da9"
+    },
+    "ids": {
+        "dbl": "07333533b2c19da9"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/07333533b2c19da9/zip",
+        "updated": "2026-05-21",
+        "revision": 3
+    },
+    "tags": []
+}

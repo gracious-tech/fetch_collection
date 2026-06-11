@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Hunde Nouveau Testament",
+        "local_abbrev": "HNT",
+        "english": "",
+        "english_abbrev": ""
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/727956c4e33a60cc"
+    },
+    "ids": {
+        "dbl": "727956c4e33a60cc"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/727956c4e33a60cc/zip",
+        "updated": "2025-12-29",
+        "revision": 2
+    },
+    "tags": []
+}

@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Isanzu Bible",
+        "english_abbrev": "IB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/a61fa9a81f3a5fa3"
+    },
+    "ids": {
+        "dbl": "a61fa9a81f3a5fa3"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/a61fa9a81f3a5fa3/zip",
+        "updated": "2025-10-21",
+        "revision": 1
+    },
+    "tags": []
+}

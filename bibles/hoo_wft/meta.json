@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Holoholo Bible Translation",
+        "english_abbrev": "HBT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/2fb0a3820c83cd7b"
+    },
+    "ids": {
+        "dbl": "2fb0a3820c83cd7b"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/2fb0a3820c83cd7b/zip",
+        "updated": "2025-08-05",
+        "revision": 1
+    },
+    "tags": []
+}

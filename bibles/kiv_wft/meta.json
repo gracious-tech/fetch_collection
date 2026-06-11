@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Kimbu New Testament",
+        "english_abbrev": "KNT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/cdf3d9b91be5502e"
+    },
+    "ids": {
+        "dbl": "cdf3d9b91be5502e"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/cdf3d9b91be5502e/zip",
+        "updated": "2025-08-14",
+        "revision": 1
+    },
+    "tags": []
+}

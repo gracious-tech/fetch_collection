@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Wanu Bible",
+        "english_abbrev": "WB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/1558d698ae360214"
+    },
+    "ids": {
+        "dbl": "1558d698ae360214"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/1558d698ae360214/zip",
+        "updated": "2025-10-03",
+        "revision": 2
+    },
+    "tags": []
+}

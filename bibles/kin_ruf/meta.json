@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Rufumbira New Testament",
+        "english_abbrev": "RNT"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ],
+        "attribution": "Bible Society of Uganda",
+        "attribution_url": "https://app.library.bible/content/66a0abb518ddb682"
+    },
+    "ids": {
+        "dbl": "66a0abb518ddb682"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/66a0abb518ddb682/zip",
+        "updated": "2025-12-08",
+        "revision": 1
+    },
+    "tags": []
+}

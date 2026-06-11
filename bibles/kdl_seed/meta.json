@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Tsikimba Bible",
+        "english_abbrev": "TB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/431fa45162c13dd0"
+    },
+    "ids": {
+        "dbl": "431fa45162c13dd0"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/431fa45162c13dd0/zip",
+        "updated": "2025-05-22",
+        "revision": 1
+    },
+    "tags": []
+}

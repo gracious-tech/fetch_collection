@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Kuturmi Bible",
+        "english_abbrev": "KB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/6985c7453b1a4d6c"
+    },
+    "ids": {
+        "dbl": "6985c7453b1a4d6c"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/6985c7453b1a4d6c/zip",
+        "updated": "2025-06-11",
+        "revision": 1
+    },
+    "tags": []
+}
