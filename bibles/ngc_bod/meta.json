@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Bodjenga",
+        "local_abbrev": "",
+        "english": "Bodjenga Bible",
+        "english_abbrev": "BOD"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/b2663aa9a01800c8"
+    },
+    "ids": {
+        "dbl": "b2663aa9a01800c8"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/b2663aa9a01800c8/zip",
+        "updated": "2025-09-29",
+        "revision": 1
+    },
+    "tags": []
+}
