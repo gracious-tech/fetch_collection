@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "พระคริสตธรรมคัมภีร์ ฉบับไทยสามัญแบบเปิด",
+        "local_abbrev": "",
+        "english": "Open Thai Common Version",
+        "english_abbrev": "TCV"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.library.bible/content/a62f327aa0179709"
+    },
+    "ids": {
+        "dbl": "a62f327aa0179709"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/a62f327aa0179709/zip",
+        "updated": "2025-07-31",
+        "revision": 2
+    },
+    "tags": []
+}

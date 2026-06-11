@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Bondjale",
+        "local_abbrev": "",
+        "english": "Bondjale Bible",
+        "english_abbrev": "BB"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/cbb746306ebec1b9"
+    },
+    "ids": {
+        "dbl": "cbb746306ebec1b9"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/cbb746306ebec1b9/zip",
+        "updated": "2025-09-29",
+        "revision": 1
+    },
+    "tags": []
+}

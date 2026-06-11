@@ -1,9 +1,9 @@
 {
     "name": {
-        "local": "",
-        "local_abbrev": "",
-        "english": "African International: Paraphrase (British English)",
-        "english_abbrev": "AIP"
+        "local": "African International: Literal (British English)",
+        "local_abbrev": "AILB",
+        "english": "African International: Literal (British English)",
+        "english_abbrev": "AILB"
     },
     "year": 2026,
     "direction": "ltr",
@@ -15,16 +15,16 @@
             }
         ],
         "attribution": "Word Biblical  Ministries",
-        "attribution_url": "https://app.library.bible/content/55933bbd04844303"
+        "attribution_url": "https://app.library.bible/content/b2a377edb4454c0e"
     },
     "ids": {
-        "dbl": "55933bbd04844303"
+        "dbl": "b2a377edb4454c0e"
     },
     "source": {
         "service": "dbl",
         "format": "usx",
-        "url": "https://api.library.bible/v1/content-entries/55933bbd04844303/zip",
-        "updated": "2026-05-10",
+        "url": "https://api.library.bible/v1/content-entries/b2a377edb4454c0e/zip",
+        "updated": "2026-05-08",
         "revision": 15
     },
     "tags": []
