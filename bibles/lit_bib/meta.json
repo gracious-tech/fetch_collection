@@ -2,7 +2,7 @@
     "name": {
         "local": "Naudojimo teisės atviros „Jėzus ir Jo pasekėjai“",
         "local_abbrev": "OJJP",
-        "english": "Open Lithuanian Luke-Acts",
+        "english": "Open Lithuanian Bible",
         "english_abbrev": ""
     },
     "year": 1995,
@@ -18,7 +18,8 @@
         "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=c6f92d2fda34d59d"
     },
     "ids": {
-        "dbl": "c6f92d2fda34d59d"
+        "dbl": "c6f92d2fda34d59d",
+        "ebible": "litb"
     },
     "source": {
         "service": "dbl",
