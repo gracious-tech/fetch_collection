@@ -18,7 +18,8 @@
         "attribution_url": "https://app.thedigitalbiblelibrary.org/entry?id=c89622d31b60c444"
     },
     "ids": {
-        "dbl": "c89622d31b60c444"
+        "dbl": "c89622d31b60c444",
+        "ebible": "engojb"
     },
     "source": {
         "service": "dbl",
@@ -27,5 +28,7 @@
         "updated": "2024-10-08",
         "revision": 4
     },
-    "tags": ["niche"]
+    "tags": [
+        "niche"
+    ]
 }
