@@ -8,7 +8,12 @@
     "year": 2026,
     "direction": "ltr",
     "copyright": {
-        "licenses": [],
+        "licenses": [
+            {
+                "license": "cc-by-nc-sa",
+                "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+            }
+        ],
         "attribution": "Swedish Reformation Bible Society",
         "attribution_url": "https://app.library.bible/content/a69b45ff594fc632"
     },

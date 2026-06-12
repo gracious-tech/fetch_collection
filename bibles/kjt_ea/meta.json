@@ -8,7 +8,12 @@
     "year": 2025,
     "direction": "ltr",
     "copyright": {
-        "licenses": [],
+        "licenses": [
+            {
+                "license": "cc-by-nc-sa",
+                "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+            }
+        ],
         "attribution": "Empower Asia Bible Translation Movement",
         "attribution_url": "https://app.library.bible/content/0138eaa063aa48be"
     },

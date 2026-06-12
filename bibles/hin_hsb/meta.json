@@ -8,7 +8,12 @@
     "year": 2023,
     "direction": "ltr",
     "copyright": {
-        "licenses": [],
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
         "attribution": "Global Bible Initiative",
         "attribution_url": "https://app.library.bible/content/38fa4be736b9bab9"
     },
