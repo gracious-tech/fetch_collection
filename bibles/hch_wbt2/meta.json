@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "KAKAƗYARI NIUKIEYA XAPAYARI WIXARIKAKƗ",
+        "local_abbrev": "",
+        "english": "Huichol Bible 2020",
+        "english_abbrev": "HB20"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/</a/"
+            }
+        ],
+        "attribution": "Copyright © 2020 Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=hch"
+    },
+    "ids": {
+        "ebible": "hch"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/hch_usfm.zip",
+        "updated": "2025-09-03",
+        "revision": 0
+    },
+    "tags": []
+}

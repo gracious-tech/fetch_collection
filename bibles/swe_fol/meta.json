@@ -1,0 +1,37 @@
+{
+    "name": {
+        "local": "Svenska Folkbibeln",
+        "local_abbrev": "",
+        "english": "Swedish Folkbibleln",
+        "english_abbrev": "SF"
+    },
+    "year": 2015,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": {
+                    "forbid_commercial": true,
+                    "forbid_derivatives": true,
+                    "forbid_attributionless": true,
+                    "forbid_limitless": false,
+                    "forbid_other": false
+                },
+                "url": "https://folkbibeln.org/copyright-och-frihet/"
+            }
+        ],
+        "attribution": "Stiftelsen Svenska Folkbibeln, Stockholm, och Stiftelsen Biblicum, Ljungby",
+        "attribution_url": "https://folkbibeln.org/"
+    },
+    "ids": {
+        "ebible": "swef"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/swef_usfm.zip",
+        "updated": "2024-12-18",
+        "revision": 0
+    },
+    "tags": []
+}

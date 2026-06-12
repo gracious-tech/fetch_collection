@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "世界中文圣经",
+        "local_abbrev": "",
+        "english": "World Chinese Bible",
+        "english_abbrev": "WCB"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=cmnswcb"
+            }
+        ],
+        "attribution": "ebible.org",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=cmnswcb"
+    },
+    "ids": {
+        "ebible": "cmnswcb"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/cmnswcb_usfm.zip",
+        "updated": "2026-05-19",
+        "revision": 0
+    },
+    "tags": []
+}

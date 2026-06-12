@@ -1,9 +1,9 @@
 {
     "name": {
-        "local": "Kàddug Yàlla gi",
+        "local": "Kàddug Yàlla",
         "local_abbrev": "",
-        "english": "Wolof Bible (2020)",
-        "english_abbrev": "KYG"
+        "english": "Wolof Bible",
+        "english_abbrev": "WB"
     },
     "year": 2020,
     "direction": "ltr",
@@ -14,16 +14,16 @@
                 "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
             }
         ],
-        "attribution": "Copyright © 2010, 2020 La Mission Baptiste du Sénégal",
-        "attribution_url": "https://ebible.org/Scriptures/details.php?id=wolKYG"
+        "attribution": "La Mission Baptiste du Sénégal",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=wolmbs"
     },
     "ids": {
-        "ebible": "wolKYG"
+        "ebible": "wolmbs"
     },
     "source": {
         "service": "ebible",
         "format": "usfm",
-        "url": "https://ebible.org/Scriptures/wolKYG_usfm.zip",
+        "url": "https://ebible.org/Scriptures/wolmbs_usfm.zip",
         "updated": "2020-07-22",
         "revision": 0
     },

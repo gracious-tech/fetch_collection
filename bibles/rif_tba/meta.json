@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "أَذْلِيسْ إِقدّْسنْ",
+        "local_abbrev": "",
+        "english": "Tarifit Bible (Arabic Script)",
+        "english_abbrev": "TBA"
+    },
+    "year": 2020,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 www.tarifit.info",
+        "attribution_url": "https://tarifit.info/"
+    },
+    "ids": {
+        "ebible": "rifa"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/rifa_usfm.zip",
+        "updated": "2025-07-25",
+        "revision": 0
+    },
+    "tags": []
+}

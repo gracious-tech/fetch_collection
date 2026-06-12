@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Adlis Iqeddsen",
+        "local_abbrev": "",
+        "english": "Tarifit Bible (Latin Script)",
+        "english_abbrev": "TBL"
+    },
+    "year": 2020,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2020 www.tarifit.info",
+        "attribution_url": "https://tarifit.info/"
+    },
+    "ids": {
+        "ebible": "rifl"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/rifl_usfm.zip",
+        "updated": "2025-07-25",
+        "revision": 0
+    },
+    "tags": []
+}

@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Η Παλαιά Διαθήκη κατά τη μετάφραση των εβδομήκοντα",
+        "local_abbrev": "",
+        "english": "The Old Testament Septuagint",
+        "english_abbrev": "OTS"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=grclxx"
+            }
+        ],
+        "attribution": "Orthodox Media Network",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=grclxx"
+    },
+    "ids": {
+        "ebible": "grclxx"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/grclxx_usfm.zip",
+        "updated": "2026-02-13",
+        "revision": 0
+    },
+    "tags": []
+}

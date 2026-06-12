@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "הברית החדשה של סלקינסון",
+        "local_abbrev": "",
+        "english": "Salkinson Hebrew New Testament",
+        "english_abbrev": "SHNT"
+    },
+    "year": 1886,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=hebsg"
+            }
+        ],
+        "attribution": "Salkinson and Ginsberg",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=hebsg"
+    },
+    "ids": {
+        "ebible": "hebsg"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/hebsg_usfm.zip",
+        "updated": "2025-05-07",
+        "revision": 0
+    },
+    "tags": []
+}

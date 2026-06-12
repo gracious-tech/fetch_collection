@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Easy to Translate English",
+        "local_abbrev": "",
+        "english": "Easy to Translate English",
+        "english_abbrev": "ETT"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Copyright © 2025 Tyndale Bible Translators",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=enge2t"
+    },
+    "ids": {
+        "ebible": "enge2t"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/enge2t_usfm.zip",
+        "updated": "2025-10-24",
+        "revision": 0
+    },
+    "tags": ["niche"]
+}

@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "316-biblían",
+        "local_abbrev": "316",
+        "english": "316 Bible",
+        "english_abbrev": "316"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.is"
+            }
+        ],
+        "attribution": "Copyright © 2026 Every Nation Iceland",
+        "attribution_url": "https://316.is/biblian/"
+    },
+    "ids": {
+        "ebible": "isl316"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/isl316_usfm.zip",
+        "updated": "2026-06-04",
+        "revision": 0
+    },
+    "tags": []
+}

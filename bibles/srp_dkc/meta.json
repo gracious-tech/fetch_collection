@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Свето писмо или Библија Превод Даничић-Караџић",
+        "local_abbrev": "",
+        "english": "Serbian DK Bible (Cyrillic)",
+        "english_abbrev": "SDK"
+    },
+    "year": 1868,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": "https://ebible.org/Scriptures/details.php?id=srp1868"
+            }
+        ],
+        "attribution": "public domain",
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=srp1868"
+    },
+    "ids": {
+        "ebible": "srp1868"
+    },
+    "source": {
+        "service": "ebible",
+        "format": "usfm",
+        "url": "https://ebible.org/Scriptures/srp1868_usfm.zip",
+        "updated": "2026-01-03",
+        "revision": 0
+    },
+    "tags": []
+}
