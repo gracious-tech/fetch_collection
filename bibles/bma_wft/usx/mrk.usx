@@ -1,0 +1,756 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
+  <book code="MRK" style="id">- Lamma Bible Translation</book>
+  <para style="h">Marku</para>
+  <para style="toc1">Ruu Tɔ̃vɨn Au Shɛ Marku Naa</para>
+  <para style="toc2">Marku</para>
+  <para style="toc3">Mk</para>
+  <para style="mt2">Ruu Tɔ̃vɨn Au Shɛ a</para>
+  <para style="mt1">Marku Naa</para>
+  <para style="imt">Yutasinɛ</para>
+  <para style="ip">
+    <char style="bk" closed="false">Ruu tɔ̃vɨn au shɛ a Marku naa</char>
+    <char style="bk" closed="false">gaa a nyanwanɛ nɛ &lt;&lt;Aru ruu tɔ̃vɨn a Yesɔ kirisi yuu, Ɗa Jaa.&gt;&gt; Shɔ tasinɛ Yesɔ kɔ ɔ̃rɛ shɔvishonɛ au kaka ɗɔn. Shɔ zɛu kaka au vimatinɛ, shɔ zɛu kaka tɛɛ rãmãyi ɓɛɛtɔ, a shɔ ruuvini yaasinɛ. Yesɔ nwanya au ruubii naa shɔzɛ jaa, au arɛ nɛn ã u suru aru shɔu kpaa naraanɛ a ruuvini.</char>
+  </para>
+  <para style="ip">
+    <char style="bk" closed="false">Marku</char>
+    <char style="bk" closed="false">nwanya a Yesɔ rubii a nyaba gbororo, ã kaka tɔ fɛ̃ɛm a vigbete Yesɔ pɛliyɛni tɛɛ viu shayɛtɔ au matinɛni. Akɨnti gbete au sha Yɔhana shɔ Batizima rubiitɛ sekaa a Yesɔ batizima au sissɨntanɛni, shɔ vi beenɛm ji wariyuɓa beekɛ ruu gbete Yesɔ gati shɔ a vigbete mati shɔyɛ. naa shɔ yɛ dekɨn tɛ Yesɔ jadɔɔyi zɛ viu pɛliyɛ kɛkn tɔ̃vɨn, ama u shɔnɔpɔ̃yi i sisɨn lɛsi ɓɛɛtɔ fɛ̃ɛm. U gɨn-gɨn a shɔ kunaa ayinimi nwanya ayuu vigbete Yesɔ pɛli au dii maanzii au kunaa ɔ̃nɛ a kotipiyɛ, badijo aru u naa ɓanɛ laa a yunɛ saa.</char>
+  </para>
+  <para style="ip">Gɨn-gɨn ruu tɔ̃vɨn au kunaam nwanya piti nɛ shɔwɔ beerɛ ɓa <char style="bk" closed="false">Marku ɓa </char><char style="bk" closed="false">.</char></para>
+  <para style="iot">Vi au Ɓuzɨn yɛ</para>
+  <para style="io1">Gaanɛ ruu tɔ̃vɨn (1.1-13)</para>
+  <para style="io1">Yesɔ vishonɛ au pɛli shɔnɔɔ a Galili yɛ (1.14-9.50)</para>
+  <para style="io1">Yunɛ Galili anɛ Urushalima (10.1-52)</para>
+  <para style="io1">Dii maanzii au wasinaa Yesɔ u si maani a Urushalimani (11.1-15.47)</para>
+  <para style="io1">Yesɔ yunɛ saa (16.1-8)</para>
+  <para style="io1">Uɓeyelapa shɛlinɛ, u gẽnɛ au yunɛ saani (16.9-20)</para>
+  <chapter number="1" style="c" sid="MRK 1" />
+  <para style="s1">Yɔhana Shɔ Batizima vimatinɛ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 1:1" />Shompɛ ruu tɔ̃vɨn ayuu Yesɔ kirisi nya ruubii Ɗalapa jaa. <verse eid="MRK 1:1" /><verse number="2" style="v" sid="MRK 1:2" />Gaa naa Ɗalapa nwanya a ɓɛjaa shɔ-shɔ-ranɛ, a pɔ̃u janyagadi Ishaya beerɛ a labeenɛ,</para>
+  <para style="q1" vid="MRK 1:2">Ɗalapa shanɛ: &lt;&lt;N yɛn shong jashonɛ u yɛ aa ɗekɨn</para>
+  <para style="q2" vid="MRK 1:2">gbete yɛ koo nyaba tɛlɛ&gt;&gt;<verse eid="MRK 1:2" /></para>
+  <para style="q1">
+    <verse number="3" style="v" sid="MRK 1:3" />&lt;&lt;Shɔwɔɔ ɗɔ nya shatinɛ a ɗɔpnsi shanɛ;</para>
+  <para style="q1" vid="MRK 1:3">&lt;Ɔ ntori Uɓeyelapa nyaba nɛ,</para>
+  <para style="q2" vid="MRK 1:3">ɔ ntoruutɔ gbororo.&gt; &gt;&gt;<verse eid="MRK 1:3" /></para>
+  <para style="m">
+    <verse number="4" style="v" sid="MRK 1:4" />Ruu Ɗalapa sɔ̃nya kati aɗagbete Yɔhana shɔ batizima gau vishonɛ pɛlinɛ a ɗɔpnsi, shanɛ,&lt;&lt;Ɔ kɔsi sisɨn ɔ yaa ruuvini pɛlinɛtɔ aru shɔ pɛlɔɔ batizima u tasinɛ Ɗalapa yasɔɔ ruuvinitɛ.&gt;&gt; <verse eid="MRK 1:4" /><verse number="5" style="v" sid="MRK 1:5" />Shɔ tipi Yahudawayi waanɛ a komoo Urushalimayini i a ɗɔ ruu ntanɛ a Yɔhana ɗɔbii, i shayi ruuvini, Yɔhana pɛliyi batizima rɛ a ɓooti Urudu. <verse eid="MRK 1:5" /><verse number="6" style="v" sid="MRK 1:6" />Yɔhana tosi fãrã shɔ ntori a koo wɔba, masãng a koo vivaa, u vishaanɛ zɔrɔ a nɔwara. <verse eid="MRK 1:6" /><verse number="7" style="v" sid="MRK 1:7" />Yɔhana nwari shɔ Ɗalapa nya ruubii nɛ: &lt;&lt;Shɔwɔ kanɛ ang knti pɛ̃niba gbete tɛngtɛttɔ, n ji yɛɓa nɔgbete n sɔ̃sirɛ n ɗinaa au korãatini ɓa. <verse eid="MRK 1:7" /><verse number="8" style="v" sid="MRK 1:8" />N pɛlɔɔ batizima a mii ama yɛ pɛlɔɔ batizima a Ɗa suru.&gt;&gt;<verse eid="MRK 1:8" /></para>
+  <para style="s1">Yɔhana pɛli Yesɔ batizima a japɛ̃pɛ̃ɛ̃ nta Yesɔ sisɨn</para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 1:9" />Ji ɔ̃ ɓa ɗɔkɔkɔ ɓa Yesɔ arɛ a Nazara a tipi Galili, Yɔhana pɛliu batizima a ɓooti Urudu. <verse eid="MRK 1:9" /><verse number="10" style="v" sid="MRK 1:10" />Naa Yesɔ shɛtɛ a yɛti mii tɛ̃ɛ̃ti, a zɛrɛ kolapa ɓelitɛ, Ɗa suru kɛ nɔnɛ naa koro au yuu. <verse eid="MRK 1:10" /><verse number="11" style="v" sid="MRK 1:11" />Ɗalapa Yeenya shɛ a kolapa nɛ:&lt;&lt;Mokaa majaa, gbete n ɔriyɛ; n nta yɛti purutɔ a mokɔni.&gt;&gt;<verse eid="MRK 1:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 1:12" />A ɗauni tɛ̃ɛ̃ti Ɗa suru ã Yesɔ naa yɛnɛ ɗɔpnsi, <verse eid="MRK 1:12" /><verse number="13" style="v" sid="MRK 1:13" />ɔ̃ ɗɔwakɔ dii laaziti, japɛ̃pɛ̃ɛ̃ ntau sisɨnrɛ. A ɗɔukɔ Yesɔ si jo a viɓiliyi kɔ sheeli, Ɗajashonɛlapa i norɛ a pɔ̃siunaa rɛ.<verse eid="MRK 1:13" /></para>
+  <para style="s1">Yesɔ Ɓau Jaɗɔɔyi nya.</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 1:14" />Akɨnti gbete shɔ ma Yɔhanatɛ a jaahm, Yesɔ yɛ Galili a nwa ruu tɔ̃vɨn Ɗanyaruubii. <verse eid="MRK 1:14" /><verse number="15" style="v" sid="MRK 1:15" />A Shanɛ,&lt;&lt;ɗaa pɛlitɛ&gt;&gt;Ɗalapa lakpati ɔ̃nɛ atɛ maani. Ɔ kɔsi sisɨn, ɔ ã sisɨn a Ɗanyaruubii.<verse eid="MRK 1:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 1:16" />Lewɔɔ Yesɔ u ɗɔ tɛnɛ a nya wapo Galili, zɛ Siman a ɓɛzɔ̃ Anduru, i si shɔ jazɨng sãnɛ, i sã jazɨng a jang. <verse eid="MRK 1:16" /><verse number="17" style="v" sid="MRK 1:17" />Yesɔ geliyinɛ,&lt;&lt;Ɔ gɨn nɛ, n yɛn matɔɔ kɛ nɔgbete ɔ sã shɔzɛ yɛ.&gt;&gt; <verse eid="MRK 1:17" /><verse number="18" style="v" sid="MRK 1:18" />Tɛ̃ɛ̃ti i yaa jang a gɨn Yesɔ rɛ. <verse eid="MRK 1:18" /><verse number="19" style="v" sid="MRK 1:19" />Naa yɛ sɔ̃ntɛ a ɗekɨn, Yesɔ zɛ Yakubu zabadi ɓɛɛ jaa a ɓɛzɔ̃ Yɔhana a yɛti latosi mii, i ɗɔ hãriyi ntorinɛ. <verse eid="MRK 1:19" /><verse number="20" style="v" sid="MRK 1:20" />Tɛ̃ɛ̃ti Yesɔ zɛyi nam ji wariyuu ɓa a ɓai nya, i yaa i ɓeye Zabadi a shɔgbete i tuyi aru vishonɛ a yɛti latosi i gɨn Yesɔ rɛ.<verse eid="MRK 1:20" /></para>
+  <para style="s1">Yesɔ Shɛshi Suru Kɔ̃linɛ a Shɔwɔ Bi</para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 1:21" />Yesɔ au jadɔyini i yɛ komoo kafanahum, a lee susunɛ tokɛ Yahudawayi ɗɔ ɔ̃nɛ a gaa shɔ vimatinɛ rɛ. <verse eid="MRK 1:21" /><verse number="22" style="v" sid="MRK 1:22" />Shɔgbeteyi ntau vimatinɛ bizayitɔ, ɓa naa shɔmala nya-asinɛ Musa ɓa, aru gbete mati shɔ vi naa shɔgbeteu kaka aɗɔn. <verse eid="MRK 1:22" /><verse number="23" style="v" sid="MRK 1:23" />Kɛɗɔn shɔ suru kɔ̃linɛ wɔɔ arɛ Yahudawayi ɗɔ ɔ̃nɛ a gaa nya kaanɛ aɗɔn, <verse eid="MRK 1:23" /><verse number="24" style="v" sid="MRK 1:24" />&lt;&lt;A runɛ ivi a ukɔni viya Yesɔ shɔ Nazara, a au ɗɔ lɛsinɛ ya? N zɛ a ruubii tɛtɔ mɔkaa pɛ Ɗa jashonɛ wɔsɔ-wɔsɔ au a Ɗalapa ɗɔbii!&gt;&gt;<verse eid="MRK 1:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 1:25" />Yesɔ lasi suru kɔ̃linɛu nyanɛ&lt;&lt;Ɔ̃nɛ shok, Shɛnɛ a jam biniǃ&gt;&gt; <verse eid="MRK 1:25" /><verse number="26" style="v" sid="MRK 1:26" />Kɛɗɔn suru kɔ̃linɛu nta jau gbukut, a kaa nya lapa-lapa shɛrɛ au biini.<verse eid="MRK 1:26" /></para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 1:27" />Vibii-zaanɛ sã shɔ piti kpai i ɗɔgbete i hɨ zɔnɛ, vim ɓɛɛ iviya? &lt;&lt;Vim vimatinɛ sɔɔya? Jam u kaka aɗɔn u lasi suru kɔ̃linɛyi nya, suru kɔ̃linɛyi weshotɔ au nyani!&gt;&gt; <verse eid="MRK 1:27" /><verse number="28" style="v" sid="MRK 1:28" />Aru nankɔ tɛ̃ɛ̃ti Yesɔ ruubii raa tipi Galili piti kpai.<verse eid="MRK 1:28" /></para>
+  <para style="s1">Yesɔ gati shɔ waanɛ</para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 1:29" />Yesɔ au jaɗɔyini, wɔsɔ̃n Yakubu a Yɔhanani i yaa Yahudawayi ɗɔ ɔ̃nɛ tɛ̃ɛ̃ti i tokɛ Bituru a Anduru i wɛrɛ. <verse eid="MRK 1:29" /><verse number="30" style="v" sid="MRK 1:30" />Siman ɓekpeni nɔri sãutɔ i kpau aɗɔ roonɛ a siri, naa i totɛ i geli Yesɔ Bituru ɓekpeniu ruubii rɛ. <verse eid="MRK 1:30" /><verse number="31" style="v" sid="MRK 1:31" />Kɛɗɔn Yesɔ yɛu ɗɔbii aɗɔ roonɛ, a sãu narɛ a ɗeu lapa. nɔriu yaurɛ a yulapa a nwariyi vishaanɛ rɛ.<verse eid="MRK 1:31" /></para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 1:32" />A leukɔ ɗarɛ shɔ n ti Yesɔ shɔ vɔrɔyi kpai a shɔgbete suru kɔ̃linɛ sãyini. <verse eid="MRK 1:32" /><verse number="33" style="v" sid="MRK 1:33" />Shɔ koowi kpai i tolinya a nyaba wɛrɛukɔ, <verse eid="MRK 1:33" /><verse number="34" style="v" sid="MRK 1:34" />Yesɔ gati shɔ vɔrɔ abi totto waanɛ. A shɛshi wɔsɔ̃n suru kɔ̃linɛ waanɛ a shɔbii ama ji yaa suru kɔ̃linɛyi ɓa nɛyi nwanyawɔrɛ ɓa, aru i zɛu tɛttɔ.<verse eid="MRK 1:34" /></para>
+  <para style="s1">Yesɔ mati shɔ vi a Galili</para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 1:35" />A nɔgadi zɨɨnkɔ, Yesɔ yurɛ a yaa wɛrɛu rɛ. yɛ ɗɔ gbete shɔ ɓa aɗɔm ɓa a gaki Ɗa a ɗɔukɔ. <verse eid="MRK 1:35" /><verse number="36" style="v" sid="MRK 1:36" />Ama Siman au shɔ dɔranɛ i yɛu ɗɔ kãnɛrɛ, <verse eid="MRK 1:36" /><verse number="37" style="v" sid="MRK 1:37" />naa i kpautɛ, i shanɛː &lt;&lt;Shɔ aa ɗɔ kãnɛ piti kpai.&gt;&gt;<verse eid="MRK 1:37" /></para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 1:38" />Ama Yesɔ kasinya a shanɛ,&lt;&lt; U yɛkɛ jakomɔɔ wɔɔyi gbete maani miyi. N nwari shɔ Ɗanyarubii sɔ̃n aɗɔwakɔ aruviya n a ji ruukɔ.&gt;&gt; <verse eid="MRK 1:38" /><verse number="39" style="v" sid="MRK 1:39" />Kɛɗɔn Yesɔ raki tipi Galili kpai, u ɗɔgbete nwari shɔ Ɗanyaruubii a Yahudawayi ɗɔ ɔ̃nɛ, u ɗɔgbete shɛshi suru kɔ̃linɛ a shɔbii yɛ.<verse eid="MRK 1:39" /></para>
+  <para style="s1">Yesɔ Gati Shɔ Vibii</para>
+  <para style="p">
+    <verse number="40" style="v" sid="MRK 1:40" />Shɔwɔɔ si ɗɔn shɔ vibii a Yesɔ ɗɔbii a ta a yugboti a gakiu nɛu pɔ̃sinnaa jo, a shanɛ, &lt;&lt;Akɛ kasinɛ, gati pɛ.&gt;&gt;<verse eid="MRK 1:40" /></para>
+  <para style="p">
+    <verse number="41" style="v" sid="MRK 1:41" />Yesɔ raa sãurɛ, gɨn naa a ɗii jau naa bi. Yesɔ kasiunya a shanɛ, &lt;&lt;N kasitɛ, gatinɛǃ&gt;&gt; <verse eid="MRK 1:41" /><verse number="42" style="v" sid="MRK 1:42" />Tɛ̃ɛ̃ti vibiiu yaa jaurɛ a gatirɛ.<verse eid="MRK 1:42" /></para>
+  <para style="p">
+    <verse number="43" style="v" sid="MRK 1:43" />Kɛɗɔn Yesɔ gɔ̃u yuusho pɛtɔ waanɛ a ãu nakɨn nɛu yɛnɛ, <verse eid="MRK 1:43" /><verse number="44" style="v" sid="MRK 1:44" />&lt;&lt;Yesɔ galiu nɛ, mɔkaa geli shɔwɔnɛ. Ama a yɛrɛ a tasaa yuu a shɔlansi ɗɔbii u zɛatɔ; a n ti vi yuu-ãnɛ gbete Musa ãsinya yɛ, kopiya u zɛkɛnɛ a gatitɛ.&gt;&gt; <verse eid="MRK 1:44" /><verse number="45" style="v" sid="MRK 1:45" />Ama jau yɛrɛ a sãti ruum piti kpai koɗɔpiya. Aruukɔ Yesɔ ji to ɓuzɨn komoo tɔɓa. Shikɛ a ɓili aɗɔ gbete shɔ ɓa ɗɔm ɓa. piti shomni kpai koɗɔpiya shɔ au ɗɔbii tɔ.<verse eid="MRK 1:45" /></para>
+  <chapter eid="MRK 1" />
+  <chapter number="2" style="c" sid="MRK 2" />
+  <para style="s1">Yesɔ Gati Shɔ Gbete radɔɔ ɓa</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 2:1" />Ji ɔ̃ ɓa waanɛ ɓa, Yesɔ tosɔ̃n kapanahum, naa shɔ ntatɛ nɛ a wɛrɛ tɛ. <verse eid="MRK 2:1" /><verse number="2" style="v" sid="MRK 2:2" />Kɛɗɔn shɔ yalinya a wɛrɛu waanɛ jaa ji tesi shɔ ɓa, ko nyajaa sẽrẽrẽ si ɓa, Yesɔ nwaariyi Ɗanyaruubii rɛ. <verse eid="MRK 2:2" /><verse number="3" style="v" sid="MRK 2:3" />Shɔ vɔshɔyi i arɛ nɛ̃ɛ̃ti, i n-tiu shɔgbete radɔɔ ɓa. <verse eid="MRK 2:3" /><verse number="4" style="v" sid="MRK 2:4" />I jo kpaa ɗɔ tonɛ ɓa shɔzɛ si bang, i ntáá yujaa aɗɔgbete Yesɔ ɗɔnyɛ, i tosi siri gbete jau roo ɗɔn yɛrɛ. <verse eid="MRK 2:4" /><verse number="5" style="v" sid="MRK 2:5" />Naa Yesɔ zɛyi sisɨn ãnɛtɛ pɛ̃niba, a geli shɔgbete radɔɔ ɓa nɛ, &lt;&lt;Majaa, shɔ yasaa ruuvinitɛ.&gt;&gt;<verse eid="MRK 2:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 2:6" />Gãsi shɔmalayi nyaãsinɛ Musa gbeteyi ɔ̃li ɗɔuyɛ i lɛri ai sisɨn nɛ, <verse eid="MRK 2:6" /><verse number="7" style="v" sid="MRK 2:7" />&lt;&lt;Jam sha ruum aruvi nankɔ viya? Shɔmpɛ vikɔ̃linɛ shanɛ a Ɗa yuu! Ɗalapa kɔ yaasi shɔ ruuvini jo sheeli!&gt;&gt; <verse eid="MRK 2:7" /><verse number="8" style="v" sid="MRK 2:8" />Tɛ̃ɛ̃ti Yesɔ zɛ vigbete ai sisɨn tɛ, A hɨrɛ shanɛ,&lt;&lt;Ɔ lɛri vim aru viya? <verse eid="MRK 2:8" /><verse number="9" style="v" sid="MRK 2:9" />Atette vi zitim Pi shɔpi ɔ̃rɛ pɛlaa piya, shɔu geli shɔgbete raɗɔɔ ɓa nɛ,&lt;Shɔ yasaa ruuvinitɛ,&gt;ko, a shanɛ, &lt;Yulapa nɛǃ A tuu a siri a yɛrɛ,&gt;? <verse eid="MRK 2:9" /><verse number="10" style="v" sid="MRK 2:10" />Ama n yɛn tasɔɔtɔ nɛ nkɔng shɔzɛ jaa n kaka ɗɔn n yaasi shɔ ruuvini a koo,&gt;&gt; Yesɔ geli shɔgbete radɔɔ ɓa nɛ, <verse eid="MRK 2:10" /><verse number="11" style="v" sid="MRK 2:11" />&lt;&lt;N gelaatɛ, yulapanɛ a tuu siri a yɛ wɛrɛ.&gt;&gt;<verse eid="MRK 2:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 2:12" />I si ɗɔgbete i biliu yɛ, jau yulapa, tuu siri a sã nyaba a yɛrɛ. Vim sɨn shɔ bizaanɛ kopiya bɛli Ɗalapa rɛ, i shanɛ nɛ, &lt;&lt;U ji zɛ vi ɗɔmjo lee-gbete ɓa!&gt;&gt;<verse eid="MRK 2:12" /></para>
+  <para style="s1">Yesɔ ɓaa Levi nya</para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 2:13" />Toti Yesɔ shɛ nya ɓooti Galili rɛ. mooyi au ɗɔbii, Yesɔ gai vimatinɛrɛ. <verse eid="MRK 2:13" /><verse number="14" style="v" sid="MRK 2:14" />U ɗɔ ranɛ, a zɛ shɔ sabɛnɛ tɛnɛ, Levi Alifiyo ɓɛɛ jaa, u ɗɔ ɔ̃nɛ au jaa vishonɛ, Yesɔ geliu nɛ,&lt;&lt;Gɨn nɛ.&gt;&gt;Levi yulaparɛ a gɨurɛ.<verse eid="MRK 2:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="MRK 2:15" />Si Yesɔ u ɗɔ vishaanɛ a Levi wɛrɛ, shɔ sabenɛ tɛnɛyi waanɛ a shɔ ruuviniyini, a shɔ waanɛ i shaavi a Yesɔ ni nyazɔ au jadɔyini. <verse eid="MRK 2:15" /><verse number="16" style="v" sid="MRK 2:16" />Gãsi shɔmala nyaãsinɛ Musa, a shɔ ɓayinɛ Farisiyayi, i zɛu a ɗɔ vishaanɛ a shɔ ruuvini-ni wɔsɔ̃n shɔ sabɛnɛyi a nyazɔ, i hɨ Yesɔ jadɔyi nɛ: Ɔ shɔwɛrɛ Shaa vi piruuvi a shɔmini viya? <verse eid="MRK 2:16" /><verse number="17" style="v" sid="MRK 2:17" />Kɛɗɔn naa Yesɔ ntatɛ, a kasinya shanɛ,&lt;&lt;Shɔgbete ai ɓa vɔrɔ ɓa, i kã ɗɔ likita ɓa, ama shɔgbete i vɔrɔ yɛ ikɔi kã likitarɛ. N jo a ɓa nɛn kã shɔ wɔsɔ-wɔsɔyi ɓa, n a aru shɔ ruuviniyi.&gt;&gt;<verse eid="MRK 2:17" /></para>
+  <para style="s1">Ruu Hɨnɛ Ayuu Nyamanɛ</para>
+  <para style="p">
+    <verse number="18" style="v" sid="MRK 2:18" />Lewɔ ɗɔn Yɔhana shɔ Batizima jadɔyi a Farasiyayi i si ɗɔ nyamanɛ. Shɔ wɔyi arɛ a hɨn Yesɔ nɛ, &lt;&lt;Ivi sɨnrɛ Yɔhana jadɔyi a Farasiyayi jaɗɔyini i manyatɔ, ama a jaɗɔyi i manya ɓa aruviya?&gt;&gt; <verse eid="MRK 2:18" /><verse number="19" style="v" sid="MRK 2:19" />Yesɔ kasiyinya a shanɛ, Ɔ kasinɛ shɔ gbete shɔ wainya aɗɔ yumusinɛ so tɛnɛ i yɛ wɛrɛ a nwoni ya? Ɓaǃ Ikɛ ɔ̃nɛ nyazɔ a shɔ so tɛnɛuni i yɛ manya ɓa. <verse eid="MRK 2:19" /><verse number="20" style="v" sid="MRK 2:20" />Ama ɗaa kaanɛ gbete shɔ tuu shɔ sou ai ɗɔbiini, kɛɗɔn i yɛ manya kɛkn.<verse eid="MRK 2:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 2:21" />Shɔ wɔɔ yɛ rɛɛ fãrã gbaali ɓa a fãrã sɔɔni ɓa, kɛ pɛlinɛ nam u sɔɔu yɛ ntasi fãrã gbaali kɛ bang. <verse eid="MRK 2:21" /><verse number="22" style="v" sid="MRK 2:22" />Shɔu piya gbete yɛ tuu mii Inabi sɔɔ nɛn tɛ̃ɛ̃ a lazɔrɔ gbete shɔ ɓaanɛ wine skin shɔ ntɔri a koo kɔ̃ti piya, kɛ tɛ̃ɛ̃ nɛ yɛ sã lazɔrɔ gbaaliutɔ si mii -Inabi a duu ni lɛsitɛ. Mii- inabi sɔɔ shɔ tɛ̃ɛ̃ a lazɔrɔ sɔɔ.<verse eid="MRK 2:22" /></para>
+  <para style="s">Ruu Hɨnɛ Aru Lee susunɛ</para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 2:23" />Lewɔɔ a lee susunɛ Yesɔ u ɗɔ tɛnɛ a dɔjaa. U jadɔyi i si ɗɔrakinɛ awuni, i gaa shɔ yuu visha zɔ̃kinɛ. <verse eid="MRK 2:23" /><verse number="24" style="v" sid="MRK 2:24" />Shɔ Farasiyayi geli Yesɔ nɛ, zepɛjo a jadɔyi ikɛ pɛli vigbete nyaãsinɛ zãri pɛlinɛtɔ a lee susunɛ ni! <verse eid="MRK 2:24" /><verse number="25" style="v" sid="MRK 2:25" />Yesɔ kasinya nɛ, &lt;&lt;Ɔ jo ɓali labeenɛ ɓa aru vigbete Dauda pɛli a ɗagbete i nta nwo au shɔbiiyini ɓaya? <verse eid="MRK 2:25" /><verse number="26" style="v" sid="MRK 2:26" />Naa yɛtɛ wɛrɛ Ɗa a ɗagbete Abiyata si yupɛ̃ni shɔlansi wɛrɛ Ɗa, a tuu borodi gbete shɔ ã shɔlansi a shaarɛ, a ãu shɔbiiyi gãsi rɛ, a shɔ ãsinyanɛ ji shɔlansi kɔ sheeli i shaarɛ.&gt;&gt;<verse eid="MRK 2:26" /></para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 2:27" />A Yesɔ yisi nyanwaanɛ nɛ,&lt;&lt;Lee susunɛ shɔ pɛli aru shɔzɛ yuu, shɔzɛ shɔ ji pɛliu ɓa aru lee susunɛ ɓa. <verse eid="MRK 2:27" /><verse number="28" style="v" sid="MRK 2:28" />Aruukɔ shɔzɛ jaa nkɔng ɔ̃rɛ Uɓeyelapa a vi piti ko a lee susunɛ ni kpai.&gt;&gt;<verse eid="MRK 2:28" /></para>
+  <chapter eid="MRK 2" />
+  <chapter number="3" style="c" sid="MRK 3" />
+  <para style="s1">Shɔgbete u Naa Vɔ Kagbete</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 3:1" />Kɛɗɔn Yesɔ sɔɔ Yahudawayi ɗɔ ɔ̃nɛrɛ, a ɗɔukɔ shɔwɔɔ siɗɔn u naa vɔ kagbete. <verse eid="MRK 3:1" /><verse number="2" style="v" sid="MRK 3:2" />Shɔwɔyi si a ɗɔukɔ i kã nyaba nɛi sã Yesɔ a ruuvini, i kɨnnɔɔ nɛi zɛpɛ yɛ gati shɔutɔ a lee susunɛ niya. <verse eid="MRK 3:2" /><verse number="3" style="v" sid="MRK 3:3" />Yesɔ geli shɔgbete u naa vɔ kagbeteu nɛ, &lt;&lt;Anɛ a ɗekɨn yɛm.&gt;&gt;<verse eid="MRK 3:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 3:4" />Kɛɗɔn Yesɔ hɨnɛ, &lt;&lt; U nyaãsinɛ a lee susunɛ geliu nɛ iviya? U pɔ̃si shɔ naa ya ko ɔ gẽ shɔ nɔ̃rɔ̃? Ɔ raa shɔ ya ko ɔ nyo shɔ?&gt;&gt;I jo nwanya wɔɔ ɓa.<verse eid="MRK 3:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 3:5" />Yesɔ sisɨn lɛsirɛ aɗagbete kɨnnɔɔ ai biiyɛ, ama ntayiraa sɔ̃ntɔ, aru i ji rooriyuu ɓa ɗɔgbete ni ɓa i sisɨn gbɔrki. Kɛɗɔn a geli jaunɛ, &lt;&lt;Gɨn naa pɛ.&gt;&gt;Jau gɨnrɛ, tɛ̃ɛ̃ti gatirɛ. <verse eid="MRK 3:5" /><verse number="6" style="v" sid="MRK 3:6" />Naa Farasiyayi i ya Yahudawayi ɗɔ ɔ̃nɛutɛ i toli zɔɔ a Hirudu shɔ biini, i kã nyaba nɔgbete i nyo Yesɔ vɔrɔ yɛ.<verse eid="MRK 3:6" /></para>
+  <para style="s1">Moo i gɨn Yesɔ</para>
+  <para style="p">
+    <verse number="7" style="v" sid="MRK 3:7" />Yesɔ au jadɔyini i yɛ nya ɓooti wapo Galili, moo i gɨnyi adɔɔ piti a Yahudiyayi ni. <verse eid="MRK 3:7" /><verse number="8" style="v" sid="MRK 3:8" />Naa i nta vigbete Yesɔ pɛlitɛ kpai, shɔ Urudung a Urushalimayi a Idumiyayi a shɔ Taya wɔsɔ̃n shɔ Sɔdomyi kpai i a Yesɔ ɗɔbii aru i zɛ vigbete pɛliyɛ pɛ. <verse eid="MRK 3:8" /><verse number="9" style="v" sid="MRK 3:9" />Aru moo i si bang Yesɔ geliu jadɔyi nɛ, ɔ kãrin jaa latosi mii pɛ, aru moo i yɛ dɔ̃nrɛ. <verse eid="MRK 3:9" /><verse number="10" style="v" sid="MRK 3:10" />Aru si gati shɔ tɛ bang, vim pɔ̃rɛ shɔ vɔrɔyi kpaabii aru i kasinɛ i ɗiunaa bi. <verse eid="MRK 3:10" /><verse number="11" style="v" sid="MRK 3:11" />Kopiɗaviya shɔgbete i suru kɔ̃linɛ a biini naa ikɛ zɛ Yesɔ nɛ, i nwesi tipi au ɗekɨn i sɨn-nyavɔ nɛ, &lt;&lt;Mokaa pɛ Ɗalapa jaa.&gt;&gt; <verse eid="MRK 3:11" /><verse number="12" style="v" sid="MRK 3:12" />Ama Yesɔ ãsi suru kɔ̃linɛyi nyanɛ ɔkɔɔ geli shɔwɔnɛ ko nkɔng piya.<verse eid="MRK 3:12" /></para>
+  <para style="s1">Yesɔ Lɔ Jashonɛ kopi Atu Ziti</para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 3:13" />Yesɔ gẽ kɔpɔ a ɓaa shɔgbete au kasiyɛ nya, i au ɗɔbiirɛ. <verse eid="MRK 3:13" /><verse number="14" style="v" sid="MRK 3:14" />Yesɔ lɔ kopi atu ziti. Ɓayi niinɛ jashonɛ, &lt;&lt;N lɔwɔtɛ ɔ ɔ̃ a nkɔni,&gt;&gt; I yɛn sholɔɔtɔ ɔ nwari shɔ Ɗanyaruubii, <verse eid="MRK 3:14" /><verse number="15" style="v" sid="MRK 3:15" />ɔ kaka suru kɔ̃linɛ shɛshinɛ yɛ ɔ̃ ɗɔn. <verse eid="MRK 3:15" /><verse number="16" style="v" sid="MRK 3:16" />Shɔgbete Yesɔ lɔ kopi atu ziti i nii nɛ: Siman(Yesɔ ãu nii nɛ Bituru); <verse eid="MRK 3:16" /><verse number="17" style="v" sid="MRK 3:17" />Yakubu Zebedi ɓɛɛ jaa ɓezɔ̃ nii nɛ Yɔhana (Yesɔ ãi nii nɛ Bowanajis, ukɔ ɔ̃rɛ shɔ jalɛyi); <verse eid="MRK 3:17" /><verse number="18" style="v" sid="MRK 3:18" />Wɔɔ Anduru, Filibu, Batalomi, Matiyu, Tomasi, Yakubu Alifayus ɓɛɛ jaa, Tadiyos, Siman shɔgbete ɔriu wɛrɛ koo waanɛ yɛ, <verse eid="MRK 3:18" /><verse number="19" style="v" sid="MRK 3:19" />A Yahuda Isikariyoti, shɔu mɛli Yesɔ yɛ.<verse eid="MRK 3:19" /></para>
+  <para style="s1">Yesɔ a Bezabu</para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 3:20" />Kɛɗɔn Yesɔ yɛ wɛrɛ rɛ, toti mooyi gɨu a dɔɔni au jadɔyini i ji kpaa karaa vishanɛ ɓa. <verse eid="MRK 3:20" /><verse number="21" style="v" sid="MRK 3:21" />Naa Yesɔ ɓɛɛ shɔzɛyi ntatɛ nankɔ, i shɛ ɓili i kãu ɗɔrɛ, aru gbete shɔ shanɛ,&lt;&lt;Rii rãntɛǃ&gt;&gt; <verse eid="MRK 3:21" /><verse number="22" style="v" sid="MRK 3:22" />Shɔmala nyaãsinɛ Musa gbeteyi a Urushalima yɛ i shanɛ,&lt;&lt;U rãma vɨri biini! Pɛ kpati rãman ãu kaka rãman shɛshinɛ rɛ.&gt;&gt;<verse eid="MRK 3:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 3:23" />A Yesɔ ɓainya nwarinya atette ruɓusinɛ shanɛ: &lt;&lt;Japɛ̃pɛ̃ɛ̃ shɛshi kpati japɛ̃pɛ̃ɛ̃ pikoviya?&gt;&gt; <verse eid="MRK 3:23" /><verse number="24" style="v" sid="MRK 3:24" />Naa kou kɛ vɔsiu yuunɛ a kɨ̃nkɨ̃n u waaba a ɓɛzɔɔni, kou yɛ shiɓa. <verse eid="MRK 3:24" /><verse number="25" style="v" sid="MRK 3:25" />Wɛrɛ gbete kɛ vɔsiu yuunɛ a kɨ̃nkɨ̃n u waaba a ɓɛzɔɔni, wɛrɛu yɛ shiɓa. <verse eid="MRK 3:25" /><verse number="26" style="v" sid="MRK 3:26" />Japɛ̃pɛ̃ɛ̃ lakpati kɛ vɔsinɛ kɨ̃nkɨ̃n u waaɓa ai nɔɔ, u kpati roonɛu yɛ shiɓa, si yisinyatɛ.<verse eid="MRK 3:26" /></para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 3:27" />&lt;&lt;Shɔwɔɔ yɛ to shɔ kaka wɔɔ wɛrɛ ɓa nɛn seu viɓa setɛ mau tɛtɔ; Kɛɗɔn yɛ seu vi kɛkn.&gt;&gt;<verse eid="MRK 3:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 3:28" />N gelɔɔtɛ nizɛ, shɔ ruuvini a shɔgbete i lɛsi Ɗalapa nii yɛ piti kpai, Ɗalapa yɛ yasiyi ruuvinitɔ. <verse eid="MRK 3:28" /><verse number="29" style="v" sid="MRK 3:29" />Ama shɔu kɛ sha ruukɔ̃linɛ nɛ a Ɗa suru yuu, shɔ yɛ yasiu ruuvini ɓa; aru pɛli ruuvini au sɔ̃nya ɓayɛ.<verse eid="MRK 3:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 3:30" />Yesɔ Sha ruum aru shɔ gãsiyi shalinɛ,&lt;&lt;Nɛu suru kɔ̃linɛ abiini.&gt;&gt;<verse eid="MRK 3:30" /></para>
+  <para style="s">Yesɔ Ɓini a Ɓɛzɔ̃yi</para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 3:31" />Kɛɗɔn Yesɔ ɓini a ɓezɔ̃yini i au ɗɔbii i shi ɓili, i shonyarɛ nɛ shɔ ɓaa Yesɔ nya. <verse eid="MRK 3:31" /><verse number="32" style="v" sid="MRK 3:32" />Mooyi gbete i ɔ̃li au ɗɔbii, i geliu nɛ, &lt;&lt;Kɨnnɔɔ pɛ, ɓini, mɛzɔ̃yini a mɛnani i ɓili i kasa zɛnɛ.&gt;&gt;<verse eid="MRK 3:32" /></para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 3:33" />Yesɔ kasinyanɛ&lt;&lt;Mani piya? Mazɔ̃yi piya?&gt;&gt; <verse eid="MRK 3:33" /><verse number="34" style="v" sid="MRK 3:34" />Kɛɗɔn kɨnnɔɔ a shɔ gbeteyi au ɗɔbii a shanɛ, &lt;&lt;kɨnɔɔ pɛǃ Nkɔ mani a mazɔ̃yini yɛm! <verse eid="MRK 3:34" /><verse number="35" style="v" sid="MRK 3:35" />Shɔgbeteu kɛ pɛli vigbete Ɗalapa kasiyɛnɛ ukɔ ɔ̃rɛ mazɔ̃, mana, a mani ni.&gt;&gt;<verse eid="MRK 3:35" /></para>
+  <chapter eid="MRK 3" />
+  <chapter number="4" style="c" sid="MRK 4" />
+  <para style="s1">Ruɓusinɛ ayuu shɔvi ɓaanɛ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 4:1" />Toti Yesɔ gaa vimatinɛ a nya wapo Galili. Moo gbeteyi toli au ɗɔbii i si bang, kɛɗɔn yurɛ a to yɛti latosi a wapo a ɔ̃rɛ ɗɔn, mooyi shili kɛ nya wapo. <verse eid="MRK 4:1" /><verse number="2" style="v" sid="MRK 4:2" />Yesɔ mati sho vi waanɛ pɛlivishonɛ a ruɓusinɛ, a geliyi nɛ.<verse eid="MRK 4:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 4:3" />&lt;&lt;Ɔ weshopɛ! Lewɔɔ ɗɔn shɔwɔɔ tuu zɔvi a yɛ ɗɔ zɔnɛ au jaa. <verse eid="MRK 4:3" /><verse number="4" style="v" sid="MRK 4:4" />U si ɗɔ zɔvi zɔnɛ a jaa, zɔvi gãsiyi shishi a nyaba janoyi nyekirɛ i sharɛ. <verse eid="MRK 4:4" /><verse number="5" style="v" sid="MRK 4:5" />Gãsiyi shishi a tipi ɗɔ tari, aɗɔgbete tipi si ɓa bang ɓa. Zɔviu taa gbãgbã, aru tipiu siɓa gbikiri-gbikiri ɓa. <verse eid="MRK 4:5" /><verse number="6" style="v" sid="MRK 4:6" />Kɛɗɔn, naa ɗaa tootɛ, a too vishaurɛ, vishau watirɛ aru u gɨnri siɓa bang ɓa. <verse eid="MRK 4:6" /><verse number="7" style="v" sid="MRK 4:7" />Gãsiyi zɔvi shishi atette kɔkkɔ, naa batɛ kɔkkɔ maurɛ i jo shɛshi nɔɔ ɓa. <verse eid="MRK 4:7" /><verse number="8" style="v" sid="MRK 4:8" />Ama zɔvi gãsiyi shishi a tipi tɔ̃vɨn, vishau tarɛ, a barɛ, shɛshi nɔɔ rɛ, zɔvi shɛrɛ gãsiyi wɔsi bmati atu kopi (30), wɔsi laa taati (60), wɔsi laa maani (100).&gt;&gt; <verse eid="MRK 4:8" /><verse number="9" style="v" sid="MRK 4:9" />Yesɔ yisinya ruu shanɛ nɛ, &lt;&lt;Ɔ weshopɛ, Shɔu sho ntanɛ aɗɔn, u ntarɛ.&gt;&gt;<verse eid="MRK 4:9" /></para>
+  <para style="s1">Ruɓusinɛu dɔɔtanɛ</para>
+  <para style="p">
+    <verse number="10" style="v" sid="MRK 4:10" />Aɗagbete Yesɔ u si a yɔbm, u jadɔyi a shɔwɔyini i yɛu ɗɔbii i hɨu nɛ, tasiu dɔɔ ruu gbete a sha a ruɓusinɛm pɛ. <verse eid="MRK 4:10" /><verse number="11" style="v" sid="MRK 4:11" />Yesɔ kasiyinyanɛ,&lt;&lt;Shɔ tasɔɔdɔɔ ruɓusinɛ tɛttɔ aru Ɗalapa lakpati ɔ̃nɛni ama n mati shɔgbeteyi ji ã sisɨn ɓa a Ɗalapa lakpati ɔ̃nɛni ɓa vi ɓɛɛjo a ruɓusinɛkɔ sheeli,&gt;&gt; <verse eid="MRK 4:11" /><verse number="12" style="v" sid="MRK 4:12" />aru gbete,</para>
+  <para style="q1" vid="MRK 4:12">&lt;&lt;I taa nɔɔ, i taa nɔɔ</para>
+  <para style="q2" vid="MRK 4:12">ama i zɛ viɓa,</para>
+  <para style="q1" vid="MRK 4:12">i wesho, i wesho</para>
+  <para style="q2" vid="MRK 4:12">ama i nta ruuɓa;</para>
+  <para style="q1" vid="MRK 4:12">aru ikɛ ntanɛ ikɛ zɛnɛ iyɛ sɔɔrɛ i gɨn Ɗalapa tɔ,</para>
+  <para style="q2" vid="MRK 4:12">Ɗalapa yɛ yasiyi ruuvinirɛ!&gt;&gt;<verse eid="MRK 4:12" /></para>
+  <para style="s1">Yesɔ Tadɔɔ Ruɓusinɛ Shɔvi Ɓaanɛ</para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 4:13" />Kɛɗɔn Yesɔ hɨyinɛ, &lt;&lt;Ɔ ji zɛ dɔɔ ruɓusinɛm ɓaya? Ɔ yɛ zɛ ruɓusinɛ gãsi kɛpikoviya? <verse eid="MRK 4:13" /><verse number="14" style="v" sid="MRK 4:14" />Zɔvi gbete shɔviɓaanɛ ɓaayɛ uko ɔ̃rɛ Ɗanyaruubii. <verse eid="MRK 4:14" /><verse number="15" style="v" sid="MRK 4:15" />Shɔwɔyi naa zɔvi gbete shishi a nyaba, ikɔyi ɔ̃rɛ shɔgbete ikɛ nta Ɗaruubiinɛ tɛ̃ɛ̃ti i tɛ gbãgbã, japɛ̃pɛ̃ɛ̃ arɛ tuu vigbete shɔ ɓaa ai sisɨn kati. <verse eid="MRK 4:15" /><verse number="16" style="v" sid="MRK 4:16" />Shɔwɔyi naa zɔvi gbete shishi aɗɔ tari yɛ, naa i nta Ɗaruubiitɛ tɛ̃ɛ̃ti i tɛ a sisɨng puru. <verse eid="MRK 4:16" /><verse number="17" style="v" sid="MRK 4:17" />Ama ruu gɨnri si ɓa gbikiri-gbikiri ai sisɨn ni ɓa, jo ɔ̃ ɓa sɛ̃nɛnɛni ɓa. Aɗagbete yukɔnɛ ko raatasinɛ kaanɛ ayuu ruukɔ, i yaa Ɗanyaruubii bɛtɛk. <verse eid="MRK 4:17" /><verse number="18" style="v" sid="MRK 4:18" />Shɔwɔyi naa zɔvi gbete shishi atette kɔkkɔyɛ, ikɔyi ɔ̃rɛ shɔgbete ikɛ nta Ɗanyaruubiinɛ; <verse eid="MRK 4:18" /><verse number="19" style="v" sid="MRK 4:19" />Aru vi kasinɛ a koo ai sɨsɨng bang, vinaa kãnɛ a vi gãsi kãnɛ, raa ruu Ɗalapa rɛ ai sɨsɨng ni, i ji yee jaa ɓa. <verse eid="MRK 4:19" /><verse number="20" style="v" sid="MRK 4:20" />Shɔwɔyi naa zɔvi gbete shishi a tipi tɔ̃vɨn, ikɛ nta Ɗanyaruubiinɛ, i tɛrɛː zɔvi shɛrɛ u yee jaa bmati atu kopi (30), wɔɔ laa taati (60), wɔsɔ̃n laa maani (100) ayuu vi gbete i zɔyɛ.&gt;&gt;<verse eid="MRK 4:20" /></para>
+  <para style="s1">Pitila a Yuu Laɔ̃nɛ</para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 4:21" />Yesɔ yɛ ɗekɨn, a shanɛ,&lt;&lt;Shɔgbete yɛ dɔɔ pitila u sɨng a gooti laɔ̃nɛ ko a gooti laroonɛ yɛ piya? Ama shɔ dɔɔ pitila shɔ pɔ̃ ɓa au ɗɔ ɔ̃nɛ ɓayɛ?. <verse eid="MRK 4:21" /><verse number="22" style="v" sid="MRK 4:22" />Vigbete shɔ kɛ ɓusinɛ shɔ yɛ shɛshi ɓilitɔ, vigbete shɔkɛ rɛunyanɛ shɔyɛ ɓɛlitɔ. <verse eid="MRK 4:22" /><verse number="23" style="v" sid="MRK 4:23" />Shɔ gbeteu sho ntanɛ kɛ ɔ̃nɛ ɗɔn a ntarɛ.&gt;&gt; <verse eid="MRK 4:23" /><verse number="24" style="v" sid="MRK 4:24" />Yesɔ geliyi wɔsɔ̃nnɛ &lt;&lt;Ɔ pɔ̃ sisɨn a vigbete ɔ ntayɛniǃ wàá gbete ɔkɛ masi shɔ vinɛ awuni, shɔ masɔɔ jo aukɔ ko u tɛɛtɔ. <verse eid="MRK 4:24" /><verse number="25" style="v" sid="MRK 4:25" />Shɔgbeteu vinaa ɗɔnyɛ shɔ ã vi jo ukɔ ɓang, shɔgbeteu ɓɛɛ ɓa ɗɔm ɓa, jaavi gbeteu a wuniyɛ shɔ tɛkati au naani.&gt;&gt;<verse eid="MRK 4:25" /></para>
+  <para style="s1">Ruɓusinɛ Ayuu Visha Gbeteu ɗɔ banɛ</para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 4:26" />Yesɔ yɛ ɗekɨn a ruu shanɛni nɛ,&lt;&lt;Ɗa lakpati ɔ̃nɛ naa shom; Jawɔ zɔ zɔvi au jaa. <verse eid="MRK 4:26" /><verse number="27" style="v" sid="MRK 4:27" />Roo nɔro a zɨmba a yurɛ, zɔviu tarɛ a barɛ. Shɔm piti kpai ji zɛ nɔgbete i bayɛ ɓa. <verse eid="MRK 4:27" /><verse number="28" style="v" sid="MRK 4:28" />Pɛ tipi pɔ̃rɛ visha barɛ shɛshi jaa rɛ, gaa banɛ au shɔ, kɛɗɔn kɛu yuu, a kɨntiuni piti kpai shɛshi kɛ nɔɔ. <verse eid="MRK 4:28" /><verse number="29" style="v" sid="MRK 4:29" />Naa vishau kɛ zɔ̃nɛ, shɔ jau tu gesi u yee awuni aru ɗaa vi yeenɛ pɛlitɛ.&gt;&gt;<verse eid="MRK 4:29" /></para>
+  <para style="s1">Ruɓusinɛ ayuu zɔvi gbete shɔ ɓaanɛ masita</para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 4:30" />Toti Yesɔ hɨnɛ&lt;&lt;U yɛ shakɛnɛ ivi aru Ɗa lakpati ɔ̃nɛni viya? U yɛ shakɛ ruɓusinɛ gbete piya u taudɔɔrɛ viya? <verse eid="MRK 4:30" /><verse number="31" style="v" sid="MRK 4:31" />Ruɓusinɛu ɔ̃ naa shom, Shɔwɔ tuu zɔvi gbete shɔ ɓaanɛ masita, ukɔ ɔ̃rɛ pẽtẽrẽ atette zɔvi a koo piti kpai, jau ɓarɛ au jaa. <verse eid="MRK 4:31" /><verse number="32" style="v" sid="MRK 4:32" />Kɛɗɔn barɛ a tɛɛ laa gãsiyirɛ, pɛli nalaa pɛ̃niba- pɛ̃niba nɔgbete janɔyi kɔri jaa au sutuni.&gt;&gt;<verse eid="MRK 4:32" /></para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 4:33" />Yesɔ nwari shɔ u nyaruubii, pɛlivishoni a ruɓusinɛ totto; nɔgbete i yɛ zɛyɛ. <verse eid="MRK 4:33" /><verse number="34" style="v" sid="MRK 4:34" />A geliyi vi piti kpai a yɛti ruɓusinɛ. Ama a ɗagbete u si au jadɔyini tasiyidɔɔ ruum gbete gbete.<verse eid="MRK 4:34" /></para>
+  <para style="s1">Yesɔ Ãsi Miibuu nya shirɛ</para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 4:35" />A diuni a ɗaɗarɛ Yesɔ geliu jadɔyi nɛ,&lt;&lt;U tɛɛ nya ɓooti danɛ.&gt;&gt; <verse eid="MRK 4:35" /><verse number="36" style="v" sid="MRK 4:36" />Kɛɗɔn i yaa mooyirɛ a knti; Yesɔ jadɔyi to yɛti latosi gbete Yesɔ ɔ̃ ɗɔnyɛrɛ, latosi seyirɛ a nyazɔ. Gãsi latosi i si jo ɗɔuni. <verse eid="MRK 4:36" /><verse number="37" style="v" sid="MRK 4:37" />Tɛ̃ɛ̃ti naa i gaa yɛnɛtɛ sɔrɔ miibuu dusirɛ, si jaagoo miiu kɛ to yɛti latosiu nɛ, si kɛ yinɛ a miini. <verse eid="MRK 4:37" /><verse number="38" style="v" sid="MRK 4:38" />Yesɔ u si ɗɔ nororoonɛ a kɨnti latosi, pɔ̃ yuu a laayupɔ̃nɛ. U jadɔyi i nisiurɛ i hɨunɛ, Shɔmala, u ɓa lunɛtɛ a mii maani, yuu ji waaɓa a ukɔni ɓaya?<verse eid="MRK 4:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 4:39" />Yesɔ yulapa a ãsi sɔrɔ nyarɛ, &lt;&lt;Ɔ̃nɛ shok!&gt;&gt; A geli mii nɛ, &lt;&lt;Shi kiri-kiri! Miiu shirɛ.&gt;&gt;<verse eid="MRK 4:39" /></para>
+  <para style="p">
+    <verse number="40" style="v" sid="MRK 4:40" />Kɛɗɔn Yesɔ hɨu jadɔyinɛ,&lt;&lt;Ɔ ntaa seti iviya? Anɛ dɔdɔrim ɔ sisɨn ãnɛ ɓaya?&gt;&gt;<verse eid="MRK 4:40" /></para>
+  <para style="p">
+    <verse number="41" style="v" sid="MRK 4:41" />Seti pɛliyi waanɛ i gaa zɔ hɨlinɛ nɛ, Shɔm ɓɛɛ piya? Sɔrɔ a jaagoo mii waponi piti i ntau nyatɔ!<verse eid="MRK 4:41" /></para>
+  <chapter eid="MRK 4" />
+  <chapter number="5" style="c" sid="MRK 5" />
+  <para style="s1">Yesɔ Gati Shɔu a Rãma Sãuyɛ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 5:1" />Yesɔ au jaɗɔyini i to nya wapo Galili darɛ, aka tipi Jerasa. <verse eid="MRK 5:1" /><verse number="2" style="v" sid="MRK 5:2" />Naa Yesɔ shɛtɛ a yɛti latosi ni, shɔ rãma wɔɔ shɛ a yusàà a yɛu ɗɔbiirɛ. <verse eid="MRK 5:2" /><verse number="3" style="v" sid="MRK 5:3" />Jau roo a yusàà, shɔgbete mau a saganya ni ɓa; <verse eid="MRK 5:3" /><verse number="4" style="v" sid="MRK 5:4" />Si shɔ mau dɔɔ a naani a saganya, ama lɔɔri saganyau kati a dali lasakaurɛ au dɔɔni. U kaka si abi bang shɔ ji zɛu nɔɔ sãnɛɓa. <verse eid="MRK 5:4" /><verse number="5" style="v" sid="MRK 5:5" />Zɨmba a niti ni raki a yusàà, a kɔpɔni, u ɗɔɔ sɨnnɛ, abi gɔ̃kinɛni a tari. <verse eid="MRK 5:5" /><verse number="6" style="v" sid="MRK 5:6" />A zɛ Yesɔ a ɗɔɔ anɛ u si kpɛlɛ awuni, yuurɛ a wẽsi a yugboti au ɗekɨn. <verse eid="MRK 5:6" /><verse number="7" style="v" sid="MRK 5:7" />Kaa nya a gãgãni a shanɛ, &lt;&lt;Yesɔ, Ɗalapa gbete vi tɛu kaka ɓa kpai ɓɛɛ jaa! A kasi ivi nkɔni viya? N gakaatɔ a Ɗalapa nii, mokaa tasinraanɛ!&gt;&gt; <verse eid="MRK 5:7" /><verse number="8" style="v" sid="MRK 5:8" />Jau sha vim aru si Yesɔ ɗɔ shanɛ nɛ,&lt;&lt;Suru kɔ̃likinɛ, shɛ nɛ jam biini!&gt;&gt;<verse eid="MRK 5:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 5:9" />Kɛɗɔn Yesɔ hɨunɛ,&lt;&lt;A niinɛ iviya?&gt;&gt; Jau kasinyanɛ,&lt;&lt;N niinɛ &lt;Moo&gt;. Aruviya u bang.&gt;&gt; <verse eid="MRK 5:9" /><verse number="10" style="v" sid="MRK 5:10" />Suru kɔ̃linɛu gaki Yesɔ sɔ̃n toti nɛ ukɔ yikiyinɛ a ɗɔuni. <verse eid="MRK 5:10" /><verse number="11" style="v" sid="MRK 5:11" />Jaa gãnya pɛ̃niba si ɗɔuni maani a dɔkɔpɔu ni. <verse eid="MRK 5:11" /><verse number="12" style="v" sid="MRK 5:12" />Kɛɗɔn suruyi gaki Yesɔ nɛ,&lt;&lt;Dɔ̃u naa aɗɔ gãnyayi; u yɛrɛ u topɛ ai bi.&gt;&gt; <verse eid="MRK 5:12" /><verse number="13" style="v" sid="MRK 5:13" />Yesɔ yaasiyi nyaba i yɛrɛ, suru kɔ̃likinɛwi i shɛrɛ jau bi i to gãnyawi birɛ. Gãnyawi si mɛnɛ lazɔrɔ ziti (2,000) i tɛ̃ɛ a wapo i ɓoo mii i vɔlirɛ. <verse eid="MRK 5:13" /><verse number="14" style="v" sid="MRK 5:14" />Shɔ gãnya ganɛyi yuurɛ yɛnɛ komoo a jakomɔɔ i geli shɔ vi gbete i zɛyɛ, shɔ komoowi a jakomooni i piti kpai i shɛrɛ nɛn zɛ vi gbete a ɗɔɔ yɛnɛpɛ. <verse eid="MRK 5:14" /><verse number="15" style="v" sid="MRK 5:15" />Naa i atɛ a Yesɔ ɗɔbii, i zɛ shɔgbete au si rãmani bi, u ɗɔ ɔ̃nɛ a ɗɔukɔ tosi fãrã tɛ a bi tɛpɛ -tɛpɛ u si wasa-wasa; i zɛu nam i zaatɔ. <verse eid="MRK 5:15" /><verse number="16" style="v" sid="MRK 5:16" />Shɔgbete i zɛ viu yɛ a ɗɔuniyɛ, i geli shɔ piti kpai aru viu kpaa shɔ rãmau a gãnyawini. <verse eid="MRK 5:16" /><verse number="17" style="v" sid="MRK 5:17" />Kɛɗɔn shɔwi gaki Yesɔ nɛu yaa koou nɛ. <verse eid="MRK 5:17" /><verse number="18" style="v" sid="MRK 5:18" />Aɗagbete Yesɔ kɛ to yɛti latosi nɛyɛ, jaagbete rãmayi pɛliuyɛ gaki Yesɔ nɛ,&lt;&lt;Yampɛ n gɨn apɛ dɔɔni!&gt;&gt; <verse eid="MRK 5:18" /><verse number="19" style="v" sid="MRK 5:19" />Kɛɗɔn Yesɔ ji yau ɓa, a geliunɛ, &lt;&lt;Yɛ wɛrɛ a geli mɛshɔzɛyi vigbete Uɓeyelapa pɛlaayɛ a nɔgbete nta raayɛni.&gt;&gt; <verse eid="MRK 5:19" /><verse number="20" style="v" sid="MRK 5:20" />Jau yɛrɛ a to komoo ɗɔ kopi, u ɗɔgbete geli shɔ vigbete Yesɔ pɛliuyɛ. Shɔ ai nta vim kpai i zaatɔ.<verse eid="MRK 5:20" /></para>
+  <para style="s1">Jayirus Ɓɛɛ jaa a Sugbete Vɔrɔ</para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 5:21" />Naa Yesɔ tɛɛ nya ɓooti wapo da sɔ̃ntɛ. a ɗaukɔ Mooyi kɨntiu tete. <verse eid="MRK 5:21" /><verse number="22" style="v" sid="MRK 5:22" />Kɛɗɔn Jayirus yupɛ̃ni Yahudawa ɗɔ ɔ̃nɛ naa zɛ Yesɔ tɛ ta a yugboti au ɗekɨn. <verse eid="MRK 5:22" /><verse number="23" style="v" sid="MRK 5:23" />A gakiu sisɨn gbete, &lt;&lt;N jasoro u vɔrɔ waanɛ. Sɔkɔ arɛ a pɔ̃siunaa pɛ ayuu, aruviya u gatitɔ.&gt;&gt; <verse eid="MRK 5:23" /><verse number="24" style="v" sid="MRK 5:24" />Yesɔ yɛrɛ a Jayirus ni. Kɛɗɔn shɔ gɨn Yesɔ a dɔɔ waanɛ shɔ kɨntiu a tete. <verse eid="MRK 5:24" /><verse number="25" style="v" sid="MRK 5:25" />Suwɔɔ si ɗɔn ntabii waanɛ u kpaa tɛ̃ɛ̃ saa kopi atu ziti, <verse eid="MRK 5:25" /><verse number="26" style="v" sid="MRK 5:26" />Likitayi tottot i pɛliu gãnrɛ ji gati ɓa. Nisiu saa piti kpai, nagbete si gatiyɛ vɔrɔu yɛ sɔ̃n ɗekɨnɗekɨn. <verse eid="MRK 5:26" /><verse number="27" style="v" sid="MRK 5:27" />Naa suu nta Yesɔ ruubiitɛ, a arɛ a shɔ tete bi a Yesɔ kakɨnti, <verse eid="MRK 5:27" /><verse number="28" style="v" sid="MRK 5:28" />suu sha au sisɨn nɛ, &lt;&lt; Nkɛ nta Yesɔ nya fãrã nɛ, n yɛn gatitɔ.&gt;&gt;<verse eid="MRK 5:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 5:29" />Suu ɗi Yesɔ fãrã rɛ, a gati tɛ̃ɛ̃ti; Ntatɔ au biini nɛn gatitɛ. <verse eid="MRK 5:29" /><verse number="30" style="v" sid="MRK 5:30" />Tɛ̃ɛti Yesɔ ntarɛ kaka shɛtɛ au bi, a zaanɔɔ a hɨnɛ,&lt;&lt;Pi ɗinaa pi ang fãrã piya?&gt;&gt;<verse eid="MRK 5:30" /></para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 5:31" />&lt;&lt;U jadɔyi kasiunya i shanɛ, A zɛ tɛttɔ moo waanɛ ikɛ dɔ̃ a nɛ, anɛ pi ɗin piya?&gt;&gt; <verse eid="MRK 5:31" /><verse number="32" style="v" sid="MRK 5:32" />Ama Yesɔ kɨnnɔɔ nɛn zɛ shɔgbete pɛli vimyɛ pɛ. <verse eid="MRK 5:32" /><verse number="33" style="v" sid="MRK 5:33" />Suu kpaa sɨsɨn aru vigbete shɔ pɛliu yɛ, kɛɗɔn arɛ a setini bi a ta a Yesɔ ɗekɨn a geliu ruu tɔ̃vɨn rɛ kpai. <verse eid="MRK 5:33" /><verse number="34" style="v" sid="MRK 5:34" />Yesɔ geli suu nɛ, majaa a sisɨn ãnɛ gataatɛ. Yɛnɛ atette binyatɔ̃nɛ a gatitɛ aa vɔrɔni.<verse eid="MRK 5:34" /></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 5:35" />Si Yesɔu dooɗɔ nyanwanɛ, jashonɛ wɔyi a Jayirus wɛrɛ i geliu nɛ, &lt;&lt;A jasuu votɛ gboti. A yɔri Shɔmalau nɛ iviya?&gt;&gt;<verse eid="MRK 5:35" /></para>
+  <para style="p">
+    <verse number="36" style="v" sid="MRK 5:36" />Yesɔ ji wayu ɓa a vigbete i shaliyɛni ɓa, a geliu nɛ, &lt;&lt;Mokaa nta setinɛ, ã ɓɛɛjo sisɨn.&gt;&gt; <verse eid="MRK 5:36" /><verse number="37" style="v" sid="MRK 5:37" />Kɛɗɔn Yesɔ ji yáá shɔwɔ ɓa nɛu gɨnrɛ ɓa, see Bituru a Yakubu a ɓɛzɔ̃ Yɔhana. <verse eid="MRK 5:37" /><verse number="38" style="v" sid="MRK 5:38" />I to Jayirus wɛrɛ, kɛ ɗɔukɔ Yesɔ zɛ yukɔnɛ a shɔ nyavɔ gbete shɔ sɨn a kakani, a pɔ̃ sisɨn ai biini. <verse eid="MRK 5:38" /><verse number="39" style="v" sid="MRK 5:39" />Yesɔ torɛ a geliyinɛ, ɔ sisɨn kpaati ruviya? Jau ji vɔɓa-- u ɓɛjo nɔrɔ!<verse eid="MRK 5:39" /></para>
+  <para style="p">
+    <verse number="40" style="v" sid="MRK 5:40" />I latiu ɓɛjitɔ, a Yesɔ shɛshiyi ɓilirɛ piti kpai, a ɓaa jaa ɓeye nya a ɓinini au jadɔyi taati, i to jaaurɛ ɗɔgbete shɔ yɔ jaau ɗɔnyɛ. <verse eid="MRK 5:40" /><verse number="41" style="v" sid="MRK 5:41" />Sã jaau naarɛ a yusiu lapa a geliunɛ,&lt;&lt;Talita, kumi,&gt;&gt;ukɔ ɔ̃rɛ, jasoro, yulapanɛ nkɔ gelaarɛ! <verse eid="MRK 5:41" /><verse number="42" style="v" sid="MRK 5:42" />Tɛ̃tti Jasuu yulaparɛ gaa rakinɛ ai ɗɔbii. (U saa si kopi atu ziti.) Naa vim pɛlitɛ, i bizaarɛ piti kpai. <verse eid="MRK 5:42" /><verse number="43" style="v" sid="MRK 5:43" />Ama Yesɔ gɔ̃yi yushotɔ fɛ̃ɛm nɛikɔ geli shɔwɔnɛ, a shanɛ, &lt;&lt;Ɔ ãu vishaanɛ nɛ u shaapɛ.&gt;&gt;<verse eid="MRK 5:43" /></para>
+  <chapter eid="MRK 5" />
+  <chapter number="6" style="c" sid="MRK 6" />
+  <para style="s1">Shɔ Ɓɛ̃ɛ̃ Yesɔ a Nazara</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 6:1" />Yesɔ yaa ɗɔurɛ a yɛkɛ u wɛrɛ koo, u jadɔyi gɨu a dɔɔni. <verse eid="MRK 6:1" /><verse number="2" style="v" sid="MRK 6:2" />A lee susunɛ Yesɔ gaa shɔ vimatinɛ a Yahudawayi ɗɔ ɔ̃nɛ. Shɔzɛ si bang a ɗɔuni; shɔgbete i wesho au nyayɛ, i nta vigbete shayɛ bizayitɔ.</para>
+  <para style="p" vid="MRK 6:2">Shɔwi i hɨnɛ&lt;&lt;Jam kpaa vim pi nam piya?&gt;&gt; Pi ãu sẽrẽ a kakani u Pɛli vibiizaanɛ nankɔ piya? <verse eid="MRK 6:2" /><verse number="3" style="v" sid="MRK 6:3" />N ɓa kapinta ɓaya, Maryamu jaa, ɓɛzɔ̃yi Yakubu, Yusufu, Yahuza a Simanni ɓaya? Ɓa ɓɛnayi kɔ a ɗɔnkɔ ɓaya? Aruumkɔ i bɛ̃ɛ̃ Yesɔ ruubii ayuu vigbete shayɛ.<verse eid="MRK 6:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 6:4" />Yesɔ geliyi nɛ, &lt;&lt;Shɔ bassi janyagadi tɔ koɗɔpiya, see ai wɛrɛkoo a ɓɛshɔzɛyi wɔsɔ̃n u shɔwɛrɛyi basiu ɓa.&gt;&gt; <verse eid="MRK 6:4" /><verse number="5" style="v" sid="MRK 6:5" />Yesɔ ji pɛli vibiizaanɛ ɓa a ɗɔuni ɓa, pɔ̃si shɔvɔrɔyi fɛ̃ɛ̃ i naa ayuu i gatirɛ. <verse eid="MRK 6:5" /><verse number="6" style="v" sid="MRK 6:6" />Aruumkɔ ɔ̃ri Yesɔ kɛ vinolusinɛ fɛ̃ɛm aru gbete i sisɨng ãnɛ ɓa.<verse eid="MRK 6:6" /></para>
+  <para style="s1">Yesɔ Shou Jadɔyi Kopi Atu ziti</para>
+  <para style="p">
+    <verse number="7" style="v" sid="MRK 6:7" />Kɛɗɔn Yesɔ ɓau jadɔyi nya kopi atu ziti a shoyi ziti-ziti. A ãi kaka a suru kɔ̃linɛ yuu.<verse eid="MRK 6:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="MRK 6:8" />A ãsiyinyanɛ, &lt;&lt;Ɔkɔɔ tuu viwɔnɛ a naani, see laba sheeli--ɔkɔɔ tuu vishanɛ nɛ a naani, ɔkɔɔ tuu lazɔrɔ nɛ a naani ɔkɔɔ sã saa nɛ a duuni. <verse eid="MRK 6:8" /><verse number="9" style="v" sid="MRK 6:9" />Ɔ tosi kodɔɔ a dɔɔni, ama ɔkɔɔ tuu fãrã wɔnɛ nɛi sã a naani.&gt;&gt; <verse eid="MRK 6:9" /><verse number="10" style="v" sid="MRK 6:10" />Yesɔ geliyi wɔsɔ̃n nɛ&lt;&lt;Ɗɔgbete ɔkɛ tonɛ shɔkɛ tɛwɔ naa nɛ, ɔ ɔ̃ ɗɔukɔ yɛnɛ leegbete ɔ yaa ɗɔuyɛ. <verse eid="MRK 6:10" /><verse number="11" style="v" sid="MRK 6:11" />Ɔkɛ yɛnɛ koo gbete shɔ ji tɛwɔ naa ɓa, ko, i jo wesho ɓa awɔ nyani ɓa, ɔ sɔ̃ zaburu tɔ awɔ dɔɔni aɗagbete ɔkɛ yaa koou nɛ. Shɔ wakɔ ɔ̃kɛ vitasinɛ ai yuu.&gt;&gt; <verse eid="MRK 6:11" /><verse number="12" style="v" sid="MRK 6:12" />Kɛɗɔn i yɛ ɓili i ɗɔ Ɗanyaruubii waanɛ nɛ shɔu kɔsi sisɨn shɔ yaa ruuvini pɛlinɛtɔ. <verse eid="MRK 6:12" /><verse number="13" style="v" sid="MRK 6:13" />I shɛshi suru kɔ̃linɛyi waanɛ i pnri shɔ vɔrɔyi nɔɔ a bi i gatiyirɛ.<verse eid="MRK 6:13" /></para>
+  <para style="s1">Yɔhana Shɔ Batizima Vɔnɛ</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 6:14" />Kɛɗɔn kpati Hiridu nta vim piti kpai, aruviya Yesɔ nii yɛtɛ kpɛlɛ -kpɛlɛ. Shɔwɔyi i ɗɔ shanɛ nɛ,&lt;&lt;Yɔhana shɔ Batizima ãnɛ yulapatɛ a sàà ni, aruukɔ kpaa kaka kn u ɗɔ vishonɛ awuni.&gt;&gt; <verse eid="MRK 6:14" /><verse number="15" style="v" sid="MRK 6:15" />Shɔwɔyi shanɛ, &lt;&lt;Shɔmpɛ Iliya.&gt;&gt;Shɔwɔyi shanɛ, &lt;&lt;Upɛ janyagadi, naa janyagadi ai si tɛ̃ɛ̃tɛ̃ɛ̃yɛ.&gt;&gt;<verse eid="MRK 6:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 6:16" />Naa Hiridu nta vimtɛ piti, a shanɛ,&lt;&lt;Upɛ Yɔhana shɔ Batizima ãnɛ, shɔgbete n zɛ̃u yuuyɛ, ama yulapatɛ sàà ni!&gt;&gt;<verse eid="MRK 6:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 6:17" />Hirudu au yuu pɔ̃rɛ shɔ sã Yɔhana tɔ, nɛ shɔ mautɔ shɔ pɔ̃u a jaahm. Hirudu pɛli vim aru Hirodiya u nta sisɨn puru, ɓɛzɔ̃ Filibu ɓɛso gbete tɛuyɛ. <verse eid="MRK 6:17" /><verse number="18" style="v" sid="MRK 6:18" />Aru Yɔhana shɔ Batizima ãnɛ ji ya Hiridu gelinɛ ɓa nɛ, &lt;&lt; Nyaãsinɛ zãritɔ a tuu mɛzɔ̃u ɓɛsoǃ&gt;&gt; <verse eid="MRK 6:18" /><verse number="19" style="v" sid="MRK 6:19" />Kɛɗɔn Hirodiya sã Yɔhana au sisɨn nɛn nyoutɔ, ama ji zɛu nɔɔ nyonɛ ɓa. <verse eid="MRK 6:19" /><verse number="20" style="v" sid="MRK 6:20" />aru Hiridu nta Yɔhana seti nɛu shɔ tɔ̃vɨn u sɔ̃n wɔsɔ-wɔsɔ, ji kasiɓa nɛ shɔ ɗiunaa bi ɓa. Kasi ɔ̃nɛ awuni u wesho au nya, ama kopiɗaviya Yɔhana kɛ nwanyanɛ sisɨn kɔ Hiridu tɔ.<verse eid="MRK 6:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 6:21" />A kɨntiuni Hirodiya kpaau nyabarɛ, si a Hiridu lee yeenɛ au zááyɛ, a ɓaanya au kpatiyi bi, au shɔ sɨntanɛyi, a yupɛ̃ni tipi Galiliyi nɛi ang ɗɔ yumusinɛ. <verse eid="MRK 6:21" /><verse number="22" style="v" sid="MRK 6:22" />Naa Hirodiya ɓɛɛjaa to ɗɔ sà sanɛtɛ, u sà kɔri ɓeye a shɔ gãsiyini waanɛ.</para>
+  <para style="p" vid="MRK 6:22">Kpatiu geli jasuu nɛ,&lt;&lt;Hɨn vigbete a kasiyɛnɛ kpai, n yɛn ããtɔ.&gt;&gt; <verse eid="MRK 6:22" /><verse number="23" style="v" sid="MRK 6:23" />Hiridu teetɔ shanɛ,&lt;&lt;Vigbete akɛ hɨnɛ n yɛn ããtɔ, ko tipi gbete n roo kpati ɗɔnni n ãã tete zali.&gt;&gt;<verse eid="MRK 6:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 6:24" />Kɛɗɔn jasuu shɛrɛ a geli ɓini nɛ, &lt;&lt;N yɛn hɨ kɛ iviya.&gt;&gt;</para>
+  <para style="p" vid="MRK 6:24">Ɓini kasinyanɛ,&lt;&lt;Yɔhana shɔ Batizima yuu.&gt;&gt;<verse eid="MRK 6:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 6:25" />Jasuu sɔɔ gbãgbã yɛnɛ kpati ɗɔbii nɛn kasi Yɔhana shɔ Batizima yuu, &lt;&lt;N kasi jo dɔdɔrim kɔ a yɛti pii.&gt;&gt;<verse eid="MRK 6:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 6:26" />Kpatiu yɛti lɛsirɛ fɛ̃ɛm, ama ji zãriu ɓa aru gbete si teetɛ gboti a shɔ ɗekɨn. <verse eid="MRK 6:26" /><verse number="27" style="v" sid="MRK 6:27" />Kɛɗɔn kpati sho u shɔganɛrɛ nɛu n ting Yɔhana shɔ batizima yuu. Jau yɛrɛ a zẽẽ Yɔhana yuu a jaahm. <verse eid="MRK 6:27" /><verse number="28" style="v" sid="MRK 6:28" />Kɛɗɔn u shɔganɛu n-tiu Yɔhana yuu a pii a ã jasuu rɛ, tuurɛ a ã ɓini. <verse eid="MRK 6:28" /><verse number="29" style="v" sid="MRK 6:29" />Naa Yɔhana jadɔyi ntatɛ, i arɛ a tuu Yɔhana birɛ i gbãrɛ.<verse eid="MRK 6:29" /></para>
+  <para style="s1">Yesɔ Shari Shɔ lazɔrɔ maani (5,000)</para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 6:30" />Yesɔ jashonɛyi kopi atu ziti naa i sɔɔtɛ, i kpaa Yesɔ rɛ, i geliu vigbete i pɛliyɛ a vishɔgbete i mati shɔyɛni piti kpai. <verse eid="MRK 6:30" /><verse number="31" style="v" sid="MRK 6:31" />Aru shɔzɛ waanɛ i si a ɗɔ anɛ a yɛnɛni a Yesɔ ɗɔbii, i jo kpaa nyaba vishaanɛ ɓa. Kɛɗɔn Yesɔ geliu jashonɛyi nɛ, &lt;&lt;U yuunɛ u yɛ ɗɔ wɔɔ nɔgbete ɔ yɛ susuyɛ.&gt;&gt; <verse eid="MRK 6:31" /><verse number="32" style="v" sid="MRK 6:32" />I yuu kɛɗɔn a latosi i yɛ kagbete, i ɔ̃rɛ. <verse eid="MRK 6:32" /><verse number="33" style="v" sid="MRK 6:33" />Shɔzɛ waanɛ i zɛ Yesɔ tɔ aɗɔ yɛnɛni, i ã tɔ̃vɨn tɔ nɛpɛ ikɔ, shɔ a komoo tottot i raadɔɔ Yesɔ au jadɔyini i ɓɛɛ ɗɔu tonɛ shɔwi totɛ tɛ̃ɛ̃tɛ̃ɛ̃. <verse eid="MRK 6:33" /><verse number="34" style="v" sid="MRK 6:34" />Naa Yesɔ shɛtɛ a yɛti latosiuni a zɛ mooyi waanɛ a ntayi raarɛ, aruviya isi naa mɛrɛ̃ɛ̃ au shɔganɛ ɓayɛ. Kɛɗɔn Yesɔ gayi vimatirɛ tottot.<verse eid="MRK 6:34" /></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 6:35" />Si ɗɔ sɨn janɛtɛ, Yesɔ jadɔyi au ɗɔbiirɛ i shanɛ, &lt;&lt;Ɗaa yiitɛ, u sɔ̃n ɗɔgbete shɔ ɓa ɗɔm ɓa. <verse eid="MRK 6:35" /><verse number="36" style="v" sid="MRK 6:36" />Yaa shɔmiyi naa nɛ, i yɛ jakomɔɔ a tipi gbete aɗɔn maani i kãriyi yuu vishaanɛ pɛ.&gt;&gt;<verse eid="MRK 6:36" /></para>
+  <para style="p">
+    <verse number="37" style="v" sid="MRK 6:37" />Yesɔ kasinyanɛ&lt;&lt;Ɔ ãyi vishaanɛ nɛ i shaarɛ viya.&gt;&gt;</para>
+  <para style="p" vid="MRK 6:37">I hɨunɛ,&lt;&lt;A kasinɛ u nyo saa azurfa laa kopi (200) u woriyi vishaanɛ awuni i shaarɛ ya?&gt;&gt;<verse eid="MRK 6:37" /></para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 6:38" />Kɛɗɔn Yesɔ hɨyinɛ, &lt;&lt;Ɔ borodi naa nɛkɨn nya? Yɛnɛ ɔ zɛrɛ.&gt;&gt;</para>
+  <para style="p" vid="MRK 6:38">Naa i zɛtɛ, i geliunɛ, &lt;&lt;borodi maani a jazɨng ziti.&gt;&gt;<verse eid="MRK 6:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 6:39" />Kɛɗɔn Yesɔ geliu jadɔyinɛ, ɔ geli shɔnɛ i ɔ̃li a yuu wisi zazza a kǹkǹ. <verse eid="MRK 6:39" /><verse number="40" style="v" sid="MRK 6:40" />See shɔ ɔ̃lirɛ a kǹkǹ shɔwɔyi si laa maani, wɔyi sɔ̃n laa ziti atu kopi. <verse eid="MRK 6:40" /><verse number="41" style="v" sid="MRK 6:41" />Kɛɗɔn Yesɔ tuu borodi maani a jazɨng ziti, a kɨnnɔɔ kolapa, a dɔ̃ri Ɗa a dalirɛ. A ãu jadɔyi nɛyi vɔsi shɔnɛ. Vɔsi jazɨn sɔ̃n jo a shɔwi yuu piti kpai. <verse eid="MRK 6:41" /><verse number="42" style="v" sid="MRK 6:42" />Kopiya shaarɛ tɛsiurɛ. <verse eid="MRK 6:42" /><verse number="43" style="v" sid="MRK 6:43" />Kɛɗɔn Yesɔ jadɔyi toli borodi dalinɛ a jazɨnni ɓuti kopi atu ziti. <verse eid="MRK 6:43" /><verse number="44" style="v" sid="MRK 6:44" />Shɔ gbeteyi shaayɛ i si lazɔrɔ maani (5,000).<verse eid="MRK 6:44" /></para>
+  <para style="s1">Yesɔ ra ayuu mii</para>
+  <para style="p">
+    <verse number="45" style="v" sid="MRK 6:45" />Ji wariyuɓa Yesɔ geliu jadɔyinɛ i to latosi nɛ, nɛi yɛ Besada a ɗekɨn, a nya ɓooti wapo da, nɛn vasi mooyi nya pogo. <verse eid="MRK 6:45" /><verse number="46" style="v" sid="MRK 6:46" />A knti gbete yaa mooyitɛ, gɛ̃kɛ kɔpɔ ɗɔ Ɗa gakinɛ.<verse eid="MRK 6:46" /></para>
+  <para style="p">
+    <verse number="47" style="v" sid="MRK 6:47" />Naa ɗadɗarɛ pɛlitɛ, si latosiu atette mii wapo, Yesɔ u si a yɔbm a nya ɓooti. <verse eid="MRK 6:47" /><verse number="48" style="v" sid="MRK 6:48" />Kɨnnɔɔ rɛ a zɛu jadɔyi ɗɔ latosi zaanɛ siyi ɗɔ bawaanɛ a sɔrɔni; si dɔɔɗa ntátɛ mɛnɛ taati yɛnɛ maangbete a gadii, Yesɔ au jadɔyi ɗɔbii u ɗɔ ranɛ ayuu mii. pɛli naa kɛ tɛyinɛ, <verse eid="MRK 6:48" /><verse number="49" style="v" sid="MRK 6:49" />ama i zɛu a ɗɔ ranɛ ayuu mii. I sha ai sisɨn nɛ &lt;&lt;pɛ rãma!&gt;&gt; I gaa nya kaarinɛrɛ. <verse eid="MRK 6:49" /><verse number="50" style="v" sid="MRK 6:50" />I piti kpai i zaatɔ aɗagbete i zɛuyɛni.</para>
+  <para style="p" vid="MRK 6:50">Yesɔ nwarinya gbãgbã a shanɛ,&lt;&lt;Ɔ mabiitɔ pɛ nkɔ. Ɔ zaa ɓaǃ&gt;&gt; <verse eid="MRK 6:50" /><verse number="51" style="v" sid="MRK 6:51" />Kɛɗɔn a to yɛti latosirɛ ayini, sɔrɔ shirɛ. Yesɔ jadɔyi vibiizaanɛ sãyi piti kpai, <verse eid="MRK 6:51" /><verse number="52" style="v" sid="MRK 6:52" />aru gbete i jo kpaa kara dɔɔ vigbete Yesɔ shaari shɔ lazɔrɔ maani (5,000) ɓa; siyi sisɨn lakitɛ bang.<verse eid="MRK 6:52" /></para>
+  <para style="s1">Yesɔ Gati Shɔvɔrɔ Wɔɔ a Genɛsareti</para>
+  <para style="p">
+    <verse number="53" style="v" sid="MRK 6:53" />Naa i tɛɛ nya ɓooti datɛ, i yɛkɛ Genesarati a latosi, i ma latosi kɛ ɗɔukɔ. <verse eid="MRK 6:53" /><verse number="54" style="v" sid="MRK 6:54" />Naa i yaa latosi tɛ a ɗɔuni tɛ̃ɛti, shɔ kpaa gɨǹ gbãgbã nɛ shɔmpɛ Yesɔ. <verse eid="MRK 6:54" /><verse number="55" style="v" sid="MRK 6:55" />I yuurɛ a yɛti komoo piti kpai, ɗɔ gbeteyi ntanɛ Yesɔ u ɗɔnyɛ i n-tiu shɔ vɔrɔyi a siri gbeteyi roo ɗɔnniyɛ. <verse eid="MRK 6:55" /><verse number="56" style="v" sid="MRK 6:56" />A ɗɔgbete Yesɔ ɗɔnyɛ piti kpai, ko pi jakomɔɔ shɔpiya, komoo shɔpiya, a jaayi, shɔ n ti shɔvɔyi a pɔ̃yi a nya lumoo. I gaki Yesɔ rɛ nɛu yapɛ shɔ ɗinaa pɛ au nya fãrã, shɔgbete i ɗii naa a Yesɔ fãrã piti i gatirɛ.<verse eid="MRK 6:56" /></para>
+  <chapter eid="MRK 6" />
+  <chapter number="7" style="c" sid="MRK 7" />
+  <para style="s1">Vi Wɔsɔ-wɔsɔ a vi Gbete ɓa Wɔsɔ-wɔsɔ ɓa</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 7:1" />Gãsi Farasiyayi a shɔmala nya-ãsinɛ Musa i a, a Urushalima i toli nya a Yesɔ ɗɔbii. <verse eid="MRK 7:1" /><verse number="2" style="v" sid="MRK 7:2" />I kɨnnɔɔ i zɛrɛ Yesɔ jaɗɔyi gãsi i shaa vishanɛ a naa gbete &lt;&lt;ɓa wɔsɔ-wɔsɔ ɓa,&gt;&gt; ukɔ ɔ̃rɛ iji sɔɔ naa ɓa nagbete Farasiya i matiyi shɔ yɛ, ji nɔgbete i nyakoo matiyi yɛ. <verse eid="MRK 7:2" /><verse number="3" style="v" sid="MRK 7:3" />( Farasiyayi a shɔ Yahudawayini piti kpai i shaa vishaanɛ ɓa setɛyi sɔɔ naa tɛttɔ, i gɨn jo i nakoo gbete i shɔpɛ̃ni i matiyiyɛ. <verse eid="MRK 7:3" /><verse number="4" style="v" sid="MRK 7:4" />Piti a vigbete i a awuni a lumɔɔni i shaa ɓa setɛ i sɔɔtɛ. I vikoo wɔɔyi sɔ̃n aɗɔn gbete i gɨnyɛ tottot, naa jawaa sɔlinɛ, a ɓariyi, wɔsɔ̃n kpariyi sɔlinɛ a sirini.<verse eid="MRK 7:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 7:5" />Kɛɗɔn Farasiyayi a shɔmala nya-ãsinɛ Musa i hɨ Yesɔ nɛ,&lt;&lt;Aru ivi a jadɔyi i gɨn vi nakoo gbete shɔpẽniyi mati shɔyɛ ɓa, ama i shaa vi a naa gbete&lt;ɓa wɔsɔ-wɔsɔ ɓa&gt;viya?&gt;&gt;<verse eid="MRK 7:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 7:6" />Yesɔ risinyanɛ,&lt;&lt;vigbete Ɗa jashonɛ Ishaya sha si awɔ yuu pɛ nizɛ, ɔpɛ shɔ-shɔ ɗakinɛyi kɔ; nagbete laabeenɛ shayɛ:</para>
+  <para style="q1" vid="MRK 7:6">&lt;&lt; &lt;Shɔmiyi i basing ɓɛjo a nyalapa kɔ sheeli,</para>
+  <para style="q2" vid="MRK 7:6">ama i sisɨn kpɛlɛ ang ɗɔbiini.<verse eid="MRK 7:6" /></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="MRK 7:7" />I gɨn n ɓɛɛjo waati weze;</para>
+  <para style="q2" vid="MRK 7:7">I mati shɔ ɓɛɛjo nya-ãsinɛ shɔzɛ vi pɛlinɛ ɓa Ɗalapa ɓɛɛ ɓa!&gt;<verse eid="MRK 7:7" /></para>
+  <para style="m">
+    <verse number="8" style="v" sid="MRK 7:8" />Ɔ yaa Ɗalapa nya-ãsitɛ ɔ gɨn ɓɛɛjo ɔ nakoo, vigbete shɔzɛ mati shɔyɛ.&gt;&gt;<verse eid="MRK 7:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 7:9" />Yesɔ yɛ ɗekɨn ai gelinɛni nɛ:&lt;&lt;ɔ zɛnɔɔ Ɗalapa nya-ãsinɛ yaanɛtɛ kagbete ɔ nɛi gɨn ɔ nakoo! <verse eid="MRK 7:9" /><verse number="10" style="v" sid="MRK 7:10" />Musa shanɛ,&lt;Ɔ bassi meyeutɔ a miniuni,&gt;toti, &lt;shɔgbete kɛ sha ruu kɔ̃linɛ nɛ a ɓeye yuu ko mini yuu ɔ̃tɛ lakɔrɔ shɔu nyou vɔrɔtɔ.&gt; <verse eid="MRK 7:10" /><verse number="11" style="v" sid="MRK 7:11" />Ama ɔ mati shɔ vinɛ nɛpɛ tɔ̃vɨn shɔu yaa ɓeye a minini aɗagbete iɗɔ raatasinɛ, nɛ tɔ̃vɨn shɔu ãvipɛ Ɗalapa:&lt;vigbete ɔ si kpaa ang ɗɔbii piti kpai n teetɛ n ãkɛ Ɗalapa,&gt; <verse eid="MRK 7:11" /><verse number="12" style="v" sid="MRK 7:12" />nankɔ ɔ zãri shɔtɛ nɛ shɔkɔ pɔ̃si ɓeye a ɓini naa nɛ a vini. <verse eid="MRK 7:12" /><verse number="13" style="v" sid="MRK 7:13" />A nyabankɔ vigbete ɔ mati shɔ nyo Ɗalapa nya ruubiitɛ. viwɔyi sɔ̃nji aɗɔn waanɛ gbete ɔ pɛli nankɔ.&gt;&gt;<verse eid="MRK 7:13" /></para>
+  <para style="s1">Vigbete pɔ̃rɛ shɔ ɔ̃ ɓa wɔsɔ-wɔsɔ ɓa</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 7:14" />Toti Yesɔ ɓaa mɔɔ nyarɛ a geliyinɛ, kopiya u weshopɛ ang nya, ɔ zɛ tɔ̃vɨn. <verse eid="MRK 7:14" /><verse number="15" style="v" sid="MRK 7:15" />Ɓa vigbete shɔ shaarɛ a nya ukɔ pɔ̃rɛ shɔ ɔ̃ &lt;&lt;ɓa wɔsɔ-wɔsɔ ɓa,&gt;&gt; a Ɗalapa ɗekɨn rɛ niɓa, pɛ vigbete shɛ a shɔ sisɨn ɓusɨn ɔkɔ pɔ̃rɛ shɔu ɔ̃ ɓa wɔsɔ-wɔsɔ ɓa a Ɗalapa ɗekɨn.<verse eid="MRK 7:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 7:16" />Shɔgbete u sho ntanɛ aɗɔn u ntapɛ tɔ̃vɨn.<verse eid="MRK 7:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 7:17" />Akɨnti gbete Yesɔ yisi mɔɔyi vi matinɛtɛ, tokɛ yɛti wɛrɛ, u jaɗɔyi i hɨ ruu nɛu tasiyidɔɔ ruɓusunɛ gbete shayɛ pɛ. <verse eid="MRK 7:17" /><verse number="18" style="v" sid="MRK 7:18" />Yesɔ risinyanɛ,&lt;&lt;Ɔ ang yusẽtɛ ɔkɔma ɔji zɛ vigbete n shayɛ ɓaa? Ɔji zɛɓa nɛ, ɓa vigbete shɔ tosi a yɛti, ɓa ukɔ pɔ̃rɛ shɔzɛ u ɔ̃ &lt;Ɓa wɔsɔ-wɔsɔ ɓa.&gt; <verse eid="MRK 7:18" /><verse number="19" style="v" sid="MRK 7:19" />Aru vishaanɛ toɓa shɔzɛ sisɨn ɓa ama u yɛti ɓuzɨn, kɛɗɔn yɛ shɛ ɓili kɛkn.&gt;&gt;(Yesɔ sha vim, u tasinɛ vishaanɛ piti kpai pɛ, &lt;&lt;Vi wɔsɔ-wɔsɔ.&gt;&gt;<verse eid="MRK 7:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 7:20" />Yesɔ yɛ ɗekɨn a shanɛni nɛ:&lt;&lt;Vigbete shɛ a shɔ sisɨn ukɔ pɔ̃rɛ shɔu ɔ̃ ɓa wɔsɔ-wɔsɔ ɓa.&gt;&gt; <verse eid="MRK 7:20" /><verse number="21" style="v" sid="MRK 7:21" />aru gbete pɛ shɔzɛ sisɨn kɔ, ruu kɔ̃linɛ shɛkirɛ, naa shɔja lɛsinɛ, vi ɓɔɔnɛ, shɔ nyonɛ, roonɛ a shɔ soni, <verse eid="MRK 7:21" /><verse number="22" style="v" sid="MRK 7:22" />mang pɛlinɛ, lánɛ́, shɔ ɗakinɛ, sisɨn vi tɔ̃vɨn kasinɛ gbete ɓa nyaɓa tɔ̃vɨn ɓa, shɔ sannɛ a sisɨn, shɔ nii lɛsinɛ, a yuu lakinɛ wɔsɔ̃n vi rãn shonɛ. <verse eid="MRK 7:22" /><verse number="23" style="v" sid="MRK 7:23" />Vi kɔ̃linɛm piti kpai shɛ a sisɨn ukɔ pɔ̃ shɔzɛ u ɔ̃rɛ &lt;&lt;ɓa wɔsɔ-wɔsɔ ɓa.&gt;&gt;<verse eid="MRK 7:23" /></para>
+  <para style="s1">Suu sisɨn ãnɛ</para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 7:24" />Kɛɗɔn Yesɔ yaa ɗɔurɛ yɛkɛ komɔɔ Taya a Sɔdom. to yɛti wɛrɛ ji kasiɓa nɛ shɔwɔ u zɛnrɛ ɓa; shom piti u ɓunɛu ji pɛliɓa. <verse eid="MRK 7:24" /><verse number="25" style="v" sid="MRK 7:25" />Tɛ̃ɛ̃ti naa suwɔɔ nta Yesɔ ruubiitɛ, suu u jasoro pẽtẽrẽ suru kɔ̃linɛ sãutɔ arɛ a nwese a Yesɔ ɗekɨn. <verse eid="MRK 7:25" /><verse number="26" style="v" sid="MRK 7:26" />Suu pɛ shɔzati a Yahudawa i tipi, shɔ yeu a tipi ponishiya a Siriya. Gaki Yesɔ nɛu shɛshi suru kɔ̃linɛ ang ɓɛjaa bi.<verse eid="MRK 7:26" /></para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 7:27" />Yesɔ geli suunɛ, u shaari pɛ shɔ Isirelayi pɛtɔ a ɗekɨn gbete i naa jajjayi, ɓa vitɔ̃vɨng a tuu jajjayi vishaanɛ a ã shɔgbeteyi ɓa Yahudawa ɓa gbete i naa zaayɛ.<verse eid="MRK 7:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 7:28" />Suu kasinyanɛ, &lt;&lt;nankɔ, Uɓeyelapa, ama zaayi ma i shaa vishaanɛ gbete nteli a tipi a jajja piitɔ.&gt;&gt;<verse eid="MRK 7:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 7:29" />kɛɗɔn Yesɔ geli suu nɛ, &lt;&lt;aru gbete a kasinyaɓang kɔ, yɛ wɛrɛnɛ, suru kɔ̃linɛ yaa mɛjautɛ.&gt;&gt;<verse eid="MRK 7:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 7:30" />A Suu wɛrɛrɛ kpaarɛ jajjau rotɛ a laa roonɛ, suru kɔ̃linɛ shɛtɛ a ɓejau biini.<verse eid="MRK 7:30" /></para>
+  <para style="s1">Yesɔ gati shɔgbete nwanyaɓa a shogbãti</para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 7:31" />Kɛɗɔn Yesɔ yaa tipi Taya rɛ a sɔkɛ nyaɓa Sɔdom yɛnɛ ɓooti Galili. Akɛ ɗɔlaa kopi i koo. <verse eid="MRK 7:31" /><verse number="32" style="v" sid="MRK 7:32" />A ɗɔukɔ shɔ n-tiu jawɔɔrɛ gbete nwanyaɓa, shogbãti nta ruu ɓa ntẽtini ɓa, shɔ gaki Yesɔ nɛu pɔ̃siu naa ayuu aru u gatitɔ.<verse eid="MRK 7:32" /></para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 7:33" />Yesɔ gɔ̃ jaurɛ kagbete a shɛshiu a mɔɔyi ɗɔbiini, a tosi janaa a jau sho a tuli susãri aɗɔn kɛɗɔn Yesɔ susãri ɗiiwɔɔ jau ɗɛɛti. <verse eid="MRK 7:33" /><verse number="34" style="v" sid="MRK 7:34" />Kɛɗɔn a ɗee nɔɔ a lapa, a gɔ̃ ɔ̃kinɛ a kakani, a shanɛ, &lt;&lt;Ippataǃ&gt;&gt;ukɔ ɔ̃rɛ, &lt;&lt;Belinɛǃ&gt;&gt; <verse eid="MRK 7:34" /><verse number="35" style="v" sid="MRK 7:35" />Tɛ̃ɛ̃ti jau sho i ɓelirɛ nta vigbete shɔ shayɛ tɛpɛ-tɛpɛ, vigbete si shatiu ɗɛɛti kalirɛ, gaa nyanwanɛrɛ tɛpɛ-tɛpɛ.<verse eid="MRK 7:35" /></para>
+  <para style="p">
+    <verse number="36" style="v" sid="MRK 7:36" />Kɛɗɔn Yesɔ gɔ̃ shɔ yuushorɛ nɛ, ikɔ geli shɔwɔyinɛ ama u ɗɔɔ i zãrinɛ i yɛ ɗekɨn ɓɛɛjitɔ a shɔ gelinɛni. <verse eid="MRK 7:36" /><verse number="37" style="v" sid="MRK 7:37" />shɔ nta vim nam kopiya vibii zaanɛ pɛliyi waanɛ i shanɛ,&lt;&lt;pɛli vitɛ kpai tɔ̃vɨn, pɔ̃ shɔ shogbãtitɛ i nta ruutɛ, a shɔ gbete i nyaɓa i nwanyatɛ.&gt;&gt;<verse eid="MRK 7:37" /></para>
+  <chapter eid="MRK 7" />
+  <chapter number="8" style="c" sid="MRK 8" />
+  <para style="s1">Yesɔ shari shɔzɛ laa laa ziti au jaa kopi ɓa nɛ̃ɛ̃ti (4,000)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 8:1" />Ji ɔ̃ ɓa dɔkɔkɔ ɓa mɔɔ waanɛ i toli sɔ̃nrɛ ɗɔgbete. Vishaanɛ gbete shɔ shaa sɔ̃n ɓa, Yesɔ ɓaa u jaɗɔyi nya a geliyinɛ, <verse eid="MRK 8:1" /><verse number="2" style="v" sid="MRK 8:2" />&lt;&lt;Raa pɛliutɔ a shɔmiyini aru i ɔ̃tɛ gboti a nkɔni lee taati vishaanɛ ɓa. <verse eid="MRK 8:2" /><verse number="3" style="v" sid="MRK 8:3" />Nkɛ yainɛ i yɛ nankɔ i yɛ nwesi a nyaɓa aru gãsiyi nyaɓa kpɛlɛ.&gt;&gt;<verse eid="MRK 8:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 8:4" />Yesɔ jaɗɔyi i hɨunɛ, &lt;&lt;U yɛ kpaa vishaanɛ gbete yɛ tesi shɔ kɛpi a ɗɔ waatini u shaarirɛ piya?&gt;&gt;<verse eid="MRK 8:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 8:5" />Yesɔ hɨunɛ, &lt;&lt; ɔ borodi a naa nɛkɨnnya?&gt;&gt; Yesɔ jaɗɔyi risiu nyanɛ.</para>
+  <para style="p" vid="MRK 8:5">&lt;&lt;maanzii.&gt;&gt;<verse eid="MRK 8:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 8:6" />Yesɔ geli mɔɔyi nɛi ɔ̃nɛ a tipi. Kɛɗɔn tuu borodi maanziiu, dɔ̃ri Ɗalapa, a dalirɛ, a ãu jaɗɔyi nɛi vɔsi mɔɔyinɛ, i vɔsi mɔɔrɛ naa gbete shayɛ. <verse eid="MRK 8:6" /><verse number="7" style="v" sid="MRK 8:7" />I jaa jazɨn si sɔ̃n a ɗɔn fɛ̃ɛ̃; Yesɔ dɔ̃ri Ɗa a ãu jaɗɔyi i vɔsi mɔɔyi rɛ. <verse eid="MRK 8:7" /><verse number="8" style="v" sid="MRK 8:8" />Kopiya shaarɛ tesiyirɛ. A kɨntiuni Yesɔ jaɗɔyi i toli u dalinɛ gbete yayɛ ɓuti maanzii. <verse eid="MRK 8:8" /><verse number="9" style="v" sid="MRK 8:9" />Vɔshɔ gbeteyi si a ɗɔu mɛnɛ laa laa ziti atu kopi ɓa nɛ̃ɛ̃ti (4,000). Yesɔ ã shɔ naarɛ nɛi yɛnɛ, <verse eid="MRK 8:9" /><verse number="10" style="v" sid="MRK 8:10" />tɛ̃ɛ̃ti Yesɔ to yɛti latosi mii rɛ au jadɔyini yɛnɛ tipi Damanuta.<verse eid="MRK 8:10" /></para>
+  <para style="s1">Farasiyayi i hɨ Yesɔ nɛu pɛli vibii zaanɛ</para>
+  <para style="p">
+    <verse number="11" style="v" sid="MRK 8:11" />Farasiyayi gãsiyi i arɛ a gaa Yesɔ nya masinɛ nɛ, i shanɛ, nɛ Yesɔ u tasii vibii zaanɛ pɛ gbete yɛ tasi nɔgbete u kaka shɛ a Ɗalapa ɗɔbii. <verse eid="MRK 8:11" /><verse number="12" style="v" sid="MRK 8:12" />Ama Yesɔ gɔ̃ ɔ̃kinɛ a zaa a sisɨn shanɛ, &lt;&lt;aru ivi jakɨntimiyi kãɓɛjɔ ɗɔ vibii-zaanɛ viya? N gelɔɔtɛ, shɔ yɛ tasɔɔ vibii-zaanɛ ɓa.&gt;&gt; <verse eid="MRK 8:12" /><verse number="13" style="v" sid="MRK 8:13" />Kɛɗɔn Yesɔ yairɛ, a sɔɔ latosi rɛ, a gaa ɓooti da tɛnɛrɛ.<verse eid="MRK 8:13" /></para>
+  <para style="s1">Farasiyayi i vuru</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 8:14" />Yesɔ jaɗɔyi i suki borodi n-tinɛtɔ gbete yɛ tesiiyɛ, siji borodi gbete a yɛti latosi ai naa sheeli. <verse eid="MRK 8:14" /><verse number="15" style="v" sid="MRK 8:15" />Yesɔ gɔ̃yi yuusho a shanɛ,&lt;&lt;Ɔ kɔyuu tɔ, ɔ kɨnnɔɔ tɔ̃vɨn aru vikɔ̃linɛ gbete Farasiyayi a Hirudu i mati shɔyɛ ni.&gt;&gt;<verse eid="MRK 8:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 8:16" />Kɛɗɔn Yesɔ jaɗɔyi shali ai nɔɔ nɛ,&lt;&lt; Sha vim aru gbete u borodi ɓangkɔ ya?&gt;&gt;<verse eid="MRK 8:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 8:17" />Yesɔ zɛ vigbeteyi sha ɓɛtɛ, a hɨyinɛ, &lt;&lt;aru ivi ɔ nwanya nɛi borodi ɓa viya? Anɛ dɔdɔrim ɔ ji zɛɓa nɛ n yɛn pɛli vibii-zaanɛ dɔɔtɔ n n-tɔɔ vishaanɛrɛ ɓaya? Ɔ sisɨn kàsi ya? <verse eid="MRK 8:17" /><verse number="18" style="v" sid="MRK 8:18" />Ɔ nɔɔ aɗɔn ama ɔ zɛ ɗɔ ɓa, ɔ sho aɗɔn ama nta ruu ɓaya? Ɔ ji kpaa sisɨn ayuu vim yini piti kpai ɓaya? <verse eid="MRK 8:18" /><verse number="19" style="v" sid="MRK 8:19" />Aɗagbete n dali borodi maani n shaari shɔzɛ laa ziti a tu kopi ɓa maani (5,000) ɔ siu dalinɛ ɓuti nɛkɨn yirɛviya?&gt;&gt; <verse eid="MRK 8:19" /><verse number="20" style="v" sid="MRK 8:20" />Aɗagbete n dali borodi maanzii aru shɔzɛ laa laa ziti atu kopi ɓa nɛ̃ɛ̃ti, ɔ siu dalinɛ ɓuti nɛkɨn yirɛviya? I shanɛ.</para>
+  <para style="p" vid="MRK 8:20">&lt;&lt;maanzii.&gt;&gt;<verse eid="MRK 8:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 8:21" />Yesɔ hɨu jaɗɔyi nɛ, &lt;&lt;anɛ dɔdɔrim ɔ ji zɛ ɓaya?&gt;&gt;<verse eid="MRK 8:21" /></para>
+  <para style="s1">Yesɔ gati shɔnɔgbɔ̃ti a Besaida</para>
+  <para style="p">
+    <verse number="22" style="v" sid="MRK 8:22" />Yesɔ au jaɗɔyi i a Besaida, shɔwɔyi i n-tiu shɔnɔgbɔ̃ti i gaki Yesɔ neu ntau naa a bi. <verse eid="MRK 8:22" /><verse number="23" style="v" sid="MRK 8:23" />Yesɔ sã shɔnɔgbɔ̃tiu naa a shɛshiu jakomɔɔ ɓili. Naa tuli susãritɛ a shɔnɔgbɔ̃tiu nɔni a ntau naa bi kɛɗɔn Yesɔ hɨunɛ, a zɛ viwɔɔ tɛya? <verse eid="MRK 8:23" /><verse number="24" style="v" sid="MRK 8:24" />Shɔnɔgbɔ̃tiu ɗe nɔɔ lapa, a shanɛ, &lt;&lt;n zɛ shɔzɛ tɛ; i naa laa i ɗɔ rakinɛ.&gt;&gt;<verse eid="MRK 8:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 8:25" />Yesɔ pɔ̃ naa sɔ̃n a jau nɔɔ toti. Kɛɗɔn u nɔɔ ɓelirɛ, a gatirɛ, a zɛ ɗɔrɛ wasa-wasa. <verse eid="MRK 8:25" /><verse number="26" style="v" sid="MRK 8:26" />Yesɔ ãu naarɛ nɛu yɛ wɛrɛ, ama ãsiu nyanɛ &lt;&lt;mokɔ sɔ jakoomɔɔnɛ toti.&gt;&gt;<verse eid="MRK 8:26" /></para>
+  <para style="s1">Bituru shanɛ Yesɔ ukɔ ɔ̃rɛ kirisi</para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 8:27" />Kɛɗɔn Yesɔ au jaɗɔyini i yaa Besaida a yɛkɛ jakomɔɔ māāni a kaseriya pilipi ni. A nyaba yɛnɛ Yesɔ hɨu jaɗɔyinɛ,&lt;&lt;ɔ gelin nɛ shɔ shalinɛ nkɔng piya?&gt;&gt;<verse eid="MRK 8:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 8:28" />U jaɗɔyi i risinyanɛ,&lt;&lt;shɔwɔyi shanɛ Yɔhana shɔ Batizima; shɔwɔnɛ Iliya; shɔwɔyi sɔ̃njinɛ shɔzɛ gbete atette Ɗa jashonɛyi.&gt;&gt;<verse eid="MRK 8:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 8:29" />Ama Yesɔ hɨyinɛ,&lt;&lt; Ɔ shanɛ n ɓɛkɛ piya?&gt;&gt;</para>
+  <para style="p" vid="MRK 8:29">Bituru kasi nyanɛ,&lt;&lt;mokaa kirisi.&gt;&gt;<verse eid="MRK 8:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 8:30" />Kɛɗɔn Yesɔ gɔ̃yi yushonɛ ɔkɔɔ geli shɔwɔyi n ruubiinɛ.<verse eid="MRK 8:30" /></para>
+  <para style="s1">Yesɔ nwanya au ruu vɔnɛ</para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 8:31" />Kɛɗɔn Yesɔ gaa u jaɗɔyi vi matinɛ a shanɛ, ɔ̃tɛ lakɔrɔ jashɔzɛ yɛ ɓoraa wàànɛ shɔpẽni dɔlayi a yupɛ̃ni jaa Ɗa wɔsɔ̃n shɔmala nya ãsinɛyi Musa i yɛ bɛ̃u ruubiitɔ, shɔ yɛ nyou vɔrɔ, ama akɨnti lee taati yɛ yuu sɔ̃n suruni. <verse eid="MRK 8:31" /><verse number="32" style="v" sid="MRK 8:32" />Yesɔ sha vim wasa-wasa au jaɗɔyi i ɗɔbii. Kɛɗɔn Bituru gɔ̃u kagbete a gau nya masinɛ. <verse eid="MRK 8:32" /><verse number="33" style="v" sid="MRK 8:33" />Ama Yesɔ zaa nɔkɨn a zɛ u jaɗɔyi gãsi, a gɔ̃ Bituru yusho nɛ, &lt;&lt;Yɛ kawa, japɛ̃pɛ̃ɛ̃ǃ&gt;&gt; Yesɔ risi nyanɛ. &lt;&lt;A lɛri vi bɛjo naa shɔzɛ àá sisɨnni, ama ɓa naa Ɗalapa ɓa.&gt;&gt;<verse eid="MRK 8:33" /></para>
+  <para style="p">
+    <verse number="34" style="v" sid="MRK 8:34" />Kɛɗɔn Yesɔ ɓaa mɔɔyi au jaɗɔyi nya au ɗɔbii a shanɛ,&lt;&lt;Shɔgbete kasinɛn ɔ̃ n jaɗɔ ɔ̃riutɛ kaka jazɨng a kɔrɔ setɛ bɛ̃u yuutɛ u tu laa gbete shɔyɛ ɓau naa aɗɔnyɛ u gɨnrɛ. <verse eid="MRK 8:34" /><verse number="35" style="v" sid="MRK 8:35" />Shɔgbete kɛ kasiu surunɛ, yɛ rariu natɔ; a suru kɛ rananɛ ang yuu a Ɗalapa nya ruubii a yɛ kpaa sɔ̃ntɔ. <verse eid="MRK 8:35" /><verse number="36" style="v" sid="MRK 8:36" />Kɛ ivi tɔ̃vɨn aɗɔ shɔzɛni viya kɛ kpaa vinɛ piti kpai a koo, u suru u rariu naarɛ viya? Yɛ pɛli ɓa. <verse eid="MRK 8:36" /><verse number="37" style="v" sid="MRK 8:37" />Shɔzɛ yɛ ãkɛ iviya aru u sur--uni viya? <verse eid="MRK 8:37" /><verse number="38" style="v" sid="MRK 8:38" />Shɔgbete kɛ ntang yusẽnɛ a Ɗalapa nya ruubii dɔdɔrim a koo jakɨntim gbete ruu kɔ̃linɛ raaɗɔtɛm, Jashɔzɛ yɛ ntau yusẽ jo aɗagbete yɛ ɔ̃ au ɓeye ɗɔ bassinɛ a Ɗa jashoneyi ni a lapa.&gt;&gt;<verse eid="MRK 8:38" /></para>
+  <chapter eid="MRK 8" />
+  <chapter number="9" style="c" sid="MRK 9" />
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 9:1" />Yesɔ geliu jadɔyinɛ, &lt;&lt; N gelɔɔtɛ, ɔ shɔzɛ gãsi gbete i shiliɓa aɗɔn i yɛ vɔɓa setɛ i zɛ Ɗa kpati roonɛtɛ au kakani a nyaɓa totto.&gt;&gt;<verse eid="MRK 9:1" /></para>
+  <para style="s1">Yesɔ bi kɔsirɛ.</para>
+  <para style="p">
+    <verse number="2" style="v" sid="MRK 9:2" />Akɨnti lee maangbete Yesɔ tuu Bituru, Yakubu a Yɔhana yɛnɛ yukɔpɔ sɔ̃sɔ̃lɔ̃ a ɗɔwakɔ siji ikɔ sheeli. I ɗɔ nɔɔ kɨnnɛ Yesɔ bi kɔsirɛ ai ɗekɨn a ɗɔukɔ. <verse eid="MRK 9:2" /><verse number="3" style="v" sid="MRK 9:3" />U fãrã rii puru ɓolo-ɓolo, shɔwɔyɛ sɔɔ fãrã ɓa a kooni nankɔni ɓa. <verse eid="MRK 9:3" /><verse number="4" style="v" sid="MRK 9:4" />Kɛɗɔn Yesɔ jadɔ taatiyi i zɛ Ɗa jashonɛyi Iliya a Musa i shɛ a Yesɔ ɗekɨn i ɗɔ nyanwanɛ awuni.<verse eid="MRK 9:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 9:5" />Bituru geli Yesɔ nɛ, &lt;&lt;shɔmala, pɛ vi tɔ̃vɨn u a ɗɔnkɔ, u pɛli ɗɔ susunɛ pɛ ɗɔ taati gbete a ɓɛɛ gbete Iliya ɓɛɛ wɔsɔ̃n Musa ɓɛɛ.&gt;&gt; <verse eid="MRK 9:5" /><verse number="6" style="v" sid="MRK 9:6" />Bituru sha vim ɓau zɛnɛniɓa i a Yesɔ jadɔ gãsiyini aru seti pɛliyi tɔ waanɛ.<verse eid="MRK 9:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="MRK 9:7" />Kɛɗɔn nyasi arɛ kukkiyirɛ, yenya shɛ a nyasiu nɛː &lt;&lt;Shɔnkɔ ɔ̃rɛ majaa, gbete n ɔriyɛ. Ɔ ntau nyatɔ!&gt;&gt;<verse eid="MRK 9:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="MRK 9:8" />Tɛ̃ɛ̃ti Yesɔ jaɗɔyi kɨnlinɔɔ piti i ji zɛ shɔ wɔ ɓa ji Yesɔ kɔ sheeli.<verse eid="MRK 9:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 9:9" />Aɗagbete i ɗɔ nɔnɛ a kɔpɔ, Yesɔ ãsi u jaɗɔyi nyanɛ, ɔkɔɔ geli shɔwɔ vi gbete ɔ zɛ ɓang nɛ see akɨnti gbete Yesɔ shɔzɛ jaa yulapatɛ a sàà. <verse eid="MRK 9:9" /><verse number="10" style="v" sid="MRK 9:10" />Aruumkɔ i gɨn Yesɔ nyaurɛ ai nɔɔ, i hɨ zɔ ruu nɛ, &lt;&lt;Yunɛlapa a sàà, u dɔɔ kɛnɛ iviya?&gt;&gt;<verse eid="MRK 9:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="MRK 9:11" />I hɨ Yesɔ nɛ,&lt;&lt;aru viya shɔmala nyaãsinɛ Musa i shanɛ Iliya kɔ arɛ ɗekɨn ɗa shɔ-shɔ-ranɛ u akɛkɨn viya?&gt;&gt;<verse eid="MRK 9:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 9:12" />Yesɔ risinyanɛ, &lt;&lt;nizɛ kɔ Ɗa jashone Iliya atɛtɔ a ɗekɨn aru u ntori vi piti kpai. Ama aru viya Ɗalapa bee a laabeenɛ shanɛ Yesɔ shɔzɛja yɛ ɓoraa waanɛ shɔu bɛ̃u ruubiitɔ viya? <verse eid="MRK 9:12" /><verse number="13" style="v" sid="MRK 9:13" />Ama n gelɔɔtɛ Iliya a tɛttɔ, shɔ pɛliu vi gbete shɔ kasi pɛlinɛ awuni, ji nɔgbete Ɗalapa beeyɛ nɛyɛ ɔ̃ nankɔ.&gt;&gt;<verse eid="MRK 9:13" /></para>
+  <para style="s1">Yesɔ gati javɔshɔ gbete u suru kɔ̃linɛ biini</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 9:14" />Yesɔ au jadɔyi i zɛ mɔɔyi toli nyatɛ waanɛ aɗagbete sɔu u jadɔyi gãsiyi ɗɔbii, shɔmala nya-ãsinɛ Musa i ɗɔgbete i masi nya a Yesɔ jaɗɔyi gãsiyini. <verse eid="MRK 9:14" /><verse number="15" style="v" sid="MRK 9:15" />Naa mɔɔyi i zɛ Yesɔ tɛ tɛ̃ɛ̃ti vim ãkɛ vibii-zaanɛ i yurɛ a gee Yesɔ nyarɛ.<verse eid="MRK 9:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 9:16" />Yesɔ hɨu jaɗɔyi nɛ,&lt;&lt; Ɔ masipi nya ivi a ikɔ ni viya?&gt;&gt;<verse eid="MRK 9:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 9:17" />Shɔwɔ a tete mɔɔyi kasi nyanɛ,&lt;&lt;shɔmala n - majavɔshɔ, suru kɔ̃linɛ sãutɔ ji zɛnɔɔ nyanwanɛ ɓa. <verse eid="MRK 9:17" /><verse number="18" style="v" sid="MRK 9:18" />Aɗagbete viukɛ yusiu lapanɛ, tuurɛ lou a tipi, shɛshiu susãri a nya, u ɗɔɔ ntari yonɛ, u bi gɨntɔ a kakani. N nwari a jadɔyi nya tɛttɔ i shɛshi suru kɔ̃linɛ utɔ iji zɛnɔɔ ɓa.&gt;&gt;<verse eid="MRK 9:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 9:19" />Yesɔ kasiu nya a shanɛ,&lt;&lt;Ɔ shɔ jakɨnti miyi gbete i sisɨn ãnɛ ɓa Ɗalapa biini ɓa, n yɛn ɔ̃kɛ ɔkɔɔni ɓanɛkɨnnya? N yɛn ma sisɨn kɛ ɓanɛkɨn a ɔkɔɔni viya? N ti javɔshɔunɛ yɛm.&gt;&gt;<verse eid="MRK 9:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 9:20" />Kɛɗɔn i n-tiurɛ a Yesɔ ɗɔbii. Naa suru kɔ̃linɛ zɛ Yesɔ tɛ, tɛ̃ɛ̃ti suruu yusu javɔshɔurɛ bikɛ-zaanɛ. nwesi a tipi u ɗɔ rikinɛ, u nya ɗɔ pupuru shɛshinɛ.<verse eid="MRK 9:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 9:21" />Yesɔ hɨ javɔshɔu uɓeye nɛ,&lt;&lt;vim gau piɗaviya?&gt;&gt;</para>
+  <para style="p" vid="MRK 9:21">Javɔshɔu uɓeye shanɛ,&lt;&lt;gau pɛlinɛ suu doo bɛ̃rɛ̃ti! <verse eid="MRK 9:21" /><verse number="22" style="v" sid="MRK 9:22" />Ko piɗaviya Suru kɔ̃linem kasiu nyɔnɛ lokiu tɛttɔ a yaa a miini. Ama akɛ zɛnɔɔ viwɔɔ pɛlinɛ nɛ, ntau raapɛ a pɔ̃siu naa tɔ.&gt;&gt;<verse eid="MRK 9:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 9:23" />Yesɔ shanɛ,&lt;&lt;aru iviya a hɨnɛ nkɛ zɛnɔnɛ viya? Vi piti kpai Ɗalapa pɛli shɔgbete kɛ ã sisɨnnɛ Au binitɔ.&gt;&gt;<verse eid="MRK 9:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 9:24" />Tɛ̃ɛ̃ti javɔshɔu uɓeye ɗe nya lapa nɛ, &lt;&lt; n ã sisɨntɛ, pɔ̃sing naa jo n sisɨn ãnɛ uyɛ ɗekɨn!&gt;&gt; <verse eid="MRK 9:24" /><verse number="25" style="v" sid="MRK 9:25" />Yesɔ zɛrɛ mɔɔyi i kanɛ au ɗɔbii deyinɛ-deyinɛ, A lasi suru kɔ̃linɛurɛ shanɛ, &lt;&lt;Mokɔ suru kɔ̃linɛm gbete zãri javɔshɔm nyanwanɛ, n ãsinya a shɛnɛ au biini, mokɔ to jam binɛ toti.&gt;&gt;<verse eid="MRK 9:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 9:26" />A suru kaa nya lapa, a loki javɔshɔu a tipi, kɛɗɔn a shɛkɛkɨn au biini. javɔshɔu roo naa vɔrɔ a tipi gbete pɔ̃ shɔzɛ gãsiyi shanɛ,&lt;&lt; javɔshɔu vɔtɛ.&gt;&gt; <verse eid="MRK 9:26" /><verse number="27" style="v" sid="MRK 9:27" />Ama Yesɔ sãu naa a ɗeu lapa, javɔshɔu yulaparɛ.<verse eid="MRK 9:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 9:28" />A kɨntiuni Yesɔ tokɛ yɛti wɛrɛ au jaɗɔyini, Yesɔ jaɗɔyi i hɨunɛ,&lt;&lt;aru iviya uji zɛnɔɔ suru kɔ̃linɛ shɛshinɛ jiɓa viya?&gt;&gt;<verse eid="MRK 9:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 9:29" />Yesɔ risinyanɛ,&lt;&lt;suru kɔ̃linɛ nam shɛɓa see Ɗa gakinɛ.&gt;&gt;<verse eid="MRK 9:29" /></para>
+  <para style="s1">Yesɔ nwaanya sɔ̃n ayuu u vɔnɛ</para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 9:30" />Yesɔ au jaɗɔyi i yaa ɗɔurɛ, i yɛkɛ ɗekɨn a tɛɛ Galili. Yesɔ ji kasiɓa nɛ shɔwɔyi u zɛ ɗɔgbete u ɗɔnniɓa. <verse eid="MRK 9:30" /><verse number="31" style="v" sid="MRK 9:31" />aru u ɗɔgbete mati u jaɗɔyi vi. geliyinɛ,&lt;&lt; Shɔ yɛ ã Jashɔzɛ shɔ a naa. I yɛ nyou vɔrɔ a knti lee taati yɛ yulapa sɔ̃n a suru ni.&gt;&gt; <verse eid="MRK 9:31" /><verse number="32" style="v" sid="MRK 9:32" />Ama i ji zɛ ruugbete Yesɔ matiyiyɛ ɓa, i ntau seti hɨnɛ sɔ̃ntɔ.<verse eid="MRK 9:32" /></para>
+  <para style="s1">Pi ɔ̃rɛ pẽniba piya?</para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 9:33" />Yesɔ au jaɗɔyi i arɛ a Kapanahum. Aɗagbete i si a wɛrɛ Yesɔ hɨ u jaɗɔyi nɛ,&lt;&lt;Ɔ masi nya si aru ivi a nyaɓani viya?&gt;&gt; <verse eid="MRK 9:33" /><verse number="34" style="v" sid="MRK 9:34" />Ama i ɔ̃ nyani shɔk, aru a nyaɓa i masi nyanɛ pi ɔ̃rɛ pẽniɓa ai tetteni piya.<verse eid="MRK 9:34" /></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 9:35" />Yesɔ ɔ̃ tipi a ɓaa u jaɗɔyi kopi tu ziti nya a shanɛ,&lt;&lt;shɔgbete kɛ tɔnɛ nɛn kasi ɔ̃nɛ awɔ tetem a ɗekɨn, ɔ̃riutɛ lakɔrɔ yɛ ɔ̃ a knti, ukɔ yɛ ɔ̃ sɔ̃n jawɛrɛ a tetteni kpai.&gt;&gt;<verse eid="MRK 9:35" /></para>
+  <para style="p">
+    <verse number="36" style="v" sid="MRK 9:36" />A tuu jajja wɔɔ pẽtẽrẽ a pɔ̃u ai tete. Yesɔ turɛ a mutuu a nɔsisɨn kɛɗɔn a shanɛ, <verse eid="MRK 9:36" /><verse number="37" style="v" sid="MRK 9:37" />&lt;&lt;Shɔgbete kɛ tɛ jajja pẽtẽrẽm nanɛ ang nii tɛ nkɔ; shɔgbeteu kɛ tɛng nanɛ ji tɛ ɓa nkɔ ɓa ama tɛ shɔgbete shong-yɛ naa.&gt;&gt;<verse eid="MRK 9:37" /></para>
+  <para style="s1">Shɔgbete ji masi nya ɓa a ukɔuni ɓa, pɛ u ɓɛɛ</para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 9:38" />Yɔhana geli Yesɔ nɛ,&lt;&lt;Shɔmala, u zɛ jawɔɔ kɛ shɛshi suru kɔ̃linɛ nɛ àà nii, u zãruutɔ aru u ɓa au tetteni ɓa.&gt;&gt;<verse eid="MRK 9:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 9:39" />Ama Yesɔ shanɛ, &lt;&lt;mokɔ zãruunɛ, shɔwɔɔ ɓa gbete yɛ pɛli shonɛ vibii-zaanɛ ang nii, u sha vikɔ̃linɛ sɔ̃n ang yuu gbãgbã ɓa, <verse eid="MRK 9:39" /><verse number="40" style="v" sid="MRK 9:40" />shɔgbete ji masi nya ɓa a ukɔuni ɓa, pɛ u ɓɛɛ. <verse eid="MRK 9:40" /><verse number="41" style="v" sid="MRK 9:41" />N gelɔɔtɛ nizɛ, shɔgbete kɛ ãwɔ mii ɓoonɛ nɛ a waa ang nii, aru gbete nɛmpɛ kirisi ɓɛ̀ɛ̀ yɛ kpaa vigbete Ɗa pɔ̃siu nɛn ãu a lee gadiitɔ.&gt;&gt;<verse eid="MRK 9:41" /></para>
+  <para style="s1">Vi gbete ɗaki shɔ shɔu pɛli ruuvini</para>
+  <para style="p">
+    <verse number="42" style="v" sid="MRK 9:42" />Yesɔ sha sɔ̃nnɛ, shɔu kɛ pɔ̃ shɔgbete ã sisɨn ang bi ruuvini pɛlinɛ nɛ, Ɗalapa yɛ gɔ̃u yuusho yɛ tɛ̀ɛ́ shɔgbete shɔ masiu tari vi nanɛ pẽniɓa a kɔrɔ a lokiu a mii wapotɔ. <verse eid="MRK 9:42" /><verse number="43" style="v" sid="MRK 9:43" />A naa kɛ pɔ̃anɛ a pɛli ruuvini, zɛ̃ɛ̃ naau ɓili. Yɛ ntotɔ a to ɗɔ Ɗa kpati roonɛ a naa kagbete a nogbete a bi to wɛrɛ yaa a naa ka ziti piti kpai, yaa gbete niki ɓa. <verse eid="MRK 9:43" /><verse number="44" style="v" sid="MRK 9:44" />(A ɗɔwakɔ, raɓoonɛ yisi nyaɓa, yaau ma shɔ niki dɔɔɓa.) <verse eid="MRK 9:44" /><verse number="45" style="v" sid="MRK 9:45" />A dɔɔ kɛ pɔ̃anɛ a pɛli ruuvini, zɛ̃ɛ̃ dɔu a ɓili. Yɛ ntotɔ a to ɗɔ Ɗa lakpati ɔ̃nɛ a dɔɔ ɓa a nogbete a bi yɛ to wɛrɛ yaa a dɔɔ ka ziti piti kpai. <verse eid="MRK 9:45" /><verse number="46" style="v" sid="MRK 9:46" />(A ɗɔwakɔ, raɓoonɛ yisi-nya ɓa, yaau ma shɔ niki dɔɔɓa.) <verse eid="MRK 9:46" /><verse number="47" style="v" sid="MRK 9:47" />A nɔɔkɔ kɛ pɔanɛ a pɛli ruuvini, zɔ kati a loki ɓili. Yɛ ntotɔ a to Ɗa ɗɔ kpati roone a nɔɔ kagbete a nogbete a bi yɛ to wɛrɛ yaa a nɔɔ ka ziti piti kpai. <verse eid="MRK 9:47" /><verse number="48" style="v" sid="MRK 9:48" />A ɗɔwakɔ</para>
+  <para style="q1" vid="MRK 9:48">&lt;&lt;raɓoonɛ yisinya ɓa,</para>
+  <para style="q2" vid="MRK 9:48">yaau ma shɔ niki ɗɔɔɓa.&gt;&gt; <verse eid="MRK 9:48" /><verse number="49" style="v" sid="MRK 9:49" />Ɗalapa yɛ sɔɔ kopiya pɛtɔ a yaa wasa-wasa, nagbete shɔ too vivaa, gbete shɔ ã Ɗalapa aru vi yuu ãnɛ a nteyɛ̃.<verse eid="MRK 9:49" /></para>
+  <para style="p">
+    <verse number="50" style="v" sid="MRK 9:50" />Nteyɛ̃ pɛ vi tɔ̃vɨn; ama nteyɛ̃ kɛ yau nya shɔ̃tinɛ nɛ, a sɔruu nya shɔ̃tinɛ sɔ̃nkɛ pikoviya?</para>
+  <para style="p" vid="MRK 9:50">Mɔkaa yuuni, a ɔrii mɛzɔutɔ a ɔ̃ ɔ̃nɛ nya tɔ̃nɛ a ɗɔzɔɔ.<verse eid="MRK 9:50" /></para>
+  <chapter eid="MRK 9" />
+  <chapter number="10" style="c" sid="MRK 10" />
+  <para style="s1">Yesɔ mati shɔ vi ayuu so naa yanɛ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 10:1" />Kɛɗɔn Yesɔ yaa ɗɔurɛ, a yɛkɛ tipi Yahudiya a yɛ wɔsɔ̃n tɛnɛ ɓooti Yodan. Toti mɔɔ waanɛ i toli nya sɔ̃n au ɗɔbii, Yesɔ matiyi virɛ, nɔgbete si pɛliyɛ a lee-lee.<verse eid="MRK 10:1" /></para>
+  <para style="p">
+    <verse number="2" style="v" sid="MRK 10:2" />Farasiyayi gãsi i au ɗɔbii nɛi ntau sisɨn i hɨunɛ, nya ãsinɛ gbete Musa mati shɔyɛ pɛ tɔ̃vɨn ya, shɔzɛ u yaa so gbete tɛ a wɛrɛ naa ya?<verse eid="MRK 10:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 10:3" />Kɛɗɔn Yesɔ kasinyanɛ,&lt;&lt;Musa ãsɔɔ nyanɛ iviya?&gt;&gt;<verse eid="MRK 10:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 10:4" />I shanɛ,&lt;&lt;Musa pɔ̃ naa nɛ shɔu beeri suwɛrɛ sẽkoo naa yanɛtɔ, shɔ ãu naa u yɛrɛ.&gt;&gt;<verse eid="MRK 10:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 10:5" />Yesɔ geliyinɛ,&lt;&lt;Musa ãsɔɔ nya nankɔ a laabeene aru ɔ yuu kasi.&gt;&gt; <verse eid="MRK 10:5" /><verse number="6" style="v" sid="MRK 10:6" />&lt;&lt;Ama gaanɛ aɗagbete Ɗalapa shɛshi koo, Ɗalapa pɛli vɔshɔ a soro. <verse eid="MRK 10:6" /><verse number="7" style="v" sid="MRK 10:7" />&lt;Aruumkɔ vɔshɔ yaa ɓeye wɛrɛ a ɓini-ni u rɛɛ a ɓeso, <verse eid="MRK 10:7" /><verse number="8" style="v" sid="MRK 10:8" />i ziti i ɔ̃kɛ shɔzɛ gbete.&gt; I toti ziti ɓa, ama kɛ gbete. <verse eid="MRK 10:8" /><verse number="9" style="v" sid="MRK 10:9" />Aru nankɔ vi gbete Ɗalapa kɛ dɔsinɛ shɔzɛ vɔsi ɓa.&gt;&gt; <verse eid="MRK 10:9" /><verse number="10" style="v" sid="MRK 10:10" />Aɗagbete i sɔɔ wɛrɛ sɔ̃ntɛ Yesɔ jadɔyi hɨu sɔ̃n arumni. <verse eid="MRK 10:10" /><verse number="11" style="v" sid="MRK 10:11" />Yesɔ kasiyinya nɛ,&lt;&lt;Shɔgbete kɛ yaa ɓeso naa nɛ, a tɛ so wɔɔ, pɛli ruuvini kpãtang tɛ a ɓeso yuu. <verse eid="MRK 10:11" /><verse number="12" style="v" sid="MRK 10:12" />Sɔ̃nji nankɔ so gbete kɛ yaa ɓevɔ wɛrɛnɛ a tɛ vɔshɔ wɔɔ, pɛli ruuvini kpãtang-tɛ.&gt;&gt;<verse eid="MRK 10:12" /></para>
+  <para style="s1">Yesɔ a jajja pẽtẽrẽ</para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 10:13" />Shɔ gãsiyi n ti Yesɔ jajja pẽtẽrẽyi aru neu ɗii naa bi, Ama Yesɔ jaɗɔyi i shari shɔ gãgã nɛ shɔ n ti ɓa. <verse eid="MRK 10:13" /><verse number="14" style="v" sid="MRK 10:14" />Naa Yesɔ zɛtɛ nankɔ, lɛsi sisɨn waanɛ, a geliyinɛ,&lt;&lt;Ɔ yaa jajja pẽtẽrẽ i ang ɗɔbii, ɔ kɔɔ nyikiyinɛ, Ɗa kpati roonɛ kãjo shɔ naa ikɔ. <verse eid="MRK 10:14" /><verse number="15" style="v" sid="MRK 10:15" />N gelɔɔtɛ nizɛ, shɔgbete ji tɛ ruu Ɗa kpati roonɛ ɓa naa jajja pẽtẽrẽn kɔɓa, yɛ kpaa tonɛ ɓa a ɗɔ gbete Ɗa roo kpati-ni ɓa.&gt;&gt; <verse eid="MRK 10:15" /><verse number="16" style="v" sid="MRK 10:16" />Kɛɗɔn Yesɔ tuu jajja pẽtẽrẽyi a kɔ̃tiyi a nɔsisɨn a pɔ̃siyi naa a yuu u ɗɔgbete gaki Ɗa U tasuu vɔɔ susãri a biini.<verse eid="MRK 10:16" /></para>
+  <para style="s1">Shɔ vinaa</para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 10:17" />Naa Yesɔ yusɔ̃ntɛ nɛn yɛ zati, jawɔɔ au ɗɔbii yuurɛ a ta yugboti au ɗekɨn.&lt;&lt;Shɔmala tɔ̃vɨn, n yɛn pɛli iviya Ɗalapa u ang suru gbete sɔ̃n nya ɓayɛ viya?&gt;&gt;<verse eid="MRK 10:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="MRK 10:18" />Kɛɗɔn Yesɔ hɨunɛ, &lt;&lt;A ɓannɛ shɔ tɔ̃vɨn aru iviya?&gt;&gt;Shɔ tɔ̃vɨn wɔɔɓa see Ɗalapa kɔ sheeli. <verse eid="MRK 10:18" /><verse number="19" style="v" sid="MRK 10:19" />A zɛ vigbete Ɗalapa ãsinya tɛttɔ au yuuni:&lt;&lt;Mɔkaa nyɔ shɔnɛ, mɔkaa roonɛ shɔwɔɔ so ni, mɔkaa ɓɔɔ shɔ vinɛ, mɔkaa pɔ̃naanɛ ruu gbete aji zɛ ɓa àà nɔni ɓa, mɔkaa shaa vigbete ɓaa ɓɛɛɓa nɛ, a wesho a meyeu nya a miniu nya.&gt;&gt;<verse eid="MRK 10:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 10:20" />Jau geli Yesɔ nɛ,&lt;&lt;Shɔmala vim piti kpai n gɨn tɛttɔ sin doo jákàsà.&gt;&gt;<verse eid="MRK 10:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 10:21" />Yesɔ kɨnnɔɔ au bi ɔruutɔ, a geliunɛ.&lt;&lt;Vi gbete aji gɨn ɓa, yɛnɛ a mɛli vi gbete a wuni piti kpai a ã shɔ raayi, a yɛ kpaa vinaa tɔ a kolapani. Kɛɗɔn ɗa a arɛ a gɨn kn.&gt;&gt;<verse eid="MRK 10:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="MRK 10:22" />Naa jau nta vimtɛ u nɔkɨn lɛsirɛ, yɛrɛ u sisɨn lɛsinɛ, aru gbete u si shɔ vinaa waanɛ.<verse eid="MRK 10:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 10:23" />Kɛɗɔn Yesɔ kɨnnɔɔ a zɛ u jaɗɔyi a geliyinɛ,&lt;&lt;Ɓa vi pɛlaa ɓa shɔ vinaa u ãyuu aru Ɗa kpati roonɛ!&gt;&gt;<verse eid="MRK 10:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 10:24" />Yesɔ jadɔyi bi zaatɔ arum ni. Ama Yesɔ geliyi sɔ̃nnɛ,&lt;&lt;Majayi, kpaanɛ yuu a Ɗa kpati roonɛ raaɓoonɛ aɗɔn waanɛ! <verse eid="MRK 10:24" /><verse number="25" style="v" sid="MRK 10:25" />Yɛ tɛɛtɔ wɔba u to nyaɓa ɓo a nogbete shɔ vinaa yɛ kpaa tonɛ a ɗɔɔ Ɗa kpati roonɛ.&gt;&gt;<verse eid="MRK 10:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 10:26" />U jaɗɔyi nta ruum nam i bi zaarɛ yɛ ɗekɨn, a i hɨ zɔɔ ai nɔɔ nɛ,&lt;&lt;Vimkɛ ɔ̃nɛ nankɔ, piyɛ ranaa piya?&gt;&gt;<verse eid="MRK 10:26" /></para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 10:27" />Yesɔ kɨnnɔɔ ai bi a shanɛ,&lt;&lt;A shɔzɛ ɗɔbii yɛ pɛli ɓa, ama ɓa Ɗalapa ɗɔbii ɓa; a Ɗalapa ɗɔbii vi piti kpai pɛlitɔ.&gt;&gt;<verse eid="MRK 10:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 10:28" />Bituru geli Yesɔ nɛ,&lt;&lt; Zɛpɛ u yaa vitɛ piti kpai u gɨn atɛ!&gt;&gt;<verse eid="MRK 10:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 10:29" />Yesɔ risinyanɛ,&lt;&lt;N gelɔɔtɛ nizɛ, shɔgbete kɛ yau wɛrɛnɛ, ko ɓɛzɔ̃yi ko ɓɛnaayi ko ɓini ko ɓeye ko ɓɛjaayi a ɗɔ jaa lanɛ ang yuu aru tɔ̃vɨn miyi, <verse eid="MRK 10:29" /><verse number="30" style="v" sid="MRK 10:30" />vigbete yɛ kpaayɛ yɛ tɛɛ ɓa mááni tɔ a vigbete u awuni ni a wɛrɛ, ko ɓɛzɔ̃yi ko ɓɛnaayi ko ɓiniyi ko ɓɛjaayi a ɗɔ jaa lanɛyi, ama, setɛ ɓooraatɛ waanɛ. Kɛɗɔn a koo gbete kanɛ, yɛ kpaa suru gbete yisi nya ɓa kɛkn. <verse eid="MRK 10:30" /><verse number="31" style="v" sid="MRK 10:31" />Ama shɔzɛ waanɛ gbete i a ɗekɨn iyɛ sɔɔ sɔ̃n a knti, shɔ knti ikɔi yɛ ɔ̃ sɔ̃n a ɗekɨn.&gt;&gt;<verse eid="MRK 10:31" /></para>
+  <para style="s1">Yesɔ Nwanya Sɔ̃n Ayuu Gbete Yɛ Vɔyɛ Ɓa taati</para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 10:32" />Yesɔ au jadɔyini i nyaɓa Urushalima yɛnɛ, Yesɔ ukɔ a ɗekɨn, U jaɗɔyi i ɗɔgbete i gɨuyɛ a knti i bi ɗɔɔ zaanɛ, shɔgbete i gɨn Yesɔ knti maa i bi ɗɔɔ zaanɛ. Toti Yesɔ toli kopi tu ziti nya kagbete a sha vigbete yɛ kpaurɛ sɔ̃n ai ɗɔbii. Shanɛ, <verse eid="MRK 10:32" /><verse number="33" style="v" sid="MRK 10:33" />&lt;&lt;U yɛkɛ Urushalima, shɔyɛ ã jaa shɔzɛ Kɛ yupɛ̃ni shɔlansi a shɔmala nyaãsinɛyi Musa i naa. I yɛ ãu shɔgbete ɓa Yahudawa ɓa a naa i nyou vɔrɔ yɛnɛ sàà, <verse eid="MRK 10:33" /><verse number="34" style="v" sid="MRK 10:34" />i yɛ ã riunya i tulu susãri au bi, i waurɛ a nyou vɔrɔ sàà, a knti lee taati yɛ yulapa sɔ̃n a suruni.&gt;&gt;<verse eid="MRK 10:34" /></para>
+  <para style="s1">Yakubu a Yɔhana i gakinɛ</para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 10:35" />Kɛɗɔn Zabadi ɓɛjaayi, Yɔhana a Yakubu i a Yesɔ ɗɔbii i shanɛ,&lt;&lt;Shɔmala, u gakaatɔ pɛliu vigbete ukɛ hɨnnɛ piti kpai.&gt;&gt;<verse eid="MRK 10:35" /></para>
+  <para style="p">
+    <verse number="36" style="v" sid="MRK 10:36" />Yesɔ hɨyinɛ,&lt;&lt;Ɔ kasin n pɛlɔɔ iviya?&gt;&gt;<verse eid="MRK 10:36" /></para>
+  <para style="p">
+    <verse number="37" style="v" sid="MRK 10:37" />I risinyanɛ,&lt;&lt;U gakaa tɔ a lee gbete akɛ ɔ̃nɛ āā ɗɔɔ bassinɛ aɗagbete a roo kpati u kasirɛ shɔzɛ gbete au tetem u ɔ̃ āā nakɨn gbete wɔɔ u ɔ̃ āā nagã.&gt;&gt;<verse eid="MRK 10:37" /></para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 10:38" />Yesɔ geliyi nɛ, ɔ ji zɛ vigbete ɔ gaki yɛɓa, ɔ yɛ zɛnɔɔ raɓoonɛ gbete n yɛn ɓoon dɔɔtɔya? Ko ɔ zɛnɔɔ dɔɔtɔ shɔu pɛlɔɔ batizima a batizima gbete shɔyɛ pɛlin yɛya?<verse eid="MRK 10:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 10:39" />I kasi nyanɛ, &lt;&lt;nn, u zɛnɔɔtɔ.&gt;&gt;</para>
+  <para style="p" vid="MRK 10:39">Yesɔ geliyinɛ, Nn, ɔ zɛnɔɔ raɓoonɛ tɔ naa n ɓooni, shɔ yɛ pɛlɔɔ batizima a batizima gbete shɔ yɛ pɛlinyɛni.<verse eid="MRK 10:39" /></para>
+  <para style="p">
+    <verse number="40" style="v" sid="MRK 10:40" />Ama ɔ̃nɛ ang nakɨn ang nagã ɓang nkɔng kaka ãnɛ niɓa. Dɔm see Ɗalapa yɛ ã shɔgbete mabiitɛ.<verse eid="MRK 10:40" /></para>
+  <para style="p">
+    <verse number="41" style="v" sid="MRK 10:41" />Naa Yesɔ jadɔyi kopi i nta vimtɛ, kɛɗɔn i sisɨn lɛsirɛ a Yakubu a Yɔhana ni. <verse eid="MRK 10:41" /><verse number="42" style="v" sid="MRK 10:42" />A kɨntiuni Yesɔ ɓaa u jaɗɔyi nya piti kpai a geliyinɛ,&lt;&lt;Ɔ zɛtɛ shɔgbete i ɓa Yahudawa ɓa, shɔgbete i a kpatini i tasi kaka kpati i pɔ̃ shɔ, shɔ gɨn vigbete i shayɛ, i yupɛ̃ni maa i tasi shɔ ji kaka kɔ. <verse eid="MRK 10:42" /><verse number="43" style="v" sid="MRK 10:43" />Ama ɔkɔɔ pɛlinɛ naa ikɔ, nɔgbete ɔ si pɛli nankɔ, shɔgbete awɔ tete kɛ kasinɛ shɔu basintɔ pẽniba, ɔ̃tɛ lakɔrɔ u sɔriu yuu naa jawɛrɛ a tete shɔ gãsini. <verse eid="MRK 10:43" /><verse number="44" style="v" sid="MRK 10:44" />aru nankɔ, shɔgbete kɛ kasinɛ nɛn ɔ̃ shɔ ɗekɨn, ɔ̃riutɛ lakɔrɔ u sɔri yuu foo a tete shɔ gãsini kpai. <verse eid="MRK 10:44" /><verse number="45" style="v" sid="MRK 10:45" />Jinankɔ Yesɔ shɔzɛja ji a ɓa nɛ shɔu shoshin viɓa, ama a ɗɔɔ shɔ vishonɛ pɛlinɛ, u ãu suru aru shɔzɛ waanɛ i yuu.&gt;&gt;<verse eid="MRK 10:45" /></para>
+  <para style="s1">Yesɔ gati shɔnɔgbãti Batamawu</para>
+  <para style="p">
+    <verse number="46" style="v" sid="MRK 10:46" />A kɨntiuni i arɛ a ɓuzɨn Yeriko. Yesɔ au jaɗɔyini piti a mɔɔyini waanɛ a ɗɔzɔ aɗɔgbete i yaa ɓuzɨn komɔɔyɛ, shɔnɔgbãti gbete gaki saa ɔ̃tɛ a nya nyaɓa kagbete. <verse eid="MRK 10:46" /><verse number="47" style="v" sid="MRK 10:47" />Naa ntatɛ shɔ shalinɛ Yesɔ shɔ Nazara kɛ tɛɛnɛ, a shati nya nɛ,&lt;&lt;Yesɔǃ Dauda ɓɛjaaǃ ntang raajo!&gt;&gt;<verse eid="MRK 10:47" /></para>
+  <para style="p">
+    <verse number="48" style="v" sid="MRK 10:48" />Shɔwɔɔ i lasiurɛ a geliyinɛ nɛu ɔ̃ a nyani, ama a yɛ ɗekɨn nya shatinɛ ni, &lt;&lt;Dauda ɓɛjaa, ntang raajo.&gt;&gt;<verse eid="MRK 10:48" /></para>
+  <para style="p">
+    <verse number="49" style="v" sid="MRK 10:49" />Kɛɗɔn Yesɔ shirɛ a shanɛ,&lt;&lt;Ɔ ɓaring u nyapɛ yɛm.&gt;&gt;</para>
+  <para style="p" vid="MRK 10:49">I ɓaa shɔnɔgbãtiu nyarɛ, i geliunɛ, &lt;&lt;Ntabii nyantɔnɛ nɛǃ yunɛ kɛ ɓaa nyanɛ.&gt;&gt; <verse eid="MRK 10:49" /><verse number="50" style="v" sid="MRK 10:50" />Kɛɗɔn loki u vibii kukinɛrɛ kagbete, a kɔbii lapa a yɛ Yesɔ ɗɔbiirɛ. <verse eid="MRK 10:50" /><verse number="51" style="v" sid="MRK 10:51" />Yesɔ hɨunɛ,&lt;&lt;A kasinɛ n pɛlaa iviya?&gt;&gt;</para>
+  <para style="p" vid="MRK 10:51">Shɔnɔgbãti shanɛ, &lt;&lt;Shɔwɛrɛ n kasirɛ n zɛɗɔ.&gt;&gt;<verse eid="MRK 10:51" /></para>
+  <para style="p">
+    <verse number="52" style="v" sid="MRK 10:52" />Yesɔ geliunɛ, &lt;&lt;Yɛnɛ, a sisɨn ãnɛ gataatɛ.&gt;&gt;Tɛ̃ɛ̃ti u nɔɔ zɛɗɔrɛ a gɨn Yesɔ rɛ i yɛrɛ.<verse eid="MRK 10:52" /></para>
+  <chapter eid="MRK 10" />
+  <chapter number="11" style="c" sid="MRK 11" />
+  <para style="s1">Ɗa shari Yesɔ au Urushalima tonɛ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 11:1" />Aɗagbete Yesɔ au jaɗɔyini i atɛ māāni a Urushalimani, a Betfeji a Betani a kɔpɔ laa zeetu, kɛɗɔn Yesɔ shok u jaɗɔyi ziti, <verse eid="MRK 11:1" /><verse number="2" style="v" sid="MRK 11:2" />A geliyinɛ,&lt;&lt;Ɔ yɛ jakomoo gbete awɔ ɗekɨnkɔ, ɔkɛ tonɛ tɛ̃ɛ̃ti ɔ yɛ zɛ jagãtola shɔ mautɛ a laa, gbete shɔ ji gẽ ɓa a yuuni ɓa gbete ɓa. Ɔ kalirɛ ɔ n-tiu yɛm. <verse eid="MRK 11:2" /><verse number="3" style="v" sid="MRK 11:3" />Shɔgbete kɛ hɨ ɔnɛ aru ivi ɔ pɛli nankɔ viya? Ɔ geliunɛ, shɔvi kasi vishonɛ pɛlinɛ awuni, yɛ sɔritɔ tɛ̃ɛ̃ti.&gt;&gt;<verse eid="MRK 11:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 11:4" />Kɛɗɔn i yɛrɛ a kpaa jagãtola shɔ mautɛ a laa a nyaɓa wɛrɛ a denyaɓa. I ɗɔɔkalinɛ, <verse eid="MRK 11:4" /><verse number="5" style="v" sid="MRK 11:5" />shɔ gãsi gbete i a ɗɔu i hɨ Yesɔ jaɗɔyi nɛ,&lt;&lt;Ɔ pɛ ivi a ɗɔuni viya, ɔ kasi gãtolau kalinɛ ya?&gt;&gt; <verse eid="MRK 11:5" /><verse number="6" style="v" sid="MRK 11:6" />I kasi nyajo naa gbete Yesɔ geliyikɔ, Kɛɗɔn shɔ yairɛ i yɛrɛ a gãtolauni. <verse eid="MRK 11:6" /><verse number="7" style="v" sid="MRK 11:7" />Naa i n ti Yesɔ jagãtolautɛ, i ɓati fãrã rɛ au yulapa, Yesɔ gẽrɛ a ɔ̃rɛ aɗɔn. <verse eid="MRK 11:7" /><verse number="8" style="v" sid="MRK 11:8" />Shɔzɛ waanɛ i ɓati fãrã rɛ a nyaɓa, shɔwɔyi ɓati naa gapa kãkã a nyaɓa gbete i koli ai jāā. <verse eid="MRK 11:8" /><verse number="9" style="v" sid="MRK 11:9" />Shɔgbete i a Yesɔ ɗekɨn a shɔgbete i a kɨnti ni i ɗenya lapa a shanɛ,</para>
+  <para style="q1" vid="MRK 11:9">&lt;&lt;Hosana!</para>
+  <para style="q1" vid="MRK 11:9">Ɗalapa u tasi shɔgbete a au Uɓeyelapa nii vɔɔ susãri biini!&gt;&gt; <verse eid="MRK 11:9" /><verse number="10" style="v" sid="MRK 11:10" />&lt;&lt;Ɗalapa u tasi kpati sɔɔ gbete kanɛ kɨnti susãri biini u sãu naa uɓeye Dauda,</para>
+  <para style="q1" vid="MRK 11:10">Hasanna aɗɔ pɛ̃niɓa.&gt;&gt;<verse eid="MRK 11:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="MRK 11:11" />Yesɔ to Urushalima a to jaa Ɗa gakinɛ. kɨnnɔɔ zɛ vi piti kpai, ama si ɗaa yiitɛ kɛɗɔn yɛkɛ Betani au jaɗɔyini.<verse eid="MRK 11:11" /></para>
+  <para style="s1">Yesɔ wiri laa sɨnti</para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 11:12" />Naa ɗii kaatɛ aɗɔgbete Yesɔ au jaɗɔyini i ɗɔɔ Betani yanɛ, kɛɗɔn Yesɔ nwo siurɛ. <verse eid="MRK 11:12" /><verse number="13" style="v" sid="MRK 11:13" />Naa Yesɔ zɛ laa sɨntitɛ gbete u gapa aɗɔn aɗɔ kpɛlɛ, yɛrɛ nɛn zɛpɛ nɛmɛnɛ rɛɛ jaatɛ. Naa tottɛ aɗɔn ji kpau jaa ɓa ama seei gapa, aru siɓa ɗagbete laa sɨnti rɛɛ jaa ɓa. <verse eid="MRK 11:13" /><verse number="14" style="v" sid="MRK 11:14" />Yesɔ geli laa sɨntiunɛ,&lt;&lt; shɔwɔyi yɛ shàà jaayi toti ɓa dangdang.&gt;&gt; U jaɗɔyi i nta vigbete shatɔ.<verse eid="MRK 11:14" /></para>
+  <para style="s1">Yesɔ Yɛ Jaa Ɗa</para>
+  <para style="p">
+    <verse number="15" style="v" sid="MRK 11:15" />Naa Yesɔ atɛ a Urushalima to jaa Ɗa rɛ, a nyiki shɔgbete i mɛli vi a shɔ vi woonɛi a ɓuzɨn jaa Ɗa wuni. Yesɔ sãti shɔ saa kɔsinɛ i taburu a shɔ janɔyi mɛlinɛi laa ɔ̃nɛ kpai, <verse eid="MRK 11:15" /><verse number="16" style="v" sid="MRK 11:16" />Zãritɔ nɛ shɔwɔɔ ukɔ tuu vinɛ u tɛrɛ awuni a ɗɔuni. <verse eid="MRK 11:16" /><verse number="17" style="v" sid="MRK 11:17" />Kɛɗɔn Yesɔ mati shɔ vi a shanɛ,&lt;&lt;shɔzɛ gbete atette Ɗa jashonɛ beetɛtɔ nɛ:</para>
+  <para style="q1" vid="MRK 11:17">&lt;&lt; &lt;N wɛrɛ shɔ ɓanɛ</para>
+  <para style="q2" vid="MRK 11:17">wɛrɛ Ɗalapa gakinɛ a koo piti kpai.&gt;</para>
+  <para style="m" vid="MRK 11:17">Ama ɔ risitɛ ɗɔgbete ɓɔɔyi i ɓuyɛ.&gt;&gt;<verse eid="MRK 11:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="MRK 11:18" />Yupɛ̃ni shɔlansi a shɔmala nyaãsinɛyi Musa naa i nta vimtɛ i gakɛ nyaɓa kãnɛ gbete i yɛ nyo Yesɔ yɛ. Aru i ntau setitɔ, nogbete mooyi piti kpai Yesɔ vimatinɛ ãi vibizaanɛ.<verse eid="MRK 11:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 11:19" />Naa ɗaɗɗarɛ pɛlitɔ, Yesɔ au jaɗɔyini i yaa komourɛ.<verse eid="MRK 11:19" /></para>
+  <para style="s1">Vi matinɛ a laa sɨnti</para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 11:20" />A gadi zɨɨnkɔ Yesɔ au jaɗɔyini i ɗɔ tɛɛnɛ, i zɛrɛ laa sɨntiu gɔrikitɛ au gɨnrini. <verse eid="MRK 11:20" /><verse number="21" style="v" sid="MRK 11:21" />Bituru kpaa a sisɨn, a geli Yesɔ nɛ, shɔmala, &lt;&lt;kɨnnɔɔ pɛ! Laa sɨnti gbete a wiriyɛ gɔrikitɛ!&gt;&gt;<verse eid="MRK 11:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="MRK 11:22" />Yesɔ risi u nyanɛ, ã sisɨn a Ɗalapa bi. <verse eid="MRK 11:22" /><verse number="23" style="v" sid="MRK 11:23" />&lt;&lt;N gelaatɛ nizɛ, shɔgbete kɛ ã sisɨnnɛ a Ɗalapa bi kɛ shanɛ nɛ kɔpɔ u jesinɛ u shishi a wapo, kɛ shanɛ a sisɨn gbete kɛ ã sisɨnnɛ, vigbete nɛn shaɓangkɔ yɛ pɛlitɔ, Ɗalapa yɛ pɛliutɔ. <verse eid="MRK 11:23" /><verse number="24" style="v" sid="MRK 11:24" />N gelɔɔtɛ aruumkɔ, vigbete ɔkɛ gaki Ɗa nɛ au yuu, ɔ ã sisɨn nɛi kpaatɔ, viu yɛ ɔ̃ ɔ ɓɛɛ. <verse eid="MRK 11:24" /><verse number="25" style="v" sid="MRK 11:25" />Akɛ ɔ̃nɛ a ɗɔ Ɗa gaki, shɔgbete a sãi a sisɨn a yasiyi ruuvini gbete i pɛlaatɔ, aru meyeu lapa maa yɛ yasaa ruuvini gbete a pɛliyɛ sɔ̃njitɔ. <verse eid="MRK 11:25" /><verse number="26" style="v" sid="MRK 11:26" />(Ama ɔji yasi mɛzɔɔ ruuvini ɓa, jinankɔ meyeu gbete a lapa ma yɛ yasaa ruuvini ɓakɔjɔ.&gt;&gt;)<verse eid="MRK 11:26" /></para>
+  <para style="s1">Ruu hɨnɛ aru Yesɔ kaka gbete shovi a wuniyɛ</para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 11:27" />Yesɔ au jaɗɔyini i to Urushalima sɔ̃nrɛ, aɗagbete Yesɔ u ɗɔɔ, rakinɛ a jaa Ɗa, shɔyupẽni-nyawàànɛ a jaa Ɗa a shɔmala nya-ãsinɛyi Musa wɔsɔ̃n shɔpẽni-ɗɔlaayi i arɛ a Yesɔ ɗɔbii i hɨunɛ. <verse eid="MRK 11:27" /><verse number="28" style="v" sid="MRK 11:28" />&lt;&lt;A pɛli vishonɛ àpi kaka piya? Pi ãā kaka pi naa pɛli vim piya?&gt;&gt;<verse eid="MRK 11:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 11:29" />Yesɔ kasiyi nyanɛ,&lt;&lt;N yɛn hɨ ɔ ruu gbete. ɔkɛ kasing nyanɛ, n yɛn gelɔɔ n kaka gbete n pɛli vishonɛ a wunitɔ. <verse eid="MRK 11:29" /><verse number="30" style="v" sid="MRK 11:30" />Yɔhana pɛli shɔ batizima u kaka shɛ a Ɗalapa ɗɔbii ya, ko a shɔzɛ ɗɔbii ya? Ɔ gelin nɛ!&gt;&gt;<verse eid="MRK 11:30" /></para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 11:31" />I nwali ruum ai nɔɔ i shanɛ, ukɛ shanɛ, a Ɗalapa ɗɔbii, yɛ hɨunɛ,&lt;&lt;Aru ivi ɔji ã sisɨn ɓa a Yɔhana biini ɓa viya?&gt;&gt; <verse eid="MRK 11:31" /><verse number="32" style="v" sid="MRK 11:32" />Ama ukɛ shanɛ, &lt;&lt;A shɔzɛ ɗɔbii&gt;&gt;....(i nta seti shɔzɛyi, aru shɔ piti kpai i tuu Yɔhana nizɛ nɛupɛ Ɗa jashonɛ.)<verse eid="MRK 11:32" /></para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 11:33" />Aruumkɔ i kasi Yesɔ nyanɛ,&lt;&lt;U ji zɛɓa.&gt;&gt;</para>
+  <para style="p" vid="MRK 11:33">Yesɔ shanɛ,&lt;&lt;Nkɔng maa n yɛn gelɔɔ kaka gbete n pɛli vishonɛ a wunim ɓa.&gt;&gt;<verse eid="MRK 11:33" /></para>
+  <chapter eid="MRK 11" />
+  <chapter number="12" style="c" sid="MRK 12" />
+  <para style="s1">Ruubusinɛ ayuu shɔ jaa lanɛyi gbete i woo ɗɔ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 12:1" />Kɛɗɔn Yesɔ gai nya nwarinɛ a ruuɓusinɛ a shanɛː &lt;&lt;Shɔwɔ ɗɔn ɓaa jaa inabi, a dɔɔ jaau piti kpai a gbã too gbete ka mii nolaa inabiu aɗɔn yɛni, a maa wɔsɔ̃n ɗɔ raki gbete shi aɗɔn u zɛ yɛti jaau aru u shɔnopɔ̃ iyɛ tou jaau rɛ. Kɛɗɔn a ã jaau kɛ shɔjalane wɔyi a naa a sã nyaba rɛ a yɛ zati.&gt;&gt; <verse eid="MRK 12:1" /><verse number="2" style="v" sid="MRK 12:2" />Naa ɗaa vi yenɛ pɛlitɛ a shou jawɛrɛ a shɔgbete ãi jau a naa ɗɔbii nɛu tɛsi nolaa jaau pɛjo. <verse eid="MRK 12:2" /><verse number="3" style="v" sid="MRK 12:3" />Ama shɔjalanɛyi i sãurɛ i waurɛ i shishiu naa waati. <verse eid="MRK 12:3" /><verse number="4" style="v" sid="MRK 12:4" />Kɛɗɔn shɔjau shou jawɛrɛ wɔɔ sɔ̃n a shɔwi ɗɔbii; i ãu yusẽ i waa jau naa ayuu. <verse eid="MRK 12:4" /><verse number="5" style="v" sid="MRK 12:5" />Kɛɗɔn a shou jawɛrɛ wɔsɔ̃n totti i ji yau ɓa i nyo vɔrɔtɔ, I pɛlijo nankɔ a shɔwɔni; i waa wɔyi a kpatá wɔyi i nyoi vɔrɔ.<verse eid="MRK 12:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 12:6" />Ya shɔgbete a yɛ shoyɛ ai ɗɔbii ɓɛjaa gbete ɔriyɛ, a shanɛ, &lt;&lt; Nɛ menɛ iyɛ ntau nyatɔ.&gt;&gt;<verse eid="MRK 12:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="MRK 12:7" />Kɛɗɔn shɔjalanɛwi naa i zɛ ɓɛjaa tɛ kanɛ i geli zɔnɛ, &lt;&lt;shompɛ u jaa pɛ̃ni ɔ anɛ u nyo vɔrɔ pɛ nɔgbete u vivɔɔ yɛ ɔ̃ u ɓɛɛ.&gt;&gt; <verse eid="MRK 12:7" /><verse number="8" style="v" sid="MRK 12:8" />I sãurɛ a nyɔ vɔrɔ, i turɛ i lɔki ɓili.<verse eid="MRK 12:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 12:9" />Kɛɗɔn Yesɔ hɨnɛ &lt;&lt;Shɔ jau yɛ pɛli shɔmi kɛpikoviya? Shɔ jau yɛ nyo shɔjalanɛwi vɔrɔ a tuu jau a ã shɔwɔyi. <verse eid="MRK 12:9" /><verse number="10" style="v" sid="MRK 12:10" />Ɔ ji ɓali vigbete Ɗalapa shayɛɓaya:</para>
+  <para style="q1" vid="MRK 12:10">&lt;&lt;Tari gbete shɔ ɗɔ maanɛyi i bɛ̃ɛ̃ yɛ</para>
+  <para style="q2" vid="MRK 12:10">ukɔ ɔ̃rɛ tari gbete au tɛɛ gãsiyi a vishonɛni;<verse eid="MRK 12:10" /></para>
+  <para style="q1">
+    <verse number="11" style="v" sid="MRK 12:11" />Ubeyelapa pɛli vimrɛ,</para>
+  <para style="q2" vid="MRK 12:11">ɔ̃tɛ vibii zaanɛ au nɔni!&gt;&gt;<verse eid="MRK 12:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 12:12" />Kɛɗɔn yupɛ̃ni Yahudawa i kã nyaba gbete i yɛ sãuyɛ, aru i zɛtɛttɔ nɛ ruuɓusinem nwa ji ai yuukɔ. Ama i nta seti mɔɔ gbete a ɗɔu; kɛɗɔn i yurɛ i sã nyaba i ya Yesɔ rɛ.<verse eid="MRK 12:12" /></para>
+  <para style="s1">Sabɛnɛ shonɛ</para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 12:13" />A kɨntiuni i shokɛ gãsi Farasiyayi a shɔ Hiruduyi gãsiyi a Yesɔ ɗɔbii a ɗasuu jang, i kãkɛ nyaba nɔgbete iyɛ sãu a ruu kɔ̃linɛ niyɛ. <verse eid="MRK 12:13" /><verse number="14" style="v" sid="MRK 12:14" />I arɛ au ɗɔbii i hɨu nɛ, &lt;&lt;Shɔmala, u zɛtɛttɔ apɛ shɔ tɔ̃vɨn, a kasi shɔ piti, a tuu kopiya āā ɗɔbii zali, a mati shɔ ɓɛjo Ɗa nya ruubii a nyaba tɔ̃vɨn. geliunɛ, Pɛ vitɔ̃vɨng ya shɔ shori japɛ̃pɛ̃ɛ̃ sabɛnɛrɛ ya? U sho tɛya ko sho ɓa? <verse eid="MRK 12:14" /><verse number="15" style="v" sid="MRK 12:15" />U shotɛ ya ko ukɔ shonɛ ya?</para>
+  <para style="p" vid="MRK 12:15">&lt;&lt;Ama Yesɔ zɛyi sisɨn tɛttɔ i pɛ shɔ-shɔɗakinɛ a shanɛ, ɔ kasin dɔɔ ɗanɛ pi ruu iviya? Ɔ n ting saa dinari upɛ ɗɔm n zɛkɨn. &gt;&gt; <verse eid="MRK 12:15" /><verse number="16" style="v" sid="MRK 12:16" />I n-tiu saurɛ kɛɗɔn Yesɔ hɨyi nɛ, &lt;&lt;Pi nii a jasuru ni a saam ni piya? &gt;&gt;</para>
+  <para style="p" vid="MRK 12:16">I kasi nyanɛ &lt;&lt; japɛ̃pɛ̃ɛ̃ ɓɛɛ.&gt;&gt;<verse eid="MRK 12:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 12:17" />Kɛɗɔn Yesɔ geliyi nɛ &lt;&lt;Ɔ ã japɛ̃pɛ̃ɛ̃ vigbete ɔ̃ u ɓɛɛ yɛ, Ɗalapa sɔ̃njo vi.&gt;&gt;</para>
+  <para style="p" vid="MRK 12:17">Ruugbete Yesɔ risi yɛ ɔ̃riikɛ vibii zaanɛ.<verse eid="MRK 12:17" /></para>
+  <para style="s1">Shɔ hɨ Yesɔ ayuu vɔrɔ yunɛ sàà</para>
+  <para style="p">
+    <verse number="18" style="v" sid="MRK 12:18" />Kɛɗɔn shɔ Sadukiyayi i shanɛ vɔrɔ yɛ yuuɓa sàà ni ɓa, i a Yesɔ ɗɔbii i hɨu ruu nɛ, <verse eid="MRK 12:18" /><verse number="19" style="v" sid="MRK 12:19" />&lt;&lt;Shɔmala, labeenɛ Musa shanɛ, naa mɛzɔ̃ kɛ vɔnɛ ji yeejaa ɓa a ɓeso ni ɓa, ɓɛzɔ̃ yɛ zɛnɔɔtɔ u sɔri suvɔɔrɛ u yeeri ɓɛzɔ̃ jaa.&gt;&gt; <verse eid="MRK 12:19" /><verse number="20" style="v" sid="MRK 12:20" />Shɔwɔyi isi ai yeenɛ maanzii. shɔ ɗekɨn tɛ so a vɔrɛ ji kpaa jaa ɓa. <verse eid="MRK 12:20" /><verse number="21" style="v" sid="MRK 12:21" />shɔu pɛsiyɛ sɔri suurɛ a vɔrɛ ji kpaa jaa ɓa awuni. I pɛli nankɔ bi taati. <verse eid="MRK 12:21" /><verse number="22" style="v" sid="MRK 12:22" />Vim gɨnyi maanzii pitikpai i ji kpaa jaa ɓa. A kɨntiu piti kpai suu vɔɔ sɔ̃njorɛ. <verse eid="MRK 12:22" /><verse number="23" style="v" sid="MRK 12:23" />A leegbete shɔ yulapa a sàà yɛ, geliyi nɛ yɛ ɔ̃ kɛpi so atette shɔzɛ maanzii mini piya? <verse eid="MRK 12:23" /><verse number="24" style="v" sid="MRK 12:24" />Yesɔ risiyi nyanɛ &lt;&lt; Vigbete ɔ nii aɗɔnyɛ ukɔ ɔ̃rɛ, aru ɔ ji zɛ vigbete laabeenɛ ruu Ɗalapa shayɛ ɓa au kakani ɓa. <verse eid="MRK 12:24" /><verse number="25" style="v" sid="MRK 12:25" />Naa shɔ kɛ yunɛ sàà, ruu zɔ tɛnɛ ɓa a jaa wɛrɛ dɔ̃nɛ ni ɓa; ama shɔyɛ ɔ̃ naa Ɗa jashonɛyi lapa a kolapa. <verse eid="MRK 12:25" /><verse number="26" style="v" sid="MRK 12:26" />Dɔdɔrim aru shɔ yunɛ sàà ɔ ji ɓaliba Musa labeene ni ɓaya, aru yaa gbete shaa a jalaa ni ɓaya? Ɗalapa geli Musa nɛ, &lt;Nkɔ Ibirayi, Ishayaku a Yakubu i Ɗalapa gbete i gɨn yɛ.&gt; <verse eid="MRK 12:26" /><verse number="27" style="v" sid="MRK 12:27" />U pɛ Ɗalapa gbete u suru ɗɔnyɛ, ɓa Ɗalapa gbete vɔtɛttɔ ɓa, ɔ nitɛtɔ nizɛ.&gt;&gt;<verse eid="MRK 12:27" /></para>
+  <para style="s1">Nya ãsinɛ pɛ̃niba</para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 12:28" />Kɛɗɔn shɔzɛ gbete atette shɔmala gbete i mati shɔvi aru nya ãsinɛ arɛ kpai ɗɔ nya masinɛ, naa zɛtɛ nya gbete Yesɔ risiyi yɛ pɛ tɔ̃vɨn, kɛɗɔn jau hɨ Yesɔ nɛ, &lt;&lt;Atette nya ãsinɛ miyi piti kpai shopi ɔ̃rɛ pẽniba piya?&gt;&gt;<verse eid="MRK 12:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 12:29" />Yesɔ kasi nya nɛ, &lt;&lt;nya ãsinɛ pɛ̃niba ukɔ ɔ̃rɛ,&gt;&gt; wesho pɛː shɔ Isirelaǃ Ubeyelapa Ɗalapa u pɛ gbete. <verse eid="MRK 12:29" /><verse number="30" style="v" sid="MRK 12:30" />A, ɔrii Uɓeyelapa a Ɗalapa awɔ sisɨn gbete, àà suru ni àà lɛrinɛ sisɨn ni piti kpai wɔsɔ̃n a kakani piti kpai. <verse eid="MRK 12:30" /><verse number="31" style="v" sid="MRK 12:31" />Nya ãsinɛ gbete pɛsiyɛ ukɔ ɔ̃rɛː &lt;&lt;A ɔrii a shɔ nya kãsiri naa a ɔraa yuu yɛ, nya ãsinɛ wɔyi ji tɛɛ shɔ zitin ɓa.&gt;&gt;<verse eid="MRK 12:31" /></para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 12:32" />Shɔmala nya ãsinɛ Musa, i risi nyanɛ,&lt;&lt; Arum pɛ nizɛ nɔgbete a shanɛ Uɓeyelapa pɛ gbete u Ɗalapa, shɔwɔɔ ɓa see ukɔ. <verse eid="MRK 12:32" /><verse number="33" style="v" sid="MRK 12:33" />N zɛtɛttɔ pɛ vitɔ̃vɨng shɔu ɔri Ɗalapa tɔ a sisɨn gbete, ang sisɨn ni piti kpai wɔsɔ̃n ang kakani piti kpai wɔsɔ̃n n ɔri n shɔ nyakãsiri naa yuu. Shom piti kpai tɛɛ vivaa tonɛ a vi yuu ãnɛ wɔyini tɛttɔ.&gt;&gt;<verse eid="MRK 12:33" /></para>
+  <para style="p">
+    <verse number="34" style="v" sid="MRK 12:34" />Naa Yesɔ zɛtɛ nɛ jau nya risinɛ pɛ nyaba tɔ̃vɨn a geliu nɛ, &lt;&lt;A ɓa feefee a shɔgbete i yɛ kpaa tonɛ aɗɔgbete Ɗa yɛ roo kpati ni ɓa&gt;&gt;Kɛu kɨnti ni shɔwɔ sisɨn Yesɔ ruuwɔ hɨnɛ si tɔɓa.<verse eid="MRK 12:34" /></para>
+  <para style="s1">Ruu hɨnɛ ayuu shɔ gbete Ɗalapa lɔyɛ (kirisi)</para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 12:35" />Aɗagbete Yesɔ u ɗɔɔ shɔ vi matinɛ a jaa Ɗa, kɛɗɔn Yesɔ hɨyi nɛ, aru iviya shɔmala nya ãsineyi i shanɛ, kirisi u pɛ Dauda ɓɛjaa viya? <verse eid="MRK 12:35" /><verse number="36" style="v" sid="MRK 12:36" />Ɗa suru pɔ̃ Dauda rɛ a nwa nya a kaka ni a shanɛː</para>
+  <para style="q1" vid="MRK 12:36">&lt;&lt;Ubeyelapa Ɗalapa gelin n Uɓeyelapa nɛ:</para>
+  <para style="q2" vid="MRK 12:36">ɔ̃nɛ ang nakɨn</para>
+  <para style="q1" vid="MRK 12:36">sitɛ n pɔ̃ a shɔ nopɔ̃yitɛ</para>
+  <para style="q2" vid="MRK 12:36">i ɔ̃ a fooyi&gt;&gt;<verse eid="MRK 12:36" /></para>
+  <para style="m">
+    <verse number="37" style="v" sid="MRK 12:37" />Dauda au yuu ɓau kirisi nɛ, Uɓeyelapa. Kirisi yɛ ɔ̃ ɓɛjaa kɛpi koviya?</para>
+  <para style="s1" vid="MRK 12:37">Yesɔ gɔ̃ shɔ yuusho aru shɔmala nya ãsinɛyi i yuu</para>
+  <para style="p" vid="MRK 12:37">Mɔɔ waanɛ gbete i wesho a Yesɔ nya i nta binyatɔ̃nɛ tɔ. <verse eid="MRK 12:37" /><verse number="38" style="v" sid="MRK 12:38" />Kɛɗɔn Yesɔ gayi vi matinɛ a shanɛ,&lt;&lt;Ɔkɔɔ yuutɔ a shɔmala nya ãsinɛyi musa ni. I raki a nyaba lane a kpɛnti fãrã ni bi, nɛ shɔ zɛirɛ shɔ tɔnɛ nnbee, i kasinɛ shɔ geeyi nya a lumo,&gt;&gt; <verse eid="MRK 12:38" /><verse number="39" style="v" sid="MRK 12:39" />I lɔɔ ɗɔɔ ɔ̃ne aɗɔ pẽniba ɗɔgbete Yahudawa i toli nya i nwa ruu ɗɔnyɛ wɔsɔ̃n ɗɔgbete shɔ tolirɛ aru yumusinɛ. <verse eid="MRK 12:39" /><verse number="40" style="v" sid="MRK 12:40" />I yusẽe ɓa biini ɓa i shaa suvɔɔyi vi, i gaki Ɗalapa dɔkɔkɔ a mɔɔ ɗekɨn nɛ shɔ zɛtɔ, arumkɔ Ɗalapa yɛ gɔ̃yi yushotɔ waanɛ.<verse eid="MRK 12:40" /></para>
+  <para style="s1">Suvɔɔ naa ãnɛ</para>
+  <para style="p">
+    <verse number="41" style="v" sid="MRK 12:41" />Yesɔ ɔ̃ māāni a jaa Ɗa aɗɔgbete shɔ pɔ̃ pii vinaa ãnɛ aɗɔnyɛ, u ɗɔgbete bili moo i ɗɔɔ vinaa ãnɛ yɛ, shɔvinaa i waanɛ i arɛ i ɗɔɔ vinaa lɔkinɛ a saa pɛ̃niba. <verse eid="MRK 12:41" /><verse number="42" style="v" sid="MRK 12:42" />kɛɗɔn suvɔɔ shɔraa arɛ a lɔkiu jaa saa Siliva kobo ziti aɗɔn. <verse eid="MRK 12:42" /><verse number="43" style="v" sid="MRK 12:43" />Yesɔ ɓau jadɔyi nya a geliyi nɛ, &lt;&lt;N gelɔɔtɛ, vigbete suvɔɔ shɔraam lɔki yɛ, tɛɛ kopiya ɓɛɛ tɛttɔ a ɗɔnni piti kpai.&gt;&gt; <verse eid="MRK 12:43" /><verse number="44" style="v" sid="MRK 12:44" />Shɔ gãsiyi piti kpai i ã ai tete vinaa gbete i a wuniyɛ; ama suvɔɔ shɔraam, ã vigbete u awuni piti kpai.<verse eid="MRK 12:44" /></para>
+  <chapter eid="MRK 12" />
+  <chapter number="13" style="c" sid="MRK 13" />
+  <para style="s1">Yesɔ nwanya ayuu Jaa Ɗa zɨnlinɛ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 13:1" />A ɗagbete Yesɔ kɛ shɛnɛ jaa Ɗa ni, shɔzɛ gbete au tete jadɔyi shanɛ, &lt;&lt;Shɔmala, kn noopɛ jawaa nɔgbete shɔ kɔri maanɛ a tari yɛ! &gt;&gt;<verse eid="MRK 13:1" /></para>
+  <para style="p">
+    <verse number="2" style="v" sid="MRK 13:2" />&lt;&lt;Yesɔ risinya nɛ, ɔ zɛ ɗɔ pɛ̃niba gbete shɔ maan tɛ ya? Ama i piti iyɛ zɨlitɔ tari wɔɔ yɛ ɔ̃ ɓa ɓɛzɔɔ wɔɔ yuuni ɓa.&gt;&gt;<verse eid="MRK 13:2" /></para>
+  <para style="s1">Yuu kɔnɛ a raa ɓonɛ</para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 13:3" />A kɨntiu naa Yesɔ gẽtɛ yuu kɔpɔ zeetung ɔ̃ ɗɔn mààni a wɛrɛ a Ɗa , Bituru, Yakubu, Yɔhana a Anduru i au ɗɔbii kaali i hɨu nɛ, <verse eid="MRK 13:3" /><verse number="4" style="v" sid="MRK 13:4" />I shanɛ&lt;&lt;Geliu pɛ vim piti kpai yɛ a pi ɗaviya? Kɛ iviya yɛ tasi i ɗaa pɛlinɛ atɛ viya?&gt;&gt;<verse eid="MRK 13:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 13:5" />Yesɔ risiyi nya nɛ: ɔ kɔyuutɔ ɔkɔɔ yanɛ shɔu ɗakɔɔrɛ. <verse eid="MRK 13:5" /><verse number="6" style="v" sid="MRK 13:6" />Shɔzɛ waanɛ iyɛ pɛli vishone a kirisi nii, iyɛ ɗaki shɔ nɛ &lt;&lt; ikɔyi kirisi,&gt;&gt; <verse eid="MRK 13:6" /><verse number="7" style="v" sid="MRK 13:7" />Naa ɔkɛ nta ruu sɨn nɛ ko nya dɔtinɛ aru sɨn, ɔkɔɔ ntaseti nɛ. Vim piti u dii yɛ atɔ nizɛ, ama u yisinɛ ji aa pɛ̃niɓa. <verse eid="MRK 13:7" /><verse number="8" style="v" sid="MRK 13:8" />Laduru i yɛ waaba a laduru, Shɔ gbeteyi a kpati wɔɔ dɔla i yɛ waaba a shɔ kpati wɔɔ dɔla. Tipi ɓɛlinɛ yɛ ɔ̃ a koo piti wɔsɔ̃n wɔ̃ yɛ ɔ̃ a koo ni piti kpai. ama vim piti kpai yɛ ɔ̃ naa nɔgbete jaa yeenɛ kɔ soroyi yɛ.<verse eid="MRK 13:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 13:9" />&lt;&lt;Naa vim gaa anɛtɛ, ɔkɔyuutɔ shɔyɛ tuu ɔrɛ a ã shɔ yupɛ̃ni yahudawayi ɗɔ ɔ̃nɛ a naa, i yɛ waa ɔrɛ ang yuu.&gt;&gt; shɔyɛ n tɔɔ gɔmna a kpatiyi ɗekɨn aru ɔ pɛ n jaɗɔyi. ama ɔ̃riu kɛ nyaba gbete ɔ nwariyi nya ang ruubii. <verse eid="MRK 13:9" /><verse number="10" style="v" sid="MRK 13:10" />Ama siu ɗaa yisinɛ ji a ɓa, n nya ruubii yɛ ɔ̃ vigbete ɔ nwari shɔ a koo piti kpai yɛ. <verse eid="MRK 13:10" /><verse number="11" style="v" sid="MRK 13:11" />Ama naa shɔ kɛ sãwɔnɛ a n-tiɔ a shɔ ruu hɨlinɛyi ɗekɨn, ɔkɔɔ yɔri yuu nɛ aru vigbete ɔyɛ shayɛni. Ɔ shajo vigbete Ɗalapa suru bi gelɔɔ nɛ ɔ sha a ɗauni, ɓa ɔkɔ nwanya awɔ yuu ɓa ama pɛ Ɗalapa suru bi yɛ nwarɛ.<verse eid="MRK 13:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 13:12" />Shɔwɔ yɛ ã ɓɛzɔ nɛ shɔ nyotɔ, jaa ɓeye yɛ ãtɔ nɛ shɔu sãunɛ, jaayi iyɛ ɔ̃kɛ ai shɔ yeenɛ ni shɔ nopɔ̃ iyɛ ãi nɛ shɔ nyoi vɔrɔ. <verse eid="MRK 13:12" /><verse number="13" style="v" sid="MRK 13:13" />Shɔzɛ piti iyɛ bɛ̃ɛ̃ ɔ ruubii ang yuu, ama shɔgbete kɛ shinɛ a dɔɔ kaziti anɛ au lee yisi n yɛ rautɔ.<verse eid="MRK 13:13" /></para>
+  <para style="s1">Raaɓoonɛ pẽniɓa</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 13:14" />&lt;&lt;Ɔ yɛ zɛ visuubũ gbete pɔ̃rɛ shɔ vɔrɛ,&gt;&gt; shitɛ aɗɔgbete ji tɔ̃ɓa u ɔ̃ aɗɔnyɛ ɓa, (shɔ laa ɓalinɛ u kpaa sisɨntɔ nɔgbete ruu dɔɔ tanɛ ɔ̃yɛ) kɛɗɔn shɔgbete i a tipi Yahuda i yurɛ i gɛ̃kɛ yukɔpɔ. <verse eid="MRK 13:14" /><verse number="15" style="v" sid="MRK 13:15" />Shɔgbete kɛ ɔ̃nɛ au yuujaa lapa ukɔ notipinɛ nɛn tuu viwɔɔ ang yɛti wɛrɛ. <verse eid="MRK 13:15" /><verse number="16" style="v" sid="MRK 13:16" />Shɔgbete kɛ ɔ̃nɛ a jāā ukɔ sɔ wɛrɛ nɛ nɛn tuu fãrã bi zunɛ. <verse eid="MRK 13:16" /><verse number="17" style="v" sid="MRK 13:17" />Leeu yɛ ɔ̃ yukɔnɛ waanɛ a suu jaa yɛti a suu gbete i a ɗɔɔ jaa mii ãnɛ i ɗɔbii, jajjaayi ai ɓiniyi ni iyɛ ɓooraa waanɛ a leewuni. <verse eid="MRK 13:17" /><verse number="18" style="v" sid="MRK 13:18" />Ɔ gaki Ɗalapa tɔ yukɔnɛm ukɔ ɔnɛ a ɗaa pmti, <verse eid="MRK 13:18" /><verse number="19" style="v" sid="MRK 13:19" />Aruumkɔ leeu yɛ ɔ̃ lee yukɔnɛ pẽniba gbete shɔ ji zɛɓa yunɛ aɗagbete Ɗalapa kɔri koo yɛ anɛ nɛm, dangdang irivim shɔyɛ pɛli tokɨn ɓa. <verse eid="MRK 13:19" /><verse number="20" style="v" sid="MRK 13:20" />Ama Ubeyelapa zɔ̃diiu gãsi tɛ, si ɓa ɗɔkɔ ɓa, shɔwɔ si raa naa ɓa, ama aru shɔ tɔ̃vɨn gbete lɔyi yɛ zɔ̃diiu kɛjo ai yuukɔ. <verse eid="MRK 13:20" /><verse number="21" style="v" sid="MRK 13:21" />&lt;&lt;A ɗauni shɔgbete kɛ gelɔɔ nɛ, &lt; kn nɔɔpɛ, nkɔ kirisi u yɛm!&gt; Ko, kn nɔɔpɛ, u yɛwa!&gt;&gt; Ɔkɔɔ weshonɛ ɗɔn. <verse eid="MRK 13:21" /><verse number="22" style="v" sid="MRK 13:22" />Aruumkɔ kirisi nya yelinɛ a Ɗa jashonɛ nya yelinɛ i yɛ shɛtɔ. I pɛli vibii zaanɛ waanɛ aru i ɗaki shɔ tɔ̃vɨn gbete Ɗalapa lɔyɛ, ikɛ zɛnɔɔ nɛtɔ. <verse eid="MRK 13:22" /><verse number="23" style="v" sid="MRK 13:23" />Ɔ shi dɔɔ kaziti! N gelɔɔtɛ ɔ kpaasisɨn tɔ n gɔ̃ ɔ yushotɛ aru vi piti kpai nɗa diu yɛ ayɛ.<verse eid="MRK 13:23" /></para>
+  <para style="s1">Ɗalapa jaa anɛ</para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 13:24" />Ama a knti lee yukɔnɛu,</para>
+  <para style="q1" vid="MRK 13:24">&lt;&lt; Ɗaa yɛ tɔɓa,</para>
+  <para style="q2" vid="MRK 13:24">shɛllɛ yɛ tasi ɓa;<verse eid="MRK 13:24" /></para>
+  <para style="q1">
+    <verse number="25" style="v" sid="MRK 13:25" />Sɛyi yɛ ɗɔlitɔ a lapa anɛ tipi,</para>
+  <para style="q2" vid="MRK 13:25">Ɗalapa yɛ zɨti vi kaka piti kpai a nyasini.&gt;&gt;<verse eid="MRK 13:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 13:26" />Kɛdɔn adauni kopiya yɛ zɛ Yesɔ shɔzɛ jaa shɛtɛ, aɗɔ anɛ a sabu a kakani pɛ̃niba a bassinɛni. <verse eid="MRK 13:26" /><verse number="27" style="v" sid="MRK 13:27" />Yesɔ yɛ sho Ɗajashonɛlapayi aru i toli shɔ tɔ̃vɨn gbete Ɗalapa lɔyi yɛ ko a tipi shopiya, yunɛ ɗɔgbete kotipi doonya yɛ yɛnɛ wɔyi piti kpai.<verse eid="MRK 13:27" /></para>
+  <para style="s1">Vimati a laa sɨnti</para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 13:28" />&lt;&lt;Dɔdɔrim ɔ kn noopɛ a laa sɨnti biː naa u nalaa kɛ ɔ̃nɛ naa galaa gbete gaa tanɛ doo tɛyɛ, gaa kɛ gapa sɔɔ tanɛ, ɔ zɛtɔ nɛ goosi ɓatɛ māāni. <verse eid="MRK 13:28" /><verse number="29" style="v" sid="MRK 13:29" />Ji nankɔ ɔ kɛ zɛ vi gbete n gelɔɔmi kpai a ɗɔɔ pɛlinɛ, ɔ yɛ kpaa sisɨn tɔ nɛ ɗau atɛ māāni, si atɛ nyeja gboti. <verse eid="MRK 13:29" /><verse number="30" style="v" sid="MRK 13:30" />N gelɔɔtɛ ɔ kpaa sisɨntɔ shɔgbete ɔ doo a suru ni dɔdɔrim i yɛ vɔɓa setɛ vim piti kpai pɛlitɛ. <verse eid="MRK 13:30" /><verse number="31" style="v" sid="MRK 13:31" />Koo tipi a kolapani iyɛ tɛɛtɔ, ama n nya ruubii yɛ sɔ̃ɔ̃ nyaɓa.<verse eid="MRK 13:31" /></para>
+  <para style="s1">Shɔwɔɔ ji zɛ ɗiiu ɓa ko ɗauni ɓa</para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 13:32" />&lt;&lt; Shɔwɔ ji zɛ ɓa, dii ko ɗaa gbete yɛ a yɛ ɓa, ko Ɗa jashonɛ lapa ko shɔzɛja, ama jo ɓeye gbete u kolapa ukɔ zɛ dii u jo sheeli. <verse eid="MRK 13:32" /><verse number="33" style="v" sid="MRK 13:33" />Ɔkɔɔ yuutɔ, ɔ ɔ̃ nokãkãriǃ aru gbete ɔ ji zɛ ɗagbete dii u yɛ a yɛ ɓa. <verse eid="MRK 13:33" /><verse number="34" style="v" sid="MRK 13:34" />dii yukɔnɛ anɛ yɛ ɔ̃ naa Jaa gbete yɛ zati a ãu jawɛrɛyi vishonɛ a naa nɛyi pɛlitɔ, ama kɨnti gbete vɔsi u jawɛrɛyi i vishonɛtɛ nɛi pɛlitɔ a shɔgbete ga wɛrɛu nɛu gatɔ.<verse eid="MRK 13:34" /></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 13:35" />&lt;&lt; Aru nankɔ ɔ ɔ̃ nɔkãkãri, aru ɔ ji zɛ ɗagbete shɔwɛrɛ yɛ a wɛrɛ yɛ ɓa, a ɗarɛ ya ko a zɨnba ya ko a nogadi ya ko a shɛn ɗaa gadii. <verse eid="MRK 13:35" /><verse number="36" style="v" sid="MRK 13:36" />Ɔkɔɔ yanɛ u a tɛ̃ɛ̃ti u kpaa wɔ a nɔroo.&gt;&gt; <verse eid="MRK 13:36" /><verse number="37" style="v" sid="MRK 13:37" />&lt;&lt;Vigbete nkɛ gelɔɔ nɛm, n geli kopiya jo piti kpai i pɛli vishonɛ a wuniː ɔ ɔ̃ nokãkãri!&gt;&gt;<verse eid="MRK 13:37" /></para>
+  <chapter eid="MRK 13" />
+  <chapter number="14" style="c" sid="MRK 14" />
+  <para style="s1">Shɔ pɛ̃ni yahudawa i ma nya a ɗɔɔ luto nɛi nyo Yesɔ vɔrɔ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 14:1" />Si rotɛ dɔɔ ziti shɔ Yahudiyayi i musiyuu aru pasika a vishaanɛ, borodi gbete vuri ɓa ɗɔnɓa yɛ, yupɛ̃ni nyawaanɛyi a jaa Ɗa a shɔmala nya ãsinɛ Musa i kã nyaba gbete i sã Yesɔ nɛi nyo vɔrɔ. <verse eid="MRK 14:1" /><verse number="2" style="v" sid="MRK 14:2" />I shanɛ,&lt;&lt;Ama ɓa ɗāā yumusinɛ pasika ɓa, aru i nta seti nɛ mɔɔyi i yɛ yusu nyarɛ.&gt;&gt;<verse eid="MRK 14:2" /></para>
+  <para style="s1">Shɔ pnri Yesɔ nɔɔ ayuu a Betani</para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 14:3" />Aɗagbete Yesɔ u si a Betani a Siman wɛrɛ shɔgbete vibii tasiu raa yɛ, Yesɔ usi ɗɔɔ vi shaanɛ, suwɔɔ au ɗɔbii a jakotoro nɔɔ naa koluba sũrũ-sũrũ gbete shɔ ɓanɛ tolari u saa a yuuni, kɛɗɔn suu kunya kotoro nɔɔurɛ a tatti Yesɔ nɔɔu ayuu.<verse eid="MRK 14:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 14:4" />Shɔgbete isi a ɗɔuni i lɛsirɛ sisɨn i geli zɔɔnɛ, &lt;&lt;shɔ lɛsi nɔɔm pi ruviɗɔkɔ viya?&gt;&gt; <verse eid="MRK 14:4" /><verse number="5" style="v" sid="MRK 14:5" />I shanɛ&lt;&lt;shɔ si mɛli nɔɔu vigbete tɛɛ saa laa maani-maani ɓa taati (300) a tuu saa u a ã shɔ raayi. i lasi suurɛ wàànɛ.&gt;&gt;<verse eid="MRK 14:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 14:6" />Ama Yesɔ risiyinyanɛ&lt;&lt;Ɔ ya suu weze, ɔ yɔriunɛ piviya? Pɛlinpɛ vitɔ̃vɨng ang ɗɔbiini. <verse eid="MRK 14:6" /><verse number="7" style="v" sid="MRK 14:7" />Ɔ ji a shɔ raayini a lee-lee ɔyɛ ãi vitɔ aɗagbete ɔ kasiyɛ. Ama ɔyɛ zɛmɓa a lee-lee niɓa. <verse eid="MRK 14:7" /><verse number="8" style="v" sid="MRK 14:8" />Suum Pɛlin vigbete yɛ zɛnɔ pɛlinɛ tɛttɔ, sum tatti nɔɔ ayuu naa shɔ si tatti ang lee vɔrɔyɛ gbãntɛ gbɔ̃ti. <verse eid="MRK 14:8" /><verse number="9" style="v" sid="MRK 14:9" />N gelɔɔtɛ nizɛ, aɗagbete shɔyɛ wàánya a Ɗa nya ruubii a koo piti, vigbete suum pɛli yɛ shɔyɛ kpasisɨntɔ au knti vɔrɔni.&gt;&gt;<verse eid="MRK 14:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="MRK 14:10" />Kɛɗɔn Yahuza gbete shɔ ɓaunɛ Iskariyoti atette Yesɔ jadɔyi kopi tu ziti, yɛ shɔyupɛ̃ni nyawàánɛ a jaa Ɗa ɗɔbii aru u mɛlinɛ Yesɔ ai ɗɔbii. <verse eid="MRK 14:10" /><verse number="11" style="v" sid="MRK 14:11" />Naa yupɛ̃ni nyawàánɛ a jaa Ɗa i ntatɛ i nta sisɨn puru waanɛ ai geliunɛ iyɛ ãu saa. kɛɗɔn Yahuza Iskarayoti kãkɛ nyaba gbete yɛ ãi Yesɔ i nyo vɔrɔ.<verse eid="MRK 14:11" /></para>
+  <para style="s1">Yesɔ shaa vishaanɛ yumusinɛ pasika au jaɗɔyi</para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 14:12" />A dii gbete shɔ gaa vi shaanɛ yumusinɛ gbete vuri ɓa ɗɔnɓa yɛ, a Yahudiyayi nakoo kɛ dii gbete shɔ yee jamɛrɛ̃ɛ̃ yumusinɛ pasika yɛ, Yesɔ jadɔyi i hɨunɛ, &lt;&lt;A kasinɛ u tɔ̃raa ɗɔ vi shaanɛ yumusinɛ pasika pi ɗɔpiya?&gt;&gt;<verse eid="MRK 14:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 14:13" />Kɛɗɔn Yesɔ sho u jadɔyi ziti yɛnɛ Urushalima a ãsii-nyanɛ,&lt;&lt; Ɔ to yɛti komɔɔ ɔyɛ kpaa jawɔɔ tuu jakpari miitɛ ayuu ɔ gɨu akɨntini. <verse eid="MRK 14:13" /><verse number="14" style="v" sid="MRK 14:14" />A wɛrɛ gbete jaukɛ tonɛ piti, ɔ geli shɔwɛrɛunɛ, &lt;shɔmala hɨ nɛ: jaa gbete nɛn yɛ shaa vi aɗɔn au jaɗɔyini piya?&gt; <verse eid="MRK 14:14" /><verse number="15" style="v" sid="MRK 14:15" />Jau yɛ tasɔɔ jaa pẽniba wɔɔ shɔ yisiu ɓuzɨn tɔ̃rinɛ tɛttɔ. Ɔ tɔ̃riu ɗɔɔ vi shaanɛ a ɗɔukɔ.&gt;&gt;<verse eid="MRK 14:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 14:16" />Kɛɗɔn Yesɔ jadɔyi i to yɛti komɔɔrɛ i kpaajo nagbete Yesɔ geliyi kɔ, i tɔ̃ri ɗɔɔ vi shaanɛu rɛ.<verse eid="MRK 14:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 14:17" />A ɗaɗarɛ Yesɔ arɛ au jadɔyi kopi tu zitini. <verse eid="MRK 14:17" /><verse number="18" style="v" sid="MRK 14:18" />Aɗagbete Yesɔ au jaɗɔyi kopi atu ziti i ɗɔɔ vi shaanɛ, Yesɔ geliyinɛ, &lt;&lt;N gelɔɔtɛ, shɔwɔɔ awɔ tetemkɔ yɛ mɛlintɔ-- shɔgbete u ɗɔɔ vi shanɛ a wunim.&gt;&gt;<verse eid="MRK 14:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 14:19" />Kɛɗɔn Yesɔ jaɗɔyi i sisɨn lɛsirɛ i gaa hɨnɛ gbete gbete nɛ, &lt;&lt;A sha pɛ nkɔ ya?&gt;&gt;<verse eid="MRK 14:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 14:20" />Yesɔ kasiyinya nɛ,&lt;&lt;Shɔzɛ gbete a tete kopi tu ziti miyikɔ, gbete u shaa vishaanɛ pii gbete a wunim.&gt;&gt; <verse eid="MRK 14:20" /><verse number="21" style="v" sid="MRK 14:21" />Ɔ̃rii Yesɔ shɔzɛjatɛ a kɔrɔ u vɔɔrɛ nagbete Ɗalapa sha au laabeenɛ si tɛ̃ɛtɛ̃ɛ. Shɔgbete mɛli Yesɔ, yɛ ɔri shɔgbeteu mɛli jashɔzɛm kɛvi yukɔnɛǃ yɛ ɔ̃riukɛ naa shɔ siji yeeu kɔɓa.<verse eid="MRK 14:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="MRK 14:22" />Aɗagbete isi ɗɔɔ vi shaanɛ Yesɔ tuu borodi, a dɔ̃ri Ɗa kɛɗɔn ɗalirɛ, a ãu jadɔyi shanɛ, &lt;&lt;Ɔ tɛnɛ; shompɛ n bi.&gt;&gt;<verse eid="MRK 14:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 14:23" />Kɛɗɔn Yesɔ tuu jawamii Inabi a dɔ̃ri Ɗa a ãu jadɔyi i ɓoorɛ piti kpai.<verse eid="MRK 14:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 14:24" />Yesɔ geliyi nɛ,&lt;&lt;shompɛ n kpaa gbete shɔ tɛ̃ɛ̃ aru maanɛ tete Ɗalapa a shɔzɛ waanɛ iyuu.&gt;&gt; <verse eid="MRK 14:24" /><verse number="25" style="v" sid="MRK 14:25" />&lt;&lt; N gelɔɔtɛ nizɛ, n yɛn ɓoo mii Inabi toti ɓa, see leegbete n ɓoo mii Inabi sɔɔ aɗɔgbete Ɗa roo kpati yɛ.&gt;&gt;<verse eid="MRK 14:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 14:26" />Naa i tɔ̃ soo Ɗalapa bɛlinɛ tɛ i yɛkɛ kɔpɔ zeentung.<verse eid="MRK 14:26" /></para>
+  <para style="s1">Bituru maasi Yesɔ nya</para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 14:27" />Yesɔ geliyinɛ,&lt;&lt;Ɔ piti kpai ɔ yurɛ ɔ yantɔ,&gt;&gt; aru gbete Ɗa shatɛttɔ au laabeenɛː</para>
+  <para style="q1" vid="MRK 14:27">n yɛn nyo jagavivaayi vɔrɔtɔ</para>
+  <para style="q2" vid="MRK 14:27">mɛrɛ̃ɛ̃yi piti kpai iyɛ sãtitɔ.<verse eid="MRK 14:27" /></para>
+  <para style="m">
+    <verse number="28" style="v" sid="MRK 14:28" />&lt;&lt;Ama aɗagbete nkɛ yunɛ sàà a suru ni, n yɛn yɛ awɔ ɗekɨn yɛnɛ tipi Urushalima ɔ yɛ kpang aɗɔwakɔ.&gt;&gt;<verse eid="MRK 14:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 14:29" />Bituru geliu nɛ, &lt;&lt;ikɛ nwesinɛ piti kpai, n yɛn nwesi ɓɛɛjo ɓa!&gt;&gt;<verse eid="MRK 14:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 14:30" />Yesɔ risi Bituru nyanɛ, &lt;&lt; N gelɔɔ tɛ nizɛ, nɛ̀m a zɨmbankɔ kɔ̃ɔ̃ u ɓɛɛ nya ɓaanɛ ɓa ziti a yɛ masing nya ɓa taati.&gt;&gt;<verse eid="MRK 14:30" /></para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 14:31" />Ama Bituru risinya a kakani a shanɛ, &lt;&lt;ko shɔyɛ nyɔng vɔrɔ a sàà a mɔkɔni n yɛn bɛ̃ɛ̃ a ruubi ɓa.&gt;&gt;</para>
+  <para style="p" vid="MRK 14:31">Yesɔ jadɔyi gãsiyi sha jo vigbetenkɔ piti.<verse eid="MRK 14:31" /></para>
+  <para style="s1">Yesɔ gaki Ɗa a Jesimani</para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 14:32" />Yesɔ au jaɗɔyi i yɛ ɗɔwɔɔ shɔ ɓanɛ Jesimani, kɛɗɔn Yesɔ geliu jadɔyi nɛ,&lt;&lt; ɔ ɔ̃nɛ a ɗɔnkɔ n gaki Ɗa pɛ.&gt;&gt; <verse eid="MRK 14:32" /><verse number="33" style="v" sid="MRK 14:33" />Yesɔ tuu Bituru, Yakubu a Yɔhana a yɛ ɗɔu ayini, kɛɗɔn gaa yukɔnɛ kpanɛ a raa ɓoonɛ ni au suru waanɛ. <verse eid="MRK 14:33" /><verse number="34" style="v" sid="MRK 14:34" />Yesɔ geliyi nɛ,&lt;&lt;N suru bi aɗɔ raa ɓoonɛ naa n yɛn vɔtɔ, ɔ ɔ̃ ɗɔnkɔ ɔkɔɔ roo-nɔrɔɔnɛ.&gt;&gt;<verse eid="MRK 14:34" /></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 14:35" />Naa gisitɛ ɗekɨn Yesɔ ta a yugbot a tipi, a gaki Ɗa a shanɛ, kɛ pɛlinɛtɔ, shɛshing pɛ ang raa ɓoonɛni. <verse eid="MRK 14:35" /><verse number="36" style="v" sid="MRK 14:36" />Yesɔ gaki Ɗa nɛ,&lt;&lt;Abba, Da! Viwɔɔ lɛraa kaka ɓa. Tusin raa ɓoonɛm kati. Ɓang kasinɛ ɓa, ama vigbete a kasiyɛ.&gt;&gt;<verse eid="MRK 14:36" /></para>
+  <para style="p">
+    <verse number="37" style="v" sid="MRK 14:37" />Kɛɗɔn Yesɔ sɔu jadɔyi i ɗɔbii a kpai a nɔro. A hɨ Bituru nɛ,&lt;&lt;Siman, adoo ɗɔɔ nɔrɔɔ-roonɛ ya? Ɔ zɛnɔɔ ɔ̃nɛ ɓa nɔkãkãri dɔɔɗa gbete ɓaya?&gt;&gt; <verse eid="MRK 14:37" /><verse number="38" style="v" sid="MRK 14:38" />A Yesɔ geliyi nɛ, ɔ ɔ̃ nɔkãkãri, ɔ gaki Ɗa, nɔgbete ɔyɛ nwesi ɓa a japɛ̃pɛ̃ɛ̃ nani ɓa. suru bi kasi tɛ ama bi ji laki ɓa.<verse eid="MRK 14:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 14:39" />Kɛɗɔn Yesɔ yau jadɔyirɛ a sɔɔ ɗɔɔ Ɗa gakinɛ sɔ̃nrɛ, arɛ a kpai sɔ̃n a nɔro a geliyi sɔ̃nji vigbete geliyi siyɛ. <verse eid="MRK 14:39" /><verse number="40" style="v" sid="MRK 14:40" />Naa sɔɔ sɔ̃ntɛ kpai sɔ̃nji a nɔro, aru siinɔɔ kpetitɛ a nɔrɔɔni. iji zɛ vigbete iyɛ geliu yɛɓa.<verse eid="MRK 14:40" /></para>
+  <para style="p">
+    <verse number="41" style="v" sid="MRK 14:41" />Naa Yesɔ sɔtɛ ɓa taati a geliyinɛ,&lt;&lt;ɔ doo ɗɔɔ susunɛ a nɔro roonɛ ya? Tesitɛ-nankɔǃ Ɗaa-pɛlitɛ! Ɔ zɛpɛ! Shɔzɛja shɔ mɛliutɛ a shɔ ruuviniyi naa.&gt;&gt; <verse eid="MRK 14:41" /><verse number="42" style="v" sid="MRK 14:42" />Ɔ yunɛ u yarɛǃ shɔgbete mɛlin yɛ u yɛm.<verse eid="MRK 14:42" /></para>
+  <para style="s1">Shɔ sã Yesɔ tɛ</para>
+  <para style="p">
+    <verse number="43" style="v" sid="MRK 14:43" />Aɗagbete Yesɔ siu doo ɗɔɔ nyanwanɛ, shɔzɛ gbete atette Yesɔ jadɔyi kopi tu ziti Yahuza shɛrɛ au bi a shɔwɔyini waanɛ, i sãli zààli a naa a laabāāni pẽniba gbete u yuu pẽniba, yupɛ̃ni nyawàànɛ a jaa Ɗa a shɔmala nya-ãsinɛ Musa wɔsɔ̃n shɔpẽni ɗɔlaa ikɔi shɔirɛ a Yesɔ ɗɔbii.<verse eid="MRK 14:43" /></para>
+  <para style="p">
+    <verse number="44" style="v" sid="MRK 14:44" />Shɔgbete mɛli Yesɔu si ma ruu tɛttɔ a mɔɔyini nɔgbete yɛ tasiyi shɔgbeteyi iyɛ sãuyɛː &lt;&lt;Shɔgbete nkɛ kɔ̃tiu nanɛ abiiyɛ si ukɔ; Ɔ sãurɛ ɔyɛ awuni ɔ ã sɔjayi naa.&gt;&gt; <verse eid="MRK 14:44" /><verse number="45" style="v" sid="MRK 14:45" />Naa Yahuza tottɛ tɛɛ ɓɛɛ jo Yesɔ ɗɔbii, a shanɛ,&lt;&lt; shɔmalaǃ&gt;&gt; a kɔ̃tiu naarɛ bi. <verse eid="MRK 14:45" /><verse number="46" style="v" sid="MRK 14:46" />Kɛɗɔn shɔ sã Yesɔ rɛ a maurɛ. <verse eid="MRK 14:46" /><verse number="47" style="v" sid="MRK 14:47" />Ama shɔzɛ gbete atette Yesɔ jadɔyi shɛshi zāāli a ko yupɛ̃ni nyawaanɛ jaa Ɗa jawɛrɛ shoo.<verse eid="MRK 14:47" /></para>
+  <para style="p">
+    <verse number="48" style="v" sid="MRK 14:48" />Yesɔ shanɛ&lt;&lt;Ɔ ang ɗɔ sãnɛ a laabàà a zāālini naa, naa ɓɔɔ ya? <verse eid="MRK 14:48" /><verse number="49" style="v" sid="MRK 14:49" />Ji lee-lee n ji ɔkɔni a ɗɔɔzɔɔ, n ɗɔɔ shɔvi matinɛ a jaa Ɗa ɔji sãn ɓa. Ama ɔtɛ a kɔrɔ vigbete Ɗalapa shayɛ u pɛlitɔ.&gt;&gt; <verse eid="MRK 14:49" /><verse number="50" style="v" sid="MRK 14:50" />Kɛɗɔn Yesɔ jaɗɔyi piti kpai i lokiurɛ i yurɛ i yaurɛ yɔbm.<verse eid="MRK 14:50" /></para>
+  <para style="p">
+    <verse number="51" style="v" sid="MRK 14:51" />Aɗagbete shɔ sã Yesɔ yɛ jakasa wɔɔ siɗɔn u viwɔɔɓa see fãrã bizunɛ gbete u saa yuu bang, gɨn Yesɔ a knti aɗagbete shɔ kasiu sãnɛ yɛ.<verse eid="MRK 14:51" /></para>
+  <para style="p">
+    <verse number="52" style="v" sid="MRK 14:52" />Jau yuu bi-wati a yau fãrã bizunɛ a knti.<verse eid="MRK 14:52" /></para>
+  <para style="s1">Yesɔ a kn yupɛ̃ni dɔlayi dekɨn</para>
+  <para style="p">
+    <verse number="53" style="v" sid="MRK 14:53" />I tuu Yesɔ i n-tiu a yupɛ̃ni nyanwaanɛ jaa Ɗa a shɔmala nya ãsinɛ wɔsɔ̃n yupɛ̃ni dɔlayi i dekɨn, i piti kpai i toli nya a ɗɔukɔ. <verse eid="MRK 14:53" /><verse number="54" style="v" sid="MRK 14:54" />Bituru gɨn Yesɔ kpɛlɛ awuni, a to yupɛ̃ni nyawaanɛ jaa Ɗa wɛrɛ, a ɗɔukɔ ɔ̃ a sɔjayini i ɗɔ yaa wɔɔnɛ a ɗɔzɔ.<verse eid="MRK 14:54" /></para>
+  <para style="p">
+    <verse number="55" style="v" sid="MRK 14:55" />Yupɛ̃niyi nya waanɛ jaa Ɗa a kn yupɛ̃ni dɔlayini kpai i kãli nyaba ruu kɔ̃linɛ gbete iyɛ sã Yesɔ a wuniyɛ nɔgbete iyɛ nyou vɔrɔyɛ, ama iji kpaa ɓa. <verse eid="MRK 14:55" /><verse number="56" style="v" sid="MRK 14:56" />Shɔzɛ waanɛ i yeri Yesɔ nya ayuu ama i nya ji ɔ̃ ɓa gbete niɓa.<verse eid="MRK 14:56" /></para>
+  <para style="p">
+    <verse number="57" style="v" sid="MRK 14:57" />A kɨntiuni kpai shɔgãsiyi i yure i yeri Yesɔ nya ayuu i shanɛː <verse eid="MRK 14:57" /><verse number="58" style="v" sid="MRK 14:58" />&lt;&lt;U ntarɛ kɛ shanɛ nɛn, &lt;N yɛn zɨɨli jaa Ɗa gbete shɔzɛ maarɛn, n maasɔ̃n alee taati, ɓa shɔwɔɔ naa pɔ̃nɛni ɓa.&gt; &gt;&gt; <verse eid="MRK 14:58" /><verse number="59" style="v" sid="MRK 14:59" />Ama i nya yelinɛ a Yesɔ yuu ji a ɓa gbete niɓa.<verse eid="MRK 14:59" /></para>
+  <para style="p">
+    <verse number="60" style="v" sid="MRK 14:60" />Kɛɗɔn yupɛ̃ni nyanwaanɛ jaa Ɗa yulaparɛ, a mɔɔyi i ɗekɨn a hɨ Yesɔ nɛ, &lt;&lt;A yɛ kasing nya ɓaya? A sha ɓɛɛnɛ ivi aru gbete shɔmiyi shali āā yuumini viya?&gt;&gt; <verse eid="MRK 14:60" /><verse number="61" style="v" sid="MRK 14:61" />Ama Yesɔ ɔ̃ a nyani ji risinya ɓa.</para>
+  <para style="p" vid="MRK 14:61">Yupɛ̃ni nyanwaanɛ jaa Ɗa hɨ Yesɔ ruu sɔ̃n nɛ,&lt;&lt;Mɔkaa kirisi yaa? Ɗa jaa gbete u gɨn yɛ ya?&gt;&gt;<verse eid="MRK 14:61" /></para>
+  <para style="p">
+    <verse number="62" style="v" sid="MRK 14:62" />Yesɔ kasinyanɛ,&lt;&lt;Nn nkɔ, ɔ yɛ zɛ shɔzɛja ɔ̃tɛ a ɓeye nakɨn Ɗalapa gbete vi tɛu kaka ɓa, ɔ yɛ zɛng sɔ̃n a ɗɔɔ anɛ a nyasi aɗɔgbete Ɗalapa ɔ̃ ɗɔnyɛ.&gt;&gt;<verse eid="MRK 14:62" /></para>
+  <para style="p">
+    <verse number="63" style="v" sid="MRK 14:63" />Kɛɗɔn yupɛ̃ni nyanwaanɛ jaa Ɗa ntasiu fãrã birɛ a shanɛ, &lt;&lt;Ɔ kã sɔ̃n kɛpi shɔ shinɛ shopiya?&gt;&gt; <verse eid="MRK 14:63" /><verse number="64" style="v" sid="MRK 14:64" />&lt;&lt;Ɔ nta nɔgbete lɛsi Ɗalapa nii yɛtɛ.&gt;&gt;Ɔ shakɛnɛ iviya?</para>
+  <para style="p" vid="MRK 14:64">I piti kpai i shanɛ jam yɛtɛ nɔgbete shɔyɛ nyou vɔrɔ yɛ. <verse eid="MRK 14:64" /><verse number="65" style="v" sid="MRK 14:65" />Kɛɗɔn shɔwɔyi tuliu susãri bi, i mau nɔɔ i waurɛ, i shanɛ,&lt;&lt; Akɛ ɔ̃nɛ Ɗa jaa shɔnɛ geliunɛ pi waa piyaǃ&gt;&gt; kɛɗɔn Sɔjayi i sã Yesɔ rɛ i waurɛ.<verse eid="MRK 14:65" /></para>
+  <para style="s1">Bituru masi Yesɔ nya</para>
+  <para style="p">
+    <verse number="66" style="v" sid="MRK 14:66" />A ɗauni si Bituru u ɗɔɔ ɔ̃nɛ a nye yaa a yupɛ̃ni nyanwaanɛ jaa Ɗa wɛrɛ, jasuu wɛrɛu wɔɔ arɛ au ɗɔbii. <verse eid="MRK 14:66" /><verse number="67" style="v" sid="MRK 14:67" />Naa jasuu zɛ Bituru tɛ u ɗɔɔ yaa wɔɔnɛ, jasuu a māāni a tẽẽri Bituru nɔɔ bi a shanɛ.</para>
+  <para style="p" vid="MRK 14:67">&lt;&lt; A ji nyazɔ a Yesɔ, shɔ nazara ni.&gt;&gt;<verse eid="MRK 14:67" /></para>
+  <para style="p">
+    <verse number="68" style="v" sid="MRK 14:68" />Ama Bituru masi nya ɗɔn, &lt;&lt;N ji zɛ ɓa, n ji zɛ ruugbete a nwanya au yuuni yɛ ɓa,&gt;&gt;Nya gbete Bituru risi yɛ, kɛɗɔn shɛ bili kɛ a nyaba tonɛ.<verse eid="MRK 14:68" /></para>
+  <para style="p">
+    <verse number="69" style="v" sid="MRK 14:69" />Naa jasuu wɛrɛu zɛ Bituru sɔ̃ntɛ a geli shɔgbete shi a Bituru ni nɛ,&lt;&lt;Jam u pɛ Yesɔ jaɗɔ.&gt;&gt; <verse eid="MRK 14:69" /><verse number="70" style="v" sid="MRK 14:70" />Ama Bituru masiyi nya sɔ̃ntot.</para>
+  <para style="p" vid="MRK 14:70">A kɨntiu ni toti, shɔgbete i shi a Bituru ni māāni i geliunɛ,&lt;&lt; A masinya dɔɔɓa a pɛ Yesɔ jadɔ, aru gbete a pɛ shɔ Galili.&gt;&gt;<verse eid="MRK 14:70" /></para>
+  <para style="p">
+    <verse number="71" style="v" sid="MRK 14:71" />Kɛɗɔn Bituru shanɛ, &lt;&lt;N teetɛ n gelɔɔ pɛ nizɛǃ Ɗalapa u gɔ̃n yuushotɔ nkɛ yeenɛ nya, n ji zɛ jagbete ɔ nwa nya au yuunim ɓa.&gt;&gt;<verse eid="MRK 14:71" /></para>
+  <para style="p">
+    <verse number="72" style="v" sid="MRK 14:72" />Bituru u ɓɛɛ shanɛ nam tɛ̃ɛ̃ti kpasi kɔ̃ɔ̃ ɓaa nya rɛ ɓaa ziti, Kɛɗɔn Bituru kpai sisɨn aru gbete Yesɔ geliyi yɛ nɛ,&lt;&lt; Kɔ̃ɔ̃ ɓɛɛ nya ɓanɛ ɓa ziti a yɛ masing nya ɓa taati.&gt;&gt; kɛɗɔn Bituru shi bili a nwesirɛ u ɗɔɔ nyavɔ sɨnɛ.<verse eid="MRK 14:72" /></para>
+  <chapter eid="MRK 14" />
+  <chapter number="15" style="c" sid="MRK 15" />
+  <para style="s1">Yesɔ a Bilatu dekɨn</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 15:1" />A gadi zɨɨnkɔ yupɛ̃ni shɔlansi, a shɔpẽni dɔlayi wɔsɔ̃n shɔmala nyaãsinɛ a kpati shɔvi shoneyi piti kpai i ma rɛ, i sã Yesɔ a n-tiu Bilatu dekɨn.<verse eid="MRK 15:1" /></para>
+  <para style="p">
+    <verse number="2" style="v" sid="MRK 15:2" />Bilatu hɨ Yesɔ nɛ,&lt;&lt;Mɔkaa ɔ̃rɛ kpati yahudawa ya? Yesɔ risiu nya nɛ.</para>
+  <para style="p" vid="MRK 15:2">&lt;&lt;Mɔkaa shajo.&gt;&gt;<verse eid="MRK 15:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 15:3" />Yupɛ̃niyi i yeri Yesɔ nya ayuu tot-tot. <verse eid="MRK 15:3" /><verse number="4" style="v" sid="MRK 15:4" />Toti Bilatu hɨ Yesɔ nɛ,&lt;&lt; A yɛ kasi nya ɓaya? Ayuu ruugbete shɔmiyi i shali āā yuum ni baya?&gt;&gt;<verse eid="MRK 15:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 15:5" />Ama Yesɔ ji risi nya ɓa, vibii zaa sã Bilatu kɛtɔ.<verse eid="MRK 15:5" /></para>
+  <para style="s1">Shɔ ruu nɛ Yesɔ yɛ vɔtɔ</para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 15:6" />Ai nakoo koopi saa shɔpiya a ɗaa yumusinɛ pasika Bilatu yasiyi shɔ jaahm naa gbete shɔgbete i kasiyɛ. <verse eid="MRK 15:6" /><verse number="7" style="v" sid="MRK 15:7" />A ɗauni jawɔɔ ɗɔn shɔ bau nii nɛ Barnaba shɔ ɓai a jaahm a shɔ yuvɔɔ nyonɛyi a ɗɔzɔ, aɗagbete shɔ yusi nya yɛ. <verse eid="MRK 15:7" /><verse number="8" style="v" sid="MRK 15:8" />Kɛɗɔn mɔɔyi ɓa nya a Bilatu bi u pɛli vigbete pɛliyɛ siyɛ ko saa shopiya aɗa yumusinɛ pasika.<verse eid="MRK 15:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 15:9" />Bilatu hɨyinɛ&lt;&lt;Ɔ kasinɛ n yasɔɔ Yesɔ kpati yahudawa naa ya?&gt;&gt; <verse eid="MRK 15:9" /><verse number="10" style="v" sid="MRK 15:10" />Aru si Bilatu zɛtɛttɔ nɛ yupɛ̃ni shɔlansiyi n ti Yesɔ au ɗɔbii si ɓa a sisɨn gbete ɓa. <verse eid="MRK 15:10" /><verse number="11" style="v" sid="MRK 15:11" />Ama yupɛ̃ni nyanwaanɛ jaa Ɗa i kpɛ̃ri mɔɔyi nɛi geli Bilatu nɛu yasiyi Barnaba naa.<verse eid="MRK 15:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 15:12" />Bilatu hɨ nɛ,&lt;&lt;Ɔ kasinɛ n pɛli pikovi a jaa gbete shɔ baunɛ kpati yahudawa ni viya? &gt;&gt; <verse eid="MRK 15:12" /><verse number="13" style="v" sid="MRK 15:13" />Shɔwiyi i risi nya a kakani nɛ, &lt;&lt;Ɔ bau naa laa. &gt;&gt;<verse eid="MRK 15:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 15:14" />Bilatu kasi nya nɛ, &lt;&lt;Aru iviya? Pɛli vikɔ̃linɛu piviɗɔkɔ viya?&gt;&gt;</para>
+  <para style="p" vid="MRK 15:14">Ama i piti kpai i ɗee nya a kakani nɛ, &lt;&lt; Ɔ bau naa laa. &gt;&gt;<verse eid="MRK 15:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="MRK 15:15" />Aru gbete Bilatu kasi nɛ mɔɔyi i nta sisɨn puru, a yasiyi Barnaba naa rɛ. kɛɗɔn Bilatu ã sojayi i naarɛ nɛi waa Yesɔ, nɛi sã Yesɔ i bau naa laa.<verse eid="MRK 15:15" /></para>
+  <para style="s1">Sojayi i ãri Yesɔ nya</para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 15:16" />Kɛɗɔn sojayi sã Yesɔ yɛnɛ Bilatu jarunwanɛ a gãsi ɓɛzɔɔ sojayini kpai. <verse eid="MRK 15:16" /><verse number="17" style="v" sid="MRK 15:17" />Kɛɗɔn sojayi tuu kpɛnti fãrã gbete naa kpati ɓɛɛ i hãsi Yesɔ abi ai tɔ̃ri salabu kɔkkɔ i hãsi Yesɔ a yuu. <verse eid="MRK 15:17" /><verse number="18" style="v" sid="MRK 15:18" />Kɛɗɔn sojayi i waa dɔɔ i ɗiurɛ naa nɛ, &lt;&lt; Ɗa u yasi kpati yahudawa suru ɗɔnǃ&gt;&gt; <verse eid="MRK 15:18" /><verse number="19" style="v" sid="MRK 15:19" />sojayi waa Yesɔ ayuu a labàà, i tuluu susãri abi, i sɔ̃si au ɗekɨn nei bɛliutɔ. <verse eid="MRK 15:19" /><verse number="20" style="v" sid="MRK 15:20" />Naa sojayi yisi Yesɔ nya ãrinɛtɛ, i zɔ̃ fãrã nwerirɛ a Yesɔ biini, i tosi Yesɔ kɛjo u fãrã bi. Kɛɗɔn i shɛshiu bili kɛkn nɛ shɔ bau naa laa.<verse eid="MRK 15:20" /></para>
+  <para style="s1">Shɔ ɓaa Yesɔ naa laa</para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 15:21" />Siman shɔ Bakurani, Alezanda a Rufu i ɓeye, u ɗɔɔ tɛɛnɛ shɛ a tipi Bakurani sojayi i pɔ̃u rɛ nɛu tusi Yesɔ laagbete shɔ ɓau naa aɗɔnyɛ. <verse eid="MRK 15:21" /><verse number="22" style="v" sid="MRK 15:22" />Kɛɗɔn i n ti Yesɔ yɛnɛ ɗɔwɔɔ shɔ ɓanɛ gɔligɔta, (ɗɔgbete shɔ toli zɔ̃pu ɗɔnyɛ) <verse eid="MRK 15:22" /><verse number="23" style="v" sid="MRK 15:23" />I ã Yesɔ mii laa inabi shɔ rãa a muri, ama ji boo ɓa. <verse eid="MRK 15:23" /><verse number="24" style="v" sid="MRK 15:24" />Kɛdɔn sojayi ɓaa Yesɔ naa rɛ laa, i tuu fãrã bi i vasirɛ ai nɔɔ, ama i nta laapaa au yuuni, nei zɛ vi gbete kopiya yɛ kpaayɛ pɛ.<verse eid="MRK 15:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 15:25" />Soja i ɓaa Yesɔ a laa si dɔɔɗa ntatɛ mangnɛ̃ɛ̃ shɔ gadii. <verse eid="MRK 15:25" /><verse number="26" style="v" sid="MRK 15:26" />Ruu kɔ̃linɛ gbete shɔ bee ayuu nɛ pɛliyɛː KPATI YAHUDAWAYI. <verse eid="MRK 15:26" /><verse number="27" style="v" sid="MRK 15:27" />Sojayi i ɓaa Yesɔ naa laa a ɓɔɔyini ziti gbete a Yesɔ nakɨn wɔɔ au nagãng. <verse eid="MRK 15:27" /><verse number="28" style="v" sid="MRK 15:28" />(Shomkɔ yisinya vigbete shɔ ɓee a Ɗalapa nya ruubii ɔ̃ nizɛ nɛ, &lt;&lt;Shɔ gau tɛttɔ atette shɔ ruuvinini.&gt;&gt;) <verse eid="MRK 15:28" /><verse number="29" style="v" sid="MRK 15:29" />Shɔgbete tɛri a nyabauyɛ, i ɗɔgbete ãri Yesɔ nya, i zɨnti yuu i shanɛ, &lt;&lt; Ahaǃ shɔgbete a ɓaanɛ nɛn zɨnli jaa Ɗa a maa sɔ̃n a lee taati, <verse eid="MRK 15:29" /><verse number="30" style="v" sid="MRK 15:30" />Nɔnɛ ayuu laauni a Raa a yuurɛǃ&gt;&gt; <verse eid="MRK 15:30" /><verse number="31" style="v" sid="MRK 15:31" />Jinankɔ yupɛ̃ni nyanwaanɛ jaa Ɗa a shɔmala nya ãsinɛ i ãri Yesɔ sɔ̃njo i shanɛ, &lt;&lt;Raa shɔwɔyi tɛ, ama ji zɛu nɔɔ yuu raanɛ ɓaǃ <verse eid="MRK 15:31" /><verse number="32" style="v" sid="MRK 15:32" />U zɛ Kirisi kpati Isireila pɛ, nɔnɛ yuu laauni dɔdɔrim, u kɛ zɛnɛ nɔtɛ u yɛ ã sisɨntɔ au biini!&gt;&gt;Ɓɔɔyi gbete shɔ ɓau naa laa a wuniyɛ i ɗãu sɔ̃njo.<verse eid="MRK 15:32" /></para>
+  <para style="s1">Yesɔ vɔnɛ</para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 15:33" />Atette niti ɗɔkɨnri kuki tipiu piti kpai yɛnɛ ɗarɛ. <verse eid="MRK 15:33" /><verse number="34" style="v" sid="MRK 15:34" />Aɗagbete si dɔɔɗa ntatɛ mangnɛ̃ɛ̃ Yesɔ ɗee nya a kakani a shanɛ, &lt;&lt;Eloi, Eloi, lama sabatani? &gt;&gt; Ukɔ ɔ̃rɛ nɛ,&lt;&lt;N Ɗalapa, n Ɗalapa a risin knti pi ruu iviya?&gt;&gt; <verse eid="MRK 15:34" /><verse number="35" style="v" sid="MRK 15:35" />Shɔgbete i shi a ɗɔu i nta nam i shanɛ, &lt;&lt;Ɔ weshopɛ kɛ ɓaa Iliya nya nɛ.&gt;&gt; <verse eid="MRK 15:35" /><verse number="36" style="v" sid="MRK 15:36" />Shɔzɛ gbete ai tetteni yurɛ tuu soso a lu mii gbari, ma sosou a labaa, a ã Yesɔ nɛu ɓoonɛ, a shanɛ, &lt;&lt;Ɔ yaupɛ u zɛpɛ ko Iliya yɛ nɔsiu kati ayuu laauni ya?&gt;&gt; <verse eid="MRK 15:36" /><verse number="37" style="v" sid="MRK 15:37" />Kɛɗɔn Yesɔ sɨn-nyavɔ a kakani a vɔrɛ. <verse eid="MRK 15:37" /><verse number="38" style="v" sid="MRK 15:38" />Fãrã nyajaa wɛrɛ Ɗa ntáá ɗɔɔ ziti gaa apaa ahãsi adi. <verse eid="MRK 15:38" /><verse number="39" style="v" sid="MRK 15:39" />Yupɛ̃ni soja au si ɗɔuniyɛ zɛ nɔgbete Yesɔ vɔɔyɛ, a shanɛ, &lt;&lt;Nizɛ kɔ jam upɛ Ɗa jaa kɔ!&gt;&gt; <verse eid="MRK 15:39" /><verse number="40" style="v" sid="MRK 15:40" />Suu gãsiyi i shii aɗɔ kpɛlɛ i ɗɔɔ zɛnɛ, atette si Mariyamu suu magdala a Mariyamu Yakubu wujaa ɓini a Yusufu ɓɛzɔ̃ wujaa wɔsɔ̃n Salomi. <verse eid="MRK 15:40" /><verse number="41" style="v" sid="MRK 15:41" />Ikɔyi suu gbete i gɨn Yesɔ adɔɔ, a ɗagbete Yesɔ u si Galili yɛ, i sã Yesɔ tɔ naka-ziti. suu gãsi waanɛ gbete i gɨu adɔɔ yɛnɛ Urushalima.<verse eid="MRK 15:41" /></para>
+  <para style="s1">Nogbete shɔ gbã Yesɔ yɛ</para>
+  <para style="p">
+    <verse number="42" style="v" sid="MRK 15:42" />Vim piti kpai pɛli adii gbete shɔ mabii shɔ to lee susunɛ, si ɗaɗɗarɛ pɛlitɛ māāni. <verse eid="MRK 15:42" /><verse number="43" style="v" sid="MRK 15:43" />Yusufu shɔ Arimatiya upɛ shɔ tɔ̃vɨn atette shɔpẽni gbete shɔ ntau nyatɔ a tipiuni yɛ, ji nta seti ɓa, yɛ Bilatu ɗɔbii nɛu yasin nyaba nɛn tuu Yesɔ vɔrɔ pɛ, Yusufu u si ɗɔɔ ganɛ nɛn zɛ leegbete Ɗa roo kpati yɛ. <verse eid="MRK 15:43" /><verse number="44" style="v" sid="MRK 15:44" />Viu ã Bilatu vibii zaanɛ, ji ã sisɨn ɓa nɛ Yesɔ vɔtɛ ɓa, a ɓaa yupɛ̃ni soja nya a hɨunɛ, Yesɔ vɔɔ siji tɛ̃ɛ̃-tɛ̃ɛ̃ ya? <verse eid="MRK 15:44" /><verse number="45" style="v" sid="MRK 15:45" />Naa Bilatu ntatɛ a yupɛ̃ni soja nya nɛ Yesɔ vɔtɛ, kɛɗɔn Bilatu geli Yusufu nɛ yɛnɛ atu vɔrɔ rɛ. <verse eid="MRK 15:45" /><verse number="46" style="v" sid="MRK 15:46" />Yusufu woo làá vɔrɔ gbãnɛ gbete shɔ ɓaunɛ lili, kɛɗɔn Yusufu nɔsi Yesɔ birɛ ayuu laani a kukirɛ a làáuni, a gbã a sàà gbete shɔ gbã agogo tari yɛ, a giri tari a kunya sàà u awuni. <verse eid="MRK 15:46" /><verse number="47" style="v" sid="MRK 15:47" />Mariyamu suu magdala a Mariyamu Yusufu ɓini isi ɗɔuni nɛi zɛ ɗɔgbete shɔ gbã Yesɔ pɛ.<verse eid="MRK 15:47" /></para>
+  <chapter eid="MRK 15" />
+  <chapter number="16" style="c" sid="MRK 16" />
+  <para style="s1">Yesɔ yunɛ sàà</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 16:1" />Akɨnti lee susunɛ a ɗadarɛ Mariyamu suu magdala a Mariyamu Yakubu ɓini wɔsɔ̃n Salomi i yurɛ i woo nɔɔ sũrũ-sũrũ aru nɛi pmri Yesɔ abi: <verse eid="MRK 16:1" /><verse number="2" style="v" sid="MRK 16:2" />A gadi zɨɨnkɔ alee susunɛ aɗagbete ɗa shɛyɛ i yɛ saau rɛ. <verse eid="MRK 16:2" /><verse number="3" style="v" sid="MRK 16:3" />A nyaba yɛnɛ saau i hɨ zɔnɛ,&lt;&lt;piyɛ giriu tari pi a nyɛ saau ni piya?&gt;&gt;<verse eid="MRK 16:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 16:4" />Naa i ɗee nɔɔtɛ i zɛrɛ shɔ giri tariutɛ kagbete, si tari pẽniɓa. <verse eid="MRK 16:4" /><verse number="5" style="v" sid="MRK 16:5" />Naa i to yusààutɛ i zɛ jakasa wɔɔ ɔ̃tɛ kagbete a fãrã puru a yusàà, kɛɗɔn i zaa kpak-kpak.<verse eid="MRK 16:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 16:6" />Ama, ɗajashonɛlapa geliyi nɛ, &lt;&lt; Ɔkɔɔ zaanɛ n zɛtɛtɔ ɔ kã Yesɔ shɔ nazara gbete shɔ ɓau naa a laa yɛ, u ɓa ɗɔni ɓa, yulapatɛǃ nɔgbete shayɛ, ɔ kɨnnɔɔ nɛ ɗɔgbete shɔ yɔu ɗɔn yɛm. <verse eid="MRK 16:6" /><verse number="7" style="v" sid="MRK 16:7" />Dɔdɔrim ɔ yɛnɛ ɔ geli Yesɔ jaɗɔyi a Bituru ni nɛ yulapatɛ, ɔ yɛ kpau awɔ ɗekɨn yɛnɛ tipi Urushalima, ɔ zɛu aɗɔwakɔ nɔgbete shayɛ.&gt;&gt;<verse eid="MRK 16:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="MRK 16:8" />Kɛɗɔn suuwiyi shɛ a yuààu a yunɛ, i bi ɗɔɔ zaanɛ i sisɨn ji roo ɓa. I ji geli shɔwɔɔ ɓa aru gbete seti sãyitɔ.<verse eid="MRK 16:8" /></para>
+  <para style="s1">Yesɔ shɛ a Mariyamu suu Magdala bi</para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 16:9" />Akɨnti gbete Yesɔ yulapa a sàà shɔgbete gaa Yesɔ zɛnɛ pɛ Mariyamu suu magdala, suu gbete Yesɔ shɛshiu rãman maanzii a bi yɛ. <verse eid="MRK 16:9" /><verse number="10" style="v" sid="MRK 16:10" />Mariyamu suu magdala yɛ Yesɔ jaɗɔyi ɗɔbii a kpai a ɗɔɔ lɛrinɛ a sɨnɛni. <verse eid="MRK 16:10" /><verse number="11" style="v" sid="MRK 16:11" />Ama naa Mariyamu suu magdala geli Yesɔ jaɗɔyi tɛ nɛn zɛ Yesɔ tɛ ang nɔɔ ni, iji ã sisɨn ɓa au nyani ɓa.<verse eid="MRK 16:11" /></para>
+  <para style="s1">Yesɔ shɛ au jaɗɔyi ziti ɗekɨn</para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 16:12" />A kɨnti ni Yesɔ shɛ au jadɔyi ziti bi a nyaba tot-tot, aɗagbete i si nyaba tipi Urushalima yɛnɛ. <verse eid="MRK 16:12" /><verse number="13" style="v" sid="MRK 16:13" />Kɛɗɔn i sɔrɛ a geli zɔ̃ gãsi rɛ, ama i ji ã sisɨn ɓa ai nyani ɓa kɔjo.<verse eid="MRK 16:13" /></para>
+  <para style="s1">Yesɔ shɛ au Jadɔyi kopi tu gbete i bi</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 16:14" />Toti Yesɔ shɛ au jadɔyi kopi tu gbete bi aɗɔgbete i si ɗɔɔ vishaanɛ, kɛɗɔn Yesɔ lasirɛ aru gbete i sisɨn ãnɛ ɓa a yulakinɛ gbete i tasiyɛ, aru i bɛ̃ɛ̃ tɔ̃vɨn ãnɛtɔ a shɔ gbete zɛ Yesɔ yutɛ suruni a sàà i nya.<verse eid="MRK 16:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="MRK 16:15" />Kɛɗɔn Yesɔ geliyi nɛ,&lt;&lt; ɔ yɛnɛ a koo piti kpai ɔ nwari shɔ n nya ruubii, <verse eid="MRK 16:15" /><verse number="16" style="v" sid="MRK 16:16" />Shɔgbete kɛ ã sisɨn nɛ ang bi nɛ shɔu pɛlin batizima shɔyɛ rautɔ, ama shɔgbete kɛ bɛ̃ɛ̃ nɛ yɛ raa naa ɓa. <verse eid="MRK 16:16" /><verse number="17" style="v" sid="MRK 16:17" />Shɔgbeteyi kɛ ã tɔ̃vɨn nɛ ang nii iyɛ pɛli vibii zaanɛ tɔ, iyɛ zɛnɔɔ rãmã shɛshinɛ tɔ ang nii ni, iyɛ zɛnɔɔ nyakoo wɔɔ nwanɛtɔ. <verse eid="MRK 16:17" /><verse number="18" style="v" sid="MRK 16:18" />I yɛ tuu sɔɔ a naa ko i ɓoo vizɔ yɛ pɛli viwɔ ɓa, i yɛ zɛnɔɔ naapɔ̃nɛtɔ a shɔvɔrɔyi bini i yɛ gatitɔ tɛ̃ɛ̃ti.&gt;&gt;<verse eid="MRK 16:18" /></para>
+  <para style="s1">Yesɔ tunɛ yɛnɛ kolapa</para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 16:19" />Akɨnti gbete Ubeyelapa yisi nyanwanɛ tɛ ayiniyɛ, kɛɗɔn Ɗalapa tuurɛ yɛnɛ kolapa a ɔ̃ a au nakɨn. <verse eid="MRK 16:19" /><verse number="20" style="v" sid="MRK 16:20" />Kɛɗɔn Yesɔ jadɔyi i yɛ ko piɗɔpiya a koo i ɗɔgbete i nwari shɔ Ɗalapa nya ruubii yɛ, Ubeyelapa u si ayini, i ɗɔgbete i pɛli vibii zaanɛ gbete Yesɔ ãi kaka nɛi pɛliyɛ.<verse eid="MRK 16:20" /></para>
+  <chapter eid="MRK 16" />
+</usx>

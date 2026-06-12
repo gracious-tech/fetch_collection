@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
+  <book code="SNG" style="id" />
+  <para style="ide">UTF-8</para>
+  <para style="h">ഉത്തമഗീതം</para>
+  <para style="toc1">ഉത്തമഗീതം</para>
+  <para style="toc2">ഉത്ത.</para>
+  <para style="toc3">ഉത്ത.</para>
+  <para style="mt">ഉത്തമഗീതം</para>
+  <para style="is">ഗ്രന്ഥകര്‍ത്താവ്</para>
+  <para style="ip">ഈ പുസ്തകത്തിന്‍റെ പേര് അതിന്‍റെ ഒന്നാം അദ്ധ്യായത്തിലെ ഒന്നാമത്തെ വാക്യത്തിൽ നിന്നാണ് എടുത്തിട്ടുള്ളത് ശലോമോന്‍റെ ഉത്തമഗീതം 1:1. ശലോമോന്‍ രാജാവിന്‍റെ പേര് ഈ പുസ്തകത്തിലെ പലഭാഗങ്ങളിലും പരാമർശിക്കപ്പെട്ടിട്ടുണ്ട് (ഉത്ത 1:5; 3:7, 9, 11; 8:11-12).</para>
+  <para style="is">എഴുതപ്പെട്ട കാലഘട്ടവും സ്ഥലവും</para>
+  <para style="ip">ഏകദേശം ക്രി. മു. 971-965.</para>
+  <para style="ip">ശലോമോൻ യിസ്രായേലിന്‍റെ രാജാവായി ഭരിക്കുന്ന കാലത്താണ് ഈ പുസ്തകം രചിച്ചത്. ഈ കൃതിയിലെ യൗവ്വന മോഹങ്ങളുടെ ബാഹുല്യം കാരണം തന്‍റെ ഭരണത്തിന്‍റെ ആദ്യഘട്ടങ്ങളിലാണ് ഇതിന്‍റെ രചന നടന്നത് എന്നാണു പണ്ഡിതരുടെ അഭിപ്രായം. അതുമാത്രമല്ല എഴുത്തുകാരൻ സ്ഥലങ്ങളെ കുറിച്ചുള്ള പരാമർശം നടത്തുമ്പോൾ അതായത് ലബനോന്‍ മിസ്രയീം എന്നർത്ഥത്തിൽ വടക്ക് തെക്ക് എന്ന സംജ്ഞകളാണ് ഉപയോഗിച്ചിട്ടുള്ളത്.</para>
+  <para style="is">സ്വീകര്‍ത്താക്കള്‍</para>
+  <para style="ip">വിവാഹിതരായവർക്കും വിവാഹത്തിനുവേണ്ടി ആഗ്രഹിക്കുന്നവർക്കും.</para>
+  <para style="is">ഉദ്ദേശ്യം</para>
+  <para style="ip">ശലമോന്‍റെ ഉത്തമഗീതം ഒരു ഭാവാത്മകമായ കവിതയാണ്. പ്രധാനമായും പ്രണയത്തിന്‍റെ മാഹാത്മ്യവും അതുപോലെ വിവാഹമെന്ന സംവിധാനം ദൈവത്തിന്‍റെ രൂപകൽപന ആണെന്നുമുള്ള ആശയമാണ് ഇതില്‍ ഉദ്ധരിക്കുന്നത്. ഒരു സ്ത്രീയെയും പുരുഷനെയും ശാരീരികമായും ആത്മീയമായും വൈകാരികമായും പരസ്പര സ്നേഹത്തില്‍ ഒന്നിച്ച് ചേർക്കുന്ന ഉടമ്പടിയാണ് വിവാഹം.</para>
+  <para style="is">പ്രമേയം</para>
+  <para style="ip">സ്നേഹവും, വിവാഹവും</para>
+  <para style="iot">സംക്ഷേപം</para>
+  <para style="io1">1. മണവാട്ടി ശലോമോനെ കുറിച്ച് ചിന്തിക്കുന്നു — 1:1-3:5</para>
+  <para style="io1">2. വിവാഹനിശ്ചയത്തിലേക്ക് മണവാട്ടിയുടെ സ്വീകാര്യതയും വിവാഹത്തിനായുള്ള കാത്തിരിപ്പും — 3:6-5:1</para>
+  <para style="io1">3. മണവാളനെ നഷ്ടപ്പെടുന്നതായി യുവതി സ്വപ്നം കാണുന്നു — 5:2-6:3</para>
+  <para style="io1">4. മണവാളനും മണവാട്ടിയും പരസ്പരം ശ്ലാഘിക്കുന്നു — 6:4-8:14</para>
+  <chapter number="1" style="c" sid="SNG 1" />
+  <para style="p">
+    <verse number="1" style="v" sid="SNG 1:1" />ശലോമോന്‍റെ ഉത്തമഗീതം.<verse eid="SNG 1:1" /></para>
+  <para style="s">മണവാട്ടി</para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="2" style="v" sid="SNG 1:2" />നീ നിന്‍റെ<note caller="+" style="f"><char style="fr" closed="false">1:2 </char><char style="fq" closed="false">നീ നിന്‍റെ </char><char style="ft" closed="false">അവന്‍ അവന്‍റെ</char></note> അധരങ്ങളാൽ എന്നെ ചുംബിക്കട്ടെ;</para>
+  <para style="q2" vid="SNG 1:2">നിന്‍റെ പ്രേമം വീഞ്ഞിലും മേന്മയേറിയത്.<verse eid="SNG 1:2" /></para>
+  <para style="q1">
+    <verse number="3" style="v" sid="SNG 1:3" />നിന്‍റെ തൈലം സുഗന്ധം പരത്തുന്നു;</para>
+  <para style="q2" vid="SNG 1:3">നിന്‍റെ നാമം പകർന്ന തൈലംപോലെ ഇരിക്കുന്നു;</para>
+  <para style="q2" vid="SNG 1:3">അതുകൊണ്ട് കന്യകമാർ നിന്നെ സ്നേഹിക്കുന്നു.<verse eid="SNG 1:3" /></para>
+  <para style="q1">
+    <verse number="4" style="v" sid="SNG 1:4" />നിന്‍റെ പിന്നാലെ എന്നെ കൊണ്ടുപോകുക; നാം ഓടിപ്പോകുക;</para>
+  <para style="q2" vid="SNG 1:4">രാജാവ് എന്നെ പള്ളിയറയിലേക്ക് കൊണ്ടുവന്നിരിക്കുന്നു;</para>
+  <para style="q1" vid="SNG 1:4">ഞങ്ങൾ നിന്നിൽ ഉല്ലസിച്ചാനന്ദിക്കും;</para>
+  <para style="q2" vid="SNG 1:4">നിന്‍റെ പ്രേമത്തെ വീഞ്ഞിനെക്കാൾ പ്രശംസിക്കും;</para>
+  <para style="q2" vid="SNG 1:4">നിന്നെ സ്നേഹിക്കുന്നത് ഉചിതം തന്നെ.<verse eid="SNG 1:4" /></para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="5" style="v" sid="SNG 1:5" />യെരൂശലേം പുത്രിമാരേ, ഞാൻ കറുത്തവൾ എങ്കിലും</para>
+  <para style="q2" vid="SNG 1:5">കേദാര്യ<note caller="+" style="f"><char style="fr" closed="false">1:5 </char><char style="fq" closed="false">കേദാര്യ </char><char style="ft" closed="false">കേദാര്‍-അറേബ്യയുമായി ബന്ധപ്പെട്ടു കിടക്കുന്ന യിശ്മായേല്യഗോത്രങ്ങളില്‍ ഒന്ന്. അവര്‍ സാധാരണയായി കറുത്ത കൂടാരങ്ങളില്‍ ആണ് വസിച്ചിരുന്നത്. അതുകൊണ്ട് കേദാര്‍ എന്നാല്‍ യുവതിയായ സ്ത്രീയുടെ കറുത്ത തൊലി എന്നര്‍ത്ഥമാക്കുന്നു. ഉല്പത്തി 25:13, യെശയ്യാവ് 21:16-17, സങ്കീര്‍ത്തനം 120:5 നോക്കുക. </char></note>കൂടാരങ്ങളെപ്പോലെയും</para>
+  <para style="q2" vid="SNG 1:5">ശലോമോന്‍റെ തിരശ്ശീലകളെപ്പോലെയും അഴകുള്ളവൾ ആകുന്നു.<verse eid="SNG 1:5" /></para>
+  <para style="q1">
+    <verse number="6" style="v" sid="SNG 1:6" />എനിക്ക് ഇരുൾനിറം ആയതിനാലും,</para>
+  <para style="q1" vid="SNG 1:6">ഞാൻ വെയിൽകൊണ്ട് കറുത്തിരിക്കുകയാലും എന്നെ തുറിച്ചുനോക്കരുത്.</para>
+  <para style="q1" vid="SNG 1:6">എന്‍റെ സഹോദരന്‍മാര്‍ എന്നോട് കോപിച്ചു,</para>
+  <para style="q2" vid="SNG 1:6">എന്നെ മുന്തിരിത്തോട്ടങ്ങൾക്ക് കാവലാക്കി;</para>
+  <para style="q2" vid="SNG 1:6">എന്‍റെ സ്വന്തം മുന്തിരിത്തോട്ടം<note caller="+" style="f"><char style="fr" closed="false">1:6 </char><char style="fq" closed="false">മുന്തിരിത്തോട്ടം </char><char style="ft" closed="false">മുന്തിരിത്തോട്ടം എന്നത് കൊണ്ടു അര്‍ത്ഥമാക്കുന്നത് യുവതിയായ സ്ത്രീയെയാണ്</char></note> ഞാൻ കാത്തിട്ടുമില്ല.<verse eid="SNG 1:6" /></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="SNG 1:7" />എന്‍റെ പ്രാണപ്രിയനേ, പറഞ്ഞുതരുക:</para>
+  <para style="q2" vid="SNG 1:7">നീ ആടുകളെ മേയിക്കുന്നത് എവിടെ?</para>
+  <para style="q1" vid="SNG 1:7">ഉച്ചയ്ക്ക് കിടത്തുന്നത് എവിടെ?</para>
+  <para style="q2" vid="SNG 1:7">നിന്‍റെ ചങ്ങാതിമാരുടെ ആട്ടിൻ കൂട്ടങ്ങൾക്കരികിൽ</para>
+  <para style="q2" vid="SNG 1:7">ഞാൻ അലഞ്ഞു തിരിയുന്നവളെപ്പോലെ<note caller="+" style="f"><char style="fr" closed="false">1:7 </char><char style="fq" closed="false">അലഞ്ഞു തിരിയുന്നവളെപ്പോലെ </char><char style="ft" closed="false">ഞാൻ മുഖം മൂടിയവളെപ്പോലെ </char></note> ഇരിക്കുന്നത് എന്തിന്?<verse eid="SNG 1:7" /></para>
+  <para style="s">മണവാളൻ</para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="8" style="v" sid="SNG 1:8" />സ്ത്രീകളിൽ അതിസുന്ദരിയേ, നീ അറിയുന്നില്ലെങ്കിൽ</para>
+  <para style="q2" vid="SNG 1:8">ആടുകളുടെ കാൽച്ചുവട് പിന്തുടർന്ന്</para>
+  <para style="q1" vid="SNG 1:8">ഇടയന്മാരുടെ കൂടാരങ്ങളുടെ അരികിൽ</para>
+  <para style="q2" vid="SNG 1:8">നിന്‍റെ കുഞ്ഞാടുകളെ മേയിക്കുക.<verse eid="SNG 1:8" /></para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="9" style="v" sid="SNG 1:9" />എന്‍റെ പ്രിയേ, ഫറവോന്‍റെ രഥത്തിന് കെട്ടുന്ന</para>
+  <para style="q2" vid="SNG 1:9">പെൺകുതിരയോട് ഞാൻ നിന്നെ ഉപമിക്കുന്നു.<verse eid="SNG 1:9" /></para>
+  <para style="q1">
+    <verse number="10" style="v" sid="SNG 1:10" />നിന്‍റെ കവിൾത്തടങ്ങൾ രത്നാഭരണങ്ങൾകൊണ്ടും</para>
+  <para style="q2" vid="SNG 1:10">നിന്‍റെ കഴുത്ത് മുത്തുമാലകൊണ്ടും ശോഭിച്ചിരിക്കുന്നു.<verse eid="SNG 1:10" /></para>
+  <para style="q1">
+    <verse number="11" style="v" sid="SNG 1:11" />ഞങ്ങൾ നിനക്കു വെള്ളിമണികളോടു കൂടിയ</para>
+  <para style="q2" vid="SNG 1:11">സുവർണ്ണസരപ്പളിമാല ഉണ്ടാക്കിത്തരാം.<verse eid="SNG 1:11" /></para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="12" style="v" sid="SNG 1:12" />രാജാവ് ഭക്ഷണത്തിനിരിക്കുമ്പോൾ<note caller="+" style="f"><char style="fr" closed="false">1:12 </char><char style="fq" closed="false">രാജാവ് ഭക്ഷണത്തിനിരിക്കുമ്പോൾ </char><char style="ft" closed="false">രാജാവ് തന്‍റെ കട്ടിലിന്‍മേല്‍ ഇരിക്കുമ്പോള്‍</char></note></para>
+  <para style="q2" vid="SNG 1:12">എന്‍റെ ജടാമാംസി സുഗന്ധം പുറപ്പെടുവിക്കുന്നു.<verse eid="SNG 1:12" /></para>
+  <para style="q1">
+    <verse number="13" style="v" sid="SNG 1:13" />എന്‍റെ പ്രിയൻ എനിക്ക് സ്തനങ്ങളുടെ മദ്ധ്യേ</para>
+  <para style="q2" vid="SNG 1:13">കിടക്കുന്ന മൂറിൻ കെട്ടുപോലെയാകുന്നു.<verse eid="SNG 1:13" /></para>
+  <para style="q1">
+    <verse number="14" style="v" sid="SNG 1:14" />എന്‍റെ പ്രിയൻ എനിക്ക് ഏൻഗെദി <note caller="+" style="f"><char style="fr" closed="false">1:14 </char><char style="fq" closed="false">ഏൻഗെദി </char><char style="ft" closed="false">ഏൻ-ഗെദി ചാവുകടലിന്‍റെ തെക്ക്പടിഞ്ഞാറ് തീരങ്ങളില്‍ കാണപ്പെട്ടുവരുന്ന മരുപ്പച്ച. വെള്ളത്തിന്‍റെ ഉറവ് ഉള്ളതുകൊണ്ട് ഫലഭൂയിഷ്ടമായ ഒരു സ്ഥലമായിരുന്നു </char></note>മുന്തിരിത്തോട്ടങ്ങളിലെ</para>
+  <para style="q2" vid="SNG 1:14">മയിലാഞ്ചിപ്പൂക്കുലപോലെ ഇരിക്കുന്നു.<verse eid="SNG 1:14" /></para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="15" style="v" sid="SNG 1:15" />എന്‍റെ പ്രിയേ, നീ സുന്ദരി, നീ സുന്ദരി തന്നെ;</para>
+  <para style="q2" vid="SNG 1:15">നിന്‍റെ കണ്ണ് പ്രാവിന്‍റെ കണ്ണുപോലെ ഇരിക്കുന്നു.<verse eid="SNG 1:15" /></para>
+  <para style="q1">
+    <verse number="16" style="v" sid="SNG 1:16" />എന്‍റെ പ്രിയനേ, നീ സുന്ദരൻ, നീ മനോഹരൻ;</para>
+  <para style="q2" vid="SNG 1:16">നമ്മുടെ കിടക്കയും പച്ചയാകുന്നു.<verse eid="SNG 1:16" /></para>
+  <para style="q1">
+    <verse number="17" style="v" sid="SNG 1:17" />നമ്മുടെ വീടിന്‍റെ ഉത്തരം ദേവദാരുവും</para>
+  <para style="q2" vid="SNG 1:17">കഴുക്കോൽ സരളവൃക്ഷവും ആകുന്നു.<verse eid="SNG 1:17" /></para>
+  <chapter eid="SNG 1" />
+  <chapter number="2" style="c" sid="SNG 2" />
+  <para style="b" />
+  <para style="s">മണവാട്ടി</para>
+  <para style="q1">
+    <verse number="1" style="v" sid="SNG 2:1" />ഞാൻ ശാരോനിലെ<note caller="+" style="f"><char style="fr" closed="false">2:1 </char><char style="fq" closed="false">ശാരോനിലെ </char><char style="ft" closed="false">ശാരോന്‍ യിസ്രായേലിന്‍റെ ഒരു പ്രവിശ്യയും മധ്യധരണിതീരത്തോട് അടുത്തു കിടക്കുന്നതുമായ ഒരു സ്ഥലം. ഓക്ക്മരങ്ങളാല്‍ നിറയപ്പെട്ട പ്രദേശം. യെശയ്യാവു 35:2; 65:10 നോക്കുക. </char></note> പനിനീർപുഷ്പവും</para>
+  <para style="q2" vid="SNG 2:1">താഴ്വരകളിലെ താമരപ്പൂവും ആകുന്നു.<verse eid="SNG 2:1" /></para>
+  <para style="s">മണവാളൻ</para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="2" style="v" sid="SNG 2:2" />മുള്ളുകളുടെ ഇടയിൽ താമരപോലെ</para>
+  <para style="q2" vid="SNG 2:2">കന്യകമാരുടെ ഇടയിൽ എന്‍റെ പ്രിയ ഇരിക്കുന്നു.<verse eid="SNG 2:2" /></para>
+  <para style="s">മണവാട്ടി</para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="3" style="v" sid="SNG 2:3" />കാട്ടുമരങ്ങളുടെ ഇടയിൽ ഒരു നാരകംപോലെ</para>
+  <para style="q2" vid="SNG 2:3">യൗവനക്കാരുടെ ഇടയിൽ എന്‍റെ പ്രിയൻ ഇരിക്കുന്നു;</para>
+  <para style="q1" vid="SNG 2:3">അതിന്‍റെ നിഴലിൽ ഞാൻ ആനന്ദത്തോടെ ഇരുന്നു;</para>
+  <para style="q2" vid="SNG 2:3">അതിന്‍റെ പഴം എന്‍റെ നാവിന് മധുരമായിരുന്നു.<verse eid="SNG 2:3" /></para>
+  <para style="q1">
+    <verse number="4" style="v" sid="SNG 2:4" />അവൻ എന്നെ വീഞ്ഞുവീട്ടിലേക്ക് കൂട്ടിക്കൊണ്ടുവന്നു;</para>
+  <para style="q2" vid="SNG 2:4">എന്‍റെ മീതെ അവൻ പിടിച്ചിരുന്ന കൊടി സ്നേഹമായിരുന്നു.<verse eid="SNG 2:4" /></para>
+  <para style="q1">
+    <verse number="5" style="v" sid="SNG 2:5" />ഞാൻ പ്രേമവിവശയായിരിക്കുകയാൽ</para>
+  <para style="q2" vid="SNG 2:5">മുന്തിരിയട തന്ന് എന്നെ ശക്തീകരിക്കുവിൻ;</para>
+  <para style="q2" vid="SNG 2:5">നാരങ്ങാ തന്ന് എന്നെ തണുപ്പിക്കുവിൻ.<verse eid="SNG 2:5" /></para>
+  <para style="q1">
+    <verse number="6" style="v" sid="SNG 2:6" />അവന്‍റെ ഇടംകൈ എന്‍റെ തലയിൻ കീഴിൽ ഇരിക്കട്ടെ;</para>
+  <para style="q2" vid="SNG 2:6">അവന്‍റെ വലംകൈ എന്നെ ആശ്ലേഷിക്കട്ടെ.<verse eid="SNG 2:6" /></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="SNG 2:7" />യെരൂശലേം പുത്രിമാരേ, വയലിലെ ചെറുമാനുകളാണ, പേടമാനുകളാണ,</para>
+  <para style="q2" vid="SNG 2:7">പ്രേമത്തിന് ഇഷ്ടമാകുവോളം</para>
+  <para style="q2" vid="SNG 2:7">അതിനെ ഇളക്കരുത്, ഉണർത്തുകയുമരുത്.<verse eid="SNG 2:7" /></para>
+  <para style="s">ഗീതം രണ്ട്</para>
+  <para style="b" />
+  <para style="s">മണവാട്ടി</para>
+  <para style="q1">
+    <verse number="8" style="v" sid="SNG 2:8" />അതാ, എന്‍റെ പ്രിയന്‍റെ സ്വരം!</para>
+  <para style="q2" vid="SNG 2:8">അവൻ മലകളിന്മേൽ ചാടിയും</para>
+  <para style="q2" vid="SNG 2:8">കുന്നുകളിന്മേൽ കുതിച്ചുംകൊണ്ട് വരുന്നു.<verse eid="SNG 2:8" /></para>
+  <para style="q1">
+    <verse number="9" style="v" sid="SNG 2:9" />എന്‍റെ പ്രിയൻ ചെറുമാനിനും കലമാൻകുട്ടിക്കും തുല്യൻ;</para>
+  <para style="q2" vid="SNG 2:9">ഇതാ, അവൻ നമ്മുടെ മതിലിന് പുറമേ നില്ക്കുന്നു;</para>
+  <para style="q1" vid="SNG 2:9">അവൻ കിളിവാതിലിലൂടെ നോക്കുന്നു;</para>
+  <para style="q2" vid="SNG 2:9">അഴിക്കിടയിൽകൂടി ഒളിഞ്ഞുനോക്കുന്നു.<verse eid="SNG 2:9" /></para>
+  <para style="q1">
+    <verse number="10" style="v" sid="SNG 2:10" />എന്‍റെ പ്രിയൻ എന്നോട് പറഞ്ഞത്:</para>
+  <para style="q2" vid="SNG 2:10">“എന്‍റെ പ്രിയേ, എഴുന്നേല്ക്കുക;</para>
+  <para style="q2" vid="SNG 2:10">എന്‍റെ സുന്ദരീ, വരിക.<verse eid="SNG 2:10" /></para>
+  <para style="q1">
+    <verse number="11" style="v" sid="SNG 2:11" />ശീതകാലം കഴിഞ്ഞു;</para>
+  <para style="q2" vid="SNG 2:11">മഴയും മാറിപ്പോയല്ലോ.<verse eid="SNG 2:11" /></para>
+  <para style="q1">
+    <verse number="12" style="v" sid="SNG 2:12" />പുഷ്പങ്ങൾ ഭൂമിയിൽ കാണായ്‌വരുന്നു;</para>
+  <para style="q2" vid="SNG 2:12">വള്ളിത്തല മുറിക്കുംകാലം വന്നിരിക്കുന്നു;</para>
+  <para style="q2" vid="SNG 2:12">കുറുപ്രാവിന്‍റെ ശബ്ദവും നമ്മുടെ നാട്ടിൽ കേൾക്കുന്നു.<verse eid="SNG 2:12" /></para>
+  <para style="q1">
+    <verse number="13" style="v" sid="SNG 2:13" />അത്തിക്കായ്കൾ പഴുക്കുന്നു;</para>
+  <para style="q2" vid="SNG 2:13">മുന്തിരിവള്ളി പൂത്ത് സുഗന്ധം വീശുന്നു;</para>
+  <para style="q1" vid="SNG 2:13">എന്‍റെ പ്രിയേ, എഴുന്നേല്ക്കുക;</para>
+  <para style="q2" vid="SNG 2:13">എന്‍റെ സുന്ദരീ, വരിക.<verse eid="SNG 2:13" /></para>
+  <para style="q1">
+    <verse number="14" style="v" sid="SNG 2:14" />പാറയുടെ പിളർപ്പിലും</para>
+  <para style="q2" vid="SNG 2:14">പർവ്വതച്ചരിവിന്‍റെ മറവിലും ഇരിക്കുന്ന എന്‍റെ പ്രാവേ,</para>
+  <para style="q1" vid="SNG 2:14">ഞാൻ നിന്‍റെ മുഖം ഒന്നു കാണട്ടെ;</para>
+  <para style="q2" vid="SNG 2:14">നിന്‍റെ സ്വരം ഒന്നു കേൾക്കട്ടെ;</para>
+  <para style="q1" vid="SNG 2:14">നിന്‍റെ സ്വരം ഇമ്പമുള്ളതും</para>
+  <para style="q2" vid="SNG 2:14">മുഖം സൗന്ദര്യമുള്ളതും ആകുന്നു.<verse eid="SNG 2:14" /></para>
+  <para style="q1">
+    <verse number="15" style="v" sid="SNG 2:15" />ഞങ്ങളുടെ മുന്തിരിത്തോട്ടങ്ങൾ പൂത്തിരിക്കുകയാൽ</para>
+  <para style="q2" vid="SNG 2:15">മുന്തിരിവള്ളി നശിപ്പിക്കുന്ന</para>
+  <para style="q1" vid="SNG 2:15">കുറുക്കന്മാരെ, ചെറുകുറുക്കന്മാരെത്തന്നെ<note caller="+" style="f"><char style="fr" closed="false">2:15 </char><char style="fq" closed="false">ചെറുകുറുക്കന്മാരെത്തന്നെ </char><char style="ft" closed="false">യുവതിയായ സ്ത്രീയുടെ സ്നേഹം ലഭിക്കുവാന്‍ വേണ്ടി മത്സരിക്കുന്ന മറ്റ് ചെറുപ്പക്കാരെയാണ് ചെറു കുറുക്കന്മാര്‍ എന്നത് കൊണ്ടു അര്‍ത്ഥമാക്കുന്നത് </char></note></para>
+  <para style="q2" vid="SNG 2:15">പിടിച്ചുതരുവിൻ.“<verse eid="SNG 2:15" /></para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="16" style="v" sid="SNG 2:16" />എന്‍റെ പ്രിയൻ എനിക്കുള്ളവൻ; ഞാൻ അവനുള്ളവൾ;</para>
+  <para style="q2" vid="SNG 2:16">അവൻ താമരകളുടെ ഇടയിൽ ആടുമേയ്ക്കുന്നു.<verse eid="SNG 2:16" /></para>
+  <para style="q1">
+    <verse number="17" style="v" sid="SNG 2:17" />വെയിലാറി, നിഴൽ കാണാതെയാകുവോളം,</para>
+  <para style="q2" vid="SNG 2:17">എന്‍റെ പ്രിയനേ, നീ മടങ്ങിവന്ന് ദുർഘടപർവ്വതങ്ങളിലെ</para>
+  <para style="q2" vid="SNG 2:17">ചെറുമാനിനും കലമാൻകുട്ടിക്കും തുല്യനായിരിക്കുക.<verse eid="SNG 2:17" /></para>
+  <chapter eid="SNG 2" />
+  <chapter number="3" style="c" sid="SNG 3" />
+  <para style="b" />
+  <para style="q1">
+    <verse number="1" style="v" sid="SNG 3:1" />രാത്രിസമയത്ത് എന്‍റെ കിടക്കയിൽ</para>
+  <para style="q2" vid="SNG 3:1">ഞാൻ എന്‍റെ പ്രാണപ്രിയനെ അന്വേഷിച്ചു;</para>
+  <para style="q2" vid="SNG 3:1">ഞാൻ അവനെ അന്വേഷിച്ചു; കണ്ടില്ലതാനും.<verse eid="SNG 3:1" /></para>
+  <para style="q1">
+    <verse number="2" style="v" sid="SNG 3:2" />ഞാൻ എഴുന്നേറ്റ് നഗരത്തിൽ സഞ്ചരിച്ചു;</para>
+  <para style="q2" vid="SNG 3:2">“വീഥികളിലും വിശാലസ്ഥലങ്ങളിലും</para>
+  <para style="q1" vid="SNG 3:2">എന്‍റെ പ്രാണപ്രിയനെ അന്വേഷിക്കും” എന്നു ഞാൻ പറഞ്ഞു;</para>
+  <para style="q2" vid="SNG 3:2">ഞാൻ അവനെ അന്വേഷിച്ചു; കണ്ടില്ലതാനും.<verse eid="SNG 3:2" /></para>
+  <para style="q1">
+    <verse number="3" style="v" sid="SNG 3:3" />നഗരത്തിൽ സഞ്ചരിക്കുന്ന കാവല്ക്കാർ എന്നെ കണ്ടു;</para>
+  <para style="q2" vid="SNG 3:3">“എന്‍റെ പ്രാണപ്രിയനെ കണ്ടുവോ”</para>
+  <para style="q2" vid="SNG 3:3">എന്നു ഞാൻ അവരോട് ചോദിച്ചു.<verse eid="SNG 3:3" /></para>
+  <para style="q1">
+    <verse number="4" style="v" sid="SNG 3:4" />അവരെ വിട്ട് അല്പം മുന്നോട്ട് ചെന്നപ്പോൾ</para>
+  <para style="q2" vid="SNG 3:4">ഞാൻ എന്‍റെ പ്രാണപ്രിയനെ കണ്ടു.</para>
+  <para style="q1" vid="SNG 3:4">ഞാൻ അവനെ പിടിച്ച്, എന്‍റെ അമ്മയുടെ വീട്ടിലേക്കും</para>
+  <para style="q2" vid="SNG 3:4">എന്നെ പ്രസവിച്ചവളുടെ അറയിലേക്കും കൊണ്ടുവരുന്നതുവരെ അവനെ വിട്ടില്ല.<verse eid="SNG 3:4" /></para>
+  <para style="q1">
+    <verse number="5" style="v" sid="SNG 3:5" />യെരൂശലേം പുത്രിമാരേ, ചെറുമാനുകളാണ, പേടമാനുകളാണ,</para>
+  <para style="q2" vid="SNG 3:5">പ്രേമത്തിന് ഇഷ്ടമാകുവോളം അതിനെ ഇളക്കരുത് ഉണർത്തുകയുമരുത്.<verse eid="SNG 3:5" /></para>
+  <para style="s">ഗീതം മൂന്ന്</para>
+  <para style="s">മണവാട്ടി</para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="6" style="v" sid="SNG 3:6" />മൂറും കുന്തുരുക്കവും കൊണ്ടും</para>
+  <para style="q2" vid="SNG 3:6">കച്ചവടക്കാരന്‍റെ സകലവിധ സുഗന്ധചൂർണ്ണങ്ങൾകൊണ്ടും</para>
+  <para style="q1" vid="SNG 3:6">പരിമളമാക്കപ്പെട്ട പുകത്തൂൺപോലെ</para>
+  <para style="q2" vid="SNG 3:6">മരുഭൂമിയിൽനിന്ന് കയറിവരുന്നോരിവൻ ആര്‍?<verse eid="SNG 3:6" /></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="SNG 3:7" />ശലോമോന്‍റെ പല്ലക്ക് തന്നെ;</para>
+  <para style="q2" vid="SNG 3:7">യിസ്രായേൽ വീരന്മാരിൽ അറുപതു വീരന്മാർ അതിന്‍റെ ചുറ്റും ഉണ്ട്.<verse eid="SNG 3:7" /></para>
+  <para style="q1">
+    <verse number="8" style="v" sid="SNG 3:8" />അവരെല്ലാവരും വാളെടുത്ത യുദ്ധസമർത്ഥന്മാർ;</para>
+  <para style="q2" vid="SNG 3:8">രാത്രിയിലെ ഭയം നിമിത്തം ഓരോരുത്തൻ അരയ്ക്ക് വാൾ കെട്ടിയിരിക്കുന്നു.<verse eid="SNG 3:8" /></para>
+  <para style="q1">
+    <verse number="9" style="v" sid="SNG 3:9" />ശലോമോൻ രാജാവ് ലെബാനോനിലെ മരംകൊണ്ട്</para>
+  <para style="q2" vid="SNG 3:9">തനിക്കു ഒരു പല്ലക്ക് ഉണ്ടാക്കി.<verse eid="SNG 3:9" /></para>
+  <para style="q1">
+    <verse number="10" style="v" sid="SNG 3:10" />അതിന്‍റെ തൂണുകൾ അവൻ വെള്ളികൊണ്ടും</para>
+  <para style="q2" vid="SNG 3:10">ചാര് പൊന്നുകൊണ്ടും ഇരിപ്പിടം രക്താംബരംകൊണ്ടും ഉണ്ടാക്കി;</para>
+  <para style="q1" vid="SNG 3:10">അതിന്‍റെ അന്തർഭാഗം യെരൂശലേംപുത്രിമാരുടെ പ്രേമംകൊണ്ട്</para>
+  <para style="q2" vid="SNG 3:10">ചിത്രലിഖിതമായിരിക്കുന്നു.<verse eid="SNG 3:10" /></para>
+  <para style="q1">
+    <verse number="11" style="v" sid="SNG 3:11" />സീയോൻ പുത്രിമാരേ, നിങ്ങൾ പുറപ്പെട്ടു ചെന്നു</para>
+  <para style="q2" vid="SNG 3:11">ശലോമോൻരാജാവിനെ അവന്‍റെ കല്യാണ ദിവസത്തിൽ,</para>
+  <para style="q1" vid="SNG 3:11">അവന്‍റെ ഹൃദയത്തിന്‍റെ ആനന്ദദിവസത്തിൽ തന്നെ,</para>
+  <para style="q2" vid="SNG 3:11">അവന്‍റെ അമ്മ അവനെ ധരിപ്പിച്ച കിരീടത്തോടുകൂടി അവനെ കാണുവിൻ.<verse eid="SNG 3:11" /></para>
+  <chapter eid="SNG 3" />
+  <chapter number="4" style="c" sid="SNG 4" />
+  <para style="s">മണവാളൻ</para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="1" style="v" sid="SNG 4:1" />എന്‍റെ പ്രിയേ, നീ സുന്ദരി; നീ സുന്ദരി തന്നെ;</para>
+  <para style="q2" vid="SNG 4:1">നിന്‍റെ മൂടുപടത്തിൻ മദ്ധ്യേ നിന്‍റെ കണ്ണ്</para>
+  <para style="q1" vid="SNG 4:1">പ്രാവിൻ കണ്ണുപോലെ ഇരിക്കുന്നു;</para>
+  <para style="q2" vid="SNG 4:1">നിന്‍റെ തലമുടി ഗിലെയാദ് മലഞ്ചരിവിൽ</para>
+  <para style="q2" vid="SNG 4:1">കിടക്കുന്ന കോലാട്ടിൻകൂട്ടം പോലെയാകുന്നു.<verse eid="SNG 4:1" /></para>
+  <para style="q1">
+    <verse number="2" style="v" sid="SNG 4:2" />നിന്‍റെ പല്ല്, രോമം കത്രിച്ചിട്ട് കുളിച്ചു കയറി വരുന്ന</para>
+  <para style="q2" vid="SNG 4:2">ആടുകളെപ്പോലെ ഇരിക്കുന്നു;</para>
+  <para style="q1" vid="SNG 4:2">അവയിൽ ഒന്നും മച്ചിയായിരിക്കാതെ</para>
+  <para style="q2" vid="SNG 4:2">എല്ലാം ഇരട്ട പ്രസവിക്കുന്നു.<verse eid="SNG 4:2" /></para>
+  <para style="q1">
+    <verse number="3" style="v" sid="SNG 4:3" />നിന്‍റെ അധരം കടുംചുവപ്പുനൂൽപോലെയും</para>
+  <para style="q2" vid="SNG 4:3">നിന്‍റെ വായ് മനോഹരവും ആകുന്നു;</para>
+  <para style="q1" vid="SNG 4:3">നിന്‍റെ ചെന്നികൾ നിന്‍റെ മൂടുപടത്തിനുള്ളിൽ</para>
+  <para style="q2" vid="SNG 4:3">മാതളപ്പഴത്തിൻ ഖണ്ഡംപോലെ ഇരിക്കുന്നു.<verse eid="SNG 4:3" /></para>
+  <para style="q1">
+    <verse number="4" style="v" sid="SNG 4:4" />നിന്‍റെ കഴുത്ത് ആയുധശാലയായി പണിതിരിക്കുന്ന ദാവീദിൻ ഗോപുരത്തോടു സമം;</para>
+  <para style="q2" vid="SNG 4:4">അതിൽ ആയിരം പരിച തൂക്കിയിരിക്കുന്നു;</para>
+  <para style="q2" vid="SNG 4:4">അവ ഒക്കെയും വീരന്മാരുടെ പരിച തന്നെ.<verse eid="SNG 4:4" /></para>
+  <para style="q1">
+    <verse number="5" style="v" sid="SNG 4:5" />നിന്‍റെ സ്തനം രണ്ടും താമരയ്ക്കിടയിൽ മേയുന്ന</para>
+  <para style="q2" vid="SNG 4:5">ഇരട്ടപിറന്ന രണ്ടു മാൻകുട്ടികൾക്ക് സമം.<verse eid="SNG 4:5" /></para>
+  <para style="q1">
+    <verse number="6" style="v" sid="SNG 4:6" />വെയിലാറി നിഴൽ കാണാതെയാകുവോളം</para>
+  <para style="q2" vid="SNG 4:6">ഞാൻ മൂറിൻമലയിലും കുന്തുരുക്കക്കുന്നിലും ചെന്നിരിക്കാം.<verse eid="SNG 4:6" /></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="SNG 4:7" />എന്‍റെ പ്രിയേ, നീ സർവ്വാംഗസുന്ദരി;</para>
+  <para style="q2" vid="SNG 4:7">നിന്നിൽ യാതൊരു ഊനവും ഇല്ല.<verse eid="SNG 4:7" /></para>
+  <para style="q1">
+    <verse number="8" style="v" sid="SNG 4:8" />കാന്തേ ലെബാനോനെ വിട്ട് എന്നോടുകൂടി,</para>
+  <para style="q2" vid="SNG 4:8">ലെബാനോനെ വിട്ട് എന്നോടുകൂടി വരിക;</para>
+  <para style="q1" vid="SNG 4:8">അമാനാ പർവ്വതശിഖരവും ശെനീർ ഹെർമ്മോൻ കൊടുമുടികളും</para>
+  <para style="q2" vid="SNG 4:8">സിംഹങ്ങളുടെ ഗുഹകളും</para>
+  <para style="q2" vid="SNG 4:8">പുള്ളിപ്പുലികളുടെ പർവ്വതങ്ങളും വിട്ടു പോരുക<note caller="+" style="f"><char style="fr" closed="false">4:8 </char><char style="fq" closed="false">വിട്ടു പോരുക </char><char style="ft" closed="false">താഴേക്ക് നോക്കുക</char></note>.<verse eid="SNG 4:8" /></para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="9" style="v" sid="SNG 4:9" />എന്‍റെ സഹോദരീ, എന്‍റെ കാന്തേ,</para>
+  <para style="q2" vid="SNG 4:9">നീ എന്‍റെ ഹൃദയം അപഹരിച്ചിരിക്കുന്നു;</para>
+  <para style="q1" vid="SNG 4:9">ഒരു നോട്ടംകൊണ്ടും കഴുത്തിലെ മാല കൊണ്ടും</para>
+  <para style="q2" vid="SNG 4:9">നീ എന്‍റെ ഹൃദയം അപഹരിച്ചിരിക്കുന്നു.<verse eid="SNG 4:9" /></para>
+  <para style="q1">
+    <verse number="10" style="v" sid="SNG 4:10" />എന്‍റെ സഹോദരീ, എന്‍റെ കാന്തേ,</para>
+  <para style="q2" vid="SNG 4:10">നിന്‍റെ പ്രേമം എത്ര മനോഹരം!</para>
+  <para style="q1" vid="SNG 4:10">വീഞ്ഞിനെക്കാൾ നിന്‍റെ പ്രേമവും</para>
+  <para style="q2" vid="SNG 4:10">സകലവിധ സുഗന്ധവർഗ്ഗത്തെക്കാൾ</para>
+  <para style="q2" vid="SNG 4:10">നിന്‍റെ തൈലത്തിന്‍റെ പരിമളവും എത്ര രസകരം!<verse eid="SNG 4:10" /></para>
+  <para style="q1">
+    <verse number="11" style="v" sid="SNG 4:11" />അല്ലയോ കാന്തേ, നിന്‍റെ അധരം തേൻകട്ട പൊഴിക്കുന്നു;</para>
+  <para style="q2" vid="SNG 4:11">നിന്‍റെ നാവിൻ കീഴിൽ തേനും പാലും ഉണ്ട്;</para>
+  <para style="q2" vid="SNG 4:11">നിന്‍റെ വസ്ത്രത്തിന്‍റെ സൗരഭ്യം ലെബാനോന്‍റെ സൗരഭ്യം പോലെ ഇരിക്കുന്നു.<verse eid="SNG 4:11" /></para>
+  <para style="q1">
+    <verse number="12" style="v" sid="SNG 4:12" />എന്‍റെ സഹോദരി, എന്‍റെ കാന്ത കെട്ടി അടച്ചിരിക്കുന്ന ഒരു തോട്ടം,</para>
+  <para style="q2" vid="SNG 4:12">അടച്ചിരിക്കുന്ന ഒരു നീരുറവ്,</para>
+  <para style="q2" vid="SNG 4:12">മുദ്രയിട്ടിരിക്കുന്ന ഒരു കിണറ്.<verse eid="SNG 4:12" /></para>
+  <para style="q1">
+    <verse number="13" style="v" sid="SNG 4:13" />നിന്‍റെ ചെടികൾ വിശിഷ്ടഫലങ്ങളോടു കൂടിയ മാതളത്തോട്ടം;</para>
+  <para style="q2" vid="SNG 4:13">മയിലാഞ്ചിയോടുകൂടി ജടാമാംസിയും,<verse eid="SNG 4:13" /></para>
+  <para style="q1">
+    <verse number="14" style="v" sid="SNG 4:14" />ജടാമാംസിയും കുങ്കുമവും, വയമ്പും ലവംഗവും,</para>
+  <para style="q2" vid="SNG 4:14">സകലവിധ കുന്തുരുക്കവൃക്ഷങ്ങളും,</para>
+  <para style="q2" vid="SNG 4:14">മൂറും അകിലും മേൽത്തരമായ എല്ലാ സുഗന്ധവർഗ്ഗവും തന്നെ.<verse eid="SNG 4:14" /></para>
+  <para style="q1">
+    <verse number="15" style="v" sid="SNG 4:15" />നീ തോട്ടങ്ങൾക്ക് ഒരു നീരുറവും, വറ്റിപ്പോകാത്ത കിണറും</para>
+  <para style="q2" vid="SNG 4:15">ലെബാനോനിൽനിന്ന് ഒഴുകുന്ന ഒഴുക്കുകളും തന്നെ.<verse eid="SNG 4:15" /></para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="16" style="v" sid="SNG 4:16" />വടക്കൻകാറ്റേ ഉണരുക; തെക്കൻ കാറ്റേ വരിക;</para>
+  <para style="q2" vid="SNG 4:16">എന്‍റെ തോട്ടത്തിൽനിന്ന് സുഗന്ധം വീശേണ്ടതിന്</para>
+  <para style="q1" vid="SNG 4:16">അതിന്മേൽ ഊതുക;</para>
+  <para style="q2" vid="SNG 4:16">എന്‍റെ പ്രിയൻ തന്‍റെ തോട്ടത്തിൽ വന്ന്</para>
+  <para style="q2" vid="SNG 4:16">അതിലെ വിശിഷ്ടഫലം ആസ്വദിക്കട്ടെ.<verse eid="SNG 4:16" /></para>
+  <chapter eid="SNG 4" />
+  <chapter number="5" style="c" sid="SNG 5" />
+  <para style="s">മണവാളൻ</para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="1" style="v" sid="SNG 5:1" />എന്‍റെ സഹോദരീ, എന്‍റെ കാന്തേ,</para>
+  <para style="q2" vid="SNG 5:1">ഞാൻ എന്‍റെ തോട്ടത്തിൽ വന്നിരിക്കുന്നു;</para>
+  <para style="q1" vid="SNG 5:1">ഞാൻ എന്‍റെ മൂറും സുഗന്ധവർഗ്ഗവും പെറുക്കി;</para>
+  <para style="q2" vid="SNG 5:1">ഞാൻ എന്‍റെ തേൻകട്ട തേനോടുകൂടി തിന്നും</para>
+  <para style="q1" vid="SNG 5:1">എന്‍റെ വീഞ്ഞ് പാലോടുകൂടി കുടിച്ചും ഇരിക്കുന്നു;</para>
+  <para style="q2" vid="SNG 5:1">സ്നേഹിതന്മാരേ, തിന്നുവിൻ; പ്രിയരേ, കുടിച്ചു മത്തരാകുവിൻ!<verse eid="SNG 5:1" /></para>
+  <para style="b" />
+  <para style="s">ഗീതം നാല്</para>
+  <para style="s">മണവാട്ടി</para>
+  <para style="q1">
+    <verse number="2" style="v" sid="SNG 5:2" />ഞാൻ ഉറങ്ങുന്നു എങ്കിലും എന്‍റെ ഹൃദയം ഉണർന്നിരിക്കുന്നു.</para>
+  <para style="q2" vid="SNG 5:2">വാതില്ക്കൽ മുട്ടുന്ന എന്‍റെ പ്രിയന്‍റെ സ്വരം:</para>
+  <para style="s" vid="SNG 5:2">മണവാളൻ</para>
+  <para style="q1" vid="SNG 5:2">“എന്‍റെ സഹോദരീ, എന്‍റെ പ്രിയേ,</para>
+  <para style="q2" vid="SNG 5:2">എന്‍റെ പ്രാവേ, എന്‍റെ നിഷ്കളങ്കേ, തുറക്കുക;</para>
+  <para style="q1" vid="SNG 5:2">എന്‍റെ ശിരസ്സ് മഞ്ഞുകൊണ്ടും</para>
+  <para style="q2" vid="SNG 5:2">കുറുനിരകൾ രാത്രിയിൽ പെയ്യുന്ന മഞ്ഞുകൊണ്ടും നനഞ്ഞിരിക്കുന്നു.”<verse eid="SNG 5:2" /></para>
+  <para style="s">മണവാട്ടി</para>
+  <para style="q1">
+    <verse number="3" style="v" sid="SNG 5:3" />എന്‍റെ അങ്കി ഞാൻ ഊരിയിരിക്കുന്നു;</para>
+  <para style="q2" vid="SNG 5:3">അത് വീണ്ടും ധരിക്കുന്നത് എങ്ങനെ?</para>
+  <para style="q1" vid="SNG 5:3">ഞാൻ കാലുകൾ കഴുകിയിരിക്കുന്നു;</para>
+  <para style="q2" vid="SNG 5:3">അവയെ മലിനമാക്കുന്നത് എങ്ങനെ?<verse eid="SNG 5:3" /></para>
+  <para style="q1">
+    <verse number="4" style="v" sid="SNG 5:4" />എന്‍റെ പ്രിയൻ വാതില്പഴുതിൽ കൂടി കൈ നീട്ടി;</para>
+  <para style="q2" vid="SNG 5:4">എന്‍റെ ഉള്ളം അവനെച്ചൊല്ലി ഉരുകിപ്പോയി.<verse eid="SNG 5:4" /></para>
+  <para style="q1">
+    <verse number="5" style="v" sid="SNG 5:5" />എന്‍റെ പ്രിയനു തുറക്കേണ്ടതിന് ഞാൻ എഴുന്നേറ്റു;</para>
+  <para style="q2" vid="SNG 5:5">എന്‍റെ കൈ മൂറും, എന്‍റെ വിരൽ മൂറിൻ തൈലവും</para>
+  <para style="q2" vid="SNG 5:5">വാതിൽപിടികളിന്മേൽ പൊഴിഞ്ഞു.<verse eid="SNG 5:5" /></para>
+  <para style="q1">
+    <verse number="6" style="v" sid="SNG 5:6" />ഞാൻ എന്‍റെ പ്രിയനു വേണ്ടി തുറന്നു</para>
+  <para style="q2" vid="SNG 5:6">എന്‍റെ പ്രിയനോ പൊയ്ക്കളഞ്ഞിരുന്നു;</para>
+  <para style="q1" vid="SNG 5:6">അവൻ സംസാരിച്ചപ്പോൾ ഞാൻ വിവശയായിരുന്നു;</para>
+  <para style="q2" vid="SNG 5:6">ഞാൻ അന്വേഷിച്ചു; അവനെ കണ്ടില്ല;</para>
+  <para style="q2" vid="SNG 5:6">ഞാൻ അവനെ വിളിച്ചു; അവൻ ഉത്തരം പറഞ്ഞില്ല.<verse eid="SNG 5:6" /></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="SNG 5:7" />നഗരത്തിൽ ചുറ്റി സഞ്ചരിക്കുന്ന കാവല്ക്കാർ എന്നെ കണ്ടു;</para>
+  <para style="q2" vid="SNG 5:7">അവർ എന്നെ അടിച്ച്, മുറിവേല്പിച്ചു;</para>
+  <para style="q2" vid="SNG 5:7">മതിൽകാവല്ക്കാർ എന്‍റെ മൂടുപടം എടുത്തുകളഞ്ഞു.<verse eid="SNG 5:7" /></para>
+  <para style="q1">
+    <verse number="8" style="v" sid="SNG 5:8" />യെരൂശലേം പുത്രിമാരേ, നിങ്ങൾ എന്‍റെ പ്രിയനെ കണ്ടെങ്കിൽ</para>
+  <para style="q2" vid="SNG 5:8">“ഞാൻ പ്രേമവിവശയായിരിക്കുന്നു എന്നു അവനെ അറിയിക്കേണം”</para>
+  <para style="q2" vid="SNG 5:8">എന്നു ഞാൻ നിങ്ങളോട് ആണയിടുന്നു.<verse eid="SNG 5:8" /></para>
+  <para style="b" />
+  <para style="s">തോഴിമാർ</para>
+  <para style="q1">
+    <verse number="9" style="v" sid="SNG 5:9" />സ്ത്രീകളിൽ അതിസുന്ദരിയായുള്ളവളേ,</para>
+  <para style="q2" vid="SNG 5:9">നിന്‍റെ പ്രിയന് മറ്റ് പ്രിയന്മാരെക്കാൾ എന്ത് വിശേഷതയുള്ളു?</para>
+  <para style="q1" vid="SNG 5:9">നീ ഇങ്ങനെ ഞങ്ങളോട് ആണയിടേണ്ടതിന്</para>
+  <para style="q2" vid="SNG 5:9">നിന്‍റെ പ്രിയന് മറ്റു പ്രിയന്മാരെക്കാൾ എന്ത് വിശേഷതയുള്ളു?<verse eid="SNG 5:9" /></para>
+  <para style="s">മണവാട്ടി</para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="10" style="v" sid="SNG 5:10" />എന്‍റെ പ്രിയൻ തേജസുള്ളവനും ശക്തനും അതുല്യനും തന്നെ<note caller="+" style="f"><char style="fr" closed="false">5:10 </char><char style="fq" closed="false">എന്‍റെ പ്രിയൻ തേജസുള്ളവനും ശക്തനും അതുല്യനും തന്നെ </char><char style="ft" closed="false">എന്‍റെ പ്രിയൻ വെണ്മയും ചുവപ്പും ഉള്ളവൻ</char></note>,</para>
+  <para style="q2" vid="SNG 5:10">പതിനായിരംപേരിൽ അതിശ്രേഷ്ഠൻ തന്നെ.<verse eid="SNG 5:10" /></para>
+  <para style="q1">
+    <verse number="11" style="v" sid="SNG 5:11" />അവന്‍റെ ശിരസ്സ് അതിവിശേഷമായ തങ്കം;</para>
+  <para style="q2" vid="SNG 5:11">അവന്‍റെ കുറുനിരകൾ ചുരുണ്ടും</para>
+  <para style="q2" vid="SNG 5:11">കാക്കയെപ്പോലെ കറുത്തും ഇരിക്കുന്നു.<verse eid="SNG 5:11" /></para>
+  <para style="q1">
+    <verse number="12" style="v" sid="SNG 5:12" />അവന്‍റെ കണ്ണ് നീർത്തോടുകളുടെ അരികത്തുള്ള പ്രാവുകൾക്ക് തുല്യം;</para>
+  <para style="q2" vid="SNG 5:12">അത് പാലുകൊണ്ട് കഴുകിയതും ചേർച്ചയായി പതിച്ചതും ആകുന്നു.<verse eid="SNG 5:12" /></para>
+  <para style="q1">
+    <verse number="13" style="v" sid="SNG 5:13" />അവന്‍റെ കവിൾ സുഗന്ധസസ്യങ്ങളുടെ തടവും</para>
+  <para style="q2" vid="SNG 5:13">നറുന്തൈകളുടെ വാരവും,</para>
+  <para style="q1" vid="SNG 5:13">അവന്‍റെ അധരം താമരപ്പൂവുംപോലെ ഇരിക്കുന്നു;</para>
+  <para style="q2" vid="SNG 5:13">അത് മൂറിൻ തൈലം പൊഴിച്ചുകൊണ്ടിരിക്കുന്നു;<verse eid="SNG 5:13" /></para>
+  <para style="q1">
+    <verse number="14" style="v" sid="SNG 5:14" />അവന്‍റെ കൈകൾ ഗോമേദകം പതിച്ചിരിക്കുന്ന സ്വർണ്ണദണ്ഡുകൾ;</para>
+  <para style="q2" vid="SNG 5:14">അവന്‍റെ ശരീരം നീലരത്നം പതിച്ച ദന്ത നിർമ്മിതം.<verse eid="SNG 5:14" /></para>
+  <para style="q1">
+    <verse number="15" style="v" sid="SNG 5:15" />അവന്‍റെ തുട തങ്കച്ചുവട്ടിൽ നിർത്തിയ വെൺകൽത്തൂൺ;</para>
+  <para style="q2" vid="SNG 5:15">അവന്‍റെ രൂപം ലെബാനോനെപ്പോലെ,</para>
+  <para style="q2" vid="SNG 5:15">ദേവദാരുപോലെ തന്നെ ശ്രേഷ്ഠമാകുന്നു.<verse eid="SNG 5:15" /></para>
+  <para style="q1">
+    <verse number="16" style="v" sid="SNG 5:16" />അവന്‍റെ വായ് ഏറ്റവും മധുരമുള്ളത്;</para>
+  <para style="q2" vid="SNG 5:16">അവൻ സർവ്വാംഗസുന്ദരൻ തന്നെ;</para>
+  <para style="q1" vid="SNG 5:16">യെരൂശലേം പുത്രിമാരേ, ഇവനത്രേ എന്‍റെ പ്രിയൻ;</para>
+  <para style="q2" vid="SNG 5:16">ഇവനത്രേ എന്‍റെ സ്നേഹിതൻ.<verse eid="SNG 5:16" /></para>
+  <chapter eid="SNG 5" />
+  <chapter number="6" style="c" sid="SNG 6" />
+  <para style="s">തോഴിമാർ</para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="1" style="v" sid="SNG 6:1" />സ്ത്രീകളിൽ അതിസുന്ദരിയായുള്ളവളേ,</para>
+  <para style="q2" vid="SNG 6:1">നിന്‍റെ പ്രിയൻ എവിടെ പോയിരിക്കുന്നു?</para>
+  <para style="q1" vid="SNG 6:1">നിന്‍റെ പ്രിയൻ ഏതു വഴിക്ക് തിരിഞ്ഞിരിക്കുന്നു?</para>
+  <para style="q2" vid="SNG 6:1">ഞങ്ങൾ നിന്നോടുകൂടെ അവനെ അന്വേഷിക്കാം.<verse eid="SNG 6:1" /></para>
+  <para style="s">മണവാട്ടി</para>
+  <para style="q1">
+    <verse number="2" style="v" sid="SNG 6:2" />തോട്ടങ്ങളിൽ മേയിക്കുവാനും</para>
+  <para style="q2" vid="SNG 6:2">താമരപ്പൂക്കൾ പറിക്കുവാനും</para>
+  <para style="q1" vid="SNG 6:2">എന്‍റെ പ്രിയൻ തന്‍റെ തോട്ടത്തിൽ</para>
+  <para style="q2" vid="SNG 6:2">സുഗന്ധസസ്യങ്ങളുടെ തടങ്ങളിലേക്ക് ഇറങ്ങിപ്പോയിരിക്കുന്നു.<verse eid="SNG 6:2" /></para>
+  <para style="q1">
+    <verse number="3" style="v" sid="SNG 6:3" />ഞാൻ എന്‍റെ പ്രിയനുള്ളവൾ;</para>
+  <para style="q2" vid="SNG 6:3">എന്‍റെ പ്രിയൻ എനിക്കുള്ളവൻ;</para>
+  <para style="q2" vid="SNG 6:3">അവൻ താമരകളുടെ ഇടയിൽ മേയ്ക്കുന്നു.<verse eid="SNG 6:3" /></para>
+  <para style="s">ഗീതം അഞ്ച്</para>
+  <para style="s">മണവാളൻ</para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="4" style="v" sid="SNG 6:4" />എന്‍റെ പ്രിയേ, നീ തിർസ്സാപോലെ സൗന്ദര്യമുള്ളവൾ;</para>
+  <para style="q2" vid="SNG 6:4">യെരൂശലേംപോലെ മനോഹരി,</para>
+  <para style="q2" vid="SNG 6:4">കൊടികളോടു കൂടിയ സൈന്യംപോലെ ഭയാവഹം.<verse eid="SNG 6:4" /></para>
+  <para style="q1">
+    <verse number="5" style="v" sid="SNG 6:5" />നിന്‍റെ കണ്ണ് എന്നിൽനിന്ന് തിരിക്കുക;</para>
+  <para style="q2" vid="SNG 6:5">അത് എന്നെ ഭ്രമിപ്പിച്ചിരിക്കുന്നു;</para>
+  <para style="q1" vid="SNG 6:5">നിന്‍റെ തലമുടി ഗിലെയാദ് മലഞ്ചരിവിൽ</para>
+  <para style="q2" vid="SNG 6:5">കിടക്കുന്ന കോലാട്ടിൻകൂട്ടം പോലെയാകുന്നു.<verse eid="SNG 6:5" /></para>
+  <para style="q1">
+    <verse number="6" style="v" sid="SNG 6:6" />നിന്‍റെ പല്ല് കുളിച്ച് കയറി വരുന്ന ആടുകളെപ്പോലെയിരിക്കുന്നു;</para>
+  <para style="q2" vid="SNG 6:6">അവയിൽ ഒന്നും മച്ചിയായിരിക്കാതെ</para>
+  <para style="q2" vid="SNG 6:6">എല്ലാം ഇരട്ട പ്രസവിക്കുന്നു.<verse eid="SNG 6:6" /></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="SNG 6:7" />നിന്‍റെ ചെന്നികൾ നിന്‍റെ മൂടുപടത്തിന്‍റെ ഉള്ളിൽ</para>
+  <para style="q1" vid="SNG 6:7">മാതളപ്പഴത്തിന്‍റെ ഖണ്ഡംപോലെ ഇരിക്കുന്നു.<verse eid="SNG 6:7" /></para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="8" style="v" sid="SNG 6:8" />അറുപതു രാജ്ഞികളും എൺപതു വെപ്പാട്ടികളും</para>
+  <para style="q2" vid="SNG 6:8">അസംഖ്യം കന്യകമാരും ഉണ്ടല്ലോ.<verse eid="SNG 6:8" /></para>
+  <para style="q1">
+    <verse number="9" style="v" sid="SNG 6:9" />എന്‍റെ പ്രാവും എന്‍റെ നിഷ്കളങ്കയുമായവളോ ഒരുവൾ മാത്രം;</para>
+  <para style="q2" vid="SNG 6:9">അവൾ തന്‍റെ അമ്മയ്ക്ക് ഏകപുത്രിയും</para>
+  <para style="q1" vid="SNG 6:9">തന്നെ പ്രസവിച്ചവൾക്ക് ഓമനയും ആകുന്നു;</para>
+  <para style="q2" vid="SNG 6:9">കന്യകമാർ അവളെ കണ്ടു ‘ഭാഗ്യവതി’ എന്നു വാഴ്ത്തും;</para>
+  <para style="q2" vid="SNG 6:9">രാജ്ഞികളും വെപ്പാട്ടികളും കൂടെ അവളെ പുകഴ്ത്തും.<verse eid="SNG 6:9" /></para>
+  <para style="q1">
+    <verse number="10" style="v" sid="SNG 6:10" />അരുണോദയംപോലെ ശോഭയും</para>
+  <para style="q2" vid="SNG 6:10">ചന്ദ്രനെപ്പോലെ സൗന്ദര്യവും സൂര്യനെപ്പോലെ നിർമ്മലതയും</para>
+  <para style="q2" vid="SNG 6:10">കൊടികളോടു കൂടിയ സൈന്യംപോലെ ഭയങ്കരത്വവും ഉള്ളോരിവൾ ആർ?<verse eid="SNG 6:10" /></para>
+  <para style="b" />
+  <para style="s">മണവാട്ടി</para>
+  <para style="q1">
+    <verse number="11" style="v" sid="SNG 6:11" />ഞാൻ തോട്ടിനരികിലുള്ള സസ്യങ്ങളെ കാണേണ്ടതിനും</para>
+  <para style="q2" vid="SNG 6:11">മുന്തിരിവള്ളി തളിർക്കുകയും മാതളനാരകം പൂക്കുകയും ചെയ്തുവോ</para>
+  <para style="q2" vid="SNG 6:11">എന്നു നോക്കേണ്ടതിനും അക്രോത്ത്തോട്ടത്തിലേക്ക് ഇറങ്ങിച്ചെന്നു.<verse eid="SNG 6:11" /></para>
+  <para style="q1">
+    <verse number="12" style="v" sid="SNG 6:12" />എന്‍റെ അഭിലാഷം ഹേതുവായി ഞാൻ അറിയാതെ</para>
+  <para style="q1" vid="SNG 6:12">എന്‍റെ പ്രഭുജനത്തിൻ രഥങ്ങളുടെ ഇടയിൽ എത്തി.<verse eid="SNG 6:12" /></para>
+  <para style="b" />
+  <para style="s">തോഴിമാർ</para>
+  <para style="q1">
+    <verse number="13" style="v" sid="SNG 6:13" />അല്ലയോ ശൂലേംകാരീ, മടങ്ങിവരിക മടങ്ങിവരിക;</para>
+  <para style="q2" vid="SNG 6:13">മടങ്ങിവരിക മടങ്ങിവരിക, ഞങ്ങൾ നിന്നെയൊന്നു കണ്ടുകൊള്ളട്ടെ!</para>
+  <para style="b" vid="SNG 6:13" />
+  <para style="s" vid="SNG 6:13">മണവാട്ടി</para>
+  <para style="q1" vid="SNG 6:13">മഹനയീമിലെ നൃത്തത്തെ വീക്ഷിക്കുന്നതുപോലെ</para>
+  <para style="q2" vid="SNG 6:13">ശൂലേംകാരിയെ നിങ്ങൾ എന്തിന് മിഴിച്ചുനോക്കുന്നു?<verse eid="SNG 6:13" /></para>
+  <chapter eid="SNG 6" />
+  <chapter number="7" style="c" sid="SNG 7" />
+  <para style="s">അഭിനന്ദനത്തിൻ്റെ വിവരണം</para>
+  <para style="b" />
+  <para style="s">മണവാളൻ</para>
+  <para style="q2">
+    <verse number="1" style="v" sid="SNG 7:1" />അല്ലയോ പ്രഭുകുമാരീ, ചെരിപ്പിട്ടിരിക്കുന്ന നിന്‍റെ കാൽ എത്ര മനോഹരം!</para>
+  <para style="q2" vid="SNG 7:1">നിന്‍റെ ഉരുണ്ട നിതംബം സമർത്ഥനായ ശില്പിയുടെ പണിയായ ഭൂഷണം പോലെ ഇരിക്കുന്നു.<verse eid="SNG 7:1" /></para>
+  <para style="q1">
+    <verse number="2" style="v" sid="SNG 7:2" />നിന്‍റെ നാഭി, വൃത്താകാരമായ പാനപാത്രം പോലെയാകുന്നു;</para>
+  <para style="q2" vid="SNG 7:2">അതിൽ, കലക്കിയ വീഞ്ഞ് ഇല്ലാതിരിക്കുന്നില്ല;</para>
+  <para style="q1" vid="SNG 7:2">നിന്‍റെ ഉദരം താമരപ്പൂ ചുറ്റിയിരിക്കുന്ന</para>
+  <para style="q2" vid="SNG 7:2">ഗോതമ്പുകൂമ്പാരംപോലെ ആകുന്നു.<verse eid="SNG 7:2" /></para>
+  <para style="q1">
+    <verse number="3" style="v" sid="SNG 7:3" />നിന്‍റെ സ്തനം രണ്ടു മാൻകുട്ടികൾക്ക് സമം ഇരട്ടപിറന്ന കലമാനുകൾക്കു സമം.<verse eid="SNG 7:3" /></para>
+  <para style="q1">
+    <verse number="4" style="v" sid="SNG 7:4" />നിന്‍റെ കഴുത്ത് ദന്തഗോപുരംപോലെയും</para>
+  <para style="q2" vid="SNG 7:4">നിന്‍റെ കണ്ണ് ഹെശ്ബോനിൽ ബാത്ത് റബ്ബീം വാതില്‍ക്കലെ കുളങ്ങൾപോലെയും</para>
+  <para style="q1" vid="SNG 7:4">നിന്‍റെ മൂക്ക് ദമാസ്കസിന് നേരെയുള്ള</para>
+  <para style="q2" vid="SNG 7:4">ലെബാനോൻ ഗോപുരംപോലെയും ഇരിക്കുന്നു.<verse eid="SNG 7:4" /></para>
+  <para style="q1">
+    <verse number="5" style="v" sid="SNG 7:5" />നിന്‍റെ ശിരസ്സ് കർമ്മേൽപോലെയും</para>
+  <para style="q1" vid="SNG 7:5">നിന്‍റെ തലമുടി രക്താംബരംപോലെയും ഇരിക്കുന്നു;</para>
+  <para style="q1" vid="SNG 7:5">രാജാവ് നിന്‍റെ അളകങ്ങളാൽ ബദ്ധനായിരിക്കുന്നു.<verse eid="SNG 7:5" /></para>
+  <para style="q1">
+    <verse number="6" style="v" sid="SNG 7:6" />പ്രിയേ, പ്രേമഭോഗങ്ങളിൽ നീ എത്ര സുന്ദരി,</para>
+  <para style="q2" vid="SNG 7:6">നീ എത്ര മനോഹരി!<verse eid="SNG 7:6" /></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="SNG 7:7" />നിന്‍റെ ശരീരാകൃതി പനയോടും</para>
+  <para style="q2" vid="SNG 7:7">നിന്‍റെ സ്തനങ്ങൾ മുന്തിരിക്കുലയോടും സദൃശം!<verse eid="SNG 7:7" /></para>
+  <para style="q1">
+    <verse number="8" style="v" sid="SNG 7:8" />“ഞാൻ പനമേൽ കയറും;</para>
+  <para style="q2" vid="SNG 7:8">അതിന്‍റെ കുലകൾ പിടിക്കും” എന്നു ഞാൻ പറഞ്ഞു.</para>
+  <para style="q1" vid="SNG 7:8">നിന്‍റെ സ്തനങ്ങൾ മുന്തിരിക്കുലപോലെയും</para>
+  <para style="q2" vid="SNG 7:8">നിന്‍റെ മൂക്കിന്‍റെ വാസന നാരങ്ങയുടെ വാസനപോലെയും ആകട്ടെ.<verse eid="SNG 7:8" /></para>
+  <para style="q1">
+    <verse number="9" style="v" sid="SNG 7:9" />നിന്‍റെ ചുംബനം അധരങ്ങളില്‍ക്കൂടിയും ദന്തങ്ങളില്‍ക്കൂടിയും</para>
+  <para style="q2" vid="SNG 7:9">താഴെക്കിറങ്ങുന്ന മേല്ത്തരമായ വീഞ്ഞ്. <note caller="+" style="f"><char style="fr" closed="false">7:9 </char><char style="fq" closed="false">നിന്‍റെ ചുംബനം അധരങ്ങളില്‍ക്കൂടിയും ദന്തങ്ങളില്‍ക്കൂടിയും താഴെക്കിറങ്ങുന്ന മേല്ത്തരമായ വീഞ്ഞ്. </char><char style="ft" closed="false">നിന്‍റെ അണ്ണാക്ക് മേല്ത്തരമായ വീഞ്ഞ് </char></note><verse eid="SNG 7:9" /></para>
+  <para style="s">മണവാട്ടി</para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="10" style="v" sid="SNG 7:10" />അത് എന്‍റെ പ്രിയന് മൃദുപാനമായി</para>
+  <para style="q2" vid="SNG 7:10">അധരത്തിലും പല്ലിലും കൂടി കടക്കുന്നതും ആകുന്നു.<verse eid="SNG 7:10" /></para>
+  <para style="q1">
+    <verse number="11" style="v" sid="SNG 7:11" />ഞാൻ എന്‍റെ പ്രിയനുള്ളവൾ;</para>
+  <para style="q2" vid="SNG 7:11">അവന്‍റെ ആഗ്രഹം എന്നോടാകുന്നു.<verse eid="SNG 7:11" /></para>
+  <para style="q1">
+    <verse number="12" style="v" sid="SNG 7:12" />പ്രിയാ, വരിക; നാം വെളിമ്പ്രദേശത്ത് പോകുക;</para>
+  <para style="q2" vid="SNG 7:12">നമുക്ക് ഗ്രാമങ്ങളിൽ <note caller="+" style="f"><char style="fr" closed="false">7:12 </char><char style="fq" closed="false">ഗ്രാമങ്ങളിൽ </char><char style="ft" closed="false">കാട്ടുപുഷ്പങ്ങള്‍ക്കിടയില്‍ </char></note>ചെന്നു രാപാർക്കാം.</para>
+  <para style="q1" vid="SNG 7:12">അതികാലത്ത് എഴുന്നേറ്റ് മുന്തിരിത്തോട്ടങ്ങളിൽ പോയി</para>
+  <para style="q2" vid="SNG 7:12">മുന്തിരിവള്ളി തളിർത്ത് പൂ വിടരുകയും</para>
+  <para style="q1" vid="SNG 7:12">മാതളനാരകം പൂക്കുകയും ചെയ്തുവോ എന്നു നോക്കാം;</para>
+  <para style="q2" vid="SNG 7:12">അവിടെവച്ച് ഞാൻ നിനക്കു എന്‍റെ പ്രേമം തരും.<verse eid="SNG 7:12" /></para>
+  <para style="q1">
+    <verse number="13" style="v" sid="SNG 7:13" />ദൂദായിപ്പഴം സുഗന്ധം വീശുന്നു;</para>
+  <para style="q2" vid="SNG 7:13">നമ്മുടെ വാതില്ക്കൽ സകലവിധ വിശിഷ്ടഫലവും ഉണ്ട്;</para>
+  <para style="q2" vid="SNG 7:13">എന്‍റെ പ്രിയാ, ഞാൻ നിനക്കായി പഴയതും പുതിയതും സംഗ്രഹിച്ചിരിക്കുന്നു.<verse eid="SNG 7:13" /></para>
+  <chapter eid="SNG 7" />
+  <chapter number="8" style="c" sid="SNG 8" />
+  <para style="b" />
+  <para style="q1">
+    <verse number="1" style="v" sid="SNG 8:1" />നീ എന്‍റെ അമ്മയുടെ മുലകുടിച്ച സഹോദരൻ ആയിരുന്നുവെങ്കിൽ!</para>
+  <para style="q2" vid="SNG 8:1">ഞാൻ നിന്നെ വെളിയിൽ കണ്ടു ചുംബിക്കുമായിരുന്നു;</para>
+  <para style="q2" vid="SNG 8:1">ആരും എന്നെ നിന്ദിക്കുകയില്ലായിരുന്നു.<verse eid="SNG 8:1" /></para>
+  <para style="q1">
+    <verse number="2" style="v" sid="SNG 8:2" />അവള്‍<note caller="+" style="f"><char style="fr" closed="false">8:2 </char><char style="fq" closed="false">അവള്‍ </char><char style="ft" closed="false">നീ</char></note> എനിക്ക് ഉപദേശം തരേണ്ടതിന്</para>
+  <para style="q2" vid="SNG 8:2">ഞാൻ നിന്നെ അമ്മയുടെ വീട്ടിൽ കൂട്ടിക്കൊണ്ടുപോകുമായിരുന്നു;</para>
+  <para style="q1" vid="SNG 8:2">സുഗന്ധവർഗ്ഗം ചേർത്ത വീഞ്ഞും എന്‍റെ മാതളപ്പഴത്തിൻ ചാറും</para>
+  <para style="q2" vid="SNG 8:2">ഞാൻ നിനക്കു കുടിക്കുവാൻ തരുമായിരുന്നു.<verse eid="SNG 8:2" /></para>
+  <para style="q1">
+    <verse number="3" style="v" sid="SNG 8:3" />അവന്‍റെ ഇടങ്കൈ എന്‍റെ തലയിൻ കീഴെ ഇരിക്കട്ടെ;</para>
+  <para style="q2" vid="SNG 8:3">അവന്‍റെ വലങ്കൈ എന്നെ ആശ്ലേഷിക്കട്ടെ.<verse eid="SNG 8:3" /></para>
+  <para style="s">മണവാളന്‍</para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="4" style="v" sid="SNG 8:4" />യെരൂശലേം പുത്രിമാരേ, പ്രേമത്തിന് ഇഷ്ടമാകുവോളം</para>
+  <para style="q2" vid="SNG 8:4">അതിനെ ഇളക്കരുത്, ഉണർത്തുകയുമരുത്</para>
+  <para style="q2" vid="SNG 8:4">എന്നു ഞാൻ നിങ്ങളോട് ആണയിട്ടപേക്ഷിക്കുന്നു.<verse eid="SNG 8:4" /></para>
+  <para style="s">ഗീതം ആറ്</para>
+  <para style="s">തോഴിമാർ</para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="5" style="v" sid="SNG 8:5" />മരുഭൂമിയിൽനിന്ന് തന്‍റെ പ്രിയന്‍റെ മേൽ</para>
+  <para style="q2" vid="SNG 8:5">ചാരിക്കൊണ്ട് വരുന്നോരിവൾ ആർ?</para>
+  <para style="q1" vid="SNG 8:5">നാരകത്തിൻ ചുവട്ടിൽവച്ച് ഞാൻ നിന്നെ ഉണർത്തി;</para>
+  <para style="q2" vid="SNG 8:5">അവിടെവച്ചല്ലയോ നിന്‍റെ അമ്മ നിന്നെ പ്രസവിച്ചത്;</para>
+  <para style="q2" vid="SNG 8:5">അവിടെവച്ചല്ലയോ നിന്നെ പ്രസവിച്ചവൾക്ക് ഈറ്റുനോവ് കിട്ടിയത്.<verse eid="SNG 8:5" /></para>
+  <para style="s">മണവാട്ടി</para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="6" style="v" sid="SNG 8:6" />എന്നെ ഒരു മുദ്രമോതിരമായി നിന്‍റെ ഹൃദയത്തിന്മേലും</para>
+  <para style="q2" vid="SNG 8:6">ഒരു മുദ്രമോതിരമായി നിന്‍റെ ഭുജത്തിന്മേലും വച്ചുകൊള്ളേണമേ;</para>
+  <para style="q1" vid="SNG 8:6">പ്രേമം മരണംപോലെ ബലമുള്ളതും</para>
+  <para style="q2" vid="SNG 8:6">പത്നീവ്രതശങ്ക പാതാളംപോലെ കഠിനവുമാകുന്നു;</para>
+  <para style="q1" vid="SNG 8:6">അതിന്‍റെ ജ്വലനം അഗ്നിജ്വലനവും</para>
+  <para style="q2" vid="SNG 8:6">ഒരു ദിവ്യജ്വാലയും തന്നെ.<verse eid="SNG 8:6" /></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="SNG 8:7" />ഏറിയ വെള്ളങ്ങൾ പ്രേമത്തെ കെടുത്തുകയില്ല;</para>
+  <para style="q2" vid="SNG 8:7">നദികൾ അതിനെ മുക്കിക്കളയുകയില്ല.</para>
+  <para style="q1" vid="SNG 8:7">ഒരുവൻ തന്‍റെ ഗൃഹത്തിലുള്ള സർവ്വസമ്പത്തും</para>
+  <para style="q2" vid="SNG 8:7">പ്രേമത്തിനു വേണ്ടി കൊടുത്താലും അത് നിന്ദ്യമായേക്കാം<note caller="+" style="f"><char style="fr" closed="false">8:7 </char><char style="fq" closed="false">അത് നിന്ദ്യമായേക്കാം </char><char style="ft" closed="false">അവൻ നിന്ദിതനായേക്കാം</char></note>.<verse eid="SNG 8:7" /></para>
+  <para style="q1">
+    <verse number="8" style="v" sid="SNG 8:8" />നമുക്ക് ഒരു ചെറിയ സഹോദരി ഉണ്ട്;</para>
+  <para style="q2" vid="SNG 8:8">അവൾക്ക് സ്തനങ്ങൾ വന്നിട്ടില്ല;</para>
+  <para style="q1" vid="SNG 8:8">നമ്മുടെ സഹോദരിക്ക് കല്യാണം പറയുന്ന നാളിൽ</para>
+  <para style="q2" vid="SNG 8:8">നാം അവൾക്ക് വേണ്ടി എന്ത് ചെയ്യും?<verse eid="SNG 8:8" /></para>
+  <para style="q1">
+    <verse number="9" style="v" sid="SNG 8:9" />അവൾ ഒരു മതിൽ എങ്കിൽ അതിന്മേൽ</para>
+  <para style="q2" vid="SNG 8:9">ഒരു വെള്ളിമകുടം പണിയാമായിരുന്നു;</para>
+  <para style="q1" vid="SNG 8:9">ഒരു വാതിൽ എങ്കിൽ</para>
+  <para style="q2" vid="SNG 8:9">ദേവദാരുപ്പലകകൊണ്ട് അടയ്ക്കാമായിരുന്നു.<verse eid="SNG 8:9" /></para>
+  <para style="q1">
+    <verse number="10" style="v" sid="SNG 8:10" />ഞാൻ മതിലും എന്‍റെ സ്തനങ്ങൾ ഗോപുരങ്ങൾപോലെയും ആയിരുന്നു;</para>
+  <para style="q2" vid="SNG 8:10">എന്‍റെ പ്രിയന്‍റെ കണ്ണുകളില്‍ നിന്ന് ഹൃദയപൂര്‍വ്വമായ താല്പര്യം ലഭിച്ചിരുന്നു<note caller="+" style="f"><char style="fr" closed="false">8:10 </char><char style="fq" closed="false">എന്‍റെ പ്രിയന്‍റെ കണ്ണുകളില്‍ നിന്ന് ഹൃദയപൂര്‍വ്വമായ താല്പര്യം ലഭിച്ചിരുന്നു </char><char style="ft" closed="false">ഞാന്‍ പ്രായപൂര്‍ത്തി ആയവളെന്നു പ്രിയന്‍ ചിന്തിക്കുന്നു. </char></note>.<verse eid="SNG 8:10" /></para>
+  <para style="s">മണവാളന്‍</para>
+  <para style="q1">
+    <verse number="11" style="v" sid="SNG 8:11" />ശലോമോനു ബാൽഹാമോനിൽ ഒരു മുന്തിരിത്തോട്ടം ഉണ്ടായിരുന്നു.</para>
+  <para style="q2" vid="SNG 8:11">ആ മുന്തിരിത്തോട്ടം അവൻ കാവല്ക്കാരെ ഏല്പിച്ചു;</para>
+  <para style="q1" vid="SNG 8:11">അതിന്‍റെ പാട്ടമായിട്ട്, ഓരോ വ്യക്തിയും</para>
+  <para style="q2" vid="SNG 8:11">ആയിരം പണം<note caller="+" style="f"><char style="fr" closed="false">8:11 </char><char style="fq" closed="false">പണം </char><char style="ft" closed="false">ഒരു ഗ്രാമീണത്തൊഴിലാളിയുടെ ഒരു ദിവസത്തെ വേതനം</char></note> വീതം കൊണ്ടുവരേണ്ടിയിരുന്നു.<verse eid="SNG 8:11" /></para>
+  <para style="q1">
+    <verse number="12" style="v" sid="SNG 8:12" />എന്‍റെ സ്വന്തം മുന്തിരിത്തോട്ടം എന്‍റെ കൈവശം ഇരിക്കുന്നു;</para>
+  <para style="q2" vid="SNG 8:12">ശലോമോനേ, നിനക്കു ആയിരവും</para>
+  <para style="q2" vid="SNG 8:12">ഫലം കാക്കുന്നവർക്ക് ഇരുനൂറും ഇരിക്കട്ടെ.<verse eid="SNG 8:12" /></para>
+  <para style="q1">
+    <verse number="13" style="v" sid="SNG 8:13" />ഉദ്യാനനിവാസിനിയേ,</para>
+  <para style="q2" vid="SNG 8:13">സഖിമാർ നിന്‍റെ സ്വരം ശ്രദ്ധിച്ച് കേൾക്കുന്നു;</para>
+  <para style="q2" vid="SNG 8:13">അത് എന്നെയും കേൾപ്പിക്കേണമേ.<verse eid="SNG 8:13" /></para>
+  <para style="s">മണവാട്ടി</para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="14" style="v" sid="SNG 8:14" />എന്‍റെ പ്രിയാ നീ പരിമളപർവ്വതങ്ങളിലെ</para>
+  <para style="q2" vid="SNG 8:14">ചെറുമാനിനും കലമാൻകുട്ടിക്കും തുല്യനായി ഓടിപ്പോകുക.<verse eid="SNG 8:14" /></para>
+  <chapter eid="SNG 8" />
+</usx>

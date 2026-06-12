@@ -1,0 +1,685 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
+  <book code="REV" style="id">- Bamunka New Testament</book>
+  <para style="h">Nu-kɛ̀ʼ-bə</para>
+  <para style="toc1">Ŋwɔʼnə te Nu-kɛ̀ʼ-bə ndə Jɔŋ nyɔ̀ʼ</para>
+  <para style="toc2">Nu-kɛ̀ʼ-bə</para>
+  <para style="toc3">Kɛ̀ʼ</para>
+  <para style="mt2">Ŋwɔʼnə te</para>
+  <para style="mt1">Nu-kɛ̀ʼ-bə</para>
+  <para style="mt2">ndə Jɔŋ kə nyɔ̀ʼ</para>
+  <para style="imt">Nchoʼtə bətʉ bənu</para>
+  <para style="ip">Bə nɔ nə nyɔ̀ʼ ŋwɔʼnə bənu ndə Jiso Klai nə kɛ̀ʼ tʉ Jɔŋ ndʉʉ ndə bʉə ndə bɔ̂ŋ nɔʼ kə bɛ́ŋ Nyii nə kə́ tíŋ hə mu ŋgʉəʼ bʉʼka məmɔʼfyiihə-ʉə ndəŋ Jiso Klai Tiekətʉ. Fɔŋ kətʉ kənu mu ŋwɔʼnə-fɛ̄ŋ nɔ bɛ ndə məgwè nə məyʉ́əʼnə ndəŋ Nyii bɔŋleʼ bɛ ndə məkwèʼhə bʉə ndə bɔ̂ŋ nɔʼ bɛ́ŋ Nyii kə́ tíŋ hə mu ŋgʉəʼ bɔŋleʼ kwèʼhə bɔŋ mbɔ bɔ̂ŋ tə́nə shʉ́əshʉ́ə.</para>
+  <para style="ip">Ŋwɔʼnə-ɔ̄ŋ nɔ kie nubə muŋgɔ buŋmbi ndə bə nə dʉ̀ʼ ghɔŋbə nubə ndə Jɔŋ kə nyíɛ. Nubə-ɔ̄ŋ nɔ bɛ ghɔ yɔ́ŋyɔ́ŋ ndə bə nyɔ̀ʼ mu ŋwɔʼnə-fɛ̄ŋ kə́ bɛ (nubə ndə bə kə kɛ̀ʼ ghɔŋbə nubə ndə bə kə nyíɛ) ndə i kə gwè ndə lyʉʉhəbə. Bʉə vɛʼ-ghɔ̄bə ndə bɔ̂ŋ nɔʼ kə bɛ́ŋ Nyii nɔ kə kínə nubə-ɔ̄ŋ jyujyu i bɔŋ kə bɛ nu-mu-bəliinə-bə tʉ bəʼ-bʉə-kə bənchəŋ. Mu tʉ-bəŋgie-bə ndə i bɛ mu ŋwɔʼnə-fɛ̄ŋ, bə nɔ líʼnə nubə chɔ ŋkʉʉŋkʉʉ ndə Jɔŋ kə nyíɛ.</para>
+  <para style="ip">Nubə ndə Nyii tʉʼ kʉ́ʉ mbɔ b̈ə kínə mu ŋwɔʼnə-fɛ̄ŋ lʉ̀ hə ndə nchʉʉhə tə gɛ̀ dàa ndə ndyiʼtə nɔ bɛ mbɔ: Tíŋ hə bɔ̌ŋ Jiso mbʉ Tiekətʉ, Nyii bu ghɔ́ʼ bʉə-bàa-bi bənchəŋ ghɔŋbə Sata nə mbəŋ-ɛŋ, bɔŋleʼ kɛ̀ŋ bʉə-bi jyujyu nə kɛŋbə ndə bɛ yuo fefe ghɔŋbə chisê-fefe-kə ndʉʉ ndə ɔ bu yi ghɔ́ʼ bʉə-bàa-bi bənchəŋ.</para>
+  <para style="iot">Nubə ndə i bɛ mu ŋwɔʼnə-fɛ̄ŋ</para>
+  <para style="io1">Nchʉʉhə-bənu 1:1-8</para>
+  <para style="io1">Fəŋ kənu ndə Nyii kə dʉ̀ʼ ghɔŋbə bəŋwɔʼnə ndə bə nyɔ̀ʼ tʉ bəchɔshi təkwiitia 1:9–3:22</para>
+  <para style="io1">Mbʉ gwo nə fʉəŋbə təkwiitia 4:1–8:1</para>
+  <para style="io1">Gʉəʼ-vaa-tə təkwiitia 8:2–11:19</para>
+  <para style="io1">Mbʉ Dalagɔŋ* nə nyaahə bəbûu 12:1–13:18</para>
+  <para style="io1">Ntɛntɛ-bənu-hə ndə Nyii kə dʉ̀ʼ 14:1–15:8</para>
+  <para style="io1">Mbʉ bəbaŋ tʉʉbʉə-Nyii təkwiitia 16:1-21</para>
+  <para style="io1">Məgwù Babilɔŋ, ghɔŋbə məghɔ́ʼ mbʉ nyaa, mbʉ yʉkəŋgieNyii nə mbii, leʼnə Debulu 17:1–20:10</para>
+  <para style="io1">Ndyiʼtə-fɛʼɛ-kə 20:11-15</para>
+  <para style="io1">Mbʉ yuo fefe, mbʉ chisê-fefe-kə, mbʉ Jɛlosalɛŋ fefe 21:1–22:5</para>
+  <para style="io1">Liʼ-bənu 22:6-21</para>
+  <chapter number="1" style="c" sid="REV 1" />
+  <para style="s">Nchʉʉhə</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 1:1" />Ŋwɔʼnə-ɔ̄ŋ nɔ bɛ ŋwɔʼnə ndə i tʉʼ dʉ̀ʼ nubə ndə Jiso Klai kə kɛ̀ʼ, ndə Nyii kə kɔ́ tʉ ɔŋ ndə mədʉ̀ʼ tʉ vâafɔʼɔ-bi, kə́ bɛ nubə ndə i kie ndə mə-chʉʼ-fyúfyú sê. Jiso Klai nɔ kə chìi Jɔŋ vaafɔ̀ʼ-ɛ kínə nubə-ɔ̄ŋ ndʉʉ ndə ɔ kə tə́ŋ wontəŋ-ɛŋ tʉ ɔŋ, <verse eid="REV 1:1" /><verse number="2" style="v" sid="REV 1:2" />Jɔŋ núhə nubə inchəŋ ndə ɔ nɔʼ kə nyíɛ. Nɔ bɛ nubə te ntəŋ ndə i gwè hə kəghɔ-Nyii leʼnə shʉəŋ ndə Jiso Klai kə kɛ̀ʼ.<verse eid="REV 1:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 1:3" />N̈yii bìʼ wo ndə ɔ tíi ŋwɔʼnə-ɔ̄ŋ ndə i tʉʼ fʉ̀ʼtə nubə ndə i bu yi fyú, bìʼ bʉə ndə bɔ̂ŋ yʉ́ bɔŋleʼ tʉ́ʼ nubə ndə bə nyɔ̀ʼ muŋgɔ, bʉʼka ŋgwɔʼmbi nɔʼ kə́ŋhə.<verse eid="REV 1:3" /></para>
+  <para style="s">Nchaʼtə Jɔŋ tʉ bəchɔshi təkwiitia</para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 1:4" />Nɔ nyɔ̀ʼ Jɔŋ nyɔ̀ʼ ŋwɔʼnə-ɔ̄ŋ tʉ bəchɔshi təkwiitia ndə i bɛ mu bie Esia.</para>
+  <para style="p" vid="REV 1:4">Tə buuŋjyu ghɔŋbə fyiighʉ́ənə bɛ yii-yə ndə i lɔ̀ hə kəghɔ-Nyii ndə ɔ bɛ, ndə ɔ kə fəŋ bɛ, bɔŋ-kə́-leʼ bɛ ndə məgwè, bɔŋleʼ lɔ̀ hə kəghɔ-lyʉʉhəbə təkwiitia ndə bɔ̂ŋ tə́nə bəshʉ kəyetə-ɔŋ, <verse eid="REV 1:4" /><verse number="5" style="v" sid="REV 1:5" />bɔŋleʼ lɔ̀ hə kəghɔ-Jiso Klai ndə ɔ bɛ wo ndə ɔ kə fʉ̀ʼtə nubə-ɔ̄ŋ nə shʉəŋ, ndə ɔ chàa bʉə bənchəŋ ndə bɔ̂ŋ bu nə kwú bʉ̀nə kóʼ,<note caller="+" style="f"><char style="fr" closed="false">1:5 </char><char style="ft" closed="false">I nɔ bɛ mbɔ Jiso nɔ bɛ fəŋ mu ŋkwu-bʉə-bə ndə bə bu kóʼhə bɔŋ.</char></note> ndə ɔ bɔŋleʼ bɛ Fɔŋ ndə ɔ tʉʼ sɔ́ʼ bəfɔŋ bənchəŋ kəwʉʉnəmbi-fɛ̄ŋ.</para>
+  <para style="p" vid="REV 1:5">Tə məgʉ́ə nchəŋnchəŋ gɛ̀ tʉ ɔŋ ndə ɔ kʉ̀ʉ bʉʼʉ, nɔʼ kə chʉ̀ʼ tʉkə-ʉʼʉ ndəŋ bʉ̂ʼtə-ʉʼʉ nə fɔbʉəkə-i, <verse eid="REV 1:5" /><verse number="6" style="v" sid="REV 1:6" />nɔʼ chìi bʉʼʉ, ndə məbɛ bʉə-bi ndə ɔ tʉʼ sɔ́ʼ bɔŋleʼ chìi bʉʼʉ bɛ bʉə ndə bʉʼʉ tʉʼ fɛ̀ʼndɛŋ tʉ Nyii mbʉ Tie-e. Tə məgʉ́ə nchəŋnchəŋ ghɔŋbə ghʉəʼkə gɛ̀ tʉ ɔŋ təmə liʼ-i ghɔ fɛ. Ï bɛ haʼ nɔ.<verse eid="REV 1:6" /></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="REV 1:7" />B̈ii nyíɛ! Ɔ tʉʼ sʉ̀ʉnə hə mu kəmbɔʼ.</para>
+  <para style="q2" vid="REV 1:7">Wotəmiyɔŋ bu nyíɛ ɔŋ,</para>
+  <para style="q2" vid="REV 1:7">tə buŋ kɔmə bʉə ndə bɔ̂ŋ kə shùɔ ŋkyii-i.</para>
+  <para style="q1" vid="REV 1:7">Bie-bʉə-hə bənchəŋ mu kəwʉʉnəmbi</para>
+  <para style="q2" vid="REV 1:7">bu dùʼ nə sɔ̀tʉkə bʉʼka mbəŋ-ɛŋ.</para>
+  <para style="q1" vid="REV 1:7">Əŋ! Ï bɛ haʼ nɔ.<verse eid="REV 1:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 1:8" />Nyii Tiekətʉ nɔ ghɔ̀ŋ mbɔ, “Mɔ nɔ bɛ fəŋ bɔŋ-kə́-leʼ bɛ ndyiʼtəkə. Mɔ nɔ bɛ wo ndə ɔ bɛ, ndə ɔ kə fəŋ bɛ, ndə ɔ bɛ ndə məgwè, kə́ bɛ Wo ndə mɔ kie ghʉəʼkə inchəŋ.”<verse eid="REV 1:8" /></para>
+  <para style="s">Jɔŋ nyíɛ Jiso mu njəŋ təmə kə́ bɛ́ŋbɛ́ŋ fɛ</para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 1:9" />Mbəŋ ɔŋ, Jɔŋ, nɔ bɛ liŋ-yii ndə mɔ nɔʼ fúu ghɔkə bʉʼʉ ndə mənyíɛ ŋgʉəʼ, ndə məbɛ mu Sɔ́ʼ-Nyii bɔŋ ndə mə-leʼ-yá fyii lyʉ̀ʉtə́nə ndə bʉʼʉ tʉʼ gɛ̀ hə bɔ̌ŋ Jiso. Bə nɔ kə jə̀ŋ mɔ kɔ́ ndəŋ kwɔŋ ntəŋntəŋ muu kəyəŋ ndə bə tíi nə Batmɔ bʉʼka ŋgieNyiikə ndə mɔ kə kə́ lɔ̀ʼ bɔŋleʼ bʉʼka nubə ndə mɔ kə kə́ kwə́ʼ te Jiso. <verse eid="REV 1:9" /><verse number="10" style="v" sid="REV 1:10" />Nɔ kə bɛ ndə chî-Tiekətʉ-kə LyʉʉhəNyiikə jyʉ́ʉhə mɔ, mɔ yʉ́ gyʉʉ dədə ndə i gìe hə bɔ̌ŋ mɔ, nə gyʉəʼə-vaa, <verse eid="REV 1:10" /><verse number="11" style="v" sid="REV 1:11" />kə́ ghɔ̀ŋ mbɔ, <char style="wj">“Nyɔ̀ʼ nukə ndə a nyíɛ mu ŋwɔʼnə, tə́ŋ kɔ́ tʉ bəchɔshi təkwiitia ndə i bɛ mu yəŋkwɛʼtəŋ-bɔ̄ŋ, Ɛfɛso, Simana, Bɛgamu, Tiatila, Sadi, Filadefia leʼnə Laodesia.”</char><verse eid="REV 1:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 1:12" />Mɔ kíahə ŋwɔŋ-ɔŋ ndə mənyíɛ wo ndə ɔ kə kə́ kwə́ʼ tʉ mɔ, nyíɛ fɔbə ndə bə mɔ̀ʼtə kɛʼtə ndəŋ ghɔ təkwiitia bə chìi nə goo. <verse eid="REV 1:12" /><verse number="13" style="v" sid="REV 1:13" />Ntəŋntəŋ bəfɔ-ghɔ̄ ndə bə mɔ̀ʼ kɛʼtə ndəŋ ghɔ le, wobɛʼ kə́ tə́nə chɔ nə vaa-woməsʉʉ, mɔ̀ʼ ndyi mbʉə-ɔ, i shíʼ tə gɛ̀ dàa ndəŋ wukə-i leʼ kɔ́ʼ kwɔkə ghɔʼ-ɔ ndə bə chìi nə goo. <verse eid="REV 1:13" /><verse number="14" style="v" sid="REV 1:14" />Nyu-kətʉ-hə-i fyûʼ tə bɛ nə nyu-binjyʉʉ-hə bɔŋleʼ fyûʼ tə bɛ nə mbɔʼ-yuo-kə, shʉ-i kə́ lèʼnə nə viʼi kwíinə. <verse eid="REV 1:14" /><verse number="15" style="v" sid="REV 1:15" />Wukə-i kə́ lèʼnə nə təŋ-ghɔʼ-kə ndə bə chéʼ mu kyʉ, gyʉʉ-i kə́ gìe nə gyʉʉ muu buŋmbi ndə i tʉʼ gwù nə ghʉəʼkə. <verse eid="REV 1:15" /><verse number="16" style="v" sid="REV 1:16" />Ɔ yá bəlɔʼɔ təkwiitia kəghɔ-ɔ kwiimɔʼnə, setə-chyʉ́ʉchyʉ́ʉ-kə, ndə i kie tʉbə ibûu, kə́ fyú hə chu-ɔ. Mbe-shʉ-i kə́ lèʼnə ndə chichi ndə i nɔʼ tə́ŋ beʼ.<verse eid="REV 1:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="REV 1:17" />Ndʉʉ ndə mɔ nyíɛ ɔŋ, mɔ gwù sê bəshʉ ɔ nə wo ndə ɔ nɔʼ kwú. Ɔ bɔŋ mɔ̀ʼ kwiimɔʼnə-i ndəŋ mɔ ghɔ̀ŋ mbɔ, <char style="wj">“Kə a mə fàa fɛ, mɔ nɔ bɛ Fəŋ, bɔŋ-kə́-leʼ bɛ Ndyiʼtəkə,</char> <verse eid="REV 1:17" /><verse number="18" style="v" sid="REV 1:18" /><char style="wj">kə́ bɛ wo ndə mɔ bɛ ŋɛnə. Mɔ nɔʼ kə kwú, bɔŋ nyíɛ, mɔ nɔ bɛ ŋɛnə nduɔ, təmə bieleʼ nə kwú fɛ, mɔ bɔŋleʼ kie ghʉəʼkə kəghɔ-mɔ ndə məgìe hə kətʉ Kwú ghɔŋbə Lɔʼɔ-bəŊkwubʉə.</char><verse eid="REV 1:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="REV 1:19" />
+    <char style="wj">“Nɔ ndʉʉmɛ, nyɔ̀ʼ nubə ndə a kə nyíɛ, nubə ndə i bɛ nduɔ, ghɔŋbə nubə ndə i bu yi sɛŋ fyú bɔ̌ŋ yɔ̄ŋ-yə.</char> <verse eid="REV 1:19" /><verse number="20" style="v" sid="REV 1:20" /><char style="wj">Nɔ bɛ nukə nɔ ndə mbʉ ŋguu bɛ yɔŋ ndə i líi bɔ̌ŋ mbʉ bəlɔʼɔ təkwiitia ndə a kə nyíɛ kəghɔ-mɔ kwiimɔʼnə ghɔŋbə fɔbə təkwiitia ndə bə mɔ̀ʼtə kɛʼtə ndəŋ ghɔ ndə bə chìi nə goo le. Mbʉ bəlɔʼɔ təkwiitia nɔ bɛ bʉəntəŋNyii ndə bɔ̂ŋ bɛ tʉ mbʉ bəchɔshi təkwiitia, mbʉ bəfɔ mɔ̀ʼ təkɛʼ təkwiitia, kə́ bɛ mbʉ bəchɔshi təkwiitia.”</char><verse eid="REV 1:20" /></para>
+  <chapter eid="REV 1" />
+  <chapter number="2" style="c" sid="REV 2" />
+  <para style="s">Ntəŋ ndə i tʉʼ gɛ̀ tʉ chɔshi ndə i bɛ Ɛfɛso</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 2:1" />
+    <char style="wj">“Nyɔ̀ʼ nubə-ɔ̄ŋ tə́ŋ tʉ wontəŋNyii ndə ɔ bɛ mu chɔshi ndə i bɛ Ɛfɛso shyíi ɔ mbɔ, ‘Nɔ bɛ ntəŋ nɔ ndə i gwè hə kəghɔ-wo ndə ɔ yá bəlɔʼɔ təkwiitia kəghɔ-ɔ kwiimɔʼnə le, kə́ leʼ tòʼ ntəŋntəŋ mbʉ bəfɔ mɔ̀ʼ təkɛʼ təkwiitia ndə bə chìi nə goo.</char><verse eid="REV 2:1" /></para>
+  <para style="p">
+    <verse number="2" style="v" sid="REV 2:2" />
+    <char style="wj">“ ‘Mɔ nɔ kínə fɔʼtə-ii, mɔ nɔ kínə ntɛ ndə bii nɔʼ fɔ̀ʼ shʉ́əshʉ́ə ghɔŋbə ntɛ ndə bii nɔʼ yá fyii-yii. Mɔ nɔ kínə mbɔ bii mə mɛ̀ʼtə bʉə-bʉ̂ʼʉ mbʉə bii fɛ, bɔŋ-nɔʼ-leʼ kə yúotə bʉə ndə bɔ̂ŋ tʉʼ tíi ŋwɔŋtə-ʉə nə bəlɔntəŋNyii, təmə bɔŋ bɛ fɛ, nyíɛ mbɔ bɔ̂ŋ nɔ tʉʼ chʉ̀ə lɛɛŋkə.</char> <verse eid="REV 2:2" /><verse number="3" style="v" sid="REV 2:3" /><char style="wj">Bii nɔʼ yá fyiihə-ii lyʉ̀ʉtə́nə, nyíɛ ŋgʉəʼ yie-mɔ təmə kə́ káa fɛ.</char><verse eid="REV 2:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 2:4" />
+    <char style="wj">“ ‘Mɔ bɔŋ kie nukə te bii ndə mɔ gòʼ təmə kʉ̀ʉ fɛ, mbɔ bii nɔʼ mɛ̀ʼtə fəŋ ŋkʉ̂ʉ-yii ndə bii kə kie tʉ mɔ.</char> <verse eid="REV 2:4" /><verse number="5" style="v" sid="REV 2:5" /><char style="wj">Nɔ, b̈ii kwɔ̀ʼtə ntyʉʉ ndə bii nɔʼ gwù hə chɔ, shìe liɛŋ-yii kə́ bʉ̀nə fɔ̀ʼ fɔʼtə ndə bii kə́ fəŋ fɔ̀ʼ. Kaʼ bii gòʼ təmə shìe liɛŋ-yii fɛ, təmə mɔ bu gwè tʉ bii, gwè chóʼ fɔ-mɔ̀ʼ-kɛʼɛ-bə-ii ndə yəŋkə-i.</char> <verse eid="REV 2:5" /><verse number="6" style="v" sid="REV 2:6" /><char style="wj">Bɔŋ bɛ nukə nɔ ndə tʉʉ-ɔ tʉ bʉ̀ʉ chɔ tʉ bii, bii nɔ bàa fɔʼɔ bʉəbʉə ndə bʉə-Nikola tʉʼ fɔ̀ʼ, mbəŋ-ɔŋ nə mbəŋ-ɔŋ nɔ bàa haʼ bàa ghɔ.</char><verse eid="REV 2:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 2:7" />
+    <char style="wj">“ ‘Wotəmiyɔŋ ndə ɔ kie tyunəkə, ɔ̈ yʉ́ nukə ndə LyʉʉhəNyiikə gìe tʉ bəchɔshi. Wo ndə ɔ mɔ̀ʼ chɔ̂-ɔ̄ tə yú, mɔ bu kɔ́ ghʉəʼkə tʉ ɔŋ ndə məyú ntɔŋ-kətyʉ-mə ndə ĩ kɔ́ məchímbi ndə i tʉʼ kóʼ mutɔ Nyii.’</char><verse eid="REV 2:7" /></para>
+  <para style="s">Ntəŋ ndə i tʉʼ gɛ̀ tʉ chɔshi ndə i bɛ Simana</para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 2:8" />
+    <char style="wj">“Nyɔ̀ʼ nubə-ɔ̄ŋ tə́ŋ tʉ wontəŋNyii ndə ɔ bɛ mu chɔshi ndə i bɛ Simana shyíi ɔ mbɔ, ‘Nɔ bɛ ntəŋ nɔ ndə i gwè hə kəghɔ-wo ndə ɔ bɛ fəŋ bɔŋleʼ kə́ bɛ ndyiʼtəkə, ndə ɔ kə kwú bɔŋleʼ bʉ̀nə kóʼ.</char><verse eid="REV 2:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 2:9" />
+    <char style="wj">“ ‘Mɔ nɔ kínə ntɛ ŋgʉəʼ ghɔŋbə ntɛ kəbyuu ndə bii bɛ muŋgɔ, bii bɔŋ kie fʉʼkə. Mɔ nɔ kínə nu-bʉəbʉə-bə ndə bʉə ndə bɔ̂ŋ tʉʼ tíi ŋwɔŋtə-ʉə nə bʉə-Juu, təmə bɔŋ kə́ bɛ fɛ, tʉʼ gìe kətʉ-bii. Bɔ̂ŋ nɔ bɛ bʉə-nuɔ-Sata.</char> <verse eid="REV 2:9" /><verse number="10" style="v" sid="REV 2:10" /><char style="wj">Kə bii mə fàa nubə ndə bii bɛ ndə mənyíɛ ŋgʉəʼ chɔ nduɔ fɛ. B̈ii nyíɛ! Debulu nɔ bɛ ndə məkɔ́ bəbɛʼbʉə mu bii chaŋ, mbɔ bə chʉʼ yúotə bii, bə bu chɔ́ŋhə bii ndə chîbə wuŋ. B̈ii lyʉ̀ʉtə́nə, kaʼ i buŋ bɛ bə kwú, mɔ bu fùɔ ŋgʉʼʉ məchímbi kətʉ-bii.</char><verse eid="REV 2:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 2:11" />
+    <char style="wj">“ ‘Wotəmiyɔŋ ndə ɔ kie tyunəkə, ɔ̈ yʉ́ nukə ndə LyʉʉhəNyiikə gìe tʉ bəchɔshi. Wo ndə ɔ mɔ̀ʼ chɔ̂-ɔ̄ tə yú, biitə-kwú-kə kʉʉ lə́ŋhə ɔŋ fɛ.’</char><verse eid="REV 2:11" /></para>
+  <para style="s">Ntəŋ ndə i tʉʼ gɛ̀ tʉ chɔshi ndə i bɛ Bɛgamu</para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 2:12" />
+    <char style="wj">“Nyɔ̀ʼ nubə-ɔ̄ŋ tə́ŋ tʉ wontəŋNyii ndə ɔ bɛ mu chɔshi ndə i bɛ Bɛgamu, shyíi ɔ mbɔ, ‘Nɔ bɛ ntəŋ nɔ ndə i gwè hə kəghɔ-wo ndə ɔ kie setə-chyʉ́ʉchyʉ́ʉ-kə ndə i kie tʉbə-i ibûu.</char><verse eid="REV 2:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 2:13" />
+    <char style="wj">“ ‘Mɔ nɔ kínə mbɔ bii nɔ bɛ kəyəŋ ndə yetə-Sata-kə bɛ chɔ. Bii bɔŋ kə́ lyʉ̀ʉtə́nə haʼ shʉ́əshʉ́ə yie-mɔ təmə bɔŋ tɛ́ŋ mɔ fɛ, tə buŋ kɔmə ndʉʉ ndə Antiba, wo ndə ɔ kə́ lɔ̀ʼ yie-ɔ nə shʉəŋ, bə yí ɔ mu kəyəŋkwɛʼtəŋ-bii, kəyəŋ ndə Sata tʉʼ chí chɔ.</char><verse eid="REV 2:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="REV 2:14" />
+    <char style="wj">“ ‘Mɔ bɔŋ kie mbyu-bənu-hə məniʼ te bii ndə mɔ gòʼ təmə kʉ̀ʉ fɛ, bʉʼka mbɔ bʉə nɔ bɛ mu bii ndə bɔ̂ŋ tʉʼ gɛ̀ hə bɔ̌ŋ Balaŋ ndə nubə ndə ɔ kə́ dàhə, ndə ɔ kə́ dàhə Balak ndə məfʉ̀ə ŋkʉʼ tʉ bʉə-Isilɛ, mbɔ bɔ̂ŋ chʉʼ gwù mu bʉ̂ʼʉ ndə məyú fɔbə ndə bə nɔʼ fɛ̀ʼ bənyii nə yɔŋ bɔŋleʼ kə́ gháa bəsəŋ.</char> <verse eid="REV 2:14" /><verse number="15" style="v" sid="REV 2:15" /><char style="wj">Nɔ bɛ haʼ nɔ ghɔ ndə bii kie bəbɛʼbʉə ndə bɔ̂ŋ tʉʼ yʉ́ nubə ndə Nikola tʉʼ dàhə.</char> <verse eid="REV 2:15" /><verse number="16" style="v" sid="REV 2:16" /><char style="wj">Nɔ, b̈ii shìe liɛŋ-yii, byuunɔ, təmə mɔ bu chʉʼ gwè tʉ bii, gwè mɔ̀ʼ chɔ̂ tʉ bɔŋ nə setəkə ndə i gwè hə chu-mɔ.</char><verse eid="REV 2:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="REV 2:17" />
+    <char style="wj">“ ‘Wotəmiyɔŋ ndə ɔ kie tyunəkə, ɔ̈ yʉ́ nukə ndə LyʉʉhəNyiikə gìe tʉ bəchɔshi. Wo ndə ɔ mɔ̀ʼ chɔ̂-ɔ̄ tə yú, mɔ bu kɔ́ ibɛʼ-yə mbʉ bəfɔ yú ndə bə tíi nə mana</char> <note caller="+" style="f"><char style="fr" closed="false">2:17 </char><char style="ft" closed="false">Mana nɔ bɛ ntɛ bəfɔyubɛʼ ndə Nyii kə kɔ́ tʉ bʉə-Isilɛ mu kwɔŋkəyəŋnə ndʉʉ ndə bɔ̂ŋ kə lɔ̀ hə Iji kə́ gɛ̀ kəyəŋ ndə Nyii kə kɔ̀ʼnə tʉ bɔŋ.</char></note> <char style="wj">tʉ ɔŋ ndə bə nɔʼ kə lə̀ŋ, kɔ́ ŋgoʼ kəfyuʼ tʉ ɔŋ ndə bə nyɔ̀ʼ yie fefe ndəŋ ghɔ ndə wo kínə fɛ, yaʼkɛŋ wo ndə ɔ fí mbʉ ŋgoʼ.’</char><verse eid="REV 2:17" /></para>
+  <para style="s">Ntəŋ ndə i tʉʼ gɛ̀ tʉ chɔshi ndə i bɛ Tiatila</para>
+  <para style="p">
+    <verse number="18" style="v" sid="REV 2:18" />
+    <char style="wj">“Nyɔ̀ʼ nubə-ɔ̄ŋ tə́ŋ tʉ wontəŋNyii ndə ɔ bɛ mu chɔshi ndə i bɛ Tiatila shyíi ɔ mbɔ, ‘Nɔ bɛ ntəŋ nɔ ndə i gwè hə kəghɔ-VaaNyii ndə shʉ-i tʉʼ lèʼnə nə viʼi kwíinə, wukə-i kə́ lèʼnə nə təŋ-ghɔʼ-kə ndə bə chéʼ hə mu kyʉ.</char><verse eid="REV 2:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="REV 2:19" />
+    <char style="wj">“ ‘Mɔ nɔ kínə fɔʼtə-ii, ŋkʉ̂ʉ ndə bii kie tʉ mɔ, ntɛ ndə bii mɔ̀ʼfyii ndəŋ mɔ, ntɛ ndə bii fɔ̀ʼ tʉ mɔ leʼnə ntɛ ndə bii nɔʼ yá fyiihə-ii lyʉ̀ʉtə́nə bɔŋleʼ kínə mbɔ bii nɔ tʉʼ fɔ̀ʼ nduɔ tə chàa ndə bii nə kə́ fəŋ fɔ̀ʼ.</char> <verse eid="REV 2:19" /><verse number="20" style="v" sid="REV 2:20" /><char style="wj">Mɔ bɔŋ kie nukə te bii ndə mɔ gòʼ təmə kʉ̀ʉ fɛ bʉʼka bii nɔ mɛ̀ʼtə woke ndə bə tíi ɔ nə Jesebɛ ndə ɔ tíi ŋwɔŋ-ɛŋ nə yʉkəŋgieNyii kə́ dàhə bɔŋleʼ fə́ʼhə vâafɔʼɔ-bɔŋ ndə mə-kə́-gháa bəsəŋ leʼ yú fɔbə ndə bə nɔʼ fɛ̀ʼ bənyii nə yɔŋ.</char> <verse eid="REV 2:20" /><verse number="21" style="v" sid="REV 2:21" /><char style="wj">Mɔ nɔ kɔ́ ŋgwɔʼmbi tʉ ɔŋ ndə məshìe liɛŋ-ɛŋ chɔ, ɔ bɔŋ tɛ́ŋ ndə məshìe liɛŋ-ɛŋ ndə bəsəŋ.</char><verse eid="REV 2:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="REV 2:22" />
+    <char style="wj">“ ‘B̈ii nyíɛ! Mɔ bu mɔ̀ʼ ɔ kəbɔ kəyɔʼ, bʉə ndə ghɔŋ bɔŋ tʉʼ gháa bəsəŋ mɔʼɔ, mɔ mɔ̀ʼ bɔŋ mu ŋgʉəʼ shʉ́əshʉ́ə, yaʼkɛŋ mbɔ b̈ɔ̂ŋ shìe liɛŋtə-ʉə ndəŋ fɔʼtə-i.</char> <verse eid="REV 2:22" /><verse number="23" style="v" sid="REV 2:23" /><char style="wj">Mɔ bu yítə bʉə ndə bɔ̂ŋ tʉʼ lʉ̀ hə kəwu-ɔ. Bəchɔshi inchəŋ bu kínə mbɔ mɔ nɔ bɛ w̃o ndə mɔ kíi ŋkwɔʼtə bʉə leʼnə fyiihə-ʉə, mɔ bɔŋleʼ bu lɔ̀ʼ wotəmiyɔŋ mu bii haʼ ndə fɔʼɔ-ɛ bɛ.</char><verse eid="REV 2:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="REV 2:24" />
+    <char style="wj">“ ‘Bɔŋ tʉ bəʼ-bʉə-kə mu Tiatila ndə bɔ̂ŋ gòʼ təmə lʉ̀ nubə-ɔ̄ŋ ndə ɔ tʉʼ dàhə fɛ, ndə bɔ̂ŋ gòʼ təmə nɔʼ yétə nubə ndə bʉəbɛʼbə tíi nə ŋkɛŋ nu-ŋguu-Sata-bə fɛ, mɔ nɔ tʉʼ ghɔ̀ŋ tʉ bii mbɔ mɔ bieleʼ kóʼhə ibɛʼ-yə bɛʼkə liɛŋ-bii fɛ.</char> <verse eid="REV 2:24" /><verse number="25" style="v" sid="REV 2:25" /><char style="wj">B̈ii yá haʼ nukə ndə bii kie tə́nə chɔ shʉ́əshʉ́ə tə mɔ yi gwè.</char> <verse eid="REV 2:25" /><verse number="26" style="v" sid="REV 2:26" /><char style="wj">Wo ndə ɔ mɔ̀ʼ chɔ̂-ɔ̄ tə yú, bɔŋleʼ yá fɔʼɔ-ɔ tə́nə chɔ tə gɛ̀ lìʼ, mɔ bu kɔ́ ghʉəʼkə tʉ ɔŋ ndə məgìe kətʉ lɔʼ-bətə̂ŋ-tə.</char> <verse eid="REV 2:26" /><verse number="27" style="v" sid="REV 2:27" /><char style="wj">Ɔ bu sɔ́ʼ bɔŋ nə ŋgwɔŋ kətəŋ, ŋìʼtə bɔŋ nə bə ŋìʼtə kyʉʉ-mbɔŋ-tə bəviabəvia le, buŋ haʼ ndə mbəŋ-ɔŋ nɔʼ fí ghʉəʼkə kəghɔ-Tie-ɔ.</char> <verse eid="REV 2:27" /><verse number="28" style="v" sid="REV 2:28" /><char style="wj">Mɔ bɔŋ bu leʼ kɔ́ lɔʼ ndʉʉfiimbi tʉ ɔŋ.</char> <verse eid="REV 2:28" /><verse number="29" style="v" sid="REV 2:29" /><char style="wj">Wotəmiyɔŋ ndə ɔ kie tyunəkə, ɔ̈ yʉ́ nukə ndə LyʉʉhəNyiikə gìe tʉ bəchɔshi.’</char><verse eid="REV 2:29" /></para>
+  <chapter eid="REV 2" />
+  <chapter number="3" style="c" sid="REV 3" />
+  <para style="s">Ntəŋ ndə i tʉʼ gɛ̀ tʉ chɔshi ndə i bɛ Sadi</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 3:1" />
+    <char style="wj">“Nyɔ̀ʼ nubə-ɔ̄ŋ kɔ́ tʉ wontəŋNyii ndə ɔ bɛ mu chɔshi ndə i bɛ Sadi shyíi ɔ mbɔ, ‘Nɔ bɛ ntəŋ nɔ ndə i gwè hə kəghɔ-wo ndə ɔ kie lyʉʉhəNyiibə təkwiitia bɔŋleʼ yá bəlɔʼɔ təkwiitia kəghɔ-ɔ.</char></para>
+  <para style="p" vid="REV 3:1">
+    <char style="wj">“ ‘Mɔ nɔ kínə fɔʼtə-ii. Bii nɔ kie yie jyujyu mbɔ bii la bɛ ŋɛnə, bii bɔŋ nɔʼ kwú.</char> <verse eid="REV 3:1" /><verse number="2" style="v" sid="REV 3:2" /><char style="wj">Nɔ, b̈ii lɔ̀ hə sê, bʉ̀nə kɔ́ ghʉəʼkə tʉ nubə ndə i bíe, i buŋ yi mìʼtə kwú, bʉʼka mɔ nɔ nyíɛ təmə bii nɔʼ lìʼ fɔʼtə-ii shʉ Nyii-ɔŋ fɛ.</char> <verse eid="REV 3:2" /><verse number="3" style="v" sid="REV 3:3" /><char style="wj">Ndʉʉmɛ, b̈ii kwɛ́nə nubə ndə bə dàhə bii nə yɔŋ, b̈ii yʉ́, tʉ́ʼ mbʉ bənu bɔŋleʼ shìe liɛŋtə-ii ndəŋ bʉ̂ʼtə. Kaʼ bii gòʼ təmə lɔ̀ hə sê fɛ, təmə mɔ bu gwè nə lʉʼ təmə bii kínə ndʉʉ ndə mɔ bu gwè tʉ bii chɔ fɛ.</char><verse eid="REV 3:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 3:4" />
+    <char style="wj">“ ‘Bii bɔŋ kie mbyu-bʉə-hə Sadi ndə bɔ̂ŋ gòʼ təmə nɔʼ túɔtə ndyihə-ʉə fɛ, baʼa bɔŋ bu tòʼ mɔʼɔ, bɔ̂ŋ bu mɔ̀ʼ ndyi-kəfyuʼ-hə bʉʼka bɔ̂ŋ nɔ kʉ̀ʼnə ndə məmɔ̀ʼ.</char> <verse eid="REV 3:4" /><verse number="5" style="v" sid="REV 3:5" /><char style="wj">Wo ndə ɔ mɔ̀ʼ chɔ̂-ɔ̄ tə yú, bə bu véʼ ɔ nə ndyi-kəfyuʼ-hə, təmə mɔ kʉʉ nə yʉ̀əʼ yie-e mu ŋwɔʼnə məchímbi fɛ. Mɔ bu tíi yie-e jyujyu bəshʉ Tie-ɔ ghɔŋbə bʉəntəŋ-bi.</char><verse eid="REV 3:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="REV 3:6" />
+    <char style="wj">“ ‘Wotəmiyɔŋ ndə ɔ kie tyunəkə, ɔ̈ yʉ́ nukə ndə LyʉʉhəNyiikə gìe tʉ bəchɔshi.’</char><verse eid="REV 3:6" /></para>
+  <para style="s">Ntəŋ ndə i tʉʼ gɛ̀ tʉ chɔshi ndə i bɛ Filadefia</para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 3:7" />
+    <char style="wj">“Nyɔ̀ʼ nubə-ɔ̄ŋ tə́ŋ tʉ wontəŋNyii ndə ɔ bɛ mu chɔshi ndə i bɛ Filadefia shyíi ɔ mbɔ, ‘Nɔ bɛ ntəŋ nɔ ndə i gwè hə kəghɔ-wo ndə ɔ bɛ ŋkʉʉ bɔŋleʼ kə́ bɛ wo-kəŋgie-shʉəŋ, ndə ɔ kie nchoʼ kəfʉəŋ Fɔŋ-Dɛbi ndə bɛ ghʉəʼkə, ndə kaʼ ɔ chóʼ njaa, wo mə fʉ̀əŋ fɛ, kaʼ ɔ fʉ̀əŋ, wo mə chóʼ fɛ.</char><verse eid="REV 3:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 3:8" />
+    <char style="wj">“ ‘Mɔ nɔ kínə fɔʼtə-ii. B̈ii nyíɛ, mɔ nɔʼ chóʼ chusii bəshʉ-bii, tʉ́ʼ ighʉ́ʉnə, təmə wo mə fʉ̀əŋ fɛ. Mɔ nɔ kínə mbɔ ghʉəʼkə-ii nɔ tə́ʼ, bii bɔŋ nɔʼ tʉ́ʼ ŋgiekə-ɔŋ təmə tɛ́ŋ yie-ɔ fɛ.</char> <verse eid="REV 3:8" /><verse number="9" style="v" sid="REV 3:9" /><char style="wj">B̈ii nyíɛ, mɔ bu chìi bʉə-nuɔ-Sata, ndə bɔ̂ŋ tʉʼ tíi ŋwɔŋtə-ʉə nə bʉə-Juu, təmə bɔŋ kə́ bɛ fɛ, kə́ bɛ lɛɛŋkə, nyíɛ, mɔ bu chìi b̈ɔ̂ŋ gwè bʉ́ʉnə bəshʉ bii, bɔ̂ŋ bu kínə mbɔ mɔ la kʉ̀ʉ bii.</char><verse eid="REV 3:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="REV 3:10" />
+    <char style="wj">“ ‘Bʉʼka mbɔ bii nɔʼ tʉ́ʼ ŋgiekə-ɔŋ, lyʉ̀ʉtə́nə yá fyiihə-ii, mɔ bu yá bii ghɔ tʉ́ʼ ndʉʉ ndə ŋgʉəʼ tʉʼ gwè kəwʉʉnəmbi ndə məyúotə bʉə-kəchisê.</char> <verse eid="REV 3:10" /><verse number="11" style="v" sid="REV 3:11" /><char style="wj">Kʉʉkə məniʼ nɔ m̈ɔ gwè, yá fɔkə ndə bii kie tə́nə chɔ shʉ́əshʉ́ə, bʉʼka wo mə yi fí ŋgʉʼʉ-yii.</char> <verse eid="REV 3:11" /><verse number="12" style="v" sid="REV 3:12" /><char style="wj">Wo ndə ɔ mɔ̀ʼ chɔ̂-ɔ̄ tə yú, mɔ bu chìi ɔ bɛ kyʉʉ mu njaafɛ̀ʼndɛŋNyii-ɔŋ ndə ɔ mə nə fyú chɔ fɛ. Mɔ bu nyɔ̀ʼ yie Nyii-ɔŋ ndəŋ ɔŋ ghɔŋbə yie kəyəŋkwɛʼtəŋ Nyii-ɔŋ, mbʉ Jɛlosalɛŋ fefe, ndə i bu shíʼ gwè hə yuo kəghɔ-Nyii-ɔŋ, ghɔŋbə yie-fefe-ɔ.</char><verse eid="REV 3:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 3:13" />
+    <char style="wj">“ ‘Wotəmiyɔŋ ndə ɔ kie tyunəkə, ɔ̈ yʉ́ nukə ndə LyʉʉhəNyiikə gìe tʉ bəchɔshi.’</char><verse eid="REV 3:13" /></para>
+  <para style="s">Ntəŋ ndə i tʉʼ gɛ̀ tʉ chɔshi ndə i bɛ Laodesia</para>
+  <para style="p">
+    <verse number="14" style="v" sid="REV 3:14" />
+    <char style="wj">“Nyɔ̀ʼ nubə-ɔ̄ŋ tə́ŋ tʉ wontəŋNyii ndə ɔ bɛ mu chɔshi ndə i bɛ Laodesia shyíi ɔ mbɔ, ‘Nɔ bɛ ntəŋ nɔ ndə i gwè hə kəghɔ-wo ndə bə tíi ɔ nə Ï Bɛ Haʼ Nɔ, mbʉ wo-kəŋgie-shʉəŋ ndə ɔ nú gwù shʉəŋ, ndə ɔ bɛ wo ndə Nyii kə chìi fɔbə inchəŋ tíŋ hə bɔ̌ŋ ɔŋ.</char><verse eid="REV 3:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="REV 3:15" />
+    <char style="wj">“ ‘Mɔ nɔ kínə fɔʼtə-ii, mbɔ bii ghɔʼ fɛ təmə bɔŋ ghʉ́ə fɛ, mɔ nɔ tʉʼ gwía mbɔ, nɔ kə bʉ̀ʉ b̈ii ghʉ́ə byuunɔ ghɔʼ.</char> <verse eid="REV 3:15" /><verse number="16" style="v" sid="REV 3:16" /><char style="wj">Nɔ, bʉʼka mbɔ bii bɛ muu-ghɔ́nə-mə, təmə ghɔʼ fɛ, təmə ghʉ́ə fɛ, mɔ bu tyù bii chu-mɔ.</char> <verse eid="REV 3:16" /><verse number="17" style="v" sid="REV 3:17" /><char style="wj">Bʉʼka bii nɔ tʉʼ ghɔ̀ŋ mbɔ, “Baʼa nɔ bɛ bʉə-kəfʉʼ, baʼa nɔʼ kie fɔbə yɔ́ŋyɔ́ŋ, baʼa tʉʼ leʼ byúu fɔkə fɛ!” Təmə bii bɔŋ kə́ kínə mbɔ bii bɛ bənyíɛ ŋgʉəʼ, tʉ-bʉə-kə kə́ vyíi ndəŋ bii, bii kə́ bɛ bʉə-mbʉʼ, bəfʉ̀əŋtəshʉ bɔŋleʼ kə́ bɛ kənchiʼtʉʉ fɛ.</char> <verse eid="REV 3:17" /><verse number="18" style="v" sid="REV 3:18" /><char style="wj">Mɔ nɔ tʉ́ʼ bii mbɔ b̈ii nyúɔ goo kəghɔ-mɔ ndə bə nɔʼ tɔ̀ŋ nə viʼi i tʉ́ʉnə, mbɔ bii chʉʼ bɛ bʉə-kəfʉʼ, bɔŋleʼ nyúɔ ndyi kəfyuʼ, bɔ̀ŋ nchiʼtʉʉkə-ii nə yɔŋ, fyúhə tʉvyiikə mbʉə-bii, ghɔŋbə ŋgwomə ndə məchɛ̀nə shʉ-yii nə yɔŋ mbɔ bii chʉʼ kə́ nyíɛ yəŋkə.</char> <verse eid="REV 3:18" /><verse number="19" style="v" sid="REV 3:19" /><char style="wj">M̃ɔ nɔ sɔ́ʼ bʉə ndə mɔ kʉ̀ʉ bɔŋleʼ gwúu bɔŋ, nɔ, b̈ii kɔ́ fyiihə-ii shʉ́əshʉ́ə ndə məshìe liɛŋ-yii ndəŋ bʉ̂ʼtə.</char><verse eid="REV 3:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="REV 3:20" />
+    <char style="wj">“ ‘B̈ii nyíɛ, mɔ nɔ tə́nə chusii kə́ kwɔ̀ŋtə. Kaʼ wo yʉ́ gyʉʉ-ɔ, ŋɔ́ʼhə chusii, mɔ ŋíi gwè bìatə ɔŋ, mɔ yú baʼa ɔ, ɔ bɔŋleʼ yú baʼa ɔ mɔʼ.</char> <verse eid="REV 3:20" /><verse number="21" style="v" sid="REV 3:21" /><char style="wj">Wo ndə ɔ mɔ̀ʼ chɔ̂-ɔ̄ tə yú, mɔ bu kɔ́ ghʉəʼkə tʉ ɔŋ baʼa ɔ yétə mɔʼ ndəŋ yetəkə-ɔŋ, haʼ ndə mɔ kə mɔ̀ʼ tə yú, baʼa Tie-ɔ yétə mɔʼ ndəŋ yetəkə-i.</char><verse eid="REV 3:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="REV 3:22" />
+    <char style="wj">“ ‘Wotəmiyɔŋ ndə ɔ kie tyunəkə, ɔ̈ yʉ́ nukə ndə LyʉʉhəNyiikə gìe tʉ bəchɔshi.’ ”</char><verse eid="REV 3:22" /></para>
+  <chapter eid="REV 3" />
+  <chapter number="4" style="c" sid="REV 4" />
+  <para style="s">Mələ̀ʼtə Nyii yuo</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 4:1" />Kʉ̂ʉ bɛ ndə yɔ̄ŋ-yə kə tíŋ, mɔ bìʼ nyíɛ ibɛʼ-yə nubə, nyíɛ chusii ndə i tə́nə ighʉ́ʉnə yuo. Fəŋ gyʉʉ ndə mɔ kə fəŋ yʉ́, i kwə́ʼ tʉ mɔ nə gyʉəʼə-vaa le, ghɔ̀ŋ mbɔ, <char style="wj">“Kóʼ gwè fɛ̄ŋ, mɔ bu dʉ̀ʼ nubə tʉ a ndə i bu yaʼ fyú ndʉʉ ndə yɔ̄ŋ-yə tíŋ.”</char> <verse eid="REV 4:1" /><verse number="2" style="v" sid="REV 4:2" />Haʼ ndʉʉmɛ, LyʉʉhəNyiikə chʉ́ʉhə məjyʉ́ʉhə mɔ, mɔ nyíɛ yetəkə ndə i tə́nə yuo, wo kə́ yétə ndəŋ ghɔ. <verse eid="REV 4:2" /><verse number="3" style="v" sid="REV 4:3" />Wo ndə ɔ kə dùʼ ndəŋ ghɔ kə́ lèʼnə nə ŋgoʼbɛʼ ndə bə kə́ tíi nə jasaba leʼnə ŋgoʼ ndə bə kə́ tíi nə kanilia* ndə i bɛ kəmbuu, ŋkwunduŋ yə̀ŋhə mbʉ kəyetə fúu fínə ŋgoʼbɛʼ ndə bə kə tíi nə ɛmɛla i kə́ bɛ lúhə. <verse eid="REV 4:3" /><verse number="4" style="v" sid="REV 4:4" />Yetəbə njuɔ kwi nə wuŋ bûu nɔ kə tə́ŋtə yə̀ŋhə mbʉ kəyetə, bəntəŋbəshʉ ghəŋ ndə bɔ̂ŋ kie kuŋhə, bɔ̂ŋ njuɔ kwi nə wuŋ bûu dùʼtə ndəŋ ghɔ, bə véʼ bɔŋ nə ndyi-kəfyuʼ-hə, bɔŋleʼ fùɔ ŋgʉʼhə, ndə bə chìi nə goo, kətʉ-bɔŋ. <verse eid="REV 4:4" /><verse number="5" style="v" sid="REV 4:5" />Leʼnə-wyuu-bə kə́ fyú hə ndəŋ fəŋ kəyetə, mədùŋtə ghɔŋbə fuu-yuo kə́ bɔ̀ʼtə chɔ. Kɛʼtə təkwiitia, kə́ kwíi bəshʉ ghɔ, ndə bɛ lyʉʉhə-Nyii-bə təkwiitia. <verse eid="REV 4:5" /><verse number="6" style="v" sid="REV 4:6" />Shʉ-mbʉ-kəyetə-bə, kə́ nʉ̀ʉ kəfyuʼ nə ŋgwɛŋ galashi, tʉ́ʉnə tə bɛ nə vii.</para>
+  <para style="p" vid="REV 4:6">Fɔbɛʼbə tʉbə-ʉə kwi ndə bɔ̂ŋ bɛ ŋɛnə, shʉtə kwóhə bɔŋ bəshʉ tə gɛ̀ dàa bɔ̌ŋ liɛŋ-bɔŋ tə́ŋtə mbʉə mbʉ kəyetə bəviabəvia. <verse eid="REV 4:6" /><verse number="7" style="v" sid="REV 4:7" />Fəŋ mu fɔbə-iŋ ndə bɔ̂ŋ bɛ ŋɛnə le, kə́ bɛ nə bʉʼ, ntyunəkə kə́ bɛ nə vaaŋgwɔŋ naʼ ləŋ, yi-yə ndə ɔ leʼ tyúnə kie mbe shʉ nə yi-wo-yə, yi-yə ndə ɔ lìʼtə bɔ̌ŋ kə́ bɛ nə mbʉʼməghe ndə mətíe. <verse eid="REV 4:7" /><verse number="8" style="v" sid="REV 4:8" />Mbyu imɔʼ mu fɔbə-īŋ ndə bɔ̂ŋ bɛ ŋɛnə le, kə́ kie ghɔnətə ntʉʼʉ, shʉtə kə́ bɛ ndəŋ mbʉ bəghɔnə yə̀ŋ fə́nə, liɛŋ-ɛŋ ghɔŋbə mu-i. Ndʉʉnəchî ghɔŋbə ndʉʉbətyuʼ, təmə bɔ̂ŋ nɔʼ nə káa ndə mə-kə́-gìe mbɔ,</para>
+  <para style="q1" vid="REV 4:8">“Ŋkʉʉ, ŋkʉʉ, ŋkʉʉ, nɔ bɛ mbʉ Nyii Tiekətʉ ndə ɔ kie ghʉəʼkə inchəŋ,</para>
+  <para style="q2" vid="REV 4:8">ndə ɔ kə fəŋ bɛ, ndə ɔ bɛ, bɔŋ-kə́-leʼ bɛ ndə məgwè.”<verse eid="REV 4:8" /></para>
+  <para style="m">
+    <verse number="9" style="v" sid="REV 4:9" />Ndʉʉtəmiyɔŋ ndə mbʉ bəfɔ ŋɛnə-ghɔ̄ kwi tʉʼ kɔ́ məgʉ́ə ghɔŋbə kuŋhə leʼnə ndɔ tʉ mbəŋ-ɛŋ ndə ɔ yétə ndəŋ mbʉ kəyetə, ndə məchimbi-i kie liʼ fɛ, <verse eid="REV 4:9" /><verse number="10" style="v" sid="REV 4:10" />mbʉ bəntəŋbəshʉ ghəŋ ndə bɔ̂ŋ kie kuŋhə, njuɔ kwi nə wuŋ bûu bʉ́ʉnə bəshʉ mbʉ wo ndə ɔ yétə ndəŋ mbʉ kəyetə, lə̀ʼtə mbʉ wo ndə məchimbi-i kie liʼ fɛ. Bɔ̂ŋ yíɛʼhə ŋgʉʼhə-ʉə mɔ̀ʼ sê bəshʉ mbʉ kəyetə, ghɔ̀ŋ mbɔ,<verse eid="REV 4:10" /></para>
+  <para style="q1">
+    <verse number="11" style="v" sid="REV 4:11" />Nyii Tiekətʉ-yaʼ, a nɔ kʉ̀ʼnə wo ä kie məgʉ́ə, kuŋhə, b̈ə bɔŋleʼ lə̀ʼtə a ndə ghʉəʼkə-a, bʉʼka nɔ chìi a chìi fɔbə inchəŋ, a nɔ chìi bɔŋ, bɔ̂ŋ kə́ chí mbi ndə ŋkʉʉnə tʉʉ-a.<verse eid="REV 4:11" /></para>
+  <chapter eid="REV 4" />
+  <chapter number="5" style="c" sid="REV 5" />
+  <para style="s">Mbʉ ŋwɔʼnə ghɔŋbə mbʉ Vaabinjyʉʉ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 5:1" />Ndʉʉmɛ, mɔ nɔ kə nyíɛ ŋwɔʼnə<note caller="+" style="f"><char style="fr" closed="false">5:1 </char><char style="ft" closed="false">Nɔ kə bɛ ntɛ ŋwɔʼnəbɛʼ ndə bə kə́ kíatəkíatə ndə bə kíatə mata le.</char></note> kwiimɔʼnə wo ndə ɔ kə yétə ndəŋ mbʉ kəyetə, bə nyɔ̀ʼ fɔbə chɔ ndəŋ viabə inchəŋ kíatə, lyʉ́ʼ nə mbəʼ-mʉə-bə<note caller="+" style="f"><char style="fr" closed="false">5:1 </char><char style="ft" closed="false">Bə nɔ nə kə́ nyɔ̀ʼ bəŋwɔʼnə vɛʼ-ghɔ̄ nɔ, bə kíatə tyíi mʉə ndəŋ tʉbə-i bʉʼka i məyɔ̀ʼnə, təmə wo mə bɔ̀ʼ fɛ, yaʼkɛŋ haʼ wo ndə yie-e bɛ ndəŋ mbʉ ŋwɔʼnə byuunɔ wo ndə bə kɔ́ ghʉəʼkə tʉ ɔŋ ndə məbɔ̀ʼ.</char></note> təkwiitia. <verse eid="REV 5:1" /><verse number="2" style="v" sid="REV 5:2" />Mɔ nyíɛ wontəŋkwɛʼtəŋNyii ndə ɔ tíi nə gyʉʉ dədə ghɔ̀ŋ mbɔ, “Bɛ nda ndə ɔ kʉ̀ʼnə ndə məbɔ̀ʼtə mbəʼ-bəmʉə-bə-ɔ̄ŋ bɔŋleʼ yɔ̀ʼtə ŋwɔʼnə-ɔ̄ŋ?” <verse eid="REV 5:2" /><verse number="3" style="v" sid="REV 5:3" />Bɔŋ təmə wo bɛ ghɔ yuo byuunɔ kəchisê byuunɔ mu sê ndə ɔ kʉ̀ʼnə ndə məyɔ̀ʼ mbʉ ŋwɔʼnə, lɛ́nə mu-i fɛ.<verse eid="REV 5:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 5:4" />Mɔ chʉ́ʉhə kə́ gwía nə ghʉəʼkə bʉʼka wo kə bɛ ghɔ ndə ɔ kʉ̀ʼnə ndə məyɔ̀ʼ mbʉ ŋwɔʼnə byuunɔ lɛ́nə mu-i fɛ. <verse eid="REV 5:4" /><verse number="5" style="v" sid="REV 5:5" />Mbyu ntəŋbəshʉ ghəŋ imɔʼ ndə ɔ kie kuŋhə gìe tʉ mɔ mbɔ, “Kə a mə leʼ gwía fɛ. Nyíɛ, bʉʼ ndə ɔ lɔ̀ hə kəlɔŋ Juda, lyʉʼʉ ŋgwie Dɛbi, nɔʼ yú mbʉ chɔ̂, mbɔ ɔ chʉʼ kie ghʉəʼkə ndə məbɔ̀ʼtə mbʉ bəmbəʼ mʉə təkwiitia, yɔ̀ʼ mbʉ ŋwɔʼnə.”<verse eid="REV 5:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="REV 5:6" />Ntəŋntəŋ mbʉ kəyetə ghɔŋbə fɔ-ŋɛnə-bə-īŋ kwi le, leʼnə ntəŋntəŋ mbʉ bəntəŋbəshʉ ghəŋ ndə bɔ̂ŋ kie kuŋhə le, mɔ nyíɛ Vaabinjyʉʉ kə́ tə́nə chɔ, fi nə bə nɔʼ gwía ɔ. Ɔ kie ndʉʉhə təkwiitia, leʼnə shʉtə təkwiitia ndə bɛ lyʉʉhə-Nyii-bə təkwiitia ndə bə nɔʼ tə́ŋ wɔ̀ʼhə ndəŋ yəŋbə inchəŋ kəchisê. <verse eid="REV 5:6" /><verse number="7" style="v" sid="REV 5:7" />Mbʉ Vaabinjyʉʉ gɛ̀ fí mbʉ ŋwɔʼnə kəghɔ-ɔ kwiimɔʼnə mbʉ wo ndə ɔ yétə ndəŋ mbʉ kəyetə. <verse eid="REV 5:7" /><verse number="8" style="v" sid="REV 5:8" />Ndʉʉ ndə ɔ nɔʼ kə fí mbʉ ŋwɔʼnə, mbʉ bəfɔ-ŋɛnə-ghɔ̄bə kwi ghɔŋbə mbʉ bəntəŋbəshʉ ghəŋ ndə bɔ̂ŋ kie kuŋhə njuɔ kwi nə wuŋ bûu le bʉ́ʉnə sê bəshʉ mbʉ Vaabinjyʉʉ. Wotəmiyɔŋ mu bɔŋ kie ŋkyitə kəghɔ-ɔ, leʼnə bəbaŋ ndə bə chìi nə goo, i kə́ bɛ i lə́ŋtə nə lyiikə ndə bɛ məgháaNyii bʉə-Nyii. <verse eid="REV 5:8" /><verse number="9" style="v" sid="REV 5:9" />Bɔ̂ŋ yùɔ lyuu fefe kə́ ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 5:9">“A nɔ kʉ̀ʼnə ndə məlʉ̀ mbʉ ŋwɔʼnə</para>
+  <para style="q2" vid="REV 5:9">bɔ̀ʼtə mbəʼ-bəmʉə-bə-i,</para>
+  <para style="q1" vid="REV 5:9">Bʉʼka bə nɔ kə gwìatə a, a chʉ̀ʼ tʉ-bʉə-kə tʉ Nyii nə fɔbʉəkə-a,</para>
+  <para style="q2" vid="REV 5:9">bʉə ndə bɔ̂ŋ lɔ̀ hə ndə lɔŋbə inchəŋ, lɔ̀ hə ndə ŋgie-bətə̂ŋ-bə inchəŋ, lɔ̀ hə ndə bie-bʉə-hə inchəŋ, leʼnə lɔʼ-bətə̂ŋ-tə inchəŋ.<verse eid="REV 5:9" /></para>
+  <para style="q1">
+    <verse number="10" style="v" sid="REV 5:10" />A nɔʼ chìi bɔŋ, bɔ̂ŋ bɛ lɔʼɔ kətə̂ŋ bɔŋleʼ bɛ bʉə ndə bɔ̂ŋ tʉʼ fɛ̀ʼndɛŋ tʉ Nyii-yaʼ, ndə bɔ̂ŋ bu yi leʼ sɔ́ʼ chisêkə.”<verse eid="REV 5:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 5:11" />Mɔ bìʼ lɛ́nə, yʉ́ gyʉʉ bʉəntəŋNyii chɔ yɔ́ŋyɔ́ŋ, i bɛ buŋmbibuŋmbi təmə bə mə súu fɛ, i bɛ ŋkɔŋŋkɔŋhə, bɔ̂ŋ kə́ tə́ŋtə yə̀ŋ mbʉ kəyetə leʼnə mbʉ bəfɔ-ŋɛnə-bə-īŋ, leʼnə bəntəŋbəshʉ ghəŋ ndə bɔ̂ŋ kie kuŋhə le, <verse eid="REV 5:11" /><verse number="12" style="v" sid="REV 5:12" />kə́ gìe nə gyʉʉ dədə mbɔ,</para>
+  <para style="q1" vid="REV 5:12">“Vaabinjyʉʉ ndə bə kə gwìa ɔ,</para>
+  <para style="q2" vid="REV 5:12">nɔ kʉ̀ʼnə ndə məkie ghʉəʼkə ndə məsɔ́ʼ bʉə, kie fʉʼkə, kie mukətʉ-súunə, fí ghʉəʼkə, kie kuŋhə, kie məgʉ́ə, b̈ə bɔŋleʼ chʉ̀ʉ ɔ.”<verse eid="REV 5:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 5:13" />Mɔ bɔŋleʼ yʉ́ fɔ-ŋɛnə-bə inchəŋ ndə Nyii chìi ndə i bɛ mu yuo, kəchisê, wʉʉnəmbikə ndə i bɛ tɔʼɔ kəchisê leʼnə mu muu leʼnə nə fɔbə inchəŋ ndə i bɛ mu bɔŋ kə́ ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 5:13">“Bə nɔ kie ndə məchʉ̀ʉ mbəŋ-ɛŋ ndə ɔ yétə ndəŋ mbʉ kəyetə leʼnə mbʉ Vaabinjyʉʉ, kɔ́ kuŋhə, kɔ́ məgʉ́ə leʼnə ghʉəʼkə tʉ bɔŋ təmə liʼ-i ghɔ fɛ.”<verse eid="REV 5:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="REV 5:14" />Mbʉ bəfɔ-ŋɛnə-ghɔ̄bə kwi ghɔ̀ŋ mbɔ, “Ï bɛ haʼ nɔ!” Mbʉ bəntəŋbəshʉ ghəŋ ndə bɔ̌ŋ kie kuŋhə bʉ́ʉnə sê lə̀ʼtə Nyii ghɔŋbə mbʉ Vaabinjyʉʉ.<verse eid="REV 5:14" /></para>
+  <chapter eid="REV 5" />
+  <chapter number="6" style="c" sid="REV 6" />
+  <para style="s">Mbʉ Vaabinjyʉʉ bɔ̀ʼtə mbʉ fəŋ-bəmʉə-tə ntʉʼʉ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 6:1" />Ndʉʉmɛ, mɔ nyíɛ ndə mbʉ Vaabinjyʉʉ bɔ̀ʼ fəŋ mʉə mu mbʉ bəmʉə təkwiitia bɔŋleʼ yʉ́ mbyu kəfɔ mu fɔ-ŋɛnə-bə-īŋ kwi le, bɔ̀ʼtə nə gyʉʉ dədə nə fuu-yuo mbɔ, “Gwè!” <verse eid="REV 6:1" /><verse number="2" style="v" sid="REV 6:2" />Mɔ lɛ́nə, nyíɛ nyaa-bəkatə kəfyuʼ. Wo ndə ɔ dùʼ ndəŋ ghɔ kie dùu-ŋwɛŋ-kə kəghɔ-ɔ, bə kɔ́ bɛnə tʉ ɔŋ. Ɔ tə́ŋ fyú gwè nə wo ndə ɔ nɔʼ mɔ̀ʼ chɔ̂ tə yú, bɔŋ-bu-leʼ bìʼ mɔ̀ʼ yú.<verse eid="REV 6:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 6:3" />Ndʉʉ ndə ɔ kə bɔ̀ʼ ibɛʼ-yə mʉə ndə vɛʼ bûu nduɔ, mɔ yʉ́ ndə biitəkə mu fɔ-ŋɛnə-bə-īŋ kwi le ghɔ̀ŋ mbɔ, “Gwè!” <verse eid="REV 6:3" /><verse number="4" style="v" sid="REV 6:4" />Ibɛʼ-yə nyaa-bəkatə fyú gwè bùu mbuu-fyûʼ-kə. Wo ndə ɔ dùʼ ndəŋ ghɔ, bə kɔ́ fia tʉ ɔŋ ndə məlʉ̀ fyiighʉ́ənə kəchisê, mbɔ bʉəməsʉʉ chʉʼ kə́ yítə ŋwɔŋtə-ʉə nə chɔ̂. Bə bɔŋleʼ kɔ́ lɔkɔʼ kəsetə tʉ ɔŋ.<verse eid="REV 6:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="REV 6:5" />Ndʉʉ ndə ɔ bɔ̀ʼ ibɛʼ-yə mbəʼ-mʉə-kə ndə vɛʼ tia, mɔ yʉ́ ndə ibɛʼ-yə bìitə bɔ̌ŋ ghɔ vɛʼ bûu mu fɔ-ŋɛnə-bə-īŋ le ghɔ̀ŋ mbɔ, “Gwè!” Mɔ bɔŋleʼ lɛ́nə, nyíɛ nyaa-bəkatə kəfʉəŋ. Wo ndə ɔ dùʼ ndəŋ ghɔ yá fɔkə kəghɔ-ɔ ndə bə lʉ̀ fʉ̀ʼ kəfɔ ndəŋ ghɔ mbyuhə ibûu. <verse eid="REV 6:5" /><verse number="6" style="v" sid="REV 6:6" />Mɔ yʉ́ fɔbɛʼkə ndə i gìe nə gyʉʉ, kə́ gwè hə mu fɔ-ŋɛnə-bə-īŋ kwi le kə́ ghɔ̀ŋ mbɔ, “Mbyu ŋke lɛshi nɔ bɛ kyʉə fɔʼɔ kəchîmbi, bəŋke-suu itia kə́ bɛ kyʉə fɔʼɔ kəchîmbi. Kə a mə bʉ́əhə tyʉ-oli-bə ndə b̃ə chìi ŋgwomə chɔ ghɔŋbə tyʉ-geleb-bə ndə b̃ə chìi ndʉʼmə chɔ fɛ.”<verse eid="REV 6:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 6:7" />Ndʉʉmɛ, mbʉ Vaabinjyʉʉ bɔ̀ʼ ibɛʼ-yə mbəʼ-mʉə-kə ndə vɛʼ kwi nduɔ, mɔ yʉ́ ndə mbyu kəfɔ ndə ɔ bìitə bɔ̌ŋ ghɔ vɛʼ tia mu fɔ-ŋɛnə-bə-īŋ kwi le ghɔ̀ŋ mbɔ, “Gwè!” <verse eid="REV 6:7" /><verse number="8" style="v" sid="REV 6:8" />Mɔ lɛ́nə nyíɛ njəŋtə-nyaa-bəkatə-kə ndə nyɔʼkə-i bɛ nə ŋkɔ, wo ndə ɔ dùʼ ndəŋ ghɔ, yie-e kə́ bɛ Kwú, Lɔʼɔ-bəŊkwubʉə kə́ gwè hə bɔ̌ŋ ɔŋ. Bɔ̂ŋ kə́ bʉ́ kətʉ yəŋkə imɔʼ mu yəŋbə kwi ndə bə gyʉ̀əhə wʉʉnəmbikə chɔ, ndə məyítə bʉə nə chɔ̂, nə chyʉʉ, nə yɔʼkə leʼnə nyaa-muŋkɔ-hə ndə bɔ̂ŋ bɛ kəchisê.<verse eid="REV 6:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 6:9" />Ndʉʉ ndə mbʉ Vaabinjyʉʉ bɔ̀ʼ ibɛʼ-yə mʉə kə́ bɛ vɛʼ taa nduɔ, mɔ nyíɛ lyʉʉhə-bʉə-bə tiɛŋ kəyəŋfɛ̀ʼndɛŋNyii kə́ bɛ bʉə ndə bə kə gwìatə bɔŋ bʉʼka ŋgieNyiikə ghɔŋbə məlyʉ̀ʉtə́nə ndə bɔ̂ŋ kə tə́nə ndə məlɔ̀ʼ ŋgieNyiikə. <verse eid="REV 6:9" /><verse number="10" style="v" sid="REV 6:10" />Bɔ̂ŋ tíi nə gyʉʉ dədə mbɔ, “Tiekətʉ, ndə a tʉʼ bʉ́ kətʉ wʉʉnəmbikə inchəŋ, ndə a bɛ ŋkʉʉ bɔŋ-kə́-leʼ bɛ wo gìe shʉəŋ, i bu chí ntyʉʉ təka, a buŋ kwɛ̀ fɛʼɛ bʉə-kəchisê tyú bʉ̂ʼʉ ndə bɔ̂ŋ kə chìi ndə məyítə baʼa?” <verse eid="REV 6:10" /><verse number="11" style="v" sid="REV 6:11" />Wotəmiyɔŋ mu bɔŋ, bə nɔ kə kɔ́ ndyi-kəfyuʼ-hə tʉ ɔŋ, shyíi bɔŋ mbɔ bɔ̂ŋ la bu dùʼ káa tə kwìhə, tə b̈ə yi yítə bəbɛʼvâafɔʼɔ ndə ghɔŋ bɔ̂ŋ kə́ fɔ̀ʼ mɔʼɔ ndə bɛ bəliŋ-bʉə, ndə bə kie ndə məyítə bɔŋ haʼ ndə bə kə yítə bɔŋ ghɔ le.<verse eid="REV 6:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 6:12" />Ndʉʉ ndə mbʉ Vaabinjyʉʉ bɔ̀ʼ ibɛʼ-yə mʉə kə́ bɛ vɛʼ ntʉʼʉ nduɔ, mɔ lɛ́nə nyíɛ, fɔŋ məŋɛ̀nə ndə chisêkə ŋɛ̀nə, chichi kíahə kəfʉəŋ ndə ndyi lí kwú, chisuu inchəŋ kíahə bɛ nə fɔbʉəkə, <verse eid="REV 6:12" /><verse number="13" style="v" sid="REV 6:13" />bəlɔʼɔ-yuo chóʼtə gwùtə kəchisê, nə ntɔŋ-fik-mə ndə i gòʼ təmə nɔʼ tə̀ŋ fɛ chóʼtə ndəŋ tyʉkə gwùtə sê ndə ndʉʉ ndə fʉʉ-shʉ́əshʉ́ə-kə gwè le. <verse eid="REV 6:13" /><verse number="14" style="v" sid="REV 6:14" />Yuo gyʉ̀əhə kíatə nə via-ŋwɔʼnə-kə kíatə le, bə chóʼtə kwɔŋhə inchəŋ, leʼnə kwɔŋhə ndə i tə́nə ntəŋntəŋ muu, ndə yəŋbə-ʉə. <verse eid="REV 6:14" /><verse number="15" style="v" sid="REV 6:15" />Ndʉʉmɛ, bəfɔŋ kəwʉʉnəmbi, bʉəkwɛʼtəŋ lɔʼɔ, bəntəŋbəshʉ bəsɔge, bʉə-kəfʉʼ, bʉə shʉ́əshʉ́ə, wotəmiyɔŋ, bʉə ndə bɔ̂ŋ bɛ fʉəhə leʼnə bʉə ndə bɔ̂ŋ gòʼ təmə bɛ fʉəhə fɛ, gɛ̀ lə̀ŋ ŋwɔŋtə-ʉə mu mbyuʼhə ndə i bɛ ndəŋ ŋgoʼhə leʼnə tɔʼ-ŋgoʼ-hə ndə i bɛ kwɔŋhə, <verse eid="REV 6:15" /><verse number="16" style="v" sid="REV 6:16" />kə́ tíitə tʉ kwɔŋhə ghɔŋbə ŋgoʼhə mbɔ, “B̈ii gwùtə ndəŋ baʼa kwóhə baʼa shʉ-wo ndə ɔ dùʼ ndəŋ mbʉ kəyetə leʼnə tʉʉbʉə mbʉ Vaabinjyʉʉ, <verse eid="REV 6:16" /><verse number="17" style="v" sid="REV 6:17" />bʉʼka chî-tʉʉbʉəkwɛʼtəŋkə-ʉə-ghɔ̄-kə nɔʼ gwè, bɛ nda ndə bəkɔ ɔ tə́nə?”<verse eid="REV 6:17" /></para>
+  <chapter eid="REV 6" />
+  <chapter number="7" style="c" sid="REV 7" />
+  <para style="s">Mbʉ bʉə-Isilɛ 144,000 ndə bə nɔʼ chèʼ bɔŋ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 7:1" />Yɔ̄ŋ-yə kʉ̂ʉ tíŋ, mɔ nyíɛ bʉəntəŋNyii kwi, bɔ̂ŋ kə́ tə́nə ndəŋ byûu-mbi-tə kwi, kə́ kyʉ̀hə fʉʉkə kwi bʉʼka i məfʉ̀ʉ ndəŋ ŋkʉə-sê-kə byuunɔ muukwɛʼtəŋmə byuunɔ mətʉ́ʉhə tyʉkə təmiyɔŋ. <verse eid="REV 7:1" /><verse number="2" style="v" sid="REV 7:2" />Mɔ nyíɛ ibɛʼ-yə wontəŋNyii ndə ɔ kə́ kóʼ gwè hə kwii ndə chichi sɔ́ʼ chɔ nə cheʼ-Nyii-kə ndə ɔ bɛ ŋɛnə kəghɔ-ɔ, tíi mbʉ bʉəntəŋNyii kwi ndə bə nɔʼ kə kɔ́ ghʉəʼkə tʉ bɔŋ ndə məmɔ̀ʼ ləŋkə ndəŋ ŋkʉə-sê-bə ghɔŋbə muu nə gyʉʉ dədə, <verse eid="REV 7:2" /><verse number="3" style="v" sid="REV 7:3" />mbɔ, “Kə bii mə mɔ̀ʼ ləŋkə ndəŋ ŋkʉə-sê-kə byuunɔ ndəŋ muu byuunɔ ndəŋ tyʉbə fɛ, tʉ baʼa chèʼ vâafɔʼɔ Nyii-yaʼ ndəŋ chutəyitə-ʉə lìʼ.”<verse eid="REV 7:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 7:4" />Mɔ yʉ́ ntyʉʉ-bʉə ndə bə kə chèʼ bɔŋ, ndə lɔŋbə nchəŋnchəŋ-ɛŋ ndə i bɛ mu Isilɛ kə́ bɛ bʉə 144,000,<verse eid="REV 7:4" /></para>
+  <para style="b" />
+  <para style="q1">
+    <verse number="5" style="v" sid="REV 7:5" />bʉə 12,000 nɔ kə lɔ̀ hə mu kəlɔŋ Juda ndə bə chèʼ bɔŋ,</para>
+  <para style="q1" vid="REV 7:5">bʉə 12,000 lɔ̀ hə mu kəlɔŋ Lɔbiŋ,</para>
+  <para style="q1" vid="REV 7:5">bʉə 12,000 lɔ̀ hə mu kəlɔŋ Ga,<verse eid="REV 7:5" /></para>
+  <para style="q1">
+    <verse number="6" style="v" sid="REV 7:6" />bʉə 12,000 lɔ̀ hə mu kəlɔŋ-Asha,</para>
+  <para style="q1" vid="REV 7:6">bʉə 12,000 lɔ̀ hə mu kəlɔŋ Natali,</para>
+  <para style="q1" vid="REV 7:6">bʉə 12,000 lɔ̀ hə mu kəlɔŋ Manasi,<verse eid="REV 7:6" /></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="REV 7:7" />bʉə 12,000 lɔ̀ hə mu kəlɔŋ Simiɔŋ,</para>
+  <para style="q1" vid="REV 7:7">bʉə 12,000 lɔ̀ hə mu kəlɔŋ Lɛvi,</para>
+  <para style="q1" vid="REV 7:7">bʉə 12,000 lɔ̀ hə mu kəlɔŋ Isaka,<verse eid="REV 7:7" /></para>
+  <para style="q1">
+    <verse number="8" style="v" sid="REV 7:8" />bʉə 12,000 lɔ̀ hə mu kəlɔŋ Sɛbulɔŋ,</para>
+  <para style="q1" vid="REV 7:8">bʉə 12,000 lɔ̀ hə mu kəlɔŋ Jɔsɛ,</para>
+  <para style="q1" vid="REV 7:8">bʉə 12,000 lɔ̀ hə mu kəlɔŋ-Bɛŋnjamɛ bə nɔʼ chèʼ bɔŋ.<verse eid="REV 7:8" /></para>
+  <para style="s">Nuɔ-bʉə-buŋmbi lə̀ʼtə Nyii</para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 7:9" />Yɔ̄ŋ-yə kʉ̂ʉ tíŋ, mɔ lɛ́nə, nyíɛ nuɔ-bʉə-tə buŋmbi ndə wo mə nə súu fɛ. Bɔ̂ŋ lɔ̀ hə mu lɔʼ-bətə̂ŋ-tə inchəŋ, lɔ̀ hə mu lɔŋbə inchəŋ, mu bie-bʉə-hə leʼnə ŋgie-bətə̂ŋ-bə kə́ tə́nə bəshʉ mbʉ kəyetə leʼnə shʉ-mbʉ-Vaabinjyʉʉ-bə, tʉ bə nɔʼ mɔ̀ʼ ndyi-kəfyuʼ-hə mbʉə-bɔŋ. Bɔ̂ŋ yátə yuu-tɛ́ŋ-bə kəghɔ-bɔŋ, <verse eid="REV 7:9" /><verse number="10" style="v" sid="REV 7:10" />kə́ tíitə nə gyʉʉ dədə kə́ ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 7:10">“Ŋkwaa nɔ bɛ yi-Nyii-yʉʼʉ-yə ndə ɔ yétə kəyetə, leʼ kə́ bɛ yi-mbʉ-Vaabinjyʉʉ-yə!”<verse eid="REV 7:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 7:11" />BʉəntəŋNyii bənchəŋ tə́ŋtə yə̀ŋ mbʉ kəyetə, yə̀ŋ mbʉ bəntəŋbəshʉ ghəŋ ndə bɔ̂ŋ kie kuŋhə bɔŋleʼ yə̀ŋ fɔ-ŋɛnə-bə-īŋ kwi fúu. Ndʉʉmɛ, bɔ̂ŋ bʉ́ʉnə sê bəshʉ mbʉ kəyetə, lə̀ʼtə Nyii, <verse eid="REV 7:11" /><verse number="12" style="v" sid="REV 7:12" />kə́ ghɔ̀ŋ mbɔ, “Ï bɛ haʼ nɔ, m̈əchʉ̀ʉ, məgʉ́ə, mukətʉ-súunə, ndɔ, kuŋhə, ghʉəʼkə ndə məsɔ́ʼ bʉə leʼnə ghʉəʼkə bɛ tʉ Nyii-yʉʼʉ təmə liʼ-i ghɔ fɛ! Ï bɛ haʼ nɔ.”<verse eid="REV 7:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 7:13" />Ndʉʉmɛ, ibɛʼ-yə mbyu ntəŋbəshʉ ghəŋ ndə ɔ kie kuŋhə bíʼtə tʉ mɔ mbɔ, “Bɛ bənda nɔ ndə bɔ̂ŋ mɔ̀ʼ ndyi-kəfyuʼ-hə nɔ? Bɔ̂ŋ lɔ̀ hə fa?”<verse eid="REV 7:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="REV 7:14" />Mɔ ghɔ̀ŋ tʉ ɔŋ mbɔ, “Tie-ɔ, nɔ kínə aŋ.” Ɔ ghɔ̀ŋ tʉ mɔ mbɔ, “Nɔ bʉə nɔ ndə bɔ̂ŋ nɔʼ tíŋ hə mu ndʉʉ ŋgʉəʼ shʉ́əshʉ́ə. Bɔ̂ŋ nɔʼ sʉ̀ ndyihə-ʉə nə fɔbʉə-Vaabinjyʉʉ-kə, chìi i bɛ kəfyuʼ.<verse eid="REV 7:14" /></para>
+  <para style="q1">
+    <verse number="15" style="v" sid="REV 7:15" />Nɔ chìi yɔŋ bɔ̂ŋ tə́nə bəshʉ mbʉ kəyetə Nyii,</para>
+  <para style="q2" vid="REV 7:15">kə́ fɔ̀ʼ tʉ ɔŋ ndʉʉnəchî ghɔŋbə ndʉʉbətyuʼ mu njaafɛ̀ʼndɛŋNyii-ɔŋ.</para>
+  <para style="q1" vid="REV 7:15">Mbəŋ-ɛŋ ndə ɔ yétə ndəŋ yetəkə-i</para>
+  <para style="q2" vid="REV 7:15">bu kwóhə bɔŋ tɔʼɔ ɔ.<verse eid="REV 7:15" /></para>
+  <para style="q1">
+    <verse number="16" style="v" sid="REV 7:16" />Jyʉʉ bieleʼ nə yɔ́ʼ bɔŋ fɛ, təmə tʉʉ-yʉə bieleʼ nə yə́ŋ fɛ,</para>
+  <para style="q2" vid="REV 7:16">təmə chichi bieleʼ nə tɔ̀ŋ bɔŋ fɛ, təmə mbi núunə bieleʼ nə núʼhə bɔŋ fɛ.<verse eid="REV 7:16" /></para>
+  <para style="q1">
+    <verse number="17" style="v" sid="REV 7:17" />Bʉʼka mbʉ Vaabinjyʉʉ ndə ɔ bɛ mbʉə mbʉ kəyetə</para>
+  <para style="q2" vid="REV 7:17">bu bɛ nchyii-yʉə.</para>
+  <para style="q1" vid="REV 7:17">Ɔ chìhə bɔŋ gɛ̀ nə bɔŋ chu lʉ̂ʉ muu ndə ĩ kɔ́ məchímbi.</para>
+  <para style="q2" vid="REV 7:17">Nyii bu yʉ̀əʼ ŋwia-məshʉ-kə təmiyɔŋ shʉ-bɔŋ.”<verse eid="REV 7:17" /></para>
+  <chapter eid="REV 7" />
+  <chapter number="8" style="c" sid="REV 8" />
+  <para style="s">Məbɔ̀ʼ ibɛʼ-yə mbəʼ-mʉə-kə ndə bɛ vɛʼ təkwiitia</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 8:1" />Ndʉʉ ndə mbʉ Vaabinjyʉʉ bɔ̀ʼ ibɛʼ-yə mbəʼ-mʉə-kə ndə vɛʼ təkwiitia, yəŋbə líitə yuo mbɔ loʼo ndə kʉʉkə məniʼ. <verse eid="REV 8:1" /><verse number="2" style="v" sid="REV 8:2" />Ndʉʉmɛ, mɔ nyíɛ mbʉ bʉəntəŋNyii təkwiitia ndə bɔ̂ŋ tə́nə bəshʉ-Nyii, bə kɔ́ gyʉəʼ-vaa-tə tʉ bɔŋ təkwiitia.<verse eid="REV 8:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 8:3" />Ibɛʼ-yə wontəŋNyii gwè tə́nə bəshʉ kəyəŋfɛ̀ʼndɛŋNyii nə baŋ tɔ̀ŋ kəlyii kəghɔ-ɔ ndə bə chìi nə goo. Bə kɔ́ lyiikə tʉ ɔŋ buŋmbi mbɔ ɔ fìnə ghɔŋbə məgháaNyii bʉə-Nyii bənchəŋ tɔ̀ŋ ndəŋ kəyəŋfɛ̀ʼndɛŋNyii ndə bə chìi nə goo i kə́ tə́nə bəshʉ mbʉ kəyetə. <verse eid="REV 8:3" /><verse number="4" style="v" sid="REV 8:4" />Ndyʉʼkə ndə i fyú hə ndəŋ mbʉ kəlyii ndə bə tɔ̀ŋ, ghɔŋbə məgháaNyii bʉə-Nyii, fyú hə mu mbʉ baŋ ndə i bɛ kəghɔ-mbʉ-wontəŋ, kóʼ gɛ̀ bəshʉ-Nyii. <verse eid="REV 8:4" /><verse number="5" style="v" sid="REV 8:5" />Ndʉʉmɛ, mbʉ wontəŋNyii byíi viʼi ndəŋ kəyəŋfɛ̀ʼndɛŋNyii véʼ mu mbʉ baŋ tɔ̀ŋ kəlyii ilə́ŋnə yʉ̀ʼ kəchisê. Fuu yuo bɔ̀ʼtə bɔŋleʼ dùŋtə, leʼnə-wyuu-bə kə́ leʼnə, ŋkʉə-sê-bə kə́ ŋʉ̀ʼnə.<verse eid="REV 8:5" /></para>
+  <para style="s">Fəŋ gyʉəʼ-vaa-tə kwi</para>
+  <para style="p">
+    <verse number="6" style="v" sid="REV 8:6" />Ndʉʉmɛ, mbʉ bʉəntəŋNyii təkwiitia ndə bɔ̂ŋ kie gyʉəʼ-vaa-tə təkwiitia shʉ̀tə ŋwɔŋtə-ʉə ndə mətʉ̀ʉ.<verse eid="REV 8:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 8:7" />Fəŋ wontəŋNyii tʉ́ʉ yi-yə gyʉəʼə, bə yʉ̀ʼ mbəʼ-viʼi-bə ghɔŋbə vii ndə i fìnə ghɔŋbə fɔbʉəkə, kəchisê. Viakə imɔʼ ndəŋ chisêkə ndə bə nɔʼ gyʉ̀əhə yəŋbə itia kyʉ́ʉ, via-kətyʉ-kə imɔʼ ndə tyʉbə inchəŋ ndə bə nɔʼ gyʉ̀əhə ndə yəŋbə itia kyʉ́ʉ leʼnə ŋkɔ nchʉnchʉ inchəŋ ndə i bɛ chɔ kyʉ́ʉ ghɔ.<verse eid="REV 8:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 8:8" />WontəŋNyii ndə ɔ tyúnə bɔ̌ŋ fəŋ tʉ́ʉ yi-yə gyʉəʼə, fɔbɛʼkə ndə i bɛ nə kwɔŋkwɛʼtəŋ ndə viʼi kə́ kyʉ́ʉ chɔ, bə chɔ̀ʼhə mɛ̀ʼ mu muukwɛʼtəŋmə, viakə imɔʼ ndə mbʉ muukwɛʼtəŋ ndə bə gyʉ̀əhə yəŋbə itia kíahə bə̀ŋ fɔbʉəkə. <verse eid="REV 8:8" /><verse number="9" style="v" sid="REV 8:9" />Viakə imɔʼ ndə fɔ-ŋɛnə-bə ndə bɔ̂ŋ bɛ mu mbʉ muu kwútə haʼ ghʉə ghɔ, bə bʉ́əhə buukwɛʼtəŋbə mu mbʉ muu haʼ ghʉə ghɔ.<verse eid="REV 8:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="REV 8:10" />WontəŋNyii ndə ɔ tyúnə bɔ̌ŋ fəŋ vɛʼ bûu tʉ́ʉ yi-yə gyʉəʼə, lɔʼkwɛʼtəŋ shíʼ hə yuo, kə́ kyʉ́ʉ nə nduukə, gwù ndəŋ viakə imɔʼ mu ŋgwɛŋhə ndə bə gyʉ̀əhə yəŋbə itia ghɔŋbə vâabəlʉ̂ʉ ndə i kə bɛ chɔ. <verse eid="REV 8:10" /><verse number="11" style="v" sid="REV 8:11" />Yie mbʉ lɔʼ-ghɔ̄ kə́ bɛ Məchʉ́ʼ<note caller="+" style="f"><char style="fr" closed="false">8:11 </char><char style="ft" closed="false">Fɔkə ndə bə kə́ tíi nə </char><char style="it">Məchʉ́ʼ</char> fɛ̄ŋ, nɔ kə bɛ ntɛ kətyʉbɛʼ ndə i kə́ chʉ́ʼ.</note>. Viakə imɔʼ mu mbʉ muu ndə bə nɔʼ gyʉ̀əhə yəŋbə itia kíahə kə́ chʉ́ʼ, bʉə buŋmbi nɔ kə kwútə ndə bɔ̂ŋ nú mbʉ muu bʉʼka bə nɔʼ kə chìi i kə́ chʉ́ʼ.<verse eid="REV 8:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 8:12" />WontəŋNyii ndə ɔ tyúnə bɔ̌ŋ fəŋ vɛʼ tia tʉ́ʉ yi-yə gyʉəʼə, via-chichi-kə imɔʼ leʼnə via-chisuu-kə imɔʼ leʼnə via-bəlɔʼɔ-kə imɔʼ mu viabə itia ndə bə nɔʼ gyʉ̀əhə bɔŋ chɔ, bə kwɔ̀ŋ bɔŋ mbɔ bɔ̂ŋ mə leʼ báa fɛ. Bə chìi via-mbi-kə haʼ ghʉə nɔ mbɔ chichi məbáa chɔ ndʉʉnəchî fɛ bɔŋleʼ chìi via-ndʉʉbətyuʼ-kə haʼ ghʉə nɔ mbɔ chisuu məbáa chɔ fɛ.<verse eid="REV 8:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 8:13" />Ndʉʉmɛ, mɔ lɛ́nə bɔŋleʼ yʉ́ mbʉʼməghe kə́ tíi tíe kweghɔʼ mu yuo nə gyʉʉ dədə mbɔ, “Ŋgʉəʼ, ŋgʉəʼ, ŋgʉəʼ ndəŋ bʉə ndə bɔ̂ŋ bɛ kəchisê ndʉʉ ndə bəbɛʼbʉəntəŋNyii bətia bu tʉ́ʉ gyʉəʼə!”<verse eid="REV 8:13" /></para>
+  <chapter eid="REV 8" />
+  <chapter number="9" style="c" sid="REV 9" />
+  <para style="s">WontəŋNyii ndə ɔ tə́ŋnə bɔ̌ŋ ndə yəŋbə itaa tʉ́ʉ yi-yə gyʉəʼə</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 9:1" />Ndʉʉmɛ, wontəŋNyii ndə ɔ tyúnə bɔ̌ŋ fəŋ vɛʼ kwi, tʉ́ʉ yi-yə gyʉəʼə, mɔ nyíɛ lɔʼ ndə i shíʼ hə yuo gwù kəchisê, bə kɔ́ nchoʼ tʉ ɔŋ ndə məchóʼ chu mbʉ byʉʉ ndə i gòʼ təmə kie liʼ-i fɛ. <verse eid="REV 9:1" /><verse number="2" style="v" sid="REV 9:2" />Ɔ chóʼ mbʉ chu byʉʉ ndə i gòʼ təmə kie liʼ-i fɛ le, ndyʉʼkə kə́ tə́ŋtə fyú muŋgɔ nə ndyʉʼkə fyú hə mu kyʉʉ juhə le, njəŋkə gwù ndəŋ chichi ghɔŋbə yuo bʉʼka ndyʉʼkə ndə i kə́ fyú hə mu mbʉ byʉʉ.<verse eid="REV 9:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 9:3" />Ndʉʉmɛ, ŋgwehə fyú hə mu mbʉ kəndyʉʼ gwè kəchisê, bə kɔ́ ghʉəʼkə tʉ bɔŋ i bɛ nə yi-bəŋɔŋ-yə kəchisê. <verse eid="REV 9:3" /><verse number="4" style="v" sid="REV 9:4" />Bə shyíi bɔŋ mbɔ b̈ɔ̂ŋ mə lə́ŋhə ŋkɔ kəchisê fɛ, byuunɔ fɔ-nchʉnchʉ-kə təmiyɔŋ ndə i tʉʼ kóʼ byuunɔ tyʉbə fɛ, bɔŋ mbɔ bɔ̂ŋ lə́ŋhə haʼ bʉə ndə cheʼ-Nyii-kə gòʼ təmə bɛ chutəyi-bɔŋ fɛ. <verse eid="REV 9:4" /><verse number="5" style="v" sid="REV 9:5" />Bə mɛ̀ʼtə mbɔ b̈ɔ̂ŋ chɔ́ŋhə bɔŋ ndə bəchi itaa, təmə bɔŋ yítə bɔŋ fɛ, ntɛ məlíŋ ndə i kə gwè hə ndəŋ məchɔ́ŋhə ndə bɔ̂ŋ kə́ chɔ́ŋhə bɔŋ i nɔ kə bɛ nə mənyɔ ŋɔŋ chɔ́ŋhə wo ndʉʉ ndə ɔ lə́ŋ ɔŋ le. <verse eid="REV 9:5" /><verse number="6" style="v" sid="REV 9:6" />Mu bəchi-ghɔ̄bə itaa, bɔ̂ŋ bu gwía kwú, kəŋkaa mbɔ b̈ɔ̂ŋ kwú. Bɔ̂ŋ kə́ kʉ́ʉ ndə məkwú, kwú bɔŋ bu nyʉ́ʉ mbʉə bɔŋ.<verse eid="REV 9:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 9:7" />Mbʉ ŋgwehə nɔ kə bɛ nə bənyaa bəkatə ndə bə kə́ shʉ̀tə bɔŋ ndə məgɛ̀ nə bɔŋ chɔ̂. Fɔbɛʼkə kə́ bɛ kətʉ-bɔŋ nə bɛnə ndə bə chìi nə goo, mbe-shʉ-hə-ʉə kə́ bɛ nə mbe-shʉ-bʉəməsʉʉ-hə. <verse eid="REV 9:7" /><verse number="8" style="v" sid="REV 9:8" />Nyu-kətʉ-hə-ʉə kə́ bɛ nə nyu-kətʉ-bəke-hə, gyʉəʼtə-ʉə kə́ bɛ nə gyʉəʼ-bʉʼ-tə. <verse eid="REV 9:8" /><verse number="9" style="v" sid="REV 9:9" />Fɔ-chɔ̂-bə ndə bɔ̂ŋ kə kie ndə məkyʉ̀hə fyiihə-ʉə chɔ, nɔ nə bɛ nə yi-kətəŋ-yə, ghɔnətə-ʉə kə́ dùŋtə nə bəmatu kɔŋnə buŋmbi ndə bənyaa bəkatə tʉʼ dùu lə̀ŋnə gɛ̀ chɔ̂. <verse eid="REV 9:9" /><verse number="10" style="v" sid="REV 9:10" />Bɔ̂ŋ kie suubə, kə́ lə́ŋ wo nə bəŋɔŋ. Ghʉəʼkə-ʉə ndə bɔ̂ŋ kə kie ndə mələ́ŋhə bʉə ndə bəchi itaa nɔ kə bɛ ndəŋ suubə-ʉə. <verse eid="REV 9:10" /><verse number="11" style="v" sid="REV 9:11" />Bɔ̂ŋ nɔ kə kie fɔŋ ndə ɔ kə́ sɔ́ʼ, kə́ bɛ wontəŋ bʉəbʉə ndə ɔ kie mbʉ byʉʉ ndə liʼ-i gòʼ təmə bɛ ghɔ fɛ. Yie-e kəŋgie-Hibulu nɔ bɛ Abadɔŋ kəŋgie-Gili kə́ bɛ Aboliɔŋ, ndə i bɛ mbɔ mbʉ mbʉəhə.<verse eid="REV 9:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 9:12" />Fəŋ ŋgʉəʼ shʉ́əshʉ́ə nɔʼ tíŋ, nyíɛ, yɔ̄ŋ-yə kʉ̂ʉ tíŋ nɔ, bəbɛʼbə ŋgʉəʼ shʉ́əshʉ́ə ibûu kə́ bíe bɔ̌ŋ gwè.<verse eid="REV 9:12" /></para>
+  <para style="s">WontəŋNyii ndə ɔ tyúnə bɔ̌ŋ ndə yəŋbə ntʉʼʉ tʉ́ʉ yi-yə gyʉəʼə</para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 9:13" />Ndʉʉmɛ, wontəŋNyii ndə ɔ tyúnə bɔ̌ŋ fəŋ vɛʼ taa tʉ́ʉ yi-yə gyʉəʼə, mɔ yʉ́ gyʉʉ ndə i gìe hə mu ndʉʉhə kwi ndə i tə́ŋtə ndəŋ yəŋ-fɛ̀ʼndɛŋNyii-kə ndə bə bɔ́ŋ nə goo bəshʉ-Nyii. <verse eid="REV 9:13" /><verse number="14" style="v" sid="REV 9:14" />Mbʉ gyʉʉ kə́ gìe tʉ mbʉ WontəŋNyii ndə ɔ tə́nə bɔ̌ŋ ndə yəŋbə ntʉʼʉ kie gyʉəʼə le mbɔ, “Yɔ̀ʼtə ghyʉʉtə ndəŋ bʉəntəŋNyii kwi ndə bə kɔ́ʼtə bɔŋ chɔ mbʉə ŋgwɛŋkwɛʼtəŋ Yufelete.” <verse eid="REV 9:14" /><verse number="15" style="v" sid="REV 9:15" />Ndʉʉmɛ, mbʉ bʉəntəŋNyii kwi, ndə bə nɔʼ kə shʉ̀tə bɔŋ ndə mbʉ ndʉʉ-ghɔ̄, ndə mbʉ kəchi-ghɔ̄, ndə mbʉ chî-ghɔ̄ leʼnə mbʉ ŋgʉʼʉmbi-ghɔ̄, bə yɔ̀ʼtə ghyʉʉtə ndəŋ bɔŋ, ndə məyí via-bʉəməsʉʉ-kə imɔʼ ndə viabə itia ndə bə nɔʼ gyʉ̀əhə bɔŋ chɔ. <verse eid="REV 9:15" /><verse number="16" style="v" sid="REV 9:16" />Ntyʉʉ bəsɔge ndə bɔ̂ŋ bɛ ndəŋ bənyaa bəkatə ndə məgɛ̀ mbʉ chɔ̂, nɔ kə bɛ bəmɛlɛyɔŋ təghyʉʉ təbuu. Mɔ nɔ kə yʉ́ ntyʉʉ yʉə.<verse eid="REV 9:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="REV 9:17" />Nɔ kə bɛ ntɛ nɔ ndə mɔ kə nyíɛ mbʉ bənyaa bəkatə mu njəŋ-mɔ təmə mɔ kə́ bɛ́ŋbɛ́ŋ fɛ ghɔŋbə bʉə ndə bɔ̂ŋ kə bɛ ndəŋ bɔŋ. Bɔ̂ŋ mɔ̀ʼ fɔ-chɔ̂-bə ndə i kə́ kyʉ̀hə fyiihə-ʉə, i kə́ bɛ kəmbuu nə viʼi leʼ lúhə bɔŋleʼ bùu gɛ̀ kəfyuʼ. Tʉ-mbʉ-bənyaa-bəkatə-bə kə́ bɛ nə tʉ-bʉʼ-bə, viʼi ghɔŋbə ndyʉʼkə leʼnə yɔʼ-məkɔŋ-kə kə́ fyú hə chu-bɔŋ. <verse eid="REV 9:17" /><verse number="18" style="v" sid="REV 9:18" />Bʉʼka nu-bʉəbʉə-bə-ɔ̄ŋ itia, ndə bɛ viʼi leʼnə ndyʉʼkə leʼnə yɔʼ-məkɔŋ-kə ndə i kə́ fyú chu-bɔŋ, yítə via-bʉəməsʉʉ-kə imɔʼ ndə kaʼ bə gyʉ̀əhə bɔ̂ŋ ndəŋ yəŋbə itia. <verse eid="REV 9:18" /><verse number="19" style="v" sid="REV 9:19" />Bʉʼka ghʉəʼ-mbʉ-bənyaa-bəkatə-bə nɔ kə bɛ mu chu-bɔŋ leʼnə suubə-ʉə, bʉʼka suubə-ʉə nɔ kə bɛ nə yɔhə ndə bɔ̂ŋ kie tʉbə, bɔ̂ŋ kə́ lə́ŋhə bʉə nə yɔŋ.<verse eid="REV 9:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="REV 9:20" />Bəʼ-bʉəməsʉʉ-kə, ndə bɔ̂ŋ kə gòʼ təmə kwútə bʉʼka nu-bʉəbʉə-bə-ɔ̄ŋ, kə buŋ shìe liɛŋtə-ʉə ndəŋ fɔʼtə ndə bɔ̂ŋ kə́ fɔ̀ʼ nə ghɔkə-ʉə fɛ. Bɔ̂ŋ kə mɛ̀ʼtə ndə mələ̀ʼtə lyʉʉhəbʉəbʉəbə ghɔŋbə bənyii ndə bə chìi nə goo leʼnə siliba leʼnə təŋ-kəmbuu-kə, leʼnə ŋgoʼhə ghɔŋbə tyʉbə ndə bɔ̂ŋ mə nyíɛ yəŋkə, yʉ́ nukə byuunɔ tòʼ fɛ. <verse eid="REV 9:20" /><verse number="21" style="v" sid="REV 9:21" />Bɔ̂ŋ kə leʼ shìe liɛŋtə-ʉə ndə məyítə bʉə byuunɔ mə fʉ́ʉ fê byuunɔ mə gháa bəsəŋ byuunɔ lʉʼbə fɛ.<verse eid="REV 9:21" /></para>
+  <chapter eid="REV 9" />
+  <chapter number="10" style="c" sid="REV 10" />
+  <para style="s">Mbʉ wontəŋNyii leʼnə mbʉ vaa-ŋwɔʼnə</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 10:1" />Ndʉʉmɛ, mɔ nyíɛ ibɛʼ-yə wontəŋNyii shʉ́əshʉ́ə, ɔ kə́ shíʼ gwè hə yuo, bə lʉ́əŋtə ɔŋ mu kəmbɔʼ, ŋkwunduŋ leʼ kǐa kətʉ-ɔ, mbe-shʉ-i kə́ bɛ nə chichi, fʉəŋtə-i kə́ bɛ nə tɛʼnə-viʼi-bə. <verse eid="REV 10:1" /><verse number="2" style="v" sid="REV 10:2" />Ɔ yá vaa-ŋwɔʼnə kəghɔ-ɔ, i kə́ bɛ iŋɔ́ʼnə. Ɔ tʉ́ʼ kwii-fʉəŋ-mɔʼnə-i ndəŋ muukwɛʼtəŋmə, tʉ́ʼ kwiiŋkwie njəŋmbi. <verse eid="REV 10:2" /><verse number="3" style="v" sid="REV 10:3" />Ɔ tíi nə gyʉʉ dədə nə bʉʼ sɔ́ʼ le. Ndʉʉ ndə ɔ tíi, mbʉ təfuu yuo təkwiitia bɔ̀ʼtə. <verse eid="REV 10:3" /><verse number="4" style="v" sid="REV 10:4" />Ndʉʉ ndə mbʉ təfuu yuo təkwiitia nɔʼ kə bɔ̀ʼtə, mɔ bɛ ndə mənyɔ̀ʼ nubə ndə mɔ yʉ́ chɔ, bɔŋ mɔ yʉ́ gyʉʉ ndə i gwè hə yuo kə́ ghɔ̀ŋ mbɔ, “Lə̀ŋ nukə ndə fuu-yuo-tə təkwiitia ghɔ̀ŋ, kə a mə nyɔ̀ʼ fɛ.”<verse eid="REV 10:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="REV 10:5" />Mbʉ wontəŋNyii ndə mɔ nɔʼ kə nyíɛ ɔŋ, ɔ kə́ tə́nə ndəŋ muukwɛʼtəŋmə bɔŋleʼ tə́nə njəŋmbi le, chɔ̀ʼhə kwiimɔʼnə-i kɔ́ nə yuo, <verse eid="REV 10:5" /><verse number="6" style="v" sid="REV 10:6" />kàa nukə yie-Nyii ndə ɔ chí mbi təmə liʼ-i ghɔ fɛ, ndə ɔ chìi yuo ghɔŋbə fɔbə ndə i bɛ chɔ, chisêkə ghɔŋbə fɔbə ndə i bɛ chɔ, muukwɛʼtəŋmə ghɔŋbə fɔbə ndə i bɛ chɔ. Ɔ ghɔ̀ŋ mbɔ, “Nubə bieleʼ kwìhə fɛ. <verse eid="REV 10:6" /><verse number="7" style="v" sid="REV 10:7" />Bɔŋ ndʉʉ ndə mbʉ wontəŋNyii ndə ɔ tyúnə bɔ̌ŋ fəŋ ndəŋ vɛʼ təkwiitia tʉ́ʉ yi-yə gyʉəʼə, nubə ndə Nyii nɔʼ nə shʉ̀tə i kə bíe mu bəliinə bu fyú sê inchəŋ, haʼ ndə ɔ nə lɔ̀ʼ tʉ vaafɔ̀ʼ-bi ndə bɛ bʉəyʉkəŋgie-bi.”<verse eid="REV 10:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 10:8" />Ndʉʉmɛ, mbʉ gyʉʉ ndə mɔ nɔʼ kə fəŋ yʉ́ yuo le, bìʼ kwə́ʼ tʉ mɔ, ghɔ̀ŋ mbɔ, “Gɛ̀, fí mbʉ ŋwɔʼnə ndə i bɛ ighʉ́ʉnə hə kəghɔ mbʉ wontəŋNyii ndə ɔ tə́nə mu muukwɛʼtəŋmə bɔŋleʼ tə́nə njəŋmbi nɔ.”<verse eid="REV 10:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 10:9" />Nɔ, mɔ gɛ̀ tʉ mbʉ wontəŋNyii, téʼ tʉ ɔŋ mbɔ ɔ kɔ́ mbʉ vaa-ŋwɔʼnə tîetîe tʉ mɔ. Ɔ ghɔ̀ŋ tʉ mɔ mbɔ, “Kɔ́ kwó, i bu kə́ chʉ́ʼchʉ́ʼ mu bətɔ-a, bɔŋ bu kə́ sʉ́ʼnəsʉ́ʼnə mu chu-a nə yʉʉhə.” <verse eid="REV 10:9" /><verse number="10" style="v" sid="REV 10:10" />Mɔ fí mbʉ vaa-ŋwɔʼnə tîetîe hə kəghɔ mbʉ wontəŋNyii, kwó. I kə́ sʉ́ʼnə nə yʉʉhə mu chu-mɔ, bɔŋ ndʉʉ ndə mɔ mì, i chìi tɔbə-ɔŋ i kə́ chʉ́ʼchʉ́ʼ.<verse eid="REV 10:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 10:11" />Ndʉʉmɛ, bə shyíi mɔ mbɔ, “A nɔ kie ndə mə-bìʼ-téʼ ntəŋ ndə i gwè hə kəghɔ-Nyii te bie-bʉə-hə buŋmbi, leʼnə lɔʼ-bətə̂ŋ-tə, leʼnə ŋgie-bətə̂ŋ-bə ghɔŋbə bəfɔŋ.”<verse eid="REV 10:11" /></para>
+  <chapter eid="REV 10" />
+  <chapter number="11" style="c" sid="REV 11" />
+  <para style="s">Bʉə bəbûu nú gwù</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 11:1" />Ndʉʉmɛ, bə kɔ́ mbuu tʉ mɔ ndə i bɛ nə tyʉ-fʉ̀ʼ-kəfɔ-kə, bə ghɔ̀ŋ tʉ mɔ mbɔ, “Lɔ̀ hə sê gɛ̀ fʉ̀ʼ njaafɛ̀ʼndɛŋNyii leʼnə yəŋ-fɛ̀ʼndɛŋNyii-kə ghɔŋbə bʉə ndə bɔ̂ŋ tʉʼ lə̀ʼtə Nyii muŋgɔ, <verse eid="REV 11:1" /><verse number="2" style="v" sid="REV 11:2" />kə a mə bɔŋ fʉ̀ʼ sêfu njaafɛ̀ʼndɛŋNyii fɛ, chʉ̀ə maa-yɔ̄ŋ mɛ̀ʼtə bʉʼka bə nɔʼ kɔ́ tʉ bʉə ndə bɔ̂ŋ gòʼ təmə bɛ bʉə-Juu fɛ, bɔ̂ŋ bu lyúʼ yəŋkwɛʼtəŋkə ndə i bɛ ŋkʉʉ ndə bəchi njuɔ bûu nə wuŋ kwi.<note caller="+" style="f"><char style="fr" closed="false">11:2 </char><char style="ft" closed="false">Bəchi njuɔ bûu nə wuŋ kwi nɔ bɛ haʼ nə chîbə 1,260.</char></note> <verse eid="REV 11:2" /><verse number="3" style="v" sid="REV 11:3" />Mɔ bu kɔ́ ghʉəʼkə tʉ bʉə-bɔŋ bəbûu ndə bɔ̂ŋ tʉʼ nú gwù ɔ, bɔ̂ŋ téʼ ntəŋ ndə i gwè hə kəghɔ-mɔ ndə chîbə 1,260, nə ndyi-lí-kwú-hə mbʉə-bɔŋ.”<verse eid="REV 11:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 11:4" />Bɔ̂ŋ nɔ bɛ mbʉ bətyʉ oli ibûu ghɔŋbə mbʉ bəfɔ mɔ̀ʼ təkɛʼ ibûu ndə i tə́nə bəshʉ Tiekətʉ ndə ɔ kie chisêkə. <verse eid="REV 11:4" /><verse number="5" style="v" sid="REV 11:5" />Wotəmiyɔŋ ndə ɔ tʉʼ kɔ̀ɔtə ndə mələ́ŋhə bɔŋ, viʼi fyìʼnə chu-bɔŋ, yítə bʉə-bàa-bʉə. Nɔ bɛ ntɛ nɔ ndə wotəmiyɔŋ ndə ɔ kɔ̀ɔtə ndə mələ́ŋhə bɔŋ, bə bu yi ɔ. <verse eid="REV 11:5" /><verse number="6" style="v" sid="REV 11:6" />Bʉə-bɔ̄ŋ nɔ kie ghʉəʼkə ndə məbɔ̀ʼ wyuu ndʉʉ-ghɔ̄ ndə bɔ̂ŋ tʉʼ lɔ̀ʼ ŋgieNyiikə, bɔ̂ŋ nɔ kie ghʉəʼkə ndə məkíahə muu i bə̀ŋ fɔbʉəkə, bɔ̂ŋ bɔŋleʼ kie ghʉəʼkə ndə məchɔ́ŋhə chisêkə nə ntɛ-ŋgʉəʼ-shʉ́əshʉ́ə-hə təmiyɔŋ ndʉʉ ndə bɔ̂ŋ kʉ̀ʉ.<verse eid="REV 11:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 11:7" />Ndʉʉ ndə bɔ̂ŋ bu lìʼ ndə mə-kə́-lɔ̀ʼ mbʉ ntəŋ nɔ, nyaa bʉəbʉə ndə ɔ bu kóʼ mu byʉʉ ndə i gòʼ təmə kie liʼ-i fɛ, bu mɔ̀ʼ bɔŋ nə chɔ̂, ghɔ́ʼ bɔŋ bɔŋleʼ yítə bɔŋ. <verse eid="REV 11:7" /><verse number="8" style="v" sid="REV 11:8" />Ŋkwubə-ʉə bu nʉ̀ʉtə tɔʼnə fia mbʉ mu fɔŋ kəyəŋkwɛʼtəŋ. Ndə ncheʼ, b̃ə nɔ tíi mbʉ kəyəŋkwɛʼtəŋ-ghɔ̄ nə Sodɔŋ ghɔŋ Iji, kə́ bɛ yəŋkə ndə bə kə kwɛ̀ŋ Tiekətʉ-yʉə chɔ yí. <verse eid="REV 11:8" /><verse number="9" style="v" sid="REV 11:9" />Ndə chîbə itia nə viakə bəbɛʼbʉə mu bie-bʉə-hə ghɔŋbə lɔŋbə leʼnə ŋgie-bətə̂ŋ-bə leʼnə lɔʼ-bətə̂ŋ-tə bu nyíɛ ŋkwubə-ʉə, bɔ̂ŋ tɛ́ŋ mbɔ b̈ə mə tyúu bɔŋ fɛ. <verse eid="REV 11:9" /><verse number="10" style="v" sid="REV 11:10" />Bʉə ndə bɔ̂ŋ bɛ kəchisê tʉʉtə-ʉə bu bʉ̀ʉ ndə mənyíɛ ŋkwubə-ʉə, bɔ̂ŋ bu yú, bɔŋleʼ tə́ŋ kɔkə kɔ́ tʉ ŋwɔŋtə-ʉə, bʉʼka bʉəyʉkəŋgieNyii-bɔ̄ŋ bəbûu nɔ, nɔʼ kə chɔ́ŋhə bʉə-kəchisê.<verse eid="REV 11:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 11:11" />Chîbə itia nə viakə kʉ̂ʉ tíŋ, bəyihə ndə ĩ kɔ́ məchímbi, ndə i gwè hə kəghɔ-Nyii, ŋíi mu mbʉə-bɔŋ, bɔ̂ŋ lɔ̀ hə sê tə́nə, fɔŋ kəfaa kwú yá bʉə ndə bɔ̂ŋ kə nyíɛ. <verse eid="REV 11:11" /><verse number="12" style="v" sid="REV 11:12" />Ndʉʉmɛ, mbʉ bʉəyʉkəŋgieNyii yʉ́ gyʉʉ dədə ndə i gwè hə yuo kə́ ghɔ̀ŋ mbɔ, “B̈ii kóʼ gwè fɛ̄ŋ!” Bɔ̂ŋ kóʼ gɛ̀ yuo mu kəmbɔʼ, bʉə-bàa-bʉə nyíɛ bɔŋ.<verse eid="REV 11:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 11:13" />Kʉ̂ʉ kə bɛ haʼ ndʉʉ-ghɔ̄, chisêkə ŋɛ̀nə shʉ́əshʉ́ə, viakə imɔʼ mu viabə wuŋ ndə bə gyʉ̀əhə njaahə inchəŋ mu kəyəŋ-ghɔ̄ gwùtə sê. Ŋkɔŋ-bʉə-hə təkwiitia nɔ kə kwútə bʉʼka mbʉ kəchisê ndə i kə ŋɛ̀nə shʉ́əshʉ́ə le, i fɛ̀ŋhə bəʼ-bʉə-kə daa, bɔ̂ŋ kɔ́ kuŋhə tʉ Nyii ndə ɔ bɛ yuo.<verse eid="REV 11:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="REV 11:14" />Biitə-ŋgʉəʼ-kə ndə i tyúnə bɔ̌ŋ fəŋ nɔʼ tíŋ, kə́ nyíɛ, ŋgʉəʼ ndə i tyúnə bɔ̌ŋ fəŋ vɛʼ bûu nɔ tʉʼ gwè təmə kʉʉ kwìhə fɛ.<verse eid="REV 11:14" /></para>
+  <para style="s">Mbʉ gyʉəʼə ndə i tə́nə bɔ̌ŋ ndə yəŋbə təkwiitia</para>
+  <para style="p">
+    <verse number="15" style="v" sid="REV 11:15" />Ndʉʉmɛ, wontəŋNyii ndə ɔ tyúnə bɔ̌ŋ fəŋ vɛʼ ntʉʼʉ tʉ́ʉ yi-yə gyʉəʼə, gyʉʉ-dədə-hə gìe yuo kə́ ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 11:15">“Sɔ́ʼ kəchisê nɔ bɛ sɔ́ʼ Tiekətʉ-yaʼ ghɔŋbə Wo ndə ɔ Kùŋ Tə́ŋ, ɔ bu sɔ́ʼ gɛ̀gɛ̀ təmə liʼ-i nə bɛ ghɔ fɛ.”<verse eid="REV 11:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="REV 11:16" />Mbʉ bəntəŋbəshʉ ghəŋ ndə bɔ̂ŋ kie kuŋhə njuɔ kwi nə wuŋ bûu ndə bɔ̂ŋ kə dùʼtə ndəŋ yetəbə-ʉə bəshʉ-Nyii bʉ́ʉnə sê, lə̀ʼtə Nyii, <verse eid="REV 11:16" /><verse number="17" style="v" sid="REV 11:17" />kə́ ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 11:17">“Baʼa nɔ kɔ́ ndɔ a Nyii Tiekətʉ ndə a kie ghʉəʼkə inchəŋ</para>
+  <para style="q2" vid="REV 11:17">ndə a bɛ ndə a nɔʼ kə fəŋ bɛ,</para>
+  <para style="q1" vid="REV 11:17">bʉʼka a nɔʼ lʉ̀ fɔŋ kəghʉəʼ-a,</para>
+  <para style="q2" vid="REV 11:17">nɔʼ chʉ́ʉhə ndə məsɔ́ʼ.<verse eid="REV 11:17" /></para>
+  <para style="q1">
+    <verse number="18" style="v" sid="REV 11:18" />Bə nɔʼ wɔ̀ʼhə fyii lɔʼ-bətə̂ŋ-tə,</para>
+  <para style="q2" vid="REV 11:18">bɔŋ nduɔ, ndʉʉ ndə a bɛ ndə mədʉ̀ʼ tʉʉbʉə-a nɔʼ kʉ̀ʼnə</para>
+  <para style="q1" vid="REV 11:18">leʼnə ndʉʉ ndə a kie məkwɛ̀ sɔ́ʼ bʉə ndə bɔ̂ŋ nɔʼ kwútə,</para>
+  <para style="q2" vid="REV 11:18">bɔŋleʼ kɛ̀ŋ vâafɔʼɔ-ba ndə bɛ bʉəyʉkəŋgie-ba ghɔŋbə bʉə-ba</para>
+  <para style="q1" vid="REV 11:18">leʼnə bʉə ndə bɔ̂ŋ tʉʼ kɔ́ kuŋhə tʉ a</para>
+  <para style="q2" vid="REV 11:18">lʉ̀ hə ndəŋ vâaŋgwehə tə gɛ̀ dàa ndəŋ vâa-fɔŋ.</para>
+  <para style="q1" vid="REV 11:18">Nɔ bɛ ndʉʉ ndə məbʉ́əhə bʉə bənchəŋ ndə bɔ̂ŋ kə́ bʉ́əhə bʉə-kəchisê.”<verse eid="REV 11:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="REV 11:19" />Ndʉʉmɛ, bə yɔ̀ʼ chu njaafɛ̀ʼndɛŋNyii ndə i bɛ yuo, mbʉ tɔŋkə ndə i kie ŋkaamə-i muŋgɔ, bə nyíɛ i kə́ tə́nə mu njaafɛ̀ʼndɛŋ-īŋ. Bə nyíɛ leʼnə-wyuu-bə, mədùŋtə ghɔŋbə fuu-yuo bɔ̀ʼtə, məŋɛ̀nə kəchisê leʼnə vii shʉ́əshʉ́ə kə́ gwùtə.<verse eid="REV 11:19" /></para>
+  <chapter eid="REV 11" />
+  <chapter number="12" style="c" sid="REV 12" />
+  <para style="s">Mbʉ woke ghɔŋ lɔkɔʼ kwunəmbiimbiibɛʼ ndə bə tíi ɔ nə dalagɔŋ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 12:1" />Ndʉʉmɛ, lɔkɔʼ kəcheʼbɛʼ nɔ kə fyú yuo, wokebɛʼ ndyihə-i kə́ bɛ chichi, leʼnə chisuu tɔʼɔ təfʉəŋ-ɔŋ, ɔ bìa bɛnə kətʉ-ɔ ndə i kie bəlɔʼɔ chɔ njuɔ bûu nə wuŋ. <verse eid="REV 12:1" /><verse number="2" style="v" sid="REV 12:2" />Ɔ kə́ bɛ gʉʼnə, kə́ gwía nə yɔʼ-Nyii-kə ndə ĩ byùu ɔ leʼnə mbʉə liŋnə ndə i gwè hə ndə məbí vaa.<verse eid="REV 12:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 12:3" />Ibɛʼ cheʼkə bìʼ fyú yuo, mɔ kwɔnə nyíɛ lɔkɔʼ kwunəmbiimbii kəmbuubɛʼ ndə bə tíi ɔ nə dalagɔŋ*, ɔ kie tʉbə təkwiitia ghɔŋbə ndʉʉhə wuŋ nə bɛnətə təkwiitia ndəŋ mbʉ bətʉ. <verse eid="REV 12:3" /><verse number="4" style="v" sid="REV 12:4" />Suukə-i dùu via-bəlɔʼɔ-kə mu bəlɔʼɔ ndə i bɛ yuo ndə kaʼ bə gyʉ̀əhə yəŋbə itia, mɛ̀ʼ bɔŋ kəchisê. Mbʉ dalagɔŋ tə́nə bəshʉ mbʉ woke ndə ɔ bɛ ndə məbí le, mbɔ ɔ chʉʼ kwó mbʉ vaa ndʉʉ ndə ɔ bí ɔ. <verse eid="REV 12:4" /><verse number="5" style="v" sid="REV 12:5" />Ɔ bí vaabələŋ, kə́ bɛ vaa ndə ɔ bu sɔ́ʼ lɔʼ-bətə̂ŋ-tə inchəŋ nə ŋgwɔŋ kətəŋ. Bɔŋ bə jɔ̀ mbʉ vaa, gɛ̀ nə nɔŋ bəshʉ-Nyii ghɔŋbə yetəkə-i. <verse eid="REV 12:5" /><verse number="6" style="v" sid="REV 12:6" />Mbʉ woke nyʉ́ʉ gɛ̀ kwɔŋkəyəŋnə, kəyəŋ ndə Nyii nɔʼ kə shʉ̀tə tʉ́ʼ tʉ ɔŋ, ndə bə bu yúʼ ɔ chɔ ndə chîbə 1,260.<verse eid="REV 12:6" /></para>
+  <para style="s">Bə mɛ̀ʼ Sata kəchisê</para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 12:7" />Ndʉʉmɛ, chɔ̂ chʉ́ʉhə yuo. Maake ghɔŋbə yi-yə bʉəntəŋNyii kə́ gwúu byuʼu ghɔŋ mbʉ dalagɔŋ. Mbʉ dalagɔŋ ghɔŋbə yi-yə bʉəntəŋ kə́ bʉ̀nə gwúu bɔŋ, <verse eid="REV 12:7" /><verse number="8" style="v" sid="REV 12:8" />bɔŋ bə ghɔ́ʼ ɔ, təmə bɔ̂ŋ leʼ kie ndə məchí yuo fɛ. <verse eid="REV 12:8" /><verse number="9" style="v" sid="REV 12:9" />Bə mɛ̀ʼ mbʉ lɔkɔʼ dalagɔŋ, ɔ shíʼ gwù kəchisê, mbʉ nduɔŋ yɔ bəshʉ-ghɔ̄ ndə bə tíi ɔ nə Debulu leʼnə Sata, mbʉ wo ndə ɔ tʉʼ fə́ʼhə wʉʉnəmbikə nchəŋnchəŋ, bə chə̀ŋ ɔŋ mɛ̀ʼ kəchisê ghɔŋbə bʉəntəŋ-bi.<verse eid="REV 12:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="REV 12:10" />Ndʉʉmɛ, mɔ yʉ́ gyʉʉ dədə ndə i bɛ yuo kə́ ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 12:10">“Nduɔ, mbʉ ŋkwaaNyii nɔʼ gwè leʼnə ghʉəʼkə-i</para>
+  <para style="q2" vid="REV 12:10">leʼnə Sɔ́ʼ-Nyii-yʉʼʉ</para>
+  <para style="q1" vid="REV 12:10">leʼnə ghʉəʼkə ndə məsɔ́ʼ ndə bɛ yi-Wo-yə ndə Nyii Kùŋ Tə́ŋ,</para>
+  <para style="q1" vid="REV 12:10">bʉʼka wo ndə ɔ tʉʼ mɔ̀ʼ nukə kətʉ bəliŋ-bʉʼʉ,</para>
+  <para style="q2" vid="REV 12:10">bə nɔʼ mɛ̀ʼ ɔŋ ɔ shíʼ gwù kəchisê,</para>
+  <para style="q1" vid="REV 12:10">wo ndə ɔ tʉʼ mɔ̀ʼ nukə kətʉ-bɔŋ</para>
+  <para style="q2" vid="REV 12:10">bəshʉ-Nyii-yʉʼʉ ndʉʉbətyuʼ ghɔŋ ndʉʉnəchî.<verse eid="REV 12:10" /></para>
+  <para style="q1">
+    <verse number="11" style="v" sid="REV 12:11" />Bɔ̂ŋ nɔʼ ghɔ́ʼ ɔ bʉʼka fɔbʉə-mbʉ-Vaabinjyʉʉ-kə</para>
+  <para style="q2" vid="REV 12:11">ghɔŋ ŋgie-shʉəŋ-kə ndə bɔ̂ŋ tʉʼ lɔ̀ʼ,</para>
+  <para style="q1" vid="REV 12:11">bʉʼka bɔ̂ŋ kə́ buŋ fàa məchimbi-yʉə</para>
+  <para style="q2" vid="REV 12:11">mbɔ bɔ̂ŋ bu kwú fɛ.<verse eid="REV 12:11" /></para>
+  <para style="q1">
+    <verse number="12" style="v" sid="REV 12:12" />Nɔ, Oo yuo kie tʉʉjyu,</para>
+  <para style="q2" vid="REV 12:12">leʼnə bii ndə bii tʉʼ chí chɔ!</para>
+  <para style="q1" vid="REV 12:12">Bɔŋ ŋgʉəʼ shʉ́əshʉ́ə bu gwè tʉ bʉə ndə bɔ̂ŋ tʉʼ chí kəchisê ghɔŋbə muukwɛʼtəŋmə,</para>
+  <para style="q2" vid="REV 12:12">bʉʼka Debulu nɔʼ shíʼ gwè tʉ bii nə fyiighɔ́ʼnə</para>
+  <para style="q1" vid="REV 12:12">bʉʼka ɔ nɔ kínə mbɔ ŋgwɔʼmbi-i nɔʼ mì.”<verse eid="REV 12:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 12:13" />Ndʉʉ ndə mbʉ dalagɔŋ nyíɛ mbɔ bə nɔʼ chə̀ŋ ɔŋ mɛ̀ʼ kəchisê, ɔ chə́ŋ bɔ̌ŋ mbʉ woke-ghɔ̄ ndə ɔ kə bí vaabələŋ le. <verse eid="REV 12:13" /><verse number="14" style="v" sid="REV 12:14" />Bə bɔŋ kɔ́ ghɔnə-mbʉʼməghekwɛʼtəŋ-tə ibûu tʉ mbʉ woke-ghɔ̄ mbɔ ɔ chʉʼ tíe gɛ̀ mu kwɔŋkəyəŋnə bʉʼka mbʉ yɔ, kəyəŋ ndə bə bu yúʼ ɔ chɔ ndə ŋgʉʼhə itia nə viakə.<verse eid="REV 12:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="REV 12:15" />Mbʉ yɔ ghóʼ muu nə ŋgwɛŋ kɔ́ hə bɔ̌ŋ mbʉ woke-ghɔ̄, mbɔ i jɔ̀ ɔ, gɛ̀ nə nɔŋ nə ŋgwɔ shʉ́əshʉ́ə. <verse eid="REV 12:15" /><verse number="16" style="v" sid="REV 12:16" />Bɔŋ chisêkə kwáa mbʉ woke-ghɔ̄, ŋɔ́ʼhə chu-i, mì mbʉ ŋgwɛŋ ndə mbʉ dalagɔŋ kə ghóʼ. <verse eid="REV 12:16" /><verse number="17" style="v" sid="REV 12:17" />Tʉʉ mbʉ dalagɔŋ byʉ́ʼ daa te mbʉ woke, ɔ kóʼ gɛ̀ ndə məmɔ̀ʼ bəʼ-vâa-bi-kə nə chɔ̂, bʉə ndə bɔ̂ŋ kə́ tʉ́ʼ bəŋkahə-Nyii leʼ tə́nə ndə nubə ndə Jiso kə́ dàhə.<verse eid="REV 12:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="REV 12:18" />Mbʉ dalagɔŋ tə́nə ndəŋ kəsɛ ŋgwuu-muukwɛʼtəŋ.<verse eid="REV 12:18" /></para>
+  <chapter eid="REV 12" />
+  <chapter number="13" style="c" sid="REV 13" />
+  <para style="s">Mbʉ nyaa bʉəbʉə ndə ɔ kóʼ mu muukwɛʼtəŋmə</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 13:1" />Ndʉʉmɛ, mɔ nyíɛ nyaa bʉəbʉə, ɔ kə́ kóʼ mu muukwɛʼtəŋmə. Ɔ kie ndʉʉhə wuŋ leʼnə tʉbə təkwiitia, nə bɛnətə wuŋ ndəŋ ndʉʉhə-i wuŋ. Ndəŋ tʉkə-i təmiyɔŋ, i kie yie ndə i tʉʼ dʉ̀ʉhə yie-Nyii. <verse eid="REV 13:1" /><verse number="2" style="v" sid="REV 13:2" />Mbʉ nyaa bʉəbʉə ndə mɔ kə nyíɛ, ɔ kə́ bɛ nə bûu, ɔ kie bəlɔkɔʼɔ vâabəwu dədə ndə i bɛ nyuhənyuhə bɔŋleʼ chyʉ́ʉ daa bɛ nə yi-nyaabɛʼ-yə ndə yie-e bɛ bɛɛ, chu-i kə́ bɛ nə chu bʉʼ. Mbʉ dalagɔŋ kɔ́ ghʉəʼkə tʉ mbʉ nyaa, kɔ́ yetəkə-i bɔŋleʼ kɔ́ fɔŋ kəghʉəʼ tʉ ɔŋ ndə məsɔ́ʼ bʉə.<figure style="fig" alt="Bear" file="Bear.tif" size="col" copy="Lori McLean" ref="13:2">Nɔ bɛ nyaa nɔ bə tíi nə bɛɛ</figure><verse eid="REV 13:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 13:3" />I nɔ kə bɛ fi nə bə nɔʼ kə lə́ŋhə mbyu kətʉ-ebɛʼ ndə ntɛ ndə bəkɔ ɔ kwú, bɔŋ tʉ mbʉ kələŋ nɔʼ yə́ŋ. I chàa wʉʉnəmbikə bənchəŋ, bɔ̂ŋ gɛ̀ hə bɔ̌ŋ mbʉ nyaa bʉəbʉə, <verse eid="REV 13:3" /><verse number="4" style="v" sid="REV 13:4" />bɔŋleʼ lə̀ʼtə mbʉ dalagɔŋ, bʉʼka ɔ nɔʼ kə kɔ́ ghʉəʼkə-i tʉ mbʉ nyaa. Bɔ̂ŋ bɔŋleʼ kə́ lə̀ʼtə mbʉ nyaa bʉəbʉə, kə́ ghɔ̀ŋ mbɔ, “Bɛ nda ndə mbʉ nyaa bʉəbʉə, bɔŋ bɛ nda ndə bəkɔ ɔ gwúu byuʼu ghɔŋ ɔŋ?”<verse eid="REV 13:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="REV 13:5" />Bə kɔ́ ghʉəʼkə tʉ mbʉ nyaa bʉəbʉə ndə mə-kə́-kwə́ʼ ŋgie-dʉ̀ʼ-ŋwɔŋ-bə ndə i tʉʼ dʉ̀ʉhə yie-Nyii. Bə bɔŋleʼ kɔ́ ghʉəʼkə tʉ ɔŋ ndə məsɔ́ʼ ndə bəchi njuɔ bûu nə wuŋ kwi. <verse eid="REV 13:5" /><verse number="6" style="v" sid="REV 13:6" />Ɔ ŋɔ́ʼhə chu-i kə́ kwə́ʼ ŋgiebə ndə i tʉʼ dʉ̀ʉhə Nyii, kə́ dʉ̀ʉhə yie-e leʼnə yəŋ-chí-kə-i kə́ bɛ bʉə ndə bɔ̂ŋ tʉʼ chí yuo. <verse eid="REV 13:6" /><verse number="7" style="v" sid="REV 13:7" />Bə nɔ kə leʼ kɔ́ ghʉəʼkə tʉ ɔŋ ndə məmɔ̀ʼ bʉə-Nyii nə chɔ̂, ghɔ́ʼ bɔŋ. Bə bɔŋleʼ kɔ́ ghʉəʼkə ndə məsɔ́ʼ tʉ ɔŋ ndə məgìe kətʉ lɔŋbə inchəŋ, bie-bʉə-hə, ŋgie-bətə̂ŋ-bə leʼnə lɔʼ-bətə̂ŋ-tə. <verse eid="REV 13:7" /><verse number="8" style="v" sid="REV 13:8" />Bʉə bənchəŋ ndə bɔŋ bɛ kəchisê bu lə̀ʼtə ɔŋ, wotəmiyɔŋ ndə bə kə gòʼ təmə nyɔ̀ʼ yie-e mu ŋwɔʼnə məchímbi lʉ̀ hə ndəŋ ŋgwunə-mbi fɛ. Ŋwɔʼnə-ɔ̄ŋ nɔ bɛ yi-mbʉ-Vaabinjyʉʉ-yə ndə bə kə bɛ ndə məgwìa ɔ.<verse eid="REV 13:8" /></para>
+  <para style="q1">
+    <verse number="9" style="v" sid="REV 13:9" />Kaʼ wo kie tyunəkə, ɔ̈ yʉ́.<verse eid="REV 13:9" /></para>
+  <para style="q1">
+    <verse number="10" style="v" sid="REV 13:10" />Kaʼ wo kə kie ndə məgɛ̀ chaŋ,</para>
+  <para style="q2" vid="REV 13:10">bə bu lʉ̀ ɔ ndə wo-njaa-chaŋ</para>
+  <para style="q1" vid="REV 13:10">kaʼ bə kə kie ndə məyí wo nə setəkə,</para>
+  <para style="q2" vid="REV 13:10">təmə ɔ bu kwú ndəŋ setəkə.</para>
+  <para style="p" vid="REV 13:10">Yɔ̄ŋ-yə nɔ dʉ̀ʼ mbɔ b̈ʉə-Nyii yá fyii, lyʉ̀ʉtə́nə ndʉʉ ndə bɔ̂ŋ tʉʼ nyíɛ ŋgʉəʼ, bɔŋleʼ kə́ mɔ̀ʼfyiihə-ʉə ndəŋ Nyii gɛ̀gɛ̀.<verse eid="REV 13:10" /></para>
+  <para style="s">Nyaa bʉəbʉə ndə ɔ kóʼ kəchisê</para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 13:11" />Ndʉʉmɛ, mɔ nyíɛ ibɛʼ-yə nyaa bʉəbʉə ndə ɔ kóʼ, fyú gwè hə mu sê. Ɔ kie ndʉʉhə ibûu ndə yi-binjyʉʉ-yə, kə́ kwə́ʼ nə dalagɔŋ. <verse eid="REV 13:11" /><verse number="12" style="v" sid="REV 13:12" />Ɔ fyúhə ntɛ kəghʉəʼ inchəŋ ndə fəŋ nyaa bʉəbʉə kə kie, bəshʉ ɔ, chìi chisêkə ghɔŋbə bʉə ndə bɔ̂ŋ bɛ chɔ kə́ lə̀ʼtə fəŋ nyaa-ɛ ndə bəkɔ lɔkɔʼ kədyʉʼ-i-yīŋ bìa yí ɔ le nɔʼ kə yə́ŋ. <verse eid="REV 13:12" /><verse number="13" style="v" sid="REV 13:13" />Ɔ chìi bəfɔŋ kəcheʼ, ɔ buŋ chìi tə viʼi shíʼ hə yuo gwè kəchisê bəshʉ bʉə. <verse eid="REV 13:13" /><verse number="14" style="v" sid="REV 13:14" />Ndə mbʉ bəcheʼ ndə bə kə mɛ̀ʼtə ɔ fɔ̀ʼ bəshʉ mbʉ fəŋ nyaa bʉəbʉə-e, i fə́ʼhə bʉə ndə bɔ̂ŋ kə bɛ kəchisê, kə́ shyíi bɔŋ mbɔ b̈ɔ̂ŋ la chìi mbʉ finə nyaa ndə mə-kə́-kɔ́ kuŋhə tʉ ɔŋ. Nɔ bɛ nyaa-bʉəbʉə-e ndə bə kə lə́ŋhə ɔŋ nə setəkə ɔ bɔŋleʼ bìi le. <verse eid="REV 13:14" /><verse number="15" style="v" sid="REV 13:15" />Bə mɛ̀ʼtə mbʉ biitə-nyaa-bʉəbʉə-kə, ɔ kɔ́ məchímbi tʉ mbʉ kəfɔ ndə bɔ̂ŋ kə chìi ɔ fínə fəŋ nyaa le, mbɔ ɔ̈ chʉʼ kie ghʉəʼkə ndə məkwə́ʼ bɔŋleʼ chìi b̈ə yítə bʉə ndə bɔ̂ŋ bu gòʼ təmə bɛ́ŋ ndə lə̀ʼtə ɔŋ fɛ.<verse eid="REV 13:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="REV 13:16" />Ɔ bɔŋleʼ kwɛ̀ŋhə bʉə bənchəŋ, vâaŋgwehə, vâa-fɔŋ, wo-kəfʉʼ byuunɔ wo mbʉʼ, wo ndə ɔ gòʼ təmə bɛ fʉə fɛ ghɔŋbə wo ndə ɔ bɛ fʉə, mbɔ b̈ə chèʼ bɔŋ, kwiimɔʼnə-bɔŋ byuunɔ chutəyi-bɔŋ, <verse eid="REV 13:16" /><verse number="17" style="v" sid="REV 13:17" />mbɔ wo mə leʼ nyúɔ fɔkə byuunɔ fɛ̀ŋ fɛ, tə ɔ yaʼ kie mbʉ kəcheʼ ndə i kie ndə məbɛ yie mbʉ nyaa bʉəbʉə byuunɔ ntyʉʉ shʉ-ŋwɔʼnə-tə ndə i tə́nə ndə yie-e. <verse eid="REV 13:17" /><verse number="18" style="v" sid="REV 13:18" />Yɔ̄ŋ-yə nɔ tʉʼ bíʼtə mukətʉ-súunə, wo ndə ɔ kie ndaa kwɔ̀ʼtə nukə ndə mbʉ ntyʉʉ mbʉ shʉ-ŋwɔʼnə-tə ndə i tə́nə ndə yie mbʉ nyaa bʉəbʉə bɛ yɔŋ, bʉʼka ntyʉʉ mbʉ təshʉ ŋwɔʼnə nɔ bɛ yie woməsʉʉ, mbʉ ntyʉʉ-i nɔ bɛ 666.<verse eid="REV 13:18" /></para>
+  <chapter eid="REV 13" />
+  <chapter number="14" style="c" sid="REV 14" />
+  <para style="s">Mbʉ Vaabinjyʉʉ ghɔŋbə mbʉ 144,000</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 14:1" />Ndʉʉmɛ, mɔ lɛ́nə nyíɛ mbʉ Vaabinjyʉʉ ndə ɔ tə́nə ndəŋ Kwɔŋ Sayɔŋ ghɔŋbə bʉə 144,000 ndə bɔ̂ŋ kie yie-e, leʼnə yie-Tie-e, ndə bə nyɔ̀ʼ chutəyi-bɔŋ. <verse eid="REV 14:1" /><verse number="2" style="v" sid="REV 14:2" />Mɔ yʉ́ gyʉʉbɛʼ yuo kə́ gìe nə gyʉʉ muu buŋmbi ndə i tʉʼ gwù nə ghʉəʼkə leʼnə fuu-yuo shʉ́əshʉ́ə. Mbʉ gyʉʉ ndə mɔ yʉ́ i bɛ nə gyʉʉ ŋkyitə ndə bʉə bʉ́ʼ ŋkyitə tʉʼ bʉ́ʼ.<verse eid="REV 14:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 14:3" />Bɔ̂ŋ kə́ yùɔ lyuu fefe bəshʉ mbʉ kəyetə, leʼnə fɔ-ŋɛnə-bə-īŋ kwi ghɔŋbə mbʉ bəntəŋbəshʉ ghəŋ ndə bɔ̂ŋ kie kuŋhə. Wo kə bɛ ghɔ ndə bəkɔ ɔ yétə mbʉ lyuu fɛ yaʼkɛŋ haʼ bʉə-bīŋ 144,000 ndə bə nɔʼ kə chʉ̀ʼ tʉkə-ʉə kəchisê. <verse eid="REV 14:3" /><verse number="4" style="v" sid="REV 14:4" />Nɔ bɛ bʉə ndə bɔ̂ŋ gòʼ təmə nɔʼ bʉ́əhə ŋwɔŋtə-ʉə nə bəke fɛ, bʉʼka bɔ̂ŋ nɔ bíe bəŋgwɔŋ. Nɔ bɛ bʉə-bɔ̄ŋ ndə bɔ̂ŋ kə́ gɛ̀ hə bɔ̌ŋ mbʉ Vaabinjyʉʉ ndə yəŋkə təmiyɔŋ ndə ɔ kə́ gɛ̀ chɔ. Bə nɔʼ chʉ̀ʼ tʉkə-ʉə mu bʉəməsʉʉ ndə məbɛ fəŋ bəfɔ ndə bə kɔ́ tʉ Nyii leʼnə mbʉ Vaabinjyʉʉ. <verse eid="REV 14:4" /><verse number="5" style="v" sid="REV 14:5" />Lɛɛŋkə chʉʼ nə fyú hə chu-bɔŋ fɛ. Bɔ̂ŋ kie kwɔtəkə mu məchimbi-bɔŋ fɛ.<verse eid="REV 14:5" /></para>
+  <para style="s">Mbʉ bʉəntəŋNyii bətia</para>
+  <para style="p">
+    <verse number="6" style="v" sid="REV 14:6" />Ndʉʉmɛ, mɔ nyíɛ ibɛʼ-yə wontəŋNyii, ɔ kə́ tíe tíŋ kətʉ-bʉʼʉ nə ntəŋjyujyu ndə i gòʼ təmə kie liʼ-i fɛ, ndə məgwè lɔ̀ʼ tʉ bʉə-kəchisê, tʉ lɔʼ-bətə̂ŋ-tə inchəŋ, lɔŋbə inchəŋ, ŋgie-bətə̂ŋ-bə leʼnə nuɔ-bʉə-tə. <verse eid="REV 14:6" /><verse number="7" style="v" sid="REV 14:7" />Ɔ gìe nə gyʉʉ dədə mbɔ, “B̈ii fàa Nyii bɔŋleʼ kɔ́ kuŋhə tʉ ɔŋ bʉʼka ndʉʉ chʉ̀ə ŋkwɛ-ɛ nɔʼ kʉ̀ʼnə, b̈ii lə̀ʼtə ɔŋ ndə ɔ chìi yuo, chìi chisêkə, chìi muukwɛʼtəŋmə leʼnə vâabəlʉ̂ʉ muu.”<verse eid="REV 14:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 14:8" />Ibɛʼ-yə wontəŋNyii tyúnə bɔ̌ŋ fəŋ kə́ ghɔ̀ŋ mbɔ, “Ɔ nɔʼ gwù, Babilɔŋ ndə ɔ bɛ fɔŋ kəyəŋkwɛʼtəŋ nɔʼ gwù, mbəŋ-ɛŋ ndə ɔ chìi lɔʼ-bətə̂ŋ-tə bənchəŋ nú ndʉʼ-məntɔ-bəsəŋ-mə-i ndə i gwè nə tʉʉbʉə-Nyii.”<verse eid="REV 14:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 14:9" />Ibɛʼ-yə wontəŋNyii ndə ɔ tyúnə bɔ̌ŋ fəŋ vɛʼ bûu gwè hə bɔ̌ŋ bɔŋ kə́ gìe nə gyʉʉ dədə mbɔ, “Kaʼ wo lə̀ʼtə mbʉ nyaa bʉəbʉə ghɔŋbə finə-i, ndə bə chìi, bɔŋleʼ fí cheʼkə-i chutəyi-ɔ, byuunɔ ndəŋ kwii-i, <verse eid="REV 14:9" /><verse number="10" style="v" sid="REV 14:10" />təmə ɔ bu leʼ nú ndʉʼ-tɛ́ŋ-tʉʉbʉə-Nyii-mə ndə ɔ nɔʼ véʼ nə ghʉəʼkə nchəŋnchəŋ-ɛŋ mu ndʉ̂ʉ tʉʉbʉə-e, bə bɔŋleʼ chɔ́ŋhə ɔŋ nə viʼi ndə i tʉʼ kyʉ́ʉ kie yɔʼ-məkɔŋ-kə bəshʉ bʉəntəŋNyii ndə bɔ̂ŋ bɛ ŋkʉʉ leʼnə mbʉ Vaabinjyʉʉ. <verse eid="REV 14:10" /><verse number="11" style="v" sid="REV 14:11" />Ndyʉʼ-viʼi-kə ndə i tʉʼ chɔ́ŋhə bɔŋ bu kə́ kóʼ təmə liʼ-i nə bɛ ghɔ fɛ, i bu bɛ ndʉʉbətyuʼ ghɔŋbə ndʉʉnəchî təmə bɔ̂ŋ nə káa fɛ, tʉ bʉə ndə bɔ̂ŋ tʉʼ lə̀ʼtə mbʉ nyaa bʉəbʉə ghɔŋbə finə-i ndə bə chìi leʼnə wotəmiyɔŋ ndə ɔ fí cheʼkə ndə i tə́nə ndəŋ yie-e.”<verse eid="REV 14:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 14:12" />Yɔ̄ŋ-yə nɔ dʉ̀ʼ mbɔ b̈ʉə Nyii yá fyiihə-ʉə, lyʉ̀ʉtə́nə ndʉʉ ndə bɔ̂ŋ tʉʼ nyíɛ ŋgʉəʼ, bʉə ndə bɔ̂ŋ tʉ́ʼ bəŋkahə-Nyii bɔŋleʼ mɔ̀ʼfyiihə-ʉə ndəŋ Jiso.<verse eid="REV 14:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="REV 14:13" />Mɔ yʉ́ gyʉʉ yuo i kə́ ghɔ̀ŋ mbɔ, “Nyɔ̀ʼ nukə-ɔ̄ŋ, tʉʉjyu nɔ bɛ yi-bʉə-yə ndə bɔ̂ŋ nə kə̂ kwú kə́ fɔ̀ʼ tʉ Nyii!” LyʉʉhəNyiikə bɛ́ŋ mbɔ, “Ɔŋ, kɛŋ shʉəŋ, bɔ̂ŋ bu kie tʉʉjyu, bʉʼka bɔ̂ŋ bu káa ndə fɔʼɔ-shʉ́əshʉ́ə-yʉə, bʉʼka fɔʼtə-ʉə bu gɛ̀ hə bɔ̌ŋ bɔŋ.”<verse eid="REV 14:13" /></para>
+  <para style="s">Njəŋ ndə i dʉ̀ʼ ndə Nyii bu kwɛ̀ sɔ́ʼ bʉə ndəŋ ndyiʼtə-kəchî-kə</para>
+  <para style="p">
+    <verse number="14" style="v" sid="REV 14:14" />Nɔ ndʉʉmɛ, mɔ lɛ́nə nyíɛ, ŋkʉə-kəmbɔʼ-kəfyuʼ-kə wobɛʼ kə́ dùʼ ndəŋ ghɔ nə vaa-woməsʉʉ, nə bɛnə kətʉ-ɔ ndə bə chìi nə goo, ɔ yá setəkə kəghɔ-ɔ ndə i bɛ nə setə-síi-lɛshi-kə.<verse eid="REV 14:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="REV 14:15" />Ibɛʼ-yə wontəŋNyii fyú hə mu njaafɛ̀ʼndɛŋNyii tíi nə gyʉʉ dədə ghɔ̀ŋ tʉ ɔŋ mbɔ, “Lʉ̀ setəkə-a chʉ́ə mbʉ ŋgwiehə nə yɔŋ bʉʼka mbʉ ndʉʉ kwètə nɔʼ kʉ̀ʼnə, bʉʼka chisêkə nɔʼ tə̀ŋ kʉ̀ʼnə ndə məkwètə!” <verse eid="REV 14:15" /><verse number="16" style="v" sid="REV 14:16" />Nɔ, mbʉ wo ndə ɔ dùʼ ndəŋ mbɔʼ-yuo-kə, gháhə setəkə-i chʉ́ə chisêkə.<verse eid="REV 14:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="REV 14:17" />Ibɛʼ-yə wontəŋNyii fyú ghɔ mu njaafɛ̀ʼndɛŋNyii yuo, kie setə-chyʉ́ʉ-kə ghɔ kəghɔ-ɔ haʼ ndə maa-yīŋ. <verse eid="REV 14:17" /><verse number="18" style="v" sid="REV 14:18" />Ibɛʼ-yə wontəŋNyii fyú ghɔ mu kəyəŋfɛ̀ʼndɛŋNyii ndə kie ɔ kie viʼi, ɔ tíi yīŋ-yə ndə ɔ kie setə-chyʉ́ʉ-kə kəghɔ-ɔ le nə gyʉʉ dədə kə́ ghɔ̀ŋ mbɔ, “Gháhə setəkə-a síi nchyuu-məntɔŋ-geleb-bə ndəŋ lyʉʼʉ kəchisê bʉʼka ntɔŋmə-i nɔʼ tə̀ŋ.” <verse eid="REV 14:18" /><verse number="19" style="v" sid="REV 14:19" />Ndʉʉmɛ, mbʉ wontəŋNyii gháhə setəkə-i tíŋ nə yɔŋ kəchisê chètə mbʉ məntɔŋ geleb ndəŋ lyʉʼtə-i, yíɛʼhə mɔ̀ʼ mu lɔkɔʼ kəŋkyʉʉ tʉʉbʉə-Nyii ndə bə lyúʼ ntɔŋ-kətyʉ-mə chɔ ndə ndʉʼmə. <verse eid="REV 14:19" /><verse number="20" style="v" sid="REV 14:20" />Bə kɔ́ŋ mbʉ məntɔŋ mu kəŋkyʉʉ ndə mə-kə́-lyúʼ ntɔŋmə muŋgɔ kəyəŋ ndə i fyú hə mu kəyəŋkwɛʼtəŋ, fɔbʉəkə fyú chɔ kè nə ŋgwɛŋ tə gɛ̀ dàa nə ŋkɔŋ-bəghǔu-hə ghyʉʉ nə wuŋ taa bɔŋleʼ dɔ̀ŋnə tə bɛ nə saafyii nə njuʼ kwii.<verse eid="REV 14:20" /></para>
+  <chapter eid="REV 14" />
+  <chapter number="15" style="c" sid="REV 15" />
+  <para style="s">BʉəntəŋNyii təkwiitia ghɔŋbə ndyiʼtə-ŋgʉəʼ-bə</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 15:1" />Ndʉʉmɛ, mɔ nyíɛ ibɛʼ-yə cheʼkə yuo, i gʉ́ə bɔŋ-kə́-leʼ bɛ nu-chíechu-kə, bʉəntəŋNyii təkwiitia nə ŋgʉəʼ təkwiitia, ndə bɛ ndyiʼtəbə, bʉʼka nɔ bɛ ndyiʼtə-tʉʉbʉə-Nyii-bə ndə ɔ bu dʉ̀ʼ. <verse eid="REV 15:1" /><verse number="2" style="v" sid="REV 15:2" />Mɔ nyíɛ fɔbɛʼkə ndə i bɛ nə muukwɛʼtəŋ-galashi-mə ndə bə fínə ghɔŋbə viʼi leʼnə bʉə ghɔ ndə bɔ̂ŋ nɔʼ ghɔ́ʼ mbʉ nyaa bʉəbʉə ghɔŋbə finə-i ndə bə kə chìi leʼnə ntyʉʉ shʉ-ŋwɔʼnə-tə ndə i bɛ ndəŋ yie-e. Bɔ̂ŋ kə́ tə́nə mbʉə muukwɛʼtəŋ-galashi-mə, nə bəŋkyitə Nyii kəghɔ-bɔŋ. <verse eid="REV 15:2" /><verse number="3" style="v" sid="REV 15:3" />Bɔ̂ŋ kə́ yùɔ lyuu Mushi vaafɔ̀ʼ-Nyii leʼnə lyuu mbʉ Vaabinjyʉʉ mbɔ,</para>
+  <para style="q1" vid="REV 15:3">“Fɔʼtə-a nɔ gʉ́ə bɔŋ-kə́-leʼ bɛ nu-chíechu-kə</para>
+  <para style="q2" vid="REV 15:3">Oo Nyii Tiekətʉ ndə a kie ghʉəʼkə inchəŋ!</para>
+  <para style="q1" vid="REV 15:3">Fiatə-a nɔ bɛ ndyʉndyʉ bɔŋ-kə́-leʼ bɛ shʉəŋ</para>
+  <para style="q2" vid="REV 15:3">Oo Fɔŋ ndə ɔ tʉʼ sɔ́ʼ lɔʼ-bətə̂ŋ-tə!<verse eid="REV 15:3" /></para>
+  <para style="q1">
+    <verse number="4" style="v" sid="REV 15:4" />Bɛ nda ndə ɔ bu gòʼ təmə fàa a, Tiekətʉ,</para>
+  <para style="q2" vid="REV 15:4">kɔ́ kuŋhə a fɛ?</para>
+  <para style="q1" vid="REV 15:4">Mbəŋ-aŋ tətɛʼ a nɔ bɛ ŋkʉʉ.</para>
+  <para style="q2" vid="REV 15:4">Lɔʼ-bətə̂ŋ-tə nchəŋnchəŋ bu gwè lə̀ʼtə a,</para>
+  <para style="q1" vid="REV 15:4">bʉʼka a nɔʼ kɛ̀ʼ fɔʼtə-a ndə i bɛ ndyʉndyʉ.”<verse eid="REV 15:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="REV 15:5" />Yɔ̄ŋ-yə kʉ̂ʉ tíŋ, mɔ lɛ́nə, nyíɛ njaafɛ̀ʼndɛŋNyii ndə bɛ lɛʼkə ndə i bɛ ndə mənú gwù-i kə́ bɛ yuo i kə́ tə́nə ighʉ́ʉnə. <verse eid="REV 15:5" /><verse number="6" style="v" sid="REV 15:6" />BʉəntəŋNyii təkwiitia ndə bɔ̂ŋ kie ntɛ-ŋgʉəʼ-hə kəghɔ-bɔŋ təkwiitia fyú hə mu njaafɛ̀ʼndɛŋNyii, mɔ̀ʼ kɛŋ vâa ndyi-kəfyuʼ-chɛŋ-hə mbʉə-bɔŋ, kɔ́ʼtə kwɔbə ndə bə chìi nə goo ghɔʼ-bɔŋ. <verse eid="REV 15:6" /><verse number="7" style="v" sid="REV 15:7" />Mbyu kəfɔ mu fɔ-ŋɛnə-bə-īŋ kwi kɔ́ bəbaŋ gheghe təkwiitia ndə bə chìi nə goo tʉ mbʉ bʉəntəŋNyii təkwiitia ndə i bɛ i lə́ŋtə nə tʉʉbʉə-Nyii ndə ɔ chí mbi təmə liʼ-i ghɔ fɛ. <verse eid="REV 15:7" /><verse number="8" style="v" sid="REV 15:8" />Ndyʉʼkə lə́ŋ mu mbʉ njaafɛ̀ʼndɛŋNyii ndə i lɔ̀ hə ndə məgʉə-Nyii ghɔŋbə ghʉəʼkə-i, təmə wo bɛ ghɔ ndə bəkɔ ɔ sʉ́ʉ mu mbʉ njaafɛ̀ʼndɛŋNyii fɛ, tə mbʉ ntɛ-ŋgʉəʼ-hə təkwiitia ndə mbʉ bʉəntəŋNyii təkwiitia kə gwè nə yɔŋ le yi mì.<verse eid="REV 15:8" /></para>
+  <chapter eid="REV 15" />
+  <chapter number="16" style="c" sid="REV 16" />
+  <para style="s">Bəbaŋ tʉʉbʉə-Nyii təkwiitia</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 16:1" />Ndʉʉmɛ, mɔ yʉ́ gyʉʉ dədə mu njaafɛ̀ʼndɛŋNyii i kə́ gìe tʉ mbʉ bʉəntəŋNyii təkwiitia mbɔ, “B̈ii gɛ̀, véʼ mbʉ bəbaŋ gheghe təkwiitia ndə i kie tʉʉbʉə-Nyii muŋgɔ kəchisê le.”<verse eid="REV 16:1" /></para>
+  <para style="p">
+    <verse number="2" style="v" sid="REV 16:2" />Nɔ, fəŋ wontəŋNyii gɛ̀ véʼ yi-yə kəchisê. Mbaa-shʉ́əshʉ́ə-bə ndə i tʉʼ líŋ daa yátə bʉə ndə bɔ̂ŋ nɔʼ fí cheʼ-mbʉ-nyaa-bʉəbʉə-kə bɔŋleʼ kə́ lə̀ʼtə finə-i ndə bə kə chìi.<verse eid="REV 16:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 16:3" />WontəŋNyii ndə ɔ tyúnə bɔ̌ŋ fəŋ, véʼ yi-yə baŋ mu muukwɛʼtəŋmə. Mbʉ muu kíahə bɛ nə fɔbʉə-kəŋkwu-wo-kə, fɔ-ŋɛnə-bə ndə bɔ̂ŋ bɛ mbʉ mu muu kwútə bənchəŋ.<verse eid="REV 16:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 16:4" />WontəŋNyii ndə ɔ tyúnə bɔ̌ŋ fəŋ vɛʼ bûu, véʼ yi-yə baŋ mu ŋgwɛŋhə leʼnə vâabəlʉ̂ʉ muu, mbʉ muu bə̀ŋ fɔbʉəkə. <verse eid="REV 16:4" /><verse number="5" style="v" sid="REV 16:5" />Mɔ yʉ́ wontəŋNyii ndə ɔ kie mbʉ muu ghɔ̀ŋ tʉ Nyii mbɔ,</para>
+  <para style="q1" vid="REV 16:5">“Oo Wo ndə a bɛ Ŋkʉʉ, mbəŋ-aŋ ndə a bɛ ghɔ, bɔŋ-nɔʼ-leʼ kə bɛ ghɔ,</para>
+  <para style="q2" vid="REV 16:5">ntɛ ndə a kwɛ̀ nubə-ɔ̄ŋ nɔ bɛ ndyʉndyʉ.<verse eid="REV 16:5" /></para>
+  <para style="q1">
+    <verse number="6" style="v" sid="REV 16:6" />Bʉʼka bɔ̂ŋ nɔʼ tyù fɔbʉə-bʉə-Nyii-kə ghɔŋbə bʉəyʉkəŋgieNyii,</para>
+  <para style="q2" vid="REV 16:6">nɔ a nɔʼ kɔ́ fɔbʉəkə tʉ bɔŋ ndə mənú.</para>
+  <para style="q1" vid="REV 16:6">Nɔ bɛ ntɛ bəkɛŋ ndə i kʉ̀ʼnə tʉ bɔŋ.”<verse eid="REV 16:6" /></para>
+  <para style="m">
+    <verse number="7" style="v" sid="REV 16:7" />Mɔ yʉ́ gyʉʉ ndə i gwè hə ndəŋ kəyəŋfɛ̀ʼndɛŋNyii kə́ ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 16:7">“Ɔŋ, Nyii Tiekətʉ, ndə a kie ghʉəʼkə inchəŋ,</para>
+  <para style="q2" vid="REV 16:7">a nɔ kwɛ̀ nubə-ɔ̄ŋ nə shʉəŋ, i bɔŋ-kə́-leʼ bɛ ndyʉndyʉ.”<verse eid="REV 16:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 16:8" />WontəŋNyii ndə ɔ tyúnə bɔ̌ŋ fəŋ vɛʼ tia, véʼ yi-yə baŋ ndəŋ sʉʉchi, Nyii mɛ̀ʼtə i tɔ̀ŋtə bʉə nə viʼi shʉ́əshʉ́ə. <verse eid="REV 16:8" /><verse number="9" style="v" sid="REV 16:9" />Məyíʼhə shʉ́əshʉ́ə tɔ̀ŋtə bɔŋ, bɔ̂ŋ chɛ̀ŋ yie-Nyii ndə ɔ kə kie ghʉəʼkə ndə mətə́ŋ ntɛ-ŋgʉəʼ-hə-ɔ̄ŋ. Təmə bɔ̂ŋ shìe liɛŋ ndəŋ bʉ̂ʼtə-ʉə ndə məkɔ́ məgʉ́ə tʉ ɔŋ fɛ.<verse eid="REV 16:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="REV 16:10" />WontəŋNyii ndə ɔ tyúnə bɔ̌ŋ fəŋ vɛʼ kwi, véʼ yi-yə baŋ ndəŋ yetə-mbʉ-nyaa-bʉəbʉə-ghɔ̄-kə, njəŋkə gwù lɔʼɔ-ghɔ̄ ndə ɔ kə́ sɔ́ʼ. Bʉə kwó lɛɛŋhəbə-ʉə bʉʼka mbʉə liŋnə shʉ́əshʉ́ə. <verse eid="REV 16:10" /><verse number="11" style="v" sid="REV 16:11" />Bɔ̂ŋ chɛ̀ŋ yie-Nyii ndə ɔ bɛ yuo bʉʼka mbʉə liŋnə-yʉə ghɔŋbə mbʉ bəmbaa. Təmə bɔ̂ŋ shìe liɛŋ ndəŋ fɔʼtə-ʉə fɛ.<verse eid="REV 16:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 16:12" />WontəŋNyii ndə ɔ tyúnə bɔ̌ŋ fəŋ vɛʼ taa, véʼ yi-yə baŋ mu lɔkɔʼ ŋgwɛŋ Yufelete, muumə-i yə́ŋ, ndə məŋɔ́ʼhə fia tʉ bəfɔŋ ndə bɔ̂ŋ lɔ̀ hə ndə byûu mbi, kwii ndə chichi sɔ́ʼ chɔ. <verse eid="REV 16:12" /><verse number="13" style="v" sid="REV 16:13" />Mɔ nyíɛ lyʉʉhənyaatəbə itia, ndə bɔ̂ŋ tʉʼ fyú hə chu mbʉ dalagɔŋ, kə́ fyú chu mbʉ nyaa bʉəbʉə bɔŋleʼ fyú chu mbʉ yʉkəŋgieNyii nə mbii kə́ bɛ nə ŋɔʼnchɔŋbə. <verse eid="REV 16:13" /><verse number="14" style="v" sid="REV 16:14" />Nɔ kə bɛ lyʉʉhəbʉəbʉəbə ndə bɔ̂ŋ kə́ chìi nufinəbə ndə bɔ̂ŋ wɔ̀ʼnə gɛ̀ tə bəfɔŋ kəwʉʉnəmbi inchəŋ ndə məchə̀ŋtə bɔŋ ndə chɔ̂ ndə i bu bɛ ndəŋ fɔŋ-kəchî-Nyii ndə ɔ kie ghʉəʼkə inchəŋ.<verse eid="REV 16:14" /></para>
+  <para style="q1">
+    <verse number="15" style="v" sid="REV 16:15" />Jiso Tiekətʉ ghɔ̀ŋ mbɔ, <char style="wj">“B̈ii yʉ́, mɔ nɔ tʉʼ gwè nə lʉʼ! Tʉʉjyu nɔ bu bɛ yi-wo-yə</char></para>
+  <para style="q1" vid="REV 16:15">
+    <char style="wj">ndə ɔ gòʼ nə tʉkə-i ghɔʼ, shʉ̀tə ndyihə-i kə́ chyìichyìi,</char></para>
+  <para style="q1" vid="REV 16:15">
+    <char style="wj">bʉʼka ɔ mə yi tòʼ kənchiʼtʉʉ, bə nyíɛ nchiʼtʉʉkə-i.”</char><verse eid="REV 16:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="REV 16:16" />Bɔ̂ŋ chə̀ŋtə bɔŋ kəyəŋ ndə bə kə́ tíi kəŋgie-Hibulu nə Amagɛdɔŋ.<verse eid="REV 16:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="REV 16:17" />WontəŋNyii ndə ɔ tyúnə bɔ̌ŋ fəŋ vɛʼ ntʉʼʉ, véʼ yi-yə baŋ mu yuo, gyʉʉ dədə gìe mu njaafɛ̀ʼndɛŋNyii, ndəŋ mbʉ kəyetə, kə́ ghɔ̀ŋ mbɔ, “I nɔʼ mì.” <verse eid="REV 16:17" /><verse number="18" style="v" sid="REV 16:18" />Bə nyíɛ leʼnə-wyuu-bə, mədùŋtə ghɔŋbə məbɔ̀ʼtə fuu-yuo leʼnə fɔŋ məŋɛ̀nə kəchisê shʉ́əshʉ́ə. Mbʉ kəchisê kə́ ŋɛ̀nə shʉ́əshʉ́ə ndə ntɛ ndə i chʉʼ nə ŋɛ̀nə nɔ fɛ lʉ̀ hə ndə woməsʉʉ nə bɛ kəchisê. <verse eid="REV 16:18" /><verse number="19" style="v" sid="REV 16:19" />Mbʉ fɔŋ kəyəŋkwɛʼtəŋ sáanə ndəŋ viabə itia, yəŋkwɛʼtəŋbə ndə i bɛ mu lɔʼ-bətə̂ŋ-tə inchəŋ kùunə. Nyii kwɛ́nə Babilɔŋ ndə ɔ shʉ́ə daa, chìi ɔ nú ndʉʼ-tɛ́ŋ-tʉʉbʉə-shʉ́əshʉ́ə-Nyii-mə inchəŋ. <verse eid="REV 16:19" /><verse number="20" style="v" sid="REV 16:20" />Ŋkʉə-sê-bə ndə i bɛ ntəŋntəŋ muu sə̀ʼnə inchəŋ bɛ́, kwɔŋhə bɔŋleʼ mì inchəŋ. <verse eid="REV 16:20" /><verse number="21" style="v" sid="REV 16:21" />Bəlɔkɔʼɔ vii ndə mbyu imɔʼ dìe tə bɛ nə bəkiluŋ njuɔ taa nə wuŋ kwi, gwùtə hə yuo ndəŋ bʉə, bɔ̂ŋ chɛ̀ŋ Nyii bʉʼka ŋgʉəʼ ndə bɔ̂ŋ kə nyíɛ ndə vii kə́ gwùtə ndəŋ bɔŋ, bʉʼka mbʉ ŋgʉəʼ nɔ kə shʉ́ə daa.<verse eid="REV 16:21" /></para>
+  <chapter eid="REV 16" />
+  <chapter number="17" style="c" sid="REV 17" />
+  <para style="s">Fɔŋ sɔkʉʉ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 17:1" />Mbyu wontəŋNyii mu bʉəntəŋNyii təkwiitia ndə bɔ̂ŋ kə kie bəbaŋ gheghe le gwè ghɔ̀ŋ tʉ mɔ mbɔ, “Gwè, mɔ bu dʉ̀ʼ tʉ a, ntɛ ndə Nyii bu kwɛ̀ sɔ́ʼ fɔŋ sɔkʉʉ, yəŋkwɛʼtəŋ-ghɔ̄-kə ndə bə bɔ́ŋ mbʉə ŋgwɛŋhə buŋmbi. <verse eid="REV 17:1" /><verse number="2" style="v" sid="REV 17:2" />Bəfɔŋ kəwʉʉnəmbi-bɔ̄ŋ nɔʼ gháa bəsəŋ ghɔŋ bɔŋ, bʉə-kəwʉʉnəmbi nɔʼ búu bʉʼka ndʉʼ-sɔkʉʉ-mə-i ndə bɔ̂ŋ nú.”<verse eid="REV 17:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 17:3" />LyʉʉhəNyiikə jyʉ́ʉhə mɔ, mbʉ wontəŋNyii lʉ̀ mɔ gɛ̀ nə mɔ mu kwɔŋkəyəŋnə. Mɔ nyíɛ woke, ɔ kə́ dùʼ ndəŋ nyaa bʉəbʉəbɛʼ ndə ɔ bɛ kəmbuu buuŋ, bə nyɔ̀ʼ yietə yə̀ŋ mbʉə-e fúu ndə i tʉʼ chɛ̀ŋtə Nyii, mbʉ nyaa-ghɔ̄ kie tʉbə təkwiitia nə ndʉʉhə wuŋ. <verse eid="REV 17:3" /><verse number="4" style="v" sid="REV 17:4" />Mbʉ woke nɔ kə mɔ̀ʼ ndyi kəmbuu fʉ́əŋ leʼnə ndyi-kəmbuu-buuŋ-hə mbʉə-ɔ, leʼnə fɔ-ŋgwuŋ-bə mbʉə-ɔ ndə bə chìi nə goo leʼnə ŋgoʼ-chuɔŋ-chyʉʉchyʉʉ-hə ghɔŋbə səŋ-chuɔŋ-chyʉʉchyʉʉ-bə, ɔ yá ndʉ̂ʉ kəghɔ-ɔ ndə bə chìi nə goo, i kə́ bɛ ilə́ŋnə nə nu-bʉəbʉə-bə ghɔŋbə fɔ-nyàatə-bə ndə i gwè hə ndə məgháa bəsəŋ-bi. <verse eid="REV 17:4" /><verse number="5" style="v" sid="REV 17:5" />Bə nyɔ̀ʼ yie chutəyi-ɔ ndə i bɛ yie ŋguu mbɔ, “Babilɔŋ shʉ́əshʉ́ə, ŋkwê bəsɔkʉʉ, naa ndə ɔ gwè nə nu-nyàatə-bə inchəŋ kəchisê.” <verse eid="REV 17:5" /><verse number="6" style="v" sid="REV 17:6" />Mɔ nyíɛ mbʉ woke, ndə ɔ nɔʼ búu nə fɔbʉə-bʉə-Nyii-kə, bʉə ndə bə yítə bɔŋ bʉʼka bɔ̂ŋ kə́ kwə́ʼ shʉəŋ ntaa te Jiso. Ndʉʉ ndə mɔ kə nyíɛ ɔŋ, i chàa mɔ.<verse eid="REV 17:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 17:7" />Bɔŋ mbʉ wontəŋNyii bíʼtə tʉ mɔ mbɔ, “Chìi ka i chàa a?” Mɔ bu kɛ̀ʼ ŋguu tʉ a te woke-ɔ̄ leʼnə mbʉ nyaa bʉəbʉə, ndə ɔ kie tʉbə təkwiitia nə ndʉʉhə wuŋ, ndə i bɛ̀ʼ ɔ. <verse eid="REV 17:7" /><verse number="8" style="v" sid="REV 17:8" />Mbʉ nyaa bʉəbʉə ndə a kə nyíɛ nɔ, nɔ kə fəŋ bɛ ŋɛnə bɔŋ nɔʼ kwú, bɔŋleʼ bʉ̀nə bɛ ndə məkóʼ mu byʉʉ ndə i gòʼ təmə kie liʼ-i fɛ, kə́ gɛ̀ bə bʉ́əhə ɔŋ. Bʉə ndə bɔ̂ŋ bɛ kəchisê ndə bə kə gòʼ təmə nyɔ̀ʼ yietə-ʉə mu ŋwɔʼnə məchímbi lʉ̀ hə ndəŋ ŋgwunə fɛ, i bu chàa bɔŋ ndə mənyíɛ mbʉ nyaa bʉəbʉə bʉʼka ɔ nɔ kə bɛ, təmə bɔŋleʼ kə bíe fɛ bɔŋleʼ bɛ ndə məbʉ̀nə gwè.<verse eid="REV 17:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 17:9" />Yɔ̄ŋ-yə nɔ tʉʼ dʉ̀ʼ nu-mukətʉ-súunə-kə, mbʉ bətʉ təkwiitia nɔ bɛ kwɔŋhə təkwiitia ndə mbʉ woke dùʼ ndəŋ ghɔ, <verse eid="REV 17:9" /><verse number="10" style="v" sid="REV 17:10" />bɔ̂ŋ nɔ bɛ bəfɔŋ təkwiitia ghɔ. Bəfɔŋ itaa nɔʼ byùutə, imɔʼ kə́ bíe sɔ́ʼ, ibɛʼ-yə kə́ bíe ndə məkóʼ kəkʉə, bɔŋ ndʉʉ ndə ɔ bu kóʼ kəkʉə nɔ ɔ sɔ́ʼ haʼ ndəŋ kʉʉkə məniʼ.<verse eid="REV 17:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 17:11" />Bɔŋ ndə mbʉ nyaa ndə ɔ nɔʼ nə fəŋ bɛ təmə bɔŋ kə leʼbíe nduɔ fɛ, nɔ bɛ fɔŋ ndə ɔ tyúnə bɔ̌ŋ fəŋ vɛʼ təkwiitia. Ɔ nɔ bɛ ndə bəbɛʼbəfɔŋ-bīŋ təkwiitia ghɔ ɔ bɔŋ-kə́-leʼ gɛ̀ bə bʉ́əhə ɔŋ. <verse eid="REV 17:11" /><verse number="12" style="v" sid="REV 17:12" />Mbʉ ndʉʉhə wuŋ ndə a kə nyíɛ nɔ bɛ bəfɔŋ wuŋ ndə bɔ̂ŋ gòʼ təmə nɔʼ chʉ́ʉhə ndə məsɔ́ʼ lɔʼɔ kətə̂ŋ fɛ. Bɔ̂ŋ bɔŋ bu kie ghʉəʼkə ndə məsɔ́ʼ nə bəfɔŋ ndə vaa kəkʉʉ məniʼ, ghɔŋbə mbʉ nyaa bʉəbʉə. <verse eid="REV 17:12" /><verse number="13" style="v" sid="REV 17:13" />Bəfɔŋ-bɔ̄ŋ wuŋ nɔ kie ŋgiekə imɔʼ, bu kɔ́ kuŋhə-ʉə ghɔŋbə ghʉəʼkə-ʉə tʉ mbʉ nyaa. <verse eid="REV 17:13" /><verse number="14" style="v" sid="REV 17:14" />Bɔ̂ŋ bu lɔ̀ hə bɔ̌ŋ mbʉ Vaabinjyʉʉ nə chɔ̂ bɔŋ mbʉ Vaabinjyʉʉ ghɔŋbə bʉə ndə bə nɔʼ kə tíi bɔŋ, séʼ bɔŋ, bɔ̂ŋ bɔŋleʼ kə́ tə́nə ndəŋ shʉəŋ, bu ghɔ́ʼ bɔŋ bʉʼka mbʉ Vaabinjyʉʉ nɔ bɛ Tiekətʉ bətiekətʉ bɔŋleʼ kə́ bɛ Fɔŋ bəfɔŋ.<verse eid="REV 17:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="REV 17:15" />Mbʉ wontəŋNyii ghɔ̀ŋ tʉ mɔ mbɔ, “Mbʉ muu ndə a kə nyíɛ kəyəŋ ndə mbʉ sɔkʉʉ dùʼ chɔ, nɔ bɛ bie-bʉə-hə ghɔŋbə nuɔ-bʉə-tə buŋmbi leʼnə lɔʼ-bətə̂ŋ-tə ghɔŋbə ŋgie-bətə̂ŋ-bə. <verse eid="REV 17:15" /><verse number="16" style="v" sid="REV 17:16" />Mbʉ ndʉʉhə wuŋ ndə a nyíɛ, ghɔŋbə mbʉ nyaa bʉəbʉə bu bàa mbʉ sɔkʉʉ. Bɔ̂ŋ bu chìi ɔ nʉ̀ʉ fuŋ, bɛ kənchiʼtʉʉ, kwó mbɔʼ-mbʉə-e bɔŋleʼ tɔ̀ŋ ɔŋ nə viʼi. <verse eid="REV 17:16" /><verse number="17" style="v" sid="REV 17:17" />Bʉʼka Nyii nɔʼ kɔ́ mu fyii-bɔŋ mbɔ b̈ɔ̂ŋ fɔ̀ʼ nukə ndə mbəŋ-ɛŋ Nyii kie mu fyii-ɔ, ndə məkie gyʉʉ imɔʼ chɔ̀ʼhə ghʉəʼkə-ʉə kɔ́ tʉ mbʉ nyaa bʉəbʉə ndə məsɔ́ʼ fɔŋ, tʉ nukə ndə ŋgieNyiikə ghɔ̀ŋ i fyú shʉəŋ. <verse eid="REV 17:17" /><verse number="18" style="v" sid="REV 17:18" />Mbʉ woke ndə a kə nyíɛ, nɔ tə́nə ndə fɔŋ kəyəŋkwɛʼtəŋ ndə ɔ tʉʼ gìe kətʉ bəfɔŋ kəchisê bənchəŋ.”<verse eid="REV 17:18" /></para>
+  <chapter eid="REV 17" />
+  <chapter number="18" style="c" sid="REV 18" />
+  <para style="s">Məgwù Babilɔŋ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 18:1" />Yɔ̄ŋ-yə kʉ̂ʉ tíŋ, mɔ nyíɛ ibɛʼ-yə wontəŋNyii, ɔ kə́ shíʼ gwè hə yuo, kie fɔŋ kəghʉəʼ ndə məsɔ́ʼ, məŋwɔʼmə-i chìi chisêkə báa. <verse eid="REV 18:1" /><verse number="2" style="v" sid="REV 18:2" />Ɔ tíi nə gyʉʉ shʉ́əshʉ́ə mbɔ,</para>
+  <para style="q1" vid="REV 18:2">“Ɔ nɔʼ gwù, Babilɔŋ, ndə ɔ bɛ fɔŋ kəyəŋkwɛʼtəŋ nɔʼ gwù!</para>
+  <para style="q2" vid="REV 18:2">Ɔ nɔʼ bə̀ŋ yəŋkə ndə lyʉʉhəbʉəbʉəbə tʉʼ chí chɔ.</para>
+  <para style="q1" vid="REV 18:2">Ɔ nɔ bɛ chəŋ bəlyʉʉhə nyàatə,</para>
+  <para style="q2" vid="REV 18:2">kə́ bɛ chəŋ mənuɔ bʉəbʉə,</para>
+  <para style="q2" vid="REV 18:2">kə́ bɛ chəŋ nyaa-bʉəbʉə-hə ndə bə nɔʼ bìe mɛ̀ʼ.<verse eid="REV 18:2" /></para>
+  <para style="q1">
+    <verse number="3" style="v" sid="REV 18:3" />Bʉʼka lɔʼ-bətə̂ŋ-tə inchəŋ nɔʼ búu</para>
+  <para style="q2" vid="REV 18:3">bʉʼka ndʉʼ-məntɔ-shʉ́əshʉ́ə-bəsəŋ-mə-i.</para>
+  <para style="q1" vid="REV 18:3">Bəfɔŋ kəchisê nɔʼ gháa bəsəŋ ghɔŋ ɔŋ.</para>
+  <para style="q2" vid="REV 18:3">Bʉə-mbɛʼnə-kəwʉʉnəmbi nɔʼ kie fʉʼkə bʉʼka ntɔmə ndə ɔ kie ndə məkie nchuɔ daa.”<verse eid="REV 18:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 18:4" />Ndʉʉmɛ, mɔ bìʼ yʉ́ ibɛʼ-yə gyʉʉ ndə i gwè hə yuo kə́ ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 18:4">“Bʉə-bɔŋ, b̈ii fyúhə ŋwɔŋ-yii hə mbʉə ɔ.</para>
+  <para style="q2" vid="REV 18:4">Kə bii bɔŋ mə fúu nuɔ ndə bʉ̂ʼʉ-e fɛ,</para>
+  <para style="q2" vid="REV 18:4">byuunɔ təmə bii ɔ bu nyíɛ ŋgʉəʼ mɔʼɔ.<verse eid="REV 18:4" /></para>
+  <para style="q1">
+    <verse number="5" style="v" sid="REV 18:5" />Bʉʼka bʉ̂ʼtə-i nɔʼ kóʼhə də̀ʼ tə bɛ nə yuo,</para>
+  <para style="q2" vid="REV 18:5">Nyii nɔʼ kwɛ́nə nu-bʉəbʉə-bə-i.<verse eid="REV 18:5" /></para>
+  <para style="q1">
+    <verse number="6" style="v" sid="REV 18:6" />B̈ii fɔ̀ʼ ntɛ-kənu tʉ ɔŋ ndə ɔ nɔʼ fɔ̀ʼ tʉ bəbɛʼbʉə.</para>
+  <para style="q2" vid="REV 18:6">Bʉ̀nə tyú ntɛ-bənu-hə tʉ ɔŋ ndə ɔ nɔʼ fɔ̀ʼ vɛʼ bûu.</para>
+  <para style="q1" vid="REV 18:6">B̈ii fìnə ndʉ̂ʉ-i, i shʉ́ə tíŋ yi-yə ndə ɔ kə fìnə kɔ́ tʉ bəbɛʼbʉə vɛʼ bûu.<verse eid="REV 18:6" /></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="REV 18:7" />Ɔ nɔ kə́ kɔ́ kuŋhə tʉ ŋwɔŋ-ɛŋ bɔŋleʼ kə́ tʉ́ʼtə nchuɔ mbʉə-ɔ buŋmbi.</para>
+  <para style="q2" vid="REV 18:7">Nɔ, bʉ̀nə tyú ŋgʉəʼ ghɔŋbə məvínə tʉ ɔŋ haʼ ghʉə ghɔ.</para>
+  <para style="q1" vid="REV 18:7">Bʉʼka ɔ nɔ gìe mu fyii-ɔ mbɔ,</para>
+  <para style="q2" vid="REV 18:7">‘Mɔ nɔ dùʼ ndəŋ kʉəkə-ɔŋ nə wontoʼ chufu,</para>
+  <para style="q1" vid="REV 18:7">bʉʼka mɔ kie woləŋ fɛ,</para>
+  <para style="q2" vid="REV 18:7">mɔ kʉʉnə bɛ kwuʼ woke ndə ɔ tʉʼ lí kwú ləŋ-ɛŋ fɛ.’<verse eid="REV 18:7" /></para>
+  <para style="q1">
+    <verse number="8" style="v" sid="REV 18:8" />Bʉʼka yɔ̄ŋ-yə, ŋgʉəʼ bu shíʼ ndəŋ ɔŋ chîkə imɔʼ,</para>
+  <para style="q2" vid="REV 18:8">kwú, məlí kwú leʼnə chyʉʉ.</para>
+  <para style="q1" vid="REV 18:8">Bə bu tɔ̀ŋ ɔŋ nə viʼi,</para>
+  <para style="q2" vid="REV 18:8">bʉʼka Nyii Tiekətʉ ndə ɔ chʉ̀ə ŋkwɛ-ɛ nɔ shʉ́ə daa.”<verse eid="REV 18:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 18:9" />“Bəfɔŋ kəchisê ndə ghɔŋ bɔŋ kə́ gháa bəsəŋ bɔŋ-nɔʼ-leʼ kə́ yú nchuɔ ndə ɔ kə kie yɔ́ŋyɔ́ŋ bu gwía bɔŋleʼ tíitə ndʉʉ ndə bɔ̂ŋ bu nyíɛ ndyʉʼkə ndə i tʉʼ kóʼ ndəŋ ɔŋ ndə ɔ tʉʼ kyʉ́ʉ. <verse eid="REV 18:9" /><verse number="10" style="v" sid="REV 18:10" />Bɔ̂ŋ bu tə́nə dɔdɔ kə́ fàa ntɛ ŋgʉəʼ ndə ɔ bɛ muŋgɔ, ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 18:10">‘Ŋgʉəʼ, ŋgʉəʼ bu gwè tʉ a ntyʉʉ təka,</para>
+  <para style="q2" vid="REV 18:10">Oo Babilɔŋ, yəŋkwɛʼtəŋkə ndə a shʉ́ə daa!</para>
+  <para style="q1" vid="REV 18:10">Bʉʼka haʼ ndə vaa kəkʉʉ mbi məniʼ,</para>
+  <para style="q2" vid="REV 18:10">Nyii nɔʼ chʉ̀ə ŋkwɛ-a.’<verse eid="REV 18:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 18:11" />“B̈ʉə chìi mbɛʼnə kəchisê gwía bɔŋleʼ lí ɔ, bʉʼka wo bieleʼ nyúɔ fɔbə kəghɔ-bɔŋ fɛ. <verse eid="REV 18:11" /><verse number="12" style="v" sid="REV 18:12" />Wo bieleʼ nyúɔ fɔbə nə goo, siliba, fɔ-ŋgwuŋ-bə, vâa mbʉətə ndyi-kəfyuʼ-hə, ndyi-kəmbuu-fʉ́əŋ-hə, ndyi-chuɔŋ-chyʉʉchyʉʉ-hə, ndyi-kəmbuu-buuŋ-hə, fɔbə inchəŋ ndə bə chìi nə tyʉkə ndə i kie yɔʼ-jyujyu-kə, ntɛ-bəfɔ-hə inchəŋ ndə bə chìi nə gyʉəʼə səŋ, ntɛ-bəfɔ-hə inchəŋ ndə bə chìi nə tyʉkə ndə chuɔŋ-ɛŋ chyʉʉ, fɔ-kətəŋ-bə ntɛntɛhə, təŋ-kəmbuu-kə leʼnə ŋgoʼ bənyɔʼbənyɔʼ, <verse eid="REV 18:12" /><verse number="13" style="v" sid="REV 18:13" />fɔ-núu-bəfɔ-bə ndə bə tíi nə sinamɔŋ, vâa-bəfɔ lùŋnə ndə bə núunə fɔbə nə yɔŋ, lyiikə, ŋgwo-lùŋ-mə ndə bə tíi nə məə ghɔŋ flaŋkisɛŋ, ndʉʼmə ghɔŋbə ŋgwomə, mbʉ̂ətə búɔnə leʼnə lɛshi, bənaʼa ghɔŋbə binjyʉʉhə, bənyaa bəkatə, bəmatu chɔ̂ ndə tʉʼ dùu bənyaa bəkatə, leʼnə fʉəhə ndə bɛ bʉəməsʉʉ. <verse eid="REV 18:13" /><verse number="14" style="v" sid="REV 18:14" />Mbʉ bʉə-mbɛʼnə ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 18:14">‘Fɔbə inchəŋ ndə a kə kʉ̀ʉ,</para>
+  <para style="q2" vid="REV 18:14">nɔʼ gɛ̀.</para>
+  <para style="q1" vid="REV 18:14">Nchəŋnchəŋ fɔ-chuɔŋ-chyʉʉchyʉʉ-bə-a ghɔŋbə fɔbə ndə i chìi a bʉ̀ʉ</para>
+  <para style="q2" vid="REV 18:14">nɔʼ gɛ̀ təmə a bieleʼ nə nyíɛ fɛ</para>
+  <para style="q2" vid="REV 18:14">i bieleʼ nə bɛ ya-yə fɛ.’<verse eid="REV 18:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="REV 18:15" />“Bʉə-mbɛʼnə ndə bɔ̂ŋ kə fɛ̀ŋ fɔbə-ɔ̄ŋ tʉ ɔŋ kə́ kie kyʉə yɔ́ŋyɔ́ŋ kəghɔ-ɔ, bu tə́nə dɔdɔ, kə́ fàa ŋgʉəʼ ndə ɔ tʉʼ nyíɛ, kə́ gwía bɔŋleʼ tíitə nə ghʉəʼkə mbɔ,<verse eid="REV 18:15" /></para>
+  <para style="q1">
+    <verse number="16" style="v" sid="REV 18:16" />‘Ŋgʉəʼ! Ŋgʉəʼ tʉ a yəŋkwɛʼtəŋkə ndə a shʉ́ə daa!</para>
+  <para style="q2" vid="REV 18:16">Ndə bə nə mɔ̀ʼ vaa-ndyi-kəfyuʼ mbʉə ɔ, leʼnə ndyi kəmbuu fʉ́əŋ leʼnə ndyi kəmbuu buuŋ,</para>
+  <para style="q2" vid="REV 18:16">bə chìi ŋgwuŋ mbʉə-ɔ nə goo leʼnə bəbɛʼfɔ-ŋgwuŋ-bə!<verse eid="REV 18:16" /></para>
+  <para style="q1">
+    <verse number="17" style="v" sid="REV 18:17" />Bʉʼka haʼ ndə vaa kəkʉʉ mbi məniʼ, nchəŋnchəŋ nchuɔ-ɔ̄ nɔʼ bɛ njʉnjʉ!’</para>
+  <para style="p" vid="REV 18:17">“Bʉʼka bʉə bənchəŋ ndə bɔ̂ŋ kie buukwɛʼtəŋbə ghɔŋbə bʉə ndə bɔ̂ŋ tʉʼ lɔ̀ʼ kóʼ, bʉə ndə bɔ̂ŋ tʉʼ té ghɔŋbə bʉə bənchəŋ ndə bɔ̂ŋ tʉʼ chìi mbɛʼnə mu muukwɛʼtəŋmə, tə́nə dɔdɔ <verse eid="REV 18:17" /><verse number="18" style="v" sid="REV 18:18" />kə́ gwíatə ndə bɔ̂ŋ tʉʼ nyíɛ ndyʉʼkə ndə ɔ tʉʼ kyʉ́ʉ i kə́ kóʼ ndəŋ ɔŋ, bɔ̂ŋ ghɔ̀ŋ mbɔ, ‘Bɛ yɔ̂ŋ-yə yəŋkwɛʼtəŋbɛʼkə ndə i nɔʼ nə bɛ nə yɔ̄ŋ-yə?’ <verse eid="REV 18:18" /><verse number="19" style="v" sid="REV 18:19" />Bɔ̂ŋ véʼ vɛŋ-yʉə kə́ gwía bɔŋleʼ lí kə́ ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 18:19">‘Ŋgʉəʼ, ŋgʉəʼ ndəŋ fɔŋ kəyəŋkwɛʼtəŋ ndə i shʉ́ə daa,</para>
+  <para style="q2" vid="REV 18:19">ndə bʉə bənchəŋ ndə bɔ̂ŋ kə kie buukwɛʼtəŋbə mu muu kə kie fʉʼkə bʉʼka ɔ.</para>
+  <para style="q1" vid="REV 18:19">Bʉʼka haʼ ndə vaa kəkʉʉ mbi məniʼ, ɔ nɔʼ nʉ̀ʉ fuŋ.’<verse eid="REV 18:19" /></para>
+  <para style="q1">
+    <verse number="20" style="v" sid="REV 18:20" />T̈ʉʉ-yii kə́ bʉ̀ʉ ndəŋ bɔŋ, Oo bʉə ndə bii bɛ yuo</para>
+  <para style="q2" vid="REV 18:20">leʼnə bii bʉə-Nyii, bəlɔntəŋNyii ghɔŋbə bʉəyʉkəŋgieNyii!</para>
+  <para style="q1" vid="REV 18:20">Bʉʼka Nyii nɔʼ kia chʉ̀ə ŋkwɛ-ɛ bʉəbʉə bʉʼka bii!”<verse eid="REV 18:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="REV 18:21" />Ndʉʉmɛ, wontəŋNyii ndə ɔ shʉ́ə daa chɔ̀ʼhə ŋgoʼ ndə i bɛ nə lɔkɔʼ tê, mɛ̀ʼ mu muukwɛʼtəŋmə kə́ ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 18:21">“Babilɔŋ ndə i shʉ́ə daa, bə bu mɛ̀ʼ ɔŋ nə ghʉəʼkə haʼ mənɔ sê,</para>
+  <para style="q2" vid="REV 18:21">təmə bə leʼnə nyíɛ ɔŋ fɛ.<verse eid="REV 18:21" /></para>
+  <para style="q1">
+    <verse number="22" style="v" sid="REV 18:22" />Gyʉʉ ŋkyitə ghɔŋbə gyʉʉ kəlyuu, bʉə tʉ́ʉ vâandʉ̂ʉ ghɔŋbə gyʉəʼə-vaa</para>
+  <para style="q2" vid="REV 18:22">təmə bə leʼnə yʉ́ mu bii fɛ.</para>
+  <para style="q1" vid="REV 18:22">Təmə bə leʼnə nyíɛ mu bii wo ndə ɔ tʉʼ chìi ntɛ-kəfɔ təmiyɔŋ fɛ.</para>
+  <para style="q2" vid="REV 18:22">Təmə bə leʼnə yʉ́ gyʉʉ tê mu bii fɛ.<verse eid="REV 18:22" /></para>
+  <para style="q1">
+    <verse number="23" style="v" sid="REV 18:23" />Kɛʼɛ bieleʼ nə báa mu bii fɛ.</para>
+  <para style="q2" vid="REV 18:23">Bə bieleʼ nə yʉ́ gyʉʉ vaabələŋ ghɔŋbə vaabəke ndə bɔ̂ŋ tʉʼ chìi lɔŋ mu bii fɛ.</para>
+  <para style="q1" vid="REV 18:23">Babilɔŋ, bə bu bʉ́əhə a bʉʼka bʉə-mbɛʼnə-lɔʼɔ-ba nɔ nə bɛ fɔŋ bʉə bɔŋleʼ kə́ bɛ bʉə-tʉʉ kəchisê,</para>
+  <para style="q2" vid="REV 18:23">bɔŋleʼ bʉʼka a fə́ʼhə lɔʼ-bətə̂ŋ-tə inchəŋ kəchisê nə fê-a.<verse eid="REV 18:23" /></para>
+  <para style="q1">
+    <verse number="24" style="v" sid="REV 18:24" />Bə nyíɛ fɔbʉə-bʉəyʉkəŋgieNyii-bə ghɔŋbə bʉə-Nyii</para>
+  <para style="q2" vid="REV 18:24">leʼnə bʉə bənchəŋ ndə bə nɔʼ nə gwìatə bɔŋ kəchisê yítə mu kəghɔ-ɔ.”<verse eid="REV 18:24" /></para>
+  <chapter eid="REV 18" />
+  <chapter number="19" style="c" sid="REV 19" />
+  <para style="s">Lyuu ndə məsɛ́ʼ ŋgʉʼʉ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 19:1" />Yɔ̄ŋ-yə kʉ̂ʉ tíŋ, mɔ yʉ́ fi nə nuɔ-bʉə-tə buŋmbi tʉʼ yùɔnə yuo shʉ́əshʉ́ə kə́ kwʉ̀ʉnə ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 19:1">“B̈ʉʼʉ lə̀ʼtə Nyii!</para>
+  <para style="q2" vid="REV 19:1">Ŋkwaa, məgʉ́ə ghɔŋbə ghʉəʼkə nɔ kie Nyii-yaʼ.<verse eid="REV 19:1" /></para>
+  <para style="q1">
+    <verse number="2" style="v" sid="REV 19:2" />Bʉʼka ɔ̃ nɔ chʉ̀ə ŋkwɛ nə shʉəŋ, i bɔŋleʼ kə́ bɛ ndyʉndyʉ,</para>
+  <para style="q2" vid="REV 19:2">Ɔ nɔʼ chʉ̀ə ŋkwɛ bʉəbʉə tʉ fɔŋ sɔkʉʉ</para>
+  <para style="q1" vid="REV 19:2">ndə ɔ nɔʼ bʉ́əhə chisêkə nə məgháa bəsəŋ.</para>
+  <para style="q2" vid="REV 19:2">Ɔ nɔʼ tyú bʉ̂ʼʉ tʉ ɔŋ ndə ɔ kə chìi ndə məyítə vâafɔʼɔ-bi.”<verse eid="REV 19:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 19:3" />Bɔ̂ŋ bìʼ tíitə, kə́ ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 19:3">“B̈ʉʼʉ lə̀ʼtə Nyii!</para>
+  <para style="q2" vid="REV 19:3">Ndyʉʼkə ndə i tʉʼ fyú hə ndəŋ ɔŋ tʉʼ kóʼ təmə liʼ-i nə bɛ ghɔ fɛ.”<verse eid="REV 19:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 19:4" />Mbʉ bəntəŋbəshʉ ghəŋ ndə bɔ̂ŋ kie kuŋhə njuɔ kwi nə wuŋ bûu leʼnə fɔ-ŋɛnə-bə-īŋ kwi bʉ́ʉnə bəshʉ-Nyii, lə̀ʼtə ɔŋ ndə ɔ kə yétə ndəŋ kəyetə, kə́ ghɔ̀ŋ mbɔ, “Ï bɛ haʼ nɔ! B̈ʉʼʉ lə̀ʼtə Nyii!”<verse eid="REV 19:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="REV 19:5" />Gyʉʉ gwè hə ndəŋ mbʉ kəyetə kə́ ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 19:5">“B̈ii lə̀ʼtə Nyii-yʉʼʉ,</para>
+  <para style="q2" vid="REV 19:5">bii bənchəŋ ndə bii bɛ vâafɔʼɔ-bi,</para>
+  <para style="q1" vid="REV 19:5">bii bənchəŋ ndə bii tʉʼ fàa ɔ,</para>
+  <para style="q2" vid="REV 19:5">lʉ̀ hə ndəŋ vâaŋgwehə tə gɛ̀ dàa ndəŋ vâa-fɔŋ.”<verse eid="REV 19:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="REV 19:6" />Ndʉʉmɛ, mɔ yʉ́ fi nə gyʉʉ nuɔ-bʉə-tə buŋmbi ndə gyʉʉ muu buŋmbi ndə i tʉʼ gwù nə ghʉəʼkə leʼ bɛ nə gyʉʉ fuu-yuo-shʉ́əshʉ́ə-tə ndə i tʉʼ ghɔ̀ŋ mbɔ,</para>
+  <para style="q1" vid="REV 19:6">“B̈ʉʼʉ lə̀ʼtə Tiekətʉ!</para>
+  <para style="q2" vid="REV 19:6">Bʉʼka mbʉ Nyii Tiekətʉ-yʉʼʉ, ndə ɔ kie ghʉəʼkə inchəŋ, nɔ tʉʼ sɔ́ʼ.<verse eid="REV 19:6" /></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="REV 19:7" />Tə tʉʉtə-ʉʼʉ bʉ̀ʉ, b̈ʉʼʉ kə́ chʉ́əʼtə,</para>
+  <para style="q2" vid="REV 19:7">tə bʉʼʉ kɔ́ kuŋhə tʉ ɔŋ.</para>
+  <para style="q1" vid="REV 19:7">Bʉʼka ndʉʉ nɔʼ kʉ̀ʼnə tʉ mbʉ Vaabinjyʉʉ ndə məchìi lɔŋ,</para>
+  <para style="q2" vid="REV 19:7">Vi-i bɔŋ-nɔʼ-leʼ shʉ̀tə ŋwɔŋ-ɛŋ.<verse eid="REV 19:7" /></para>
+  <para style="q1">
+    <verse number="8" style="v" sid="REV 19:8" />Bə bɔŋ-nɔʼ-leʼ kɔ́ vaa-mbʉətə-ndyi kəfyuʼ chɛŋ ndə i tʉʼ lèʼnə tʉ ɔŋ mbɔ ɔ mɔ̀ʼ.”</para>
+  <para style="q2" vid="REV 19:8">Mbʉ vaa-mbʉətə-ndyi kəfyuʼ nɔ tə́nə ndə fɔʼɔ bʉə-Nyii ndə i bɛ ndyʉndyʉ.<verse eid="REV 19:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 19:9" />Mbʉ wontəŋNyii ghɔ̀ŋ tʉ mɔ mbɔ, “Nyɔ̀ʼ yɔ̄ŋ-yə, tʉʉjyu nɔ bɛ yi-bʉə-yə ndə bə kɔ̀ʼnə bɔŋ ndə məgwè yú lɔŋ mbʉ Vaabinjyʉʉ.” Ɔ ghɔ̀ŋ tʉ mɔ mbɔ, “Nɔ bɛ ŋgie-shʉəŋ-bə nɔ ndə i gwè hə kəghɔ-Nyii.”<verse eid="REV 19:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="REV 19:10" />Ndʉʉmɛ, mɔ bʉ́ʉnə sê ndə mələ̀ʼtə ɔŋ, ɔ buŋ leʼ ghɔ̀ŋ bə tʉ mɔ mbɔ, “Kə a mə mùutə chìi nɔ fɛ! Mɔ nɔ bɛ wo-fɔ̀ʼ haʼ ndə a leʼnə bəliŋ-ba ndə bɔ̂ŋ nɔʼ kə bɛ́ŋ Nyii tə́nə ndəŋ ŋgie-shʉəŋ-kə ndə i gwè hə kəghɔ-Jiso. A nɔ kie ndə mələ̀ʼtə haʼ Nyii. Bʉʼka ŋ̃gie-shʉəŋ-kə ndə ĩ gwè hə kəghɔ-Jiso, nɔ kɔ́ yɔŋ kɔ́ ghʉəʼkə tʉ bʉə ndə məlɔ̀ʼ ŋgieNyiikə.”<verse eid="REV 19:10" /></para>
+  <para style="s">Mbʉ wo ndə ɔ tʉʼ gwè hə ndəŋ nyaa-bəkatə kəfyuʼ</para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 19:11" />Ndʉʉmɛ, mɔ nyíɛ ndə yuo ŋɔ́ʼnə, mɔ nyíɛ nyaa-bəkatə kəfyuʼ. Wo ndə ɔ kə dùʼ ndəŋ ghɔ, bə kə́ tíi ɔ nə Wo kəŊgie Shʉəŋ leʼnə Shʉəŋ, ɔ bɔŋ-kə́-leʼ bɛ ndyʉndyʉ ndə məchʉ̀ə ŋkwɛ, ghɔŋbə chɔ̂ ndə ɔ mɔ̀ʼ. <verse eid="REV 19:11" /><verse number="12" style="v" sid="REV 19:12" />Shʉ-i kə́ bɛ nə leʼnə-viʼi-bə, ndəŋ bʉʼʉ-e, bɛnətə kə́ bɛ chɔ buŋmbi. Bə nyɔ̀ʼ yie ndəŋ ɔŋ, təmə wo bɛ ghɔ ndə ɔ kínə fɛ yaʼkɛŋ haʼ mbəŋ-ɛŋ. <verse eid="REV 19:12" /><verse number="13" style="v" sid="REV 19:13" />Ɔ mɔ̀ʼ ndyihə mbʉə-ɔ ndə bə nɔʼ túɔtə mu fɔbʉəkə, yie ndə bə kə tíi ɔ nə yɔŋ, kə́ bɛ mbʉ kəŊgieNyii. <verse eid="REV 19:13" /><verse number="14" style="v" sid="REV 19:14" />Bəsɔge yuo, kə́ gɛ̀ hə bɔ̌ŋ ɔŋ ndəŋ bənyaa bəkatə kəfyuʼ mɔ̀ʼ vaa mbʉətə ndyi-kəfyuʼ-chɛŋ-hə mbʉə-bɔŋ, ndə i bɛ tʉ́ʉnə. <verse eid="REV 19:14" /><verse number="15" style="v" sid="REV 19:15" />Setə-chyʉ́ʉchyʉ́ʉ-kə fyú hə chu-ɔ ndə i bɛ ndə məgwúu lɔʼ-bətə̂ŋ-tə ghɔ́ʼ bɔŋ. Ɔ bu kə́ sɔ́ʼ bɔŋ nə ŋgwɔŋ kətəŋ, ɔ bu fyúhə fyiighɔ́ʼnə Nyii, ndə ɔ bɛ wo ndə ɔ kie ghʉəʼkə inchəŋ i bu kè nə ndʉʼmə ndə bə lyúʼ mu kəŋkyʉʉ ndə bə bɔ́ŋ ndə mə-kə́-lyúʼ ntɔŋmə muŋgɔ. <verse eid="REV 19:15" /><verse number="16" style="v" sid="REV 19:16" />Ndəŋ ndyihə-i leʼnə yʉʉkə-i, bə nyɔ̀ʼ yie-ɔ̄ chɔ mbɔ Fɔŋ bəfɔŋ leʼnə Tiekətʉ bətiekətʉ.<verse eid="REV 19:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="REV 19:17" />Ndʉʉmɛ, mɔ nyíɛ wontəŋNyii, ɔ kə́ tə́nə ndəŋ sʉʉchi, ɔ kə́ tíi nuɔmə inchəŋ ndə bɔ̂ŋ tíe kɛŋ mu yuo nə gyʉʉ dədə mbɔ, “B̈ii gwè, b̈ii chə̀ŋtə gwè yú fɔyubə ndə Nyii nɔʼ shʉ̀tə, <verse eid="REV 19:17" /><verse number="18" style="v" sid="REV 19:18" />ndə məgwè kwó mbɔʼ-mbʉə bəfɔŋ, mbɔʼ-mbʉə bʉəkwɛʼtəŋ bəsɔge, mbɔʼ-mbʉə bʉə shʉ́əshʉ́ə, mbɔʼ-mbʉə bənyaa bəkatə ghɔŋbə bʉə ndə bɔ̂ŋ kə́ kóʼ ndəŋ bɔŋ leʼnə mbɔʼ-mbʉə bʉə bənchəŋ, bʉə ndə bɔ̂ŋ gòʼ təmə bɛ fʉəhə fɛ ghɔŋbə bʉə ndə bɔ̂ŋ bɛ fʉəhə, vâaŋgwehə ghɔŋbə vâa-fɔŋ.”<verse eid="REV 19:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="REV 19:19" />Mɔ leʼ nyíɛ mbʉ nyaa bʉəbʉə ghɔŋbə bəfɔŋ kəchisê ghɔŋbə bəsɔge-bʉə chə̀ŋtə ndə məmɔ̀ʼ wo ndə ɔ kə dùʼ ndəŋ nyaa-bəkatə nə chɔ̂ ghɔŋbə bəsɔge-bi. <verse eid="REV 19:19" /><verse number="20" style="v" sid="REV 19:20" />Bɔ̂ŋ yá mbʉ nyaa bʉəbʉə ghɔŋbə mbʉ yʉkəŋgieNyii nə mbii ndə ɔ kə́ chìi nubəcheʼbə bəshʉ mbʉ nyaa bʉəbʉə. Nɔ kə bɛ nə nubəcheʼbə-ɔ̄ŋ ndə ɔ kə fə́ʼhə bʉə bənchəŋ ndə bɔ̂ŋ nɔʼ kə fí cheʼ-mbʉ-nyaa-bʉəbʉə-kə chutəyi-bɔŋ bɔŋleʼ kə́ lə̀ʼtə fɔ-kɔ́ŋ-kə ndə bɛ finə-i. Bə mɛ̀ʼ bɔŋ bəbûu ŋɛnə mu taanə-viʼi-kə ndə i kə́ kyʉ́ʉ kie yɔʼ-məkɔŋ-kə. <verse eid="REV 19:20" /><verse number="21" style="v" sid="REV 19:21" />Bə síitə bəʼ-bʉə-kə nə setəkə ndə i fyú hə chu mbʉ wo ndə ɔ dùʼ ndəŋ mbʉ nyaa-bəkatə, mbʉ mənuɔ bənchəŋ chʉ́ʼtə mbɔʼ-yʉə tə yuo.<verse eid="REV 19:21" /></para>
+  <chapter eid="REV 19" />
+  <chapter number="20" style="c" sid="REV 20" />
+  <para style="s">Mbʉ ŋgʉʼhə ŋkɔŋ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 20:1" />Ndʉʉmɛ, mɔ nyíɛ wontəŋNyii ɔ kə́ shíʼ gwè hə yuo, yá nchoʼ kəfʉ̀əŋ kəghɔ-ɔ ndə məchóʼ mbʉ byʉʉ ndə i gòʼ təmə kie liʼ-i fɛ leʼnə, bəchaŋ shʉ́əshʉ́ə. <verse eid="REV 20:1" /><verse number="2" style="v" sid="REV 20:2" />Ɔ yá mbʉ dalagɔŋ, mbʉ nduɔŋ yɔ, ndə bɛ Debulu, Sata, kɔ́ʼ ɔ ndə ŋgʉʼhə ŋkɔŋ. <verse eid="REV 20:2" /><verse number="3" style="v" sid="REV 20:3" />Ɔ yíɛʼhə ɔŋ mɛ̀ʼ mu mbʉ byʉʉ ndə i gòʼ təmə kie liʼ-i fɛ, fúu chu-i lyʉ́ʼ kətʉ-ɔ, mbɔ ɔ mə leʼ kə́ bìʼ fə́ʼhə lɔʼ-bətə̂ŋ-tə fɛ, tə ŋgʉʼhə ŋkɔŋ yi tíŋ. Yɔ̄ŋ-yə kʉ̂ʉ tíŋ nɔ, bə kie ndə məyɔ̀ʼtə ghyʉʉtə ndəŋ ɔŋ ndə vaa kəkʉʉ mbi məniʼ.<verse eid="REV 20:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="REV 20:4" />Ndʉʉmɛ, mɔ nyíɛ yetəbə, bʉə ndə bɔ̂ŋ kə dùʼtə ndəŋ ghɔ kə́ bɛ bʉə ndə bə nɔʼ kɔ́ ghʉəʼkə tʉ bɔŋ ndə mə-kə́-chʉ̀ə ŋkwɛ. Mɔ leʼ nyíɛ lyʉʉhə-bʉə-bə ndə bə kə chètə tʉbə-ʉə bʉʼka bɔ̂ŋ kə́ lɔ̀ʼ ŋgie-shʉəŋ-bə ndə i kə gwè hə kəghɔ-Jiso leʼnə ŋgieNyiikə leʼnə bʉə ndə bɔ̂ŋ kə gòʼ təmə nɔʼ lə̀ʼtə mbʉ nyaa bʉəbʉə ghɔŋbə fɔ-kɔ́ŋ-kə ndə bɛ finə-i, təmə bɔ̂ŋ nɔʼ fí cheʼkə-i chutəyi-bɔŋ byuunɔ ndəŋ ghɔbə-ʉə fɛ. Bɔ̂ŋ bʉ̀nə kóʼ sɔ́ʼ ghɔŋbə mbʉ Wo ndə Nyii Kùŋ Tə́ŋ ndə ŋgʉʼhə ŋkɔŋ.<verse eid="REV 20:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="REV 20:5" />Bəʼ-bʉə-kə ndə bɔ̂ŋ nɔʼ kə kwútə, təmə bɔ̂ŋ kóʼ fɛ tə mbʉ ŋgʉʼhə ŋkɔŋ tíŋ. Nɔ bɛ fəŋ məbʉ̀nə kóʼ nɔ. <verse eid="REV 20:5" /><verse number="6" style="v" sid="REV 20:6" />Tʉʉjyu Nyii nɔ bɛ tʉ wo ndə ɔ bɛ mu fəŋ-bʉə-tə ndə bɔ̂ŋ bu bʉ̀nə kóʼ. Ɔ nɔ bɛ mbyu wo mu bʉə ndə bɔ̂ŋ nə kɔ́ ŋwɔŋtə-ʉə tʉ Nyii. Biitə-kwú-kə bieleʼ nə nyíɛ ntɛ wo-ɔ̄ fɛ, bɔ̂ŋ bu bɛ bʉə ndə bɔ̂ŋ tʉʼ fɛ̀ʼndɛŋ tʉ Nyii ghɔŋbə mbʉ Wo ndə Nyii Kùŋ Tə́ŋ, ghɔŋ bɔŋ bu sɔ́ʼ ndə ŋgʉʼhə ŋkɔŋ.<verse eid="REV 20:6" /></para>
+  <para style="s">Mbʉ məghɔ́ʼ Sata</para>
+  <para style="p">
+    <verse number="7" style="v" sid="REV 20:7" />Kʉ̂ʉ bɛ ndʉʉ ndə mbʉ ŋgʉʼhə ŋkɔŋ tíŋ nɔ, bə fyúhə Sata mu njaa chaŋ-ɛŋ. <verse eid="REV 20:7" /><verse number="8" style="v" sid="REV 20:8" />Ɔ bu fyú gwè ndə məfə́ʼhə lɔʼ-bətə̂ŋ-tə ndə bɔ̂ŋ bɛ ndəŋ byûu-mbi-tə kwi, kə́ bɛ Gɔ ghɔŋ Magɔ, ndə məchə̀ŋtə bɔŋ ndə chɔ̂. Ntyʉʉ-yʉə nɔ bɛ nə sɛkə ŋgwuu-muukwɛʼtəŋmə. <verse eid="REV 20:8" /><verse number="9" style="v" sid="REV 20:9" />Bɔ̂ŋ tòʼ kóʼ gɛ̀ wɔ̀ʼnə kəchisê, yə̀ŋhə bʉə-Nyii ghɔŋbə yəŋkwɛʼtəŋkə ndə Nyii kʉ̀ʉ daa, bɔŋ viʼi shíʼ yuo kyʉ́ʉ bɔŋ bənchəŋ. <verse eid="REV 20:9" /><verse number="10" style="v" sid="REV 20:10" />Mbʉ Debulu ndə ɔ nɔʼ kə fə́ʼhə bɔŋ, bə mɛ̀ʼ ɔŋ mu taanə-viʼi-kə ndə i tʉʼ kyʉ́ʉ kie yɔʼ-məkɔŋ-kə, kəyəŋ ndə bə nɔʼ kə mɛ̀ʼ mbʉ nyaa bʉəbʉə ghɔŋ mbʉ yʉkəŋgieNyii nə mbii ghɔ chɔ, bə bu chɔ́ŋhə bɔŋ chɔ ndʉʉnəchî ghɔŋbə ndʉʉbətyuʼ təmə liʼ-i nə bɛ ghɔ fɛ.<verse eid="REV 20:10" /></para>
+  <para style="s">Məchʉ̀ə ndyiʼtə-ŋkwɛ-kə</para>
+  <para style="p">
+    <verse number="11" style="v" sid="REV 20:11" />Ndʉʉmɛ, mɔ nyíɛ lɔkɔʼ kəyetə kəfyuʼ leʼnə wo ndə ɔ kə yétə ndəŋ ghɔ. Chisêkə ghɔŋbə yuo nyʉ́ʉ wɔ̀ʼnə hə mbʉə ɔ, təmə bɔ̂ŋ kie yəŋ-gɛ̀-kə fɛ. <verse eid="REV 20:11" /><verse number="12" style="v" sid="REV 20:12" />Mɔ nyíɛ bʉə ndə bɔ̂ŋ nɔʼ kwútə ndəŋ vâaŋgwehə ghɔŋbə vâa-fɔŋ, bɔ̂ŋ kə́ tə́nə bəshʉ mbʉ kəyetə, bə ŋɔ́ʼhə bəŋwɔʼnə. Ndʉʉmɛ, bə ŋɔ́ʼhə ibɛʼ-yə ŋwɔʼnə, kə́ bɛ ŋwɔʼnə məchímbi. Bə chʉ̀ə ŋkwɛ bʉə ndə bɔ̂ŋ nɔʼ kə kwútə haʼ nə fɔkə ndə bə nyɔ̀ʼ mu mbʉ bəŋwɔʼnə, haʼ ndə fɔʼtə-ʉə kə bɛ. <verse eid="REV 20:12" /><verse number="13" style="v" sid="REV 20:13" />Muukwɛʼtəŋmə yɔ̀ʼ ghɔkə ndəŋ bʉə ndə bɔ̂ŋ nɔʼ kə kwútə, ɔ yá kie, Kwú ghɔŋbə Lɔʼɔ-bəŊkwubʉə yɔ̀ʼ ghɔkə ndəŋ ŋkwu-bʉə-bə ndə bɔ̂ŋ kə yá kie, bə kwɛ̀ fɛʼɛ-yʉə bəmɔʼbəmɔʼ haʼ ndə fɔʼtə-ʉə kə bɛ. <verse eid="REV 20:13" /><verse number="14" style="v" sid="REV 20:14" />Bə yíɛʼhə Kwú ghɔŋbə Lɔʼɔ-bəŊkwubʉə mɛ̀ʼ mu taanə-viʼi-kə. Mbʉ kətaanə viʼi nɔ bɛ biitə-kwú-kə. <verse eid="REV 20:14" /><verse number="15" style="v" sid="REV 20:15" />Wo ndə bə gòʼ təmə nyíɛ bə nyɔ̀ʼ yie mu mbʉ ŋwɔʼnə məchímbi fɛ, bə mɛ̀ʼ ɔŋ mu mbʉ kətaanə viʼi.<verse eid="REV 20:15" /></para>
+  <chapter eid="REV 20" />
+  <chapter number="21" style="c" sid="REV 21" />
+  <para style="s">Yuo fefe ghɔŋbə Chisê-fefe-kə</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 21:1" />Ndʉʉmɛ, mɔ nyíɛ yuo fefe ghɔŋbə chisê-fefe-kə, bʉʼka fəŋ yuo ghɔŋbə fəŋ kəchisê nɔʼ kə mì, təmə muukwɛʼtəŋmə leʼ bɛ ghɔ fɛ. <verse eid="REV 21:1" /><verse number="2" style="v" sid="REV 21:2" />Mɔ nyíɛ yəŋkwɛʼtəŋkə ndə i bɛ ŋkʉʉ, Jɛlosalɛŋ fefe, kə́ shíʼ gwè hə yuo bəshʉ-Nyii, bə nɔʼ shʉ̀tə ɔŋ ɔ bʉ̀ʉ tə bɛ nə vaabəke ndə bə nɔʼ shʉ̀tə ɔŋ ndə məgɛ̀ lɔŋ tʉ ləŋ-ɛŋ.<verse eid="REV 21:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="REV 21:3" />Mɔ yʉ́ gyʉʉ dədə ndə i gìe hə ndəŋ mbʉ kəyetə kə́ ghɔ̀ŋ mbɔ, “Nyíɛ! Yəŋ-chî-Nyii-kə nɔ bɛ mu bʉəməsʉʉ nduɔ. Ɔ bu kə́ chí ghɔŋ bɔŋ, bɔ̂ŋ bɛ bʉə-bi, Nyii nə mbəŋ-ɛŋ bɛ ghɔŋ bɔŋ nə Nyii-yʉə. <verse eid="REV 21:3" /><verse number="4" style="v" sid="REV 21:4" />Ɔ bu yʉ̀əʼ shʉmə shʉ-bɔŋ inchəŋ, təmə kwú leʼnə bɛ ghɔ fɛ, təkɔmə məlí kwú, təmə məgwía kwú bieleʼ nə bɛ ghɔ fɛ, təkɔmə mbʉə liŋnə bieleʼ nə bɛ ghɔ fɛ, bʉʼka nduɔŋ-bənu-hə nɔʼ tíŋ.”<verse eid="REV 21:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="REV 21:5" />Mbəŋ-ɛŋ ndə ɔ kə yétə ndəŋ mbʉ kəyetə ghɔ̀ŋ mbɔ, “Nyíɛ! Mɔ nɔ tʉʼ bʉ̀nə chìi fɔbə inchəŋ fefe.” Ɔ bìʼ ghɔ̀ŋ ghɔ mbɔ, “Nyɔ̀ʼ nukə-ɔ̄ŋ sê, bʉʼka ŋgiebə-ɔ̄ŋ inchəŋ nɔ bɛ ŋgie-shʉəŋ-bə ndə bəkɔ bə tə́nə chɔ bɔŋleʼ bɛ shʉəŋ.” <verse eid="REV 21:5" /><verse number="6" style="v" sid="REV 21:6" />Ɔ ghɔ̀ŋ tʉ mɔ mbɔ, “I nɔʼ mì! Mɔ nɔ bɛ Fəŋ bɔŋ-kə́-leʼ bɛ Ndyiʼtəkə. Nɔ chʉ́ʉhə mɔ chʉ́ʉhə nubə inchəŋ, bɔŋleʼ lìʼ mɔ lìʼ nubə inchəŋ. Tʉ bʉə ndə tʉʉ-yʉə nɔʼ yə́ŋ, bɔ̂ŋ bu nú mu lʉ̂ʉ muu ndə ĩ kɔ́ məchímbi ndə mɔ bu kɔ́ tʉ bɔŋ təmə bɔ̂ŋ nyúɔnyúɔ fɛ. <verse eid="REV 21:6" /><verse number="7" style="v" sid="REV 21:7" />Wo ndə ɔ mɔ̀ʼ chɔ̂-ɔ̄ tə yú mɔ bu kɔ́ fɔbə-ɔ̄ŋ tʉ ɔŋ inchəŋ bɔŋ-bu-leʼ bɛ Nyii-i, ɔ bɛ vaa-ɔŋ.<verse eid="REV 21:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 21:8" />“Bɔŋ tʉ bʉə kəfaa kwú, bʉə ndə bɔ̂ŋ nɔʼ shìe liɛŋtə-ʉə ndəŋ mɔ, bʉə-mbʉəhə, bʉə yí bʉə, bəŋghaa-bəsəŋ, bʉə-bəfʉ, bʉə ndə bɔ̂ŋ tʉʼ gháa bənyii leʼnə bʉə chʉ̀ə kəlɛɛŋ bənchəŋ, yəŋkə-ʉə bu bɛ mu taanəkə ndə i tʉʼ kyʉ́ʉ nə viʼi ndə i tʉʼ kyʉ́ʉ kie yɔʼ-məkɔŋ-kə ndə bɛ biitə-kwú-kə.”<verse eid="REV 21:8" /></para>
+  <para style="s">Jɛlosalɛŋ fefe</para>
+  <para style="p">
+    <verse number="9" style="v" sid="REV 21:9" />Ndʉʉmɛ, mbyu wontəŋNyii mu bʉəntəŋNyii-bīŋ təkwiitia le ndə bɔ̂ŋ kə kie bəbaŋ gheghe kəghɔ-bɔŋ təkwiitia ndə i bɛ ilə́ŋnə nə ndyiʼtə-ŋgʉəʼ-bə təkwiitia le, gwè, kwə́ʼ tʉ mɔ ghɔ̀ŋ mbɔ, “Gwè mɔ bu dʉ̀ʼ mbʉ woke ndə ɔ tʉʼ gɛ̀ lɔŋ tʉ a, vi mbʉ Vaabinjyʉʉ.”<verse eid="REV 21:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="REV 21:10" />LyʉʉhəNyiikə jyʉ́ʉhə mɔ, mbʉ wontəŋNyii lʉ̀ mɔ kóʼ gɛ̀ nə mɔ ndə kwɔŋ ndə i də̀ʼ daa, dʉ̀ʼ yəŋkwɛʼtəŋkə tʉ mɔ ndə i bɛ ŋkʉʉ, Jɛlosalɛŋ ndə i tʉʼ shíʼ gwè hə yuo bəshʉ-Nyii. <verse eid="REV 21:10" /><verse number="11" style="v" sid="REV 21:11" />I kie məgʉə-Nyii, kə́ lèʼnə nə ŋgoʼ chuɔŋ chyʉʉchyʉʉ ndə bə tíi nə jasaba, kə́ bɛ nə ŋgoʼ kəmbuu lúhə ndə i tʉʼ lèʼnə nə bəgalashi. <verse eid="REV 21:11" /><verse number="12" style="v" sid="REV 21:12" />I kie sɔʼ-lɔ̂ŋkwɛʼtəŋ-kə ndə i gʉ́ə daa bɔŋleʼ də̀ʼ nə chutə chɔ njuɔ bûu nə wuŋ, bʉəntəŋNyii njuɔ bûu nə wuŋ kə́ tə́ŋtə ndə mbʉ təchulɔŋ, bə nyɔ̀ʼtə yie bʉə-bəlɔŋ-Isilɛ njuɔ bûu nə wuŋ chɔ. <verse eid="REV 21:12" /><verse number="13" style="v" sid="REV 21:13" />Chu-lɔ̂ŋ-tə nɔ kə bɛ kwii ndə chichi sɔ́ʼ chɔ itia, kə́ bɛ byûukwe itia, kə́ bɛ byûumbɔŋ itia leʼ kə́ bɛ kwii ndə chichi sʉ́ʉ chɔ chusii-ɔ itia. <verse eid="REV 21:13" /><verse number="14" style="v" sid="REV 21:14" />Lɔ̂ŋ ndə i kə yə̀ŋhə mbʉ kəyəŋkwɛʼtəŋ fúu nɔ kə kie ŋgoʼ-yiesê-hə njuɔ bûu nə wuŋ, bə nyɔ̀ʼ yie mbʉ bəlɔntəŋNyii mbʉ Vaabinjyʉʉ njuɔ bûu nə wuŋ ndəŋ ghɔ.<verse eid="REV 21:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="REV 21:15" />Mbʉ wontəŋNyii ndə ɔ kə kwə́ʼ tʉ mɔ, kie tyʉkə kəghɔ-ɔ ndə bə chìi nə goo ndə məfʉ̀ʼ mbʉ kəyəŋkwɛʼtəŋ nə yɔŋ ghɔŋbə chutə-i leʼnə mbʉ lɔŋ ndə i yə̀ŋhə fúu. <verse eid="REV 21:15" /><verse number="16" style="v" sid="REV 21:16" />Sɔʼ-mbʉ-lɔ̂ŋ-bə nɔ kə bɛ ndyʉndyʉ, mədəʼ-ɛ ghɔŋbə buuŋ-iŋ kə́ bɛ ndyʉndyʉ. Ɔ fʉ̀ʼ mbʉ kəyəŋkwɛʼtəŋ nə tyʉkə-i, i bɛ bəghǔu mbyu mɛlɛyɔŋ nə bəghǔu ghyʉʉ ŋkɔŋ nə ŋkɔŋ-bəghǔu-hə wuŋ.<note caller="+" style="f"><char style="fr" closed="false">21:16 </char><char style="ft" closed="false">Kəŋgie Gili yɔ̄ŋ-yə nɔ bɛ bəsatadia 12,000. Satadia nɔ bɛ fʉʼ mədə̀ʼ. Məsúu ntyʉʉ 12,000 bəkɔ i tə́nə ndə bʉə-Nyii ghɔŋbə mətə́nə-ndyʉndyʉ-yʉə gɛ̀ kùu.</char></note> Mədəʼ-ɛ, buuŋ-iŋ leʼnə tyʉ-i kə́ bɛ ndyʉndyʉ. <verse eid="REV 21:16" /><verse number="17" style="v" sid="REV 21:17" />Ɔ leʼ lʉ̀ fʉʼ mbʉ kəsɔʼ lɔŋ haʼ ndə woməsʉʉ lʉ̀ fʉ̀ʼ kəfɔ le. Fyʉʼkə-i kə́ bɛ bəghǔu njuɔ bûu nə wuŋ tia nə saafyii,<note caller="+" style="f"><char style="fr" closed="false">21:17 </char><char style="ft" closed="false">Kəŋgie Gili yɔ̄ŋ-yə nɔ bɛ bəkubi 144. Bəkɔ ntyʉʉ-ɔ̄ bɛ fʉʼkənu.</char></note> ndə i bɛ haʼ ntɛ fʉʼ ndə mbʉ wontəŋNyii lʉ̀ ghɔ.<verse eid="REV 21:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="REV 21:18" />Bə bɔ́ŋ mbʉ bəsɔʼɔ lɔŋ nə ŋgoʼ kəmbuu lúhə ndə bə tíi nə jasaba, bɔ́ŋ mbʉ mu kəyəŋkwɛʼtəŋ nə ŋkɛŋ goo ndə i kə́ lèʼnə nə galashi. <verse eid="REV 21:18" /><verse number="19" style="v" sid="REV 21:19" />Bə bɔ́ŋ yiesê mbʉ bəsɔʼɔ lɔŋ shʉ̀tə nə ŋgoʼ-chuɔŋ-chyʉʉchyʉʉ-hə ntɛntɛhə, fəŋ bùu gɛ̀ lúhə nə yuo bə kə́ tíi nə jasaba, yi ndə i tyúnə bɔ̌ŋ fəŋ kə́ bɛ lúhə nə yuo bə kə́ tíi nə safia, yi ndə i tyúnə bɔ̌ŋ fəŋ vɛʼ bûu lúhə nə ŋkɔ bə kə́ tíi nə age, yi ndə i tyúnə bɔ̌ŋ fəŋ vɛʼ tia lúhə nə ŋkɔ bə kə́ tíi nə ɛmɛla, <verse eid="REV 21:19" /><verse number="20" style="v" sid="REV 21:20" />yi ndə i tyúnə bɔ̌ŋ fəŋ vɛʼ kwi bùu gɛ̀ nə chɔʼkə nə laa-kəfyuʼ-tə chɔ, bə kə tíi nə oni, yi ndə i tyúnə bɔ̌ŋ fəŋ vɛʼ taa kə́ bɛ kəmbuu bə kə́ tíi nə kanilia, yi ndə i tyúnə bɔ̌ŋ fəŋ vɛʼ ntʉʼʉ bɛ kəmbuu fyûʼ bə kə́ tíi nə kilisole, yi ndə i tyúnə bɔ̌ŋ fəŋ vɛʼ təkwiitia kə́ bɛ lúhə nə ŋkɔ bə kə́ tíi nə bɛli, yi ndə i tyúnə bɔ̌ŋ fəŋ vɛʼ fɔ̂ŋ kə́ bɛ kəmbuu fyûʼ, bə kə́ tíi nə toba, yi ndə i tyúnə bɔ̌ŋ fəŋ vɛʼ bɔmɔʼ kə́ bɛ lúhə nə ŋkɔ, bə kə́ tíi nə kilisoba, yi ndə i tyúnə bɔ̌ŋ fəŋ vɛʼ wuŋ kə́ bɛ luhə nə yuo, bə kə́ tíi nə jasiŋ, yi ndə i tyúnə bɔ̌ŋ fəŋ vɛʼ njuɔ mɔʼ nə wuŋ bùu mbuu-fʉ́əŋ-kə bə kə́ tíi nə emɛti.<verse eid="REV 21:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="REV 21:21" />Bə bɔ́ŋ mbʉ təchulɔŋ njuɔ bûu nə wuŋ nə ŋgoʼhə njuɔ bûu nə wuŋ bə kə́ tíi nə bee, bə kə́ bɔ́ŋ mbyu chulɔŋ nə mbyu ŋgoʼ imɔʼ, fiatə mbʉ mu kəyəŋkwɛʼtəŋ bə bɔ́ŋ nə ŋkɛŋ goo, isúunə bɛ nə galashi.<verse eid="REV 21:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="REV 21:22" />Təmə mɔ nyíɛ njaafɛ̀ʼndɛŋNyii mu mbʉ kəyəŋkwɛʼtəŋ fɛ, bʉʼka nɔ bɛ mbʉ Nyii Tiekətʉ, ndə ɔ kie ghʉəʼkə inchəŋ, ghɔŋ mbʉ Vaabinjyʉʉ, bɛ njaafɛ̀ʼndɛŋNyii ndə i bɛ chɔ. <verse eid="REV 21:22" /><verse number="23" style="v" sid="REV 21:23" />Təmə mbʉ kəyəŋkwɛʼtəŋ kie ndə məkie chichi byuunɔ chisuu ndə mə-kə́-báa chɔ fɛ, bʉʼka məŋwɔʼ Nyii nɔ bu kə́ chìi mu-i kə́ báa, kɛʼɛ-ɛ kə́ bɛ mbʉ Vaabinjyʉʉ. <verse eid="REV 21:23" /><verse number="24" style="v" sid="REV 21:24" />Lɔʼ-bətə̂ŋ-tə mu kəwʉʉnəmbi bu kə́ tòʼ mu kɛʼɛ-ɛ, bəfɔŋ kəchisê gwè nə məgʉə-yʉə muŋgɔ. <verse eid="REV 21:24" /><verse number="25" style="v" sid="REV 21:25" />Bə kʉʉ nə fúu chu-lɔ̂ŋ-tə-i ndʉʉnəchî fɛ, təmə ndʉʉbətyuʼ bɔŋ-kʉʉnə-leʼ bɛ chɔ fɛ. <verse eid="REV 21:25" /><verse number="26" style="v" sid="REV 21:26" />Lɔʼ-bətə̂ŋ-tə bu gwè nə mbʉətə-bəfɔ-hə inchəŋ chɔ ghɔŋbə nchuɔ bʉəməsʉʉ mu kəyəŋkwɛʼtəŋ-ghɔ̄. <verse eid="REV 21:26" /><verse number="27" style="v" sid="REV 21:27" />Bɔŋ təmə fɔ-nyàatə-kə kʉ̂ʉ nə sʉ́ʉ chɔ fɛ təkɔmə wo ndə ɔ tʉʼ chìi nu-kətʉvyiinə-bə byuunɔ kə́ chʉ̀ə lɛɛŋkə bɔŋ bu bɛ haʼ bʉə ndə yietə-ʉə bɛ mu ŋwɔʼnə məchímbi mbʉ Vaabinjyʉʉ.<verse eid="REV 21:27" /></para>
+  <chapter eid="REV 21" />
+  <chapter number="22" style="c" sid="REV 22" />
+  <para style="s">Ŋgwɛŋ ndə ĩ kɔ́ məchímbi</para>
+  <para style="p">
+    <verse number="1" style="v" sid="REV 22:1" />Ndʉʉmɛ, mbʉ wontəŋNyii dʉ̀ʼ ŋgwɛŋ tʉ mɔ ndə i kie muu ndə ĩ kɔ́ məchímbi, itʉ́ʉnə tə bɛ nə galashi, kə́ kè lɔ̀ hə ndəŋ yetə-Nyii-kə ghɔŋbə mbʉ Vaabinjyʉʉ, <verse eid="REV 22:1" /><verse number="2" style="v" sid="REV 22:2" />kə́ kè tíŋ mu ntəŋntəŋ təfia mu mbʉ kəyəŋkwɛʼtəŋ. Ndə via-mbʉ-ŋgwɛŋ-kə təmiyɔŋ, tyʉkə ndə ĩ kɔ́ məchímbi nə ntɛ-məntɔŋ-hə-i kətʉ-ghɔ̄ njuɔ bûu nə wuŋ ndə ĩ kʉ́ʉnə ntɔŋmə-i ndəŋ chi təmiyɔŋ. Fyuŋ-mbʉ-kətyʉ-bə bɛ ndə məkɔ́ nchʉʼ tʉ lɔʼ-bətə̂ŋ-tə. <verse eid="REV 22:2" /><verse number="3" style="v" sid="REV 22:3" />Fɔkə ndə i kie ndɔŋ-Nyii ndəŋ ghɔ kʉ̂ʉ nə bɛ mu mbʉ kəyəŋkwɛʼtəŋ fɛ, bɔŋ bu bɛ yetə-Nyii-kə ghɔŋ mbʉ Vaabinjyʉʉ muŋgɔ, vâafɔʼɔ-bi kə́ lə̀ʼtə ɔŋ. <verse eid="REV 22:3" /><verse number="4" style="v" sid="REV 22:4" />Bɔ̂ŋ bu nyíɛ shʉ-i, bə nyɔ̀ʼ yie-e chutəyi-bɔŋ. <verse eid="REV 22:4" /><verse number="5" style="v" sid="REV 22:5" />Ndʉʉbətyuʼ kʉʉ leʼnə bɛ ghɔ fɛ. Bɔ̂ŋ kʉʉnə leʼ kə́ kʉ́ʉ kɛʼɛ byuunɔ chichi ndə məchìi yəŋbə súunə tʉ bɔŋ fɛ, bʉʼka mbʉ Nyii Tiekətʉ bu kə́ báa ndəŋ bɔŋ, bɔ̂ŋ bu kə́ sɔ́ʼ bəfɔŋ gɛ̀gɛ̀ təmə liʼ-i nə bɛ ghɔ fɛ.<verse eid="REV 22:5" /></para>
+  <para style="s">Məgwè Jiso</para>
+  <para style="p">
+    <verse number="6" style="v" sid="REV 22:6" />Ndʉʉmɛ, mbʉ wontəŋNyii ghɔ̀ŋ tʉ mɔ mbɔ, “Ŋgiebə-ɔ̄ŋ inchəŋ nɔ bɛ shʉəŋ bɔŋleʼ bɛ ŋgie-shʉəŋ-kə. Mbʉ Nyii Tiekətʉ ndə ɔ kɔ́ Lyʉʉhəkə-i tʉ bʉəyʉkəŋgie-bi, nɔʼ tə́ŋ wontəŋ-ɛŋ ndə məchìi vâafɔʼɔ-bi kínə nubə ndə i kie ndə gwègwè fyú sê.” <verse eid="REV 22:6" /><verse number="7" style="v" sid="REV 22:7" />Jiso ghɔ̀ŋ mbɔ, <char style="wj">“Nyíɛ! Mɔ nɔ tʉʼ gwègwè. Tʉʉjyu nɔ bɛ yi-wo-yə ndə ɔ̈ yʉ́ bɔŋleʼ tʉ́ʼ ŋgiebə-ɔ̄ŋ ndə Nyii nɔʼ dʉ̀ʼ bə nyɔ̀ʼ mu ŋwɔʼnə-fɛ̄ŋ nɔ.”</char><verse eid="REV 22:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="REV 22:8" />Mbəŋ-ɔŋ Jɔŋ, nɔ bɛ mɔ bɛ wo ndə mɔ kə yʉ́ bɔŋleʼ nyíɛ nubə-ɔ̄ŋ. Kʉ̂ʉ bɛ ndʉʉ ndə mɔ kə yʉ́ bɔŋleʼ nyíɛ, mɔ bʉ́ʉnə bəshʉ mbʉ wontəŋNyii ndə ɔ kə dʉ̀ʼ nubə-ɔ̄ŋ tʉ mɔ ndə mələ̀ʼtə ɔŋ. <verse eid="REV 22:8" /><verse number="9" style="v" sid="REV 22:9" />Ɔ bɔŋ ghɔ̀ŋ tʉ mɔ mbɔ, “Kə a mə mùutə chìi nɔ fɛ! Mɔ nɔ bɛ wo-fɔ̀ʼ haʼ ndə a leʼnə bəliŋ-ba bʉəyʉkəŋgieNyii leʼnə bʉə bənchəŋ ndə bɔ̂ŋ tʉ́ʼ ŋgiebə ndə bə nyɔ̀ʼ mu ŋwɔʼnə-fɛ̄ŋ. A nɔ kie mələ̀ʼtə haʼ Nyii.”<verse eid="REV 22:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="REV 22:10" />Ɔ ghɔ̀ŋ tʉ mɔ mbɔ, “Kə a mə lə̀ŋ ŋgiebə ndə Nyii nɔʼ dʉ̀ʼ ndə i bɛ mu ŋwɔʼnə-fɛ̄ŋ fɛ, bʉʼka ŋgwɔʼmbi nɔʼ kə́ŋhə. <verse eid="REV 22:10" /><verse number="11" style="v" sid="REV 22:11" />Ẅo bʉ̂ʼʉ kə́ bìʼ fɔ̀ʼ bʉ̂ʼʉ-e, ẅo nyàatə ŋwɔŋ kə́ bìʼ nyàatə ŋwɔŋ-ɛŋ. Ẅo ndə ɔ tə́nə ndyʉndyʉ kə́ fɔ̀ʼ haʼ nubə ndə i bɛ ndyʉndyʉ, ẅo ndə ɔ bɛ ŋkʉʉ, kə́ fɔ̀ʼ haʼ ndə ntɛ ndə i bɛ ŋkʉʉ.”<verse eid="REV 22:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="REV 22:12" />Jiso ghɔ̀ŋ mbɔ, <char style="wj">“Yʉ́! Mɔ nɔ bɛ fia gwègwè, kə́ gwè nə kɛŋbə-ɔŋ kəghɔ-mɔ ndə məkɛ̀ŋ wotəmiyɔŋ haʼ ndə fɔʼtə-i bɛ.</char> <verse eid="REV 22:12" /><verse number="13" style="v" sid="REV 22:13" /><char style="wj">Mɔ nɔ bɛ Fəŋ bɔŋ-kə́-leʼ bɛ Ndyiʼtəkə. Mɔ nɔ bɛ nchʉʉhə bɔŋleʼ kə́ bɛ ndyiʼtəkə, nɔ chʉ́ʉhə mɔ chʉ́ʉhə nubə inchəŋ, bɔŋleʼ lìʼ mɔ lìʼ nubə inchəŋ.</char><verse eid="REV 22:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="REV 22:14" />
+    <char style="wj">“Tʉʉjyu nɔ bɛ yi-bʉə-yə ndə bɔ̂ŋ sʉ̀ ndyihə-ʉə i bɛ itʉ́ʉnə mbɔ bɔ̂ŋ chʉʼ kie ghʉəʼkə ndə məyú ntɔŋmə ndəŋ tyʉkə ndə ĩ kɔ́ məchímbi bɔŋleʼ mbɔ bɔ̂ŋ chʉʼ leʼ sʉ́ʉ mu kəyəŋkwɛʼtəŋ tíŋ hə ndəŋ chu-lɔ̂ŋ-tə.</char> <verse eid="REV 22:14" /><verse number="15" style="v" sid="REV 22:15" /><char style="wj">Bɔŋ njəŋmbi bɔ̌ŋ lɔ̂ŋ, nɔ tə́nə bûhə, bʉə-bəfʉ, bəŋghaa-bəsəŋ, bʉə yí bʉə, bʉə ndə bɔ̂ŋ tʉʼ gháa bənyii leʼnə wotəmiyɔŋ ndə ɔ kʉ̀ʉ məchʉ̀ə lɛɛŋkə bɔŋ-kə́-leʼ fɔ̀ʼ nu-kəlɛɛŋ-bə.</char><verse eid="REV 22:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="REV 22:16" />
+    <char style="wj">“Mbəŋ-ɔŋ Jiso nɔʼ tə́ŋ wontəŋ-ɔŋ ndə məgwè téʼ ntəŋ-ɔ̄ŋ tʉ a ndə mətéʼ tʉ bəchɔshi. Mɔ nɔ bɛ lyʉʼʉ ŋgwie bɔŋleʼ kə́ bɛ wo kəlɔŋ Dɛbi, kə́ bɛ lɔʼ ndʉʉfiimbi, ndə i báa daa.”</char><verse eid="REV 22:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="REV 22:17" />Mbʉ kəLyʉʉhə ghɔŋ mbʉ Vaabəke ndə ɔ tʉʼ gɛ̀ lɔŋ nɔ ghɔ̀ŋ mbɔ, “Gwè.” Wotəmiyɔŋ ndə ɔ yʉ́ yɔ̄ŋ-yə nɔ kie ndə məghɔ̀ŋ mbɔ, “Gwè.” Ẅo ndə vaatʉʉ-i bɛ iyə́ŋnə gwè, ẅo ndə ɔ kʉ̀ʉ, fí muu ndə ĩ kɔ́ məchímbi təmə nyúɔnyúɔ fɛ.<verse eid="REV 22:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="REV 22:18" />Mɔ nɔ tʉʼ shyùu tyunə-wo-kə təmiyɔŋ ndə ɔ̈ yʉ́ nubə ndə i fyú hə mu ŋgiebə ndə Nyii dʉ̀ʼ bə nyɔ̀ʼ mu ŋwɔʼnə-fɛ̄ŋ nɔ. Kaʼ wo bìʼ nukə muŋgɔ, Nyii bìʼ ŋgʉəʼ ndəŋ ɔŋ ndə bə fʉ̀ʼtə mu ŋwɔʼnə-fɛ̄ŋ. <verse eid="REV 22:18" /><verse number="19" style="v" sid="REV 22:19" />Bɔŋ-kaʼ-wo-leʼ fyúhə nukə ndə ŋgiebə-ɔ̄ŋ ndə Nyii dʉ̀ʼ bə nyɔ̀ʼ mu ŋwɔʼnə-fɛ̄ŋ nɔ, Nyii fyúhə yi-yə yʉʉ ndə tyʉkə ndə ĩ kɔ́ məchímbi leʼnə yʉʉ-i ndəŋ yəŋkwɛʼtəŋkə ndə i bɛ ŋkʉʉ, ndə bə fʉ̀ʼtə mu ŋwɔʼnə-fɛ̄ŋ.<verse eid="REV 22:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="REV 22:20" />Wo ndə ɔ fʉ̀ʼtə nubə-ɔ̄ŋ nɔ ghɔ̀ŋ mbɔ, <char style="wj">“Mɔ nɔ bɛ fia leʼ shʉəŋ ndə məgwè.”</char> Ï bɛ haʼ nɔ. Gwè, Jiso Tiekətʉ!<verse eid="REV 22:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="REV 22:21" />Tə Jiso Tiekətʉ dʉ̀ʼ buuŋjyu-i tʉ bii bənchəŋ.<note caller="+" style="f"><char style="fr" closed="false">22:21 </char><char style="ft" closed="false">Bəbɛʼbəŋwɔʼnə kəŋgie-Gili nɔ ghɔ̀ŋ mbɔ </char><char style="it">tʉ bʉə-Nyii.</char> Bəbɛʼbə ghɔ̀ŋ mbɔ <char style="it">tʉ bʉə-Nyii bənchəŋ.</char></note></para>
+  <para style="p" vid="REV 22:21">Ï bɛ haʼ nɔ.<verse eid="REV 22:21" /></para>
+  <chapter eid="REV 22" />
+</usx>

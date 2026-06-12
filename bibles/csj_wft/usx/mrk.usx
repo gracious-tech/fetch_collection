@@ -1,0 +1,991 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
+  <book code="MRK" style="id">- Hiatuii Bible Translation</book>
+  <para style="usfm">3.0</para>
+  <para style="ide">65001 - Unicode (UTF-8)</para>
+  <para style="h">MARKA</para>
+  <para style="toc1">Marka na Jokkhyang Jesuh Khrit Sityang Poai</para>
+  <para style="toc2">Marka</para>
+  <para style="toc3">Mar</para>
+  <para style="mt1">MARKA</para>
+  <para style="mt2">Marka na Jokkhyang Jesuh Khrit Sityang Poai</para>
+  <para style="imt">Cawphuannyak</para>
+  <para style="im">
+    <char style="bk">Marka na Jokkhyang Jesuh Khrit Sityang Poai</char> cee Talagamcaw Atha dukka pahlinyak Jesuh Khrit syak hiyan nyak suduan khyang a si. Yn haa pahuat cim cee “gospel” a si, yn cee “sityang poai” a si. Jesuh Khrit byt pyn nyng Jawhen, Luka, Marka, laa Matthai tih haa naa ym jok hnguːt khyang asi. Sityang poai pahli duːk kyng Marka cee y toi duː tih sityangpoai cawuk asi. Ni sityangpoai khy cee Khrit myi pyn nyng 65–70 kikaw vyng acuːk nyak tomti jyng kuːh jokkei hnguːt tih pahuat tilaa ym jum. Yn cee Roma ha myi tih Khritjan haa eyng thaa beinyak ky tawk Roma myih hnguva jok hnguːt khyang tijyng cawsuitih panu naa ym utnyak.</para>
+  <para style="ip">Marka khy Jawhen Marka tilaa ym hnguat, Ceepaw Pawluh laa Barnabas bawngpui pahuat a si. Ynbawlakhy yn naa mision lyaam y dyyi hnguːt hnguva y ming cee see hnguːt (<char style="xt"><ref loc="ACT 13:13">Cee 13.13</ref></char>). Apynnyng Marka cee Banarbas dy zet hah bua (<char style="xt"><ref loc="ACT 15:37-39">Cee 15.37–39</ref></char>). Marka khy cee Pitar dy lawijei tih pahuat tijyng hnguatei (<char style="xt"><ref loc="1PE 5:13">1 Pet 5.13</ref></char>). Marka cee Jesuh syak hiyang khyang mik kyng hnguh hnguːttih y si, Marka cee Pitar saksi khyammei khyang panu jok tih tilaa cawsuitih haa naa ym jum, yn cee Marka cengkuːh Sityang poai aphung a si. Sityang poai dukka, Marka naa Jesuh cawkhyau khyang acuːn laa hngulawnglyktih haa y hyauhluː.</para>
+  <para style="iot">Tomti dukkuːh Dynnyak</para>
+  <para style="io1">1. Marka cawuk susaihnyak sikawvyngcee donyak <char style="ior">(<ref loc="MRK 1:1-13">1.1–13</ref>)</char></para>
+  <para style="io1">2. Pynnyng, Marka Galilee ha myi hnguva Jesuh khutbi duannyak <char style="ior">(<ref loc="MRK 1:14-8:21">1.14—8.21</ref>)</char></para>
+  <para style="io1">3. Atha, Jesuh Jerusalem ma zet khyang y saihnyak <char style="ior">(<ref loc="MRK 8:22-10:52">8.22—10.52</ref>)</char></para>
+  <para style="io1">4. Marka naa Jesuh bytnyak laa thooh nyak bua acuːn Jerusalem ma jok khyang y cynnyak <char style="ior">(<ref loc="MRK 11:1-16:8">11.1—16.8</ref>)</char></para>
+  <para style="ie" />
+  <chapter number="1" style="c" sid="MRK 1" />
+  <para style="s">Baptistma Jawhan naa Sityng Poai Saihnyak</para>
+  <para style="r">(<ref loc="MAT 3:1-12">Matthai 3.1–12</ref>; <ref loc="LUK 3:1-18">Luka 3.1–18</ref>; <ref loc="JHN 1:19-28">Jawhen 1.19–28</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 1:1" />Nuatpaw Zaw<note caller="+" style="f"><char style="fr" closed="false">1.1 </char><char style="ft" closed="false">Acya kutjok caw haeyng </char><char style="fq" closed="false">Nuatpaw Zaw, </char><char style="ft" closed="false">tijyng myihtih khaw.</char></note> Jesuh Khrit Sityang Poai acuːk saihnyak. <verse eid="MRK 1:1" /><verse number="2" style="v" sid="MRK 1:2" />Hngawpawe Isaiah jok hnguːt khyang:</para>
+  <para style="q1" vid="MRK 1:2">“Nuatpawaw naa, ‘Ny hngoaimaw va ceepaw y tuːhlu,</para>
+  <para style="q2" vid="MRK 1:2">yn cee nyang lyamsaa hai y si.’<verse eid="MRK 1:2" /></para>
+  <para style="q1">
+    <verse number="3" style="v" sid="MRK 1:3" />Doaiduka athaii pahuat apang,</para>
+  <para style="q2" vid="MRK 1:3">Mawhpaw lyamsaa byih jyt;</para>
+  <para style="q2" vid="MRK 1:3">‘yn tawk puːnpawk nyak lyam singsa byih jyt,’ y tii.”<verse eid="MRK 1:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 1:4" />Baptisma Jawhan cee khongkhuca kuːh luu theilaa baptizen y bei.<note caller="+" style="f"><char style="fr" closed="false">1.4 </char><char style="fq" closed="false">Baptisma Jawhan cee khongkhuca kuːh luu theilaa baptizen y bei; </char><char style="ft" closed="false">acya kuːt jok cawvyng khy myi </char><char style="fqa" closed="false">Baptisma Jawhen doaiduk kuːh lue theilaa, tala saih.</char></note> “Pet duk kuːh hluːh nyak la jubaijei nyak baptisma bawng y susaih.” <verse eid="MRK 1:4" /><verse number="5" style="v" sid="MRK 1:5" />Judah pee jaa kuːh khyang haa laa Jerusalem luh a kuːh haa tomti Jawhan cengnga ym zet. Ym pet haa tomti saih awla Jordan tuiiguu vyng Jawhen cengnga baptisma ym khyammei giah.<verse eid="MRK 1:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 1:6" />Jawhan cee sangsi hngua eyng tyakeitih suisyak dy, sawvuːn ziangjoii ziangei laa, khau laa doaiduːk khoituii y ei. <verse eid="MRK 1:6" /><verse number="7" style="v" sid="MRK 1:7" />Yn susaih khyang cee, “Keei thyak kyng phungan liantih, keei hnguva lu vy. Keei cee yn khu vyng kuːh khuphawtyap jawi kuːt khy shut hai tuan jonga. <verse eid="MRK 1:7" /><verse number="8" style="v" sid="MRK 1:8" />Keei cee nyangmi haa tuijyng baptisma ky bei luu jyang, ynbawlakhy yn naa cee muikhaw Cim myng baptisma bei jy,” y tinyak.<verse eid="MRK 1:8" /></para>
+  <para style="s">Jesuh naa Baptisma laa Hlumphlik Khyamnyak</para>
+  <para style="r">(<ref loc="MAT 3:13-4:11">Matthai 3.13—4.11</ref>; <ref loc="LUK 3:21">Luka 3.21</ref>,<ref loc="LUK 3:22">22</ref>; <ref loc="LUK 4:1-13">4.1–13</ref>)</para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 1:9" />Ynhnguva Jesuh cee Galilee pee Nazareth luh kuːh lu theilaa, Jordan tuijyng Jawhan cengnga baptisma y khyammei. <verse eid="MRK 1:9" /><verse number="10" style="v" sid="MRK 1:10" />Jesuh tui dukkuːh thooluu hnguva, huankhu hngawngei theilaa Muikhaw Cim cee khuːzaw pahuat bawva ynih huannaa komlue hlyi. <verse eid="MRK 1:10" /><verse number="11" style="v" sid="MRK 1:11" /><note caller="-" style="x"><char style="xo" closed="false">1.11 </char><char style="xt" closed="false"><ref loc="MAT 3:17">Mat 3.17</ref>; <ref loc="MAT 12:18">12.18</ref>; <ref loc="MRK 9:7">Mar 9.7</ref>; <ref loc="LUK 3:22">Luk 3.22</ref></char></note>Yn hnguva huankhu kuːh thaii pahuat a luː “Nyang cee keei lung duk kuːh ky khiat khyang Zawpawe ny si,” tilaa y hyau.<verse eid="MRK 1:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 1:12" />Yn pynnyng Muikhaw na Jesuh cee khongkhucaa tuːh hlyi. <verse eid="MRK 1:12" /><verse number="13" style="v" sid="MRK 1:13" />Khuhnguːp phiikip kkongkhuca a myi hnguva Khukhawng naa hlumhlik khyang y khyam lawh. Yn duːn nyng hyangsei pawngzawe haa dy y myi, yn hnguva huankhu ceepaw haa naa Jesuh ym lupan nyak.<verse eid="MRK 1:13" /></para>
+  <para style="s">Jesuh Naa Ngawaw Suitih Pahli Y Pan</para>
+  <para style="r">(<ref loc="MAT 4:12-22">Matthai 4.12–22</ref>; <ref loc="LUK 4:14">Luka 4.14</ref>,<ref loc="LUK 4:15">15</ref>; <ref loc="LUK 5:1-11">5.1–11</ref>)</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 1:14" />Jawhan phehimm gyak pynyng, Jesuh cee Galilee pee jaa zet theilaa Nuatpaw sityang poai y susaih. <verse eid="MRK 1:14" /><verse number="15" style="v" sid="MRK 1:15" /><note caller="-" style="x"><char style="xo" closed="false">1.15 </char><char style="xt" closed="false"><ref loc="MAT 3:2">Mat 3.2</ref></char></note>“Acuːn ngawehlue, Nuatpaw teengpee cee lawilue hngyh. Jubaijei laa sityang poai jum byihjyt!” y tinyak.<verse eid="MRK 1:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 1:16" />Jesuh Galilee tuiili kyam maa zet hnguva, ngawsuitih Simon laa y nau Andrew tuili jyng pykva khyak khyang y hnguh. <verse eid="MRK 1:16" /><verse number="17" style="v" sid="MRK 1:17" />Jesuh naa, “keei hngu lyklue hngih,” “Nyang hngih cee khyang hliangtih a ky thawn shyak ky” y tinyak. <verse eid="MRK 1:17" /><verse number="18" style="v" sid="MRK 1:18" />Yn haa naa ym pykva haa dyyi theilaa Jesuh hngulawng y hngih lykkei hlyi.<verse eid="MRK 1:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 1:19" />Hnguva meihzawe paan nawva zet pynyng Zebedee zawpawe James laa y nau Jawhan lawng dukkuːh y hnguh. Yn hyih cee lawng dukka pykva y hngih sang. <verse eid="MRK 1:19" /><verse number="20" style="v" sid="MRK 1:20" />Sunshyang kawva yn haa y pannei hlyi, ym pawe Zebedee la lawng ngyng myitih hawsaw haa tawhnguːt awla hngulawng ym lykkei hlyi.<verse eid="MRK 1:20" /></para>
+  <para style="s">Muikhaw See Syt Nyak</para>
+  <para style="r">(<ref loc="LUK 4:31-37">Luka 4.31–37</ref>)</para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 1:21" />Jesuh laa hngulawnglyktih haa Jin hnguːp phawlu hnguva Kapanau luh a ym zet, Jesuh Sinakok ka zet theilaa y voang hnguva y cawkhyau. <verse eid="MRK 1:21" /><verse number="22" style="v" sid="MRK 1:22" /><note caller="-" style="x"><char style="xo" closed="false">1.22 </char><char style="xt" closed="false"><ref loc="MAT 7:28">Mat 7.28</ref>,<ref loc="MAT 7:29">29</ref></char></note>Yn cawkhyau khyang cee khyang hanaa ym muːn nyak, ibawthawnnyngmaatijyngcee yn haa eyng uppyngtih baw y cawk, tala tuattih baw cawkhyau si jo.<verse eid="MRK 1:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 1:23" />Yn duːn nyng muikhaw see puhei khyamtih khyang pahuat yn haa sinakok dukka y myi. <verse eid="MRK 1:23" /><verse number="24" style="v" sid="MRK 1:24" />Yn cee “Nazareth luh zaw Jesuh, keeimi eyng ibaw ny luːnyak maa? Keeimi shimphak haija ny luu vei? Nyang u tinyak khyang ky hnguat Cim tih Nuatpaw pahuat ny si!” tila y pang.<verse eid="MRK 1:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 1:25" />Jesuh naa “poaija myih, yn dukka kuːh lyt,” y tinyak.<verse eid="MRK 1:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 1:26" />Muikhaw see naa yn khyang hiev shyak theilaa yn khyang dukkuːh thaaeyng pang theilaa y lyt bua. <verse eid="MRK 1:26" /><verse number="27" style="v" sid="MRK 1:27" />Khyang haa naa muːnnaw awla, “Ni cee ibyang maa? tilaa pahuat laa pahuat ym hngijei tawng. Uppyngtih cawkhyau nyak puitih atha tawk kei! Yn hyau khyang haa cee Muikhaw see haa naa khy yn khyau ym ngei” ym tii.<verse eid="MRK 1:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 1:28" />Yn Sityang haa cee Galilee naampung tomti jyng a jyang nga pau jok giah.<verse eid="MRK 1:28" /></para>
+  <para style="s">Jesuh Na Khyang Panu Y Kaang shyak</para>
+  <para style="r">(<ref loc="MAT 8:14-17">Matthai 8.14–17</ref>; <ref loc="LUK 4:38-41">Luka 4.38–41</ref>)</para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 1:29" />Sinakok kuːh lyt hlyi hnguva, James laa Jawhan dy Simon laa Andrew imm maa ym zet. <verse eid="MRK 1:29" /><verse number="30" style="v" sid="MRK 1:30" />Simon pi cee kua theila ip duːn nyng hngyngei, y nih sityang Jesuh eyng a jyang nga ym saih jei. <verse eid="MRK 1:30" /><verse number="31" style="v" sid="MRK 1:31" />Yn hnguva Jesuh cee yn hngutaw cenga zet theila y kut tyng y thooh. Yn hnguva ynih cee kaang bua theilaa khin y khinnyak bua.<verse eid="MRK 1:31" /></para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 1:32" />A muːlyam Khumik kyak pynnyng, Jesuh cenga kaang tih kaw tomti laa tusee puhei khyang haa ym lupui nyak. <verse eid="MRK 1:32" /><verse number="33" style="v" sid="MRK 1:33" />Luh dukkuːh khyang tomti kyttung ngyng ym dynnei, <verse eid="MRK 1:33" /><verse number="34" style="v" sid="MRK 1:34" />Jesuh naa nehnyang a juːjuː y kaansyak. Ynih na khy puhei tih tusee haa panu y shyt. Ynbawlakhy tusee haa na Jesuh u maa tinyak khyang ym hnguat khiannyng Jesuh na yn haa khyau shyak jo.<verse eid="MRK 1:34" /></para>
+  <para style="s">A Hiivnaw Duːn naa Jesuh Hngihminnei Nyak</para>
+  <para style="r">(<ref loc="LUK 4:42-44">Luka 4.42–44</ref>)</para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 1:35" />Anguu Khuthuaih hluanna, Jesuh cee thoo theilaa, imm ma kuːh zet theila hiv nawva, y hngihminnei. <verse eid="MRK 1:35" /><verse number="36" style="v" sid="MRK 1:36" />Yn hnguva Simon laa y kyi tih na ym shuijok, <verse eid="MRK 1:36" /><verse number="37" style="v" sid="MRK 1:37" />Jesuh ym hnguh hnguva, “Khyang haa na nyang ym shuijok,” ym tinyak.<verse eid="MRK 1:37" /></para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 1:38" />Jesuh na, “Alawipai nyak acya naam haa khy zet pawe. Ynnija khy ky susaih lawh hngyam my. Yn nyy tawk keei ky lu,” y tinyak.<verse eid="MRK 1:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 1:39" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">1.39 </char>
+      <char style="xt" closed="false">
+        <ref loc="MAT 4:23">Mat 4.23</ref>; <ref loc="MAT 9:35">9.35</ref></char>
+    </note>Yn khianyng Galilee pee lyaam ma zet theila, ym Sinakok haa dukka y susaih, pynnyngcee tusee haa khy y shyt.<verse eid="MRK 1:39" /></para>
+  <para style="s">Jesuh naa Buhlitih Khyang Pahuat Kaan Syak</para>
+  <para style="r">(<ref loc="MAT 8:1-4">Matthai 8.1–4</ref>; <ref loc="LUK 5:12-16">Luka 5.12–16</ref>)</para>
+  <para style="p">
+    <verse number="40" style="v" sid="MRK 1:40" />Buhlitih khyang pahuat cee y cengnga khukdya, “Ny luːei nyak myi jyngcee keei cim nyak ny bei nyn”<note caller="+" style="f"><char style="fr" closed="false">1.40 </char><char style="fk" closed="false">keei cim nyak ny bei nyn: </char><char style="ft" closed="false">Ni buhli tihaa khyang pahuat thuːmcian bawva kuːk syak nyn jo.</char></note> tilaa y khawhei.<verse eid="MRK 1:40" /></para>
+  <para style="p">
+    <verse number="41" style="v" sid="MRK 1:41" />Jesuh na y maannei.<note caller="+" style="f"><char style="fr" closed="false">1.41 </char><char style="fq" closed="false">maannei; </char><char style="ft" closed="false">acya kutjok caw vyng </char><char style="fqa" closed="false">lungtyn, </char><char style="ft" closed="false">tijyng myi.</char></note> Y kut tyng ynih dovei theilaa y thyaam, “keei naa ky luːnyak, cimbua!” y tinyak. <verse eid="MRK 1:41" /><verse number="42" style="v" sid="MRK 1:42" />Yn khyang buhlineh khuːk theilaa y cimbua hlyi. <verse eid="MRK 1:42" /><verse number="43" style="v" sid="MRK 1:43" />Jesuh na sathiih bei theilaa y tuːh bua hlyi, <verse eid="MRK 1:43" /><verse number="44" style="v" sid="MRK 1:44" />“Keei na kaang syak bua khyang uvyng khy saih khawh byih. Ynbawlakhy zet, Jahenpaw cengnga ny pumhngaw duan voaih tilaa ny cimbua nyak saksi khyang na hnguat nyak ky Mosee tala bawva henbawn caaibua byih,” y tinyak.<verse eid="MRK 1:44" /></para>
+  <para style="p">
+    <verse number="45" style="v" sid="MRK 1:45" />Yn zet theilaa canaw kawva khyau phawk kei khianyng, yn sityang cee pau jok giah. Yn khiannyng Jesuh cee atha luh ha voang nyn tii jo, yn hnguva a hiiv nyak duːn pumthua a y myijei. Ynbawlakhy naampung tyngnyng kuːh khyang haa ynih cengnga ym luu shoi.<verse eid="MRK 1:45" /></para>
+  <chapter eid="MRK 1" />
+  <chapter number="2" style="c" sid="MRK 2" />
+  <para style="s">Jesuh naa Kut khuu Byttih Kaangsyak</para>
+  <para style="r">(<ref loc="MAT 9:1-8">Matthai 9.1–8</ref>; <ref loc="LUK 5:17-26">Luka 5.17–26</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 2:1" />Hnguːp hngih thum pynnyng, Jesuh Kapanau luh ha y zet buatuːh, khyang haa naa immaa y phawlu pyn tijyng ym jyak. <verse eid="MRK 2:1" /><verse number="2" style="v" sid="MRK 2:2" />Khyang panukung dynnei lu khiannyng imm dukka kuːhthuh, kyttung cyp akhyn myi ti jo, ynhnguva yn haa eyng sityang y susaih. <verse eid="MRK 2:2" /><verse number="3" style="v" sid="MRK 2:3" />Yn hnguva khyang pahli na kutkhu byttih jap pyng kyn theilaa Jesuh cenga ym lu. <verse eid="MRK 2:3" /><verse number="4" style="v" sid="MRK 2:4" />Khyang puː ym myi khiannyng Jesuh ceng cyp phaw nyn jo aw. Yn haa naa Jesuh myih nyak immtiih piat awla, yn khyang nehmawh, hngyn nyak phawhiih dy ym hawn. <verse eid="MRK 2:4" /><verse number="5" style="v" sid="MRK 2:5" />Jesuh naa yn haa jumnyak y hnguh hnguva, kutkhu byttih khyang ngyng, “Ky zawvo, nyang pet haa hluːh pyn,” y tinyak.<verse eid="MRK 2:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 2:6" />Yn duːn nyng ycya tala cawkhyautih haa ngoa awlaa, ym lung dukka khindang, <verse eid="MRK 2:6" /><verse number="7" style="v" sid="MRK 2:7" />“Ibawthawnyng ni bawva ni khyang na hyau maa? Yn cee Nuatpaw siat nyak khyang si! Nuatpaw pahuat thua u naa pet hluːh nyn maa?” tilaa ym lung dukka khindang.<verse eid="MRK 2:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="MRK 2:8" />Jesuh naa muikhaw lung ngyng yn haa lung dukka khindang khyang y hnguat hlyi, “Ibawthawnyng ni byang nym khindang maa?, y tinyak. <verse eid="MRK 2:8" /><verse number="9" style="v" sid="MRK 2:9" />I byang cee hyau lawi maa, ‘Nyang pet haa hluːh pyn,’ sikhawvyngcee ‘Thoo, ny phawhiih kyt laa zet, tijyng kutkhu byttih khyang ngyng hyau vy lawi jei’? <verse eid="MRK 2:9" /><verse number="10" style="v" sid="MRK 2:10" />Ynbawlakhy khyang Zawpawe na somdek huanna pet hluːh nyn, uppyng nyak, nyangmi jyng hnguat shyak ky ky lu,” tijyng yn khyang ngyng y hyau. <verse eid="MRK 2:10" /><verse number="11" style="v" sid="MRK 2:11" />“Nyang ngyng ky hyau, thoo, ny phawhiih kyt tilaa, imm ma zet,” y tinyak.<verse eid="MRK 2:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 2:12" />Yn cee y thoo hlyi, khyang haa hngoaimaw kuːh phawhiih kyt theilaa y zet bua. Yn cee khyang tomti naa muːnnaw awla Nuatpaw ym khuːhbia, “Nibyang keeimi naa ikhy hngusai joaw nga!” tilaa ym hyau.<verse eid="MRK 2:12" /></para>
+  <para style="s">Jesuh Naa Levi Pannei theilaa Petmawh Haa Dy Y Ei</para>
+  <para style="r">(<ref loc="MAT 9:9-13">Matthai 9.9–13</ref>; <ref loc="LUK 5:27-32">Luka 5.27–32</ref>)</para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 2:13" />Jesuh Galilee tuili kyam ma mokhuat zet buatuːh. Khyang puː haa y cengnga lu awla, Jesuh na yn haa eyng y cawk ky y phun. <verse eid="MRK 2:13" /><verse number="14" style="v" sid="MRK 2:14" />Jesuh lyam myng zet hnguva, akhawn dynnyak duːn jung nga ngoa tih Alphaeus zaw Levi y hnguh. Jesuh naa yn nyng, “Keei lawnglyk luuh,” y tinyak. Yn pynnyng thoo theilaa Jesuh hngulawng y lykkei.<verse eid="MRK 2:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="MRK 2:15" />Jesuh cee Levi imm ma<note caller="+" style="f"><char style="fr" closed="false">2.15 </char><char style="fq" closed="false">Levi imm ma; </char><char style="ft" closed="false">sikawvyngcee </char><char style="fqa" closed="false">yn </char><char style="ft" closed="false">(yn cee Jesuh) </char><char style="fqa" closed="false">imm.</char></note> amuːbuh ei hnguva, akhawn dyn haa laa petmawh haa khy ym pui. Hngulawnglyktih haa dy, ym eiou hah. Jesuh lawnglyktih haa duk kyng yn byang khyang haa panu ym pui. <verse eid="MRK 2:15" /><verse number="16" style="v" sid="MRK 2:16" />Akhawn dyntih laa petmawh haa dy Jesuh eiou khyang Pharisee bawng tala cawkhyautih haa naa ym hnguh hnguva, “Ibawthawnnyng akhawn dyntih laa petkongtih haa dy eiou maa?” ti awla hngulawnglyktih haa eyng ym hngi.<verse eid="MRK 2:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 2:17" />Yn jyak hnguva, Jesuh na yn haa eyng hyau, “Kaangtih naa tubawi luːei jo, ynbawlakhy kuatih naa jyang luːei. Keei cee puːnpok tih haa jubaijei haija ky lu si jonga, ynbawlakhy petmawh haa jubaijei tawk jyang Ky lu,” tilaa yn haa eyng y hyau.<verse eid="MRK 2:17" /></para>
+  <para style="s">Buh Jah Khyang Ym Hnginyak</para>
+  <para style="r">(<ref loc="MAT 9:14-17">Matthai 9.14–17</ref>; <ref loc="LUK 5:33-39">Luka 5.33–39</ref>)</para>
+  <para style="p">
+    <verse number="18" style="v" sid="MRK 2:18" />Pharisee haa laa Jawhan hngulawnglyk haa na buh ym jah. Ycya khyang haa Jesuh cenga lu awla, “Myn cee ibaw ma Jawhen lawnglyk laa Pharisee lawnglyk haa naa buh jah, ynbawlakhy nyang hngulawnglyktih haa cee jahei joaw si?” tiawla ym hngi.<verse eid="MRK 2:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 2:19" />Yn hnguva Jesuh na, “Zawekompawe cee ibaw khiin haa dy jah nynny maa? Zawkompawe myiveih cee, yn haa buh jahei joaw. <verse eid="MRK 2:19" /><verse number="20" style="v" sid="MRK 2:20" />Ynbawlakhy yn haa cengkuːh zawkompawe ka cuːn phawlu hnguva, yn haa ym jahei cee ey.<verse eid="MRK 2:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 2:21" />“U naa khy suisyak phyam cee atha eyng ciipu joaw. Sikawvyngcee, athatih aphyam naa eitheila, apyk lian kai jy. <verse eid="MRK 2:21" /><verse number="22" style="v" sid="MRK 2:22" />Ynpynnyng cee u naa khy miksutuii atha cee tuiawk aphyam myng kyn joaw. Sikawvyngcee, miksutuii naa tuiiawk myanaw theilaa, miksutuii laa tuiawk pahngihdyyn cilieu vy. Yn khiannyng athatih tuiawk kyng miksutuii ym sanbua lawh,” y tinyak.<verse eid="MRK 2:22" /></para>
+  <para style="s">Jesuh Cee Sabbath Hnguːp Mawhpawe</para>
+  <para style="r">(<ref loc="MAT 12:1-8">Matthai 12.1–8</ref>; <ref loc="LUK 6:1-5">Luka 6.1–5</ref>)</para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 2:23" />Sabbath hnguːp pyng Jesuh laa hngulawnglyktih haa tundyaa tyng ym zet hnguva, yn haa naa tuncyang dong ym sih. <verse eid="MRK 2:23" /><verse number="24" style="v" sid="MRK 2:24" />Ynhnguva Pharisee haa na Jesuh eyng, “To cyam, Jin hnguːp pyng caai tuan kaw khyang yn haa naa ibawthawnnyng ym caai maa?” tilaa ym hngi.<verse eid="MRK 2:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 2:25" />Jesuh naa “David laa ynih bawngpui haa buh ym coijei hnguva i ym caai tinyak khyang phuat saijo zawvei? <verse eid="MRK 2:25" /><verse number="26" style="v" sid="MRK 2:26" />Jahenpaw lian Abiathar hnguːp pyng, Nuatpaw biatimm ma voang theilaa Jahen phee y ei, yn cee jahenpaw haa thua ei dat kaw khyang a si. Pynnyngcee yn naa khy ynih bawng haa eyng acya phee haa y bei,” y tinyak.<verse eid="MRK 2:26" /></para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 2:27" />Yn pynnyng, “Jin hnguːp cee Khyang tawk a si; Khyang cee Jin hnguːp tawk com khyang si jo. <verse eid="MRK 2:27" /><verse number="28" style="v" sid="MRK 2:28" />Yn khiangnyng Khyang zawpaw cee Jin hnguːp Mawhpaw y si,” y tinyak.<verse eid="MRK 2:28" /></para>
+  <chapter eid="MRK 2" />
+  <chapter number="3" style="c" sid="MRK 3" />
+  <para style="s">Jesuh Naa Sabbath Hnguːp pyng Kutkhu byttih Kaannyak bei</para>
+  <para style="r">(<ref loc="MAT 12:9-14">Matthai 12.9–14</ref>; <ref loc="LUK 6:6-11">Luka 6.6–11</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 3:1" />Jesuh Sinakok ka zet theilaa adukka voang buatuːh, yn duːn naa kutkhu byttih khyang pahuat myi. <verse eid="MRK 3:1" /><verse number="2" style="v" sid="MRK 3:2" />Yn haa dukkyng kuːh ycya hanaa Jesuh muanny tawk pet ym sui; Jin hnguːp pyng yn neh y kaansyak kei; tijyng alawi jaa ym to. <verse eid="MRK 3:2" /><verse number="3" style="v" sid="MRK 3:3" />Jesuh naa kutkhu byttih khyang nyng, “Khyang tomti hngoaimaw va tungluh,” Y tinyak. <verse eid="MRK 3:3" /><verse number="4" style="v" sid="MRK 3:4" />Ynpynnyng Jesuh naa yn haa eyng, “Jin hnguːp pyng, apoai caai, a see caai, shyak lilovei, tuk tuanei sikawvyngcee duːm tuanei?” tijyng y hngi.</para>
+  <para style="p" vid="MRK 3:4">Ynbawlakhy yn haa naa ikhy hyau joaw. <verse eid="MRK 3:4" /><verse number="5" style="v" sid="MRK 3:5" />Yn hnguva Jesuh naa lungtynn hngoai jyng kika to theilaa, ym lung cang khyang hnguh khianyng, yn khyang nyng, “ny kut tau,” y tinyak. Y kut duan hnguva kaangsaanyak y lawh bua. <verse eid="MRK 3:5" /><verse number="6" style="v" sid="MRK 3:6" />Pharisee haa cee zet awlaa Jesuh ibaw tuk lawhey maa tilaa Herod bawng haa dy ym cijang.<verse eid="MRK 3:6" /></para>
+  <para style="s">Khyang puː naa Jesuh ym Lyk</para>
+  <para style="p">
+    <verse number="7" style="v" sid="MRK 3:7" />Jesuh cee hngulawnglyktih haa dy tuili khyam lyaamaa ym zet hnguva, yn hnguva Galilee pee kuːh la Judah pee kuːh khyang panu haa na khy y hngulawng ym lykei. <verse eid="MRK 3:7" /><verse number="8" style="v" sid="MRK 3:8" />Yn y cai hnguːt khyang tomti ym jyak hnguva, Judah, Jerusalem, Idumea, Jordan pingpawng laa Tyre laa Sidon kika laam maa kuːh khyang panu y cenga ym lu. <verse eid="MRK 3:8" /><verse number="9" style="v" sid="MRK 3:9" /><note caller="-" style="x"><char style="xo" closed="false">3.9,10 </char><char style="xt" closed="false"><ref loc="MRK 4:1">Mar 4.1</ref>; <ref loc="LUK 5:1-3">Luk 5.1–3</ref></char></note>Yn hnguva Jesuh naa y hngulawnglyktih haa eyng ynih tawkka lawng dik pahuat y tyakshyak. Yn khiannyng ynih hliam nyn joaw. <verse eid="MRK 3:9" /><verse number="10" style="v" sid="MRK 3:10" />Khyang panue kaang nyak y bei, yn khiannyng nehnyaang tawvei tihhaa tomti kaangsaanyak lawhey tawkka ynih hliam my ym lue. <verse eid="MRK 3:10" /><verse number="11" style="v" sid="MRK 3:11" />Ihngukhysiseh muikhaw see haa naa ynih ym hnguːh, Ynih cengnga pang theilaa khuːhbia, “Nyang cee Nuatpaw zawpaw ny si!” ym tinyak.<verse eid="MRK 3:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 3:12" />Ynbawlakhy keei u maa tinyak khyang hyau kaw haijaa tusee haa eyng Y cawkhyau.<verse eid="MRK 3:12" /></para>
+  <para style="s">Ceepaw Kulaihngih Hngyhnyak</para>
+  <para style="r">(<ref loc="MAT 10:1-4">Matthai 10.1–4</ref>; <ref loc="LUK 6:12-16">Luka 6.12–16</ref>)</para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 3:13" />Jesuh cung huannaa koai theilaa yn y luːvei khyang haa y cengnga pannei, pynnyngcee ynih cengnga ym lue. <verse eid="MRK 3:13" /><verse number="14" style="v" sid="MRK 3:14" />Lawnglyk kulaihngih y hiyah, yn cee ceepaw haa tilaa ming y shui. “Keei naa nyangmi keei dy myijyy tawkka ky luihyahei,” y tinyak. “Nyangmi susaih haija ky tuːh eyy, <verse eid="MRK 3:14" /><verse number="15" style="v" sid="MRK 3:15" />ynpynnyng tusee haa shyt nyak uːtyang Keei naa ky bei jy,” tila Y hyau.<verse eid="MRK 3:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 3:16" />Kulaihngih luihiyah: Simon cee (Jesuh naa Pitar tijyng ming a bei); <verse eid="MRK 3:16" /><verse number="17" style="v" sid="MRK 3:17" />Zebedee zawepawe James laa y nau Jawhan (Jesuh naa yn hyih jyng lingso tihaa tala susaih tih tilaa ming bei, yncee “Gak zawepawe”); <verse eid="MRK 3:17" /><verse number="18" style="v" sid="MRK 3:18" />Andrew, Philip, Barthomew, Matthai, Thomas, Alphaeus zawpawe James, Thaddaeus, juː khiat tih Simon, <verse eid="MRK 3:18" /><verse number="19" style="v" sid="MRK 3:19" />pynnyngcee ynih eyng sethcaw myi tih kaw, Judah Iskariot y si.<verse eid="MRK 3:19" /></para>
+  <para style="s">Beelzebul laa Jesuh</para>
+  <para style="r">(<ref loc="MAT 12:22-32">Matthai 12.22–32</ref>; <ref loc="LUK 11:14-23">Luka 11.14–23</ref>; <ref loc="LUK 12:10">12.10</ref>)</para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 3:20" />Pynnyng Jesuh imm pahuat ta voang hnguva, Khyang puː haa dynnei lue buatuːh, yn khainnyng Jesuh laa hngulawnglyktih haa ym ei jy cuːn khy myi jo. <verse eid="MRK 3:20" /><verse number="21" style="v" sid="MRK 3:21" />Yn sityang y immlawng haa naa ym jyak hnguva, yn lawvei bua haijaa ym zet, ynhnguva “yn cee lung hngoan jo,” tiawla ym hyau.<verse eid="MRK 3:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="MRK 3:22" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">3.22 </char>
+      <char style="xt" closed="false">
+        <ref loc="MAT 9:34">Mat 9.34</ref>; <ref loc="MAT 10:25">10.25</ref></char>
+    </note>Ynhnguva Jerusalem luh ha kuːh tala cawkhyautih haa kom lu awla, “Yn cee Beelzebul voangnei theilaa! yn tusee uptih myang phungan nyng tusee y syt,” tijyng ym hyau.<verse eid="MRK 3:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 3:23" />Ynkhianyng Jesuh naa y cenga yn haa pannei theilaa khyaucyp nyak hyau vy phun, “Khukhawng naa khukhawng pui ibawva syt nynny maa? <verse eid="MRK 3:23" /><verse number="24" style="v" sid="MRK 3:24" />Tengpee pahuat apumhngaw naa khynkha vei jyngcee, yn teengpee cihngia nyn jo. <verse eid="MRK 3:24" /><verse number="25" style="v" sid="MRK 3:25" />Immlawng khy lung cyppei kaw vyngcee, yn imm cee cihngia nyn jo. <verse eid="MRK 3:25" /><verse number="26" style="v" sid="MRK 3:26" />Pynnyngcee khukhawng cee pumhngaw seelup theila khongkauvei jyngcee, y teengpee cihngia nynjo; cimpaknyak kajyng a thawnny.”<verse eid="MRK 3:26" /></para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 3:27" />Ynbaw hngucee, “U naa khy athaaliantih khyang khawnhyan maw kaw vyngcee, imm dukka voang theilaa lawklaa haa huttei nyn jo. Akhawn pynnyng jyang voang theilaa lawklaa haa lovei nyn ny.<verse eid="MRK 3:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 3:28" />“Ahngoan naa nyangmi jyng ky hyau vy, khyang haa naa apet laa see tih hyau lakhy<note caller="+" style="f"><char style="fr" closed="false">3.28 </char><char style="fq" closed="false">see tih hyau lakhy; </char><char style="ft" closed="false">sikhawvyng cee </char><char style="fqa" closed="false">khyang hanaa ym pet tomti hluːh theilaa Nuatpawe thaiisiat awlakhy.</char></note> Nuatpawe ym siatnyak tomti hluːh nyn, <verse eid="MRK 3:28" /><verse number="29" style="v" sid="MRK 3:29" /><note caller="-" style="x"><char style="xo" closed="false">3.29 </char><char style="xt" closed="false"><ref loc="LUK 12:10">Luk 12.10</ref></char></note>ynbawlakhy somdek huannaa Muikhaw Cim thaiisiat nawtih cee ihngukhy apet hluːh nyn jo; yn haa cee cihngia tih apet khyam lawhtih ym si,” y tinyak. <verse eid="MRK 3:29" /><verse number="30" style="v" sid="MRK 3:30" />(Ibawthawnyngmatijyngcee yn haa naa Jesuh cee, “muikhaw see naa bynnei,” ym tii khiannyng, myn khyaukhaw y hyau.)<verse eid="MRK 3:30" /></para>
+  <para style="s">Jesuh Nu laa Nautih Haa</para>
+  <para style="r">(<ref loc="MAT 12:46-50">Matthai 12.46–50</ref>; <ref loc="LUK 8:19-21">Luka 8.19–21</ref>)</para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 3:31" />Ynhnguva Jesuh nu laa nau haa ym phawlu. Imm pumthua tung awla, ynih pannei hai khyang pahuat ym tuːh. <verse eid="MRK 3:31" /><verse number="32" style="v" sid="MRK 3:32" />Khyang puː haa cee Jesuh cenga ym ngoa, “Nyang nu, nyang nau laa cinautih hanaa pumthuaa nyang ym suilu,” ym tinyak.<verse eid="MRK 3:32" /></para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 3:33" />Jesuh naa, “Keei nu laa keei nau haa cee u maa?” tilaa y hngi. <verse eid="MRK 3:33" /><verse number="34" style="v" sid="MRK 3:34" />Y ceng kika ngoatih haa to theilaa, “Keei nu, Keei nau haa cee, <verse eid="MRK 3:34" /><verse number="35" style="v" sid="MRK 3:35" />Ukhy siseh Nuatpaw luːlyk tihjyang Keei cii, keei nau, keei nu ha thawn,” y tinyak.<verse eid="MRK 3:35" /></para>
+  <chapter eid="MRK 3" />
+  <chapter number="4" style="c" sid="MRK 4" />
+  <para style="s">Aciinaw Cypnyak khyau</para>
+  <para style="r">(<ref loc="MAT 13:1-9">Matthai 13.1–9</ref>; <ref loc="LUK 8:4-8">Luka 8.4–8</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 4:1" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">4.1 </char>
+      <char style="xt" closed="false">
+        <ref loc="LUK 5:1-3">Luk 5.1–3</ref>
+      </char>
+    </note>Jesuh naa Galilee pee tuiili kyam ma tha thyih cawkhyau bua tuːh. Gonglawntih Khyangpuː haa cee ynih ceng kika a ym dynnei luu, ynkhiannyng Jesuh cee tuiili jyng myihtih lawng duːkka voang theilaa y ngoa. Ynhnguva khyang tomti cee panglai tuiikyam khong huannaa ym tung luu giah. <verse eid="MRK 4:1" /><verse number="2" style="v" sid="MRK 4:2" />Ynhnguva Jesuh naa khyaucyp nyak panuu kung summei theilaa, yn haeyng y cawkhyau:<verse eid="MRK 4:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 4:3" />“Ngeijyt! Laimawh pahuat cee ciinaw byak haijaa y zet. <verse eid="MRK 4:3" /><verse number="4" style="v" sid="MRK 4:4" />Ciinaw y byak hnguːt hnguva, acya ciinaw cee lyammyng kawe theila huihaw haa naa luu awla ym ei giah. <verse eid="MRK 4:4" /><verse number="5" style="v" sid="MRK 4:5" />Acya hacee dek poai nyak kaw luungtu huannaa kawe theilaa dek niau khiannyng ajyangnga aciinaw cytluu. <verse eid="MRK 4:5" /><verse number="6" style="v" sid="MRK 4:6" />Khuhngi lyyt luu hnguva aling naa uh theilaa, aphung thuah nyn kaw khianyng acaalak. <verse eid="MRK 4:6" /><verse number="7" style="v" sid="MRK 4:7" />Acya ciinaw hacee hlinghlo dukka kawe. Hlinghlo hanaa uphi khianyng theipa nynjo. <verse eid="MRK 4:7" /><verse number="8" style="v" sid="MRK 4:8" />Ynbawceejaa acya ciinaw hacee dek khyng nyak kyng kawe. Yn hnguva athing lian theila thungkip, shokkip, phawhuat cyp atheih lue,” tijyng y hyau.<verse eid="MRK 4:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 4:9" />Ynpynnyng Jesuh naa, “jyak nyakky hngaw tawevei tih nacee, jawgiah byihjyt,” y tinyak.<verse eid="MRK 4:9" /></para>
+  <para style="s">Khyaucypnyak kuːh Luːnyak</para>
+  <para style="r">(<ref loc="MAT 13:10-17">Matthai 13.10–17</ref>; <ref loc="LUK 8:9-10">Luka 8.9–10</ref>)</para>
+  <para style="p">
+    <verse number="10" style="v" sid="MRK 4:10" />Jesuh y pythngaw hnguva, lawnglyk khulaihngih laa ynih gikaa kuːh acya haanaa ynih khyaucyp nyak khyang ym hngi. <verse eid="MRK 4:10" /><verse number="11" style="v" sid="MRK 4:11" />Yn haa eyng y hyau, “Nuatpaw teengpee kuːh thukduːtih haa hnguat nyak nyangmi jyng beiluu. Ynbawlakhy pumtuaa myi tih tawk cee khyaucyp nyak kyng jyang tomti ym jyaklawh, <verse eid="MRK 4:11" /><verse number="12" style="v" sid="MRK 4:12" />ynkhianyng,</para>
+  <para style="q1" vid="MRK 4:12">“ ‘Yn haa naa hnguh cee ym hnguh tyua,</para>
+  <para style="q2" vid="MRK 4:12">hnguat joaw;</para>
+  <para style="q1" vid="MRK 4:12">pynnyng jyak cee ym jyak tya,</para>
+  <para style="q2" vid="MRK 4:12">jawcu joaw.</para>
+  <para style="q1" vid="MRK 4:12">Sikawvyngcee yn haa cee hlaijei hngu jyng,</para>
+  <para style="q2" vid="MRK 4:12">pet hluːh nyak ym lawh eyy a si,’ ” tijyng y hyau.<verse eid="MRK 4:12" /></para>
+  <para style="s">Ciinaw Byak Khyang Khyaucypnyak Jesuh naa Saih</para>
+  <para style="r">(<ref loc="MAT 13:18-23">Matthai 13.18–23</ref>; <ref loc="LUK 8:11-15">Luka 8.11–15</ref>)</para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 4:13" />Ynpynnyng Jesuh naa, “Nyangmi naa myn khyau cypnyak jawcu jo cawvei? Khyaucypnyak ibaw nym jyakcawk kymaa? y tinyak. <verse eid="MRK 4:13" /><verse number="14" style="v" sid="MRK 4:14" />Ciinaw byak tih naa Nuatpawe khyaukhaw y byak. <verse eid="MRK 4:14" /><verse number="15" style="v" sid="MRK 4:15" />Acya khyang hacee Nuatpawe khyaukhaw byak nyak duːn naa kuːh lyaam myng kawtih ciinaw dy huattei. Yn ym jyak laa khukhawng lue theilaa ym duk kuːh Nuatpawe khyaukhaw y lohvei hlyi. <verse eid="MRK 4:15" /><verse number="16" style="v" sid="MRK 4:16" />Acya hacee, luung ngyng kawtih ciinaw dy huattei, Nuatpawe khyaukhaw jaw theilaa lungjyy nyak kyng ym dyynei hlyi. <verse eid="MRK 4:16" /><verse number="17" style="v" sid="MRK 4:17" />Ynbawlakhy aphung thuah kaw khianyng, byangngeihzaw jyang myi. Yn Nuatpawe khyaukhaw khiannyng khawmsiat sikawvyngcee lungsikcyhei luu hnguva, ajyangnga ym cimpak. <verse eid="MRK 4:17" /><verse number="18" style="v" sid="MRK 4:18" />Acya haa cee, hlinghlo tuuvyng kawtih ciinaw dy cyppei, Nuatpawe khyaukhaw ym jyaklawh; <verse eid="MRK 4:18" /><verse number="19" style="v" sid="MRK 4:19" />ynbawlakhy syak hiyang ngy ym cyhnyak, bawimaa hluː khyang laa acya lungluːvei haa podyang lue hnguva, Nuatpawe khyaukhaw kuːntung theila somdek kyng theipa nyn ti jo. <verse eid="MRK 4:19" /><verse number="20" style="v" sid="MRK 4:20" />Ynbawlakhy acya hacee a khyng tih dek kyng byaktih ciinaw dy cyppei. Yn haa naa tala jaw theiawla, ym dyynei, pynnyngcee thumkip, sokkip, phawhuat ym theih nyak,” y tinyak.<verse eid="MRK 4:20" /></para>
+  <para style="s">Meeikhuːp Dukkuːh Meeiva</para>
+  <para style="r">(<ref loc="LUK 8:16-18">Luka 8.16–18</ref>)</para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 4:21" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">4.21 </char>
+      <char style="xt" closed="false">
+        <ref loc="MAT 5:15">Mat 5.15</ref>; <ref loc="LUK 11:33">Luk 11.33</ref></char>
+    </note>Jesuh naa, “Meeiimm cee meeiikhuːp sikawvyngcee ipnyak gyam dyanga tyak saijei? Yn cee meeikhuːp huannaa jyang tyak si jovei? <verse eid="MRK 4:21" /><verse number="22" style="v" sid="MRK 4:22" /><note caller="-" style="x"><char style="xo" closed="false">4.22 </char><char style="xt" closed="false"><ref loc="MAT 10:26">Mat 10.26</ref>; <ref loc="LUK 12:2">Luk 12.2</ref> </char></note>Ikhysiseh cuːmkhyn tomti cee dyang luu vy, ibawthawnnyngmatijygcee kuːnpha khyang tomti polue vy. <verse eid="MRK 4:22" /><verse number="23" style="v" sid="MRK 4:23" />Ukhy siseh hngaw taw tih naa jaw byihjyt,” y tinyak.<verse eid="MRK 4:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 4:24" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">4.24 </char>
+      <char style="xt" closed="false">
+        <ref loc="MAT 7:2">Mat 7.2</ref>; <ref loc="LUK 6:38">Luk 6.38</ref> </char>
+    </note>Yn haa eyng, “nym jyak khyang tomti sathihtaw byihjyt, ynpynnyng, khyang ngyng tuːngmaa laa nyak khyang cee nyang tuːngmaa nyak thyakkyng nym lawh ey. <verse eid="MRK 4:24" /><verse number="25" style="v" sid="MRK 4:25" /><note caller="-" style="x"><char style="xo" closed="false">4.25 </char><char style="xt" closed="false"><ref loc="MAT 13:12">Mat 13.12</ref>; <ref loc="MAT 25:29">25.29</ref>; <ref loc="LUK 19:26">Luk 19.26</ref> </char></note>Tawvei tih eyngcee atha bei jy, tawvei tih kaw cengkuːh cee tyakei khyang loh vei jyy,” y tinyak.<verse eid="MRK 4:25" /></para>
+  <para style="s">Ciinaw Lianta khyang Cypnyak</para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 4:26" />Yn pynnyng Jesuh naa, “Nuatpaw teengpee cee dek huannaa ciinaw pyaktih khyang pahuat dy cyppei. <verse eid="MRK 4:26" /><verse number="27" style="v" sid="MRK 4:27" />Hnguːp laa juan, y ip sikawvyngcee thoo, ciinaw cyt theilaa ibaw alian, tinyak khyang yn naa hnguat jo. <verse eid="MRK 4:27" /><verse number="28" style="v" sid="MRK 4:28" />Dektii naa aluː bawva ciinaw atheih syak theila; acuːk kyng pawng maw, pynyng a donglyt theila, kyyijyng cangui thonlu. <verse eid="MRK 4:28" /><verse number="29" style="v" sid="MRK 4:29" />Atheih hngiin theila jyaan ny acuːn phawlu hnguva, laimawh naa viin nyng y jyaan hlyi lawh,” y tinyak.<verse eid="MRK 4:29" /></para>
+  <para style="s">Mongjang Cii Khyaucyp nyak</para>
+  <para style="r">(<ref loc="MAT 13:31-34">Matthai 13.31–34</ref>; <ref loc="LUK 13:18-19">Luka 13.18–19</ref>)</para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 4:30" />Jesuh naa, “Nuatpaw teengpee cee ibyang ngyng cyppei tijyng my hyau maa, sikawvyngcee ibyang khyaucyp nyak kyng my suduan nymaa? <verse eid="MRK 4:30" /><verse number="31" style="v" sid="MRK 4:31" />Ni cee mongjang cii dy cyppei, yn cee somdek kyng myitih ciinaw tomti thyaka adikduːtih asi. <verse eid="MRK 4:31" /><verse number="32" style="v" sid="MRK 4:32" />Lian luu hnguva dyaa oensee dukkuːh haa tomti thyakkyng alianduːtih a thawnluu, yn akhongbak lian hia eyng huihaw haa duːm awla buu ym ssawei,” y tiinyak.<verse eid="MRK 4:32" /></para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 4:33" />Yn haa jyakcawk nyn nyakky bawva huatteitih khyaucyp nyak haa panukung nyng Jesuh naa Nuatpawe khyaukhaw y siah. <verse eid="MRK 4:33" /><verse number="34" style="v" sid="MRK 4:34" />Khyaucyp nyak summei kawva ikhy saih jo, ynbawlakhy hngulawnglyk tih haady ym pythngaw myih hnguva, yn haeyng tomti y shuduan bua.<verse eid="MRK 4:34" /></para>
+  <para style="s">Jesuh Naa Khukhi Hluːpsyak</para>
+  <para style="r">(<ref loc="MAT 8:23-27">Matthai 8.23–27</ref>; <ref loc="LUK 8:22-25">Luka 8.22–25</ref>)</para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 4:35" />Yn hnguːp amuːlyam phawluu hnguva, ynih hngulawnglyk haa eyng, “Jalyam zetpawe,” Y tinyak. <verse eid="MRK 4:35" /><verse number="36" style="v" sid="MRK 4:36" />Ynkhianyng khyangpuː tomti tyak hnguːt, hngulawnglyk tih haa khy Jesuh ngoahnyak pyn lawng huannaa ym koai. Ynduːn naa acya lawng haakhy amyi. <verse eid="MRK 4:36" /><verse number="37" style="v" sid="MRK 4:37" />Khilian lue theilaa, tuiilyyn naa lawng abah hnguva tuii aluih kat. <verse eid="MRK 4:37" /><verse number="38" style="v" sid="MRK 4:38" />Jesuh cee lawnghngu lyaamaa, kkumkhii jyng kummei theila y ippei. Lawnglyk haa naa hlet theilaa ym hyau, “Cawkhyautih vo, bytty khyang cyhnawjo tijei?” ym tinyak.<verse eid="MRK 4:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 4:39" />Jesuh thoo theila khii laa tuiihleng ngyng, “hluːp! hlym!” tilaa y hyau. Ynpynnyng khii huːp theilaa tuiihleng haa khy duːmei hlyi. <verse eid="MRK 4:39" /><verse number="40" style="v" sid="MRK 4:40" />Ynpynyng Jesuh naa y hngulawnglyk haeyng, “Ibawthonyng nym kyhmaa? Tuhcypyng khy jummeinyak tawe hngyam jo cawei?” y tinyak.<verse eid="MRK 4:40" /></para>
+  <para style="p">
+    <verse number="41" style="v" sid="MRK 4:41" />Yn hanaa ym kyh pah, “Myn cee umaa? Khii laa tuiilyyn hanaa khy ynih khyau ym lyklyam si!” tilaa pahuat laa pahuat ym hngi jeitong.<verse eid="MRK 4:41" /></para>
+  <chapter eid="MRK 4" />
+  <chapter number="5" style="c" sid="MRK 5" />
+  <para style="s">Jesuh naa Tusee Bynnei Khyang Pahuat Kaansyak</para>
+  <para style="r">(<ref loc="MAT 8:28-34">Matthai 8.28–34</ref>; <ref loc="LUK 8:26-39">Luka 8.26–39</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 5:1" />Ynpynnyng yn haa cee Gerasenes pee tuiili jaalyam ym phawluu. <verse eid="MRK 5:1" /><verse number="2" style="v" sid="MRK 5:2" />Jesuh cee lawng dukkuːh y lytluu hnguva, ynih khawmmei haijaa zu va kuːh muikhaw see bynnei khyang, khyang pahuat luu. <verse eid="MRK 5:2" /><verse number="3" style="v" sid="MRK 5:3" />Yn khyang cee zu va y myi, u naa khy ynih thiijoii jyng khawn nyn jo. <verse eid="MRK 5:3" /><verse number="4" style="v" sid="MRK 5:4" />Ibawthonnyngmaa tijyngcee yn cee kut laa khu thiijoii jyng khawn soi, y thaa myi khiannyng thiijoii hakhy khuvyng kuːh y saah nyn. Ynih joi haija u naa khy muan nyn jo. <verse eid="MRK 5:4" /><verse number="5" style="v" sid="MRK 5:5" />Hnguːp laa juan n zu laa cungkhuva pang theila y pumhngaw luung ngyng syapei.<verse eid="MRK 5:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 5:6" />Jesuh paan nawva kuːhthuh y hnguh hnguva, zawenlue theilaa ynih hngoai mawva y khukdyaa lu. <verse eid="MRK 5:6" /><verse number="7" style="v" sid="MRK 5:7" />Ynpynnyngcee, “hluːngduː tih Nuatpaw zawaw Jesuh! keei jyng ibawva ny luː maa? Keei caaipiat kawh tijyng Nuatpaw ming nyng ky khawhei,” tilaa thaii jyauva y pang. <verse eid="MRK 5:7" /><verse number="8" style="v" sid="MRK 5:8" />Yn nyng Jesuh naa, “Muikhaw see vo, yn khyang dukkuːh lytlue!” y tinyak.<verse eid="MRK 5:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 5:9" />Ynkhianyng Jesuh naa yn khyang nyng y hngi, “Nyang ming u maa?”</para>
+  <para style="p" vid="MRK 5:9">Ynih naa “Keei ming cee Legion asi, panuekung kym myi,” y tinyak. <verse eid="MRK 5:9" /><verse number="10" style="v" sid="MRK 5:10" />Ynpynnyng Jesuh eyng yn pee jaakuːh shyt kawhaijaa ym khawhei soi.<verse eid="MRK 5:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="MRK 5:11" />Yn duːn cungkhu va cawawlyakkeitih vok bawng haa ym myi. <verse eid="MRK 5:11" /><verse number="12" style="v" sid="MRK 5:12" />Tusee haa naa Jesuh eyng, “Keeimi vok haa dukka voang syak piatmawh,” tilaa ym khawhei. <verse eid="MRK 5:12" /><verse number="13" style="v" sid="MRK 5:13" />Jesuh naa yn haa kuːmsyak bei, muikhaw see haa cee lytkiah awla vok dukka ym voang. Aluva cee thawng hngih byang ym myi, tuiili duːkka shoigiah awla ym byt kiah.<verse eid="MRK 5:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 5:14" />Ynhaa zongtih haacee zawn theiawla luh duːkka laa nyaampung haa yn ym saihjok, ibawthawn maa tijyng hnguh haijaa khyang haa ym zet. <verse eid="MRK 5:14" /><verse number="15" style="v" sid="MRK 5:15" />Jesuh cengnga ym luu hnguva, Legion tusee puhei khyang cee suisyak vuei theilaa, y tengtih lung myi theila ngoaei khyang ym hnguh hnguva ym kyh. <verse eid="MRK 5:15" /><verse number="16" style="v" sid="MRK 5:16" />Yn hnguh hnguːt tih vok kyng si seh tusee bynnei khyang ngyng si seh thawnlawktih haa, hngutih haa naa luutih haa eyng ym saih.<verse eid="MRK 5:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 5:17" />Yn hnguva khyang haa naa ym pee jaa kuːh zetbua haijaa Jesuh eyng ym khawhei.<verse eid="MRK 5:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="MRK 5:18" />Jesuh lawng dukka koihlu hnguva, tusee puhei khyang naa nyang dy ky luu vy tilaa y khawhei.<verse eid="MRK 5:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 5:19" />Jesuh naa lyt luu syakjo, “Ny imm maa zetbua tilaa ny khyang haa eyng Mawhpaw naa nyang tawk ibaw mannei tinyak khyang saih byih,” y tinyak.<verse eid="MRK 5:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 5:20" />Ynkhiannyng yn khyang naa zet theilaa Jesuh maan nyak laa yn tawka puhcai khyang haa Dekapolis pee jaa myitih luh, luh hngaa ha y saih jok. Yn jaw awla khyang tomti naa ym muːnnyak.<verse eid="MRK 5:20" /></para>
+  <para style="s">Byyttih Hngutawzaw laa Kuatih Hngutaw Nuu</para>
+  <para style="r">(<ref loc="MAT 9:18-26">Matthai 9.18–26</ref>; <ref loc="LUK 8:40-56">Luka 8.40–56</ref>)</para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 5:21" />Jesuh acya tuili jaalyaam maa lawng ngyng y kuat bua hnguva, yn tuiikyam maa myitih khyang puː panuu yn ceng kikaa ym dyynnei lue. <verse eid="MRK 5:21" /><verse number="22" style="v" sid="MRK 5:22" />Ynpynnyng sinakok uptih pahuat, Jairus ming nawtih, luu theilaa Jesuh y hnguh hnguva, ynih khuuzoo va khukdya. <verse eid="MRK 5:22" /><verse number="23" style="v" sid="MRK 5:23" />Ynih eyng Lungniam nyakkyng, “Keei zawhngu byt hngyhtian tilaa, ynih eyng luu tilaa ny kut tyangluu piatmawh, yn hngucee kaangsaa bua theilaa y syak hyang ngy,” y tinyak.<verse eid="MRK 5:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 5:24" />Yn khianyng Jesuh Jairus dy zet hah. Y lawnglyktih puːpaw khawnglawn khianyng Jesuh ym hliam peh.<verse eid="MRK 5:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 5:25" />Ynnijaa kum kulaihngih thiisaa tih hngutawe pahuat myi. <verse eid="MRK 5:25" /><verse number="26" style="v" sid="MRK 5:26" />Ynih cee sibawi panuukung ngyng suduan pyn. Y neh kuːk kawva lian jyang lian luu theilaa, y tyakkei thawngkaw tomti pyih laakhy kaangsaanyak lawh jo. <verse eid="MRK 5:26" /><verse number="27" style="v" sid="MRK 5:27" />Yn hngutaw naa Jesuh sityang y jyak hnguva, khyangpuː dukkuːh y hngu lyammaa tungluu theila ynih suisyak y hliam, <verse eid="MRK 5:27" /><verse number="28" style="v" sid="MRK 5:28" />ibawthonnyngmaa tijyngcee “y suishyak ky hliam lawh eyngcee, ky kaangsaanyak lawh ey,” tijyng tawei khiannyng y suisyak y hliamei.<verse eid="MRK 5:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 5:29" />Y hliam laa y thiisaa tih duːm hlyi theilaa, nehnyang ngyng kuːh lyt khyang y pum ju naa pijei. <verse eid="MRK 5:29" /><verse number="30" style="v" sid="MRK 5:30" />Jesuh naa, ynih phungan lyt khyang pijei hlyi. Khyangpuːm kika lyam tenvoih theilaa, “U naa keei suisyak hliam maa?” tilaa y hngi.<verse eid="MRK 5:30" /></para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 5:31" />Hngulawnglyk haa naa, “Khyangpuː ni hawh ny hnguh kawvei; keei u naa hliam maa tilaa ijyy ny hngi lawhei,” ym tiinyak.<verse eid="MRK 5:31" /></para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 5:32" />Ynbawlaakhy Jesuh naa hliam tih hngu haija pingpyang tomti y to soi. <verse eid="MRK 5:32" /><verse number="33" style="v" sid="MRK 5:33" />Ynpynynyg hngutawe naa, ibaw thawn tinyak khyang y hnguattei, khiannyng sawso lelet nuuva y khuzoova khukdya luu theilaa, athawntih tomti ahngoan naa y saih jeiluu. <verse eid="MRK 5:33" /><verse number="34" style="v" sid="MRK 5:34" />Jesuh naa yn nyng, “Zawhngu vo, ny jummeinyak naa nyang kaangsaanyak bei pyn. Nyang nehnyang kuːk pyn hlymnyak kyng zet,” y tiinyak.<verse eid="MRK 5:34" /></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 5:35" />Jesuh khyau hlu hnguva, Jairus imm maa kuːh acya khyang laa sinakok kuːh khyanglian haa ym luu. “Nyang zawhngu bytpyn, Cawkhyautih cee ibawthonnyng hlumhlik shoimaa?” ym tiinayk.<verse eid="MRK 5:35" /></para>
+  <para style="p">
+    <verse number="36" style="v" sid="MRK 5:36" />Ynbawlakhy Jesuh naa yn khyaukhaw y jyak hnguva sinakok uptih eyng, I ym tiinyak khyang canawjo,<note caller="+" style="f"><char style="fr" closed="false">5.36 </char><char style="fq" closed="false">canawjo; </char><char style="ft" closed="false">sikawvyngcee </char><char style="fqa" closed="false">ym khyau ngei jo.</char></note> “Sawso kawh; jummeinyak tawveih,” y tinyak. <verse eid="MRK 5:36" /><verse number="37" style="v" sid="MRK 5:37" />Ynhnguva Pitar, James laa James nau Jawhan thua ukhy ynih lawnglyk syak jo. <verse eid="MRK 5:37" /><verse number="38" style="v" sid="MRK 5:38" />Sinakok uptih imm maa ym luu hnguva, khyang panuu vuiipang laa ym kap khyang Jesuh naa y hnguh. <verse eid="MRK 5:38" /><verse number="39" style="v" sid="MRK 5:39" />Yn dukka voang theila yn haa eyng, “Ibawthawnyng vuiipang theilaa nym gap maa? Dikzaw cee byt si jo, yn cee ip jyang” y tiinyak.<verse eid="MRK 5:39" /></para>
+  <para style="p">
+    <verse number="40" style="v" sid="MRK 5:40" />Yn hnguva ynih ym nuih nyak. Yn haa tomti y lyt syak. Ynpynnyng ynih dy hngulawnglyktih pathum haa laa dikzaw nuu laa paw dikzaw myih nawva ym zet. <verse eid="MRK 5:40" /><verse number="41" style="v" sid="MRK 5:41" />Y kut tyng yn thooh theila ynih eyng, <char style="tl">“Talitha koum!”</char> yn cee, “Hngutaw zawvo, thoo bua tiihyau!” y tiinyak.<verse eid="MRK 5:41" /></para>
+  <para style="p">
+    <verse number="42" style="v" sid="MRK 5:42" />Ynih thoo theilaa y zet hlyi nyn bua. Ynih cee kum kulaihngih myi hngyh. Ynhnguva yn haa naa hlyija ym muːnnyak giah. <verse eid="MRK 5:42" /><verse number="43" style="v" sid="MRK 5:43" />Jesuh naa myn unaakhy hnguat kawhaijaa biatbiat shin theila, yn haa eyng y eijy juːhuat beijyt, y tiinyak.<verse eid="MRK 5:43" /></para>
+  <chapter eid="MRK 5" />
+  <chapter number="6" style="c" sid="MRK 6" />
+  <para style="s">Nazareth Luh aa Jesuh Dyynjo</para>
+  <para style="r">(<ref loc="MAT 13:53-58">Matthai 13.53–58</ref>; <ref loc="LUK 4:16-30">Luka 4.16–30</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 6:1" />Jesuh naa yn duːn zehtaw theilaa ynih myihnyakluh aa y zetbua, ynih hngulawnglyktih haa naa khy ym lykkei. <verse eid="MRK 6:1" /><verse number="2" style="v" sid="MRK 6:2" />Jin hnguːp phawlue hnguva, sinakok ka y cawkhyau nyak phuun theila, jawetih tomti naa muːnnaw awla, “Ni khyang naa nibyang haani kuːh lawh maa? Ynih eyng nibyang thiamva unaa beimaa? Muːnnawsee tih phungan hacee ibaw y duan nyn maa? <verse eid="MRK 6:2" /><verse number="3" style="v" sid="MRK 6:3" />Myn cee saathe imm ssaw tih kaw vei? Ynih cee Marih zaw James, Josep, Judah laa Simon tih bee kaw vei? Y nau haa khy mynija ym myi kaw vei?” yn haa naa khy ynih dyn joaw.<verse eid="MRK 6:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 6:4" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">6.4 </char>
+      <char style="xt" closed="false">
+        <ref loc="JHN 4:44">Jaw 4.44</ref>
+      </char>
+    </note>Jesuh naa, “hngawpawe pahuat cee y luh hngawe thua, utsu laa y pumhngaw imm myihnawkawva jyng y luhngoai myi” Y tinyak.<verse eid="MRK 6:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 6:5" />Kuatih haa eyng kuttyang theilaa kaangsaanyak bei thua, muːnnawsee tih ikhy ynija caai hnguːt nyn jo. <verse eid="MRK 6:5" /><verse number="6" style="v" sid="MRK 6:6" />Mawhpaw naa yn haa jum kaw khyang y muːnnyak.</para>
+  <para style="s" vid="MRK 6:6">Jesuh naa Hngulawnglyk Kulaihngih Tuːh</para>
+  <para style="r" vid="MRK 6:6">(<ref loc="MAT 10:5-15">Matthai 10.5–15</ref>; <ref loc="LUK 9:1-6">Luka 9.1–6</ref>)</para>
+  <para style="p" vid="MRK 6:6">Ynpynnyng Jesuh cee naam huattuː naam huat kikaa cawkhyau jo. <verse eid="MRK 6:6" /><verse number="7" style="v" sid="MRK 6:7" />Yn pynnyng Mawhpaw naa hngulawnglyk tih kulaihngih pan theilaa pahngih, pahngih aa tuːh theilaa yn haa eyng muikhaw see haa nyn nyak uːtyang y bei. <verse eid="MRK 6:7" /><verse number="8" style="v" sid="MRK 6:8" /><note caller="-" style="x"><char style="xo" closed="false">6.8 </char><char style="xt" closed="false"><ref loc="LUK 10:4-11">Luk 10.4–11</ref> </char></note> Jesuh naa “Lyaam syau nym zet hnguva tiangkhua pahuat thua ikhy zeh kawh: cokkhii, phe, kyy jooi jyng tyangkaw zeh kawh byihjyt, tilaa y siin. <verse eid="MRK 6:8" /><verse number="9" style="v" sid="MRK 6:9" />Khuphawtyap jyang tappei theila phaang khy lyaphuat tua vuei kawh byihjyt,” y tiinyak. <verse eid="MRK 6:9" /><verse number="10" style="v" sid="MRK 6:10" />Yn haa eyng y hyau, “imm pahuat nym voang hnguva yn imm pahuat teng nym zetbua cyp yn duːnnyng myibyih jyt. <verse eid="MRK 6:10" /><verse number="11" style="v" sid="MRK 6:11" /><note caller="-" style="x"><char style="xo" closed="false">6.11 </char><char style="xt" closed="false"><ref loc="ACT 13:51">Cee 13.51</ref></char></note>Nym luu naweva kuːh haa naa nyangmi dyn joaw, nyangmi khyaukhaw ym ngei kaw vyngcee yn duːn nyng saksi jaa thawn haijaa nyangmi khuphaw vyng kuːh humhui khokhuːt byihjyt. Yn cee ynhaa tawkka sathih beinyak a si!,” y tiinyak.<verse eid="MRK 6:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 6:12" />Yn haa zet awla khyang haa jubaijeinyak tala ym susaih jok. <verse eid="MRK 6:12" /><verse number="13" style="v" sid="MRK 6:13" />Yn haa naa tusee haa shyt awla nehmawh panuukung situii jun theilaa ym kaansyak.<verse eid="MRK 6:13" /></para>
+  <para style="s">Baptisma Jawhan Bytnyak</para>
+  <para style="r">(<ref loc="MAT 14:1-12">Matthai 14.1–12</ref>; <ref loc="LUK 9:7-9">Luka 9.7–9</ref>)</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 6:14" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">6.14,15 </char>
+      <char style="xt" closed="false">
+        <ref loc="MAT 16:14">Mat 16.14</ref>; <ref loc="MRK 8:28">Mar 8.28</ref>; <ref loc="LUK 9:19">Luk 9.19</ref></char>
+    </note>Syamphalyang Herod<note caller="+" style="f"><char style="fr" closed="false">6.14 </char><char style="fk" closed="false">Syamphalyang Herod: </char><char style="ft" closed="false">Galilee pee uptih Herod Antipas.</char></note> naa, Jesuh ming lianluu khyang hnguatluu. Ycya khyang naa, “Baptisma Jawhan bytnyak kuːh thoo bua, ynkhiannyng muːnnawsee tih phungan haa duan nyn” tilaa ym hyau.<verse eid="MRK 6:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="MRK 6:15" />Ycya haa naa hyau, “Yn cee Elijah y si,” ym tiinyak.</para>
+  <para style="p" vid="MRK 6:15">Acya hanaa khy, “Acuːk hngukuːh yn cee hngawpawe pahuat, dukkuːh hngawpaw pahuat jyng,” ym tinyak.<verse eid="MRK 6:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 6:16" />Ynbawlakhy Herod naa jyak hnguva, “Keei naa luugee khuːn hnguːt khyang, Jawhan byt nyak kuːh thoobua,” tilaa y hyau. <verse eid="MRK 6:16" /><verse number="17" style="v" sid="MRK 6:17" /><note caller="-" style="x"><char style="xo" closed="false">6.17–18 </char><char style="xt" closed="false"><ref loc="LUK 3:19-20">Luk 3.19–20</ref></char></note> Herod pumhngawe naa, y bee Philip pihia y nyakbua. Ynkhiannyng, Herodias naa y khyang haa tuːh theilaa Jawhan muannei syak, ynpynnyng khuun theila, phehimm dukka y tyak. <verse eid="MRK 6:17" /><verse number="18" style="v" sid="MRK 6:18" />Jawhan naa Herod eyng hyau, “Nyang naa ny nau pihia, ny pihia nyakcee tala jo” tila y hyau hnguːt khiannyng asi.<verse eid="MRK 6:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 6:19" />Ynkhainnyng Herodias naa Jawhan lungnaw theila tuu hluː laakhy tukky lawh hnguːt jo, <verse eid="MRK 6:19" /><verse number="20" style="v" sid="MRK 6:20" />Ibawthonnyngmaa tijyngcee Herod naa Jawhan cee cim theila puːnpok tih tinyak khyang hnguat khiannyng, kyhkhiat theilaa, y zongupiat. Herod naa Jawhan khyau jyak hnguva, lungtynn pyangkuː laakhy lungjynyak kyng y ngeisoi.<verse eid="MRK 6:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 6:21" />Apyihnyakkyng Herod naa y myihhnguːp pyng, Galilee pee kuːh liantih haa laa y pee kuːh khyanglian haa eyng, muːbuh cawhpyi y caai. <verse eid="MRK 6:21" /><verse number="22" style="v" sid="MRK 6:22" />Herodias zawehngu<note caller="+" style="f"><char style="fr" closed="false">6.22 </char><char style="fq" closed="false">Herodias zawehngu; </char><char style="ft" closed="false">acya kuːtjok cawvyng </char><char style="fqa" closed="false">Herodias naa zawehngu, </char><char style="ft" closed="false">tijyng myi.</char></note> cee phawluu theilaa y lyaamluu hnguva, Herod laa y khiin haa y lungjy syak. Herod Syamphalyang naa, “Ny lyvei ikhy si seh keei jyng hyau, nyang nyng yn ky beijy,” tilaa saksi jyng y hyau. <verse eid="MRK 6:22" /><verse number="23" style="v" sid="MRK 6:23" />Atha khy, “Ny hngihei tomti, ky teengpee kuːh voakhuat ky beijy,” tila y hyau.<verse eid="MRK 6:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 6:24" />Yn hngucee hngutawzawe zet theilaa y nuu vyng hngijei, “I ky hngihei lawh eyymaa?”</para>
+  <para style="p" vid="MRK 6:24">Y nue naa “Baptisma Jawhan luugee,” tiilaa y hyau.<verse eid="MRK 6:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 6:25" />Hngutawzawe cee syamphalyang cengnga saisi voang theilaa, “Baptisma Jawhan luugee myn biaa eyng ajyanga ny bei luu vy ky luː” y tinyak.<verse eid="MRK 6:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 6:26" />Syamphalyang y lung poaijei jo, ibawthonnyngmaa tijyngcee ynih khiin haa hngoaimaw va juannei khiannyng, yn hngutawzawe hngihei khyang cah nyn jo. <verse eid="MRK 6:26" /><verse number="27" style="v" sid="MRK 6:27" />Ynkhiannyng Syamphalyang naa saisi kung Jawhan luugee lawvei haijaa zongtih khyang pahuat y tuːh. Yn khyang zet theilaa thawngimm dukka voangngei theilaa Jawhan luugee khuːnei, <verse eid="MRK 6:27" /><verse number="28" style="v" sid="MRK 6:28" />ynih luugee biaa eyng luu theila hngutawzaw eyng bei. Hngutawzaw naa cee y nuu vyng beijei. <verse eid="MRK 6:28" /><verse number="29" style="v" sid="MRK 6:29" />Yn sityang jyak hnguva, Jawhan hngulawnglyk haa luu theiawla y jawk cee zu vaa ym khuːhei.<verse eid="MRK 6:29" /></para>
+  <para style="s">Jesuh naa Khyang Thongpahngaw Y Cawh</para>
+  <para style="r">(<ref loc="MAT 14:13-21">Matthai 14.13–21</ref>; <ref loc="LUK 9:10-17">Luka 9.10–17</ref>; <ref loc="JHN 6:1-14">Jawhen 6.1–14</ref>)</para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 6:30" />Y ceepaw haa Jesuh cenga dynei luubua theila ym cawkhuːt khyang laa caihuːt khyang tomti ym saih bua. <verse eid="MRK 6:30" /><verse number="31" style="v" sid="MRK 6:31" />Ynpynnyng, ibawthonnyngmaa tijyngcee Khyang panuu luu zet khiannyng yn haa cee eijy cuːn khy taw joaw. Yn haa eyng y hyau, “keei dy luu vyt hiiv nawva duːmmei hai mawpaw,” y tiinyak. <verse eid="MRK 6:31" /><verse number="32" style="v" sid="MRK 6:32" />Ynkhainnyng yn haa lawng ngyng dyangngei theila a hiiv naw duːn naa ym zet.<verse eid="MRK 6:32" /></para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 6:33" />Ynbawlakhy khyang panuu naa yn haa zet khyang ym hnguh hnguva, Jesuh laa y hngulawnglyk haa tijyng ym hnguat khiannyng naampung tomti kuːh khyang haa luu theiawla mawva ym phawvei pyn. <verse eid="MRK 6:33" /><verse number="34" style="v" sid="MRK 6:34" /><note caller="-" style="x"><char style="xo" closed="false">6.34 </char><char style="xt" closed="false"><ref loc="MAT 9:36">Mat 9.36</ref></char></note> Jesuh lawng huan naa kuːh kawm theila, khyang puː y hnguh hnguva, ni khyang hacee paanaw hai myi tih kaw hluzawe haa bawvaa thon khainnyng maannei nyak tawivei theilaa, yn haa vyng panuu kung y cawkhyau. <verse eid="MRK 6:34" /><verse number="35" style="v" sid="MRK 6:35" />Khuumuː luu hnguva y hngulawnglyk hanaa y cenga zet theila, “ni duːn cee doaiduːk asi,” “khuu khy amuː luu hngyh. <verse eid="MRK 6:35" /><verse number="36" style="v" sid="MRK 6:36" />Yn khyang haa, naam thua zet awlaa ym eiawk khy hleijei haija hluːh,” ym tinyak.<verse eid="MRK 6:36" /></para>
+  <para style="p">
+    <verse number="37" style="v" sid="MRK 6:37" />Mawhpawe naa, “yn khyang haa ei jy nyangmi naa beijyt,” y tinyak.</para>
+  <para style="p" vid="MRK 6:37">Yn hanaa, “hyaansaw<note caller="+" style="f"><char style="fr" closed="false">6.37 </char><char style="fk" closed="false">hyaansaw: </char><char style="ft" closed="false">phyihsa cee khutlup tihaa eyng kum pyih kawva ym bei khyang kuːtcaw (tovyt Mat 20.2).</char></note> phawhngih pyttyng khyang hawh eijy hleijei theilaa kym cawh nynny ny hyau vei?” ym tinyak.<verse eid="MRK 6:37" /></para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 6:38" />Jesuh naa, “phee i hawh nym tawvei maa? zet cawla toveijyt” tila hyau.</para>
+  <para style="p" vid="MRK 6:38">Ym hnguh hnguva, yn hanaa, “phee pahngaw laa ngawethek hngih myi,” ym tinyak.<verse eid="MRK 6:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 6:39" />Ynpynnyng Jesuh naa khyang tomti abawngnga khoai theila biaa huanaa ngoa syak kiah. <verse eid="MRK 6:39" /><verse number="40" style="v" sid="MRK 6:40" />Hngucee phawhuat puː hngawekip puː abawngnga ym ngoa kiah. <verse eid="MRK 6:40" /><verse number="41" style="v" sid="MRK 6:41" />Jesuh naa phe pahngaw laa ngawawthek hngih lo pynnyng, huankhu lyaam to, Nuatpawe tyaknawe theilaa phee eeh. Ynpynyng khyang puː haeyng phyaihjat haijaa hngulawnglyk haeyng y bei. Ngawethek hngih khy khyang puː tomti jyng y phyaih. <verse eid="MRK 6:41" /><verse number="42" style="v" sid="MRK 6:42" />Khyang puː tomti naa ei awla ym hngawh kiah. <verse eid="MRK 6:42" /><verse number="43" style="v" sid="MRK 6:43" />Ynpynnyng phe laa ngawethek hngih ym ei zawn khyang hngulawnglyk hanaa ym dynbua hnguva tong kulaihngih ym lawh. <verse eid="MRK 6:43" /><verse number="44" style="v" sid="MRK 6:44" />Eitih khyang tomti hacee putawe pyt tong pahngaw ym si.<verse eid="MRK 6:44" /></para>
+  <para style="s">Jesuh Tuii Khungnga Lyamzet</para>
+  <para style="r">(<ref loc="MAT 14:22-23">Matthai 14.22–23</ref>; <ref loc="JHN 6:15-21">Jawhen 6.15–21</ref>)</para>
+  <para style="p">
+    <verse number="45" style="v" sid="MRK 6:45" />Yn pynnyng Jesuh naa hngulawnglyk haa cee lawng huanna koai shyak theilaa Bethsaida luh aa zetpiang haiawva ajyangnga y tuːh. Khyangpuː haa khy kaa shyak theilaa ym imm ma y tuːh bua. <verse eid="MRK 6:45" /><verse number="46" style="v" sid="MRK 6:46" />Khyang puː dy kaa pynnyng, Jesuh cee hngihminnei haija cung huanaa y koai. <verse eid="MRK 6:46" /><verse number="47" style="v" sid="MRK 6:47" />Khumuː luuhngyh hnguva, lawng cee li duːduːm myng amyi, Jesuh cee pythngaw kong huanaa y myihngut. <verse eid="MRK 6:47" /><verse number="48" style="v" sid="MRK 6:48" />Hngulawnglyk hacee khi ym khawm khianyng lawng hlyeu nyakyng ym jaai tawng hngyh khyang Jesuh naa hnguh. Ynkhianyng Jesuh cee thoaih lyammaa yn haa cengnga tuii khunga y zet. Yn haa y zehtyak<note caller="+" style="f"><char style="fr" closed="false">6.48 </char><char style="fq" closed="false">Yn haa y zehtyak; </char><char style="ft" closed="false">sikawvyngcee </char><char style="fqa" closed="false">y bawngei voih.</char></note> khy thawn hnguva, <verse eid="MRK 6:48" /><verse number="49" style="v" sid="MRK 6:49" />yn haa naa tuii kungnga lyamzet khyang ym hnguh hnguva, khawaw byang ti theilaa ym pang, <verse eid="MRK 6:49" /><verse number="50" style="v" sid="MRK 6:50" />ibawthonnyngmaa tijyngcee kyhseetih a yn haa naa ym hnguh.</para>
+  <para style="p" vid="MRK 6:50">Jesuh naa yn haa eyng saisikung y hau, “lunghlym nyak tawvei jyt, keei ky si, kyh kawh yt!” y tinyak. <verse eid="MRK 6:50" /><verse number="51" style="v" sid="MRK 6:51" />Yn pynnyng yn haa dy lawng dukka y voang theilaa khi ahuːpsyak. Hngulawnglyk haa naa ahlyija ym muːnnyak, <verse eid="MRK 6:51" /><verse number="52" style="v" sid="MRK 6:52" />ym lungbawng cang khianyng; yn haa naa phee thawnluu khyang jawcu joaw.<verse eid="MRK 6:52" /></para>
+  <para style="s">Gennesaret pee aa Jesuh naa Nehmawh haa Kaansyak</para>
+  <para style="r">(<ref loc="MAT 14:34-36">Matthai 14.34–36</ref>)</para>
+  <para style="p">
+    <verse number="53" style="v" sid="MRK 6:53" />Tuiiku ym kuat pynnyng Gennesaret pee phaw hnguva, ym lawng ym khuun. <verse eid="MRK 6:53" /><verse number="54" style="v" sid="MRK 6:54" />Lawng huan kuːh ym kawmla, khyang hanaa Jesuh hnguh hnguva ym hnguat hlyi. <verse eid="MRK 6:54" /><verse number="55" style="v" sid="MRK 6:55" />Yn khianyng naam ceng kika tomti jyng zetzon jok theiawlaa, Y myih nyak ym jyaknyak duːn tyngyng nehmawh haa phawhiih dypa ym suduanluu. <verse eid="MRK 6:55" /><verse number="56" style="v" sid="MRK 6:56" />Jesuh zet nyak naam haa, luh haa, lai, tukjyh tomti jaa nehmawh haa ym thyaklu. Jesuh suisyak pei hliam lawhey tawkka ym khawhei. Yn hliam lawh tih tomti khy kaangsaanyak ym lawh bua.<verse eid="MRK 6:56" /></para>
+  <chapter eid="MRK 6" />
+  <chapter number="7" style="c" sid="MRK 7" />
+  <para style="s">Alianzang haa Cawkhyaunyak</para>
+  <para style="r">(<ref loc="MAT 15:1-9">Matthai 15.1–9</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 7:1" />Pharisee laa avoang tala cawkhyauytih haa Jerusalem kuːh komluu awlaa Jesuh cengnga ym dynneiluu, <verse eid="MRK 7:1" /><verse number="2" style="v" sid="MRK 7:2" />yn hnguva hngulawnglyk tih haa potpattei kawva, acimcyang kawtih kut tyng buh ym ei khyang ym hnguh.<verse eid="MRK 7:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 7:3" />Pharisee laa Judah khyang haa tomti cee shyaakai thumcian bawva, ym kut potpattei kawva buh eiuu joaw. <verse eid="MRK 7:3" /><verse number="4" style="v" sid="MRK 7:4" />Tukjyh nyak duːn kuːh ym luu bua hnguva, kut potpattei kawva<note caller="+" style="f"><char style="fr" closed="false">7.4 </char><char style="fq" closed="false">Tukjyh nyak duːn kuːh ym luu bua hnguva, kut potpattei kawva; </char><char style="ft" closed="false">sikawvyngcee </char><char style="fqa" closed="false">tukjyh nyak kuːh ym lue pynnyng ym potpattei.</char></note> ei joaw. Pynnyngcee ycya thumcian haa panuu khy ym lyklyam, ihaamaatijyngcee kho bawt thum, am bawt thum, team bawt thum laa ipnyak gyam haa a si.<note caller="+" style="f"><char style="fr" closed="false">7.4 </char><char style="ft" closed="false">Acya kutjokcaw haa </char><char style="fqa" closed="false">ynpynnyng ipnyak thum haa; </char><char style="ft" closed="false">tinyak myi jo.</char></note><verse eid="MRK 7:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 7:5" />Yn khainnyng pharisee laa tala cawkhyautih haa naa Jesuh eyng, “Ibawthawnnyng ny hngulawnglyk haa naa lianzang tyak hnguːt thumcian lyk kawva acimcyang kaw tih kut tyng ym ei maa?,” tilaa ym hngi.<verse eid="MRK 7:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 7:6" />Jesuh naa, “Isaiah hngawpawe naa ni bawva jok hnguːt, nyangmi piangngei khyang:</para>
+  <para style="q1" vid="MRK 7:6">“ ‘Ni khyang hanaa ym mong pyttyng keei ym kyh, ynbawlakhy,</para>
+  <para style="q2" vid="MRK 7:6">ym lungbawng cee keei dy paanei.<verse eid="MRK 7:6" /></para>
+  <para style="q1">
+    <verse number="7" style="v" sid="MRK 7:7" />Ym cawkhyau khyang cee;</para>
+  <para style="q2" vid="MRK 7:7">khyang nyng kuːh asi</para>
+  <para style="q2" vid="MRK 7:7">keei khuːhbia cee aluaih.’<verse eid="MRK 7:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="MRK 7:8" />“Nuatpaw hnguishin cee dyyi zawla khyangzaw thumcian jyang nym lyklyam,” y tiinyak.<verse eid="MRK 7:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 7:9" />Pynnyng thaathyieh y hyau, “Nym pumhngaw thumcian nym lyklyam nynny tawka Nuatpaw hnguishin ym dyyi! <verse eid="MRK 7:9" /><verse number="10" style="v" sid="MRK 7:10" />Mosee tuanphawng nyng, ‘Ny nuu laa ny paw kyhkhiat byih,’ pynnyng ‘Ukhy si seh nuu laa paw jyanponaw tih cee byt lawh ey,’ tilaa a myi. <verse eid="MRK 7:10" /><verse number="11" style="v" sid="MRK 7:11" />Ynbawlakhy nyangmi naa khyang pahuat naa ym nuu sikawvyngcee paw thawnlaa khy siseh phuihlawi nyn nyakky khyang utzaw haa cee Korban asi, Korban tinyak cee Nuatpawaw kuːh a si, tilaa hyau. <verse eid="MRK 7:11" /><verse number="12" style="v" sid="MRK 7:12" />Yn pynnyng ym nuu laa paw vyng ikhy caai lawh jo tijyng nym cawkhyau. <verse eid="MRK 7:12" /><verse number="13" style="v" sid="MRK 7:13" />Ynkhainnyng nym thumcian khianyng Nuatpaw khyaukhaw nym dyieu luu lawh. Pynnyngcee yn bawva panuukung nym caai,” tiijyng y hyau.<verse eid="MRK 7:13" /></para>
+  <para style="s">Khyang Bu syak tih Ieih</para>
+  <para style="r">(<ref loc="MAT 15:10-20">Matthai 15.10–20</ref>)</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 7:14" />Pynnyng Jesuh naa khyangpuː paanei theila yn haa eyng hyau, “Tomti naa, keei hyau ngei cawla myn jawcu jovei. <verse eid="MRK 7:14" /><verse number="15" style="v" sid="MRK 7:15" />Pumthua kuːh luutih naa khyang dukka voang theila khyang buːsyak nyn tih ikhy myi jo. Ynbawlakhy khyang dukkuːh lyt luu tih naa jyang buːsyak nyn,” y tinyak. <verse eid="MRK 7:15" /><verse number="16" style="v" pubnumber="[16]" sid="MRK 7:16" /><note caller="+" style="f"><char style="fr" closed="false">7.16 </char><char style="ft" closed="false">Acya kutjokcaw haa akhyndik 16: </char><char style="fqa" closed="false">ngeisyam, pynnyng, hngaw nym tawvei jyngcee! </char><char style="ft" closed="false">ym bawng (to </char><char style="xt"><ref loc="MRK 4:23">4.23</ref></char>).</note><verse eid="MRK 7:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 7:17" />Khyang puː y zehtyak pynnyng imm dukka voang, y hngulawnglyk haa naa Jesuh eyng khyaucypnyak khyang ym hngi. <verse eid="MRK 7:17" /><verse number="18" style="v" sid="MRK 7:18" />Jesuh naa, “Nym awhei? Pumthua kuːh naa khyang duːkka voang theilaa ikhy buːsyak kawkhyang jawcu jocawvei? tilaa y hngii. <verse eid="MRK 7:18" /><verse number="19" style="v" sid="MRK 7:19" />Ibawthonnyngmaa tijyngcee, pum myng kuːh lyt theilaa hngynnu dukka voang tih cee lungbawng dukka voang jo,” y tiinyak. (Ynkhainnyng Jesuh naa eiawk tomti haa acimcaih tilaa y hyau.)<verse eid="MRK 7:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 7:20" />Yn pynnyng, “khyang dukkuːh lyt luu tih naa jyang khyang buːsyak. <verse eid="MRK 7:20" /><verse number="21" style="v" sid="MRK 7:21" />Khyang lungbawng duk kuːh naa jyang, seetih khindang, mumaaeinyak, shyak tuk nyak, <verse eid="MRK 7:21" /><verse number="22" style="v" sid="MRK 7:22" />khyang pihia byyeunyak, luːjyaunyak, saksinyak, myangsingnyak, hnguhngyamnyak, zawplapnyak, sahliphangnyak, camcahnyak, lyngsanyak, <verse eid="MRK 7:22" /><verse number="23" style="v" sid="MRK 7:23" />myn haa tomti cee khyang dukkuːh lyt luu theila khyang buːsyak tih a si,” y tiinyak.<verse eid="MRK 7:23" /></para>
+  <para style="s">Hngutawnuu Jummeinyak</para>
+  <para style="r">(<ref loc="MAT 15:21-28">Matthai 15.21–28</ref>)</para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 7:24" />Pynnyng Jesuh cee yn duːn nyng kuːh thoo theilaa Tyre luh kika lyammaa y zet. Imm pahuat dukka voang theilaa, ynnijaa y myih khyang uvyngkhy hnguat syak hluː jo; ynbawlakhy byy nyn jo. <verse eid="MRK 7:24" /><verse number="25" style="v" sid="MRK 7:25" />Muikhaw see bynnei khyamlawh tih hngutawzaw pahuat cee yn sityang jyak laa jyak luu theila ynih khuzoo va khukdya luu hlyi. <verse eid="MRK 7:25" /><verse number="26" style="v" sid="MRK 7:26" />Yn hngutaw cee Siria pee Fonisia myitih Greek khyang juː cya y si. Y zawhngu dukkuːh tusee shyt piatmawh tilaa Jesuh eyng y khawhei. <verse eid="MRK 7:26" /><verse number="27" style="v" sid="MRK 7:27" />Jesuh naa, “Acuːk nyakka dikzawe haa naa ym luː hawh ei hngyam mawseh. Dikzawe eiawk lovei theilaa uii jyng cawh thum myi jo,” Y tinyak.<verse eid="MRK 7:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 7:28" />“Mawhpaw vo asi, ynbawlakhy uii tiinyak cee dikzawe buhpyi dyang kuːh abuːtih ei thum amyi,” y tiinyak bua.<verse eid="MRK 7:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 7:29" />Yn hnguva Jesuh naa yn nyng, “Yn khyaukhaw khiannyng, imma zet; ny zawhngu dukkuːh tusee lytbua pyn,” y tinyak.<verse eid="MRK 7:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 7:30" />Hngutawe nue cee imma zetbua theilaa, y zawehngu dukkuːh tusee lytbua theilaa ipnyak gyam huannaa ngoaei khyang y hnguh.<verse eid="MRK 7:30" /></para>
+  <para style="s">Jesuh naa Hngawpyangtih laa khyauawhtih kaansyak</para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 7:31" />Pynnyng Jesuh cee Tyre luh kuːh thoo theila Sidon pee lyammaa y zet, Dekapolis pee kikaa dukka voang theila, Galilee pee tuiili jaa y phawluu. <verse eid="MRK 7:31" /><verse number="32" style="v" sid="MRK 7:32" />Yn duːn naa hngawpyang tih laa khyauawh tih khyang pahuat ycya khyang haa naa Jesuh cenga ym luu, yn khyang huannaa kut tyang piatty ym khawhei. <verse eid="MRK 7:32" /><verse number="33" style="v" sid="MRK 7:33" />Khyangpuː dukkuːh, Jesuh naa yn khyang loo theila y hngawku vyng y kutjung y thuan. Ynpynnyng y shyatui loo theila yn khyang lei jyng y beh. <verse eid="MRK 7:33" /><verse number="34" style="v" sid="MRK 7:34" />Ynpynnyng huankhu lyaam to theila, khyau puːpuː hyau, <char style="tl">“Ephphatha!”</char> yn cee, “lyang seh!” y ti hyau.<verse eid="MRK 7:34" /></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 7:35" />Yn khyang cee y hngaw lyang bua theila, y lei khy hyangbua, ynpynnyng poaijaa y khyau nyn hlyi. <verse eid="MRK 7:35" /><verse number="36" style="v" sid="MRK 7:36" />Jesuh naa ni u vyngkhy saih kaw haiawva hnguishin. Ynbawlakhy yn sityang ym saith jawk giah. <verse eid="MRK 7:36" /><verse number="37" style="v" sid="MRK 7:37" />Jawetih khyang haa naa ym muːnnyak, “Yn Mawhpawe caai hnguːt tomti ym muːnnyak, hngawpyangtih jyak syak nyn bua theila awhtih haa khy khyau nyn syak,” ym tii.<verse eid="MRK 7:37" /></para>
+  <chapter eid="MRK 7" />
+  <chapter number="8" style="c" sid="MRK 8" />
+  <para style="s">Jesuh Naa Khyang Thawng Pahli Y Cawh</para>
+  <para style="r">(<ref loc="MAT 15:32-39">Matthai 15.32–39</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 8:1" />Yn hnguːp pyng khyangpuː acya haa ym dynnei. Ynhnguva ym ei jy ikhy myi jo. Jesuh naa y hngulawnglyk haa pannei theilaa, <verse eid="MRK 8:1" /><verse number="2" style="v" sid="MRK 8:2" />“Myn khyang puː haa ky maannei; keei dy hnguːp thum ym myi hngyh, ynpynnyng ym ei jy ikhy myi jo. <verse eid="MRK 8:2" /><verse number="3" style="v" sid="MRK 8:3" />Ycya khyang haa cee paannaw kuːh ym luu, eiawk cawh kawva ym imm maa tuːh bua vyngcee, lyammaa ym thaabyih jy,” y tinyak.<verse eid="MRK 8:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 8:4" />Y hngulawnglyk haa naa, “Unaa myn khongkhuca dukka ni hawh ei jy hanijaa kuːh lawh nynny maa?” ym tiinyak.<verse eid="MRK 8:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 8:5" />Jesuh naa, “Phee Ihawh nym tyakei maa?” tilaa Y hngi.</para>
+  <para style="p" vid="MRK 8:5">“Phe Syyh” myi ym tiinyak.<verse eid="MRK 8:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 8:6" />Jesuh naa khyangpuː tomti dek kungnga ngoah syak giah. Phee syyh loo theila khunkyi y bei. Yn haa eak theilaa khyang haa eyng phyai haijaa y hngulawnglyktih haa eyng bei, yn haa naa ynbaw tyngnga ym caai. <verse eid="MRK 8:6" /><verse number="7" style="v" sid="MRK 8:7" />Ngawe aniauzawe khy ym tyakkei, yn tawk khy khunkhyi bei theilaa phyai haijaa y hngulawnglyktih haeyng y hyau. <verse eid="MRK 8:7" /><verse number="8" style="v" sid="MRK 8:8" />Khyang haa naa ei theilaa ym hngawh. Ynpynnyng hngulawnglyktih haa naa abuukaw tih haa cungdyn bua hnguva phaadyn syyh ym lawh. <verse eid="MRK 8:8" /><verse number="9" style="v" sid="MRK 8:9" />Ei tih tomti thawng pahli byang ym myi. Ynhaa y tuːh bua pynnyng, <verse eid="MRK 8:9" /><verse number="10" style="v" sid="MRK 8:10" />Jesuh cee y hngulawnglyk haa dy lawng dukka dyangngei theilaa, Dalmanutha pee lyammaa ym zet.<verse eid="MRK 8:10" /></para>
+  <para style="s">Pharisee haa naa Muːnnyak Khyang Ym Hngi</para>
+  <para style="r">(<ref loc="MAT 16:1-4">Matthai 16.1–4</ref>)</para>
+  <para style="p">
+    <verse number="11" style="v" sid="MRK 8:11" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">8.11 </char>
+      <char style="xt" closed="false">
+        <ref loc="MAT 12:38">Mat 12.38</ref>; <ref loc="LUK 11:16">Luk 11.16</ref></char>
+    </note>Pharisee haa luu awlaa Jesuh eyng ym hngii. Ym hlumhlik khy tawkka, huankhu kuːh thawntih muːnnyak khyang ym hngihei. <verse eid="MRK 8:11" /><verse number="12" style="v" sid="MRK 8:12" /><note caller="-" style="x"><char style="xo" closed="false">8.12 </char><char style="xt" closed="false"><ref loc="MAT 12:39">Mat 12.39</ref>; <ref loc="LUK 11:29">Luk 11.29</ref></char></note>Y hiasee theilaa, “Ibawthawnyng myn haa muːnnyak khyang juːjawng haa naa ym hngihei maa? Nyangmi jyng ahngoan naa ky hyau vy, myn haa eyng muːnnyak khyang duan jonga,” y tiinyak.<verse eid="MRK 8:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 8:13" />Yn pynnyng yn haa y gataw theila, lawng ngyng koi theilaa acya lyam maa y zehtyak.<verse eid="MRK 8:13" /></para>
+  <para style="s">Pharisee Laa Herod Heen</para>
+  <para style="r">(<ref loc="MAT 16:5-12">Matthai 16.5–12</ref>)</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 8:14" />Hngulawnglyk haa naa phee ym luu ey ym ngiah hnguːt, lawng huannaa phee lunghuat pyt jyang ym tawvei. <verse eid="MRK 8:14" /><verse number="15" style="v" sid="MRK 8:15" /><note caller="-" style="x"><char style="xo" closed="false">8.15 </char><char style="xt" closed="false"><ref loc="LUK 12:1">Luk 12.1</ref></char></note> Jesuh naa, “Pharisee heen si seh Herod heen siseh sathih taw byihjyt,” y tiinyak.<verse eid="MRK 8:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 8:16" />Hngulawnglyk haa naa, “Phee my tyakkei kawvyng tilaa ym byeucavei,” ym tiinyak.<verse eid="MRK 8:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 8:17" />Jesuh naa yn haa byeucavei khyang y hnguat, “Ithawnyng phee nym tyakkei kawkhyang nym hyau maa? Tuhcyppyng khy hngu jocaw sikawvyngcee jawecu jocawvei? Ni hawh khy nym lungbawng cangngei? <verse eid="MRK 8:17" /><verse number="18" style="v" sid="MRK 8:18" />Nym mik cee myi ynbawlakhy hngu jo cawvei? nym hngaw cee myi ynbawlakhy jawe jocaw vei? Pynnyngcee khindang jocaw vei? y tinyak. <verse eid="MRK 8:18" /><verse number="19" style="v" sid="MRK 8:19" />Khyang thawng pahngaw tawk phee pahngaw eyng ky cawh hnguva, acawn tih tong ihawh nym dyn lawh maa?” tilaa y hngi.</para>
+  <para style="p" vid="MRK 8:19">“Tong kulaihngih,” ym tiinyak.<verse eid="MRK 8:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 8:20" />“Ynpynnyng khyang thawng pahli tawk phee syh ky phyaih hnguva, acawn tih ihawh nym lawh maa?” tilaa y hngii.</para>
+  <para style="p" vid="MRK 8:20">“Tong Syyh,” ym tiinyak.<verse eid="MRK 8:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 8:21" />Yn haeyng, “Tuhcyppyng khy jawcu jocawvei” y tinyak.<verse eid="MRK 8:21" /></para>
+  <para style="s">Jesuh naa Bethsaida aa Mikhungtih Khyang Pahuat Kaansyak</para>
+  <para style="p">
+    <verse number="22" style="v" sid="MRK 8:22" />Bethsaida luh aa ym phaw luebua hnguva, khyang haa naa mikhung tih pahuat luu awlaa, Jesuh eyng thyaam piatty ym khawhei. <verse eid="MRK 8:22" /><verse number="23" style="v" sid="MRK 8:23" />Jesuh naa mikhungtih putaw pahuat y kut tyng lawt theilaa naam thua lyammaa y zehpuinyak. Y mik kyng cyatuii suh naw theila yn khyang huannaa y kut tyang pynnyng, “Juːhuat huat ny hnguhei?” tilaa Y hngii.<verse eid="MRK 8:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 8:24" />Yn naa to theilaa y hyau, “Khyang ky hnguh; ynbawlakhy thiing haa bawva jyang ym zetjawk,” y tinyak.<verse eid="MRK 8:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 8:25" />Pynnyng Jesuh naa athaa mokhuat yn khyang mik huannaa y kut y tyang bua tuːh; y mik deilu hnguva, lytnyak lawh theila, tomti valaitiha y hnguh bua. <verse eid="MRK 8:25" /><verse number="26" style="v" sid="MRK 8:26" />Jesuh naa “Imm maa tuːh bua theilaa, Naam dukka voang kawh byih,” y tinyak.<verse eid="MRK 8:26" /></para>
+  <para style="s">Peter Naa Jesuh Cee Messiah Y Sii Y tii</para>
+  <para style="r">(<ref loc="MAT 16:13-20">Matthai 16.13–20</ref>; <ref loc="LUK 9:18-21">Luka 9.18–21</ref>)</para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 8:27" />Jesuh laa y hngulawnglyk haa kesarias Philip kaa naam haa lyammaa ym zet. Yn haa eyng ym zeh hyakkyng y hngi, “Keei u tijyng khyang haa naa ym hyau maa?” y tinyak.<verse eid="MRK 8:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 8:28" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">8.28 </char>
+      <char style="xt" closed="false">
+        <ref loc="MRK 6:14">Mar 6.14</ref>,<ref loc="MRK 6:15">15</ref>; <ref loc="LUK 9:7">Luk 9.7</ref>,<ref loc="LUK 9:8">8</ref> </char>
+    </note>“Acya haa naa cee Baptisma Jawhan ym ti; acya naa Elijah; acya naacee hngawpawe pahuat huat asi ym ti,” tilaa ym tinyak.<verse eid="MRK 8:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 8:29" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">8.29 </char>
+      <char style="xt" closed="false">
+        <ref loc="JHN 6:68">Jaw 6.68</ref>,<ref loc="JHN 6:69">69</ref></char>
+    </note>“Nyangmi naa cee?” “keei u tijyng nym uːtnyak maa?” tilaa y hngii.</para>
+  <para style="p" vid="MRK 8:29">Pitar naa, “Nyang cee Messiah ny si,” tilaa y hyaubua.<verse eid="MRK 8:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 8:30" />Jesuh naa u vyng khy ynih bawng saihjok kaw haija yn haa eyng sathih y bei.<verse eid="MRK 8:30" /></para>
+  <para style="s">Jesuh Naa Ynih Bytty Khyang Saithjei</para>
+  <para style="r">(<ref loc="MAT 16:21-28">Matthai 16.21–28</ref>; <ref loc="LUK 9:22-27">Luka 9.22–27</ref>)</para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 8:31" />Ynpynnyng Jesuh naa “Khyang Zawpaw cee cyhei panuukung khyam theilaa lianzang haa, jahenpaw lian haa, tala cawkhyautih haa dyeutit y khyam lawhey, pynnyngcee tuk khy khyam lawh ey, hnguːp thum hnguːppyng thoo bua vy,” tilaa hngulawnglyktih haa eyng y saih. <verse eid="MRK 8:31" /><verse number="32" style="v" sid="MRK 8:32" />Ynbawva saih giah hnguva, Pitar naa y cengnga zehpuinaw theila, pettyang khyau y hyau. <verse eid="MRK 8:32" /><verse number="33" style="v" sid="MRK 8:33" />Jesuh naa tianei theilaa hngulawnglyk haa to, Pitar eyng; “khawgong ngo, Keei hngulyam maa zet!” tilaa y cawkhyau. “Ny lung dukka Nuatpaw kuːh myi jo, khyang ngyng kuːh haa jyang myi,” Y tinyak.<verse eid="MRK 8:33" /></para>
+  <para style="p">
+    <verse number="34" style="v" sid="MRK 8:34" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">8.34 </char>
+      <char style="xt" closed="false">
+        <ref loc="MAT 10:38">Mat 10.38</ref>; <ref loc="LUK 14:27">Luk 14.27</ref> </char>
+    </note>Ynpynyng y hngulawnglyk laa khyang puː haa pannei theila, yn haa eyng y hyau, “Ukhy si seh keei lawng lykky hluː tih cee, y pumhngawe y dyeuvei lawh theilaa, y taangtyng hngaw paa theila keei lawnglyk lawh ey, y tiinyak. <verse eid="MRK 8:34" /><verse number="35" style="v" sid="MRK 8:35" /><note caller="-" style="x"><char style="xo" closed="false">8.35 </char><char style="xt" closed="false"><ref loc="MAT 10:39">Mat 10.39</ref>; <ref loc="LUK 17:33">Luk 17.33</ref>; <ref loc="JHN 12:25">Jaw 12.25</ref> </char></note>U khy si seh pumhngaw shyak lilovei jy luː tihcee, y syak khuːh lawh eyy, ynpynnyngcee keei tawkka khy siseh sityang poai tawkka khy si seh y syak khuːk tih cee lilovei nyak y lawh ey. <verse eid="MRK 8:35" /><verse number="36" style="v" sid="MRK 8:36" />Khyang naa somdek kyng kuːh akhyngtih lawhei laa khy, y muikhaw y khuːh eyng cee, tyaknyak ky ii myi jyy maa? <verse eid="MRK 8:36" /><verse number="37" style="v" sid="MRK 8:37" />Sikawvyngcee muikhaw khuːh kyngcee i jyng hleih nynny maa? <verse eid="MRK 8:37" /><verse number="38" style="v" sid="MRK 8:38" />U naa khy si seh myn setzaw myi tih kawlaa juːjawng pet myi tih haa naa keei laa keei khyaukhaw hawhei nyak kyngcee, Khyang zawpaw naa ynih Paw cim tih ceepaw haa dy phunggan nyng komluu hnguva, yn haa hawhei nyak khy,” y tiinyak.<verse eid="MRK 8:38" /></para>
+  <chapter eid="MRK 8" />
+  <chapter number="9" style="c" sid="MRK 9" />
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 9:1" />Ynpynnyng yn haa eyng, “Ahngoan naa nyangmi jyng ky hyau vy, phungan nyng Nuatpaw teengpee kum tinyak khyang ni duːn nyng myi tih ycya haa naa hnguh hlawn naa byt lawh joaw,” y tiinyak.<verse eid="MRK 9:1" /></para>
+  <para style="s">Jesuh Phunggan Nyng Hlaijeinyak</para>
+  <para style="r">(<ref loc="MAT 17:1-13">Matthai 17.1–13</ref>; <ref loc="LUK 9:28-36">Luka 9.28–36</ref>)</para>
+  <para style="p">
+    <verse number="2" style="v" sid="MRK 9:2" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">9.2–7 </char>
+      <char style="xt" closed="false">
+        <ref loc="2PE 1:17">2 Pet 1.17</ref>,<ref loc="2PE 1:18">18</ref></char>
+    </note>Khuhnguːp hnguːp shawk pynnyng, Jesuh naa Pitar, James laa Jawhan pannei theila, cung hluːng huannaa yn haa zehpuinyak, yn nijaa ym pythngaw ym myijei. Ynijaa ym hngaoimaw va phunggan nyng y duannei. <verse eid="MRK 9:2" /><verse number="3" style="v" sid="MRK 9:3" />Ynih suisyak cee, somdek huanna kuːh sawp nyn kaw khyang u suisyak haa dy huattei kawva khusiat hawh a pok. <verse eid="MRK 9:3" /><verse number="4" style="v" sid="MRK 9:4" />Pynnyng ynhaa hngaoimaw va Mosee laa Elijah khy dyangngei luu, Jesuh dy ym khyauvei. <verse eid="MRK 9:4" /><verse number="5" style="v" sid="MRK 9:5" />Pitar naa Jesuh eyng, “Rabbi vo, mynija mymi myih nyakky khyng. Mynija taai pathum ssawpaw, pahuat cee nyang tawk, pahuat cee Mosee tawk, athaa pahuat cee Elijah tawk,” y tinyak. <verse eid="MRK 9:5" /><verse number="6" style="v" sid="MRK 9:6" />Ynhnguva y hngulawnglyk haa naa kyh theiawlaa, Peter naa yn bawva y hyau.<verse eid="MRK 9:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="MRK 9:7" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">9.7 </char>
+      <char style="xt" closed="false">
+        <ref loc="MAT 3:17">Mat 3.17</ref>; <ref loc="MRK 1:11">Mar 1.11</ref>; <ref loc="LUK 3:22">Luk 3.22</ref> </char>
+    </note>Ynhnguva khusiat naa yn haa kuːn theila, khusait dukkuːh thaii pahuat ym jyak. “Yn khyau ngei byihjyt, myn cee keei khiat khyang ky zawe asi,” tilaa thaai pang luu. <verse eid="MRK 9:7" /><verse number="8" style="v" sid="MRK 9:8" />Ym kikaa saisih ym to hnguva, ym pumhngaw dy Jesuh thua ukhy hngu joaw.<verse eid="MRK 9:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 9:9" />Cunghuan kuːh ym khawm luu hnguva, Jesuh naa, “Khyang zawpawe bytnyak kuːh thoo bua hlawncyp nym hnguh khyang tomti u vyngkhy saih kawh byih jyt,” y tinyak.<verse eid="MRK 9:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="MRK 9:10" />Yn haa naa y khyaukhaw ngei thei awla, “byt nyak kuːh thoo bua” tinyak cee i tihyau hluː maa? tilaa pahuat laa pahuat ym hngijei thong. <verse eid="MRK 9:10" /><verse number="11" style="v" sid="MRK 9:11" />Ynpynnyng ynih eyng, “Ibawthawnyng Elijah jyang acuːkka luu vy tiawla tala cawkhyautih haa naa ym hyau maa?” ym hngi.<verse eid="MRK 9:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 9:12" />Jesuh naa, “Tomti piangsaa haijaa Elijah y jyangnga komluu mawasi. Khyang Zawpaw khy sanglai cyhei khyamlawh theilaa, dyeutit khyang khy kyamlawh eyy tilaa ibawthawnnyng jok hnguːt maa? <verse eid="MRK 9:12" /><verse number="13" style="v" sid="MRK 9:13" />Ynbawlakhy Nyangmi jyng ky hyau vy, Elijah cee y komluu pyn, khyang haa naa khy tala eyng jok hnguːt tih bawva ynih eyng ym lunghnguːh bawva ym caipyn,” y tinyak.<verse eid="MRK 9:13" /></para>
+  <para style="s">Jesuh naa Tusee Byynnei khyang Putawzaw Y Kaansyak</para>
+  <para style="r">(<ref loc="MAT 17:14-21">Matthai 17.14–21</ref>; <ref loc="LUK 9:37-43">Luka 9.37–43</ref>)</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 9:14" />Ycya hngulawnglyk haa ym luu bua hnguva, yn haa pingpyang nga khyangpuː panuu laa tala cawkhyau tih haa dy ym zaahei thong khyang ym hnguh. <verse eid="MRK 9:14" /><verse number="15" style="v" sid="MRK 9:15" />Khyang haa naa Jesuh ym hnguh laa hnguh, ym muːnnak, y cenga zawn awla ym sawt biattei voih. <verse eid="MRK 9:15" /><verse number="16" style="v" sid="MRK 9:16" />“Ynhaa dy ihaa nym zaahei tong maa?” tilaa y hngi.<verse eid="MRK 9:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 9:17" />Khyang puː dukkuːh pahuat naa y syakkei, “Cawkhyautih vo nyang cenga ky zawpawe ky luu, yn ky zawepawe vyng muikhaw see naa pynnei khiannyng khyau nyn jo. <verse eid="MRK 9:17" /><verse number="18" style="v" sid="MRK 9:18" />Tusee naa y puhei hnguva, dek kyng y hngyng kyng. Y mong nyng cyatuivon haa lyt, y hawe haa khyat theila puum tomti zunggak luu. Yn tusee sytpiat haijaa ny hngulawnglyk haa eyng ky hyau, ynbawlakhy syt nyn joaw,” y tiinyak.<verse eid="MRK 9:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 9:19" />Jesuh naa, “Jummei thaa niau tih khyang juː haa voo! Nyangmi dy iveih ky myi lawh hyaammy maa? Nyangmi jyng icyp duː ky khyam lawh hyammy maa? Dikzawe keei cenga luvyt,” tilaa y hyaubua. <verse eid="MRK 9:19" /><verse number="20" style="v" sid="MRK 9:20" />Ynhnguva dikzaw y cenga ym luu.</para>
+  <para style="p" vid="MRK 9:20">Tusee naa Jesuh y hnguh hnguva dikzawe zunggak syak hlyi. Dek kyng hngyng kyng theilaa y mong duk khuːh cyatuivon lyt theila, y pumhngaw hlyieu vei jok. <verse eid="MRK 9:20" /><verse number="21" style="v" sid="MRK 9:21" />Jesuh naa, “Nibawva y thawn khyang iveih diev hngyh maa?” tilaa dikzaw pawaw vyng y hngi?</para>
+  <para style="p" vid="MRK 9:21">“Dikzaw hngu kuːhthuh y thawn,” y tinyak. <verse eid="MRK 9:21" /><verse number="22" style="v" sid="MRK 9:22" />“Y pumhngaw byt haijaa meei laa tuii jyng khy cuupam shoi. Ynkhainnyng keeimi maannei theilaa ny caai nyn, nyangcee lilovei piat mawh,” tilaa y kawhei.<verse eid="MRK 9:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 9:23" />Jesuh naa syakeibua, “Ny tuat nyn nyangcee? Jum nyak pahuat tawveitih tawkka cee itomti athawn nyn,” y tiinyak.<verse eid="MRK 9:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 9:24" />Dikzaw pawaw cee saisikung y gap, “ky jummei. Keei jum nyn kaw khyang maanei piatmawh!” tilaa y khawhei.<verse eid="MRK 9:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="MRK 9:25" />Jesuh naa khyangpuː lawijeiluu khyang hnguh hnguva, khyau vyng muikhaw see y cawkhyau. Hngawpyang theilaa awhtih muikhaw see vo, “Keei naa nyang ky syt, yn dikzawe duk kuːh lyt, athaa ihngukhy voang tih kawhbyih,” y tinyak.<verse eid="MRK 9:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 9:26" />Tusee thaaeyng paang, dikzawe hievsyak theila lyt. Putawzawe cee jawk bawva myi khiannyng, “khyang tomti naa y bytpyn,” tilaa ym hyau. <verse eid="MRK 9:26" /><verse number="27" style="v" sid="MRK 9:27" />Ynbawlakhy Jesuh naa y kut tyng pyyn theilaa tung syak hnguva, yn cee tung bua nyn.<verse eid="MRK 9:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 9:28" />Jesuh imm dukka voang pynnyng, ynih hngulawnglyk haa naa ajupzawva, “Ibawthannyng keeimi naa syt nyn jo maa?” tilaa ym hngii.<verse eid="MRK 9:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 9:29" />Jesuh naa, “Nibyang cee hngihminnei khiannyng jyang syt nyn,” y tiinyak.<verse eid="MRK 9:29" /></para>
+  <para style="s">Jesuh naa Hngih Nyak Bytty khyang y Saihjai</para>
+  <para style="r">(<ref loc="MAT 17:22-23">Matthai 17.22–23</ref>; <ref loc="LUK 9:43b-45">Luka 9.43b–45</ref>)</para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 9:30" />Jesuh laa hngulawnglyk haa yn duːn nyng kuːh Galilee pee lyamtyng ym zetbua. Jesuh naa hanijaa ym myih tinyak khyang u vyngkhy hnguatsyak hluː jo, <verse eid="MRK 9:30" /><verse number="31" style="v" sid="MRK 9:31" />ibawthonnyngmaa tijyngcee hngulawnglyk haa y cawksyang. Yn haa eyng y hyau, “Khyang Zawpawe cee khyang haa kut tyng up y khyam lawh ey. Ynih ym tukky, ynpynnyng hnguːp thum hnguːp pyng y thoo bua vy” tilaa y hyau.<verse eid="MRK 9:31" /></para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 9:32" />Ynbawlakhy i y hyau hluːmaa tiinyak khyang khyau jawecu joaw, hngii jy khy ym kyh.<verse eid="MRK 9:32" /></para>
+  <para style="s">Ubyang Y Lianduː Maa?</para>
+  <para style="r">(<ref loc="MAT 18:1-5">Matthai 18.1–5</ref>; <ref loc="LUK 9:46-48">Luka 9.46–48</ref>)</para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 9:33" />Kapanau luh lyam maa ym luu bua. Imm dukka y myih hnguva, Jesuh naa yn haa eyng y hngi, “lyaam myng luu hnguva ihaa nym coat maa?” tilaa y hngii.<verse eid="MRK 9:33" /></para>
+  <para style="p">
+    <verse number="34" style="v" sid="MRK 9:34" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">9.34 </char>
+      <char style="xt" closed="false">
+        <ref loc="LUK 22:24">Luk 22.24</ref> </char>
+    </note>Ynhnguva ikhy tikawva ym duːmei, ithawnyngmaa tijyngcee lyaam zehhyakyng ubyang lian duː maa tiinyak khyang ym coat. <verse eid="MRK 9:34" /><verse number="35" style="v" sid="MRK 9:35" /><note caller="-" style="x"><char style="xo" closed="false">9.35 </char><char style="xt" closed="false"><ref loc="MAT 20:26">Mat 20.26</ref>,<ref loc="MAT 20:27">27</ref>; <ref loc="MAT 23:11">23.11</ref>; <ref loc="MRK 10:43">Mar 10.43</ref>,<ref loc="MRK 10:44">44</ref>; <ref loc="LUK 22:26">Luk 22.26</ref> </char></note>Ynhnguva Jesuh cee ngoa theila, hngulawnglyk kulaihngih pannei, “U khy si seh ajyangnga thawn hluː tihcee hnguduːtih aa thawnny asi, pynnyngcee tomti puhcaitih aa khy thawn lawh ey,” tilaa y hyau. <verse eid="MRK 9:35" /><verse number="36" style="v" sid="MRK 9:36" />Dikzaw pahuat lovei theila khyang haa duːduːm myng y tyak. Yn dikzaw y kut tyng pum theila, yn haa eyng y hyau, <verse eid="MRK 9:36" /><verse number="37" style="v" sid="MRK 9:37" /><note caller="-" style="x"><char style="xo" closed="false">9.37 </char><char style="xt" closed="false"><ref loc="MAT 10:40">Mat 10.40</ref>; <ref loc="LUK 10:16">Luk 10.16</ref>; <ref loc="JHN 13:20">Jaw 13.20</ref></char></note> “Khyang pahuat naa keei ming shuuvei theila ni byang dikzawe pahuat dyynnei tihcee keei y dyynnei asi. Keei dyynnei tihkhy cee keei pyt y dynnei sijo, keei tuːhluu tih ky pawaw khy dynnei asi” tijyng y hyau.<verse eid="MRK 9:37" /></para>
+  <para style="s">Mymi Jyng Shuunnei Tihkawe cee Mymi Bawng asi</para>
+  <para style="r">(<ref loc="LUK 9:49-50">Luka 9.49–50</ref>)</para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 9:38" />Jawhan naa, “Cawkhyautih vo, khyang pahuat naa nyang ming summei theila tusee haa y syt khyang kym hnguh hnguːt, yn cee mymmi bawng asi kaw khiannyng ynih kym kat,” ym tiinyak.<verse eid="MRK 9:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 9:39" />Jesuh naa, “Yn kat kawh yt, keei ming ngyng muːnnawseetih phungan duan theila keei seeja hyau tih ikhy myi jo. <verse eid="MRK 9:39" /><verse number="40" style="v" sid="MRK 9:40" /><note caller="-" style="x"><char style="xo" closed="false">9.40 </char><char style="xt" closed="false"><ref loc="MAT 12:30">Mat 12.30</ref>; <ref loc="LUK 11:23">Luk 11.23</ref></char></note>Mymi jyng suunnei tih kaw yn cee mymmi bawngpui asi. <verse eid="MRK 9:40" /><verse number="41" style="v" sid="MRK 9:41" /><note caller="-" style="x"><char style="xo" closed="false">9.41 </char><char style="xt" closed="false"><ref loc="MAT 10:42">Mat 10.42</ref></char></note>Ahngoan naa nyangmi jyng ky hyau vy, nyangmi cee Khrit khyang nym si khiannyng ukhy siseh keei ming ngyng tuii maahuat bok tih cee khunkyi lawh kawva myi lawh jo.<verse eid="MRK 9:41" /></para>
+  <para style="s">Apet hlumhliknyak</para>
+  <para style="r">(<ref loc="MAT 18:6-9">Matthai 18.6–9</ref>; <ref loc="LUK 17:1-2">Luka 17.1–2</ref>)</para>
+  <para style="p">
+    <verse number="42" style="v" sid="MRK 9:42" />“Keei jummei tih dikzawe pahuat petnawe tih cee, ym hngyaa eyng aliantih kitsung khuh theila panglai dukka khyak khyang khyng. <verse eid="MRK 9:42" /><verse number="43" style="v" sid="MRK 9:43" />Ny kut naa pet caai jyngcee yn ny kut khuːn byih. Kut pahngih aa ngalai dukka ny khyak thyak kyngcee, ny kut pahuat myi tih aa syak hiyang khyang cee khyng, ynnijaa ihngukhy mei mitjo. <verse eid="MRK 9:43" /><verse number="44" style="v" pubnumber="[44]" sid="MRK 9:44" /><note caller="+" style="f"><char style="fr" closed="false">9.44 </char><char style="ft" closed="false">acya kutjokcaw haa ym baweng akyndik 44: </char><char style="fqa" closed="false">pynnyng “yn haa ei tih zongcaa ihnguky byt jo, ynnijaa ihngukhy mei mitjo,” </char><char style="ft" closed="false">(to akyn dik 48).</char></note> <verse eid="MRK 9:44" /><verse number="45" style="v" sid="MRK 9:45" />Ynpynnyng ny khuu naa apet cai jyngcee, yn khuːn byih. Khuu pahngih aa ngalai khyak thyak kyngcee khuu pahuat myi tih aa syak hiyang khyang cee khyng. <verse eid="MRK 9:45" /><verse number="46" style="v" pubnumber="[46]" sid="MRK 9:46" /><note caller="+" style="f"><char style="fr" closed="false">9.46 </char><char style="ft" closed="false">acya kutjokcaw haa ym baweng akyndik 46: </char><char style="fqa" closed="false">Yn nyng “yn haa ei tih kyat ihnguky bytjo, pynnyng daw tih mei ihnguky mitjo,” </char><char style="ft" closed="false">(to akyndik 48).</char></note> <verse eid="MRK 9:46" /><verse number="47" style="v" sid="MRK 9:47" /><note caller="-" style="x"><char style="xo" closed="false">9.47 </char><char style="xt" closed="false"><ref loc="MAT 5:29">Mat 5.29</ref></char></note>Ny mik naa apet cai jyngcee ny mik hngyihpya byih. Mik pahngih mawh aa ngalai jaa kyak thyak kyngcee mik lunghuat pyttyng Nuatpaw teengpee ny phaw khyang cee y khyng. <verse eid="MRK 9:47" /><verse number="48" style="v" sid="MRK 9:48" />‘Yn duːn naa yn haa ei tih kyat haa cee byt nyn joaw, pynnyngcee meei khy mit nyn jo.’<verse eid="MRK 9:48" /></para>
+  <para style="p">
+    <verse number="49" style="v" sid="MRK 9:49" />“Henbawn nyak meh eyng mazii jyng cimsyak bawva khyang tomti meeii jyng cimnyak khyam lawh ey.<verse eid="MRK 9:49" /></para>
+  <para style="p">
+    <verse number="50" style="v" sid="MRK 9:50" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">9.50 </char>
+      <char style="xt" closed="false">
+        <ref loc="MAT 5:13">Mat 5.13</ref>; <ref loc="LUK 14:34">Luk 14.34</ref>,<ref loc="LUK 14:35">35</ref></char>
+    </note>“Mazii cee a khyng, ynbawlakhy angaa tih akhuːk kyngcee, ibawva ny angaa syak bua theijy maa?</para>
+  <para style="p" vid="MRK 9:50">“Mazii bawva pahuat laa pahuat lungngoannei nyak tawvei byih jyt,” y tiinyak.<verse eid="MRK 9:50" /></para>
+  <chapter eid="MRK 9" />
+  <chapter number="10" style="c" sid="MRK 10" />
+  <para style="s">Putawe laa Pihiya Kaanyak</para>
+  <para style="r">(<ref loc="MAT 19:1-12">Matthai 19.1–12</ref>; <ref loc="LUK 16:18">Luka 16.18</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 10:1" />Jesuh yn duːn nyng kuːh zetbua theila Judah pee lyam maa zet ynpynnyng Jordan tuili lyammaa y kuat. Khyang puː haakhy y cenga dyynnei luu buatuːh awla, acaisawi bawva, yn haeyng y cawksyang.<verse eid="MRK 10:1" /></para>
+  <para style="p">
+    <verse number="2" style="v" sid="MRK 10:2" />Ycya Pharisee haa tituatty tawkka y cenga ym luu, “Putawe cee y pihia dy ga khyang tala eyng cyppeijei?” tilaa ym hngi.<verse eid="MRK 10:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 10:3" />Jesuh naa, “Mosee naa ibawva hnguishin hnguːt maa?” tilaa y hngi.<verse eid="MRK 10:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 10:4" />Yn haa naa, “Mosee naa kaa nyak caw bei theila y pihiya dy kaa nyn,” ym tinyak.<verse eid="MRK 10:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 10:5" />Jesuh naa yn haeyng hyau, “Nym lungbawng acangpak khianyng Mosee naa yn tala y jok hnguːt, y tinyak. <verse eid="MRK 10:5" /><verse number="6" style="v" sid="MRK 10:6" />Ynbawlakhy acuːkka, ‘Nuatpawe naa hngutawe laa putawe,’ y com. <verse eid="MRK 10:6" /><verse number="7" style="v" sid="MRK 10:7" />‘Ynkhainnyng putawe cee y nue laa pawe dyieu theila y pihia dy huattyng myi,<note caller="+" style="f"><char style="fr" closed="false">10.7 </char><char style="ft" closed="false">Acya kutjokcaw haeyng myi jo </char><char style="fq" closed="false">y pihia dy huattyng myi.</char></note> <verse eid="MRK 10:7" /><verse number="8" style="v" sid="MRK 10:8" />ynpynnyng yn pahngih cee pumju pahuat taa y hngih thon luu vy.’ Ynkhainnyng yn hyih cee pahngih siti jo, pumju pahuat taa y hngih thonluu. <verse eid="MRK 10:8" /><verse number="9" style="v" sid="MRK 10:9" />Ynkhainnyng Nuatpaw khypbeh pyn khyang cee, unaa khy khaau lawh jo,” y tinyak.<verse eid="MRK 10:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="MRK 10:10" />Imm dukka ym voang bua hnguva, hngulawnglyk hanaa Jesuh eyng yn ym hngi. <verse eid="MRK 10:10" /><verse number="11" style="v" sid="MRK 10:11" /><note caller="-" style="x"><char style="xo" closed="false">10.11,12 </char><char style="xt" closed="false"><ref loc="MAT 5:32">Mat 5.32</ref>; <ref loc="1CO 7:10">1 Kor 7.10</ref>,<ref loc="1CO 7:11">11</ref></char></note>Jesuh naa, “Ukhy siseh pihia dy kaa theila acya hngutawe eyng lawhei tihcee y pihia dy byeu nyak puh tih asi. <verse eid="MRK 10:11" /><verse number="12" style="v" sid="MRK 10:12" />Ynpynnyngcee hngutawe khy y putawe dy kaa theila acya putawe dy lawhei jyngcee byeutih y asi,” y tinyak.<verse eid="MRK 10:12" /></para>
+  <para style="s">Jesuh naa Dikzawe haa Khunkyi Beinyak</para>
+  <para style="r">(<ref loc="MAT 19:13-15">Matthai 19.13–15</ref>; <ref loc="LUK 18:15-17">Luka 18.15–17</ref>)</para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 10:13" />Ynhnguva khyang hanaa dikzawe haa Jesuh naa y kut tyng hliam haijaa y cenga ym luu, ynbawlakhy hngulawnglyk hanaa ynhaa ym hngyappei. <verse eid="MRK 10:13" /><verse number="14" style="v" sid="MRK 10:14" />Jesuh naa yn hnguh hnguva, y lungpoai jo. Yn haeyng y hyau, “Dikzawe haa keei cenga luu seh awh, ynhaa kat kawh yt, Nuatpaw teengpee cee ynhaa baw jyng asi. <verse eid="MRK 10:14" /><verse number="15" style="v" sid="MRK 10:15" /><note caller="-" style="x"><char style="xo" closed="false">10.15 </char><char style="xt" closed="false"><ref loc="MAT 18:3">Mat 18.3</ref> </char></note> Nyangmi jyng ahngoan naa ky hyauvy, ukhy siseh dikzawe bawva dyynnei tih kawcee Nuatpaw teengpee jaa voang lawh jo,” y tinyak. <verse eid="MRK 10:15" /><verse number="16" style="v" sid="MRK 10:16" />Dikzawe haa kut tyng pym, ynhaa huannaa kut tyang theila khunkhyi y bei.<verse eid="MRK 10:16" /></para>
+  <para style="s">Nuatpawe Teengpee laa Bawi Pawe</para>
+  <para style="r">(<ref loc="MAT 19:16-30">Matthai 19.16–30</ref>; <ref loc="LUK 18:18-30">Luka 18.18–30</ref>)</para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 10:17" />Jesuh lyaam y zet hnguva, khyang pahuat zawn luu theila y hngoai mawva khuk y dyaluu. “Khyngtih Cawkhyautih aw, hnguːnom syak lawheyy tawkka i ky cai lawey maa?” tilaa y hngi.<verse eid="MRK 10:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="MRK 10:18" />Jesuh naa, “Ithawnyng keei jyng khyngtih ny tii maa? Nuatpaw pahuat thua ukhy khyngtih myi jo. <verse eid="MRK 10:18" /><verse number="19" style="v" sid="MRK 10:19" />Hnguishin gamcaw vyng ny hnguat, ‘khyang syak tuu kawh yt, khyang pihia zawe byeunawe kawh yt, muuvei kawh yt, ahngoantih kaw saksi shuu kawh yt, khyang hnguhngyam nawkawh yt, ny nue laa pawe kyhkhiat byih jyt’ tinyak khyang ny hnguat kawvei,” y tinyak.<verse eid="MRK 10:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 10:20" />Yn khyang naa, “Cawkhyautih vo, myn haa tomti cee ky dikzawe hngu kuːh thuh ky lyklyam kiah pyn,” y tinyak.<verse eid="MRK 10:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 10:21" />Jesuh naa yn khyang Khiat nyak kyng tovei. “Juːhuat ny luːvei hngyam, Zet, ny utzaw tomti jy theila sanglai tih haeyng bei byih, Yn hngucee huankhu va utzaw ny lawh eyy. Ynpynnyng keei lawnglykluh,” y tinyak. <verse eid="MRK 10:21" /><verse number="22" style="v" sid="MRK 10:22" />Yn khyang hngoai poai jo. Yn khyaukhaw jyak hnguva lungseei theilaa zet bua, ibawthawnnyngmaatijyngcee utzaw panue tawvei tih y si.<verse eid="MRK 10:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 10:23" />Jesuh naa kikaa to theilaa y hngulawnglyktih haa eyng, “Bawitih cee Nuatpaw teengpee voang ngy dekkuːt akaaei” y tinyak.<verse eid="MRK 10:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 10:24" />Hngulawnglyk hanaa y khyaukhaw ym muːnnyak. Ynbawlakhy Jesuh naa, “Ky zawetih vo, Nuatpaw teengpee voang ngy cee akaaei! <verse eid="MRK 10:24" /><verse number="25" style="v" sid="MRK 10:25" />Ukhysiseh bawi tih cee Nuatpaw teengpee voang ngy thyakkyng sangsi cee byiua kuu vyng voang ngy alawi,” y tinyak.<verse eid="MRK 10:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 10:26" />Hngulawnglyk haa naa ym muːnnyak kakai khiannyng pahuat laa pahuat ym hngijeitong, “U jyang lilovei nyak lawh nynny maa?” ym tii.<verse eid="MRK 10:26" /></para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 10:27" />Jesuh naa ynhaa tovei theila, “Nibyang cee khyang naa thawn nyn kaw lakhy Nuatpaw cee vyngcee ynbaw sijo; Nuatpaw cee juːkum kyt tuat nyn tih asi,” y tinyak.<verse eid="MRK 10:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 10:28" />Ynpynnyng Pitar naa, “Nyang hngulawnglyk ky tawkka tyakkei tomti kym tyak hnguːt,” y tinyak.<verse eid="MRK 10:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 10:29" />Jesuh naa, “Nyangmi jyng ahngoan naa ky hyauvy, keei laa sityang poai tawk, imm, loo, beenau, cinau, nue, pawe, sikawvyngcee zawenau haa pahuat huat dyyi lawh, <verse eid="MRK 10:29" /><verse number="30" style="v" sid="MRK 10:30" />Yn khyang cee syak hyang hnguva mok phawhuat khunkhyi thyakyng phephaei khyam lawh bawva, imm, loo, beenau, cinau, zawenau hakhy khunkhyi lawh eyy, saamaw lyaammaa khy hnguːnom syak y lawh eyy. <verse eid="MRK 10:30" /><verse number="31" style="v" sid="MRK 10:31" /><note caller="-" style="x"><char style="xo" closed="false">10.31 </char><char style="xt" closed="false"><ref loc="MAT 20:16">Mat 20.16</ref>; <ref loc="LUK 13:30">Luk 13.30</ref> </char></note>Ynbawlakhy hnguvei hnguːt tih hacee mawbua ey, jyang tih hacee hnguvei bua eyy,” y tinyak.<verse eid="MRK 10:31" /></para>
+  <para style="s">Jesuh naa Athum nyak Bytdy khyang Saihjei</para>
+  <para style="r">(<ref loc="MAT 20:17-19">Matthai 20.17–19</ref>; <ref loc="LUK 18:31-34">Luka 18.31–34</ref>)</para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 10:32" />Yn haa Jerusalem luh lyammaa ym kuai hnguva Jesuh cee ym mawva zet. Hngulawnglyktih hacee thaa ym lawhei. Y lawnglyk tih khyang hanaa ym kyh. Ynhnguva Jesuh naa hngulawnglyk kulaihngih pyt pannei theila, ynih eyng ibaw thawn ny tinyak khyang yn haeyng y saih. <verse eid="MRK 10:32" /><verse number="33" style="v" sid="MRK 10:33" />“Ngeijyt, mymi cee Jerusalem luh lyaamaa my kuai, Khyang Zawpaw cee Jahenpaw lian laa tala cawkhyau tih haa kut tyng yap khyammei lawheyy. Yn haa naa byt pettyang theiawla khyang juːcya haa kut tyng ynih ym yappy, <verse eid="MRK 10:33" /><verse number="34" style="v" sid="MRK 10:34" />Yn haa naa ynih ym hawdawh nyak, cyatuiisuh nyak, sawh khyang laa ynih tukky khyang ym cai jy. Ynbawlakhy hnguːp thum hnguːp pyng y thoo bua eyy,” tijyng y hyau.<verse eid="MRK 10:34" /></para>
+  <para style="s">James laa Jawhen Naa Hngiheinyak</para>
+  <para style="r">(<ref loc="MAT 20:20-28">Matthai 20.20–28</ref>)</para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 10:35" />Ynhnguva Zebedee zawe James laa Jawhan cee Jesuh cenga y hngih luu, “Cawkhyautih vo, Nyang nyng kym hngihei khyang keeimi tawk ny caipiatty kym luːvei,” ym tinyak.<verse eid="MRK 10:35" /></para>
+  <para style="p">
+    <verse number="36" style="v" sid="MRK 10:36" />Jesuh naa, “Nyangmi tawk keei naa ibyang caipiatty nym luːvei maa?” tilaa y hngi.<verse eid="MRK 10:36" /></para>
+  <para style="p">
+    <verse number="37" style="v" sid="MRK 10:37" />Yn hyih naa, “Ny Phunggan nyng myi hnguva khelem lyammaa pahuat khepp lyammaa pahuat ngoa syak piatmawh byih,” ym tinyak.<verse eid="MRK 10:37" /></para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 10:38" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">10.38 </char>
+      <char style="xt" closed="false">
+        <ref loc="LUK 12:50">Luk 12.50</ref> </char>
+    </note>Jesuh naa yn hyih jyng, “Nyangmi naa i hngihei tinyak khyang hnguat jo cawvei. Keei awk ky khyang maa nym awk nyn nyvei, sikawvyngcee keei baptisma bawva baptisma nym khyam nynny jei?” y tinyak.<verse eid="MRK 10:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 10:39" />Ynhnguva yn hyih naa, “Kym nyn,” y hngih tinyak.</para>
+  <para style="p" vid="MRK 10:39">Jesuh naa khy, “Keei awkky khyang maa eyng kuːh nym awk lawh ey, pynnygcee keei khyammei jy khyang baptisma khy nym khyam lawh ey, <verse eid="MRK 10:39" /><verse number="40" style="v" sid="MRK 10:40" />ynbawlakhy keei khep lyam sikawvyngcee kheleem lyamaa ngoa ey keei naa bei nyn jonga. Yn duːn cee luihyahei pyn khyang tawk piangsaa tih jyang a si,” y tinyak.<verse eid="MRK 10:40" /></para>
+  <para style="p">
+    <verse number="41" style="v" sid="MRK 10:41" />Yn khyang hngulawnglyk hngaa naa ym jyak hnguva, James laa Jawhan nyng ym lungtyn. <verse eid="MRK 10:41" /><verse number="42" style="v" sid="MRK 10:42" /><note caller="-" style="x"><char style="xo" closed="false">10.42,43 </char><char style="xt" closed="false"><ref loc="LUK 22:25">Luk 22.25</ref>,<ref loc="LUK 22:26">26</ref> </char></note>Jesuh naa ynhaa huattyng pannei theilaa, “Nym hnguat tyng bawva, khyang juːcya bawi hanaa ynhaa kungnga lyngtih aa ym up, yn haa khyang alian hanaa khy ym dyangnga kuːh haeyng uːtawng ym tyakkei. <verse eid="MRK 10:42" /><verse number="43" style="v" sid="MRK 10:43" /><note caller="-" style="x"><char style="xo" closed="false">10.43,44 </char><char style="xt" closed="false"><ref loc="MAT 23:11">Mat 23.11</ref>; <ref loc="MRK 9:35">Mar 9.35</ref>; <ref loc="LUK 22:26">Luk 22.26</ref> </char></note>Nyangmi nacee yn bawva cai lawh jo. Ukhysiseh nyangmi dukkyng alianzawe thawn hluː tih cee nyangmi maa thawn lawh eyy, <verse eid="MRK 10:43" /><verse number="44" style="v" sid="MRK 10:44" />ynpynnyng ukhysiseh alian luː tih cee tomti maa ny thawn lawh eyy. <verse eid="MRK 10:44" /><verse number="45" style="v" sid="MRK 10:45" />Ithawnyngmaatijyngcee Khyang Zawpawe cee lupannyak khyammei luu sijo, ynbawlakhy lupan naw haijyng asi, pynnyngcee khyang panu lilovei haija a y shyak bei jy y kom luu,” y tinyak.<verse eid="MRK 10:45" /></para>
+  <para style="s">Jesuh naa Mikhungtih Bartimaeus Y Kaansyak</para>
+  <para style="r">(<ref loc="MAT 20:29-34">Matthai 20.29–34</ref>; <ref loc="LUK 18:35-43">Luka 18.35–43</ref>)</para>
+  <para style="p">
+    <verse number="46" style="v" sid="MRK 10:46" />Ynpynnyng Jerikho luh aa ym luu. Jesuh khy y hngulawnglyktih halaa khyang puː haady luh aa kuːh ym zetbua hnguva mikhungtih khyang, Thimius zawepawe Partimia cee lyaamkaa ngoa theila y hngiiei. <verse eid="MRK 10:46" /><verse number="47" style="v" sid="MRK 10:47" />Nazareth taa kuːh Jesuh phawlue khyang y jyak hnguva, “David zawepawe Jesuh, keei mannei piatmawh!” tilaa y pang.<verse eid="MRK 10:47" /></para>
+  <para style="p">
+    <verse number="48" style="v" sid="MRK 10:48" />Yn khyang ngyng Khyang panuu kung naa byakkhy tikawa myi tilaa ym hngyappei, ynbawlakhy, “David zawepawe vo, keei mannei piatmawh!” tilaa y pang sawshoi.<verse eid="MRK 10:48" /></para>
+  <para style="p">
+    <verse number="49" style="v" sid="MRK 10:49" />Jesuh tung theila, “ynih paannei jyt,” y tinyak.</para>
+  <para style="p" vid="MRK 10:49">Yn hnguva mikhung tih khyang ym pann, “sawso kawh, thoo! nyang y pannei,” ym tinyak.<verse eid="MRK 10:49" /></para>
+  <para style="p">
+    <verse number="50" style="v" sid="MRK 10:50" />Y suisyak dyyi theila, dawng hngyakkyng Jesuh cenga y luu.<verse eid="MRK 10:50" /></para>
+  <para style="p">
+    <verse number="51" style="v" sid="MRK 10:51" />Jesuh naa, “Nyang tawk i ky caaipiat ty ny luːnyak maa?” tilaa y hngi.</para>
+  <para style="p" vid="MRK 10:51">Mikhungtih khyang naa, “Cawkhyautih vo, mik hnguhey ky luː,” y tiinyak.<verse eid="MRK 10:51" /></para>
+  <para style="p">
+    <verse number="52" style="v" sid="MRK 10:52" />Jesuh naa yn nyng, “Zet, nyang jummeinyak naa kaangsaanyak bei pyn,” y tiinyak.</para>
+  <para style="p" vid="MRK 10:52">Ynhnguva y mik hungtih kuːk hlyi theilaa lyaam tommaa Jesuh lawnglykkei.<verse eid="MRK 10:52" /></para>
+  <chapter eid="MRK 10" />
+  <chapter number="11" style="c" sid="MRK 11" />
+  <para style="s">Awngtyagnyak Kyng Jerusalem Luh aa Voangnyak</para>
+  <para style="r">(<ref loc="MAT 21:1-11">Matthai 21.1–11</ref>; <ref loc="LUK 19:28-40">Luka 19.28–40</ref>; <ref loc="JHN 12:12-19">Jawhen 12.12–19</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 11:1" />Jerusalem lyaam ym phawe luu theiawlaa Bethphage naam laa Bethani naam Olive cung lyaam maa, Jesuh naa y hngulawnglyk pahngih y tuːh, <verse eid="MRK 11:1" /><verse number="2" style="v" sid="MRK 11:2" />yn haeyng y hyau, “Nym mawe lyaam maa kuːh naam maa zettyt. Yn naam nym phawe hnguva, u naa khy dyang ngeinyak hyaam khaw khang saa syangzawe a khuunneitih nym hnguh eyy. Yn shut theila luu byih jyt. <verse eid="MRK 11:2" /><verse number="3" style="v" sid="MRK 11:3" />Ibawthawnyng nym cai maa tilaa khyang pahuat naa y hngi jyng cee? Mawhpaw<note caller="+" style="f"><char style="fr" closed="false">11.3 </char><char style="fq" closed="false">Mawhpaw; </char><char style="ft" closed="false">sikawvyngcee </char><char style="fqa" closed="false">kuːhmawh.</char></note> naa y lyvei tijyng hyau byih jyt, yn bawva nym tiinyak kyng cee ym bei luu hlyi jy,” tilaa y shin.<verse eid="MRK 11:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="MRK 11:4" />Ym zet hnguva pumthua lyaam kaava, ssaa syangzawe a khuun khang ym hnguh, yn saa joii ym shuh. <verse eid="MRK 11:4" /><verse number="5" style="v" sid="MRK 11:5" />Yn duːn nyng tungtih ycya khyang hanaa, “Ibawthawn nyng saa joii nym suh maa?” tilaa ym hngi.<verse eid="MRK 11:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 11:6" />Jesuh naa y shin bawva ym hyau bua, pynng yn hanaa ym hluːh. <verse eid="MRK 11:6" /><verse number="7" style="v" sid="MRK 11:7" />Ynhnguva Jesuh cenga saa songzawe ym lu, ssaa huannaa ym suisyak tyang awla, Jesuh khy ssaa huannaa y dyangngei. <verse eid="MRK 11:7" /><verse number="8" style="v" sid="MRK 11:8" />Ynhnguva Khyang hanaa ym suisyak lyaam myng ym phawh, ycya hanaa cee thiing kang eek awlaa lyaam myng ym phawh. <verse eid="MRK 11:8" /><verse number="9" style="v" sid="MRK 11:9" />Y hngu laa mawe lyktih khyang hanaa “Hosanna Mawhpaw ming ngyng komlutih khunkhyi myi seh!” tilaa ym paang. <verse eid="MRK 11:9" /><verse number="10" style="v" sid="MRK 11:10" />“Mymi pawe David teengpee khunkhyi myi seh! Huankhuva hluːngduː tih Hosanna!” myiseh tilaa ym pang.<verse eid="MRK 11:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="MRK 11:11" />Jesuh cee Jerusalem luh duk voang theila biatimm dukka y zet. Y pingpyang tomti y to jok, khumuː hngyh khianyng, hngulawnglyktih kulaihngih dy Bethani naam lyaamma y zet.<verse eid="MRK 11:11" /></para>
+  <para style="s">Jesuh Naa Theei Thiing Y Juaan</para>
+  <para style="r">(<ref loc="MAT 21:18">Matthai 21.18</ref>,<ref loc="MAT 21:19">19</ref>)</para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 11:12" />Athaa hnguːp paa Bethani naam kuːh ym zetbua hnguva, Jesuh y zoijei. <verse eid="MRK 11:12" /><verse number="13" style="v" sid="MRK 11:13" />Ynhnguva asei yptih theii thiing y paannawva kuːhthuh y hnguh, atheih suijei haijaa y zet. Yn duːn phaw hnguva atheih ikhy hngu jo, asei pytjyang y hnguh, ibawthawnnyngmaatijyngcee theei thiing tawk acuːn sikaw khiannyng asi. <verse eid="MRK 11:13" /><verse number="14" style="v" sid="MRK 11:14" />Jesuh naa thiing y juan, “Tuh aa kuːhthuh nyang theih ihngukhy unaa khy eilawh tikaw seh!,” y tinyak.</para>
+  <para style="p" vid="MRK 11:14">Yn bawva y juan khang hngulawnglyk hanaa khy ym jyak.<verse eid="MRK 11:14" /></para>
+  <para style="s">Jeush Naa Biatim Singsaa</para>
+  <para style="r">(<ref loc="MAT 21:12-17">Matthai 21.12–17</ref>; <ref loc="LUK 19:45-48">Luka 19.45–48</ref>; <ref loc="JHN 2:13-22">Jawhen 2.13–22</ref>)</para>
+  <para style="p">
+    <verse number="15" style="v" sid="MRK 11:15" />Jerusalem luh ym phawhlu hnguva, Jesuh biatimm dukka voang theila, biatimm dukka hlei tih laa jytih haa tomti y puːklawk giah. Hawkhu jytih haa laa tyangkaw thua tihaa ngoah nyak khung hakhy thuataai kiah. <verse eid="MRK 11:15" /><verse number="16" style="v" sid="MRK 11:16" />Biatimm dukka lawklaa jyh khyang u naa khy puhcai kawh byih jyt tilaa y kat. <verse eid="MRK 11:16" /><verse number="17" style="v" sid="MRK 11:17" />Yn pynnyng yn haa eyng, “Yn cee jok hnguːt jo vei: ‘Keei imm cee khyang juː taga hngihminnei nyak imm tijyng ym hyau vy.’ Ynbawlakhy nyangmi naa yn imm cee hutteitih khyangsee immaa jyang nym puh,” y tinyak.<verse eid="MRK 11:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="MRK 11:18" />Jahenpaw lian laa tala cawkhyau tih hanaa ym jyak hnguva Jesuh tukky ym khiangvoai, ibawthonnyngmaa tijyngcee khyang puː naa y cawkhyau khyang ym muːnnyak khiannyng yn haa naa Jesuh ym kyh.<verse eid="MRK 11:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 11:19" />Khuumuː lyamm phaweluu hnguva, Jesuh laa ynih hngulawnglyk haa luh aa kuːh zet bua.<verse eid="MRK 11:19" /></para>
+  <para style="s">Theei Thiing Ngyng Kuːh Nuːtnyak</para>
+  <para style="r">(<ref loc="MAT 21:20-22">Matthai 21.20–22</ref>)</para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 11:20" />Khuthuai theila, lyamma ym zet bua hnguva, theii thiing aphung ngyng kuːhthuh azaalak khyang ym hnguh. <verse eid="MRK 11:20" /><verse number="21" style="v" sid="MRK 11:21" />Pitar naa nuːttei theila Jesuh eyng y hyau, “to Rabbi vo!, Ny juan khyang theii thiing azaalak pyn!” y tinyak.<verse eid="MRK 11:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="MRK 11:22" />Jesuh naa, “Nuatpaw jumnyak dovei byih jyt, <verse eid="MRK 11:22" /><verse number="23" style="v" sid="MRK 11:23" /><note caller="-" style="x"><char style="xo" closed="false">11.23 </char><char style="xt" closed="false"><ref loc="MAT 17:20">Mat 17.20</ref>; <ref loc="1CO 13:2">1 Kor 13.2</ref></char></note>Ahngoan naa nyangmi jyng ky hyauvy, unaakhy jumkha khyang lung myi kawva y pumhngaw hnguːn bawtynga thawnny tijyng jum theila, ‘yn cung thyih panglaai jaa kawh veih,’ tilaa y hyau vyngcee ym hyau baw tynga athawnny. <verse eid="MRK 11:23" /><verse number="24" style="v" sid="MRK 11:24" />Ynkhainyng nyangmi jyng ky hyau, ibyangkhysiseh hngihminnei tomti cee nym lawh pyn tijyng jum zawlaa yn cee nyangmi kuːh ey jyng asi. <verse eid="MRK 11:24" /><verse number="25" style="v" sid="MRK 11:25" /><note caller="-" style="x"><char style="xo" closed="false">11.25,26 </char><char style="xt" closed="false"><ref loc="MAT 6:14">Mat 6.14</ref>,<ref loc="MAT 6:15">15</ref></char></note>Nym hngihminnei jy hnguva, khyang cya eyng pet nym tyang khyang myi jyngcee, ynhaa hluːhpiat byih. Nym hluːh eyngcee huankhu va myi tih nyangmi Pawe naa nym pet haa y hluːh ey,” y tinyak. <verse eid="MRK 11:25" /><verse number="26" style="v" pubnumber="[26]" sid="MRK 11:26" /><note caller="+" style="f"><char style="fr" closed="false">11.26 </char><char style="ft" closed="false">Acya kutjokcaw vyng ym bawng akhyndik 26: </char><char style="fqa" closed="false">Acya haa pet ny hluːh kaw vyngcee, huankhuu vaa myi tih ny Nuatpawe naa nyang pet hluːh jo </char><char style="ft" closed="false">(tovyt </char><char style="xt"><ref loc="MAT 6:15">Mat 6.15</ref></char>).</note><verse eid="MRK 11:26" /></para>
+  <para style="s">Jesuh Uːtawng Ym Hngi</para>
+  <para style="r">(<ref loc="MAT 21:23-27">Matthai 21.23–27</ref>; <ref loc="LUK 20:1-8">Luka 20.1–8</ref>)</para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 11:27" />Yn hnguva Jerusalem luh ym lu bua tuːh, Jesuh cee biatimm dukka y zetjok hnguva, Jahenpaw lian haa, tala cawkhyautih haa laa lianzang haa cee ynih cenga ym luu. <verse eid="MRK 11:27" /><verse number="28" style="v" sid="MRK 11:28" />“Yn haa naa ni byang uːtyang haa ny cai maa? Pynnyngcee ni cai jytawk u naa utawng bei maa?” tijyng ym hngi.<verse eid="MRK 11:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 11:29" />Jesuh naa yn haa eyng hyaubua, “Nyangmi jyng pahuat ky hngi jy. Keei jyng hyaucammyt, nym hyau vyngcee keei naa ni byang uːtyang ngyng ky caai tinyak khyang ky saih jy. <verse eid="MRK 11:29" /><verse number="30" style="v" sid="MRK 11:30" />Jawhan bei khyang baptisma cee Nuatpawe cengkuːh ei, sikawvyngcee khyang cengkuːh ei? Myn hngi khyang keei jyng hyaucammyt!” y tinyak.<verse eid="MRK 11:30" /></para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 11:31" />Ynhnguva yn hanaa pahuat laa pahuat cinjang theiawla ym hyau, “ ‘Nuatpawe cengkuːh’ my tinyak kyngcee, nyangmi naa, ‘ibawthawnnyng ynih jum jo zaw maa?’ tilaa y hngi jy, ym ti. <verse eid="MRK 11:31" /><verse number="32" style="v" sid="MRK 11:32" />‘Khyang ngyng kuːh my tinyak kyngcee’ ” (Khyang tomti naa Jawhan cee hngawpawe pahuat tijyng ym yt nyak khiannyng khyang haa ym kyh.) <verse eid="MRK 11:32" /><verse number="33" style="v" sid="MRK 11:33" />Yn khiannyng yn haa na Jesuh eyng “Keeimi naa hnguat jo awnga,” ym tinyak.</para>
+  <para style="p" vid="MRK 11:33">Jesuh naa, “Ni haa ibyang uːtyang nyng ky puhcai tinyak khyang saih nyn jonga,” y tinyak.<verse eid="MRK 11:33" /></para>
+  <chapter eid="MRK 11" />
+  <chapter number="12" style="c" sid="MRK 12" />
+  <para style="s">Dyya Congtih Khyaucypnyak</para>
+  <para style="r">(<ref loc="MAT 21:33-46">Matthai 21.33–46</ref>; <ref loc="LUK 20:9-19">Luka 20.9–19</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 12:1" />Ynpynnyng Jesuh naa khyaucypnyak summei theila khyauhyau, “Khyang pahuat naa miksu dyya y cai. Hongka kikaa khy y voan, miksu theih cyah nyakky voam khy y coh theilaa zongnyak pahuat y syak. Ynpynnyng ycya lopitih eyng dyya zongsyak theila ahngaw aa y zehtyak. <verse eid="MRK 12:1" /><verse number="2" style="v" sid="MRK 12:2" />Shih cuːn phaweluu hnguva dyya cong nawva acya theih haa dyyn haijaa miksu dyya aa maa pahuat y tuːh. <verse eid="MRK 12:2" /><verse number="3" style="v" sid="MRK 12:3" />Ynbawlakhy lupcaptih hanaa yn maapawe muan theilaa shuatkuk awla honggak nuva ym tuːh bua. <verse eid="MRK 12:3" /><verse number="4" style="v" sid="MRK 12:4" />Atha mokhuat ycya maapawe pahuat ynhaa cengnga tuːh; yn khyang khy y luugee ym tuaak theiawla luupimtih aa ym tuːh bua. <verse eid="MRK 12:4" /><verse number="5" style="v" sid="MRK 12:5" />Dyya mawh naa ycya maan pahuat y tuːh bua tuːh hnguva ym tukkyeu. Panuukung acya haa y tuːh; yn haa dukkuːh avoang cee ym sawh, avoang cee ym tuk. <verse eid="MRK 12:5" /><verse number="6" style="v" sid="MRK 12:6" />Ynkhianyng dyya mawh naa, y khiat duː khyang zawepawe hlymbyih pahuat jyng y tyakkei tii. ‘Ky zawepawe hngawe cee ym kyhkhiat tyngngy, tijyng ahngu duː aa y tuːh.’ <verse eid="MRK 12:6" /><verse number="7" style="v" sid="MRK 12:7" />Ynbawlakhy dyya congtih hanaa, ‘Ni dikzawe cee hngei lawh hai y si. Luuvyt, ynih muan pawla tuky, ynpynnyng y hngeicya haa tomti cee mymi naa my lawhei kiah ey’ tilaa pahuat laa pahuat ym hyauvei tawng. <verse eid="MRK 12:7" /><verse number="8" style="v" sid="MRK 12:8" />Ynhnguva ynih cee muan theiawla ym tuk, ynpynnyng dyya daiithua aa ynih ym dyeuvei.”<verse eid="MRK 12:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 12:9" />Ynbaw hngucee “Dyya mawhpaw naa ibaw y puh voaih maa? Yn lu theila dyya congtih tomti y tukkyieu theilaa yn khy acya haeyng dyya bei jy. <verse eid="MRK 12:9" /><verse number="10" style="v" sid="MRK 12:10" />Myn talagamcaw vyng,</para>
+  <para style="q1" vid="MRK 12:10">“ ‘Uk imm sawtih hanaa ym dyyi khyang lung khy</para>
+  <para style="q2" vid="MRK 12:10">athaa uk kie huan duː aa ym summei bua.<verse eid="MRK 12:10" /></para>
+  <para style="q1">
+    <verse number="11" style="v" sid="MRK 12:11" />Yn cee Mawhpaw puhcai khyang</para>
+  <para style="q2" vid="MRK 12:11">mymi mik kyng khy muːnnawsee tih asi’ tijyng phuat sai jo zawvei?” y tinyak.<verse eid="MRK 12:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 12:12" />Jahenpawe lian, tala cawkhyau tih laa liancang hanaa yn khyaucyp nyak hacee ym pumhngaw hnguːn theilaa y hyau khyang asi tinyak khyang ym hngoat khianyng Jesuh tukky ym khiangvoai. Ynbawlakhy khyang puː haa ym kyh khianyng ynih cengkuːh ym zet bua.<verse eid="MRK 12:12" /></para>
+  <para style="s">Khawn Bei Khyang Hnginyak</para>
+  <para style="r">(<ref loc="MAT 22:15-22">Matthai 22.15–22</ref>; <ref loc="LUK 20:20-26">Luka 20.20–26</ref>)</para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 12:13" />Yn pynnyng Jesuh ym muan nynny tawk ynih khyaukhaw akhaeitih ngei haijaa Pharisee avoang laa Herod khyang avoang ym tuːh luu. <verse eid="MRK 12:13" /><verse number="14" style="v" sid="MRK 12:14" />Yn hacee ynih cenga luu theiawla ym hyau, “Cawkhyautih vo, nyang cee ny setcaw myi tih khyang tinyak khyang kym hnguat. U khy kyh joti, ibawthonnyngmaa tijyngcee khyang hngoai suvei kawva Nuatpaw tala lyaam ahngoan tih ny shuduan khyang kym hngoat. Kesar syamphalyang nyng akhawn kym bei duan nei bei duan jovei?” tiawla ym hngi.<verse eid="MRK 12:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="MRK 12:15" />Ynbawlakhy Jesuh naa yn haa khyang poai jaa syhei khyang y hnguat. “Ibawthawnyng keei nym hlumhlik maa? tilaa y hngi. Keei jyng tyangkhaw luvyt ky to vy,” y tinyak.<verse eid="MRK 12:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 12:16" />Yn hanaa phyihsa ym luu, pynnyng yn haeyng, “Myn luːp laa ming cee u maa?” y tinyak hnguva.</para>
+  <para style="p" vid="MRK 12:16">“Kesar luːp laa ming asi,” ym tinyak.<verse eid="MRK 12:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 12:17" />Jesuh naa yn haa eyng, “Caesar kuːh cee Kesar eyng bei jyt. Nuatpaw kuːh cee Nuatpaw eyng bei jyt,” y tinyak.</para>
+  <para style="p" vid="MRK 12:17">Yn bawva hyau khyang yn hanaa muːnnyak.<verse eid="MRK 12:17" /></para>
+  <para style="s">Bytnyak Kuːh Thoo Bua Khyang Hnginyak</para>
+  <para style="r">(<ref loc="MAT 22:23-33">Matthai 22.23–33</ref>; <ref loc="LUK 20:27-40">Luka 20.27–40</ref>)</para>
+  <para style="p">
+    <verse number="18" style="v" sid="MRK 12:18" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">12.18 </char>
+      <char style="xt" closed="false">
+        <ref loc="ACT 23:8">Cee 23.8</ref> </char>
+    </note>Ynpynyng Saddusee haa y cenga ym luu. Yn hacee byt nyak kuːh thoo bua nyn jo tijyng hyau tih haa ym sii. <verse eid="MRK 12:18" /><verse number="19" style="v" sid="MRK 12:19" />“Cawkhyautih vo, Mymi tawk Mosee jok hnguːt khyang ngyng putawe pahuat zawe myi kawva byt theila y pihia myijei hnguːt tyngcee, y nau naa yn hngutawe lovei theila y bee juː kuːk kaw haija ynih tawka y suu lawh eyy tijyng amyi. <verse eid="MRK 12:19" /><verse number="20" style="v" sid="MRK 12:20" />Beenau syyh ym myi. Acuːknyak pahuat pihia lawhei theila zawe kawva y byt. <verse eid="MRK 12:20" /><verse number="21" style="v" sid="MRK 12:21" />Ynih pihia ahngihnyak y nau naa yn hngeinuu pihia nawe theila zawe kawva y byt bua tuːh. Pathumnyak y nau khy ynbaw cejaa y thawn. <verse eid="MRK 12:21" /><verse number="22" style="v" sid="MRK 12:22" />Ynbaw cejaa acya haa khy ym thawn kiah theilaa zawe zawnawhuːt jo. Apyihnaw vaa cee, yn hngeinuu khy y byt. <verse eid="MRK 12:22" /><verse number="23" style="v" sid="MRK 12:23" />Ynkhainnyng syyh dy lawhei hnguːt theila thoo bua cuːn nyng yn haa byt nyak kuːh thoo bua hnguva yn hngutawe cee u pihia asi jy maa?” tijyng ym hngi.<verse eid="MRK 12:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 12:24" />Jesuh naa yn haa eyng, “Nyangmi naa tala caw nym jyakcawk khaw khainnyng si jo vei? ibawthonnyngmaa tijyngcee talagamcaw hnguat khaw theizawlaa Nuatpaw phungan khy hnguat nyn jozaw. <verse eid="MRK 12:24" /><verse number="25" style="v" sid="MRK 12:25" />Bytnyak kuːh thoo bua hnguva, nawe ommei khyang myijo, tomti huankhu kuːh hlizawe haa bawva myi giah eyy. <verse eid="MRK 12:25" /><verse number="26" style="v" sid="MRK 12:26" />Thuh aa byt tih haa ym thoo bua khyang tinyak cee — Mosee cawuk kyng phuat sai jo zawevei, nyng yn tala eyng meei thootih biapuːp pyng, ‘Nuatpaw naa, keei cee Abraham Nuatpawe, Isaac Nuatpaw, Jacop Nuatpaw’ y tinyak. <verse eid="MRK 12:26" /><verse number="27" style="v" sid="MRK 12:27" />Nuatpaw cee byttih haa Nuatpaw sijo, syak hyang tih haa Nuatpaw y si. Yn khainnyng dekkuːt hnguva seetih lyaamaa nym khindyang!” tilaa y hyau.<verse eid="MRK 12:27" /></para>
+  <para style="s">Alianduːtih Hnguisin</para>
+  <para style="r">(<ref loc="MAT 22:34-40">Matthai 22.34–40</ref>; <ref loc="LUK 10:25-28">Luka 10.25–28</ref>)</para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 12:28" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">12.28–34 </char>
+      <char style="xt" closed="false">
+        <ref loc="LUK 10:25-28">Luk 10.25–28</ref> </char>
+    </note>Ynhnguva tala cawkhyautih pahuat luu theilaa ynhaa cot khyang y jyak. Jesuh naa poaijaa hyau bua khyang hnguh hngut theila, “Hnguishin tomti duːkka, ibawng cee y lainduː maa?” tilaa y hngi.<verse eid="MRK 12:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 12:29" />Jesuh naa, “Luːvei duːtih cee myn, ‘Aw Isreal khyang juː havo ngei byih jyt: mymi Mawhpaw my Nuatpaw cee Mawhpaw pahuat pyt jyang y si, <note caller="+" style="f"><char style="fr" closed="false">12.29 </char><char style="fq" closed="false">mymi Mawhpaw my Nuatpaw cee Mawhpaw pahuat pyt jyang y si; </char><char style="ft" closed="false">yn kawvyngcee </char><char style="fqa" closed="false">Mawhpaw cee mymi Nuatpaw y si, Mawhpaw pahuat pyt.</char></note> tilaa y hyau. <verse eid="MRK 12:29" /><verse number="30" style="v" sid="MRK 12:30" />Mawhpaw hiyangtih ny Nuatpaw ny lungbawng tomti, ny muikhaw tomti, ny lungkin tomti, ny jungtha tomti jyng khiat byih tinyak khang cee acuːk tala y si,’ y tinyak. <verse eid="MRK 12:30" /><verse number="31" style="v" sid="MRK 12:31" />Ahngihnyak cee myn asi ‘Ny immcengpui khyang ny pum hngaw bawva khiat byih.’ Ni tala thyakka a lian duːtih hnguishin myi tijo,” Y tinyak.<verse eid="MRK 12:31" /></para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 12:32" />Tala cawkhyautih naa y hyau bua. “Ny hyau ahngoan cawkhyautih vo! Nuatpawe cee pahuat pyt jyang, yn tua acya nuat myiti jo. <verse eid="MRK 12:32" /><verse number="33" style="v" sid="MRK 12:33" />Yn Nuatpawe ny lungbawg tomtii dy, ny jyakcawk nyak nyn tomti dy, ny jungtha tomti dy khiat tilaa, ny immcengpui hakhy ny pumhngawe bawva ny khiat dy khyang cee henbawn thyak kyng khyng duːtih asi,” tilaa y hyau.<verse eid="MRK 12:33" /></para>
+  <para style="p">
+    <verse number="34" style="v" sid="MRK 12:34" />Jesuh naa thiamvaatih aa y syakkei khyang y hnguattei, yn nyng y hyau, “Nyang cee Nuatpaw huankhuː teengpee jyng paan nei jotii.”</para>
+  <para style="p" vid="MRK 12:34">Athaa mokhuat u naa khy hngi voom ti joaw.<verse eid="MRK 12:34" /></para>
+  <para style="s">Jesuh U Zawe Maa Tilaa Hnginyak</para>
+  <para style="r">(<ref loc="MAT 22:41-46">Matthai 22.41–46</ref>; <ref loc="LUK 20:41-44">Luka 20.41–44</ref>)</para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 12:35" />Jesuh naa Biatimm dukka y cawkhyau hnguva, “ibawthawnnyng tala thumcian cawkhyautih hanaa Messiah cee David zawpawe ym ti maa? tilaa ym hngi. <verse eid="MRK 12:35" /><verse number="36" style="v" sid="MRK 12:36" />David pumhngaw vyng, Muikhaw Cim naa y hyau:</para>
+  <para style="q1" vid="MRK 12:36">“ ‘Mawhpaw naa keei mawhpaw vyng y hyau:</para>
+  <para style="q2" vid="MRK 12:36">keei naa Nyang shunpui haa nyang khuco dyangnga tyakkhy</para>
+  <para style="q2" vid="MRK 12:36">Keei kheplyaam kut huan naa ngoa byih’ y tinyak,<verse eid="MRK 12:36" /></para>
+  <para style="m">
+    <verse number="37" style="v" sid="MRK 12:37" />David pumhngaw naa ynih eyng ‘Mawhpaw vo y tinyak.’ Ibawva Jesuh cee David zawe y sijy maa?” tijyng y hngi.</para>
+  <para style="s" vid="MRK 12:37">Tala Cawkhyautih haa Phennei Haijaa Sathiih Beinyak</para>
+  <para style="r" vid="MRK 12:37">(<ref loc="MAT 23:1-36">Matthai 23.1–36</ref>; <ref loc="LUK 20:45-47">Luka 20.45–47</ref>)</para>
+  <para style="p" vid="MRK 12:37">Khyang puː hanaa jyyjonyak kyng ynih khyau ym ngei. <verse eid="MRK 12:37" /><verse number="38" style="v" sid="MRK 12:38" />Jesuh naa, y cawksyang bawva hyau bua tuːh, “Tala cawkhyautih haa sathih taw byih jyt. Yn hacee phaang syau vuei theiawla tukjyh nyak duːn naa ym zetjok hnguva, kyhkhiat nyakkyng shawtpiattei ym luːvei, <verse eid="MRK 12:38" /><verse number="39" style="v" sid="MRK 12:39" />ynpynnyng sinakok dukka kuːh ngoahnyak duːn, pyipap, kyhkhiat nyak duːn hlyi jaa ym luːvei. <verse eid="MRK 12:39" /><verse number="40" style="v" sid="MRK 12:40" />Ynhaa cee hngeinue haa imm duk kuːh ym lawklaa huttei awla khyang jyakhluː aa saupawetih aa shuh ym hngihminnei. Yn hacee apet lian duːtih ym khyam lawh eyy,” y tinyak.<verse eid="MRK 12:40" /></para>
+  <para style="s">Hngeinue Kutpuan</para>
+  <para style="r">(<ref loc="LUK 21:1-4">Luka 21.1–4</ref>)</para>
+  <para style="p">
+    <verse number="41" style="v" sid="MRK 12:41" />Ynhnguva Jesuh cee Biatimm ahlu ym san nyak phyihsa gok cenga ngoa theila khyang panuu naa ahlu tyangkhaw ym san khyang y to. Bawi tih hanaa cee thawngkhaw panuu ym san. <verse eid="MRK 12:41" /><verse number="42" style="v" sid="MRK 12:42" />Ynbawlakhy sanglaitih hngeinue pahuat lue theila voakhuat myitih gii phyihsa dik pahngih y san. <verse eid="MRK 12:42" /><verse number="43" style="v" sid="MRK 12:43" />Jesuh naa, y hngulawnglyktih haa pannei theila, “keei ahngoan naa ky hyau vy, ni phyihsaa gok kyng san tih haa tomti thyak kyng yn sanglai tih hngeinue naa y san khyang ahlu cee akawng. <verse eid="MRK 12:43" /><verse number="44" style="v" sid="MRK 12:44" />Ithawnyngmaa tijyng cee, yn cee ym bawih thua hleei tih ym hlu; yn hngeinuu naa cee, amyi tihkaw duk kuːh, y tyakkei khyang tomti y bei kiah,” tijyng y hyau.<verse eid="MRK 12:44" /></para>
+  <chapter eid="MRK 12" />
+  <chapter number="13" style="c" sid="MRK 13" />
+  <para style="s">Biatimm Cimpak nyak Saaksi</para>
+  <para style="r">(<ref loc="MAT 24:1-2">Matthai 24.1–2</ref>; <ref loc="LUK 21:5">Luka 21.5</ref>,<ref loc="LUK 21:6">6</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 13:1" />Jesuh cee Biatimm maakuːh y zet bua hnguva, y hngulawnglyk tih pahuat na, “Cawkhyautih vo, to cyam, ibyang lung lian laa ibyang imm syak tawk maa,” y tinyak.<verse eid="MRK 13:1" /></para>
+  <para style="p">
+    <verse number="2" style="v" sid="MRK 13:2" />Ynhnguva Jesuh naa, “Ni imm lian syak khyang ny hnguh kaw vei? Simpak hnguva luung haa pahuat khunga pahuat tyangei lawh jo,” y tinyak.<verse eid="MRK 13:2" /></para>
+  <para style="s">Sanglai Cyhei laa Phehphaei khyam Lawh Ey Khyang</para>
+  <para style="r">(<ref loc="MAT 24:3-14">Matthai 24.3–14</ref>; <ref loc="LUK 21:7-19">Luka 21.7–19</ref>)</para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 13:3" />Jesuh cee Olive cung huannaa Biatimm hngoaimawva y ngoa hnguva, Pitar, James, Jawhan laa Andru tih naa ajupzawva luu theila, <verse eid="MRK 13:3" /><verse number="4" style="v" sid="MRK 13:4" />“Yn hnguh laa haa ihnguva thawnny maa? Yn hnguh laa tomti kuːm luu cuːn lawi luu hnguva, ibyang muːnnawseetih haa apodyang luu vy maa? tinyak khyang siahpiat mawh byih,” tilaa ym hngi.<verse eid="MRK 13:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 13:5" />Jesuh na, “Nyangmi u naa khy hnguhngyam naw khaw haija sathih tawvei byih jyt. <verse eid="MRK 13:5" /><verse number="6" style="v" sid="MRK 13:6" />Khyang panuu keei ming ngyng luu awla, ‘Keei yn ky si,’ tilaa khyang panuu ym hnguhngyam nyak khy. <verse eid="MRK 13:6" /><verse number="7" style="v" sid="MRK 13:7" />Yn khiannyng Suunbii khyang, suun jaa sityang nym jyak hnguva sawso kawh byih jyt. Yn byang haa athawn lawh ey, ynbawlaakhy abyihnyak cee luu hyam jo. <verse eid="MRK 13:7" /><verse number="8" style="v" sid="MRK 13:8" />Khyang juː pahuat laa pahuat, teengpee pahuat laa pahuat ym suunnei jy. Sudek duːn tomti jaa lieu aluu vy, pynnyngcee eiawk khekhyam my. Yn hacee dikzaw hong luu hnguva nehei khyang acuːk nyak asi.<verse eid="MRK 13:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="MRK 13:9" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">13.9–11 </char>
+      <char style="xt" closed="false">
+        <ref loc="MAT 10:17-20">Mat 10.17–20</ref>; <ref loc="LUK 12:11">Luk 12.11</ref>,<ref loc="LUK 12:12">12</ref> </char>
+    </note>“Nyangmi sathih nym tawvei lawh ey. Nyangmi muan theila jung nga ym yap py, Sinakok duːn naa ym sawhshiv vy. Keei khiannyng syamphalyang haa, khyanglian haa hngoaimaw va saksi jaa nym tung lawh ey. <verse eid="MRK 13:9" /><verse number="10" style="v" sid="MRK 13:10" />Ynbawlakhy acuːk nyak kyng teengpee tomti jaa sityang poai susaih lawh ey. <verse eid="MRK 13:10" /><verse number="11" style="v" sid="MRK 13:11" />Khyang haa naa nyangmi muan theilaa cijyang hnguva, ibaw hyau vy khyang sawso kawh yt. Acuːn phaweluu hnguva hyau vy khyang khyaukhaw nym lawh ey, yn cee nym pumhngaw naa hyau vy khyang sijo, Muikhaw Cim naa hyausyak khyang asi jy. <verse eid="MRK 13:11" /><verse number="12" style="v" sid="MRK 13:12" />Beenau ku pahuat laa pahuat byt haijaa ym yappei tongngy, pawe na khy zawnau y yap py. Zawnau naa khy nuu laa paw suunneipui naw theiawla byyt haijaa ym yap py. <verse eid="MRK 13:12" /><verse number="13" style="v" sid="MRK 13:13" />Khyang tomti naa keei ming khianyng nyangmi ym hnguhdyam my. Ynbawlakhy akhuː nyak cuːn cyp setcaw tawvei tih cee lilovei nyak lawh ly.<verse eid="MRK 13:13" /></para>
+  <para style="s">Tahsee Lehhuu</para>
+  <para style="r">(<ref loc="MAT 24:15-28">Matthai 24.15–28</ref>; <ref loc="LUK 21:20-24">Luka 21.20–24</ref>)</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 13:14" />“Siimphak theitih, ‘Tahsee Lehhuu’ cee myi tuan kaw nyak duːn nyng myi khyang nym hnguh lawh hnguva phuat tih naa cee jawcuu byih jyt. Ynhnguva Judah pee jaa myitih haa tomti cee cung lyamma nym zeen lawh ly. <verse eid="MRK 13:14" /><verse number="15" style="v" sid="MRK 13:15" /><note caller="-" style="x"><char style="xo" closed="false">13.15,16 </char><char style="xt" closed="false"><ref loc="LUK 17:31">Luk 17.31</ref> </char></note>Imm pumthua a myitih na imm dukka ikhy lovei haijaa voangei kaw seh. <verse eid="MRK 13:15" /><verse number="16" style="v" sid="MRK 13:16" />Loova myi tih na khy ym suisyak lovei bua haija heei kaw seh. <verse eid="MRK 13:16" /><verse number="17" style="v" sid="MRK 13:17" />Yn cuːnn khuhnguːp cee maimawh laa zawe khoituii u myitih nuu haa tawkka ahlyi ja akaei jy. <verse eid="MRK 13:17" /><verse number="18" style="v" sid="MRK 13:18" />Yn cuːnn cee khuusik kyng khykkei kaw haija Nuatpawe cenga hngihminnei byih jyt. <verse eid="MRK 13:18" /><verse number="19" style="v" sid="MRK 13:19" />Ibawthonnyngmaa tijyngcee Nuatpaw naa somdek y com hnguːp pyng kuːhthuh tuhhnguːp cyp thawnsai hyamjo, ihngukhy atha cyppei ti hai sijo. <verse eid="MRK 13:19" /><verse number="20" style="v" sid="MRK 13:20" />Yn khainnyng Mawhpaw naa khuhnguːp y tawisyak kaw vyngcee, ukhy syak hyang hai si jo. Ynbawlakhy y luihngyahei khyang, khyang haa khianyng khuhnguːp y tawisyak kyy.<verse eid="MRK 13:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 13:21" />“Ynhnguva pahuat huat naa nyangmi jyng, ‘to, mynnija Messiah!’ sikawvyngcee, ‘to, yn duːn naa myi,’ ti lakhy jum kawh byih jyt. <verse eid="MRK 13:21" /><verse number="22" style="v" sid="MRK 13:22" />Ahngoan tih kaw Khrit laa ahngoan tih kaw hngawpaw haa ym podyang luu vy. Ynpynnyng luihngyahei khyang haa jumkha haijaa muːnnawseetih haa ym suduan luu ly. <verse eid="MRK 13:22" /><verse number="23" style="v" sid="MRK 13:23" />Yn khiannyng Sathih tawvei byih jyt; Ni hnguhlaa haa tomti nyangmi jyng ky saih hnguːt pyn,” y tinyak.<verse eid="MRK 13:23" /></para>
+  <para style="s">Khyang Zawpawe Luunyak</para>
+  <para style="r">(<ref loc="MAT 24:29-31">Matthai 24.29–31</ref>; <ref loc="LUK 21:25-28">Luka 21.25–28</ref>)</para>
+  <para style="p">
+    <verse number="24" style="v" sid="MRK 13:24" />Ynbawlakhy yn hnguːp, cyhei khyam lawh pyn nyng, “Khuhngi cee y hung ngy, khawetha khy aang hai sijo; <verse eid="MRK 13:24" /><verse number="25" style="v" sid="MRK 13:25" />huankhu kuːh aasi haa ym kaw vy, huankhu phungan haa khy ahluːnnei jy. <verse eid="MRK 13:25" /><verse number="26" style="v" sid="MRK 13:26" />Yn pynnyng Khyang Zawpawe cee uːtyang lian laa phunggan nyng khuusiat dyangei theilaa y kawm luu khyang nym hnguh lawh ey. <verse eid="MRK 13:26" /><verse number="27" style="v" sid="MRK 13:27" />Ynhnguva ynih huankhu ceepaw haa tuhlu theila Nuatpawe luihngyahei khyang haa sudek kiv pahli jyng kuːh, huankhu pyihnyak, somdek pyihnyak kuːh cungdyynnei syak ky.<verse eid="MRK 13:27" /></para>
+  <para style="s">Theei Thiing Kuːh Nuːtnyak</para>
+  <para style="r">(<ref loc="MAT 24:32-35">Matthai 24.32–35</ref>; <ref loc="LUK 21:29-33">Luka 21.29–33</ref>)</para>
+  <para style="p">
+    <verse number="28" style="v" sid="MRK 13:28" />“Theii thiing ngyng kuːh cawksyangnyak nuːttei jyt. Akhongbak haa no theilaa asei kip luu hnguva khukhaa lawi luu hngyh tijyng nym hnguat. <verse eid="MRK 13:28" /><verse number="29" style="v" sid="MRK 13:29" />Ynbawva, ni hnguhlaa haa thawn luu nym hnguh hnguva, acuːn alawi luu hngyh,<note caller="+" style="f"><char style="fr" closed="false">13.29 </char><char style="fq" closed="false">acuːn alawi luu hngyh; </char><char style="ft" closed="false">sikawvyngcee </char><char style="fqa" closed="false">Ynih lawilu hngyh, lu vy lawilu hngyh.</char></note> Khyang Zawpawe kyttung cengnga y phawe luu hngyh tijyng hnguat byih jyt. <verse eid="MRK 13:29" /><verse number="30" style="v" sid="MRK 13:30" />Nyangmi jyng ahngoan naa ky hyau vy, ni hnguhlaa haa athawn hluanaa hyangtih khyang juː haa byt lawh jo. <verse eid="MRK 13:30" /><verse number="31" style="v" sid="MRK 13:31" />Huankhu laa somdek cee cimpak ky, ynbawlakhy keei khyaukhaw ihngukhy cimpak lawh jo.<verse eid="MRK 13:31" /></para>
+  <para style="s">Acuːn Laa Khuuhnguːp cee Unaa Khy Hnguat Jo</para>
+  <para style="r">(<ref loc="MAT 24:36-44">Matthai 24.36–44</ref>)</para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 13:32" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">13.32 </char>
+      <char style="xt" closed="false">
+        <ref loc="MAT 24:36">Mat 24.36</ref> </char>
+    </note>“Ynbawlakhy acuːn sikawvyngcee khuhnguːp cee, Pawe thuaa huankhu kuːh huankhu ceepaw si seh, khyang Zawe si seh, u naa khy hnguat jo. <verse eid="MRK 13:32" /><verse number="33" style="v" sid="MRK 13:33" />Yn acuːn ihnguva phawluu vy tinyak khyang nym hnguat kaw khianyng sathih eyng zong byih jyt. <verse eid="MRK 13:33" /><verse number="34" style="v" sid="MRK 13:34" /><note caller="-" style="x"><char style="xo" closed="false">13.34 </char><char style="xt" closed="false"><ref loc="LUK 12:36-38">Luk 12.36–38</ref> </char></note> Khyang pahuat apannawa zet theilaa, y zet hluanna y imm la y maa haeyng khut poaijaa cai haijaa yap theilaa, kyt zongtih eyng khy y shin hnguːt dy cyppei. <verse eid="MRK 13:34" /><verse number="35" style="v" sid="MRK 13:35" />Yn khainnyng imm mawhpaw ihnguva luu bua vy tinyak khyang nym hnguat kaw khianyng poaijaa zong byih jyt. Amuːlyaam khy si nyn, sikawvyngcee ajuan duːduːm khy si nyn, eahlui khong cuːnn khy si nyn, sikawvyngcee khuthoaih lyaam khy si nyn. <verse eid="MRK 13:35" /><verse number="36" style="v" sid="MRK 13:36" />Zacatnawva y luu bua vyngcee, nym ipei khyang y hnguh luu vy. <verse eid="MRK 13:36" /><verse number="37" style="v" sid="MRK 13:37" />Yn khainnyng nyangmi tawk ky hyau tomti cee, khyang tomti tawk khy ky hyau, zong byih jyt,” y tinyak.<verse eid="MRK 13:37" /></para>
+  <chapter eid="MRK 13" />
+  <chapter number="14" style="c" sid="MRK 14" />
+  <para style="s">Jesuh Tuk khy Ym Cijang</para>
+  <para style="r">(<ref loc="MAT 26:1-5">Matthai 26.1–5</ref>; <ref loc="LUK 22:1-2">Luka 22.1–2</ref>; <ref loc="JHN 11:45-53">Jawhen 11.45–53</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 14:1" />Tuh a cee Pahtyak hnguːp laa Heenpui tih kaw phee pyi hnguːp ahngih nyak aphawluu hluan naa, Jahenpaw lian laa tala cawkhyautih haa naa Jesuh ibawva muan theila tuk lawh ey tijyng alyaam sui awla jupzawva ym cijang. <verse eid="MRK 14:1" /><verse number="2" style="v" sid="MRK 14:2" />“Ynbawlakhy pyi dukkyng my caai jyngcee khyng hai sijo, khyang haa ym alingso vy,” ym tii.<verse eid="MRK 14:2" /></para>
+  <para style="s">Bethanih Naam Maa Jesuh Situii Uu Jyng Ahluk</para>
+  <para style="r">(<ref loc="MAT 24:6-13">Matthai 24.6–13</ref>; <ref loc="JHN 12:1-8">Jawhen 12.1–8</ref>)</para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 14:3" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">14.3 </char>
+      <char style="xt" closed="false">
+        <ref loc="LUK 7:37">Luk 7.37</ref>,<ref loc="LUK 7:38">38</ref> </char>
+    </note>Jesuh cee Bethani aa y myi hnguva, buhlitih Simon imm maa buhpyi ka a y hngoa hnguva, hngutawnuu pahuat voang luu theila aphu liantih situii uu, apok tih luungum zawe pahuat tyng a luih jaa y lu. Luungum zawe syeuh theila Jesuh lu eyng tuii uu akhuːh nyak. <verse eid="MRK 14:3" /><verse number="4" style="v" sid="MRK 14:4" />Yn duːn naa myitih avoang cee ym lungtyn, “Ithawnyng nibawva situii uu haa akok syak maa? <verse eid="MRK 14:4" /><verse number="5" style="v" sid="MRK 14:5" />Hyansaw<note caller="+" style="f"><char style="fr" closed="false">14.5 </char><char style="fk" closed="false">Hyansaw: </char><char style="ft" closed="false">to 6.37.</char></note> yn hyansaw cee khutlup tihaa eyng kum phyih kawva ym bei khyang kuːtcaw phawthum myng jyh theila, yn tyangkaw haa sanglai ngawegah tih haa eyng ny bei jyngcee khyng jo vei,” tilaa yn hngutawe eyng apet ym tyang.<verse eid="MRK 14:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 14:6" />Jesuh naa, “Yn hngutawe myijei seh,” y tinyak. “Ithawnyng nym hlumhlik maa? Yn naa keei jyng khyng tih y cai pyn. <verse eid="MRK 14:6" /><verse number="7" style="v" sid="MRK 14:7" />Sanglai tih haa cee nyangmi dy myi hah shoijy, nym luːvei hnguva nym phuihlawi nyn shoi. Ynbawlakhy keei cee nyangmi dy myi hah nyn shoi jonga. <verse eid="MRK 14:7" /><verse number="8" style="v" sid="MRK 14:8" />Ni hngutaw naa y nyn hawh cai pyn. Keei jawk kuːh ey tawkka ky pum huannaa situii uu y hluk pyn. <verse eid="MRK 14:8" /><verse number="9" style="v" sid="MRK 14:9" />Ynkhiannyng nyangmi jyng ahngoan ky hyau vy, sityang poai saihjok nyak somdek tomti jyng, ni hngutaw caai khyang khy hyau shoijy,” y tinyak.<verse eid="MRK 14:9" /></para>
+  <para style="s">Judah Naa Jesuh yappy Cijang</para>
+  <para style="r">(<ref loc="MAT 26:14-16">Matthai 26.14–16</ref>; <ref loc="LUK 22:3-6">Luka 22.3–6</ref>)</para>
+  <para style="p">
+    <verse number="10" style="v" sid="MRK 14:10" />Ynpynnyng Jesuh hngulawnglyk kulaihngih dukkuːh Judah Iskariot cee Jesuh y yappy tawk jahenpaw lian haa cenga y zet. <verse eid="MRK 14:10" /><verse number="11" style="v" sid="MRK 14:11" />Yn hanaa yn jyak hnguva ym lungjyy theiawla ynih eyng tyangkaw bei jy setzaw ym tyak. Yn khianyng Judah na Jesuh y yap lawh ey tawk acuːn poai sui.<verse eid="MRK 14:11" /></para>
+  <para style="s">Hngulawnglyk Haa dy Muːbuh Ei</para>
+  <para style="r">(<ref loc="MAT 26:17-25">Matthai 26.17–25</ref>; <ref loc="LUK 22:7-14">Luka 22.7–14</ref>; <ref loc="LUK 21:23">21.23</ref>; <ref loc="JHN 13:21-30">Jawhen 13.21–30</ref>)</para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 14:12" />Heenpui tih kaw phee pyi acuːn hnguːp pyng, hluzawe pahtyak henbawn ym caai hnguːpyng, hngulawnglyk haa naa Jesuh eyng, “Pahtyak pyi ei jy tawkka i duːnna zet theila kym piangsa jeijy ny luːnyak maa?,” tijyng ym hngi.<verse eid="MRK 14:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 14:13" />Yn khianyng ynih hngulawnglyk pahngih tuːh theilaa, “Luh dukka zet hngih, tuiiniang paa theila luu tih khyang pahuat nym khawm mei jy. Ynih lykei byih jyt. <verse eid="MRK 14:13" /><verse number="14" style="v" sid="MRK 14:14" />Yn hyih voang nyak imm mawh eyng, ‘Cawkhyau tih naa, ky hngulawnglyk haady muːbuh pahtyak kym ei nyakky khiin imm khyn cee hanijaa myi maa,’ tilaa hngi byih jyt. <verse eid="MRK 14:14" /><verse number="15" style="v" sid="MRK 14:15" />Ynhnguva huannaa piangsaa cyn tih imm khyn lian pahuat nyangmi jyng y duan lu vy. Mymi tawk ynijaa piangsa byih jyt,” y tiinyak.<verse eid="MRK 14:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 14:16" />Hngulawnglyktih haa cee zet bua theila luh dukka ym voang. Yn hnguva Jesuh na yn haeyng hyau baw tyngnga pahtyak pyi ym piangsa khyang ym hnguh.<verse eid="MRK 14:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="MRK 14:17" />Amuːlyaam phawluu hnguva hngulawnglyk kulaihngih dy Jesuh y phawluu. <verse eid="MRK 14:17" /><verse number="18" style="v" sid="MRK 14:18" />Yn haa huattyng buhpyi ym cuvei hah hnguva, Jesuh na, “Nyangmi jyng ahngoan naa ky hyau vy, nyangmii dukkuːh keei dy ei hah tih pahuat naa keei y yap py,” y tiinyak.<verse eid="MRK 14:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 14:19" />Ym lungsik kiah awla, “keei hyau tawkei?” tijyng pahuat pynnyng pahuat ym hngiei tong.<verse eid="MRK 14:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="MRK 14:20" />Jesuh na, “Nyangmi kulaihngi dukkuːh pahuat, keei dy buhpyi huat tyng buh ei hah tih, <verse eid="MRK 14:20" /><verse number="21" style="v" sid="MRK 14:21" />Khyang Zawpawe cee jok hnguːt tih bawva y byt lawh ey. Ynbawlakhy Khyang Zawpawe yap tih khyang nyng khunsee amyi jy. Yn khyang cee y myi luu kaw miat tyngcee khyng tya,” y tiinyak.<verse eid="MRK 14:21" /></para>
+  <para style="s">Akhuː Nyak Muːbuh</para>
+  <para style="r">(<ref loc="MAT 26:26-30">Matthai 26.26–30</ref>; <ref loc="LUK 22:14-20">Luka 22.14–20</ref>; <ref loc="1CO 11:23-25">1 Korin 11.23–25</ref>)</para>
+  <para style="p">
+    <verse number="22" style="v" sid="MRK 14:22" />Muːbuh ym ei hnguva, Jesuh naa phe y loh, khunkhyi syhpuah theila, y eeh, pynnyng hngulawnglyktih haa eyng y bei. “Ei jyt, Myn cee keei pum asi,” y tinyak.<verse eid="MRK 14:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="MRK 14:23" />Ynpynyng maa khy lo theila, khunkhyi syhpuah theila yn haeyng y bei yn haa tomti naa lovei theila ym awk. <verse eid="MRK 14:23" /><verse number="24" style="v" sid="MRK 14:24" />Jesuh naa, “Ni cee tyamthi vyng kuːm tih ky thiisen asi. <verse eid="MRK 14:24" /><verse number="25" style="v" sid="MRK 14:25" />Keei ahngoan naa ky hyau vy, Nuatpaw teengpee jaa thaa awk bua tuːh khyang hnguːp phaw hluan cyp miksu theih jyng thawn tih tuii uː tii jo nga,” y tiinyak.<verse eid="MRK 14:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="MRK 14:26" />Ynpynnyng boijei theiawla, Olive cung huan naa ym koai.<verse eid="MRK 14:26" /></para>
+  <para style="s">Pitar Naa Y Zaah Ey khyang Jesuh Naa Hyau</para>
+  <para style="r">(<ref loc="MAT 26:31-35">Matthai 26.31–35</ref>; <ref loc="LUK 22:31-34">Luka 22.31–34</ref>; <ref loc="JHN 13:36-38">Jawhen 13.36–38</ref>)</para>
+  <para style="p">
+    <verse number="27" style="v" sid="MRK 14:27" />Ynhnguva Jesuh naa yn haa eyng y hyau, “ ‘Keei naa hluzawe mawh ky sawh khiannyng hluzaw haa naa ym kaa tyak ky’ tilaa jok hnguːt khiannyng nyangmi tomti nym lungsik khy. <verse eid="MRK 14:27" /><verse number="28" style="v" sid="MRK 14:28" /><note caller="-" style="x"><char style="xo" closed="false">14.28 </char><char style="xt" closed="false"><ref loc="MAT 28:16">Mat 28.16</ref> </char></note>Ynbawlaky keei ky thoo bua pynnyng, nyangmii mawva Galilee jaa ky zet ly,” y tiinyak.<verse eid="MRK 14:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 14:29" />Pitar naa hyau, “Yn haa tomti na nyang kaa tyak awlakhy, keei kaa taw jo nga,” y tinyak.<verse eid="MRK 14:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="MRK 14:30" />Jesuh naa Pitar eyng y hyaubua, “Ahngoan ky hyau vy, tuhmu eahlui mawk hngih akhong hluan cyp, keei huat jonga tilaa mawk thum ny zah ey,” y tinyak.<verse eid="MRK 14:30" /></para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 14:31" />Ynbawlakhy Pitar naa y lung awiijei theilaa, “Nyang dy ky byt hah ey tijyng khy keei naa nyang zah jonga,” tilaa y hyau.</para>
+  <para style="p" vid="MRK 14:31">Ynpynnyng acya haa tomti naa khy ynbawa ym hyau.<verse eid="MRK 14:31" /></para>
+  <para style="s">Gethsemane Dya A Jesuh Hngihminneinyak</para>
+  <para style="r">(<ref loc="MAT 26:36-46">Matthai 26.36–46</ref>; <ref loc="LUK 22:39-46">Luka 22.39–46</ref>)</para>
+  <para style="p">
+    <verse number="32" style="v" sid="MRK 14:32" />Gethsemane ming nawtih cung nga ym zet, Jesuh na y hngulawnglyk haa eyng, “Keei hngihminnei hnguva mynnyng ngoa zawla zong byih jyt,” y tinyak. <verse eid="MRK 14:32" /><verse number="33" style="v" sid="MRK 14:33" />Pitar, James, Jawhan tih haa y zehpui nyak. Ynhnguva Jesuh ceng hlyija ngyammyiang nyak la lungsiknyak phawluu. <verse eid="MRK 14:33" /><verse number="34" style="v" sid="MRK 14:34" />Yn haa eyng y hyau, “Mynnyng myi theila keei zong byih jyt. Keei lung muikhaw cee byt tyhawh hnguva ngyammyiang,” y tiinyak.<verse eid="MRK 14:34" /></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 14:35" />Ynpynnyng meihzawe apaan nawva y zet, dek huannaa y khukdyaa theilaa athawn nyn nyngcee, keei cengkuːh ni acuːn haa naa pahtyak khy y hngihminnei. <verse eid="MRK 14:35" /><verse number="36" style="v" sid="MRK 14:36" />Yn hnguva, “<char style="tl">Abba</char>, ky Pawe vo, nyang tawk cee akumkuːt athawn nyn. Myn maa keei cengkuːh lovei piatmawh. Ynbawlakhy keei luː si kaw seh, nyang luː tyng jyang si seh,” tijyng y hngihminnei.<verse eid="MRK 14:36" /></para>
+  <para style="p">
+    <verse number="37" style="v" sid="MRK 14:37" />Ynpynyng y hngulawnglyk haa cenga y hleibua hnguva y hngulawnglyk haa ym ippei khyang y hnguh, Pitar eyng y hyau, “Simon, ny ippei? Khing huat khy zong nyn jo zawei? <verse eid="MRK 14:37" /><verse number="38" style="v" sid="MRK 14:38" />Hlumhlik nyak khawm kaw haijaa sathih eyng zong zawlaa hngihminnei byih jyt. Muikhaw naa cee luːvei laakhy, pumju vyngcee athaaniau,” y tiinyak.<verse eid="MRK 14:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="MRK 14:39" />Athaa mawkhuat zet theilaa acuːk baw tynga y hngihminnei. <verse eid="MRK 14:39" /><verse number="40" style="v" sid="MRK 14:40" />Y lu bua hnguva, ym ippei khyang y hnguh bua tuːh, ibawthonnyngmaa tijyngcee ym mik haa jyh khuːk. Ynkhainnyng Jesuh eyng ibaw hyau vy iky huat tii joaw.<verse eid="MRK 14:40" /></para>
+  <para style="p">
+    <verse number="41" style="v" sid="MRK 14:41" />Athaa athum nyak y lu bua tuːh hnguva, yn haa eyng y hyau, “Tuh cuːn cyp nym duːm zawlaa nym ippei soi hyaamei? A khyk! Acuːn phaweluu pyn. To vyt, khyang Zawpawe cee petzawe haa kut dukka ym eyp peei pyn. <verse eid="MRK 14:41" /><verse number="42" style="v" sid="MRK 14:42" />Thoo vyt, zet phaw, Keei yap hai mynnijaa y phaweluu hngyh,” y tiinyak.<verse eid="MRK 14:42" /></para>
+  <para style="s">Jesuh Ym Muan</para>
+  <para style="r">(<ref loc="MAT 26:47-56">Matthai 26.47–56</ref>; <ref loc="LUK 22:47-53">Luka 22.47–53</ref>; <ref loc="JHN 18:3-12">Jawhen 18.3–12</ref>)</para>
+  <para style="p">
+    <verse number="43" style="v" sid="MRK 14:43" />Y khyau hlu hnguva, y hngulawnglyktih kulaihngih dukka kuːh Judah y phawluu. Yn dy jahenpaw lian, tala cawkhyau tih, lianzang haa tuhlu khyang, khyang puː haa cimkha laa tiangbyng haa bynnei theiawla ym luu. <verse eid="MRK 14:43" /><verse number="44" style="v" sid="MRK 14:44" />Yn hnguva yaptih naa yn haa eyng y athaa pei, “Keei na uut khyang, khyang cee nyangmi luːvei khyang asi, yn muan theila poaija zeh byih jyt,” y tiinyak.<verse eid="MRK 14:44" /></para>
+  <para style="p">
+    <verse number="45" style="v" sid="MRK 14:45" />Judah cee Jesuh cenga zet theilaa, “Rabbi,” tinaw theilaa ynih y uut. <verse eid="MRK 14:45" /><verse number="46" style="v" sid="MRK 14:46" />Khyang haa na Jesuh muan theila ym khuun. <verse eid="MRK 14:46" /><verse number="47" style="v" sid="MRK 14:47" />Jesuh cenga tungtih pahuat naa cicom lovei theila, jahenpaw lian tuːhtannei khyang, khyang pahuat hngawku y khun kyk. <verse eid="MRK 14:47" /><verse number="48" style="v" sid="MRK 14:48" />Jesuh na y hyau, “Hutphaaijei tih khyang haa muan hai bawva cimkha laa tiangbyng dy keei cenga nym luu vei? <verse eid="MRK 14:48" /><verse number="49" style="v" sid="MRK 14:49" /><note caller="-" style="x"><char style="xo" closed="false">14.49 </char><char style="xt" closed="false"><ref loc="LUK 19:47">Luk 19.47</ref>; <ref loc="LUK 21:37">21.37</ref> </char></note>Hnguːp hnguːi nyangmi dy ky myi hah piang biatimm maa ky cawkhyau hnguva, keei muan jo zawe. Ynbawlakhy kutjokcaw kuːmzei lawh ly a si,” y tiinyak.<verse eid="MRK 14:49" /></para>
+  <para style="p">
+    <verse number="50" style="v" sid="MRK 14:50" />Yn hnguva hngulawnglyktih haa tomti naa ynih kaataw giah awlaa ym zeen tyak.<verse eid="MRK 14:50" /></para>
+  <para style="p">
+    <verse number="51" style="v" sid="MRK 14:51" />Putawe zawe pahuat hiah pyt vuei theilaa, Jesuh lawnglyktih haa na ynih muan ym luː, <verse eid="MRK 14:51" /><verse number="52" style="v" sid="MRK 14:52" />Ynbawlaakhy yn naa suisyak dyyitit theilaa suishyak kawva y zen.<verse eid="MRK 14:52" /></para>
+  <para style="s">Jesuh Kongci Maweva Cijyangnyak</para>
+  <para style="r">(<ref loc="MAT 26:57-68">Matthai 26.57–68</ref>; <ref loc="LUK 22:54">Luka 22.54</ref>,<ref loc="LUK 22:63-71">63–71</ref>; <ref loc="JHN 18:13-14">Jawhen 18.13–14</ref>,<ref loc="JHN 18:19-24">19–24</ref>)</para>
+  <para style="p">
+    <verse number="53" style="v" sid="MRK 14:53" />Ynhnguva Jesuh cee Jahenpaw lian imm maa ym zeh. Jahenpaw lian haa, lianzang haa, tala cawkhyau tih haa ym dyynnei. <verse eid="MRK 14:53" /><verse number="54" style="v" sid="MRK 14:54" />Pitar naa pannawva kuːhthuh jahenpaw lian khiam duk cyp Jesuh y lykkei. Ynpynnyng zongtih haa dy ngoa theilaa meei y awm. <verse eid="MRK 14:54" /><verse number="55" style="v" sid="MRK 14:55" />Jahenpaw lian la kongci khyanglian haa tomti naa Jesuh ym tuknyak nyn ny tawk saksi ym sui, ynbawlaakhy ipet khy hngu joaw. <verse eid="MRK 14:55" /><verse number="56" style="v" sid="MRK 14:56" />Khyang panuukung naa ahngoan tih kaw saksi haa ym sui, ynbawlakhy yn haa saksi dynnei joaw.<verse eid="MRK 14:56" /></para>
+  <para style="p">
+    <verse number="57" style="v" sid="MRK 14:57" />Avoang khyang haa tung awlaa asitih khaw saksi ym bei: <verse eid="MRK 14:57" /><verse number="58" style="v" sid="MRK 14:58" /><note caller="-" style="x"><char style="xo" closed="false">14.58 </char><char style="xt" closed="false"><ref loc="JHN 2:19">Jaw 2.19</ref> </char></note> “Khyang kut tyng syak khyang myn biatimm simphak theinga, khyang kut tyng saw tih khaw biatimm hnguːp thum hnguːp pyng ky syak ky tilaa y hyau khyang kym jyakpyn,” ym tiinyak. <verse eid="MRK 14:58" /><verse number="59" style="v" sid="MRK 14:59" />Ynbawlakhy ym saksi haa dynnei joaw.<verse eid="MRK 14:59" /></para>
+  <para style="p">
+    <verse number="60" style="v" sid="MRK 14:60" />Ynpynnyng jahenpaw lian naa yn haa duːduːm myng tung theila Jesuh eyng y hngi, “Ikhy hyaubua jo tijei? Ibyang saksi haa myn khyang haa naa nyang nyng ym sui maa?” tilaa y hngii.<verse eid="MRK 14:60" /></para>
+  <para style="p">
+    <verse number="61" style="v" sid="MRK 14:61" />Ynbawlakhy Jesuh naa syakkei kawva byakkhy tikawva y myihjei tyak. Jahenpaw lian naa atha mokhuat y hngii, “Nyang cee khunkhyi bei tih Nuatpaw Zawpaw, Khrit, ny sijei?” tilaa y hngii.<verse eid="MRK 14:61" /></para>
+  <para style="p">
+    <verse number="62" style="v" sid="MRK 14:62" />Yn khiannyng Jesuh na, “Yn ky si,” tilaa y hyau, “Khyang Zawpawe cee phungan lian tih kheplyaam ngoa theila, huankhu khusiat dyang ngei theila y kawm luu khyang ny hnguh lawh ly,” y tiinyak.<verse eid="MRK 14:62" /></para>
+  <para style="p">
+    <verse number="63" style="v" sid="MRK 14:63" />Jahenpaw lian naa y suisyak tiak theilaa, “Ibyang saksi haa luːvei hyaam maa?” tila y hngi. <verse eid="MRK 14:63" /><verse number="64" style="v" sid="MRK 14:64" />“Nuatpawe vyng siatnyak khyang khyaukhaw nym jyak pyn. Ibaw nym uːtnyak maa?” y tiinyak.</para>
+  <para style="p" vid="MRK 14:64">Yn haa tomti na y byt tuan tijyng y pet ym tyang.<verse eid="MRK 14:64" /></para>
+  <para style="p">
+    <verse number="65" style="v" sid="MRK 14:65" />Yn khiannyng khyang avoang na ynih eyng cyatuii ym suh nyak, ynih mik shiing awlaa ym tii, “Hngawei tilaa hyau,” ym tiinyak. Ynpynnyng zongtih haa naa khy Jesuh zehei awlaa ym sawh.<verse eid="MRK 14:65" /></para>
+  <para style="s">Pitar Na Jesuh Y Zah</para>
+  <para style="r">(<ref loc="MAT 26:69-75">Matthai 26.69–75</ref>; <ref loc="LUK 22:56-62">Luka 22.56–62</ref>; <ref loc="JHN 18:15-18">Jawhen 18.15–18</ref>,<ref loc="JHN 18:25-27">25–27</ref>)</para>
+  <para style="p">
+    <verse number="66" style="v" sid="MRK 14:66" />Pitar cee imm maw lyammaa y myijei hnguva, jahenpaw lian tuːhtannei khyang hngutawzawe pahuat y lu. <verse eid="MRK 14:66" /><verse number="67" style="v" sid="MRK 14:67" />Pitar meeii y ommei khyang y hnguh hnguva, yn cenga zet theila y to vei, “Nyang khy Nazareth ta kuːh Jesuh bawngpui ny si kawvei,” y tiinyak.<verse eid="MRK 14:67" /></para>
+  <para style="p">
+    <verse number="68" style="v" sid="MRK 14:68" />Ynbawlakhy Pitar na y zah, “Keei hnguat jo nga sikawvyngcee ibyang kawng ny hyau maa jawzu jo nga,” y tinyak. Ynpynnyng khiam tua y zet laa eahlui akhong.<note caller="+" style="f"><char style="fr" closed="false">14.68 </char><char style="ft" closed="false">Y cya kutjok caw haa eyng </char><char style="fq" closed="false">Ynpynnyng khiam tua y zet laa eahlui akhong, </char><char style="ft" closed="false">tijyng myi jo.</char></note><verse eid="MRK 14:68" /></para>
+  <para style="p">
+    <verse number="69" style="v" sid="MRK 14:69" />Atha mawk huat tuːhtannei khyang hngutawzaw naa ynih hnguh hnguva, ynnijaa tung tih haa eyng y hyauvei, “Myn khyang cee yn haa bawngpui y si,” y tinyak. <verse eid="MRK 14:69" /><verse number="70" style="v" sid="MRK 14:70" />Ynbawlakhy y zah buatuːh.</para>
+  <para style="p" vid="MRK 14:70">Iveihkhy div jo, y cenga tung tih haa naa Pitar eyng ym hyau, “Tengteng kung yn haa bawngpui pahuat ny si, Galilee kuːh khyang ny si,” ym tiinyak.<verse eid="MRK 14:70" /></para>
+  <para style="p">
+    <verse number="71" style="v" sid="MRK 14:71" />Ynkhiannyng Pitar naa, “tengteng ky hyau, yn khyang nyangmi hyau khyang hnguat jonga,” tila y juannei.<verse eid="MRK 14:71" /></para>
+  <para style="p">
+    <verse number="72" style="v" sid="MRK 14:72" />Ynhnguva saisikung Eahlui akhong, Ealui mawk hngih akhong hnguva Jesuh naa yn nyng, “Eahlui mawk hngih akhong hluan naa keei mawk thum ny zah ey,” y tiinyak khyang khyaukhaw Pitar naa y khindyang hnguva y luukee kuiijei theilaa y khangsukkei.<verse eid="MRK 14:72" /></para>
+  <chapter eid="MRK 14" />
+  <chapter number="15" style="c" sid="MRK 15" />
+  <para style="s">Pilat Hngoaimaw va Jesuh</para>
+  <para style="r">(<ref loc="MAT 27:1-2">Matthai 27.1–2</ref>,<ref loc="MAT 27:11-14">11–14</ref>; <ref loc="LUK 23:1-5">Luka 23.1–5</ref>; <ref loc="JHN 18:28-38">Jawhen 18.28–38</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 15:1" />Kuuthoaih lyaam ngutyh hnguva, jahenpaw lian, y lianzang, tala cawkhyautih haa, Sanhedrin haa tomti cee ym puhcai buathuh ey khyang pyeivei. Jesuh khuun theieawlaa, Pilat Syamphalyang ngyng saisikung ym yappei. <verse eid="MRK 15:1" /><verse number="2" style="v" sid="MRK 15:2" />Ynhnguva Pilat na Jesuh eyng, Judah haa Syamphalyang ny si jei? tilaa y hngi.</para>
+  <para style="p" vid="MRK 15:2">Jesuh naa, “Yih, nyang hyau baw asi,” y tinyak.<verse eid="MRK 15:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="MRK 15:3" />Ynpynyng jahenpaw lian haa naa apet panukung ym tyang. <verse eid="MRK 15:3" /><verse number="4" style="v" sid="MRK 15:4" />Yn hnguva Pilat na athaa y hngih buatuːh, “Nyang naa ikhy khyau syakkei bua jo tijei? Do yn haa na panukung nyang ngyng pet ym tyang maa,” y tinyak.<verse eid="MRK 15:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="MRK 15:5" />Ynbawlakhy Jesuh naa ikhy y hyau bua kaw khyang Pilat na y muːnnyak.<verse eid="MRK 15:5" /></para>
+  <para style="s">Pilate na Jesuh Tukky Cijang Nyak</para>
+  <para style="r">(<ref loc="MAT 27:15-26">Matthai 27.15–26</ref>; <ref loc="LUK 23:13-25">Luka 23.13–25</ref>; <ref loc="JHN 18:39-19:16">Jawhen 18.39—19.16</ref>)</para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 15:6" />Pahtyak hnguːp tyng ngyng Khyang haa naa ym luːvei khyang thawng dukka kuːh pahuat Pilate na y hluːh piat thumzian amyi. <verse eid="MRK 15:6" /><verse number="7" style="v" sid="MRK 15:7" />Ynhnguva khyang syak tuu awla pheh khyam lawh tih haa panuu ym myi. Yn haa dukka Barabas mingnawtih khyang pahuat khy myi. <verse eid="MRK 15:7" /><verse number="8" style="v" sid="MRK 15:8" />Khyang puː haa luu theiawla, Pilate tyng ny puhcai shoi bawva apetmawh pahuat hluːh piat tila ym khawhei. <verse eid="MRK 15:8" /><verse number="9" style="v" sid="MRK 15:9" />Pilat na yn haa eyng y hngi, “Judah Syamphalyang hluːh piatty nym luː nyak kei?” y tinyak. <verse eid="MRK 15:9" /><verse number="10" style="v" sid="MRK 15:10" />Ibawthawnyng nibawa y hngi ma tijyng cee, jahenpaw lian haa na Jesuh myangsing naw awlaa ym muan khyang y hnguat.<verse eid="MRK 15:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="MRK 15:11" />Ynbawlakhy jahenpaw lian haa na khyang puː haa ym hnguh hnguva Pilate tyng Barabas ym hluːh syak. <verse eid="MRK 15:11" /><verse number="12" style="v" sid="MRK 15:12" />Athaa khy Pilat na, “Judah Syamphalyang tijyng nym hyau khyang ibaw ky puh lawhey ma?” tijyng y hngi.<verse eid="MRK 15:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="MRK 15:13" />Yn haa naa, “Tangtyng huanna tuu vyt,” tila tomti ym paang.<verse eid="MRK 15:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 15:14" />Pilat na yn haa eyng, “Ithawnnyngmaa? I y pet nyak ma?” y tinyak.</para>
+  <para style="p" vid="MRK 15:14">Ynbawlakhy “yn tangtyng huannaa tuuvyt,” tila ym paang kakai.<verse eid="MRK 15:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="MRK 15:15" />Khyang puː haa ym lungjyy syakky y luː khianyng, Pilat naa Barabas yn haa tawk y hluːhpiat. Jesuh cee shuat theila tangtyng huan na tang haija y yap.<verse eid="MRK 15:15" /></para>
+  <para style="s">Jesuh Ym Hlokpyak</para>
+  <para style="r">(<ref loc="MAT 27:27-31">Matthai 27.27–31</ref>; <ref loc="LUK 19:2-3">Luka 19.2–3</ref>)</para>
+  <para style="p">
+    <verse number="16" style="v" sid="MRK 15:16" />Jaapuː haa na Jesuh cee syamphalyang imm maw ym zeh, yn cee Jaapuː puːhuat dynnei luu haiawa ym paan. <verse eid="MRK 15:16" /><verse number="17" style="v" sid="MRK 15:17" />Jesuh eyng oale phaang vuh theiawla, ahling ngyng gyaei tih lukhu y lukee huan na ym byua. <verse eid="MRK 15:17" /><verse number="18" style="v" sid="MRK 15:18" />“Judah syamphalyang” syak syau seh! tila hawedawh nuuva khun ym bei. <verse eid="MRK 15:18" /><verse number="19" style="v" sid="MRK 15:19" />Atha mawk huat y luugee zungkiak kyng pawt theila ynih cyatuii ym suh nyak. Y hngoaimawa khukdyaa theiawla khuːhbia tih bawva ym puh. <verse eid="MRK 15:19" /><verse number="20" style="v" sid="MRK 15:20" />Ynbawva ym hawedawh nyak pynnyng, oale phaang suishyak sut awlaa y suisyak hngaw ym vuh bua. Tangtyng huan na ym taang ngy ym zeh.<verse eid="MRK 15:20" /></para>
+  <para style="s">Jesuh Taangtyng Huan Na Ym Tuk</para>
+  <para style="r">(<ref loc="MAT 24:32-44">Matthai 24.32–44</ref>; <ref loc="LUK 23:26-43">Luka 23.26–43</ref>; <ref loc="JHN 19:17-27">Jawhen 19.17–27</ref>)</para>
+  <para style="p">
+    <verse number="21" style="v" sid="MRK 15:21" />Cyrene pee kuːh, Simon mingnaw tih, Alexander laa Rufus pawe cee naama kuːh luu theila, lyaam y zet khyang ym hnguh hnguva, yn nyng bytseh kung taangtyng ym kyt syak. <verse eid="MRK 15:21" /><verse number="22" style="v" sid="MRK 15:22" />Jesuh cee Golgotha (luugee gop duːn tijyng ym hyau khyang) duːn na ym zeh. <verse eid="MRK 15:22" /><verse number="23" style="v" sid="MRK 15:23" />Murah ju dy thokkei tih, miksu ju ym bawk hnguva dynnei jo. <verse eid="MRK 15:23" /><verse number="24" style="v" sid="MRK 15:24" />Yn pynnyng tangtyng hngoan na ym taang. Y suisyak haa khoii theiawla, u na ibyang ym lawh ey maa tih ym phyaih ym zawtei. <verse eid="MRK 15:24" /><verse number="25" style="v" sid="MRK 15:25" />Tangtyng huan na ynih ym taang hnguva angu acuːn kuu cuːn asi. <verse eid="MRK 15:25" /><verse number="26" style="v" sid="MRK 15:26" />Hnguh tih takaa naa phuat hai awvaa: “Judah Syamphalyang,” tiila ym jawk. <verse eid="MRK 15:26" /><verse number="27" style="v" sid="MRK 15:27" />Ynih haa naa kheleem kheppa khyang see muuei tih hngutphai jei tih putawe pahngih tangtyng ngyng ym dyap. <verse eid="MRK 15:27" /><verse number="28" style="v" pubnumber="[28]" sid="MRK 15:28" /><note caller="+" style="f"><char style="fr" closed="false">15.28 </char><char style="ft" closed="false">Ycya kuːtjok caw haa ym bawng akhyn dik 28: </char><char style="fqa" closed="false">Nibawva ynn tuikawmcaw na hyau khyang ahngoan luu, “sawisak mawh haa eyng y saih” </char><char style="ft" closed="false">(to </char><char style="xt"><ref loc="LUK 22:37">Luk 22.37</ref></char>).</note><verse eid="MRK 15:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="MRK 15:29" />Lyaam maa zet tih haa naa khy ym hawdawh nyak khyau khawe eyng, “Hei! biatimm Simpak tilaa, hnguːpthum myng syak nyn bua hai jyng! <verse eid="MRK 15:29" /><verse number="30" style="v" sid="MRK 15:30" />tuh a ny pumhngawe lilovei tila taangtyng huana kuːh kom lu hngawe camh!” tila ym hyau.<verse eid="MRK 15:30" /></para>
+  <para style="p">
+    <verse number="31" style="v" sid="MRK 15:31" />Ynbaw tyng nga jahenpaw lian haa, tala thumcian cawkhyau tihaa naa khy ym hlawk pyak. “Khyang haa cee y hluːh piat nyn,” “ynbawlakhy y pumhngawe cee lilovei nyn jo si! <verse eid="MRK 15:31" /><verse number="32" style="v" sid="MRK 15:32" />Isreal syamphalyang, lilovei tih Messaih keeimi naa hnguh theilaa jum my tawk taangtyng huana kuːh kom luu.”</para>
+  <para style="p" vid="MRK 15:32">Jesuh Khrit dy tangngei tih khyang see pahngih hngyih naa khy hawedawh nuuva y hngih hlawkpyak.<verse eid="MRK 15:32" /></para>
+  <para style="s">Jesuh Bytnyak</para>
+  <para style="r">(<ref loc="MAT 27:45-56">Matthai 27.45–56</ref>; <ref loc="LUK 23:44-49">Luka 23.44–49</ref>; <ref loc="JHN 19:28-30">Jawhen 19.28–30</ref>)</para>
+  <para style="p">
+    <verse number="33" style="v" sid="MRK 15:33" />A hnguːp duːduːm, myng kuːhthuh mawkthum cyp somdek tomti ahung na akuːn. <verse eid="MRK 15:33" /><verse number="34" style="v" sid="MRK 15:34" />Amuːlyaam khing thum hnguva Jesuh cee thaa eyng y paang, <char style="tl">“Eloi, Eloi, lema sabachthani?”</char> tila y paang. Yn cee, “ky Nuatpaw, ky Nuatpawe, ibawthawnyng ny dyyi maa?” ti hyau a si.<verse eid="MRK 15:34" /></para>
+  <para style="p">
+    <verse number="35" style="v" sid="MRK 15:35" />Y cenga tung ti haa naa ym jyak, “Ngeih, Elijah y paan!” tila ym hyau. <verse eid="MRK 15:35" /><verse number="36" style="v" sid="MRK 15:36" />Ycya khyang pahuat zawn nei theilaa, miksu ju thuu am myng kuːh theila jooi jyng pawnsee hlomei tih eyng suk theila Jesuh naa uu haija y bawkkei. “Khyk hngyh seh, tawe hngyh pawe. Elijah na kom luu theilaa, y hluːh lu piattei tih my to vy” y tinyak.<verse eid="MRK 15:36" /></para>
+  <para style="p">
+    <verse number="37" style="v" sid="MRK 15:37" />Jesuh cee thaa tomti jyng paang theila, y syak y jom.<verse eid="MRK 15:37" /></para>
+  <para style="p">
+    <verse number="38" style="v" sid="MRK 15:38" />Ynhnguva biatimm dukkuːh hiahsung cee ahngoan cuu vyng kuːhthuh adyang cuu cyp pahngih aa atiakkut. <verse eid="MRK 15:38" /><verse number="39" style="v" sid="MRK 15:39" />Jeush hngoaimawva uptih bawi na y hnguh, ynih ibaw y byt <note caller="+" style="f"><char style="fr" closed="false">15.39 </char><char style="fq" closed="false">y byt; </char><char style="ft" closed="false">ycya kutjok caw haa myi </char><char style="fqa" closed="false">baang theila y byt.</char></note> khyang hnguh hnguva, “Tengteng kung myn Khyang cee Nuatpaw zawpaw y si!” tila y hyau.<verse eid="MRK 15:39" /></para>
+  <para style="p">
+    <verse number="40" style="v" sid="MRK 15:40" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">15.40,41 </char>
+      <char style="xt" closed="false">
+        <ref loc="LUK 8:2">Luk 8.2</ref>,<ref loc="LUK 8:3">3</ref> </char>
+    </note>Acya hngutawe nu haa na a paan nawva kuːhthuh ym to. Yn haa dukka Magdala luh kuːh Marih, adik zawe tih James laa Josep nuu Marih, laa Salome khy ym pui. <verse eid="MRK 15:40" /><verse number="41" style="v" sid="MRK 15:41" />Galilee ja myi hnguva ynih hngulawng lyk theilaa lupan naw tih khy myi. Acya hngutaw Jerusalem maa kuːh haa khy ynijaa ym myi.<verse eid="MRK 15:41" /></para>
+  <para style="s">Jesuh Jawk Khuːh nyak</para>
+  <para style="r">(<ref loc="MAT 27:57-61">Matthai 27.57–61</ref>; <ref loc="LUK 23:50">Luka 23.50</ref>; <ref loc="JHN 19:38-42">Jawhen 19.38–42</ref>)</para>
+  <para style="p">
+    <verse number="42" style="v" sid="MRK 15:42" />Yn hnguːp cee piangsaa jei hnguːp Jin hnguːp hluan a si. Khumuː lyaam phawlu hngua, <verse eid="MRK 15:42" /><verse number="43" style="v" sid="MRK 15:43" />Arimathea luh saw Josep cee Nuatpaw teengpee uːtnyak kyng zong tih y si bawva, Syamphalyang Pilat cenga kyh kawva Jesuh jawawk y hngih voih. <verse eid="MRK 15:43" /><verse number="44" style="v" sid="MRK 15:44" />Jesuh a byt pyn tiinyak khyang y jyak hnguva Pilat naa y muːnnyak. Uptih paan theila, “Jesuh cee y byt pyn nei ibaw ma?” tilaa y hngi. <verse eid="MRK 15:44" /><verse number="45" style="v" sid="MRK 15:45" />Uptih la y mawh hyau khyang y jyak hnguva, Pilate na Josep pyng Jesuh jawawk y bei. <verse eid="MRK 15:45" /><verse number="46" style="v" sid="MRK 15:46" />Yn hnguva Josep na y hleih khyang hiah bok kyng hlom theila, y jawawk y zeh, lunguu zuu dukka ym tawei, yn pynyng zu kyt tyng lungnu vyng y khah hnguːt. <verse eid="MRK 15:46" /><verse number="47" style="v" sid="MRK 15:47" />Magdala luh zaw Marih la Josep nuu Marrih na, Jesuh jawawk hngyn nyak duːn y hngih hnguh.<verse eid="MRK 15:47" /></para>
+  <chapter eid="MRK 15" />
+  <chapter number="16" style="c" sid="MRK 16" />
+  <para style="s">Bytnyak kuːh Jesuh Thoo Bua nyak</para>
+  <para style="r">(<ref loc="MAT 28:1-8">Matthai 28.1–8</ref>; <ref loc="LUK 24:1-12">Luka 24.1–12</ref>; <ref loc="JHN 20:1-10">Jawhen 20.1–10</ref>)</para>
+  <para style="p">
+    <verse number="1" style="v" sid="MRK 16:1" />Jin hnguːp pynnyng Magdala luh kuːh Marih, James nuu Marih laa Salome tih haa Jesuh jawawk kyng jun ny khyang uing hlei theiawlaa ym luu. <verse eid="MRK 16:1" /><verse number="2" style="v" sid="MRK 16:2" />Acuːk jah hnguːp ngutyh khuhngii lyt luu cuːn nyng, zu lyaamma ym zet hnguva, <verse eid="MRK 16:2" /><verse number="3" style="v" sid="MRK 16:3" />pahuat la pahuat, “zu kyt khah nyak lung sawt cee u naa hloat voai ma?” tila ym hngiei thong. <verse eid="MRK 16:3" /><verse number="4" style="v" sid="MRK 16:4" />Ym to hnguva lung sawt alian pawe khyang hngu theilaa yn lung sawt khy hngongei cyn khyang ym hnguh. <verse eid="MRK 16:4" /><verse number="5" style="v" sid="MRK 16:5" />Yn hnguva zu dukka ym voang hnguva, putawzawe pahuat khep lyaamma phaang pok vuei theila y ngoa khyang ym hnguh hnguva ym zaat nyak myk.<verse eid="MRK 16:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="MRK 16:6" />Yn na, Zaatnawe kawh eyt, tilaa yn haa eyng hyau. “Tangtyng huanna byt khyaam hnguːt tih Nazareth luh Zawe Jesuh nym suijok kawvei. Yn cee thoo bua pyn; Yn mynija myi tijo. Ym khuh hnguːt nyak duːn to vyt, <verse eid="MRK 16:6" /><verse number="7" style="v" sid="MRK 16:7" /><note caller="-" style="x"><char style="xo" closed="false">16.7 </char><char style="xt" closed="false"><ref loc="MAT 26:32">Mat 26.32</ref>; <ref loc="MRK 14:28">Mar 14.28</ref> </char></note>Ynbawlakhy zettyt, hngulawnglyktih haa la Pitar eyng saih jei jyt, ‘Yn cee nyangmi maw Galilee pee jaa y zetpyn. Nyang ngyng y hyau hnguːt bawva, ynnijaa yn nym hnguh veijy,’ ” y tinyak.<verse eid="MRK 16:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="MRK 16:8" />Yn hnguva hngutawe haa cee sawso lelet awlaa zu dukka kuːh lyt theila ym zawn. Jesuh kyhtong khianyng u vyng khy ahngoan na saih voam joaw.</para>
+  <para style="ms" vid="MRK 16:8">Sityang Poai a Pyiu Apyihnyak<note caller="+" style="f"><char style="fr" closed="false">16.8 </char><char style="ft" closed="false">Acya kutjok caw haa laa phyuamaa caw puan tih haa naa myn a pyih nyak sityang poai tawvei jo aww (y khyn dik 9–20).</char></note></para>
+  <para style="mr" vid="MRK 16:8">
+    <ref loc="MRK 16:9-20">16.9–20</ref></para>
+  <para style="s" vid="MRK 16:8">Magdala Naam kuːh Mary Cenga Jesuh Duannei nyak</para>
+  <para style="r" vid="MRK 16:8">(<ref loc="MAT 28:9-10">Matthai 28.9–10</ref>; <ref loc="JHN 20:11-18">Jawhen 20.11–18</ref>)</para>
+  <para style="p" vid="MRK 16:8">[ <verse eid="MRK 16:8" /><verse number="9" style="v" sid="MRK 16:9" />Kuhnguːp hnguːp syh dukkuːh acuːk hnguːp Hngi hnguːp pyng Jesuh y thoo bua hnguva, acuːkka tusee syh y shuːshawt khyang duːn Magdala naam maa kuːh Marih cenga y duan voih mawe. <verse eid="MRK 16:9" /><verse number="10" style="v" sid="MRK 16:10" />Magdala naam maa kuːh Jesuh myi hah hnguːt pui Pitar y bawngboai haa khangsukkei tih haa eyng zet theila y saih jei. <verse eid="MRK 16:10" /><verse number="11" style="v" sid="MRK 16:11" />Jesuh byt nyak kuːh y hyang bua pyn tiih, Magdala naam maa kuːh Mary na y hnguhei tinyak khyang ym jyak hnguva, yn jum nyn joaw.<verse eid="MRK 16:11" /></para>
+  <para style="s">Hngulawnglyk Pahngih Ceenga Jesuh Duanneinyak</para>
+  <para style="r">(<ref loc="LUK 24:13-35">Luka 24.13–35</ref>)</para>
+  <para style="p">
+    <verse number="12" style="v" sid="MRK 16:12" />Ynpynyng Jesush cee y hngulawnglyk pahngih naam lyaamma y hngih zet hnguva, ycya baw piangei theila y hyih cenga y duannei voih. <verse eid="MRK 16:12" /><verse number="13" style="v" sid="MRK 16:13" />Yn hyih hleilu bua theila, y cya haa eyng y hngih saih jei, ynbawlakhy yn haa na jum joaw.<verse eid="MRK 16:13" /></para>
+  <para style="s">Hngulawnglyktih Kulaihuat Cenga Jesuh povei nyak</para>
+  <para style="r">(<ref loc="MAT 28:16-20">Matthai 28.16–20</ref>; <ref loc="LUK 24:36-49">Luka 24.36–49</ref>; <ref loc="JHN 20:19-23">Jawhen 20.19–23</ref>; <ref loc="ACT 1:6-8">Ceepaw 1.6–8</ref>)</para>
+  <para style="p">
+    <verse number="14" style="v" sid="MRK 16:14" />Ynpynyng y hngulawnglyk kulaihuat haa ym ei jei hnguva Jesuh duan voih theila, y thoh bua khyang hngutih haa khyau ym jum kaw khianyng, ym jum thei kaw khyang lung la ym lungbawng cang haa y cawkhyau. <verse eid="MRK 16:14" /><verse number="15" style="v" sid="MRK 16:15" /><note caller="-" style="x"><char style="xo" closed="false">16.15 </char><char style="xt" closed="false"><ref loc="ACT 1:8">Cee 1.8</ref> </char></note>Yn haa eyng y hyau, “Somdek tomti ja zet cawlaa comuaa khyang haa tomti cenga sityang poai saih byih jyt. <verse eid="MRK 16:15" /><verse number="16" style="v" sid="MRK 16:16" />U khy siseh jummeitih cee baptisma khyammei theilaa lilovei nyak lawh ly, ynbawlaaky jummeitih kaw ukhy siseh pet cijang khyam lawh ly. <verse eid="MRK 16:16" /><verse number="17" style="v" sid="MRK 16:17" />Jummeitih cee muːnnawseetih puh nyn nyak phungan lawh theilaa tusee haa keei ming ngyng ym shuː vy, khyau tha vyng ym khyau vy. <verse eid="MRK 16:17" /><verse number="18" style="v" sid="MRK 16:18" />Phua haa ym kut tyng muan laakhy byt nyak tuu haa uu laakhy nehsee lawh hai sijo; neh mawh haa khunga ym kut ym tyang hngua, yn haa kaansaa nyak ym lawh ey,” y tinyak.<verse eid="MRK 16:18" /></para>
+  <para style="s">Hngoankhu Va Jesuh Y Koai</para>
+  <para style="r">(<ref loc="LUK 24:50-53">Luka 24.50–53</ref>; <ref loc="ACT 1:9-11">Ceepaw 1.9–11</ref>)</para>
+  <para style="p">
+    <verse number="19" style="v" sid="MRK 16:19" />
+    <note caller="-" style="x">
+      <char style="xo" closed="false">16.19 </char>
+      <char style="xt" closed="false">
+        <ref loc="ACT 1:9-11">Cee 1.9–11</ref>
+      </char>
+    </note>Mawhpaw Jesuh yn haa dy hyauvei pynyng, huankhu va juːhsonnei khyam lawh theila, Nuatpawe khep lyaamma y ngoa. <verse eid="MRK 16:19" /><verse number="20" style="v" sid="MRK 16:20" />Hngulawnglyk haa khy hleibua thei awlaa a duːn tomti ja sityang ym saihjok, Mawhpaw naa yn haa eyng khut y yap, sityang ym saih khyang haa a hngoan tinyak khyang muːnnawseetih phungan haa bei theila y podyang shyak.]</para>
+  <para style="ms" vid="MRK 16:20">Acya Kuːh Apyihnyak<note caller="+" style="f"><char style="fr" closed="false">16.20 </char><char style="ft" closed="false">Acya kutjok caw haa laa acuːk caw phuantih haa naa asautih caw pyihnak khyang myn lilovei nyak sityangpoai tomti Pitar la y bawngboi haa eyng a pyih nyak kyng bawngbua (Akhyn dik 9–20) kyng amyi.</char></note></para>
+  <para style="mr" vid="MRK 16:20">
+    <ref loc="MRK 16:9-10">16.9–10</ref></para>
+  <para style="p" vid="MRK 16:20">[ <verse eid="MRK 16:20" /><verse number="21" style="v" pubnumber="[9]" sid="MRK 16:21" /> Jesuh bytnyak kuːh hngi hnguːp pyng thoo bua hnguva, acuːk nyak kyng Magdala naam kuːh Mary cenga y duanvoih maw, tusee syh khy y syt hnguːt. <verse eid="MRK 16:21" /><verse number="22" style="v" pubnumber="[10]" sid="MRK 16:22" /> Yn zet theilaa ynih mannei khyang y saih. Yn haa cee kap awlaa ym ngyammyiang.]<verse eid="MRK 16:22" /></para>
+  <chapter eid="MRK 16" />
+</usx>
