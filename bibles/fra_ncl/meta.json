@@ -24,9 +24,12 @@
         "service": "ebible",
         "format": "usfm",
         "url": "https://ebible.org/Scriptures/francl_usfm.zip",
-        "updated": "2024-11-09",
+        "updated": "2026-06-15",
         "revision": 0
     },
     "tags": [],
-    "partial": ["est","dan"]
+    "partial": [
+        "est",
+        "dan"
+    ]
 }

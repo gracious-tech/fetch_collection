@@ -8,16 +8,18 @@
     "year": 1996,
     "direction": "ltr",
     "copyright": {
-        "licenses": [{
-            "license": {
-                "forbid_attributionless": true,
-                "forbid_derivatives": true,
-                "forbid_commercial": true,
-                "forbid_limitless": false,
-                "forbid_other": false
-            },
-            "url": "https://ebible.org/Scriptures/details.php?id=ukr1996"
-        }],
+        "licenses": [
+            {
+                "license": {
+                    "forbid_attributionless": true,
+                    "forbid_derivatives": true,
+                    "forbid_commercial": true,
+                    "forbid_limitless": false,
+                    "forbid_other": false
+                },
+                "url": "https://ebible.org/Scriptures/details.php?id=ukr1996"
+            }
+        ],
         "attribution": "Copyright © 1996 Bob Jones University",
         "attribution_url": "https://ebible.org/Scriptures/details.php?id=ukr1996"
     },
@@ -28,7 +30,7 @@
         "service": "ebible",
         "format": "usfm",
         "url": "https://ebible.org/Scriptures/ukr1996_usfm.zip",
-        "updated": "2021-10-16",
+        "updated": "2025-01-31",
         "revision": 0
     },
     "tags": []
