@@ -24,7 +24,7 @@
     "source": {
         "service": "dbl",
         "format": "usx",
-        "url": "https://app.thedigitalbiblelibrary.org/entry/download_archive?id=0b869355f930f554&type=release",
+        "url": "https://api.library.bible/v1/content-entries/0b869355f930f554/zip",
         "updated": "2025-01-29",
         "revision": 1
     },
