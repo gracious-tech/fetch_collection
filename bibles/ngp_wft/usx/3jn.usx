@@ -1,36 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<usx version="2.0">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
   <book code="3JN" style="id">- Ngulu Bible Version</book>
   <para style="h">3 Yohana</para>
   <para style="toc1">Baluwa ya katatu ya Yohana</para>
-  <para style="toc2">3Yohana</para>
-  <para style="toc3">3Yoha</para>
+  <para style="toc2">3 Yohana</para>
+  <para style="toc3">3 Yoha</para>
   <para style="mt2">BALUWA YA KATATU YA</para>
   <para style="mt1">YOHANA</para>
   <para style="imt">ULONGOELO</para>
-  <para style="ip">Baluwa ya katatu ya Yohana yawandikagwa ni Mwigala Ulosi Yohana mwo mwaka wa milongo kenda kulawa aho Yesu eze elekwe. Yohana hakuketambula yehe mwenye kugamba niye awandike ibaluwa ino, mna aketanga mwenye enga mdala. 3 Yohana 1:1. Kadamanya iivo mwe 2 Yohana 1:1. Yahuwilwa kugamba, Uyo niye awandike Mbuli Yedi iwandikwe ni Yohana, na baluwa ya nk'hongo ya Yohana na baluwa ya kaidi ya Yohana na baluwa ya katatu ya Yohana umwo andaga akekala uko Efeso.</para>
+  <para style="ip">Baluwa ya katatu ya Yohana yawandikagwa ni Mwigala Ulosi Yohana mwo mwaka wa milongo kenda kulawa aho Yesu eze elekwe. Yohana hakuketambula yehe mwenye kugamba niye awandike ibaluwa ino, mna aketanga mwenye enga mdala. 1:1. Kadamanya iivo mwe 2 Yohana 1:1. Yahuwilwa kugamba, Uyo niye awandike Mbuli Yedi iwandikwe ni Yohana, na baluwa ya nk'hongo ya Yohana na baluwa ya kaidi ya Yohana na baluwa ya katatu ya Yohana umwo andaga akekala uko Efeso.</para>
   <para style="ip">Yohana amuwandikilaga baluwa ino mhuwila yumwenga akwitangwa Gayo. Kamtambula Gayo enga mbwiyaye naho kamsigiila ande mkise kwa wandugu wakumhuwila Kilisito wandaga wakutamba mwe isi iyo.</para>
   <para style="iot">Yemndani</para>
-  <para style="io">Yohana aitambula baluwa yakwe 3 Yohana 1:1.</para>
-  <para style="io">Akajika amgela moyo Gayo na kumsigiila awatendele ukise wandugu 3 Yohana 1:2-8.</para>
-  <para style="io">Naho, asimuila mwe mbuli ya want'hu watuhu waidi, Diotilefe na Demetilio 3 Yohana 1:9-12.</para>
-  <para style="io">Akajika, abindiliza ibaluwa yakwe 3 Yohana 1:13-14.</para>
-  <chapter number="1" style="c"/>
+  <para style="io">Mwo mnango wa 1:1, Yohana aitambula baluwa yakwe.</para>
+  <para style="io">Mwo mnango wa 1:2-8, Yohana amgela moyo Gayo na kumsigiila awatendele ukise wandugu.</para>
+  <para style="io">Mwo mnango wa 1:9-12, Yohana asimuila mwe mbuli ya want'hu watuhu waidi, Diotilefe na Demetilio.</para>
+  <para style="io">Mwo mnango wa 1:13-14, Yohana abindiliza ibaluwa yakwe.</para>
+  <chapter number="1" style="c" sid="3JN 1" />
   <para style="p">
-    <verse number="1" style="v"/>Miye mdala kilongozi nakuwandikila mbuyangu Gayo hukuunga mwe kindedi. <verse number="2" style="v"/>Mbuyangu, nalombeza kugamba mph'eho yedi kwako mwe zimbuli zose, unde mgima mwo mwili enga ivi wili mgima mwo muye. <verse number="3" style="v"/>Ne hyelelwa vitendese aho wandugu wamwenga weze wabule aha niyo weza kunigambila ivo wili mhuwilwa mwe kindedi, heiye weye wagendeela mwe kindedi. <verse number="4" style="v"/>Hakihali kint'hu kikulu kikunik'ha kinyemi kikujink'ha ukwiva kugamba wanangu wekala mwe kindedi.</para>
+    <verse number="1" style="v" sid="3JN 1:1" />Miye mdala kilongozi nakuwandikila mbuyangu Gayo hukuunga mwe kindedi. <verse eid="3JN 1:1" /><verse number="2" style="v" sid="3JN 1:2" />Mbuyangu, nalombeza kugamba mph'eho yedi kwako mwe zimbuli zose, unde mgima mwo mwili enga ivi wili mgima mwo muye. <verse eid="3JN 1:2" /><verse number="3" style="v" sid="3JN 1:3" />Ne hyelelwa vitendese aho wandugu wamwenga weze wabule aha niyo weza kunigambila ivo wili mhuwilwa mwe kindedi, heiye weye wagendeela mwe kindedi. <verse eid="3JN 1:3" /><verse number="4" style="v" sid="3JN 1:4" />Hakihali kint'hu kikulu kikunik'ha kinyemi kikujink'ha ukwiva kugamba wanangu wekala mwe kindedi.<verse eid="3JN 1:4" /></para>
   <para style="s">Nt'hogola kwa Gayo</para>
   <para style="p">
-    <verse number="5" style="v"/>Mbwiyangu, weye umhuwilwa vitendese kwa chochose ukudamanya kwa wanduguzo wahuwila, hata uneva wakanda wageni. <verse number="6" style="v"/>Woho wadigambila idifyo dya wahuwila wa Kilisito imbuli yo lukunde lwako. Nevinde vedi uneva nouwambize viya vikumwelela Mnungu wagendeele ne nt'hambo yawe. <verse number="7" style="v"/>Kwaivo wakonga int'hambo yawe kwo undima wawe kwa Kilisito haheina kwambizwa chochose ni want'hu hi wahuwila. <verse number="8" style="v"/>Naswe kiwambiza want'hu awa vileke kinde hamwenga nawo mwe ndima yawe kwajili yo ukindedi.</para>
+    <verse number="5" style="v" sid="3JN 1:5" />Mbwiyangu, weye umhuwilwa vitendese kwa chochose ukudamanya kwa wanduguzo wahuwila, hata uneva wakanda wageni. <verse eid="3JN 1:5" /><verse number="6" style="v" sid="3JN 1:6" />Woho wadigambila idifyo dya wahuwila wa Kilisito imbuli yo lukunde lwako. Nevinde vedi uneva nouwambize viya vikumwelela Mnungu wagendeele ne nt'hambo yawe. <verse eid="3JN 1:6" /><verse number="7" style="v" sid="3JN 1:7" />Kwaivo wakonga int'hambo yawe kwo undima wawe kwa Kilisito haheina kwambizwa chochose ni want'hu hi wahuwila. <verse eid="3JN 1:7" /><verse number="8" style="v" sid="3JN 1:8" />Naswe kiwambiza want'hu awa vileke kinde hamwenga nawo mwe ndima yawe kwajili yo ukindedi.<verse eid="3JN 1:8" /></para>
   <para style="s">Diotilefesi na Demetilio</para>
   <para style="p">
-    <verse number="9" style="v"/>Nehiwawandikila fyo dya wahuwila wa Kilisito, mna Diotilefe uyo akuungisa kunda kilongozi ywawe, hakuunga kukitegeleza. <verse number="10" style="v"/>Elo, heza kwiza nenizibunk'hule zimbuli zakwe zose akudamanya ne milosi ya udant'hi akukiziga. Naho hiyo ayo du mna hakuwahokela wandugu awo naho wawafingiza wadya wakuwahokela no kuwagulusa mwe difyo dya wahuwila wa Kilisito.</para>
+    <verse number="9" style="v" sid="3JN 1:9" />Nehiwawandikila fyo dya wahuwila wa Kilisito, mna Diotilefe uyo akuungisa kunda kilongozi ywawe, hakuunga kukitegeleza. <verse eid="3JN 1:9" /><verse number="10" style="v" sid="3JN 1:10" />Elo, heza kwiza nenizibunk'hule zimbuli zakwe zose akudamanya ne milosi ya udant'hi akukiziga. Naho hiyo ayo du mna hakuwahokela wandugu awo naho wawafingiza wadya wakuwahokela no kuwagulusa mwe difyo dya wahuwila wa Kilisito.<verse eid="3JN 1:10" /></para>
   <para style="p">
-    <verse number="11" style="v"/>Mbwiyangu, unase kutimila mliganyizo wiihile mna utimile mliganyizo uwedi. Yeyose akukudamanya ayedi uyo ni ywa Mnungu, mna akudamanya yaihile akei kummanya Mnungu.</para>
+    <verse number="11" style="v" sid="3JN 1:11" />Mbwiyangu, unase kutimila mliganyizo wiihile mna utimile mliganyizo uwedi. Yeyose akukudamanya ayedi uyo ni ywa Mnungu, mna akudamanya yaihile akei kummanya Mnungu.<verse eid="3JN 1:11" /></para>
   <para style="p">
-    <verse number="12" style="v"/>Kila mnt'hu amtogola Demetilio, naho ikindedi chenye chamtogola, suwe naswe chalonga uwona wetu mwakwe, weye nawe kumanya kugamba iki kikulonga ni kindedi.</para>
+    <verse number="12" style="v" sid="3JN 1:12" />Kila mnt'hu amtogola Demetilio, naho ikindedi chenye chamtogola, suwe naswe chalonga uwona wetu mwakwe, weye nawe kumanya kugamba iki kikulonga ni kindedi.<verse eid="3JN 1:12" /></para>
   <para style="s">Nabindiliza na ndamsa</para>
   <para style="p">
-    <verse number="13" style="v"/>Nna mbuli nyingi nehaunga kukugambila, mna hikuunga kuwandikila mwe ibaluwa. <verse number="14" style="v"/>Nakawiila kwiza kwako mazuwa aya ya hagihi, niho nekize kisimuile mnomo kwa mnomo.</para>
+    <verse number="13" style="v" sid="3JN 1:13" />Nna mbuli nyingi nehaunga kukugambila, mna hikuunga kuwandikila mwe ibaluwa. <verse eid="3JN 1:13" /><verse number="14" style="v" sid="3JN 1:14" />Nakawiila kwiza kwako mazuwa aya ya hagihi, niho nekize kisimuile mnomo kwa mnomo.<verse eid="3JN 1:14" /></para>
   <para style="p">
-    <verse number="15" style="v"/>Utondowazi unde na weye, wambuyazo wakulamsa, walamse wambuya zetu wose.</para>
+    <verse number="15" style="v" sid="3JN 1:15" />Utondowazi unde na weye, wambuyazo wakulamsa, walamse wambuya zetu wose.<verse eid="3JN 1:15" /></para>
+  <chapter eid="3JN 1" />
 </usx>

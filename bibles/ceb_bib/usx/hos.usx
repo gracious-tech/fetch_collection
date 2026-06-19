@@ -1,46 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <usx version="3.0">
-  <book code="HOS" style="id">- Biblica® Open Cebuano Contemporary Bible 2024</book>
+  <book code="HOS" style="id">- Biblica® Open Cebuano Contemporary Bible (Biblica® Open Ang Pulong sa Dios)</book>
+  
   <para style="h">Oseas</para>
   <para style="toc1">Ang Libro ni Oseas</para>
   <para style="toc2">Oseas</para>
   <para style="toc3">Ose.</para>
   <para style="mt2">Ang Libro ni</para>
   <para style="mt1">Oseas</para>
-  <chapter number="1" style="c" sid="HOS 1"/>
+  <chapter number="1" style="c" sid="HOS 1" />
   <para style="p">
-    <verse number="1" style="v" sid="HOS 1:1"/>Mao kini ang mensahe nga gipadayag sa <char style="nd">Ginoo</char> kang Oseas nga anak nga lalaki ni Beeri, sa mga panahon nga naghari sa Juda sila si Uzias, Jotam, Ahaz, ug Ezequias, ug sa panahon nga naghari sa Israel si Jeroboam nga anak nga lalaki ni Joas.<verse eid="HOS 1:1"/></para>
-  <para style="b"/>
+    <verse number="1" style="v" sid="HOS 1:1" />Mao kini ang mensahe nga gipadayag sa <char style="nd">Ginoo</char> kang Oseas nga anak nga lalaki ni Beeri, sa mga panahon nga naghari sa Juda sila si Uzias, Jotam, Ahaz, ug Ezequias, ug sa panahon nga naghari sa Israel si Jeroboam nga anak nga lalaki ni Joas.<verse eid="HOS 1:1" /></para>
+  <para style="b" />
   <para style="s1">Ang Asawa ug mga Anak ni Oseas</para>
   <para style="p">
-    <verse number="2" style="v" sid="HOS 1:2"/>Mao kini ang unang gisulti sa <char style="nd">Ginoo</char> kang Oseas: “Pangasawa ug babayeng maluibon<note caller="+" style="f"><char style="fr" closed="false">1:2 </char><char style="fq" closed="false">maluibon</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">nagbaligya sa iyang dungog.</char></note>, ug ang inyong mga anak isipon nga mga anak sa babayeng maluibon. Kay sama kaniya, ang akong mga katawhan daw nanapaw usab pinaagi sa ilang pagsalikway sa <char style="nd">Ginoo</char> ug sa pagsimba sa mga dios-dios.” <verse eid="HOS 1:2"/><verse number="3" style="v" sid="HOS 1:3"/>Busa gipangasawa ni Oseas si Gomer nga anak nga babaye ni Diblaim, ug nagmabdos si Gomer ug nanganak ug lalaki.<verse eid="HOS 1:3"/></para>
+    <verse number="2" style="v" sid="HOS 1:2" />Mao kini ang unang gisulti sa <char style="nd">Ginoo</char> kang Oseas: “Pangasawa ug babayeng maluibon<note caller="+" style="f"><char style="fr" closed="false">1:2 </char><char style="fq" closed="false">maluibon</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">nagbaligya sa iyang dungog.</char></note>, ug ang inyong mga anak isipon nga mga anak sa babayeng maluibon. Kay sama kaniya, ang akong mga katawhan daw nanapaw usab pinaagi sa ilang pagsalikway sa <char style="nd">Ginoo</char> ug sa pagsimba sa mga dios-dios.” <verse eid="HOS 1:2" /><verse number="3" style="v" sid="HOS 1:3" />Busa gipangasawa ni Oseas si Gomer nga anak nga babaye ni Diblaim, ug nagmabdos si Gomer ug nanganak ug lalaki.<verse eid="HOS 1:3" /></para>
   <para style="p">
-    <verse number="4" style="v" sid="HOS 1:4"/>Miingon ang <char style="nd">Ginoo</char> kang Oseas, “Nganli ang bata ug Jezreel<note caller="+" style="f"><char style="fr" closed="false">1:4 </char><char style="fq" closed="false">Jezreel</char><char style="ft" closed="false">: niini nga bersikulo, kining ngalana nagkahulogan nga patibulaagon sa Dios ang mga Israelinhon tungod sa ilang kadaotan.</char></note>, kay sa dili madugay silotan ko ang hari sa Israel tungod sa mga pagpamatay nga gihimo sa iyang katigulangan nga si Jehu didto sa lungsod sa Jezreel. Ug wagtangon ko ang gingharian sa Israel. <verse eid="HOS 1:4"/><verse number="5" style="v" sid="HOS 1:5"/>Nianang panahona ipapildi ko ang mga sundalo sa Israel didto sa Walog sa Jezreel.”<verse eid="HOS 1:5"/></para>
+    <verse number="4" style="v" sid="HOS 1:4" />Miingon ang <char style="nd">Ginoo</char> kang Oseas, “Nganli ang bata ug Jezreel<note caller="+" style="f"><char style="fr" closed="false">1:4 </char><char style="fq" closed="false">Jezreel</char><char style="ft" closed="false">: niini nga bersikulo, kining ngalana nagkahulogan nga patibulaagon sa Dios ang mga Israelinhon tungod sa ilang kadaotan.</char></note>, kay sa dili madugay silotan ko ang hari sa Israel tungod sa mga pagpamatay nga gihimo sa iyang katigulangan nga si Jehu didto sa lungsod sa Jezreel. Ug wagtangon ko ang gingharian sa Israel. <verse eid="HOS 1:4" /><verse number="5" style="v" sid="HOS 1:5" />Nianang panahona ipapildi ko ang mga sundalo sa Israel didto sa Walog sa Jezreel.”<verse eid="HOS 1:5" /></para>
   <para style="p">
-    <verse number="6" style="v" sid="HOS 1:6"/>Nagmabdos pag-usab si Gomer ug nanganak ug babaye. Miingon ang <char style="nd">Ginoo</char> kang Oseas, “Nganli ang bata ug Lo Ruhama<note caller="+" style="f"><char style="fr" closed="false">1:6 </char><char style="fq" closed="false">Lo Ruhama</char><char style="ft" closed="false">: ang buot ipasabot, </char><char style="fqa" closed="false">wala kaloy-i.</char></note>, kay dili ko na kaloy-an o pasayloon ang katawhan sa Israel. <verse eid="HOS 1:6"/><verse number="7" style="v" sid="HOS 1:7"/>Apan kaloy-an ko ang katawhan sa Juda. Ako, ang <char style="nd">Ginoo</char> nga ilang Dios, moluwas kanila pinaagi sa akong gahom ug dili pinaagi sa gira, sa pana, sa espada, sa mga kabayo o sa mga tigkabayo.”<verse eid="HOS 1:7"/></para>
+    <verse number="6" style="v" sid="HOS 1:6" />Nagmabdos pag-usab si Gomer ug nanganak ug babaye. Miingon ang <char style="nd">Ginoo</char> kang Oseas, “Nganli ang bata ug Lo Ruhama<note caller="+" style="f"><char style="fr" closed="false">1:6 </char><char style="fq" closed="false">Lo Ruhama</char><char style="ft" closed="false">: ang buot ipasabot, </char><char style="fqa" closed="false">wala kaloy-i.</char></note>, kay dili ko na kaloy-an o pasayloon ang katawhan sa Israel. <verse eid="HOS 1:6" /><verse number="7" style="v" sid="HOS 1:7" />Apan kaloy-an ko ang katawhan sa Juda. Ako, ang <char style="nd">Ginoo</char> nga ilang Dios, moluwas kanila pinaagi sa akong gahom ug dili pinaagi sa gira, sa pana, sa espada, sa mga kabayo o sa mga tigkabayo.”<verse eid="HOS 1:7" /></para>
   <para style="p">
-    <verse number="8" style="v" sid="HOS 1:8"/>Sa dihang nalutas na ni Gomer ang iyang anak nga si Lo Ruhama, nagmabdos siya pag-usab ug nanganak ug lalaki. <verse eid="HOS 1:8"/><verse number="9" style="v" sid="HOS 1:9"/>Miingon ang <char style="nd">Ginoo</char> kang Oseas, “Nganli ang bata ug Lo Ami<note caller="+" style="f"><char style="fr" closed="false">1:9 </char><char style="fq" closed="false">Lo Ami</char><char style="ft" closed="false">: ang buot ipasabot sa Hebreo, </char><char style="fqa" closed="false">dili akong katawhan.</char></note>, kay kamong mga Israelinhon dili akong katawhan ug ako dili inyong Dios.<verse eid="HOS 1:9"/></para>
+    <verse number="8" style="v" sid="HOS 1:8" />Sa dihang nalutas na ni Gomer ang iyang anak nga si Lo Ruhama, nagmabdos siya pag-usab ug nanganak ug lalaki. <verse eid="HOS 1:8" /><verse number="9" style="v" sid="HOS 1:9" />Miingon ang <char style="nd">Ginoo</char> kang Oseas, “Nganli ang bata ug Lo Ami<note caller="+" style="f"><char style="fr" closed="false">1:9 </char><char style="fq" closed="false">Lo Ami</char><char style="ft" closed="false">: ang buot ipasabot sa Hebreo, </char><char style="fqa" closed="false">dili akong katawhan.</char></note>, kay kamong mga Israelinhon dili akong katawhan ug ako dili inyong Dios.<verse eid="HOS 1:9" /></para>
   <para style="p">
-    <verse number="10" style="v" sid="HOS 1:10"/>“Apan moabot ang panahon nga mahisama kamo kadaghan sa balas sa baybayon nga dili masukod o maihap. Sa dapit diin gitawag kamo nga, ‘Dili akong katawhan,’ pagatawgon unya kamo nga, ‘Mga anak sa buhi nga Dios.’ <verse eid="HOS 1:10"/><verse number="11" style="v" sid="HOS 1:11"/>Mahiusa pag-usab ang mga katawhan sa Juda ug sa Israel, ug magpili sila ug usa ka pangulo. Mouswag sila pag-usab sa ilang yuta. Pagkamalipayon gayod unya nianang panahona alang sa lungsod sa Jezreel.<verse eid="HOS 1:11"/></para>
-  <chapter eid="HOS 1"/>
-  <chapter number="2" style="c" sid="HOS 2"/>
+    <verse number="10" style="v" sid="HOS 1:10" />“Apan moabot ang panahon nga mahisama kamo kadaghan sa balas sa baybayon nga dili masukod o maihap. Sa dapit diin gitawag kamo nga, ‘Dili akong katawhan,’ pagatawgon unya kamo nga, ‘Mga anak sa buhi nga Dios.’ <verse eid="HOS 1:10" /><verse number="11" style="v" sid="HOS 1:11" />Mahiusa pag-usab ang mga katawhan sa Juda ug sa Israel, ug magpili sila ug usa ka pangulo. Mouswag sila pag-usab sa ilang yuta. Pagkamalipayon gayod unya nianang panahona alang sa lungsod sa Jezreel.<verse eid="HOS 1:11" /></para>
+  <chapter eid="HOS 1" />
+  <chapter number="2" style="c" sid="HOS 2" />
   <para style="p">
-    <verse number="1" style="v" sid="HOS 2:1"/>“Busa tawga ninyo ang inyong isigka-Israelinhon nga ‘Akong katawhan’<note caller="+" style="f"><char style="fr" closed="false">2:1 </char><char style="fq" closed="false">Akong katawhan</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Ami.</char></note> ug ‘Gikaloy-an.’<note caller="+" style="f"><char style="fr" closed="false">2:1 </char><char style="fq" closed="false">Gikaloy-an</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Ruhama.</char></note><verse eid="HOS 2:1"/></para>
+    <verse number="1" style="v" sid="HOS 2:1" />“Busa tawga ninyo ang inyong isigka-Israelinhon nga ‘Akong katawhan’<note caller="+" style="f"><char style="fr" closed="false">2:1 </char><char style="fq" closed="false">Akong katawhan</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Ami.</char></note> ug ‘Gikaloy-an.’<note caller="+" style="f"><char style="fr" closed="false">2:1 </char><char style="fq" closed="false">Gikaloy-an</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Ruhama.</char></note><verse eid="HOS 2:1" /></para>
   <para style="s1">Si Gomer Hulagway sa Pagluib sa Israel</para>
   <para style="q1">
-    <verse number="2" style="v" sid="HOS 2:2"/>“Mga anak, badlonga ninyo ang inyong inahan</para>
+    <verse number="2" style="v" sid="HOS 2:2" />“Mga anak, badlonga ninyo ang inyong inahan</para>
   <para style="q2" vid="HOS 2:2">kay dili ko na siya asawa,</para>
   <para style="q2" vid="HOS 2:2">ug dili na niya ako bana.</para>
   <para style="q1" vid="HOS 2:2">Ingna ninyo siya nga undangon na</para>
-  <para style="q2" vid="HOS 2:2">ang iyang pagpamiga.<verse eid="HOS 2:2"/></para>
+  <para style="q2" vid="HOS 2:2">ang iyang pagpamiga.<verse eid="HOS 2:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="HOS 2:3"/>Kay kon dili siya moundang, huboan ko siya</para>
+    <verse number="3" style="v" sid="HOS 2:3" />Kay kon dili siya moundang, huboan ko siya</para>
   <para style="q2" vid="HOS 2:3">ug madayag ang iyang kahubo</para>
   <para style="q2" vid="HOS 2:3">sama sa dihang gihimugso siya.</para>
   <para style="q1" vid="HOS 2:3">Himuon ko siyang sama sa kamingawan</para>
-  <para style="q2" vid="HOS 2:3">o disyerto, ug mamatay siya sa kauhaw.<verse eid="HOS 2:3"/></para>
+  <para style="q2" vid="HOS 2:3">o disyerto, ug mamatay siya sa kauhaw.<verse eid="HOS 2:3" /></para>
   <para style="q1">
-    <verse number="4-5" style="v" sid="HOS 2:4-5"/>Ug kamo nga iyang mga anak dili ko kaloy-an,</para>
+    <verse number="4-5" style="v" sid="HOS 2:4-5" />Ug kamo nga iyang mga anak dili ko kaloy-an,</para>
   <para style="q2" vid="HOS 2:4-5">kay mga anak kamo sa babayeng maluibon.</para>
   <para style="q1" vid="HOS 2:4-5">Makauulaw ang ginahimo</para>
   <para style="q2" vid="HOS 2:4-5">sa inyong inahan nga mianak kaninyo.</para>
@@ -48,542 +49,542 @@
   <para style="q2" vid="HOS 2:4-5">nga mao ang naghatag kanako</para>
   <para style="q2" vid="HOS 2:4-5">sa akong pagkaon ug tubig,</para>
   <para style="q1" vid="HOS 2:4-5">mga panapton nga delana<note caller="+" style="f"><char style="fr" closed="false">2:4-5 </char><char style="fq" closed="false">delana</char><char style="ft" closed="false">: sa English, “wool”.</char></note> ug lino,</para>
-  <para style="q2" vid="HOS 2:4-5">lana, ug mga ilimnon.’<verse eid="HOS 2:4-5"/></para>
+  <para style="q2" vid="HOS 2:4-5">lana, ug mga ilimnon.’<verse eid="HOS 2:4-5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="HOS 2:6"/>Busa koralon ko siyag tunokon nga tanom aron</para>
-  <para style="q2" vid="HOS 2:6">dili siya makagawas.<verse eid="HOS 2:6"/></para>
+    <verse number="6" style="v" sid="HOS 2:6" />Busa koralon ko siyag tunokon nga tanom aron</para>
+  <para style="q2" vid="HOS 2:6">dili siya makagawas.<verse eid="HOS 2:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="HOS 2:7"/>Gukdon niya ang iyang mga laki</para>
+    <verse number="7" style="v" sid="HOS 2:7" />Gukdon niya ang iyang mga laki</para>
   <para style="q2" vid="HOS 2:7">apan dili niya sila maabtan.</para>
   <para style="q1" vid="HOS 2:7">Pangitaon niya sila</para>
   <para style="q2" vid="HOS 2:7">apan dili niya sila makit-an.</para>
   <para style="q1" vid="HOS 2:7">Unya moingon siya,</para>
   <para style="q2" vid="HOS 2:7">‘Mobalik na lang ako sa akong bana,</para>
   <para style="q1" vid="HOS 2:7">kay mas maayo pa ang akong kahimtang kaniadto</para>
-  <para style="q2" vid="HOS 2:7">kay sa karon.’<verse eid="HOS 2:7"/></para>
+  <para style="q2" vid="HOS 2:7">kay sa karon.’<verse eid="HOS 2:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="HOS 2:8"/>Wala niya huna-hunaa nga ako ang naghatag kaniya</para>
+    <verse number="8" style="v" sid="HOS 2:8" />Wala niya huna-hunaa nga ako ang naghatag kaniya</para>
   <para style="q2" vid="HOS 2:8">sa mga lugas, duga sa ubas, lana,</para>
-  <para style="q1" vid="HOS 2:8">ug sa daghang mga plata ug mga bulawan</para>
-  <para style="q2" vid="HOS 2:8">nga gigamit nila nga imahen ni Baal.<note caller="+" style="f"><char style="fr" closed="false">2:8 </char><char style="fq" closed="false">gigamit…Baal</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">gigamit nila sa pagsimba kang Baal.</char></note><verse eid="HOS 2:8"/></para>
-  <para style="b"/>
+  <para style="q1" vid="HOS 2:8">ug sa daghang plata ug mga bulawan</para>
+  <para style="q2" vid="HOS 2:8">nga gigamit nila nga imahen ni Baal.<note caller="+" style="f"><char style="fr" closed="false">2:8 </char><char style="fq" closed="false">gigamit…Baal</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">gigamit nila sa pagsimba kang Baal.</char></note><verse eid="HOS 2:8" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="9" style="v" sid="HOS 2:9"/>“Busa sa panahon sa ting-ani bawion ko</para>
+    <verse number="9" style="v" sid="HOS 2:9" />“Busa sa panahon sa ting-ani bawion ko</para>
   <para style="q2" vid="HOS 2:9">ang mga lugas</para>
   <para style="q2" vid="HOS 2:9">ug duga sa ubas nga akong gihatag.</para>
   <para style="q1" vid="HOS 2:9">Ug kuhaon ko usab ang mga panapton nga delana</para>
   <para style="q2" vid="HOS 2:9">ug lino nga gihatag ko aron</para>
-  <para style="q2" vid="HOS 2:9">itabon sa iyang pagkahubo.<verse eid="HOS 2:9"/></para>
+  <para style="q2" vid="HOS 2:9">itabon sa iyang pagkahubo.<verse eid="HOS 2:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="HOS 2:10"/>Ug karon huboan ko siya atubangan</para>
+    <verse number="10" style="v" sid="HOS 2:10" />Ug karon huboan ko siya atubangan</para>
   <para style="q2" vid="HOS 2:10">sa iyang mga laki,</para>
   <para style="q1" vid="HOS 2:10">ug walay makaluwas kaniya gikan</para>
-  <para style="q2" vid="HOS 2:10">sa akong mga kamot.<verse eid="HOS 2:10"/></para>
+  <para style="q2" vid="HOS 2:10">sa akong mga kamot.<verse eid="HOS 2:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="HOS 2:11"/>Undangon ko ang iyang paglipay</para>
+    <verse number="11" style="v" sid="HOS 2:11" />Undangon ko ang iyang paglipay</para>
   <para style="q2" vid="HOS 2:11">ug ang tanan niyang mga kasaulogan:</para>
   <para style="q1" vid="HOS 2:11">ang Pista sa Pagsugod sa Bulan,</para>
   <para style="q2" vid="HOS 2:11">mga Adlaw nga Igpapahulay,</para>
-  <para style="q2" vid="HOS 2:11">ug ang tanang gitakda nga mga kasaulogan sa tuig.<verse eid="HOS 2:11"/></para>
+  <para style="q2" vid="HOS 2:11">ug ang tanang gitakda nga mga kasaulogan sa tuig.<verse eid="HOS 2:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="HOS 2:12"/>Daoton ko ang iyang mga tanom nga ubas</para>
+    <verse number="12" style="v" sid="HOS 2:12" />Daoton ko ang iyang mga tanom nga ubas</para>
   <para style="q2" vid="HOS 2:12">ug mga kahoy nga igos</para>
   <para style="q1" vid="HOS 2:12">nga matod pa niya gibayad kaniya</para>
   <para style="q2" vid="HOS 2:12">sa iyang mga laki.</para>
   <para style="q1" vid="HOS 2:12">Himuon ko ang mga tamnanan niini nga kalasangan,</para>
   <para style="q2" vid="HOS 2:12">ug ang ihalas nga mga mananap na lang</para>
-  <para style="q2" vid="HOS 2:12">ang mokaon niini.<verse eid="HOS 2:12"/></para>
+  <para style="q2" vid="HOS 2:12">ang mokaon niini.<verse eid="HOS 2:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="HOS 2:13"/>Silotan ko siya tungod</para>
+    <verse number="13" style="v" sid="HOS 2:13" />Silotan ko siya tungod</para>
   <para style="q2" vid="HOS 2:13">sa mga higayon nga nagsunog</para>
   <para style="q1" vid="HOS 2:13">siyag insenso isip halad ngadto</para>
   <para style="q2" vid="HOS 2:13">sa mga imahen ni Baal.</para>
   <para style="q1" vid="HOS 2:13">Nagsul-ob siya ug mga alahas ug migukod</para>
   <para style="q2" vid="HOS 2:13">sa iyang mga laki,</para>
   <para style="q2" vid="HOS 2:13">apan ako gikalimtan niya,”</para>
-  <para style="q1" vid="HOS 2:13">miingon ang <char style="nd">Ginoo</char> niini.<verse eid="HOS 2:13"/></para>
-  <para style="b"/>
+  <para style="q1" vid="HOS 2:13">miingon ang <char style="nd">Ginoo</char> niini.<verse eid="HOS 2:13" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="14" style="v" sid="HOS 2:14"/>“Karon, danihon ko siya ug dad-on sa kamingawan</para>
-  <para style="q2" vid="HOS 2:14">ug pangulitawhan pag-usab.<verse eid="HOS 2:14"/></para>
+    <verse number="14" style="v" sid="HOS 2:14" />“Karon, danihon ko siya ug dad-on sa kamingawan</para>
+  <para style="q2" vid="HOS 2:14">ug pangulitawhan pag-usab.<verse eid="HOS 2:14" /></para>
   <para style="q1">
-    <verse number="15" style="v" sid="HOS 2:15"/>Ug didto ihatag ko kaniya pagbalik</para>
+    <verse number="15" style="v" sid="HOS 2:15" />Ug didto ihatag ko kaniya pagbalik</para>
   <para style="q2" vid="HOS 2:15">ang iyang mga tamnanan sa ubas,</para>
   <para style="q1" vid="HOS 2:15">ug ang Walog sa Acor<note caller="+" style="f"><char style="fr" closed="false">2:15 </char><char style="fq" closed="false">Acor</char><char style="ft" closed="false">: ang buot ipasabot, </char><char style="fqa" closed="false">kasamok.</char></note> mahimong</para>
   <para style="q2" vid="HOS 2:15">pultahan sa paglaom.</para>
   <para style="q1" vid="HOS 2:15">Unya, sugton niya ako sama</para>
   <para style="q2" vid="HOS 2:15">sa iyang gihimo kaniadtong batan-on pa siya,</para>
-  <para style="q2" vid="HOS 2:15">sa dihang migawas siya gikan sa Ehipto.”<verse eid="HOS 2:15"/></para>
+  <para style="q2" vid="HOS 2:15">sa dihang migawas siya gikan sa Ehipto.”<verse eid="HOS 2:15" /></para>
   <para style="p">
-    <verse number="16" style="v" sid="HOS 2:16"/>Miingon ang <char style="nd">Ginoo</char> sa mga Israelinhon,</para>
+    <verse number="16" style="v" sid="HOS 2:16" />Miingon ang <char style="nd">Ginoo</char> sa mga Israelinhon,</para>
   <para style="q1" vid="HOS 2:16">“Nianang adlawa nga mobalik kamo kanako,</para>
   <para style="q2" vid="HOS 2:16">pagatawgon ninyo ako nga inyong bana,</para>
-  <para style="q2" vid="HOS 2:16">ug dili na ninyo ako tawgon nga inyong Baal<note caller="+" style="f"><char style="fr" closed="false">2:16 </char><char style="fq" closed="false">Baal</char><char style="ft" closed="false">: ngalan kini sa usa ka dios-dios sa Canaan. Ang Baal nagkahulogan usab ug “agalon.”</char></note>.<verse eid="HOS 2:16"/></para>
+  <para style="q2" vid="HOS 2:16">ug dili na ninyo ako tawgon nga inyong Baal<note caller="+" style="f"><char style="fr" closed="false">2:16 </char><char style="fq" closed="false">Baal</char><char style="ft" closed="false">: ngalan kini sa usa ka dios-dios sa Canaan. Ang Baal nagkahulogan usab ug “agalon.”</char></note>.<verse eid="HOS 2:16" /></para>
   <para style="q1">
-    <verse number="17" style="v" sid="HOS 2:17"/>Dili ko na gayod kamo pasangpiton</para>
-  <para style="q2" vid="HOS 2:17">sa mga ngalan ni Baal.<verse eid="HOS 2:17"/></para>
+    <verse number="17" style="v" sid="HOS 2:17" />Dili ko na gayod kamo pasangpiton</para>
+  <para style="q2" vid="HOS 2:17">sa mga ngalan ni Baal.<verse eid="HOS 2:17" /></para>
   <para style="q1">
-    <verse number="18" style="v" sid="HOS 2:18"/>Nianang adlawa maghimo ako ug kasabotan</para>
+    <verse number="18" style="v" sid="HOS 2:18" />Nianang adlawa maghimo ako ug kasabotan</para>
   <para style="q2" vid="HOS 2:18">uban sa tanang matang sa mga mananap</para>
   <para style="q2" vid="HOS 2:18">ug dili na nila kamo unsaon.</para>
   <para style="q1" vid="HOS 2:18">Wagtangon ko sa yuta sa Israel ang pana ug espada</para>
   <para style="q2" vid="HOS 2:18">aron makatulog kamo nga malinawon</para>
-  <para style="q2" vid="HOS 2:18">ug walay gikahadlokan nga katalagman.<verse eid="HOS 2:18"/></para>
+  <para style="q2" vid="HOS 2:18">ug walay gikahadlokan nga katalagman.<verse eid="HOS 2:18" /></para>
   <para style="q1">
-    <verse number="19" style="v" sid="HOS 2:19"/>Ilhon ko kamong akong asawa hangtod sa kahangtoran.</para>
+    <verse number="19" style="v" sid="HOS 2:19" />Ilhon ko kamong akong asawa hangtod sa kahangtoran.</para>
   <para style="q2" vid="HOS 2:19">Buhaton ko diha kaninyo ang matarong ug husto.</para>
-  <para style="q2" vid="HOS 2:19">Higugmaon ko kamo ug kaloy-an.<verse eid="HOS 2:19"/></para>
+  <para style="q2" vid="HOS 2:19">Higugmaon ko kamo ug kaloy-an.<verse eid="HOS 2:19" /></para>
   <para style="q1">
-    <verse number="20" style="v" sid="HOS 2:20"/>Magmatinud-anon ako kaninyo,</para>
-  <para style="q2" vid="HOS 2:20">ug ilhon ninyo ako nga <char style="nd">Ginoo</char>.”<verse eid="HOS 2:20"/></para>
-  <para style="b"/>
+    <verse number="20" style="v" sid="HOS 2:20" />Magmatinud-anon ako kaninyo,</para>
+  <para style="q2" vid="HOS 2:20">ug ilhon ninyo ako nga <char style="nd">Ginoo</char>.”<verse eid="HOS 2:20" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="21" style="v" sid="HOS 2:21"/>Miingon ang <char style="nd">Ginoo</char>,</para>
+    <verse number="21" style="v" sid="HOS 2:21" />Miingon ang <char style="nd">Ginoo</char>,</para>
   <para style="q2" vid="HOS 2:21">“Nianang adlawa tubagon ko</para>
   <para style="q2" vid="HOS 2:21">ang inyong pag-ampo.</para>
   <para style="q1" vid="HOS 2:21">Paulanon ko aron</para>
-  <para style="q2" vid="HOS 2:21">motubo diha sa yuta<verse eid="HOS 2:21"/></para>
+  <para style="q2" vid="HOS 2:21">motubo diha sa yuta<verse eid="HOS 2:21" /></para>
   <para style="q1">
-    <verse number="22" style="v" sid="HOS 2:22"/>ang mga lugas, ubas, ug olibo alang kaninyo</para>
-  <para style="q2" vid="HOS 2:22">nga gitawag nga Jezreel<note caller="+" style="f"><char style="fr" closed="false">2:22 </char><char style="fq" closed="false">Jezreel</char><char style="ft" closed="false">: si Jezreel, si Lo Ruhama ug si Lo Ami (<char style="xt" link-href="HOS 2:23"><ref loc="HOS 2:23">bersikulo 23</ref></char>) mga anak ni Oseas ug ni Gomer (<char style="xt"><ref loc="HOS 1:3-9">Ose. 1:3-9</ref></char>), ug ang ilang mga ngalan gipangalan sa Israel.</char></note>.<verse eid="HOS 2:22"/></para>
+    <verse number="22" style="v" sid="HOS 2:22" />ang mga lugas, ubas, ug olibo alang kaninyo</para>
+  <para style="q2" vid="HOS 2:22">nga gitawag nga Jezreel<note caller="+" style="f"><char style="fr" closed="false">2:22 </char><char style="fq" closed="false">Jezreel</char><char style="ft" closed="false">: si Jezreel, si Lo Ruhama ug si Lo Ami (<char style="xt" link-href="HOS 2:23">bersikulo <ref loc="HOS 2:23">23</ref></char>) mga anak ni Oseas ug ni Gomer (<char style="xt"><ref loc="HOS 1:3-9">Ose. 1:3-9</ref></char>), ug ang ilang mga ngalan gipangalan sa Israel.</char></note>.<verse eid="HOS 2:22" /></para>
   <para style="q1">
-    <verse number="23" style="v" sid="HOS 2:23"/>Papuy-on ko kamo</para>
+    <verse number="23" style="v" sid="HOS 2:23" />Papuy-on ko kamo</para>
   <para style="q2" vid="HOS 2:23">sa inyong yuta isip akong katawhan.</para>
   <para style="q1" vid="HOS 2:23">Ipakita ko ang akong kaluoy kaninyo,</para>
   <para style="q2" vid="HOS 2:23">kamo nga gitawag ug Lo Ruhama<note caller="+" style="f"><char style="fr" closed="false">2:23 </char><char style="fq" closed="false">Lo Ruhama</char><char style="ft" closed="false">: ang buot ipasabot, </char><char style="fqa" closed="false">wala gikaloy-an.</char></note>.</para>
   <para style="q1" vid="HOS 2:23">Ug kamong gitawag nga Lo Ami<note caller="+" style="f"><char style="fr" closed="false">2:23 </char><char style="fq" closed="false">Lo Ami</char><char style="ft" closed="false">: ang buot ipasabot, </char><char style="fqa" closed="false">dili akong katawhan.</char></note> tawgon ko</para>
   <para style="q2" vid="HOS 2:23">nga akong katawhan.</para>
   <para style="q1" vid="HOS 2:23">Ug moingon kamo kanako,</para>
-  <para style="q2" vid="HOS 2:23">‘Ikaw ang among Dios.’ ”<verse eid="HOS 2:23"/></para>
-  <chapter eid="HOS 2"/>
-  <chapter number="3" style="c" sid="HOS 3"/>
+  <para style="q2" vid="HOS 2:23">‘Ikaw ang among Dios.’ ”<verse eid="HOS 2:23" /></para>
+  <chapter eid="HOS 2" />
+  <chapter number="3" style="c" sid="HOS 3" />
   <para style="s1">Si Oseas ug ang Iyang Asawa</para>
   <para style="p">
-    <verse number="1" style="v" sid="HOS 3:1"/>Miingon ang <char style="nd">Ginoo</char> kanako, “Lakaw, ipakita pag-usab ang imong gugma ngadto sa imong asawa bisan pa ug maluibon siya. Higugmaa siya sama sa paghigugma ko sa mga Israelinhon bisan pa ug nagsimba sila sa ubang mga dios pinaagi sa paghalad sa mga pan nga adunay mga pasas.”<verse eid="HOS 3:1"/></para>
+    <verse number="1" style="v" sid="HOS 3:1" />Miingon ang <char style="nd">Ginoo</char> kanako, “Lakaw, ipakita pag-usab ang imong gugma ngadto sa imong asawa bisan pa ug maluibon siya. Higugmaa siya sama sa paghigugma ko sa mga Israelinhon bisan pa ug nagsimba sila sa ubang mga dios pinaagi sa paghalad sa mga pan nga adunay mga pasas.”<verse eid="HOS 3:1" /></para>
   <para style="p">
-    <verse number="2" style="v" sid="HOS 3:2"/>Busa gipalit ko siya sa kantidad nga 15 kabuok nga pilak ug 150 ka kilong barley. <verse eid="HOS 3:2"/><verse number="3" style="v" sid="HOS 3:3"/>Ug giingnan ko siya, “Puyo uban kanako sulod sa taas nga panahon. Ayaw pagpakighilawas ni bisan kinsang lalaki. Ug bisan ako dili usab una makigdulog kanimo.”<verse eid="HOS 3:3"/></para>
+    <verse number="2" style="v" sid="HOS 3:2" />Busa gipalit ko siya sa kantidad nga 15 kabuok nga pilak ug 150 ka kilong barley. <verse eid="HOS 3:2" /><verse number="3" style="v" sid="HOS 3:3" />Ug giingnan ko siya, “Puyo uban kanako sulod sa taas nga panahon. Ayaw pagpakighilawas ni bisan kinsang lalaki. Ug bisan ako dili usab una makigdulog kanimo.”<verse eid="HOS 3:3" /></para>
   <para style="p">
-    <verse number="4" style="v" sid="HOS 3:4"/>Kay magkahulogan kini nga sa sulod sa taas nga panahon magkinabuhi ang mga Israelinhon nga walay hari, pangulo, halad, handomanan nga bato, efod, ug mga dios-dios. <verse eid="HOS 3:4"/><verse number="5" style="v" sid="HOS 3:5"/>Apan sa kaulahian, modangop sila pag-usab sa <char style="nd">Ginoo</char> nga ilang Dios, ug sa ilang hari nga kaliwat ni David. Ug moduol sila sa <char style="nd">Ginoo</char> nga adunay pagtahod tungod sa iyang kaayo.<verse eid="HOS 3:5"/></para>
-  <chapter eid="HOS 3"/>
-  <chapter number="4" style="c" sid="HOS 4"/>
+    <verse number="4" style="v" sid="HOS 3:4" />Kay magkahulogan kini nga sa sulod sa taas nga panahon magkinabuhi ang mga Israelinhon nga walay hari, pangulo, halad, handomanan nga bato, efod, ug mga dios-dios. <verse eid="HOS 3:4" /><verse number="5" style="v" sid="HOS 3:5" />Apan sa kaulahian, modangop sila pag-usab sa <char style="nd">Ginoo</char> nga ilang Dios, ug sa ilang hari nga kaliwat ni David. Ug moduol sila sa <char style="nd">Ginoo</char> nga adunay pagtahod tungod sa iyang kaayo.<verse eid="HOS 3:5" /></para>
+  <chapter eid="HOS 3" />
+  <chapter number="4" style="c" sid="HOS 4" />
   <para style="s1">Ang Akusasyon sa <char style="nd">Ginoo</char> Batok sa Israel ug sa Iyang mga Pari</para>
   <para style="q1">
-    <verse number="1" style="v" sid="HOS 4:1"/>Kamong mga Israelinhon nga nagpuyo sa yuta sa Israel,</para>
+    <verse number="1" style="v" sid="HOS 4:1" />Kamong mga Israelinhon nga nagpuyo sa yuta sa Israel,</para>
   <para style="q2" vid="HOS 4:1">pamatia ninyo kining akusasyon sa <char style="nd">Ginoo</char> batok kaninyo,</para>
   <para style="q1" vid="HOS 4:1">“Wala nay tawo sa inyong yuta nga nagmatinumanon,</para>
-  <para style="q2" vid="HOS 4:1">naghigugma, ug nag-ila kanako.<verse eid="HOS 4:1"/></para>
+  <para style="q2" vid="HOS 4:1">naghigugma, ug nag-ila kanako.<verse eid="HOS 4:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="HOS 4:2"/>Ang pagpanunglo, pagpamakak, pagpatay, pagpangawat</para>
+    <verse number="2" style="v" sid="HOS 4:2" />Ang pagpanunglo, pagpamakak, pagpatay, pagpangawat</para>
   <para style="q2" vid="HOS 4:2">ug pagpanapaw mao na hinuon ang inyong ginahimo.</para>
   <para style="q1" vid="HOS 4:2">Miabot na kini bisan asa,</para>
-  <para style="q2" vid="HOS 4:2">ug nagsunodsunod na ang pagpinatyanay.<verse eid="HOS 4:2"/></para>
+  <para style="q2" vid="HOS 4:2">ug nagsunodsunod na ang pagpinatyanay.<verse eid="HOS 4:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="HOS 4:3"/>Tungod niini nagmala ang inyong yuta</para>
+    <verse number="3" style="v" sid="HOS 4:3" />Tungod niini nagmala ang inyong yuta</para>
   <para style="q2" vid="HOS 4:3">ug nangamatay ang tanang nagpuyo niini,</para>
   <para style="q1" vid="HOS 4:3">apil ang tanang klasi sa mga mananap nga naglakaw,</para>
-  <para style="q2" vid="HOS 4:3">naglupad, ug naglangoy.<verse eid="HOS 4:3"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 4:3">naglupad, ug naglangoy.<verse eid="HOS 4:3" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="4" style="v" sid="HOS 4:4"/>“Apan kinahanglan walay tawong mopasangil</para>
+    <verse number="4" style="v" sid="HOS 4:4" />“Apan kinahanglan walay tawong mopasangil</para>
   <para style="q2" vid="HOS 4:4">o moakusar ni bisan kinsa,</para>
-  <para style="q2" vid="HOS 4:4">kay walay laing angay basulon kon dili kamong mga pari.<note caller="+" style="f"><char style="fr" closed="false">4:4 </char><char style="fqa" closed="false">walay laing basulon…pari</char><char style="ft" closed="false">: o ang inyong katawhan sama sa mga tawo nga adunay sumbong batok sa mga pari.</char></note><verse eid="HOS 4:4"/></para>
+  <para style="q2" vid="HOS 4:4">kay walay laing angay basulon kon dili kamong mga pari.<note caller="+" style="f"><char style="fr" closed="false">4:4 </char><char style="fqa" closed="false">walay laing basulon…pari</char><char style="ft" closed="false">: o ang inyong katawhan sama sa mga tawo nga adunay sumbong batok sa mga pari.</char></note><verse eid="HOS 4:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="HOS 4:5"/>Kamo ug ang mga propeta malaglag, adlaw man o gabii.</para>
-  <para style="q2" vid="HOS 4:5">Ug laglagon ko usab ang inyong inahan<note caller="+" style="f"><char style="fr" closed="false">4:5 </char><char style="fq" closed="false">inahan</char><char style="ft" closed="false">: nga ang buot ipasabot, ang nasod sa Israel.</char></note>.<verse eid="HOS 4:5"/></para>
+    <verse number="5" style="v" sid="HOS 4:5" />Kamo ug ang mga propeta malaglag, adlaw man o gabii.</para>
+  <para style="q2" vid="HOS 4:5">Ug laglagon ko usab ang inyong inahan<note caller="+" style="f"><char style="fr" closed="false">4:5 </char><char style="fq" closed="false">inahan</char><char style="ft" closed="false">: nga ang buot ipasabot, ang nasod sa Israel.</char></note>.<verse eid="HOS 4:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="HOS 4:6"/>Nalaglag ang akong katawhan tungod</para>
+    <verse number="6" style="v" sid="HOS 4:6" />Nalaglag ang akong katawhan tungod</para>
   <para style="q2" vid="HOS 4:6">kay kulang sila sa kahibalo mahitungod kanako.</para>
-  <para style="b" vid="HOS 4:6"/>
+  <para style="b" vid="HOS 4:6" />
   <para style="q1" vid="HOS 4:6">“Kay kamo mismo nga mga pari gisalikway ninyo ang kahibalo mahitungod kanako,</para>
   <para style="q2" vid="HOS 4:6">busa isalikway ko usab kamo isip akong mga pari.</para>
   <para style="q1" vid="HOS 4:6">Gikalimtan ninyo ang akong Kasugoan,</para>
-  <para style="q2" vid="HOS 4:6">busa kalimtan ko usab ang inyong mga anak.<verse eid="HOS 4:6"/></para>
+  <para style="q2" vid="HOS 4:6">busa kalimtan ko usab ang inyong mga anak.<verse eid="HOS 4:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="HOS 4:7"/>Samtang nagkadaghan kamong mga pari,</para>
+    <verse number="7" style="v" sid="HOS 4:7" />Samtang nagkadaghan kamong mga pari,</para>
   <para style="q2" vid="HOS 4:7">misamot usab ang inyong pagpakasala batok kanako.</para>
-  <para style="q2" vid="HOS 4:7">Busa himuon kong kaulawan ang inyong kadungganan.<verse eid="HOS 4:7"/></para>
+  <para style="q2" vid="HOS 4:7">Busa himuon kong kaulawan ang inyong kadungganan.<verse eid="HOS 4:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="HOS 4:8"/>Malipay kamo nga magpakasala ang akong mga katawhan</para>
-  <para style="q2" vid="HOS 4:8">kay makakaon man kamo sa ilang mga halad sa paghinlo.<note caller="+" style="f"><char style="fr" closed="false">4:8 </char><char style="ft" closed="false">Sumala sa <char style="xt"><ref loc="LEV 6:26">Lev. 6:26</ref>; <ref loc="LEV 10:17">10:17</ref>,</char> ang mga pari adunay bahin niining mga matang sa halad.</char></note><verse eid="HOS 4:8"/></para>
+    <verse number="8" style="v" sid="HOS 4:8" />Malipay kamo nga magpakasala ang akong mga katawhan</para>
+  <para style="q2" vid="HOS 4:8">kay makakaon man kamo sa ilang mga halad sa paghinlo.<note caller="+" style="f"><char style="fr" closed="false">4:8 </char><char style="ft" closed="false">Sumala sa <char style="xt"><ref loc="LEV 6:26">Lev. 6:26</ref>; <ref loc="LEV 10:17">10:17</ref></char>, ang mga pari adunay bahin niining mga matang sa halad.</char></note><verse eid="HOS 4:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="HOS 4:9"/>Nagkapareha lang kamong mga katawhan ug mga pari.</para>
+    <verse number="9" style="v" sid="HOS 4:9" />Nagkapareha lang kamong mga katawhan ug mga pari.</para>
   <para style="q2" vid="HOS 4:9">Silotan ko kamo tungod sa inyong mga daotang gawi;</para>
-  <para style="q2" vid="HOS 4:9">balosan ko kamo sa inyong gipanghimo.<verse eid="HOS 4:9"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 4:9">balosan ko kamo sa inyong gipanghimo.<verse eid="HOS 4:9" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="10" style="v" sid="HOS 4:10"/>“Nagkaon kamo, apan dili kamo mabusog.</para>
+    <verse number="10" style="v" sid="HOS 4:10" />“Nagkaon kamo, apan dili kamo mabusog.</para>
   <para style="q2" vid="HOS 4:10">Nagsimba kamo sa mga dios-dios<note caller="+" style="f"><char style="fr" closed="false">4:10 </char><char style="fq" closed="false">Nagsimba…dios-dios</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">Nanapaw kamo. </char><char style="ft" closed="false">Mao kini ang gibuhat ni Gomer nga asawa ni Oseas. Si Gomer nagrepresentar sa nasod sa Israel.</char></note></para>
   <para style="q1" vid="HOS 4:10">nga gituohan ninyong makahatag ug anak,</para>
-  <para style="q2" vid="HOS 4:10">apan dili kamo manganak tungod kay gisalikway ninyo ako <verse eid="HOS 4:10"/><verse number="11" style="v" sid="HOS 4:11"/>aron sa pagsimba sa mga dios-dios.</para>
+  <para style="q2" vid="HOS 4:10">apan dili kamo manganak tungod kay gisalikway ninyo ako <verse eid="HOS 4:10" /><verse number="11" style="v" sid="HOS 4:11" />aron sa pagsimba sa mga dios-dios.</para>
   <para style="s1" vid="HOS 4:11">Gipanghimaraot sa Dios ang Pagsimba sa mga Dios-dios</para>
   <para style="q1" vid="HOS 4:11">“Mga katawhan ko, ang bag-o ug daang bino</para>
-  <para style="q2" vid="HOS 4:11">mokuha sa inyong maayong panghuna-huna.<verse eid="HOS 4:11"/></para>
+  <para style="q2" vid="HOS 4:11">mokuha sa inyong maayong panghuna-huna.<verse eid="HOS 4:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="HOS 4:12"/>Nangayo kamo ug tambag gikan sa dios-dios</para>
+    <verse number="12" style="v" sid="HOS 4:12" />Nangayo kamo ug tambag gikan sa dios-dios</para>
   <para style="q2" vid="HOS 4:12">nga kahoy, ug sumala ninyo, motubag kini.</para>
   <para style="q1" vid="HOS 4:12">Gipahisalaag kamo sa espiritu nga nagtukmod kaninyo</para>
   <para style="q2" vid="HOS 4:12">sa pagsimba sa mga dios-dios, busa gitalikdan ninyo ako</para>
-  <para style="q2" vid="HOS 4:12">sama sa usa ka babayeng nagluib.<verse eid="HOS 4:12"/></para>
+  <para style="q2" vid="HOS 4:12">sama sa usa ka babayeng nagluib.<verse eid="HOS 4:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="HOS 4:13"/>Naghalad kamo ug nagsunog ug insenso ibabaw sa mga bukid</para>
+    <verse number="13" style="v" sid="HOS 4:13" />Naghalad kamo ug nagsunog ug insenso ibabaw sa mga bukid</para>
   <para style="q2" vid="HOS 4:13">ug sa mga bungtod, sa ilalom sa tag-as</para>
   <para style="q1" vid="HOS 4:13">ug labong nga mga kahoy,</para>
   <para style="q2" vid="HOS 4:13">kay maayo ang ilang landong.</para>
   <para style="q1" vid="HOS 4:13">Busa namiga ang inyong mga anak nga babaye</para>
-  <para style="q2" vid="HOS 4:13">ug ang inyong mga umagad nga babaye nanapaw.<verse eid="HOS 4:13"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 4:13">ug ang inyong mga umagad nga babaye nanapaw.<verse eid="HOS 4:13" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="14" style="v" sid="HOS 4:14"/>“Apan dili ko sila silotan sa ilang gihimo</para>
+    <verse number="14" style="v" sid="HOS 4:14" />“Apan dili ko sila silotan sa ilang gihimo</para>
   <para style="q2" vid="HOS 4:14">kay kamo mismong mga lalaki nakighilawas man usab sa mga babayeng</para>
   <para style="q2" vid="HOS 4:14">nagbaligya sa ilang dungog diha sa templo,</para>
   <para style="q1" vid="HOS 4:14">ug naghalad pa kamo uban kanila ngadto sa ilang mga dios-dios.</para>
   <para style="q1" vid="HOS 4:14">Busa tungod kay wala kamoy panabot,</para>
-  <para style="q2" vid="HOS 4:14">malaglag kamo.<verse eid="HOS 4:14"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 4:14">malaglag kamo.<verse eid="HOS 4:14" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="15" style="v" sid="HOS 4:15"/>“Mga taga-Israel, bisan gitalikdan ninyo ako</para>
+    <verse number="15" style="v" sid="HOS 4:15" />“Mga taga-Israel, bisan gitalikdan ninyo ako</para>
   <para style="q2" vid="HOS 4:15">sama sa usa ka babayeng maluibon,</para>
   <para style="q2" vid="HOS 4:15">ayaw ninyo i-angin ang mga taga-Juda.</para>
-  <para style="b" vid="HOS 4:15"/>
+  <para style="b" vid="HOS 4:15" />
   <para style="q1" vid="HOS 4:15">“Ug kamong mga taga-Juda,</para>
   <para style="q2" vid="HOS 4:15">ayaw kamo pag-adto sa Gilgal ug sa Bet Aven<note caller="+" style="f"><char style="fr" closed="false">4:15 </char><char style="fq" closed="false">Bet Aven</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">balay sa kadaotan. </char><char style="ft" closed="false">Mao kini ang gingalan sa Betel isip pagtamay. Ang buot ipasabot sa Betel, “balay sa Dios.”</char></note></para>
-  <para style="q2" vid="HOS 4:15">aron sa pagsimba kanako o paghimo ug panaad sa akong ngalan.<verse eid="HOS 4:15"/></para>
+  <para style="q2" vid="HOS 4:15">aron sa pagsimba kanako o paghimo ug panaad sa akong ngalan.<verse eid="HOS 4:15" /></para>
   <para style="q1">
-    <verse number="16" style="v" sid="HOS 4:16"/>Gahig ulo ang mga taga-Israel,</para>
+    <verse number="16" style="v" sid="HOS 4:16" />Gahig ulo ang mga taga-Israel,</para>
   <para style="q2" vid="HOS 4:16">sama sila sa maidlas nga dumalagang baka.</para>
   <para style="q1" vid="HOS 4:16">Busa unsaon ko sila pagbantay</para>
-  <para style="q2" vid="HOS 4:16">sama sa mga karnero sa sibsibanan?<verse eid="HOS 4:16"/></para>
+  <para style="q2" vid="HOS 4:16">sama sa mga karnero sa sibsibanan?<verse eid="HOS 4:16" /></para>
   <para style="q1">
-    <verse number="17" style="v" sid="HOS 4:17"/>Nagsimba na sila<note caller="+" style="f"><char style="fr" closed="false">4:17 </char><char style="fq" closed="false">sila</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim</char><char style="ft" closed="false">, naghisgot kini sa usa sa mga tribo sa Amihanan nga bahin sa gingharian sa Israel.</char></note> sa mga dios-dios.</para>
-  <para style="q2" vid="HOS 4:17">Pasagdi na lang sila!<verse eid="HOS 4:17"/></para>
+    <verse number="17" style="v" sid="HOS 4:17" />Nagsimba na sila<note caller="+" style="f"><char style="fr" closed="false">4:17 </char><char style="fq" closed="false">sila</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim</char><char style="ft" closed="false">, naghisgot kini sa usa sa mga tribo sa Amihanan nga bahin sa gingharian sa Israel.</char></note> sa mga dios-dios.</para>
+  <para style="q2" vid="HOS 4:17">Pasagdi na lang sila!<verse eid="HOS 4:17" /></para>
   <para style="q1">
-    <verse number="18" style="v" sid="HOS 4:18"/>Pagkahuman nila ug inom,</para>
+    <verse number="18" style="v" sid="HOS 4:18" />Pagkahuman nila ug inom,</para>
   <para style="q2" vid="HOS 4:18">magpatuyang sila sa pagpakighilawas.</para>
   <para style="q1" vid="HOS 4:18">Ang ilang mga tigdumala gusto kaayong mohimo</para>
-  <para style="q2" vid="HOS 4:18">sa makauulaw nga mga binuhatan.<verse eid="HOS 4:18"/></para>
+  <para style="q2" vid="HOS 4:18">sa makauulaw nga mga binuhatan.<verse eid="HOS 4:18" /></para>
   <para style="q1">
-    <verse number="19" style="v" sid="HOS 4:19"/>Laglagon gayod sila nga daw gipalid sa makusog nga hangin,</para>
-  <para style="q2" vid="HOS 4:19">ug maulawan sila tungod sa ilang mga halad ngadto sa mga dios-dios.”<verse eid="HOS 4:19"/></para>
-  <chapter eid="HOS 4"/>
-  <chapter number="5" style="c" sid="HOS 5"/>
+    <verse number="19" style="v" sid="HOS 4:19" />Laglagon gayod sila nga daw gipalid sa makusog nga hangin,</para>
+  <para style="q2" vid="HOS 4:19">ug maulawan sila tungod sa ilang mga halad ngadto sa mga dios-dios.”<verse eid="HOS 4:19" /></para>
+  <chapter eid="HOS 4" />
+  <chapter number="5" style="c" sid="HOS 5" />
   <para style="p">
-    <verse number="1" style="v" sid="HOS 5:1"/>Miingon pa ang <char style="nd">Ginoo</char>,</para>
+    <verse number="1" style="v" sid="HOS 5:1" />Miingon pa ang <char style="nd">Ginoo</char>,</para>
   <para style="q1" vid="HOS 5:1">“Pamati kamong mga pari,</para>
   <para style="q2" vid="HOS 5:1">ingon man kamong mga katawhan sa Israel</para>
   <para style="q2" vid="HOS 5:1">ug mga miyembro sa panimalay sa hari,</para>
   <para style="q1" vid="HOS 5:1">kay kini nga paghukom batok kaninyo:</para>
   <para style="q2" vid="HOS 5:1">Nahisama kamo sa lit-ag,</para>
-  <para style="q2" vid="HOS 5:1">kay gipasipad-an ninyo ang mga katawhan sa Mizpa ug sa Tabor.<verse eid="HOS 5:1"/></para>
+  <para style="q2" vid="HOS 5:1">kay gipasipad-an ninyo ang mga katawhan sa Mizpa ug sa Tabor.<verse eid="HOS 5:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="HOS 5:2"/>Misupak kamo kanako ug misamot</para>
+    <verse number="2" style="v" sid="HOS 5:2" />Misupak kamo kanako ug misamot</para>
   <para style="q2" vid="HOS 5:2">ang inyong tinguha sa pagpamatay,</para>
-  <para style="q2" vid="HOS 5:2">busa silotan ko kamong tanan.<verse eid="HOS 5:2"/></para>
+  <para style="q2" vid="HOS 5:2">busa silotan ko kamong tanan.<verse eid="HOS 5:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="HOS 5:3"/>Nasayod ako sa tanan mahitungod kaninyong mga taga-Israel<note caller="+" style="f"><char style="fr" closed="false">5:3 </char><char style="fqa" closed="false">Israel</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Makita usab ang pulong nga Efraim sa <char style="xt" link-href="HOS 5:5"><ref loc="HOS 5:5">bersikulo 5</ref></char>, <char style="xt" link-href="HOS 5:9"><ref loc="HOS 5:9">9</ref></char>, <char style="xt" link-href="HOS 5:11-14"><ref loc="HOS 5:11">11-14</ref></char> sa Hebreo. Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note>;</para>
+    <verse number="3" style="v" sid="HOS 5:3" />Nasayod ako sa tanan mahitungod kaninyong mga taga-Israel<note caller="+" style="f"><char style="fr" closed="false">5:3 </char><char style="fqa" closed="false">Israel</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Makita usab ang pulong nga Efraim sa <char style="xt" link-href="HOS 5:5">bersikulo <ref loc="HOS 5:5">5</ref></char>, <char style="xt" link-href="HOS 5:9"><ref loc="HOS 5:9">9</ref></char>, <char style="xt" link-href="HOS 5:11-14"><ref loc="HOS 5:11">11-14</ref></char> sa Hebreo. Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note>;</para>
   <para style="q2" vid="HOS 5:3">wala kamoy ikatago kanako.</para>
   <para style="q1" vid="HOS 5:3">Nagsimba kamo sa mga dios-dios<note caller="+" style="f"><char style="fr" closed="false">5:3 </char><char style="fq" closed="false">Nagsimba…dios-dios</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">Nanapaw kamo.</char></note></para>
-  <para style="q2" vid="HOS 5:3">busa nahimo kamong mahugaw.<verse eid="HOS 5:3"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 5:3">busa nahimo kamong mahugaw.<verse eid="HOS 5:3" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="4" style="v" sid="HOS 5:4"/>“Ang inyong daotang mga binuhatan nagpugong kaninyo</para>
+    <verse number="4" style="v" sid="HOS 5:4" />“Ang inyong daotang mga binuhatan nagpugong kaninyo</para>
   <para style="q2" vid="HOS 5:4">sa pagbalik kanako nga inyong Dios.</para>
   <para style="q1" vid="HOS 5:4">Kay anaa sa inyong kasing-kasing ang espiritu</para>
   <para style="q2" vid="HOS 5:4">sa pagsimba sa mga dios-dios,</para>
-  <para style="q2" vid="HOS 5:4">ug wala ninyo ako ilha nga <char style="nd">Ginoo</char>.<verse eid="HOS 5:4"/></para>
+  <para style="q2" vid="HOS 5:4">ug wala ninyo ako ilha nga <char style="nd">Ginoo</char>.<verse eid="HOS 5:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="HOS 5:5"/>Ang inyong pagkamapahitas-on nagpamatuod</para>
+    <verse number="5" style="v" sid="HOS 5:5" />Ang inyong pagkamapahitas-on nagpamatuod</para>
   <para style="q2" vid="HOS 5:5">nga angay kamong silotan.</para>
   <para style="q1" vid="HOS 5:5">Ug tungod sa inyong pagpakasala malaglag</para>
   <para style="q2" vid="HOS 5:5">kamong mga taga-Israel,</para>
-  <para style="q2" vid="HOS 5:5">ug malaglag uban kaninyo ang mga taga-Juda.<verse eid="HOS 5:5"/></para>
+  <para style="q2" vid="HOS 5:5">ug malaglag uban kaninyo ang mga taga-Juda.<verse eid="HOS 5:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="HOS 5:6"/>Mohalad kamo kanako ug mga karnero, kanding ug baka,</para>
+    <verse number="6" style="v" sid="HOS 5:6" />Mohalad kamo kanako ug mga karnero, kanding ug baka,</para>
   <para style="q2" vid="HOS 5:6">apan dili ninyo masinati ang akong presensya</para>
-  <para style="q2" vid="HOS 5:6">kay magpahilayo ako kaninyo.<verse eid="HOS 5:6"/></para>
+  <para style="q2" vid="HOS 5:6">kay magpahilayo ako kaninyo.<verse eid="HOS 5:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="HOS 5:7"/>Giluiban ninyo ako kay ang inyong mga anak dili akoa.</para>
+    <verse number="7" style="v" sid="HOS 5:7" />Giluiban ninyo ako kay ang inyong mga anak dili akoa.</para>
   <para style="q2" vid="HOS 5:7">Busa karon, laglagon ko kamo</para>
-  <para style="q2" vid="HOS 5:7">ug ang inyong mga yuta sa usa lang ka bulan.<note caller="+" style="f"><char style="fr" closed="false">5:7 </char><char style="fq" closed="false">sa usa lang ka bulan</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">sa Pista sa Pagsugod sa Bulan.</char></note><verse eid="HOS 5:7"/></para>
+  <para style="q2" vid="HOS 5:7">ug ang inyong mga yuta sa usa lang ka bulan.<note caller="+" style="f"><char style="fr" closed="false">5:7 </char><char style="fq" closed="false">sa usa lang ka bulan</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">sa Pista sa Pagsugod sa Bulan.</char></note><verse eid="HOS 5:7" /></para>
   <para style="s1">Pasidaan sa Juda ug sa Israel</para>
   <para style="q1">
-    <verse number="8" style="v" sid="HOS 5:8"/>“Patingoga ang mga budyong ug mga trumpeta</para>
+    <verse number="8" style="v" sid="HOS 5:8" />“Patingoga ang mga budyong ug mga trumpeta</para>
   <para style="q2" vid="HOS 5:8">aron mangandam ang mga tawo sa Gibea ug sa Rama!</para>
   <para style="q1" vid="HOS 5:8">Ipalanog ang singgit sa gira sa Bet Aven!</para>
-  <para style="q2" vid="HOS 5:8">Pagbantay kamong mga katawhan sa Benjamin!<note caller="+" style="f"><char style="fr" closed="false">5:8 </char><char style="fq" closed="false">mga katawhan sa Benjamin</char><char style="ft" closed="false">: ang Gibea, Rama, Bet Aven sakop kaniadto sa tribo ni Benjamin (<char style="xt"><ref loc="JOS 18:21-28">Jos. 18:21-28</ref></char>).</char></note><verse eid="HOS 5:8"/></para>
+  <para style="q2" vid="HOS 5:8">Pagbantay kamong mga katawhan sa Benjamin!<note caller="+" style="f"><char style="fr" closed="false">5:8 </char><char style="fq" closed="false">mga katawhan sa Benjamin</char><char style="ft" closed="false">: ang Gibea, Rama, Bet Aven sakop kaniadto sa tribo ni Benjamin (<char style="xt"><ref loc="JOS 18:21-28">Jos. 18:21-28</ref></char>).</char></note><verse eid="HOS 5:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="HOS 5:9"/>Malaglag ang Israel sa adlaw sa pagsilot.</para>
+    <verse number="9" style="v" sid="HOS 5:9" />Malaglag ang Israel sa adlaw sa pagsilot.</para>
   <para style="q2" vid="HOS 5:9">Mahitabo gayod ang akong giingon</para>
-  <para style="q2" vid="HOS 5:9">batok sa mga tribo sa Israel!<note caller="+" style="f"><char style="fr" closed="false">5:9 </char><char style="fq" closed="false">Israel</char><char style="ft" closed="false">: ang tibuok nasod sa Israel (Juda ug Israel).</char></note><verse eid="HOS 5:9"/></para>
+  <para style="q2" vid="HOS 5:9">batok sa mga tribo sa Israel!<note caller="+" style="f"><char style="fr" closed="false">5:9 </char><char style="fq" closed="false">Israel</char><char style="ft" closed="false">: ang tibuok nasod sa Israel (Juda ug Israel).</char></note><verse eid="HOS 5:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="HOS 5:10"/>Ang mga pangulo sa Juda sama sa mga tawo nga gapamalhin</para>
+    <verse number="10" style="v" sid="HOS 5:10" />Ang mga pangulo sa Juda sama sa mga tawo nga gapamalhin</para>
   <para style="q2" vid="HOS 5:10">ug mga muhon kay giilogan nila ug yuta ang Israel.</para>
-  <para style="q2" vid="HOS 5:10">Busa ibubo ko kanila ang akong kasuko sama sa baha.<verse eid="HOS 5:10"/></para>
+  <para style="q2" vid="HOS 5:10">Busa ibubo ko kanila ang akong kasuko sama sa baha.<verse eid="HOS 5:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="HOS 5:11"/>Gidaog-daog ang Israel ug gilaglag</para>
+    <verse number="11" style="v" sid="HOS 5:11" />Gidaog-daog ang Israel ug gilaglag</para>
   <para style="q2" vid="HOS 5:11">tungod kay gisilotan ko siya,</para>
   <para style="q1" vid="HOS 5:11">kay padayon gayod siya</para>
-  <para style="q2" vid="HOS 5:11">nga nagsunod sa mga dios-dios.<verse eid="HOS 5:11"/></para>
+  <para style="q2" vid="HOS 5:11">nga nagsunod sa mga dios-dios.<verse eid="HOS 5:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="HOS 5:12"/>Sama ako sa gagmayng mananap</para>
-  <para style="q2" vid="HOS 5:12">nga mokutkot sa Israel ug sa Juda.<verse eid="HOS 5:12"/></para>
-  <para style="b"/>
+    <verse number="12" style="v" sid="HOS 5:12" />Sama ako sa gagmayng mananap</para>
+  <para style="q2" vid="HOS 5:12">nga mokutkot sa Israel ug sa Juda.<verse eid="HOS 5:12" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="13" style="v" sid="HOS 5:13"/>“Sa dihang nakita sa Israel ug sa Juda</para>
+    <verse number="13" style="v" sid="HOS 5:13" />“Sa dihang nakita sa Israel ug sa Juda</para>
   <para style="q2" vid="HOS 5:13">ang katalagman<note caller="+" style="f"><char style="fr" closed="false">5:13 </char><char style="fq" closed="false">katalagman</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">balatian ug samad. </char><char style="ft" closed="false">Tingali ang buot ipasabot, mga problema nga politikal ug espirituwal.</char></note> nga midangat kanila,</para>
   <para style="q1" vid="HOS 5:13">nangayo ug tabang ang Israel sa gamhanang hari sa Asiria.</para>
-  <para style="q2" vid="HOS 5:13">Apan ang hari dili makatabang kanila.<note caller="+" style="f"><char style="fr" closed="false">5:13 </char><char style="fq" closed="false">dili makatabang kanila</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">dili siya makaayo sa ilang samad.</char></note><verse eid="HOS 5:13"/></para>
+  <para style="q2" vid="HOS 5:13">Apan ang hari dili makatabang kanila.<note caller="+" style="f"><char style="fr" closed="false">5:13 </char><char style="fq" closed="false">dili makatabang kanila</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">dili siya makaayo sa ilang samad.</char></note><verse eid="HOS 5:13" /></para>
   <para style="q1">
-    <verse number="14" style="v" sid="HOS 5:14"/>Kay mahisama ako sa usa ka liyon ngadto sa Israel</para>
+    <verse number="14" style="v" sid="HOS 5:14" />Kay mahisama ako sa usa ka liyon ngadto sa Israel</para>
   <para style="q2" vid="HOS 5:14">ug Juda nga mokunis-kunis kanila.</para>
   <para style="q1" vid="HOS 5:14">Ako gayod mismo ang molaglag kanila.</para>
-  <para style="q2" vid="HOS 5:14">Bihagon ko sila ug walay makaluwas kanila.<verse eid="HOS 5:14"/></para>
+  <para style="q2" vid="HOS 5:14">Bihagon ko sila ug walay makaluwas kanila.<verse eid="HOS 5:14" /></para>
   <para style="q1">
-    <verse number="15" style="v" sid="HOS 5:15"/>Pagkahuman, mobalik ako sa akong dapit,</para>
+    <verse number="15" style="v" sid="HOS 5:15" />Pagkahuman, mobalik ako sa akong dapit,</para>
   <para style="q2" vid="HOS 5:15">hangtod nga angkonon nila ang ilang mga sala.</para>
   <para style="q1" vid="HOS 5:15">Ug unya modangop gayod sila kanako</para>
-  <para style="q2" vid="HOS 5:15">taliwala sa ilang pag-antos.”<verse eid="HOS 5:15"/></para>
-  <chapter eid="HOS 5"/>
-  <chapter number="6" style="c" sid="HOS 6"/>
+  <para style="q2" vid="HOS 5:15">taliwala sa ilang pag-antos.”<verse eid="HOS 5:15" /></para>
+  <chapter eid="HOS 5" />
+  <chapter number="6" style="c" sid="HOS 6" />
   <para style="s1">Dili Tinud-anay nga Paghinulsol sa mga Israelinhon</para>
   <para style="p">
-    <verse number="1" style="v" sid="HOS 6:1"/>Nag-ingnanay ang mga Israelinhon,</para>
+    <verse number="1" style="v" sid="HOS 6:1" />Nag-ingnanay ang mga Israelinhon,</para>
   <para style="q1" vid="HOS 6:1">“Dali, mamalik na kita sa <char style="nd">Ginoo</char>.</para>
   <para style="q2" vid="HOS 6:1">Siya ang nagkunis-kunis kanato</para>
   <para style="q2" vid="HOS 6:1">apan siya usab ang moayo kanato.</para>
   <para style="q1" vid="HOS 6:1">Siya ang nagsamad kanato</para>
-  <para style="q2" vid="HOS 6:1">apan siya usab ang mobendahi sa atong samad.<note caller="+" style="f"><char style="fr" closed="false">6:1 </char><char style="fq" closed="false">Siya…kanato</char><char style="ft" closed="false">: posible nga buot ipasabot, </char><char style="fqa" closed="false">Siya ang naglaglag kanato ug siya usab ang motabang kanato.</char></note><verse eid="HOS 6:1"/></para>
+  <para style="q2" vid="HOS 6:1">apan siya usab ang mobendahi sa atong samad.<note caller="+" style="f"><char style="fr" closed="false">6:1 </char><char style="fq" closed="false">Siya…kanato</char><char style="ft" closed="false">: posible nga buot ipasabot, </char><char style="fqa" closed="false">Siya ang naglaglag kanato ug siya usab ang motabang kanato.</char></note><verse eid="HOS 6:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="HOS 6:2"/>Daw sama kita sa patay nga buhion niya dayon.</para>
+    <verse number="2" style="v" sid="HOS 6:2" />Daw sama kita sa patay nga buhion niya dayon.</para>
   <para style="q2" vid="HOS 6:2">Human sa mubo nga panahon,<note caller="+" style="f"><char style="fr" closed="false">6:2 </char><char style="fq" closed="false">dayon…mubo nga panahon</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">pagkahuman sa ikaduha nga adlaw o sa ikatulo nga adlaw.</char></note> bangonon kita niya,</para>
-  <para style="q2" vid="HOS 6:2">ug magkinabuhi kita diha sa iyang presensya.<verse eid="HOS 6:2"/></para>
+  <para style="q2" vid="HOS 6:2">ug magkinabuhi kita diha sa iyang presensya.<verse eid="HOS 6:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="HOS 6:3"/>Tinguhaon nato ang pag-ila sa <char style="nd">Ginoo</char>.</para>
+    <verse number="3" style="v" sid="HOS 6:3" />Tinguhaon nato ang pag-ila sa <char style="nd">Ginoo</char>.</para>
   <para style="q2" vid="HOS 6:3">Moabot siya sama kasiguro sa pagsidlak sa adlaw.</para>
   <para style="q1" vid="HOS 6:3">Ug moabot siya sama sa ulan</para>
-  <para style="q2" vid="HOS 6:3">nga naghatag ug tubig sa kalibotan.”<verse eid="HOS 6:3"/></para>
+  <para style="q2" vid="HOS 6:3">nga naghatag ug tubig sa kalibotan.”<verse eid="HOS 6:3" /></para>
   <para style="p">
-    <verse number="4" style="v" sid="HOS 6:4"/>Apan miingon ang <char style="nd">Ginoo</char>,</para>
+    <verse number="4" style="v" sid="HOS 6:4" />Apan miingon ang <char style="nd">Ginoo</char>,</para>
   <para style="q1" vid="HOS 6:4">“Mga katawhan sa Israel<note caller="+" style="f"><char style="fr" closed="false">6:4 </char><char style="fq" closed="false">Israel</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Makita usab ang pulong nga Efraim sa Hebreo sa bersikulo 10. Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note> ug Juda,</para>
   <para style="q2" vid="HOS 6:4">unsay buhaton ko kaninyo?</para>
   <para style="q1" vid="HOS 6:4">Ang inyong paghigugma kanako sama sa gabon</para>
-  <para style="q2" vid="HOS 6:4">o yamog sa kabuntagon nga dali ra mahanaw.<verse eid="HOS 6:4"/></para>
+  <para style="q2" vid="HOS 6:4">o yamog sa kabuntagon nga dali ra mahanaw.<verse eid="HOS 6:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="HOS 6:5"/>Busa gipahimangnoan ko kamo pinaagi sa akong mga propeta</para>
+    <verse number="5" style="v" sid="HOS 6:5" />Busa gipahimangnoan ko kamo pinaagi sa akong mga propeta</para>
   <para style="q2" vid="HOS 6:5">nga malaglag kamo ug mangamatay.</para>
   <para style="q1" vid="HOS 6:5">Ipadayag ko ang akong paghukom</para>
-  <para style="q2" vid="HOS 6:5">kaninyo sama kahayag sa adlaw.<verse eid="HOS 6:5"/></para>
+  <para style="q2" vid="HOS 6:5">kaninyo sama kahayag sa adlaw.<verse eid="HOS 6:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="HOS 6:6"/>Kay dili ang inyong mga halad</para>
+    <verse number="6" style="v" sid="HOS 6:6" />Kay dili ang inyong mga halad</para>
   <para style="q2" vid="HOS 6:6">ang akong gusto kondili ang inyong gugma<note caller="+" style="f"><char style="fr" closed="false">6:6 </char><char style="fq" closed="false">gugma</char><char style="ft" closed="false">: posible nga ang buot ipasabot, </char><char style="fqa" closed="false">gugma sa Dios </char><char style="ft" closed="false">o </char><char style="fqa" closed="false">gugma/kaluoy sa isigka-tawo.</char></note>.</para>
   <para style="q1" vid="HOS 6:6">Mas gusto ko pa nga ilhon ninyo ako</para>
-  <para style="q2" vid="HOS 6:6">kaysa maghalad kamo ug mga halad nga sinunog.<verse eid="HOS 6:6"/></para>
+  <para style="q2" vid="HOS 6:6">kaysa maghalad kamo ug mga halad nga sinunog.<verse eid="HOS 6:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="HOS 6:7"/>Sama kang Adan, gipakawalay-bili ninyo ang akong kasabotan kaninyo.</para>
-  <para style="q2" vid="HOS 6:7">Nagluib kamo kanako diha sa inyong dapit.<note caller="+" style="f"><char style="fr" closed="false">6:7 </char><char style="fq" closed="false">Sama kang Adan…diha sa inyong dapit</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">Sa dapit sa Adan…niana nga lugar.</char></note><verse eid="HOS 6:7"/></para>
+    <verse number="7" style="v" sid="HOS 6:7" />Sama kang Adan, gipakawalay-bili ninyo ang akong kasabotan kaninyo.</para>
+  <para style="q2" vid="HOS 6:7">Nagluib kamo kanako diha sa inyong dapit.<note caller="+" style="f"><char style="fr" closed="false">6:7 </char><char style="fq" closed="false">Sama kang Adan…diha sa inyong dapit</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">Sa dapit sa Adan…niana nga lugar.</char></note><verse eid="HOS 6:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="HOS 6:8"/>Ang siyudad sa Gilead gipuy-an</para>
-  <para style="q2" vid="HOS 6:8">sa mga tawong daotan ug mga kriminal.<verse eid="HOS 6:8"/></para>
+    <verse number="8" style="v" sid="HOS 6:8" />Ang siyudad sa Gilead gipuy-an</para>
+  <para style="q2" vid="HOS 6:8">sa mga tawong daotan ug mga kriminal.<verse eid="HOS 6:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="HOS 6:9"/>Ang inyong mga pari sama sa pundok sa mga tulisan</para>
+    <verse number="9" style="v" sid="HOS 6:9" />Ang inyong mga pari sama sa pundok sa mga tulisan</para>
   <para style="q2" vid="HOS 6:9">nga mangatang ug biktimahon.</para>
   <para style="q1" vid="HOS 6:9">Mopatay sila diha sa dalan paingon sa Sekem<note caller="+" style="f"><char style="fr" closed="false">6:9 </char><char style="fq" closed="false">Sekem</char><char style="ft" closed="false">: usa kini sa mga lungsod kon asa makadangop ang tawo nga nakapatay nga dili tinuyo, ug didto walay makahilabot kaniya.</char></note>,</para>
-  <para style="q2" vid="HOS 6:9">ug naghimo sa uban pang daotang mga binuhatan.<verse eid="HOS 6:9"/></para>
+  <para style="q2" vid="HOS 6:9">ug naghimo sa uban pang daotang mga binuhatan.<verse eid="HOS 6:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="HOS 6:10"/>Mga taga-Israel, makalilisang ang nakita ko kaninyo;</para>
+    <verse number="10" style="v" sid="HOS 6:10" />Mga taga-Israel, makalilisang ang nakita ko kaninyo;</para>
   <para style="q2" vid="HOS 6:10">nagsimba kamo sa mga dios-dios,</para>
-  <para style="q2" vid="HOS 6:10">busa nahimo kamong mahugaw<note caller="+" style="f"><char style="fr" closed="false">6:10 </char><char style="fq" closed="false">kamong mahugaw</char><char style="ft" closed="false">: ang buot ipasabot, </char><char style="fqa" closed="false">dili na sila takos nga makig-ambit sa mga seremonya sa templo.</char></note>.<verse eid="HOS 6:10"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 6:10">busa nahimo kamong mahugaw<note caller="+" style="f"><char style="fr" closed="false">6:10 </char><char style="fq" closed="false">kamong mahugaw</char><char style="ft" closed="false">: ang buot ipasabot, </char><char style="fqa" closed="false">dili na sila takos nga makig-ambit sa mga seremonya sa templo.</char></note>.<verse eid="HOS 6:10" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="11" style="v" sid="HOS 6:11"/>“Ug bisan kamong mga taga-Juda, gitakda na nga silotan.</para>
-  <para style="q2" vid="HOS 6:11">Gusto ko unta nga ibalik ang maayong kahimtang sa akong katawhan.<verse eid="HOS 6:11"/></para>
-  <chapter eid="HOS 6"/>
-  <chapter number="7" style="c" sid="HOS 7"/>
+    <verse number="11" style="v" sid="HOS 6:11" />“Ug bisan kamong mga taga-Juda, gitakda na nga silotan.</para>
+  <para style="q2" vid="HOS 6:11">Gusto ko unta nga ibalik ang maayong kahimtang sa akong katawhan.<verse eid="HOS 6:11" /></para>
+  <chapter eid="HOS 6" />
+  <chapter number="7" style="c" sid="HOS 7" />
   <para style="q1">
-    <verse number="1" style="v" sid="HOS 7:1"/>“Gusto ko untang ayohon ang mga taga-Israel.</para>
+    <verse number="1" style="v" sid="HOS 7:1" />“Gusto ko untang ayohon ang mga taga-Israel.</para>
   <para style="q2" vid="HOS 7:1">Apan ang akong makita kanila mao ang ilang<note caller="+" style="f"><char style="fr" closed="false">7:1 </char><char style="fq" closed="false">ilang</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim ug Samaria. </char><char style="ft" closed="false">Kini sila nagrepresentar sa tibuok gingharian sa Israel.</char></note> pagkadaotan.</para>
   <para style="q1" vid="HOS 7:1">Nanglimbong sila, nangawat sa kabalayan,</para>
-  <para style="q2" vid="HOS 7:1">ug nanulis didto sa mga kadalanan.<verse eid="HOS 7:1"/></para>
+  <para style="q2" vid="HOS 7:1">ug nanulis didto sa mga kadalanan.<verse eid="HOS 7:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="HOS 7:2"/>Wala sila nakahuna-huna nga gihinumdoman ko</para>
+    <verse number="2" style="v" sid="HOS 7:2" />Wala sila nakahuna-huna nga gihinumdoman ko</para>
   <para style="q2" vid="HOS 7:2">ang tanan nilang daotang buhat.</para>
   <para style="q1" vid="HOS 7:2">Sa gihapon nagapos sila sa ilang mga sala</para>
-  <para style="q2" vid="HOS 7:2">ug nakita ko kining tanan.<verse eid="HOS 7:2"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 7:2">ug nakita ko kining tanan.<verse eid="HOS 7:2" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="3" style="v" sid="HOS 7:3"/>“Gilipay nila ang ilang hari</para>
-  <para style="q2" vid="HOS 7:3">ug mga opisyal sa ilang kadaotan ug pagpamakak.<verse eid="HOS 7:3"/></para>
+    <verse number="3" style="v" sid="HOS 7:3" />“Gilipay nila ang ilang hari</para>
+  <para style="q2" vid="HOS 7:3">ug mga opisyal sa ilang kadaotan ug pagpamakak.<verse eid="HOS 7:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="HOS 7:4"/>Maluibon<note caller="+" style="f"><char style="fr" closed="false">7:4 </char><char style="fq" closed="false">Maluibon</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">Nanapaw. </char><char style="ft" closed="false">Posible usab nga ang buot ipasabot, nagsimba sila sa mga dios-dios.</char></note> silang tanan. Sama sila sa labihan kainit nga pugon</para>
+    <verse number="4" style="v" sid="HOS 7:4" />Maluibon<note caller="+" style="f"><char style="fr" closed="false">7:4 </char><char style="fq" closed="false">Maluibon</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">Nanapaw. </char><char style="ft" closed="false">Posible usab nga ang buot ipasabot, nagsimba sila sa mga dios-dios.</char></note> silang tanan. Sama sila sa labihan kainit nga pugon</para>
   <para style="q2" vid="HOS 7:4">nga dili na kinahanglan sugnoran sa panadero gikan</para>
-  <para style="q2" vid="HOS 7:4">sa pagmasa sa harina hangtod sa pagtubo.<verse eid="HOS 7:4"/></para>
+  <para style="q2" vid="HOS 7:4">sa pagmasa sa harina hangtod sa pagtubo.<verse eid="HOS 7:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="HOS 7:5"/>Sa adlaw<note caller="+" style="f"><char style="fr" closed="false">7:5 </char><char style="fq" closed="false">adlaw</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">adlaw sa pagkorona.</char></note> sa ilang<note caller="+" style="f"><char style="fr" closed="false">7:5 </char><char style="fq" closed="false">ilang</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">atong.</char></note> hari, gihubog nila ang mga opisyal niini.</para>
-  <para style="q2" vid="HOS 7:5">Ug ang hari nakig-inom usab sa mga bugal-bugalon.<verse eid="HOS 7:5"/></para>
+    <verse number="5" style="v" sid="HOS 7:5" />Sa adlaw<note caller="+" style="f"><char style="fr" closed="false">7:5 </char><char style="fq" closed="false">adlaw</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">adlaw sa pagkorona.</char></note> sa ilang<note caller="+" style="f"><char style="fr" closed="false">7:5 </char><char style="fq" closed="false">ilang</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">atong.</char></note> hari, gihubog nila ang mga opisyal niini.</para>
+  <para style="q2" vid="HOS 7:5">Ug ang hari nakig-inom usab sa mga bugal-bugalon.<verse eid="HOS 7:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="HOS 7:6"/>Ug samtang nagpaduol sila</para>
+    <verse number="6" style="v" sid="HOS 7:6" />Ug samtang nagpaduol sila</para>
   <para style="q2" vid="HOS 7:6">aron sa pagpatay sa hari ug sa iyang mga opisyal,</para>
   <para style="q1" vid="HOS 7:6">sama sa pugon ang kainit sa ilang kasuko.</para>
   <para style="q2" vid="HOS 7:6">Kay sa dihang naghulat pa lang sila sa takna sa ilang pagsulong,</para>
   <para style="q1" vid="HOS 7:6">tibuok gabii silang nagpugong sa ilang kasuko,</para>
-  <para style="q2" vid="HOS 7:6">ug pagkabuntag midilaab kini sama sa kalayo.<verse eid="HOS 7:6"/></para>
+  <para style="q2" vid="HOS 7:6">ug pagkabuntag midilaab kini sama sa kalayo.<verse eid="HOS 7:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="HOS 7:7"/>Silang tanan daw nagdilaab sa kasuko sama sa mainit nga pugon,</para>
+    <verse number="7" style="v" sid="HOS 7:7" />Silang tanan daw nagdilaab sa kasuko sama sa mainit nga pugon,</para>
   <para style="q2" vid="HOS 7:7">busa gipamatay nila ang ilang mga pangulo.</para>
   <para style="q1" vid="HOS 7:7">Nalaglag ang tanan nilang mga hari,</para>
-  <para style="q2" vid="HOS 7:7">apan wala gayoy bisan usa kanila nga nangayo ug tabang kanako.<verse eid="HOS 7:7"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 7:7">apan wala gayoy bisan usa kanila nga nangayo ug tabang kanako.<verse eid="HOS 7:7" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="8" style="v" sid="HOS 7:8"/>“Ang mga katawhan sa Israel<note caller="+" style="f"><char style="fr" closed="false">7:8 </char><char style="fq" closed="false">Israel</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note></para>
+    <verse number="8" style="v" sid="HOS 7:8" />“Ang mga katawhan sa Israel<note caller="+" style="f"><char style="fr" closed="false">7:8 </char><char style="fq" closed="false">Israel</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note></para>
   <para style="q2" vid="HOS 7:8">nakig-uban sa ubang mga nasod.</para>
   <para style="q1" vid="HOS 7:8">Dili sila mapuslan.</para>
-  <para style="q2" vid="HOS 7:8">Sama sila sa nipis nga pan nga wala mabali.<note caller="+" style="f"><char style="fr" closed="false">7:8 </char><char style="fq" closed="false">wala mabali</char><char style="ft" closed="false">: tingali ang buot ipasabot, napagod o ang pikas nga bahin wala naluto.</char></note><verse eid="HOS 7:8"/></para>
+  <para style="q2" vid="HOS 7:8">Sama sila sa nipis nga pan nga wala mabali.<note caller="+" style="f"><char style="fr" closed="false">7:8 </char><char style="fq" closed="false">wala mabali</char><char style="ft" closed="false">: tingali ang buot ipasabot, napagod o ang pikas nga bahin wala naluto.</char></note><verse eid="HOS 7:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="HOS 7:9"/>Gikuha sa mga taga-laing nasod ang ilang katakos,</para>
+    <verse number="9" style="v" sid="HOS 7:9" />Gikuha sa mga taga-laing nasod ang ilang katakos,</para>
   <para style="q2" vid="HOS 7:9">apan wala sila makamatngon.</para>
   <para style="q1" vid="HOS 7:9">Gituboan na silag uban</para>
-  <para style="q2" vid="HOS 7:9">apan wala sila makamatikod niini.<verse eid="HOS 7:9"/></para>
+  <para style="q2" vid="HOS 7:9">apan wala sila makamatikod niini.<verse eid="HOS 7:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="HOS 7:10"/>Ang ilang pagkamapahitas-on nagpamatuod</para>
+    <verse number="10" style="v" sid="HOS 7:10" />Ang ilang pagkamapahitas-on nagpamatuod</para>
   <para style="q2" vid="HOS 7:10">nga angay silang silotan.</para>
   <para style="q1" vid="HOS 7:10">Apan bisan pa niining tanan nga nahitabo,</para>
-  <para style="q2" vid="HOS 7:10">wala gihapon sila mobalik ug modangop kanako nga ilang Dios.<verse eid="HOS 7:10"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 7:10">wala gihapon sila mobalik ug modangop kanako nga ilang Dios.<verse eid="HOS 7:10" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="11" style="v" sid="HOS 7:11"/>“Sama sila sa salampati</para>
+    <verse number="11" style="v" sid="HOS 7:11" />“Sama sila sa salampati</para>
   <para style="q2" vid="HOS 7:11">nga dali rang matunto ug walay panabot.</para>
   <para style="q1" vid="HOS 7:11">Didto hinuon sila sa Ehipto</para>
-  <para style="q2" vid="HOS 7:11">o sa Asiria mangayo ug tabang.<verse eid="HOS 7:11"/></para>
+  <para style="q2" vid="HOS 7:11">o sa Asiria mangayo ug tabang.<verse eid="HOS 7:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="HOS 7:12"/>Apan inig-adto nila niining mga dapita, pugngan<note caller="+" style="f"><char style="fr" closed="false">7:12 </char><char style="fq" closed="false">pugngan</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">laglagon</char><char style="ft" closed="false">; o </char><char style="fqa" closed="false">ipabihag.</char></note> ko sila.</para>
+    <verse number="12" style="v" sid="HOS 7:12" />Apan inig-adto nila niining mga dapita, pugngan<note caller="+" style="f"><char style="fr" closed="false">7:12 </char><char style="fq" closed="false">pugngan</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">laglagon</char><char style="ft" closed="false">; o </char><char style="fqa" closed="false">ipabihag.</char></note> ko sila.</para>
   <para style="q2" vid="HOS 7:12">Mahisama sila sa langgam nga itsahan ko ug pukot ug birahon paubos.</para>
-  <para style="q2" vid="HOS 7:12">Silotan ko sila sumala sa giingon ko na sa ilang panagtigom.<verse eid="HOS 7:12"/></para>
+  <para style="q2" vid="HOS 7:12">Silotan ko sila sumala sa giingon ko na sa ilang panagtigom.<verse eid="HOS 7:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="HOS 7:13"/>Alaot sila tungod kay nagpahilayo sila kanako.</para>
+    <verse number="13" style="v" sid="HOS 7:13" />Alaot sila tungod kay nagpahilayo sila kanako.</para>
   <para style="q2" vid="HOS 7:13">Laglagon ko sila tungod kay mirebelde sila kanako.</para>
   <para style="q1" vid="HOS 7:13">Buot ko silang luwason,</para>
-  <para style="q2" vid="HOS 7:13">apan nagsulti silag bakak mahitungod kanako.<verse eid="HOS 7:13"/></para>
+  <para style="q2" vid="HOS 7:13">apan nagsulti silag bakak mahitungod kanako.<verse eid="HOS 7:13" /></para>
   <para style="q1">
-    <verse number="14" style="v" sid="HOS 7:14"/>Dili kinasing-kasing ang ilang pagsangpit kanako.</para>
+    <verse number="14" style="v" sid="HOS 7:14" />Dili kinasing-kasing ang ilang pagsangpit kanako.</para>
   <para style="q2" vid="HOS 7:14">Nagminatay hinuon sila ug hilak diha sa ilang mga katre</para>
   <para style="q2" vid="HOS 7:14">sa pagpangayo ngadto sa mga dios-dios ug mga lugas ug bino.</para>
   <para style="q1" vid="HOS 7:14">Gisamaran nila ang ilang mga lawas,<note caller="+" style="f"><char style="fr" closed="false">7:14 </char><char style="fq" closed="false">Gisamaran nila ang ilang mga lawas</char><char style="ft" closed="false">: mao kini sa Septuagint; apan sa Hebreo, </char><char style="fqa" closed="false">Nagtigom sila.</char></note></para>
-  <para style="q2" vid="HOS 7:14">ug nagpalayo sila kanako.<verse eid="HOS 7:14"/></para>
+  <para style="q2" vid="HOS 7:14">ug nagpalayo sila kanako.<verse eid="HOS 7:14" /></para>
   <para style="q1">
-    <verse number="15" style="v" sid="HOS 7:15"/>Gidisiplina ko sila ug gilig-on,</para>
-  <para style="q2" vid="HOS 7:15">apan nagplano sila ug daotan batok kanako.<verse eid="HOS 7:15"/></para>
+    <verse number="15" style="v" sid="HOS 7:15" />Gidisiplina ko sila ug gilig-on,</para>
+  <para style="q2" vid="HOS 7:15">apan nagplano sila ug daotan batok kanako.<verse eid="HOS 7:15" /></para>
   <para style="q1">
-    <verse number="16" style="v" sid="HOS 7:16"/>Midangop sila sa butang nga walay pulos.<note caller="+" style="f"><char style="fr" closed="false">7:16 </char><char style="fq" closed="false">butang nga walay pulos</char><char style="ft" closed="false">: kini ang sa Septuagint ug sa Syriac, apan sa Hebreo dili klaro. Posible nga naghisgot kini sa mga dios-dios.</char></note></para>
+    <verse number="16" style="v" sid="HOS 7:16" />Midangop sila sa butang nga walay pulos.<note caller="+" style="f"><char style="fr" closed="false">7:16 </char><char style="fq" closed="false">butang nga walay pulos</char><char style="ft" closed="false">: kini ang sa Septuagint ug sa Syriac, apan sa Hebreo dili klaro. Posible nga naghisgot kini sa mga dios-dios.</char></note></para>
   <para style="q2" vid="HOS 7:16">Sama sila sa hiwi nga pana nga dili kasaligan.</para>
   <para style="q1" vid="HOS 7:16">Mangamatay sa espada ang ilang mga pangulo</para>
   <para style="q2" vid="HOS 7:16">tungod kay garboso silang manulti.</para>
-  <para style="q2" vid="HOS 7:16">Tungod niini biay-biayon sila sa mga tawo sa Ehipto.”<verse eid="HOS 7:16"/></para>
-  <chapter eid="HOS 7"/>
-  <chapter number="8" style="c" sid="HOS 8"/>
+  <para style="q2" vid="HOS 7:16">Tungod niini biay-biayon sila sa mga tawo sa Ehipto.”<verse eid="HOS 7:16" /></para>
+  <chapter eid="HOS 7" />
+  <chapter number="8" style="c" sid="HOS 8" />
   <para style="s1">Gisilotan ang Israel Tungod sa Pagsimba sa mga Dios-dios</para>
   <para style="p">
-    <verse number="1" style="v" sid="HOS 8:1"/>Miingon ang <char style="nd">Ginoo</char>,</para>
+    <verse number="1" style="v" sid="HOS 8:1" />Miingon ang <char style="nd">Ginoo</char>,</para>
   <para style="q1" vid="HOS 8:1">“Patingoga ang budyong sa pagpahibalo</para>
   <para style="q2" vid="HOS 8:1">sa akong katawhan nga ang Israel nga giisip ko nga akong puloy-anan<note caller="+" style="f"><char style="fr" closed="false">8:1 </char><char style="fq" closed="false">Israel…puloy-anan</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">akong templo.</char></note></para>
   <para style="q2" vid="HOS 8:1">sulongon sa kaaway nga daw agila nga mosakdap kanila.</para>
   <para style="q1" vid="HOS 8:1">Kay gipakawalay-bili nila ang akong kasabotan</para>
-  <para style="q2" vid="HOS 8:1">ug gilapas nila ang akong Kasugoan.<verse eid="HOS 8:1"/></para>
+  <para style="q2" vid="HOS 8:1">ug gilapas nila ang akong Kasugoan.<verse eid="HOS 8:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="HOS 8:2"/>Nanawag sila kanako, ‘Dios sa Israel, giila ka namo.’<verse eid="HOS 8:2"/></para>
+    <verse number="2" style="v" sid="HOS 8:2" />Nanawag sila kanako, ‘Dios sa Israel, giila ka namo.’<verse eid="HOS 8:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="HOS 8:3"/>Apan gisalikway nila ang maayo,</para>
-  <para style="q2" vid="HOS 8:3">busa gukdon sila sa ilang kaaway.<verse eid="HOS 8:3"/></para>
+    <verse number="3" style="v" sid="HOS 8:3" />Apan gisalikway nila ang maayo,</para>
+  <para style="q2" vid="HOS 8:3">busa gukdon sila sa ilang kaaway.<verse eid="HOS 8:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="HOS 8:4"/>Nagpili sila ug mga hari ug mga opisyal</para>
+    <verse number="4" style="v" sid="HOS 8:4" />Nagpili sila ug mga hari ug mga opisyal</para>
   <para style="q2" vid="HOS 8:4">nga wala magpahibalo ug walay pagtugot gikan kanako.</para>
   <para style="q1" vid="HOS 8:4">Gihimo nilang mga dios-dios ang ilang mga plata ug mga bulawan,</para>
-  <para style="q2" vid="HOS 8:4">ug mao kini ang nagdala kanila sa kalaglagan.<verse eid="HOS 8:4"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 8:4">ug mao kini ang nagdala kanila sa kalaglagan.<verse eid="HOS 8:4" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="5" style="v" sid="HOS 8:5"/>“Gisalikway ko<note caller="+" style="f"><char style="fr" closed="false">8:5 </char><char style="fq" closed="false">ko</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">niya.</char></note> ang dios-dios nga baka sa mga taga-Samaria.</para>
+    <verse number="5" style="v" sid="HOS 8:5" />“Gisalikway ko<note caller="+" style="f"><char style="fr" closed="false">8:5 </char><char style="fq" closed="false">ko</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">niya.</char></note> ang dios-dios nga baka sa mga taga-Samaria.</para>
   <para style="q2" vid="HOS 8:5">Misilaob ang akong kasuko kanila.</para>
-  <para style="q2" vid="HOS 8:5">Hangtod kanus-a sila magpabilin sa pagpakasala?<verse eid="HOS 8:5"/></para>
+  <para style="q2" vid="HOS 8:5">Hangtod kanus-a sila magpabilin sa pagpakasala?<verse eid="HOS 8:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="HOS 8:6"/>Ang dios-dios nga baka sa Samaria gihimo lang sa platero nga taga-Israel.</para>
-  <para style="q2" vid="HOS 8:6">Dili kana Dios, busa dugmokon gayod kana!<verse eid="HOS 8:6"/></para>
-  <para style="b"/>
+    <verse number="6" style="v" sid="HOS 8:6" />Ang dios-dios nga baka sa Samaria gihimo lang sa platero nga taga-Israel.</para>
+  <para style="q2" vid="HOS 8:6">Dili kana Dios, busa dugmokon gayod kana!<verse eid="HOS 8:6" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="7" style="v" sid="HOS 8:7"/>“Nagpugas silag hangin ug moani silag buhawi.<note caller="+" style="f"><char style="fr" closed="false">8:7 </char><char style="fq" closed="false">Nagpugas…buhawi</char><char style="ft" closed="false">: tingali ang buot ipasabot, sa ilang mga ginahimo nga walay pulos, dako nga silot ang ibalos kanila.</char></note></para>
+    <verse number="7" style="v" sid="HOS 8:7" />“Nagpugas silag hangin ug moani silag buhawi.<note caller="+" style="f"><char style="fr" closed="false">8:7 </char><char style="fq" closed="false">Nagpugas…buhawi</char><char style="ft" closed="false">: tingali ang buot ipasabot, sa ilang mga ginahimo nga walay pulos, dako nga silot ang ibalos kanila.</char></note></para>
   <para style="q2" vid="HOS 8:7">Ang ilang trigo walay uhay;</para>
   <para style="q2" vid="HOS 8:7">dili kini makahatag ug harina.</para>
   <para style="q1" vid="HOS 8:7">Apan bisan pag mamunga kini,</para>
-  <para style="q2" vid="HOS 8:7">ang taga-laing dapit mao ang mohurot niini.<verse eid="HOS 8:7"/></para>
+  <para style="q2" vid="HOS 8:7">ang taga-laing dapit mao ang mohurot niini.<verse eid="HOS 8:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="HOS 8:8"/>Lamyon ang Israel sa kaaway.</para>
+    <verse number="8" style="v" sid="HOS 8:8" />Lamyon ang Israel sa kaaway.</para>
   <para style="q2" vid="HOS 8:8">Ang pagtan-aw kaniya karon sa ubang mga nasod</para>
-  <para style="q2" vid="HOS 8:8">sama sa galamiton nga walay pulos,<verse eid="HOS 8:8"/></para>
+  <para style="q2" vid="HOS 8:8">sama sa galamiton nga walay pulos,<verse eid="HOS 8:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="HOS 8:9"/>kay nangayo siya ug tabang sa Asiria.</para>
+    <verse number="9" style="v" sid="HOS 8:9" />kay nangayo siya ug tabang sa Asiria.</para>
   <para style="q2" vid="HOS 8:9">Sama siya sa ihalas nga asno nga naglatagaw nga nag-inusara.</para>
   <para style="q1" vid="HOS 8:9">Gibayran niya ang kaabin niyang mga nasod</para>
-  <para style="q2" vid="HOS 8:9">aron tabangan siya.<verse eid="HOS 8:9"/></para>
+  <para style="q2" vid="HOS 8:9">aron tabangan siya.<verse eid="HOS 8:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="HOS 8:10"/>Bisan pag mobayad siya sa ubang mga nasod,</para>
+    <verse number="10" style="v" sid="HOS 8:10" />Bisan pag mobayad siya sa ubang mga nasod,</para>
   <para style="q2" vid="HOS 8:10">sa dili madugay tigomon ko ang iyang mga katawhan ug silotan.</para>
   <para style="q1" vid="HOS 8:10">Ug magsugod ang ilang pag-antos pinaagi sa pagdaog-daog kanila</para>
-  <para style="q2" vid="HOS 8:10">sa hari sa Asiria ug sa iyang mga opisyal.<verse eid="HOS 8:10"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 8:10">sa hari sa Asiria ug sa iyang mga opisyal.<verse eid="HOS 8:10" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="11" style="v" sid="HOS 8:11"/>“Tinuod nga naghimo sila ug daghang mga halaran</para>
+    <verse number="11" style="v" sid="HOS 8:11" />“Tinuod nga naghimo sila ug daghang halaran</para>
   <para style="q2" vid="HOS 8:11">aron nga halaran sa mga halad nga makahinlo kanila,</para>
-  <para style="q2" vid="HOS 8:11">apan kining mga halaran nahimong dapit diin sila nagpakasala.<verse eid="HOS 8:11"/></para>
+  <para style="q2" vid="HOS 8:11">apan kining mga halaran nahimong dapit diin sila nagpakasala.<verse eid="HOS 8:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="HOS 8:12"/>Gipasulat ko ang daghang mga kasugoan alang kanila,</para>
-  <para style="q2" vid="HOS 8:12">apan giisip nila nga kini alang sa uban ug dili alang kanila.<verse eid="HOS 8:12"/></para>
+    <verse number="12" style="v" sid="HOS 8:12" />Gipasulat ko ang daghang kasugoan alang kanila,</para>
+  <para style="q2" vid="HOS 8:12">apan giisip nila nga kini alang sa uban ug dili alang kanila.<verse eid="HOS 8:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="HOS 8:13"/>Naghalad sila kanako ug ginakaon nila ang karne,<note caller="+" style="f"><char style="fr" closed="false">8:13 </char><char style="fq" closed="false">ginakaon nila ang karne</char><char style="ft" closed="false">: sumala sa <char style="xt"><ref loc="LEV 7:11-18">Lev. 7:11-18</ref>,</char> ang karne sa halad nga alang sa maayong relasyon kan-on sa pamilya sa naghalad ug sa mga pari.</char></note></para>
+    <verse number="13" style="v" sid="HOS 8:13" />Naghalad sila kanako ug ginakaon nila ang karne,<note caller="+" style="f"><char style="fr" closed="false">8:13 </char><char style="fq" closed="false">ginakaon nila ang karne</char><char style="ft" closed="false">: sumala sa <char style="xt"><ref loc="LEV 7:11-18">Lev. 7:11-18</ref></char>, ang karne sa halad nga alang sa maayong relasyon kan-on sa pamilya sa naghalad ug sa mga pari.</char></note></para>
   <para style="q2" vid="HOS 8:13">apan wala ako malipay kanila.</para>
   <para style="q1" vid="HOS 8:13">Ug karon hinumdoman ko ang ilang kadaotan;</para>
   <para style="q2" vid="HOS 8:13">silotan ko sila tungod sa ilang mga sala.</para>
-  <para style="q2" vid="HOS 8:13">Mobalik sila sa Ehipto.<verse eid="HOS 8:13"/></para>
+  <para style="q2" vid="HOS 8:13">Mobalik sila sa Ehipto.<verse eid="HOS 8:13" /></para>
   <para style="q1">
-    <verse number="14" style="v" sid="HOS 8:14"/>Gikalimtan sa mga Israelinhon ang nagbuhat kanila.</para>
+    <verse number="14" style="v" sid="HOS 8:14" />Gikalimtan sa mga Israelinhon ang nagbuhat kanila.</para>
   <para style="q2" vid="HOS 8:14">Sila ug ang mga taga-Juda nagpatukod ug mga palasyo<note caller="+" style="f"><char style="fr" closed="false">8:14 </char><char style="fq" closed="false">palasyo</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">templo.</char></note></para>
-  <para style="q2" vid="HOS 8:14">ug daghang mga lungsod nga nalibotan ug paril.</para>
+  <para style="q2" vid="HOS 8:14">ug daghang lungsod nga nalibotan ug paril.</para>
   <para style="q1" vid="HOS 8:14">Apan sunogon ko ang ilang mga lungsod</para>
-  <para style="q2" vid="HOS 8:14">apil ang lig-ong mga bahin niini.”<verse eid="HOS 8:14"/></para>
-  <chapter eid="HOS 8"/>
-  <chapter number="9" style="c" sid="HOS 9"/>
+  <para style="q2" vid="HOS 8:14">apil ang lig-ong mga bahin niini.”<verse eid="HOS 8:14" /></para>
+  <chapter eid="HOS 8" />
+  <chapter number="9" style="c" sid="HOS 9" />
   <para style="s1">Ang Silot alang sa Israel</para>
   <para style="p">
-    <verse number="1" style="v" sid="HOS 9:1"/>Miingon si Oseas,</para>
+    <verse number="1" style="v" sid="HOS 9:1" />Miingon si Oseas,</para>
   <para style="q1" vid="HOS 9:1">“Ayaw kamo pagmaya mga taga-Israel,</para>
   <para style="q2" vid="HOS 9:1">sama sa gihimo sa ubang mga nasod.</para>
   <para style="q1" vid="HOS 9:1">Kay nagsimba kamo sa mga dios-dios<note caller="+" style="f"><char style="fr" closed="false">9:1 </char><char style="fq" closed="false">nagsimba…dios-dios</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">nanapaw. </char><char style="ft" closed="false">Tan-awa usab ang <char style="xt"><ref loc="HOS 4:10">4:10</ref></char>.</char></note></para>
   <para style="q2" vid="HOS 9:1">ug gisalikway ninyo ang inyong Dios.</para>
   <para style="q1" vid="HOS 9:1">Sa bisan asang giokanan nagkalipay kamo sa mga abot</para>
   <para style="q2" vid="HOS 9:1">nga giisip ninyong suhol kaninyo sa mga dios-dios</para>
-  <para style="q2" vid="HOS 9:1">tungod sa inyong pagsimba kanila.<verse eid="HOS 9:1"/></para>
+  <para style="q2" vid="HOS 9:1">tungod sa inyong pagsimba kanila.<verse eid="HOS 9:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="HOS 9:2"/>Apan sa dili madugay mawad-an kamog</para>
-  <para style="q2" vid="HOS 9:2">kalan-on ug duga sa ubas.<verse eid="HOS 9:2"/></para>
+    <verse number="2" style="v" sid="HOS 9:2" />Apan sa dili madugay mawad-an kamog</para>
+  <para style="q2" vid="HOS 9:2">kalan-on ug duga sa ubas.<verse eid="HOS 9:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="HOS 9:3"/>Biyaan ninyo ang Israel, ang yuta sa <char style="nd">Ginoo</char>,</para>
-  <para style="q2" vid="HOS 9:3">ug mobalik kamo<note caller="+" style="f"><char style="fr" closed="false">9:3 </char><char style="fq" closed="false">kamo</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Makita usab ang pulong nga Efraim sa Hebreo sa <char style="xt" link-href="HOS 9:8"><ref loc="HOS 9:8">bersikulo 8</ref></char>, <char style="xt" link-href="HOS 9:11"><ref loc="HOS 9:11">11</ref></char>, <char style="xt" link-href="HOS 9:13"><ref loc="HOS 9:13">13</ref></char>, <char style="xt" link-href="HOS 9:16"><ref loc="HOS 9:16">16</ref></char>. Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note> sa Ehipto. Ang uban kaninyo dad-on sa Asiria,</para>
-  <para style="q2" vid="HOS 9:3">ug didto mokaon kamo sa hugaw nga mga pagkaon.<note caller="+" style="f"><char style="fr" closed="false">9:3 </char><char style="fq" closed="false">hugaw nga mga pagkaon</char><char style="ft" closed="false">: mga pagkaon nga gidili nga kan-on sa mga Judio sumala sa Kasugoan.</char></note><verse eid="HOS 9:3"/></para>
+    <verse number="3" style="v" sid="HOS 9:3" />Biyaan ninyo ang Israel, ang yuta sa <char style="nd">Ginoo</char>,</para>
+  <para style="q2" vid="HOS 9:3">ug mobalik kamo<note caller="+" style="f"><char style="fr" closed="false">9:3 </char><char style="fq" closed="false">kamo</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Makita usab ang pulong nga Efraim sa Hebreo sa <char style="xt" link-href="HOS 9:8">bersikulo <ref loc="HOS 9:8">8</ref></char>, <char style="xt" link-href="HOS 9:11"><ref loc="HOS 9:11">11</ref></char>, <char style="xt" link-href="HOS 9:13"><ref loc="HOS 9:13">13</ref></char>, <char style="xt" link-href="HOS 9:16"><ref loc="HOS 9:16">16</ref></char>. Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note> sa Ehipto. Ang uban kaninyo dad-on sa Asiria,</para>
+  <para style="q2" vid="HOS 9:3">ug didto mokaon kamo sa hugaw nga mga pagkaon.<note caller="+" style="f"><char style="fr" closed="false">9:3 </char><char style="fq" closed="false">hugaw nga mga pagkaon</char><char style="ft" closed="false">: mga pagkaon nga gidili nga kan-on sa mga Judio sumala sa Kasugoan.</char></note><verse eid="HOS 9:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="HOS 9:4"/>Dili na kamo tugotan nga maghalad ug bino ngadto sa <char style="nd">Ginoo</char>.</para>
+    <verse number="4" style="v" sid="HOS 9:4" />Dili na kamo tugotan nga maghalad ug bino ngadto sa <char style="nd">Ginoo</char>.</para>
   <para style="q2" vid="HOS 9:4">Ang inyong mga halad dili makalipay kaniya.</para>
   <para style="q1" vid="HOS 9:4">Si bisan kinsa nga mokaon niana nga mga halad isipon</para>
   <para style="q2" vid="HOS 9:4">nga mahugaw, kay nahisama kana sa pagkaon sa namatyan.<note caller="+" style="f"><char style="fr" closed="false">9:4 </char><char style="fq" closed="false">Si bisan…namatyan</char><char style="ft" closed="false">: ang pagkaon nga gidalit diha sa balay sa namatyan, ang dapit nga anaay patay, ug ang tanan nga anaa niini giisip sa mga Israelinhon nga mahugaw. Tan-awa sa <char style="xt"><ref loc="NUM 19:14">Num. 19:14</ref></char>.</char></note></para>
   <para style="q1" vid="HOS 9:4">Ang inyong pagkaon alang lang sa inyong kaugalingon;</para>
-  <para style="q2" vid="HOS 9:4">dili kana mahimong ihalad sa Templo sa <char style="nd">Ginoo</char>.<verse eid="HOS 9:4"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 9:4">dili kana mahimong ihalad sa Templo sa <char style="nd">Ginoo</char>.<verse eid="HOS 9:4" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="5" style="v" sid="HOS 9:5"/>“Unya, unsa may inyong buhaton</para>
+    <verse number="5" style="v" sid="HOS 9:5" />“Unya, unsa may inyong buhaton</para>
   <para style="q2" vid="HOS 9:5">sa pag-abot sa pinasahi nga mga panahon</para>
-  <para style="q2" vid="HOS 9:5">sa pagsimba o sa mga pista sa pagpasidungog sa <char style="nd">Ginoo</char>?<verse eid="HOS 9:5"/></para>
+  <para style="q2" vid="HOS 9:5">sa pagsimba o sa mga pista sa pagpasidungog sa <char style="nd">Ginoo</char>?<verse eid="HOS 9:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="HOS 9:6"/>Bisan pag makalingkawas kamo sa kalaglagan,</para>
+    <verse number="6" style="v" sid="HOS 9:6" />Bisan pag makalingkawas kamo sa kalaglagan,</para>
   <para style="q2" vid="HOS 9:6">tigomon gihapon kamo sa Ehipto ug ilubong sa Memfis.<note caller="+" style="f"><char style="fr" closed="false">9:6 </char><char style="fq" closed="false">Memfis</char><char style="ft" closed="false">: usa ka siyudad sa Ehipto nga adunay bantogan nga mga lubnganan.</char></note></para>
   <para style="q1" vid="HOS 9:6">Matabonan sa sagbot ang inyong mga mahalong kabtangan</para>
-  <para style="q2" vid="HOS 9:6">nga plata ug tuboan sa mga sampinit ang inyong mga tolda.<verse eid="HOS 9:6"/></para>
+  <para style="q2" vid="HOS 9:6">nga plata ug tuboan sa mga sampinit ang inyong mga tolda.<verse eid="HOS 9:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="HOS 9:7"/>Mga taga-Israel, miabot na ang higayon nga silotan kamo,</para>
+    <verse number="7" style="v" sid="HOS 9:7" />Mga taga-Israel, miabot na ang higayon nga silotan kamo,</para>
   <para style="q2" vid="HOS 9:7">ang higayon nga singlon kamo sa inyong gipanghimo.</para>
   <para style="q1" vid="HOS 9:7">Ug mahibaloan gayod ninyo nga miabot na kini.</para>
   <para style="q2" vid="HOS 9:7">Nag-ingon kamo,</para>
@@ -591,426 +592,426 @@
   <para style="q1" vid="HOS 9:7">Kanang tawhana nga gigamhan sa espiritu, buang!’</para>
   <para style="q2" vid="HOS 9:7">Mao kana ang inyong giingon bahin kanako</para>
   <para style="q1" vid="HOS 9:7">tungod kay daghan na kaayo ang inyong sala</para>
-  <para style="q2" vid="HOS 9:7">ug nasuko kamo pag-ayo kanako.<verse eid="HOS 9:7"/></para>
+  <para style="q2" vid="HOS 9:7">ug nasuko kamo pag-ayo kanako.<verse eid="HOS 9:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="HOS 9:8"/>Ingon nga propeta, kauban ko ang akong Dios</para>
+    <verse number="8" style="v" sid="HOS 9:8" />Ingon nga propeta, kauban ko ang akong Dios</para>
   <para style="q2" vid="HOS 9:8">sa pagbantay kaninyong mga taga-Israel.</para>
   <para style="q1" vid="HOS 9:8">Apan bisan asa ako paingon buot ninyo akong sakiton;</para>
   <para style="q2" vid="HOS 9:8">sama ako sa langgam nga buot ninyong lit-agon.</para>
   <para style="q1" vid="HOS 9:8">Nasuko kanako ang mga tawo sa Israel,</para>
-  <para style="q1" vid="HOS 9:8">nga giisip sa Dios nga iyang puloy-anan.<note caller="+" style="f"><char style="fr" closed="false">9:8 </char><char style="fq" closed="false">sa Israel…puloy-anan</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">sa Templo sa akong Dios.</char></note><verse eid="HOS 9:8"/></para>
+  <para style="q1" vid="HOS 9:8">nga giisip sa Dios nga iyang puloy-anan.<note caller="+" style="f"><char style="fr" closed="false">9:8 </char><char style="fq" closed="false">sa Israel…puloy-anan</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">sa Templo sa akong Dios.</char></note><verse eid="HOS 9:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="HOS 9:9"/>Sama kaniadto sa mga lalaki sa Gibea,<note caller="+" style="f"><char style="fr" closed="false">9:9 </char><char style="fq" closed="false">mga lalaki sa Gibea</char><char style="ft" closed="false">: gilugos nila ug gipatay ang usa ka babaye. Tan-awa ang <char style="xt"><ref loc="JDG 19">Mag. 19</ref></char>.</char></note></para>
+    <verse number="9" style="v" sid="HOS 9:9" />Sama kaniadto sa mga lalaki sa Gibea,<note caller="+" style="f"><char style="fr" closed="false">9:9 </char><char style="fq" closed="false">mga lalaki sa Gibea</char><char style="ft" closed="false">: gilugos nila ug gipatay ang usa ka babaye. Tan-awa ang <char style="xt"><ref loc="JDG 19">Mag. 19</ref></char>.</char></note></para>
   <para style="q2" vid="HOS 9:9">labihan na gayod kamo kadaotan.</para>
   <para style="q1" vid="HOS 9:9">Hinumdoman sa Dios ang inyong kadaotan;</para>
-  <para style="q2" vid="HOS 9:9">silotan niya kamo tungod sa inyong mga sala.”<verse eid="HOS 9:9"/></para>
+  <para style="q2" vid="HOS 9:9">silotan niya kamo tungod sa inyong mga sala.”<verse eid="HOS 9:9" /></para>
   <para style="p">
-    <verse number="10" style="v" sid="HOS 9:10"/>Miingon ang <char style="nd">Ginoo</char>,</para>
+    <verse number="10" style="v" sid="HOS 9:10" />Miingon ang <char style="nd">Ginoo</char>,</para>
   <para style="q1" vid="HOS 9:10">“Mga taga-Israel, sa dihang gipili<note caller="+" style="f"><char style="fr" closed="false">9:10 </char><char style="fq" closed="false">sa dihang gipili</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">sa dihang nakita.</char></note> ko ang inyong mga katigulangan</para>
   <para style="q2" vid="HOS 9:10">nga mahimong akong mga katawhan, nalipay gayod ako.</para>
   <para style="q1" vid="HOS 9:10">Sama sa tawo nga nalipay pag-ayo sa dihang nakakita siya</para>
   <para style="q2" vid="HOS 9:10">ug ubas nga mitubo sa disyerto o sa dihang nakakita siya sa unang bunga sa igos.</para>
   <para style="q1" vid="HOS 9:10">Apan sa dihang miadto sila sa Baal Peor,</para>
   <para style="q2" vid="HOS 9:10">gihalad nila ang ilang kinabuhi sa makauulaw nga dios-dios</para>
-  <para style="q2" vid="HOS 9:10">ug nahimo silang sama kangil-ad sa dios-dios nga ilang gihigugma.<verse eid="HOS 9:10"/></para>
+  <para style="q2" vid="HOS 9:10">ug nahimo silang sama kangil-ad sa dios-dios nga ilang gihigugma.<verse eid="HOS 9:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="HOS 9:11"/>Kamong mga taga-Israel, mahanaw</para>
+    <verse number="11" style="v" sid="HOS 9:11" />Kamong mga taga-Israel, mahanaw</para>
   <para style="q2" vid="HOS 9:11">ang inyong pagkagamhanan</para>
   <para style="q2" vid="HOS 9:11">sama sa langgam nga milupad.</para>
   <para style="q1" vid="HOS 9:11">Dili na manamkon, magmabdos</para>
-  <para style="q2" vid="HOS 9:11">o manganak ang inyong mga babaye.<verse eid="HOS 9:11"/></para>
+  <para style="q2" vid="HOS 9:11">o manganak ang inyong mga babaye.<verse eid="HOS 9:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="HOS 9:12"/>Bisan pa ug makapanganak sila,</para>
+    <verse number="12" style="v" sid="HOS 9:12" />Bisan pa ug makapanganak sila,</para>
   <para style="q2" vid="HOS 9:12">kuhaon ko ang tanan nilang mga anak ug magsubo kamo.</para>
-  <para style="q2" vid="HOS 9:12">Alaot gayod kamo kon biyaan ko na kamo.<verse eid="HOS 9:12"/></para>
+  <para style="q2" vid="HOS 9:12">Alaot gayod kamo kon biyaan ko na kamo.<verse eid="HOS 9:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="HOS 9:13"/>Ang pagtan-aw ko kaniadto kaninyo</para>
+    <verse number="13" style="v" sid="HOS 9:13" />Ang pagtan-aw ko kaniadto kaninyo</para>
   <para style="q2" vid="HOS 9:13">sama sa mga kahoy nga palma nga gitanom sa tabunok nga yuta.</para>
   <para style="q1" vid="HOS 9:13">Apan karon gikinahanglang dad-on ninyo</para>
-  <para style="q2" vid="HOS 9:13">ang inyong mga anak sa gira aron mangamatay.”<verse eid="HOS 9:13"/></para>
+  <para style="q2" vid="HOS 9:13">ang inyong mga anak sa gira aron mangamatay.”<verse eid="HOS 9:13" /></para>
   <para style="p">
-    <verse number="14" style="v" sid="HOS 9:14"/>Miingon si Oseas,</para>
+    <verse number="14" style="v" sid="HOS 9:14" />Miingon si Oseas,</para>
   <para style="q1" vid="HOS 9:14">“<char style="nd">Ginoo</char>, mao kini ang himoa sa imong mga katawhan:</para>
-  <para style="q2" vid="HOS 9:14">Ayaw tugoti nga makaanak o makapasuso ang ilang mga babaye.”<verse eid="HOS 9:14"/></para>
+  <para style="q2" vid="HOS 9:14">Ayaw tugoti nga makaanak o makapasuso ang ilang mga babaye.”<verse eid="HOS 9:14" /></para>
   <para style="p">
-    <verse number="15" style="v" sid="HOS 9:15"/>Miingon ang <char style="nd">Ginoo</char>,</para>
+    <verse number="15" style="v" sid="HOS 9:15" />Miingon ang <char style="nd">Ginoo</char>,</para>
   <para style="q1" vid="HOS 9:15">“Ang tanang kadaotan sa akong mga katawhan nagsugod sa Gilgal.</para>
   <para style="q2" vid="HOS 9:15">Didto pa lang gikapungtan ko na sila.</para>
   <para style="q1" vid="HOS 9:15">Tungod sa ilang kadaotan papahawaon ko sila</para>
   <para style="q2" vid="HOS 9:15">sa Israel nga giisip ko nga akong puloy-anan.</para>
   <para style="q1" vid="HOS 9:15">Dili ko na sila higugmaon tungod kay ang tanan nilang</para>
-  <para style="q2" vid="HOS 9:15">mga pangulo mga gahig ulo.<verse eid="HOS 9:15"/></para>
+  <para style="q2" vid="HOS 9:15">mga pangulo mga gahig ulo.<verse eid="HOS 9:15" /></para>
   <para style="q1">
-    <verse number="16" style="v" sid="HOS 9:16"/>Sama sila sa tanom nga nauga ang gamot,</para>
+    <verse number="16" style="v" sid="HOS 9:16" />Sama sila sa tanom nga nauga ang gamot,</para>
   <para style="q2" vid="HOS 9:16">busa dili makapamunga.</para>
   <para style="q1" vid="HOS 9:16">Bisan manganak pa sila,</para>
-  <para style="q2" vid="HOS 9:16">patyon ko ang pinalangga nilang mga anak.”<verse eid="HOS 9:16"/></para>
+  <para style="q2" vid="HOS 9:16">patyon ko ang pinalangga nilang mga anak.”<verse eid="HOS 9:16" /></para>
   <para style="p">
-    <verse number="17" style="v" sid="HOS 9:17"/>Miingon si Oseas,</para>
+    <verse number="17" style="v" sid="HOS 9:17" />Miingon si Oseas,</para>
   <para style="q1" vid="HOS 9:17">“Isalikway sa akong Dios ang mga taga-Israel</para>
   <para style="q2" vid="HOS 9:17">tungod kay wala sila motuman kaniya.</para>
-  <para style="q2" vid="HOS 9:17">Busa maglatagaw sila sa mga kanasoran.<verse eid="HOS 9:17"/></para>
-  <chapter eid="HOS 9"/>
-  <chapter number="10" style="c" sid="HOS 10"/>
+  <para style="q2" vid="HOS 9:17">Busa maglatagaw sila sa mga kanasoran.<verse eid="HOS 9:17" /></para>
+  <chapter eid="HOS 9" />
+  <chapter number="10" style="c" sid="HOS 10" />
   <para style="q1">
-    <verse number="1" style="v" sid="HOS 10:1"/>“Ang mga taga-Israel kaniadto</para>
+    <verse number="1" style="v" sid="HOS 10:1" />“Ang mga taga-Israel kaniadto</para>
   <para style="q2" vid="HOS 10:1">sama sa tanom nga ubas nga daghag bunga.</para>
   <para style="q1" vid="HOS 10:1">Sa ilang pag-uswag nagpatukod usab sila</para>
-  <para style="q2" vid="HOS 10:1">ug daghang mga halaran,</para>
+  <para style="q2" vid="HOS 10:1">ug daghang halaran,</para>
   <para style="q1" vid="HOS 10:1">ug gipatahom nila ang ilang sagrado</para>
-  <para style="q2" vid="HOS 10:1">nga mga bato nga ilang gisimba.<verse eid="HOS 10:1"/></para>
+  <para style="q2" vid="HOS 10:1">nga mga bato nga ilang gisimba.<verse eid="HOS 10:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="HOS 10:2"/>Mga limbongan sila,</para>
+    <verse number="2" style="v" sid="HOS 10:2" />Mga limbongan sila,</para>
   <para style="q2" vid="HOS 10:2">ug kinahanglan nga mag-antos sila</para>
   <para style="q2" vid="HOS 10:2">tungod sa ilang mga sala.</para>
   <para style="q1" vid="HOS 10:2">Gub-on sa <char style="nd">Ginoo</char> ang ilang mga halaran</para>
-  <para style="q2" vid="HOS 10:2">ug sagrado nga mga bato.<verse eid="HOS 10:2"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 10:2">ug sagrado nga mga bato.<verse eid="HOS 10:2" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="3" style="v" sid="HOS 10:3"/>“Unya moingon sila, ‘Wala kamiy hari</para>
+    <verse number="3" style="v" sid="HOS 10:3" />“Unya moingon sila, ‘Wala kamiy hari</para>
   <para style="q2" vid="HOS 10:3">tungod kay wala kami motahod sa <char style="nd">Ginoo</char>.</para>
   <para style="q1" vid="HOS 10:3">Apan bisan pag aduna kami hari,</para>
-  <para style="q2" vid="HOS 10:3">unsa may iyang mahimo nga maayo alang kanamo?’<verse eid="HOS 10:3"/></para>
+  <para style="q2" vid="HOS 10:3">unsa may iyang mahimo nga maayo alang kanamo?’<verse eid="HOS 10:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="HOS 10:4"/>Magsige lang silag sulti, manumpa,</para>
+    <verse number="4" style="v" sid="HOS 10:4" />Magsige lang silag sulti, manumpa,</para>
   <para style="q2" vid="HOS 10:4">ug maghimog mga kasabotan nga dili nila tumanon.</para>
   <para style="q1" vid="HOS 10:4">Busa ang hustisya nahisama sa makahilo</para>
-  <para style="q2" vid="HOS 10:4">nga sagbot nga nanurok sa dinaro nga yuta.<verse eid="HOS 10:4"/></para>
+  <para style="q2" vid="HOS 10:4">nga sagbot nga nanurok sa dinaro nga yuta.<verse eid="HOS 10:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="HOS 10:5"/>Mahadlok ang mga lumulupyo sa Samaria</para>
+    <verse number="5" style="v" sid="HOS 10:5" />Mahadlok ang mga lumulupyo sa Samaria</para>
   <para style="q2" vid="HOS 10:5">tungod kay mawala ang mga dios-dios</para>
   <para style="q2" vid="HOS 10:5">nga mga dumalagang baka sa Bet Aven.</para>
   <para style="q1" vid="HOS 10:5">Sila ug ang ilang mga pari nga nalipay sa katahom</para>
   <para style="q2" vid="HOS 10:5">niining mga dios-dios magsubo gayod</para>
-  <para style="q2" vid="HOS 10:5">tungod kay kuhaon kini gikan kanila<verse eid="HOS 10:5"/></para>
+  <para style="q2" vid="HOS 10:5">tungod kay kuhaon kini gikan kanila<verse eid="HOS 10:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="HOS 10:6"/>ug dad-on sa Asiria ingon nga gasa</para>
+    <verse number="6" style="v" sid="HOS 10:6" />ug dad-on sa Asiria ingon nga gasa</para>
   <para style="q2" vid="HOS 10:6">ngadto sa gamhanang hari.</para>
   <para style="q1" vid="HOS 10:6">Maulawan ang Israel<note caller="+" style="f"><char style="fr" closed="false">10:6 </char><char style="fq" closed="false">Israel</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Naghisgot kini sa usa sa mga tribo sa Amihanan nga bahin sa gingharian sa Israel.</char></note></para>
-  <para style="q2" vid="HOS 10:6">tungod sa tambag nga iyang gisunod.<verse eid="HOS 10:6"/></para>
+  <para style="q2" vid="HOS 10:6">tungod sa tambag nga iyang gisunod.<verse eid="HOS 10:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="HOS 10:7"/>Mahanaw ang iyang<note caller="+" style="f"><char style="fr" closed="false">10:7 </char><char style="fq" closed="false">iyang</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Samaria. </char><char style="ft" closed="false">Mao kini ang kapital sa Israel ug nagrepresentar sa tibuok gingharian sa Israel.</char></note> hari sama sa usa ka gamay</para>
-  <para style="q2" vid="HOS 10:7">nga sanga nga gianod sa tubig.<verse eid="HOS 10:7"/></para>
+    <verse number="7" style="v" sid="HOS 10:7" />Mahanaw ang iyang<note caller="+" style="f"><char style="fr" closed="false">10:7 </char><char style="fq" closed="false">iyang</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Samaria. </char><char style="ft" closed="false">Mao kini ang kapital sa Israel ug nagrepresentar sa tibuok gingharian sa Israel.</char></note> hari sama sa usa ka gamay</para>
+  <para style="q2" vid="HOS 10:7">nga sanga nga gianod sa tubig.<verse eid="HOS 10:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="HOS 10:8"/>Gub-on ang mga simbahanan diha sa habog nga mga dapit sa Aven,<note caller="+" style="f"><char style="fr" closed="false">10:8 </char><char style="fq" closed="false">Aven</char><char style="ft" closed="false">: mao usab kini ang Bet Aven o Betel. Tan-awa usab ang <char style="xt"><ref loc="HOS 4:15">Ose. 4:15</ref></char>.</char></note></para>
+    <verse number="8" style="v" sid="HOS 10:8" />Gub-on ang mga simbahanan diha sa habog nga mga dapit sa Aven,<note caller="+" style="f"><char style="fr" closed="false">10:8 </char><char style="fq" closed="false">Aven</char><char style="ft" closed="false">: mao usab kini ang Bet Aven o Betel. Tan-awa usab ang <char style="xt"><ref loc="HOS 4:15">Ose. 4:15</ref></char>.</char></note></para>
   <para style="q2" vid="HOS 10:8">nga mao ang nahimong hinungdan</para>
   <para style="q2" vid="HOS 10:8">sa pagpakasala sa mga taga-Israel.</para>
   <para style="q1" vid="HOS 10:8">Motubo ang tunokon nga mga tanom</para>
   <para style="q2" vid="HOS 10:8">ug motabon sa ilang mga halaran.</para>
   <para style="q1" vid="HOS 10:8">Unya moingon sila sa mga bukid, ‘Taboni kami!’</para>
-  <para style="q2" vid="HOS 10:8">ug sa mga bungtod, ‘Tumpagi kami!’ ”<verse eid="HOS 10:8"/></para>
+  <para style="q2" vid="HOS 10:8">ug sa mga bungtod, ‘Tumpagi kami!’ ”<verse eid="HOS 10:8" /></para>
   <para style="p">
-    <verse number="9" style="v" sid="HOS 10:9"/>Miingon ang <char style="nd">Ginoo</char>,</para>
+    <verse number="9" style="v" sid="HOS 10:9" />Miingon ang <char style="nd">Ginoo</char>,</para>
   <para style="q1" vid="HOS 10:9">“Kamong mga katawhan sa Israel</para>
   <para style="q2" vid="HOS 10:9">nagpadayon sa pagpakasala sukad pa sa panahon sa inyong mga katigulangan sa Gibea.</para>
   <para style="q1" vid="HOS 10:9">Wala gayod kamo nausab.</para>
-  <para style="q2" vid="HOS 10:9">Busa kamong mga kaliwat sa mga daotan sulongon sa Gibea.<verse eid="HOS 10:9"/></para>
+  <para style="q2" vid="HOS 10:9">Busa kamong mga kaliwat sa mga daotan sulongon sa Gibea.<verse eid="HOS 10:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="HOS 10:10"/>Silotan ko kamo sumala sa akong gusto.</para>
+    <verse number="10" style="v" sid="HOS 10:10" />Silotan ko kamo sumala sa akong gusto.</para>
   <para style="q2" vid="HOS 10:10">Maghiusa ang mga nasod sa pagpakig-gira kaninyo</para>
-  <para style="q2" vid="HOS 10:10">tungod sa inyong padayong pagpakasala.<verse eid="HOS 10:10"/></para>
+  <para style="q2" vid="HOS 10:10">tungod sa inyong padayong pagpakasala.<verse eid="HOS 10:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="HOS 10:11"/>Kaniadto nagpahayahay lang kamo;</para>
+    <verse number="11" style="v" sid="HOS 10:11" />Kaniadto nagpahayahay lang kamo;</para>
   <para style="q2" vid="HOS 10:11">sama kamo sa dumalagang baka</para>
   <para style="q2" vid="HOS 10:11">nga nabansay sa paggiok ug nakaangay na niining trabahoa.</para>
   <para style="q1" vid="HOS 10:11">Apan karon lisod-lisoron ko kamong mga taga-Israel<note caller="+" style="f"><char style="fr" closed="false">10:11 </char><char style="fq" closed="false">Israel</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note></para>
   <para style="q2" vid="HOS 10:11">ug lakip ang mga taga-Juda;</para>
   <para style="q1" vid="HOS 10:11">mahisama kamo sa dumalagang baka</para>
   <para style="q2" vid="HOS 10:11">nga sangonan ug yugo ang iyang liog</para>
-  <para style="q2" vid="HOS 10:11">nga wala pa makubali ug unya padaruhon.<verse eid="HOS 10:11"/></para>
+  <para style="q2" vid="HOS 10:11">nga wala pa makubali ug unya padaruhon.<verse eid="HOS 10:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="HOS 10:12"/>Miingon ako kaninyo, ‘Pahumoka ang inyong kasing-kasing</para>
+    <verse number="12" style="v" sid="HOS 10:12" />Miingon ako kaninyo, ‘Pahumoka ang inyong kasing-kasing</para>
   <para style="q2" vid="HOS 10:12">sama sa yuta nga gidaro. Pagtanom kamo</para>
   <para style="q2" vid="HOS 10:12">ug pagkamatarong ug aniha ang paghigugma.</para>
   <para style="q1" vid="HOS 10:12">Kay panahon na kini nga modangop kamo kanako</para>
   <para style="q2" vid="HOS 10:12">hangtod nga moabot ako ug magdala</para>
-  <para style="q2" vid="HOS 10:12">ug kaluwasan nga sama sa ulan.’<verse eid="HOS 10:12"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 10:12">ug kaluwasan nga sama sa ulan.’<verse eid="HOS 10:12" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="13" style="v" sid="HOS 10:13"/>“Apan nagtanom kamo ug kadaotan,</para>
+    <verse number="13" style="v" sid="HOS 10:13" />“Apan nagtanom kamo ug kadaotan,</para>
   <para style="q2" vid="HOS 10:13">busa miani usab kamo ug kadaotan.</para>
   <para style="q1" vid="HOS 10:13">Nalingla kamo sa mga bakak tungod kay misalig kamo</para>
   <para style="q2" vid="HOS 10:13">sa inyong kaugalingong katakos</para>
-  <para style="q2" vid="HOS 10:13">ug sa inyong daghang mga sundalo.<verse eid="HOS 10:13"/></para>
+  <para style="q2" vid="HOS 10:13">ug sa inyong daghang sundalo.<verse eid="HOS 10:13" /></para>
   <para style="q1">
-    <verse number="14" style="v" sid="HOS 10:14"/>Busa ang kasamok sa gubat batok</para>
+    <verse number="14" style="v" sid="HOS 10:14" />Busa ang kasamok sa gubat batok</para>
   <para style="q2" vid="HOS 10:14">sa inyong mga katawhan ug mangaguba</para>
   <para style="q2" vid="HOS 10:14">ang inyong pinarilan nga mga lungsod.</para>
   <para style="q1" vid="HOS 10:14">Himuon sa inyong mga kaaway ang sama sa gihimo ni Shalman<note caller="+" style="f"><char style="fr" closed="false">10:14 </char><char style="fq" closed="false">Shalman</char><char style="ft" closed="false">: posible nga usa ka hari sa mga Moabihanon.</char></note></para>
   <para style="q2" vid="HOS 10:14">sa lungsod sa Bet Arbel nga gidugmok niya</para>
-  <para style="q2" vid="HOS 10:14">ang mga inahan ug ang ilang mga kabataan.<verse eid="HOS 10:14"/></para>
+  <para style="q2" vid="HOS 10:14">ang mga inahan ug ang ilang mga kabataan.<verse eid="HOS 10:14" /></para>
   <para style="q1">
-    <verse number="15" style="v" sid="HOS 10:15"/>Mao usab kana ang mahitabo kaninyong mga taga-Betel</para>
+    <verse number="15" style="v" sid="HOS 10:15" />Mao usab kana ang mahitabo kaninyong mga taga-Betel</para>
   <para style="q2" vid="HOS 10:15">tungod kay labihan ang inyong kadaotan.</para>
   <para style="q1" vid="HOS 10:15">Inig-abot sa adlaw sa paghukom, sa pagbanagbanag pa lang,</para>
-  <para style="q2" vid="HOS 10:15">sigurado gayod nga mamatay na ang hari sa Israel.”<verse eid="HOS 10:15"/></para>
-  <chapter eid="HOS 10"/>
-  <chapter number="11" style="c" sid="HOS 11"/>
+  <para style="q2" vid="HOS 10:15">sigurado gayod nga mamatay na ang hari sa Israel.”<verse eid="HOS 10:15" /></para>
+  <chapter eid="HOS 10" />
+  <chapter number="11" style="c" sid="HOS 11" />
   <para style="s1">Ang Gugma sa Dios alang sa Israel</para>
   <para style="p">
-    <verse number="1" style="v" sid="HOS 11:1"/>Miingon ang <char style="nd">Ginoo</char>,</para>
+    <verse number="1" style="v" sid="HOS 11:1" />Miingon ang <char style="nd">Ginoo</char>,</para>
   <para style="q1" vid="HOS 11:1">“Sa bata pa ang Israel gihigugma ko siya.</para>
-  <para style="q2" vid="HOS 11:1">Gitawag ko siya gikan sa Ehipto ingon nga akong anak.<verse eid="HOS 11:1"/></para>
+  <para style="q2" vid="HOS 11:1">Gitawag ko siya gikan sa Ehipto ingon nga akong anak.<verse eid="HOS 11:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="HOS 11:2"/>Apan imbis nga kanunay ako<note caller="+" style="f"><char style="fr" closed="false">11:2 </char><char style="fq" closed="false">ako</char><char style="ft" closed="false">: mao kini sa Septuagint; apan sa Hebreo, </char><char style="fqa" closed="false">sila.</char></note> nga nagtawag kanila</para>
+    <verse number="2" style="v" sid="HOS 11:2" />Apan imbis nga kanunay ako<note caller="+" style="f"><char style="fr" closed="false">11:2 </char><char style="fq" closed="false">ako</char><char style="ft" closed="false">: mao kini sa Septuagint; apan sa Hebreo, </char><char style="fqa" closed="false">sila.</char></note> nga nagtawag kanila</para>
   <para style="q2" vid="HOS 11:2">mas nagpahilayo na hinuon sila kanako.<note caller="+" style="f"><char style="fr" closed="false">11:2 </char><char style="fq" closed="false">kanako</char><char style="ft" closed="false">: mao kini sa Septuagint; apan sa Hebreo, </char><char style="fqa" closed="false">kanila.</char></note></para>
   <para style="q1" vid="HOS 11:2">Naghalad sila ug nagsunog ug insenso</para>
-  <para style="q2" vid="HOS 11:2">sa mga imahen ni Baal.<verse eid="HOS 11:2"/></para>
+  <para style="q2" vid="HOS 11:2">sa mga imahen ni Baal.<verse eid="HOS 11:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="HOS 11:3"/>Ako ang nagtudlo kanila sa paglakaw.</para>
-  <para style="q2" vid="HOS 11:3">Gigiyahan ko sila,<note caller="+" style="f"><char style="fr" closed="false">11:3 </char><char style="fq" closed="false">sila</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Makita usab ang pulong nga Efraim sa Hebreo sa <char style="xt" link-href="HOS 11:8"><ref loc="HOS 11:8">bersikulo 8</ref></char>, <char style="xt" link-href="HOS 11:9"><ref loc="HOS 11:9">9</ref></char>, <char style="xt" link-href="HOS 11:12"><ref loc="HOS 11:12">12</ref></char>. Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note> apan dili sila moila</para>
-  <para style="q2" vid="HOS 11:3">nga ako ang nag-atiman<note caller="+" style="f"><char style="fr" closed="false">11:3 </char><char style="fq" closed="false">nag-atiman</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">nag-ayo.</char></note> kanila.<verse eid="HOS 11:3"/></para>
+    <verse number="3" style="v" sid="HOS 11:3" />Ako ang nagtudlo kanila sa paglakaw.</para>
+  <para style="q2" vid="HOS 11:3">Gigiyahan ko sila,<note caller="+" style="f"><char style="fr" closed="false">11:3 </char><char style="fq" closed="false">sila</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Makita usab ang pulong nga Efraim sa Hebreo sa <char style="xt" link-href="HOS 11:8">bersikulo <ref loc="HOS 11:8">8</ref></char>, <char style="xt" link-href="HOS 11:9"><ref loc="HOS 11:9">9</ref></char>, <char style="xt" link-href="HOS 11:12"><ref loc="HOS 11:12">12</ref></char>. Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note> apan dili sila moila</para>
+  <para style="q2" vid="HOS 11:3">nga ako ang nag-atiman<note caller="+" style="f"><char style="fr" closed="false">11:3 </char><char style="fq" closed="false">nag-atiman</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">nag-ayo.</char></note> kanila.<verse eid="HOS 11:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="HOS 11:4"/>Gigiyahan ko sila uban ang kaluoy ug paghigugma;</para>
+    <verse number="4" style="v" sid="HOS 11:4" />Gigiyahan ko sila uban ang kaluoy ug paghigugma;</para>
   <para style="q2" vid="HOS 11:4">sama ra nga gikuha ko ang yugo gikan sa ilang liog</para>
-  <para style="q2" vid="HOS 11:4">ug miduko ako sa pagpakaon kanila.<verse eid="HOS 11:4"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 11:4">ug miduko ako sa pagpakaon kanila.<verse eid="HOS 11:4" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="5" style="v" sid="HOS 11:5"/>“Apan tungod kay dili sila gustong mobalik kanako,</para>
+    <verse number="5" style="v" sid="HOS 11:5" />“Apan tungod kay dili sila gustong mobalik kanako,</para>
   <para style="q2" vid="HOS 11:5">sigurado nga mahibalik sila sa Ehipto,</para>
-  <para style="q2" vid="HOS 11:5">ug dumalahon sila sa Asiria.<verse eid="HOS 11:5"/></para>
+  <para style="q2" vid="HOS 11:5">ug dumalahon sila sa Asiria.<verse eid="HOS 11:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="HOS 11:6"/>Sulongon sa mga kaaway ang ilang mga siyudad,</para>
+    <verse number="6" style="v" sid="HOS 11:6" />Sulongon sa mga kaaway ang ilang mga siyudad,</para>
   <para style="q2" vid="HOS 11:6">ug gub-on ang mga trangka sa mga pultahan niini.</para>
-  <para style="q2" vid="HOS 11:6">Gub-on sa ilang mga kaaway ang ilang mga plano.<verse eid="HOS 11:6"/></para>
+  <para style="q2" vid="HOS 11:6">Gub-on sa ilang mga kaaway ang ilang mga plano.<verse eid="HOS 11:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="HOS 11:7"/>Ang akong mga katawhan desidido nga magpahilayo kanako.</para>
+    <verse number="7" style="v" sid="HOS 11:7" />Ang akong mga katawhan desidido nga magpahilayo kanako.</para>
   <para style="q2" vid="HOS 11:7">Bisan magkahiusa pa silang tanan</para>
-  <para style="q2" vid="HOS 11:7">sa pagtawag kanako dili ko sila luwason.<verse eid="HOS 11:7"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 11:7">sa pagtawag kanako dili ko sila luwason.<verse eid="HOS 11:7" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="8" style="v" sid="HOS 11:8"/>“Mga taga-Israel, dili ko kamo mahimong isalikway</para>
+    <verse number="8" style="v" sid="HOS 11:8" />“Mga taga-Israel, dili ko kamo mahimong isalikway</para>
   <para style="q2" vid="HOS 11:8">o laglagon sama sa gihimo ko sa Adma ug Zeboyim.</para>
   <para style="q1" vid="HOS 11:8">Dili ako makaako sa paghimo niini kaninyo.</para>
-  <para style="q2" vid="HOS 11:8">Naluoy ako pag-ayo kaninyo.<verse eid="HOS 11:8"/></para>
+  <para style="q2" vid="HOS 11:8">Naluoy ako pag-ayo kaninyo.<verse eid="HOS 11:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="HOS 11:9"/>Dili ko na ipahamtang ang akong labihang kapungot.</para>
+    <verse number="9" style="v" sid="HOS 11:9" />Dili ko na ipahamtang ang akong labihang kapungot.</para>
   <para style="q2" vid="HOS 11:9">Dili ko laglagon pag-usab ang Israel,</para>
   <para style="q2" vid="HOS 11:9">kay Dios ako ug dili tawo.</para>
   <para style="q1" vid="HOS 11:9">Ako ang Balaang Dios nga kauban ninyo,</para>
-  <para style="q2" vid="HOS 11:9">ug dili ako moanha kaninyo nga masuk-anon.<verse eid="HOS 11:9"/></para>
+  <para style="q2" vid="HOS 11:9">ug dili ako moanha kaninyo nga masuk-anon.<verse eid="HOS 11:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="HOS 11:10"/>Mongulob ako sama sa liyon, ug kamo nga akong</para>
+    <verse number="10" style="v" sid="HOS 11:10" />Mongulob ako sama sa liyon, ug kamo nga akong</para>
   <para style="q2" vid="HOS 11:10">mga anak magkurog sa kahadlok samtang</para>
-  <para style="q2" vid="HOS 11:10">nagsunod kamo kanako gikan sa kasadpan.<verse eid="HOS 11:10"/></para>
+  <para style="q2" vid="HOS 11:10">nagsunod kamo kanako gikan sa kasadpan.<verse eid="HOS 11:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="HOS 11:11"/>Moabot kamo nga tulin,<note caller="+" style="f"><char style="fr" closed="false">11:11 </char><char style="fq" closed="false">tulin</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">nagkurog.</char></note> sama katulin</para>
+    <verse number="11" style="v" sid="HOS 11:11" />Moabot kamo nga tulin,<note caller="+" style="f"><char style="fr" closed="false">11:11 </char><char style="fq" closed="false">tulin</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">nagkurog.</char></note> sama katulin</para>
   <para style="q2" vid="HOS 11:11">sa mga langgam nga gikan sa Ehipto</para>
   <para style="q2" vid="HOS 11:11">o sama sa mga salampati nga gikan sa Asiria.</para>
   <para style="q1" vid="HOS 11:11">Papuy-on ko kamo pag-usab sa inyong mga balay,”</para>
-  <para style="q2" vid="HOS 11:11">miingon ang <char style="nd">Ginoo</char>.<verse eid="HOS 11:11"/></para>
+  <para style="q2" vid="HOS 11:11">miingon ang <char style="nd">Ginoo</char>.<verse eid="HOS 11:11" /></para>
   <para style="s1">Ang Sala sa Taga-Israel</para>
   <para style="p">
-    <verse number="12" style="v" sid="HOS 11:12"/>Miingon pa ang <char style="nd">Ginoo</char>,</para>
+    <verse number="12" style="v" sid="HOS 11:12" />Miingon pa ang <char style="nd">Ginoo</char>,</para>
   <para style="q1" vid="HOS 11:12">“Kanunay lang akong gibakakan</para>
   <para style="q2" vid="HOS 11:12">ug gilimbongan sa mga taga-Israel.</para>
   <para style="q1" vid="HOS 11:12">Ang mga taga-Juda padayon nga nagpahilayo kanako,</para>
-  <para style="q2" vid="HOS 11:12">ang Dios nga balaan ug matinumanon.<note caller="+" style="f"><char style="fr" closed="false">11:12 </char><char style="fq" closed="false">Ang mga taga-Juda…matinumanon</char><char style="ft" closed="false">: sa ubang hubad, </char><char style="fqa" closed="false">Apan ang Juda pabilin nga nakig-uban ug matinud-anon sa balaan nga Dios.</char></note><verse eid="HOS 11:12"/></para>
-  <chapter eid="HOS 11"/>
-  <chapter number="12" style="c" sid="HOS 12"/>
+  <para style="q2" vid="HOS 11:12">ang Dios nga balaan ug matinumanon.<note caller="+" style="f"><char style="fr" closed="false">11:12 </char><char style="fq" closed="false">Ang mga taga-Juda…matinumanon</char><char style="ft" closed="false">: sa ubang hubad, </char><char style="fqa" closed="false">Apan ang Juda pabilin nga nakig-uban ug matinud-anon sa balaan nga Dios.</char></note><verse eid="HOS 11:12" /></para>
+  <chapter eid="HOS 11" />
+  <chapter number="12" style="c" sid="HOS 12" />
   <para style="q1">
-    <verse number="1" style="v" sid="HOS 12:1"/>“Ang mga taga-Israel<note caller="+" style="f"><char style="fr" closed="false">12:1 </char><char style="fq" closed="false">Israel</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note> nagsalig</para>
+    <verse number="1" style="v" sid="HOS 12:1" />“Ang mga taga-Israel<note caller="+" style="f"><char style="fr" closed="false">12:1 </char><char style="fq" closed="false">Israel</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note> nagsalig</para>
   <para style="q2" vid="HOS 12:1">sa mga butang nga walay pulos.</para>
   <para style="q1" vid="HOS 12:1">Sa tibuok adlaw nagtinguha sila</para>
   <para style="q2" vid="HOS 12:1">sa mga butang nga makadaot.</para>
   <para style="q1" vid="HOS 12:1">Misamot sila ka bakakon ug kabangis.</para>
   <para style="q2" vid="HOS 12:1">Naghimo sila ug kasabotan uban sa Asiria</para>
-  <para style="q2" vid="HOS 12:1">ug nagpadala ug lana sa Ehipto.”<verse eid="HOS 12:1"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 12:1">ug nagpadala ug lana sa Ehipto.”<verse eid="HOS 12:1" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="2" style="v" sid="HOS 12:2"/>Adunay akusasyon ang <char style="nd">Ginoo</char> batok sa</para>
+    <verse number="2" style="v" sid="HOS 12:2" />Adunay akusasyon ang <char style="nd">Ginoo</char> batok sa</para>
   <para style="q2" vid="HOS 12:2">mga taga-Juda nga mga kaliwat usab ni Jacob.</para>
   <para style="q1" vid="HOS 12:2">Silotan niya sila sumala sa ilang mga batasan;</para>
-  <para style="q2" vid="HOS 12:2">balosan niya sila sumala sa ilang mga binuhatan.<verse eid="HOS 12:2"/></para>
+  <para style="q2" vid="HOS 12:2">balosan niya sila sumala sa ilang mga binuhatan.<verse eid="HOS 12:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="HOS 12:3"/>Sa diha pa si Jacob sa tagoangkan sa iyang inahan,</para>
+    <verse number="3" style="v" sid="HOS 12:3" />Sa diha pa si Jacob sa tagoangkan sa iyang inahan,</para>
   <para style="q2" vid="HOS 12:3">gusto na niyang ilogan ang iyang kaluha.<note caller="+" style="f"><char style="fr" closed="false">12:3 </char><char style="fq" closed="false">gusto…kaluha</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">gigunitan niya ang tikod sa iyang igsoon.</char></note></para>
-  <para style="q2" vid="HOS 12:3">Ug sa dihang midako na siya, nakiglayog siya sa Dios<verse eid="HOS 12:3"/></para>
+  <para style="q2" vid="HOS 12:3">Ug sa dihang midako na siya, nakiglayog siya sa Dios<verse eid="HOS 12:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="HOS 12:4"/>pinaagi sa pagpakiglayog sa usa ka anghel, ug midaog siya.</para>
+    <verse number="4" style="v" sid="HOS 12:4" />pinaagi sa pagpakiglayog sa usa ka anghel, ug midaog siya.</para>
   <para style="q2" vid="HOS 12:4">Naghilak siya nga mihangyo nga panalanginan sa anghel.</para>
-  <para style="q2" vid="HOS 12:4">Nakita niya ang Dios sa Betel, ug didto nakigsulti kaniya<note caller="+" style="f"><char style="fr" closed="false">12:4 </char><char style="fq" closed="false">kaniya</char><char style="ft" closed="false">: mao kini sa Septuagint ug sa Syriac; apan sa Hebreo, </char><char style="fqa" closed="false">kanato.</char></note> ang Dios.<verse eid="HOS 12:4"/></para>
+  <para style="q2" vid="HOS 12:4">Nakita niya ang Dios sa Betel, ug didto nakigsulti kaniya<note caller="+" style="f"><char style="fr" closed="false">12:4 </char><char style="fq" closed="false">kaniya</char><char style="ft" closed="false">: mao kini sa Septuagint ug sa Syriac; apan sa Hebreo, </char><char style="fqa" closed="false">kanato.</char></note> ang Dios.<verse eid="HOS 12:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="HOS 12:5"/>Siya ang <char style="nd">Ginoong</char> Dios nga Makagagahom;</para>
+    <verse number="5" style="v" sid="HOS 12:5" />Siya ang <char style="nd">Ginoong</char> Dios nga Makagagahom;</para>
   <para style="q2" vid="HOS 12:5">
-    <char style="nd">Ginoo</char> ang iyang bantogan nga ngalan.<verse eid="HOS 12:5"/></para>
+    <char style="nd">Ginoo</char> ang iyang bantogan nga ngalan.<verse eid="HOS 12:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="HOS 12:6"/>Busa balik na kamo sa inyong Dios, mga kaliwat ni Jacob,</para>
+    <verse number="6" style="v" sid="HOS 12:6" />Busa balik na kamo sa inyong Dios, mga kaliwat ni Jacob,</para>
   <para style="q2" vid="HOS 12:6">ug patunhaya ninyo ang gugma ug hustisya.</para>
-  <para style="q2" vid="HOS 12:6">Ug salig kamo sa inyong Dios kanunay.<verse eid="HOS 12:6"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 12:6">Ug salig kamo sa inyong Dios kanunay.<verse eid="HOS 12:6" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="7" style="v" sid="HOS 12:7"/>Gusto kaayong manglimbong ang inyong mga negosyante;</para>
-  <para style="q2" vid="HOS 12:7">naggamit sila ug mga timbangan nga limbongan.<verse eid="HOS 12:7"/></para>
+    <verse number="7" style="v" sid="HOS 12:7" />Gusto kaayong manglimbong ang inyong mga negosyante;</para>
+  <para style="q2" vid="HOS 12:7">naggamit sila ug mga timbangan nga limbongan.<verse eid="HOS 12:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="HOS 12:8"/>Mapasigarbohon pa kamong mga taga-Israel nga moingon,</para>
+    <verse number="8" style="v" sid="HOS 12:8" />Mapasigarbohon pa kamong mga taga-Israel nga moingon,</para>
   <para style="q2" vid="HOS 12:8">“Nakatigom kami ug bahandi alang sa among kaugalingon</para>
   <para style="q2" vid="HOS 12:8">ug labihan na namo ka adunahan.</para>
   <para style="q1" vid="HOS 12:8">Walay makaakusar nga naangkon namo ang among bahandi sa daotang paagi,</para>
-  <para style="q2" vid="HOS 12:8">ug wala kami nahimong sala.”<verse eid="HOS 12:8"/></para>
+  <para style="q2" vid="HOS 12:8">ug wala kami nahimong sala.”<verse eid="HOS 12:8" /></para>
   <para style="p">
-    <verse number="9" style="v" sid="HOS 12:9"/>Miingon ang <char style="nd">Ginoo</char> sa mga taga-Israel,</para>
+    <verse number="9" style="v" sid="HOS 12:9" />Miingon ang <char style="nd">Ginoo</char> sa mga taga-Israel,</para>
   <para style="q1" vid="HOS 12:9">“Busa ako, ang <char style="nd">Ginoo</char> nga inyong Dios,</para>
   <para style="q2" vid="HOS 12:9">nga nagpagawas kaninyo gikan sa Ehipto,</para>
   <para style="q2" vid="HOS 12:9">papuy-on ko kamo pag-usab sa mga tolda,</para>
   <para style="q1" vid="HOS 12:9">sama sa ginahimo ninyo sa panahon sa Pista</para>
-  <para style="q2" vid="HOS 12:9">sa Pagpatindog sa mga Payag.<note caller="+" style="f"><char style="fr" closed="false">12:9 </char><char style="ft" closed="false">Tan-awa ang <char style="xt"><ref loc="LEV 23:41-43">Lev. 23:41-43</ref></char>.</char></note><verse eid="HOS 12:9"/></para>
+  <para style="q2" vid="HOS 12:9">sa Pagpatindog sa mga Payag.<note caller="+" style="f"><char style="fr" closed="false">12:9 </char><char style="ft" closed="false">Tan-awa ang <char style="xt"><ref loc="LEV 23:41-43">Lev. 23:41-43</ref></char>.</char></note><verse eid="HOS 12:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="HOS 12:10"/>Nakigsulti ako sa mga propeta</para>
-  <para style="q2" vid="HOS 12:10">ug gihatagan ko sila sa daghang mga panan-awon.</para>
-  <para style="q2" vid="HOS 12:10">Pinaagi kanila gipahimangnoan ko kamo nga malaglag kamo.<note caller="+" style="f"><char style="fr" closed="false">12:10 </char><char style="fq" closed="false">gipahimangnoan…kamo</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">gisuginlan ko kamo ug mga sambingay.</char></note>”<verse eid="HOS 12:10"/></para>
-  <para style="b"/>
+    <verse number="10" style="v" sid="HOS 12:10" />Nakigsulti ako sa mga propeta</para>
+  <para style="q2" vid="HOS 12:10">ug gihatagan ko sila sa daghang panan-awon.</para>
+  <para style="q2" vid="HOS 12:10">Pinaagi kanila gipahimangnoan ko kamo nga malaglag kamo.<note caller="+" style="f"><char style="fr" closed="false">12:10 </char><char style="fq" closed="false">gipahimangnoan…kamo</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">gisuginlan ko kamo ug mga sambingay.</char></note>”<verse eid="HOS 12:10" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="11" style="v" sid="HOS 12:11"/>Apan ang mga katawhan sa Gilead</para>
+    <verse number="11" style="v" sid="HOS 12:11" />Apan ang mga katawhan sa Gilead</para>
   <para style="q2" vid="HOS 12:11">mga daotan ug wala gayoy pulos,</para>
   <para style="q1" vid="HOS 12:11">ug ang mga katawhan sa Gilgal</para>
   <para style="q2" vid="HOS 12:11">gahalad ug mga torong baka ngadto sa mga dios-dios.</para>
   <para style="q1" vid="HOS 12:11">Sigurado gayod nga mangaguba ang ilang mga halaran</para>
   <para style="q2" vid="HOS 12:11">ug mahisama kini sa tinapok nga mga bato</para>
-  <para style="q2" vid="HOS 12:11">nga nakuha gikan sa dinaro nga yuta.<verse eid="HOS 12:11"/></para>
+  <para style="q2" vid="HOS 12:11">nga nakuha gikan sa dinaro nga yuta.<verse eid="HOS 12:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="HOS 12:12"/>Miikyas si Jacob ngadto sa Aram,<note caller="+" style="f"><char style="fr" closed="false">12:12 </char><char style="fq" closed="false">Aram</char><char style="ft" closed="false">: usa ka dapit sa Mesopotamia.</char></note></para>
+    <verse number="12" style="v" sid="HOS 12:12" />Miikyas si Jacob ngadto sa Aram,<note caller="+" style="f"><char style="fr" closed="false">12:12 </char><char style="fq" closed="false">Aram</char><char style="ft" closed="false">: usa ka dapit sa Mesopotamia.</char></note></para>
   <para style="q2" vid="HOS 12:12">ug didto nagserbisyo siya isip magbalantay</para>
-  <para style="q2" vid="HOS 12:12">sa mga mananap aron makaangkon ug asawa.<verse eid="HOS 12:12"/></para>
+  <para style="q2" vid="HOS 12:12">sa mga mananap aron makaangkon ug asawa.<verse eid="HOS 12:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="HOS 12:13"/>Pinaagi sa propeta nga si Moises, gipagawas ko</para>
-  <para style="q2" vid="HOS 12:13">kamong mga Israelinhon gikan sa Ehipto ug giatiman.<verse eid="HOS 12:13"/></para>
+    <verse number="13" style="v" sid="HOS 12:13" />Pinaagi sa propeta nga si Moises, gipagawas ko</para>
+  <para style="q2" vid="HOS 12:13">kamong mga Israelinhon gikan sa Ehipto ug giatiman.<verse eid="HOS 12:13" /></para>
   <para style="q1">
-    <verse number="14" style="v" sid="HOS 12:14"/>Apan gipalagot gayod ninyo ako nga inyong Ginoo</para>
+    <verse number="14" style="v" sid="HOS 12:14" />Apan gipalagot gayod ninyo ako nga inyong Ginoo</para>
   <para style="q2" vid="HOS 12:14">tungod sa inyong pagpamatay, busa silotan ko kamo.</para>
-  <para style="q2" vid="HOS 12:14">Balosan ko kamo sa inyong pagpakaulaw kanako.<verse eid="HOS 12:14"/></para>
-  <chapter eid="HOS 12"/>
-  <chapter number="13" style="c" sid="HOS 13"/>
-  <para style="s1">Ang Kasuko sa Ginoo Batok sa Israel</para>
+  <para style="q2" vid="HOS 12:14">Balosan ko kamo sa inyong pagpakaulaw kanako.<verse eid="HOS 12:14" /></para>
+  <chapter eid="HOS 12" />
+  <chapter number="13" style="c" sid="HOS 13" />
+  <para style="s1">Ang Kasuko sa <char style="nd">Ginoo</char> Batok sa Israel</para>
   <para style="q1">
-    <verse number="1" style="v" sid="HOS 13:1"/>Kaniadto, kon motingog na gani ang tribo sa Efraim</para>
+    <verse number="1" style="v" sid="HOS 13:1" />Kaniadto, kon motingog na gani ang tribo sa Efraim</para>
   <para style="q2" vid="HOS 13:1">magkurog sa kahadlok ang ubang mga tribo sa Israel,</para>
   <para style="q2" vid="HOS 13:1">ug modayeg sila kanila.</para>
   <para style="q1" vid="HOS 13:1">Apan nakasala sila tungod sa ilang pagsimba kang Baal,</para>
-  <para style="q2" vid="HOS 13:1">mao nga nangamatay<note caller="+" style="f"><char style="fr" closed="false">13:1 </char><char style="fq" closed="false">nangamatay</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">mangamatay.</char></note> sila.<verse eid="HOS 13:1"/></para>
+  <para style="q2" vid="HOS 13:1">mao nga nangamatay<note caller="+" style="f"><char style="fr" closed="false">13:1 </char><char style="fq" closed="false">nangamatay</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">mangamatay.</char></note> sila.<verse eid="HOS 13:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="HOS 13:2"/>Hangtod karon, kamong gitawag ug Efraim<note caller="+" style="f"><char style="fr" closed="false">13:2 </char><char style="fq" closed="false">kamong gitawag ug Efraim</char><char style="ft" closed="false">: ang buot ipasabot, </char><char style="fqa" closed="false">ang mga taga-Israel.</char></note></para>
+    <verse number="2" style="v" sid="HOS 13:2" />Hangtod karon, kamong gitawag ug Efraim<note caller="+" style="f"><char style="fr" closed="false">13:2 </char><char style="fq" closed="false">kamong gitawag ug Efraim</char><char style="ft" closed="false">: ang buot ipasabot, </char><char style="fqa" closed="false">ang mga taga-Israel.</char></note></para>
   <para style="q2" vid="HOS 13:2">nagpadayon sa pagpakasala.</para>
   <para style="q1" vid="HOS 13:2">Naghimo kamo ug mga dios-dios gikan</para>
   <para style="q2" vid="HOS 13:2">sa inyong mga pilak aron simbahon.</para>
   <para style="q1" vid="HOS 13:2">Apan kining tanan hinimo lang sa hanas nga mga panday.</para>
   <para style="q2" vid="HOS 13:2">“Ug miingon pa kamo nga maghalad kamo</para>
-  <para style="q2" vid="HOS 13:2">ug tawo niining mga dios-dios nga baka ug mohalok kanila.”<verse eid="HOS 13:2"/></para>
+  <para style="q2" vid="HOS 13:2">ug tawo niining mga dios-dios nga baka ug mohalok kanila.”<verse eid="HOS 13:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="HOS 13:3"/>Busa mahisama kamo sa gabon</para>
+    <verse number="3" style="v" sid="HOS 13:3" />Busa mahisama kamo sa gabon</para>
   <para style="q2" vid="HOS 13:3">o yamog sa kabuntagon nga dali rang mahanaw,</para>
   <para style="q1" vid="HOS 13:3">o sa tahop nga gipalid gikan sa giokanan</para>
-  <para style="q2" vid="HOS 13:3">o sa aso nga migawas gikan sa panghaw.<verse eid="HOS 13:3"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 13:3">o sa aso nga migawas gikan sa panghaw.<verse eid="HOS 13:3" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="4" style="v" sid="HOS 13:4"/>“Ako, ang <char style="nd">Ginoo</char> nga inyong Dios,</para>
+    <verse number="4" style="v" sid="HOS 13:4" />“Ako, ang <char style="nd">Ginoo</char> nga inyong Dios,</para>
   <para style="q2" vid="HOS 13:4">ang nagpagawas kaninyo gikan sa Ehipto.</para>
   <para style="q1" vid="HOS 13:4">Wala na kamoy ilhon pang Dios</para>
-  <para style="q2" vid="HOS 13:4">ug Manluluwas gawas kanako.<verse eid="HOS 13:4"/></para>
+  <para style="q2" vid="HOS 13:4">ug Manluluwas gawas kanako.<verse eid="HOS 13:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="HOS 13:5"/>Giatiman ko kamo sa disyerto,</para>
-  <para style="q2" vid="HOS 13:5">sa yuta nga mala ug walay tubig.<verse eid="HOS 13:5"/></para>
+    <verse number="5" style="v" sid="HOS 13:5" />Giatiman ko kamo sa disyerto,</para>
+  <para style="q2" vid="HOS 13:5">sa yuta nga mala ug walay tubig.<verse eid="HOS 13:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="HOS 13:6"/>Apan sa dihang nakakaon kamo ug natagbaw,</para>
-  <para style="q2" vid="HOS 13:6">nahimo kamong garboso ug gikalimtan ninyo ako.<verse eid="HOS 13:6"/></para>
+    <verse number="6" style="v" sid="HOS 13:6" />Apan sa dihang nakakaon kamo ug natagbaw,</para>
+  <para style="q2" vid="HOS 13:6">nahimo kamong garboso ug gikalimtan ninyo ako.<verse eid="HOS 13:6" /></para>
   <para style="q1">
-    <verse number="7-8" style="v" sid="HOS 13:7-8"/>Busa daw bangis nga mananap akong mag-atang kaninyo.</para>
+    <verse number="7-8" style="v" sid="HOS 13:7-8" />Busa daw bangis nga mananap akong mag-atang kaninyo.</para>
   <para style="q2" vid="HOS 13:7-8">Dasmagan ko kamo nga daw oso nga nawad-an</para>
   <para style="q2" vid="HOS 13:7-8">ug mga anak, o daw liyon, kunis-kunison ko kamo ug lamyon.</para>
   <para style="q1" vid="HOS 13:7-8">Mag-atang ako sa mga dalan ug moataki</para>
-  <para style="q2" vid="HOS 13:7-8">sama sa mananap nga leopardo.<verse eid="HOS 13:7-8"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 13:7-8">sama sa mananap nga leopardo.<verse eid="HOS 13:7-8" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="9" style="v" sid="HOS 13:9"/>“Laglagon ko kamong mga taga-Israel,</para>
-  <para style="q2" vid="HOS 13:9">tungod kay gikontra ninyo ako nga inyong magtatabang.<verse eid="HOS 13:9"/></para>
+    <verse number="9" style="v" sid="HOS 13:9" />“Laglagon ko kamong mga taga-Israel,</para>
+  <para style="q2" vid="HOS 13:9">tungod kay gikontra ninyo ako nga inyong magtatabang.<verse eid="HOS 13:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="HOS 13:10"/>Hain na man ang inyong hari ug ang mga pangulo</para>
+    <verse number="10" style="v" sid="HOS 13:10" />Hain na man ang inyong hari ug ang mga pangulo</para>
   <para style="q2" vid="HOS 13:10">sa inyong mga lungsod nga moluwas kaninyo?</para>
-  <para style="q2" vid="HOS 13:10">Nangayo kamo ug hari ug mga opisyal.<verse eid="HOS 13:10"/></para>
+  <para style="q2" vid="HOS 13:10">Nangayo kamo ug hari ug mga opisyal.<verse eid="HOS 13:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="HOS 13:11"/>Sa akong kasuko gihatag ko sila kaninyo,</para>
-  <para style="q2" vid="HOS 13:11">ug sa akong kapungot gikuha ko sila.<verse eid="HOS 13:11"/></para>
+    <verse number="11" style="v" sid="HOS 13:11" />Sa akong kasuko gihatag ko sila kaninyo,</para>
+  <para style="q2" vid="HOS 13:11">ug sa akong kapungot gikuha ko sila.<verse eid="HOS 13:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="HOS 13:12"/>Dili nako makalimtan ang inyong<note caller="+" style="f"><char style="fr" closed="false">13:12 </char><char style="fq" closed="false">inyong</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note> mga sala.</para>
-  <para style="q2" vid="HOS 13:12">Sama kini sa kasulatan nga giputos ug gitipigan.<verse eid="HOS 13:12"/></para>
+    <verse number="12" style="v" sid="HOS 13:12" />Dili nako makalimtan ang inyong<note caller="+" style="f"><char style="fr" closed="false">13:12 </char><char style="fq" closed="false">inyong</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note> mga sala.</para>
+  <para style="q2" vid="HOS 13:12">Sama kini sa kasulatan nga giputos ug gitipigan.<verse eid="HOS 13:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="HOS 13:13"/>Adunay kahigayonan kamong mabuhi pag-usab.</para>
+    <verse number="13" style="v" sid="HOS 13:13" />Adunay kahigayonan kamong mabuhi pag-usab.</para>
   <para style="q2" vid="HOS 13:13">Apan tungod kay wala kamoy panabot,</para>
   <para style="q1" vid="HOS 13:13">gipakawalay-bili ninyo kini.</para>
   <para style="q2" vid="HOS 13:13">Sama kamo sa usa ka bata nga angay nang ihimugso.</para>
-  <para style="q2" vid="HOS 13:13">Nagbati na ang inahan apan dili gustong mogawas ang bata.<verse eid="HOS 13:13"/></para>
-  <para style="b"/>
+  <para style="q2" vid="HOS 13:13">Nagbati na ang inahan apan dili gustong mogawas ang bata.<verse eid="HOS 13:13" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="14" style="v" sid="HOS 13:14"/>“Luwason ko ba kamo sa kamatayon?</para>
+    <verse number="14" style="v" sid="HOS 13:14" />“Luwason ko ba kamo sa kamatayon?</para>
   <para style="q2" vid="HOS 13:14">Dili! Moabot kaninyo ang mga katalagman</para>
   <para style="q1" vid="HOS 13:14">ug ang uban pang mga kadaotan nga mopatay kaninyo.</para>
-  <para style="b" vid="HOS 13:14"/>
-  <para style="q1" vid="HOS 13:14">“Ug dili ko kamo kaloy-an.<verse eid="HOS 13:14"/></para>
+  <para style="b" vid="HOS 13:14" />
+  <para style="q1" vid="HOS 13:14">“Ug dili ko kamo kaloy-an.<verse eid="HOS 13:14" /></para>
   <para style="q2">
-    <verse number="15" style="v" sid="HOS 13:15"/>Bisan pa ug mas mauswagon kamo kay</para>
+    <verse number="15" style="v" sid="HOS 13:15" />Bisan pa ug mas mauswagon kamo kay</para>
   <para style="q2" vid="HOS 13:15">sa inyong isigka-Israelinhon, laglagon ko gihapon kamo.</para>
   <para style="q1" vid="HOS 13:15">Ipadala ko ang init nga hangin gikan sa disyerto sa sidlakan</para>
   <para style="q2" vid="HOS 13:15">ug mohubas ang inyong mga tuboran ug mga atabay.</para>
-  <para style="q2" vid="HOS 13:15">Ug unya ilogon ang inyong mga mahalong kabtangan.<verse eid="HOS 13:15"/></para>
+  <para style="q2" vid="HOS 13:15">Ug unya ilogon ang inyong mga mahalong kabtangan.<verse eid="HOS 13:15" /></para>
   <para style="q1">
-    <verse number="16" style="v" sid="HOS 13:16"/>Angayng silotan ang mga taga-Samaria</para>
+    <verse number="16" style="v" sid="HOS 13:16" />Angayng silotan ang mga taga-Samaria</para>
   <para style="q2" vid="HOS 13:16">tungod sa ilang pagrebelde kanako nga ilang Dios.</para>
   <para style="q1" vid="HOS 13:16">Mangamatay sila sa gira.</para>
   <para style="q2" vid="HOS 13:16">Dugmokon ang ilang gagmayng mga bata,</para>
-  <para style="q2" vid="HOS 13:16">ug yasyason ang tiyan sa mga babayeng mabdos.”<verse eid="HOS 13:16"/></para>
-  <chapter eid="HOS 13"/>
-  <chapter number="14" style="c" sid="HOS 14"/>
+  <para style="q2" vid="HOS 13:16">ug yasyason ang tiyan sa mga babayeng mabdos.”<verse eid="HOS 13:16" /></para>
+  <chapter eid="HOS 13" />
+  <chapter number="14" style="c" sid="HOS 14" />
   <para style="s1">Nagpakiluoy si Oseas sa mga Taga-Israel</para>
   <para style="q1">
-    <verse number="1" style="v" sid="HOS 14:1"/>Mga taga-Israel, balik kamo sa <char style="nd">Ginoo</char> nga inyong Dios,</para>
-  <para style="q2" vid="HOS 14:1">kay nalaglag kamo tungod sa inyong mga sala.<verse eid="HOS 14:1"/></para>
+    <verse number="1" style="v" sid="HOS 14:1" />Mga taga-Israel, balik kamo sa <char style="nd">Ginoo</char> nga inyong Dios,</para>
+  <para style="q2" vid="HOS 14:1">kay nalaglag kamo tungod sa inyong mga sala.<verse eid="HOS 14:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="HOS 14:2"/>Balik kamo sa <char style="nd">Ginoo</char></para>
+    <verse number="2" style="v" sid="HOS 14:2" />Balik kamo sa <char style="nd">Ginoo</char></para>
   <para style="q2" vid="HOS 14:2">ug ingna siya,</para>
   <para style="q1" vid="HOS 14:2">“<char style="nd">Ginoo</char>, pasayloa kami sa tanan namong mga sala</para>
   <para style="q2" vid="HOS 14:2">ug dawata kami sumala sa imong kaayo,</para>
   <para style="q1" vid="HOS 14:2">aron nga makahalad kami kanimo</para>
-  <para style="q2" vid="HOS 14:2">ug mga pagdayeg gikan sa among mga baba.<verse eid="HOS 14:2"/></para>
+  <para style="q2" vid="HOS 14:2">ug mga pagdayeg gikan sa among mga baba.<verse eid="HOS 14:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="HOS 14:3"/>Dili na kami mangayo ug tabang sa Asiria</para>
+    <verse number="3" style="v" sid="HOS 14:3" />Dili na kami mangayo ug tabang sa Asiria</para>
   <para style="q2" vid="HOS 14:3">ug dili na kami mosalig sa mga kabayo nga alang sa gira.</para>
   <para style="q1" vid="HOS 14:3">Dili na usab namo tawgon nga among dios ang among hinimo.</para>
-  <para style="q2" vid="HOS 14:3">Kay gikaloy-an mo kami nga sama sa mga ilo.”<verse eid="HOS 14:3"/></para>
+  <para style="q2" vid="HOS 14:3">Kay gikaloy-an mo kami nga sama sa mga ilo.”<verse eid="HOS 14:3" /></para>
   <para style="p">
-    <verse number="4" style="v" sid="HOS 14:4"/>Miingon ang <char style="nd">Ginoo</char>:</para>
+    <verse number="4" style="v" sid="HOS 14:4" />Miingon ang <char style="nd">Ginoo</char>:</para>
   <para style="q1" vid="HOS 14:4">“Ayohon ko ang akong mga katawhan</para>
   <para style="q2" vid="HOS 14:4">gikan sa ilang pagkamalapason,</para>
   <para style="q1" vid="HOS 14:4">ug higugmaon ko sila sa hingpit,</para>
-  <para style="q2" vid="HOS 14:4">kay nawala na ang akong kasuko kanila.<verse eid="HOS 14:4"/></para>
+  <para style="q2" vid="HOS 14:4">kay nawala na ang akong kasuko kanila.<verse eid="HOS 14:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="HOS 14:5"/>Panalanginan ko ang mga taga-Israel;</para>
+    <verse number="5" style="v" sid="HOS 14:5" />Panalanginan ko ang mga taga-Israel;</para>
   <para style="q2" vid="HOS 14:5">mahisama ako sa yamog nga mobisbis sa mga tanom.</para>
   <para style="q1" vid="HOS 14:5">Mouswag sila nga daw liryo nga namulak.</para>
   <para style="q2" vid="HOS 14:5">Molig-on sila sama sa mga kahoyng sedro sa Lebanon</para>
-  <para style="q2" vid="HOS 14:5">nga lawom ug mga gamot.<verse eid="HOS 14:5"/></para>
+  <para style="q2" vid="HOS 14:5">nga lawom ug mga gamot.<verse eid="HOS 14:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="HOS 14:6"/>Modaghan sila sama sa mga sanga nga nanalingsing.</para>
+    <verse number="6" style="v" sid="HOS 14:6" />Modaghan sila sama sa mga sanga nga nanalingsing.</para>
   <para style="q2" vid="HOS 14:6">Mahimo silang bantogan sama sa matahom nga kahoyng olibo</para>
-  <para style="q2" vid="HOS 14:6">ug sa mahumot nga kahoyng sedro sa Lebanon.<verse eid="HOS 14:6"/></para>
+  <para style="q2" vid="HOS 14:6">ug sa mahumot nga kahoyng sedro sa Lebanon.<verse eid="HOS 14:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="HOS 14:7"/>Mopuyo sila pag-usab ilalom sa akong pagpanalipod.</para>
+    <verse number="7" style="v" sid="HOS 14:7" />Mopuyo sila pag-usab ilalom sa akong pagpanalipod.</para>
   <para style="q2" vid="HOS 14:7">Modaghan sila ug mouswag sama sa lugas,</para>
   <para style="q1" vid="HOS 14:7">ug sa ubas nga namulak.</para>
-  <para style="q2" vid="HOS 14:7">Ug mahimo silang bantogan sama sa bino sa Lebanon.<verse eid="HOS 14:7"/></para>
+  <para style="q2" vid="HOS 14:7">Ug mahimo silang bantogan sama sa bino sa Lebanon.<verse eid="HOS 14:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="HOS 14:8"/>Mga taga-Israel,<note caller="+" style="f"><char style="fr" closed="false">14:8 </char><char style="fq" closed="false">Israel</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note></para>
+    <verse number="8" style="v" sid="HOS 14:8" />Mga taga-Israel,<note caller="+" style="f"><char style="fr" closed="false">14:8 </char><char style="fq" closed="false">Israel</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Efraim. </char><char style="ft" closed="false">Tan-awa usab ang <char style="xt"><ref loc="HOS 4:17">Ose. 4:17</ref></char>.</char></note></para>
   <para style="q2" vid="HOS 14:8">ayaw na kamo pagdangop pa sa mga dios-dios.</para>
   <para style="q1" vid="HOS 14:8">Tubagon ko ang inyong mga pag-ampo</para>
   <para style="q2" vid="HOS 14:8">ug atimanon ko kamo.</para>
   <para style="q1" vid="HOS 14:8">Sama ako sa labong nga kahoy nga sipres,</para>
   <para style="q2" vid="HOS 14:8">nga kanunayng berde.</para>
-  <para style="q2" vid="HOS 14:8">Ako ang nagpauswag kaninyo.<note caller="+" style="f"><char style="fr" closed="false">14:8 </char><char style="fq" closed="false">nagpauswag kaninyo</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">naghatag sa inyong mga kinahanglanon.</char></note>”<verse eid="HOS 14:8"/></para>
+  <para style="q2" vid="HOS 14:8">Ako ang nagpauswag kaninyo.<note caller="+" style="f"><char style="fr" closed="false">14:8 </char><char style="fq" closed="false">nagpauswag kaninyo</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">naghatag sa inyong mga kinahanglanon.</char></note>”<verse eid="HOS 14:8" /></para>
   <para style="s1">Kataposan nga Tambag</para>
   <para style="q1">
-    <verse number="9" style="v" sid="HOS 14:9"/>Hinaut nga ang mga maalamon mosabot</para>
+    <verse number="9" style="v" sid="HOS 14:9" />Hinaut nga ang mga maalamon mosabot</para>
   <para style="q2" vid="HOS 14:9">sa mga nasulat dinhi.</para>
   <para style="q1" vid="HOS 14:9">Husto gayod ang mga pamaagi sa <char style="nd">Ginoo</char></para>
   <para style="q2" vid="HOS 14:9">ug ginasunod kini sa mga matarong,</para>
-  <para style="q2" vid="HOS 14:9">apan mahimo kining kapandolan sa mga malapason.<verse eid="HOS 14:9"/></para>
-  <chapter eid="HOS 14"/>
+  <para style="q2" vid="HOS 14:9">apan mahimo kining kapandolan sa mga malapason.<verse eid="HOS 14:9" /></para>
+  <chapter eid="HOS 14" />
 </usx>

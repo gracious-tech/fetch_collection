@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<usx version="2.0">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
   <book code="PHM" style="id">PHM- Pogoro Bible Version</book>
   <para style="h">FILIMONI</para>
   <para style="toc1">Luhamba lwa Paulu kwa Filimoni</para>
@@ -8,33 +8,34 @@
   <para style="mt2">LUHAMBA LWA PAULU KWA</para>
   <para style="mt1">FILIMONI</para>
   <para style="imt">ULONGOLERU</para>
-  <para style="ip">Luhamba ludidini kwa Filimoni lulembitwi na ntumintumi Paulu (1:1). Pamonga Paulu pakaweriti katatilwa mushibetubetu kalulembiti luhamba alu pakaweriti Rumi. Handa pakaweriti Rumi, luhamba alu lulembitwi pamonga mushinja sha malongu sita na yimu Pakwiyuka Yesu, shipindi shilaa pakalembiti luhamba kwa Wakolosayi.</para>
+  <para style="ip">Luhamba ludidini kwa Filimoni lulembitwi na ntumintumi Paulu (1:1). Pamonga Paulu pakaweriti katatilwa mushibetubetu kalulembiti luhamba alu pakaweriti Rumi. Handa pakaweriti Rumi, luhamba alu lulembitwi pamonga mushinja sha malongu sita na yimu Pakwiyuka Yesu, shaka shilaa pakalembiti luhamba kwa Wakolosayi.</para>
   <para style="ip">Yomberi kamlembiliriti muntu yumu yakashemwa Filimoni. Filimoni kaweriti yumu gwa wantu yawamjimira Yesu, vulaa kaweriti na mmanda Onesimu. Paulu kamlembiliriti yomberi kumgambira nakamwazibu mmanda gwakuwi Onesimu yakamtiriti Filimoni. Kwa malagaliru ga Rumi, Filimoni kaweriti teratera kumlaga Onesimu. Paulu katumiyiti uwezu wakuwi kumpanana moyu Filimoni kumjimira Onesimu kuwera mlongu yakamjimira Yesu na kashauli kuwera kalekiziwi katendi pamuhera na Paulu. (1:13-14).</para>
   <para style="iot">Yagaweramu</para>
   <para style="io">Paulu kankumlamusiya Filimoni, shipandi sha 1:1-3:2.</para>
   <para style="io">Shakapanu Paulu kankumluwira Onesimu kuwera Filimoni kamwanki yomberi handa mlongu yakamjimira Yesu, shipandi 1:4-21</para>
   <para style="io">Paulu kankumalilira luhamba lwakuwi kwa kutakula nfiru yakuwi ya kutyangira na malamusiwu ga upeleru, shipandi sha 1:22-25.</para>
-  <chapter number="1" style="c"/>
+  <chapter number="1" style="c" sid="PHM 1" />
   <para style="p">
-    <verse number="1" style="v"/>Neni Paulu, mtatilwa toziya ya Kristu Yesu, nwera pamuhera na Timotewu mlongu muyetu.</para>
-  <para style="p">Tukulembera gwenga Filimoni mtenda lihengu myetu yatukufira, <verse number="2" style="v"/>na dada Afiya na Arikipu shonta myetu na Shipinga sha wantu yawamjimira Yesu shawaliwona ukaya kwaku. <verse number="3" style="v"/>Tuwafilireni manemu na ponga ya Mlungu Tati gwetu, na kwa Mtuwa Yesu Kristu.</para>
+    <verse number="1" style="v" sid="PHM 1:1" />Neni Paulu, mtatilwa toziya ya Kristu Yesu, nwera pamuhera na Timotewu mlongu muyetu.</para>
+  <para style="p" vid="PHM 1:1">Tukulembera gwenga Filimoni mtenda lihengu myetu yatukufira, <verse eid="PHM 1:1" /><verse number="2" style="v" sid="PHM 1:2" />na dada Afiya na Arikipu shonta myetu na Shipinga sha wantu yawamjimira Yesu shawaliwona ukaya kwaku. <verse eid="PHM 1:2" /><verse number="3" style="v" sid="PHM 1:3" />Tuwafilireni manemu na ponga ya Mlungu Tati gwetu, na kwa Mtuwa Yesu Kristu.<verse eid="PHM 1:3" /></para>
   <para style="s">Mafiliru na moyu gwa Filimoni</para>
   <para style="p">
-    <verse number="4" style="v"/>Nonga mayagashii Mlungu shipindi shoseri panukuluwira Filimoni, <verse number="5" style="v"/>toziya mpikanira ntambu yagumjimira Mtuwa Yesu na ntambu yaguwafira wantu woseri wa Mlungu. <verse number="6" style="v"/>Numuluwa Mlungu kakupanani likakala kuwagambira wantu wamonga njimiru yaku su guvimani goseri maheri gatuwera naga kwa kulikolerana pamuhera na Kristu. <verse number="7" style="v"/>Ufiru waku unjegera nemeleru nkulu na kuntula moyu toziya gwenga guyinemeziya myoyu ya wantu wa Mlungu.</para>
+    <verse number="4" style="v" sid="PHM 1:4" />Nonga mayagashii Mlungu shaka shoseri panukuluwira Filimoni, <verse eid="PHM 1:4" /><verse number="5" style="v" sid="PHM 1:5" />toziya mpikanira ntambu yagumjimira Mtuwa Yesu na ntambu yaguwafira wantu woseri wa Mlungu. <verse eid="PHM 1:5" /><verse number="6" style="v" sid="PHM 1:6" />Numuluwa Mlungu kakupanani likakala kuwagambira wantu wamonga njimiru yaku su guvimani goseri maheri gatuwera naga kwa kulikolerana pamuhera na Kristu. <verse eid="PHM 1:6" /><verse number="7" style="v" sid="PHM 1:7" />Ufiru waku unjegera nemeleru nkulu na kuntula moyu toziya gwenga guyinemeziya myoyu ya wantu wa Mlungu.<verse eid="PHM 1:7" /></para>
   <para style="s">Paulu kankumluwa Filimoni kamntangi Onesmu</para>
   <para style="p">
-    <verse number="8" style="v"/>Su, neni mlongu gwaku kwa kulikolerana pamuhera na Kristu, handa hangu weza kuwera na ugangamala kukugambira ntambu yagufiruwa kutenda, <verse number="9" style="v"/>kumbiti toziya ya mafiliru, nukuluwa hera. Neni Paulu nwera mzewi vinu na mtatirwa toziya ya kumtendera Yesu Kristu, <verse number="10" style="v"/>nukuluwa kwajili ya Onesimu, yakawera gambira mwana gwangu yakamjimira Kristu, nweriti tati gwakuwi gwa shirohu neni panweriti kushibetubetu. <verse number="11" style="v"/>Makashu Onesmu kaweriti shintu ndiri, Kumbiti vinu kawera muntu gwa utanga kwa neni na gwenga vulaa.</para>
+    <verse number="8" style="v" sid="PHM 1:8" />Su, neni mlongu gwaku kwa kulikolerana pamuhera na Kristu, handa hangu weza kuwera na ugangamala kukugambira ntambu yagufiruwa kutenda, <verse eid="PHM 1:8" /><verse number="9" style="v" sid="PHM 1:9" />kumbiti toziya ya mafiliru, nukuluwa hera. Neni Paulu nwera mzewi vinu na mtatirwa toziya ya kumtendera Yesu Kristu, <verse eid="PHM 1:9" /><verse number="10" style="v" sid="PHM 1:10" />nukuluwa kwajili ya Onesimu, yakawera gambira mwana gwangu yakamjimira Kristu, weriti tati gwakuwi gwa shirohu neni paweriti kushibetubetu. <verse eid="PHM 1:10" /><verse number="11" style="v" sid="PHM 1:11" />Makashu Onesmu kaweriti shintu ndiri, Kumbiti vinu kawera muntu gwa utanga kwa neni na gwenga vulaa.<verse eid="PHM 1:11" /></para>
   <para style="p">
-    <verse number="12" style="v"/>Vinu numtuma kwagwenga, yomberi ndo moyu gwangu. <verse number="13" style="v"/>Menfiriti kalikali na neni su kantangi lihengu panu kwajili ya mwenga shipindi ashi neni shawera mushibetubetu toziya ya Shisoweru Shiwagira. <verse number="14" style="v"/>Nfira ndiri kutenda shoseri pota na gwenga kujimira, su utanga woseri yamgenda kumpanana yomberi, uweri wa kufira maweni.</para>
+    <verse number="12" style="v" sid="PHM 1:12" />Vinu numtuma kwagwenga, yomberi ndo moyu gwangu. <verse eid="PHM 1:12" /><verse number="13" style="v" sid="PHM 1:13" />Menfiriti kalikali na neni su kantangi lihengu panu kwajili ya mwenga shaka ashi neni shawera mushibetubetu toziya ya Shisoweru Shiwagira. <verse eid="PHM 1:13" /><verse number="14" style="v" sid="PHM 1:14" />Nfira ndiri kutenda shoseri pota na gwenga kujimira, su utanga woseri yamgenda kumpanana yomberi, uweri wa kufira maweni.<verse eid="PHM 1:14" /></para>
   <para style="p">
-    <verse number="15" style="v"/>Pamonga Onesmu kawukiti kwa gwenga kwa katepu hera, su kawuyi kayi kwagwenga mashaka goseri. <verse number="16" style="v"/>Na vinu yomberi mmanda ndiri kayi, kumbiti kawera kuliku mmanda, yomberi ndo mlongu gwetu. Yatumfira. Kaweri muntu gwa utanga kwaneni na hakaweri muntu gwa utanga nentu kwagwenga, pakawonikana handa ndo muntu muyetu na mlongu Mumtuwa.</para>
+    <verse number="15" style="v" sid="PHM 1:15" />Pamonga Onesmu kawukiti kwa gwenga kwa katepu hera, su kawuyi kayi kwagwenga mashaka goseri. <verse eid="PHM 1:15" /><verse number="16" style="v" sid="PHM 1:16" />Na vinu yomberi mmanda ndiri kayi, kumbiti kawera kuliku mmanda, yomberi ndo mlongu gwetu. Yatumfira. Kaweri muntu gwa utanga kwaneni na hakaweri muntu gwa utanga nentu kwagwenga, pakawonikana handa ndo muntu muyetu na mlongu Mumtuwa.<verse eid="PHM 1:16" /></para>
   <para style="p">
-    <verse number="17" style="v"/>Handa yaguwona neni kuwera mlongu gwaku su gumwanki Onesmu ntambu yagunangiti neni. <verse number="18" style="v"/>Handa kakukosera shintu, ama kawera na uwanda kwa gwenga, su neni hanumlipiri. <verse number="19" style="v"/>Neni Paulu nemba namweni kwa liwoku lyangu, hanukulipi. Handa hangu gwenga paguwera na uwanda wa ukomu waku kwaneni. <verse number="20" style="v"/>Mlongu gwangu gutendi hangu kwa kuntanga neni toziya ya litawu lya Mtuwa, handa mlongu gwangu kwa kuwera pamuhera na Kristu, gugufiliziyi moyu gwangu.</para>
+    <verse number="17" style="v" sid="PHM 1:17" />Handa yaguwona neni kuwera mlongu gwaku su gumwanki Onesmu ntambu yagunangiti neni. <verse eid="PHM 1:17" /><verse number="18" style="v" sid="PHM 1:18" />Handa kakukosera shintu, ama kawera na uwanda kwa gwenga, su neni hanumlipiri. <verse eid="PHM 1:18" /><verse number="19" style="v" sid="PHM 1:19" />Neni Paulu nemba namweni kwa liwoku lyangu, hanukulipi. Handa hangu gwenga paguwera na uwanda wa ukomu waku kwaneni. <verse eid="PHM 1:19" /><verse number="20" style="v" sid="PHM 1:20" />Mlongu gwangu gutendi hangu kwa kuntanga neni toziya ya litawu lya Mtuwa, handa mlongu gwangu kwa kuwera pamuhera na Kristu, gugufiliziyi moyu gwangu.<verse eid="PHM 1:20" /></para>
   <para style="p">
-    <verse number="21" style="v"/>Neni nwera na unakaka kuwera nembiti aga, hagutendi nentu ya ganukugambira. <verse number="22" style="v"/>Pamuhera na aga, muntandiri shumba sha kugonja toziya Mlungu pakankula ganduwa na neni hanuwatyangiri.</para>
+    <verse number="21" style="v" sid="PHM 1:21" />Neni nwera na unakaka kuwera nembiti aga, hagutendi nentu ya ganukugambira. <verse eid="PHM 1:21" /><verse number="22" style="v" sid="PHM 1:22" />Pamuhera na aga, muntandiri shuwogu sha kugonja toziya Mlungu pakankula ganduwa na neni hanuwatyangiri.<verse eid="PHM 1:22" /></para>
   <para style="s">Malamusiwu ga upeleru</para>
   <para style="p">
-    <verse number="23" style="v"/>Epafura, mtatirwa muyangu toziya ya kumtendera Kristu Yesu, kankukulamsiya. <verse number="24" style="v"/>Na ashina Mariku na Alisitariku na Dema na Luka na awa watenda lihengu wayangu, viraa vilii wankukulamusiya.</para>
+    <verse number="23" style="v" sid="PHM 1:23" />Epafura, mtatirwa muyangu toziya ya kumtendera Kristu Yesu, kankukulamsiya. <verse eid="PHM 1:23" /><verse number="24" style="v" sid="PHM 1:24" />Na ashina Mariku na Alisitariku na Dema na Luka na awa watenda lihengu wayangu, viraa vilii wankukulamusiya.<verse eid="PHM 1:24" /></para>
   <para style="p">
-    <verse number="25" style="v"/>Manemu ga Mtuwa gwetu Yesu Kristu gaweri pamuhera namwenga.</para>
+    <verse number="25" style="v" sid="PHM 1:25" />Manemu ga Mtuwa gwetu Yesu Kristu gaweri pamuhera namwenga.<verse eid="PHM 1:25" /></para>
+  <chapter eid="PHM 1" />
 </usx>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<usx version="2.0">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
   <book code="2JN" style="id">Lugulu Bible Version</book>
   <para style="h">2 Yohane</para>
   <para style="toc1">Ibaluwa ya Keli ya Yohane</para>
@@ -15,20 +15,21 @@
   <para style="io">Isula ya 1:4-6 Kowaghuma ghumoyo iwanu we Imulungu na kuwakumbusa laghitso ilili kulu.</para>
   <para style="io">Isula ya 1:7-11 Kowakanya na walangulitsi wa ughutsu.</para>
   <para style="io">Isula ya 1:12-13 Yohane komalitsila ibaluwa yake na kowaagha iwanu.</para>
-  <chapter number="1" style="c"/>
+  <chapter number="1" style="c" sid="2JN 1" />
   <para style="p">
-    <verse number="1" style="v"/>Nene nili imbala, nokwandikila ghweghwe mai yusaghulighwe ne Imulungu, hamwe ne iwanagho awala iyaniwanoghela mna ukweli. Lekeni si nene niliyeka bae yaniwanoghela, ila na awala wose iwaumanyile ukweli, <verse number="2" style="v"/>kwaapfila ukweli awo wokala mghati mwetu na utsokala na twetwe ghamatsuwa ghose.</para>
+    <verse number="1" style="v" sid="2JN 1:1" />Nene nili imbala, nokwandikila ghweghwe mai yusaghulighwe ne Imulungu, hamwe ne iwanagho awala iyaniwanoghela mna ukweli. Lekeni si nene niliyeka bae yaniwanoghela, ila na awala wose iwaumanyile ukweli, <verse eid="2JN 1:1" /><verse number="2" style="v" sid="2JN 1:2" />kwaapfila ukweli awo wokala mghati mwetu na utsokala na twetwe ghamatsuwa ghose.<verse eid="2JN 1:2" /></para>
   <para style="p">
-    <verse number="3" style="v"/>Aba Imulungu na Yesu Kiristu, Imwanaghe, watutendele uluso na libatsi na watwike tseghamba mne ukweli na unoghelo.</para>
+    <verse number="3" style="v" sid="2JN 1:3" />Aba Imulungu na Yesu Kiristu, Imwanaghe, watutendele uluso na libatsi na watwike tseghamba mne ukweli na unoghelo.<verse eid="2JN 1:3" /></para>
   <para style="p">
-    <verse number="4" style="v"/>Tsanideng'elela ghendo kuwona iwanagho wamwenga woghenda mne ukweli, ka Aba pfayatulaghitse. <verse number="5" style="v"/>Lelo, mai wangu sikwandikila bae laghitso lya sambi ila laghitso lilila lyatwinalo kulawa mwanduso. Nokulomba twinoghele. <verse number="6" style="v"/>Na uno iwo unoghelo, kukala kwa kughakinda ghamalaghitso ghake. Ka pfamuhulike kulawa mwanduso, tsakalaghitsa tukale kwa unoghelo.</para>
+    <verse number="4" style="v" sid="2JN 1:4" />Tsanideng'elela ghendo kuwona iwanagho wamwenga woghenda mne ukweli, ka Aba pfayatulaghitse. <verse eid="2JN 1:4" /><verse number="5" style="v" sid="2JN 1:5" />Lelo, mai wangu sikwandikila bae laghitso lya sambi ila laghitso lilila lyatwinalo kulawa mwanduso. Nokulomba twinoghele. <verse eid="2JN 1:5" /><verse number="6" style="v" sid="2JN 1:6" />Na uno iwo unoghelo, kukala kwa kughakinda ghamalaghitso ghake. Ka pfamuhulike kulawa mwanduso, tsakalaghitsa tukale kwa unoghelo.<verse eid="2JN 1:6" /></para>
   <para style="p">
-    <verse number="7" style="v"/>Mana waghutsu wengi watsa muisi, ing'awotoghola ka Yesu Kiristu tsakatsa, kuya kawa imunu. Imunu ka ayo kamghutsu na ka mwihile wa Kiristu. <verse number="8" style="v"/>Mwalangitse mleke kwaghitsa aghala ghamsang'anile, ila mbokele ghweko ilitimile.</para>
+    <verse number="7" style="v" sid="2JN 1:7" />Mana waghutsu wengi watsa muisi, ing'awotoghola ka Yesu Kiristu tsakatsa, kuya kawa imunu. Imunu ka ayo kamghutsu na ka mwihile wa Kiristu. <verse eid="2JN 1:7" /><verse number="8" style="v" sid="2JN 1:8" />Mwalangitse mleke kwaghitsa aghala ghamsang'anile, ila mbokele ghweko ilitimile.<verse eid="2JN 1:8" /></para>
   <para style="p">
-    <verse number="9" style="v"/>Imunu wowose yang'okala mne ghamalangulitso gha mbuli tsa Kiristu, ila kakongetsa ghangi mne ghamalangulitso agho, ayo kahela Imulungu. Imunu wowose iyokala mne ghamalangulitso, ayo kenawo wose weli, Aba ne Imwana. <verse number="10" style="v"/>Imunu wowose ang'atsa kuna mwemwe na ng'omghalilani bae ghamalangulitso gha mbuli tsa Kiristu, mleke kumbokela mne kaye tsenu wala kumlamsa. <verse number="11" style="v"/>Imunu wowose iyomlamsa imunu ayo, kehangila naye mne sang'ano tsake tsihile.</para>
+    <verse number="9" style="v" sid="2JN 1:9" />Imunu wowose yang'okala mne ghamalangulitso gha mbuli tsa Kiristu, ila kakongetsa ghangi mne ghamalangulitso agho, ayo kahela Imulungu. Imunu wowose iyokala mne ghamalangulitso, ayo kenawo wose weli, Aba ne Imwana. <verse eid="2JN 1:9" /><verse number="10" style="v" sid="2JN 1:10" />Imunu wowose ang'atsa kuna mwemwe na ng'omghalilani bae ghamalangulitso gha mbuli tsa Kiristu, mleke kumbokela mne kaye tsenu wala kumlamsa. <verse eid="2JN 1:10" /><verse number="11" style="v" sid="2JN 1:11" />Imunu wowose iyomlamsa imunu ayo, kehangila naye mne sang'ano tsake tsihile.<verse eid="2JN 1:11" /></para>
   <para style="s">Ndamso tsa ukutsigha</para>
   <para style="p">
-    <verse number="12" style="v"/>Ninagho mengi gha kuwalongelani, lekeni sibama bae kutenda apfo kwa kumwandikilani, ila nobama kutsa kuna mwemwe nilonge namwe chihanga kwa chihanga, ili ndeng'elo yetu itimile.</para>
+    <verse number="12" style="v" sid="2JN 1:12" />Ninagho mengi gha kuwalongelani, lekeni sibama bae kutenda apfo kwa kumwandikilani, ila nobama kutsa kuna mwemwe nilonge namwe chihanga kwa chihanga, ili ndeng'elo yetu itimile.<verse eid="2JN 1:12" /></para>
   <para style="p">
-    <verse number="13" style="v"/>Iwana wa dada yako iyasaghulighwe ne Imulungu, wokulamsa.</para>
+    <verse number="13" style="v" sid="2JN 1:13" />Iwana wa dada yako iyasaghulighwe ne Imulungu, wokulamsa.<verse eid="2JN 1:13" /></para>
+  <chapter eid="2JN 1" />
 </usx>

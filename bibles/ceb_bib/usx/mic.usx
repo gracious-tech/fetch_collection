@@ -1,45 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <usx version="3.0">
-  <book code="MIC" style="id">- Biblica® Open Cebuano Contemporary Bible 2024</book>
+  <book code="MIC" style="id">- Biblica® Open Cebuano Contemporary Bible (Biblica® Open Ang Pulong sa Dios)</book>
+  
   <para style="h">Mikeas</para>
   <para style="toc1">Ang Libro ni Mikeas</para>
   <para style="toc2">Mikeas</para>
   <para style="toc3">Mik.</para>
   <para style="mt2">Ang Libro ni</para>
   <para style="mt1">Mikeas</para>
-  <chapter number="1" style="c" sid="MIC 1"/>
+  <chapter number="1" style="c" sid="MIC 1" />
   <para style="p">
-    <verse number="1" style="v" sid="MIC 1:1"/>Mao kini ang mensahe sa <char style="nd">Ginoo</char> bahin sa Samaria ug sa Jerusalem.<note caller="+" style="f"><char style="fr" closed="false">1:1 </char><char style="fq" closed="false">sa Samaria ug sa Jerusalem</char><char style="ft" closed="false">: ang Samaria mao ang kapital sa Israel ug nagrepresentar sa tibuok nasod sa Israel. Ang Jerusalem mao ang kapital sa Juda ug nagrepresentar sa tibuok nasod sa Juda.</char></note> Gipadayag niya kini kang Mikeas nga taga-Moreset sa panahon nga naghari sa Juda si Jotam, si Ahaz, ug si Ezequias.<verse eid="MIC 1:1"/></para>
-  <para style="b"/>
-  <para style="b"/>
+    <verse number="1" style="v" sid="MIC 1:1" />Mao kini ang mensahe sa <char style="nd">Ginoo</char> bahin sa Samaria ug sa Jerusalem.<note caller="+" style="f"><char style="fr" closed="false">1:1 </char><char style="fq" closed="false">sa Samaria ug sa Jerusalem</char><char style="ft" closed="false">: ang Samaria mao ang kapital sa Israel ug nagrepresentar sa tibuok nasod sa Israel. Ang Jerusalem mao ang kapital sa Juda ug nagrepresentar sa tibuok nasod sa Juda.</char></note> Gipadayag niya kini kang Mikeas nga taga-Moreset sa panahon nga naghari sa Juda si Jotam, si Ahaz, ug si Ezequias.<verse eid="MIC 1:1" /></para>
+  <para style="b" />
+  <para style="b" />
   <para style="q1">
-    <verse number="2" style="v" sid="MIC 1:2"/>Kamong tanan nga anaa sa kalibotan,</para>
+    <verse number="2" style="v" sid="MIC 1:2" />Kamong tanan nga anaa sa kalibotan,</para>
   <para style="q2" vid="MIC 1:2">pamati kamo pag-ayo<note caller="+" style="f"><char style="fr" closed="false">1:2 </char><char style="fq" closed="false">Kamong tanan nga anaa sa kalibotan</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">mga Israelinhon nga anaa sa Israel.</char></note> kay magsaksi ang <char style="nd">Ginoong</char> Dios</para>
-  <para style="q2" vid="MIC 1:2">batok kaninyo gikan sa iyang balaan nga templo.<note caller="+" style="f"><char style="fr" closed="false">1:2 </char><char style="fq" closed="false">balaan nga templo</char><char style="ft" closed="false">: tingali ang iyang templo o puloy-anan sa langit.</char></note><verse eid="MIC 1:2"/></para>
+  <para style="q2" vid="MIC 1:2">batok kaninyo gikan sa iyang balaan nga templo.<note caller="+" style="f"><char style="fr" closed="false">1:2 </char><char style="fq" closed="false">balaan nga templo</char><char style="ft" closed="false">: tingali ang iyang templo o puloy-anan sa langit.</char></note><verse eid="MIC 1:2" /></para>
   <para style="s1">Silotan ang Israel ug ang Juda</para>
   <para style="q1">
-    <verse number="3" style="v" sid="MIC 1:3"/>Lantawa! Mogawas ang <char style="nd">Ginoo</char> gikan sa iyang puloy-anan.</para>
-  <para style="q2" vid="MIC 1:3">Mokanaog siya ug molakaw sa tag-as nga mga dapit sa kalibotan.<verse eid="MIC 1:3"/></para>
+    <verse number="3" style="v" sid="MIC 1:3" />Lantawa! Mogawas ang <char style="nd">Ginoo</char> gikan sa iyang puloy-anan.</para>
+  <para style="q2" vid="MIC 1:3">Mokanaog siya ug molakaw sa tag-as nga mga dapit sa kalibotan.<verse eid="MIC 1:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="MIC 1:4"/>Mangatunaw ang mga bukid nga iyang matumban</para>
+    <verse number="4" style="v" sid="MIC 1:4" />Mangatunaw ang mga bukid nga iyang matumban</para>
   <para style="q2" vid="MIC 1:4">sama sa kandila nga nainitan sa kalayo,</para>
   <para style="q1" vid="MIC 1:4">ug matunga ang mga walog nga iyang matumban</para>
-  <para style="q2" vid="MIC 1:4">sama sa yuta nga gibanlasan sa tubig nga gikan sa bakilid.<verse eid="MIC 1:4"/></para>
+  <para style="q2" vid="MIC 1:4">sama sa yuta nga gibanlasan sa tubig nga gikan sa bakilid.<verse eid="MIC 1:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="MIC 1:5"/>Mahitabo kining tanan tungod kay nagpakasala</para>
+    <verse number="5" style="v" sid="MIC 1:5" />Mahitabo kining tanan tungod kay nagpakasala</para>
   <para style="q2" vid="MIC 1:5">ang mga katawhan sa Israel ug sa Juda.<note caller="+" style="f"><char style="fr" closed="false">1:5 </char><char style="fq" closed="false">Israel ug sa Juda</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Jacob…sa Israel.</char></note></para>
   <para style="q1" vid="MIC 1:5">Ang mga taga-Samaria mao ang nagtulod</para>
   <para style="q2" vid="MIC 1:5">sa ubang mga lumulupyo sa Israel sa pagpakasala.</para>
   <para style="q1" vid="MIC 1:5">Ang mga taga-Jerusalem mao ang nagtulod</para>
-  <para style="q2" vid="MIC 1:5">sa ubang mga lumulupyo sa Juda sa pagsimba sa mga dios-dios.<verse eid="MIC 1:5"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 1:5">sa ubang mga lumulupyo sa Juda sa pagsimba sa mga dios-dios.<verse eid="MIC 1:5" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="6" style="v" sid="MIC 1:6"/>Mao nga miingon ang <char style="nd">Ginoo</char>,</para>
+    <verse number="6" style="v" sid="MIC 1:6" />Mao nga miingon ang <char style="nd">Ginoo</char>,</para>
   <para style="q2" vid="MIC 1:6">“Laglagon ko ang Samaria ug mahimo na lang kining tamnanan sa ubas.</para>
   <para style="q1" vid="MIC 1:6">Padahilion ko ang mga bato niini paingon sa walog</para>
-  <para style="q2" vid="MIC 1:6">hangtod nga makita ang mga pundasyon niini.<verse eid="MIC 1:6"/></para>
+  <para style="q2" vid="MIC 1:6">hangtod nga makita ang mga pundasyon niini.<verse eid="MIC 1:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="MIC 1:7"/>Mangadugmok ang tanang mga imahen sa mga dios-dios sa Samaria,</para>
+    <verse number="7" style="v" sid="MIC 1:7" />Mangadugmok ang tanang mga imahen sa mga dios-dios sa Samaria,</para>
   <para style="q2" vid="MIC 1:7">ug mangasunog ang tanang pilak ug bulawan nga gibayad</para>
   <para style="q2" vid="MIC 1:7">ngadto sa mga babaye nga nagbaligya sa ilang dungog diha sa templo.<note caller="+" style="f"><char style="fr" closed="false">1:7 </char><char style="fq" closed="false">gibayad…sa templo</char><char style="ft" closed="false">: niini nga templo, nakighilawas ang mga lalaki sa mga babaye nga nagbaligya sa ilang dungog isip pagsimba sa ilang mga dios-dios. Ang bayad sa mga babaye gigamit sa mga buluhaton sa templo.</char></note></para>
   <para style="q1" vid="MIC 1:7">Nakatigom ang Samaria ug mga imahen pinaagi</para>
@@ -47,173 +48,173 @@
   <para style="q2" vid="MIC 1:7">nga nagbaligya sa ilang dungog diha sa templo,</para>
   <para style="q1" vid="MIC 1:7">busa karon kuhaon sa iyang mga kaaway ang mga pilak</para>
   <para style="q2" vid="MIC 1:7">ug mga bulawan nga gihaklap diha sa iyang mga imahen aron nga</para>
-  <para style="q2" vid="MIC 1:7">gamiton usab nga pangbayad sa mga babaye nga nagbaligya sa ilang dungog.”<verse eid="MIC 1:7"/></para>
+  <para style="q2" vid="MIC 1:7">gamiton usab nga pangbayad sa mga babaye nga nagbaligya sa ilang dungog.”<verse eid="MIC 1:7" /></para>
   <para style="s1">Paghilak ug Pagbangotan</para>
   <para style="q1">
-    <verse number="8" style="v" sid="MIC 1:8"/>Tungod sa pagkalaglag sa Samaria,</para>
+    <verse number="8" style="v" sid="MIC 1:8" />Tungod sa pagkalaglag sa Samaria,</para>
   <para style="q2" vid="MIC 1:8">magsubo ako ug magbangotan.</para>
   <para style="q1" vid="MIC 1:8">Molakaw ako nga magtiniil ug walay bisti sa pagpakita sa akong pagsubo.</para>
   <para style="q2" vid="MIC 1:8">Magminatay akog hilak nga daw sa gauwang nga ihalas nga iro,<note caller="+" style="f"><char style="fr" closed="false">1:8 </char><char style="fq" closed="false">ihalas nga iro</char><char style="ft" closed="false">: sa English, “jackals”.</char></note></para>
-  <para style="q2" vid="MIC 1:8">ug mohilak nga daw gahoni nga kuwago.<verse eid="MIC 1:8"/></para>
+  <para style="q2" vid="MIC 1:8">ug mohilak nga daw gahoni nga kuwago.<verse eid="MIC 1:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="MIC 1:9"/>Kay ang kalaglagan sa Samaria sama sa samad</para>
+    <verse number="9" style="v" sid="MIC 1:9" />Kay ang kalaglagan sa Samaria sama sa samad</para>
   <para style="q2" vid="MIC 1:9">nga dili na maayo, ug mahitabo usab kini sa Juda.</para>
   <para style="q1" vid="MIC 1:9">Makaabot kini sa Jerusalem, ang kapital nga siyudad<note caller="+" style="f"><char style="fr" closed="false">1:9 </char><char style="fq" closed="false">kapital nga siyudad</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">pultahan.</char></note></para>
-  <para style="q2" vid="MIC 1:9">sa akong mga katagilungsod.<verse eid="MIC 1:9"/></para>
+  <para style="q2" vid="MIC 1:9">sa akong mga katagilungsod.<verse eid="MIC 1:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="MIC 1:10"/>Mga taga-Juda,</para>
+    <verse number="10" style="v" sid="MIC 1:10" />Mga taga-Juda,</para>
   <para style="q2" vid="MIC 1:10">ayaw ninyo sultihi ang atong mga kaaway nga taga-Gat</para>
   <para style="q2" vid="MIC 1:10">bahin sa kalaglagan nga moabot kanato.</para>
   <para style="q1" vid="MIC 1:10">Ayaw sila pakit-a nga gahilak kamo.</para>
   <para style="q2" vid="MIC 1:10">Ipakita ninyo ang inyong kasubo sa Bet Leafra<note caller="+" style="f"><char style="fr" closed="false">1:10 </char><char style="fq" closed="false">Bet Leafra</char><char style="ft" closed="false">: kining lugara ug ang uban pang mga dapit sa bersikulo 11-15 posible sakop sa Juda.</char></note></para>
-  <para style="q2" vid="MIC 1:10">pinaagi sa pagligid diha sa yuta.<verse eid="MIC 1:10"/></para>
+  <para style="q2" vid="MIC 1:10">pinaagi sa pagligid diha sa yuta.<verse eid="MIC 1:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="MIC 1:11"/>Mga lumulupyo sa Shafir, bihagon kamo</para>
+    <verse number="11" style="v" sid="MIC 1:11" />Mga lumulupyo sa Shafir, bihagon kamo</para>
   <para style="q2" vid="MIC 1:11">nga hubo ug maulawan kamo.</para>
   <para style="q1" vid="MIC 1:11">Ang mga lumulupyo sa Zaanan mahadlok</para>
   <para style="q2" vid="MIC 1:11">nga mogawas sa ilang dapit sa pagtabang kaninyo.</para>
   <para style="q1" vid="MIC 1:11">Ang mga taga-Bet-Ezel nga magbangotan sa ilang pagkalaglag</para>
-  <para style="q2" vid="MIC 1:11">dili usab makatabang kaninyo.<verse eid="MIC 1:11"/></para>
+  <para style="q2" vid="MIC 1:11">dili usab makatabang kaninyo.<verse eid="MIC 1:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="MIC 1:12"/>Sa pagkatinuod, ang mga lumulupyo sa Marot mabalak-on</para>
+    <verse number="12" style="v" sid="MIC 1:12" />Sa pagkatinuod, ang mga lumulupyo sa Marot mabalak-on</para>
   <para style="q2" vid="MIC 1:12">nga naghulat sa pag-undang sa gira.</para>
   <para style="q1" vid="MIC 1:12">Apan ipaduol hinuon sa <char style="nd">Ginoo</char> ang mga kaaway</para>
-  <para style="q2" vid="MIC 1:12">ngadto sa pultahan sa Jerusalem.<verse eid="MIC 1:12"/></para>
+  <para style="q2" vid="MIC 1:12">ngadto sa pultahan sa Jerusalem.<verse eid="MIC 1:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="MIC 1:13"/>Mga lumulupyo sa Lakish, taori na ninyo</para>
+    <verse number="13" style="v" sid="MIC 1:13" />Mga lumulupyo sa Lakish, taori na ninyo</para>
   <para style="q2" vid="MIC 1:13">ug mga karwahi ang inyong mga kabayo ug ikyas.</para>
   <para style="q1" vid="MIC 1:13">Gisunod ninyo ang sala sa mga taga-Israel,</para>
-  <para style="q2" vid="MIC 1:13">ug tungod kaninyo nagpakasala usab ang mga taga-Zion.<note caller="+" style="f"><char style="fr" closed="false">1:13 </char><char style="fq" closed="false">ang mga taga-Zion</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">ang anak nga babaye sa Zion.</char></note><verse eid="MIC 1:13"/></para>
+  <para style="q2" vid="MIC 1:13">ug tungod kaninyo nagpakasala usab ang mga taga-Zion.<note caller="+" style="f"><char style="fr" closed="false">1:13 </char><char style="fq" closed="false">ang mga taga-Zion</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">ang anak nga babaye sa Zion.</char></note><verse eid="MIC 1:13" /></para>
   <para style="q1">
-    <verse number="14" style="v" sid="MIC 1:14"/>Ug karon, mga taga-Juda, panamilit na kamo<note caller="+" style="f"><char style="fr" closed="false">1:14 </char><char style="fq" closed="false">panamilit na kamo</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">maghatag ka ug gasa silbi panamilit.</char></note></para>
+    <verse number="14" style="v" sid="MIC 1:14" />Ug karon, mga taga-Juda, panamilit na kamo<note caller="+" style="f"><char style="fr" closed="false">1:14 </char><char style="fq" closed="false">panamilit na kamo</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">maghatag ka ug gasa silbi panamilit.</char></note></para>
   <para style="q2" vid="MIC 1:14">sa lungsod sa Moreset Gat kay ilogon na kini sa kaaway.</para>
   <para style="q1" vid="MIC 1:14">Ilogon usab ang lungsod<note caller="+" style="f"><char style="fr" closed="false">1:14 </char><char style="fq" closed="false">lungsod</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">mga balay.</char></note> sa Aczib, busa walay mapaabot</para>
   <para style="q2" vid="MIC 1:14">nga tabang ang mga hari sa Israel</para>
-  <para style="q2" vid="MIC 1:14">nga naghulat nga tabangan sila niini nga lungsod.<verse eid="MIC 1:14"/></para>
+  <para style="q2" vid="MIC 1:14">nga naghulat nga tabangan sila niini nga lungsod.<verse eid="MIC 1:14" /></para>
   <para style="q1">
-    <verse number="15" style="v" sid="MIC 1:15"/>Mga lumulupyo sa Maresha, magpadala ang <char style="nd">Ginoo</char><note caller="+" style="f"><char style="fr" closed="false">1:15 </char><char style="fq" closed="false">ang <char style="nd">Ginoo</char></char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">ko.</char></note></para>
+    <verse number="15" style="v" sid="MIC 1:15" />Mga lumulupyo sa Maresha, magpadala ang <char style="nd">Ginoo</char><note caller="+" style="f"><char style="fr" closed="false">1:15 </char><char style="fq" closed="false">ang <char style="nd">Ginoo</char></char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">ko.</char></note></para>
   <para style="q2" vid="MIC 1:15">ug kaaway nga moilog sa inyong lungsod.</para>
   <para style="q1" vid="MIC 1:15">Mga taga-Juda,<note caller="+" style="f"><char style="fr" closed="false">1:15 </char><char style="fq" closed="false">Juda</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Israel. </char><char style="ft" closed="false">Tingali ang buot ipasabot niini mao ang nasod sa Juda.</char></note> ang inyong mga pangulo</para>
-  <para style="q2" vid="MIC 1:15">manago sa langub sa Adulam.<verse eid="MIC 1:15"/></para>
+  <para style="q2" vid="MIC 1:15">manago sa langub sa Adulam.<verse eid="MIC 1:15" /></para>
   <para style="q1">
-    <verse number="16" style="v" sid="MIC 1:16"/>Ang inyong hinigugma nga mga kabataan<note caller="+" style="f"><char style="fr" closed="false">1:16 </char><char style="fq" closed="false">mga kabataan</char><char style="ft" closed="false">: posible ang buot ipasabot, ang mga lungsod sa palibot sa Jerusalem.</char></note></para>
+    <verse number="16" style="v" sid="MIC 1:16" />Ang inyong hinigugma nga mga kabataan<note caller="+" style="f"><char style="fr" closed="false">1:16 </char><char style="fq" closed="false">mga kabataan</char><char style="ft" closed="false">: posible ang buot ipasabot, ang mga lungsod sa palibot sa Jerusalem.</char></note></para>
   <para style="q2" vid="MIC 1:16">kuhaon gikan kaninyo ug dad-on sa laing dapit,</para>
   <para style="q1" vid="MIC 1:16">busa pagsubo kamo alang kanila ug ipakita ninyo</para>
-  <para style="q2" vid="MIC 1:16">kini pinaagi sa pagkiskis sa inyong ulo.<verse eid="MIC 1:16"/></para>
-  <chapter eid="MIC 1"/>
-  <chapter number="2" style="c" sid="MIC 2"/>
+  <para style="q2" vid="MIC 1:16">kini pinaagi sa pagkiskis sa inyong ulo.<verse eid="MIC 1:16" /></para>
+  <chapter eid="MIC 1" />
+  <chapter number="2" style="c" sid="MIC 2" />
   <para style="s1">Silotan sa <char style="nd">Ginoo</char> ang mga Nagdaog-daog sa mga Kabos</para>
   <para style="q1">
-    <verse number="1" style="v" sid="MIC 2:1"/>Alaot kamong nagplano ug daotan bisan sa inyong paghigda.</para>
+    <verse number="1" style="v" sid="MIC 2:1" />Alaot kamong nagplano ug daotan bisan sa inyong paghigda.</para>
   <para style="q2" vid="MIC 2:1">Pagkabuntag buhaton ninyo ang daotan ninyong giplano</para>
-  <para style="q2" vid="MIC 2:1">tungod kay aduna kamoy gahom sa paghimo niini.<verse eid="MIC 2:1"/></para>
+  <para style="q2" vid="MIC 2:1">tungod kay aduna kamoy gahom sa paghimo niini.<verse eid="MIC 2:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="MIC 2:2"/>Giilog ninyo ang mga uma ug mga balay nga inyong magustohan.</para>
+    <verse number="2" style="v" sid="MIC 2:2" />Giilog ninyo ang mga uma ug mga balay nga inyong magustohan.</para>
   <para style="q2" vid="MIC 2:2">Gilimbongan ninyo ang mga tawo aron makuha ninyo</para>
-  <para style="q2" vid="MIC 2:2">ang ilang balay ug ang ilang napanunod nga yuta.<verse eid="MIC 2:2"/></para>
+  <para style="q2" vid="MIC 2:2">ang ilang balay ug ang ilang napanunod nga yuta.<verse eid="MIC 2:2" /></para>
   <para style="p">
-    <verse number="3" style="v" sid="MIC 2:3"/>Busa mao kini ang giingon sa <char style="nd">Ginoo</char> kaninyo:</para>
+    <verse number="3" style="v" sid="MIC 2:3" />Busa mao kini ang giingon sa <char style="nd">Ginoo</char> kaninyo:</para>
   <para style="q1" vid="MIC 2:3">“Pamati kamo!</para>
   <para style="q2" vid="MIC 2:3">Nagplano ako ug kalaglagan batok kaninyo</para>
   <para style="q2" vid="MIC 2:3">ug dili gayod kamo makalingkawas niini.</para>
   <para style="q1" vid="MIC 2:3">Dili na kamo makapanghambog</para>
-  <para style="q2" vid="MIC 2:3">kay panahon kini sa katalagman.<verse eid="MIC 2:3"/></para>
+  <para style="q2" vid="MIC 2:3">kay panahon kini sa katalagman.<verse eid="MIC 2:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="MIC 2:4"/>Nianang adlawa bugal-bugalan kamo sa mga tawo</para>
+    <verse number="4" style="v" sid="MIC 2:4" />Nianang adlawa bugal-bugalan kamo sa mga tawo</para>
   <para style="q2" vid="MIC 2:4">pinaagi sa awit sa pagminatay nga nag-ingon,</para>
   <para style="q1" vid="MIC 2:4">‘Gilaglag kami sa hingpit! Gikuha sa <char style="nd">Ginoo</char></para>
-  <para style="q2" vid="MIC 2:4">ang among yuta ug gihatag sa mga maluibon.’ ”<verse eid="MIC 2:4"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 2:4">ang among yuta ug gihatag sa mga maluibon.’ ”<verse eid="MIC 2:4" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="5" style="v" sid="MIC 2:5"/>Busa wala unya usa kaninyo nga makadawat sa yuta</para>
-  <para style="q2" vid="MIC 2:5">sa dihang iuli na kini sa mga katawhan sa <char style="nd">Ginoo</char>.<verse eid="MIC 2:5"/></para>
+    <verse number="5" style="v" sid="MIC 2:5" />Busa wala unya usa kaninyo nga makadawat sa yuta</para>
+  <para style="q2" vid="MIC 2:5">sa dihang iuli na kini sa mga katawhan sa <char style="nd">Ginoo</char>.<verse eid="MIC 2:5" /></para>
   <para style="s1">Mini nga mga Propeta</para>
   <para style="q1">
-    <verse number="6" style="v" sid="MIC 2:6"/>Ang mga tawo nag-ingon kanako,</para>
+    <verse number="6" style="v" sid="MIC 2:6" />Ang mga tawo nag-ingon kanako,</para>
   <para style="q2" vid="MIC 2:6">“Ayaw na kami walihi mahitungod nianang katalagman nga imong giingon,</para>
-  <para style="q2" vid="MIC 2:6">kay dili gayod kami maulawan.<verse eid="MIC 2:6"/></para>
+  <para style="q2" vid="MIC 2:6">kay dili gayod kami maulawan.<verse eid="MIC 2:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="MIC 2:7"/>Ngano, gitunglo ba sa <char style="nd">Ginoo</char> ang mga kaliwat ni Jacob?</para>
+    <verse number="7" style="v" sid="MIC 2:7" />Ngano, gitunglo ba sa <char style="nd">Ginoo</char> ang mga kaliwat ni Jacob?</para>
   <para style="q2" vid="MIC 2:7">Nahurot na ba ang iyang pasensya?</para>
   <para style="q2" vid="MIC 2:7">Buluhaton ba niya ang pagpanglaglag?”</para>
   <para style="p" vid="MIC 2:7">Mao kini ang tubag sa <char style="nd">Ginoo</char> kaninyo:</para>
   <para style="q1" vid="MIC 2:7">“Kon maayo lang ang inyong ginahimo</para>
-  <para style="q2" vid="MIC 2:7">madawat gayod ninyo ang akong mga saad.<verse eid="MIC 2:7"/></para>
+  <para style="q2" vid="MIC 2:7">madawat gayod ninyo ang akong mga saad.<verse eid="MIC 2:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="MIC 2:8"/>Apan gikontra ninyo nga daw mga kaaway ang akong katawhan.</para>
+    <verse number="8" style="v" sid="MIC 2:8" />Apan gikontra ninyo nga daw mga kaaway ang akong katawhan.</para>
   <para style="q2" vid="MIC 2:8">Naghuna-huna sila nga sa pagpauli nila sa ilang dapit</para>
   <para style="q1" vid="MIC 2:8">gikan sa gira wala nay manghilabot kanila,</para>
-  <para style="q2" vid="MIC 2:8">apan anaa diay kamo nga moilog sa ilang mga kupo.<verse eid="MIC 2:8"/></para>
+  <para style="q2" vid="MIC 2:8">apan anaa diay kamo nga moilog sa ilang mga kupo.<verse eid="MIC 2:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="MIC 2:9"/>Giabog ninyo ang ilang mga babaye</para>
+    <verse number="9" style="v" sid="MIC 2:9" />Giabog ninyo ang ilang mga babaye</para>
   <para style="q2" vid="MIC 2:9">sa ilang gimahal pag-ayo nga mga pinuy-anan.</para>
   <para style="q1" vid="MIC 2:9">Ug gikuha ninyo ang akong panalangin gikan sa ilang mga kabataan,</para>
-  <para style="q2" vid="MIC 2:9">busa dili na nila kini madawat hangtod sa kahangtoran.<verse eid="MIC 2:9"/></para>
+  <para style="q2" vid="MIC 2:9">busa dili na nila kini madawat hangtod sa kahangtoran.<verse eid="MIC 2:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="MIC 2:10"/>Pahawa kamo dinhi sa Israel kay kini</para>
+    <verse number="10" style="v" sid="MIC 2:10" />Pahawa kamo dinhi sa Israel kay kini</para>
   <para style="q2" vid="MIC 2:10">nga dapit dili na makahatag kaninyo ug kapahulayan,</para>
   <para style="q1" vid="MIC 2:10">tungod kay gihugawan ninyo kini sa inyong mga sala.</para>
-  <para style="q2" vid="MIC 2:10">Malaglag gayod kini nga dapit ug dili na mapuslan.<note caller="+" style="f"><char style="fr" closed="false">2:10 </char><char style="fq" closed="false">Malaglag…mapuslan</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">Malaglag gayod kamo sa hingpit.</char></note><verse eid="MIC 2:10"/></para>
+  <para style="q2" vid="MIC 2:10">Malaglag gayod kini nga dapit ug dili na mapuslan.<note caller="+" style="f"><char style="fr" closed="false">2:10 </char><char style="fq" closed="false">Malaglag…mapuslan</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">Malaglag gayod kamo sa hingpit.</char></note><verse eid="MIC 2:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="MIC 2:11"/>Ang gusto ninyo nga magwawali mao kadtong</para>
+    <verse number="11" style="v" sid="MIC 2:11" />Ang gusto ninyo nga magwawali mao kadtong</para>
   <para style="q2" vid="MIC 2:11">limbongan ug bakakon, ug magwali ug ingon niini:</para>
-  <para style="q2" vid="MIC 2:11">‘Moabunda ang inyong bino ug ang uban pang mga ilimnon.’ <verse eid="MIC 2:11"/></para>
+  <para style="q2" vid="MIC 2:11">‘Moabunda ang inyong bino ug ang uban pang mga ilimnon.’ <verse eid="MIC 2:11" /></para>
   <para style="s1">Ang Gisaad nga Kagawasan</para>
   <para style="q1">
-    <verse number="12" style="v" sid="MIC 2:12"/>“Kamong mga katawhan sa Israel ug</para>
+    <verse number="12" style="v" sid="MIC 2:12" />“Kamong mga katawhan sa Israel ug</para>
   <para style="q2" vid="MIC 2:12">sa Juda<note caller="+" style="f"><char style="fr" closed="false">2:12 </char><char style="fq" closed="false">Israel…Juda</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Jacob…Israel.</char></note> nga nabiling buhi,</para>
   <para style="q1" vid="MIC 2:12">pagatigomon ko gayod kamo sama sa mga karnero balik ngadto sa toril</para>
   <para style="q2" vid="MIC 2:12">o sama sa panon sa kahayopan sa sabsabanan.</para>
-  <para style="q2" vid="MIC 2:12">Mapuno ang inyong yuta sa mga katawhan.<verse eid="MIC 2:12"/></para>
+  <para style="q2" vid="MIC 2:12">Mapuno ang inyong yuta sa mga katawhan.<verse eid="MIC 2:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="MIC 2:13"/>Ablihan ko ang pultahan sa siyudad diin kamo gibihag,</para>
+    <verse number="13" style="v" sid="MIC 2:13" />Ablihan ko ang pultahan sa siyudad diin kamo gibihag,</para>
   <para style="q2" vid="MIC 2:13">ug pangulohan ko kamo sa paggawas.</para>
-  <para style="q2" vid="MIC 2:13">Ako, ang <char style="nd">Ginoo</char> nga inyong hari, maoy mangulo kaninyo.”<verse eid="MIC 2:13"/></para>
-  <chapter eid="MIC 2"/>
-  <chapter number="3" style="c" sid="MIC 3"/>
+  <para style="q2" vid="MIC 2:13">Ako, ang <char style="nd">Ginoo</char> nga inyong hari, maoy mangulo kaninyo.”<verse eid="MIC 2:13" /></para>
+  <chapter eid="MIC 2" />
+  <chapter number="3" style="c" sid="MIC 3" />
   <para style="s1">Gibadlong ang mga Pangulo ug ang mga Propeta</para>
   <para style="p">
-    <verse number="1" style="v" sid="MIC 3:1"/>Miingon si Mikeas:<note caller="+" style="f"><char style="fr" closed="false">3:1 </char><char style="fq" closed="false">si Mikeas</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">ako.</char></note></para>
+    <verse number="1" style="v" sid="MIC 3:1" />Miingon si Mikeas:<note caller="+" style="f"><char style="fr" closed="false">3:1 </char><char style="fq" closed="false">si Mikeas</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">ako.</char></note></para>
   <para style="q1" vid="MIC 3:1">“Pamati kamong mga pangulo sa Israel ug Juda,<note caller="+" style="f"><char style="fr" closed="false">3:1 </char><char style="fq" closed="false">Israel…Juda</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">Jacob…Israel.</char></note> pamati kamo!</para>
-  <para style="q2" vid="MIC 3:1">Wala ba kamo kahibalo sa hustisya?<verse eid="MIC 3:1"/></para>
+  <para style="q2" vid="MIC 3:1">Wala ba kamo kahibalo sa hustisya?<verse eid="MIC 3:1" /></para>
   <para style="q1">
-    <verse number="2-3" style="v" sid="MIC 3:2-3"/>Ug gidumtan ang maayo; inyong gipikas-pikas</para>
+    <verse number="2-3" style="v" sid="MIC 3:2-3" />Ug gidumtan ang maayo; inyong gipikas-pikas</para>
   <para style="q2" vid="MIC 3:2-3">ug gipanitan ang akong mga katawhan</para>
-  <para style="q2" vid="MIC 3:2-3">ug gipanguha ang mga unod gikan sa ilang mga bukog.”<verse eid="MIC 3:2-3"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 3:2-3">ug gipanguha ang mga unod gikan sa ilang mga bukog.”<verse eid="MIC 3:2-3" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="4" style="v" sid="MIC 3:4"/>Mangayo kamo ug tabang sa <char style="nd">Ginoo</char>, apan dili niya kamo tabangan.</para>
-  <para style="q2" vid="MIC 3:4">Talikdan niya kamo tungod sa inyong mga daotang binuhatan.<verse eid="MIC 3:4"/></para>
+    <verse number="4" style="v" sid="MIC 3:4" />Mangayo kamo ug tabang sa <char style="nd">Ginoo</char>, apan dili niya kamo tabangan.</para>
+  <para style="q2" vid="MIC 3:4">Talikdan niya kamo tungod sa inyong mga daotang binuhatan.<verse eid="MIC 3:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="MIC 3:5"/>Mao kini ang giingon sa <char style="nd">Ginoo</char>:</para>
+    <verse number="5" style="v" sid="MIC 3:5" />Mao kini ang giingon sa <char style="nd">Ginoo</char>:</para>
   <para style="q2" vid="MIC 3:5">“Alang sa mga propeta nga nagpahisalaag sa iyang katawhan,</para>
   <para style="q1" vid="MIC 3:5">nga nagsaad ug maayo nga kahimtang sa mga mopakaon kanila,</para>
-  <para style="q2" vid="MIC 3:5">apan manghulga ug kalaglagan sa mga dili mopakaon kanila,<verse eid="MIC 3:5"/></para>
+  <para style="q2" vid="MIC 3:5">apan manghulga ug kalaglagan sa mga dili mopakaon kanila,<verse eid="MIC 3:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="MIC 3:6"/>Tungod kay gipahisalaag ninyo ang akong katawhan,</para>
+    <verse number="6" style="v" sid="MIC 3:6" />Tungod kay gipahisalaag ninyo ang akong katawhan,</para>
   <para style="q2" vid="MIC 3:6">dili na kamo makakita ug panan-awon</para>
   <para style="q2" vid="MIC 3:6">ug dili na usab kamo makapanagna.</para>
   <para style="q1" vid="MIC 3:6">Daw sama lang nga anaa kamo sa kangitngit</para>
-  <para style="q2" vid="MIC 3:6">o kagabhion nga wala kamoy makita.<verse eid="MIC 3:6"/></para>
+  <para style="q2" vid="MIC 3:6">o kagabhion nga wala kamoy makita.<verse eid="MIC 3:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="MIC 3:7"/>Maulawan gayod kamong mga propeta ug mga manalagna.</para>
+    <verse number="7" style="v" sid="MIC 3:7" />Maulawan gayod kamong mga propeta ug mga manalagna.</para>
   <para style="q2" vid="MIC 3:7">Tabonan ninyo ang inyong dagway sa kaulaw,</para>
-  <para style="q2" vid="MIC 3:7">tungod kay wala kamoy nadawat nga tubag gikan sa Dios.”<verse eid="MIC 3:7"/></para>
+  <para style="q2" vid="MIC 3:7">tungod kay wala kamoy nadawat nga tubag gikan sa Dios.”<verse eid="MIC 3:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="MIC 3:8"/>Apan ako, puno sa Espiritu sa <char style="nd">Ginoo</char></para>
+    <verse number="8" style="v" sid="MIC 3:8" />Apan ako, puno sa Espiritu sa <char style="nd">Ginoo</char></para>
   <para style="q2" vid="MIC 3:8">nga mao ang naghatag kanako</para>
   <para style="q2" vid="MIC 3:8">ug gahom sa pagpatunhay sa hustisya</para>
   <para style="q1" vid="MIC 3:8">ug sa kaisog sa pagsulti ngadto sa mga katawhan sa Israel</para>
-  <para style="q2" vid="MIC 3:8">ug sa Juda nga nakasala sila.<verse eid="MIC 3:8"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 3:8">ug sa Juda nga nakasala sila.<verse eid="MIC 3:8" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="9" style="v" sid="MIC 3:9"/>Kamong mga pangulo sa Israel ug sa Juda, pamati kamo!</para>
-  <para style="q2" vid="MIC 3:9">Gipungtan ninyo ang hustisya ug ginatuis ninyo ang matarong.<verse eid="MIC 3:9"/></para>
+    <verse number="9" style="v" sid="MIC 3:9" />Kamong mga pangulo sa Israel ug sa Juda, pamati kamo!</para>
+  <para style="q2" vid="MIC 3:9">Gipungtan ninyo ang hustisya ug ginatuis ninyo ang matarong.<verse eid="MIC 3:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="MIC 3:10"/>Gitukod ninyo ang Jerusalem<note caller="+" style="f"><char style="fr" closed="false">3:10 </char><char style="fq" closed="false">Jerusalem</char><char style="ft" closed="false">: sa Hebreo makita usab ang pulong nga Zion, nga mao ang laing ngalan sa Jerusalem.</char></note></para>
-  <para style="q2" vid="MIC 3:10">pinaagi sa pagpatay ug panglupig.<verse eid="MIC 3:10"/></para>
+    <verse number="10" style="v" sid="MIC 3:10" />Gitukod ninyo ang Jerusalem<note caller="+" style="f"><char style="fr" closed="false">3:10 </char><char style="fq" closed="false">Jerusalem</char><char style="ft" closed="false">: sa Hebreo makita usab ang pulong nga Zion, nga mao ang laing ngalan sa Jerusalem.</char></note></para>
+  <para style="q2" vid="MIC 3:10">pinaagi sa pagpatay ug panglupig.<verse eid="MIC 3:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="MIC 3:11"/>Naghukom kamo pabor sa naghatag kaninyo ug suborno.</para>
+    <verse number="11" style="v" sid="MIC 3:11" />Naghukom kamo pabor sa naghatag kaninyo ug suborno.</para>
   <para style="q2" vid="MIC 3:11">Ang inyong mga pari nagtudlo</para>
   <para style="q2" vid="MIC 3:11">tungod lang kay gibayran sila.</para>
   <para style="q1" vid="MIC 3:11">Mao usab ang inyong mga propeta,</para>
@@ -221,65 +222,65 @@
   <para style="q1" vid="MIC 3:11">Nagsalig pa kamo nga tabangan kamo sa <char style="nd">Ginoo</char></para>
   <para style="q2" vid="MIC 3:11">ug nagkanayon,</para>
   <para style="q1" vid="MIC 3:11">“Kauban namo ang <char style="nd">Ginoo</char>.</para>
-  <para style="q2" vid="MIC 3:11">Busa walay daotang mahitabo kanamo.”<verse eid="MIC 3:11"/></para>
+  <para style="q2" vid="MIC 3:11">Busa walay daotang mahitabo kanamo.”<verse eid="MIC 3:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="MIC 3:12"/>Busa tungod kaninyo laglagon ang Jerusalem.</para>
+    <verse number="12" style="v" sid="MIC 3:12" />Busa tungod kaninyo laglagon ang Jerusalem.</para>
   <para style="q2" vid="MIC 3:12">Mahisama kini sa gidarong uma,</para>
   <para style="q2" vid="MIC 3:12">ug mahimong tapok sa mga ginuba.</para>
   <para style="q1" vid="MIC 3:12">Ug mahimong lasang ang bukid</para>
-  <para style="q2" vid="MIC 3:12">nga gibarogan sa Templo.<verse eid="MIC 3:12"/></para>
-  <chapter eid="MIC 3"/>
-  <chapter number="4" style="c" sid="MIC 4"/>
+  <para style="q2" vid="MIC 3:12">nga gibarogan sa Templo.<verse eid="MIC 3:12" /></para>
+  <chapter eid="MIC 3" />
+  <chapter number="4" style="c" sid="MIC 4" />
   <para style="s1">Ang Bukid sa <char style="nd">Ginoo</char></para>
   <para style="r">(<ref loc="ISA 2:2-4">Isa. 2:2-4</ref>)</para>
   <para style="p">
-    <verse number="1" style="v" sid="MIC 4:1"/>Sa umaabot nga mga adlaw,</para>
+    <verse number="1" style="v" sid="MIC 4:1" />Sa umaabot nga mga adlaw,</para>
   <para style="q1" vid="MIC 4:1">ang bukid nga gitukoran sa Templo sa <char style="nd">Ginoo</char> mahimong</para>
   <para style="q2" vid="MIC 4:1">pinakaimportante<note caller="+" style="f"><char style="fr" closed="false">4:1 </char><char style="fq" closed="false">pinakaimportante</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">pinakataas.</char></note> sa mga bukid ug mga bungtod.</para>
   <para style="q1" vid="MIC 4:1">Ug modagsa niini nga bukid ang mga tawo</para>
-  <para style="q2" vid="MIC 4:1">nga naggikan sa nagkalain-laing nasod.<verse eid="MIC 4:1"/></para>
+  <para style="q2" vid="MIC 4:1">nga naggikan sa nagkalain-laing nasod.<verse eid="MIC 4:1" /></para>
   <para style="p">
-    <verse number="2" style="v" sid="MIC 4:2"/>Daghang kanasoran ang muduol ug moingon,</para>
+    <verse number="2" style="v" sid="MIC 4:2" />Daghang kanasoran ang muduol ug moingon,</para>
   <para style="q1" vid="MIC 4:2">“Dali, motungas kita sa bukid sa <char style="nd">Ginoo</char>,</para>
   <para style="q2" vid="MIC 4:2">didto sa Templo sa Dios ni Jacob.</para>
   <para style="q1" vid="MIC 4:2">Kay tudloan kita niya sa iyang mga pamaagi</para>
   <para style="q2" vid="MIC 4:2">aron matuman nato kini.”</para>
   <para style="q1" vid="MIC 4:2">Busa mopauli ang mga tawo gikan sa Jerusalem<note caller="+" style="f"><char style="fr" closed="false">4:2 </char><char style="fq" closed="false">Jerusalem</char><char style="ft" closed="false">: sa Hebreo makita usab ang pulong nga Zion, nga mao ang laing ngalan sa Jerusalem.</char></note></para>
-  <para style="q2" vid="MIC 4:2">dala ang mga kasugoan sa <char style="nd">Ginoo</char>.<verse eid="MIC 4:2"/></para>
+  <para style="q2" vid="MIC 4:2">dala ang mga kasugoan sa <char style="nd">Ginoo</char>.<verse eid="MIC 4:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="MIC 4:3"/>Ug pinaagi sa iyang kasugoan, husayon niya</para>
-  <para style="q2" vid="MIC 4:3">ang mga panagbingkil sa daghang mga nasod,</para>
+    <verse number="3" style="v" sid="MIC 4:3" />Ug pinaagi sa iyang kasugoan, husayon niya</para>
+  <para style="q2" vid="MIC 4:3">ang mga panagbingkil sa daghang nasod,</para>
   <para style="q2" vid="MIC 4:3">bisan kadtong gamhanan nga mga nasod sa layo.</para>
   <para style="q1" vid="MIC 4:3">Busa dili na mag-away ang mga nasod,</para>
   <para style="q2" vid="MIC 4:3">ug dili na usab sila mobansay ug mga tawo alang sa pagpakig-gira.</para>
   <para style="q1" vid="MIC 4:3">Himuon na lang nilang punta sa mga daro</para>
   <para style="q2" vid="MIC 4:3">ang ilang mga espada ug himuon na lang nilang</para>
-  <para style="q2" vid="MIC 4:3">mga sundang ang ilang mga bangkaw.<verse eid="MIC 4:3"/></para>
+  <para style="q2" vid="MIC 4:3">mga sundang ang ilang mga bangkaw.<verse eid="MIC 4:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="MIC 4:4"/>Ang matag tawo maglingkod sa ilalom sa iyang tanom</para>
+    <verse number="4" style="v" sid="MIC 4:4" />Ang matag tawo maglingkod sa ilalom sa iyang tanom</para>
   <para style="q2" vid="MIC 4:4">nga ubas ug kahoy nga igos nga walay gikahadlokan.</para>
   <para style="q1" vid="MIC 4:4">Mahitabo gayod kini, kay ang <char style="nd">Ginoo</char> nga Makagagahom</para>
-  <para style="q2" vid="MIC 4:4">mao ang nag-ingon niini.<verse eid="MIC 4:4"/></para>
+  <para style="q2" vid="MIC 4:4">mao ang nag-ingon niini.<verse eid="MIC 4:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="MIC 4:5"/>Apan bisan musunod pa ang ubang mga katawhan sa ilang mga dios-dios,</para>
-  <para style="q2" vid="MIC 4:5">kami musunod sa <char style="nd">Ginoo</char> nga among Dios hangtod sa kahangtoran.<verse eid="MIC 4:5"/></para>
+    <verse number="5" style="v" sid="MIC 4:5" />Apan bisan musunod pa ang ubang mga katawhan sa ilang mga dios-dios,</para>
+  <para style="q2" vid="MIC 4:5">kami musunod sa <char style="nd">Ginoo</char> nga among Dios hangtod sa kahangtoran.<verse eid="MIC 4:5" /></para>
   <para style="s1">Ang Plano sa Ginoo</para>
   <para style="q1">
-    <verse number="6-7" style="v" sid="MIC 4:6-7"/>Miingon ang <char style="nd">Ginoo</char>:</para>
+    <verse number="6-7" style="v" sid="MIC 4:6-7" />Miingon ang <char style="nd">Ginoo</char>:</para>
   <para style="q2" vid="MIC 4:6-7">“Sa umaabot nga mga adlaw,</para>
   <para style="q1" vid="MIC 4:6-7">tigomon ko ang akong mga katawhan</para>
   <para style="q2" vid="MIC 4:6-7">nga akong gisilotan, ang nangapiang ug nagkatibulaag.</para>
   <para style="q1" vid="MIC 4:6-7">Himuon ko nga usa ka gamhanan</para>
   <para style="q2" vid="MIC 4:6-7">nga nasod ang mga nangahibilin kanila.</para>
   <para style="q1" vid="MIC 4:6-7">Ug maghari ako kanila sa Jerusalem<note caller="+" style="f"><char style="fr" closed="false">4:6-7 </char><char style="fq" closed="false">Jerusalem</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">Bukid sa Zion.</char></note></para>
-  <para style="q2" vid="MIC 4:6-7">gikan niana nga panahon hangtod sa kahangtoran.<verse eid="MIC 4:6-7"/></para>
+  <para style="q2" vid="MIC 4:6-7">gikan niana nga panahon hangtod sa kahangtoran.<verse eid="MIC 4:6-7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="MIC 4:8"/>Ang Jerusalem,<note caller="+" style="f"><char style="fr" closed="false">4:8 </char><char style="fq" closed="false">Jerusalem</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">ang anak nga babaye sa Zion.</char></note> nga sama sa usa ka tore nga lantawanan,</para>
+    <verse number="8" style="v" sid="MIC 4:8" />Ang Jerusalem,<note caller="+" style="f"><char style="fr" closed="false">4:8 </char><char style="fq" closed="false">Jerusalem</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">ang anak nga babaye sa Zion.</char></note> nga sama sa usa ka tore nga lantawanan,</para>
   <para style="q2" vid="MIC 4:8">diin ang Dios magbantay sa iyang katawhan<note caller="+" style="f"><char style="fr" closed="false">4:8 </char><char style="fq" closed="false">sama…katawhan</char><char style="ft" closed="false">: tingali ang buot ipasabot nga ang Jerusalem mao ang dapit diin ang Dios, nga sama sa usa ka magbalantay sa mga mananap, nagbantay sa iyang katawhan.</char></note></para>
-  <para style="q2" vid="MIC 4:8">mahimo pag-usab nga nag-unang siyudad sa Israel sama kaniadto.”<verse eid="MIC 4:8"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 4:8">mahimo pag-usab nga nag-unang siyudad sa Israel sama kaniadto.”<verse eid="MIC 4:8" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="9-10" style="v" sid="MIC 4:9-10"/>Karon, ngano kamong mga lumulupyo sa Zion</para>
+    <verse number="9-10" style="v" sid="MIC 4:9-10" />Karon, ngano kamong mga lumulupyo sa Zion</para>
   <para style="q2" vid="MIC 4:9-10">nag-agulo man sama sa babaye nga nagbati?</para>
   <para style="q1" vid="MIC 4:9-10">Naa pa man ang inyong hari ug ang iyang</para>
   <para style="q2" vid="MIC 4:9-10">mga magtatambag wala man nangamatay.</para>
@@ -289,132 +290,132 @@
   <para style="q2" vid="MIC 4:9-10">ug magpuyo sa kaumahan,</para>
   <para style="q1" vid="MIC 4:9-10">ug unya dad-on kamo ngadto sa Babilonia.</para>
   <para style="q2" vid="MIC 4:9-10">Apan luwason ko kamo didto</para>
-  <para style="q2" vid="MIC 4:9-10">gikan sa kamot sa inyong mga kaaway.<verse eid="MIC 4:9-10"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 4:9-10">gikan sa kamot sa inyong mga kaaway.<verse eid="MIC 4:9-10" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="11" style="v" sid="MIC 4:11"/>Karon daghang mga nasod ang nagtigom</para>
+    <verse number="11" style="v" sid="MIC 4:11" />Karon daghang nasod ang nagtigom</para>
   <para style="q2" vid="MIC 4:11">sa pakig-gira kaninyo.</para>
   <para style="q1" vid="MIC 4:11">Nag-ingon sila, “Atong pasipad-an ang Jerusalem!</para>
-  <para style="q2" vid="MIC 4:11">Ug unya atong tan-awon ang makauulaw nga kahimtang niini.”<verse eid="MIC 4:11"/></para>
+  <para style="q2" vid="MIC 4:11">Ug unya atong tan-awon ang makauulaw nga kahimtang niini.”<verse eid="MIC 4:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="MIC 4:12"/>Apan kini nga mga nasod</para>
+    <verse number="12" style="v" sid="MIC 4:12" />Apan kini nga mga nasod</para>
   <para style="q2" vid="MIC 4:12">wala makahibalo sa akong huna-huna.</para>
   <para style="q1" vid="MIC 4:12">Wala sila makasabot sa akong plano,</para>
   <para style="q2" vid="MIC 4:12">nga tigomon sila aron silotan,</para>
-  <para style="q2" vid="MIC 4:12">sama nga ang uhay tigomon aron giokon.<verse eid="MIC 4:12"/></para>
+  <para style="q2" vid="MIC 4:12">sama nga ang uhay tigomon aron giokon.<verse eid="MIC 4:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="MIC 4:13"/>Miingon ang <char style="nd">Ginoo</char>, “Mga lumulupyo sa Zion, lakaw kamo</para>
+    <verse number="13" style="v" sid="MIC 4:13" />Miingon ang <char style="nd">Ginoo</char>, “Mga lumulupyo sa Zion, lakaw kamo</para>
   <para style="q2" vid="MIC 4:13">ug laglaga ninyo sa hingpit<note caller="+" style="f"><char style="fr" closed="false">4:13 </char><char style="fq" closed="false">laglaga ninyo sa hingpit</char><char style="ft" closed="false">: ang Hebreo nga pulong nga gigamit dinhi nagkahulogan sa mga butang nga gihalad sa <char style="nd">Ginoo</char> pinaagi sa paghalad o paglaglag niini.</char></note> ang inyong mga kaaway</para>
   <para style="q2" vid="MIC 4:13">nga daw sa gagiok kamo ug mga uhay.</para>
   <para style="q1" vid="MIC 4:13">Kay himuon ko kamong sama sa torong baka</para>
   <para style="q2" vid="MIC 4:13">nga adunay puthaw nga mga sungay</para>
   <para style="q2" vid="MIC 4:13">ug adunay bronsi nga mga kuko.</para>
-  <para style="q1" vid="MIC 4:13">Dugmokon ninyo ang daghang mga nasod,</para>
+  <para style="q1" vid="MIC 4:13">Dugmokon ninyo ang daghang nasod,</para>
   <para style="q2" vid="MIC 4:13">ug ang ilang mga bahandi nga nakuha nila</para>
   <para style="q1" vid="MIC 4:13">pinaagi sa kabangis ihalad ninyo kanako,</para>
-  <para style="q2" vid="MIC 4:13">ang Ginoong makagagahom sa tibuok kalibotan.”<verse eid="MIC 4:13"/></para>
-  <chapter eid="MIC 4"/>
-  <chapter number="5" style="c" sid="MIC 5"/>
+  <para style="q2" vid="MIC 4:13">ang Ginoong makagagahom sa tibuok kalibotan.”<verse eid="MIC 4:13" /></para>
+  <chapter eid="MIC 4" />
+  <chapter number="5" style="c" sid="MIC 5" />
   <para style="s1">Ang Gisaad nga Pangulo gikan sa Betlehem</para>
   <para style="q1">
-    <verse number="1" style="v" sid="MIC 5:1"/>Karon, mga taga-Jerusalem, andama ninyo</para>
+    <verse number="1" style="v" sid="MIC 5:1" />Karon, mga taga-Jerusalem, andama ninyo</para>
   <para style="q2" vid="MIC 5:1">ang inyong mga sundalo<note caller="+" style="f"><char style="fr" closed="false">5:1 </char><char style="fq" closed="false">Karon…sundalo</char><char style="ft" closed="false">: dili klaro ang buot ipasabot niini sa Hebreo nga teksto.</char></note> kay gilibotan kamo sa kaaway.</para>
-  <para style="q2" vid="MIC 5:1">Hampakon nila ug baston ang nawong sa pangulo sa Israel.<verse eid="MIC 5:1"/></para>
+  <para style="q2" vid="MIC 5:1">Hampakon nila ug baston ang nawong sa pangulo sa Israel.<verse eid="MIC 5:1" /></para>
   <para style="p">
-    <verse number="2" style="v" sid="MIC 5:2"/>Miingon ang <char style="nd">Ginoo</char>:</para>
+    <verse number="2" style="v" sid="MIC 5:2" />Miingon ang <char style="nd">Ginoo</char>:</para>
   <para style="q1" vid="MIC 5:2">“Ikaw, Betlehem Efrata,</para>
   <para style="q2" vid="MIC 5:2">dili kaayo importante nga lungsod sa Juda.</para>
   <para style="q1" vid="MIC 5:2">Apan maggikan kanimo ang usa ka tawo</para>
   <para style="q2" vid="MIC 5:2">nga mag-alagad kanako isip pangulo sa Israel,</para>
-  <para style="q2" vid="MIC 5:2">kansang mga katigulangan inila nga mga tawo sa unang panahon.”<verse eid="MIC 5:2"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 5:2">kansang mga katigulangan inila nga mga tawo sa unang panahon.”<verse eid="MIC 5:2" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="3" style="v" sid="MIC 5:3"/>Busa itugyan sa <char style="nd">Ginoo</char> ngadto sa mga kaaway</para>
+    <verse number="3" style="v" sid="MIC 5:3" />Busa itugyan sa <char style="nd">Ginoo</char> ngadto sa mga kaaway</para>
   <para style="q2" vid="MIC 5:3">ang katawhan sa Israel hangtod sa panahon nga manganak</para>
   <para style="q2" vid="MIC 5:3">ug batang lalaki nga maoy mangulo sa Israel ang babayeng nagbati.<note caller="+" style="f"><char style="fr" closed="false">5:3 </char><char style="fq" closed="false">ang babayeng nagbati</char><char style="ft" closed="false">: tingali mao ang Jerusalem (tan-awa ang <char style="xt"><ref loc="MIC 4:9">Mik. 4:9</ref>, <ref loc="MIC 4:10">10</ref></char>). Sa panahon nga ginadumalahan sa kaaway ang mga Israelinhon, matawo ang ilang pangulo nga magluwas kanila.</char></note></para>
   <para style="q1" vid="MIC 5:3">Ug ang iyang mga kadugo nga nabihag sa ubang dapit</para>
-  <para style="q2" vid="MIC 5:3">magbalik ngadto sa ilang isigka-Israelinhon.<verse eid="MIC 5:3"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 5:3">magbalik ngadto sa ilang isigka-Israelinhon.<verse eid="MIC 5:3" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="4" style="v" sid="MIC 5:4"/>Magdumala kining maong pangulo ug atimanon niya</para>
+    <verse number="4" style="v" sid="MIC 5:4" />Magdumala kining maong pangulo ug atimanon niya</para>
   <para style="q2" vid="MIC 5:4">ang katawhan sa Israel sama sa usa ka magbalantay sa mga karnero.</para>
   <para style="q1" vid="MIC 5:4">Himuon niya kini pinaagi sa kusog</para>
   <para style="q2" vid="MIC 5:4">ug gahom sa <char style="nd">Ginoo</char> nga iyang Dios.</para>
   <para style="q1" vid="MIC 5:4">Ug magkinabuhi ang iyang katawhan</para>
   <para style="q2" vid="MIC 5:4">nga walay gikahadlokan tungod kay ilhon sa mga tawo</para>
-  <para style="q2" vid="MIC 5:4">sa tibuok kalibotan<note caller="+" style="f"><char style="fr" closed="false">5:4 </char><char style="fq" closed="false">tibuok kalibotan</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">kinatumyan sa kalibotan.</char></note> ang iyang pagkagamhanan.<verse eid="MIC 5:4"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 5:4">sa tibuok kalibotan<note caller="+" style="f"><char style="fr" closed="false">5:4 </char><char style="fq" closed="false">tibuok kalibotan</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">kinatumyan sa kalibotan.</char></note> ang iyang pagkagamhanan.<verse eid="MIC 5:4" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="5" style="v" sid="MIC 5:5"/>Hatagan usab niya ug maayo nga kahimtang<note caller="+" style="f"><char style="fr" closed="false">5:5 </char><char style="fq" closed="false">maayo nga kahimtang</char><char style="ft" closed="false">: ang Hebreo niini mao ang <char style="tl">shalom</char>, nga nagkahulogan ug kalinaw, kauswagan, maayo nga relasyon, kalipay, kadaogan.</char></note></para>
+    <verse number="5" style="v" sid="MIC 5:5" />Hatagan usab niya ug maayo nga kahimtang<note caller="+" style="f"><char style="fr" closed="false">5:5 </char><char style="fq" closed="false">maayo nga kahimtang</char><char style="ft" closed="false">: ang Hebreo niini mao ang <char style="tl">shalom</char>, nga nagkahulogan ug kalinaw, kauswagan, maayo nga relasyon, kalipay, kadaogan.</char></note></para>
   <para style="q2" vid="MIC 5:5">ang iyang katawhan.</para>
   <para style="q1" vid="MIC 5:5">Kon sulongon sa mga taga-Asiria ang atong yuta</para>
   <para style="q2" vid="MIC 5:5">ug sudlon nila ang lig-ong mga bahin sa atong lungsod,</para>
-  <para style="q2" vid="MIC 5:5">makig-gira kita kanila nga pinangulohan sa maisog nato nga mga pangulo.<verse eid="MIC 5:5"/></para>
+  <para style="q2" vid="MIC 5:5">makig-gira kita kanila nga pinangulohan sa maisog nato nga mga pangulo.<verse eid="MIC 5:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="MIC 5:6"/>Pildihon nila ug dumalahan ang Asiria,</para>
+    <verse number="6" style="v" sid="MIC 5:6" />Pildihon nila ug dumalahan ang Asiria,</para>
   <para style="q2" vid="MIC 5:6">ang yuta ni Nimrod, pinaagi sa ilang mga hinagiban.</para>
-  <para style="q2" vid="MIC 5:6">Luwason kita nila<note caller="+" style="f"><char style="fr" closed="false">5:6 </char><char style="fq" closed="false">nila</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">niya. </char><char style="ft" closed="false">Posible ang pangulo nga giingon sa <char style="xt"><ref loc="MIC 5:2-5">Mik. 5:2-5</ref></char>.</char></note> kon sulongon sa mga taga-Asiria ang atong yuta.<verse eid="MIC 5:6"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 5:6">Luwason kita nila<note caller="+" style="f"><char style="fr" closed="false">5:6 </char><char style="fq" closed="false">nila</char><char style="ft" closed="false">: sa Hebreo, </char><char style="fqa" closed="false">niya. </char><char style="ft" closed="false">Posible ang pangulo nga giingon sa <char style="xt"><ref loc="MIC 5:2-5">Mik. 5:2-5</ref></char>.</char></note> kon sulongon sa mga taga-Asiria ang atong yuta.<verse eid="MIC 5:6" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="7" style="v" sid="MIC 5:7"/>Ang nabiling mga Israelinhon magdala</para>
-  <para style="q2" vid="MIC 5:7">ug panalangin sa daghang mga nasod.</para>
+    <verse number="7" style="v" sid="MIC 5:7" />Ang nabiling mga Israelinhon magdala</para>
+  <para style="q2" vid="MIC 5:7">ug panalangin sa daghang nasod.</para>
   <para style="q1" vid="MIC 5:7">Mahimo silang sama sa tun-og ug ulan</para>
   <para style="q2" vid="MIC 5:7">nga gipadala sa <char style="nd">Ginoo</char> sa pagpatubo sa mga tanom.</para>
-  <para style="q2" vid="MIC 5:7">Magsalig sila sa Dios ug dili sa tawo.<verse eid="MIC 5:7"/></para>
+  <para style="q2" vid="MIC 5:7">Magsalig sila sa Dios ug dili sa tawo.<verse eid="MIC 5:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="MIC 5:8"/>Apan magdala usab sila ug kalaglagan sa mga nasod.</para>
+    <verse number="8" style="v" sid="MIC 5:8" />Apan magdala usab sila ug kalaglagan sa mga nasod.</para>
   <para style="q2" vid="MIC 5:8">Mahisama sila sa liyon taliwala sa mga mananap sa kalasangan</para>
   <para style="q1" vid="MIC 5:8">ug sa panon sa mga karnero sa sabsabanan nga moyatak-yatak</para>
-  <para style="q2" vid="MIC 5:8">ug mokunis-kunis kanila, ug wala gayoy makalingkawas.<verse eid="MIC 5:8"/></para>
+  <para style="q2" vid="MIC 5:8">ug mokunis-kunis kanila, ug wala gayoy makalingkawas.<verse eid="MIC 5:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="MIC 5:9"/>Magmadaogon ang mga Israelinhon batok sa ilang mga kaaway.</para>
-  <para style="q2" vid="MIC 5:9">Laglagon gayod nila silang tanan.<verse eid="MIC 5:9"/></para>
+    <verse number="9" style="v" sid="MIC 5:9" />Magmadaogon ang mga Israelinhon batok sa ilang mga kaaway.</para>
+  <para style="q2" vid="MIC 5:9">Laglagon gayod nila silang tanan.<verse eid="MIC 5:9" /></para>
   <para style="p">
-    <verse number="10" style="v" sid="MIC 5:10"/>Miingon ang <char style="nd">Ginoo</char> ngadto sa mga Israelinhon:</para>
+    <verse number="10" style="v" sid="MIC 5:10" />Miingon ang <char style="nd">Ginoo</char> ngadto sa mga Israelinhon:</para>
   <para style="q1" vid="MIC 5:10">“Sa umaabot nga mga adlaw, ipapatay ko</para>
   <para style="q2" vid="MIC 5:10">ang inyong mga kabayo ug gub-on ko</para>
-  <para style="q2" vid="MIC 5:10">ang inyong mga karwahi.<verse eid="MIC 5:10"/></para>
+  <para style="q2" vid="MIC 5:10">ang inyong mga karwahi.<verse eid="MIC 5:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="MIC 5:11"/>Gub-on ko usab ang inyong mga lungsod</para>
-  <para style="q2" vid="MIC 5:11">apil na ang pinarilan.<verse eid="MIC 5:11"/></para>
+    <verse number="11" style="v" sid="MIC 5:11" />Gub-on ko usab ang inyong mga lungsod</para>
+  <para style="q2" vid="MIC 5:11">apil na ang pinarilan.<verse eid="MIC 5:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="MIC 5:12"/>Wagtangon ko ang inyong mga anting-anting</para>
-  <para style="q2" vid="MIC 5:12">ug ang inyong mga manalagna.<verse eid="MIC 5:12"/></para>
+    <verse number="12" style="v" sid="MIC 5:12" />Wagtangon ko ang inyong mga anting-anting</para>
+  <para style="q2" vid="MIC 5:12">ug ang inyong mga manalagna.<verse eid="MIC 5:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="MIC 5:13"/>Dili na kamo makasimba sa mga imahen</para>
+    <verse number="13" style="v" sid="MIC 5:13" />Dili na kamo makasimba sa mga imahen</para>
   <para style="q2" vid="MIC 5:13">ug sa sagrado nga mga bato</para>
-  <para style="q2" vid="MIC 5:13">nga inyong gihimo, kay gub-on ko kini.<verse eid="MIC 5:13"/></para>
+  <para style="q2" vid="MIC 5:13">nga inyong gihimo, kay gub-on ko kini.<verse eid="MIC 5:13" /></para>
   <para style="q1">
-    <verse number="14" style="v" sid="MIC 5:14"/>Pang-ibton ko ang mga poste nga simbolo sa diosa nga si Ashera.</para>
-  <para style="q2" vid="MIC 5:14">Ug gun-ubon ko ang inyong mga lungsod.<verse eid="MIC 5:14"/></para>
+    <verse number="14" style="v" sid="MIC 5:14" />Pang-ibton ko ang mga poste nga simbolo sa diosa nga si Ashera.</para>
+  <para style="q2" vid="MIC 5:14">Ug gun-ubon ko ang inyong mga lungsod.<verse eid="MIC 5:14" /></para>
   <para style="q1">
-    <verse number="15" style="v" sid="MIC 5:15"/>Sa akong labihan nga kasuko, manimalos ako</para>
-  <para style="q2" vid="MIC 5:15">sa mga nasod nga wala motuman kanako.”<verse eid="MIC 5:15"/></para>
-  <chapter eid="MIC 5"/>
-  <chapter number="6" style="c" sid="MIC 6"/>
+    <verse number="15" style="v" sid="MIC 5:15" />Sa akong labihan nga kasuko, manimalos ako</para>
+  <para style="q2" vid="MIC 5:15">sa mga nasod nga wala motuman kanako.”<verse eid="MIC 5:15" /></para>
+  <chapter eid="MIC 5" />
+  <chapter number="6" style="c" sid="MIC 6" />
   <para style="s1">Ang Akusasyon sa <char style="nd">Ginoo</char> Batok sa mga Israelinhon</para>
   <para style="p">
-    <verse number="1" style="v" sid="MIC 6:1"/>Kamong mga Israelinhon, pamatia ninyo ang isulti sa <char style="nd">Ginoo</char> kaninyo:</para>
+    <verse number="1" style="v" sid="MIC 6:1" />Kamong mga Israelinhon, pamatia ninyo ang isulti sa <char style="nd">Ginoo</char> kaninyo:</para>
   <para style="q1" vid="MIC 6:1">“Sige na, ipresentar ninyo ang inyong kaso;</para>
   <para style="q2" vid="MIC 6:1">padungga ninyo ang mga bukid</para>
-  <para style="q2" vid="MIC 6:1">ug ang mga bungtod<note caller="+" style="f"><char style="fr" closed="false">6:1 </char><char style="fq" closed="false">padungga…bungtod</char><char style="ft" closed="false">: ang mga bukid ug mga bungtod nagsilbi nga mga testigo sa kaso.</char></note> sa inyong isulti.<verse eid="MIC 6:1"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 6:1">ug ang mga bungtod<note caller="+" style="f"><char style="fr" closed="false">6:1 </char><char style="fq" closed="false">padungga…bungtod</char><char style="ft" closed="false">: ang mga bukid ug mga bungtod nagsilbi nga mga testigo sa kaso.</char></note> sa inyong isulti.<verse eid="MIC 6:1" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="2" style="v" sid="MIC 6:2"/>“Ug kamong mga bukid nga mao ang malig-on</para>
+    <verse number="2" style="v" sid="MIC 6:2" />“Ug kamong mga bukid nga mao ang malig-on</para>
   <para style="q2" vid="MIC 6:2">nga mga pundasyon sa kalibotan,</para>
   <para style="q1" vid="MIC 6:2">pamatia ninyo ang akusasyon sa <char style="nd">Ginoo</char> batok</para>
-  <para style="q2" vid="MIC 6:2">sa mga Israelinhon nga iyang katawhan.<verse eid="MIC 6:2"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 6:2">sa mga Israelinhon nga iyang katawhan.<verse eid="MIC 6:2" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="3" style="v" sid="MIC 6:3"/>“Mga katawhan ko,</para>
+    <verse number="3" style="v" sid="MIC 6:3" />“Mga katawhan ko,</para>
   <para style="q2" vid="MIC 6:3">unsa bay sala nga nahimo ko kaninyo?</para>
-  <para style="q2" vid="MIC 6:3">Gilisod-lisod ko ba kamo? Tubaga ninyo ako!<verse eid="MIC 6:3"/></para>
+  <para style="q2" vid="MIC 6:3">Gilisod-lisod ko ba kamo? Tubaga ninyo ako!<verse eid="MIC 6:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="MIC 6:4"/>Gipagawas ko kamo gikan sa Ehipto diin giulipon kamo.</para>
+    <verse number="4" style="v" sid="MIC 6:4" />Gipagawas ko kamo gikan sa Ehipto diin giulipon kamo.</para>
   <para style="q2" vid="MIC 6:4">Ug gipadala ko si Moises, Aaron,</para>
-  <para style="q2" vid="MIC 6:4">ug si Miriam sa pagpangulo kaninyo.<verse eid="MIC 6:4"/></para>
+  <para style="q2" vid="MIC 6:4">ug si Miriam sa pagpangulo kaninyo.<verse eid="MIC 6:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="MIC 6:5"/>Mga katawhan ko,</para>
+    <verse number="5" style="v" sid="MIC 6:5" />Mga katawhan ko,</para>
   <para style="q2" vid="MIC 6:5">hinumdomi ninyo nga gisugo ni Balak nga hari sa Moab</para>
   <para style="q2" vid="MIC 6:5">si Balaam nga anak ni Beor nga tunglohon kamo.</para>
   <para style="q1" vid="MIC 6:5">Apan gisugo ko si Balaam</para>
@@ -424,174 +425,174 @@
   <para style="q1" vid="MIC 6:5">sa pagtabok sa Suba sa Jordan</para>
   <para style="q2" vid="MIC 6:5">sa dihang naglakaw kamo</para>
   <para style="q1" vid="MIC 6:5">gikan sa Shitim hangtod sa Gilgal,</para>
-  <para style="q2" vid="MIC 6:5">aron maamgohan ninyo ang gibuhat ko sa pagluwas kaninyo.”<verse eid="MIC 6:5"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 6:5">aron maamgohan ninyo ang gibuhat ko sa pagluwas kaninyo.”<verse eid="MIC 6:5" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="6" style="v" sid="MIC 6:6"/>Unsay ihalad ko sa <char style="nd">Ginoo</char></para>
+    <verse number="6" style="v" sid="MIC 6:6" />Unsay ihalad ko sa <char style="nd">Ginoo</char></para>
   <para style="q2" vid="MIC 6:6">nga anaa sa langit, kon mosimba ako sa Dios?</para>
   <para style="q1" vid="MIC 6:6">Mohalad ba ako ug baka nga usa ka tuig</para>
-  <para style="q2" vid="MIC 6:6">ang panuigon isip halad nga sinunog?<verse eid="MIC 6:6"/></para>
+  <para style="q2" vid="MIC 6:6">ang panuigon isip halad nga sinunog?<verse eid="MIC 6:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="MIC 6:7"/>Malipay kaha ang <char style="nd">Ginoo</char> kon halaran ko siya</para>
+    <verse number="7" style="v" sid="MIC 6:7" />Malipay kaha ang <char style="nd">Ginoo</char> kon halaran ko siya</para>
   <para style="q2" vid="MIC 6:7">ug linibo ka mga karnero ug daghan kaayong lana sa olibo?</para>
   <para style="q1" vid="MIC 6:7">Ihalad ko ba kaniya ang akong kamagulangang</para>
-  <para style="q2" vid="MIC 6:7">anak isip bayad sa akong mga sala?<verse eid="MIC 6:7"/></para>
+  <para style="q2" vid="MIC 6:7">anak isip bayad sa akong mga sala?<verse eid="MIC 6:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="MIC 6:8"/>Gitudloan na kita sa <char style="nd">Ginoo</char> kon unsa ang maayo.</para>
+    <verse number="8" style="v" sid="MIC 6:8" />Gitudloan na kita sa <char style="nd">Ginoo</char> kon unsa ang maayo.</para>
   <para style="q2" vid="MIC 6:8">Ug mao kini ang iyang gusto nga ipatuman kanato:</para>
   <para style="q1" vid="MIC 6:8">Himuon nato kon unsa ang matarong,</para>
   <para style="q2" vid="MIC 6:8">palabihon nato ang pagkamaluloy-on ngadto sa uban,</para>
-  <para style="q2" vid="MIC 6:8">ug mapainubsanon kitang mosunod sa Dios.<verse eid="MIC 6:8"/></para>
+  <para style="q2" vid="MIC 6:8">ug mapainubsanon kitang mosunod sa Dios.<verse eid="MIC 6:8" /></para>
   <para style="s1">Silotan sa <char style="nd">Ginoo</char> ang mga Israelinhon</para>
   <para style="q1">
-    <verse number="9" style="v" sid="MIC 6:9"/>Pamati kamo sa gisulti sa <char style="nd">Ginoo</char> ngadto sa siyudad sa Jerusalem,</para>
+    <verse number="9" style="v" sid="MIC 6:9" />Pamati kamo sa gisulti sa <char style="nd">Ginoo</char> ngadto sa siyudad sa Jerusalem,</para>
   <para style="q2" vid="MIC 6:9">kay ang nagtahod kaniya mao ang adunay husto nga kaalam:</para>
-  <para style="q1" vid="MIC 6:9">“Patalinghugi ang baston ug ang Ginoo nga nagbutang niini.<verse eid="MIC 6:9"/></para>
+  <para style="q1" vid="MIC 6:9">“Patalinghugi ang baston ug ang Ginoo nga nagbutang niini.<verse eid="MIC 6:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="MIC 6:10"/>Daotan kamong mga katawhan!</para>
+    <verse number="10" style="v" sid="MIC 6:10" />Daotan kamong mga katawhan!</para>
   <para style="q2" vid="MIC 6:10">Dili ko kalimtan ang mga bahandi</para>
   <para style="q1" vid="MIC 6:10">nga natigom ninyo sa daotang paagi.</para>
   <para style="q2" vid="MIC 6:10">Naggamit kamo sa dili hustong taksanan,</para>
-  <para style="q2" vid="MIC 6:10">ang buhat nga akong gipanghimaraot.<verse eid="MIC 6:10"/></para>
+  <para style="q2" vid="MIC 6:10">ang buhat nga akong gipanghimaraot.<verse eid="MIC 6:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="MIC 6:11"/>Dili mahimong pasagdan ko lang kamo</para>
-  <para style="q2" vid="MIC 6:11">nga manglimbong sa inyong timbangan.<verse eid="MIC 6:11"/></para>
+    <verse number="11" style="v" sid="MIC 6:11" />Dili mahimong pasagdan ko lang kamo</para>
+  <para style="q2" vid="MIC 6:11">nga manglimbong sa inyong timbangan.<verse eid="MIC 6:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="MIC 6:12"/>Bangis ang mga adunahan diha kaninyo</para>
-  <para style="q2" vid="MIC 6:12">ug tanan kamo limbongan ug bakakon.<verse eid="MIC 6:12"/></para>
+    <verse number="12" style="v" sid="MIC 6:12" />Bangis ang mga adunahan diha kaninyo</para>
+  <para style="q2" vid="MIC 6:12">ug tanan kamo limbongan ug bakakon.<verse eid="MIC 6:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="MIC 6:13"/>Busa tungod sa inyong mga sala silotan ko kamo</para>
-  <para style="q2" vid="MIC 6:13">sa hilabihan aron malaglag kamo.<verse eid="MIC 6:13"/></para>
+    <verse number="13" style="v" sid="MIC 6:13" />Busa tungod sa inyong mga sala silotan ko kamo</para>
+  <para style="q2" vid="MIC 6:13">sa hilabihan aron malaglag kamo.<verse eid="MIC 6:13" /></para>
   <para style="q1">
-    <verse number="14" style="v" sid="MIC 6:14"/>Tinuod nga makakaon kamo, apan dili kamo mabusog;</para>
+    <verse number="14" style="v" sid="MIC 6:14" />Tinuod nga makakaon kamo, apan dili kamo mabusog;</para>
   <para style="q2" vid="MIC 6:14">kanunay gihapon kamong gutomon.</para>
   <para style="q1" vid="MIC 6:14">Magtipig kamo ug mga abot, apan dili ninyo kini mapuslan,</para>
-  <para style="q2" vid="MIC 6:14">kay ipakuha ko kini sa inyong mga kaaway panahon sa gira.<verse eid="MIC 6:14"/></para>
+  <para style="q2" vid="MIC 6:14">kay ipakuha ko kini sa inyong mga kaaway panahon sa gira.<verse eid="MIC 6:14" /></para>
   <para style="q1">
-    <verse number="15" style="v" sid="MIC 6:15"/>Magpugas kamo, apan dili kamo ang mag-ani niini.</para>
+    <verse number="15" style="v" sid="MIC 6:15" />Magpugas kamo, apan dili kamo ang mag-ani niini.</para>
   <para style="q2" vid="MIC 6:15">Magpuga kamo ug mga olibo,</para>
   <para style="q2" vid="MIC 6:15">apan dili kamo ang makapahimulos sa lana niini.</para>
   <para style="q1" vid="MIC 6:15">Magpuga kamo ug mga ubas,</para>
-  <para style="q2" vid="MIC 6:15">apan dili kamo ang moinom sa bino niini.<verse eid="MIC 6:15"/></para>
+  <para style="q2" vid="MIC 6:15">apan dili kamo ang moinom sa bino niini.<verse eid="MIC 6:15" /></para>
   <para style="q1">
-    <verse number="16" style="v" sid="MIC 6:16"/>Mahitabo kini kaninyo tungod kay gisunod</para>
+    <verse number="16" style="v" sid="MIC 6:16" />Mahitabo kini kaninyo tungod kay gisunod</para>
   <para style="q2" vid="MIC 6:16">ninyo ang daotang mga binuhatan, mga tulomanon,</para>
   <para style="q1" vid="MIC 6:16">ug mga tambag ni Haring Omri</para>
   <para style="q2" vid="MIC 6:16">ug sa panimalay ni Haring Ahab.</para>
   <para style="q1" vid="MIC 6:16">Busa laglagon ko kamo, ug biay-biayon kamo</para>
-  <para style="q2" vid="MIC 6:16">ug bugal-bugalan sa ubang mga nasod.”<verse eid="MIC 6:16"/></para>
-  <chapter eid="MIC 6"/>
-  <chapter number="7" style="c" sid="MIC 7"/>
+  <para style="q2" vid="MIC 6:16">ug bugal-bugalan sa ubang mga nasod.”<verse eid="MIC 6:16" /></para>
+  <chapter eid="MIC 6" />
+  <chapter number="7" style="c" sid="MIC 7" />
   <para style="s1">Ang Kadaotan sa mga Israelinhon</para>
   <para style="q1">
-    <verse number="1" style="v" sid="MIC 7:1"/>Alaot ako! Sama ako sa tawo nga gapanghagdaw</para>
+    <verse number="1" style="v" sid="MIC 7:1" />Alaot ako! Sama ako sa tawo nga gapanghagdaw</para>
   <para style="q2" vid="MIC 7:1">nga wala gayoy makitang bunga<note caller="+" style="f"><char style="fr" closed="false">7:1 </char><char style="fq" closed="false">makitang bunga</char><char style="ft" closed="false">: nabatasan sa mga Israelinhon sa ting-ani o tingpamupo ang pagbilin ug hagdawon alang sa mga kabos, biyuda, o dumuduong.</char></note> sa igos</para>
-  <para style="q2" vid="MIC 7:1">o sa ubas nga ako gayong gitinguha.<verse eid="MIC 7:1"/></para>
+  <para style="q2" vid="MIC 7:1">o sa ubas nga ako gayong gitinguha.<verse eid="MIC 7:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="MIC 7:2"/>Ang buot kong ipasabot, wala na akoy nakitang</para>
+    <verse number="2" style="v" sid="MIC 7:2" />Ang buot kong ipasabot, wala na akoy nakitang</para>
   <para style="q2" vid="MIC 7:2">tawo sa Israel nga matinud-anon sa Dios.</para>
   <para style="q1" vid="MIC 7:2">Wala nay nabiling matarong nga tawo.</para>
   <para style="q2" vid="MIC 7:2">Ang matag-usa naghulat ug higayon sa pagpatay</para>
   <para style="q1" vid="MIC 7:2">sa iyang katagilungsod; giandaman nila</para>
-  <para style="q2" vid="MIC 7:2">ug lit-ag ang ilang isigka-tawo.<verse eid="MIC 7:2"/></para>
+  <para style="q2" vid="MIC 7:2">ug lit-ag ang ilang isigka-tawo.<verse eid="MIC 7:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="MIC 7:3"/>Hanas sila sa paghimo ug daotan.</para>
+    <verse number="3" style="v" sid="MIC 7:3" />Hanas sila sa paghimo ug daotan.</para>
   <para style="q2" vid="MIC 7:3">Ang mga pangulo ug mga huwes nagdawat ug suborno,</para>
   <para style="q1" vid="MIC 7:3">ug nagsunod lang sila sa gusto sa mga inila</para>
   <para style="q2" vid="MIC 7:3">ug gamhanan nga mga tawo.</para>
-  <para style="q2" vid="MIC 7:3">Nagkahiusa sila sa pagplano sa pagtuis sa hustisya.<verse eid="MIC 7:3"/></para>
+  <para style="q2" vid="MIC 7:3">Nagkahiusa sila sa pagplano sa pagtuis sa hustisya.<verse eid="MIC 7:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="MIC 7:4"/>Ang labing matarong kanila sama sa tunokong</para>
+    <verse number="4" style="v" sid="MIC 7:4" />Ang labing matarong kanila sama sa tunokong</para>
   <para style="q2" vid="MIC 7:4">mga sagbot nga walay kapuslanan.</para>
   <para style="q1" vid="MIC 7:4">Miabot na ang panahon nga silotan</para>
   <para style="q2" vid="MIC 7:4">sa Dios kining mga tawhana sama sa iyang gipahimangno</para>
   <para style="q1" vid="MIC 7:4">kanila pinaagi sa mga tigbantay nga propeta.</para>
-  <para style="q2" vid="MIC 7:4">Busa karon magkaguliyang sila.<verse eid="MIC 7:4"/></para>
+  <para style="q2" vid="MIC 7:4">Busa karon magkaguliyang sila.<verse eid="MIC 7:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="MIC 7:5"/>Tungod kay mikuyanap na ang kadaotan,</para>
+    <verse number="5" style="v" sid="MIC 7:5" />Tungod kay mikuyanap na ang kadaotan,</para>
   <para style="q2" vid="MIC 7:5">ayaw kamo pagsalig sa inyong mga silingan,</para>
   <para style="q2" vid="MIC 7:5">bisan pa sa suod nga mga higala.</para>
   <para style="q1" vid="MIC 7:5">Pagbantay usab kamo sa inyong ginasugilon</para>
-  <para style="q2" vid="MIC 7:5">bisan sa inyong mahal nga asawa.<verse eid="MIC 7:5"/></para>
+  <para style="q2" vid="MIC 7:5">bisan sa inyong mahal nga asawa.<verse eid="MIC 7:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="MIC 7:6"/>Kay ang anak nga lalaki dili na motahod sa iyang amahan,</para>
+    <verse number="6" style="v" sid="MIC 7:6" />Kay ang anak nga lalaki dili na motahod sa iyang amahan,</para>
   <para style="q2" vid="MIC 7:6">ang anak nga babaye mosukol sa iyang inahan,</para>
   <para style="q2" vid="MIC 7:6">ug ang umagad nga babaye mosukol sa iyang ugangan nga babaye.</para>
   <para style="q1" vid="MIC 7:6">Ang miyembro mismo sa pamilya sa usa ka tawo</para>
-  <para style="q2" vid="MIC 7:6">mao ang iyang kaaway.<verse eid="MIC 7:6"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 7:6">mao ang iyang kaaway.<verse eid="MIC 7:6" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="7" style="v" sid="MIC 7:7"/>Apan ako mosalig gayod sa <char style="nd">Ginoo</char> nga akong Dios.</para>
+    <verse number="7" style="v" sid="MIC 7:7" />Apan ako mosalig gayod sa <char style="nd">Ginoo</char> nga akong Dios.</para>
   <para style="q2" vid="MIC 7:7">Maghulat ako kaniya nga moluwas kanako.</para>
-  <para style="q2" vid="MIC 7:7">Pamation gayod niya ang akong pag-ampo.<verse eid="MIC 7:7"/></para>
+  <para style="q2" vid="MIC 7:7">Pamation gayod niya ang akong pag-ampo.<verse eid="MIC 7:7" /></para>
   <para style="s1">Mobangon ang Israel</para>
   <para style="q1">
-    <verse number="8" style="v" sid="MIC 7:8"/>Dili angayng biay-biayon lang kita sa atong mga kaaway.</para>
+    <verse number="8" style="v" sid="MIC 7:8" />Dili angayng biay-biayon lang kita sa atong mga kaaway.</para>
   <para style="q2" vid="MIC 7:8">Kay bisan ug nalaglag kita mobangon kita pag-usab.</para>
   <para style="q1" vid="MIC 7:8">Ug bisan anaa kita sa kangitngit</para>
-  <para style="q2" vid="MIC 7:8">ang <char style="nd">Ginoo</char> mao ang atong kahayag.<verse eid="MIC 7:8"/></para>
+  <para style="q2" vid="MIC 7:8">ang <char style="nd">Ginoo</char> mao ang atong kahayag.<verse eid="MIC 7:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="MIC 7:9"/>Tungod kay nakasala kita batok sa <char style="nd">Ginoo</char>,</para>
+    <verse number="9" style="v" sid="MIC 7:9" />Tungod kay nakasala kita batok sa <char style="nd">Ginoo</char>,</para>
   <para style="q2" vid="MIC 7:9">angay lang nga antoson nato ang iyang silot kanato</para>
   <para style="q2" vid="MIC 7:9">hangtod nga labanan niya kita ug hatagan ug hustisya.</para>
   <para style="q1" vid="MIC 7:9">Gikan sa kangitngit, dad-on niya kita sa kahayag</para>
-  <para style="q2" vid="MIC 7:9">ug makita nato siya nga moluwas kanato.<note caller="+" style="f"><char style="fr" closed="false">7:9 </char><char style="fq" closed="false">siya nga moluwas kanato</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">ang iyang pagkamatarong.</char></note><verse eid="MIC 7:9"/></para>
+  <para style="q2" vid="MIC 7:9">ug makita nato siya nga moluwas kanato.<note caller="+" style="f"><char style="fr" closed="false">7:9 </char><char style="fq" closed="false">siya nga moluwas kanato</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">ang iyang pagkamatarong.</char></note><verse eid="MIC 7:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="MIC 7:10"/>Makita kini sa atong mga kaaway ug maulawan sila.</para>
+    <verse number="10" style="v" sid="MIC 7:10" />Makita kini sa atong mga kaaway ug maulawan sila.</para>
   <para style="q2" vid="MIC 7:10">Kay gibiay-biay nila kita kaniadto nga nag-ingon,</para>
   <para style="q2" vid="MIC 7:10">“Asa na ang <char style="nd">Ginoo</char> nga inyong Dios?”</para>
   <para style="q1" vid="MIC 7:10">Sa dili madugay makita nato ang ilang pagkalaglag.</para>
-  <para style="q2" vid="MIC 7:10">Mahisama sila sa lapok nga gitunob-tunoban diha sa mga karsada.<verse eid="MIC 7:10"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 7:10">Mahisama sila sa lapok nga gitunob-tunoban diha sa mga karsada.<verse eid="MIC 7:10" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="11" style="v" sid="MIC 7:11"/>Katawhan sa Jerusalem, moabot ang panahon nga tukoron ninyo pag-usab ang inyong mga paril</para>
-  <para style="q2" vid="MIC 7:11">ug nianang panahona molapad pa gayod ang inyong teritoryo.<verse eid="MIC 7:11"/></para>
+    <verse number="11" style="v" sid="MIC 7:11" />Katawhan sa Jerusalem, moabot ang panahon nga tukoron ninyo pag-usab ang inyong mga paril</para>
+  <para style="q2" vid="MIC 7:11">ug nianang panahona molapad pa gayod ang inyong teritoryo.<verse eid="MIC 7:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="MIC 7:12"/>Niana usab nga panahon moanha kaninyo</para>
+    <verse number="12" style="v" sid="MIC 7:12" />Niana usab nga panahon moanha kaninyo</para>
   <para style="q2" vid="MIC 7:12">ang mga tawo gikan sa Asiria, sa mga siyudad sa Ehipto,</para>
   <para style="q1" vid="MIC 7:12">sa mga dapit paingon sa Suba sa Eufrates,</para>
-  <para style="q2" vid="MIC 7:12">ug sa layong mga dapit.<note caller="+" style="f"><char style="fr" closed="false">7:12 </char><char style="fq" closed="false">sa layong mga dapit</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">gikan sa usa ka dagat ngadto sa usa ka dagat ug gikan sa usa ka bukid ngadto sa usa ka bukid.</char></note><verse eid="MIC 7:12"/></para>
+  <para style="q2" vid="MIC 7:12">ug sa layong mga dapit.<note caller="+" style="f"><char style="fr" closed="false">7:12 </char><char style="fq" closed="false">sa layong mga dapit</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">gikan sa usa ka dagat ngadto sa usa ka dagat ug gikan sa usa ka bukid ngadto sa usa ka bukid.</char></note><verse eid="MIC 7:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="MIC 7:13"/>Maawaaw ang mga nasod sa kalibotan</para>
-  <para style="q2" vid="MIC 7:13">tungod sa kadaotan sa mga lumulupyo niini.<verse eid="MIC 7:13"/></para>
+    <verse number="13" style="v" sid="MIC 7:13" />Maawaaw ang mga nasod sa kalibotan</para>
+  <para style="q2" vid="MIC 7:13">tungod sa kadaotan sa mga lumulupyo niini.<verse eid="MIC 7:13" /></para>
   <para style="s1">Nag-ampo ang mga Israelinhon nga Kaloy-an Sila sa Dios</para>
   <para style="q1">
-    <verse number="14" style="v" sid="MIC 7:14"/>O <char style="nd">Ginoo</char>, bantayi kaming imong katawhan nga imong gipanag-iyahan,</para>
+    <verse number="14" style="v" sid="MIC 7:14" />O <char style="nd">Ginoo</char>, bantayi kaming imong katawhan nga imong gipanag-iyahan,</para>
   <para style="q2" vid="MIC 7:14">sama sa pagbantay sa magbalantay sa mga karnero.</para>
   <para style="q1" vid="MIC 7:14">Ang mga yuta sa palibot namo abunda ug sabsabanan,</para>
   <para style="q2" vid="MIC 7:14">apan kami nagkinabuhi nga kami-kami lang sa kamingawan.</para>
   <para style="q1" vid="MIC 7:14">Ipalapad ang among teritoryo hangtod sa Basan</para>
-  <para style="q2" vid="MIC 7:14">ug sa Gilead sama kaniadto.<verse eid="MIC 7:14"/></para>
-  <para style="b"/>
+  <para style="q2" vid="MIC 7:14">ug sa Gilead sama kaniadto.<verse eid="MIC 7:14" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="15" style="v" sid="MIC 7:15"/>Miingon ang <char style="nd">Ginoo</char>, “Magpakita ako kaninyo ug mga milagro sama sa imong gihimo kaniadto</para>
-  <para style="q2" vid="MIC 7:15">sa dihang gipagawas ko kamo gikan sa Ehipto.”<verse eid="MIC 7:15"/></para>
-  <para style="b"/>
+    <verse number="15" style="v" sid="MIC 7:15" />Miingon ang <char style="nd">Ginoo</char>, “Magpakita ako kaninyo ug mga milagro sama sa imong gihimo kaniadto</para>
+  <para style="q2" vid="MIC 7:15">sa dihang gipagawas ko kamo gikan sa Ehipto.”<verse eid="MIC 7:15" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="16" style="v" sid="MIC 7:16"/>Makita kini sa ubang mga nasod</para>
+    <verse number="16" style="v" sid="MIC 7:16" />Makita kini sa ubang mga nasod</para>
   <para style="q2" vid="MIC 7:16">ug maulawan sila bisan sa ilang pagkagamhanan.</para>
   <para style="q1" vid="MIC 7:16">Ug dili na sila magsulti ug mamati</para>
-  <para style="q2" vid="MIC 7:16">sa mga pagbiay-biay kanamo.<verse eid="MIC 7:16"/></para>
+  <para style="q2" vid="MIC 7:16">sa mga pagbiay-biay kanamo.<verse eid="MIC 7:16" /></para>
   <para style="q1">
-    <verse number="17" style="v" sid="MIC 7:17"/>Magkamang sila sa yuta sama sa bitin</para>
+    <verse number="17" style="v" sid="MIC 7:17" />Magkamang sila sa yuta sama sa bitin</para>
   <para style="q2" vid="MIC 7:17">tungod sa kaulaw.</para>
   <para style="q1" vid="MIC 7:17">Manggawas sila sa ilang mga tago-anan</para>
   <para style="q2" vid="MIC 7:17">nga nagkurog sa kahadlok kanimo,</para>
   <para style="q2" vid="MIC 7:17">
-    <char style="nd">Ginoo</char> nga among Dios.<verse eid="MIC 7:17"/></para>
+    <char style="nd">Ginoo</char> nga among Dios.<verse eid="MIC 7:17" /></para>
   <para style="q1">
-    <verse number="18" style="v" sid="MIC 7:18"/>
+    <verse number="18" style="v" sid="MIC 7:18" />
     <char style="nd">Ginoo</char>, wala nay laing Dios nga sama kanimo.</para>
   <para style="q2" vid="MIC 7:18">Gipasaylo mo ang mga sala sa nahibiling katawhan</para>
   <para style="q2" vid="MIC 7:18">nga imong gipanag-iya.</para>
   <para style="q1" vid="MIC 7:18">Dili ka maghambin ug kasuko hangtod sa hangtod</para>
-  <para style="q2" vid="MIC 7:18">tungod kay gikalipay mo ang paghigugma kanamo.<verse eid="MIC 7:18"/></para>
+  <para style="q2" vid="MIC 7:18">tungod kay gikalipay mo ang paghigugma kanamo.<verse eid="MIC 7:18" /></para>
   <para style="q1">
-    <verse number="19" style="v" sid="MIC 7:19"/>Kaloy-i kami pag-usab ug kuhaa ang among mga sala</para>
-  <para style="q2" vid="MIC 7:19">ug ayaw na kini hinumdomi pa.<note caller="+" style="f"><char style="fr" closed="false">7:19 </char><char style="fq" closed="false">kuhaa…hinumdomi pa</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">pildiha ang among mga sala ug ilabay kini sa kinahiladman sa dagat.</char></note><verse eid="MIC 7:19"/></para>
+    <verse number="19" style="v" sid="MIC 7:19" />Kaloy-i kami pag-usab ug kuhaa ang among mga sala</para>
+  <para style="q2" vid="MIC 7:19">ug ayaw na kini hinumdomi pa.<note caller="+" style="f"><char style="fr" closed="false">7:19 </char><char style="fq" closed="false">kuhaa…hinumdomi pa</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">pildiha ang among mga sala ug ilabay kini sa kinahiladman sa dagat.</char></note><verse eid="MIC 7:19" /></para>
   <para style="q1">
-    <verse number="20" style="v" sid="MIC 7:20"/>Ipakita mo ang imong pagkamatinud-anon</para>
+    <verse number="20" style="v" sid="MIC 7:20" />Ipakita mo ang imong pagkamatinud-anon</para>
   <para style="q2" vid="MIC 7:20">ug paghigugma kanamo nga mga kaliwat ni Abraham ug ni Jacob,</para>
-  <para style="q2" vid="MIC 7:20">sama sa imong gisaad kanila kaniadto sa unang panahon.<verse eid="MIC 7:20"/></para>
-  <chapter eid="MIC 7"/>
+  <para style="q2" vid="MIC 7:20">sama sa imong gisaad kanila kaniadto sa unang panahon.<verse eid="MIC 7:20" /></para>
+  <chapter eid="MIC 7" />
 </usx>

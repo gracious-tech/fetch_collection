@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<usx version="2.0">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
   <book code="3JN" style="id">- POGORO</book>
   <para style="h">3 YOHANI</para>
   <para style="toc1">Luhamba lwa tatu lwa Yohani</para>
@@ -8,31 +8,32 @@
   <para style="mt2">LUHAMBA LWA TATU LWA</para>
   <para style="mt1">YOHANI</para>
   <para style="imt">ULONGOLERU</para>
-  <para style="ip">Luhamba lwa tatu lwa Yohani lulembitwi na ntumintumi Yohani mushipindi sha shinja sha malongu tisa Pakwiyuka Yesu. Yohani kalilanguziya ndiri kuwera mweni ndo mlemba gwa luhamba alu, kumbiti mweni kalishema kuwera mzewi (3Yohani 1:1). Mweni katenditi hangu ntambu yakatenditi muluhamba lwa pili lwa Yohani (1:1). Ijimirwa kuwera Yohani kashilembiti Shisoweru Shiwagira pamuhera na mahamba galii matatu, luhamba lwa kwanja lwa Yohani na luhamba lwa pili lwa Yohani na luhamba lwa tatu lwa Yohani, shipindi pakaweriti kankulikala Efesu. Yohani kamlembiriti luhamba alu Gayu muntu yakamjimiriti Yesu. Kamlanguziya Gayu kuwera ganja na kamlagalira kuwera muheri kwa walongu yawamjimira Yesu, womberi yawaweriti mumwanja kupitira muisi ilii.</para>
+  <para style="ip">Luhamba lwa tatu lwa Yohani lulembitwi na ntumintumi Yohani mushaka sha shinja sha malongu tisa Pakwiyuka Yesu. Yohani kalilanguziya ndiri kuwera mweni ndo mlemba gwa luhamba alu, kumbiti mweni kalishema kuwera mzewi (3Yohani 1:1). Mweni katenditi hangu ntambu yakatenditi muluhamba lwa pili lwa Yohani (1:1). Ijimirwa kuwera Yohani kashilembiti Shisoweru Shiwagira pamuhera na mahamba galii matatu, luhamba lwa kwanja lwa Yohani na luhamba lwa pili lwa Yohani na luhamba lwa tatu lwa Yohani, shaka pakaweriti kankulikala Efesu. Yohani kamlembiriti luhamba alu Gayu muntu yakamjimiriti Yesu. Kamlanguziya Gayu kuwera ganja na kamlagalira kuwera muheri kwa walongu yawamjimira Yesu, womberi yawaweriti mumwanja kupitira muisi ilii.</para>
   <para style="iot">Yagaweramu</para>
   <para style="io">Yohani kankulutenda lumanikani luhamba lwakuwi (3Yoh 1:1).</para>
   <para style="io">Shakapanu kankumpanana moyu Gayu na kumlagalira Gayu kulilanguziya kwa muheri kwa walongu yawamjimira Yesu, (3Yoh 1:2-8).</para>
   <para style="io">Shakapanu kankuwayowelera wantu wamonga wawili, Diutirifi na Dimitiriwu, 3Yoh 1:9-12</para>
   <para style="io">Yohani kankumalilira luhamba lwakuwi, 3 Yoh1:13-14.</para>
-  <chapter number="1" style="c"/>
+  <chapter number="1" style="c" sid="3JN 1" />
   <para style="p">
-    <verse number="1" style="v"/>Kulawa kwa neni mzewi mlongoziya, nukulembera gwenga Gayu, ganja gwangu yanukufira muwunakaka.</para>
+    <verse number="1" style="v" sid="3JN 1:1" />Kulawa kwa neni mzewi mlongoziya, nukulembera gwenga Gayu, ganja gwangu yanukufira muwunakaka.<verse eid="3JN 1:1" /></para>
   <para style="p">
-    <verse number="2" style="v"/>Ganja gwangu, nukuluwira kwa Mlungu gupananwi vitwatira viheri, viraa nukuluwira kwa Mlungu guweri mkomu munshimba ntambu yaguwera mkomu murohu. <verse number="3" style="v"/>Nemeleriti nentu walongu wamu pawasokiti panu, wang'ambira kuusu ujimirika waku muwunakaka, na ntambu yagwendereya kulikala muwunakaka. <verse number="4" style="v"/>Kwa hera shintu shashinemeleziya nentu kuliku kupikinira kuwera wana wangu walikala munakaka.</para>
+    <verse number="2" style="v" sid="3JN 1:2" />Ganja gwangu, nukuluwira kwa Mlungu gupananwi vitwatira viheri, viraa nukuluwira kwa Mlungu guweri mkomu munshimba ntambu yaguwera mkomu murohu. <verse eid="3JN 1:2" /><verse number="3" style="v" sid="3JN 1:3" />Nemeleriti nentu walongu wamu pawasokiti panu, wang'ambira kuusu ujimirika waku muwunakaka, na ntambu yagwendereya kulikala muwunakaka. <verse eid="3JN 1:3" /><verse number="4" style="v" sid="3JN 1:4" />Kwahera shintu shashinemeleziya nentu kuliku kupikinira kuwera wana wangu walikala munakaka.<verse eid="3JN 1:4" /></para>
   <para style="s">Kuwatendera walongu yawamjimira Kristu</para>
   <para style="p">
-    <verse number="5" style="v"/>Ganja gwangu, gwenga gujimirika kwa galii gaguwatendera walongu, tembera weni wawera wahenga kwa gwenga. <verse number="6" style="v"/>Walongu washigambira shipinga sha wantu yawamjimira Yesu kuusu ufiru wakuwi. Shondi guwatangi kwa ntambu yayimfiriziya Mlungu, wendereyi na mwanja gwawu. <verse number="7" style="v"/>Toziya wankwanja mwanja gwawu muwuntumini wa Kristu pota kwanka utanga woseri kulawa kwa wantu yawamumana ndiri Mlungu. <verse number="8" style="v"/>Su twenga tufiruwa kuwatanga wantu gambira awa, na twenga tupati kutenda lihengu pamuhera nawomberi kwajili ya unakaka.</para>
+    <verse number="5" style="v" sid="3JN 1:5" />Ganja gwangu, gwenga gujimirika kwa galii gaguwatendera walongu, tembera weni wawera wahenga kwa gwenga. <verse eid="3JN 1:5" /><verse number="6" style="v" sid="3JN 1:6" />Walongu washigambira shipinga sha wantu yawamjimira Yesu kuusu ufiru wakuwi. Shondi guwatangi kwa ntambu yayimfiriziya Mlungu, wendereyi na mwanja gwawu. <verse eid="3JN 1:6" /><verse number="7" style="v" sid="3JN 1:7" />Toziya wankwanja mwanja gwawu muwuntumintumi wa Kristu pota kwanka utanga woseri kulawa kwa wantu yawamumana ndiri Mlungu. <verse eid="3JN 1:7" /><verse number="8" style="v" sid="3JN 1:8" />Su twenga tufiruwa kuwatanga wantu gambira awa, na twenga tupati kutenda lihengu pamuhera nawomberi kwajili ya unakaka.<verse eid="3JN 1:8" /></para>
   <para style="s">Diwutirifi na Dimitiriwu</para>
   <para style="p">
-    <verse number="9" style="v"/>Nembiti luhamba kwa shipinga sha wantu yawamjimira Yesu, kumbiti Diwutirifi, yakafiraga kuwera mlongoziya gwawu, kalema nakaka kutenda pamuhera na twenga. <verse number="10" style="v"/>Su pansoka hananguziyi paweru vitwatira vyoseri vyakatenda, visoweru vidoda na upayira vyakatakula kuusu twenga. Viraa mweni kalema kuwashemera walongu yawawera mumwanja. Na kawalewelera wamonga yawafira kuwashemera, kawalewelera na kawawinga kunja kwa shipinga sha wantu yawamjimira Yesu.</para>
+    <verse number="9" style="v" sid="3JN 1:9" />Nembiti luhamba kwa shipinga sha wantu yawamjimira Yesu, kumbiti Diwutirifi, yakafiraga kuwera mlongoziya gwawu, kalema nakaka kutenda pamuhera na twenga. <verse eid="3JN 1:9" /><verse number="10" style="v" sid="3JN 1:10" />Su pansoka hananguziyi paweru vitwatira vyoseri vyakatenda, visoweru vidoda na upayira vyakatakula kuusu twenga. Viraa mweni kalema kuwashemera walongu yawawera mumwanja. Na kawalewelera wamonga yawafira kuwashemera, kawalewelera na kuwawinga kunja kwa shipinga sha wantu yawamjimira Yesu.<verse eid="3JN 1:10" /></para>
   <para style="p">
-    <verse number="11" style="v"/>Ganja gwangu, nagufata mfanu gwa ukondola kumbiti gufati mfanu gwagumfiriziya Mlungu. Kila yakatenda gaherepa kawera gwa Mlungu, kumbiti yakatenda ukondola, yomberi kamumana ndiri Mlungu.</para>
+    <verse number="11" style="v" sid="3JN 1:11" />Ganja gwangu, nagufata mfanu gwa ukondola kumbiti gufati mfanu gwagumfiriziya Mlungu. Kila yakatenda gaherepa kawera gwa Mlungu, kumbiti yakatenda ukondola, yomberi kamumana ndiri Mlungu.<verse eid="3JN 1:11" /></para>
   <para style="p">
-    <verse number="12" style="v"/>Kila muntu kamkapitawulira Demetiriu, na unakaka weni umkapitawulira. Na twenga viraa twankumkapitawulira na gwenga guvimana kuwera ukapitawu wa twenga ndo wa nakaka.</para>
+    <verse number="12" style="v" sid="3JN 1:12" />Kila muntu kamkapitawulira Demetiriu, na unakaka weni umkapitawulira. Na twenga viraa twankumkapitawulira na gwenga guvimana kuwera ukapitawu wa twenga ndo wa nakaka.<verse eid="3JN 1:12" /></para>
   <para style="s">Malamusiwu ga kupelera</para>
   <para style="p">
-    <verse number="13" style="v"/>Nweriti na gavuwa ganfiriti kukulembera, kumbiti hapeni nugalembi. <verse number="14" style="v"/>Ntumbira kukuwona mashaka galaa aga na hatuyoweri.</para>
+    <verse number="13" style="v" sid="3JN 1:13" />Nweriti na gavuwa ganfiriti kukulembera, kumbiti hapeni nugalembi. <verse eid="3JN 1:13" /><verse number="14" style="v" sid="3JN 1:14" />Ntumbira kukuwona mashaka galaa aga na hatuyoweri.<verse eid="3JN 1:14" /></para>
   <para style="p">
-    <verse number="15" style="v"/>Ponga iweri pamuhera na gwenga.</para>
-  <para style="p">Waganja waku wa panu wakulamusiya. Guwalamusiyi waganja wetu woseri yawawera aku, kila muntu.</para>
+    <verse number="15" style="v" sid="3JN 1:15" />Ponga iweri pamuhera na gwenga.</para>
+  <para style="p" vid="3JN 1:15">Waganja waku wa panu wakulamusiya. Guwalamusiyi waganja wetu woseri yawawera aku, kila muntu.<verse eid="3JN 1:15" /></para>
+  <chapter eid="3JN 1" />
 </usx>

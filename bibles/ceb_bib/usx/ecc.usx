@@ -1,174 +1,175 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <usx version="3.0">
-  <book code="ECC" style="id">- Biblica® Open Cebuano Contemporary Bible 2024</book>
+  <book code="ECC" style="id">- Biblica® Open Cebuano Contemporary Bible (Biblica® Open Ang Pulong sa Dios)</book>
+  
   <para style="h">Ecclesiastes</para>
   <para style="toc1">Ang Libro sa Ecclesiastes</para>
   <para style="toc2">Ecclesiastes</para>
   <para style="toc3">Ecc.</para>
   <para style="mt3">Ang Libro sa</para>
   <para style="mt1">Ecclesiastes</para>
-  <chapter number="1" style="c" sid="ECC 1"/>
+  <chapter number="1" style="c" sid="ECC 1" />
   <para style="s1">Walay Kapuslanan ang Tanan</para>
   <para style="p">
-    <verse number="1" style="v" sid="ECC 1:1"/>Mao kini ang gipamulong sa usa ka magwawali<note caller="+" style="f"><char style="fr" closed="false">1:1 </char><char style="fq" closed="false">magwawali</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">magtutudlo</char><char style="ft" closed="false">; o </char><char style="fqa" closed="false">maalamon nga tawo.</char></note> nga anak ni David ug hari sa Jerusalem:<verse eid="ECC 1:1"/></para>
+    <verse number="1" style="v" sid="ECC 1:1" />Mao kini ang gipamulong sa usa ka magwawali<note caller="+" style="f"><char style="fr" closed="false">1:1 </char><char style="fq" closed="false">magwawali</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">magtutudlo</char><char style="ft" closed="false">; o </char><char style="fqa" closed="false">maalamon nga tawo.</char></note> nga anak ni David ug hari sa Jerusalem:<verse eid="ECC 1:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="ECC 1:2"/>Walay kapuslanan!</para>
-  <para style="q2" vid="ECC 1:2">Wala gayoy kapuslanan ang tanan!<verse eid="ECC 1:2"/></para>
+    <verse number="2" style="v" sid="ECC 1:2" />Walay kapuslanan!</para>
+  <para style="q2" vid="ECC 1:2">Wala gayoy kapuslanan ang tanan!<verse eid="ECC 1:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="ECC 1:3"/>Unsay makuha sa tawo sa iyang paghago</para>
-  <para style="q2" vid="ECC 1:3">dinhi sa kalibotan?<verse eid="ECC 1:3"/></para>
+    <verse number="3" style="v" sid="ECC 1:3" />Unsay makuha sa tawo sa iyang paghago</para>
+  <para style="q2" vid="ECC 1:3">dinhi sa kalibotan?<verse eid="ECC 1:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="ECC 1:4"/>Mahanaw ang usa ka henerasyon ug mopuli usab ang lain,</para>
-  <para style="q2" vid="ECC 1:4">apan ang kalibotan mao lang gihapon.<verse eid="ECC 1:4"/></para>
+    <verse number="4" style="v" sid="ECC 1:4" />Mahanaw ang usa ka henerasyon ug mopuli usab ang lain,</para>
+  <para style="q2" vid="ECC 1:4">apan ang kalibotan mao lang gihapon.<verse eid="ECC 1:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="ECC 1:5"/>Mosidlak ang adlaw ug unya mosalop,</para>
+    <verse number="5" style="v" sid="ECC 1:5" />Mosidlak ang adlaw ug unya mosalop,</para>
   <para style="q2" vid="ECC 1:5">unya magdali kini pagbalik sa dapit nga iyang gigikanan</para>
-  <para style="q2" vid="ECC 1:5">aron mosidlak pag-usab.<verse eid="ECC 1:5"/></para>
+  <para style="q2" vid="ECC 1:5">aron mosidlak pag-usab.<verse eid="ECC 1:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="ECC 1:6"/>Mohuyop ang hangin ngadto sa habagatan</para>
+    <verse number="6" style="v" sid="ECC 1:6" />Mohuyop ang hangin ngadto sa habagatan</para>
   <para style="q2" vid="ECC 1:6">ug unya ngadto sa amihan;</para>
-  <para style="q2" vid="ECC 1:6">magtuyok-tuyok lang kini ug magbalik-balik.<verse eid="ECC 1:6"/></para>
+  <para style="q2" vid="ECC 1:6">magtuyok-tuyok lang kini ug magbalik-balik.<verse eid="ECC 1:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="ECC 1:7"/>Ang tanang suba nagdagayday padulong sa dagat,</para>
+    <verse number="7" style="v" sid="ECC 1:7" />Ang tanang suba nagdagayday padulong sa dagat,</para>
   <para style="q2" vid="ECC 1:7">apan wala kini napuno bisan walay hunong</para>
-  <para style="q2" vid="ECC 1:7">ang pagdagayday sa mga suba.<note caller="+" style="f"><char style="fr" closed="false">1:7 </char><char style="fq" closed="false">bisan walay hunong ang pagdagayday sa mga suba</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">unya nagbalik ang tubig sa iyang gigikanan ug nagdagayday pabalik sa dagat.</char></note><verse eid="ECC 1:7"/></para>
+  <para style="q2" vid="ECC 1:7">ang pagdagayday sa mga suba.<note caller="+" style="f"><char style="fr" closed="false">1:7 </char><char style="fq" closed="false">bisan walay hunong ang pagdagayday sa mga suba</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">unya nagbalik ang tubig sa iyang gigikanan ug nagdagayday pabalik sa dagat.</char></note><verse eid="ECC 1:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="ECC 1:8"/>Kining tanang mga butanga makalalaay nga dili ikasaysay.</para>
+    <verse number="8" style="v" sid="ECC 1:8" />Kining tanang mga butanga makalalaay nga dili ikasaysay.</para>
   <para style="q2" vid="ECC 1:8">Dili matagbaw ang atong mga mata</para>
-  <para style="q2" vid="ECC 1:8">ug mga dalunggan sa atong makita ug madungog.<verse eid="ECC 1:8"/></para>
+  <para style="q2" vid="ECC 1:8">ug mga dalunggan sa atong makita ug madungog.<verse eid="ECC 1:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="ECC 1:9"/>Ang nahitabo kaniadto mahitabo pag-usab.</para>
+    <verse number="9" style="v" sid="ECC 1:9" />Ang nahitabo kaniadto mahitabo pag-usab.</para>
   <para style="q2" vid="ECC 1:9">Ang gihimo kaniadto himuon pag-usab.</para>
-  <para style="q2" vid="ECC 1:9">Wala gayoy bag-o nga nahitabo sa kalibotan.<verse eid="ECC 1:9"/></para>
+  <para style="q2" vid="ECC 1:9">Wala gayoy bag-o nga nahitabo sa kalibotan.<verse eid="ECC 1:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="ECC 1:10"/>Adunay butang pa ba nga imong maingon nga bag-o?</para>
-  <para style="q2" vid="ECC 1:10">Nahitabo na kana kaniadto sa wala pa kita matawo.<verse eid="ECC 1:10"/></para>
+    <verse number="10" style="v" sid="ECC 1:10" />Adunay butang pa ba nga imong maingon nga bag-o?</para>
+  <para style="q2" vid="ECC 1:10">Nahitabo na kana kaniadto sa wala pa kita matawo.<verse eid="ECC 1:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="ECC 1:11"/>Wala nay nahinumdom sa nanglabay nga mga panghitabo;</para>
+    <verse number="11" style="v" sid="ECC 1:11" />Wala nay nahinumdom sa nanglabay nga mga panghitabo;</para>
   <para style="q2" vid="ECC 1:11">mao man usab ang mosunod nga mga panghitabo,</para>
   <para style="q1" vid="ECC 1:11">dili usab kini mahinumdoman sa mga tawo</para>
-  <para style="q2" vid="ECC 1:11">sa umaabot nga henerasyon.<verse eid="ECC 1:11"/></para>
+  <para style="q2" vid="ECC 1:11">sa umaabot nga henerasyon.<verse eid="ECC 1:11" /></para>
   <para style="s1">Ang Kaalam sa Tawo Walay Kapuslanan</para>
   <para style="p">
-    <verse number="12" style="v" sid="ECC 1:12"/>Ako nga usa ka magwawali naghari sa Israel, ug nagpuyo ako sa Jerusalem. <verse eid="ECC 1:12"/><verse number="13" style="v" sid="ECC 1:13"/>Sa akong kaalam, gitun-an ko gayod pag-ayo ang tanang nahitabo dinhi sa kalibotan. Usa kini ka pait nga kapalaran nga gihatag sa Dios ngadto sa mga tawo. <verse eid="ECC 1:13"/><verse number="14" style="v" sid="ECC 1:14"/>Nakita ko ang tanang ginahimo dinhi sa kalibotan, ug kining tanan walay kapuslanan; sama kini ka walay pulos sa paggukod ug hangin.<verse eid="ECC 1:14"/></para>
+    <verse number="12" style="v" sid="ECC 1:12" />Ako nga usa ka magwawali naghari sa Israel, ug nagpuyo ako sa Jerusalem. <verse eid="ECC 1:12" /><verse number="13" style="v" sid="ECC 1:13" />Sa akong kaalam, gitun-an ko gayod pag-ayo ang tanang nahitabo dinhi sa kalibotan. Usa kini ka pait nga kapalaran nga gihatag sa Dios ngadto sa mga tawo. <verse eid="ECC 1:13" /><verse number="14" style="v" sid="ECC 1:14" />Nakita ko ang tanang ginahimo dinhi sa kalibotan, ug kining tanan walay kapuslanan; sama kini ka walay pulos sa paggukod ug hangin.<verse eid="ECC 1:14" /></para>
   <para style="q1">
-    <verse number="15" style="v" sid="ECC 1:15"/>Ang baliko dili matul-id,</para>
-  <para style="q2" vid="ECC 1:15">ug dili maihap ang wala diha.<verse eid="ECC 1:15"/></para>
+    <verse number="15" style="v" sid="ECC 1:15" />Ang baliko dili matul-id,</para>
+  <para style="q2" vid="ECC 1:15">ug dili maihap ang wala diha.<verse eid="ECC 1:15" /></para>
   <para style="p">
-    <verse number="16" style="v" sid="ECC 1:16"/>Miingon ako sa akong kaugalingon, “Mas maalamon gayod ako kay sa tanang naghari sa Jerusalem una kanako. Daghan gayod akog nahibaloan.” <verse eid="ECC 1:16"/><verse number="17" style="v" sid="ECC 1:17"/>Gitun-an ko pag-ayo ang kalainan sa kaalam ug binuang, apan nasuta ko nga kini walay kapuslanan; sama lang kini sa naggukod ka sa hangin.<verse eid="ECC 1:17"/></para>
+    <verse number="16" style="v" sid="ECC 1:16" />Miingon ako sa akong kaugalingon, “Mas maalamon gayod ako kay sa tanang naghari sa Jerusalem una kanako. Daghan gayod akog nahibaloan.” <verse eid="ECC 1:16" /><verse number="17" style="v" sid="ECC 1:17" />Gitun-an ko pag-ayo ang kalainan sa kaalam ug binuang, apan nasuta ko nga kini walay kapuslanan; sama lang kini sa naggukod ka sa hangin.<verse eid="ECC 1:17" /></para>
   <para style="q1">
-    <verse number="18" style="v" sid="ECC 1:18"/>Kay sa magkadugang ang kahibalo ug kaalam,</para>
-  <para style="q2" vid="ECC 1:18">magdugang usab ang kasakit ug pag-antos.<verse eid="ECC 1:18"/></para>
-  <chapter eid="ECC 1"/>
-  <chapter number="2" style="c" sid="ECC 2"/>
+    <verse number="18" style="v" sid="ECC 1:18" />Kay sa magkadugang ang kahibalo ug kaalam,</para>
+  <para style="q2" vid="ECC 1:18">magdugang usab ang kasakit ug pag-antos.<verse eid="ECC 1:18" /></para>
+  <chapter eid="ECC 1" />
+  <chapter number="2" style="c" sid="ECC 2" />
   <para style="s1">Ang Paghudyaka Walay Kapuslanan</para>
   <para style="p">
-    <verse number="1" style="v" sid="ECC 2:1"/>Gisulayan ko nga magpatuyang sa kalipay sa kinabuhi. Apan nasuta ko nga kini wala gihapoy kapuslanan. <verse eid="ECC 2:1"/><verse number="2" style="v" sid="ECC 2:2"/>Ang pagkatawa usa ka binuang. Ug unsa may kaayohan nga mahimo sa paghudyaka? <verse eid="ECC 2:2"/><verse number="3" style="v" sid="ECC 2:3"/>Gisulayan ko nga lipayon ang akong kaugalingon pinaagi sa pag-inom ug bino. Bisan pa sa akong pagkamaalamon, gisulayan ko ang pagbuhat ug mga binuang. Naghuna-huna ako nga tingalig mao kini ang labing maayo nga himuon sa tawo sa iyang hamubo nga panahon sa pagkinabuhi dinhi sa kalibotan.<verse eid="ECC 2:3"/></para>
+    <verse number="1" style="v" sid="ECC 2:1" />Gisulayan ko nga magpatuyang sa kalipay sa kinabuhi. Apan nasuta ko nga kini wala gihapoy kapuslanan. <verse eid="ECC 2:1" /><verse number="2" style="v" sid="ECC 2:2" />Ang pagkatawa usa ka binuang. Ug unsa may kaayohan nga mahimo sa paghudyaka? <verse eid="ECC 2:2" /><verse number="3" style="v" sid="ECC 2:3" />Gisulayan ko nga lipayon ang akong kaugalingon pinaagi sa pag-inom ug bino. Bisan pa sa akong pagkamaalamon, gisulayan ko ang pagbuhat ug mga binuang. Naghuna-huna ako nga tingalig mao kini ang labing maayo nga himuon sa tawo sa iyang hamubo nga panahon sa pagkinabuhi dinhi sa kalibotan.<verse eid="ECC 2:3" /></para>
   <para style="p">
-    <verse number="4" style="v" sid="ECC 2:4"/>Naghimo akog dagkong mga butang: nagpatukod ako ug mga balay alang sa akong kaugalingon ug nagtanom ug mga ubas. <verse eid="ECC 2:4"/><verse number="5" style="v" sid="ECC 2:5"/>Nagpahimo akog mga tamnanan ug gipatamnan ko kinig nagkalain-laing klasi sa mga prutas. <verse eid="ECC 2:5"/><verse number="6" style="v" sid="ECC 2:6"/>Nagpahimo ako ug irigasyon sa pagpatubig niini. <verse eid="ECC 2:6"/><verse number="7" style="v" sid="ECC 2:7"/>Namalit ako ug mga ulipon nga lalaki ug babaye, ug aduna usab akoy mga ulipon nga natawo sa akong panimalay. Mas daghan ako ug kahayopan kaysa tanang nahauna kanako pagpuyo sa Jerusalem. <verse eid="ECC 2:7"/><verse number="8" style="v" sid="ECC 2:8"/>Daghan akog natigom nga mga bulawan ug pilak ug uban pang mga bahandi gikan sa mga hari sa mga dapit nga akong gidumalahan. Daghan akog mga mag-aawit nga lalaki ug babaye, ug daghan usab akog maanyag nga mga babaye nga mao ang kalipay sa mga lalaki. <verse eid="ECC 2:8"/><verse number="9" style="v" sid="ECC 2:9"/>Ako ang labing adunahan nga tawo nga nakapuyo sa Jerusalem, ug nagpabilin kanako ang akong kaalam.<verse eid="ECC 2:9"/></para>
+    <verse number="4" style="v" sid="ECC 2:4" />Naghimo akog dagkong mga butang: nagpatukod ako ug mga balay alang sa akong kaugalingon ug nagtanom ug mga ubas. <verse eid="ECC 2:4" /><verse number="5" style="v" sid="ECC 2:5" />Nagpahimo akog mga tamnanan ug gipatamnan ko kinig nagkalain-laing klasi sa mga prutas. <verse eid="ECC 2:5" /><verse number="6" style="v" sid="ECC 2:6" />Nagpahimo ako ug irigasyon sa pagpatubig niini. <verse eid="ECC 2:6" /><verse number="7" style="v" sid="ECC 2:7" />Namalit ako ug mga ulipon nga lalaki ug babaye, ug aduna usab akoy mga ulipon nga natawo sa akong panimalay. Mas daghan ako ug kahayopan kaysa tanang nahauna kanako pagpuyo sa Jerusalem. <verse eid="ECC 2:7" /><verse number="8" style="v" sid="ECC 2:8" />Daghan akog natigom nga mga bulawan ug pilak ug uban pang mga bahandi gikan sa mga hari sa mga dapit nga akong gidumalahan. Daghan akog mga mag-aawit nga lalaki ug babaye, ug daghan usab akog maanyag nga mga babaye nga mao ang kalipay sa mga lalaki. <verse eid="ECC 2:8" /><verse number="9" style="v" sid="ECC 2:9" />Ako ang labing adunahan nga tawo nga nakapuyo sa Jerusalem, ug nagpabilin kanako ang akong kaalam.<verse eid="ECC 2:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="ECC 2:10"/>Nakuha ko ang tanan kong gusto.</para>
+    <verse number="10" style="v" sid="ECC 2:10" />Nakuha ko ang tanan kong gusto.</para>
   <para style="q2" vid="ECC 2:10">Gihimo ko ang bisan unsa nga makalipay kanako.</para>
   <para style="q1" vid="ECC 2:10">Nalipay gayod ako sa tanan nakong gihimo,</para>
-  <para style="q2" vid="ECC 2:10">ug mao kini ang balos sa akong paghago.<verse eid="ECC 2:10"/></para>
+  <para style="q2" vid="ECC 2:10">ug mao kini ang balos sa akong paghago.<verse eid="ECC 2:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="ECC 2:11"/>Apan sa dihang gihuna-huna ko pag-ayo ang tanan kong nahimo,</para>
+    <verse number="11" style="v" sid="ECC 2:11" />Apan sa dihang gihuna-huna ko pag-ayo ang tanan kong nahimo,</para>
   <para style="q2" vid="ECC 2:11">nasuta ko nga kining tanan walay kapuslanan;</para>
   <para style="q2" vid="ECC 2:11">sama lang nga naggukod ako sa hangin.</para>
   <para style="q1" vid="ECC 2:11">Wala gayoy kaayohan nga makuha</para>
-  <para style="q2" vid="ECC 2:11">sa paghago dinhi sa kalibotan.<verse eid="ECC 2:11"/></para>
+  <para style="q2" vid="ECC 2:11">sa paghago dinhi sa kalibotan.<verse eid="ECC 2:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="ECC 2:12"/>Unsa pa may mahimo sa mosunod nga mga hari</para>
+    <verse number="12" style="v" sid="ECC 2:12" />Unsa pa may mahimo sa mosunod nga mga hari</para>
   <para style="q2" vid="ECC 2:12">kondili ang gipanghimo na sa nahauna kaniya.</para>
-  <para style="q2" vid="ECC 2:12">Busa gisulayan ko usab pagtandi ang kaalam ug ang kabuang.<verse eid="ECC 2:12"/></para>
+  <para style="q2" vid="ECC 2:12">Busa gisulayan ko usab pagtandi ang kaalam ug ang kabuang.<verse eid="ECC 2:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="ECC 2:13"/>Ug nakita ko nga mas maayo ang kaalam kaysa kabuang,</para>
-  <para style="q2" vid="ECC 2:13">sama nga ang kahayag maayo kaysa kangitngit.<verse eid="ECC 2:13"/></para>
+    <verse number="13" style="v" sid="ECC 2:13" />Ug nakita ko nga mas maayo ang kaalam kaysa kabuang,</para>
+  <para style="q2" vid="ECC 2:13">sama nga ang kahayag maayo kaysa kangitngit.<verse eid="ECC 2:13" /></para>
   <para style="q1">
-    <verse number="14" style="v" sid="ECC 2:14"/>Ang tawong maalamon makakita sa iyang padulngan,</para>
+    <verse number="14" style="v" sid="ECC 2:14" />Ang tawong maalamon makakita sa iyang padulngan,</para>
   <para style="q2" vid="ECC 2:14">apan ang buang-buang wala masayod kon asa siya padulong.</para>
-  <para style="q2" vid="ECC 2:14">Apan nasuta ko nga usa ray ilang dangatan.<verse eid="ECC 2:14"/></para>
+  <para style="q2" vid="ECC 2:14">Apan nasuta ko nga usa ray ilang dangatan.<verse eid="ECC 2:14" /></para>
   <para style="q1">
-    <verse number="15" style="v" sid="ECC 2:15"/>Busa miingon ako sa akong kaugalingon,</para>
+    <verse number="15" style="v" sid="ECC 2:15" />Busa miingon ako sa akong kaugalingon,</para>
   <para style="q2" vid="ECC 2:15">“Kon unsa ang mahitabo sa buang-buang mao usab ang mahitabo kanako.</para>
   <para style="q1" vid="ECC 2:15">Busa unsay nakuha ko sa akong labihan nga pagkamaalamon?</para>
-  <para style="q2" vid="ECC 2:15">Wala gihapon kini kapuslanan!<verse eid="ECC 2:15"/></para>
+  <para style="q2" vid="ECC 2:15">Wala gihapon kini kapuslanan!<verse eid="ECC 2:15" /></para>
   <para style="q1">
-    <verse number="16" style="v" sid="ECC 2:16"/>Kitang tanan, maalamon man o buang-buang,</para>
-  <para style="q2" vid="ECC 2:16">mamatay ug malimtan ra sa kaulahian.”<verse eid="ECC 2:16"/></para>
+    <verse number="16" style="v" sid="ECC 2:16" />Kitang tanan, maalamon man o buang-buang,</para>
+  <para style="q2" vid="ECC 2:16">mamatay ug malimtan ra sa kaulahian.”<verse eid="ECC 2:16" /></para>
   <para style="p">
-    <verse number="17" style="v" sid="ECC 2:17"/>Busa naglagot ako sa kinabuhi, kay ang mga buluhaton dinhi sa kalibotan nagdala lang kanako ug kalisod. Kining tanan walay kapuslanan; sama lang nga naggukod ako sa hangin. <verse eid="ECC 2:17"/><verse number="18" style="v" sid="ECC 2:18"/>Naglagot ako kay ang tanang gihagoan ko dinhi sa kalibotan ibilin ko man lang sa mosunod kanako. <verse eid="ECC 2:18"/><verse number="19" style="v" sid="ECC 2:19"/>Ug kinsa ang nasayod kon maalamon ba siya o buang-buang? Apan bisan unsa pa siya, siya gihapon ang makapanag-iya sa tanan kong gihagoan sa tibuok kong kusog ug kaalam. Wala usab kini kapuslanan! <verse eid="ECC 2:19"/><verse number="20" style="v" sid="ECC 2:20"/>Busa nagmahay ako nga naghago ako pag-ayo dinhi sa kalibotan. <verse eid="ECC 2:20"/><verse number="21" style="v" sid="ECC 2:21"/>Kay bisan maghago ka pa ginamit ang tibuok mong kaalam, kahibalo, ug abilidad, ibilin mo lang gihapon ang tanan nga gihagoan mo sa tawo nga wala maghago alang niini. Wala usab kini kapuslanan, ug dili makatarunganon. <verse eid="ECC 2:21"/><verse number="22" style="v" sid="ECC 2:22"/>Unsay makuha sa tawo sa iyang paghago ug pagpaningkamot dinhi sa kalibotan? <verse eid="ECC 2:22"/><verse number="23" style="v" sid="ECC 2:23"/>Ang tanang adlaw sa iyang kinabuhi puno sa problema ug kasakit. Bisan sa gabii dili makapahulay ang iyang huna-huna. Wala usab kini kapuslanan!<verse eid="ECC 2:23"/></para>
+    <verse number="17" style="v" sid="ECC 2:17" />Busa naglagot ako sa kinabuhi, kay ang mga buluhaton dinhi sa kalibotan nagdala lang kanako ug kalisod. Kining tanan walay kapuslanan; sama lang nga naggukod ako sa hangin. <verse eid="ECC 2:17" /><verse number="18" style="v" sid="ECC 2:18" />Naglagot ako kay ang tanang gihagoan ko dinhi sa kalibotan ibilin ko man lang sa mosunod kanako. <verse eid="ECC 2:18" /><verse number="19" style="v" sid="ECC 2:19" />Ug kinsa ang nasayod kon maalamon ba siya o buang-buang? Apan bisan unsa pa siya, siya gihapon ang makapanag-iya sa tanan kong gihagoan sa tibuok kong kusog ug kaalam. Wala usab kini kapuslanan! <verse eid="ECC 2:19" /><verse number="20" style="v" sid="ECC 2:20" />Busa nagmahay ako nga naghago ako pag-ayo dinhi sa kalibotan. <verse eid="ECC 2:20" /><verse number="21" style="v" sid="ECC 2:21" />Kay bisan maghago ka pa ginamit ang tibuok mong kaalam, kahibalo, ug abilidad, ibilin mo lang gihapon ang tanan nga gihagoan mo sa tawo nga wala maghago alang niini. Wala usab kini kapuslanan, ug dili makatarunganon. <verse eid="ECC 2:21" /><verse number="22" style="v" sid="ECC 2:22" />Unsay makuha sa tawo sa iyang paghago ug pagpaningkamot dinhi sa kalibotan? <verse eid="ECC 2:22" /><verse number="23" style="v" sid="ECC 2:23" />Ang tanang adlaw sa iyang kinabuhi puno sa problema ug kasakit. Bisan sa gabii dili makapahulay ang iyang huna-huna. Wala usab kini kapuslanan!<verse eid="ECC 2:23" /></para>
   <para style="p">
-    <verse number="24" style="v" sid="ECC 2:24"/>Ang labing maayong himuon sa tawo mao ang pagkaon ug pag-inom, ug ang pagpahimulos sa iyang hinagoan. Nasuta ko nga bisan kini gikan sa Dios, <verse eid="ECC 2:24"/><verse number="25" style="v" sid="ECC 2:25"/>kay kinsa may makakaon ug makaangkon sa kalipay kon dili kini ihatag sa Dios? <verse eid="ECC 2:25"/><verse number="26" style="v" sid="ECC 2:26"/>Sa pagkatinuod, hatagan sa Dios ug kaalam, kahibalo, ug kalipay ang tawo nga naghatag ug kalipay kaniya. Apan ang mga makasasala patrabahoon niya aron sa pagtigom ug bahandi nga ihatag ra usab niya sa mga tawo nga naghatag ug kalipay kaniya. Ang paghago sa mga makasasala walay kapuslanan; sama lang nga naggukod sila sa hangin.<verse eid="ECC 2:26"/></para>
-  <chapter eid="ECC 2"/>
-  <chapter number="3" style="c" sid="ECC 3"/>
+    <verse number="24" style="v" sid="ECC 2:24" />Ang labing maayong himuon sa tawo mao ang pagkaon ug pag-inom, ug ang pagpahimulos sa iyang hinagoan. Nasuta ko nga bisan kini gikan sa Dios, <verse eid="ECC 2:24" /><verse number="25" style="v" sid="ECC 2:25" />kay kinsa may makakaon ug makaangkon sa kalipay kon dili kini ihatag sa Dios? <verse eid="ECC 2:25" /><verse number="26" style="v" sid="ECC 2:26" />Sa pagkatinuod, hatagan sa Dios ug kaalam, kahibalo, ug kalipay ang tawo nga naghatag ug kalipay kaniya. Apan ang mga makasasala patrabahoon niya aron sa pagtigom ug bahandi nga ihatag ra usab niya sa mga tawo nga naghatag ug kalipay kaniya. Ang paghago sa mga makasasala walay kapuslanan; sama lang nga naggukod sila sa hangin.<verse eid="ECC 2:26" /></para>
+  <chapter eid="ECC 2" />
+  <chapter number="3" style="c" sid="ECC 3" />
   <para style="s1">Adunay Gitakda nga Panahon alang sa Matag Buluhaton</para>
   <para style="q1">
-    <verse number="1" style="v" sid="ECC 3:1"/>Adunay gitakda nga panahon alang sa matag buluhaton dinhi sa kalibotan:<verse eid="ECC 3:1"/></para>
+    <verse number="1" style="v" sid="ECC 3:1" />Adunay gitakda nga panahon alang sa matag buluhaton dinhi sa kalibotan:<verse eid="ECC 3:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="ECC 3:2"/>Adunay panahon sa pagkatawo ug adunay panahon sa pagkamatay,</para>
-  <para style="q2" vid="ECC 3:2">adunay panahon sa pagtanom ug adunay panahon sa pag-ani,<verse eid="ECC 3:2"/></para>
+    <verse number="2" style="v" sid="ECC 3:2" />Adunay panahon sa pagkatawo ug adunay panahon sa pagkamatay,</para>
+  <para style="q2" vid="ECC 3:2">adunay panahon sa pagtanom ug adunay panahon sa pag-ani,<verse eid="ECC 3:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="ECC 3:3"/>adunay panahon sa pagpatay ug adunay panahon sa pagtambal,</para>
-  <para style="q2" vid="ECC 3:3">adunay panahon sa pagguba ug adunay panahon sa pagtukod,<verse eid="ECC 3:3"/></para>
+    <verse number="3" style="v" sid="ECC 3:3" />adunay panahon sa pagpatay ug adunay panahon sa pagtambal,</para>
+  <para style="q2" vid="ECC 3:3">adunay panahon sa pagguba ug adunay panahon sa pagtukod,<verse eid="ECC 3:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="ECC 3:4"/>adunay panahon sa paghilak ug adunay panahon sa pagkatawa,</para>
-  <para style="q2" vid="ECC 3:4">adunay panahon sa pagsubo ug adunay panahon sa pagmaya,<verse eid="ECC 3:4"/></para>
+    <verse number="4" style="v" sid="ECC 3:4" />adunay panahon sa paghilak ug adunay panahon sa pagkatawa,</para>
+  <para style="q2" vid="ECC 3:4">adunay panahon sa pagsubo ug adunay panahon sa pagmaya,<verse eid="ECC 3:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="ECC 3:5"/>adunay panahon sa pagkatag sa mga bato ug adunay panahon sa pagtigom niini,</para>
-  <para style="q2" vid="ECC 3:5">adunay panahon sa paggaksanay ug adunay panahon sa pagbulagay,<verse eid="ECC 3:5"/></para>
+    <verse number="5" style="v" sid="ECC 3:5" />adunay panahon sa pagkatag sa mga bato ug adunay panahon sa pagtigom niini,</para>
+  <para style="q2" vid="ECC 3:5">adunay panahon sa paggaksanay ug adunay panahon sa pagbulagay,<verse eid="ECC 3:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="ECC 3:6"/>adunay panahon sa pagpangita ug adunay panahon sa pag-undang sa pagpangita,</para>
-  <para style="q2" vid="ECC 3:6">adunay panahon sa pagtipig ug adunay panahon sa paglabay,<verse eid="ECC 3:6"/></para>
+    <verse number="6" style="v" sid="ECC 3:6" />adunay panahon sa pagpangita ug adunay panahon sa pag-undang sa pagpangita,</para>
+  <para style="q2" vid="ECC 3:6">adunay panahon sa pagtipig ug adunay panahon sa paglabay,<verse eid="ECC 3:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="ECC 3:7"/>adunay panahon sa paggisi ug adunay panahon sa pagtahi,</para>
-  <para style="q2" vid="ECC 3:7">adunay panahon sa paghilom ug adunay panahon sa pagsulti,<verse eid="ECC 3:7"/></para>
+    <verse number="7" style="v" sid="ECC 3:7" />adunay panahon sa paggisi ug adunay panahon sa pagtahi,</para>
+  <para style="q2" vid="ECC 3:7">adunay panahon sa paghilom ug adunay panahon sa pagsulti,<verse eid="ECC 3:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="ECC 3:8"/>adunay panahon sa paghigugma ug adunay panahon sa pagkasilag,</para>
-  <para style="q2" vid="ECC 3:8">adunay panahon sa kagubot ug adunay panahon sa kalinaw.<verse eid="ECC 3:8"/></para>
+    <verse number="8" style="v" sid="ECC 3:8" />adunay panahon sa paghigugma ug adunay panahon sa pagkasilag,</para>
+  <para style="q2" vid="ECC 3:8">adunay panahon sa kagubot ug adunay panahon sa kalinaw.<verse eid="ECC 3:8" /></para>
   <para style="p">
-    <verse number="9" style="v" sid="ECC 3:9"/>Kon kining mga panahona gitakda na sa Dios, unsa may kapuslanan sa paghago sa tawo? <verse eid="ECC 3:9"/><verse number="10" style="v" sid="ECC 3:10"/>Nakita ko ang mga buluhaton nga gihatag sa Dios nga kabalak-an sa tawo, <verse eid="ECC 3:10"/><verse number="11" style="v" sid="ECC 3:11"/>ug kining tanan gitakda sa Dios nga mahitabo sa husto nga panahon. Gihatagan niya kita ug tinguha nga masayod sa umaabot, apan dili gayod nato matugkad ang iyang gipanghimo gikan sa sinugdanan hangtod sa kataposan. <verse eid="ECC 3:11"/><verse number="12" style="v" sid="ECC 3:12"/>Nasayod ako nga ang labing maayong buhaton sa tawo samtang buhi pa siya mao ang paglipay, ang pagpaharuhay, <verse eid="ECC 3:12"/><verse number="13" style="v" sid="ECC 3:13"/>ang pagkaon ug pag-inom, ug magpahimulos sa ilang hinagoan kay kining mga butanga grasya sa Dios. <verse eid="ECC 3:13"/><verse number="14" style="v" sid="ECC 3:14"/>Nasayod ako nga ang tanang ginahimo sa Dios magpadayon hangtod sa kahangtoran, ug dili kini madugangan o makuhaan. Gihimo kini sa Dios aron nga motahod ang tawo kaniya.<verse eid="ECC 3:14"/></para>
+    <verse number="9" style="v" sid="ECC 3:9" />Kon kining mga panahona gitakda na sa Dios, unsa may kapuslanan sa paghago sa tawo? <verse eid="ECC 3:9" /><verse number="10" style="v" sid="ECC 3:10" />Nakita ko ang mga buluhaton nga gihatag sa Dios nga kabalak-an sa tawo, <verse eid="ECC 3:10" /><verse number="11" style="v" sid="ECC 3:11" />ug kining tanan gitakda sa Dios nga mahitabo sa husto nga panahon. Gihatagan niya kita ug tinguha nga masayod sa umaabot, apan dili gayod nato matugkad ang iyang gipanghimo gikan sa sinugdanan hangtod sa kataposan. <verse eid="ECC 3:11" /><verse number="12" style="v" sid="ECC 3:12" />Nasayod ako nga ang labing maayong buhaton sa tawo samtang buhi pa siya mao ang paglipay, ang pagpaharuhay, <verse eid="ECC 3:12" /><verse number="13" style="v" sid="ECC 3:13" />ang pagkaon ug pag-inom, ug magpahimulos sa ilang hinagoan kay kining mga butanga grasya sa Dios. <verse eid="ECC 3:13" /><verse number="14" style="v" sid="ECC 3:14" />Nasayod ako nga ang tanang ginahimo sa Dios magpadayon hangtod sa kahangtoran, ug dili kini madugangan o makuhaan. Gihimo kini sa Dios aron nga motahod ang tawo kaniya.<verse eid="ECC 3:14" /></para>
   <para style="q1">
-    <verse number="15" style="v" sid="ECC 3:15"/>Ang nahitabo karon ug ang mahitabo sa umaabot nahitabo na kaniadto.</para>
-  <para style="q2" vid="ECC 3:15">Ginabalik-balik lang sa Dios ang mga panghitabo.<verse eid="ECC 3:15"/></para>
+    <verse number="15" style="v" sid="ECC 3:15" />Ang nahitabo karon ug ang mahitabo sa umaabot nahitabo na kaniadto.</para>
+  <para style="q2" vid="ECC 3:15">Ginabalik-balik lang sa Dios ang mga panghitabo.<verse eid="ECC 3:15" /></para>
   <para style="p">
-    <verse number="16" style="v" sid="ECC 3:16"/>Nakita ko usab dinhi sa kalibotan nga naghari ang kadaotan</para>
-  <para style="q1" vid="ECC 3:16">imbis nga ang hustisya ug pagkamatarong.<verse eid="ECC 3:16"/></para>
+    <verse number="16" style="v" sid="ECC 3:16" />Nakita ko usab dinhi sa kalibotan nga naghari ang kadaotan</para>
+  <para style="q1" vid="ECC 3:16">imbis nga ang hustisya ug pagkamatarong.<verse eid="ECC 3:16" /></para>
   <para style="p">
-    <verse number="17" style="v" sid="ECC 3:17"/>Miingon ako sa akong kaugalingon,</para>
+    <verse number="17" style="v" sid="ECC 3:17" />Miingon ako sa akong kaugalingon,</para>
   <para style="q1" vid="ECC 3:17">“Hukman sa Dios ang mga tawong matarong</para>
   <para style="q2" vid="ECC 3:17">ug ang mga daotan,</para>
   <para style="q1" vid="ECC 3:17">kay aduna siyay gitakda nga panahon</para>
-  <para style="q2" vid="ECC 3:17">sa matag buluhaton.”<verse eid="ECC 3:17"/></para>
+  <para style="q2" vid="ECC 3:17">sa matag buluhaton.”<verse eid="ECC 3:17" /></para>
   <para style="p">
-    <verse number="18" style="v" sid="ECC 3:18"/>Ginasulayan sa Dios ang mga tawo aron ipakita kanila nga sama ra sila sa mananap. <verse eid="ECC 3:18"/><verse number="19" style="v" sid="ECC 3:19"/>Managsama ang dangatan sa tawo ug sa mananap; managsama silang mamatay. Managsama usab silang adunay gininhawa, busa ang tawo wala makabintaha sa mananap. Tinuod gayod nga ang tanan walay kapuslanan. <verse eid="ECC 3:19"/><verse number="20" style="v" sid="ECC 3:20"/>Managsama ang padulngan sa tanang buhing binuhat. Silang tanan gikan sa yuta, ug sa yuta usab sila mobalik. <verse eid="ECC 3:20"/><verse number="21" style="v" sid="ECC 3:21"/>Kinsay nasayod kon ang espiritu sa tawo moadto sa itaas ug ang espiritu sa mananap moadto sa ilalom sa yuta?<verse eid="ECC 3:21"/></para>
+    <verse number="18" style="v" sid="ECC 3:18" />Ginasulayan sa Dios ang mga tawo aron ipakita kanila nga sama ra sila sa mananap. <verse eid="ECC 3:18" /><verse number="19" style="v" sid="ECC 3:19" />Managsama ang dangatan sa tawo ug sa mananap; managsama silang mamatay. Managsama usab silang adunay gininhawa, busa ang tawo wala makabintaha sa mananap. Tinuod gayod nga ang tanan walay kapuslanan. <verse eid="ECC 3:19" /><verse number="20" style="v" sid="ECC 3:20" />Managsama ang padulngan sa tanang buhing binuhat. Silang tanan gikan sa yuta, ug sa yuta usab sila mobalik. <verse eid="ECC 3:20" /><verse number="21" style="v" sid="ECC 3:21" />Kinsay nasayod kon ang espiritu sa tawo moadto sa itaas ug ang espiritu sa mananap moadto sa ilalom sa yuta?<verse eid="ECC 3:21" /></para>
   <para style="p">
-    <verse number="22" style="v" sid="ECC 3:22"/>Busa nasuta ko nga ang labing maayong himuon sa tawo mao ang pagpahimulos sa iyang hinagoan, kay alang gayod kana kaniya. Walay makasugilon sa tawo kon unsa ang mahitabo human siya mamatay.<verse eid="ECC 3:22"/></para>
-  <chapter eid="ECC 3"/>
-  <chapter number="4" style="c" sid="ECC 4"/>
+    <verse number="22" style="v" sid="ECC 3:22" />Busa nasuta ko nga ang labing maayong himuon sa tawo mao ang pagpahimulos sa iyang hinagoan, kay alang gayod kana kaniya. Walay makasugilon sa tawo kon unsa ang mahitabo human siya mamatay.<verse eid="ECC 3:22" /></para>
+  <chapter eid="ECC 3" />
+  <chapter number="4" style="c" sid="ECC 4" />
   <para style="p">
-    <verse number="1" style="v" sid="ECC 4:1"/>Nakita ko usab ang mga pagpangdaog-daog dinhi sa kalibotan.</para>
+    <verse number="1" style="v" sid="ECC 4:1" />Nakita ko usab ang mga pagpangdaog-daog dinhi sa kalibotan.</para>
   <para style="q1" vid="ECC 4:1">Nakita ko ang pagpanghilak sa mga dinaog-daog.</para>
   <para style="q2" vid="ECC 4:1">Walay milipay ug midasig kanila kay gamhanan man</para>
-  <para style="q2" vid="ECC 4:1">ang nangdaog-daog kanila.<verse eid="ECC 4:1"/></para>
+  <para style="q2" vid="ECC 4:1">ang nangdaog-daog kanila.<verse eid="ECC 4:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="ECC 4:2"/>Busa nakaingon ako nga mas maayo pa</para>
-  <para style="q2" vid="ECC 4:2">ang mga patay kaysa mga buhi.<verse eid="ECC 4:2"/></para>
+    <verse number="2" style="v" sid="ECC 4:2" />Busa nakaingon ako nga mas maayo pa</para>
+  <para style="q2" vid="ECC 4:2">ang mga patay kaysa mga buhi.<verse eid="ECC 4:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="ECC 4:3"/>Apan mas maayo pa gayod ang mga wala pa matawo</para>
-  <para style="q2" vid="ECC 4:3">kay sila wala makakita sa mga kadaotan dinhi sa kalibotan.<verse eid="ECC 4:3"/></para>
+    <verse number="3" style="v" sid="ECC 4:3" />Apan mas maayo pa gayod ang mga wala pa matawo</para>
+  <para style="q2" vid="ECC 4:3">kay sila wala makakita sa mga kadaotan dinhi sa kalibotan.<verse eid="ECC 4:3" /></para>
   <para style="p">
-    <verse number="4" style="v" sid="ECC 4:4"/>Nakita ko usab nga ang tawo gahago ug naningkamot gayod nga molampos kay nasina siya sa iyang isigka-tawo. Wala usab kini kapuslanan; sama ra nga naggukod siya sa hangin.<verse eid="ECC 4:4"/></para>
+    <verse number="4" style="v" sid="ECC 4:4" />Nakita ko usab nga ang tawo gahago ug naningkamot gayod nga molampos kay nasina siya sa iyang isigka-tawo. Wala usab kini kapuslanan; sama ra nga naggukod siya sa hangin.<verse eid="ECC 4:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="ECC 4:5"/>Ang tawong buang-buang tapolan ug mohatod kini kaniya sa kaalaotan.<verse eid="ECC 4:5"/></para>
+    <verse number="5" style="v" sid="ECC 4:5" />Ang tawong buang-buang tapolan ug mohatod kini kaniya sa kaalaotan.<verse eid="ECC 4:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="ECC 4:6"/>Mas maayo pa nga makaangkon ug diyutay nga adunay kalinaw,</para>
+    <verse number="6" style="v" sid="ECC 4:6" />Mas maayo pa nga makaangkon ug diyutay nga adunay kalinaw,</para>
   <para style="q2" vid="ECC 4:6">kay sa maghago sa pag-angkon ug daghan apan dili mapuslan.</para>
-  <para style="q2" vid="ECC 4:6">Sama ra nga naggukod ka sa hangin.<verse eid="ECC 4:6"/></para>
+  <para style="q2" vid="ECC 4:6">Sama ra nga naggukod ka sa hangin.<verse eid="ECC 4:6" /></para>
   <para style="p">
-    <verse number="7" style="v" sid="ECC 4:7"/>Adunay nakita pa akong butang nga walay kapuslanan dinhi sa kalibotan:<verse eid="ECC 4:7"/></para>
+    <verse number="7" style="v" sid="ECC 4:7" />Adunay nakita pa akong butang nga walay kapuslanan dinhi sa kalibotan:<verse eid="ECC 4:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="ECC 4:8"/>Adunay usa ka tawo nga nag-inusara lang.</para>
+    <verse number="8" style="v" sid="ECC 4:8" />Adunay usa ka tawo nga nag-inusara lang.</para>
   <para style="q2" vid="ECC 4:8">Wala siyay anak o igsoon,</para>
   <para style="q1" vid="ECC 4:8">apan wala siyay undang sa pagpaningkamot,</para>
   <para style="q2" vid="ECC 4:8">ug dili siya kontento sa iyang bahandi.</para>
@@ -177,473 +178,473 @@
   <para style="q2" vid="ECC 4:8">sa hilabihan nga pagpaningkamot.</para>
   <para style="q1" vid="ECC 4:8">Apan kinsa may bilinan ko sa akong hinagoan?”</para>
   <para style="q2" vid="ECC 4:8">Wala kini kapuslanan!</para>
-  <para style="q2" vid="ECC 4:8">Makasusubo kini nga klasi sa pagkinabuhi!<verse eid="ECC 4:8"/></para>
+  <para style="q2" vid="ECC 4:8">Makasusubo kini nga klasi sa pagkinabuhi!<verse eid="ECC 4:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="ECC 4:9"/>Mas maayo ang adunay kauban kaysa mag-inusara,</para>
-  <para style="q2" vid="ECC 4:9">kay mas mahimong mapuslanon ang ilang trabaho.<verse eid="ECC 4:9"/></para>
+    <verse number="9" style="v" sid="ECC 4:9" />Mas maayo ang adunay kauban kaysa mag-inusara,</para>
+  <para style="q2" vid="ECC 4:9">kay mas mahimong mapuslanon ang ilang trabaho.<verse eid="ECC 4:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="ECC 4:10"/>Kon matumba ang usa matabangan kini sa iyang kauban.</para>
+    <verse number="10" style="v" sid="ECC 4:10" />Kon matumba ang usa matabangan kini sa iyang kauban.</para>
   <para style="q2" vid="ECC 4:10">Apan alaot ang nag-inusara kon matumba</para>
-  <para style="q2" vid="ECC 4:10">kay walay makatabang kaniya.<verse eid="ECC 4:10"/></para>
+  <para style="q2" vid="ECC 4:10">kay walay makatabang kaniya.<verse eid="ECC 4:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="ECC 4:11"/>Ug kon bugnaw ang panahon,</para>
+    <verse number="11" style="v" sid="ECC 4:11" />Ug kon bugnaw ang panahon,</para>
   <para style="q2" vid="ECC 4:11">mahimong magdulog ang duha aron mainitan.</para>
-  <para style="q2" vid="ECC 4:11">Apan unsaon mo pag-angkon sa kainit kon ikaw rang usa?<verse eid="ECC 4:11"/></para>
+  <para style="q2" vid="ECC 4:11">Apan unsaon mo pag-angkon sa kainit kon ikaw rang usa?<verse eid="ECC 4:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="ECC 4:12"/>Sayon pildihon ang tawong mag-inusara,</para>
+    <verse number="12" style="v" sid="ECC 4:12" />Sayon pildihon ang tawong mag-inusara,</para>
   <para style="q2" vid="ECC 4:12">apan kon may kauban siya makasukol sila.</para>
-  <para style="q1" vid="ECC 4:12">Sama ba sa pisi; kon tulo ka doble, lisod kining mabugto.<verse eid="ECC 4:12"/></para>
+  <para style="q1" vid="ECC 4:12">Sama ba sa pisi; kon tulo ka doble, lisod kining mabugto.<verse eid="ECC 4:12" /></para>
   <para style="p">
-    <verse number="13" style="v" sid="ECC 4:13"/>Mas maayo pa ang batan-on nga kabos apan maalamon kaysa tigulang ug buang-buang nga hari nga dili magpatambag. <verse eid="ECC 4:13"/><verse number="14" style="v" sid="ECC 4:14"/>Posible nga ang maong batan-on mahimong hari bisan ug napriso siya, ug mouswag bisan ug natawo siyang kabos. <verse eid="ECC 4:14"/><verse number="15" style="v" sid="ECC 4:15"/>Apan nasuta ko nga bisan ug daghan kaayo ang mga tawo dinhi sa kalibotan nga misunod niadtong batan-on nga mipuli sa hari, <verse eid="ECC 4:15"/><verse number="16" style="v" sid="ECC 4:16"/>ug dili maihap ang mga tawo nga iyang gidumalahan, mahimong dili moangay kaniya ang magsunod nga mga henerasyon. Wala usab kini kapuslanan; sama lang nga naggukod ka sa hangin.<verse eid="ECC 4:16"/></para>
-  <chapter eid="ECC 4"/>
-  <chapter number="5" style="c" sid="ECC 5"/>
+    <verse number="13" style="v" sid="ECC 4:13" />Mas maayo pa ang batan-on nga kabos apan maalamon kaysa tigulang ug buang-buang nga hari nga dili magpatambag. <verse eid="ECC 4:13" /><verse number="14" style="v" sid="ECC 4:14" />Posible nga ang maong batan-on mahimong hari bisan ug napriso siya, ug mouswag bisan ug natawo siyang kabos. <verse eid="ECC 4:14" /><verse number="15" style="v" sid="ECC 4:15" />Apan nasuta ko nga bisan ug daghan kaayo ang mga tawo dinhi sa kalibotan nga misunod niadtong batan-on nga mipuli sa hari, <verse eid="ECC 4:15" /><verse number="16" style="v" sid="ECC 4:16" />ug dili maihap ang mga tawo nga iyang gidumalahan, mahimong dili moangay kaniya ang magsunod nga mga henerasyon. Wala usab kini kapuslanan; sama lang nga naggukod ka sa hangin.<verse eid="ECC 4:16" /></para>
+  <chapter eid="ECC 4" />
+  <chapter number="5" style="c" sid="ECC 5" />
   <para style="s1">Ayaw Pagpataka ug Saad ngadto sa Dios</para>
   <para style="p">
-    <verse number="1" style="v" sid="ECC 5:1"/>Pagbantay sa imong ginahimo kon moadto ka sa Balay sa Dios. Mas maayo pa nga mopaduol ka didto nga andam nga motuman sa Dios<note caller="+" style="f"><char style="fr" closed="false">5:1 </char><char style="fq" closed="false">motuman sa Dios</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">mamati.</char></note> kaysa maghalad ka sama sa paghalad sa mga buang-buang nga wala makahibalo nga sayop ang ilang ginahimo.<verse eid="ECC 5:1"/></para>
+    <verse number="1" style="v" sid="ECC 5:1" />Pagbantay sa imong ginahimo kon moadto ka sa Balay sa Dios. Mas maayo pa nga mopaduol ka didto nga andam nga motuman sa Dios<note caller="+" style="f"><char style="fr" closed="false">5:1 </char><char style="fq" closed="false">motuman sa Dios</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">mamati.</char></note> kaysa maghalad ka sama sa paghalad sa mga buang-buang nga wala makahibalo nga sayop ang ilang ginahimo.<verse eid="ECC 5:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="ECC 5:2"/>Ayaw pagpataka ug sulti. Huna-hunaa una pag-ayo</para>
+    <verse number="2" style="v" sid="ECC 5:2" />Ayaw pagpataka ug sulti. Huna-hunaa una pag-ayo</para>
   <para style="q2" vid="ECC 5:2">sa dili ka pa mosaad sa Dios.</para>
   <para style="q1" vid="ECC 5:2">Hinumdomi nga ang Dios anaa sa langit</para>
   <para style="q2" vid="ECC 5:2">ug ikaw ania lang sa yuta,</para>
-  <para style="q2" vid="ECC 5:2">busa ayaw pagpatuyang ug sulti.<verse eid="ECC 5:2"/></para>
+  <para style="q2" vid="ECC 5:2">busa ayaw pagpatuyang ug sulti.<verse eid="ECC 5:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="ECC 5:3"/>Kon daghan ka ug gihuna-huna, lagmit magdamgo ka,</para>
-  <para style="q2" vid="ECC 5:3">ug kon magpataka ka ug sulti, lagmit masayop ka.<verse eid="ECC 5:3"/></para>
+    <verse number="3" style="v" sid="ECC 5:3" />Kon daghan ka ug gihuna-huna, lagmit magdamgo ka,</para>
+  <para style="q2" vid="ECC 5:3">ug kon magpataka ka ug sulti, lagmit masayop ka.<verse eid="ECC 5:3" /></para>
   <para style="p">
-    <verse number="4" style="v" sid="ECC 5:4"/>Kon mosaad ka sa Dios, tumana kini dayon. Tumana gayod ang imong gisaad kaniya kay dili siya gustog mga buang-buang. <verse eid="ECC 5:4"/><verse number="5" style="v" sid="ECC 5:5"/>Mas maayo pa nga dili ka na lang mosaad kaysa mosaad ka, unya dili nimo tumanon. <verse eid="ECC 5:5"/><verse number="6" style="v" sid="ECC 5:6"/>Ayaw pagpakasala pinaagi sa imong gipanulti, ug ayaw pag-ingon sa pari<note caller="+" style="f"><char style="fr" closed="false">5:6 </char><char style="fq" closed="false">pari</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">mensahero o anghel. </char><char style="ft" closed="false">Sa Septuagint ug sa Syriac, </char><char style="fqa" closed="false">Dios.</char></note> sa Templo nga wala mo kini tuyoa, kay masuko ang Dios kon isulti mo kana ug daoton niya ang imong hinagoan. <verse eid="ECC 5:6"/><verse number="7" style="v" sid="ECC 5:7"/>Walay kapuslanan ang pagsigeg sulti ug pagsigeg damgo. Busa tahora ang Dios.<verse eid="ECC 5:7"/></para>
+    <verse number="4" style="v" sid="ECC 5:4" />Kon mosaad ka sa Dios, tumana kini dayon. Tumana gayod ang imong gisaad kaniya kay dili siya gustog mga buang-buang. <verse eid="ECC 5:4" /><verse number="5" style="v" sid="ECC 5:5" />Mas maayo pa nga dili ka na lang mosaad kaysa mosaad ka, unya dili nimo tumanon. <verse eid="ECC 5:5" /><verse number="6" style="v" sid="ECC 5:6" />Ayaw pagpakasala pinaagi sa imong gipanulti, ug ayaw pag-ingon sa pari<note caller="+" style="f"><char style="fr" closed="false">5:6 </char><char style="fq" closed="false">pari</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">mensahero o anghel. </char><char style="ft" closed="false">Sa Septuagint ug sa Syriac, </char><char style="fqa" closed="false">Dios.</char></note> sa Templo nga wala mo kini tuyoa, kay masuko ang Dios kon isulti mo kana ug daoton niya ang imong hinagoan. <verse eid="ECC 5:6" /><verse number="7" style="v" sid="ECC 5:7" />Walay kapuslanan ang pagsigeg sulti ug pagsigeg damgo. Busa tahora ang Dios.<verse eid="ECC 5:7" /></para>
   <para style="s1">Ang Bahandi Walay Kapuslanan</para>
   <para style="p">
-    <verse number="8" style="v" sid="ECC 5:8"/>Ayaw katingala kon makita mo nga sa inyong dapit gilisod-lisod ug gipanapian ang mga kabos, ug gihikawan sa hustisya ug sa ilang katungod. Kay ang mga opisyal nga naghimo niini protektado sa mas taas pa nga opisyal, ug kining duha protektado usab sa mas taas pa gayod nga opisyal. <verse eid="ECC 5:8"/><verse number="9" style="v" sid="ECC 5:9"/>Bisan ang hari gapahimulos usab sa yuta.<verse eid="ECC 5:9"/></para>
+    <verse number="8" style="v" sid="ECC 5:8" />Ayaw katingala kon makita mo nga sa inyong dapit gilisod-lisod ug gipanapian ang mga kabos, ug gihikawan sa hustisya ug sa ilang katungod. Kay ang mga opisyal nga naghimo niini protektado sa mas taas pa nga opisyal, ug kining duha protektado usab sa mas taas pa gayod nga opisyal. <verse eid="ECC 5:8" /><verse number="9" style="v" sid="ECC 5:9" />Bisan ang hari gapahimulos usab sa yuta.<verse eid="ECC 5:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="ECC 5:10"/>Si bisan kinsa nga nahigugma sa kuwarta</para>
+    <verse number="10" style="v" sid="ECC 5:10" />Si bisan kinsa nga nahigugma sa kuwarta</para>
   <para style="q2" vid="ECC 5:10">ug sa uban pa nga bahandi dili makontento niini.</para>
-  <para style="q2" vid="ECC 5:10">Wala usab kini kapuslanan.<verse eid="ECC 5:10"/></para>
-  <para style="b"/>
+  <para style="q2" vid="ECC 5:10">Wala usab kini kapuslanan.<verse eid="ECC 5:10" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="11" style="v" sid="ECC 5:11"/>Kon nagdugang ang imong bahandi,</para>
+    <verse number="11" style="v" sid="ECC 5:11" />Kon nagdugang ang imong bahandi,</para>
   <para style="q2" vid="ECC 5:11">nagdugang usab ang buot mohurot niini,</para>
-  <para style="q2" vid="ECC 5:11">ug dili ka makapahimulos sa imong bahandi.<verse eid="ECC 5:11"/></para>
+  <para style="q2" vid="ECC 5:11">ug dili ka makapahimulos sa imong bahandi.<verse eid="ECC 5:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="ECC 5:12"/>Ang trabahante makatulog ra ug maayo,</para>
+    <verse number="12" style="v" sid="ECC 5:12" />Ang trabahante makatulog ra ug maayo,</para>
   <para style="q2" vid="ECC 5:12">gamay man o daghan ang iyang makaon,</para>
   <para style="q1" vid="ECC 5:12">apan ang adunahan dili makatulog pag-ayo</para>
-  <para style="q2" vid="ECC 5:12">tungod sa kadaghan sa iyang bahandi.<verse eid="ECC 5:12"/></para>
+  <para style="q2" vid="ECC 5:12">tungod sa kadaghan sa iyang bahandi.<verse eid="ECC 5:12" /></para>
   <para style="p">
-    <verse number="13" style="v" sid="ECC 5:13"/>Adunay nakita ako nga dili gayod maayo dinhi sa kalibotan:</para>
-  <para style="q1" vid="ECC 5:13">Ang pagtigom ug bahandi makadaot sa nagtigom niini,<verse eid="ECC 5:13"/></para>
+    <verse number="13" style="v" sid="ECC 5:13" />Adunay nakita ako nga dili gayod maayo dinhi sa kalibotan:</para>
+  <para style="q1" vid="ECC 5:13">Ang pagtigom ug bahandi makadaot sa nagtigom niini,<verse eid="ECC 5:13" /></para>
   <para style="q2">
-    <verse number="14" style="v" sid="ECC 5:14"/>o mawala lang diha sa dili maayo nga negosyo,</para>
-  <para style="q1" vid="ECC 5:14">ug wala na siyay ikabilin sa iyang kabataan.<verse eid="ECC 5:14"/></para>
+    <verse number="14" style="v" sid="ECC 5:14" />o mawala lang diha sa dili maayo nga negosyo,</para>
+  <para style="q1" vid="ECC 5:14">ug wala na siyay ikabilin sa iyang kabataan.<verse eid="ECC 5:14" /></para>
   <para style="q1">
-    <verse number="15" style="v" sid="ECC 5:15"/>Natawo kita nga walay dala,</para>
+    <verse number="15" style="v" sid="ECC 5:15" />Natawo kita nga walay dala,</para>
   <para style="q2" vid="ECC 5:15">ug mamatay usab kita nga walay dala.</para>
-  <para style="q2" vid="ECC 5:15">Wala gayod kitay madala sa atong hinagoan.<verse eid="ECC 5:15"/></para>
+  <para style="q2" vid="ECC 5:15">Wala gayod kitay madala sa atong hinagoan.<verse eid="ECC 5:15" /></para>
   <para style="p">
-    <verse number="16" style="v" sid="ECC 5:16"/>Subo gayod kini kaayo!</para>
+    <verse number="16" style="v" sid="ECC 5:16" />Subo gayod kini kaayo!</para>
   <para style="q1" vid="ECC 5:16">Natawo kita nga walay dala,</para>
   <para style="q2" vid="ECC 5:16">mobiya usab kita nga walay dala.</para>
   <para style="q1" vid="ECC 5:16">Unsa may atong maani sa atong paghago</para>
-  <para style="q2" vid="ECC 5:16">nga wala man kini kapuslanan?<verse eid="ECC 5:16"/></para>
+  <para style="q2" vid="ECC 5:16">nga wala man kini kapuslanan?<verse eid="ECC 5:16" /></para>
   <para style="q1">
-    <verse number="17" style="v" sid="ECC 5:17"/>Ang atong kinabuhi puno sa kalisod,<note caller="+" style="f"><char style="fr" closed="false">5:17 </char><char style="fq" closed="false">kalisod</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">kangitngit.</char></note></para>
-  <para style="q2" vid="ECC 5:17">kabalaka, balatian, ug kasuko.<verse eid="ECC 5:17"/></para>
+    <verse number="17" style="v" sid="ECC 5:17" />Ang atong kinabuhi puno sa kalisod,<note caller="+" style="f"><char style="fr" closed="false">5:17 </char><char style="fq" closed="false">kalisod</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">kangitngit.</char></note></para>
+  <para style="q2" vid="ECC 5:17">kabalaka, balatian, ug kasuko.<verse eid="ECC 5:17" /></para>
   <para style="p">
-    <verse number="18" style="v" sid="ECC 5:18"/>Busa nasuta ko nga ang labing maayong himuon sa tawo sa hamubo nga kinabuhi nga gihatag sa Dios kaniya mao ang pagkaon, pag-inom, ug pagpahimulos sa iyang hinagoan dinhi sa kalibotan, kay alang man gayod kana kaniya. <verse eid="ECC 5:18"/><verse number="19" style="v" sid="ECC 5:19"/>Gihatagan sa Dios ang tawo sa kabtangan ug sa uban pang mga bahandi, ug gitugotan niya siya nga makapahimulos niini aron madawat sa tawo ang alang kaniya ug maglipay siya sa iyang hinagoan. Gasa kini sa Dios kaniya. <verse eid="ECC 5:19"/><verse number="20" style="v" sid="ECC 5:20"/>Ug tungod kay kanunayng gilipay sa Dios ang tawo, dili kini mabalaka sa kamubo sa iyang kinabuhi.<verse eid="ECC 5:20"/></para>
-  <chapter eid="ECC 5"/>
-  <chapter number="6" style="c" sid="ECC 6"/>
+    <verse number="18" style="v" sid="ECC 5:18" />Busa nasuta ko nga ang labing maayong himuon sa tawo sa hamubo nga kinabuhi nga gihatag sa Dios kaniya mao ang pagkaon, pag-inom, ug pagpahimulos sa iyang hinagoan dinhi sa kalibotan, kay alang man gayod kana kaniya. <verse eid="ECC 5:18" /><verse number="19" style="v" sid="ECC 5:19" />Gihatagan sa Dios ang tawo sa kabtangan ug sa uban pang mga bahandi, ug gitugotan niya siya nga makapahimulos niini aron madawat sa tawo ang alang kaniya ug maglipay siya sa iyang hinagoan. Gasa kini sa Dios kaniya. <verse eid="ECC 5:19" /><verse number="20" style="v" sid="ECC 5:20" />Ug tungod kay kanunayng gilipay sa Dios ang tawo, dili kini mabalaka sa kamubo sa iyang kinabuhi.<verse eid="ECC 5:20" /></para>
+  <chapter eid="ECC 5" />
+  <chapter number="6" style="c" sid="ECC 6" />
   <para style="p">
-    <verse number="1" style="v" sid="ECC 6:1"/>Adunay nakita pa gayod akong dili maayo dinhi sa kalibotan nga dili gayod makatarunganon alang sa tawo: <verse eid="ECC 6:1"/><verse number="2" style="v" sid="ECC 6:2"/>Adunay mga tawo nga gihatagan sa Dios sa tanan nilang gitinguha: dungog, kabtangan, ug uban pang bahandi. Apan wala niya sila tugoti nga makapahimulos niini kondili ang ubang tawo hinuon. Wala kini kapuslanan, ug dili gayod maayo. <verse eid="ECC 6:2"/><verse number="3" style="v" sid="ECC 6:3"/>Mahimo nga ang usa ka tawo taas ug kinabuhi ug daghag kabataan. Apan bisan taas ang iyang kinabuhi, kon wala siya malipay sa iyang maayong kahimtang sa kinabuhi, ug sa iyang pagkamatay wala siya hatagi ug desente nga lubong, mas maayo pa kay kaniya ang usa ka bata nga natawo nga patay. <verse eid="ECC 6:3"/><verse number="4" style="v" sid="ECC 6:4"/>Kon namatay pa siya sa iyang pagkahimugso, mahanaw na unta siya ug dili na mahinumdoman pa. <verse eid="ECC 6:4"/><verse number="5" style="v" sid="ECC 6:5"/>Wala unta siya makakita sa kahayag sa adlaw ug makahibalo bahin sa kinabuhi, ug mas nagmalinawon pa unta siya kaysa midako siya nga walay kalipay sa kinabuhi. <verse eid="ECC 6:5"/><verse number="6" style="v" sid="ECC 6:6"/>Mahimong magkinabuhi kadtong tawhana ug 2,000 ka tuig nga walay kalipay sa kinabuhi. Apan unsa pa may pulos niana nga mamatay man lang gihapon siya sama sa tanang mga tawo?<verse eid="ECC 6:6"/></para>
+    <verse number="1" style="v" sid="ECC 6:1" />Adunay nakita pa gayod akong dili maayo dinhi sa kalibotan nga dili gayod makatarunganon alang sa tawo: <verse eid="ECC 6:1" /><verse number="2" style="v" sid="ECC 6:2" />Adunay mga tawo nga gihatagan sa Dios sa tanan nilang gitinguha: dungog, kabtangan, ug uban pang bahandi. Apan wala niya sila tugoti nga makapahimulos niini kondili ang ubang tawo hinuon. Wala kini kapuslanan, ug dili gayod maayo. <verse eid="ECC 6:2" /><verse number="3" style="v" sid="ECC 6:3" />Mahimo nga ang usa ka tawo taas ug kinabuhi ug daghag kabataan. Apan bisan taas ang iyang kinabuhi, kon wala siya malipay sa iyang maayong kahimtang sa kinabuhi, ug sa iyang pagkamatay wala siya hatagi ug desente nga lubong, mas maayo pa kay kaniya ang usa ka bata nga natawo nga patay. <verse eid="ECC 6:3" /><verse number="4" style="v" sid="ECC 6:4" />Kon namatay pa siya sa iyang pagkahimugso, mahanaw na unta siya ug dili na mahinumdoman pa. <verse eid="ECC 6:4" /><verse number="5" style="v" sid="ECC 6:5" />Wala unta siya makakita sa kahayag sa adlaw ug makahibalo bahin sa kinabuhi, ug mas nagmalinawon pa unta siya kaysa midako siya nga walay kalipay sa kinabuhi. <verse eid="ECC 6:5" /><verse number="6" style="v" sid="ECC 6:6" />Mahimong magkinabuhi kadtong tawhana ug 2,000 ka tuig nga walay kalipay sa kinabuhi. Apan unsa pa may pulos niana nga mamatay man lang gihapon siya sama sa tanang mga tawo?<verse eid="ECC 6:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="ECC 6:7"/>Gahago ang tawo aron makakaon,</para>
-  <para style="q2" vid="ECC 6:7">apan dili gihapon siya matagbaw.<verse eid="ECC 6:7"/></para>
+    <verse number="7" style="v" sid="ECC 6:7" />Gahago ang tawo aron makakaon,</para>
+  <para style="q2" vid="ECC 6:7">apan dili gihapon siya matagbaw.<verse eid="ECC 6:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="ECC 6:8"/>Busa unsa may bintaha sa tawong maalamon sa tawong buang-buang?</para>
+    <verse number="8" style="v" sid="ECC 6:8" />Busa unsa may bintaha sa tawong maalamon sa tawong buang-buang?</para>
   <para style="q2" vid="ECC 6:8">Unsa may kaayohan nga makuha sa tawong kabos</para>
-  <para style="q2" vid="ECC 6:8">kon mahibalo siyang moatubang sa kinabuhi?<verse eid="ECC 6:8"/></para>
+  <para style="q2" vid="ECC 6:8">kon mahibalo siyang moatubang sa kinabuhi?<verse eid="ECC 6:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="ECC 6:9"/>Busa mas maayo pa nga makontento ka na lang kon unsa</para>
+    <verse number="9" style="v" sid="ECC 6:9" />Busa mas maayo pa nga makontento ka na lang kon unsa</para>
   <para style="q2" vid="ECC 6:9">ang anaa kanimo kay sa magsige kag handom sa wala diha.</para>
-  <para style="q2" vid="ECC 6:9">Wala kini kapuslanan; sama lang nga naggukod ka sa hangin.<verse eid="ECC 6:9"/></para>
+  <para style="q2" vid="ECC 6:9">Wala kini kapuslanan; sama lang nga naggukod ka sa hangin.<verse eid="ECC 6:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="ECC 6:10"/>Gitakda na sa Dios ang tanan kaniadto pa,</para>
+    <verse number="10" style="v" sid="ECC 6:10" />Gitakda na sa Dios ang tanan kaniadto pa,</para>
   <para style="q2" vid="ECC 6:10">ug nasayod siya kon unsay mahitabo kanato.</para>
-  <para style="q2" vid="ECC 6:10">Busa dili kita makalalis sa Dios<note caller="+" style="f"><char style="fr" closed="false">6:10 </char><char style="fq" closed="false">sa Dios</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">sa mas kusgan pa kay kanato.</char></note> bahin sa atong kapalaran.<verse eid="ECC 6:10"/></para>
+  <para style="q2" vid="ECC 6:10">Busa dili kita makalalis sa Dios<note caller="+" style="f"><char style="fr" closed="false">6:10 </char><char style="fq" closed="false">sa Dios</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">sa mas kusgan pa kay kanato.</char></note> bahin sa atong kapalaran.<verse eid="ECC 6:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="ECC 6:11"/>Kon magsige kita ug pakiglalis</para>
+    <verse number="11" style="v" sid="ECC 6:11" />Kon magsige kita ug pakiglalis</para>
   <para style="q2" vid="ECC 6:11">mas mawad-an ug pulos ang atong gipanulti,</para>
-  <para style="q2" vid="ECC 6:11">ug wala kini ikahatag nga kaayohan kanato.<verse eid="ECC 6:11"/></para>
+  <para style="q2" vid="ECC 6:11">ug wala kini ikahatag nga kaayohan kanato.<verse eid="ECC 6:11" /></para>
   <para style="p">
-    <verse number="12" style="v" sid="ECC 6:12"/>Walay nasayod kon unsa gayod ang maayo alang sa usa ka tawo sa hamubo ug walay kapuslanan niyang kinabuhi nga kini lumalabay lang kini sama sa anino. Walay makasulti kaniya kon unsa ang mahitabo sa kalibotan human siya mamatay.<verse eid="ECC 6:12"/></para>
-  <chapter eid="ECC 6"/>
-  <chapter number="7" style="c" sid="ECC 7"/>
+    <verse number="12" style="v" sid="ECC 6:12" />Walay nasayod kon unsa gayod ang maayo alang sa usa ka tawo sa hamubo ug walay kapuslanan niyang kinabuhi nga kini lumalabay lang kini sama sa anino. Walay makasulti kaniya kon unsa ang mahitabo sa kalibotan human siya mamatay.<verse eid="ECC 6:12" /></para>
+  <chapter eid="ECC 6" />
+  <chapter number="7" style="c" sid="ECC 7" />
   <para style="s1">Ang mga Tambag sa Kinabuhi</para>
   <para style="q1">
-    <verse number="1" style="v" sid="ECC 7:1"/>Maingon nga ang maayong reputasyon mas maayo kaysa mahalong pahumot,</para>
-  <para style="q2" vid="ECC 7:1">ang adlaw sa pagkamatay mas maayo kaysa adlaw sa pagkahimugso.<verse eid="ECC 7:1"/></para>
+    <verse number="1" style="v" sid="ECC 7:1" />Maingon nga ang maayong reputasyon mas maayo kaysa mahalong pahumot,</para>
+  <para style="q2" vid="ECC 7:1">ang adlaw sa pagkamatay mas maayo kaysa adlaw sa pagkahimugso.<verse eid="ECC 7:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="ECC 7:2"/>Mas maayo pa nga moadto sa balay nga adunay nagbangotan</para>
+    <verse number="2" style="v" sid="ECC 7:2" />Mas maayo pa nga moadto sa balay nga adunay nagbangotan</para>
   <para style="q2" vid="ECC 7:2">kaysa moadto sa balay nga adunay kombira,</para>
   <para style="q1" vid="ECC 7:2">kay ang tanan mamatay man, busa kinahanglan hatagan</para>
-  <para style="q2" vid="ECC 7:2">kinig pagtagad sa matag-usa.<verse eid="ECC 7:2"/></para>
+  <para style="q2" vid="ECC 7:2">kinig pagtagad sa matag-usa.<verse eid="ECC 7:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="ECC 7:3"/>Ang kasubo mas maayo pa kaysa kalipay tungod kay</para>
-  <para style="q2" vid="ECC 7:3">ang kasubo makatudlo kanato bahin sa kinabuhi.<verse eid="ECC 7:3"/></para>
+    <verse number="3" style="v" sid="ECC 7:3" />Ang kasubo mas maayo pa kaysa kalipay tungod kay</para>
+  <para style="q2" vid="ECC 7:3">ang kasubo makatudlo kanato bahin sa kinabuhi.<verse eid="ECC 7:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="ECC 7:4"/>Ang tawong maalamon naghuna-huna kanunay bahin sa kamatayon,</para>
-  <para style="q2" vid="ECC 7:4">apan ang tawong buang-buang naghuna-huna bahin sa kalingawan.<verse eid="ECC 7:4"/></para>
+    <verse number="4" style="v" sid="ECC 7:4" />Ang tawong maalamon naghuna-huna kanunay bahin sa kamatayon,</para>
+  <para style="q2" vid="ECC 7:4">apan ang tawong buang-buang naghuna-huna bahin sa kalingawan.<verse eid="ECC 7:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="ECC 7:5"/>Mas maayo pa nga mamati ka sa pagbadlong sa tawong maalamon</para>
-  <para style="q2" vid="ECC 7:5">kaysa mamati sa pagdayeg sa tawong buang-buang.<verse eid="ECC 7:5"/></para>
+    <verse number="5" style="v" sid="ECC 7:5" />Mas maayo pa nga mamati ka sa pagbadlong sa tawong maalamon</para>
+  <para style="q2" vid="ECC 7:5">kaysa mamati sa pagdayeg sa tawong buang-buang.<verse eid="ECC 7:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="ECC 7:6"/>Ang bahakhak sa tawong buang-buang</para>
+    <verse number="6" style="v" sid="ECC 7:6" />Ang bahakhak sa tawong buang-buang</para>
   <para style="q2" vid="ECC 7:6">sama ra sa pagpiti-piti sa sampinit diha sa kalayo.</para>
-  <para style="q2" vid="ECC 7:6">Wala kini kapuslanan.<verse eid="ECC 7:6"/></para>
+  <para style="q2" vid="ECC 7:6">Wala kini kapuslanan.<verse eid="ECC 7:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="ECC 7:7"/>Sigurado nga mahimong sama sa buang-buang ang tawong maalamon kon manglimbong<note caller="+" style="f"><char style="fr" closed="false">7:7 </char><char style="fq" closed="false">manglimbong</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">mangdaog-daog.</char></note> siya.</para>
-  <para style="q2" vid="ECC 7:7">Kon modawat ka ug suborno daoton mo lang ang imong kaugalingon.<verse eid="ECC 7:7"/></para>
+    <verse number="7" style="v" sid="ECC 7:7" />Sigurado nga mahimong sama sa buang-buang ang tawong maalamon kon manglimbong<note caller="+" style="f"><char style="fr" closed="false">7:7 </char><char style="fq" closed="false">manglimbong</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">mangdaog-daog.</char></note> siya.</para>
+  <para style="q2" vid="ECC 7:7">Kon modawat ka ug suborno daoton mo lang ang imong kaugalingon.<verse eid="ECC 7:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="ECC 7:8"/>Mas maayo pa ang kataposan sa usa ka butang kaysa sinugdanan niini.</para>
-  <para style="q2" vid="ECC 7:8">Ang pagpailob mas maayo pa kaysa pagpasigarbo.<verse eid="ECC 7:8"/></para>
+    <verse number="8" style="v" sid="ECC 7:8" />Mas maayo pa ang kataposan sa usa ka butang kaysa sinugdanan niini.</para>
+  <para style="q2" vid="ECC 7:8">Ang pagpailob mas maayo pa kaysa pagpasigarbo.<verse eid="ECC 7:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="ECC 7:9"/>Ayaw dayon kasuko, kay ang kasuko kinaiya</para>
-  <para style="q2" vid="ECC 7:9">sa mga tawong buang-buang.<verse eid="ECC 7:9"/></para>
+    <verse number="9" style="v" sid="ECC 7:9" />Ayaw dayon kasuko, kay ang kasuko kinaiya</para>
+  <para style="q2" vid="ECC 7:9">sa mga tawong buang-buang.<verse eid="ECC 7:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="ECC 7:10"/>Ayawg pangutana,</para>
+    <verse number="10" style="v" sid="ECC 7:10" />Ayawg pangutana,</para>
   <para style="q2" vid="ECC 7:10">“Nganong mas maayo man ang kaniadto kaysa karon?”</para>
-  <para style="q2" vid="ECC 7:10">Kay dili kana maalamon nga pangutana.<verse eid="ECC 7:10"/></para>
+  <para style="q2" vid="ECC 7:10">Kay dili kana maalamon nga pangutana.<verse eid="ECC 7:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="ECC 7:11"/>Ang kaalam maayo, sama kini sa panulondon.</para>
+    <verse number="11" style="v" sid="ECC 7:11" />Ang kaalam maayo, sama kini sa panulondon.</para>
   <para style="q2" vid="ECC 7:11">Naghatag kini sa mga nagkinabuhi dinhi sa kalibotan</para>
-  <para style="q2" vid="ECC 7:11">ug kaayohan nga naglungtad,<verse eid="ECC 7:11"/></para>
+  <para style="q2" vid="ECC 7:11">ug kaayohan nga naglungtad,<verse eid="ECC 7:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="ECC 7:12"/>ug makahatag kini kanilag kasigurohan sama sa kuwarta.</para>
+    <verse number="12" style="v" sid="ECC 7:12" />ug makahatag kini kanilag kasigurohan sama sa kuwarta.</para>
   <para style="q2" vid="ECC 7:12">Busa makatabang gayod ang kaalam;</para>
-  <para style="q2" vid="ECC 7:12">makatipig kini sa kinabuhi sa tawo nga nakaangkon niini.<verse eid="ECC 7:12"/></para>
+  <para style="q2" vid="ECC 7:12">makatipig kini sa kinabuhi sa tawo nga nakaangkon niini.<verse eid="ECC 7:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="ECC 7:13"/>Huna-hunaa kon unsa ang gihimo sa Dios.</para>
-  <para style="q2" vid="ECC 7:13">Kinsay makatul-id sa iyang gibaliko?<verse eid="ECC 7:13"/></para>
+    <verse number="13" style="v" sid="ECC 7:13" />Huna-hunaa kon unsa ang gihimo sa Dios.</para>
+  <para style="q2" vid="ECC 7:13">Kinsay makatul-id sa iyang gibaliko?<verse eid="ECC 7:13" /></para>
   <para style="q1">
-    <verse number="14" style="v" sid="ECC 7:14"/>Kon maayo ang imong kahimtang, paglipay.</para>
+    <verse number="14" style="v" sid="ECC 7:14" />Kon maayo ang imong kahimtang, paglipay.</para>
   <para style="q2" vid="ECC 7:14">Apan kon anaa ka sa kalisod, pamalandong.</para>
   <para style="q1" vid="ECC 7:14">Hinumdomi nga ang Dios ang naghatag</para>
   <para style="q2" vid="ECC 7:14">sa maayo nga kahimtang ug sa kalisod.</para>
   <para style="q1" vid="ECC 7:14">Busa dili gayod kita masayod</para>
-  <para style="q2" vid="ECC 7:14">kon unsa ang mahitabo sa umaabot.<verse eid="ECC 7:14"/></para>
+  <para style="q2" vid="ECC 7:14">kon unsa ang mahitabo sa umaabot.<verse eid="ECC 7:14" /></para>
   <para style="p">
-    <verse number="15" style="v" sid="ECC 7:15"/>Niining akong kinabuhi nga walay pulos, nakita ko ang tanan:</para>
+    <verse number="15" style="v" sid="ECC 7:15" />Niining akong kinabuhi nga walay pulos, nakita ko ang tanan:</para>
   <para style="q1" vid="ECC 7:15">adunay mga tawong matarong nga nangamatay</para>
   <para style="q2" vid="ECC 7:15">luyo sa ilang matarong nga kinabuhi,</para>
   <para style="q1" vid="ECC 7:15">ug adunay mga daotan nga nagkinabuhi</para>
-  <para style="q2" vid="ECC 7:15">ug taas luyo sa ilang daotang kinabuhi.<verse eid="ECC 7:15"/></para>
+  <para style="q2" vid="ECC 7:15">ug taas luyo sa ilang daotang kinabuhi.<verse eid="ECC 7:15" /></para>
   <para style="q1">
-    <verse number="16" style="v" sid="ECC 7:16"/>Ayaw pagpalabig huna-huna nga labihan ka na kamatarong</para>
-  <para style="q2" vid="ECC 7:16">ug kamaalamon kay basig madaot ka.<verse eid="ECC 7:16"/></para>
+    <verse number="16" style="v" sid="ECC 7:16" />Ayaw pagpalabig huna-huna nga labihan ka na kamatarong</para>
+  <para style="q2" vid="ECC 7:16">ug kamaalamon kay basig madaot ka.<verse eid="ECC 7:16" /></para>
   <para style="q1">
-    <verse number="17" style="v" sid="ECC 7:17"/>Ayaw usab pagpasulabi sa pagpakadaotan ug pagpakabuang.</para>
+    <verse number="17" style="v" sid="ECC 7:17" />Ayaw usab pagpasulabi sa pagpakadaotan ug pagpakabuang.</para>
   <para style="q2" vid="ECC 7:17">Kon imo kining himuon, basin mamatay ka</para>
-  <para style="q2" vid="ECC 7:17">sa dili pa nimo panahon.<verse eid="ECC 7:17"/></para>
+  <para style="q2" vid="ECC 7:17">sa dili pa nimo panahon.<verse eid="ECC 7:17" /></para>
   <para style="q1">
-    <verse number="18" style="v" sid="ECC 7:18"/>Likayi ang pagpakaaron-ingnon nga matarong ka</para>
+    <verse number="18" style="v" sid="ECC 7:18" />Likayi ang pagpakaaron-ingnon nga matarong ka</para>
   <para style="q2" vid="ECC 7:18">ug ang pagbuhat ug daotan</para>
   <para style="q1" vid="ECC 7:18">kay ang tawong adunay pagtahod sa Dios</para>
-  <para style="q2" vid="ECC 7:18">makahimo sa paglikay niining mga butanga.<verse eid="ECC 7:18"/></para>
+  <para style="q2" vid="ECC 7:18">makahimo sa paglikay niining mga butanga.<verse eid="ECC 7:18" /></para>
   <para style="q1">
-    <verse number="19" style="v" sid="ECC 7:19"/>Ang kaalam makahatag sa tawong maalamon ug gahom nga mas dako</para>
-  <para style="q2" vid="ECC 7:19">kaysa gahom sa napulo ka tigdumala sa usa ka lungsod.<verse eid="ECC 7:19"/></para>
+    <verse number="19" style="v" sid="ECC 7:19" />Ang kaalam makahatag sa tawong maalamon ug gahom nga mas dako</para>
+  <para style="q2" vid="ECC 7:19">kaysa gahom sa napulo ka tigdumala sa usa ka lungsod.<verse eid="ECC 7:19" /></para>
   <para style="q1">
-    <verse number="20" style="v" sid="ECC 7:20"/>Wala gayoy tawong matarong dinhi sa kalibotan nga dili makasala</para>
-  <para style="q2" vid="ECC 7:20">ug kanunayng maayo ang binuhatan.<verse eid="ECC 7:20"/></para>
+    <verse number="20" style="v" sid="ECC 7:20" />Wala gayoy tawong matarong dinhi sa kalibotan nga dili makasala</para>
+  <para style="q2" vid="ECC 7:20">ug kanunayng maayo ang binuhatan.<verse eid="ECC 7:20" /></para>
   <para style="q1">
-    <verse number="21" style="v" sid="ECC 7:21"/>Ayaw tagda ang tanang gisulti sa mga tawo</para>
+    <verse number="21" style="v" sid="ECC 7:21" />Ayaw tagda ang tanang gisulti sa mga tawo</para>
   <para style="q2" vid="ECC 7:21">kay tingalig makadungog ka nga gitunglo ka</para>
-  <para style="q2" vid="ECC 7:21">sa imong sulugoon,<verse eid="ECC 7:21"/></para>
+  <para style="q2" vid="ECC 7:21">sa imong sulugoon,<verse eid="ECC 7:21" /></para>
   <para style="q1">
-    <verse number="22" style="v" sid="ECC 7:22"/>kay ikaw mismo nahibalo nga sa makadaghang higayon</para>
-  <para style="q2" vid="ECC 7:22">nakapanunglo ka usab sa uban.<verse eid="ECC 7:22"/></para>
+    <verse number="22" style="v" sid="ECC 7:22" />kay ikaw mismo nahibalo nga sa makadaghang higayon</para>
+  <para style="q2" vid="ECC 7:22">nakapanunglo ka usab sa uban.<verse eid="ECC 7:22" /></para>
   <para style="p">
-    <verse number="23" style="v" sid="ECC 7:23"/>Gisulayan ko pagsabot kining mga butanga pinaagi sa akong kaalam.</para>
+    <verse number="23" style="v" sid="ECC 7:23" />Gisulayan ko pagsabot kining mga butanga pinaagi sa akong kaalam.</para>
   <para style="q1" vid="ECC 7:23">Naghuna-huna ako nga akong masabtan,</para>
-  <para style="q2" vid="ECC 7:23">apan dili diay ingon niini kasayon.<verse eid="ECC 7:23"/></para>
+  <para style="q2" vid="ECC 7:23">apan dili diay ingon niini kasayon.<verse eid="ECC 7:23" /></para>
   <para style="q1">
-    <verse number="24" style="v" sid="ECC 7:24"/>Dili ko matugkad ang mga panghitabo;</para>
+    <verse number="24" style="v" sid="ECC 7:24" />Dili ko matugkad ang mga panghitabo;</para>
   <para style="q2" vid="ECC 7:24">lisod gayod kini sabton.</para>
-  <para style="q2" vid="ECC 7:24">Wala gayoy makasabot niini.<verse eid="ECC 7:24"/></para>
+  <para style="q2" vid="ECC 7:24">Wala gayoy makasabot niini.<verse eid="ECC 7:24" /></para>
   <para style="q1">
-    <verse number="25" style="v" sid="ECC 7:25"/>Apan padayon akong nagtuon, nagsusi, ug nangita sa kaalam</para>
+    <verse number="25" style="v" sid="ECC 7:25" />Apan padayon akong nagtuon, nagsusi, ug nangita sa kaalam</para>
   <para style="q2" vid="ECC 7:25">aron maangkon ko ang tubag sa akong mga pangutana,</para>
   <para style="q1" vid="ECC 7:25">ug aron masabtan ko nga binuang ang pagbuhat</para>
-  <para style="q2" vid="ECC 7:25">ug daotan ug hinungog ang pagbinuang.<verse eid="ECC 7:25"/></para>
+  <para style="q2" vid="ECC 7:25">ug daotan ug hinungog ang pagbinuang.<verse eid="ECC 7:25" /></para>
   <para style="q1">
-    <verse number="26" style="v" sid="ECC 7:26"/>Nadiskobrehan ko nga ang babayeng maninintal</para>
+    <verse number="26" style="v" sid="ECC 7:26" />Nadiskobrehan ko nga ang babayeng maninintal</para>
   <para style="q2" vid="ECC 7:26">mas mapait pa kaysa kamatayon.</para>
   <para style="q1" vid="ECC 7:26">Ang iyang gugma sama sa lit-ag,</para>
   <para style="q2" vid="ECC 7:26">ug ang iyang mga bukton sama sa kadena.</para>
   <para style="q1" vid="ECC 7:26">Makaikyas kaniya ang tawo nga nagtuman sa Dios sa iyang kinabuhi,</para>
-  <para style="q2" vid="ECC 7:26">apan ang makasasala malit-agan gayod niya.<verse eid="ECC 7:26"/></para>
+  <para style="q2" vid="ECC 7:26">apan ang makasasala malit-agan gayod niya.<verse eid="ECC 7:26" /></para>
   <para style="p">
-    <verse number="27-28" style="v" sid="ECC 7:27-28"/>Ako, ang magwawali nag-ingon,</para>
+    <verse number="27-28" style="v" sid="ECC 7:27-28" />Ako, ang magwawali nag-ingon,</para>
   <para style="q1" vid="ECC 7:27-28">“Gisuta ko gayod pag-ayo ang matag butang</para>
   <para style="q2" vid="ECC 7:27-28">sa akong pagpangita sa tubag sa akong mga pangutana.</para>
   <para style="q2" vid="ECC 7:27-28">Sa gihapon, wala nako makita ang mga tubag.</para>
   <para style="q1" vid="ECC 7:27-28">Apan akong nadiskobrehan nga sa 1,000 ka mga lalaki</para>
   <para style="q2" vid="ECC 7:27-28">aduna ray usa nga matarong,<note caller="+" style="f"><char style="fr" closed="false">7:27-28 </char><char style="fq" closed="false">matarong</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">maalamon.</char></note></para>
-  <para style="q2" vid="ECC 7:27-28">apan wala gayoy ni usa ka babaye nga matarong.<verse eid="ECC 7:27-28"/></para>
+  <para style="q2" vid="ECC 7:27-28">apan wala gayoy ni usa ka babaye nga matarong.<verse eid="ECC 7:27-28" /></para>
   <para style="q1">
-    <verse number="29" style="v" sid="ECC 7:29"/>Labaw sa tanan,</para>
+    <verse number="29" style="v" sid="ECC 7:29" />Labaw sa tanan,</para>
   <para style="q2" vid="ECC 7:29">nadiskobrehan ko nga gihimo sa Dios ang tawo nga matarong</para>
-  <para style="q2" vid="ECC 7:29">apan nagtinguha kini sa pagbuhat ug daotan.”<verse eid="ECC 7:29"/></para>
-  <para style="b"/>
-  <chapter eid="ECC 7"/>
-  <chapter number="8" style="c" sid="ECC 8"/>
+  <para style="q2" vid="ECC 7:29">apan nagtinguha kini sa pagbuhat ug daotan.”<verse eid="ECC 7:29" /></para>
+  <para style="b" />
+  <chapter eid="ECC 7" />
+  <chapter number="8" style="c" sid="ECC 8" />
   <para style="q1">
-    <verse number="1" style="v" sid="ECC 8:1"/>Pagkaanindot nga mahimong maalamon</para>
+    <verse number="1" style="v" sid="ECC 8:1" />Pagkaanindot nga mahimong maalamon</para>
   <para style="q2" vid="ECC 8:1">ug mahibalong mobatbat sa tanang butang.</para>
   <para style="q1" vid="ECC 8:1">Ang kaalam makapasadya sa dagway sa usa ka tawo,</para>
-  <para style="q2" vid="ECC 8:1">ug makapahanaw sa pagmug-ot.<verse eid="ECC 8:1"/></para>
+  <para style="q2" vid="ECC 8:1">ug makapahanaw sa pagmug-ot.<verse eid="ECC 8:1" /></para>
   <para style="s1">Tumana ang Hari</para>
   <para style="p">
-    <verse number="2" style="v" sid="ECC 8:2"/>Tumana ang sugo sa hari tungod kay misaad ka sa Dios nga himuon kini. <verse eid="ECC 8:2"/><verse number="3" style="v" sid="ECC 8:3"/>Ayaw pagdali-dali ug biya sa imong katungdanan sa hari, ug ayaw pag-uban sa mga nagplano ug daotan batok kaniya, kay mahimo sa hari ang bisan unsa nga iyang gusto. <verse eid="ECC 8:3"/><verse number="4" style="v" sid="ECC 8:4"/>Gamhanan kaayo ang mga sugo sa hari, ug walay makasupak niini.<verse eid="ECC 8:4"/></para>
+    <verse number="2" style="v" sid="ECC 8:2" />Tumana ang sugo sa hari tungod kay misaad ka sa Dios nga himuon kini. <verse eid="ECC 8:2" /><verse number="3" style="v" sid="ECC 8:3" />Ayaw pagdali-dali ug biya sa imong katungdanan sa hari, ug ayaw pag-uban sa mga nagplano ug daotan batok kaniya, kay mahimo sa hari ang bisan unsa nga iyang gusto. <verse eid="ECC 8:3" /><verse number="4" style="v" sid="ECC 8:4" />Gamhanan kaayo ang mga sugo sa hari, ug walay makasupak niini.<verse eid="ECC 8:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="ECC 8:5"/>Walay daotang mahitabo sa tawo nga nagtuman niini.</para>
+    <verse number="5" style="v" sid="ECC 8:5" />Walay daotang mahitabo sa tawo nga nagtuman niini.</para>
   <para style="q2" vid="ECC 8:5">Ang maalamon nga tawo nakahibalo kon kanus-a</para>
-  <para style="q2" vid="ECC 8:5">ug unsaon niya paghimo ang usa ka butang.<verse eid="ECC 8:5"/></para>
+  <para style="q2" vid="ECC 8:5">ug unsaon niya paghimo ang usa ka butang.<verse eid="ECC 8:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="ECC 8:6"/>Kay adunay hustong panahon ug pamaagi sa paghimo sa matag butang,</para>
-  <para style="q2" vid="ECC 8:6">luyo sa daghang mga kalisod nga ginaatubang sa tawo.<verse eid="ECC 8:6"/></para>
+    <verse number="6" style="v" sid="ECC 8:6" />Kay adunay hustong panahon ug pamaagi sa paghimo sa matag butang,</para>
+  <para style="q2" vid="ECC 8:6">luyo sa daghang kalisod nga ginaatubang sa tawo.<verse eid="ECC 8:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="ECC 8:7"/>Tungod kay walay tawo nga nakahibalo sa umaabot,</para>
-  <para style="q2" vid="ECC 8:7">walay makasulti kang bisan kinsa kon unsa ang mahitabo.<verse eid="ECC 8:7"/></para>
+    <verse number="7" style="v" sid="ECC 8:7" />Tungod kay walay tawo nga nakahibalo sa umaabot,</para>
+  <para style="q2" vid="ECC 8:7">walay makasulti kang bisan kinsa kon unsa ang mahitabo.<verse eid="ECC 8:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="ECC 8:8"/>Maingon nga dili mapugngan sa tawo ang hangin,<note caller="+" style="f"><char style="fr" closed="false">8:8 </char><char style="fq" closed="false">Maingon nga…hangin</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">Dili mapugngan sa tawo ang iyang espiritu kon mobiya na.</char></note></para>
+    <verse number="8" style="v" sid="ECC 8:8" />Maingon nga dili mapugngan sa tawo ang hangin,<note caller="+" style="f"><char style="fr" closed="false">8:8 </char><char style="fq" closed="false">Maingon nga…hangin</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">Dili mapugngan sa tawo ang iyang espiritu kon mobiya na.</char></note></para>
   <para style="q2" vid="ECC 8:8">dili usab niya mapugngan ang iyang kamatayon.</para>
   <para style="q1" vid="ECC 8:8">Usa kini ka pagpakigbisog nga dili nato malikayan.</para>
   <para style="q2" vid="ECC 8:8">Ug atubangan sa kamatayon, ang kadaotan sa usa ka tawo</para>
-  <para style="q2" vid="ECC 8:8">dili gayod makaluwas kaniya.<verse eid="ECC 8:8"/></para>
+  <para style="q2" vid="ECC 8:8">dili gayod makaluwas kaniya.<verse eid="ECC 8:8" /></para>
   <para style="p">
-    <verse number="9" style="v" sid="ECC 8:9"/>Nakita ko kining tanan samtang gihuna-huna ko ang bahin sa mga butang nga ginahimo dinhi sa kalibotan diin ang usa ka tawo adunay gahom sa pagpasakit sa iyang isigka-tawo. <verse eid="ECC 8:9"/><verse number="10" style="v" sid="ECC 8:10"/>Nakita ko usab ang mga tawong daotan nga gilubong ug gikalimtan. Kanhi, kanunay silang magsulod-gawas sa balaan nga siyudad sa Jerusalem diin naghimo silag daotan, ug gidayeg<note caller="+" style="f"><char style="fr" closed="false">8:10 </char><char style="fq" closed="false">gidayeg</char><char style="ft" closed="false">: mao kini sa ubang mga manuskrito sa Hebreo ug sa Septuagint; apan sa kadaghanan sa mga manuskrito sa Hebreo, </char><char style="fqa" closed="false">gikalimtan.</char></note> sila didto mismo sa dapit diin naghimo sila niini. Wala usab kini kapuslanan.<verse eid="ECC 8:10"/></para>
+    <verse number="9" style="v" sid="ECC 8:9" />Nakita ko kining tanan samtang gihuna-huna ko ang bahin sa mga butang nga ginahimo dinhi sa kalibotan diin ang usa ka tawo adunay gahom sa pagpasakit sa iyang isigka-tawo. <verse eid="ECC 8:9" /><verse number="10" style="v" sid="ECC 8:10" />Nakita ko usab ang mga tawong daotan nga gilubong ug gikalimtan. Kanhi, kanunay silang magsulod-gawas sa balaan nga siyudad sa Jerusalem diin naghimo silag daotan, ug gidayeg<note caller="+" style="f"><char style="fr" closed="false">8:10 </char><char style="fq" closed="false">gidayeg</char><char style="ft" closed="false">: mao kini sa ubang mga manuskrito sa Hebreo ug sa Septuagint; apan sa kadaghanan sa mga manuskrito sa Hebreo, </char><char style="fqa" closed="false">gikalimtan.</char></note> sila didto mismo sa dapit diin naghimo sila niini. Wala usab kini kapuslanan.<verse eid="ECC 8:10" /></para>
   <para style="p">
-    <verse number="11" style="v" sid="ECC 8:11"/>Kon dili dayon mahukman ang tawo nga nakasala, mosamot paghuna-huna ang uban sa paghimo ug daotan. <verse eid="ECC 8:11"/><verse number="12" style="v" sid="ECC 8:12"/>Bisan makasala sa makadaghan ang tawong daotan ug mabuhi ug taas, nasayod ako nga mas maayo ang dangatan sa tawo nga nagtahod sa Dios. <verse eid="ECC 8:12"/><verse number="13" style="v" sid="ECC 8:13"/>Dili mouswag ang tawong daotan kay wala siya motahod sa Dios, ug dili siya makaangkon ug taas nga kinabuhi. <verse eid="ECC 8:13"/><verse number="14" style="v" sid="ECC 8:14"/>Apan adunay mga butang nga dili masabtan dinhi sa kalibotan. Usahay ang matarong nga mga tawo mao ang makadawat sa silot nga alang unta sa daotang mga tawo, ug ang daotan mao ang makadawat sa ganti nga alang unta sa mga matarong. Makaingon ako nga wala usab kini kapuslanan.<verse eid="ECC 8:14"/></para>
+    <verse number="11" style="v" sid="ECC 8:11" />Kon dili dayon mahukman ang tawo nga nakasala, mosamot paghuna-huna ang uban sa paghimo ug daotan. <verse eid="ECC 8:11" /><verse number="12" style="v" sid="ECC 8:12" />Bisan makasala sa makadaghan ang tawong daotan ug mabuhi ug taas, nasayod ako nga mas maayo ang dangatan sa tawo nga nagtahod sa Dios. <verse eid="ECC 8:12" /><verse number="13" style="v" sid="ECC 8:13" />Dili mouswag ang tawong daotan kay wala siya motahod sa Dios, ug dili siya makaangkon ug taas nga kinabuhi. <verse eid="ECC 8:13" /><verse number="14" style="v" sid="ECC 8:14" />Apan adunay mga butang nga dili masabtan dinhi sa kalibotan. Usahay ang matarong nga mga tawo mao ang makadawat sa silot nga alang unta sa daotang mga tawo, ug ang daotan mao ang makadawat sa ganti nga alang unta sa mga matarong. Makaingon ako nga wala usab kini kapuslanan.<verse eid="ECC 8:14" /></para>
   <para style="p">
-    <verse number="15" style="v" sid="ECC 8:15"/>Busa alang kanako, mas maayo alang sa tawo nga magpahimulos sa iyang kinabuhi kay walay laing maayo alang kaniya dinhi sa kalibotan kondili ang pagkaon, pag-inom, ug paglipay. Niining paagiha makasinati siya ug kalipay samtang gahago siya sa tibuok kinabuhi nga gihatag sa Dios kaniya dinhi sa kalibotan.<verse eid="ECC 8:15"/></para>
+    <verse number="15" style="v" sid="ECC 8:15" />Busa alang kanako, mas maayo alang sa tawo nga magpahimulos sa iyang kinabuhi kay walay laing maayo alang kaniya dinhi sa kalibotan kondili ang pagkaon, pag-inom, ug paglipay. Niining paagiha makasinati siya ug kalipay samtang gahago siya sa tibuok kinabuhi nga gihatag sa Dios kaniya dinhi sa kalibotan.<verse eid="ECC 8:15" /></para>
   <para style="p">
-    <verse number="16" style="v" sid="ECC 8:16"/>Adlaw ug gabii dili ako makatulog sa pagpaninguha nga makaangkon ug kaalam aron masabtan ko ang mga nahitabo sa kalibotan. <verse eid="ECC 8:16"/><verse number="17" style="v" sid="ECC 8:17"/>Nakita ko ang tanan nga ginahimo sa Dios dinhi sa kalibotan, ug wala gayoy tawo nga makasabot niini. Bisan pa ug unsaon pagpaningkamot sa tawo nga makasabot niini, dili gayod niya kini masabtan. Bisag moingon pa ang tawong maalamon nga makasabot siya, ang tinuod dili siya makasabot.<verse eid="ECC 8:17"/></para>
-  <chapter eid="ECC 8"/>
-  <chapter number="9" style="c" sid="ECC 9"/>
+    <verse number="16" style="v" sid="ECC 8:16" />Adlaw ug gabii dili ako makatulog sa pagpaninguha nga makaangkon ug kaalam aron masabtan ko ang mga nahitabo sa kalibotan. <verse eid="ECC 8:16" /><verse number="17" style="v" sid="ECC 8:17" />Nakita ko ang tanan nga ginahimo sa Dios dinhi sa kalibotan, ug wala gayoy tawo nga makasabot niini. Bisan pa ug unsaon pagpaningkamot sa tawo nga makasabot niini, dili gayod niya kini masabtan. Bisag moingon pa ang tawong maalamon nga makasabot siya, ang tinuod dili siya makasabot.<verse eid="ECC 8:17" /></para>
+  <chapter eid="ECC 8" />
+  <chapter number="9" style="c" sid="ECC 9" />
   <para style="p">
-    <verse number="1" style="v" sid="ECC 9:1"/>Gipamalandongan ko gayod kadtong tanang mga butang, ug nasuta ko nga ilalom sa pagbuot sa Dios ang mga matarong ug maalamon nga tawo, apil ang ilang mga binuhatan. Apan wala masayod ang tawo kon gugma ba o kasilag ang naghulat kaniya. <verse eid="ECC 9:1"/><verse number="2" style="v" sid="ECC 9:2"/>Usa lang ang dangatan sa tanang klasi sa tawo kung matarong o daotan, maayo o dili maayo,<note caller="+" style="f"><char style="fr" closed="false">9:2 </char><char style="fq" closed="false">o dili maayo</char><char style="ft" closed="false">: wala kini sa Hebreo, apan makita sa ubang karaang mga teksto.</char></note> mga tawong giisip nga hinlo ug ang giisip nga hugaw,<note caller="+" style="f"><char style="fr" closed="false">9:2 </char><char style="ft" closed="false">Ang takos ug ang dili takos nga motambong sa pagsimba.</char></note> ug ang gahalad o wala gahalad.</para>
+    <verse number="1" style="v" sid="ECC 9:1" />Gipamalandongan ko gayod kadtong tanang mga butang, ug nasuta ko nga ilalom sa pagbuot sa Dios ang mga matarong ug maalamon nga tawo, apil ang ilang mga binuhatan. Apan wala masayod ang tawo kon gugma ba o kasilag ang naghulat kaniya. <verse eid="ECC 9:1" /><verse number="2" style="v" sid="ECC 9:2" />Usa lang ang dangatan sa tanang klasi sa tawo kung matarong o daotan, maayo o dili maayo,<note caller="+" style="f"><char style="fr" closed="false">9:2 </char><char style="fq" closed="false">o dili maayo</char><char style="ft" closed="false">: wala kini sa Hebreo, apan makita sa ubang karaang mga teksto.</char></note> mga tawong giisip nga hinlo ug ang giisip nga hugaw,<note caller="+" style="f"><char style="fr" closed="false">9:2 </char><char style="ft" closed="false">Ang takos ug ang dili takos nga motambong sa pagsimba.</char></note> ug ang gahalad o wala gahalad.</para>
   <para style="q1" vid="ECC 9:2">Managsama ra ang tawong maayo</para>
   <para style="q2" vid="ECC 9:2">ug ang makasasala,</para>
   <para style="q1" vid="ECC 9:2">ang tawong gapanumpa</para>
-  <para style="q2" vid="ECC 9:2">ug ang naglikay sa pagpanumpa.<verse eid="ECC 9:2"/></para>
+  <para style="q2" vid="ECC 9:2">ug ang naglikay sa pagpanumpa.<verse eid="ECC 9:2" /></para>
   <para style="p">
-    <verse number="3" style="v" sid="ECC 9:3"/>Mao kini ang nakadaot sa tanang nahitabo sa kalibotan: usa lang ang dangatan sa tanan. Ug dugang pa niana, puno usab sa kadaotan ug kabuang ang huna-huna sa tawo samtang buhi pa siya, ug human niana, mamatay siya. <verse eid="ECC 9:3"/><verse number="4" style="v" sid="ECC 9:4"/>Maingon nga mas maayo pa ang buhi nga iro kaysa patay nga liyon, ang buhi nga tawo mas maayo pa kaysa patay nga tawo. Kay ang buhi aduna pay paglaom.<verse eid="ECC 9:4"/></para>
+    <verse number="3" style="v" sid="ECC 9:3" />Mao kini ang nakadaot sa tanang nahitabo sa kalibotan: usa lang ang dangatan sa tanan. Ug dugang pa niana, puno usab sa kadaotan ug kabuang ang huna-huna sa tawo samtang buhi pa siya, ug human niana, mamatay siya. <verse eid="ECC 9:3" /><verse number="4" style="v" sid="ECC 9:4" />Maingon nga mas maayo pa ang buhi nga iro kaysa patay nga liyon, ang buhi nga tawo mas maayo pa kaysa patay nga tawo. Kay ang buhi aduna pay paglaom.<verse eid="ECC 9:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="ECC 9:5"/>Sa tinuod, nasayod ang buhi nga tawo nga mamatay siya,</para>
+    <verse number="5" style="v" sid="ECC 9:5" />Sa tinuod, nasayod ang buhi nga tawo nga mamatay siya,</para>
   <para style="q2" vid="ECC 9:5">apan ang patay walay nahibaloan.</para>
   <para style="q1" vid="ECC 9:5">Wala na siyay ganti nga madawat,</para>
-  <para style="q2" vid="ECC 9:5">ug malimtan na siya.<verse eid="ECC 9:5"/></para>
+  <para style="q2" vid="ECC 9:5">ug malimtan na siya.<verse eid="ECC 9:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="ECC 9:6"/>Nawala na ang iyang gugma, kasilag ug kasina,</para>
+    <verse number="6" style="v" sid="ECC 9:6" />Nawala na ang iyang gugma, kasilag ug kasina,</para>
   <para style="q2" vid="ECC 9:6">ug wala na siyay labot sa tanang nahitabo</para>
-  <para style="q2" vid="ECC 9:6">dinhi sa kalibotan hangtod sa hangtod.<verse eid="ECC 9:6"/></para>
+  <para style="q2" vid="ECC 9:6">dinhi sa kalibotan hangtod sa hangtod.<verse eid="ECC 9:6" /></para>
   <para style="p">
-    <verse number="7" style="v" sid="ECC 9:7"/>Sige paglipay, kaon ug inom ug bino, kay gitugotan nang daan sa Dios nga himuon mo kini. <verse eid="ECC 9:7"/><verse number="8" style="v" sid="ECC 9:8"/>Pagsadya ug paglipay sa kanunay.<note caller="+" style="f"><char style="fr" closed="false">9:8 </char><char style="fq" closed="false">paglipay sa kanunay</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">pagsul-ob ug bisti nga puti ug panghiso ug lana sa imong ulo.</char></note> <verse eid="ECC 9:8"/><verse number="9" style="v" sid="ECC 9:9"/>Pagkinabuhi nga malipayon uban sa hinigugma mong asawa samtang gipahimuslan mo ang lumalabay nga kinabuhi nga gihatag sa Dios kanimo dinhi sa kalibotan. Mao kana ang imong ganti sa imong paghago dinhi sa kalibotan. <verse eid="ECC 9:9"/><verse number="10" style="v" sid="ECC 9:10"/>Pagkugi sa tanan mong buluhaton, kay didto sa dapit sa mga patay nga imong padulngan wala nay trabaho, panghuna-huna, kaalam o kahibalo.<verse eid="ECC 9:10"/></para>
+    <verse number="7" style="v" sid="ECC 9:7" />Sige paglipay, kaon ug inom ug bino, kay gitugotan nang daan sa Dios nga himuon mo kini. <verse eid="ECC 9:7" /><verse number="8" style="v" sid="ECC 9:8" />Pagsadya ug paglipay sa kanunay.<note caller="+" style="f"><char style="fr" closed="false">9:8 </char><char style="fq" closed="false">paglipay sa kanunay</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">pagsul-ob ug bisti nga puti ug panghiso ug lana sa imong ulo.</char></note> <verse eid="ECC 9:8" /><verse number="9" style="v" sid="ECC 9:9" />Pagkinabuhi nga malipayon uban sa hinigugma mong asawa samtang gipahimuslan mo ang lumalabay nga kinabuhi nga gihatag sa Dios kanimo dinhi sa kalibotan. Mao kana ang imong ganti sa imong paghago dinhi sa kalibotan. <verse eid="ECC 9:9" /><verse number="10" style="v" sid="ECC 9:10" />Pagkugi sa tanan mong buluhaton, kay didto sa dapit sa mga patay nga imong padulngan wala nay trabaho, panghuna-huna, kaalam o kahibalo.<verse eid="ECC 9:10" /></para>
   <para style="p">
-    <verse number="11" style="v" sid="ECC 9:11"/>Adunay nakita pa gayod ako dinhi sa kalibotan:</para>
+    <verse number="11" style="v" sid="ECC 9:11" />Adunay nakita pa gayod ako dinhi sa kalibotan:</para>
   <para style="q1" vid="ECC 9:11">Dili tanang kusog modagan makadaog sa lumba,</para>
   <para style="q2" vid="ECC 9:11">ug dili tanang maisog makadaog sa gira.</para>
   <para style="q1" vid="ECC 9:11">Dili tanang maalamon makakita ug pangabuhian,</para>
   <para style="q2" vid="ECC 9:11">dili tanang utokan maadunahan,</para>
   <para style="q2" vid="ECC 9:11">ug dili tanang adunay abilidad paboran.</para>
-  <para style="q1" vid="ECC 9:11">Kay moabot sa matag tawo ang panahon nga wala niya damha.<verse eid="ECC 9:11"/></para>
+  <para style="q1" vid="ECC 9:11">Kay moabot sa matag tawo ang panahon nga wala niya damha.<verse eid="ECC 9:11" /></para>
   <para style="p">
-    <verse number="12" style="v" sid="ECC 9:12"/>Ug dugang pa niana, wala usab siya masayod kon kanus-a moabot ang iyang panahon.</para>
+    <verse number="12" style="v" sid="ECC 9:12" />Ug dugang pa niana, wala usab siya masayod kon kanus-a moabot ang iyang panahon.</para>
   <para style="q1" vid="ECC 9:12">Sama sa langgam nga nalit-agan</para>
   <para style="q2" vid="ECC 9:12">o sa isda nga napukotan;</para>
   <para style="q1" vid="ECC 9:12">mabiktima usab ang tawo sa daotang mga hitabo</para>
-  <para style="q2" vid="ECC 9:12">nga kalit lang moabot kanila.<verse eid="ECC 9:12"/></para>
+  <para style="q2" vid="ECC 9:12">nga kalit lang moabot kanila.<verse eid="ECC 9:12" /></para>
   <para style="s1">Mas Maayo ang adunay Kaalam</para>
   <para style="p">
-    <verse number="13" style="v" sid="ECC 9:13"/>Nakita ko usab dinhi sa kalibotan ang usa ka panig-ingnan sa kaalam nga giangayan ko gayod: <verse eid="ECC 9:13"/><verse number="14" style="v" sid="ECC 9:14"/>Adunay usa ka gamay nga lungsod diin gamay lang ang mga lumulupyo. Gilibotan kini sa usa ka gamhanang hari kauban ang iyang mga sundalo. Nangandam sila sa pagguba sa mga paril niini, ug unya misulong sila. <verse eid="ECC 9:14"/><verse number="15" style="v" sid="ECC 9:15"/>Didto sa maong lungsod, adunay usa ka tawo nga kabos apan maalamon, ug giluwas niya ang maong siyudad pinaagi sa iyang kaalam. Apan pagkahuman niadto, wala na siya hinumdomi sa mga tawo. <verse eid="ECC 9:15"/><verse number="16" style="v" sid="ECC 9:16"/>Busa nakaingon ako nga mas maayo ang kaalam kaysa kusog, apan ang kaalam sa tawong kabos ginatamay ug walay mohatag ug pagtagad sa iyang mga tambag.<verse eid="ECC 9:16"/></para>
+    <verse number="13" style="v" sid="ECC 9:13" />Nakita ko usab dinhi sa kalibotan ang usa ka panig-ingnan sa kaalam nga giangayan ko gayod: <verse eid="ECC 9:13" /><verse number="14" style="v" sid="ECC 9:14" />Adunay usa ka gamay nga lungsod diin gamay lang ang mga lumulupyo. Gilibotan kini sa usa ka gamhanang hari kauban ang iyang mga sundalo. Nangandam sila sa pagguba sa mga paril niini, ug unya misulong sila. <verse eid="ECC 9:14" /><verse number="15" style="v" sid="ECC 9:15" />Didto sa maong lungsod, adunay usa ka tawo nga kabos apan maalamon, ug giluwas niya ang maong siyudad pinaagi sa iyang kaalam. Apan pagkahuman niadto, wala na siya hinumdomi sa mga tawo. <verse eid="ECC 9:15" /><verse number="16" style="v" sid="ECC 9:16" />Busa nakaingon ako nga mas maayo ang kaalam kaysa kusog, apan ang kaalam sa tawong kabos ginatamay ug walay mohatag ug pagtagad sa iyang mga tambag.<verse eid="ECC 9:16" /></para>
   <para style="q1">
-    <verse number="17" style="v" sid="ECC 9:17"/>Mas maayo pa nga mamati sa hinay nga sulti sa maalamon nga tawo</para>
-  <para style="q2" vid="ECC 9:17">kaysa mamati sa singgit sa pangulo sa mga buang-buang.<verse eid="ECC 9:17"/></para>
+    <verse number="17" style="v" sid="ECC 9:17" />Mas maayo pa nga mamati sa hinay nga sulti sa maalamon nga tawo</para>
+  <para style="q2" vid="ECC 9:17">kaysa mamati sa singgit sa pangulo sa mga buang-buang.<verse eid="ECC 9:17" /></para>
   <para style="q1">
-    <verse number="18" style="v" sid="ECC 9:18"/>Mas maayo ang kaalam kaysa mga armas sa gira.</para>
-  <para style="q2" vid="ECC 9:18">Apan ang usa ka makasasala makadaot sa daghang kaayohan.<verse eid="ECC 9:18"/></para>
-  <para style="b"/>
-  <chapter eid="ECC 9"/>
-  <chapter number="10" style="c" sid="ECC 10"/>
+    <verse number="18" style="v" sid="ECC 9:18" />Mas maayo ang kaalam kaysa mga armas sa gira.</para>
+  <para style="q2" vid="ECC 9:18">Apan ang usa ka makasasala makadaot sa daghang kaayohan.<verse eid="ECC 9:18" /></para>
+  <para style="b" />
+  <chapter eid="ECC 9" />
+  <chapter number="10" style="c" sid="ECC 10" />
   <para style="q1">
-    <verse number="1" style="v" sid="ECC 10:1"/>Ingon nga ang patay nga mga langaw makadaot sa pahumot,</para>
-  <para style="q2" vid="ECC 10:1">ang gamay nga binuang makadaot sa kaalam ug dungog.<verse eid="ECC 10:1"/></para>
+    <verse number="1" style="v" sid="ECC 10:1" />Ingon nga ang patay nga mga langaw makadaot sa pahumot,</para>
+  <para style="q2" vid="ECC 10:1">ang gamay nga binuang makadaot sa kaalam ug dungog.<verse eid="ECC 10:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="ECC 10:2"/>Ang tawong maalamon gustong maghimo ug maayo,</para>
-  <para style="q2" vid="ECC 10:2">apan ang buang-buang gustong maghimo ug daotan.<verse eid="ECC 10:2"/></para>
+    <verse number="2" style="v" sid="ECC 10:2" />Ang tawong maalamon gustong maghimo ug maayo,</para>
+  <para style="q2" vid="ECC 10:2">apan ang buang-buang gustong maghimo ug daotan.<verse eid="ECC 10:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="ECC 10:3"/>Bisan sa linakwan lang sa buang-buang,</para>
+    <verse number="3" style="v" sid="ECC 10:3" />Bisan sa linakwan lang sa buang-buang,</para>
   <para style="q2" vid="ECC 10:3">mahibaloan na nga wala siyay panabot.</para>
-  <para style="q2" vid="ECC 10:3">Ginapakita gayod niya sa tanan ang iyang pagkabuang-buang.<verse eid="ECC 10:3"/></para>
+  <para style="q2" vid="ECC 10:3">Ginapakita gayod niya sa tanan ang iyang pagkabuang-buang.<verse eid="ECC 10:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="ECC 10:4"/>Kon masuko kanimo ang tigdumala</para>
+    <verse number="4" style="v" sid="ECC 10:4" />Kon masuko kanimo ang tigdumala</para>
   <para style="q2" vid="ECC 10:4">ayaw pasagdi ang imong katungdanan,</para>
   <para style="q1" vid="ECC 10:4">kay kon magmapailubon ka, basig pasayloon ka pa niya</para>
-  <para style="q2" vid="ECC 10:4">bisan ug dako ang imong nahimo nga sala.<verse eid="ECC 10:4"/></para>
+  <para style="q2" vid="ECC 10:4">bisan ug dako ang imong nahimo nga sala.<verse eid="ECC 10:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="ECC 10:5"/>Adunay usa pa ka dili maayo nga butang nga nakita ko dinhi sa kalibotan,</para>
-  <para style="q2" vid="ECC 10:5">ug kini ginahimo sa mga pangulo:<verse eid="ECC 10:5"/></para>
+    <verse number="5" style="v" sid="ECC 10:5" />Adunay usa pa ka dili maayo nga butang nga nakita ko dinhi sa kalibotan,</para>
+  <para style="q2" vid="ECC 10:5">ug kini ginahimo sa mga pangulo:<verse eid="ECC 10:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="ECC 10:6"/>Ang mga buang-buang gihatagan ug taas nga posisyon</para>
-  <para style="q2" vid="ECC 10:6">apan ang mga adunahan<note caller="+" style="f"><char style="fr" closed="false">10:6 </char><char style="fq" closed="false">adunahan</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">dungganon.</char></note> gihatagan ug mubo nga posisyon.<verse eid="ECC 10:6"/></para>
+    <verse number="6" style="v" sid="ECC 10:6" />Ang mga buang-buang gihatagan ug taas nga posisyon</para>
+  <para style="q2" vid="ECC 10:6">apan ang mga adunahan<note caller="+" style="f"><char style="fr" closed="false">10:6 </char><char style="fq" closed="false">adunahan</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">dungganon.</char></note> gihatagan ug mubo nga posisyon.<verse eid="ECC 10:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="ECC 10:7"/>Nakita ko nga ang mga ulipon nagsakay sa kabayo</para>
+    <verse number="7" style="v" sid="ECC 10:7" />Nakita ko nga ang mga ulipon nagsakay sa kabayo</para>
   <para style="q2" vid="ECC 10:7">samtang ang mga tawong dungganon naglakaw lang</para>
-  <para style="q2" vid="ECC 10:7">nga daw mga ulipon.<verse eid="ECC 10:7"/></para>
+  <para style="q2" vid="ECC 10:7">nga daw mga ulipon.<verse eid="ECC 10:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="ECC 10:8"/>Kon magbangag ka, lagmit mahulog ka.</para>
+    <verse number="8" style="v" sid="ECC 10:8" />Kon magbangag ka, lagmit mahulog ka.</para>
   <para style="q2" vid="ECC 10:8">Kon molusot ka sa bangag sa paril,</para>
-  <para style="q2" vid="ECC 10:8">lagmit mapaakan ka ug bitin.<verse eid="ECC 10:8"/></para>
+  <para style="q2" vid="ECC 10:8">lagmit mapaakan ka ug bitin.<verse eid="ECC 10:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="ECC 10:9"/>Kon maglukat ka ug bato, lagmit malugpitan ka.</para>
-  <para style="q2" vid="ECC 10:9">Kon magbugha ka ug kahoy, lagmit masamad ka.<verse eid="ECC 10:9"/></para>
+    <verse number="9" style="v" sid="ECC 10:9" />Kon maglukat ka ug bato, lagmit malugpitan ka.</para>
+  <para style="q2" vid="ECC 10:9">Kon magbugha ka ug kahoy, lagmit masamad ka.<verse eid="ECC 10:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="ECC 10:10"/>Kon habol ang imong atsa ug dili mo kini bairon,</para>
+    <verse number="10" style="v" sid="ECC 10:10" />Kon habol ang imong atsa ug dili mo kini bairon,</para>
   <para style="q2" vid="ECC 10:10">mangusog ka gayod ug maayo sa paggamit niini.</para>
   <para style="q1" vid="ECC 10:10">Mao kana ang maayo sa adunay kaalam;</para>
-  <para style="q2" vid="ECC 10:10">makatabang kini kanimo nga magmalampuson.<verse eid="ECC 10:10"/></para>
+  <para style="q2" vid="ECC 10:10">makatabang kini kanimo nga magmalampuson.<verse eid="ECC 10:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="ECC 10:11"/>Walay kapuslanan ang imong abilidad sa pagpaamo sa bitin</para>
-  <para style="q2" vid="ECC 10:11">kon napaakan ka na niini.<verse eid="ECC 10:11"/></para>
+    <verse number="11" style="v" sid="ECC 10:11" />Walay kapuslanan ang imong abilidad sa pagpaamo sa bitin</para>
+  <para style="q2" vid="ECC 10:11">kon napaakan ka na niini.<verse eid="ECC 10:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="ECC 10:12"/>Ang mga pulong sa tawong maalamon makahatag kaniya ug kaayohan,</para>
-  <para style="q2" vid="ECC 10:12">apan ang mga pulong sa tawong buang-buang makalaglag kaniya.<verse eid="ECC 10:12"/></para>
+    <verse number="12" style="v" sid="ECC 10:12" />Ang mga pulong sa tawong maalamon makahatag kaniya ug kaayohan,</para>
+  <para style="q2" vid="ECC 10:12">apan ang mga pulong sa tawong buang-buang makalaglag kaniya.<verse eid="ECC 10:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="ECC 10:13"/>Ang buang-buang magsugod ug sultig mga binuang</para>
-  <para style="q2" vid="ECC 10:13">nga sa kaulahian makahatag ug kadaot.<verse eid="ECC 10:13"/></para>
+    <verse number="13" style="v" sid="ECC 10:13" />Ang buang-buang magsugod ug sultig mga binuang</para>
+  <para style="q2" vid="ECC 10:13">nga sa kaulahian makahatag ug kadaot.<verse eid="ECC 10:13" /></para>
   <para style="q2">
-    <verse number="14" style="v" sid="ECC 10:14"/>Dili gayod siya moundang ug sulti.</para>
+    <verse number="14" style="v" sid="ECC 10:14" />Dili gayod siya moundang ug sulti.</para>
   <para style="q1" vid="ECC 10:14">Wala gayoy nasayod sa umaabot, ug walay makasulti kanato</para>
-  <para style="q2" vid="ECC 10:14">kon unsa ang mahitabo human kita mamatay.<verse eid="ECC 10:14"/></para>
+  <para style="q2" vid="ECC 10:14">kon unsa ang mahitabo human kita mamatay.<verse eid="ECC 10:14" /></para>
   <para style="q1">
-    <verse number="15" style="v" sid="ECC 10:15"/>Ang trabaho sa buang-buang makapakapoy kaniya,</para>
-  <para style="q2" vid="ECC 10:15">busa naghuna-huna siya nga dili na lang siya moadto sa lungsod sa pagtrabaho.<note caller="+" style="f"><char style="fr" closed="false">10:15 </char><char style="fq" closed="false">busa…pagtrabaho</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">dili siya katuod moadtog lungsod.</char></note><verse eid="ECC 10:15"/></para>
+    <verse number="15" style="v" sid="ECC 10:15" />Ang trabaho sa buang-buang makapakapoy kaniya,</para>
+  <para style="q2" vid="ECC 10:15">busa naghuna-huna siya nga dili na lang siya moadto sa lungsod sa pagtrabaho.<note caller="+" style="f"><char style="fr" closed="false">10:15 </char><char style="fq" closed="false">busa…pagtrabaho</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">dili siya katuod moadtog lungsod.</char></note><verse eid="ECC 10:15" /></para>
   <para style="q1">
-    <verse number="16" style="v" sid="ECC 10:16"/>Alaot ang nasod nga ang hari niini ulipon kaniadto,</para>
-  <para style="q2" vid="ECC 10:16">ug ang mga pangulo niini nagkombira lang sa tibuok adlaw.<verse eid="ECC 10:16"/></para>
+    <verse number="16" style="v" sid="ECC 10:16" />Alaot ang nasod nga ang hari niini ulipon kaniadto,</para>
+  <para style="q2" vid="ECC 10:16">ug ang mga pangulo niini nagkombira lang sa tibuok adlaw.<verse eid="ECC 10:16" /></para>
   <para style="q1">
-    <verse number="17" style="v" sid="ECC 10:17"/>Apan bulahan ang nasod nga ang hari niini natawo sa dungganon nga pamilya</para>
+    <verse number="17" style="v" sid="ECC 10:17" />Apan bulahan ang nasod nga ang hari niini natawo sa dungganon nga pamilya</para>
   <para style="q2" vid="ECC 10:17">ug ang mga pangulo niini nagkombira sa hustong panahon</para>
-  <para style="q2" vid="ECC 10:17">aron sa paglig-on sa ilang kaugalingon ug dili aron maghubog.<verse eid="ECC 10:17"/></para>
+  <para style="q2" vid="ECC 10:17">aron sa paglig-on sa ilang kaugalingon ug dili aron maghubog.<verse eid="ECC 10:17" /></para>
   <para style="q1">
-    <verse number="18" style="v" sid="ECC 10:18"/>Kon ang usa ka tawo tapolan moatiman sa atop sa iyang balay,</para>
-  <para style="q2" vid="ECC 10:18">magtulo kini ug mahugno ang mga sablayan.<verse eid="ECC 10:18"/></para>
+    <verse number="18" style="v" sid="ECC 10:18" />Kon ang usa ka tawo tapolan moatiman sa atop sa iyang balay,</para>
+  <para style="q2" vid="ECC 10:18">magtulo kini ug mahugno ang mga sablayan.<verse eid="ECC 10:18" /></para>
   <para style="q1">
-    <verse number="19" style="v" sid="ECC 10:19"/>Ang pagkaon ug pag-inom makahatag ug kalipay sa tawo,</para>
-  <para style="q2" vid="ECC 10:19">ug ang kuwarta makahatag sa tanan niyang kinahanglanon.<verse eid="ECC 10:19"/></para>
+    <verse number="19" style="v" sid="ECC 10:19" />Ang pagkaon ug pag-inom makahatag ug kalipay sa tawo,</para>
+  <para style="q2" vid="ECC 10:19">ug ang kuwarta makahatag sa tanan niyang kinahanglanon.<verse eid="ECC 10:19" /></para>
   <para style="q1">
-    <verse number="20" style="v" sid="ECC 10:20"/>Ayaw panghimaraota ang hari bisan sa imong huna-huna,</para>
+    <verse number="20" style="v" sid="ECC 10:20" />Ayaw panghimaraota ang hari bisan sa imong huna-huna,</para>
   <para style="q2" vid="ECC 10:20">o ang adunahan bisan sa tago,</para>
-  <para style="q2" vid="ECC 10:20">kay tingalig adunay makasulti niini kanila.<note caller="+" style="f"><char style="fr" closed="false">10:20 </char><char style="fq" closed="false">kay tingalig…kanila</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">tingalig adunay langgam nga mosugilon niini kanila.</char></note><verse eid="ECC 10:20"/></para>
-  <chapter eid="ECC 10"/>
-  <chapter number="11" style="c" sid="ECC 11"/>
+  <para style="q2" vid="ECC 10:20">kay tingalig adunay makasulti niini kanila.<note caller="+" style="f"><char style="fr" closed="false">10:20 </char><char style="fq" closed="false">kay tingalig…kanila</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">tingalig adunay langgam nga mosugilon niini kanila.</char></note><verse eid="ECC 10:20" /></para>
+  <chapter eid="ECC 10" />
+  <chapter number="11" style="c" sid="ECC 11" />
   <para style="s1">Ang Ginahimo sa Maalamon nga Tawo</para>
   <para style="q1">
-    <verse number="1" style="v" sid="ECC 11:1"/>Ibutang ang imong bahandi sa negosyo</para>
+    <verse number="1" style="v" sid="ECC 11:1" />Ibutang ang imong bahandi sa negosyo</para>
   <para style="q2" vid="ECC 11:1">kay sa paglabay sa mga adlaw</para>
-  <para style="q2" vid="ECC 11:1">aduna kay mapaabot nga ganansya.<note caller="+" style="f"><char style="fr" closed="false">11:1 </char><char style="ft" closed="false">O </char><char style="fqa" closed="false">Pagmahinatagon, kay sa kaulahian balosan ka.</char></note><verse eid="ECC 11:1"/></para>
+  <para style="q2" vid="ECC 11:1">aduna kay mapaabot nga ganansya.<note caller="+" style="f"><char style="fr" closed="false">11:1 </char><char style="ft" closed="false">O </char><char style="fqa" closed="false">Pagmahinatagon, kay sa kaulahian balosan ka.</char></note><verse eid="ECC 11:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="ECC 11:2"/>Ibutang ang imong bahandi sa nagkalain-laing<note caller="+" style="f"><char style="fr" closed="false">11:2 </char><char style="fq" closed="false">sa nagkalain-laing</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">sa pito o sa walo usab.</char></note> mga negosyo,<note caller="+" style="f"><char style="fr" closed="false">11:2 </char><char style="fq" closed="false">Ibutang…negosyo</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">Panghatag sa daghang mga tawo.</char></note></para>
+    <verse number="2" style="v" sid="ECC 11:2" />Ibutang ang imong bahandi sa nagkalain-laing<note caller="+" style="f"><char style="fr" closed="false">11:2 </char><char style="fq" closed="false">sa nagkalain-laing</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">sa pito o sa walo usab.</char></note> mga negosyo,<note caller="+" style="f"><char style="fr" closed="false">11:2 </char><char style="fq" closed="false">Ibutang…negosyo</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">Panghatag sa daghang tawo.</char></note></para>
   <para style="q2" vid="ECC 11:2">kay wala ka masayod kon unsa nga kalamidad</para>
-  <para style="q2" vid="ECC 11:2">ang moabot sa kalibotan.<verse eid="ECC 11:2"/></para>
+  <para style="q2" vid="ECC 11:2">ang moabot sa kalibotan.<verse eid="ECC 11:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="ECC 11:3"/>Kon ang dag-om baga na, moulan.</para>
-  <para style="q2" vid="ECC 11:3">Ug kon asa natumba ang kahoy, didto kini magpabilin.<verse eid="ECC 11:3"/></para>
+    <verse number="3" style="v" sid="ECC 11:3" />Kon ang dag-om baga na, moulan.</para>
+  <para style="q2" vid="ECC 11:3">Ug kon asa natumba ang kahoy, didto kini magpabilin.<verse eid="ECC 11:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="ECC 11:4"/>Kon mag-agad ka sa panahon dili ka gayod makatanom</para>
-  <para style="q2" vid="ECC 11:4">ug wala kay maani.<verse eid="ECC 11:4"/></para>
+    <verse number="4" style="v" sid="ECC 11:4" />Kon mag-agad ka sa panahon dili ka gayod makatanom</para>
+  <para style="q2" vid="ECC 11:4">ug wala kay maani.<verse eid="ECC 11:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="ECC 11:5"/>Maingon nga wala ka masayod kon giunsa pagsugod</para>
+    <verse number="5" style="v" sid="ECC 11:5" />Maingon nga wala ka masayod kon giunsa pagsugod</para>
   <para style="q2" vid="ECC 11:5">sa kinabuhi sa bata<note caller="+" style="f"><char style="fr" closed="false">11:5 </char><char style="fq" closed="false">kon giunsa pagsugod sa kinabuhi sa bata</char><char style="ft" closed="false">: o </char><char style="fqa" closed="false">kon asa paingon ang hangin, ug unsaon pagporma ang bata.</char></note> diha sa tagoangkan sa iyang inahan,</para>
   <para style="q1" vid="ECC 11:5">dili mo usab masabtan ang ginahimo</para>
-  <para style="q2" vid="ECC 11:5">sa Dios nga Magbubuhat sa tanang butang.<verse eid="ECC 11:5"/></para>
+  <para style="q2" vid="ECC 11:5">sa Dios nga Magbubuhat sa tanang butang.<verse eid="ECC 11:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="ECC 11:6"/>Padayon lang sa pagpananom,</para>
+    <verse number="6" style="v" sid="ECC 11:6" />Padayon lang sa pagpananom,</para>
   <para style="q2" vid="ECC 11:6">kay wala ka masayod hain niini ang motubo pag-ayo,</para>
-  <para style="q2" vid="ECC 11:6">o kon maayo ba hinuon ang pagtubo sa tanan.<verse eid="ECC 11:6"/></para>
+  <para style="q2" vid="ECC 11:6">o kon maayo ba hinuon ang pagtubo sa tanan.<verse eid="ECC 11:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="ECC 11:7"/>Maayo gayod kon buhi ka pa.<verse eid="ECC 11:7"/></para>
+    <verse number="7" style="v" sid="ECC 11:7" />Maayo gayod kon buhi ka pa.<verse eid="ECC 11:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="ECC 11:8"/>Mao nga paglipay sa tibuok mong kinabuhi,</para>
+    <verse number="8" style="v" sid="ECC 11:8" />Mao nga paglipay sa tibuok mong kinabuhi,</para>
   <para style="q2" vid="ECC 11:8">bisan unsa man kini ka taas.</para>
   <para style="q1" vid="ECC 11:8">Hinuon, hinumdomi nga ang kamatayon</para>
   <para style="q2" vid="ECC 11:8">moabot ug magdugay kini.</para>
-  <para style="q2" vid="ECC 11:8">Walay kapuslanan ang tanan nga mahitabo sa umaabot.<verse eid="ECC 11:8"/></para>
+  <para style="q2" vid="ECC 11:8">Walay kapuslanan ang tanan nga mahitabo sa umaabot.<verse eid="ECC 11:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="ECC 11:9"/>Batan-on, paglipay ug pahimusli ang imong kinabuhi</para>
+    <verse number="9" style="v" sid="ECC 11:9" />Batan-on, paglipay ug pahimusli ang imong kinabuhi</para>
   <para style="q2" vid="ECC 11:9">samtang batan-on ka pa.</para>
   <para style="q1" vid="ECC 11:9">Himoa ang tanan mong gusto</para>
   <para style="q2" vid="ECC 11:9">ug paundayoni ang tanan mong hilig,</para>
   <para style="q1" vid="ECC 11:9">apan hinumdomi nga hukman ka sa Dios</para>
-  <para style="q2" vid="ECC 11:9">sa tanan mong ginahimo.<verse eid="ECC 11:9"/></para>
+  <para style="q2" vid="ECC 11:9">sa tanan mong ginahimo.<verse eid="ECC 11:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="ECC 11:10"/>Wad-a ang kabalaka ug ayawg tagda ang sakit sa imong lawas</para>
-  <para style="q2" vid="ECC 11:10">kay ang pagkabatan-on lumalabay lang.<verse eid="ECC 11:10"/></para>
-  <para style="b"/>
-  <chapter eid="ECC 11"/>
-  <chapter number="12" style="c" sid="ECC 12"/>
+    <verse number="10" style="v" sid="ECC 11:10" />Wad-a ang kabalaka ug ayawg tagda ang sakit sa imong lawas</para>
+  <para style="q2" vid="ECC 11:10">kay ang pagkabatan-on lumalabay lang.<verse eid="ECC 11:10" /></para>
+  <para style="b" />
+  <chapter eid="ECC 11" />
+  <chapter number="12" style="c" sid="ECC 12" />
   <para style="q1">
-    <verse number="1" style="v" sid="ECC 12:1"/>Hinumdomi ang imong Magbubuhat samtang batan-on ka pa,</para>
+    <verse number="1" style="v" sid="ECC 12:1" />Hinumdomi ang imong Magbubuhat samtang batan-on ka pa,</para>
   <para style="q2" vid="ECC 12:1">sa dili pa moabot ang mga panahon sa kalisod diin moingon ka,</para>
-  <para style="q2" vid="ECC 12:1">“Wala na ako malipay sa akong kinabuhi.”<verse eid="ECC 12:1"/></para>
+  <para style="q2" vid="ECC 12:1">“Wala na ako malipay sa akong kinabuhi.”<verse eid="ECC 12:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="ECC 12:2"/>Hinumdomi siya sa dili pa mahimong ngitngit alang kanimo ang kahayag sa adlaw,</para>
+    <verse number="2" style="v" sid="ECC 12:2" />Hinumdomi siya sa dili pa mahimong ngitngit alang kanimo ang kahayag sa adlaw,</para>
   <para style="q2" vid="ECC 12:2">bulan ug mga bitoon, ug sa dili pa mongitngit</para>
-  <para style="q2" vid="ECC 12:2">nga daw gidag-oman ang imong palibot.<note caller="+" style="f"><char style="fr" closed="false">12:2 </char><char style="ft" closed="false">Ang buot ipasabot: </char><char style="fqa" closed="false">Sa dili ka pa matigulang ug mamatay.</char></note><verse eid="ECC 12:2"/></para>
+  <para style="q2" vid="ECC 12:2">nga daw gidag-oman ang imong palibot.<note caller="+" style="f"><char style="fr" closed="false">12:2 </char><char style="ft" closed="false">Ang buot ipasabot: </char><char style="fqa" closed="false">Sa dili ka pa matigulang ug mamatay.</char></note><verse eid="ECC 12:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="ECC 12:3"/>Moabot ang adlaw nga ang imong mga bukton<note caller="+" style="f"><char style="fr" closed="false">12:3 </char><char style="fq" closed="false">mga bukton</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">mga tig-atiman sa balay.</char></note> mangurog</para>
+    <verse number="3" style="v" sid="ECC 12:3" />Moabot ang adlaw nga ang imong mga bukton<note caller="+" style="f"><char style="fr" closed="false">12:3 </char><char style="fq" closed="false">mga bukton</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">mga tig-atiman sa balay.</char></note> mangurog</para>
   <para style="q2" vid="ECC 12:3">ug ang imong mga tiil<note caller="+" style="f"><char style="fr" closed="false">12:3 </char><char style="fq" closed="false">mga tiil</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">mga kusgan nga mga tawo.</char></note> mangaluya.</para>
   <para style="q1" vid="ECC 12:3">Ang imong mga ngipon<note caller="+" style="f"><char style="fr" closed="false">12:3 </char><char style="fq" closed="false">mga ngipon</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">mga babaye nga gagaling.</char></note> dili na makausap</para>
   <para style="q2" vid="ECC 12:3">tungod kay pipila na lang kini kabuok,</para>
-  <para style="q2" vid="ECC 12:3">ug ang imong mga mata<note caller="+" style="f"><char style="fr" closed="false">12:3 </char><char style="fq" closed="false">mga mata</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">mga babaye nga namintana.</char></note> halap na.<verse eid="ECC 12:3"/></para>
+  <para style="q2" vid="ECC 12:3">ug ang imong mga mata<note caller="+" style="f"><char style="fr" closed="false">12:3 </char><char style="fq" closed="false">mga mata</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">mga babaye nga namintana.</char></note> halap na.<verse eid="ECC 12:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="ECC 12:4"/>Ang imong mga dalunggan<note caller="+" style="f"><char style="fr" closed="false">12:4 </char><char style="fq" closed="false">mga dalunggan</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">mga pultahan diha sa kadalanan.</char></note> dili na kaayo makadungog,</para>
+    <verse number="4" style="v" sid="ECC 12:4" />Ang imong mga dalunggan<note caller="+" style="f"><char style="fr" closed="false">12:4 </char><char style="fq" closed="false">mga dalunggan</char><char style="ft" closed="false">: sa literal, </char><char style="fqa" closed="false">mga pultahan diha sa kadalanan.</char></note> dili na kaayo makadungog,</para>
   <para style="q2" vid="ECC 12:4">bisan ang kasaba sa galingan</para>
-  <para style="q2" vid="ECC 12:4">o ang huni sa mga langgam o ang mga sonata.<verse eid="ECC 12:4"/></para>
+  <para style="q2" vid="ECC 12:4">o ang huni sa mga langgam o ang mga sonata.<verse eid="ECC 12:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="ECC 12:5"/>Mahadlok ka na sa habog nga dapit</para>
+    <verse number="5" style="v" sid="ECC 12:5" />Mahadlok ka na sa habog nga dapit</para>
   <para style="q2" vid="ECC 12:5">ug peligro na alang kanimo ang paglakaw-lakaw sa karsada.</para>
   <para style="q1" vid="ECC 12:5">Moputi na ang buhok sa imong ulo, mag-aginod ka na,</para>
   <para style="q2" vid="ECC 12:5">ug mawala na ang imong lawasnong tinguha.</para>
   <para style="q1" vid="ECC 12:5">Sa kaulahian, moadto ka na sa dapit</para>
   <para style="q2" vid="ECC 12:5">nga imong puy-an sa walay kataposan,</para>
-  <para style="q2" vid="ECC 12:5">ug daghan ang magsubo alang kanimo sa mga karsada.<verse eid="ECC 12:5"/></para>
+  <para style="q2" vid="ECC 12:5">ug daghan ang magsubo alang kanimo sa mga karsada.<verse eid="ECC 12:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="ECC 12:6"/>Busa hinumdomi ang Dios sa dili ka pa mamatay,</para>
+    <verse number="6" style="v" sid="ECC 12:6" />Busa hinumdomi ang Dios sa dili ka pa mamatay,</para>
   <para style="q2" vid="ECC 12:6">sa dili pa mabugto ang kable nga plata</para>
   <para style="q1" vid="ECC 12:6">ug mabuak ang sudlanan nga bulawan,</para>
   <para style="q2" vid="ECC 12:6">o sa dili pa mabuak ang tibod nga pangtimba</para>
-  <para style="q2" vid="ECC 12:6">ug madaot ang moton sa atabay.<verse eid="ECC 12:6"/></para>
+  <para style="q2" vid="ECC 12:6">ug madaot ang moton sa atabay.<verse eid="ECC 12:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="ECC 12:7"/>Unya mobalik ang imong lawas sa yuta nga gigikanan niini,</para>
+    <verse number="7" style="v" sid="ECC 12:7" />Unya mobalik ang imong lawas sa yuta nga gigikanan niini,</para>
   <para style="q2" vid="ECC 12:7">ug ang imong espiritu<note caller="+" style="f"><char style="fr" closed="false">12:7 </char><char style="fq" closed="false">espiritu</char><char style="ft" closed="false">: tingali ang buot ipasabot, </char><char style="fqa" closed="false">ang gininhawa nga naghatag ug kinabuhi.</char></note> mobalik sa Dios</para>
-  <para style="q2" vid="ECC 12:7">nga mao ang naghatag niini.<verse eid="ECC 12:7"/></para>
+  <para style="q2" vid="ECC 12:7">nga mao ang naghatag niini.<verse eid="ECC 12:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="ECC 12:8"/>Miingon ang magwawali, “Wala gayoy pulos!</para>
-  <para style="q2" vid="ECC 12:8">Wala gayoy pulos ang tanan!”<verse eid="ECC 12:8"/></para>
+    <verse number="8" style="v" sid="ECC 12:8" />Miingon ang magwawali, “Wala gayoy pulos!</para>
+  <para style="q2" vid="ECC 12:8">Wala gayoy pulos ang tanan!”<verse eid="ECC 12:8" /></para>
   <para style="p">
-    <verse number="9" style="v" sid="ECC 12:9"/>Gawas nga maalamon ang maong magwawali, gitudloan pa gayod niya ang mga tawo bahin sa iyang nahibaloan. Iyang gitun-an, gitimbang-timbang ug gihan-ay pag-ayo ang daghang mga panultihon. <verse eid="ECC 12:9"/><verse number="10" style="v" sid="ECC 12:10"/>Naningkamot siya sa paggamit sa maanindot nga mga pulong sa iyang pagsulat, ug sa kanunay, gipadayag niya ang kamatuoran.<verse eid="ECC 12:10"/></para>
+    <verse number="9" style="v" sid="ECC 12:9" />Gawas nga maalamon ang maong magwawali, gitudloan pa gayod niya ang mga tawo bahin sa iyang nahibaloan. Iyang gitun-an, gitimbang-timbang ug gihan-ay pag-ayo ang daghang panultihon. <verse eid="ECC 12:9" /><verse number="10" style="v" sid="ECC 12:10" />Naningkamot siya sa paggamit sa maanindot nga mga pulong sa iyang pagsulat, ug sa kanunay, gipadayag niya ang kamatuoran.<verse eid="ECC 12:10" /></para>
   <para style="p">
-    <verse number="11" style="v" sid="ECC 12:11"/>Ang mga pulong sa maalamon nga tawo sama sa talinis nga sungkod nga ginagamit aron sa paggiya sa mga mananap o sa lansang nga maayong pagkadulot. Gihatag kini sa usa ka Magbalantay.<verse eid="ECC 12:11"/></para>
+    <verse number="11" style="v" sid="ECC 12:11" />Ang mga pulong sa maalamon nga tawo sama sa talinis nga sungkod nga ginagamit aron sa paggiya sa mga mananap o sa lansang nga maayong pagkadulot. Gihatag kini sa usa ka Magbalantay.<verse eid="ECC 12:11" /></para>
   <para style="p">
-    <verse number="12" style="v" sid="ECC 12:12"/>Anak, pagbantay niining usa pa ka butang: Ang pagsulat sa mga libro walay kataposan, ug ang labihan nga pagtuon makapakapoy kanimo.<verse eid="ECC 12:12"/></para>
+    <verse number="12" style="v" sid="ECC 12:12" />Anak, pagbantay niining usa pa ka butang: Ang pagsulat sa mga libro walay kataposan, ug ang labihan nga pagtuon makapakapoy kanimo.<verse eid="ECC 12:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="ECC 12:13"/>Isip panapos niining tanan mong nadungog,</para>
+    <verse number="13" style="v" sid="ECC 12:13" />Isip panapos niining tanan mong nadungog,</para>
   <para style="q2" vid="ECC 12:13">mao kini ang akong ikasulti:</para>
   <para style="q1" vid="ECC 12:13">Tahora ang Dios ug tumana ang iyang mga sugo,</para>
-  <para style="q2" vid="ECC 12:13">kay mao kini ang katungdanan sa matag tawo.<verse eid="ECC 12:13"/></para>
+  <para style="q2" vid="ECC 12:13">kay mao kini ang katungdanan sa matag tawo.<verse eid="ECC 12:13" /></para>
   <para style="q1">
-    <verse number="14" style="v" sid="ECC 12:14"/>Kay hukman sa Dios ang tanan nato nga binuhatan,</para>
+    <verse number="14" style="v" sid="ECC 12:14" />Kay hukman sa Dios ang tanan nato nga binuhatan,</para>
   <para style="q2" vid="ECC 12:14">maayo man o daotan,</para>
-  <para style="q2" vid="ECC 12:14">apil ang gipangbuhat nato sa tago.<verse eid="ECC 12:14"/></para>
-  <chapter eid="ECC 12"/>
+  <para style="q2" vid="ECC 12:14">apil ang gipangbuhat nato sa tago.<verse eid="ECC 12:14" /></para>
+  <chapter eid="ECC 12" />
 </usx>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<usx version="2.0">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
   <book code="3JN" style="id">3 JHN Lugulu Bible Version</book>
   <para style="h">3 Yohane</para>
   <para style="toc1">Ibaluwa ya Kadatu ya Yohane</para>
@@ -15,25 +15,26 @@
   <para style="io">Isula ya 1:2-8 komghuma Gayo ghumoyo na komlaghitsa aghendelele na uluso.</para>
   <para style="io">Isula ya 1:9-12 kolonga mbuli tsa iwanu wangi weli, Diyotelefe na Demetiliyo.</para>
   <para style="io">Isua ya 1:13-14 komalitsila ibaluwa yake.</para>
-  <chapter number="1" style="c"/>
+  <chapter number="1" style="c" sid="3JN 1" />
   <para style="p">
-    <verse number="1" style="v"/>Nene imbala nokwandikila ghweghwe Gayo, yanikunoghela mna ukweli.</para>
+    <verse number="1" style="v" sid="3JN 1:1" />Nene imbala nokwandikila ghweghwe Gayo, yanikunoghela mna ukweli.<verse eid="3JN 1:1" /></para>
   <para style="p">
-    <verse number="2" style="v"/>Sale yangu, nokulombela pfinu pfako pfighende ghoya na uwe mghima, ka muhe wako pfaughendelela ghoya. <verse number="3" style="v"/>Tsandeng'elela ng'ani hanihulike ndughu wangi iwatsile hano na kunongela pfaukindilisa ukweli na pfaughendelela kukala mne ukweli. <verse number="4" style="v"/>Kuduhu ichinu ichinideng'elesa ng'ani kubita kuhulika ka wanangu wokala mne ukweli.</para>
+    <verse number="2" style="v" sid="3JN 1:2" />Sale yangu, nokulombela pfinu pfako pfighende ghoya na uwe mghima, ka muhe wako pfaughendelela ghoya. <verse eid="3JN 1:2" /><verse number="3" style="v" sid="3JN 1:3" />Tsandeng'elela ng'ani hanihulike ndughu wangi iwatsile hano na kunongela pfaukindilisa ukweli na pfaughendelela kukala mne ukweli. <verse eid="3JN 1:3" /><verse number="4" style="v" sid="3JN 1:4" />Kuduhu ichinu ichinideng'elesa ng'ani kubita kuhulika ka wanangu wokala mne ukweli.<verse eid="3JN 1:4" /></para>
   <para style="s">Ukuwasang'anila wandughu</para>
   <para style="p">
-    <verse number="5" style="v"/>Sale yangu, ghweghwe kwa wakutogholighwa mne sang'ano tsuwasang'anila wandughu, ghendoghendo kwa wahenza. <verse number="6" style="v"/>Iwanu awo walilongela kanisa lya hano mbuli tse unoghelo wako. Kutsotenda ghoya ung'awapfila waghendelele ne ghumwanza ghwawo kwa inzila iimnoghela Imulungu. <verse number="7" style="v"/>Mana wakwandusa ghumwanza ghwawo mne ukumsang'anila Kiristu bila kubokela chinu kulawa kwe iwanu ing'awommanya Imulungu. <verse number="8" style="v"/>Twetwe Wakiristu twobamighwa kuwapfila iwanu ka wano, ili tusang'ane nawo kwaajili ye ukweli.</para>
+    <verse number="5" style="v" sid="3JN 1:5" />Sale yangu, ghweghwe kwa wakutogholighwa mne sang'ano tsuwasang'anila wandughu, ghendoghendo kwa wahenza. <verse eid="3JN 1:5" /><verse number="6" style="v" sid="3JN 1:6" />Iwanu awo walilongela kanisa lya hano mbuli tse unoghelo wako. Kutsotenda ghoya ung'awapfila waghendelele ne ghumwanza ghwawo kwa inzila iimnoghela Imulungu. <verse eid="3JN 1:6" /><verse number="7" style="v" sid="3JN 1:7" />Mana wakwandusa ghumwanza ghwawo mne ukumsang'anila Kiristu bila kubokela chinu kulawa kwe iwanu ing'awommanya Imulungu. <verse eid="3JN 1:7" /><verse number="8" style="v" sid="3JN 1:8" />Twetwe Wakiristu twobamighwa kuwapfila iwanu ka wano, ili tusang'ane nawo kwaajili ye ukweli.<verse eid="3JN 1:8" /></para>
   <para style="s">Diyotelefe na Demetiliyo</para>
   <para style="p">
-    <verse number="9" style="v"/>Tsanilyandikila ibaluwa kanisa, lekeni Diyotelefe, iyobama yawe chilongotsi, kolema ghendo kutuhulikitsa. <verse number="10" style="v"/>Ning'atsa nitsogheka mwatsi ghose ghayatendile, aghala ghehile ghayatulongile na ghayotubangitsila! Kuya yeye kolemagha kuwabokela wandughu wayetu, pfipfila kowaghoma awala iwobama kuwabokela, na kowawinga kulawa mne kanisa.</para>
+    <verse number="9" style="v" sid="3JN 1:9" />Tsanilyandikila ibaluwa kanisa, lekeni Diyotelefe, iyobama yawe chilongotsi, kolema ghendo kutuhulikitsa. <verse eid="3JN 1:9" /><verse number="10" style="v" sid="3JN 1:10" />Ning'atsa nitsogheka mwatsi ghose ghayatendile, aghala ghehile ghayatulongile na ghayotubangitsila! Kuya yeye kolemagha kuwabokela wandughu wayetu, pfipfila kowaghoma awala iwobama kuwabokela, na kowawinga kulawa mne kanisa.<verse eid="3JN 1:10" /></para>
   <para style="p">
-    <verse number="11" style="v"/>Sale yangu, uleke kuwinza ghehile, ila ughawinze ghanoghile. Imunu wowose iyotenda ghanoghile kolawa kwe Imulungu. Na imunu wowose iyotenda ghehile ng'amwonile bae Imulungu.</para>
+    <verse number="11" style="v" sid="3JN 1:11" />Sale yangu, uleke kuwinza ghehile, ila ughawinze ghanoghile. Imunu wowose iyotenda ghanoghile kolawa kwe Imulungu. Na imunu wowose iyotenda ghehile ng'amwonile bae Imulungu.<verse eid="3JN 1:11" /></para>
   <para style="p">
-    <verse number="12" style="v"/>Iwanu wose wolonga ghoya mbuli tsa Demetiriyo, na ukweli nawo wolonga pfipfo. Pfipfila twetwe wose twolonga pfinoghile mbuli tsake, naghwe kwomanya ka twolongesa.</para>
+    <verse number="12" style="v" sid="3JN 1:12" />Iwanu wose wolonga ghoya mbuli tsa Demetiriyo, na ukweli nawo wolonga pfipfo. Pfipfila twetwe wose twolonga pfinoghile mbuli tsake, naghwe kwomanya ka twolongesa.<verse eid="3JN 1:12" /></para>
   <para style="s">Ndamso tsa usighilo</para>
   <para style="p">
-    <verse number="13" style="v"/>Tsang'ala ne tsimbuli nyingi tsa kuwalongela, lekeni sibama bae kukwandikila. <verse number="14" style="v"/>Nololela kukwona sambi, kuya tutsolonga chihanga kwa chihanga.</para>
+    <verse number="13" style="v" sid="3JN 1:13" />Tsang'ala ne tsimbuli nyingi tsa kuwalongela, lekeni sibama bae kukwandikila. <verse eid="3JN 1:13" /><verse number="14" style="v" sid="3JN 1:14" />Nololela kukwona sambi, kuya tutsolonga chihanga kwa chihanga.<verse eid="3JN 1:14" /></para>
   <para style="p">
-    <verse number="15" style="v"/>Ukale tseghamba.</para>
-  <para style="p">Sale tsetu iwali hano wokulamsa. Kuya walamse sale tsetu wose iwali ako, chila munu.</para>
+    <verse number="15" style="v" sid="3JN 1:15" />Ukale tseghamba.</para>
+  <para style="p" vid="3JN 1:15">Sale tsetu iwali hano wokulamsa. Kuya walamse sale tsetu wose iwali ako, chila munu.<verse eid="3JN 1:15" /></para>
+  <chapter eid="3JN 1" />
 </usx>

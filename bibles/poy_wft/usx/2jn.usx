@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<usx version="2.0">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
   <book code="2JN" style="id">- POGORO</book>
   <para style="h">2 YOHANI</para>
   <para style="toc1">Luhamba lwa pili lwa Yohani</para>
@@ -8,30 +8,31 @@
   <para style="mt2">LUHAMBA LWA PILI LWA</para>
   <para style="mt1">YOHANI</para>
   <para style="imt">ULONGOLERU</para>
-  <para style="ip">Luhamba lwa pili lulembitwi na ntumintumi Yohani mushinja sha malongu tisa Pakwiyuka Yesu. Yohani kalilanguziyiti ndiri mweni kuwera ndo mlemba kumbiti kalishema mzewi. Yagaweramu muluhamba lwa pili lwa Yohani yalifana nentu na galii yagaweramu Mushisoweru Shiwagira shakalembiti Yohani. Ayi asa ilanguziya palii ntambu yomberi katakulira nakamu kuusu lagaliru lya Yesu lya kulifira na kutula pamuhera mafiliru ga Yesu na kufata malagaliru gakuwi, Yohani 15:9-10; 2Yohani 1:5-6. Ijimirwa kuwera Yohani kalembiti Shisoweru Shiwagira na mahamba galii matatu, luhamba lwa kwanja lwa Yohani na luhamba lwa pili lwa Yohani na luhamba lwa tatu lwa Yohani, shipindi pakalikaliti Efesu.</para>
+  <para style="ip">Luhamba lwa pili lulembitwi na ntumintumi Yohani mushinja sha malongu tisa Pakwiyuka Yesu. Yohani kalilanguziyiti ndiri mweni kuwera ndo mlemba kumbiti kalishema mzewi. Yagaweramu muluhamba lwa pili lwa Yohani yalifana nentu na galii yagaweramu Mushisoweru Shiwagira shakalembiti Yohani. Ayi asa ilanguziya palii ntambu yomberi katakulira nakamu kuusu lagaliru lya Yesu lya kulifira na kutula pamuhera mafiliru ga Yesu na kufata malagaliru gakuwi, Yohani 15:9-10; 2Yohani 1:5-6. Ijimirwa kuwera Yohani kalembiti Shisoweru Shiwagira na mahamba galii matatu, luhamba lwa kwanja lwa Yohani na luhamba lwa pili lwa Yohani na luhamba lwa tatu lwa Yohani, shaka pakalikaliti Efesu.</para>
   <para style="ip">Yohani kankululemba luhamba alu kwa mawu yakasyagulitwi pamuhera na wana wakuwi, iwezekana kuwera mawu ayu pamuhera na wana wakuwi wankufaniziwa na shipinga sha wantu yawamjimira Yesu. Kayi kalonga kuwera luhamba alu kawalembiriti wantu woseri yawamjimira Yesu. Nfiru ya Yohani ya kululemba luhamba alu ndo kuvipanana moyu vipinga vya wantu yawamjimira Yesu na kuwaberiziya kulawirana na mafundu ga upayira.</para>
   <para style="iot">Yagaweramu</para>
   <para style="io">Yohani kankulwanja luhamba alu kulanguziya ndo ashina gaa yakawalembiliriti na kuwalamusiya wabetula, 2Yohani, shipandi sha 1:1-3.</para>
   <para style="io">Shakapanu kankushipanana moyu shipinga sha wantu yawamjimira Yesu na kuwaholuziya kuusu lagaliru likulu, 2Yohani, shipandi sha 1:4-6</para>
   <para style="io">Kankuwaberiziya kuusu wafunda wa upayira, 2Yohani, shipandi sha 1:7-11</para>
   <para style="io">Yohani kankumalalira luhamba lwakuwi kwa kuwaluwira matekeleru, 2Yohani, shipandi sha 1:12-13</para>
-  <chapter number="1" style="c"/>
+  <chapter number="1" style="c" sid="2JN 1" />
   <para style="p">
-    <verse number="1" style="v"/>Neni mzewi mlongoziya, nukulembera gwenga mawu yagusyagulitwi na Mlungu, pamuhera na wana waku yanuwafira muwunakaka. Neni ndiri gweka yangu hera yanuwafira, kumbiti viraa vilii woseri walii yawaumana unakaka ulii, wawafira mwenga, <verse number="2" style="v"/>toziya ya unakaka yawulikala mngati mwetu na hawuwendereyi kulikala pamuhera na twenga mashaka goseri.</para>
+    <verse number="1" style="v" sid="2JN 1:1" />Neni mzewi mlongoziya, nukulembera gwenga mawu yagusyagulitwi na Mlungu, pamuhera na wana waku yanuwafira muwunakaka. Neni ndiri gweka yangu hera yanuwafira, kumbiti viraa vilii woseri walii yawaumana unakaka ulii, wawafira mwenga, <verse eid="2JN 1:1" /><verse number="2" style="v" sid="2JN 1:2" />toziya ya unakaka yawulikala mngati mwetu na hawuwendereyi kulikala pamuhera na twenga mashaka goseri.<verse eid="2JN 1:2" /></para>
   <para style="p">
-    <verse number="3" style="v"/>Manemu na lusungu na ponga vyavilawiti kwa Mlungu Tati na kwa Yesu Kristu, Mwana gwa Tati, haviweri pamuhera na twenga munakaka na ufiru.</para>
+    <verse number="3" style="v" sid="2JN 1:3" />Manemu na lusungu na ponga vyavilawiti kwa Mlungu Tati na kwa Yesu Kristu, Mwana gwa Tati, haviweri pamuhera na twenga munakaka na ufiru.<verse eid="2JN 1:3" /></para>
   <para style="s">Unakaka na ufiru</para>
   <para style="p">
-    <verse number="4" style="v"/>Nemeleriti nentu panuwawoniti wamu wa wana waku wendereya kulikala munakaka, gambira Tati ntambu yakatulagaliriti. <verse number="5" style="v"/>Vinu mawu yagusyagulitwi na Mlungu, neni nukuluwa, nukulembera ndiri lilagaliru lya syayi, kumbiti lilagaliru liraa lilii lyatuweriti nalu kwanjira kwanja. Tulifiri twaweni kwa twaweni. <verse number="6" style="v"/>Ufiru ndo awu, kulikala kwa kugajimira malagaliru ga Mlungu. Lilagaliru lyampikaniriti kwanjira kwanja ndo ali, mfiruwa kulikala kwa kuwulanguziya ufiru.</para>
+    <verse number="4" style="v" sid="2JN 1:4" />Nemeleriti nentu panuwawoniti wamu wa wana waku wendereya kulikala munakaka, gambira Tati ntambu yakatulagaliriti. <verse eid="2JN 1:4" /><verse number="5" style="v" sid="2JN 1:5" />Vinu mawu yagusyagulitwi na Mlungu, neni nukuluwa, nukulembera ndiri lilagaliru lya syayi, kumbiti lilagaliru liraa lilii lyatuweriti nalu kwanjira kwanja. Tulifiri twaweni kwa twaweni. <verse eid="2JN 1:5" /><verse number="6" style="v" sid="2JN 1:6" />Ufiru ndo awu, kulikala kwa kugajimira malagaliru ga Mlungu. Lilagaliru lyampikaniriti kwanjira kwanja ndo ali, mfiruwa kulikala kwa kuwulanguziya ufiru.<verse eid="2JN 1:6" /></para>
   <para style="p">
-    <verse number="7" style="v"/>Toziya wapayira wavuwa walawira mupasipanu, wantu yawajimira ndiri kuwera Yesu Kristu kiziti na kuwera muntu. Muntu gwa ntambu ayi kawera mpayira na mngondu gwa Kristu. <verse number="8" style="v"/>Su muliloli weri maweni, su namushiyagamiziya shilii shamtenditi, kumbiti mpati kufupwa lifupu teratera.</para>
+    <verse number="7" style="v" sid="2JN 1:7" />Toziya wapayira wavuwa walawira mupasipanu, wantu yawajimira ndiri kuwera Yesu Kristu kiziti na kuwera muntu. Muntu gwa ntambu ayi kawera mpayira na mngondu gwa Kristu. <verse eid="2JN 1:7" /><verse number="8" style="v" sid="2JN 1:8" />Su muliloli weri maweni, su namushiyagamiziya shilii shamtenditi, kumbiti mpati kufupwa lifupu teratera.<verse eid="2JN 1:8" /></para>
   <para style="p">
-    <verse number="9" style="v"/>Muntu yoseri yakashapira na kulikala ndiri mumafundu kuusu Kristu, kumbiti kankuvyongera vitwatira vyamonga mumafundu, muntu ayu kahera Mlungu. Muntu yoseri yakalikala mumafundu kuusu Kristu, yomberi kawera na Tati na Mwana.</para>
+    <verse number="9" style="v" sid="2JN 1:9" />Muntu yoseri yakashapira na kulikala ndiri mumafundu kuusu Kristu, kumbiti kankuvyongera vitwatira vyamonga mumafundu, muntu ayu kahera Mlungu. Muntu yoseri yakalikala mumafundu kuusu Kristu, yomberi kawera na Tati na Mwana.<verse eid="2JN 1:9" /></para>
   <para style="p">
-    <verse number="10" style="v"/>Su muntu yoseri pakiza kwa mwenga pota kuwajegera mafundu kuusu Kristu, namumshemera ukaya kwenu ama kumulamsiya. <verse number="11" style="v"/>Muntu yoseri yakamulamsiya muntu ayu, kankutenda pamuhera muvitwatira vyakuwi vya ukondola.</para>
+    <verse number="10" style="v" sid="2JN 1:10" />Su muntu yoseri pakiza kwa mwenga pota kuwajegera mafundu kuusu Kristu, namumshemera ukaya kwenu ama kumulamsiya. <verse eid="2JN 1:10" /><verse number="11" style="v" sid="2JN 1:11" />Muntu yoseri yakamulamsiya muntu ayu, kankutenda pamuhera muvitwatira vyakuwi vya ukondola.<verse eid="2JN 1:11" /></para>
   <para style="s">Malamusiwu ga kupelera</para>
   <para style="p">
-    <verse number="12" style="v"/>Tembera nanaga gavuwa ga kuwalembera, kumbiti nfira ndiri kuwalembera. Su nankulolera kwiza namweni kuyowera na mwenga, su nemeleru ya mwenga iweri teratera.</para>
+    <verse number="12" style="v" sid="2JN 1:12" />Tembera nanaga gavuwa ga kuwalembera, kumbiti nfira ndiri kuwalembera. Su nankulolera kwiza namweni kuyowera na mwenga, su nemeleru ya mwenga iweri teratera.<verse eid="2JN 1:12" /></para>
   <para style="p">
-    <verse number="13" style="v"/>Wana wa dada gwaku yakasyagulitwi na Mlungu, wankukulamusiya.</para>
+    <verse number="13" style="v" sid="2JN 1:13" />Wana wa dada gwaku yakasyagulitwi na Mlungu, wankukulamusiya.<verse eid="2JN 1:13" /></para>
+  <chapter eid="2JN 1" />
 </usx>

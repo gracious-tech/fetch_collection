@@ -1,35 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<usx version="2.0">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
   <book code="2JN" style="id">- Ngulu Bible Version</book>
   <para style="h">2 Yohana</para>
   <para style="toc1">Baluwa ya kaidi ya Yohana</para>
-  <para style="toc2">2Yohana</para>
-  <para style="toc3">2Yoha</para>
+  <para style="toc2">2 Yohana</para>
+  <para style="toc3">2 Yoha</para>
   <para style="mt2">BALUWA YA KAIDI YA</para>
   <para style="mt1">2 YOHANA</para>
   <para style="imt">ULONGOELO</para>
-  <para style="ip">Baluwa ya kaidi ya Yohana yawandikagwa ni Mwigala Ulosi Yohana mwo mwaka wa milongo kenda kulawa aho Yesu eze elekwe. Yohana hakuketambula yehe mwenye kugamba niye awandike ibaluwa ino, mna aketanga mwenye enga mdala. Yemndani mwe baluwa ya kaidi Yohana yaligana kwa hagihi na yadya yawandikwe mwe Mbuli Yedi iwandikwe ni Yohana, ino yalagisa pwilili ivo Yohana atigize sigilizi ya kuungana na kwa sila imwenga aliganya kumuunga Yesu na kutimila sigilizi zakwe 2 Yohana 1:5-6, Yohana 15:9-10. Uyo niye awandike Mbuli Yedi iwandikwe ni Yohana, na baluwa ya nk'hongo ya Yohana na baluwa ya kaidi ya Yohana na baluwa ya katatu ya Yohana umwo andaga akekala uko Efeso.</para>
+  <para style="ip">Baluwa ya kaidi ya Yohana yawandikagwa ni Mwigala Ulosi Yohana mwo mwaka wa milongo kenda kulawa aho Yesu eze elekwe. Yohana hakuketambula yehe mwenye kugamba niye awandike ibaluwa ino, mna aketanga mwenye enga mdala. Yemndani mwe baluwa ya kaidi Yohana yaligana kwa hagihi na yadya yawandikwe mwe Mbuli Yedi iwandikwe ni Yohana, ino yalagisa pwilili ivo Yohana atigize sigilizi ya kuungana na kwa sila imwenga aliganya kumuunga Yesu na kutimila sigilizi zakwe 1:5-6, 15:9-10. Uyo niye awandike Mbuli Yedi iwandikwe ni Yohana, na baluwa ya nk'hongo ya Yohana na baluwa ya kaidi ya Yohana na baluwa ya katatu ya Yohana umwo andaga akekala uko Efeso.</para>
   <para style="ip">Yohana kawandika ibaluwa ino kwa mnala asagulwe hamwenga na wanawe, yadahika kugamba mnala uyo hamwenga na wanawe waliganyizwa ne difyo dya want'hu wamhuwile Kilisito. Niyo agamba kawawandikila want'hu wose wamhuwile Kilisito. Kiya kilekile Yohana akawandika baluwa ino ni kudigela moyo idifyo dya want'hu wamhuwile Kilisito, na kuwakanya kwa mbuli ya wahinizi wa udant'hi.</para>
   <para style="iot">Yemndani</para>
-  <para style="io">Yohana akonga baluwa yakwe kwa kutambalisa kugamba ni wahi awawandikilaga na kuwalamsa 2 Yohana 1:1-3.</para>
-  <para style="io">Akajika awagela moyo want'hu wakumhuwila Kilisito na kuwakumbusa mwe mbuli ye sigilizi ink'hulu 2 Yohana 1:4-6.</para>
-  <para style="io">Naho awakanya kwa mbuli ya wahinizi wa lulimi 2 Yohana 1:7-11.</para>
-  <para style="io">Yohana abindiliza baluwa yakwe kwa kuwalaga 2 Yohana 1:12-13.</para>
-  <chapter number="1" style="c"/>
+  <para style="io">Mwo mnango wa 1:1-3, Yohana akonga baluwa yakwe kwa kutambalisa kugamba ni wahi awawandikilaga na kuwalamsa.</para>
+  <para style="io">Mwo mnango wa 1:4-6, Yohana awagela moyo want'hu wakumhuwila Kilisito na kuwakumbusa mwe mbuli ye sigilizi ink'hulu.</para>
+  <para style="io">Mwo mnango wa 1:7-11, Yohana awakanya kwa mbuli ya wahinizi wa lulimi.</para>
+  <para style="io">Mwo mnango wa 1:12-13, Yohana abindiliza baluwa yakwe kwa kuwalaga.</para>
+  <chapter number="1" style="c" sid="2JN 1" />
   <para style="p">
-    <verse number="1" style="v"/>Miye mdala kilongozi nakuwandikila weye Mnala usagulwe ni Mnungu, hamwenga na wanawo huwaungisani mwe kindedi. Naho hiye miye du huwaungani, mna mwaungwa ni wadya wose waumanyize ukindedi, <verse number="2" style="v"/>kwaviya ukindedi umndani mwetu, nougendeele kwikala na suwe ulo na ulo.</para>
+    <verse number="1" style="v" sid="2JN 1:1" />Miye mdala kilongozi nakuwandikila weye Mnala usagulwe ni Mnungu, hamwenga na wanawo huwaungisani mwe kindedi. Naho hiye miye du huwaungani, mna mwaungwa ni wadya wose waumanyize ukindedi, <verse eid="2JN 1:1" /><verse number="2" style="v" sid="2JN 1:2" />kwaviya ukindedi umndani mwetu, nougendeele kwikala na suwe mazuwa yose.<verse eid="2JN 1:2" /></para>
   <para style="p">
-    <verse number="3" style="v"/>Nawalombezelani, uwedi wa Mnungu na mbazi no utondowazi vikulawa kwa Tate na kwa Yesu Kilisito Mwana Tate, vinde na nyuwe mwe kindedi na lukunde.</para>
+    <verse number="3" style="v" sid="2JN 1:3" />Nawalombezelani, uwedi wa Mnungu na mbazi no utondowazi vikulawa kwa Tate na kwa Yesu Kilisito Mwana Tate, vinde na nyuwe mwe kindedi na lukunde.<verse eid="2JN 1:3" /></para>
   <para style="s">Ukindedi no lukunde</para>
   <para style="p">
-    <verse number="4" style="v"/>Nehinda na kinyemi kikulu kuwona kugamba wanawo wamwenga wekala mwo ukindedi enga viya Tate akisigiile. <verse number="5" style="v"/>Haluse elo mnala, nakulombeza kiungane. Sigilizi ino hiyo mph'ya, mna ni iidya chandaga nayo kukongela nk'hongo. <verse number="6" style="v"/>Ulu nulo lukunde, kwikala kwa kutimila sigilizi zakwe. Ino niyo isigilizi mwaivaga kukongela nk'hongo kugamba, mwaungwa mwikale kwa lukunde.</para>
+    <verse number="4" style="v" sid="2JN 1:4" />Nehinda na kinyemi kikulu kuwona kugamba wanawo wamwenga wekala mwo ukindedi enga viya Tate akisigiile. <verse eid="2JN 1:4" /><verse number="5" style="v" sid="2JN 1:5" />Haluse elo mnala, nakulombeza kiungane. Sigilizi ino hiyo mph'ya, mna ni iidya chandaga nayo kukongela nk'hongo. <verse eid="2JN 1:5" /><verse number="6" style="v" sid="2JN 1:6" />Ulu nulo lukunde, kwikala kwa kutimila sigilizi zakwe. Ino niyo isigilizi mwaivaga kukongela nk'hongo kugamba, mwaungwa mwikale kwa lukunde.<verse eid="2JN 1:6" /></para>
   <para style="p">
-    <verse number="7" style="v"/>Wadant'hi wengi weza mwe isi, want'hu hewekuzumila kugamba Yesu Kilisito keza niyo anda mnt'hu. Mnt'hu akulonga ivo mdant'hi naho mhigani ywa Kilisito. <verse number="8" style="v"/>Ivo mkeamile mnase kwaza kiya mkidamanyile ndima, mna mwize mhokele nt'hunyo ikint'hile.</para>
+    <verse number="7" style="v" sid="2JN 1:7" />Wadant'hi wengi weza mwe isi, want'hu hewekuzumila kugamba Yesu Kilisito keza niyo anda mnt'hu. Mnt'hu akulonga ivo mdant'hi naho mhigani ywa Kilisito. <verse eid="2JN 1:7" /><verse number="8" style="v" sid="2JN 1:8" />Ivo mkeamile mnase kwaza kiya mkidamanyile ndima, mna mwize mhokele nt'hunyo ikint'hile.<verse eid="2JN 1:8" /></para>
   <para style="p">
-    <verse number="9" style="v"/>Yeyose heekwikala mwe mahinizo mwa Kilisito, mna ongezela mbuli nt'huhu mwa ayo, mnt'hu uyo hana Mnungu, mna akutoza mahinizo ayo ananawo wose waidi, Tate no Mwana. <verse number="10" style="v"/>Uneva mnt'hu yeyose eza kwenyu heekuwegailani mahinizo mwa Kilisito, msekumhokela mwe zikaya zenyu hegu kumlamsa. <verse number="11" style="v"/>Kwaviya yeyose akumlamsa mnt'hu enga uyo endala no mnt'hu uyo mwo udamanyi wakwe wo wiihi.</para>
+    <verse number="9" style="v" sid="2JN 1:9" />Yeyose heekwikala mwe mahinizo mwa Kilisito, mna ongezela mbuli nt'huhu mwa ayo, mnt'hu uyo hana Mnungu, mna akutoza mahinizo ayo ananawo wose waidi, Tate no Mwana. <verse eid="2JN 1:9" /><verse number="10" style="v" sid="2JN 1:10" />Uneva mnt'hu yeyose eza kwenyu heekuwegailani mahinizo mwa Kilisito, msekumhokela mwe zikaya zenyu hegu kumlamsa. <verse eid="2JN 1:10" /><verse number="11" style="v" sid="2JN 1:11" />Kwaviya yeyose akumlamsa mnt'hu enga uyo endala no mnt'hu uyo mwo udamanyi wakwe wo wiihi.<verse eid="2JN 1:11" /></para>
   <para style="s">Nabindiliza na ndamsa</para>
   <para style="p">
-    <verse number="12" style="v"/>Nnanazo mbuli nyingi za kuwagambilani, mna hikuunga kudamanya ivo kwa kuwawandikilani, vituhu vakwe nakawiila kwiza uuko kize kilonganye mnomo kwa mnomo vileke kinyemi chetu kikint'he.</para>
+    <verse number="12" style="v" sid="2JN 1:12" />Nnanazo mbuli nyingi za kuwagambilani, mna hikuunga kudamanya ivo kwa kuwawandikilani, vituhu vakwe nakawiila kwiza uuko kize kilonganye mnomo kwa mnomo vileke kinyemi chetu kikint'he.<verse eid="2JN 1:12" /></para>
   <para style="p">
-    <verse number="13" style="v"/>Wana wa lumbudyo wasagulwe ni Mnungu wakulamsa.</para>
+    <verse number="13" style="v" sid="2JN 1:13" />Wana wa lumbudyo wasagulwe ni Mnungu wakulamsa.<verse eid="2JN 1:13" /></para>
+  <chapter eid="2JN 1" />
 </usx>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <usx version="3.0">
   <book code="NAM" style="id">- Gamo Full Bible final version</book>
   <para style="h">Nahome Tinbite</para>
@@ -12,12 +12,12 @@
   <para style="io1">Daro yashshiza Xoossa hanqo <char style="ior"><ref loc="NAM 1:1-6">1:1-6</ref> </char></para>
   <para style="io1">Asoore bolla aadhdhida pirday Isra7eele deraas hidota gideth <char style="ior"><ref loc="NAM 1:7-15">1:7-15</ref> </char></para>
   <para style="io1">Asoore waanna katama Nannawe dhayo <char style="ior"><ref loc="NAM 2:1-3:19">2:1—3:19</ref> </char></para>
-  <chapter number="1" style="c" sid="NAM 1"/>
+  <chapter number="1" style="c" sid="NAM 1" />
   <para style="p">
-    <verse number="1" style="v" sid="NAM 1:1"/>Elqoshe dere as Nahomey Nannawe dhayo gishshas yootida ajjuuta maxaafay hayssafe kaallizayssa.<note caller="-" style="x"><char style="xo" closed="false">1:1—3:19 </char><char style="xt" closed="false"><ref loc="ISA 10:5-34">Isa 10:5-34</ref>; <ref loc="ISA 14:24-27">14:24-27</ref>; <ref loc="ZEP 2:13-15">Sofo 2:13-15</ref></char></note><verse eid="NAM 1:1"/></para>
+    <verse number="1" style="v" sid="NAM 1:1" />Elqoshe dere as Nahomey Nannawe dhayo gishshas yootida ajjuuta maxaafay hayssafe kaallizayssa.<note caller="-" style="x"><char style="xo" closed="false">1:1—3:19 </char><char style="xt" closed="false"><ref loc="ISA 10:5-34">Isa 10:5-34</ref>; <ref loc="ISA 14:24-27">14:24-27</ref>; <ref loc="ZEP 2:13-15">Sofo 2:13-15</ref></char></note><verse eid="NAM 1:1" /></para>
   <para style="s1">Nannawe Bolla Qonccida Xoossa Hanqo</para>
   <para style="q1">
-    <verse number="2" style="v" sid="NAM 1:2"/>GODAY zil7ettizanne</para>
+    <verse number="2" style="v" sid="NAM 1:2" />GODAY zil7ettizanne</para>
   <para style="q2" vid="NAM 1:2">halo kessiza Xoossa;</para>
   <para style="q2" vid="NAM 1:2">GODAY halo kessizanne</para>
   <para style="q2" vid="NAM 1:2">hanqon kumida Xoossa.</para>
@@ -26,74 +26,74 @@
   <para style="q1" vid="NAM 1:2">GODAY ba baalgaarata bolla</para>
   <para style="q2" vid="NAM 1:2">halo kessees;</para>
   <para style="q2" vid="NAM 1:2">ba morkketa bolla</para>
-  <para style="q2" vid="NAM 1:2">ba hanqo ehees.<verse eid="NAM 1:2"/></para>
+  <para style="q2" vid="NAM 1:2">ba hanqo ehees.<verse eid="NAM 1:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="NAM 1:3"/>GODAY hanqettanaas eesotenna;</para>
+    <verse number="3" style="v" sid="NAM 1:3" />GODAY hanqettanaas eesotenna;</para>
   <para style="q2" vid="NAM 1:3">iza wolqqayka gita.</para>
   <para style="q2" vid="NAM 1:3">GODAY mooranchcha</para>
   <para style="q2" vid="NAM 1:3">qaxxayontta aggenna;</para>
   <para style="q2" vid="NAM 1:3">gote carkoynne abba dambalay</para>
   <para style="q2" vid="NAM 1:3">izas oge;</para>
-  <para style="q2" vid="NAM 1:3">shaaray iza toho gudulla.<verse eid="NAM 1:3"/></para>
-  <para style="b"/>
+  <para style="q2" vid="NAM 1:3">shaaray iza toho gudulla.<verse eid="NAM 1:3" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="4" style="v" sid="NAM 1:4"/>Abba seeridi melissees;</para>
+    <verse number="4" style="v" sid="NAM 1:4" />Abba seeridi melissees;</para>
   <para style="q2" vid="NAM 1:4">Shaafata ubbaa micinchchees.</para>
   <para style="q2" vid="NAM 1:4">Baasaaneynne</para>
   <para style="q2" vid="NAM 1:4">Qarmeloosey shullida.</para>
   <para style="q2" vid="NAM 1:4">Libaanoose ciishshatikka</para>
-  <para style="q2" vid="NAM 1:4">qoqofettida.<verse eid="NAM 1:4"/></para>
+  <para style="q2" vid="NAM 1:4">qoqofettida.<verse eid="NAM 1:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="NAM 1:5"/>Zumati iza sinththan kokkorida;</para>
+    <verse number="5" style="v" sid="NAM 1:5" />Zumati iza sinththan kokkorida;</para>
   <para style="q2" vid="NAM 1:5">zumbullatikka seerida.</para>
   <para style="q2" vid="NAM 1:5">Iza sinththan biittay, alameynne</para>
-  <para style="q2" vid="NAM 1:5">izin diza ubbati qaaxxida.<verse eid="NAM 1:5"/></para>
+  <para style="q2" vid="NAM 1:5">izin diza ubbati qaaxxida.<verse eid="NAM 1:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="NAM 1:6"/>Iza hanqora eqettana</para>
+    <verse number="6" style="v" sid="NAM 1:6" />Iza hanqora eqettana</para>
   <para style="q2" vid="NAM 1:6">dandayzay oonee?</para>
   <para style="q2" vid="NAM 1:6">iza hanqo minoza</para>
   <para style="q2" vid="NAM 1:6">tookkana dandayzay oonee?</para>
   <para style="q2" vid="NAM 1:6">Iza hanqoy tama mala eexxides;</para>
-  <para style="q2" vid="NAM 1:6">zaallatikka iza sinththafe za7ida.<verse eid="NAM 1:6"/></para>
+  <para style="q2" vid="NAM 1:6">zaallatikka iza sinththafe za7ida.<verse eid="NAM 1:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="NAM 1:7"/>GODAY lo7o;</para>
+    <verse number="7" style="v" sid="NAM 1:7" />GODAY lo7o;</para>
   <para style="q2" vid="NAM 1:7">meto gallassika qotetti attizaso.</para>
-  <para style="q2" vid="NAM 1:7">Izan ammanettizayta naagees.<verse eid="NAM 1:7"/></para>
+  <para style="q2" vid="NAM 1:7">Izan ammanettizayta naagees.<verse eid="NAM 1:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="NAM 1:8"/>Gido attiin izi Nannawe</para>
+    <verse number="8" style="v" sid="NAM 1:8" />Gido attiin izi Nannawe</para>
   <para style="q2" vid="NAM 1:8">wolqqama di7o haaththan</para>
   <para style="q2" vid="NAM 1:8">dhayssana;</para>
   <para style="q2" vid="NAM 1:8">ba morkketa dhumay</para>
-  <para style="q2" vid="NAM 1:8">dizaso yedeththana.<verse eid="NAM 1:8"/></para>
+  <para style="q2" vid="NAM 1:8">dizaso yedeththana.<verse eid="NAM 1:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="NAM 1:9"/>Istti Xoossa bolla ay duulatikkoka</para>
+    <verse number="9" style="v" sid="NAM 1:9" />Istti Xoossa bolla ay duulatikkoka</para>
   <para style="q2" vid="NAM 1:9">izi istta dhayssana.</para>
-  <para style="q2" vid="NAM 1:9">Metoy nam7anththo dendenna.<verse eid="NAM 1:9"/></para>
+  <para style="q2" vid="NAM 1:9">Metoy nam7anththo dendenna.<verse eid="NAM 1:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="NAM 1:10"/>Istti agunththan qaxettana;</para>
+    <verse number="10" style="v" sid="NAM 1:10" />Istti agunththan qaxettana;</para>
   <para style="q2" vid="NAM 1:10">ba woyne ushshan</para>
   <para style="q2" vid="NAM 1:10">istti maththottana;</para>
-  <para style="q2" vid="NAM 1:10">tamay istta buuxa mala maana.<verse eid="NAM 1:10"/></para>
+  <para style="q2" vid="NAM 1:10">tamay istta buuxa mala maana.<verse eid="NAM 1:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="NAM 1:11"/>Hanne Nannawe!</para>
+    <verse number="11" style="v" sid="NAM 1:11" />Hanne Nannawe!</para>
   <para style="q2" vid="NAM 1:11">GODAA bolla iita duulatizaytinne</para>
   <para style="q2" vid="NAM 1:11">iita zore zorettizayti</para>
-  <para style="q2" vid="NAM 1:11">ne garsafe beettida;<verse eid="NAM 1:11"/></para>
+  <para style="q2" vid="NAM 1:11">ne garsafe beettida;<verse eid="NAM 1:11" /></para>
   <para style="p">
-    <verse number="12" style="v" sid="NAM 1:12"/>GODAY, «Istti ay wolqqamatanne</para>
+    <verse number="12" style="v" sid="NAM 1:12" />GODAY, «Istti ay wolqqamatanne</para>
   <para style="q2" vid="NAM 1:12">darota gidikkoka</para>
   <para style="q2" vid="NAM 1:12">istti qanxxetti dhayana.</para>
   <para style="q1" vid="NAM 1:12">Haysso Yuhuda neni hayssafe kase</para>
   <para style="q2" vid="NAM 1:12">ta nena un7eththidaa gidikko</para>
   <para style="q2" vid="NAM 1:12">hayssafe guye</para>
-  <para style="q2" vid="NAM 1:12">ta nena un7eththike.<verse eid="NAM 1:12"/></para>
+  <para style="q2" vid="NAM 1:12">ta nena un7eththike.<verse eid="NAM 1:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="NAM 1:13"/>Ha7ikka ta istta qambara</para>
+    <verse number="13" style="v" sid="NAM 1:13" />Ha7ikka ta istta qambara</para>
   <para style="q2" vid="NAM 1:13">ne morgefe menththa diggana;</para>
   <para style="q2" vid="NAM 1:13">ne izan qashettida sansalatakka</para>
-  <para style="q2" vid="NAM 1:13">duuththa yeggana» gees.<verse eid="NAM 1:13"/></para>
+  <para style="q2" vid="NAM 1:13">duuththa yeggana» gees.<verse eid="NAM 1:13" /></para>
   <para style="q1">
-    <verse number="14" style="v" sid="NAM 1:14"/>Hanne Nannawe GODAY nena,</para>
+    <verse number="14" style="v" sid="NAM 1:14" />Hanne Nannawe GODAY nena,</para>
   <para style="q2" vid="NAM 1:14">«Hayssafe sinththan ne sunth</para>
   <para style="q2" vid="NAM 1:14">xeygiza yeletay deenna.</para>
   <para style="q2" vid="NAM 1:14">Ne eeqa xoossata keeththan diza</para>
@@ -102,9 +102,9 @@
   <para style="q2" vid="NAM 1:14">eeqa xoossata dhayssana;</para>
   <para style="q2" vid="NAM 1:14">ne iita gidida gishshas</para>
   <para style="q2" vid="NAM 1:14">ne moogettanaaso</para>
-  <para style="q2" vid="NAM 1:14">ta bookkana» gees.<verse eid="NAM 1:14"/></para>
+  <para style="q2" vid="NAM 1:14">ta bookkana» gees.<verse eid="NAM 1:14" /></para>
   <para style="q1">
-    <verse number="15" style="v" sid="NAM 1:15"/>Hekko mishiraachcho yootizayssi,</para>
+    <verse number="15" style="v" sid="NAM 1:15" />Hekko mishiraachcho yootizayssi,</para>
   <para style="q2" vid="NAM 1:15">saroteth awajjizayssi</para>
   <para style="q2" vid="NAM 1:15">zumaa bollara</para>
   <para style="q2" vid="NAM 1:15">yuussan dees.</para>
@@ -112,92 +112,92 @@
   <para style="q2" vid="NAM 1:15">ne adinettidayssa gaththa;</para>
   <para style="q2" vid="NAM 1:15">hayssafe guye iitati</para>
   <para style="q2" vid="NAM 1:15">ne dere worajjettenna;</para>
-  <para style="q2" vid="NAM 1:15">istti mulera dhayana.<note caller="-" style="x"><char style="xo" closed="false">1:15 </char><char style="xt" closed="false"><ref loc="ISA 52:7">Isa 52:7</ref></char></note><verse eid="NAM 1:15"/></para>
-  <chapter eid="NAM 1"/>
-  <chapter number="2" style="c" sid="NAM 2"/>
+  <para style="q2" vid="NAM 1:15">istti mulera dhayana.<note caller="-" style="x"><char style="xo" closed="false">1:15 </char><char style="xt" closed="false"><ref loc="ISA 52:7">Isa 52:7</ref></char></note><verse eid="NAM 1:15" /></para>
+  <chapter eid="NAM 1" />
+  <chapter number="2" style="c" sid="NAM 2" />
   <para style="s1">Nannawe Kundeth</para>
   <para style="q1">
-    <verse number="1" style="v" sid="NAM 2:1"/>Hanne Nannawe!</para>
+    <verse number="1" style="v" sid="NAM 2:1" />Hanne Nannawe!</para>
   <para style="q2" vid="NAM 2:1">Nena qohanay ne bolla yides;</para>
   <para style="q2" vid="NAM 2:1">ne miixa naaga;</para>
   <para style="q2" vid="NAM 2:1">ne oge xomosa;</para>
   <para style="q2" vid="NAM 2:1">minththa gixxa;</para>
-  <para style="q2" vid="NAM 2:1">ne wolqqa ubbaa minththa.<verse eid="NAM 2:1"/></para>
+  <para style="q2" vid="NAM 2:1">ne wolqqa ubbaa minththa.<verse eid="NAM 2:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="NAM 2:2"/>Dhayssizayti istta mela</para>
+    <verse number="2" style="v" sid="NAM 2:2" />Dhayssizayti istta mela</para>
   <para style="q2" vid="NAM 2:2">ashshikokka,</para>
   <para style="q2" vid="NAM 2:2">istti woyne atakilte tokkizasoho</para>
   <para style="q2" vid="NAM 2:2">mulera dhayssikoka</para>
   <para style="q2" vid="NAM 2:2">Isra7eele bonchcho ubbaa mala</para>
   <para style="q2" vid="NAM 2:2">GODAY Yaaqoobe</para>
-  <para style="q2" vid="NAM 2:2">bonchchoka zaarana.<verse eid="NAM 2:2"/></para>
+  <para style="q2" vid="NAM 2:2">bonchchoka zaarana.<verse eid="NAM 2:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="NAM 2:3"/>Iza wottadarata gondalley zo7o;</para>
+    <verse number="3" style="v" sid="NAM 2:3" />Iza wottadarata gondalley zo7o;</para>
   <para style="q2" vid="NAM 2:3">iza olanchchatikka</para>
   <para style="q2" vid="NAM 2:3">zo7o may7o may7ida;</para>
   <para style="q2" vid="NAM 2:3">istti olettanaas giigettida gallas</para>
   <para style="q2" vid="NAM 2:3">istta para-gaareta</para>
   <para style="q2" vid="NAM 2:3">biratay xolqees;</para>
-  <para style="q2" vid="NAM 2:3">istta toora toomay luuxxees.<verse eid="NAM 2:3"/></para>
+  <para style="q2" vid="NAM 2:3">istta toora toomay luuxxees.<verse eid="NAM 2:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="NAM 2:4"/>Para-gaareti demban</para>
+    <verse number="4" style="v" sid="NAM 2:4" />Para-gaareti demban</para>
   <para style="q2" vid="NAM 2:4">yaanne haa buraqeettes;</para>
   <para style="q2" vid="NAM 2:4">ogeta bollaka</para>
   <para style="q2" vid="NAM 2:4">shom7ushom7u geettes;</para>
   <para style="q2" vid="NAM 2:4">laciza xomppe misateettes;</para>
   <para style="q2" vid="NAM 2:4">wolqqanththa mala</para>
-  <para style="q2" vid="NAM 2:4">wawaci geettes.<verse eid="NAM 2:4"/></para>
+  <para style="q2" vid="NAM 2:4">wawaci geettes.<verse eid="NAM 2:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="NAM 2:5"/>Doorettida olanchchata xeygees;</para>
+    <verse number="5" style="v" sid="NAM 2:5" />Doorettida olanchchata xeygees;</para>
   <para style="q2" vid="NAM 2:5">gido attiin istti yishe</para>
   <para style="q2" vid="NAM 2:5">ogen dhuphetteettes;</para>
   <para style="q2" vid="NAM 2:5">katamaa gimbeko woxeettes;</para>
   <para style="q2" vid="NAM 2:5">ola teqqiza gondalleyka</para>
-  <para style="q2" vid="NAM 2:5">heen dees.<verse eid="NAM 2:5"/></para>
+  <para style="q2" vid="NAM 2:5">heen dees.<verse eid="NAM 2:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="NAM 2:6"/>Shaafa pengey waggi gi doyettides;</para>
-  <para style="q2" vid="NAM 2:6">kawoteththa keeththi kundides.<verse eid="NAM 2:6"/></para>
+    <verse number="6" style="v" sid="NAM 2:6" />Shaafa pengey waggi gi doyettides;</para>
+  <para style="q2" vid="NAM 2:6">kawoteththa keeththi kundides.<verse eid="NAM 2:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="NAM 2:7"/>Nannawey kawuyiin</para>
+    <verse number="7" style="v" sid="NAM 2:7" />Nannawey kawuyiin</para>
   <para style="q2" vid="NAM 2:7">izi kawoya di7ettada buussi</para>
   <para style="q2" vid="NAM 2:7">attonttayssi kaseti yootettides.</para>
   <para style="q2" vid="NAM 2:7">Izi macca aylleti</para>
   <para style="q2" vid="NAM 2:7">haraphphe mala yeekkana;</para>
-  <para style="q2" vid="NAM 2:7">bantta tirakka iccana.<verse eid="NAM 2:7"/></para>
+  <para style="q2" vid="NAM 2:7">bantta tirakka iccana.<verse eid="NAM 2:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="NAM 2:8"/>Nannawey eele haaththa mala;</para>
+    <verse number="8" style="v" sid="NAM 2:8" />Nannawey eele haaththa mala;</para>
   <para style="q2" vid="NAM 2:8">izi haaththika miccana.</para>
   <para style="q2" vid="NAM 2:8">«Eqqa! Eqqa!» gi istti waassana;</para>
   <para style="q2" vid="NAM 2:8">gido attiin guye</para>
-  <para style="q2" vid="NAM 2:8">simmizay deenna.<verse eid="NAM 2:8"/></para>
+  <para style="q2" vid="NAM 2:8">simmizay deenna.<verse eid="NAM 2:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="NAM 2:9"/>Iza minjja keeththan</para>
+    <verse number="9" style="v" sid="NAM 2:9" />Iza minjja keeththan</para>
   <para style="q2" vid="NAM 2:9">dagattida aqotas</para>
   <para style="q2" vid="NAM 2:9">qooday deenna;</para>
   <para style="q2" vid="NAM 2:9">biidi biraakka,</para>
-  <para style="q2" vid="NAM 2:9">worqqaaka bonqqi ekkite.<verse eid="NAM 2:9"/></para>
+  <para style="q2" vid="NAM 2:9">worqqaaka bonqqi ekkite.<verse eid="NAM 2:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="NAM 2:10"/>Qocirettadus; bonqqettadus;</para>
+    <verse number="10" style="v" sid="NAM 2:10" />Qocirettadus; bonqqettadus;</para>
   <para style="q2" vid="NAM 2:10">kallottadus; wozinay taahides;</para>
   <para style="q2" vid="NAM 2:10">gulbatey kokkorides;</para>
   <para style="q2" vid="NAM 2:10">ashoy qaaxxides;</para>
-  <para style="q2" vid="NAM 2:10">ayfesoykka gilqides.<verse eid="NAM 2:10"/></para>
+  <para style="q2" vid="NAM 2:10">ayfesoykka gilqides.<verse eid="NAM 2:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="NAM 2:11"/>Gaammoti kase de7iza gongoloy,</para>
+    <verse number="11" style="v" sid="NAM 2:11" />Gaammoti kase de7iza gongoloy,</para>
   <para style="q2" vid="NAM 2:11">istta marati mizasoy,</para>
   <para style="q2" vid="NAM 2:11">macca gaammoynne</para>
   <para style="q2" vid="NAM 2:11">adde gaammoy bizasohoy,</para>
   <para style="q2" vid="NAM 2:11">istta marati hirgay baynda</para>
-  <para style="q2" vid="NAM 2:11">mizasoy ha7i awan dizee?<verse eid="NAM 2:11"/></para>
+  <para style="q2" vid="NAM 2:11">mizasoy ha7i awan dizee?<verse eid="NAM 2:11" /></para>
   <para style="q1">
-    <verse number="12" style="v" sid="NAM 2:12"/>Gaammoy ba maratas</para>
+    <verse number="12" style="v" sid="NAM 2:12" />Gaammoy ba maratas</para>
   <para style="q2" vid="NAM 2:12">gidanayssa keena wodhides;</para>
   <para style="q2" vid="NAM 2:12">maccataska cuulli wodhides;</para>
   <para style="q2" vid="NAM 2:12">ba wodhidayssa ba shemppizason,</para>
   <para style="q2" vid="NAM 2:12">ba bonqqi shiishshidayssa</para>
-  <para style="q2" vid="NAM 2:12">ba gongolo kunththides.<verse eid="NAM 2:12"/></para>
+  <para style="q2" vid="NAM 2:12">ba gongolo kunththides.<verse eid="NAM 2:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="NAM 2:13"/>Ubbaafe Wolqqama GODAY,</para>
+    <verse number="13" style="v" sid="NAM 2:13" />Ubbaafe Wolqqama GODAY,</para>
   <para style="q2" vid="NAM 2:13">«Ta intte bolla dendadis;</para>
   <para style="q2" vid="NAM 2:13">intte para-gaaretakka xuuggana;</para>
   <para style="q2" vid="NAM 2:13">intte gaammo marata mashshay maana;</para>
@@ -205,131 +205,131 @@
   <para style="q2" vid="NAM 2:13">biitta bolla ashke;</para>
   <para style="q2" vid="NAM 2:13">intte kiittizayta cenggurssi</para>
   <para style="q2" vid="NAM 2:13">hayssafe guye seetettenna»</para>
-  <para style="q2" vid="NAM 2:13">gi awajjees.<verse eid="NAM 2:13"/></para>
-  <chapter eid="NAM 2"/>
-  <chapter number="3" style="c" sid="NAM 3"/>
+  <para style="q2" vid="NAM 2:13">gi awajjees.<verse eid="NAM 2:13" /></para>
+  <chapter eid="NAM 2" />
+  <chapter number="3" style="c" sid="NAM 3" />
   <para style="s1">Nannawes Aayye Ana</para>
   <para style="q1">
-    <verse number="1" style="v" sid="NAM 3:1"/>Suuththa katamays aayye ana;</para>
+    <verse number="1" style="v" sid="NAM 3:1" />Suuththa katamays aayye ana;</para>
   <para style="q2" vid="NAM 3:1">wordoynne bonqqay</para>
   <para style="q2" vid="NAM 3:1">izin kumides;</para>
   <para style="q2" vid="NAM 3:1">izippe qociretti shiiqidayssi</para>
-  <para style="q2" vid="NAM 3:1">efinkka wurenna.<verse eid="NAM 3:1"/></para>
+  <para style="q2" vid="NAM 3:1">efinkka wurenna.<verse eid="NAM 3:1" /></para>
   <para style="q1">
-    <verse number="2" style="v" sid="NAM 3:2"/>Xurqafe giirissi,</para>
+    <verse number="2" style="v" sid="NAM 3:2" />Xurqafe giirissi,</para>
   <para style="q2" vid="NAM 3:2">irizo cenggurssi,</para>
   <para style="q2" vid="NAM 3:2">pilata para adaraasoy,</para>
-  <para style="q2" vid="NAM 3:2">para-gaareta giirissi siyettides.<verse eid="NAM 3:2"/></para>
+  <para style="q2" vid="NAM 3:2">para-gaareta giirissi siyettides.<verse eid="NAM 3:2" /></para>
   <para style="q1">
-    <verse number="3" style="v" sid="NAM 3:3"/>Toganchchay toggees;</para>
+    <verse number="3" style="v" sid="NAM 3:3" />Toganchchay toggees;</para>
   <para style="q2" vid="NAM 3:3">mashshay popol7u gees;</para>
   <para style="q2" vid="NAM 3:3">tooray xolqettees;</para>
   <para style="q2" vid="NAM 3:3">daroy hayqqides;</para>
   <para style="q2" vid="NAM 3:3">ahay aha bolla korettides;</para>
   <para style="q2" vid="NAM 3:3">izas qoodaykka deenna;</para>
   <para style="q2" vid="NAM 3:3">aadhdhi bizasoykka</para>
-  <para style="q2" vid="NAM 3:3">beettibeenna.<verse eid="NAM 3:3"/></para>
+  <para style="q2" vid="NAM 3:3">beettibeenna.<verse eid="NAM 3:3" /></para>
   <para style="q1">
-    <verse number="4" style="v" sid="NAM 3:4"/>Hayssi ubbay haniday</para>
+    <verse number="4" style="v" sid="NAM 3:4" />Hayssi ubbay haniday</para>
   <para style="q2" vid="NAM 3:4">buute aaththada</para>
   <para style="q2" vid="NAM 3:4">as baleththizanne</para>
   <para style="q2" vid="NAM 3:4">muurenniza laymay gaasonna.</para>
   <para style="q2" vid="NAM 3:4">Iza ba laymateththan</para>
   <para style="q2" vid="NAM 3:4">kawoteththa, maroteththan</para>
-  <para style="q2" vid="NAM 3:4">dereza ayllesidaaro.<verse eid="NAM 3:4"/></para>
+  <para style="q2" vid="NAM 3:4">dereza ayllesidaaro.<verse eid="NAM 3:4" /></para>
   <para style="q1">
-    <verse number="5" style="v" sid="NAM 3:5"/>Ubbaafe Wolqqama GODAY,</para>
+    <verse number="5" style="v" sid="NAM 3:5" />Ubbaafe Wolqqama GODAY,</para>
   <para style="q2" vid="NAM 3:5">«Hanne tani ne bolla</para>
   <para style="q2" vid="NAM 3:5">morkketeththan dendadis;</para>
   <para style="q2" vid="NAM 3:5">tani ne qamisa qaara</para>
   <para style="q2" vid="NAM 3:5">ne ayfeso kammana;</para>
   <para style="q2" vid="NAM 3:5">ne kalloteththaa deraas,</para>
   <para style="q2" vid="NAM 3:5">yeellateththaa kawoteththatas</para>
-  <para style="q2" vid="NAM 3:5">ta bessana.<verse eid="NAM 3:5"/></para>
+  <para style="q2" vid="NAM 3:5">ta bessana.<verse eid="NAM 3:5" /></para>
   <para style="q1">
-    <verse number="6" style="v" sid="NAM 3:6"/>Tani ne bolla buura olana;</para>
+    <verse number="6" style="v" sid="NAM 3:6" />Tani ne bolla buura olana;</para>
   <para style="q2" vid="NAM 3:6">ta nena kadhana;</para>
-  <para style="q2" vid="NAM 3:6">qidheska aaththa immana.<verse eid="NAM 3:6"/></para>
+  <para style="q2" vid="NAM 3:6">qidheska aaththa immana.<verse eid="NAM 3:6" /></para>
   <para style="q1">
-    <verse number="7" style="v" sid="NAM 3:7"/>Nena be7izayti neeppe baqatishe,</para>
+    <verse number="7" style="v" sid="NAM 3:7" />Nena be7izayti neeppe baqatishe,</para>
   <para style="q2" vid="NAM 3:7">‹Nannawey laalettadus;</para>
   <para style="q2" vid="NAM 3:7">izis yeekkanay oonee?› gaana.</para>
   <para style="q2" vid="NAM 3:7">Nena minththeththanaade</para>
-  <para style="q2" vid="NAM 3:7">ta awappe demmanee?» gides.<verse eid="NAM 3:7"/></para>
+  <para style="q2" vid="NAM 3:7">ta awappe demmanee?» gides.<verse eid="NAM 3:7" /></para>
   <para style="q1">
-    <verse number="8" style="v" sid="NAM 3:8"/>Neni Abbaye shaafa achchan diza,</para>
+    <verse number="8" style="v" sid="NAM 3:8" />Neni Abbaye shaafa achchan diza,</para>
   <para style="q2" vid="NAM 3:8">haaththan doodetta diza</para>
   <para style="q2" vid="NAM 3:8">No7e Amooneppe goobay?</para>
   <para style="q2" vid="NAM 3:8">Shaafazi izis teqe haaththazikka</para>
-  <para style="q2" vid="NAM 3:8">izis gimbe.<verse eid="NAM 3:8"/></para>
+  <para style="q2" vid="NAM 3:8">izis gimbe.<verse eid="NAM 3:8" /></para>
   <para style="q1">
-    <verse number="9" style="v" sid="NAM 3:9"/>Tophphiyaynne Gibxey izis</para>
+    <verse number="9" style="v" sid="NAM 3:9" />Tophphiyaynne Gibxey izis</para>
   <para style="q2" vid="NAM 3:9">zaway baynda wolqqa;</para>
   <para style="q2" vid="NAM 3:9">Puuxeynne Liibiyay</para>
-  <para style="q2" vid="NAM 3:9">izo maaddizayta;<verse eid="NAM 3:9"/></para>
+  <para style="q2" vid="NAM 3:9">izo maaddizayta;<verse eid="NAM 3:9" /></para>
   <para style="q1">
-    <verse number="10" style="v" sid="NAM 3:10"/>Gido attiin iza di7ettadus;</para>
+    <verse number="10" style="v" sid="NAM 3:10" />Gido attiin iza di7ettadus;</para>
   <para style="q2" vid="NAM 3:10">goodetta badus;</para>
   <para style="q2" vid="NAM 3:10">izi nayti ogeta tiixa bolla</para>
   <para style="q2" vid="NAM 3:10">dinccettida;</para>
   <para style="q2" vid="NAM 3:10">izi daannata bolla</para>
   <para style="q2" vid="NAM 3:10">saamay wodhdhides;</para>
   <para style="q2" vid="NAM 3:10">izi gita asati</para>
-  <para style="q2" vid="NAM 3:10">ubbay sansalatan qashettida.<verse eid="NAM 3:10"/></para>
+  <para style="q2" vid="NAM 3:10">ubbay sansalatan qashettida.<verse eid="NAM 3:10" /></para>
   <para style="q1">
-    <verse number="11" style="v" sid="NAM 3:11"/>Nenikka qasse</para>
+    <verse number="11" style="v" sid="NAM 3:11" />Nenikka qasse</para>
   <para style="q2" vid="NAM 3:11">maththottananne qotettana;</para>
-  <para style="q2" vid="NAM 3:11">morkketappe attizaso ne koyana.<verse eid="NAM 3:11"/></para>
-  <para style="b"/>
+  <para style="q2" vid="NAM 3:11">morkketappe attizaso ne koyana.<verse eid="NAM 3:11" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="12" style="v" sid="NAM 3:12"/>Ne miixati ubbay muussas gakkida</para>
+    <verse number="12" style="v" sid="NAM 3:12" />Ne miixati ubbay muussas gakkida</para>
   <para style="q2" vid="NAM 3:12">balase miththas koyro ayfe mala;</para>
   <para style="q2" vid="NAM 3:12">istti qaaxxiza wode</para>
   <para style="q2" vid="NAM 3:12">istta ayfeti</para>
-  <para style="q2" vid="NAM 3:12">mizaade doonan wodhdheettes.<verse eid="NAM 3:12"/></para>
+  <para style="q2" vid="NAM 3:12">mizaade doonan wodhdheettes.<verse eid="NAM 3:12" /></para>
   <para style="q1">
-    <verse number="13" style="v" sid="NAM 3:13"/>Hekko ne ola asay</para>
+    <verse number="13" style="v" sid="NAM 3:13" />Hekko ne ola asay</para>
   <para style="q2" vid="NAM 3:13">wurikka macca xalla!</para>
   <para style="q2" vid="NAM 3:13">Ne zawati ne morkketas</para>
   <para style="q2" vid="NAM 3:13">waggi gi doyettida;</para>
-  <para style="q2" vid="NAM 3:13">istta kolatatakka tamay mides.<verse eid="NAM 3:13"/></para>
+  <para style="q2" vid="NAM 3:13">istta kolatatakka tamay mides.<verse eid="NAM 3:13" /></para>
   <para style="q1">
-    <verse number="14" style="v" sid="NAM 3:14"/>Nena giddoththiza wodes</para>
+    <verse number="14" style="v" sid="NAM 3:14" />Nena giddoththiza wodes</para>
   <para style="q2" vid="NAM 3:14">haath duuqqa;</para>
   <para style="q2" vid="NAM 3:14">nees teqe minththa giigsa;</para>
   <para style="q2" vid="NAM 3:14">mana urqqa koya;</para>
   <para style="q2" vid="NAM 3:14">Urqqaa yedhdhada</para>
-  <para style="q2" vid="NAM 3:14">xuube ooththa.<verse eid="NAM 3:14"/></para>
+  <para style="q2" vid="NAM 3:14">xuube ooththa.<verse eid="NAM 3:14" /></para>
   <para style="q1">
-    <verse number="15" style="v" sid="NAM 3:15"/>Nena heen tamay maana;</para>
+    <verse number="15" style="v" sid="NAM 3:15" />Nena heen tamay maana;</para>
   <para style="q2" vid="NAM 3:15">Mashshayka nena qanxxana;</para>
   <para style="q2" vid="NAM 3:15">gumbaroy miza mala</para>
   <para style="q2" vid="NAM 3:15">nena garccana;</para>
   <para style="q2" vid="NAM 3:15">gumbaro mala yeletta;</para>
-  <para style="q2" vid="NAM 3:15">boole mala dara.<verse eid="NAM 3:15"/></para>
+  <para style="q2" vid="NAM 3:15">boole mala dara.<verse eid="NAM 3:15" /></para>
   <para style="q1">
-    <verse number="16" style="v" sid="NAM 3:16"/>Ne zal7anchchata</para>
+    <verse number="16" style="v" sid="NAM 3:16" />Ne zal7anchchata</para>
   <para style="q2" vid="NAM 3:16">salo xoolinttepekka darsadasa.</para>
   <para style="q2" vid="NAM 3:16">Istti gidikko biittayo boole mala</para>
-  <para style="q2" vid="NAM 3:16">pitti miidi piradhdhi bida.<verse eid="NAM 3:16"/></para>
+  <para style="q2" vid="NAM 3:16">pitti miidi piradhdhi bida.<verse eid="NAM 3:16" /></para>
   <para style="q1">
-    <verse number="17" style="v" sid="NAM 3:17"/>Nena naagizayti boole mala;</para>
+    <verse number="17" style="v" sid="NAM 3:17" />Nena naagizayti boole mala;</para>
   <para style="q2" vid="NAM 3:17">ne gita asati meego gallas</para>
   <para style="q2" vid="NAM 3:17">gimbe garsan</para>
   <para style="q2" vid="NAM 3:17">uttiza gumbaro mala.</para>
   <para style="q2" vid="NAM 3:17">Istti arshey kezishin</para>
   <para style="q2" vid="NAM 3:17">piradhdheettes;</para>
   <para style="q2" vid="NAM 3:17">istti piradhdhi bizasoy</para>
-  <para style="q2" vid="NAM 3:17">awakko erettenna.<verse eid="NAM 3:17"/></para>
-  <para style="b"/>
+  <para style="q2" vid="NAM 3:17">awakko erettenna.<verse eid="NAM 3:17" /></para>
+  <para style="b" />
   <para style="q1">
-    <verse number="18" style="v" sid="NAM 3:18"/>Asoore kawoo,</para>
+    <verse number="18" style="v" sid="NAM 3:18" />Asoore kawoo,</para>
   <para style="q2" vid="NAM 3:18">ne heenththanchchati dhiskida;</para>
   <para style="q2" vid="NAM 3:18">ne gita asati woppu gi ichchida;</para>
   <para style="q2" vid="NAM 3:18">ne derey shiishshizay dhayiin</para>
-  <para style="q2" vid="NAM 3:18">zuma bolla laalettides.<verse eid="NAM 3:18"/></para>
+  <para style="q2" vid="NAM 3:18">zuma bolla laalettides.<verse eid="NAM 3:18" /></para>
   <para style="q1">
-    <verse number="19" style="v" sid="NAM 3:19"/>Ne madunth paththana</para>
+    <verse number="19" style="v" sid="NAM 3:19" />Ne madunth paththana</para>
   <para style="q2" vid="NAM 3:19">dandayzay deenna;</para>
   <para style="q2" vid="NAM 3:19">neni hayqos gaththiza</para>
   <para style="q2" vid="NAM 3:19">meqo meqqadasa;</para>
@@ -338,6 +338,6 @@
   <para style="q2" vid="NAM 3:19">kushe baqqana;</para>
   <para style="q2" vid="NAM 3:19">zaway baynda</para>
   <para style="q2" vid="NAM 3:19">ne menxe iitateththi</para>
-  <para style="q2" vid="NAM 3:19">bochchonttay oonee?<verse eid="NAM 3:19"/></para>
-  <chapter eid="NAM 3"/>
+  <para style="q2" vid="NAM 3:19">bochchonttay oonee?<verse eid="NAM 3:19" /></para>
+  <chapter eid="NAM 3" />
 </usx>

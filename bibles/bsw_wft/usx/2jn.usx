@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <usx version="3.0">
   <book code="2JN" style="id">- Bayso New Testament</book>
   <para style="h">2 ያንሳ</para>
@@ -13,24 +13,24 @@
   <para style="io1">ጌላንጀ ዱባንኮ ታሮራቶታ <char style="ior"><ref loc="2JN 1:4-6">4-6</ref> </char></para>
   <para style="io1">ካጣራ አጋልስስኮክ ጋራ ካሴርሳራ <char style="ior"><ref loc="2JN 1:7-11">7-11</ref> </char></para>
   <para style="io1">ጉድሳኖ <char style="ior"><ref loc="2JN 1:12-13">12-13</ref> </char></para>
-  <chapter number="1" style="c" sid="2JN 1"/>
+  <chapter number="1" style="c" sid="2JN 1" />
   <para style="p">
-    <verse number="1" style="v" sid="2JN 1:1"/>ጃርሳት፥ ሩምና ኦጌላታሮ አን ካላል አንሌኖን ሩም ኦካሳን ዱባ ኦጌላታራን ታአሳባንተቶ አምኔቱና ይስክሴዉን፥<note caller="+" style="f"><char style="fr" closed="false">1፡1 </char><char style="ft" closed="false">አምኔቱን ካአማራ ሃፉራ ምን ካዋና ኦሮ ካግሮ አማኒል አማኖያ። </char></note><verse eid="2JN 1:1"/></para>
+    <verse number="1" style="v" sid="2JN 1:1" />ጃርሳት፥ ሩምና ኦጌላታሮ አን ካላል አንሌኖን ሩም ኦካሳን ዱባ ኦጌላታራን ታአሳባንተቶ አምኔቱና ይስክሴዉን፥<note caller="+" style="f"><char style="fr" closed="false">1፡1 </char><char style="ft" closed="false">አምኔቱን ካአማራ ሃፉራ ምን ካዋና ኦሮ ካግሮ አማኒል አማኖያ። </char></note><verse eid="2JN 1:1" /></para>
   <para style="p">
-    <verse number="2" style="v" sid="2JN 1:2"/>ህት ሩም ኖ ኦሮ ታግቶና ሆረንባን ጅሩ ጅሮማን ታግርናቶ ሩምኮ ካከይ፥<verse eid="2JN 1:2"/></para>
+    <verse number="2" style="v" sid="2JN 1:2" />ህት ሩም ኖ ኦሮ ታግቶና ሆረንባን ጅሩ ጅሮማን ታግርናቶ ሩምኮ ካከይ፥<verse eid="2JN 1:2" /></para>
   <para style="p">
-    <verse number="3" style="v" sid="2JN 1:3"/>ዋ ኦዶኮና ኤረ የሱሳ ክርስቶሳኮ ስኖና ሻጋ፥ ኖጎዳና ሩምና ጌላንጄይ ኖኔ ዎታ ሀሌቶ።<verse eid="2JN 1:3"/></para>
+    <verse number="3" style="v" sid="2JN 1:3" />ዋ ኦዶኮና ኤረ የሱሳ ክርስቶሳኮ ስኖና ሻጋ፥ ኖጎዳና ሩምና ጌላንጄይ ኖኔ ዎታ ሀሌቶ።<verse eid="2JN 1:3" /></para>
   <para style="s1">ጌላንጀና ሩምና</para>
   <para style="p">
-    <verse number="4" style="v" sid="2JN 1:4"/>ይስካኮ ኮኮ ኦዶኮ ኖን ካስሳመሮ አጃጃክ ማለ ሩሚ አታቴን ኦሴታራን ማንኮዴ ማራን ኣሎ ገጌላየራ። <verse eid="2JN 1:4"/><verse number="5" style="v" sid="2JN 1:5"/>ግዳና አምኔ፥ ባርዋ ካግረ አጃጃ ኳሬ ካኡሱብ አጃጃ ኩን ላኮጻፍናሮ፤ ህክና እስእስኦሮ እስእሲ ጎጎጌላኖንያ።<note caller="-" style="x"><char style="xo" closed="false">1፡5 </char><char style="xt" closed="false"><ref loc="JHN 13:34">ያን. 13፡34</ref>፤ <ref loc="JHN 15:12">15፡12</ref>፥<ref loc="JHN 15:17">17</ref>።</char></note> <verse eid="2JN 1:5"/><verse number="6" style="v" sid="2JN 1:6"/>ህት ጌላንጀ፥ አጃጃክ ማለ ጎጎሰሴኖንያ። አጃጃና ባርዋ እስን ጎጎማልቴታን “ጌላንጄ ግራ” ካአማሮያ።<verse eid="2JN 1:6"/></para>
+    <verse number="4" style="v" sid="2JN 1:4" />ይስካኮ ኮኮ ኦዶኮ ኖን ካስሳመሮ አጃጃክ ማለ ሩሚ አታቴን ኦሴታራን ማንኮዴ ማራን ኣሎ ገጌላየራ። <verse eid="2JN 1:4" /><verse number="5" style="v" sid="2JN 1:5" />ግዳና አምኔ፥ ባርዋ ካግረ አጃጃ ኳሬ ካኡሱብ አጃጃ ኩን ላኮጻፍናሮ፤ ህክና እስእስኦሮ እስእሲ ጎጎጌላኖንያ።<note caller="-" style="x"><char style="xo" closed="false">1፡5 </char><char style="xt" closed="false"><ref loc="JHN 13:34">ያን. 13፡34</ref>፤ <ref loc="JHN 15:12">15፡12</ref>፥<ref loc="JHN 15:17">17</ref>።</char></note> <verse eid="2JN 1:5" /><verse number="6" style="v" sid="2JN 1:6" />ህት ጌላንጀ፥ አጃጃክ ማለ ጎጎሰሴኖንያ። አጃጃና ባርዋ እስን ጎጎማልቴታን “ጌላንጄ ግራ” ካአማሮያ።<verse eid="2JN 1:6" /></para>
   <para style="p">
-    <verse number="7" style="v" sid="2JN 1:7"/>የሱሳ ክርስቶሳ እባዶ ሌ ኤመታኖ ካአማኖን ካሶባራ ካሞጋን አላም ቶስ ታበራ። ሂካ ኣንክክ እባዶ ካሶባሮና ክርስቶሳ ካኔባታሮያ። <verse eid="2JN 1:7"/><verse number="8" style="v" sid="2JN 1:8"/>እስን ጎአመን ካዳፉርቴታኑን ላኦ ጎጎዋኖንኮ ካአማጋመ ባርኣራ አታይን አታዬን።<verse eid="2JN 1:8"/></para>
+    <verse number="7" style="v" sid="2JN 1:7" />የሱሳ ክርስቶሳ እባዶ ሌ ኤመታኖ ካአማኖን ካሶባራ ካሞጋን አላም ቶስ ታበራ። ሂካ ኣንክክ እባዶ ካሶባሮና ክርስቶሳ ካኔባታሮያ። <verse eid="2JN 1:7" /><verse number="8" style="v" sid="2JN 1:8" />እስን ጎአመን ካዳፉርቴታኑን ላኦ ጎጎዋኖንኮ ካአማጋመ ባርኣራ አታይን አታዬን።<verse eid="2JN 1:8" /></para>
   <para style="p">
-    <verse number="9" style="v" sid="2JN 1:9"/>አጋልስስ ካክርስቶሳይ ካግኖና አጋልስስኬሳኮ ሳር ካበያራ ዱባ ዋ ላኮአቦ፤ አጋልስስ ካክርስቶሳ ካግራ አደ ኦዶና ኤረና አባ። <verse eid="2JN 1:9"/><verse number="10" style="v" sid="2JN 1:10"/>ማዮና እስን ቶስ ኤመታ፥ ሂካ አጋልስስ አት ጎኤመኖን ምንክስኒ አሮቆባቴን፤ ኖጎዳና አሮአቴን። <verse eid="2JN 1:10"/><verse number="11" style="v" sid="2JN 1:11"/>ኖጎዳ ካአታራ እባዶ ጎግረ አደ፥ ፈሎ ኦሜላን ዎታ ካፈላሮ ላራ።<verse eid="2JN 1:11"/></para>
+    <verse number="9" style="v" sid="2JN 1:9" />አጋልስስ ካክርስቶሳይ ካግኖና አጋልስስኬሳኮ ሳር ካበያራ ዱባ ዋ ላኮአቦ፤ አጋልስስ ካክርስቶሳ ካግራ አደ ኦዶና ኤረና አባ። <verse eid="2JN 1:9" /><verse number="10" style="v" sid="2JN 1:10" />ማዮና እስን ቶስ ኤመታ፥ ሂካ አጋልስስ አት ጎኤመኖን ምንክስኒ አሮቆባቴን፤ ኖጎዳና አሮአቴን። <verse eid="2JN 1:10" /><verse number="11" style="v" sid="2JN 1:11" />ኖጎዳ ካአታራ እባዶ ጎግረ አደ፥ ፈሎ ኦሜላን ዎታ ካፈላሮ ላራ።<verse eid="2JN 1:11" /></para>
   <para style="s1">ታጋቾ ኖጎዳ</para>
   <para style="p">
-    <verse number="12" style="v" sid="2JN 1:12"/>አን እስኑን ካጻፍናረ ካሞጋን አየስ ግረ፤ ሀሌዎ ኳሬ ዎራቃታና ቃላምዪ ጎጎሌሮ ላኮዶታሮ፤ አየሱን ጎአመን ገጌሎኦታን ኦአዴሳሜን ጎጎሌራኑን እስን ቶስ ኤመይረ እስእስደያ አዬስን አብድ የላታራ።<verse eid="2JN 1:12"/></para>
+    <verse number="12" style="v" sid="2JN 1:12" />አን እስኑን ካጻፍናረ ካሞጋን አየስ ግረ፤ ሀሌዎ ኳሬ ዎራቃታና ቃላምዪ ጎጎሌሮ ላኮዶታሮ፤ አየሱን ጎአመን ገጌሎኦታን ኦአዴሳሜን ጎጎሌራኑን እስን ቶስ ኤመይረ እስእስደያ አዬስን አብድ የላታራ።<verse eid="2JN 1:12" /></para>
   <para style="p">
-    <verse number="13" style="v" sid="2JN 1:13"/>ታአሳባንተቶ አባታታክ ይስ ኖጎዳ ኩን ፋራማራን።<verse eid="2JN 1:13"/></para>
-  <chapter eid="2JN 1"/>
+    <verse number="13" style="v" sid="2JN 1:13" />ታአሳባንተቶ አባታታክ ይስ ኖጎዳ ኩን ፋራማራን።<verse eid="2JN 1:13" /></para>
+  <chapter eid="2JN 1" />
 </usx>

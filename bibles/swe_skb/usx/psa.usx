@@ -32,8 +32,8 @@
   <para style="ip">Fredag – <char style="xt"><ref loc="PSA 93">Ps 93</ref></char></para>
   <para style="ip">Lördag – <char style="xt"><ref loc="PSA 92">Ps 92</ref></char></para>
   <para style="ip">
-    <char style="bd">Sela</char></para>
-  <para style="ip">Det hebreiska ordet ”Sela” återfinns 71 gånger i sammanlagt 39 psalmer. Betydelsen är inte känd, men utifrån hur ordet används verkar det vara någon form av musikalisk markering. En vanlig förklaring är att det är en paus för att ge tid att reflektera över texten som just sjungits, kanske ett instrumentalt mellanspel. I nutida synagogor tolkar man det också som en repris eller att rabbinen som mässar psalmen ska ändra tonläge. Ordet ”Sela” är snarlikt det hebreiska ordet ”sela” som betyder högt berg, se <char style="xt"><ref loc="PSA 18:3">Ps 18:3</ref></char>. Ordet ”sela” kan också betyda ”lyfta upp”, ”höja” eller ”slå an”. I så fall kan ”Sela” motsvara den musikaliska termen fortissimo (mycket starkt) – dvs. slå an cymbaler, ropa i glädje nu under psalmens höjdpunkt! På samma sätt som ett berg har en topp och en fot, och däremellan sluttande sidor, kan ordet betyda att böja sig ned, eller att hänga upp något. Betydelsen är då att väga något på en skala och blir till en uppmaning att ”väga” och begrunda föregående ord. En annan innebörd kan vara ”för evigt” eller ”alltid” och indikerar ett gensvar från församlingen, på liknande sätt som ordet amen används idag i betydelsen ”låt det ske”. Vad vi med säkerhet vet är att det markerar någon form av avbrott.</para>
+    <char style="bd">Selah</char></para>
+  <para style="ip">Det hebreiska ordet selah återfinns 71 gånger i sammanlagt 39 psalmer. Betydelsen är inte känd, men utifrån hur ordet används verkar det vara någon form av musikalisk markering. En vanlig förklaring är att det är en paus för att ge tid att reflektera över texten som just sjungits, kanske ett instrumentalt mellanspel. I nutida synagogor tolkar man det också som en repris eller att rabbinen som mässar psalmen ska ändra tonläge. Ordet selah är snarlikt det hebreiska ordet sela som betyder högt berg, se <char style="xt"><ref loc="PSA 18:3">Ps 18:3</ref></char>. Ordet selah kan också betyda ”lyfta upp”, ”höja” eller ”slå an”. I så fall kan selah motsvara den musikaliska termen fortissimo (mycket starkt) – dvs. slå an cymbaler, ropa i glädje nu under psalmens höjdpunkt! På samma sätt som ett berg har en topp och en fot, och däremellan sluttande sidor, kan ordet betyda att böja sig ned, eller att hänga upp något. Betydelsen är då att väga något på en skala och blir till en uppmaning att ”väga” och begrunda föregående ord. En annan innebörd kan vara ”för evigt” eller ”alltid” och indikerar ett gensvar från församlingen, på liknande sätt som ordet amen används idag i betydelsen ”låt det ske”. Vad vi med säkerhet vet är att det markerar någon form av avbrott.</para>
   <para style="ib" />
   <para style="im">
     <char style="bd">Instrument:</char></para>
@@ -41,7 +41,7 @@
   <para style="ib" />
   <para style="im">
     <char style="bd">Numrering:</char></para>
-  <para style="ip">Den som bläddrat i en engelsk Bibel kanske har märkt att många av psalmerna har en annan versindelning. Det beror på att det finns olika traditioner gällande de inledande orden som finns till psalmer. Svenska biblar räknar den första inledande raden som vers ett, medan engelska biblar inte gör det. Det innebär att t.ex. Psalm 3:1 i en engelsk Bibel motsvaras av Psalm 3:2 i en svensk.</para>
+  <para style="ip">Den som läst i en engelsk Bibel kanske har märkt att många av psalmerna har en annan versindelning. Det beror på att det finns olika traditioner gällande de inledande orden som finns till psalmer. Svenska biblar räknar den första inledande raden som vers ett, medan engelska biblar inte gör det. Det innebär att t.ex. Psalm 3:1 i en engelsk Bibel motsvaras av Psalm 3:2 i en svensk.</para>
   <para style="ip">Även kapitelindelningen skiljer sig åt mellan olika översättningar. Den arameiska, grekiska och latinska översättningen från den hebreiska texten slår ihop Psalm 9 och 10 till en enda psalm, men delar däremot upp Psalm 147 i två, osv. Inom katolska kyrkan använder man sig av den latinska översättningen Vulgata och därför skiljer sig kapitelindelningen med ett nummer mellan katolska och protestantiska biblar.</para>
   <para style="ib" />
   <para style="im">
@@ -106,9 +106,13 @@
   <para style="b" />
   <para style="m">
     <verse number="3" style="v" sid="PSA 1:3" />Han är som ett träd,</para>
-  <para style="p" vid="PSA 1:3">planterat <char style="add">(omplanterat)</char> vid vattenbäckar <char style="add">[grönskande, fullt av liv]</char>,</para>
-  <para style="q2" vid="PSA 1:3">som bär sin frukt i rätt tid</para>
-  <para style="p" vid="PSA 1:3">och vars löv inte vissnar.</para>
+  <para style="b" vid="PSA 1:3" />
+  <para style="m" vid="PSA 1:3">planterat <char style="add">(omplanterat)</char> vid vattenbäckar <char style="add">[grönskande, fullt av liv]</char>,</para>
+  <para style="b" vid="PSA 1:3" />
+  <para style="m" vid="PSA 1:3">som bär sin frukt i rätt tid</para>
+  <para style="b" vid="PSA 1:3" />
+  <para style="m" vid="PSA 1:3">och vars löv inte vissnar.</para>
+  <para style="b" vid="PSA 1:3" />
   <para style="m" vid="PSA 1:3">Och allt han gör, det lyckas väl.</para>
   <para style="b" vid="PSA 1:3" />
   <para style="m" vid="PSA 1:3">
@@ -116,9 +120,7 @@
   <para style="b" />
   <para style="m">
     <verse number="4" style="v" sid="PSA 1:4" />Så är det inte med de gudlösa <char style="add">(ogudaktiga, ondskefulla) [som inte har en relation med Herren]</char>,</para>
-  <para style="p" vid="PSA 1:4">de är som agnar <char style="add">[det värdelösa skalet kring vetet]</char> som förs bort med vinden <char style="add">[när säden tröskas]</char>.</para>
-  <para style="m" vid="PSA 1:4">
-    <char style="add">[De flyktiga agnarna står i kontrast till det väl rotade trädet som bär frukt i rätt tid, se vers 3.]</char><verse eid="PSA 1:4" /></para>
+  <para style="p" vid="PSA 1:4">de är som agnar <char style="add">[det värdelösa skalet kring vetet]</char> som förs bort med vinden <char style="add">[när säden tröskas]</char>. <char style="add">[De flyktiga agnarna står i kontrast till det väl rotade trädet som bär frukt i rätt tid, se vers 3.]</char><verse eid="PSA 1:4" /></para>
   <para style="m">
     <verse number="5" style="v" sid="PSA 1:5" />Därför ska inte de gudlösa bestå <char style="add">(resa sig, kunna stå upprätta – hebr. qom)</char> vid domen,</para>
   <para style="p" vid="PSA 1:5">inte syndarna <char style="add">[sitta]</char> i de rättfärdigas församling.</para>
@@ -127,8 +129,8 @@
     <char style="add">[Det finns flera paralleller mellan vers 1-2 och vers 4-5. Två synonymer för stå används. I vers 1 är det hebr. amad (stå upprätt) medan i vers 5 används qom som beskriver själva rörelsen att resa sig upp, stå upprätt och uppstå. Det senare ordet återfinns även i <char style="xt"><ref loc="ISA 26:19">Jes 26:19</ref></char> om hur de döda en dag ska uppstå till evigt liv. Jesus använder det snarlika arameiska ordet när han talade till Jairus dotter, se <char style="xt"><ref loc="MRK 5:41">Mark 5:41</ref></char>. På samma sätt som den rättfärdige beskrivs i vad han inte gör i vers 1, beskrivs nu i vers 4-5 vad den ogudaktige inte gör. Den rättfärdige gick inte till de gudlösa för råd, stod inte på syndarens väg och satt inte bland hånfulla föraktare (vers 1). Samma flöde i rörelse gå, stå och sitta återkommer nu i vers 4-5: De ogudaktiga följde de gudlösas råd och förs bort med vinden som agnar. De gudlösa som stod på syndarens väg består inte vid domen. De satt bland hånfulla föraktare och kommer inte sitta i de rättfärdigas församling.]</char><verse eid="PSA 1:5" /></para>
   <para style="m">
     <verse number="6" style="v" sid="PSA 1:6" />Herren <char style="add">(Jahveh)</char> känner <char style="add">(vet; är involverad i; tar hand om)</char></para>
-  <para style="p" vid="PSA 1:6">de rättfärdigas väg,</para>
-  <para style="p" vid="PSA 1:6">men de gudlösas <char style="add">(ogudaktigas, ondas)</char> väg</para>
+  <para style="q1" vid="PSA 1:6">de rättfärdigas väg,</para>
+  <para style="q1" vid="PSA 1:6">men de gudlösas <char style="add">(ogudaktigas, ondas)</char> väg</para>
   <para style="m" vid="PSA 1:6">förgås <char style="add">(hebr. avad) [leder till fördärvet]</char>.</para>
   <para style="b" vid="PSA 1:6" />
   <para style="m" vid="PSA 1:6">
@@ -182,7 +184,7 @@
     <verse number="4" style="v" sid="PSA 2:4" />
     <char style="add">[Guds respons:]</char></para>
   <para style="m" vid="PSA 2:4">Han som sitter <char style="add">(bor, sitter på tronen)</char> i himlen ler <char style="add">(skrattar)</char>,</para>
-  <para style="p" vid="PSA 2:4">Herren <char style="add">(Adonaj)</char> förlöjligar dem. <char style="add">[Han härmar dem för att visa parodin i människans försök att göra revolt mot Gud.]</char><verse eid="PSA 2:4" /></para>
+  <para style="p" vid="PSA 2:4">Herren <char style="add">(Adonai)</char> förlöjligar dem. <char style="add">[Han härmar dem för att visa parodin i människans försök att göra revolt mot Gud.]</char><verse eid="PSA 2:4" /></para>
   <para style="m">
     <verse number="5" style="v" sid="PSA 2:5" />Sedan talar han till dem i sin vrede,</para>
   <para style="p" vid="PSA 2:5">och skrämmer dem i sin vredes glöd <char style="add">(djupt ogillande)</char>:<verse eid="PSA 2:5" /></para>
@@ -287,7 +289,7 @@
     <verse number="8" style="v" sid="PSA 3:8" />Stå upp, Herre <char style="add">(Jahveh)</char>!</para>
   <para style="p" vid="PSA 3:8">Fräls <char style="add">(rädda, befria)</char> mig, min Gud <char style="add">(Elohim)</char>!</para>
   <para style="m" vid="PSA 3:8">För du har slagit alla mina fiender på käkbenet <char style="add">(käften)</char>,</para>
-  <para style="p" vid="PSA 3:8">de gudlösas <char style="add">(ogudaktigas, ondas)</char> tänder har du har krossat.</para>
+  <para style="p" vid="PSA 3:8">de gudlösas <char style="add">(ogudaktigas, ondas)</char> tänder har du krossat.</para>
   <para style="b" vid="PSA 3:8" />
   <para style="m" vid="PSA 3:8">
     <char style="add">[Det råa poetiska språket liknar Davids fiender vid vilda odjur vars styrka sitter i deras kraftiga käkar och skräckinjagande tänder.]</char><verse eid="PSA 3:8" /></para>
@@ -297,7 +299,7 @@
   <para style="p" vid="PSA 3:9">Över ditt folk är <char style="add">(finns, kommer)</char> din välsignelse.</para>
   <para style="b" vid="PSA 3:9" />
   <para style="m" vid="PSA 3:9">
-    <char style="add">[Det inledande ropet i vers 8 ”Stå upp, Herre! Fräls mig, min Gud!” får här sitt svar. Det hebreiska ordet för frälsning (som används sextio gånger i Psaltaren) är Jeshua, det hebreiska namnet på Jesus. Psaltarpsalmerna pekar på var vår frälsning finns.]</char></para>
+    <char style="add">[Det inledande ropet i vers 8 ”Stå upp, Herre! Fräls mig, min Gud!” får här sitt svar. Det hebreiska ordet för frälsning (som används sextio gånger i Psaltaren) är jeshua, det hebreiska namnet på Jesus. Psaltarpsalmerna pekar på var vår frälsning finns.]</char></para>
   <para style="b" vid="PSA 3:9" />
   <para style="m" vid="PSA 3:9">Selah. <char style="add">[Antagligen ett avbrott för instrumentalt mellanspel, en paus för att begrunda vad som just har sjungits.]</char><verse eid="PSA 3:9" /></para>
   <chapter eid="PSA 3" />
@@ -433,10 +435,10 @@
   <para style="p" vid="PSA 5:3">på mitt rop på hjälp,</para>
   <para style="q2" vid="PSA 5:3">min kung och min Gud <char style="add">(Elohim)</char>,</para>
   <para style="p" vid="PSA 5:3">för det är till dig</para>
-  <para style="m" vid="PSA 5:3">jag vädjar <char style="add">(faller ner på mina knän, förtröstar på att du för min talan – hebr. pala)</char>.</para>
+  <para style="m" vid="PSA 5:3">jag vädjar <char style="add">(faller ner på mina knän, förtröstar på att du för min talan – hebr. palal)</char>.</para>
   <para style="b" vid="PSA 5:3" />
   <para style="m" vid="PSA 5:3">
-    <char style="add">[Psalmens tre första verb står i imperativ där psalmisten önskar att Gud ska lyssna, förstå och ge akt på psalmistens rop på hjälp. Det fjärde verbet vädjar (hebr. pala) bryter mönstret och förstärker förtröstan på att Gud hör bön och kommer gripa in. Ordet är ovanligt och har betydelsen att falla ner, be och att vädja inför en auktoritet att skipa rättvisa, se <char style="xt"><ref loc="PSA 106:30">Ps 106:30</ref>; <ref loc="LUK 18:1-5">Luk 18:1-5</ref></char>.]</char><verse eid="PSA 5:3" /></para>
+    <char style="add">[Psalmens tre första verb står i imperativ där psalmisten önskar att Gud ska lyssna, förstå och ge akt på psalmistens rop på hjälp. Det fjärde verbet vädjar (hebr. palal) bryter mönstret och förstärker förtröstan på att Gud hör bön och kommer gripa in. Ordet är ovanligt och har betydelsen att falla ner, be och att vädja inför en auktoritet att skipa rättvisa, se <char style="xt"><ref loc="PSA 106:30">Ps 106:30</ref>; <ref loc="LUK 18:1-5">Luk 18:1-5</ref></char>.]</char><verse eid="PSA 5:3" /></para>
   <para style="b" />
   <para style="m">
     <verse number="4" style="v" sid="PSA 5:4" />Herre <char style="add">(Jahveh)</char>,</para>
@@ -485,6 +487,7 @@
   <para style="m">
     <verse number="12" style="v" sid="PSA 5:12" />Men glädja sig må alla de som tar skydd <char style="add">(sätter sitt hopp och förtröstan)</char> till dig;</para>
   <para style="p" vid="PSA 5:12">låt dem jubla <char style="add">(höja gälla triumferande jubelrop)</char> för evigt!</para>
+  <para style="b" vid="PSA 5:12" />
   <para style="m" vid="PSA 5:12">
     <char style="add">[Verbet ”glädja sig” står först i hebreiskan, och visar på en förvissning om utgången.]</char></para>
   <para style="b" vid="PSA 5:12" />
@@ -761,7 +764,7 @@
     <char style="add">[Psalmen inleds och avslutas med lovprisning, se vers 10.]</char><verse eid="PSA 8:1" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="2" style="v" sid="PSA 8:2" />Herre <char style="add">(Jahveh)</char>, vår Herre <char style="add">(Adonaj) [Gud, du som har all makt]</char>,</para>
+    <verse number="2" style="v" sid="PSA 8:2" />Herre <char style="add">(Jahveh)</char>, vår Herre <char style="add">(Adonai) [Gud, du som har all makt]</char>,</para>
   <para style="p" vid="PSA 8:2">hur majestätiskt <char style="add">(mäktigt, stort, ståtligt, härligt)</char> är inte ditt namn <char style="add">(rykte)</char> över hela jorden!</para>
   <para style="b" vid="PSA 8:2" />
   <para style="m" vid="PSA 8:2">För din ära <char style="add">(ryktet om dig)</char></para>
@@ -814,7 +817,7 @@
     <char style="add">[Psalmen avslutas och ramas in med samma lovprisning som den inleddes med, se vers 2.]</char><verse eid="PSA 8:9" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="10" style="v" sid="PSA 8:10" />Herre <char style="add">(Jahveh)</char>, vår Herre <char style="add">(Adonaj) [Gud, du som har all makt]</char>,</para>
+    <verse number="10" style="v" sid="PSA 8:10" />Herre <char style="add">(Jahveh)</char>, vår Herre <char style="add">(Adonai) [Gud, du som har all makt]</char>,</para>
   <para style="p" vid="PSA 8:10">hur majestätiskt <char style="add">(mäktigt, stort, ståtligt, härligt)</char> är inte ditt namn <char style="add">(rykte)</char> över hela jorden!<verse eid="PSA 8:10" /></para>
   <chapter eid="PSA 8" />
   <chapter number="9" style="c" sid="PSA 9" />
@@ -824,7 +827,7 @@
   <para style="p">
     <char style="add">De hebreiska bokstäverna är mer än bara bokstäver, de är symboler och har också ett talvärde. Ofta förstärker symbolen versen och gör betydelsen tydligare. Eftersom temat på versen ofta följer bokstavens symbol förklarar det varför ämnet i psalmen ibland skiftar tvärt. Svenska Kärnbibeln tar med symbolen och skriver också inom hakklammer vad den symboliserar. Det ord, eller de ord, som börjar med den aktuella bokstaven skrivs också i fetstil för att indikera att det är ett extra viktigt ord just i den versen. </char></para>
   <para style="p">
-    <char style="add">Mycket talar för att Psalm 9 och 10 hör ihop och bildar en enhet. Psalm 9 har en inledning, medan Psalm 10 saknar det. Åtta hebreiska manuskript kombinerar dem och det gör även den arameiska, grekiska och latinska översättningen. Psalm 9 börjar med den första bokstaven alef och slutar med den elfte bokstaven kaf. Psalm 10 tar vid och fortsätter med den tolfte bokstaven lamed och slutar med den tjugoandra och sista bokstaven tav. Att det är två halvor som hör ihop styrks också av att båda psalmerna har exakt samma längd. Båda psalmerna har vardera 162 hebreiska ord, om man inte räknar med de två förekomsterna av ordet ”Sela”, se <char style="xt"><ref loc="PSA 9:17">Ps 9:17</ref>, <ref loc="PSA 9:21">21</ref></char>. </char></para>
+    <char style="add">Mycket talar för att Psalm 9 och 10 hör ihop och bildar en enhet. Psalm 9 har en inledning, medan Psalm 10 saknar det. Åtta hebreiska manuskript kombinerar dem och det gör även den arameiska, grekiska och latinska översättningen. Psalm 9 börjar med den första bokstaven alef och slutar med den elfte bokstaven kaf. Psalm 10 tar vid och fortsätter med den tolfte bokstaven lamed och slutar med den tjugoandra och sista bokstaven tav. Att det är två halvor som hör ihop styrks också av att båda psalmerna har exakt samma längd. Båda psalmerna har vardera 162 hebreiska ord, om man inte räknar med de två förekomsterna av ordet selah, se <char style="xt"><ref loc="PSA 9:17">Ps 9:17</ref>, <ref loc="PSA 9:21">21</ref></char>. </char></para>
   <para style="p">
     <char style="add">Författare: David </char></para>
   <para style="p">
@@ -857,7 +860,7 @@
     <char style="bd">Jag vill lovsjunga</char> <char style="add">(spela; slå an strängar till)</char> ditt namn, du den Högste <char style="add">(Elion)</char>!</para>
   <para style="b" vid="PSA 9:3" />
   <para style="m" vid="PSA 9:3">
-    <char style="add">[Den första hebreiska bokstaven alef (א) föreställer en oxe som symboliserar styrka. alef är ledaren – den första och det viktigaste. Fyra verb i ”Jag vill tacka”, ”Jag vill berätta”, ”Jag vill vara glad” och ”Jag vill lovsjunga”, börjar med denna bokstav. Av detta förstår vi att det första och allra viktigaste är att tacka, prisa och glädja sig i Gud och vittna om allt gott han gör, se <char style="xt"><ref loc="NEH 8:10">Neh 8:10</ref></char>.]</char><verse eid="PSA 9:3" /></para>
+    <char style="add">[Den första hebreiska bokstaven alef (א) föreställer en oxe som symboliserar styrka. Alef är ledaren – den första och det viktigaste. Fyra verb i ”Jag vill tacka”, ”Jag vill berätta”, ”Jag vill vara glad” och ”Jag vill lovsjunga”, börjar med denna bokstav. Av detta förstår vi att det första och allra viktigaste är att tacka, prisa och glädja sig i Gud och vittna om allt gott han gör, se <char style="xt"><ref loc="NEH 8:10">Neh 8:10</ref></char>.]</char><verse eid="PSA 9:3" /></para>
   <para style="s2">ב – bet</para>
   <para style="m">
     <verse number="4" style="v" sid="PSA 9:4" />När mina fiender <char style="bd">vänder tillbaka</char>,</para>
@@ -1148,7 +1151,7 @@
   <para style="m" vid="PSA 11:1">”Fly som <char style="add">[skrämda, hjälplösa]</char> fåglar <char style="add">[till eller från]</char> ert berg.</para>
   <para style="b" vid="PSA 11:1" />
   <para style="m" vid="PSA 11:1">
-    <char style="add">[Uttrycket ’som en fågel’ används som en bild på någon som är jagad, se <char style="xt"><ref loc="LAM 3:52">Klag 3:52</ref></char>. Pluralformen inkluderar alla som är i liknande situation. Det finns ingen preposition framför berg, så antingen är uppmaningen att fågeln ska fly till eller från berget. Än idag i Israel ser man fåglar som tar skydd i skrevor och grottor i bergen och klipporna kring Jerusalem. Jesus säger i sitt tal om framtiden att det kommer en tid då de som bor i Judéen måste fly till bergen, se <char style="xt"><ref loc="MAT 24:16">Matt 24:16</ref></char>. Bergen är alltså en tillflyktsort. Skillnaden är dock att i den här psalmen är berg i singular. Det kan då syfta på Jerusalem. </char></para>
+    <char style="add">[Uttrycket ’som en fågel’ används som en bild på någon som är jagad, se <char style="xt"><ref loc="LAM 3:52">Klag 3:52</ref></char>. Pluralformen inkluderar alla som är i liknande situation. Det finns ingen preposition framför berg, så antingen är uppmaningen att fågeln ska fly till eller från berget. Än idag i Israel ser man fåglar som tar skydd i skrevor och grottor i bergen och klipporna kring Jerusalem. Jesus säger i sitt tal om framtiden att det kommer en tid då de som bor i Judeen måste fly till bergen, se <char style="xt"><ref loc="MAT 24:16">Matt 24:16</ref></char>. Bergen är alltså en tillflyktsort. Skillnaden är dock att i den här psalmen är berg i singular. Det kan då syfta på Jerusalem. </char></para>
   <para style="p" vid="PSA 11:1">
     <char style="add">I den här psalmen jämförs David och hans allierade med små fåglar. Fåglar sjunger ofta och det skulle kunna referera till psalmisten och sångarna. De blir antingen skrämda från det öppna fältet och flyr till det trygga berget eller så överger de sina reden i berget och flyr därifrån. Oavsett om det är till eller från berget så är kontrasten tydlig mellan en fågel som är lättskrämd och ett berg som står fast.]</char><verse eid="PSA 11:1" /></para>
   <para style="b" />
@@ -1205,13 +1208,15 @@
   <para style="p">
     <char style="add">Sanning </char></para>
   <para style="m">
-    <char style="add">Det hebreiska ordet för sanning är emet och består av tre bokstäver: alef, mem och tav. alef inleder även det hebreiska alfabetet, mem återfinns i mitten och tav står som den 22:a och sista bokstaven. Alla tre bokstäverna har var och en två beröringspunkter med den tänkta baslinjen och står stadigt. Typografiskt har alef och tav också en ”fot” på sin vänstra kant. Ordet emet kommer från aman som just betyder stadig och stabil. </char></para>
+    <char style="add">Det hebreiska ordet för sanning är emet och består av tre bokstäver: alef, mem och tav. Alef inleder även det hebreiska alfabetet, mem återfinns i mitten och tav står som den 22:a och sista bokstaven. Alla tre bokstäverna har var och en två beröringspunkter med den tänkta baslinjen och står stadigt. Typografiskt har alef och tav också en ”fot” på sin vänstra kant. Ordet emet kommer från aman som just betyder stadig och stabil. </char></para>
   <para style="p">
     <char style="add">Lögn</char></para>
   <para style="m">
     <char style="add">Ordet för lögn är på hebreiska sheqer och består också av tre bokstäver: shin, qof och resh. Var och en av dessa har bara en beröringspunkt mot den tänkta baslinjen och qof går nedanför den. shin utgör den 21:a bokstaven, qof den 19:e och resh den 20:e. Rabbiner brukar skämtsamt säga att den 22:a bokstaven tav redan är upptagen för sanningen, men att lögnen försöker komma nära och tar bokstaven intill. Den kristne författaren C.S. Lewis skriver: ”Genom att blanda in ett stänk av sanning hade de gjort sin historia ännu trovärdigare.” Lögnens tre bokstäver är i oordning och balanserar på en ytterkant av alfabetet till skillnad från sanningen som vilar på hela alfabetet. </char></para>
   <para style="p">
-    <char style="add">Det hebreiska språket förstärker hur sanningen tar in helheten och är väl balanserad. Lögnen däremot är ensidig och vacklar i varje del. Summan av Guds ord är sanning, se <char style="xt"><ref loc="PSA 119:160">Ps 119:160</ref></char>. Jesus säger: Jag är Alfa och Omega. Den förste och den siste. Före allting och slutet av allt, se <char style="xt"><ref loc="REV 22:13">Upp 22:13</ref></char>. alef och tav motsvarar grekiskans Alfa och Omega. Tecknet för mem föreställer vatten och symboliserar liv. När Jesus säger att han är vägen, sanningen och livet, <char style="xt"><ref loc="JHN 14:6">Joh 14:6</ref></char>, så representeras det fullt ut i ordet emet. Det hebreiska ordet för sanning utgörs alltså av att alef och tav skyddar och omsluter mem på livets väg! </char></para>
+    <char style="add">Det hebreiska språket förstärker hur sanningen tar in helheten och är väl balanserad. Lögnen däremot är ensidig och vacklar i varje del. Summan av Guds ord är sanning, se <char style="xt"><ref loc="PSA 119:160">Ps 119:160</ref></char>. Jesus säger: Jag är Alfa och Omega. Den förste och den siste. Före allting och slutet av allt, se <char style="xt"><ref loc="REV 22:13">Upp 22:13</ref></char>. Alef och tav motsvarar grekiskans alfa och omega. Tecknet för mem föreställer vatten och symboliserar liv. När Jesus säger att han är vägen, sanningen och livet, <char style="xt"><ref loc="JHN 14:6">Joh 14:6</ref></char>, så representeras det fullt ut i ordet emet. Det hebreiska ordet för sanning utgörs alltså av att alef och tav skyddar och omsluter mem på livets väg! </char></para>
+  <para style="p">
+    <char style="add">Om man tar bort alef från ordet emet, får vi ordet met kvar – hebreiska ordet för död! Bokstaven alef representerar ofta Gud. Sanning utan Gud lämnar bara död kvar! </char></para>
   <para style="p">
     <char style="add">Bakgrund: Anges inte, men det tillfälle där Saul dödar 85 präster och deras familjer skulle kunna vara en händelse som gett upphov till denna psalm, se <char style="xt"><ref loc="1SA 22:17-19">1 Sam 22:17-19</ref></char>. </char></para>
   <para style="p">
@@ -1243,7 +1248,7 @@
   <para style="b" vid="PSA 12:1" />
   <para style="m" vid="PSA 12:1" />
   <para style="m" vid="PSA 12:1">
-    <char style="add">[Psalmen inleds med ett desperat rop på hjälp. Det hebreiska ordet för frälsning som används sextio gånger i Psaltaren är Jeshua, det hebreiska namnet på Jesus. Psaltarpsalmerna pekar på var vår frälsning finns.]</char><verse eid="PSA 12:1" /></para>
+    <char style="add">[Psalmen inleds med ett desperat rop på hjälp. Det hebreiska ordet för frälsning som används sextio gånger i Psaltaren är jeshua, det hebreiska namnet på Jesus. Psaltarpsalmerna pekar på var vår frälsning finns.]</char><verse eid="PSA 12:1" /></para>
   <para style="b" />
   <para style="m">
     <verse number="2" style="v" sid="PSA 12:2" />Hjälp, Herre <char style="add">(Jahveh)</char>...</para>
@@ -1284,9 +1289,7 @@
     <verse number="8" style="v" sid="PSA 12:8" />Du, Herre <char style="add">(Jahveh)</char>, ska bevara dem <char style="add">[de svaga och hjälplösa i vers 5]</char>,</para>
   <para style="p" vid="PSA 12:8">du ska alltid beskydda var och en av dem från detta <char style="add">[onda]</char> släkte.<verse eid="PSA 12:8" /></para>
   <para style="m">
-    <verse number="9" style="v" sid="PSA 12:9" />De gudlösa <char style="add">(ogudaktiga, ondskefulla)</char> går <char style="add">(vandrar, stryker, paraderar)</char> omkring på alla sidor</para>
-  <para style="m" vid="PSA 12:9">
-    <char style="add">[överallt, som vilddjur redo att förgöra]</char>,</para>
+    <verse number="9" style="v" sid="PSA 12:9" />De gudlösa <char style="add">(ogudaktiga, ondskefulla)</char> går <char style="add">(vandrar, stryker, paraderar)</char> omkring på alla sidor <char style="add">[överallt, som vilddjur redo att förgöra]</char>,</para>
   <para style="p" vid="PSA 12:9">när det usla <char style="add">(omoralen, dåraktiga)</char> upphöjs av människorna <char style="add">(människors barn)</char>.</para>
   <para style="b" vid="PSA 12:9" />
   <para style="m" vid="PSA 12:9">
@@ -1305,7 +1308,7 @@
   <para style="m">
     <char style="add">2. Bön om befrielse, vers 4-5 </char></para>
   <para style="m">
-    <char style="add">3. Förtröstan och tacksamhet mitt i prövningen, vers 6-7]</char></para>
+    <char style="add">3. Förtröstan och tacksamhet mitt i prövningen, vers 6]</char></para>
   <para style="b" />
   <para style="m">
     <verse number="1" style="v" sid="PSA 13:1" />Till <char style="add">(för)</char> ledaren. <char style="add">[Beskriver någon som utmärker sig – som är strålande och framstående inom sitt område. Syftar dels på föreståndaren för tempelmusiken men även på Messias, den strålande morgonstjärnan, se <char style="xt"><ref loc="REV 22:16">Upp 22:16</ref></char> och inledningen till Psaltaren.]</char></para>
@@ -1452,7 +1455,7 @@
   <para style="m" vid="PSA 15:1">Vem får bo <char style="add">(ha sin permanenta boning)</char> på ditt heliga berg?</para>
   <para style="b" vid="PSA 15:1" />
   <para style="m" vid="PSA 15:1">
-    <char style="add">[Som svar på dessa frågor följer ett antal satser föreskrifter. Växelvis uttrycks de i vad som ska göras och vad som inte ska göras. Gud är helig och begär fullkomlighet i ord och handling. Psalmen har flera beröringspunkter med de tio budorden, se <char style="xt"><ref loc="EXO 20:1-17">2 Mos 20:1-17</ref></char>. Psalmen har ibland kallats ”Davids Bergspredikan”, se <char style="xt"><ref loc="MAT 5:20">Matt 5:20</ref></char>. Jesus avslutar sex punkter i Bergspredikan med orden ”Var fullkomliga på samma sätt som er Fader är fullkomlig”, se <char style="xt"><ref loc="MAT 5:20">Matt 5:20</ref>, <ref loc="MAT 5:48">48</ref></char>. Jesus höjer inte ribban för att sålla bort dem som inte duger. Han gör det för att vi ska inse att vi inte klarar det utan hans nåd.]</char><verse eid="PSA 15:1" /></para>
+    <char style="add">[Som svar på dessa frågor följer de krav som måste uppfyllas för att närma sig Herren. Växelvis uttrycks de i vad som ska göras och vad som inte ska göras. Gud är helig och begär fullkomlighet i ord och handling. Psalmen har flera beröringspunkter med de tio budorden, se <char style="xt"><ref loc="EXO 20:1-17">2 Mos 20:1-17</ref></char>. Psalmen har ibland kallats ”Davids Bergspredikan”, se <char style="xt"><ref loc="MAT 5:20">Matt 5:20</ref></char>. Jesus avslutar sex punkter i Bergspredikan med orden ”Var fullkomliga på samma sätt som er Fader är fullkomlig”, se <char style="xt"><ref loc="MAT 5:20">Matt 5:20</ref>, <ref loc="MAT 5:48">48</ref></char>. Jesus höjer inte ribban för att sålla bort dem som inte duger. Han gör det för att vi ska inse att vi inte klarar det utan hans nåd.]</char><verse eid="PSA 15:1" /></para>
   <para style="m">
     <verse number="2" style="v" sid="PSA 15:2" />
     <char style="add">[Tre krav:]</char></para>
@@ -1492,6 +1495,7 @@
   <para style="m" vid="PSA 15:5">Den som gör så <char style="add">(har för vana att leva så)</char></para>
   <para style="b" vid="PSA 15:5" />
   <para style="m" vid="PSA 15:5">ska aldrig falla <char style="add">(vackla, bli omkullkastad)</char>.</para>
+  <para style="b" vid="PSA 15:5" />
   <para style="m" vid="PSA 15:5">
     <char style="add">[Den som gör så får visats och bo hos Gud. Här kommer svaret på de inledande frågorna i vers 1.]</char><verse eid="PSA 15:5" /></para>
   <chapter eid="PSA 15" />
@@ -1532,7 +1536,7 @@
   <para style="m" vid="PSA 16:1">Bevara <char style="add">(försvara, skydda, rädda)</char> mig, Gud <char style="add">(El)</char>,</para>
   <para style="p" vid="PSA 16:1">jag söker min tillflykt <char style="add">(förtröstan, tillit, hopp)</char> i dig.<verse eid="PSA 16:1" /></para>
   <para style="m">
-    <verse number="2" style="v" sid="PSA 16:2" />Jag säger till Herren <char style="add">(Jahveh)</char>: ”Du är min Herre <char style="add">(Adonaj)</char>,</para>
+    <verse number="2" style="v" sid="PSA 16:2" />Jag säger till Herren <char style="add">(Jahveh)</char>: ”Du är min Herre <char style="add">(Adonai)</char>,</para>
   <para style="p" vid="PSA 16:2">jag har inget gott <char style="add">(ingen lycka, glädje, rikedom)</char> utanför dig.”</para>
   <para style="b" vid="PSA 16:2" />
   <para style="m" vid="PSA 16:2">
@@ -1555,9 +1559,7 @@
     <verse number="5" style="v" sid="PSA 16:5" />Herren är min arvedel, min bägare <char style="add">[min lott, jag vill bli fylld av dig Herre, se <char style="xt"><ref loc="PSA 23:5">Ps 23:5</ref></char>]</char>.</para>
   <para style="p" vid="PSA 16:5">Du är den som kontinuerligt uppehåller <char style="add">(bevarar, stödjer, försäkrar)</char> min framtid <char style="add">(lott, mitt arv)</char>.<verse eid="PSA 16:5" /></para>
   <para style="m">
-    <verse number="6" style="v" sid="PSA 16:6" />Underbara bördiga marker har blivit utmätta åt mig,</para>
-  <para style="m" vid="PSA 16:6">
-    <char style="add">[ordagrant ”repen/avgränsningarna har fallit/uppmätts ljuvligt”]</char></para>
+    <verse number="6" style="v" sid="PSA 16:6" />Underbara bördiga marker har blivit utmätta åt mig <char style="add">[ordagrant ”repen/avgränsningarna har fallit/uppmätts ljuvlig åt migt”]</char>,</para>
   <para style="p" vid="PSA 16:6">jag har ett gott arv <char style="add">(jag är nöjd och belåten med mitt arv)</char>.<verse eid="PSA 16:6" /></para>
   <para style="b" />
   <para style="m">
@@ -1579,7 +1581,7 @@
     <char style="add">[David talar profetiskt om Jesus som även på korset kunde vara trygg att Gud skulle låta honom återuppstå.]</char><verse eid="PSA 16:10" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="11" style="v" sid="PSA 16:11" />Du visar mig <char style="add">(förklarar, tillkännager, kungör)</char> livets stig <char style="add">(välkända, upptrampade gångväg)</char>.</para>
+    <verse number="11" style="v" sid="PSA 16:11" />Du visar mig <char style="add">(förklarar, tillkännager, kungör)</char> livets stig <char style="add">(min personligt utstakade gångväg)</char>.</para>
   <para style="p" vid="PSA 16:11">Stor <char style="add">(total, sprudlande)</char> glädje finns i överflöd i din närvaro <char style="add">(inför ditt ansikte)</char>,</para>
   <para style="p" vid="PSA 16:11">ljuvlighet <char style="add">(fröjd, sötma, behag, härlighet)</char> för evigt <char style="add">(ständigt, alltid)</char> på din högra sida <char style="add">(i din högra hand)</char>.</para>
   <para style="b" vid="PSA 16:11" />
@@ -1659,7 +1661,7 @@
   <para style="p" vid="PSA 17:8">som en ögonsten <char style="add">(pupill/pojke – en älskad dotter)</char>.</para>
   <para style="b" vid="PSA 17:8" />
   <para style="m" vid="PSA 17:8">
-    <char style="add">[Den första frasen är laddad med flera starka bildspråk. Ordagrant står det bevara mig som ”pupillen/den lilla mannen dotter ögat”. Det hebreiska ordet ishon betyder både ”en liten man” och ”pupill”. Anledningen till den dubbla betydelsen är att man kan se sin egen spegelbild i miniatyr i pupillen när man tittar någon i ögat. Nästa ord består av det vanliga ordet för öga (hebr. ajin). Kombinationen av ishon följt av ajin görs 5 ggr i Bibeln. De övriga är <char style="xt"><ref loc="DEU 32:10">5 Mos 32:10</ref>; <ref loc="PRO 7:2">Ords 7:2</ref>, <ref loc="PRO 7:9">9</ref>; <ref loc="PRO 20:20">20:20</ref></char>. Dock görs något unikt här. Ytterligare ett ord skjuts in och ett nytt ord skapas: bat-ajin. Betydelsen är ”ögats dotter”. Det hebreiska ordet bat betyder dotter, och används t.ex. i frasen Bat mitsvah när en flicka vid tolv års ålder blir en ”budets dotter”. Pojkar firar Bar mitsvah vid tretton års ålder. </char></para>
+    <char style="add">[Den första frasen är laddad med flera starka bildspråk. Ordagrant står det bevara mig som ”pupillen/den lilla mannen dotter ögat”. Det hebreiska ordet ishon betyder både ”en liten man” och ”pupill”. Anledningen till den dubbla betydelsen är att man kan se sin egen spegelbild i miniatyr i pupillen när man tittar någon i ögat. Nästa ord består av det vanliga ordet för öga (hebr. ajin). Kombinationen av ishon följt av ajin görs 5 ggr i Bibeln. De övriga är <char style="xt"><ref loc="DEU 32:10">5 Mos 32:10</ref>; <ref loc="PRO 7:2">Ords 7:2</ref>, <ref loc="PRO 7:9">9</ref>; <ref loc="PRO 20:20">20:20</ref></char>. Dock görs något unikt här. Ytterligare ett ord skjuts in och ett nytt ord skapas: bat-ajin. Betydelsen är ”ögats dotter”. Det hebreiska ordet bat betyder dotter, och används t.ex. i frasen bat mitsvah när en flicka vid tolv års ålder blir en ”budets dotter”. Pojkar firar bar mitsvah vid tretton års ålder. </char></para>
   <para style="p" vid="PSA 17:8">
     <char style="add">Här i Psalm 17 formas nu en helhet med den maskulina formen ”den lilla mannen – pupillen” tillsammans med den feminina ”ögats dotter”. Det målar upp en bild av en högt älskad son, dotter, Guds dyrbara ögonsten. På samma sätt som ögat och pupillen skyddas av ögonlocket, ögonbrynet, ögonhålan och handen som reflexmässigt lyfts upp om något kommer mot ögat, vill David att Gud reflexmässigt ska beskydda honom. </char></para>
   <para style="p" vid="PSA 17:8">
@@ -1810,7 +1812,7 @@
   <para style="p" vid="PSA 18:10">och han steg ner med mörka moln under sina fötter.</para>
   <para style="b" vid="PSA 18:10" />
   <para style="m" vid="PSA 18:10">
-    <char style="add">[Det hebreiska ordet för ”böjde” är nata som betyder att expandera och spänna ut. Bibeln beskriver hur himlarna och universum böjs/kröks. Här antyds att det verkar finnas fler än de tre rumsdimensionerna. I början på 1900-talet formulerade Einstein relativitetsteorin, med tiden som en fjärde dimension, vilket resulterar i ”krökta rum”. Här anar vi hur Gud kan stå utanför tiden och känna till slutet från början (<char style="xt"><ref loc="ISA 46:10">Jes 46:10</ref></char>), och samtidigt finnas i tiden. Idag talar forskare ofta om tio dimensioner med bl.a. ljus, supergravitation, elektromagnetism, supersträngteori, osv.]</char><verse eid="PSA 18:10" /></para>
+    <char style="add">[Det hebreiska ordet för ”böjde” är natah som betyder att expandera och spänna ut. Bibeln beskriver hur himlarna och universum böjs/kröks. Här antyds att det verkar finnas fler än de tre rumsdimensionerna. I början på 1900-talet formulerade Einstein relativitetsteorin, med tiden som en fjärde dimension, vilket resulterar i ”krökta rum”. Här anar vi hur Gud kan stå utanför tiden och känna till slutet från början (<char style="xt"><ref loc="ISA 46:10">Jes 46:10</ref></char>), och samtidigt finnas i tiden. Idag talar forskare ofta om tio dimensioner med bl.a. ljus, supergravitation, elektromagnetism, supersträngteori, osv.]</char><verse eid="PSA 18:10" /></para>
   <para style="b" />
   <para style="m">
     <verse number="11" style="v" sid="PSA 18:11" />Han besteg en kerub och flög,</para>
@@ -2114,7 +2116,7 @@
     <verse number="10" style="v" sid="PSA 19:10" />Herrens <char style="add">(Jahvehs)</char> fruktan <char style="add">(vördnad)</char> är ren</para>
   <para style="p" vid="PSA 19:10">– den består för evigt. <char style="add">[Den är första steget och grunden för kunskap, se <char style="xt"><ref loc="PRO 1:7">Ords 1:7</ref></char>.]</char></para>
   <para style="b" vid="PSA 19:10" />
-  <para style="m" vid="PSA 19:10">Herrens <char style="add">(Jahvehs)</char> domar <char style="add">(påbud, juridiska beslut – hebr. mishpatim)</char> är sanna <char style="add">(utan fel; går att lita på)</char></para>
+  <para style="m" vid="PSA 19:10">Herrens <char style="add">(Jahvehs)</char> påbud <char style="add">(rättvisa domar, juridiska beslut – hebr. mishpatim)</char> är sanna <char style="add">(utan fel; går att lita på)</char></para>
   <para style="p" vid="PSA 19:10">– de är alltigenom rättfärdiga,<verse eid="PSA 19:10" /></para>
   <para style="m">
     <verse number="11" style="v" sid="PSA 19:11" />mer önskvärda <char style="add">(dyrbara)</char> än guld,</para>
@@ -2157,7 +2159,7 @@
   <chapter number="20" style="c" sid="PSA 20" />
   <para style="s1">Psalm 20 – Bön innan striden</para>
   <para style="m">
-    <char style="add">[Psalmen är en bön om hjälp på nödens dag. Inom judendomen beds den dagligen för att påminna om förlusten av det andra templet. Den används också som en bön när en kvinna ska föda. Psalmen inleds med sju böner som alla börjar på ”Må” (vers 2, 6 och 10) och mynnar ut i en bön om seger och förbön för kungen redo att gå ut i krig. </char></para>
+    <char style="add">[Psalmen är en bön om hjälp på nödens dag. Inom judendomen beds den dagligen för att påminna om förlusten av det andra templet. Den används också som en bön när en kvinna ska föda. Psalmen inleds med sju böner som alla börjar på ”Må” och mynnar ut i en bön om seger och förbön för kungen redo att gå ut i krig. </char></para>
   <para style="p">
     <char style="add">Psalm 20 och 21 hör ihop. Psalm 20 är bönen innan striden och <char style="xt"><ref loc="PSA 21">Ps 21</ref></char> är tacksägelsen för segern som har vunnits. Uttrycket ”nödens dag”, i vers 2, syftar ofta i profetiska sammanhang på den sista tiden och Jesu återkomst (<char style="xt"><ref loc="ACT 2:16-39">Apg 2:16-39</ref>; <ref loc="HEB 1:2">Heb 1:2</ref></char>). Här finns även en koppling till en ny födelse, se <char style="xt"><ref loc="JHN 3:3">Joh 3:3</ref></char>. Profetiskt beskriver psalmen hur Jesus besegrar Satan och befriar sitt folk från mörkrets här, se <char style="xt"><ref loc="HEB 2:14-15">Heb 2:14-15</ref>; <ref loc="COL 1:13">Kol 1:13</ref></char>. Det skulle kunna vara den bön som Jesus uppmanade lärjungarna att be i Getsemane när han var i djup ångest på sin väg till korset, se <char style="xt"><ref loc="MAT 26:38">Matt 26:38</ref></char>. </char></para>
   <para style="p">
@@ -2313,7 +2315,7 @@
   <para style="p">
     <char style="add">Citeras: </char></para>
   <para style="m">
-    <char style="add">Vers 1, citeras av Jesus i <char style="xt"><ref loc="MAT 27:46">Matt 27:46</ref>; <ref loc="MRK 15:34">Mark 15:34</ref></char> </char></para>
+    <char style="add">Vers 2, citeras av Jesus i <char style="xt"><ref loc="MAT 27:46">Matt 27:46</ref>; <ref loc="MRK 15:34">Mark 15:34</ref></char> </char></para>
   <para style="m">
     <char style="add">Vers 19, se <char style="xt"><ref loc="JHN 19:24">Joh 19:24</ref></char> </char></para>
   <para style="m">
@@ -2321,7 +2323,7 @@
   <para style="p">
     <char style="add">Uppfyllda profetior: </char></para>
   <para style="m">
-    <char style="add">1. Jesu ord på korset, <char style="xt"><ref loc="PSA 22:2">Ps 22:2</ref></char> – <char style="xt"><ref loc="MAT 27:46">Matt 27:46</ref></char> </char></para>
+    <char style="add">1. Jesu ord på korset, <char style="xt"><ref loc="PSA 22:2">Ps 22:2</ref></char> – <char style="xt"><ref loc="MAT 27:46">Matt 27:46</ref>; <ref loc="MRK 15:34">Mark 15:34</ref></char> </char></para>
   <para style="m">
     <char style="add">2. Rytande bön, <char style="xt"><ref loc="PSA 22:2">Ps 22:2</ref></char> – <char style="xt"><ref loc="REV 5:5">Upp 5:5</ref></char> </char></para>
   <para style="m">
@@ -2385,11 +2387,11 @@
   <para style="s2" vid="PSA 22:1">Del 1 – Bön från en övergiven</para>
   <para style="m" vid="PSA 22:1" />
   <para style="m" vid="PSA 22:1">
-    <char style="add">[Psalmen inleds med en fråga i förtvivlan där orden ”Min Gud, min Gud” och ”övergivit” kan uppfattas som en motsägelsefull kontrast. Dock är det just Guds frånvaro som gör honom så påtaglig. David är kluven mellan tidigare upplevelser där Gud har svarat, se vers 4-6, och nuvarande situation där Gud inte verkar höra hans bön. Ordet för ”jämrande” beskriver ett lejons ljudliga rytande, men också en oformulerad högljudd klagan, se <char style="xt"><ref loc="ISA 5:29">Jes 5:29</ref>; <ref loc="ZEC 11:3">Sak 11:3</ref>; <ref loc="JOB 3:24">Job 3:24</ref>; <ref loc="PSA 32:3">Ps 32:3</ref></char>. I ordvalet kan vi ana början av uppfyllandet av frasen från Bibelns sista bok ”Gråt inte! Se, lejonet av Juda stam, Davids rotskott, har segrat”, se <char style="xt"><ref loc="REV 5:5">Upp 5:5</ref></char>.]</char><verse eid="PSA 22:1" /></para>
+    <char style="add">[Psalmen inleds med en fråga i förtvivlan där orden ”Min Gud, min Gud” och ”övergivit” kan uppfattas som en motsägelsefull kontrast. Dock är det just Guds frånvaro som gör honom så påtaglig. David är kluven mellan tidigare upplevelser där Gud har svarat, se vers 4-6, och nuvarande situation där Gud inte verkar höra hans bön. Ordet för ”jämrande” beskriver ett lejons ljudliga rytande, men också en oformulerad högljudd klagan, se <char style="xt"><ref loc="ISA 5:29">Jes 5:29</ref>; <ref loc="ZEC 11:3">Sak 11:3</ref>; <ref loc="JOB 3:24">Job 3:24</ref>; <ref loc="PSA 32:3">Ps 32:3</ref></char>. I ordvalet kan vi ana början av uppfyllandet av frasen från Bibelns sista bok ”Gråt inte! Se, Lejonet av Juda stam, Davids rotskott, har segrat”, se <char style="xt"><ref loc="REV 5:5">Upp 5:5</ref></char>.]</char><verse eid="PSA 22:1" /></para>
   <para style="b" />
   <para style="m">
     <verse number="2" style="v" sid="PSA 22:2" />Min Gud <char style="add">(Eli)</char>, min Gud <char style="add">(Eli)</char>,</para>
-  <para style="p" vid="PSA 22:2">varför har du övergivit <char style="add">(lämnat)</char> mig?</para>
+  <para style="p" vid="PSA 22:2">varför har du övergivit <char style="add">(lämnat)</char> mig? <char style="add">[<char style="xt"><ref loc="MAT 27:46">Matt 27:46</ref>; <ref loc="MRK 15:34">Mark 15:34</ref></char>]</char></para>
   <para style="b" vid="PSA 22:2" />
   <para style="m" vid="PSA 22:2">Min hjälp <char style="add">(frälsning)</char> verkar så långt borta,</para>
   <para style="p" vid="PSA 22:2">avlägsen från mina jämrande <char style="add">(rytande)</char> ord.</para>
@@ -2436,7 +2438,7 @@
   <para style="p" vid="PSA 22:9">– om han nu har sådant behag <char style="add">(sådan kärlek)</char> till honom.”</para>
   <para style="b" vid="PSA 22:9" />
   <para style="m" vid="PSA 22:9">
-    <char style="add">[Ordet för ”överlämna” – hebr. galal, betyder att rent bokstavligt rulla undan och flytta något. Den mer abstrakta betydelsen är att ”rulla över” till någon – att överlämna sig och förtrösta, se <char style="xt"><ref loc="PSA 37:5">Ps 37:5</ref>; <ref loc="PRO 16:3">Ords 16:3</ref></char>. Första gången ordet används är i <char style="xt"><ref loc="GEN 29:3">1 Mos 29:3</ref></char>, när Jakob vältrar undan en sten från en brunn. Att detta ovanliga ord används i denna psalm – för att beskriva förtröstan på Gud – har en intressant koppling. Samme Gud sände senare en ängel för att rulla undan stenen från graven, så att Jesu uppståndelse skulle kunna bevittnas, se <char style="xt"><ref loc="MAT 28:2-5">Matt 28:2-5</ref></char>.]</char><verse eid="PSA 22:9" /></para>
+    <char style="add">[Ordet för ”överlämna” (hebr. galal) betyder att rent bokstavligt rulla undan och flytta något. Den mer abstrakta betydelsen är att ”rulla över” till någon, att överlämna sig och förtrösta, se <char style="xt"><ref loc="PSA 37:5">Ps 37:5</ref>; <ref loc="PRO 16:3">Ords 16:3</ref></char>. Första gången ordet används är i <char style="xt"><ref loc="GEN 29:3">1 Mos 29:3</ref></char>, när Jakob vältrar undan en sten från en brunn. Att detta ovanliga ord används i denna psalm – för att beskriva förtröstan på Gud – har en intressant koppling. Samme Gud sände senare en ängel för att rulla undan stenen från graven, så att Jesu uppståndelse skulle kunna bevittnas, se <char style="xt"><ref loc="MAT 28:2-5">Matt 28:2-5</ref></char>.]</char><verse eid="PSA 22:9" /></para>
   <para style="b" />
   <para style="m">
     <verse number="10" style="v" sid="PSA 22:10" />Ja, det var du som drog mig ut ur min mors liv,</para>
@@ -2478,14 +2480,14 @@
   <para style="m" vid="PSA 22:16">Du har fört mig till dödens stoft <char style="add">(jag är döende)</char>.<verse eid="PSA 22:16" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="17" style="v" sid="PSA 22:17" />Ja, hundar <char style="add">[symboliskt för icke-judar]</char></para>
+    <verse number="17" style="v" sid="PSA 22:17" />Ja, hundar <char style="add">[symboliskt för icke-judar – romerska soldater korsfäste Jesus]</char></para>
   <para style="p" vid="PSA 22:17">omger <char style="add">(tränger in)</char> mig.</para>
   <para style="m" vid="PSA 22:17">En hop onda män <char style="add">(en grupp av illvilliga våldsmän)</char></para>
   <para style="p" vid="PSA 22:17">omringar mig,</para>
   <para style="p" vid="PSA 22:17">de har genomborrat <char style="add">(spetsat – hebr. kaaro)</char> mina händer och fötter.</para>
   <para style="b" vid="PSA 22:17" />
   <para style="m" vid="PSA 22:17">
-    <char style="add">[I judiska biblar står det: ”mina händer och fötter är som ett lejons händer och fötter.” Dessa bygger på den masoretiska texten som sammanställdes på 1000-­talet e.Kr. Skrivarna ändrade en bokstav så betydelsen blev ”som ett lejon” (hebr. kaari – כארי) istället för ”genomborra” (hebr. kaaro – כארו). Det är en liten skillnad där sista bokstaven Vav, som är ett långt streck, kortades ned till att bli bokstaven Jod som är ett kort streck. Dock har Septuaginta, den grekiska översättningen av den hebreiska texten översatt med ”genomborra”. Den blev klar 132 f.Kr. och ligger närmare de ursprungliga texterna. Detta bekräftades 1997 när Psalm 22 från Dödahavsrullarna som hittats på 1950-talet publicerades. I denna hebreiska text från 200 f.Kr. används det hebreiska ordet ”genomborra”. Uttrycket ”hundar” kan tala profetiskt om de romerska soldaterna som korsfäste Jesus. Soldater rekryterades från hela Romarriket, många soldater i Judeen på Jesu tid var från Samarien.]</char><verse eid="PSA 22:17" /></para>
+    <char style="add">[I judiska biblar står det: ”mina händer och fötter är som ett lejons händer och fötter.” Dessa bygger på den masoretiska texten som sammanställdes på 1000-­talet e.Kr. Skrivarna ändrade en bokstav så betydelsen blev ”som ett lejon” (hebr. kaari – כארי) istället för ”genomborra” (hebr. kaaro – כארו). Det är en liten skillnad där sista bokstaven vav, som är ett långt streck, kortades ned till att bli bokstaven jod som är ett kort streck. Dock har Septuaginta, den grekiska översättningen av den hebreiska texten översatt med ”genomborra”. Den översättningen blev klar 132 f.Kr. och ligger närmare de ursprungliga texterna. Detta bekräftades 1997 när Psalm 22 från Dödahavsrullarna som hittats på 1950-talet publicerades. I denna hebreiska text från 200 f.Kr. används det hebreiska ordet ”genomborra”. Uttrycket ”hundar” kan tala profetiskt om de romerska soldaterna som korsfäste Jesus. Soldater rekryterades från hela Romarriket, många soldater i Judeen på Jesu tid var från Samarien.]</char><verse eid="PSA 22:17" /></para>
   <para style="b" />
   <para style="m">
     <verse number="18" style="v" sid="PSA 22:18" />Jag kan räkna alla mina ben <char style="add">[som pressas ut mot huden]</char>,</para>
@@ -2510,7 +2512,7 @@
   <para style="m" vid="PSA 22:22">
     <char style="add">[Psalmens andra sektion, vers 12-22, avslutas med att de tre djuren som gestaltat psalmistens fiender nu upprepas i omvänd ordning. I vers 13, 14 och 17 räknades tjurar, lejon och hundar upp. Nu i vers 21-22 kommer samma djur men omvänd ordning: hund, lejon och vilda tjurar. </char></para>
   <para style="p" vid="PSA 22:22">
-    <char style="add">Den hebreiska ordföljden är så strukturerad att verben ramar in versen. Det första ”rädda” är i imperativ medan det avslutande ”svarat” är i perfekt. Här finns en förtröstan att under bönen har Gud hört psalmistens rop och redan svarat! Det förstärker också skiftet som nu sker i psalmen från klagan och bön till lovsång och bönesvar! Det hebreiska ordet för ”rädda” som används sextio gånger i Psaltaren är Jeshua, det hebreiska namnet på Jesus. Psaltarpsalmerna pekar på var vår frälsning finns.]</char><verse eid="PSA 22:22" /></para>
+    <char style="add">Den hebreiska ordföljden är så strukturerad att verben ramar in versen. Det första ”rädda” är i imperativ medan det avslutande ”svarat” är i perfekt. Här finns en förtröstan att under bönen har Gud hört psalmistens rop och redan svarat! Det förstärker också skiftet som nu sker i psalmen från klagan och bön till lovsång och bönesvar! Det hebreiska ordet för ”rädda” som används sextio gånger i Psaltaren är jeshua, det hebreiska namnet på Jesus. Psaltarpsalmerna pekar på var vår frälsning finns.]</char><verse eid="PSA 22:22" /></para>
   <para style="s2">Del 3 – Bönesvar</para>
   <para style="m">
     <verse number="23" style="v" sid="PSA 22:23" />Jag ska dokumentera ditt namn <char style="add">(återge med matematisk exakthet – hebr. safar) [sjunga ditt lov]</char></para>
@@ -2559,7 +2561,7 @@
   <para style="b" />
   <para style="m">
     <verse number="31" style="v" sid="PSA 22:31" />Kommande släkten ska tjäna honom,</para>
-  <para style="p" vid="PSA 22:31">det ska återberättas om Herren <char style="add">(Adonaj, fokus på Guds storhet och makt)</char> för nästa generation <char style="add">(släkte)</char>.<verse eid="PSA 22:31" /></para>
+  <para style="p" vid="PSA 22:31">det ska återberättas om Herren <char style="add">(Adonai, fokus på Guds storhet och makt)</char> för nästa generation <char style="add">(släkte)</char>.<verse eid="PSA 22:31" /></para>
   <para style="m">
     <verse number="32" style="v" sid="PSA 22:32" />De ska komma och berätta om hans rättfärdighet till ett folk som ska födas,</para>
   <para style="p" vid="PSA 22:32">att han har utfört detta <char style="add">[att allt är fullbordat]</char>.</para>
@@ -2625,7 +2627,7 @@
   <para style="m" vid="PSA 23:3">på rätta <char style="add">(rättfärdighetens)</char> vägar <char style="add">(spår) [de av herdar välkända gamla lederna]</char> för sitt namns <char style="add">[sitt eget goda ryktes; sin äras]</char> skull.</para>
   <para style="b" vid="PSA 23:3" />
   <para style="m" vid="PSA 23:3">
-    <char style="add">[Det hebreiska verbet för att vederkvicka, shuv, har innebörden att återställa och föra tillbaka. Verbet för att leda är inte samma som i vers 2, utan det mer generella nacha, som beskriver hur en fåraherde för fram sin hjord. I Mellanöstern drivs inte hjorden på bakifrån, utan herden går framför och leder den. Dessa två verb (shuv och nacha) är placerade intill varandra, centralt i versen. Tillsammans skapar de en helhetsprocess som skulle kunna översättas ”att bli förd tillbaka genom att låta sig ledas”. De hebreiska verbformerna som används förstärker att Gud känner till vårt bästa och leder oss tillbaka till källan gång på gång.]</char><verse eid="PSA 23:3" /></para>
+    <char style="add">[Det hebreiska verbet för att vederkvicka, shov, har innebörden att återställa och föra tillbaka. Verbet för att leda är inte samma som i vers 2, utan det mer generella nacha, som beskriver hur en fåraherde för fram sin hjord. I Mellanöstern drivs inte hjorden på bakifrån, utan herden går framför och leder den. Dessa två verb (shuv och nacha) är placerade intill varandra, centralt i versen. Tillsammans skapar de en helhetsprocess som skulle kunna översättas ”att bli förd tillbaka genom att låta sig ledas”. De hebreiska verbformerna som används förstärker att Gud känner till vårt bästa och leder oss tillbaka till källan gång på gång.]</char><verse eid="PSA 23:3" /></para>
   <para style="b" />
   <para style="m">
     <verse number="4" style="v" sid="PSA 23:4" />Även om jag vandrar <char style="add">(om jag än skulle vandra)</char></para>
@@ -2654,13 +2656,13 @@
     <char style="add">[Att smörja någons huvud var en akt av gästfrihet för att få gästen att koppla av. Fåraherden smorde också fårens huvud för att läka sår.]</char><verse eid="PSA 23:5" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="6" style="v" sid="PSA 23:6" />Ja <char style="add">[ja, så är det verkligen]</char>, din godhet och nåd <char style="add">(omsorgsfulla kärlek, trofasthet – hebr. chesed)</char></para>
+    <verse number="6" style="v" sid="PSA 23:6" />Ja <char style="add">[ja, så är det verkligen, se <char style="xt"><ref loc="2CO 1:20-21">2 Kor 1:20-21</ref></char>]</char>, din godhet och nåd <char style="add">(omsorgsfulla kärlek, trofasthet – hebr. chesed)</char></para>
   <para style="p" vid="PSA 23:6">ska förfölja <char style="add">(energiskt följa; fortsätta att oavbrutet jaga)</char> mig varje dag <char style="add">(alla dagar)</char> i mitt liv.</para>
   <para style="m" vid="PSA 23:6">Jag vill återvända till <char style="add">(återupprättad vill jag bo i)</char> Herrens <char style="add">(Jahvehs)</char> hus</para>
   <para style="p" vid="PSA 23:6">alla mina dagar <char style="add">(ordagrant: ”till dagars längd”)</char>.</para>
   <para style="b" vid="PSA 23:6" />
   <para style="m" vid="PSA 23:6">
-    <char style="add">[Versen inleds på hebreiska med ach som betyder ja, sannerligen, endast eller bara. David, som genom hela sitt liv upplevt Herrens godhet och nåd, är förvissad om att Herren ska fortsätta att följa honom. Detta förstärks ytterligare genom att ordet som normalt används för att jaga, förfölja och rusa efter någon används. Det är inte hans fiender som har tagit upp jakten på honom (<char style="xt"><ref loc="PSA 7:6">Ps 7:6</ref>; <ref loc="PSA 31:16">31:16</ref>; <ref loc="PSA 143:3">143:3</ref></char>), utan bara den gode herdens godhet och nåd som inte släpper honom ur sikte (<char style="xt"><ref loc="JHN 10:11">Joh 10:11</ref></char>). Ordet för att återvända, shuv (som också används i vers 3 och översätts med vederkvicker), har en rik innebörd och talar här om någon som gång på gång kommer till templet för att tillbe i Herrens hus. Prepositionen bet gör att det ordagrant blir ”och återvända i huset Herrens”. På Davids tid syftade ”Herrens hus” på tabernaklet (<char style="xt"><ref loc="2SA 6:12">2 Sam 6:12</ref>, <ref loc="2SA 6:17">17</ref></char>) medan nästa generation förknippade termen med Salomos tempel (<char style="xt"><ref loc="2CH 5:1">2 Krön 5:1</ref></char>). Även om man inte rent fysiskt bodde i templet (som leviterna gjorde under tjänstgöringen), kan det ändå betyda att det var här man kände sig som hemma. En del lägger till en vokal och ser istället ordet jashav, något som översättarna av Septuaginta troligtvis gjort eftersom de skriver ”att slå sig ner/bosätta sig”. Betydelsen blir då densamma som i <char style="xt"><ref loc="PSA 27:4">Ps 27:4</ref></char>, dvs. att ha sitt hjärtas hemvist och boning hos Herren i templet.]</char><verse eid="PSA 23:6" /></para>
+    <char style="add">[Versen inleds på hebreiska med ach som betyder ja, sannerligen, endast eller bara. David, som genom hela sitt liv upplevt Herrens godhet och nåd, är förvissad om att Herren ska fortsätta att följa honom. Detta förstärks ytterligare genom att ordet som normalt används för att jaga, förfölja och rusa efter någon används. Det är inte hans fiender som har tagit upp jakten på honom (<char style="xt"><ref loc="PSA 7:6">Ps 7:6</ref>; <ref loc="PSA 31:16">31:16</ref>; <ref loc="PSA 143:3">143:3</ref></char>), utan bara den gode herdens godhet och nåd som inte släpper honom ur sikte (<char style="xt"><ref loc="JHN 10:11">Joh 10:11</ref></char>). Ordet för att återvända, shov (som också används i vers 3 och översätts med vederkvicker), har en rik innebörd och talar här om någon som gång på gång kommer till templet för att tillbe i Herrens hus. Prepositionen bet gör att det ordagrant blir ”och återvända i huset Herrens”. På Davids tid syftade ”Herrens hus” på tabernaklet (<char style="xt"><ref loc="2SA 6:12">2 Sam 6:12</ref>, <ref loc="2SA 6:17">17</ref></char>) medan nästa generation förknippade termen med Salomos tempel (<char style="xt"><ref loc="2CH 5:1">2 Krön 5:1</ref></char>). Även om man inte rent fysiskt bodde i templet (som leviterna gjorde under tjänstgöringen), kan det ändå betyda att det var här man kände sig som hemma. En del lägger till en vokal och ser istället ordet jashav, något som översättarna av Septuaginta troligtvis gjort eftersom de skriver ”att slå sig ner/bosätta sig”. Betydelsen blir då densamma som i <char style="xt"><ref loc="PSA 27:4">Ps 27:4</ref></char>, dvs. att ha sitt hjärtas hemvist och boning hos Herren i templet.]</char><verse eid="PSA 23:6" /></para>
   <chapter eid="PSA 23" />
   <chapter number="24" style="c" sid="PSA 24" />
   <para style="s1">Psalm 24 – Portar, höj er för ärans Konung!</para>
@@ -3051,7 +3053,7 @@
   <para style="p" vid="PSA 27:1">Vem skulle jag förskräckas <char style="add">(fasa, skaka)</char> inför?</para>
   <para style="b" vid="PSA 27:1" />
   <para style="m" vid="PSA 27:1">
-    <char style="add">[Det hebreiska ordet för frälsning som används sextio gånger i Psaltaren är Jeshua – det hebreiska namnet på Jesus. Psaltarpsalmerna pekar på att vår frälsning finns hos Gud. Han är lik en säker fästning där jag snabbt kan söka skydd vid fara. I psalmen finns ofta uppräkningar i par och tripletter. Herren nämns två gånger i första versen och beskrivs med tre ord: ”ljus, frälsning och tillflykt”. David beskriver dem som kommer emot honom i vers 2 med tre ord: ”onda människor, motståndare och fiender”.]</char><verse eid="PSA 27:1" /></para>
+    <char style="add">[Det hebreiska ordet för frälsning som används sextio gånger i Psaltaren är jeshua – det hebreiska namnet på Jesus. Psaltarpsalmerna pekar på att vår frälsning finns hos Gud. Han är lik en säker fästning där jag snabbt kan söka skydd vid fara. I psalmen finns ofta uppräkningar i par och tripletter. Herren nämns två gånger i första versen och beskrivs med tre ord: ”ljus, frälsning och tillflykt”. David beskriver dem som kommer emot honom i vers 2 med tre ord: ”onda människor, motståndare och fiender”.]</char><verse eid="PSA 27:1" /></para>
   <para style="s2">Motståndare hotar</para>
   <para style="m">
     <verse number="2" style="v" sid="PSA 27:2" />När onda människor kom mot mig,</para>
@@ -3155,7 +3157,10 @@
     <char style="add">2. Han har hört min bön, vers 6-9]</char></para>
   <para style="b" />
   <para style="m">
-    <verse number="1" style="v" sid="PSA 28:1" />Av David</para>
+    <verse number="1" style="v" sid="PSA 28:1" />Av David.</para>
+  <para style="b" vid="PSA 28:1" />
+  <para style="m" vid="PSA 28:1">
+    <char style="add">[På samma sätt som Psalm 25, 26 och 28, inleds även denna psalm med bara Davids namn.]</char></para>
   <para style="qc" vid="PSA 28:1">______</para>
   <para style="s2" vid="PSA 28:1">Hör mitt rop</para>
   <para style="m" vid="PSA 28:1">Till dig, Herre <char style="add">(Jahveh)</char>, ropar jag <char style="add">(höjer min röst i bön och åkallan)</char>;</para>
@@ -3275,7 +3280,7 @@
   <para style="p" vid="PSA 29:10">Herren <char style="add">(Jahveh)</char> tronar för evigt.</para>
   <para style="b" vid="PSA 29:10" />
   <para style="m" vid="PSA 29:10">
-    <char style="add">[Referensen till syndafloden är tydlig både genom bestämd artikel och det speciella hebreiska ordet mabul som bara används här och i berättelsen om syndafloden i, se <char style="xt"><ref loc="GEN 6:-1-11">1 Mos 6-11</ref></char>. I det kiastiska mönstret hör temat med vatten här i vers 10 ihop med vattnen i vers 3-4.]</char><verse eid="PSA 29:10" /></para>
+    <char style="add">[Referensen till syndafloden är tydlig både genom bestämd artikel och det speciella hebreiska ordet mabul som bara används här och i berättelsen om syndafloden i <char style="xt"><ref loc="GEN 6:-1-11">1 Mos 6-11</ref></char>. I det kiastiska mönstret hör temat med vatten här i vers 10 ihop med vattnen i vers 3-4.]</char><verse eid="PSA 29:10" /></para>
   <para style="b" />
   <para style="m">
     <verse number="11" style="v" sid="PSA 29:11" />Må Herren <char style="add">(Jahveh)</char> ge styrka åt sitt folk,</para>
@@ -3357,11 +3362,11 @@
   <para style="b" vid="PSA 30:8" />
   <para style="m" vid="PSA 30:8" />
   <para style="m" vid="PSA 30:8">
-    <char style="add">[Vers 9-11 är Davids bön. Den första raden tilltalar Gud i andra person, här används det personliga gudsnamnet Jahveh. Den andra raden talar om Gud i tredje person, här används namnet Adonaj. Det beskriver en relation mellan en slav och en herre. De två uttrycken speglar psalmens dubbla roll som både en personlig tacksägelsepsalm och ett vittnesbörd.]</char><verse eid="PSA 30:8" /></para>
+    <char style="add">[Vers 9-11 är Davids bön. Den första raden tilltalar Gud i andra person, här används det personliga gudsnamnet Jahveh. Den andra raden talar om Gud i tredje person, här används namnet Adonai. Det beskriver en relation mellan en slav och en herre. De två uttrycken speglar psalmens dubbla roll som både en personlig tacksägelsepsalm och ett vittnesbörd.]</char><verse eid="PSA 30:8" /></para>
   <para style="b" />
   <para style="m">
     <verse number="9" style="v" sid="PSA 30:9" />Till dig Herre <char style="add">(Jahveh)</char>, ropade jag <char style="add">(höjde jag min röst i bön)</char>,</para>
-  <para style="p" vid="PSA 30:9">till Herren <char style="add">(Adonaj)</char> vädjade jag om nåd <char style="add">(oförtjänt kärlek; favör)</char>:<verse eid="PSA 30:9" /></para>
+  <para style="p" vid="PSA 30:9">till Herren <char style="add">(Adonai)</char> vädjade jag om nåd <char style="add">(oförtjänt kärlek; favör)</char>:<verse eid="PSA 30:9" /></para>
   <para style="m">
     <verse number="10" style="v" sid="PSA 30:10" />”Vad vinner du på mitt blod <char style="add">(min död)</char>,</para>
   <para style="p" vid="PSA 30:10">att jag sjunker ned i avgrunden <char style="add">(graven)</char>?</para>
@@ -3443,7 +3448,7 @@
     <verse number="6" style="v" sid="PSA 31:6" />I din hand överlämnar <char style="add">(lämnar)</char> jag min ande <char style="add">(mitt liv)</char>.</para>
   <para style="b" vid="PSA 31:6" />
   <para style="m" vid="PSA 31:6">
-    <char style="add">[Jesus citerar från första delen av denna vers på korset, se <char style="xt"><ref loc="LUK 23:46">Luk 23:46</ref></char>. Det hebreiska ordet för överlämnar betyder att överlämna något i någons vård, men här finns också bilden på en deposition, där någon lämnar något och sedan får tillbaka det. Inom judendomen citeras ofta denna vers som avslutning på den dagliga kvällsbönen. Tanken är att man överlämnar sin ande till Gud för att han ska ha den i tryggt förvar under natten. I den judiska morgonbönen Mohed Ani finns sedan en fras där man tackar Gud för att han på nytt gett vår inre människa liv, se <char style="xt"><ref loc="PSA 111:10">Ps 111:10</ref></char>.]</char></para>
+    <char style="add">[Jesus citerar från första delen av denna vers på korset, se <char style="xt"><ref loc="LUK 23:46">Luk 23:46</ref></char>. Det hebreiska ordet för överlämnar betyder att överlämna något i någons vård, men här finns också bilden på en deposition, där någon lämnar något och sedan får tillbaka det. Inom judendomen citeras ofta denna vers som avslutning på den dagliga kvällsbönen. Tanken är att man överlämnar sin ande till Gud för att han ska ha den i tryggt förvar under natten. I den judiska morgonbönen Modeh Ani finns sedan en fras där man tackar Gud för att han på nytt gett vår inre människa liv, se <char style="xt"><ref loc="PSA 111:10">Ps 111:10</ref></char>.]</char></para>
   <para style="b" vid="PSA 31:6" />
   <para style="m" vid="PSA 31:6">Du friköper mig, Herre <char style="add">(Jahveh)</char>,</para>
   <para style="p" vid="PSA 31:6">du trofaste Gud <char style="add">(Elohim)</char>.<verse eid="PSA 31:6" /></para>
@@ -3734,7 +3739,7 @@
   <para style="b" />
   <para style="m">
     <verse number="10" style="v" sid="PSA 33:10" />Herren <char style="add">(Jahveh)</char> upphäver <char style="add">(annullerar)</char> hednafolkens beslut <char style="add">(rådslag; gör hedningarnas planer om intet)</char>,</para>
-  <para style="p" vid="PSA 33:10">han sätter stopp för <char style="add">(håller tillbaka; hindrar)</char> folkens planer <char style="add">(tankar)</char>.<verse eid="PSA 33:10" /></para>
+  <para style="p" vid="PSA 33:10">han hindrar <char style="add">(förbjuder, sätter stopp för, håller tillbaka)</char> folkens planer <char style="add">(tankar)</char>.<verse eid="PSA 33:10" /></para>
   <para style="m">
     <verse number="11" style="v" sid="PSA 33:11" />Herrens <char style="add">(Jahvehs)</char> beslut <char style="add">(planer, rådslut)</char> står fast för evigt,</para>
   <para style="p" vid="PSA 33:11">hans hjärtas planer <char style="add">(tankar)</char> från släkte till släkte.<verse eid="PSA 33:11" /></para>
@@ -3960,7 +3965,7 @@
   <para style="p" vid="PSA 34:18">och räddar dem <char style="add">(rycker bort; för dem ut)</char> ur all deras nöd <char style="add">(alla deras trångmål och svårigheter)</char>.</para>
   <para style="b" vid="PSA 34:18" />
   <para style="m" vid="PSA 34:18">
-    <char style="add">[Den artonde hebreiska bokstaven är: צ – tsade. Tecknet avbildar en fiskkrok eller en man som böjt sig i ödmjukhet och symboliserar ofta rättfärdighet. Ordet för ropar (hebr. tsaaq) börjar med denna bokstav och förstärker de rättfärdigas rop på Gud.]</char><verse eid="PSA 34:18" /></para>
+    <char style="add">[Den artonde hebreiska bokstaven är: צ – tsade. Tecknet avbildar en fiskkrok eller en man som böjt sig i ödmjukhet och symboliserar ofta rättfärdighet. Ordet för ”ropar” (hebr. tsaaq) börjar med denna bokstav och förstärker de rättfärdigas rop på Gud.]</char><verse eid="PSA 34:18" /></para>
   <para style="s2">ק – qof</para>
   <para style="m">
     <verse number="19" style="v" sid="PSA 34:19" />Herren <char style="add">(Jahveh)</char> är <char style="bd">nära</char> dem som har ett förkrossat <char style="add">(brustet)</char> hjärta,</para>
@@ -3996,7 +4001,7 @@
   <para style="p" vid="PSA 34:23">ingen som tar sin tillflykt till honom ska stå där med skuld.</para>
   <para style="b" vid="PSA 34:23" />
   <para style="m" vid="PSA 34:23">
-    <char style="add">[En extra bokstav läggs till på slutet. Det är den sjuttonde konsonanten ”Pe” och den används redan i vers 17 där de onda beskrevs. Det kopplar ihop dessa verser och att Gud en dag kommer att döma all ondska. Verbformen på ordet ”återlöser”, som börjar på denna bokstav, förstärker också att detta handlande är karaktäristiskt för Gud.]</char><verse eid="PSA 34:23" /></para>
+    <char style="add">[En extra bokstav läggs till på slutet. Det är den sjuttonde konsonanten pe och den används redan i vers 17 där de onda beskrevs. Det kopplar ihop dessa verser och att Gud en dag kommer att döma all ondska. Verbformen på ordet ”återlöser”, som börjar på denna bokstav, förstärker också att detta handlande är karaktäristiskt för Gud.]</char><verse eid="PSA 34:23" /></para>
   <chapter eid="PSA 34" />
   <chapter number="35" style="c" sid="PSA 35" />
   <para style="s1">Psalm 35 – Låt inte fienden glädja sig över mig</para>
@@ -4091,7 +4096,7 @@
   <para style="p" vid="PSA 35:13">men min bön återvände till mitt knä <char style="add">(besvarades inte)</char>.<verse eid="PSA 35:13" /></para>
   <para style="m">
     <verse number="14" style="v" sid="PSA 35:14" />Jag agerade som om sorgen gällde min vän eller bror,</para>
-  <para style="p" vid="PSA 35:14">jag böjde mig <char style="add">(bedrövad, nedtyngd, se <char style="xt"><ref loc="PSA 38:7">Ps 38:7</ref></char>)</char> i sorg <char style="add">(nattsvart mörker)</char> som en moder</para>
+  <para style="p" vid="PSA 35:14">jag böjde mig <char style="add">(bedrövad, nedtyngd, se <char style="xt"><ref loc="PSA 38:7">Ps 38:7</ref></char>)</char> i sorg <char style="add">(nattsvart mörker)</char> som en mor</para>
   <para style="m" vid="PSA 35:14">
     <char style="add">[i djup sorg över ett barn som hon förlorat, se vers 12]</char>.<verse eid="PSA 35:14" /></para>
   <para style="m">
@@ -4104,7 +4109,7 @@
   <para style="p" vid="PSA 35:16">gnisslar de tänder <char style="add">[ett tecken på outtalad fiendskap och hat]</char> mot mig. <char style="add">[<char style="xt"><ref loc="PSA 37:12">Ps 37:12</ref></char>]</char><verse eid="PSA 35:16" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="17" style="v" sid="PSA 35:17" />Herre <char style="add">(Adonaj)</char>, hur länge ska det dröja innan du ser <char style="add">[och agerar]</char>?</para>
+    <verse number="17" style="v" sid="PSA 35:17" />Herre <char style="add">(Adonai)</char>, hur länge ska det dröja innan du ser <char style="add">[och agerar]</char>?</para>
   <para style="m" vid="PSA 35:17">Rädda <char style="add">(ta tillbaka)</char> mig från deras förgörelse,</para>
   <para style="p" vid="PSA 35:17">mitt liv från de unga lejonen <char style="add">[som vill slita mig i stycken]</char>.<verse eid="PSA 35:17" /></para>
   <para style="m">
@@ -4129,10 +4134,10 @@
   <para style="b" />
   <para style="m">
     <verse number="22" style="v" sid="PSA 35:22" />Du har sett allt <char style="add">[deras planer, allt hyckleri]</char>, Herre <char style="add">(Jahveh)</char> – var inte tyst;</para>
-  <para style="p" vid="PSA 35:22">min Herre <char style="add">(Adonaj)</char>, var inte långt borta från mig!<verse eid="PSA 35:22" /></para>
+  <para style="p" vid="PSA 35:22">min Herre <char style="add">(Adonai)</char>, var inte långt borta från mig!<verse eid="PSA 35:22" /></para>
   <para style="m">
     <verse number="23" style="v" sid="PSA 35:23" />Vakna, stå upp till mitt försvar,</para>
-  <para style="p" vid="PSA 35:23">min Gud <char style="add">(Elohim)</char> och Herre <char style="add">(Adonaj)</char>, för min talan.<verse eid="PSA 35:23" /></para>
+  <para style="p" vid="PSA 35:23">min Gud <char style="add">(Elohim)</char> och Herre <char style="add">(Adonai)</char>, för min talan.<verse eid="PSA 35:23" /></para>
   <para style="m">
     <verse number="24" style="v" sid="PSA 35:24" />Döm mig enligt din rättfärdighet, Herre <char style="add">(Jahveh)</char> min Gud <char style="add">(Elohim)</char>,</para>
   <para style="p" vid="PSA 35:24">låt inte dem <char style="add">[mina fiender]</char> glädja sig över mig.<verse eid="PSA 35:24" /></para>
@@ -4287,7 +4292,7 @@
     <verse number="1" style="v" sid="PSA 37:1" />Av <char style="add">(för)</char> David.</para>
   <para style="qc" vid="PSA 37:1">______</para>
   <para style="s2" vid="PSA 37:1">א – alef</para>
-  <para style="m" vid="PSA 37:1">Upptänds <char style="bd">inte</char> av vrede <char style="add">(reta inte upp dig)</char> över de onda <char style="add">[när de verkar ha framgång]</char>,</para>
+  <para style="m" vid="PSA 37:1">Upptänds <char style="bd">inte</char> av vrede över <char style="add">(reta inte upp dig på)</char> de onda <char style="add">[när de verkar ha framgång]</char>,</para>
   <para style="p" vid="PSA 37:1">avundas <char style="bd">inte</char> dem som gör orätt <char style="add">[som begår orättfärdiga handlingar]</char>.<verse eid="PSA 37:1" /></para>
   <para style="m">
     <verse number="2" style="v" sid="PSA 37:2" />För de ska snabbt torka ihop <char style="add">(falla ner, klippas av)</char> som det gröna <char style="add">[ängar med betesmark]</char>,</para>
@@ -4315,7 +4320,7 @@
   <para style="s2">ג – gimel</para>
   <para style="m">
     <verse number="5" style="v" sid="PSA 37:5" />
-    <char style="bd">Överlämna</char> <char style="add">(anförtro, rulla över)</char> din väg <char style="add">(din framtid)</char> till Herren,</para>
+    <char style="bd">Överlämna</char> <char style="add">(anförtro, rulla över)</char> din väg <char style="add">(din framtid)</char> till Herren <char style="add">(Jahveh)</char>,</para>
   <para style="p" vid="PSA 37:5">förtrösta på <char style="add">(lita på, luta dig emot)</char> honom och han ska agera <char style="add">[i ditt ställe]</char>.<verse eid="PSA 37:5" /></para>
   <para style="m">
     <verse number="6" style="v" sid="PSA 37:6" />Och han ska låta din rättfärdighet <char style="add">(ditt försvar)</char> komma fram som ljuset <char style="add">[efter nattens mörker]</char>,</para>
@@ -4357,7 +4362,7 @@
     <char style="bd">och</char> njuta <char style="add">(ha sin lust, känna välbehag, bli tillfredsställda; vara ömsinta, milda och mjuka)</char> i stor frid <char style="add">(i ett överflöd av fred och välfärd)</char>.</para>
   <para style="b" vid="PSA 37:11" />
   <para style="m" vid="PSA 37:11">
-    <char style="add">[Den sjätte hebreiska bokstaven är: ו – vav. Tecknet avbildar en tältpinne, en krok eller en hängare. Rent praktiskt var det tältpinnen som höll tältduken uppe. Den binder ihop olika saker. På samma sätt används bokstaven i grammatiken för att binda ihop ord till meningar. Orden ”Och”, ”Men” osv. börjar med ”vav”. Ordvalet förstärker sambandet till föregående stycke i vers 9, Gud kommer att gripa in, det kommer att ske ett skifte där de ödmjuka ska ärva landet. Något som Jesus försäkrar kommer att ske, när han citerar från vers 11, se <char style="xt"><ref loc="MAT 5:5">Matt 5:5</ref></char>. </char></para>
+    <char style="add">[Den sjätte hebreiska bokstaven är: ו – vav. Tecknet avbildar en tältpinne, en krok eller en hängare. Rent praktiskt var det tältpinnen som höll tältduken uppe. Den binder ihop olika saker. På samma sätt används bokstaven i grammatiken för att binda ihop ord till meningar. Orden ”Och”, ”Men” osv. börjar med vav. Ordvalet förstärker sambandet till föregående stycke i vers 9, Gud kommer att gripa in, det kommer att ske ett skifte där de ödmjuka ska ärva landet. Något som Jesus försäkrar kommer att ske, när han citerar från vers 11, se <char style="xt"><ref loc="MAT 5:5">Matt 5:5</ref></char>. </char></para>
   <para style="p" vid="PSA 37:11">
     <char style="add">Att vara ödmjuk innebär inte att vara svag och menlös. Utifrån sammanhanget i denna psalm definieras en ödmjuk person som någon som kan släppa vreden och lita på att Gud kommer ge en rättvis dom, se vers 8 och även <char style="xt"><ref loc="ROM 12:19">Rom 12:19</ref></char>. Inom judendomen definieras ödmjukhet utifrån det parallella uttrycket i <char style="xt"><ref loc="PSA 22:27">Ps 22:27</ref></char> ”den som söker Gud”. Att vara ödmjuk är att söka Herren (Jahveh). Mose var ödmjuk, se <char style="xt"><ref loc="NUM 12:3">4 Mos 12:3</ref></char>, och Jesus hade ett ödmjukt hjärta, se <char style="xt"><ref loc="MAT 11:29">Matt 11:29</ref></char>. Ordet ödmjuk används i <char style="xt"><ref loc="AMO 2:7">Amos 2:7</ref></char> när någon blir exploaterad och kränkt i rätten. En konsekvens av att de orättfärdiga regerar är att den ödmjuke då kommer att bli betryckt och kanske ses som ”svag” eftersom han inte hämnas och ger igen med samma mynt. Detta är just temat här i Psalm 37. Att vara ödmjuk handlar om att kontrollera sina känslor, inte ta rätten i egna händer, inte vara arrogant och högmodig, göra ett medvetet val och böja sig inför Gud och söka honom.]</char><verse eid="PSA 37:11" /></para>
   <para style="s2">ז – zajin</para>
@@ -4407,7 +4412,7 @@
   <para style="p" vid="PSA 37:19">i tider av hunger ska de bli mättade <char style="add">[<char style="xt"><ref loc="EXO 16:8">2 Mos 16:8</ref></char>]</char>.</para>
   <para style="b" vid="PSA 37:19" />
   <para style="m" vid="PSA 37:19">
-    <char style="add">[Den tionde och minsta hebreiska bokstaven är: י – jod. Tecknet avbildar en arm eller en sluten hand. Handen symboliserar styrka och kraft. Vers 18 börjar med tre ord som alla börjar med jod. I hebreiskan är de i ordningen känner, Herren och dagar. Herren är aktivt involverad i den troendes liv. Han är dagligen involverad i den som lever med integritet och Gud förser med dagligt bröd, se <char style="xt"><ref loc="MAT 6:11">Matt 6:11</ref></char>.]</char><verse eid="PSA 37:19" /></para>
+    <char style="add">[Den tionde och minsta hebreiska bokstaven är: י – jod. Tecknet avbildar en arm eller en sluten hand. Handen symboliserar styrka och kraft. Vers 18 börjar med tre ord som alla börjar med jod. I hebreiskan är de i ordningen ”känner”, ”Herren” och ”dagar”. Herren är aktivt involverad i den troendes liv. Han är dagligen involverad i den som lever med integritet och Gud förser med dagligt bröd, se <char style="xt"><ref loc="MAT 6:11">Matt 6:11</ref></char>.]</char><verse eid="PSA 37:19" /></para>
   <para style="s2">כ – kaf</para>
   <para style="m">
     <verse number="20" style="v" sid="PSA 37:20" />
@@ -4433,7 +4438,7 @@
   <para style="s2">מ – mem</para>
   <para style="m">
     <verse number="23" style="v" sid="PSA 37:23" />
-    <char style="bd">Med</char> Herren blir <char style="bd">stegen</char> hos en stark man <char style="add">(stridsman) [en man i sin bästa ålder]</char> fasta <char style="add">(de är förberedda)</char>,</para>
+    <char style="bd">Med</char> Herren blir <char style="bd">stegen</char> hos en stark man <char style="add">(stridsman) [en man i sina bästa år]</char> fasta <char style="add">(de är förberedda)</char>,</para>
   <para style="p" vid="PSA 37:23">och han <char style="add">[Herren]</char> gläds över <char style="add">(är känslomässigt engagerad, har behag i)</char> hans väg.</para>
   <para style="m" vid="PSA 37:23">
     <char style="add">[Sista raden kan också översättas: ”han, den starke mannen, gläder sig i Herrens väg.”]</char><verse eid="PSA 37:23" /></para>
@@ -4598,7 +4603,7 @@
   <para style="p" vid="PSA 38:9">jag jämrar mig <char style="add">(ropar – ”ryter”) [som ett lejon]</char> i mitt hjärtas ångest.<verse eid="PSA 38:9" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="10" style="v" sid="PSA 38:10" />Herre <char style="add">(Adonaj)</char>, inför dig <char style="add">[helt öppet]</char> är all min längtan,</para>
+    <verse number="10" style="v" sid="PSA 38:10" />Herre <char style="add">(Adonai)</char>, inför dig <char style="add">[helt öppet]</char> är all min längtan,</para>
   <para style="p" vid="PSA 38:10">min klagan <char style="add">(mitt suckande)</char> är inte dold för dig.</para>
   <para style="m" vid="PSA 38:10">
     <char style="add">[Texten indikerar ett tydligt underförstått: ”Nej, den är verkligen inte dold!”]</char><verse eid="PSA 38:10" /></para>
@@ -4635,7 +4640,7 @@
   <para style="b" />
   <para style="m">
     <verse number="16" style="v" sid="PSA 38:16" />För jag sätter mitt hopp till <char style="add">(väntar ivrigt på, fokuserar min blick mot)</char> Herren <char style="add">(Jahveh)</char>,</para>
-  <para style="p" vid="PSA 38:16">du ska svara mig Herre <char style="add">(Adonaj)</char>, min Gud <char style="add">(Elohim)</char>.<verse eid="PSA 38:16" /></para>
+  <para style="p" vid="PSA 38:16">du ska svara mig Herre <char style="add">(Adonai)</char>, min Gud <char style="add">(Elohim)</char>.<verse eid="PSA 38:16" /></para>
   <para style="m">
     <verse number="17" style="v" sid="PSA 38:17" />För jag säger <char style="add">(tänker, ber)</char>: ”Låt dem inte få glädja sig över mig,</para>
   <para style="p" vid="PSA 38:17">låt dem inte fira när min fot vacklar <char style="add">[på den smala vägen]</char>.”<verse eid="PSA 38:17" /></para>
@@ -4665,7 +4670,7 @@
   <para style="p" vid="PSA 38:23">min Herre <char style="add">(Jahveh)</char>, min frälsning.</para>
   <para style="b" vid="PSA 38:23" />
   <para style="m" vid="PSA 38:23">
-    <char style="add">[Psalmen avslutas med ett desperat rop på hjälp. Det hebreiska ordet för frälsning som används sextio gånger i Psaltaren är Jeshua, det hebreiska namnet på Jesus. Psaltarpsalmerna pekar på var vår frälsning finns.]</char><verse eid="PSA 38:23" /></para>
+    <char style="add">[Psalmen avslutas med ett desperat rop på hjälp. Det hebreiska ordet för frälsning som används sextio gånger i Psaltaren är jeshua, det hebreiska namnet på Jesus. Psaltarpsalmerna pekar på var vår frälsning finns.]</char><verse eid="PSA 38:23" /></para>
   <chapter eid="PSA 38" />
   <chapter number="39" style="c" sid="PSA 39" />
   <para style="s1">Psalm 39 – Lär mig att livet är kort</para>
@@ -4742,7 +4747,7 @@
   <para style="p" vid="PSA 39:7">utan att veta vem som en gång ska få dem.<verse eid="PSA 39:7" /></para>
   <para style="s2">Gud – du är mitt enda hopp</para>
   <para style="m">
-    <verse number="8" style="v" sid="PSA 39:8" />Så nu, vad ska jag sträva efter <char style="add">(vänta på, sätta mitt hopp till)</char> Herre <char style="add">(Adonaj, fokus på Guds storhet och makt)</char>?</para>
+    <verse number="8" style="v" sid="PSA 39:8" />Så nu, vad ska jag sträva efter <char style="add">(vänta på, sätta mitt hopp till)</char> Herre <char style="add">(Adonai, fokus på Guds storhet och makt)</char>?</para>
   <para style="p" vid="PSA 39:8">Du är mitt enda hopp <char style="add">(jag ser med förväntan fram mot vad du ska göra)</char>!</para>
   <para style="b" vid="PSA 39:8" />
   <para style="m" vid="PSA 39:8">
@@ -5335,7 +5340,7 @@
   <para style="p" vid="PSA 44:23">vi räknas som får <char style="add">(lamm, småboskap)</char> som ska slaktas. <char style="add">[<char style="xt"><ref loc="ISA 53:7">Jes 53:7</ref>; <ref loc="ROM 8:36">Rom 8:36</ref></char>]</char><verse eid="PSA 44:23" /></para>
   <para style="s2">Framtid</para>
   <para style="m">
-    <verse number="24" style="v" sid="PSA 44:24" />Vakna upp! Varför sover du Herre <char style="add">(Adonaj)</char>?</para>
+    <verse number="24" style="v" sid="PSA 44:24" />Vakna upp! Varför sover du Herre <char style="add">(Adonai)</char>?</para>
   <para style="p" vid="PSA 44:24">Res dig upp! Förkasta oss inte för alltid!</para>
   <para style="m" vid="PSA 44:24">
     <char style="add">[Jesus sov mitt i stormen, se <char style="xt"><ref loc="MAT 8:23">Matt 8:23</ref></char>.]</char><verse eid="PSA 44:24" /></para>
@@ -5419,11 +5424,11 @@
   <para style="p" vid="PSA 45:11">glöm ditt folk <char style="add">[hemland]</char> och din faders hus <char style="add">(familj)</char>.</para>
   <para style="b" vid="PSA 45:11" />
   <para style="m" vid="PSA 45:11">
-    <char style="add">[I vanliga fall var det sonen som skulle lämna sin fars hus, se <char style="xt"><ref loc="GEN 2:24">1 Mos 2:24</ref></char>. Här verkar bruden komma från ett annat land. Hon var tvungen att lämna sin gamla kultur, lojaliteter och sin religion. Här är Rut ett fint exempel, se <char style="xt"><ref loc="RUT 1:15-16">Rut 1:15-16</ref></char>, medan Salomos och Ahabs fruar inte gjorde det. I ett messianskt perspektiv behöver Guds församling lämna det gamla livet och avskilja sig för Jesus, se <char style="xt"><ref loc="EPH 5:25-27">Ef 5:25-27</ref></char>.]</char><verse eid="PSA 45:11" /></para>
+    <char style="add">[I vanliga fall var det sonen som skulle lämna sin fars hus, se <char style="xt"><ref loc="GEN 2:24">1 Mos 2:24</ref></char>. Här verkar bruden komma från ett annat land. Hon var tvungen att lämna sin gamla kultur, lojaliteter och sin religion. Här är Rut ett fint exempel som både lämnar sitt land och sin kultur, se <char style="xt"><ref loc="RUT 1:15-16">Rut 1:15-16</ref></char>, medan Salomos och Ahabs fruar inte ger upp sin religion. I ett messianskt perspektiv behöver Guds församling lämna det gamla livet och avskilja sig för Jesus, se <char style="xt"><ref loc="EPH 5:25-27">Ef 5:25-27</ref></char>.]</char><verse eid="PSA 45:11" /></para>
   <para style="b" />
   <para style="m">
     <verse number="12" style="v" sid="PSA 45:12" />Låt kungen <char style="add">[den kommande Messias]</char> längta efter din skönhet,</para>
-  <para style="p" vid="PSA 45:12">eftersom han är din herre <char style="add">(adonaj)</char>, ska du böja dig inför honom.<verse eid="PSA 45:12" /></para>
+  <para style="p" vid="PSA 45:12">eftersom han är din herre <char style="add">(hebr. adonai)</char>, ska du böja dig inför honom.<verse eid="PSA 45:12" /></para>
   <para style="m">
     <verse number="13" style="v" sid="PSA 45:13" />Dotter Tyros söker din favör <char style="add">(ditt ansikte)</char> med en gåva,</para>
   <para style="p" vid="PSA 45:13">de rikaste folk med <verse eid="PSA 45:13" /><verse number="14" style="v" sid="PSA 45:14" />dyrbara ägodelar <char style="add">(härlighet)</char>.</para>
@@ -5458,7 +5463,7 @@
   <para style="p">
     <char style="add">Författare: Korachs söner (ättlingar) </char></para>
   <para style="p">
-    <char style="add">Struktur: Psalmen har tre sektioner som var och en slutar med ordet ”sela”. De två sista har också en refräng som upprepas, se vers 8 och 12. </char></para>
+    <char style="add">Struktur: Psalmen har tre sektioner som var och en slutar med ordet selah. De två sista har också en refräng som upprepas, se vers 8 och 12. </char></para>
   <para style="b" />
   <para style="m">
     <char style="add">1. Naturen i uppror, vers 2-4 </char></para>
@@ -5696,7 +5701,7 @@
   <para style="b" />
   <para style="m">
     <verse number="8" style="v" sid="PSA 48:8" />
-    <char style="add">[Ett skifte i psalmen markeras här genom att verbformen blir imperfekt, även en metafor med skepp introduceras. Psalmisten riktar sig också nu direkt till Gud i bön och tacksägelse:]</char></para>
+    <char style="add">[Ett skifte i psalmen markeras här genom att verbformen ändras, även en metafor med skepp introduceras. Psalmisten riktar sig också nu direkt till Gud i bön och tacksägelse:]</char></para>
   <para style="m" vid="PSA 48:8">Med en östanvind,</para>
   <para style="p" vid="PSA 48:8">krossade du <char style="add">(förgör du fullständigt, gång på gång)</char> skepp från Tarshish <char style="add">[väst]</char></para>
   <para style="b" vid="PSA 48:8" />
@@ -5907,9 +5912,7 @@
   <para style="p" vid="PSA 50:3">och runt omkring honom.<verse eid="PSA 50:3" /></para>
   <para style="m">
     <verse number="4" style="v" sid="PSA 50:4" />Han kallar på himlarna däruppe</para>
-  <para style="p" vid="PSA 50:4">och på jorden, till att döma sitt folk.</para>
-  <para style="m" vid="PSA 50:4">
-    <char style="add">[Himlarna och jorden är Guds vittnen när han dömer, se <char style="xt"><ref loc="DEU 32:1">5 Mos 32:1</ref></char>.]</char><verse eid="PSA 50:4" /></para>
+  <para style="p" vid="PSA 50:4">och på jorden, till att döma sitt folk. <char style="add">[Himlarna och jorden är Guds vittnen när han dömer, se <char style="xt"><ref loc="DEU 32:1">5 Mos 32:1</ref></char>.]</char><verse eid="PSA 50:4" /></para>
   <para style="m">
     <verse number="5" style="v" sid="PSA 50:5" />Samla mina heliga till mig,</para>
   <para style="p" vid="PSA 50:5">dem som har ingått förbund med mig genom ett offer.<verse eid="PSA 50:5" /></para>
@@ -5940,8 +5943,8 @@
     <verse number="11" style="v" sid="PSA 50:11" />Jag känner alla bergets fåglar</para>
   <para style="p" vid="PSA 50:11">och fältets vilda djur är mina.<verse eid="PSA 50:11" /></para>
   <para style="m">
-    <verse number="12" style="v" sid="PSA 50:12" />Om jag blev hungrig, skulle jag berätta det för dig <char style="add">[Israel]</char>,</para>
-  <para style="p" vid="PSA 50:12">världen tillhör mig och allt som finns i den.<verse eid="PSA 50:12" /></para>
+    <verse number="12" style="v" sid="PSA 50:12" />Om jag blev hungrig, skulle jag inte säga det till dig <char style="add">[Israel]</char>,</para>
+  <para style="p" vid="PSA 50:12">världen tillhör mig och allt som finns i den. <char style="add">[<char style="xt"><ref loc="PSA 24:1">Ps 24:1</ref>; <ref loc="PSA 89:12">89:12</ref></char>]</char><verse eid="PSA 50:12" /></para>
   <para style="m">
     <verse number="13" style="v" sid="PSA 50:13" />Äter jag tjurars kött</para>
   <para style="p" vid="PSA 50:13">eller dricker jag getters blod?<verse eid="PSA 50:13" /></para>
@@ -5957,7 +5960,7 @@
     <char style="add">[Vers 16-23 riktar sig personligt:]</char></para>
   <para style="m" vid="PSA 50:16">Men till den gudlösa <char style="add">(ogudaktige, ondskefulle)</char> säger Gud <char style="add">(Elohim)</char>:</para>
   <para style="p" vid="PSA 50:16">”Vad gör du <char style="add">(vad har du för dig)</char>?</para>
-  <para style="p" vid="PSA 50:16">Räknar mina förordningar <char style="add">(ordagrant ”saker inristat” – hebr. chukim)</char> och tar mitt förbund i din mun?</para>
+  <para style="p" vid="PSA 50:16">Räknar <char style="add">(återger)</char> du mina förordningar <char style="add">(ordagrant ”saker inristat” – hebr. chukim)</char> och tar mitt förbund i din mun?</para>
   <para style="m" vid="PSA 50:16">
     <char style="add">[Hur vågar du tala som om du kände mig? Jämför <char style="xt"><ref loc="2TI 3:5">2 Tim 3:5</ref></char>.]</char><verse eid="PSA 50:16" /></para>
   <para style="m">
@@ -6101,15 +6104,11 @@
   <para style="b" />
   <para style="m">
     <verse number="9" style="v" sid="PSA 51:9" />Rena mig med isop så att jag blir ren <char style="add">[jag var som en spetälsk]</char>,</para>
-  <para style="p" vid="PSA 51:9">tvätta mig, så att jag blir vitare än snö. <char style="add">[<char style="xt"><ref loc="ISA 1:18">Jes 1:18</ref></char>]</char></para>
-  <para style="m" vid="PSA 51:9">
-    <char style="add">[Samma ord för att ”tvätta” återkommer här, se vers 4.]</char><verse eid="PSA 51:9" /></para>
+  <para style="p" vid="PSA 51:9">tvätta mig, så att jag blir vitare än snö. <char style="add">[<char style="xt"><ref loc="ISA 1:18">Jes 1:18</ref></char>] [Samma ord för att ”tvätta” återkommer här, se vers 4.]</char><verse eid="PSA 51:9" /></para>
   <para style="b" />
   <para style="m">
     <verse number="10" style="v" sid="PSA 51:10" />Låt mig höra fröjd och glädje,</para>
-  <para style="p" vid="PSA 51:10">så att benen som du har krossat <char style="add">(tillintetgjort)</char> kan bli glada igen.</para>
-  <para style="m" vid="PSA 51:10">
-    <char style="add">[Benen används symboliskt för människans innersta.]</char><verse eid="PSA 51:10" /></para>
+  <para style="p" vid="PSA 51:10">så att benen som du har krossat <char style="add">(tillintetgjort)</char> kan bli glada igen. <char style="add">[Benen används symboliskt för människans innersta.]</char><verse eid="PSA 51:10" /></para>
   <para style="b" />
   <para style="m">
     <verse number="11" style="v" sid="PSA 51:11" />Göm ditt ansikte från mina synder</para>
@@ -6117,20 +6116,13 @@
   <para style="s2">Del 2</para>
   <para style="m">
     <verse number="12" style="v" sid="PSA 51:12" />Skapa <char style="add">[<char style="xt"><ref loc="GEN 1:1">1 Mos 1:1</ref></char>]</char> ett rent hjärta i mig, Gud <char style="add">(Elohim)</char>,</para>
-  <para style="p" vid="PSA 51:12">och förnya en ståndaktig <char style="add">(upprätt, stark)</char> ande i mig.</para>
-  <para style="m" vid="PSA 51:12">
-    <char style="add">[Gör min ande motståndskraftig mot synd.]</char><verse eid="PSA 51:12" /></para>
-  <para style="b" />
+  <para style="p" vid="PSA 51:12">och förnya en ståndaktig <char style="add">(upprätt, stark)</char> ande i mig. <char style="add">[Gör min ande motståndskraftig mot synd.]</char><verse eid="PSA 51:12" /></para>
   <para style="m">
     <verse number="13" style="v" sid="PSA 51:13" />Förkasta mig inte från ditt ansikte</para>
   <para style="p" vid="PSA 51:13">och ta inte din helige Ande ifrån mig.<verse eid="PSA 51:13" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="14" style="v" sid="PSA 51:14" />Låt mig få tillbaka glädjen över din frälsning</para>
-  <para style="p" vid="PSA 51:14">och låt villighetens ande upprätthålla mig.</para>
-  <para style="m" vid="PSA 51:14">
-    <char style="add">[Hebr. roach nadiv kan också ha betydelsen av en generös/ädel inställning.]</char><verse eid="PSA 51:14" /></para>
-  <para style="b" />
+  <para style="p" vid="PSA 51:14">och låt villighetens ande upprätthålla mig. <char style="add">[Hebr. roach nadiv kan också ha betydelsen av en generös/ädel inställning.]</char><verse eid="PSA 51:14" /></para>
   <para style="m">
     <verse number="15" style="v" sid="PSA 51:15" />Då ska jag undervisa överträdarna dina vägar</para>
   <para style="p" vid="PSA 51:15">och syndarna ska återvända till dig.</para>
@@ -6142,7 +6134,7 @@
   <para style="p" vid="PSA 51:16">min frälsnings Gud <char style="add">(Elohim)</char>,</para>
   <para style="m" vid="PSA 51:16">så ska min tunga sjunga om <char style="add">(höja gälla jubelrop i triumferande glädje över)</char> din rättfärdighet.<verse eid="PSA 51:16" /></para>
   <para style="m">
-    <verse number="17" style="v" sid="PSA 51:17" />Herre <char style="add">(Adonaj)</char> öppna du mina läppar</para>
+    <verse number="17" style="v" sid="PSA 51:17" />Herre <char style="add">(Adonai)</char> öppna du mina läppar</para>
   <para style="p" vid="PSA 51:17">och min mun ska berätta <char style="add">(förkunna)</char> ditt lov.<verse eid="PSA 51:17" /></para>
   <para style="b" />
   <para style="m">
@@ -6158,7 +6150,7 @@
   <para style="p" vid="PSA 51:20">bygg upp Jerusalems murar.<verse eid="PSA 51:20" /></para>
   <para style="m">
     <verse number="21" style="v" sid="PSA 51:21" />Då ska du njuta av rättfärdiga offer, av brännoffer och heloffer,</para>
-  <para style="p" vid="PSA 51:21">då ska man offra oxar på ditt altare.<verse eid="PSA 51:21" /></para>
+  <para style="p" vid="PSA 51:21">då ska man offra tjurar på ditt altare.<verse eid="PSA 51:21" /></para>
   <chapter eid="PSA 51" />
   <chapter number="52" style="c" sid="PSA 52" />
   <para style="s1">Psalm 52 – Två livsvägar</para>
@@ -6347,7 +6339,7 @@
   <para style="b" />
   <para style="m">
     <verse number="6" style="v" sid="PSA 54:6" />Dock, Gud <char style="add">(Elohim)</char> är verkligen min hjälpare,</para>
-  <para style="p" vid="PSA 54:6">Herren <char style="add">(Adonaj)</char> är den som upprätthåller min själ <char style="add">(håller mig vid liv)</char>.<verse eid="PSA 54:6" /></para>
+  <para style="p" vid="PSA 54:6">Herren <char style="add">(Adonai)</char> är den som upprätthåller min själ <char style="add">(håller mig vid liv)</char>.<verse eid="PSA 54:6" /></para>
   <para style="m">
     <verse number="7" style="v" sid="PSA 54:7" />Han ska löna de onda som sitter och väntar på mig,</para>
   <para style="p" vid="PSA 54:7">i din sanning ska du förgöra dem.<verse eid="PSA 54:7" /></para>
@@ -6420,7 +6412,7 @@
     <verse number="9" style="v" sid="PSA 55:9" />Jag skulle skynda till min tillflyktsort,</para>
   <para style="p" vid="PSA 55:9">bort från stormvinden och ovädret.<verse eid="PSA 55:9" /></para>
   <para style="m">
-    <verse number="10" style="v" sid="PSA 55:10" />Fördärva, Herre <char style="add">(Adonaj)</char>, dela deras tunga <char style="add">(förvirra och förbrylla deras tal) [<char style="xt"><ref loc="GEN 11:1-9">1 Mos 11:1-9</ref></char>]</char>,</para>
+    <verse number="10" style="v" sid="PSA 55:10" />Fördärva, Herre <char style="add">(Adonai)</char>, dela deras tunga <char style="add">(förvirra och förbrylla deras tal) [<char style="xt"><ref loc="GEN 11:1-9">1 Mos 11:1-9</ref></char>]</char>,</para>
   <para style="p" vid="PSA 55:10">för jag ser våld och kiv i staden,<verse eid="PSA 55:10" /></para>
   <para style="m">
     <verse number="11" style="v" sid="PSA 55:11" />dag och natt</para>
@@ -6677,7 +6669,7 @@
   <para style="m" vid="PSA 57:9">Vakna nevel-lyra <char style="add">[bärbart instrument med vanligtvis tolv strängar]</char> och kinnor-harpa <char style="add">[mindre harpa med ljusare toner, se <char style="xt"><ref loc="PSA 33:2">Ps 33:2</ref></char>]</char></para>
   <para style="p" vid="PSA 57:9">Jag vill väcka gryningen.<verse eid="PSA 57:9" /></para>
   <para style="m">
-    <verse number="10" style="v" sid="PSA 57:10" />Jag vill tacka <char style="add">[med öppna händer – prisa, hylla och erkänna]</char> dig bland folken, Herre <char style="add">(Adonaj)</char>,</para>
+    <verse number="10" style="v" sid="PSA 57:10" />Jag vill tacka <char style="add">[med öppna händer – prisa, hylla och erkänna]</char> dig bland folken, Herre <char style="add">(Adonai)</char>,</para>
   <para style="p" vid="PSA 57:10">jag vill sjunga ditt lov bland folkslagen.<verse eid="PSA 57:10" /></para>
   <para style="m">
     <verse number="11" style="v" sid="PSA 57:11" />För din nåd <char style="add">(omsorgsfulla kärlek)</char> är stor, den når till himlarna,</para>
@@ -6887,7 +6879,7 @@
   <para style="m">
     <verse number="12" style="v" sid="PSA 59:12" />Slakta dem inte för att mitt folk inte ska glömma,</para>
   <para style="p" vid="PSA 59:12">låt dem vandra hit och dit genom din makt.</para>
-  <para style="m" vid="PSA 59:12">Slå ner dem, Herre <char style="add">(Adonaj)</char> vår sköld,<verse eid="PSA 59:12" /></para>
+  <para style="m" vid="PSA 59:12">Slå ner dem, Herre <char style="add">(Adonai)</char> vår sköld,<verse eid="PSA 59:12" /></para>
   <para style="p">
     <verse number="13" style="v" sid="PSA 59:13" />för deras muns synd och deras läppars ord,</para>
   <para style="m" vid="PSA 59:13">låt dem fångas i sin stolthet,</para>
@@ -7068,7 +7060,7 @@
   <chapter number="62" style="c" sid="PSA 62" />
   <para style="s1">Psalm 62 – Jag ska inte vackla</para>
   <para style="m">
-    <char style="add">[En psalm om förtröstan på Gud. Det är fyra olika grupper som tilltalas. Fiender i vers 4, psalmisten själv i vers 6, människor i allmänhet i vers 9 och till sist Gud i vers 13. Ordet ”bara” hebr. ka inleder sex verser, se <char style="xt"><ref loc="PSA 62:2">Ps 62:2</ref>, <ref loc="PSA 62:3">3</ref>, <ref loc="PSA 62:5">5</ref>, <ref loc="PSA 62:6">6</ref>, <ref loc="PSA 62:7">7</ref>, <ref loc="PSA 62:10">10</ref></char>. </char></para>
+    <char style="add">[En psalm om förtröstan på Gud. Det är fyra olika grupper som tilltalas. Fiender i vers 4, psalmisten själv i vers 6, människor i allmänhet i vers 9 och till sist Gud i vers 13. Ordet ”bara” (hebr. ka) inleder sex verser, se <char style="xt"><ref loc="PSA 62:2">Ps 62:2</ref>, <ref loc="PSA 62:3">3</ref>, <ref loc="PSA 62:5">5</ref>, <ref loc="PSA 62:6">6</ref>, <ref loc="PSA 62:7">7</ref>, <ref loc="PSA 62:10">10</ref></char>. </char></para>
   <para style="p">
     <char style="add">Författare: David </char></para>
   <para style="p">
@@ -7166,7 +7158,7 @@
   <para style="b" vid="PSA 62:12" />
   <para style="m" vid="PSA 62:12">All makt <char style="add">(styrka, auktoritet)</char> tillhör Gud,<verse eid="PSA 62:12" /></para>
   <para style="p">
-    <verse number="13" style="v" sid="PSA 62:13" />och du Herre <char style="add">(Adonaj)</char> visar nåd <char style="add">(omsorgsfull kärlek)</char>,</para>
+    <verse number="13" style="v" sid="PSA 62:13" />och du Herre <char style="add">(Adonai)</char> visar nåd <char style="add">(omsorgsfull kärlek)</char>,</para>
   <para style="p" vid="PSA 62:13">men kommer också att löna var och en efter vad han gjort.</para>
   <para style="m" vid="PSA 62:13">
     <char style="add">[Guds styrka innehåller både nåd och dom.]</char><verse eid="PSA 62:13" /></para>
@@ -7275,7 +7267,7 @@
   <para style="b" />
   <para style="m">
     <verse number="4" style="v" sid="PSA 64:4" />
-    <char style="add">[Detaljerat beskrivs nu hur fienderna planerar sin attack. Vers 1-6 är en enda mening i hebreiskan.]</char></para>
+    <char style="add">[Detaljerat beskrivs nu hur fienderna planerar sin attack. Vers 2-7 är en enda mening i hebreiskan.]</char></para>
   <para style="m" vid="PSA 64:4">De som vässar sina tungor likt ett svärd</para>
   <para style="p" vid="PSA 64:4">och spänner sina bågar med bittra ord som pilar,<verse eid="PSA 64:4" /></para>
   <para style="m">
@@ -7495,7 +7487,7 @@
   <para style="b" />
   <para style="m">
     <verse number="18" style="v" sid="PSA 66:18" />Om jag hade sett någon synd i mitt hjärta,</para>
-  <para style="p" vid="PSA 66:18">så skulle Herren <char style="add">(Adonaj)</char> inte höra.<verse eid="PSA 66:18" /></para>
+  <para style="p" vid="PSA 66:18">så skulle Herren <char style="add">(Adonai)</char> inte höra.<verse eid="PSA 66:18" /></para>
   <para style="b" />
   <para style="m">
     <verse number="19" style="v" sid="PSA 66:19" />Men Gud <char style="add">(Elohim)</char> har hört mig,</para>
@@ -7547,7 +7539,7 @@
   <para style="p" vid="PSA 67:3">din frälsning <char style="add">(räddning, hjälp)</char> bland alla hednafolk.</para>
   <para style="b" vid="PSA 67:3" />
   <para style="m" vid="PSA 67:3">
-    <char style="add">[Ofta används ordet selah som ett avbrott mellan två stycken. Här fungerar det istället som en mittpunkt för att binda ihop vers 2 och 3. Anledningen till bönen om Guds välsignelse förklaras i vers 3. Här finns bara ett verb som betyder att tillkännage och göra något begripligt och uppenbarat. De två saker som Gud vill uppenbara här på jorden hos alla folk är sina vägar och sin frälsning. Vägar har att göra med Guds förordningar och hur vi ska leva våra liv. Det hebreiska ordet för frälsning här är Jeshua, det hebreiska namnet på Jesus, vilket pekar på var vår frälsning finns.]</char><verse eid="PSA 67:3" /></para>
+    <char style="add">[Ofta används ordet selah som ett avbrott mellan två stycken. Här fungerar det istället som en mittpunkt för att binda ihop vers 2 och 3. Anledningen till bönen om Guds välsignelse förklaras i vers 3. Här finns bara ett verb som betyder att tillkännage och göra något begripligt och uppenbarat. De två saker som Gud vill uppenbara här på jorden hos alla folk är sina vägar och sin frälsning. Vägar har att göra med Guds förordningar och hur vi ska leva våra liv. Det hebreiska ordet för frälsning här är jeshua, det hebreiska namnet på Jesus, vilket pekar på var vår frälsning finns.]</char><verse eid="PSA 67:3" /></para>
   <para style="m">
     <verse number="4" style="v" sid="PSA 67:4" />
     <char style="add">[Refräng:]</char></para>
@@ -7582,7 +7574,7 @@
   <para style="m">
     <char style="add">[Psalm 68 är en sång som handlar om Guds makt och majestät. Gud har varit Israels Gud under vandringen från Sinai till Sion, men han är också en Gud över alla folk, och en dag ska han regera från Jerusalem. Psalmen har messianska undertoner. Vers 19 citeras av Paulus i Efesierbrevet om Jesu seger på korset. Bashan är känd som ”ormens plats”, se vers 16, i kontrast till Sion som är Guds stad. Den urgamla profetian från <char style="xt"><ref loc="GEN 3:15">1 Mos 3:15</ref></char>, hur ormens huvud ska krossas, får sitt uppfyllande i vers 21. </char></para>
   <para style="p">
-    <char style="add">Psalmen innehåller sju olika namn på Gud: Elohim (vers 2), Jah (vers 5), Jahveh (vers 11), El Shaddaj (vers 15), Jah Elohim (vers 19), Adonaj (vers 20) och Jahveh Adonaj (vers 21). </char></para>
+    <char style="add">Psalmen innehåller sju olika namn på Gud: Elohim (vers 2), Jah (vers 5), Jahveh (vers 11), El Shaddaj (vers 15), Jah Elohim (vers 19), Adonai (vers 20) och Jahveh Adonai (vers 21). </char></para>
   <para style="p">
     <char style="add">Författare: David </char></para>
   <para style="p">
@@ -7668,7 +7660,7 @@
   <para style="p" vid="PSA 68:11">du försörjde de fattiga <char style="add">(ödmjuka)</char> i din godhet, Gud <char style="add">(Elohim)</char>.<verse eid="PSA 68:11" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="12" style="v" sid="PSA 68:12" />Herren <char style="add">(Adonaj, fokus på Guds storhet och makt)</char> talade sitt ord.</para>
+    <verse number="12" style="v" sid="PSA 68:12" />Herren <char style="add">(Adonai, fokus på Guds storhet och makt)</char> talade sitt ord.</para>
   <para style="p" vid="PSA 68:12">En stor mäktig armé av kvinnor sprider <char style="add">(proklamerar)</char> de glada nyheterna:</para>
   <para style="b" vid="PSA 68:12" />
   <para style="m" vid="PSA 68:12">
@@ -7701,7 +7693,7 @@
   <para style="p" vid="PSA 68:17">Ja, Herren <char style="add">(Jahveh)</char> ska bo där för alltid.<verse eid="PSA 68:17" /></para>
   <para style="m">
     <verse number="18" style="v" sid="PSA 68:18" />Guds <char style="add">(Elohims)</char> vagnar <char style="add">[för striden]</char> är tiotusentals, tusen och åter tusen,</para>
-  <para style="p" vid="PSA 68:18">Herren <char style="add">(Adonaj)</char> är mitt ibland dem, i helighet som på Sinai.</para>
+  <para style="p" vid="PSA 68:18">Herren <char style="add">(Adonai)</char> är mitt ibland dem, i helighet som på Sinai.</para>
   <para style="m" vid="PSA 68:18">
     <char style="add">[Tankarna går till Egyptens militär med vagnar, se <char style="xt"><ref loc="EXO 14:-1-15">2 Mos 14-15</ref></char>, men Guds härskara är större, se <char style="xt"><ref loc="PSA 20:8">Ps 20:8</ref>; <ref loc="2KI 6:15-17">2 Kung 6:15-17</ref></char>.]</char><verse eid="PSA 68:18" /></para>
   <para style="m">
@@ -7712,7 +7704,7 @@
     <char style="add">[Versen citeras av Paulus i <char style="xt"><ref loc="2CO 2:14">2 Kor 2:14</ref>; <ref loc="EPH 4:8">Ef 4:8</ref></char>.]</char><verse eid="PSA 68:19" /></para>
   <para style="s2">Proklamation</para>
   <para style="m">
-    <verse number="20" style="v" sid="PSA 68:20" />Välsignad är Herren <char style="add">(Adonaj) [låt oss knäböja inför honom, ja, inympas i honom – hebr. barach]</char>!</para>
+    <verse number="20" style="v" sid="PSA 68:20" />Välsignad är Herren <char style="add">(Adonai) [låt oss knäböja inför honom, ja, inympas i honom – hebr. barach]</char>!</para>
   <para style="p" vid="PSA 68:20">Dag efter dag bär han oss <char style="add">[som en börda; med vår börda – han som tar hand om sitt folk]</char>,</para>
   <para style="p" vid="PSA 68:20">Gud <char style="add">(El) [den Mäktige]</char> är vår frälsning <char style="add">(räddning)</char>.</para>
   <para style="b" vid="PSA 68:20" />
@@ -7720,7 +7712,7 @@
   <para style="b" />
   <para style="m">
     <verse number="21" style="v" sid="PSA 68:21" />Vår Gud <char style="add">(El)</char> är en Gud <char style="add">(El)</char> som befriar <char style="add">(Vår Gud är frälsningens Gud)</char>,</para>
-  <para style="p" vid="PSA 68:21">ja, hos Herren <char style="add">(Jahveh)</char>, Herren <char style="add">(Adonaj) [den högste allsmäktige Guden]</char></para>
+  <para style="p" vid="PSA 68:21">ja, hos Herren <char style="add">(Jahveh)</char>, Herren <char style="add">(Adonai) [den högste allsmäktige Guden]</char></para>
   <para style="p" vid="PSA 68:21">finns befrielse <char style="add">(räddning)</char> från döden.<verse eid="PSA 68:21" /></para>
   <para style="m">
     <verse number="22" style="v" sid="PSA 68:22" />Ja, han ska krossa <char style="add">(slå)</char> sina fienders huvuden,</para>
@@ -7730,7 +7722,7 @@
     <char style="add">[Den håriga skalpen kan syfta på det barbariska eller demoniska utseendet på dessa fiender. Här kan man också ana ett uppfyllande av den urgamla profetian från <char style="xt"><ref loc="GEN 3:15">1 Mos 3:15</ref></char>.]</char><verse eid="PSA 68:22" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="23" style="v" sid="PSA 68:23" />Herren <char style="add">(Adonaj)</char> säger: ”Från Bashan <char style="add">[Hermon, ormens plats, se vers 15]</char> ska jag föra tillbaka dem,</para>
+    <verse number="23" style="v" sid="PSA 68:23" />Herren <char style="add">(Adonai)</char> säger: ”Från Bashan <char style="add">[Hermon, ormens plats, se vers 15]</char> ska jag föra tillbaka dem,</para>
   <para style="p" vid="PSA 68:23">föra dem tillbaka från havets djup <char style="add">[som ofta representerar kaos]</char>,<verse eid="PSA 68:23" /></para>
   <para style="m">
     <verse number="24" style="v" sid="PSA 68:24" />så att din fot kan stampa <char style="add">(bada)</char> i blod,</para>
@@ -7866,7 +7858,7 @@
   <para style="b" />
   <para style="m">
     <verse number="7" style="v" sid="PSA 69:7" />Må de som sätter sitt hopp till dig, inte skämmas för min skull,</para>
-  <para style="p" vid="PSA 69:7">Herre <char style="add">(Adonaj)</char>, Härskarornas Herre <char style="add">(Jahveh Sebaot)</char>.</para>
+  <para style="p" vid="PSA 69:7">Herre <char style="add">(Adonai)</char>, Härskarornas Herre <char style="add">(Jahveh Sebaot)</char>.</para>
   <para style="m" vid="PSA 69:7">Låt inte dem som söker dig hamna i förvirring genom mig,</para>
   <para style="p" vid="PSA 69:7">Israels Gud <char style="add">(Elohim)</char>.<verse eid="PSA 69:7" /></para>
   <para style="b" />
@@ -7979,7 +7971,7 @@
     <verse number="31" style="v" sid="PSA 69:31" />Låt mig prisa Herrens <char style="add">(Elohims)</char> namn med sång <char style="add">(hebr. shir)</char></para>
   <para style="p" vid="PSA 69:31">och upplyfta honom med tacksägelse.<verse eid="PSA 69:31" /></para>
   <para style="m">
-    <verse number="32" style="v" sid="PSA 69:32" />Det ska behaga Herren <char style="add">(Jahveh)</char> mer än <char style="add">[ett offer av]</char> en oxe <char style="add">[hebr. shor, snarlikt med sång i vers 31]</char></para>
+    <verse number="32" style="v" sid="PSA 69:32" />Det ska behaga Herren <char style="add">(Jahveh)</char> mer än <char style="add">[ett offer av]</char> nötboskap <char style="add">[hebr. shor, snarlikt med sång i vers 31]</char></para>
   <para style="p" vid="PSA 69:32">eller <char style="add">[en fullvuxen]</char> en tjur med horn och klövar. <char style="add">[<char style="xt"><ref loc="LEV 11:3">3 Mos 11:3</ref></char>]</char><verse eid="PSA 69:32" /></para>
   <para style="m">
     <verse number="33" style="v" sid="PSA 69:33" />De ödmjuka <char style="add">(betryckta, fattiga)</char> ska se det och vara glada.</para>
@@ -8122,11 +8114,11 @@
   <para style="b" />
   <para style="m">
     <verse number="5" style="v" sid="PSA 71:5" />För du är mitt hopp <char style="add">(den som gett och ger mig framtidstro)</char>,</para>
-  <para style="p" vid="PSA 71:5">Herre <char style="add">(Adonaj, fokus på Guds storhet och makt)</char>, Herre <char style="add">(Jahveh, Guds namn)</char>,</para>
+  <para style="p" vid="PSA 71:5">Herre <char style="add">(Adonai, fokus på Guds storhet och makt)</char>, Herre <char style="add">(Jahveh, Guds namn)</char>,</para>
   <para style="m" vid="PSA 71:5">min förtröstan <char style="add">(trygghet)</char> ända från min ungdom.</para>
   <para style="b" vid="PSA 71:5" />
   <para style="m" vid="PSA 71:5">
-    <char style="add">[Vers 5 är fint strukturerad. Den ramas in av två substantiv som är synonymer och centralt finns Herren Gud – Adonaj JHVH. Hopp (hebr. tiqvah) handlar om det som vi ser fram emot. Förtröstan (hebr. mibtach) om personen vi ser till för vårt hopp.]</char><verse eid="PSA 71:5" /></para>
+    <char style="add">[Vers 5 är fint strukturerad. Den ramas in av två substantiv som är synonymer och centralt finns Herren Gud – Adonai JHVH. Hopp (hebr. tiqvah) handlar om det som vi ser fram emot. Förtröstan (hebr. mibtach) om personen vi ser till för vårt hopp.]</char><verse eid="PSA 71:5" /></para>
   <para style="b" />
   <para style="m">
     <verse number="6" style="v" sid="PSA 71:6" />Du har varit mitt stöd <char style="add">(du har upprätthållit mig)</char> från moderlivet <char style="add">[redan innan jag föddes ända fram tills nu]</char>,</para>
@@ -8181,7 +8173,7 @@
     <char style="add">[Sista frasen kan översättas ”jag vet inte numren” (av alla dagar, se <char style="xt"><ref loc="PSA 40:6">Ps 40:6</ref></char>) eller ”jag kan inte skriva”. Det kan syfta på det som sagts och syftar då på storheten i Guds rättfärdighet och frälsning, eller framåt på vers 16 och alla Guds gärningar och rättfärdighet.]</char><verse eid="PSA 71:15" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="16" style="v" sid="PSA 71:16" />Jag ska komma med dina mäktiga gärningar, Herre <char style="add">(Adonaj)</char>, Gud <char style="add">(Jahveh)</char>.</para>
+    <verse number="16" style="v" sid="PSA 71:16" />Jag ska komma med dina mäktiga gärningar, Herre <char style="add">(Adonai)</char>, Gud <char style="add">(Jahveh)</char>.</para>
   <para style="p" vid="PSA 71:16">Jag ska komma ihåg din rättfärdighet, din ensam <char style="add">(exklusiva rättfärdighet)</char>.<verse eid="PSA 71:16" /></para>
   <para style="b" />
   <para style="m">
@@ -8259,7 +8251,7 @@
   <para style="p" vid="PSA 72:1">ge konungasonen din rättfärdighet <char style="add">(låt honom bli kvalificerad för sitt uppdrag)</char>.<verse eid="PSA 72:1" /></para>
   <para style="m">
     <verse number="2" style="v" sid="PSA 72:2" />Han ska döma ditt folk med rättfärdighet <char style="add">(rättvist)</char>,</para>
-  <para style="p" vid="PSA 72:2">och låter dina betryckta <char style="add">(de ödmjuka)</char> få rättvisa domar.<verse eid="PSA 72:2" /></para>
+  <para style="p" vid="PSA 72:2">och dina betryckta <char style="add">(de ödmjuka)</char> med rättvisa. <char style="add">[De ska få rättvisa domar.]</char><verse eid="PSA 72:2" /></para>
   <para style="m">
     <verse number="3" style="v" sid="PSA 72:3" />Bergen ska ge <char style="add">(bära, berätta nyheten om)</char> frid åt folket,</para>
   <para style="p" vid="PSA 72:3">och höjderna rättfärdighet. <char style="add">[Bergen och höjderna är poetiskt personifierade som budbärare som kommer med frid, det hebreiska ordet shalom, som innebär Guds välsignelser på alla områden.]</char><verse eid="PSA 72:3" /></para>
@@ -8416,7 +8408,7 @@
   <para style="p" vid="PSA 73:14">min <char style="add">[dagliga ranson av]</char> tuktan varje morgon.<verse eid="PSA 73:14" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="15" style="v" sid="PSA 73:15" />Om jag hade sagt: Så <char style="add">[här]</char> vill jag återberätta <char style="add">[återge/resonera/uttala mig om detta]</char>,</para>
+    <verse number="15" style="v" sid="PSA 73:15" />Om jag hade sagt: Så <char style="add">[här]</char> vill jag återberätta <char style="add">[resonera/uttala mig om detta]</char>,</para>
   <para style="p" vid="PSA 73:15">se, då skulle jag ha förrått en generation av dina barn <char style="add">(svikit dina söners släkte)</char>.<verse eid="PSA 73:15" /></para>
   <para style="m">
     <verse number="16" style="v" sid="PSA 73:16" />Och när jag funderade för att förstå <char style="add">(försökte begripa; bli intimt förtrogen med)</char> detta,</para>
@@ -8434,7 +8426,7 @@
   <para style="m" vid="PSA 73:19">
     <char style="add">[<char style="xt"><ref loc="EZK 26:21">Hes 26:21</ref>; <ref loc="JOB 18:14">Job 18:14</ref></char>]</char><verse eid="PSA 73:19" /></para>
   <para style="m">
-    <verse number="20" style="v" sid="PSA 73:20" />Liksom när man vaknar upp ur en dröm, ska du, Herre <char style="add">(Adonaj)</char></para>
+    <verse number="20" style="v" sid="PSA 73:20" />Liksom när man vaknar upp ur en dröm, ska du, Herre <char style="add">(Adonai)</char></para>
   <para style="p" vid="PSA 73:20">– när du står upp –</para>
   <para style="p" vid="PSA 73:20">förakta deras skuggbilder <char style="add">(yttre sken; illusioner) [som om de vore fantasier]</char>.<verse eid="PSA 73:20" /></para>
   <para style="b" />
@@ -8467,7 +8459,7 @@
   <para style="b" />
   <para style="m">
     <verse number="28" style="v" sid="PSA 73:28" />Men när det gäller mig så är det gott <char style="add">(hebr. tóv)</char> att vara nära <char style="add">(dra mig nära; närma mig)</char> Gud <char style="add">(Elohim)</char>.</para>
-  <para style="p" vid="PSA 73:28">Jag har gjort Herren Gud <char style="add">(Adonaj Jahveh)</char> till min tillflykt <char style="add">[jag sätter mig hopp och min förtröstan till honom]</char>.</para>
+  <para style="p" vid="PSA 73:28">Jag har gjort Herren Gud <char style="add">(Adonai Jahveh)</char> till min tillflykt <char style="add">[jag sätter mig hopp och min förtröstan till honom]</char>.</para>
   <para style="p" vid="PSA 73:28">Jag ska förkunna <char style="add">(återge, resonera, uttala mig) [se vers 15]</char> om alla dina verk.</para>
   <para style="b" vid="PSA 73:28" />
   <para style="m" vid="PSA 73:28">
@@ -8794,7 +8786,7 @@
   <para style="p" vid="PSA 77:2">för att han ska lyssna på <char style="add">(vända sitt öra till)</char> mig.<verse eid="PSA 77:2" /></para>
   <para style="m">
     <verse number="3" style="v" sid="PSA 77:3" />På min nöds dag <char style="add">[då jag var trängd och mötte svårigheter]</char></para>
-  <para style="p" vid="PSA 77:3">frågade jag efter <char style="add">(sökte; tog jag min tillflykt till; trädde jag fram inför)</char> dig, Herre <char style="add">(Adonaj)</char>,</para>
+  <para style="p" vid="PSA 77:3">frågade jag efter <char style="add">(sökte; tog jag min tillflykt till; trädde jag fram inför)</char> dig, Herre <char style="add">(Adonai)</char>,</para>
   <para style="p" vid="PSA 77:3">på natten var min hand <char style="add">[oavbrutet]</char> utsträckt utan att domna bort <char style="add">[tröttna, bli hjälplös eller svag]</char>.</para>
   <para style="m" vid="PSA 77:3">Min själ <char style="add">(hela min varelse – hebr. nefesh)</char> vägrar att låta sig tröstas <char style="add">[jag ville inte bli tröstad]</char>.<verse eid="PSA 77:3" /></para>
   <para style="p">
@@ -8817,7 +8809,7 @@
   <para style="m">
     <verse number="8" style="v" sid="PSA 77:8" />
     <char style="add">[Utifrån dessa noggranna efterforskningar formuleras sex frågor:]</char></para>
-  <para style="m" vid="PSA 77:8">Ska Herren <char style="add">(Adonaj)</char> förkasta oss för evigt?</para>
+  <para style="m" vid="PSA 77:8">Ska Herren <char style="add">(Adonai)</char> förkasta oss för evigt?</para>
   <para style="p" vid="PSA 77:8">Ska han någonsin igen ge oss nåd <char style="add">(välvilja, favör)</char>?<verse eid="PSA 77:8" /></para>
   <para style="m">
     <verse number="9" style="v" sid="PSA 77:9" />Är hans nåd <char style="add">(kärleksfulla omsorg)</char> borta för alltid?</para>
@@ -9093,7 +9085,7 @@
   <para style="m">
     <verse number="49" style="v" sid="PSA 78:49" />Han sände sin rasande vrede över dem,</para>
   <para style="p" vid="PSA 78:49">ilska och indignation och olycka,</para>
-  <para style="m" vid="PSA 78:49">en lång rad av ondskans budbärare.<verse eid="PSA 78:49" /></para>
+  <para style="m" vid="PSA 78:49">en lång rad av ondskans budbärare <char style="add">(änglar)</char>.<verse eid="PSA 78:49" /></para>
   <para style="p">
     <verse number="50" style="v" sid="PSA 78:50" />Han banade en väg för sin vrede.</para>
   <para style="m" vid="PSA 78:50">Han sparade inte deras själ från döden</para>
@@ -9153,7 +9145,7 @@
   <para style="p" vid="PSA 78:64">utan att änkorna sjöng några klagovisor. <char style="add">[<char style="xt"><ref loc="1SA 4:12-22">1 Sam 4:12-22</ref></char>]</char><verse eid="PSA 78:64" /></para>
   <para style="s3">Guds nåd</para>
   <para style="m">
-    <verse number="65" style="v" sid="PSA 78:65" />Sedan vaknade Herren <char style="add">(Adonaj)</char> upp som ur en sömn,</para>
+    <verse number="65" style="v" sid="PSA 78:65" />Sedan vaknade Herren <char style="add">(Adonai)</char> upp som ur en sömn,</para>
   <para style="p" vid="PSA 78:65">som en mäktig man som återhämtat sig från vinets berusning.<verse eid="PSA 78:65" /></para>
   <para style="m">
     <verse number="66" style="v" sid="PSA 78:66" />Han slog tillbaka sina åklagare</para>
@@ -9243,12 +9235,12 @@
   <para style="p" vid="PSA 79:11">Bevara <char style="add">[livet på]</char> dem som är dömda till döden, med din stora <char style="add">(väldiga)</char> arm <char style="add">[mäktiga kraft]</char>. <char style="add">[<char style="xt"><ref loc="PSA 102:21">Ps 102:21</ref></char>]</char><verse eid="PSA 79:11" /></para>
   <para style="m">
     <verse number="12" style="v" sid="PSA 79:12" />Betala tillbaka, ge igen sjufalt för deras förebråelser mitt bland våra grannar <char style="add">(i deras famn)</char>,</para>
-  <para style="p" vid="PSA 79:12">för förebråelserna som de slungade mot dig, min Herre <char style="add">(Adonaj)</char>.<verse eid="PSA 79:12" /></para>
+  <para style="p" vid="PSA 79:12">för förebråelserna som de slungade mot dig, min Herre <char style="add">(Adonai)</char>.<verse eid="PSA 79:12" /></para>
   <para style="b" />
   <para style="m">
     <verse number="13" style="v" sid="PSA 79:13" />Vi är ditt folk och en fårhjord <char style="add">(flock av småboskap)</char> på ditt bete,</para>
   <para style="p" vid="PSA 79:13">vi vill tacka <char style="add">[med öppna händer – prisa, hylla och erkänna]</char> dig för evigt,</para>
-  <para style="p" vid="PSA 79:13">vi vill återge <char style="add">(räkna upp)</char> ditt lov från släkte till släkte.<verse eid="PSA 79:13" /></para>
+  <para style="p" vid="PSA 79:13">vi vill återge <char style="add">(räkna upp)</char> ditt lov <char style="add">[lovprisa dig]</char> från släkte till släkte.<verse eid="PSA 79:13" /></para>
   <chapter eid="PSA 79" />
   <chapter number="80" style="c" sid="PSA 80" />
   <para style="s1">Psalm 80 – Återupprätta din vingård</para>
@@ -9274,10 +9266,10 @@
   <para style="m">
     <verse number="1" style="v" sid="PSA 80:1" />Till <char style="add">(för)</char> ledaren. <char style="add">[Beskriver någon som utmärker sig – som är strålande och framstående inom sitt område. Syftar dels på föreståndaren för tempelmusiken men även på Messias, den strålande morgonstjärnan, se <char style="xt"><ref loc="REV 22:16">Upp 22:16</ref></char> och inledningen till Psaltaren.]</char></para>
   <para style="b" vid="PSA 80:1" />
-  <para style="m" vid="PSA 80:1">Till liljorna <char style="add">(hebr. al-shoshannim) [en symbol för skönhet, kan syfta på en då känd melodi eller ett sexsträngat instrument]</char>, ett vittnebörd <char style="add">(hebr. edot)</char>, en psalm <char style="add">[sång ackompanjerad på strängar]</char>. Av <char style="add">(för)</char> Asaf.</para>
+  <para style="m" vid="PSA 80:1">Till liljorna <char style="add">(hebr. al-shoshannim) [en symbol för skönhet, kan syfta på en då känd melodi eller ett sexsträngat instrument]</char>, ett vittnesbörd <char style="add">(hebr. edot)</char>, en psalm <char style="add">[sång ackompanjerad på strängar]</char>. Av <char style="add">(för)</char> Asaf.</para>
   <para style="b" vid="PSA 80:1" />
   <para style="m" vid="PSA 80:1">
-    <char style="add">[Ordet llilja/liljor (hebr. shoshan) återfinns i titeln på fyra psalmer, se <char style="xt"><ref loc="PSA 45:1">Ps 45:1</ref>; <ref loc="PSA 60:1">60:1</ref>; <ref loc="PSA 69:1">69:1</ref></char>. I <char style="xt"><ref loc="PSA 60:1">Ps 60:1</ref></char> även i kombinationen med ordet vittnesbörd. Det kan tolkas att det är liljans vittnesbörd (som i <char style="xt"><ref loc="PSA 60:1">Ps 60:1</ref></char>) eller Asafs vittnesbörd. Asaf var en av lovsångsledarna i templet på Davids tid, se <char style="xt"><ref loc="1CH 16:5">1 Krön 16:5</ref></char>. Hans namn betyder ”en som samlar”. Han anges som författare till tolv psalmer, se <char style="xt"><ref loc="PSA 50">Ps 50</ref></char> och <char style="xt"><ref loc="PSA 73:-1-83">Ps 73-83</ref></char>.]</char></para>
+    <char style="add">[Ordet lilja/liljor (hebr. shoshan) återfinns i titeln på fyra psalmer, se <char style="xt"><ref loc="PSA 45:1">Ps 45:1</ref>; <ref loc="PSA 60:1">60:1</ref>; <ref loc="PSA 69:1">69:1</ref></char>. I <char style="xt"><ref loc="PSA 60:1">Ps 60:1</ref></char> även i kombinationen med ordet vittnesbörd. Det kan tolkas att det är liljans vittnesbörd (som i <char style="xt"><ref loc="PSA 60:1">Ps 60:1</ref></char>) eller Asafs vittnesbörd. Asaf var en av lovsångsledarna i templet på Davids tid, se <char style="xt"><ref loc="1CH 16:5">1 Krön 16:5</ref></char>. Hans namn betyder ”en som samlar”. Han anges som författare till tolv psalmer, se <char style="xt"><ref loc="PSA 50">Ps 50</ref></char> och <char style="xt"><ref loc="PSA 73:-1-83">Ps 73-83</ref></char>.]</char></para>
   <para style="qc" vid="PSA 80:1">______<verse eid="PSA 80:1" /></para>
   <para style="b" />
   <para style="m" />
@@ -9444,13 +9436,11 @@
     <char style="add">[Meriva är hebreiska för strid, provokation, tvist och gräl, se <char style="xt"><ref loc="PSA 95:8">Ps 95:8</ref>; <ref loc="PSA 106:32">106:32</ref>; <ref loc="EXO 17:1-7">2 Mos 17:1-7</ref>; <ref loc="NUM 20:1-13">4 Mos 20:1-13</ref></char>]</char></para>
   <para style="b" vid="PSA 81:8" />
   <para style="m" vid="PSA 81:8">Selah. <char style="add">[Antagligen ett avbrott för instrumentalt mellanspel, en paus för att begrunda vad som just har sjungits.]</char><verse eid="PSA 81:8" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="9" style="v" sid="PSA 81:9" />
     <char style="add">[B]</char></para>
   <para style="m" vid="PSA 81:9">Hör <char style="add">(lyssna, lyd)</char>, mitt folk, jag ska tillrättavisa er,</para>
   <para style="p" vid="PSA 81:9">O, Israel om du ville höra <char style="add">(lyssna på, lyda)</char> mig! <char style="add">[<char style="xt"><ref loc="EXO 15:26">2 Mos 15:26</ref></char>]</char><verse eid="PSA 81:9" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="10" style="v" sid="PSA 81:10" />
     <char style="add">[C]</char></para>
@@ -9479,7 +9469,6 @@
   <para style="m">
     <verse number="13" style="v" sid="PSA 81:13" />Så jag lät dem gå efter sina egna envisa hjärtan,</para>
   <para style="p" vid="PSA 81:13">så att de vandrar i sina egna rådslut.<verse eid="PSA 81:13" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="14" style="v" sid="PSA 81:14" />
     <char style="add">[B]</char></para>
@@ -9677,7 +9666,7 @@
   <chapter number="84" style="c" sid="PSA 84" />
   <para style="s1">Psalm 84 – Bättre en dag i dina gårdar</para>
   <para style="m">
-    <char style="add">[Psalmen utrycker längtan och bönen hos en pilgrim på väg mot templet i Jerusalem. </char></para>
+    <char style="add">[Psalmen uttrycker längtan och bönen hos en pilgrim på väg mot templet i Jerusalem. </char></para>
   <para style="p">
     <char style="add">Författare: Korachs söner </char></para>
   <para style="p">
@@ -9813,7 +9802,7 @@
   <para style="s2" vid="PSA 85:4">Klagan</para>
   <para style="m" vid="PSA 85:4" />
   <para style="m" vid="PSA 85:4">
-    <char style="add">[Vers 5-8 ramas in av ordet frälsning. Det hebreiska ordet är Jeshua. Vi anar också hur denna frälsning finns i Jesus, vars hebreiska namn är Jeshua. Fortfarande finns ordet ”tillbaka” med som ett ledmotiv, se vers 7.]</char><verse eid="PSA 85:4" /></para>
+    <char style="add">[Vers 5-8 ramas in av ordet frälsning. Det hebreiska ordet är Jeshua. Vi anar också hur denna frälsning finns i Jesus, vars hebreiska namn är jeshua. Fortfarande finns ordet ”tillbaka” med som ett ledmotiv, se vers 7.]</char><verse eid="PSA 85:4" /></para>
   <para style="b" />
   <para style="m">
     <verse number="5" style="v" sid="PSA 85:5" />Vänd åter <char style="add">(återupprätta oss)</char>, du vår frälsnings Gud <char style="add">(Elohim)</char>,</para>
@@ -9872,7 +9861,7 @@
   <para style="p">
     <char style="add">Struktur: </char></para>
   <para style="m">
-    <char style="add">Psalmen har ett kiastiskt mönster. Talet sju är också centralt. Adonaj används sju gånger. Jahveh används fyra gånger, vilket tillsammans med tre ”namn” blir sju. Hebreiska attah, översatt du/din, som ger eftertryck används sju gånger, se vers 2, 5, 10, 10, 12, 15, 17. Psalmen avslutas med sju imperativ i vers 16-17.]</char></para>
+    <char style="add">Psalmen har ett kiastiskt mönster. Talet sju är också centralt. Adonai används sju gånger. Jahveh används fyra gånger, vilket tillsammans med tre ”namn” blir sju. Hebreiska attah, översatt du/din, som ger eftertryck används sju gånger, se vers 2, 5, 10, 10, 12, 15, 17. Psalmen avslutas med sju imperativ i vers 16-17.]</char></para>
   <para style="b" />
   <para style="m">
     <verse number="1" style="v" sid="PSA 86:1" />En bön av <char style="add">(för)</char> David.</para>
@@ -9890,14 +9879,13 @@
   <para style="p" vid="PSA 86:2">fräls <char style="add">(rädda)</char> din tjänare som litar på dig.<verse eid="PSA 86:2" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="3" style="v" sid="PSA 86:3" />Visa nåd <char style="add">(oförtjänt kärlek)</char> mot mig, Herre <char style="add">(Adonaj)</char>,</para>
+    <verse number="3" style="v" sid="PSA 86:3" />Visa nåd <char style="add">(oförtjänt kärlek)</char> mot mig, Herre <char style="add">(Adonai)</char>,</para>
   <para style="p" vid="PSA 86:3">för till dig ropar jag <char style="add">(höjer jag min röst i bön)</char> hela dagen.<verse eid="PSA 86:3" /></para>
   <para style="m">
     <verse number="4" style="v" sid="PSA 86:4" />Din tjänares själ fröjdar sig <char style="add">(är glad)</char>,</para>
-  <para style="p" vid="PSA 86:4">för till dig, Herre <char style="add">(Adonaj)</char>, lyfter jag upp min själ.<verse eid="PSA 86:4" /></para>
-  <para style="b" />
+  <para style="p" vid="PSA 86:4">för till dig, Herre <char style="add">(Adonai)</char>, lyfter jag upp min själ.<verse eid="PSA 86:4" /></para>
   <para style="m">
-    <verse number="5" style="v" sid="PSA 86:5" />För du, Herre <char style="add">(Adonaj)</char>, är verkligen god och förlåtande,</para>
+    <verse number="5" style="v" sid="PSA 86:5" />För du, Herre <char style="add">(Adonai)</char>, är verkligen god och förlåtande,</para>
   <para style="p" vid="PSA 86:5">du visar stor nåd <char style="add">(kärleksfull omsorg; trofasthet)</char> till alla som ropar <char style="add">(åkallar, höjer sin röst i bön)</char> till dig.<verse eid="PSA 86:5" /></para>
   <para style="m">
     <verse number="6" style="v" sid="PSA 86:6" />Lyssna <char style="add">(vänd ditt öra)</char> till min bön, Herre <char style="add">(Jahveh)</char>,</para>
@@ -9908,10 +9896,10 @@
   <para style="p" vid="PSA 86:7">för du ska svara mig.<verse eid="PSA 86:7" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="8" style="v" sid="PSA 86:8" />Det finns ingen som kan jämföras med dig bland gudarna <char style="add">(elohim)</char>, Herre <char style="add">(Adonaj)</char>,</para>
+    <verse number="8" style="v" sid="PSA 86:8" />Det finns ingen som kan jämföras med dig bland gudarna <char style="add">(elohim)</char>, Herre <char style="add">(Adonai)</char>,</para>
   <para style="p" vid="PSA 86:8">de har inte ens några gärningar <char style="add">(de gör ingenting)</char>.<verse eid="PSA 86:8" /></para>
   <para style="m">
-    <verse number="9" style="v" sid="PSA 86:9" />Alla hednafolk som du har gjort ska komma och tillbe <char style="add">(falla ner inför)</char> dig, Herre <char style="add">(Adonaj)</char>,</para>
+    <verse number="9" style="v" sid="PSA 86:9" />Alla hednafolk som du har gjort ska komma och tillbe <char style="add">(falla ner inför)</char> dig, Herre <char style="add">(Adonai)</char>,</para>
   <para style="p" vid="PSA 86:9">och de ska ära ditt namn. <char style="add">[<char style="xt"><ref loc="REV 15:4">Upp 15:4</ref></char>]</char><verse eid="PSA 86:9" /></para>
   <para style="m">
     <verse number="10" style="v" sid="PSA 86:10" />För du är stor och gör stora under;</para>
@@ -9923,7 +9911,7 @@
   <para style="m" vid="PSA 86:11">Lär mig att helhjärtat vörda <char style="add">(frukta, ära)</char></para>
   <para style="p" vid="PSA 86:11">ditt namn <char style="add">(bind mitt hjärta vid ditt hjärta)</char>.<verse eid="PSA 86:11" /></para>
   <para style="m">
-    <verse number="12" style="v" sid="PSA 86:12" />Jag vill tacka <char style="add">(med öppna händer prisa)</char> dig, Herre <char style="add">(Adonaj)</char>, min Gud <char style="add">(Elohim)</char>, av hela mitt hjärta,</para>
+    <verse number="12" style="v" sid="PSA 86:12" />Jag vill tacka <char style="add">(med öppna händer prisa)</char> dig, Herre <char style="add">(Adonai)</char>, min Gud <char style="add">(Elohim)</char>, av hela mitt hjärta,</para>
   <para style="p" vid="PSA 86:12">och jag vill ära ditt namn för evigt.<verse eid="PSA 86:12" /></para>
   <para style="b" />
   <para style="m">
@@ -9934,7 +9922,7 @@
   <para style="p" vid="PSA 86:14">De har inte satt dig <char style="add">[Gud]</char> framför sig <char style="add">(gjort Herren till sin förebild och sitt rättesnöre för levernet)</char>.<verse eid="PSA 86:14" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="15" style="v" sid="PSA 86:15" />Men du, Herre <char style="add">(Adonaj)</char>, är en Gud <char style="add">(El)</char> som är</para>
+    <verse number="15" style="v" sid="PSA 86:15" />Men du, Herre <char style="add">(Adonai)</char>, är en Gud <char style="add">(El)</char> som är</para>
   <para style="q1" vid="PSA 86:15">barmhärtig <char style="add">(är nådig och har ett starkt känslomässigt band till oss)</char> och ger favör <char style="add">(generös i nåd)</char>,</para>
   <para style="q2" vid="PSA 86:15">sen till vrede</para>
   <para style="q1" vid="PSA 86:15">och överflödar i <char style="add">(är rik på)</char> nåd <char style="add">(omsorgsfull kärlek)</char> och sanning.</para>
@@ -10130,15 +10118,12 @@
   <para style="m">
     <verse number="3" style="v" sid="PSA 89:3" />Jag har sagt: ”För evigt är nåden <char style="add">(den omsorgsfulla kärleken)</char> skapad,</para>
   <para style="p" vid="PSA 89:3">i själva himlarna har du etablerat din trofasthet.<verse eid="PSA 89:3" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="4" style="v" sid="PSA 89:4" />Jag har gjort <char style="add">(ingått)</char> ett förbund med min utvalde,</para>
   <para style="p" vid="PSA 89:4">jag har svurit <char style="add">(gett mitt löfte till)</char> David, min tjänare.<verse eid="PSA 89:4" /></para>
   <para style="m">
     <verse number="5" style="v" sid="PSA 89:5" />För evigt ska jag låta din säd <char style="add">(dina avkomlingar, ättlingar)</char> bestå,</para>
-  <para style="p" vid="PSA 89:5">och bygga upp din tron i alla släktled <char style="add">(generationer)</char>.</para>
-  <para style="m" vid="PSA 89:5">
-    <char style="add">[<char style="xt"><ref loc="PSA 89:2">Ps 89:2</ref>; <ref loc="PSA 72">72</ref>; <ref loc="PSA 78:70-72">78:70-72</ref>; <ref loc="2SA 7:11-16">2 Sam 7:11-16</ref>; <ref loc="1CH 17:10-14">1 Krön 17:10-14</ref></char>]</char></para>
+  <para style="p" vid="PSA 89:5">och bygga upp din tron i alla släktled <char style="add">(generationer)</char>. <char style="add">[<char style="xt"><ref loc="PSA 89:2">Ps 89:2</ref>; <ref loc="PSA 72">72</ref>; <ref loc="PSA 78:70-72">78:70-72</ref>; <ref loc="2SA 7:11-16">2 Sam 7:11-16</ref>; <ref loc="1CH 17:10-14">1 Krön 17:10-14</ref></char>]</char></para>
   <para style="b" vid="PSA 89:5" />
   <para style="m" vid="PSA 89:5">Selah. <char style="add">[Antagligen ett avbrott för instrumentalt mellanspel, en paus för att begrunda vad som just har sjungits.]</char><verse eid="PSA 89:5" /></para>
   <para style="b" />
@@ -10325,10 +10310,10 @@
   <para style="m" vid="PSA 89:49">Selah. <char style="add">[Antagligen ett avbrott för instrumentalt mellanspel, en paus för att begrunda vad som just har sjungits.]</char><verse eid="PSA 89:49" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="50" style="v" sid="PSA 89:50" />Var är din tidigare nåd <char style="add">(omsorgsfulla kärlek)</char>, Herre <char style="add">(Adonaj)</char>,</para>
+    <verse number="50" style="v" sid="PSA 89:50" />Var är din tidigare nåd <char style="add">(omsorgsfulla kärlek)</char>, Herre <char style="add">(Adonai)</char>,</para>
   <para style="p" vid="PSA 89:50">som du i din trofasthet svor <char style="add">(gav din ed på)</char> till David?<verse eid="PSA 89:50" /></para>
   <para style="m">
-    <verse number="51" style="v" sid="PSA 89:51" />Herre <char style="add">(Adonaj)</char>, kom ihåg hånet mot din tjänare,</para>
+    <verse number="51" style="v" sid="PSA 89:51" />Herre <char style="add">(Adonai)</char>, kom ihåg hånet mot din tjänare,</para>
   <para style="p" vid="PSA 89:51">hur jag bar så många människors hån i min famn,<verse eid="PSA 89:51" /></para>
   <para style="m">
     <verse number="52" style="v" sid="PSA 89:52" />hur dina fiender har hånat, Herre <char style="add">(Jahveh)</char>,</para>
@@ -10376,7 +10361,7 @@
   <para style="m" vid="PSA 90:1">
     <char style="add">[Vers 1b-2 formar en kiasm som ramas in av ”du”, följt av generation/evighet och centralt jorden.]</char></para>
   <para style="b" vid="PSA 90:1" />
-  <para style="m" vid="PSA 90:1">Du, Herre <char style="add">(Adonaj)</char>, har varit vår tillflyktsplats</para>
+  <para style="m" vid="PSA 90:1">Du, Herre <char style="add">(Adonai)</char>, har varit vår tillflyktsplats</para>
   <para style="b" vid="PSA 90:1" />
   <para style="m" vid="PSA 90:1">från generation till generation.<verse eid="PSA 90:1" /></para>
   <para style="b" />
@@ -10418,7 +10403,7 @@
   <para style="p" vid="PSA 90:10">de är snabbt förbi och vi flyger bort.</para>
   <para style="b" vid="PSA 90:10" />
   <para style="m" vid="PSA 90:10">
-    <char style="add">[Hebreiska ordet stolthet rohav är ovanligt, det kommer från verbet ”att storma” och har betydelsen av att vara högmodig och arrogant uppblåst. Här finns också liknelsen att livet är som oväder som snabbt drar in och hastigt försvinner. Se även <char style="xt"><ref loc="ECC 1:2">Pred 1:2</ref></char>.]</char><verse eid="PSA 90:10" /></para>
+    <char style="add">[Hebreiska ordet stolthet rohav är ovanligt, det kommer från verbet ”att storma” och har betydelsen av att vara högmodig och arrogant uppblåst. Här finns också liknelsen att livet är som oväder som snabbt drar in och hastigt försvinner. Se även <char style="xt"><ref loc="ECC 1:2">Pred 1:2</ref></char>. Mose levde 120 år (<char style="xt"><ref loc="DEU 31:2">5 Mos 31:2</ref></char>) och Kaleb 110 år (<char style="xt"><ref loc="JOS 24:29">Jos 24:29</ref></char>). Intervallet 70-80 år syftar troligtvis på israeliterna som inte lyssnade till Kaleb och Josua (<char style="xt"><ref loc="NUM 13:31-32">4 Mos 13:31-32</ref>; <ref loc="NUM 14:29-30">14:29-30</ref></char>) och dog i öknen, se vers 8-9.]</char><verse eid="PSA 90:10" /></para>
   <para style="b" />
   <para style="m">
     <verse number="11" style="v" sid="PSA 90:11" />Vem känner kraften i ditt raseri, och din vrede,</para>
@@ -10440,7 +10425,7 @@
     <verse number="16" style="v" sid="PSA 90:16" />Låt ditt verk <char style="add">(det du gör)</char> bli synligt för dina tjänare,</para>
   <para style="p" vid="PSA 90:16">och din härlighet över dina söner <char style="add">(barn)</char>.<verse eid="PSA 90:16" /></para>
   <para style="m">
-    <verse number="17" style="v" sid="PSA 90:17" />Låt din nåd <char style="add">(ditt välbehag, din favör)</char>, Herre <char style="add">(Adonaj)</char>, vår Gud <char style="add">(Elohim)</char>, komma över oss.</para>
+    <verse number="17" style="v" sid="PSA 90:17" />Låt din nåd <char style="add">(ditt välbehag, din favör)</char>, Herre <char style="add">(Adonai)</char>, vår Gud <char style="add">(Elohim)</char>, komma över oss.</para>
   <para style="p" vid="PSA 90:17">Upprätta över oss våra händers arbete,</para>
   <para style="p" vid="PSA 90:17">ja, våra händers arbete, må du upprätta det.</para>
   <para style="m" vid="PSA 90:17">
@@ -10993,7 +10978,7 @@
   <para style="p" vid="PSA 97:4">jorden ser det och bävar <char style="add">[folken blir skräckslagna]</char>.<verse eid="PSA 97:4" /></para>
   <para style="m">
     <verse number="5" style="v" sid="PSA 97:5" />Bergen smälter som vax inför Herren <char style="add">(Jahveh)</char>,</para>
-  <para style="p" vid="PSA 97:5">inför hela jordens Herre <char style="add">(Adonaj)</char>.<verse eid="PSA 97:5" /></para>
+  <para style="p" vid="PSA 97:5">inför hela jordens Herre <char style="add">(Adonai)</char>.<verse eid="PSA 97:5" /></para>
   <para style="s2">Respons</para>
   <para style="m">
     <verse number="6" style="v" sid="PSA 97:6" />Himlarna berättar om hans rättfärdighet,</para>
@@ -11151,12 +11136,12 @@
   <para style="p">
     <char style="add">Författare: Okänd </char></para>
   <para style="p">
-    <char style="add">Struktur: Psalmen har två sektioner som är parallella. Fyra imperativ i vers 1-3a leder fram till en orsak för att prisa Gud i vers 3bc. Sedan kommer på nytt tre imperativ i vers 4 som leder fram till slutsatsen i vers 5 att Gud är god och att hans nåd varar för evigt. </char></para>
+    <char style="add">Struktur: Psalmen har två sektioner som är parallella. Fyra imperativ i vers 1a-3b leder fram till en orsak för att prisa Gud i vers 3b. Sedan kommer på nytt tre imperativ i vers 4 som leder fram till slutsatsen i vers 5 att Gud är god och att hans nåd varar för evigt. </char></para>
   <para style="b" />
   <para style="m">
-    <char style="add">1. Uppmaningar att prisa, vers 1-3a </char></para>
+    <char style="add">1. Uppmaningar att prisa, vers 1b-3a </char></para>
   <para style="m">
-    <char style="add">2. ... för vi är hans folk, vers 3bc </char></para>
+    <char style="add">2. ... för vi är hans folk, vers 3b </char></para>
   <para style="m">
     <char style="add">3. Uppmaningar att prisa, vers 4 </char></para>
   <para style="m">
@@ -11375,7 +11360,7 @@
   <para style="p" vid="PSA 102:14">för det är tid att visa nåd <char style="add">(oförtjänt kärlek; favör)</char> mot henne,</para>
   <para style="p" vid="PSA 102:14">för hennes bestämda tid har kommit.<verse eid="PSA 102:14" /></para>
   <para style="m">
-    <verse number="15" style="v" sid="PSA 102:15" />Dina tjänare har sitt behag i hennes stenar</para>
+    <verse number="15" style="v" sid="PSA 102:15" />Dina tjänare har sitt behag i hennes stenar <char style="add">[Jerusalems ruiner]</char></para>
   <para style="p" vid="PSA 102:15">och visar oförtjänt nåd mot hennes stoft <char style="add">[grus]</char>.<verse eid="PSA 102:15" /></para>
   <para style="m">
     <verse number="16" style="v" sid="PSA 102:16" />Nationerna <char style="add">(länderna, hedningarna)</char> fruktar <char style="add">(vördar)</char> Herrens <char style="add">(Jahvehs)</char> namn,</para>
@@ -11387,8 +11372,8 @@
     <verse number="18" style="v" sid="PSA 102:18" />när han har sett de utblottades böner,</para>
   <para style="p" vid="PSA 102:18">och inte föraktat deras böner.<verse eid="PSA 102:18" /></para>
   <para style="m">
-    <verse number="19" style="v" sid="PSA 102:19" />Detta ska skrivas för kommande generationer,</para>
-  <para style="p" vid="PSA 102:19">och ett folk som ska skapas för att prisa Herren <char style="add">(Jah, kortformen av Guds namn)</char>.<verse eid="PSA 102:19" /></para>
+    <verse number="19" style="v" sid="PSA 102:19" />Detta <char style="add">[hur Gud har gripit in, se vers 14, 17-18]</char> ska skrivas <char style="add">[låt det bli skivet]</char> för en kommande generation <char style="add">[<char style="xt"><ref loc="PSA 22:31">Ps 22:31</ref></char>]</char>,</para>
+  <para style="p" vid="PSA 102:19">och ett folk som ska skapas <char style="add">[<char style="xt"><ref loc="EZK 37">Hes 37</ref>; <ref loc="EPH 2:10">Ef 2:10</ref></char>]</char> för att prisa Herren <char style="add">(Jah) [kortformen av Guds namn]</char>.<verse eid="PSA 102:19" /></para>
   <para style="m">
     <verse number="20" style="v" sid="PSA 102:20" />För han har sett ner från sin helgedom i höjden,</para>
   <para style="p" vid="PSA 102:20">från himlarna har Herren <char style="add">(Jahveh)</char> skådat ner på jorden,<verse eid="PSA 102:20" /></para>
@@ -11745,7 +11730,7 @@
   <para style="m" vid="PSA 105:4">
     <char style="add">[I hebreiskan används två olika hebreiska verb (darash och baqash) som översatts ”fråga efter” och ”sök”. Ordet darash beskriver ett noggrant sökande och består av tre bokstäver: dalet, resh och shin. De hebreiska piktogrammen förstärker ordens betydelse. Bokstaven dalet avbildar en dörr och har ofta att göra med val och beslut. resh beskriver framsidan av ett huvud och den sista bokstaven, shin, föreställer en tand, dvs. något som krossar. Ordet darash låter oss förstå att det handlar om ett aktivt vägval där man söker Guds ansikte och hans kraft. I ordet finns också betydelsen att ofta besöka och vistas hos Gud för att konsultera honom. </char></para>
   <para style="p" vid="PSA 105:4">
-    <char style="add">Ordet baqash har också tre bokstäver: Bet, qof och shin. Den sista bokstaven, shin, illustrerar Guds kraft precis som i darash. bet är en bild på ett hus och qof utgör baksidan av ett huvud. Baqash skildrar ett sökande som utgår från en hemvist i huset och som därmed har Guds perspektiv på tillvaron. Ordningen spelar roll. Det första steget är att söka efter Herren och hans styrka, som är frälsningen, se <char style="xt"><ref loc="PSA 3:9">Ps 3:9</ref></char>. Utifrån den positionen är sedan bönen att få vara kvar i Guds närvaro. </char></para>
+    <char style="add">Ordet baqash har också tre bokstäver: Bet, qof och shin. Den sista bokstaven, shin, illustrerar Guds kraft precis som i darash. Bet är en bild på ett hus och qof utgör baksidan av ett huvud. Baqash skildrar ett sökande som utgår från en hemvist i huset och som därmed har Guds perspektiv på tillvaron. Ordningen spelar roll. Det första steget är att söka efter Herren och hans styrka, som är frälsningen, se <char style="xt"><ref loc="PSA 3:9">Ps 3:9</ref></char>. Utifrån den positionen är sedan bönen att få vara kvar i Guds närvaro. </char></para>
   <para style="p" vid="PSA 105:4">
     <char style="add">Den ursprungliga innebörden av det sista hebreiska ordet som översatts ”ständigt” kommer från verbet ”att sträcka” eller ”att tänja” dvs. att konstant, ideligen, alltid och för evigt söka Gud. I denna vers finns tre begrepp – Herren, hans ansikte och hans kraft. Dessa hör ihop. Om Gud själv vänder sitt ansikte till oss, vem kan då vara emot oss, se <char style="xt"><ref loc="NUM 6:26">4 Mos 6:26</ref>; <ref loc="ROM 8:31">Rom 8:31</ref></char>.]</char><verse eid="PSA 105:4" /></para>
   <para style="b" />
@@ -11768,7 +11753,7 @@
   <para style="p" vid="PSA 105:9">och eden som han gav Isak.</para>
   <para style="b" vid="PSA 105:9" />
   <para style="m" vid="PSA 105:9">
-    <char style="add">[Förbundet är ett blodsförbund, <char style="xt"><ref loc="GEN 15">1 Mos 15</ref>; <ref loc="GEN 17:23">17:23</ref>; <ref loc="GEN 26:3-5">26:3-5</ref></char> och i hebreiskan är uttrycket alltid att man ”skär ett förbund” det pekar fram på Jesus som när han gav oss det Nya förbundet gjorde det med sina sår och genom att utgjuta sitt blod för oss.]</char><verse eid="PSA 105:9" /></para>
+    <char style="add">[Förbundet är ett blodsförbund, <char style="xt"><ref loc="GEN 15">1 Mos 15</ref>; <ref loc="GEN 17:23">17:23</ref>; <ref loc="GEN 26:3-5">26:3-5</ref></char> och i hebreiskan är uttrycket alltid att man ”skär ett förbund” det pekar fram på Jesus som när han gav oss det förnyade förbundet gjorde det med sina sår och genom att utgjuta sitt blod för oss.]</char><verse eid="PSA 105:9" /></para>
   <para style="b" />
   <para style="m">
     <verse number="10" style="v" sid="PSA 105:10" />Han har bekräftat det till Jakob som en förordning <char style="add">(hebr. choq)</char>,</para>
@@ -12502,7 +12487,7 @@
     <verse number="20" style="v" sid="PSA 109:20" />Detta ska mina motståndare få erfara från Herren <char style="add">(Jahveh)</char>,</para>
   <para style="p" vid="PSA 109:20">dem som talar ont mot min själ.<verse eid="PSA 109:20" /></para>
   <para style="m">
-    <verse number="21" style="v" sid="PSA 109:21" />Men du, Herre <char style="add">(Jahveh)</char>, Herre <char style="add">(Adonaj)</char>, handla med mig för ditt namns skull,</para>
+    <verse number="21" style="v" sid="PSA 109:21" />Men du, Herre <char style="add">(Jahveh)</char>, Herre <char style="add">(Adonai)</char>, handla med mig för ditt namns skull,</para>
   <para style="p" vid="PSA 109:21">eftersom din nåd <char style="add">(omsorgsfulla kärlek)</char> är god, rädda <char style="add">(lyft upp)</char> mig du,<verse eid="PSA 109:21" /></para>
   <para style="m">
     <verse number="22" style="v" sid="PSA 109:22" />för jag är betryckt <char style="add">(ansatt)</char> och fattig <char style="add">[helt beroende av dig, Gud]</char></para>
@@ -12554,7 +12539,7 @@
     <verse number="1" style="v" sid="PSA 110:1" />Av David, en psalm <char style="add">[sång ackompanjerad på strängar]</char>.</para>
   <para style="qc" vid="PSA 110:1">______</para>
   <para style="b" vid="PSA 110:1" />
-  <para style="m" vid="PSA 110:1">Herren <char style="add">(Jahveh) [Gud Fadern]</char> förkunnar <char style="add">(säger, proklamerar) [profetiskt]</char> till min Herre <char style="add">(Adonaj) [Guds Son – Jesus]</char>:</para>
+  <para style="m" vid="PSA 110:1">Herren <char style="add">(Jahveh) [Gud Fadern]</char> förkunnar <char style="add">(säger, proklamerar) [profetiskt]</char> till min Herre <char style="add">(Adonai) [Guds Son – Jesus]</char>:</para>
   <para style="p" vid="PSA 110:1">”Sitt på min högra sida tills jag lagt dina fiender</para>
   <para style="p" vid="PSA 110:1">under dina fötter <char style="add">(tills de blivit din fotpall)</char>.”<verse eid="PSA 110:1" /></para>
   <para style="b" />
@@ -12909,7 +12894,7 @@
     <char style="add">[Genom dessa frågor förstärks nu slutsatsen som de leder fram till:]</char><verse eid="PSA 114:6" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="7" style="v" sid="PSA 114:7" />Bäva inför <char style="add">(i närvaro av)</char> Herren <char style="add">(Adonaj, fokus på Guds storhet och makt)</char>,</para>
+    <verse number="7" style="v" sid="PSA 114:7" />Bäva inför <char style="add">(i närvaro av)</char> Herren <char style="add">(Adonai, fokus på Guds storhet och makt)</char>,</para>
   <para style="p" vid="PSA 114:7">du jord, bäva inför Jakobs Gud <char style="add">(Eloha) [Elohim i singular – den ende Guden]</char>,<verse eid="PSA 114:7" /></para>
   <para style="m">
     <verse number="8" style="v" sid="PSA 114:8" />han som förvandlar <char style="add">(då förvandlade och fortfarande förvandlar)</char> klippan till en vattenrik sjö,</para>
@@ -13334,7 +13319,7 @@
   <para style="p">
     <char style="add">Författare: Okänd </char></para>
   <para style="p">
-    <char style="add">Struktur: Alfabetisk – Åtta verser för varje bokstav. Här finner vi en kiastisk struktur i sju steg där varje sektion består av tre bokstäver, förutom den i mitten som har fyra. Psalmen har ibland kallats Menorah-psalmen, då ljusstaken i templet, menoran, är dekorerad med 22 mandelblommor som har samma strukturella mönster: tre på de sex grenar som sträcker sig från lampstaken och fyra på den centrala, se <char style="xt"><ref loc="EXO 25:31-40">2 Mos 25:31-40</ref></char>. </char></para>
+    <char style="add">Struktur: Alfabetisk – Åtta verser för varje bokstav. Här finner vi en kiastisk struktur i sju steg där varje sektion består av tre bokstäver, förutom den i mitten som har fyra. Psalmen har ibland kallats Menora-psalmen, då ljusstaken i templet, menoran, är dekorerad med 22 mandelblommor som har samma strukturella mönster: tre på de sex grenar som sträcker sig från lampstaken och fyra på den centrala, se <char style="xt"><ref loc="EXO 25:31-40">2 Mos 25:31-40</ref></char>. </char></para>
   <para style="p">
     <char style="add">א – alef, vers 1-8 </char></para>
   <para style="m">
@@ -13499,12 +13484,10 @@
     <verse number="18" style="v" sid="PSA 119:18" />
     <char style="bd">Avtäck</char> <char style="add">(öppna)</char> mina ögon,</para>
   <para style="p" vid="PSA 119:18">så jag kan se det underbara <char style="add">(undren, allt fantastiskt) [ordet är i plural]</char> i din undervisning <char style="add">(Torah)</char>. <char style="add">[<char style="xt"><ref loc="ACT 9:18">Apg 9:18</ref></char>]</char><verse eid="PSA 119:18" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="19" style="v" sid="PSA 119:19" />
     <char style="bd">En resenär</char> <char style="add">(främling)</char> på jorden <char style="add">[det är inte mitt hemland]</char> är jag –</para>
   <para style="p" vid="PSA 119:19">göm inte dina budord <char style="add">(hebr. mitzvot)</char> från mig.<verse eid="PSA 119:19" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="20" style="v" sid="PSA 119:20" />
     <char style="bd">Krossad</char> <char style="add">(förtärd; på väg att gå sönder)</char> är min själ <char style="add">(hela min person)</char>,</para>
@@ -13522,7 +13505,6 @@
     <verse number="22" style="v" sid="PSA 119:22" />
     <char style="bd">Ta bort</char> <char style="add">(rulla undan)</char> från mig hån och förakt,</para>
   <para style="p" vid="PSA 119:22">för jag har hållit <char style="add">(vaktat, skyddat, bevarat)</char> dina vittnesbörd <char style="add">(hebr. edot)</char>.<verse eid="PSA 119:22" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="23" style="v" sid="PSA 119:23" />
     <char style="bd">Även</char> då furstar sitter och talar emot mig,</para>
@@ -13542,7 +13524,6 @@
   <para style="m">
     <verse number="25" style="v" sid="PSA 119:25" />Min själ <char style="bd">hålls fast</char> i <char style="add">(är limmad mot – hebr. dabaq)</char> stoftet <char style="add">[denna världen, det mänskliga; är så gott som död]</char>,</para>
   <para style="p" vid="PSA 119:25">skynda till mig i enlighet med ditt ord <char style="add">(hebr. davar)</char>.<verse eid="PSA 119:25" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="26" style="v" sid="PSA 119:26" />Jag återberättar om mina <char style="bd">vägar</char> och du svarar mig –</para>
   <para style="p" vid="PSA 119:26">lär <char style="add">(undervisa)</char> mig dina förordningar <char style="add">(hebr. chuqim)</char>.<verse eid="PSA 119:26" /></para>
@@ -13670,17 +13651,14 @@
     <verse number="49" style="v" sid="PSA 119:49" />
     <char style="bd">Kom ihåg</char> ditt ord <char style="add">(hebr. davar)</char> till din tjänare,</para>
   <para style="p" vid="PSA 119:49">eftersom du har gett mig hopp.<verse eid="PSA 119:49" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="50" style="v" sid="PSA 119:50" />
     <char style="bd">Detta</char> är min tröst <char style="add">(förändring från sorg till tröst)</char> i min bedrövelse:</para>
   <para style="p" vid="PSA 119:50">att ditt löftesord <char style="add">(hebr. imrah)</char> har återupplivat mig <char style="add">(bevarat; gett mig nytt liv)</char>.<verse eid="PSA 119:50" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="51" style="v" sid="PSA 119:51" />
     <char style="bd">De stolta</char> <char style="add">[högmodiga människor som föraktar Gud]</char> hånar mig mycket,</para>
   <para style="p" vid="PSA 119:51">men jag viker inte av från din undervisning <char style="add">(Torah)</char>.<verse eid="PSA 119:51" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="52" style="v" sid="PSA 119:52" />
     <char style="bd">Jag kommer ihåg</char> dina påbud <char style="add">(hebr. mishpat)</char></para>
@@ -13706,11 +13684,7 @@
   <para style="p" vid="PSA 119:55">och håller fast vid <char style="add">(beskyddar, vakar över)</char> din undervisning <char style="add">(Torah)</char>.</para>
   <para style="b" vid="PSA 119:55" />
   <para style="m" vid="PSA 119:55">
-    <char style="add">[Psalmisten kommer ihåg Guds namn. Ett namn är mer än bara några bokstäver. Till skillnad från en titel så beskriver namnet hela personen med allt vad den är. Natten kan bokstavligt syfta på tider av oro med sömnlösa nätter då tankarna snurrar. Natt kan också bildligt syfta på mörka perioder i livet. Det finns många olika ord för svårigheter, både bildliga och konkreta. Ett annat ord är trångmål, som ordagrant är en ”trång passage”, se <char style="xt"><ref loc="PSA 118:5">Ps 118:5</ref></char>. Det är en sak att veta omfattningen av ett problem och kämpa sig igenom en trång passage, men i natten är det svårt att ens veta riktningen, okända faror kan lura och vägen framåt är inte tydlig. Mitt i detta mörka kaos håller psalmisten fast vid Torah. Ordet Torah kommer från verbet jarah som har betydelsen att kasta (som en pil) eller att skjuta iväg något. Torah visar på en riktning och ger vägledning. Guds ord är också en lykta, se <char style="xt"><ref loc="PSA 119:105">Ps 119:105</ref></char>.]</char><verse eid="PSA 119:55" /></para>
-  <para style="b" />
-  <para style="m">
-    <verse number="56" style="v" sid="PSA 119:56" />
-    <char style="bd">Detta</char> har jag <char style="add">(kan tillgodoräkna mig)</char>:</para>
+    <char style="add">[Psalmisten kommer ihåg Guds namn. Ett namn är mer än bara några bokstäver. Till skillnad från en titel så beskriver namnet hela personen med allt vad den är. Natten kan bokstavligt syfta på tider av oro med sömnlösa nätter då tankarna snurrar. Natt kan också bildligt syfta på mörka perioder i livet. Det finns många olika ord för svårigheter, både bildliga och konkreta. Ett annat ord är trångmål, som ordagrant är en ”trång passage”, se <char style="xt"><ref loc="PSA 118:5">Ps 118:5</ref></char>. Det är en sak att veta omfattningen av ett problem och kämpa sig igenom en trång passage, men i natten är det svårt att ens veta riktningen, okända faror kan lura och vägen framåt är inte tydlig. Mitt i detta mörka kaos håller psalmisten fast vid Torah. Ordet Torah kommer från verbet jarah som har betydelsen att kasta (som en pil) eller att skjuta iväg något. Torah visar på en riktning och ger vägledning. Guds ord är också en lykta, se <char style="xt"><ref loc="PSA 119:105">Ps 119:105</ref></char>.]</char> <verse eid="PSA 119:55" /><verse number="56" style="v" sid="PSA 119:56" /><char style="bd">Detta</char> har jag <char style="add">(kan tillgodoräkna mig)</char>:</para>
   <para style="p" vid="PSA 119:56">att jag har hållit <char style="add">(ordagrant: låtit växa som en grönt skott, dvs. bevarat)</char> dina föreskrifter <char style="add">(påbud, uppdrag – hebr. piqudim)</char>.</para>
   <para style="s2" vid="PSA 119:56">ח – chet</para>
   <para style="m" vid="PSA 119:56" />
@@ -13759,14 +13733,12 @@
     <verse number="65" style="v" sid="PSA 119:65" />
     <char style="bd">Väl</char> <char style="add">(gott)</char> har du behandlat din tjänare, Herre <char style="add">(Jahveh)</char>,</para>
   <para style="p" vid="PSA 119:65">i enlighet med ditt ord <char style="add">(hebr. davar)</char>.<verse eid="PSA 119:65" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="66" style="v" sid="PSA 119:66" />
     <char style="bd">Gott</char> omdöme <char style="add">(ordagrant: ”god smak”)</char> och kunskap <char style="add">(förståelse, vishet)</char> – lär mig det,</para>
   <para style="p" vid="PSA 119:66">för jag tror på dina budord <char style="add">(hebr. mitzvot)</char>.</para>
   <para style="m" vid="PSA 119:66">
     <char style="add">[Lär mig att skilja mellan vad som är moraliskt rätt och fel. Se även <char style="xt"><ref loc="PHP 1:9">Fil 1:9</ref></char>.]</char><verse eid="PSA 119:66" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="67" style="v" sid="PSA 119:67" />
     <char style="bd">Innan</char> jag var ödmjukad <char style="add">(fick lida)</char> gick jag vilse <char style="add">(irrade jag mållöst, syndade jag omedvetet)</char>,</para>
@@ -13774,7 +13746,6 @@
   <para style="b" vid="PSA 119:67" />
   <para style="m" vid="PSA 119:67">
     <char style="add">[Ödmjukad (hebr. anah) återkommer också i vers 71a och ramar in vers 68-70. Här i vers 67 är det vanliga hebreiska formen qal, medan i vers 71 är det pual – den passiva formen. Något eller någon har ödmjukat psalmisten, om det är Gud eller de stolta framgår inte, men bakom allt detta står en god Gud som gör gott, se även <char style="xt"><ref loc="MAT 6:13">Matt 6:13</ref>; <ref loc="JAS 1:2-3">Jak 1:2-3</ref></char>.]</char><verse eid="PSA 119:67" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="68" style="v" sid="PSA 119:68" />
     <char style="bd">God</char> är du – och du gör gott,</para>
@@ -13868,14 +13839,10 @@
   <para style="m">
     <verse number="86" style="v" sid="PSA 119:86" />
     <char style="bd">Alla</char> dina budord <char style="add">(hebr. mitzvot)</char> är trofasta,</para>
-  <para style="b" vid="PSA 119:86" />
-  <para style="m" vid="PSA 119:86">de <char style="add">[ogudaktiga, se vers 85]</char> förföljer mig för ingenting,</para>
-  <para style="b" vid="PSA 119:86" />
-  <para style="m" vid="PSA 119:86">hjälp mig du.<verse eid="PSA 119:86" /></para>
-  <para style="b" />
-  <para style="m">
+  <para style="q1" vid="PSA 119:86">de <char style="add">[ogudaktiga, se vers 85]</char> förföljer mig för ingenting,</para>
+  <para style="q2" vid="PSA 119:86">hjälp mig du.<verse eid="PSA 119:86" /></para>
+  <para style="q1">
     <verse number="87" style="v" sid="PSA 119:87" />De har <char style="bd">nästan</char> förtärt <char style="add">(utplånat – hebr. kalal)</char> mig på jorden,</para>
-  <para style="b" vid="PSA 119:87" />
   <para style="m" vid="PSA 119:87">men för min del har jag inte försakat något av dina föreskrifter <char style="add">(påbud, uppdrag – hebr. piqudim)</char>.<verse eid="PSA 119:87" /></para>
   <para style="b" />
   <para style="m">
@@ -14056,7 +14023,6 @@
     <verse number="123" style="v" sid="PSA 119:123" />
     <char style="bd">Mina ögon</char> trånar efter din frälsning <char style="add">(räddning)</char></para>
   <para style="p" vid="PSA 119:123">och efter ditt rättfärdiga löftesord <char style="add">(hebr. imrah)</char>.<verse eid="PSA 119:123" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="124" style="v" sid="PSA 119:124" />
     <char style="bd">Handla</char> <char style="add">(gör)</char> med din tjänare i enlighet med din nåd <char style="add">(omsorgsfulla kärlek)</char></para>
@@ -14100,7 +14066,6 @@
   <para style="b" vid="PSA 119:130" />
   <para style="m" vid="PSA 119:130">
     <char style="add">[Hebr. petach betyder ”öppning” och kommer från verbet ”att öppna”. Att glänta på och avslöja ryms också i ordets betydelse här. När Guds ord förstås och förklaras ger det ljus som när en stängd port öppnas, se <char style="xt"><ref loc="LUK 24:27">Luk 24:27</ref>, <ref loc="LUK 24:31">31</ref>; <ref loc="ACT 17:3">Apg 17:3</ref>; <ref loc="EPH 1:18">Ef 1:18</ref></char>. Ljus är en symbol på uppenbarelse men också förknippat med välsignelse, se <char style="xt"><ref loc="PSA 97:11">Ps 97:11</ref>; <ref loc="PSA 112:4">112:4</ref>; <ref loc="PSA 118:27">118:27</ref></char>, något som också förstärks med det kiastiska mönstret då denna vers tematiskt hör ihop med vers 135.]</char><verse eid="PSA 119:130" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="131" style="v" sid="PSA 119:131" />
     <char style="bd">Jag öppnar min mun</char> på vid gavel och flämtar,</para>
@@ -14214,7 +14179,7 @@
   <para style="s2" vid="PSA 119:152">ר – resh</para>
   <para style="m" vid="PSA 119:152" />
   <para style="m" vid="PSA 119:152">
-    <char style="add">[Den tjugonde hebreiska bokstaven är: ר – resh. Talvärdet är 200. Tecknet avbildar ett huvud från sidan och symboliserar förmågan att se. Önskan att Gud ska ”se” ramar in stycket, se vers 153 och vers 159, där det står i imperativ; ordet återfinns även i vers 158. Tre gånger återfinns också frasen ”ge mig liv”, se vers 154, 156, 159. Jämfört med föregående bokstav ”Qof”, som avbildade baksidan av ett huvud, förstärker resh här hur Gud ska vända sitt ansikte mot psalmisten och se och vara närvarande!]</char><verse eid="PSA 119:152" /></para>
+    <char style="add">[Den tjugonde hebreiska bokstaven är: ר – resh. Talvärdet är 200. Tecknet avbildar ett huvud från sidan och symboliserar förmågan att se. Önskan att Gud ska ”se” ramar in stycket, se vers 153 och vers 159, där det står i imperativ; ordet återfinns även i vers 158. Tre gånger återfinns också frasen ”ge mig liv”, se vers 154, 156, 159. Jämfört med föregående bokstav qof, som avbildade baksidan av ett huvud, förstärker resh här hur Gud ska vända sitt ansikte mot psalmisten och se och vara närvarande!]</char><verse eid="PSA 119:152" /></para>
   <para style="b" />
   <para style="m">
     <verse number="153" style="v" sid="PSA 119:153" />
@@ -14277,20 +14242,20 @@
   <para style="p" vid="PSA 119:164">för dina rättfärdiga domar <char style="add">(hebr. mishpatim)</char>.</para>
   <para style="b" vid="PSA 119:164" />
   <para style="m" vid="PSA 119:164">
-    <char style="add">[Talet sju kan beskriva sju bönetillfällen om dagen, även om tre är vanligare, se även <char style="xt"><ref loc="PSA 55:18">Ps 55:18</ref></char>. Troligare är dock att sju står för fulländning och helhet – dvs. kontinuerlig bön och tacksamhet till Gud. Anledningen till att det hebreiska ordet för sju, Sheva, används just här kan också vara för att uppmärksamma läsaren på nästa vers som består av just sju ord (detta är enda förekomsten i hela Psaltaren). Även i hela stycket för shin anas en fin struktur med 3 verser på vardera sida om vers 164-165 som formar en central enhet.]</char><verse eid="PSA 119:164" /></para>
+    <char style="add">[Talet sju kan beskriva sju bönetillfällen om dagen, även om tre är vanligare, se även <char style="xt"><ref loc="PSA 55:18">Ps 55:18</ref></char>. Troligare är dock att sju står för fulländning och helhet – dvs. kontinuerlig bön och tacksamhet till Gud. Anledningen till att det hebreiska ordet för sju, sheva, används just här kan också vara för att uppmärksamma läsaren på nästa vers som består av just sju ord (detta är enda förekomsten i hela Psaltaren). Även i hela stycket för shin anas en fin struktur med 3 verser på vardera sida om vers 164-165 som formar en central enhet.]</char><verse eid="PSA 119:164" /></para>
   <para style="b" />
   <para style="m">
     <verse number="165" style="v" sid="PSA 119:165" />
     <char style="bd">Frid</char> <char style="add">(hebr. shalom – fred, helhet och harmoni på alla områden)</char></para>
-  <para style="p" vid="PSA 119:165">som är stor</para>
+  <para style="q1" vid="PSA 119:165">som är stor</para>
   <para style="q2" vid="PSA 119:165">har de som älskar</para>
   <para style="q3" vid="PSA 119:165">din undervisning <char style="add">(Torah)</char>,</para>
   <para style="q2" vid="PSA 119:165">ingenting</para>
-  <para style="p" vid="PSA 119:165">kan få dem</para>
+  <para style="q1" vid="PSA 119:165">kan få dem</para>
   <para style="m" vid="PSA 119:165">på fall.</para>
   <para style="b" vid="PSA 119:165" />
   <para style="m" vid="PSA 119:165">
-    <char style="add">[Denna vers består av sju hebreiska ord där det första är shalom. Detta är enda gången ordet förekommer i hela Psalm 119. Ordet shalom skrivs med fyra bokstäver shin, lamed, vav och mem. Intressant är att begynnelsebokstaven i vartannat ord (första, tredje, femte och sjunde ordet) i denna vers är just dessa fyra bokstäver. Kodat i varannan begynnelsebokstav i denna vers finns alltså fridshälsningen – shalom! Centralt i denna vers med sju ord står Guds undervisning – Torah! Bokstaven shin är den tjugoförsta (3 x 7) bokstaven i alfabetet! Att all denna symbolik med det fullkomliga talet sju dessutom finns i den tjugoförsta sektionen i Psalm 119 (vers 161-168), som i sin tur är central i den sjunde sektionen med de tre sista bokstäverna Resh, Shin och Tav (vers 153-176) ger extra betoning. De som sätter Guds undervisning centralt i sitt liv har fullkomlig frid och inget kan få dem på fall! Något som rent bokstavligt också illustreras med fullkomlig balans i språket.]</char><verse eid="PSA 119:165" /></para>
+    <char style="add">[Denna vers består av sju hebreiska ord där det första är shalom. Detta är enda gången ordet förekommer i hela Psalm 119. Ordet shalom skrivs med fyra bokstäver shin, lamed, vav och mem. Intressant är att begynnelsebokstaven i vartannat ord (första, tredje, femte och sjunde ordet) i denna vers är just dessa fyra bokstäver. Kodat i varannan begynnelsebokstav i denna vers finns alltså fridshälsningen – shalom! Centralt i denna vers med sju ord står Guds undervisning – Torah! Bokstaven shin är den tjugoförsta (3 x 7) bokstaven i alfabetet! Att all denna symbolik med det fullkomliga talet sju dessutom finns i den tjugoförsta sektionen i Psalm 119 (vers 161-168), som i sin tur är central i den sjunde sektionen med de tre sista bokstäverna resh, shin och tav (vers 153-176) ger extra betoning. De som sätter Guds undervisning centralt i sitt liv har fullkomlig frid och inget kan få dem på fall! Något som rent bokstavligt också illustreras med fullkomlig balans i språket.]</char><verse eid="PSA 119:165" /></para>
   <para style="b" />
   <para style="m">
     <verse number="166" style="v" sid="PSA 119:166" />
@@ -14655,7 +14620,7 @@
   <para style="m" vid="PSA 125:2">så omger Herren sitt folk både nu och för evigt.</para>
   <para style="b" vid="PSA 125:2" />
   <para style="m" vid="PSA 125:2">
-    <char style="add">[Vers 1-2 formar en kiasm där centralt en bild av Sion och Jerusalem används för att illustrera Guds beskydd. Jerusalem ligger på 800 meters höjd över havet i Judéens bergsområde. Runt hela staden reser sig bergen något högre än själva Jerusalem, särskilt österut. Jerusalem själv är också en kuperad stad eftersom den ligger på flera berg. Här i psalmen kan vi föreställa oss pilgrimen som firar en högtid i Jerusalem och som blickar ut över de omgivande bergen och liknar dem med Guds beskydd som omringar Guds folk. Bergen, och särskilt Sions berg, står för något fast och stadigt.]</char><verse eid="PSA 125:2" /></para>
+    <char style="add">[Vers 1-2 formar en kiasm där centralt en bild av Sion och Jerusalem används för att illustrera Guds beskydd. Jerusalem ligger på 800 meters höjd över havet i Judeens bergsområde. Runt hela staden reser sig bergen något högre än själva Jerusalem, särskilt österut. Jerusalem själv är också en kuperad stad eftersom den ligger på flera berg. Här i psalmen kan vi föreställa oss pilgrimen som firar en högtid i Jerusalem och som blickar ut över de omgivande bergen och liknar dem med Guds beskydd som omringar Guds folk. Bergen, och särskilt Sions berg, står för något fast och stadigt.]</char><verse eid="PSA 125:2" /></para>
   <para style="b" />
   <para style="m">
     <verse number="3" style="v" sid="PSA 125:3" />För ogudaktighetens spira <char style="add">[ett förtryck från en ondskefull kung]</char> ska inte vila</para>
@@ -14679,7 +14644,7 @@
   <para style="p">
     <char style="add">Författare: Okänd, ett förslag är Esra. </char></para>
   <para style="p">
-    <char style="add">Struktur: Psalmen har 48 ord (förutom inledningen), se <char style="xt"><ref loc="PSA 48">Ps 48</ref>; <ref loc="PSA 126">126</ref></char>. Ordet ”för tillbaka” (hebr. sub) används i vers 1 och 4. </char></para>
+    <char style="add">Struktur: Psalmen har 48 ord (förutom inledningen), se <char style="xt"><ref loc="PSA 48">Ps 48</ref>; <ref loc="PSA 126">126</ref></char>. Ordet ”för tillbaka” (hebr. shov) används i vers 1 och 4. </char></para>
   <para style="b" />
   <para style="m">
     <char style="add">1. Förtröstan, vers 1-3 </char></para>
@@ -14697,7 +14662,6 @@
   <para style="b" vid="PSA 126:1" />
   <para style="m" vid="PSA 126:1">
     <char style="add">[Syftar troligtvis på återtåget från exilen, se <char style="xt"><ref loc="2CH 36:22-23">2 Krön 36:22-23</ref>; <ref loc="EZR 1">Esra 1</ref></char>. Verbroten för att drömma (hebr. chalam) har även betydelsen ”att vara stark; bli stark”.]</char><verse eid="PSA 126:1" /></para>
-  <para style="b" />
   <para style="m">
     <verse number="2" style="v" sid="PSA 126:2" />Då fylldes vår mun med skratt,</para>
   <para style="p" vid="PSA 126:2">och vår tunga med jubel <char style="add">(höga triumferande glädjerop)</char>.</para>
@@ -14818,7 +14782,7 @@
     <char style="add">[Bordet, eller matbordet, är en viktig symbol för familjens sammanhållning i Bibeln. Att ha ett bord där alla samlas och där det alltid finns en plats för änkan, den faderlöse och främlingen, är att ha en familj som lever i enlighet med Guds intentioner för vårt liv på jorden. Där fattas det aldrig mat eftersom Gud alltid välsignar den som lever enligt hans förordningar.]</char><verse eid="PSA 128:3" /></para>
   <para style="b" />
   <para style="m">
-    <verse number="4" style="v" sid="PSA 128:4" />Se, den man <char style="add">(stridsman) [en man i sin bästa ålder]</char></para>
+    <verse number="4" style="v" sid="PSA 128:4" />Se, den man <char style="add">(stridsman) [en man i sina bästa år]</char></para>
   <para style="p" vid="PSA 128:4">som fruktar <char style="add">(vördar, respekterar)</char> Herren <char style="add">(Jahveh)</char> ska verkligen <char style="add">(sannerligen)</char> bli <char style="add">(vara)</char> välsignad.<verse eid="PSA 128:4" /></para>
   <para style="b" />
   <para style="m">
@@ -14903,7 +14867,7 @@
   <para style="m" vid="PSA 130:1">Ur djupen <char style="add">[vattendjupen; metafor för en situation med oöverstigliga problem]</char></para>
   <para style="p" vid="PSA 130:1">ropar jag <char style="add">(höjer jag min röst i bön)</char> till dig, Herre <char style="add">(Jahveh)</char>.<verse eid="PSA 130:1" /></para>
   <para style="m">
-    <verse number="2" style="v" sid="PSA 130:2" />Herre <char style="add">(Adonaj)</char>, hör min röst,</para>
+    <verse number="2" style="v" sid="PSA 130:2" />Herre <char style="add">(Adonai)</char>, hör min röst,</para>
   <para style="p" vid="PSA 130:2">låt dina öron höra mina böners ljud <char style="add">[enträgna, ödmjuka vädjanden om nåd och hjälp]</char>.<verse eid="PSA 130:2" /></para>
   <para style="b" />
   <para style="m">
@@ -14919,7 +14883,7 @@
   <para style="p" vid="PSA 130:5">– hela min varelse <char style="add">(min själ – hebr. nefesh)</char> väntar –</para>
   <para style="p" vid="PSA 130:5">och jag förtröstar på hans ord <char style="add">(väntar på vad han ska säga)</char>.<verse eid="PSA 130:5" /></para>
   <para style="m">
-    <verse number="6" style="v" sid="PSA 130:6" />Hela min varelse <char style="add">(min själ) [väntar/längtar]</char> efter min Herre <char style="add">(Adonaj)</char>,</para>
+    <verse number="6" style="v" sid="PSA 130:6" />Hela min varelse <char style="add">(min själ) [väntar/längtar]</char> efter min Herre <char style="add">(Adonai)</char>,</para>
   <para style="p" vid="PSA 130:6">mer än väktarna efter morgonen,</para>
   <para style="p" vid="PSA 130:6">mer än väktarna <char style="add">[längtar]</char> efter morgonen.</para>
   <para style="b" vid="PSA 130:6" />
@@ -15101,9 +15065,6 @@
   <para style="b" vid="PSA 133:1" />
   <para style="m" vid="PSA 133:1">
     <char style="add">[Bröder är hebr. achim, ordagrant blodsbröder (används första gången om Kain och Abel, se <char style="xt"><ref loc="GEN 4:2">1 Mos 4:2</ref></char>), men används även för släktingar, storfamilj, och i förlängningen också byar och samhällen. I <char style="xt"><ref loc="GEN 13:5-8">1 Mos 13:5-8</ref></char> finns det första exemplet där knappa resurser håller på att orsaka konflikt i en familj. Abraham utbrister då till sin brorsson Lot: ”Inte ska det råda osämja mellan mig och dig eller mellan mina herdar och dina. Vi är ju av samma släkt (achim)”, se <char style="xt"><ref loc="GEN 13:8">1 Mos 13:8</ref></char>. En liknande konflikt uppstår också i <char style="xt"><ref loc="GEN 36:6-7">1 Mos 36:6-7</ref></char>.]</char><verse eid="PSA 133:1" /></para>
-  <para style="b" />
-  <para style="m" />
-  <para style="b" />
   <para style="m">
     <verse number="2" style="v" sid="PSA 133:2" />Som den dyrbara oljan <char style="add">[<char style="xt"><ref loc="EXO 30:22-33">2 Mos 30:22-33</ref></char>]</char> över huvudet</para>
   <para style="q1" vid="PSA 133:2">– kommer <char style="add">(rinner)</char> ner över</para>
@@ -15121,8 +15082,6 @@
   <para style="b" vid="PSA 133:3" />
   <para style="m" vid="PSA 133:3">
     <char style="add">[I ett regnfattigt land är daggen livsavgörande för växtligheten, skörden och livet, se <char style="xt"><ref loc="ISA 26:19">Jes 26:19</ref>; <ref loc="ZEC 8:12">Sak 8:12</ref>; <ref loc="HOS 14:6">Hos 14:6</ref></char>. Kungens välvilja är lika livgivande och svalkande som daggen på gräset, se <char style="xt"><ref loc="PRO 19:12">Ords 19:12</ref></char>. I <char style="xt"><ref loc="GEN 27:28">1 Mos 27:28</ref></char> formar olja och dagg ett par, där oljan är en bild på regn.]</char></para>
-  <para style="b" vid="PSA 133:3" />
-  <para style="m" vid="PSA 133:3" />
   <para style="b" vid="PSA 133:3" />
   <para style="m" vid="PSA 133:3">För därifrån befaller Herren <char style="add">(Jahveh)</char> sin välsignelse – evigt liv!</para>
   <para style="b" vid="PSA 133:3" />
@@ -15199,7 +15158,7 @@
   <para style="b" />
   <para style="m">
     <verse number="5" style="v" sid="PSA 135:5" />För jag vet att Herren <char style="add">(Jahveh)</char> är stor,</para>
-  <para style="p" vid="PSA 135:5">och att vår Herre <char style="add">(Adonaj)</char> är över alla gudar.<verse eid="PSA 135:5" /></para>
+  <para style="p" vid="PSA 135:5">och att vår Herre <char style="add">(Adonai)</char> är över alla gudar.<verse eid="PSA 135:5" /></para>
   <para style="m">
     <verse number="6" style="v" sid="PSA 135:6" />Allt som Herren <char style="add">(Jahveh)</char> har lust med, det har han gjort,</para>
   <para style="p" vid="PSA 135:6">i himlarna och på jorden</para>
@@ -15285,7 +15244,7 @@
     <verse number="2" style="v" sid="PSA 136:2" />Tacka <char style="add">[med öppna händer – prisa, hylla och erkänn]</char> gudarnas Gud <char style="add">(Elohei elohim)</char>,</para>
   <para style="p" vid="PSA 136:2">för evigt <char style="add">(i evighet)</char> varar hans nåd <char style="add">(omsorgsfulla, trofasta kärlek)</char>.<verse eid="PSA 136:2" /></para>
   <para style="m">
-    <verse number="3" style="v" sid="PSA 136:3" />Tacka <char style="add">[med öppna händer – prisa, hylla och erkänn]</char> herrarnas Herre <char style="add">(Adonaj adonim)</char>,</para>
+    <verse number="3" style="v" sid="PSA 136:3" />Tacka <char style="add">[med öppna händer – prisa, hylla och erkänn]</char> herrarnas Herre <char style="add">(Adonai Adonim)</char>,</para>
   <para style="p" vid="PSA 136:3">för evigt <char style="add">(i evighet)</char> varar hans nåd <char style="add">(omsorgsfulla, trofasta kärlek)</char>.<verse eid="PSA 136:3" /></para>
   <para style="b" />
   <para style="m">
@@ -15565,7 +15524,7 @@
   <para style="p" vid="PSA 139:15">när jag formades i det fördolda.</para>
   <para style="m" vid="PSA 139:15">När jag flätades samman <char style="add">(som ett tyg broderas med olika färger)</char> i jordens djup,<verse eid="PSA 139:15" /></para>
   <para style="p">
-    <verse number="16" style="v" sid="PSA 139:16" />såg dina ögon min omformade kropp <char style="add">(ihoprullad, hopvikt) [inte ännu utvecklad, dvs. när jag bara var ett embryo]</char>.</para>
+    <verse number="16" style="v" sid="PSA 139:16" />såg dina ögon min oformade kropp <char style="add">(ihoprullad, hopvikt) [inte ännu utvecklad, dvs. när jag bara var ett embryo]</char>.</para>
   <para style="m" vid="PSA 139:16">Alla mina dagar var uppskrivna i din bok <char style="add">[livets bok, se <char style="xt"><ref loc="PSA 69:29">Ps 69:29</ref></char>]</char></para>
   <para style="p" vid="PSA 139:16">innan de tog form, innan någon av dem hade kommit.<verse eid="PSA 139:16" /></para>
   <para style="b" />
@@ -15688,7 +15647,7 @@
     <verse number="7" style="v" sid="PSA 140:7" />Jag har sagt till Herren <char style="add">(Jahveh)</char>: ”Du är min Gud <char style="add">(El)</char>.”</para>
   <para style="p" vid="PSA 140:7">Lyssna <char style="add">(vänd ditt öra)</char>, Herre <char style="add">(Jahveh)</char>, till mina böners ljud <char style="add">[enträgna, ödmjuka vädjanden om nåd och hjälp]</char>.<verse eid="PSA 140:7" /></para>
   <para style="m">
-    <verse number="8" style="v" sid="PSA 140:8" />Herre <char style="add">(Jahveh)</char>, Herre <char style="add">(Adonaj)</char>, min frälsnings styrka,</para>
+    <verse number="8" style="v" sid="PSA 140:8" />Herre <char style="add">(Jahveh)</char>, Herre <char style="add">(Adonai)</char>, min frälsnings styrka,</para>
   <para style="p" vid="PSA 140:8">som har hållit en skärm över mitt huvud <char style="add">(skyddat mitt huvud som med en hjälm)</char> under stridens dagar,<verse eid="PSA 140:8" /></para>
   <para style="m">
     <verse number="9" style="v" sid="PSA 140:9" />Herre <char style="add">(Jahveh)</char>, låt inte de ondas önskningar gå i uppfyllelse,</para>
@@ -15761,7 +15720,7 @@
     <verse number="7" style="v" sid="PSA 141:7" />Som när man plöjer och bryter upp jorden,</para>
   <para style="p" vid="PSA 141:7">ska våra ben spridas för Sheols <char style="add">(gravens, underjordens)</char> öppning <char style="add">(mun) [porten/ingången till de dödas plats]</char>.<verse eid="PSA 141:7" /></para>
   <para style="m">
-    <verse number="8" style="v" sid="PSA 141:8" />För till dig, Herre <char style="add">(Jahveh)</char>, Herre <char style="add">(Adonaj)</char>, är mina ögon <char style="add">[riktade]</char>,</para>
+    <verse number="8" style="v" sid="PSA 141:8" />För till dig, Herre <char style="add">(Jahveh)</char>, Herre <char style="add">(Adonai)</char>, är mina ögon <char style="add">[riktade]</char>,</para>
   <para style="p" vid="PSA 141:8">i dig har jag min tillflykt, utgjut inte min själ <char style="add">(släck inte mitt liv; låt det inte rinna bort)</char>.<verse eid="PSA 141:8" /></para>
   <para style="m">
     <verse number="9" style="v" sid="PSA 141:9" />Bevara mig från snaran som de har lagt ut för mig,</para>
@@ -15804,7 +15763,7 @@
   <para style="q1" vid="PSA 142:3">inför honom <char style="add">(hans ansikte)</char>,</para>
   <para style="q2" vid="PSA 142:3">min klagan <char style="add">(fundering, grubblar lågmält)</char>,</para>
   <para style="q2" vid="PSA 142:3">min nöd <char style="add">(pressade situation)</char></para>
-  <para style="q1" vid="PSA 142:3">inför honnom <char style="add">(hans ansikte)</char>,</para>
+  <para style="q1" vid="PSA 142:3">inför honom <char style="add">(hans ansikte)</char>,</para>
   <para style="m" vid="PSA 142:3">berättar jag.<verse eid="PSA 142:3" /></para>
   <para style="m">
     <verse number="4" style="v" sid="PSA 142:4" />När min ande försvagas i mig,</para>
@@ -16146,7 +16105,7 @@
   <para style="m" vid="PSA 145:13">
     <char style="add">4. Det finns även exempel på andra brutna alfabetiska psalmer som inte har med alla bokstäver, t.ex. <char style="xt"><ref loc="PSA 9">Ps 9</ref>; <ref loc="PSA 10">10</ref>; <ref loc="PSA 25">25</ref>; <ref loc="PSA 35">35</ref></char>.</char></para>
   <para style="p" vid="PSA 145:13">
-    <char style="add">Det är ett väldigt effektfullt sätt att medvetet bryta mönstret i psalmen och helt utesluta bokstaven ”Nun”. Det totala utplånandet förtydligar konsekvensen att medvetet gå emot Gud.]</char><verse eid="PSA 145:13" /></para>
+    <char style="add">Det är ett väldigt effektfullt sätt att medvetet bryta mönstret i psalmen och helt utesluta bokstaven nun. Det totala utplånandet förtydligar konsekvensen att medvetet gå emot Gud.]</char><verse eid="PSA 145:13" /></para>
   <para style="s2">ס – samech</para>
   <para style="m">
     <verse number="14" style="v" sid="PSA 145:14" />Herren <char style="bd">upprätthåller</char> <char style="add">(stödjer)</char> alla som är på väg att falla,</para>
@@ -16304,7 +16263,7 @@
     <verse number="4" style="v" sid="PSA 147:4" />Han bestämmer stjärnornas antal,</para>
   <para style="p" vid="PSA 147:4">han nämner alla vid namn <char style="add">[ger dem egna namn]</char>.<verse eid="PSA 147:4" /></para>
   <para style="m">
-    <verse number="5" style="v" sid="PSA 147:5" />Stor är vår Herre <char style="add">(Adonaj) [fokus på Guds storhet och makt]</char>,</para>
+    <verse number="5" style="v" sid="PSA 147:5" />Stor är vår Herre <char style="add">(Adonai) [fokus på Guds storhet och makt]</char>,</para>
   <para style="p" vid="PSA 147:5">och överflödande <char style="add">(väldig)</char> i kraft,</para>
   <para style="p" vid="PSA 147:5">hans vishet <char style="add">(förstånd, intelligens)</char> är utan gräns <char style="add">[den är obegränsad och går inte att räkna ut eller teckna ner]</char>.<verse eid="PSA 147:5" /></para>
   <para style="m">
@@ -16329,7 +16288,7 @@
     <verse number="10" style="v" sid="PSA 147:10" />Han har <char style="add">[verkligen]</char> inte sin glädje <char style="add">(lust)</char> i stridshästens styrka,</para>
   <para style="p" vid="PSA 147:10">hans behag står inte till <char style="add">(han fröjdar sig inte över)</char> en människas starka ben <char style="add">(lår)</char>.</para>
   <para style="m" vid="PSA 147:10">
-    <char style="add">[Han imponeras inte av mänskliga arméer och en krigares starka vader.]</char><verse eid="PSA 147:10" /></para>
+    <char style="add">[Han imponeras inte av mänskliga arméer och en krigares snabbhet.]</char><verse eid="PSA 147:10" /></para>
   <para style="m">
     <verse number="11" style="v" sid="PSA 147:11" />Herren <char style="add">(Jahveh)</char> har sitt behag <char style="add">(sin fröjd/glädje)</char> i dem</para>
   <para style="p" vid="PSA 147:11">som <char style="add">[i vördnadsfull tillbedjan]</char> fruktar honom,</para>
@@ -16399,6 +16358,7 @@
   <para style="b" vid="PSA 148:1" />
   <para style="m" vid="PSA 148:1">Prisa Herren <char style="add">(Jahveh)</char> från himlarna,</para>
   <para style="p" vid="PSA 148:1">prisa honom i höjden <char style="add">[ovan jorden]</char>.<verse eid="PSA 148:1" /></para>
+  <para style="b" />
   <para style="m">
     <verse number="2" style="v" sid="PSA 148:2" />Prisa honom alla ni änglar <char style="add">(budbärare)</char>,</para>
   <para style="p" vid="PSA 148:2">prisa honom alla ni <char style="add">[himmelska]</char> härar.<verse eid="PSA 148:2" /></para>
@@ -16542,7 +16502,7 @@
     <char style="add">[Dag som natt, eller att firandet pågår hela dagen ända in till natten.]</char><verse eid="PSA 149:5" /></para>
   <para style="m">
     <verse number="6" style="v" sid="PSA 149:6" />Guds lov <char style="add">(upphöjande)</char> ska vara i deras hals <char style="add">(hebr. garon) [de lovprisar med full hals]</char></para>
-  <para style="p" vid="PSA 149:6">och ett tveeggat <char style="add">(tvåtandat)</char> svärd i deras hand. <char style="add">[<char style="xt"><ref loc="HEB 4:12">Heb 4:12</ref></char>]</char></para>
+  <para style="p" vid="PSA 149:6">och ett tveeggat <char style="add">(ordagrant: tvåtandat)</char> svärd i deras hand. <char style="add">[<char style="xt"><ref loc="HEB 4:12">Heb 4:12</ref></char>]</char></para>
   <para style="m" vid="PSA 149:6">
     <char style="add">[Lovprisning är ett vapen – ett svärd!]</char><verse eid="PSA 149:6" /></para>
   <para style="b" />
