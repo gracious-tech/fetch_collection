@@ -1,9 +1,9 @@
 {
     "name": {
-        "local": "World English Bible (Updated)",
-        "local_abbrev": "WEBU",
-        "english": "World English Bible (Updated)",
-        "english_abbrev": "WEBU"
+        "local": "World English Bible",
+        "local_abbrev": "WEB",
+        "english": "World English Bible",
+        "english_abbrev": "WEB"
     },
     "year": 2024,
     "direction": "ltr",
@@ -11,20 +11,20 @@
         "licenses": [
             {
                 "license": "public",
-                "url": "https://ebible.org/Scriptures/details.php?id=engwebu"
+                "url": "https://ebible.org/Scriptures/details.php?id=engwebp"
             }
         ],
         "attribution": "public domain",
-        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engwebu"
+        "attribution_url": "https://ebible.org/Scriptures/details.php?id=engwebp"
     },
     "ids": {
-        "ebible": "engwebu"
+        "ebible": "engwebp"
     },
     "source": {
         "service": "ebible",
         "format": "usfm",
-        "url": "https://ebible.org/Scriptures/engwebu_usfm.zip",
-        "updated": "2026-06-05",
+        "url": "https://ebible.org/Scriptures/engwebp_usfm.zip",
+        "updated": "2026-10-18",
         "revision": 0
     },
     "tags": []
