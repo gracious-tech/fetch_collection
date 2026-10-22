@@ -15,17 +15,18 @@
             }
         ],
         "attribution": "Copyright © 2025 SIL Papua New Guinea",
-        "attribution_url": "https://ebible.org/Scriptures/details.php?id=nmx"
+        "attribution_url": "https://app.library.bible/content/be8336da54691ab4"
     },
     "ids": {
-        "ebible": "nmx"
+        "ebible": "nmx",
+        "dbl": "be8336da54691ab4"
     },
     "source": {
-        "service": "ebible",
-        "format": "usfm",
-        "url": "https://ebible.org/Scriptures/nmx_usfm.zip",
-        "updated": "2026-04-09",
-        "revision": 0
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/be8336da54691ab4/zip",
+        "updated": "2026-06-19",
+        "revision": 1
     },
     "tags": []
 }

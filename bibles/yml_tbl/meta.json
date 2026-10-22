@@ -15,17 +15,18 @@
             }
         ],
         "attribution": "Copyright © 1984, 1988 Wycliffe Bible Translators, Inc.",
-        "attribution_url": "https://ebible.org/Scriptures/details.php?id=yml"
+        "attribution_url": "https://app.library.bible/content/28c40de349db51a4"
     },
     "ids": {
-        "ebible": "yml"
+        "ebible": "yml",
+        "dbl": "28c40de349db51a4"
     },
     "source": {
-        "service": "ebible",
-        "format": "usfm",
-        "url": "https://ebible.org/Scriptures/yml_usfm.zip",
-        "updated": "2026-06-18",
-        "revision": 0
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/28c40de349db51a4/zip",
+        "updated": "2026-06-22",
+        "revision": 4
     },
     "tags": []
 }

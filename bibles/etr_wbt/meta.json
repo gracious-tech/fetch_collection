@@ -15,20 +15,18 @@
             }
         ],
         "attribution": "Copyright © 2010-2022 Wycliffe Bible Translators, Inc.",
-        "attribution_url": "https://ebible.org/Scriptures/details.php?id=etr"
+        "attribution_url": "https://app.library.bible/content/f88d774f0d375187"
     },
     "ids": {
-        "ebible": "etr"
+        "ebible": "etr",
+        "dbl": "f88d774f0d375187"
     },
     "source": {
-        "service": "ebible",
-        "format": "usfm",
-        "url": "https://ebible.org/Scriptures/etr_usfm.zip",
-        "updated": "2026-06-19",
-        "revision": 0
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/f88d774f0d375187/zip",
+        "updated": "2026-08-13",
+        "revision": 13
     },
-    "tags": [],
-    "partial": [
-        "luk"
-    ]
+    "tags": []
 }
