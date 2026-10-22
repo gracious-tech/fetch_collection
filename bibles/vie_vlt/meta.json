@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Bản Dịch Kinh Thánh Tiếng Việt 2020",
+        "local_abbrev": "Viet2020",
+        "english": "Vietnamese Bible Literal Text",
+        "english_abbrev": "VLT"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "FAR EAST BROADCASTING COMPANY",
+        "attribution_url": "https://app.library.bible/content/fb8f4f9df2187e84"
+    },
+    "ids": {
+        "dbl": "fb8f4f9df2187e84"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/fb8f4f9df2187e84/zip",
+        "updated": "2024-08-09",
+        "revision": 4
+    },
+    "tags": []
+}
