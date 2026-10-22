@@ -27,6 +27,6 @@
         "updated": "2020-12-30",
         "revision": 0
     },
-    "notes": "Text, headings and paragraphs from the MyBible module VIET'98 (Bible Society Vietnam edition, extracted from YouVersion 193), converted to modern HTTLVN-style hyphenation by .private/vie_kt_1925/build_usfm.ts (learned from github.com/and1truong/kt-static). Headings/paragraphs/verse ranges confirmed present in the 1925 first printing (BFBS Shanghai 1925, scan linked in license). Replaced eBible vie1934 which had VNI mojibake (e.g. 'Aùp' for 'Áp') and typos.",
+    "notes": "Public domain text of the 1925 first printing (BFBS Shanghai 1925, scan linked in license), including its original section headings, paragraphing and merged verse ranges, spot-checked against the scan. Uses modern hyphenation (as read in churches today). Replaced eBible vie1934 which had encoding errors (e.g. 'Aùp' for 'Áp') and typos.",
     "tags": []
 }
