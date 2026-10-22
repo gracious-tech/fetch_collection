@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Kinh Thánh Tiếng Dao Áo Dài",
+        "local_abbrev": "KT Dao AD",
+        "english": "Dao Ao Dai Literal Text",
+        "english_abbrev": "DADT"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "FAR EAST BROADCASTING COMPANY",
+        "attribution_url": "https://app.library.bible/content/4031cf477b55913c"
+    },
+    "ids": {
+        "dbl": "4031cf477b55913c"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/4031cf477b55913c/zip",
+        "updated": "2026-09-03",
+        "revision": 2
+    },
+    "tags": []
+}

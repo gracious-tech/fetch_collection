@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Biblia Mam Ostuncalco 1999",
+        "local_abbrev": "",
+        "english": "Biblia Mam de Ostuncalco",
+        "english_abbrev": "O"
+    },
+    "year": 1999,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Bible Society in Guatemala",
+        "attribution_url": "https://app.library.bible/content/aea9d9099feb3a24"
+    },
+    "ids": {
+        "dbl": "aea9d9099feb3a24"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/aea9d9099feb3a24/zip",
+        "updated": "2019-04-09",
+        "revision": 5
+    },
+    "tags": []
+}

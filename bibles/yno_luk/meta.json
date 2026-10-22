@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "LUKyno",
+        "english": "The Book of Luke in Yong Language",
+        "english_abbrev": "LUK"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Son Light Foundation",
+        "attribution_url": "https://app.library.bible/content/b10dd335998547d5"
+    },
+    "ids": {
+        "dbl": "b10dd335998547d5"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/b10dd335998547d5/zip",
+        "updated": "2026-08-25",
+        "revision": 1
+    },
+    "tags": []
+}

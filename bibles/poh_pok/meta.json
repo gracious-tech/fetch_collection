@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Santo Laj Huuj (Bíblia Poqomchí )",
+        "local_abbrev": "",
+        "english": "Bíblia Poqomchí (orthografía reformada)",
+        "english_abbrev": "POK"
+    },
+    "year": 2009,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Bible Society in Guatemala",
+        "attribution_url": "https://app.library.bible/content/695aa4b9f902778f"
+    },
+    "ids": {
+        "dbl": "695aa4b9f902778f"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/695aa4b9f902778f/zip",
+        "updated": "2019-04-09",
+        "revision": 5
+    },
+    "tags": []
+}

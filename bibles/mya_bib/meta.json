@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Biblica® Open ခေတ်သစ်မြန်မာ သမ္မာကျမ်း",
+        "local_abbrev": "OBCB",
+        "english": "Biblica® Open Burmese Contemporary Bible",
+        "english_abbrev": "OBCB"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.library.bible/content/c2a589603854f059"
+    },
+    "ids": {
+        "dbl": "c2a589603854f059"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/c2a589603854f059/zip",
+        "updated": "2026-08-23",
+        "revision": 1
+    },
+    "tags": []
+}

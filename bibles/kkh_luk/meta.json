@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "The Book of Luke in Tai Khune Language",
+        "english_abbrev": "LUK"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Son Light Foundation",
+        "attribution_url": "https://app.library.bible/content/8de2021a59f64955"
+    },
+    "ids": {
+        "dbl": "8de2021a59f64955"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/8de2021a59f64955/zip",
+        "updated": "2026-08-26",
+        "revision": 1
+    },
+    "tags": []
+}

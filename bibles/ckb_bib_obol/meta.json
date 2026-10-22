@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Biblica® Open Sorani Kurdish Book of Life",
+        "local_abbrev": "OBOL",
+        "english": "Biblica® Open Sorani Kurdish Book of Life",
+        "english_abbrev": "OBOL"
+    },
+    "year": 1998,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Biblica, Inc.",
+        "attribution_url": "https://app.library.bible/content/423ecf6820032fd9"
+    },
+    "ids": {
+        "dbl": "423ecf6820032fd9"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/423ecf6820032fd9/zip",
+        "updated": "2026-08-11",
+        "revision": 1
+    },
+    "tags": []
+}

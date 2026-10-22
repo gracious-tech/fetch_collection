@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Alkitab Bahasa Wondama",
+        "local_abbrev": "WAD",
+        "english": "Alkitab Bahasa Wondama",
+        "english_abbrev": ""
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/5b0bff9e590bf4a6"
+    },
+    "ids": {
+        "dbl": "5b0bff9e590bf4a6"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/5b0bff9e590bf4a6/zip",
+        "updated": "2026-08-14",
+        "revision": 1
+    },
+    "tags": []
+}

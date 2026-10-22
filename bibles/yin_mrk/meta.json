@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "ပပ်ႉၵျၢမ်းမႃၵုပ်ႈ",
+        "local_abbrev": "မႃ",
+        "english": "The Book of Mark in Riang Lai Language",
+        "english_abbrev": "MRK"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Empower Asia Bible Translation Movement",
+        "attribution_url": "https://app.library.bible/content/b1ab701c663e47cc"
+    },
+    "ids": {
+        "dbl": "b1ab701c663e47cc"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/b1ab701c663e47cc/zip",
+        "updated": "2026-09-03",
+        "revision": 1
+    },
+    "tags": []
+}

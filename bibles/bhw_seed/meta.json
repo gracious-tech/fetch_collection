@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Alkitab Bahasa Biak",
+        "local_abbrev": "BHW",
+        "english": "Alkitab Bahasa Biak",
+        "english_abbrev": ""
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/d1e0722ecb83f757"
+    },
+    "ids": {
+        "dbl": "d1e0722ecb83f757"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/d1e0722ecb83f757/zip",
+        "updated": "2026-08-14",
+        "revision": 1
+    },
+    "tags": []
+}

@@ -11,21 +11,22 @@
         "licenses": [
             {
                 "license": "public",
-                "url": "https://ebible.org/Scriptures/details.php?id=vie1934"
+                "url": "https://commons.wikimedia.org/wiki/File:Kinh_Thanh_Cuu_Uoc_Va_Tan_Uoc_1925.pdf"
             }
         ],
         "attribution": "public domain",
-        "attribution_url": "https://ebible.org/Scriptures/details.php?id=vie1934"
+        "attribution_url": "https://commons.wikimedia.org/wiki/File:Kinh_Thanh_Cuu_Uoc_Va_Tan_Uoc_1925.pdf"
     },
     "ids": {
         "ebible": "vie1934"
     },
     "source": {
-        "service": "ebible",
+        "service": "manual",
         "format": "usfm",
-        "url": "https://ebible.org/Scriptures/vie1934_usfm.zip",
-        "updated": "2022-06-09",
+        "url": null,
+        "updated": "2020-12-30",
         "revision": 0
     },
+    "notes": "Text, headings and paragraphs from the MyBible module VIET'98 (Bible Society Vietnam edition, extracted from YouVersion 193), converted to modern HTTLVN-style hyphenation by .private/vie_kt_1925/build_usfm.ts (learned from github.com/and1truong/kt-static). Headings/paragraphs/verse ranges confirmed present in the 1925 first printing (BFBS Shanghai 1925, scan linked in license). Replaced eBible vie1934 which had VNI mojibake (e.g. 'Aùp' for 'Áp') and typos.",
     "tags": []
 }

@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Byzantinischer Text Deutsch. Die Evangelien übersetzt aus dem griechischen Text des Ökumenischen Patriarchats von Konstantinopel (1904/1912)",
+        "local_abbrev": "BTD",
+        "english": "Byzantinischer Text Deutsch",
+        "english_abbrev": "BTD"
+    },
+    "year": 2023,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc",
+                "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+            }
+        ],
+        "attribution": "Swiss Bible Society",
+        "attribution_url": "https://app.library.bible/content/084e0647896dc166"
+    },
+    "ids": {
+        "dbl": "084e0647896dc166"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/084e0647896dc166/zip",
+        "updated": "2026-06-30",
+        "revision": 1
+    },
+    "tags": []
+}

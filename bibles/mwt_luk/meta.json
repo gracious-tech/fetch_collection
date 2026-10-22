@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "The Book of Luke in Moken Language",
+        "english_abbrev": "LUK"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Son Light Foundation",
+        "attribution_url": "https://app.library.bible/content/86fc02e206994549"
+    },
+    "ids": {
+        "dbl": "86fc02e206994549"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/86fc02e206994549/zip",
+        "updated": "2026-08-26",
+        "revision": 1
+    },
+    "tags": []
+}

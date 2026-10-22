@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Alkitab Bahasa Ansus",
+        "local_abbrev": "AND",
+        "english": "Alkitab Bahasa Ansus",
+        "english_abbrev": ""
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/1b4e5659392e48f5"
+    },
+    "ids": {
+        "dbl": "1b4e5659392e48f5"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/1b4e5659392e48f5/zip",
+        "updated": "2026-06-29",
+        "revision": 1
+    },
+    "tags": []
+}

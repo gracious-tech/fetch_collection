@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "ገደር ጉዳ",
+        "local_abbrev": "msqn",
+        "english": "Mesqan New Testament",
+        "english_abbrev": "MSQN"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Word for the World International",
+        "attribution_url": "https://app.library.bible/content/75e2ac9e5cbac605"
+    },
+    "ids": {
+        "dbl": "75e2ac9e5cbac605"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/75e2ac9e5cbac605/zip",
+        "updated": "2026-09-07",
+        "revision": 2
+    },
+    "tags": []
+}

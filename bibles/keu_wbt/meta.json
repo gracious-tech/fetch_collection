@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Dieparətənəŋwɛŋrə mə Mose la kəfwɛɛsəsəŋkə",
+        "local_abbrev": "KEU",
+        "english": "Bible En Akebou",
+        "english_abbrev": ""
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://app.library.bible/content/570c25ed23823d3c"
+    },
+    "ids": {
+        "dbl": "570c25ed23823d3c"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/570c25ed23823d3c/zip",
+        "updated": "2026-08-27",
+        "revision": 1
+    },
+    "tags": []
+}

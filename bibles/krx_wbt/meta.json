@@ -1,0 +1,34 @@
+{
+    "name": {
+        "local": "Kuloonaay",
+        "local_abbrev": "Kuloonaay",
+        "english": "Kuloonaay",
+        "english_abbrev": ""
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://app.library.bible/content/5606d5e01cb7fec1"
+    },
+    "ids": {
+        "dbl": "5606d5e01cb7fec1"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/5606d5e01cb7fec1/zip",
+        "updated": "2026-09-03",
+        "revision": 5
+    },
+    "tags": [],
+    "partial": [
+        "exo"
+    ]
+}

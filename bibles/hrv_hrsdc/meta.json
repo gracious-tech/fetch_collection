@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Hrvatski prijevod  - Šarić sa deuterokanoskim knjigama",
+        "local_abbrev": "HRSDC",
+        "english": "Croatian: Sarić translation revised with DC 2007",
+        "english_abbrev": "HRSDC"
+    },
+    "year": 2007,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/)/"
+            }
+        ],
+        "attribution": "Croatian Bible Society",
+        "attribution_url": "https://app.library.bible/content/237997b8dab43975"
+    },
+    "ids": {
+        "dbl": "237997b8dab43975"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/237997b8dab43975/zip",
+        "updated": "2019-12-04",
+        "revision": 4
+    },
+    "tags": []
+}

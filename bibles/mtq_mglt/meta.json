@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Bản Dịch Kinh Thánh Tiếng Mường (Thanh Hóa)",
+        "local_abbrev": "MuongTH2024",
+        "english": "Muong (TH) Bible Literal Text",
+        "english_abbrev": "MGLT"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "FAR EAST BROADCASTING COMPANY",
+        "attribution_url": "https://app.library.bible/content/720ec4d225a8c360"
+    },
+    "ids": {
+        "dbl": "720ec4d225a8c360"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/720ec4d225a8c360/zip",
+        "updated": "2024-04-23",
+        "revision": 1
+    },
+    "tags": []
+}

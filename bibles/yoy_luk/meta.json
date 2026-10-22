@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "The Book of Luke in Yoy Language",
+        "local_abbrev": "LUKyoy",
+        "english": "The Book of Luke in Yoy Language",
+        "english_abbrev": "LUK"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Son Light Foundation",
+        "attribution_url": "https://app.library.bible/content/854ccb6a86d24990"
+    },
+    "ids": {
+        "dbl": "854ccb6a86d24990"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/854ccb6a86d24990/zip",
+        "updated": "2026-08-25",
+        "revision": 1
+    },
+    "tags": []
+}

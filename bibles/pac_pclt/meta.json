@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Bản Dịch Kinh Thánh Tiếng Pa-cô",
+        "local_abbrev": "Paco2024",
+        "english": "Pacoh Bible Literal Text",
+        "english_abbrev": "PCLT"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "FAR EAST BROADCASTING COMPANY",
+        "attribution_url": "https://app.library.bible/content/e11352a2ec185af7"
+    },
+    "ids": {
+        "dbl": "e11352a2ec185af7"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/e11352a2ec185af7/zip",
+        "updated": "2026-07-16",
+        "revision": 1
+    },
+    "tags": []
+}

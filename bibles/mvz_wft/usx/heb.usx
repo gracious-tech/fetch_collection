@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
+  <book code="HEB" style="id">Mesqan New Testament HEBREWS</book>
+  <para style="h">ተዕብራውያኔ</para>
+  <para style="toc1">ተዕብራውያኔ የትላኸ መልክት</para>
+  <para style="toc2">ተዕብራውያኔ</para>
+  <para style="toc3">ዕብ.</para>
+  <para style="mt">ተዕብራውያኔ የትላኸ መልክት</para>
+  <para style="imt">ይቈርሽᎄ</para>
+  <para style="ip">ዚ መልክት የጣፈ የራዘ ተቃውሞ የሰላቦ ስለኸነ እምነተሕኖ ይገፍሮዬ ተሰሎዬ ክርስቲያን ባነ፤ ጠሐፊዪ የዕብራውያን አማኞች ያኖ ያርጋጥኖ ኢየሱስ ክርስቶስ የኢንም የመጨረሻዪ የእዝጌር መገለጥ ወሕነሑ በዋተዡ። ክርስቲያን በእምነተሕኖ ይቆምሮኸም ያብርታታኖ፤ ዚም ቢሸከትወ ግዝየ ሦስት የኢን ቢልቢጢጦ ያቴዥ፦</para>
+  <para style="ip">1. በቌᎄረኒ መከራ መሳ የአብ የኢን ታዛዥ የኸነዪ ኢየሱስ ዘላለማዊ የእዝጌር ትኸው፤ የእዝጌር ትኸ በወሕነሑ ተጉርዚ ጉዳ ነብዮች፥ ተሙሴ ተመላይካም ስርም የጠቀለው።</para>
+  <para style="ip">2. ኢየሱስ ተጉርዚ ጉዳ ካሕናቶች ስርም የጠቀለ የዘለዓለማዊ ካሕን ወሕነሑ እዝጌር ነብሰሑ ዝነጔም።</para>
+  <para style="ip">3. በኢየሱስ ኤማ አማኚ ተአጢአት፥ ተወገና ተወሙትም ይተርፍ፤ ኢየሱስ የካሕናቶች አለአ የኸነኸም በዕብራውያን ሰቦች እምነት ሥራቶች የእንሰሳት መሥዋዕትም የጥሌልኸም ይታዥ የነበረዪ ያትርፎት ሜና የኢነተኘ ይኸንኸም ሸኰተንም።</para>
+  <para style="ip">ጠሐፊዪ በእስራኤል ታሪክ የትኴሮ የኸኖ ሰቦች እምነት የምሳሌኸም በወጠቀም (ምራ. 11) ያነቦዪ በእምነተሕኖ ይቆምሮኸም ያቴስቦ፤ ዛምኸም በምራ. 12 ያነቦዪ ዔነሕኖ በኢየሱስ ᎈር ጡጥ በዋቢ በእምነተሕኖ ይቆምሮኸም ሟንመሑ መከራ ሥቃይም ቢሰላቦ ይፈርኮኸም ይመክሮ፤ በመጨረሻም ምክር ያትቅሮᎄም ቃል በዋብ ይፈጅ።</para>
+  <para style="iot">እንመሑ የመጽሐፊ አሳብ</para>
+  <para style="io1">ይቈርሽᎄ፦ እዝጌር በክርስቶስ መገለጠሑ <char style="ior"><ref loc="HEB 1:1-3">1፥1-3</ref> </char></para>
+  <para style="io1">ክርስቶስ ተመላይካ ነን ወሕነሑ <char style="ior"><ref loc="HEB 1:4-2:18">1፥4—2፥18</ref> </char></para>
+  <para style="io1">ክርስቶስ ተሙሴ ተኢያሱም ነን ወሕነሑ <char style="ior"><ref loc="HEB 3:1-4:13">3፥1—4፥13</ref> </char></para>
+  <para style="io1">የክርስቶስ ተካሕናት ነን ወሕን <char style="ior"><ref loc="HEB 4:14-7:28">4፥14—7፥28</ref> </char></para>
+  <para style="io1">የክርስቶስ ቃል ጉዳ ነን ወሕን <char style="ior"><ref loc="HEB 8:1-9:22">8፥1—9፥22</ref> </char></para>
+  <para style="io1">የክርስቶስ መሥዋት የወባዛ ወሕን <char style="ior"><ref loc="HEB 9:23-10:39">9፥23—10፥39</ref> </char></para>
+  <para style="io1">የእምነት ወደልነት <char style="ior"><ref loc="HEB 11:1-12:29">11፥1—12፥29</ref> </char></para>
+  <para style="io1">የእዝጌር ዋትብላልቅ <char style="ior"><ref loc="HEB 13:1-19">13፥1-19</ref> </char></para>
+  <para style="io1">ይᎈጅᎄ ጠሎት <char style="ior"><ref loc="HEB 13:20-21">13፥20-21</ref> </char></para>
+  <para style="io1">ያጥቋልልᎄ <char style="ior"><ref loc="HEB 13:22-25">13፥22-25</ref> </char></para>
+  <chapter number="1" style="c" sid="HEB 1" />
+  <para style="s1">እዝጌር በትኸኹ መሳ የዝነጔኸም</para>
+  <para style="p">
+    <verse number="1" style="v" sid="HEB 1:1" />እዝጌር በድረ ዘበናት በትልያዮ ኤማ፥ በነብዮች መሳ የአቦቸና ብዠ ግዝየ ዝነጔም ባነ፤ <verse eid="HEB 1:1" /><verse number="2" style="v" sid="HEB 1:2" />ኧሗም በዚሕኖ በመጨረሻዪ ዘበን እንም ቃር ወራሽ በሸኰተኒ ዓለም እንም በኸለቀወ በትኸኹ ይና ዝነጔነ። <verse eid="HEB 1:2" /><verse number="3" style="v" sid="HEB 1:3" />ሑቲ የእዝጌር ክብር ያንብራጣዪ ያመለሑም ሱት ምሳሌ ኸነም፤ በሓያል ቃለሑ እንም ሱቱ። በቆት ቃለሑ የዓለም እንም ዴገፈም ጠበጠም፤ ሰቦችም ተአጢያት ባነጣ አንቌ በሰሜ በቆተሑ በእዝጌር በግርማውታ ከነ ቾናም።<verse eid="HEB 1:3" /></para>
+  <para style="s1">እዝጌር ወልድ ተመላይካ ስርም የጠቀለ ወሕነሑ</para>
+  <para style="p">
+    <verse number="4" style="v" sid="HEB 1:4" />የሑቲ ያᎅ ሽም ተመላይካ ሽም ነን የእዝጌር ትኸ ተመላይካ ስርም የጠቀለው።<note caller="-" style="x"><char style="xo" closed="false">1፥4 </char><char style="xt" closed="false"><ref loc="PSA 2:7">መዝ. 2፥7</ref>፤ <ref loc="2SA 7:14">2 ሳሙ. 7፥14</ref>፤ <ref loc="1CH 17:13">1 ዜና 17፥13</ref>። </char></note><verse eid="HEB 1:4" /></para>
+  <para style="q">
+    <verse number="5" style="v" sid="HEB 1:5" />እዝጌር ስርም ተመላይካ ግብት፥</para>
+  <para style="q1" vid="HEB 1:5">“አኸ ትኸኛንከ፤ ኧኳ ጨኘከኸም፤”</para>
+  <para style="q1" vid="HEB 1:5">“እያ አባ ኧዀን፤ ሑቲም ትኸኛ ይኸን”</para>
+  <para style="q2" vid="HEB 1:5">የቧረን ኤነ።<verse eid="HEB 1:5" /></para>
+  <para style="q">
+    <verse number="6" style="v" sid="HEB 1:6" />እዝጌር የበሕር ትኸኹ ተዓለሜ በላዀን ግዝየ</para>
+  <para style="q1" vid="HEB 1:6">“የእዝጌር መላይካ እንም የስግዶነ” ይብር።<note caller="-" style="x"><char style="xo" closed="false">1፥6 </char><char style="xt" closed="false"><ref loc="DEU 32:43">ዘዳ. 32፥43</ref>። </char></note><verse eid="HEB 1:6" /></para>
+  <para style="q">
+    <verse number="7" style="v" sid="HEB 1:7" />ስለመላይካዪም</para>
+  <para style="q1" vid="HEB 1:7">“የመላይካዪ መናፍስት፥</para>
+  <para style="q2" vid="HEB 1:7">አገልጋዮቸሑም የሳት ነበልባል ይሸክት” ይብር።<note caller="-" style="x"><char style="xo" closed="false">1፥7 </char><char style="xt" closed="false"><ref loc="PSA 104:4">መዝ. 104፥4</ref>። </char></note><verse eid="HEB 1:7" /></para>
+  <para style="q">
+    <verse number="8" style="v" sid="HEB 1:8" />ስለትኸኹም፥</para>
+  <para style="q1" vid="HEB 1:8">“አምላክ ዙፋናኸ የዘለዓለም ዘለዓለም ጠናም ይነብር፤</para>
+  <para style="q2" vid="HEB 1:8">መንግሥታኸም በጽድቅ ታትዳድር፤<verse eid="HEB 1:8" /></para>
+  <para style="q">
+    <verse number="9" style="v" sid="HEB 1:9" />ጽድቅ ወደድኸም፤ ዐመጣም ጠላኸ፤</para>
+  <para style="q1" vid="HEB 1:9">በዚ መሳ እዝጌር አምላካኸ ሜጠረናኸም፤</para>
+  <para style="q2" vid="HEB 1:9">ተመራርቻሐም ነን አወናናኸም፤ ብልቃት ብይብ ቅባት ቀባናኸ” ይብር።<note caller="-" style="x"><char style="xo" closed="false">1፥8-9 </char><char style="xt" closed="false"><ref loc="PSA 45:6-7">መዝ. 45፥6-7</ref>። </char></note><verse eid="HEB 1:9" /></para>
+  <para style="m">
+    <verse number="10" style="v" sid="HEB 1:10" />ዚምኸም</para>
+  <para style="q1" vid="HEB 1:10">“ጔታና! አኸ በደርኸም አፈር ምሠረትከም፤</para>
+  <para style="q2" vid="HEB 1:10">ሰሜዪ የጃኸ ሜናኖ፤<verse eid="HEB 1:10" /></para>
+  <para style="q">
+    <verse number="11" style="v" sid="HEB 1:11" />ሕኖ እንም ይጠፎ፤</para>
+  <para style="q1" vid="HEB 1:11">አኸም ትነብር፤</para>
+  <para style="q2" vid="HEB 1:11">ሕኖ እንም የልባስኸም ይገርዞ።<verse eid="HEB 1:11" /></para>
+  <para style="q">
+    <verse number="12" style="v" sid="HEB 1:12" />የመጐናጸፊያኸም ትጥቀልሎ፤</para>
+  <para style="q1" vid="HEB 1:12">ሕኖም የልባስኸም ይሸገሮ።</para>
+  <para style="q2" vid="HEB 1:12">አኸም ዛምንከ፤</para>
+  <para style="q2" vid="HEB 1:12">የዘበናኸም መጨረሻ ኤነን” ይብር።<note caller="-" style="x"><char style="xo" closed="false">1፥10-12 </char><char style="xt" closed="false"><ref loc="PSA 102:25-27">መዝ. 102፥25-27</ref>። </char></note><verse eid="HEB 1:12" /></para>
+  <para style="m">
+    <verse number="13" style="v" sid="HEB 1:13" />እዝጌር ተመላይካውታን ግብት፥</para>
+  <para style="q1" vid="HEB 1:13">“መሶአኸ ተሥልጣናኸ ተት ኧሸክትንከ ስን</para>
+  <para style="q2" vid="HEB 1:13">በከነኛ ቾና” የቧረን ኤነ።<note caller="-" style="x"><char style="xo" closed="false">1፥13 </char><char style="xt" closed="false"><ref loc="PSA 110:1">መዝ. 110፥1</ref>። </char></note><verse eid="HEB 1:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="HEB 1:14" />ኧጌ፥ መላይካ እንም ይተርፎዪ ሰቦች የዋገልግል ይትለሖ የእዝጌር አገልጋይ የኸኖ መናፍስትኖ።<verse eid="HEB 1:14" /></para>
+  <chapter eid="HEB 1" />
+  <chapter number="2" style="c" sid="HEB 2" />
+  <para style="s1">ወትርፍ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="HEB 2:1" />ስለኸነ ተሰማነዪ ቃር ሳትነም አንወጥቅነኸም፤ የሰማነዪ ዘንጋ ስርም ወትቀየ ነነብነ። <verse eid="HEB 2:1" /><verse number="2" style="v" sid="HEB 2:2" />በመላይካ መሳ የቴወደዪ ቃል የኢን ኸነም፤ ዚም ቃል ይችላለፍ የዚም ቃል ኤታዘዝ ይትጌቧን ቅጣት ይቌበር፤ <verse eid="HEB 2:2" /><verse number="3" style="v" sid="HEB 2:3" />ኧጌ፥ ኢና ዚ ወትርፍ በጭ ያበይነ በኸነ ምንኸም ናመልጥነ? ዚ ወትርፍ በደረም ያበሠረ ጔታ ነብሰሑ፤ ተሑቲ የሰሞዪም ሰብ ዚም አርጋገጦንነም። <verse eid="HEB 2:3" /><verse number="4" style="v" sid="HEB 2:4" />እዝጌርም በምልክት፤ ያዴንቅም በትልያዮ ታምራት ዛምኸም የፈአደሑኸም በትቌበሮይ የመንፈስ ቅዱስ ስጦታዎች ስለዚ ቃር ምሰከረም።<verse eid="HEB 2:4" /></para>
+  <para style="s1">የሰብ ዝሬት ያተርፍ ኢየሱስ ወሕነሑ</para>
+  <para style="p">
+    <verse number="5" style="v" sid="HEB 2:5" />እዝጌር ቲፍቴዬ ይቸኚ፤ ዚ ኧዝናጊነᎄዪ ዓለም የመላይካ አናትገዛ፤ <verse eid="HEB 2:5" /><verse number="6" style="v" sid="HEB 2:6" />ቢኸንም በቅዱሳን መጽሐፍ ባት መደር እኪ ቧሪም፦</para>
+  <para style="q1" vid="HEB 2:6">አኸ የሑቲ ቴስᎆ ሰብ መአሩ?</para>
+  <para style="q2" vid="HEB 2:6">ቴስቡነዬሽ የግድ የሰብ ትኸ መአሩ?<verse eid="HEB 2:6" /></para>
+  <para style="q">
+    <verse number="7" style="v" sid="HEB 2:7" />ቀል ተመላይካ አቴነስኰን፤</para>
+  <para style="q2" vid="HEB 2:7">የክብር የሞገስም ዘውድ ዀናዀነም፤</para>
+  <para style="q2" vid="HEB 2:7">በጃኸም ሜና ᎈር ሾምኰን፤<note caller="+" style="f"><char style="fr" closed="false">2፥7 </char><char style="ft" closed="false">አታት ትርጉሞች “በጆቻኸም ሜና ሾምኰን” ይብሪ ይደብሮ። </char></note><verse eid="HEB 2:7" /></para>
+  <para style="q">
+    <verse number="8" style="v" sid="HEB 2:8" />እንም ቃር በሥልጣነሑ ተት ሸኰትኰነ።<note caller="-" style="x"><char style="xo" closed="false">2፥6-8 </char><char style="xt" closed="false"><ref loc="PSA 8:4-6">መዝ. 8፥4-6</ref>። </char></note></para>
+  <para style="m" vid="HEB 2:8">እንም ቃር በሥልጣነሑ ተት ቲሸክት፤ በሥልጣነሑ ተት ቴሸኩትነ ያቈኘን አትም ቃር ኤነ። ቢኸንም ኧሗ ያነኸም እንም ቃር በሑቲ ሥልጣን ተት የኸነኸም ገና አነዠነ። <verse eid="HEB 2:8" /><verse number="9" style="v" sid="HEB 2:9" />ኧሗም ተመላይካ ቀል ግዝየ ዝቅ ባረም የነበረዪ ኢየሱስ፤ የሞት መከራ በወቀበረሑ መሳ የክብር የሞገስም ዘውድ የኸናዪ ኢየሱስ ናዥነ፤ ሑቲ በእዝጌር ጸጋ የሰቦች እንም ᎀተም። <verse eid="HEB 2:9" /><verse number="10" style="v" sid="HEB 2:10" />እንም ቃር የሑቲ በሑቲም ይነብር እዝጌር፤ ብዠ ዴንጋ ተክብሬ የዋተኝ፤ ይተርፎᎄዪ ይምሠርት በመከራ ፍጡም ይሸኩቼ የትጌባ ባነ።<verse eid="HEB 2:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="HEB 2:11" />የሰቦች ቅዱሳን ይሸክቶ በሑቲ ቅዱሳን የኸኖዪ ሰቦች የቁና አባ ዴንጋኖ፤ በዚ መሳ ኢየሱስ የሕኖ “ጐባቢተኛ” ባረም የወጥራ ኤሟልል። <verse eid="HEB 2:11" /><verse number="12" style="v" sid="HEB 2:12" />ስለኸነም በቅዱሳን መጽሐፍ</para>
+  <para style="q1" vid="HEB 2:12">“ሽማኸ የጐባቢተኛ ኢውዶ፤</para>
+  <para style="q2" vid="HEB 2:12">በእዝጌር ሕዝብ ጀᎈር ግብት በመዝሙር አምሰግንከ” ይብር፤<note caller="-" style="x"><char style="xo" closed="false">2፥12 </char><char style="xt" closed="false"><ref loc="PSA 22:22">መዝ. 22፥22</ref>። </char></note><verse eid="HEB 2:12" /></para>
+  <para style="m">
+    <verse number="13" style="v" sid="HEB 2:13" />ዛምኸም “እምነተኛ በሑቲ ᎈር አድጉ” ይብር፤<note caller="-" style="x"><char style="xo" closed="false">2፥13 </char><char style="xt" closed="false"><ref loc="ISA 8:17-18">ኢሳ. 8፥17-18</ref>። </char></note></para>
+  <para style="m" vid="HEB 2:13">ዠበረም “እያ እዝጌርም ታቤ ዴንጋ በዚዬንነ” ይብር።<verse eid="HEB 2:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="HEB 2:14" />ስለኸነም ነዚ ዴንጋ በሠር ደምም ያነኖ ሰቦች የኸኖኸም ኢየሱስም የሕኖኸም ሰብ ኸነ፤ ዚ የሸከተ በሞተሑ ቆት በሞት ᎈር ሥልጣን ያነኒ የዳቡሎስ የዋጥፋው፤ <verse eid="HEB 2:14" /><verse number="15" style="v" sid="HEB 2:15" />ዛምኸም የሞት በወገና መሳ ዕድሜሕኖ ስን ጉዙነት ይገዞ የነበሮዪ ነጣ የዋውጣው። <verse eid="HEB 2:15" /><verse number="16" style="v" sid="HEB 2:16" />የኢየሱስ ወሴ የመላይካ ቴይኸን የአብርሐም ዘር የወግዙ፤ <verse eid="HEB 2:16" /><verse number="17" style="v" sid="HEB 2:17" />ስለኸነም ብንምቃር የጐባቢተሑኸም ይጌቧን ስለኸነ ሸከተ፤ በዚኸማት የሰቦች አጢአት የዋጥፋ ባረም የእዝጌር የዋገልግል ታማኝ ይመር የካሕናቶች አለአ ኸነ። <verse eid="HEB 2:17" /><verse number="18" style="v" sid="HEB 2:18" />ሑቲ ነብሰሑ ቢያሰት ፈተና በፌተነ ግዝየ መከራ የቌበረ ስለኸነ ይትፌተኖዪ ወግዝ ይችል።<verse eid="HEB 2:18" /></para>
+  <para style="b" />
+  <chapter eid="HEB 2" />
+  <chapter number="3" style="c" sid="HEB 3" />
+  <para style="s1">ኢየሱስ ተሙሴ ነኑ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="HEB 3:1" />ስለኸነም የሰሜዪ ጥሪ ትሰዶ የኸንኩ የቄደስኩ ምእመናን! የእምነተና ሐዋርያ የካሕናቶች አለአም የኢየሱስ አስታውሶ። <verse eid="HEB 3:1" /><verse number="2" style="v" sid="HEB 3:2" />ሙሴ በእዝጌር ቤት እንም ታማኝ የነበረኸም ኢየሱስም የሾᎀኒ የእዝጌር ታማኝ ባነ። <verse eid="HEB 3:2" /><verse number="3" style="v" sid="HEB 3:3" />ቤት ይሸክት ተቤቲ የጠቀለ የበዛ ክብር ያነንኸም እንም ኢየሱስም ተሙሴ የጠቀለ የበዛ ክብር ይጌቧን ኸነም ተረከበ፤<note caller="-" style="x"><char style="xo" closed="false">3፥3 </char><char style="xt" closed="false"><ref loc="NUM 12:7">ዘሑ. 12፥7</ref>። </char></note> <verse eid="HEB 3:3" /><verse number="4" style="v" sid="HEB 3:4" />የኢንም የያታቲ ቤት ይሸክት ነነን፤ እንም ቃር የሸከተ እዝጌሩ። <verse eid="HEB 3:4" /><verse number="5" style="v" sid="HEB 3:5" />ቲፍቴዬ ወበር ይጌቧን ቃር ምስክር ይኸንኸም ሙሴ ብንም በእዝጌር ቤት የአገልጋይኸም ታማኝ ባነ።<verse eid="HEB 3:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="HEB 3:6" />ክርስቶስም በእዝጌር ቤት ታማኝ የኸነ የትኸኸም ኸነሙ፤ ቤተሑ ኢናትንነ፤ ቤተሑም ኧኸነ ኧትማመነᎄዪ ቃር ኧትነነድነᎄዪም ተስፋ አቆመርነም ትንጠብጥነው።<verse eid="HEB 3:6" /></para>
+  <para style="s1">የእዝጌር ሕዝብ ያቡዮ ማስጠንቀቂያ</para>
+  <para style="p">
+    <verse number="7" style="v" sid="HEB 3:7" />ስለኸነም መንፈስ ቅዱስ ይቡንኸም</para>
+  <para style="q1" vid="HEB 3:7">“ኧኳ ጣምባሑ ትትሰሞ<note caller="-" style="x"><char style="xo" closed="false">3፥7-11 </char><char style="xt" closed="false"><ref loc="PSA 95:7-11">መዝ. 95፥7-11</ref>። </char></note><verse eid="HEB 3:7" /></para>
+  <para style="q2">
+    <verse number="8" style="v" sid="HEB 3:8" />በበረሐ በፍታተንኩኝ ግዝየ ዬመጥኩኸማት</para>
+  <para style="q2" vid="HEB 3:8">ሒናሑ እምቢተኘ አትሰክቶ፤<verse eid="HEB 3:8" /></para>
+  <para style="q">
+    <verse number="9" style="v" sid="HEB 3:9" />በዛዬ አቦቻሑ ተፍታተኖኝ፤ ተግዳደሮኝም፤</para>
+  <para style="q2" vid="HEB 3:9">አርባ ዓመት የሸከትኩኒም ኧዞ” ይብር እዝጌር።<verse eid="HEB 3:9" /></para>
+  <para style="q">
+    <verse number="10" style="v" sid="HEB 3:10" />“ስለኸነም ዛ ጨኘት ማቸሑም፥</para>
+  <para style="q2" vid="HEB 3:10">‘ሒነሕኖ እንጌ ይሰሰት፤</para>
+  <para style="q2" vid="HEB 3:10">ኤማኛም አንካሮ’ ባሑ።”<verse eid="HEB 3:10" /></para>
+  <para style="q">
+    <verse number="11" style="v" sid="HEB 3:11" />ኧሗም፥</para>
+  <para style="q1" vid="HEB 3:11">“‘እያ ትኒቦ ያᎈርᎄ መደሬ ስርም ኤገቦ!’ ባሑም</para>
+  <para style="q2" vid="HEB 3:11">በማተኛ ማልኩም።”<verse eid="HEB 3:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="HEB 3:12" />ደቦዎቸኛ፥ ታሑ ግብት ሟንም ተሕያው እዝጌር ያረቅ ቡሼ ኤያምን ሒንም ኤነቡርኸም ተቀሮ። <verse eid="HEB 3:12" /><verse number="13" style="v" sid="HEB 3:13" />ይጠቅልሽ ታሑ በአጢያት ተብላለጠም ሒነሑ እምቢተኘ ኤሸክትከም “ኧኳ” ቧሪም የጠራዪ ግዝየ ያነ ስን ከነ በከነሑ ተጥናኖ። <verse eid="HEB 3:13" /><verse number="14" style="v" sid="HEB 3:14" />በመጀመሪያ የነበረነዪ እምነተና መጨረሻ ስን አቆመርነም በጠበጥነ ተክርስቶስጌ ኧሰድነ ኧኸነ።<verse eid="HEB 3:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="HEB 3:15" />ዚም “ኧኳ ጣምባሑ ትትሰሞ</para>
+  <para style="q2" vid="HEB 3:15">በዛ በዐመጣዪ ግዝየ የሸከትኩይኸማት ሒናሑ እምቢተኘ አትሰክቶ”</para>
+  <para style="m" vid="HEB 3:15">ቧሪም የቴወደኸሙ።<verse eid="HEB 3:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="HEB 3:16" />ወሕነሑ ነዛ ጣምባሑ በሰሞ አንቌ ዬመጦ ነሟ ባኖ? ሕኖ ሙሴ ቲመራኖ ተግብጽ የወጦ እንም አነበሮ? <verse eid="HEB 3:16" /><verse number="17" style="v" sid="HEB 3:17" />የእዝጌር አርባ ዓመት ሙላ ቲያትማቶይ የነበሮ ነሟ ባኖ? ነዛ አጢአት የሸከቶዪ ሬሳሕኖም በበረሐ ወጠቀም የቀኘዪ አንከነ? <verse eid="HEB 3:17" /><verse number="18" style="v" sid="HEB 3:18" />ኧሗሽ ነዛ ያንታዘዞዪ ባንከነ አንኸንም “እያ ተዋᎉየኛዬ አትገቦ” ባረም የማለቦ ነሟ ባኖ? <verse eid="HEB 3:18" /><verse number="19" style="v" sid="HEB 3:19" />ኧጌሽ ይገቦዬ ያንቻሎዪ ባለወምነሕኖ መሳ ወሕነሑ ኧትሬዳነ።<verse eid="HEB 3:19" /></para>
+  <para style="b" />
+  <chapter eid="HEB 3" />
+  <chapter number="4" style="c" sid="HEB 4" />
+  <para style="s1">በሰምበት ዋᎉ የእዝጌር ሕዝብ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="HEB 4:1" />ስለኸነም ሑቲ ቲይብነ ቲያᎈርᎄ መደሬ የወግባ የቌበርነዪ ተስፋ ገና የጠና ስለኸነ ታሑ ሟንም ተዚ ቲያᎈርᎄ መደሬ የወግባ ዕድል ቴረሕብ ኤይቀይኸም እንመና ንቀየነ። <verse eid="HEB 4:1" /><verse number="2" style="v" sid="HEB 4:2" />ፈያዪ ዜና ሕኖ የሰሞይኸም ኢናም ሰማኔም፤ ቢኸንም ሕኖ የሰሞዪ ቃል በእምነት ያንትቀበሮይ ስለኸነ አንደግለለኖ። <verse eid="HEB 4:2" /><verse number="3" style="v" sid="HEB 4:3" />የሑቲ ሜና ዓለም ተትኸለቀ ቀረሰም የጥናቀቀ ቢኸንም፦ “እያ ትኒቦ ቲያᎈርᎄ መደሬ ስርም ኤገቦ ባሑም በማተኛ ማልኩም” የቧረንኸም ኧሗም ኢና አምነ ተዛዬ እዝጌር ቲይብነ ቲያᎈርᎄ መደሬ ኧገባነ፤<note caller="-" style="x"><char style="xo" closed="false">4፥3 </char><char style="xt" closed="false"><ref loc="PSA 95:11">መዝ. 95፥11</ref>። </char></note> <verse eid="HEB 4:3" /><verse number="4" style="v" sid="HEB 4:4" />በሰበታለኘዪ ከነ ባት መደር “እዝጌር ተሜናሑ እንም በሰበታለኘዪ ከነ ዐᎈኘ” ቧሪም ተጣፈም።<note caller="-" style="x"><char style="xo" closed="false">4፥4 </char><char style="xt" closed="false"><ref loc="GEN 2:2">ዘፍ. 2፥2</ref>። </char></note> <verse eid="HEB 4:4" /><verse number="5" style="v" sid="HEB 4:5" />ዛምኸም በዚም መደር ᎈር ዠበረም</para>
+  <para style="q1" vid="HEB 4:5">“እያ ትኒቦ ቲያᎈርᎄ መደሬ ስርም ኤገቦ” ይብር።<note caller="-" style="x"><char style="xo" closed="false">4፥5 </char><char style="xt" closed="false"><ref loc="PSA 95:11">መዝ. 95፥11</ref>። </char></note><verse eid="HEB 4:5" /></para>
+  <para style="m">
+    <verse number="6" style="v" sid="HEB 4:6" />ነዛ ፈያዪ ዜና በመጀመሪያ የሰሞዪ ባለወታዘዘሕኖ እዝጌር ቲይቦ ቲያᎈርᎄ መደሬ አንገቦ፤ ቢኸንም ተዛዬ ይገቦኸም የትፌቀደኖ አታት ሰቦች ባኖ። <verse eid="HEB 4:6" /><verse number="7" style="v" sid="HEB 4:7" />ዚም በደረም የቧሪኸም</para>
+  <para style="q1" vid="HEB 4:7">“ኧኳ ጣምባሑ ትትሰሞ፥</para>
+  <para style="q2" vid="HEB 4:7">ሒናሑ እምቢተኘ አትሰክቶ።”</para>
+  <para style="m" vid="HEB 4:7">ቲብር እዝጌር ተብዠ ዘበን አንቌ በዳዊት መሳ በዝነጔን ቃል “ኧኳ” ቧሪም የጠራዪ ከነ በወወሰነሑ ተርጋገጠም።<note caller="-" style="x"><char style="xo" closed="false">4፥7 </char><char style="xt" closed="false"><ref loc="PSA 95:7">መዝ. 95፥7</ref>፣<ref loc="PSA 95:8">8</ref>። </char></note><verse eid="HEB 4:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="HEB 4:8" />ኢያሱ የዋᎉ መደር አበኖም ቢኸን እዝጌር ዠበረም “ኧኳ” በወበር ስለእንጐድ ከነ ባንዘጔ ባነ።<note caller="-" style="x"><char style="xo" closed="false">4፥8 </char><char style="xt" closed="false"><ref loc="DEU 31:7">ዘዳ. 31፥7</ref>፤ <ref loc="JOS 22:4">ኢያ. 22፥4</ref>። </char></note> <verse eid="HEB 4:8" /><verse number="9" style="v" sid="HEB 4:9" />ኧጌሽ የእዝጌር ሕዝብ የሰምበት ዋᎉ ገና ነነ፤ <verse eid="HEB 4:9" /><verse number="10" style="v" sid="HEB 4:10" />እዝጌር ተሜናሑ ያᎈኘኸም ዛምኸም እዝጌር ቲይᎅ ዋᎉ ይገባ ተሜናሑ አᎈኘ።<note caller="-" style="x"><char style="xo" closed="false">4፥10 </char><char style="xt" closed="false"><ref loc="GEN 2:2">ዘፍ. 2፥2</ref>። </char></note> <verse eid="HEB 4:10" /><verse number="11" style="v" sid="HEB 4:11" />ስለኸነም ሟንም የዛሕኖ አለወታዘዝ ተዄተለም ኤይወጥቀኸም ተእዝጌር ቲያᎈርᎄ መደሬ የወግባ ንጋደልነ።<verse eid="HEB 4:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="HEB 4:12" />የእዝጌር ቃል ሕያውሙ ይሸክት፤ ዄት አፍ ታነን ሰይፍ የጠቀለ ቡሊው፤ ነብስ ተመንፈስ፥ ጅማት ተቅልጥም ይላኝ ስን ገደደም ይቡየ፤ በሒን ውስጥ የሼተረዪ አሳብ ኤላት ይምረምር። <verse eid="HEB 4:12" /><verse number="13" style="v" sid="HEB 4:13" />ተእዝጌር ኢፍት ይሼተር አትም ኸልቀት ኤነ፤ በሑቲ ዔን ኢፍት እንም ቃር ቢልቢጢጦ እንጨሑም ኸነም ይታዡ፤ ኢናም መልስ ዋብ ይጌባነ በሑቲ ኢፍቴው።<verse eid="HEB 4:13" /></para>
+  <para style="s1">ኢየሱስ ንኢ የካሕናት አለአው</para>
+  <para style="p">
+    <verse number="14" style="v" sid="HEB 4:14" />ኧጌሽ ሰሜ ተቸለፈም ተነኔ ተሰሜዬ የወጣ ንኢ የካሕናት አለአ ስላነነ እምነተናም ናጥብቅነም ንጥብጥነ፤ የካሕናት አለአዪም የእዝጌር ትኸ ኢየሱሱ። <verse eid="HEB 4:14" /><verse number="15" style="v" sid="HEB 4:15" />መሳሑም በቂጭናና ኤያዝንነ የካሕናት አለአ ኤነነ፤ ቢኸንም ይናኸም በሟንም ቃር የትፌተነ የካሕናት አለአ ነነ፤ የሕን አንኸንም አትም አጢአት አንሠከተ። <verse eid="HEB 4:15" /><verse number="16" style="v" sid="HEB 4:16" />ኧጌሽ ምረተሑ ኧቌበርነኸም ኧጉዣ ቲያሸነ ግዝየ ጸጋ ንረሕብነኸም ጸጋዪ ቲትረከብወዬ ተእዝጌር ዙፋኔ ያለ አትም ጊናት ንቅርብነ።<verse eid="HEB 4:16" /></para>
+  <para style="b" />
+  <chapter eid="HEB 4" />
+  <chapter number="5" style="c" sid="HEB 5" />
+  <para style="p">
+    <verse number="1" style="v" sid="HEB 5:1" />እያታቲ የካሕናት አለአ በሰቦች ግብት ተሜጠረም ተእዝጌርጌ ቢያትራክቦ ቃር በሰብ ሟኔ ኸነም መባ መሥዋዕትም የዋቅርብ ይሾም። <verse eid="HEB 5:1" /><verse number="2" style="v" sid="HEB 5:2" />ሑቲ ነብሰሑ ቅጭና ያነወ ስለኸነ ያንትማሮዪ የሰሰቶዪ በርሕራሔ ይትምሌከቶዬ ይችል። <verse eid="HEB 5:2" /><verse number="3" style="v" sid="HEB 5:3" />ሑቲ ነብሰሑ በቂጭናሑ መሳ የአጢአት አፉታ ያትሬክብ መሥዋት ዋቅርብ ይጌቧን የሕዝቢ ጠለል ቴይኸን የነብስመሑ።<note caller="-" style="x"><char style="xo" closed="false">5፥3 </char><char style="xt" closed="false"><ref loc="LEV 9:7">ዘሌ. 9፥7</ref>። </char></note> <verse eid="HEB 5:3" /><verse number="4" style="v" sid="HEB 5:4" />አሮን የጠራኸም በእዝጌር ወጠራ ነነወ አንኸንም፣ ዚ ክብር የነብሰሑ ይወስድ ሟንም ኤነ።<note caller="-" style="x"><char style="xo" closed="false">5፥4 </char><char style="xt" closed="false"><ref loc="EXO 28:1">ዘፀ. 28፥1</ref>። </char></note><verse eid="HEB 5:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="HEB 5:5" />ዛምኸም ክርስቶስ የካሕናት አለአ የወሕን ክብር በነብሰሑ አንወሰደ፤ ቢኸንም ሑቲ የካሕናት አለአ የወሕን ክብር የረከበ፥</para>
+  <para style="q1" vid="HEB 5:5">“አኸ ትኸኛንከ፤</para>
+  <para style="q2" vid="HEB 5:5">እያ ኧኳ ጨኘከኸም” የቧረን በእዝጌሩ።<note caller="-" style="x"><char style="xo" closed="false">5፥5 </char><char style="xt" closed="false"><ref loc="PSA 2:7">መዝ. 2፥7</ref>። </char></note><verse eid="HEB 5:5" /></para>
+  <para style="m">
+    <verse number="6" style="v" sid="HEB 5:6" />ብንጐድ መደር እዝጌር፥</para>
+  <para style="q1" vid="HEB 5:6">“መልከ ጼዴቅኸም የካሕንነት ሹመት</para>
+  <para style="q2" vid="HEB 5:6">አኸ የዘለዓለም ካሕንንከ” ይብር።<note caller="-" style="x"><char style="xo" closed="false">5፥6 </char><char style="xt" closed="false"><ref loc="PSA 110:4">መዝ. 110፥4</ref>። </char></note><verse eid="HEB 5:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="HEB 5:7" />ኢየሱስ ሰብ ኸነም በዚ አፈር በነበረወ ግዝየ ተሞት ያተርፌ ይችል አምላኬ በወደል ውታ በብዠ ኢንባ ጠሎት ጩቀሸም አቀረበ፤ በቁና ቀልብነት ነብሰሑ ታዛዥ በወሰክተሑ እዝጌር ጠሎተሑ ሰሟን።<note caller="-" style="x"><char style="xo" closed="false">5፥7 </char><char style="xt" closed="false"><ref loc="MAT 26:36-46">ማቴ. 26፥36-46</ref>፤ <ref loc="MRK 14:32-42">ማር. 14፥32-42</ref>፤ <ref loc="LUK 22:39-46">ሉቃ. 22፥39-46</ref>። </char></note> <verse eid="HEB 5:7" /><verse number="8" style="v" sid="HEB 5:8" />የእዝጌር ትኸ ቢኸንም በቌᎄረን መከራ ወታዘዝ ተማረ። <verse eid="HEB 5:8" /><verse number="9" style="v" sid="HEB 5:9" />በዚም ፍጡም ኸነም በትረከበ አንቌ ይታዘዞዪ እንም የዘለዓለም ወትርፍ መሳ ኸነኖም። <verse eid="HEB 5:9" /><verse number="10" style="v" sid="HEB 5:10" />ዚም እዝጌር በመልከ ጼዴቅ የክሕነት ሹመት ማት የካሕናት አለአ ሸከተም ስለሾᎀኑ።<verse eid="HEB 5:10" /></para>
+  <para style="s1">እምነተሕኖ ኤገፍሮኸም ያᎅ ማስጠንቀቂያ</para>
+  <para style="p">
+    <verse number="11" style="v" sid="HEB 5:11" />ስለዚ ወባጀ ኧዝነጊነይ ብዠ ቃር ነነ፤ ቢኸንም የዋጥራምት ችሎታሑ ቀል ስለኸነ የዋትረዳ ምካቱ። <verse eid="HEB 5:11" /><verse number="12" style="v" sid="HEB 5:12" />ኧሗ ስን ባነዪ ግዝየ አሑ አስተማሪዎች ወሕን ይትጌባሑ ባነ፤ ቢኸንም የእዝጌር ቃል የመጀመሪያዪ ትምርት እንጐድ ሰብ ዠበረም ያትመርኩኸም ያሸ፤ በዚምኸማት ያሸሑ ብጭወው አንኸንም የቆመረ ስንቅ አንከነ። <verse eid="HEB 5:12" /><verse number="13" style="v" sid="HEB 5:13" />ብጭወ ይሰፉሪ እንም ሰብዬ ስለኸነ ዉዶ ተፈያ የወላይ ትምርት አሮሸ።<note caller="-" style="x"><char style="xo" closed="false">5፥12-13 </char><char style="xt" closed="false"><ref loc="1CO 3:2">1 ቆሮ. 3፥2</ref>። </char></note> <verse eid="HEB 5:13" /><verse number="14" style="v" sid="HEB 5:14" />የቆመረ ስንቅ ያሸኖዪ ዉዶ ተፈያም የወላይ ወሮሽ ያነኖ ወደል ሰቦችኖ።<verse eid="HEB 5:14" /></para>
+  <para style="b" />
+  <chapter eid="HEB 5" />
+  <chapter number="6" style="c" sid="HEB 6" />
+  <para style="p">
+    <verse number="1" style="v" sid="HEB 6:1" />ኧጌሽ ስለክርስቶስ ያᎅዪ የመጀመሪያዪ ትምርት ገፈርነም ውቀት ታነን ትምርቴ ንተለፍነ፤ ተᎀተ ሜና ንስሐ የወግባ<note caller="+" style="f"><char style="fr" closed="false">6፥1 </char><char style="ft" closed="false">ወይ </char><char style="fqa" closed="false">ቤድገልል ሥራት</char></note> በእዝጌር የወምንም መሠረት ዠበርነም አንድግነ፤ <verse eid="HEB 6:1" /><verse number="2" style="v" sid="HEB 6:2" />ዛምኸም የጥምቀት፥ የጅ ወጫን፥ ተሞት የወትነሣ የዘለዓለም ፍርድ ትምርት ዠበርነም አንመሥርትነ። <verse eid="HEB 6:2" /><verse number="3" style="v" sid="HEB 6:3" />እዝጌር ቢፈቅድንነ ዚ ኧሸክትነ።<verse eid="HEB 6:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="HEB 6:4" />አትጌ ብራን የበራኖዪ<note caller="+" style="f"><char style="fr" closed="false">6፥4 </char><char style="ft" closed="false">አትጌ ብራን የበራኖዪ ወበር ኢየሱስ አመኖም የለጎ ሰቦች ያምለክት ወበሩ። </char></note> የሰሜዪ ስጦታ የቀመሶዪ፤ ተመንፈስ ቅዱስ ይሰዶ የኸኖዪ፤ <verse eid="HEB 6:4" /><verse number="5" style="v" sid="HEB 6:5" />የእዝጌር ፈያ ቃል ይቸኚም ዓለም ቆት ቀመሶም ባነ፤ <verse eid="HEB 6:5" /><verse number="6" style="v" sid="HEB 6:6" />ተዚ እንም አንቌ እምነተሕኖ ቢለጎ ሕኖ የፎለሕኖ ጥፋት የእዝጌር ትኸ ዠበሮም ይሰቅሮይ ስለኸነ ቢልቢጢጦ ያትዋርዶይ ስለኸነ የሕኖ ተንስሐዬ ወዘብር ኤቸል።<verse eid="HEB 6:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="HEB 6:7" />ብዠ ግዝየ በሑቲ ᎈር ይወርዲ ዝናብ ይሰጭ አታሕልት የቀበረወም ሰብ ጥቅም ይብ አፈር ተእዝጌር በረካ ይረሕብ። <verse eid="HEB 6:7" /><verse number="8" style="v" sid="HEB 6:8" />እሶክ ተሺሪንቶ ቢያበቅል ኤድገልል ይኸን፤ በቁርብ ግዝየም ስድበሑ ሰላም፤ መጨረሻመሑ በሳት ወንድዱ።<note caller="-" style="x"><char style="xo" closed="false">6፥8 </char><char style="xt" closed="false"><ref loc="GEN 3:17-18">ዘፍ. 3፥17-18</ref>። </char></note><verse eid="HEB 6:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="HEB 6:9" />ደቦዎች! ስርም ዚኸም ብንዝነጊነም፣ ተወትረፋሑጌ የጥባበጠ ወደል ቃር ያነናሑኸም የኢነተኘንነ። <verse eid="HEB 6:9" /><verse number="10" style="v" sid="HEB 6:10" />እዝጌር ቅን ፈራጁ፤ ስለኸነም ሜናሑ ቢፍቴም ኸነ ኧሗ የቅዱሳን በወርዳ ስለሽመሑ ያቴዠሑዪ ፍቅር ኤረሳ። <verse eid="HEB 6:10" /><verse number="11" style="v" sid="HEB 6:11" />አሑ እንማሑ በተስፋ ትቅሮዪ ቃር ትጠብጦ ስን ወትጋደላሑ መጨረሻ ስን ታቴዞነኸም ኤላነ፤ <verse eid="HEB 6:11" /><verse number="12" style="v" sid="HEB 6:12" />ኤላኔዪም በእምነት በትዕግሥትም ጠኖም ተስፋ ያቡዮዪ ቃር ይወርሶዪ ሰቦች ትመስሮኸም አንኸንም ሰነፍ ትኸኖኸም አንከነ።<verse eid="HEB 6:12" /></para>
+  <para style="s1">የእዝጌር ተስፋ የኢነተኝነት</para>
+  <para style="p">
+    <verse number="13" style="v" sid="HEB 6:13" />እዝጌር የአብርሐም ተስፋ ባᎄን ግዝየ ይመልወ ተሑቲ የበዛ እንጐድ ሟንም ዬነ ስለኸነ እኪ ቲብር በነብሰሑ ማለ፤ <verse eid="HEB 6:13" /><verse number="14" style="v" sid="HEB 6:14" />እኪም ባረ፤ “የኢንም ኧባርክኸ፤ ዘራኸም አᎄዛን።”<note caller="-" style="x"><char style="xo" closed="false">6፥14 </char><char style="xt" closed="false"><ref loc="GEN 22:16-17">ዘፍ. 22፥16-17</ref>። </char></note> <verse eid="HEB 6:14" /><verse number="15" style="v" sid="HEB 6:15" />አብርሐም በትግሥት ቂየም የገᎄነዪ ተስፋ ረከበ። <verse eid="HEB 6:15" /><verse number="16" style="v" sid="HEB 6:16" />ሰቦች ቲመሎ ተነብሰሕኖ ቢበዛ ሽም ይመሎ፤ ንግግረሕኖም በማላ በዋበርታ በግብተሕኖ ያነዪ ኦገት እንም ያጠፎ። <verse eid="HEB 6:16" /><verse number="17" style="v" sid="HEB 6:17" />በዚምኸማት እዝጌር ውሳኔሑ ኤሸግር ወሕነሑ የዋትረዳ ሸም የተስፋዪ ወራሾች ተስፋዪ በማላ ፌጠመኖ። <verse eid="HEB 6:17" /><verse number="18" style="v" sid="HEB 6:18" />በዚምኸማት እዝጌር ኤሸገሮዪ ኤይዋሾቦዪም ዄቲ ዘንጋ፥ ወበርም ተስፋ ማላውታም አበነም፤ በዚ በዄቲ ዘንጋ መሳ ቢፍተና ያነዪ ተስፋ አጠበቅነም ወጥብጥ ኧችልነኸም ኧሼምነᎄ የወርክብ ተሑቲዬ የሰኴነ ኢና ወደል ወጥናና ኧረሕብነ። <verse eid="HEB 6:18" /><verse number="19" style="v" sid="HEB 6:19" />ዚ ተስፋ የሕይወተና ኤንቃነቅ ይትመᎀንᎄ መልሕቁ<note caller="+" style="f"><char style="fr" closed="false">6፥19 </char><char style="ft" closed="false">መልሕቅ ወበር ኧንፋሲ የመርከቢ ኤያንቋንቁኸም ያቆሙᎄ የብረት ኦኮሖኸም ይመስሪ ወበሩ። </char></note>፤ በኢየሱስ ያነነ ተስፋ መጋረጃዪ ተቸለፈም ተመቅደሴ ይገባ።<note caller="-" style="x"><char style="xo" closed="false">6፥19 </char><char style="xt" closed="false"><ref loc="LEV 16:2">ዘሌ. 16፥2</ref>። </char></note> <verse eid="HEB 6:19" /><verse number="20" style="v" sid="HEB 6:20" />ተዚ መቅደሴ ኢየሱስ መልከ ጼዴቅ የክሕነት ሹመትኸም የዘለዓለም የካሕናት አለአ ኸነም ስለኢና በደረም ገባም።<verse eid="HEB 6:20" /></para>
+  <para style="b" />
+  <chapter eid="HEB 6" />
+  <chapter number="7" style="c" sid="HEB 7" />
+  <para style="s1">ካሕኒ መልከጼዴቅ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="HEB 7:1" />መልከ ጼዴቅ የሳሌም ንጉሥ እንም ይችል የእዝጌር ካሕን ባነ፤ ዚ መልከጼዴቅ አብርሐም የነገሥታት ውራግ ሸከተም ቲዠበር ቤማ ረከበም ባረኰን። <verse eid="HEB 7:1" /><verse number="2" style="v" sid="HEB 7:2" />አብርሐምም በረከᎄን ቃር እንም ዐሥራት አወጣም አᎄን፤ መልከ ጼዴቅ የሽመሑ ትርጉም አቲ “የጽድቅ ንጉሥ” እንጐዲ “የሳሌም ንጉሥ” ወበር “የሰላም ንጉሥ” ወበሩ። <verse eid="HEB 7:2" /><verse number="3" style="v" sid="HEB 7:3" />መልከጼዴቅ በጡሑፍ የትኴረ አብ ተዳኮ የዘር ዝሬት ኤነን፤ የዘበነሑ መጀመሪያ፥ የሕይወተሑም መጨረሻ ኤነን፤ ዚ መልከጼዴቅ የእዝጌር ትኸኸም ምሳሌ በወሕን የዘለዓለም ካሕን ኸነም ይነብር።<verse eid="HEB 7:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="HEB 7:4" />ዚ ሰብ ምንኸም ወደል የኸነኸም ተመልከቶ፤ የነገድ አባ የኸነ አብርሐም በምርኮ በረከᎄን ቃር ዐሥራት አወጣም አᎄን። <verse eid="HEB 7:4" /><verse number="5" style="v" sid="HEB 7:5" />ነዛሕኖ በክሕነት ሜና ᎈር ይትሜደቦዪ የሌዊ ዝሬት ተሕዝቢ ተአብርሐም ዘር ወበርም ተጐባቢተሕኖ ዐሥራት ይቌበሮኸም በሕግ ታዘዘኖም፤<note caller="-" style="x"><char style="xo" closed="false">7፥5 </char><char style="xt" closed="false"><ref loc="NUM 18:21">ዘሑ. 18፥21</ref>። </char></note> <verse eid="HEB 7:5" /><verse number="6" style="v" sid="HEB 7:6" />ዛ መልከጼዴቅ የሌዋውያን ዝሬት ቤኸንም ተአብርሐም ዐሥራት ተቌበረ፤ የተስፋ ቃል ያᎅዪ የአብርሐም ቧረኰን። <verse eid="HEB 7:6" /><verse number="7" style="v" sid="HEB 7:7" />እንሲ ተንቂ ቡራኬ ይቌበርኸም ጥርጥር ኤነን። <verse eid="HEB 7:7" /><verse number="8" style="v" sid="HEB 7:8" />ባት ኤማ ዐሥራት ይቌበሮዪ ሟች የኸኖዪኖ፤ ብንጐድ ኤማ ዐሥራት ይቌበሪ ሕያው ኸነም ይነብርኸም የትምሰኰረነ መልከጼዴቁ። <verse eid="HEB 7:8" /><verse number="9-10" style="v" sid="HEB 7:9-10" />ኧጌሽ መልከ ጼዴቅ የአብርሐም በረከᎄን ግዝየ ሌዊ ተአᎄች ተአብርሐም ገና ያንትጠኘ ስለኸነ ዐሥራት ወቀበር ይጌቧን ሌዊ ነብሰሑ በአብርሐም መሳ ዐሥራት ከፈለም ወበሩ።<verse eid="HEB 7:9-10" /></para>
+  <para style="s1">ኢየሱስ የመልከጼዴቅኸም ወሕነሑ</para>
+  <para style="p">
+    <verse number="11" style="v" sid="HEB 7:11" />ኧጌሽ ሕጊ የሕዝቢ ያᎅ በሌዊ ክሕነት መሠረቱ፤ በዚ በሌዋውያን ክሕነት ፍጡምነት ቢትረከብ የአሮን የክሕነት ሹመት ቴይኸን የመልከ ጼዴቅ የክሕነት ሹመት ያነን እንጐድ ካሕን ወተኝ ቤያሸው፤ <verse eid="HEB 7:11" /><verse number="12" style="v" sid="HEB 7:12" />መሳሑም የክሕነት ዝሬት ቲሸገር ሕጊም ቁናዬ ወሰገር ነነወ። <verse eid="HEB 7:12" /><verse number="13" style="v" sid="HEB 7:13" />ዚ እንም የቴወደነ ካሕን ትንጐድ ነገዱ፤ ተዚ ነገድ ሟንም ቲያርጅᎄዪዬ ቀረበም ያግለገለ ኤነ። <verse eid="HEB 7:13" /><verse number="14" style="v" sid="HEB 7:14" />ዛምኸም ጔታና ተይሑዳ ነገድ ወሕነሑ የትኴረው፤ ቢኸንም ሙሴ ስለካሕናት ቲዝነግ የይሑዳ ነገድ አትምሌከተም የዝነጔን አትም ቃር ኤነ።<verse eid="HEB 7:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="HEB 7:15" />ዚ ዘንጋ ስርም ቢልቢጢጦ ኸነም የታዠ መልከ ጼዴቅ እንጐድ ካሕን ቢትነሣወ ግዝየው፤ <verse eid="HEB 7:15" /><verse number="16" style="v" sid="HEB 7:16" />ሑቲ የክሕነት ሹመት የቌበረ የሕይወተሑ ፍጣሜ ዬነን በወሕነሑ አንኸንም ተሰብ ዘር በቸኘ ሥራት ሕግም አንከነ። <verse eid="HEB 7:16" /><verse number="17" style="v" sid="HEB 7:17" />“መልከ ጼዴቅ የክሕነት ሹመትኸም አኸ የዘለዓለም ካሕንንከ” ቧሪም የሑቲ ተምሰኰረነም።<note caller="-" style="x"><char style="xo" closed="false">7፥17 </char><char style="xt" closed="false"><ref loc="PSA 110:4">መዝ. 110፥4</ref>። </char></note> <verse eid="HEB 7:17" /><verse number="18" style="v" sid="HEB 7:18" />የበደረዪ ትዛዝ የቌጠ ኤይጠቅም ስለኸነ ተሻረም <verse eid="HEB 7:18" /><verse number="19" style="v" sid="HEB 7:19" />በሙሴ ሕጊ አትም ዘንጋ ፍጡም ይኸኔ አንቻለ፤ ኧሗም ተእዝጌሬ ኧቀርብነᎄ የጠቀለ ተስፋ አቡነም።<verse eid="HEB 7:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="HEB 7:20" />ዚ ክሕነት እዝጌር ቴይሒን የኸነ ማላ አንከነ፤ ነዛ ተዚ ኢፍቴ ካሕን የኸኖዪ ማላ ቴነብሩ፤ <verse eid="HEB 7:20" /><verse number="21" style="v" sid="HEB 7:21" />ኢየሱስ ካሕን የኸነ በእዝጌር ማላው፤ ዚም፦</para>
+  <para style="q1" vid="HEB 7:21">“እዝጌር ‘አኸ የዘለዓለም ካሕንንከ’ ባረም ማለም፤</para>
+  <para style="q2" vid="HEB 7:21">ኤሸገር” ቧሪም በቴወደነ መሠረቱ።<note caller="-" style="x"><char style="xo" closed="false">7፥21 </char><char style="xt" closed="false"><ref loc="PSA 110:4">መዝ. 110፥4</ref>። </char></note><verse eid="HEB 7:21" /></para>
+  <para style="q">
+    <verse number="22" style="v" sid="HEB 7:22" />በዚ ማላ መሳ ኢየሱስ የጠቀለ ቃል ጉዳ ዋስ ኸነም።<verse eid="HEB 7:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="HEB 7:23" />በሞት መሳ አት ካሕን ቴሸገር በሜናሑ ᎈር የዘለዓለም ወንብር ኤይችል ስለኸነ የበደሮዪ ካሕናት ቁጥረሕኖ ብዠ ባነ፤ <verse eid="HEB 7:23" /><verse number="24" style="v" sid="HEB 7:24" />ኢየሱስ የዘለዓለም ይነብር በወሕነሑ ክሕነተሑ ኤሸገር። <verse eid="HEB 7:24" /><verse number="25" style="v" sid="HEB 7:25" />ስለኸነም የሕኖ የዋማልድ የዘለዓለም ሕያው ኸነም ይነብር ስለኸነ በሑቲ መሳ ተእዝጌሬ ይቸኖዪ ስርም<note caller="+" style="f"><char style="fr" closed="false">7፥25 </char><char style="ft" closed="false">ወይ </char><char style="fqa" closed="false">የዘላለም</char></note> ያተርፎዬ ይችል። <verse eid="HEB 7:25" /><verse number="26" style="v" sid="HEB 7:26" />እኪ ያነዪ ቅዱስ፥ ወግርጥ ዬነወ፥ ንጡ፥ ተአጢአተኞች የትላኘ፥ ተሰሜ ነን ከፍ የባረ የካሕናት አለአ ያሸነ። <verse eid="HEB 7:26" /><verse number="27" style="v" sid="HEB 7:27" />ሑቲ ይንጐዲ የካሕናት አለኦች በመጀመሪያ ስለነብሰሑ አጢአት፥ ባንቌም ስለሕዝቢ አጢአት ከነ በከነ መሥዋት ዋቅርብ ኤያሸን፤ ነብሰሑ መሥዋዕት ሸከተም ባቀረበ ግዝየ ዚ ዘንጋ ቤደገም ሐለት ፌጠᎀንም።<note caller="-" style="x"><char style="xo" closed="false">7፥27 </char><char style="xt" closed="false"><ref loc="LEV 9:7">ዘሌ. 9፥7</ref>። </char></note> <verse eid="HEB 7:27" /><verse number="28" style="v" sid="HEB 7:28" />ሕጊ የካሕናት አለኦች ሸከተም ይሾሞ የቌጦዪ ሰቦቹ፤ ተሕጊ አንቌ የቸኘዪ የማላ ቃልም የዘለዓለም ፍጡም የኸነዪ የእዝጌር ትኸ ሾመም።<verse eid="HEB 7:28" /></para>
+  <para style="b" />
+  <chapter eid="HEB 7" />
+  <chapter number="8" style="c" sid="HEB 8" />
+  <para style="s1">የኢየሱስ የገደር ጉዳ የካሕናት አለአ ወሕን</para>
+  <para style="p">
+    <verse number="1" style="v" sid="HEB 8:1" />ኧጌሽ ኧዝነግነዪ ዋና ቃር ዚቱ፤ በሰሜ በከበረዪ በእዝጌር ዙፋን ከነ የቾና እኪ ያነ የካሕናት አለአ ነነነ፤<note caller="-" style="x"><char style="xo" closed="false">8፥1 </char><char style="xt" closed="false"><ref loc="PSA 110:1">መዝ. 110፥1</ref>። </char></note> <verse eid="HEB 8:1" /><verse number="2" style="v" sid="HEB 8:2" />ሑቲ ያግለግል የኢኒ ድንኳን በኸነዪ መቅደሱ፤ ዚ ድንኳን የዴኰነ በሰብ ኧጅ ቴይኸን በጔታው። <verse eid="HEB 8:2" /><verse number="3" style="v" sid="HEB 8:3" />እያታቲ የካሕናት አለአ ይሾᎁ መባ መሥዋዕትም የዋቅርቡ፤ ስለኸነም ዚም ካሕን ያቀርቡ አት ቃር ይነቡሬ ያሸ። <verse eid="HEB 8:3" /><verse number="4" style="v" sid="HEB 8:4" />በሕጊ መሠረት መባ ያቀርቦ ካሕናት ያኖ ስለኸነ ሑቲ ባፈር ቢኸን የካሕን ቤኸኑ፤ <verse eid="HEB 8:4" /><verse number="5" style="v" sid="HEB 8:5" />ነዚ ካሕናት ያግለግሎᎄ ድንኳን በሰሜ ይትረከቢ ምሳሌ ጥሌልም ጠለለው፤ ዚም የኸነ ሙሴ ድንኳኒም ቢሸክትወ ግዝየ፤ እዝጌር “በቈቶዪ ᎈር የገለጠንከኸማት ይንም ቃር በወትቀየ ሰክት” ባረም ቤዘዘን መሠረቱ። <verse eid="HEB 8:5" /><verse number="6" style="v" sid="HEB 8:6" />ቢኸንም ኢየሱስ መካከለኛ የኸነወ ቃል ጉዳ ተጉርዚ ቃል ጉዳ የበዛ በጠቀለም ተስፋ ᎈር የትምሠረተ የኸነኸም የሑቲ ያᎅ አገልግሎት የጠቀለው።<verse eid="HEB 8:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="HEB 8:7" />የመጀመሪያዪ ጉዳ አትም የቀበለ ቃር ቤትረከብወ የዄታለኘዪ ቃል ጉዳ ቤሸዊው። <verse eid="HEB 8:7" /><verse number="8" style="v" sid="HEB 8:8" />እዝጌር በሕዝቢ ᎈር ነቀፋ ወንብረሑ በዋመልክት እኪ ይብር፦</para>
+  <para style="q1" vid="HEB 8:8">“ዘ፥ ተእስራኤል ሕዝብ ተይሑዳ ሕዝብጌም</para>
+  <para style="q2" vid="HEB 8:8">ገደር ጉዳ ኧገባወ ግዝየ ይቸኝ” ይብር ጔታ።<note caller="-" style="x"><char style="xo" closed="false">8፥8-12 </char><char style="xt" closed="false"><ref loc="JER 31:31-34">ኤር. 31፥31-34</ref>። </char></note><verse eid="HEB 8:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="HEB 8:9" />ዚ ጉዳ ኧጀሕኖ ጠበጥኩም ተግብጽ ገኝ ባወጣሑኖ ግዝየ ተአቦቸሕኖጌ የገባሑን ጉዳ ያነ አንከነ፤ ሕኖ በጉዳኛ ያንጠኖ ስለኸነ እያም በጭ ባሑኖም ይብር ጔታ።<verse eid="HEB 8:9" /></para>
+  <para style="q">
+    <verse number="10" style="v" sid="HEB 8:10" />“ዘ፥ ተዚ ግዝየ አንቌ ተእስራኤል ሕዝብጌ</para>
+  <para style="q2" vid="HEB 8:10">ኧገቧኒ ጉዳ ቄጠለም ያነዪው ይብር ጔታ፤</para>
+  <para style="q1" vid="HEB 8:10">እያ ሕገኛ በአእምሮሕኖ አነብር፤</para>
+  <para style="q2" vid="HEB 8:10">በሒነሕኖም ኧጠፉ፤</para>
+  <para style="q1" vid="HEB 8:10">አምላከሕኖም ኧኸን፤</para>
+  <para style="q2" vid="HEB 8:10">ሕኖም ሕዝበኛ ይኸኖ።<verse eid="HEB 8:10" /></para>
+  <para style="q">
+    <verse number="11" style="v" sid="HEB 8:11" />‘የጔታ ሐር’ ባረም ኦላመሑ ኸነ</para>
+  <para style="q2" vid="HEB 8:11">ጐቤች ያትመር ሟንም ኤነብር፤</para>
+  <para style="q1" vid="HEB 8:11">ትንሲ ቀረሰም ንኢ ስን እንም</para>
+  <para style="q2" vid="HEB 8:11">ይሒሮኝ፤<verse eid="HEB 8:11" /></para>
+  <para style="q">
+    <verse number="12" style="v" sid="HEB 8:12" />በደለሕኖ አፉ ኧብርኖ፤</para>
+  <para style="q2" vid="HEB 8:12">አጢአተሕኖም ተሗ ቀረሰም አናስታውስቦ።”<verse eid="HEB 8:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="HEB 8:13" />ኧጌሽ “ገደር ጉዳ” ቲብር ይፍቴዪ ጉዳ ጉርዝ ሸኰተንም ወበሩ፤ ስለኸነም የሸከተወ ጉርዝሚ ቃር እንም ይጠፋወ ግዝየ ቀረበም።<verse eid="HEB 8:13" /></para>
+  <para style="b" />
+  <chapter eid="HEB 8" />
+  <chapter number="9" style="c" sid="HEB 9" />
+  <para style="s1">ያፈሪ የድንኳን አምልኮ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="HEB 9:1" />የመጀመሪያዪ ጉዳ የአምልኮ አገልግሎት ሥራት ያፈር መቅደስም ቧነን፤ <verse eid="HEB 9:1" /><verse number="2" style="v" sid="HEB 9:2" />ዄት ክፍል ያነን ድንኳን ተዝጋጀም ባነ። መቅረዚ ጠረጴዛዪም፥ የመሥዋዕቲ ቂጣ የነበረወ የመጀመሪያዪ ክፍል “ቅድስት” ይቡሪ ባነ።<note caller="-" style="x"><char style="xo" closed="false">9፥2 </char><char style="xt" closed="false"><ref loc="EXO 26:1-30">ዘፀ. 26፥1-30</ref>፤ <ref loc="EXO 25:31-40">25፥31-40</ref>። </char></note> <verse eid="HEB 9:2" /><verse number="3" style="v" sid="HEB 9:3" />ተዄታለኘዪ መጋረጃ አንቌ ይትረከቢ የውስጢ ክፍል “ቅድስተ ቅዱሳን” ይቡሪ ባነ።<note caller="-" style="x"><char style="xo" closed="false">9፥3 </char><char style="xt" closed="false"><ref loc="EXO 26:31-33">ዘፀ. 26፥31-33</ref>። </char></note> <verse eid="HEB 9:3" /><verse number="4" style="v" sid="HEB 9:4" />በዚዋኘ ክፍል ውስጥ የወርቅ ዕጣን ያጤሽᎄ በወርቅም የሌበጠ የጉዳ ታᎄት ባነወ፤ በዚም የጉዳ ታᎄት ውስጥ የመና ስንቅ ያነወ የወርቅ መሶብ፥ ልመለመም የነበረዪ የአሮን እንጣር፥ ዐሥሪ ትዛዝ የጣፈወዪ ጽላት ባነ።<note caller="-" style="x"><char style="xo" closed="false">9፥4 </char><char style="xt" closed="false"><ref loc="EXO 30:1-6">ዘፀ. 30፥1-6</ref>፤ <ref loc="EXO 25:10-16">25፥10-16</ref>፤ <ref loc="EXO 16:33">16፥33</ref>፤ <ref loc="NUM 17:8-10">ዘሑ. 17፥8-10</ref>።</char></note><note caller="+" style="f"><char style="fr" closed="false">9፥4 </char><char style="xt" closed="false"><ref loc="DEU 10:3-5">ዘዳ. 10፥3-5</ref>። </char></note> <verse eid="HEB 9:4" /><verse number="5" style="v" sid="HEB 9:5" />በታᎄቲም ᎈር ያነዪ የአጢአት አፉታ ይዀድንᎄ በካንፋሕኖ ይሼፍኖ የክብር ኪሩቤል<note caller="+" style="f"><char style="fr" closed="false">9፥5 </char><char style="ft" closed="false">ኪሩቤል ወበር እዝጌር ይዌክል ኸልቀት ወበሩ። </char></note> ባኖ፤ ቢኸንም ነዚሕኖ ዘንጋ እንም ኧሗ በዋፍታታ ወዘንግ አንችልነ።<note caller="-" style="x"><char style="xo" closed="false">9፥5 </char><char style="xt" closed="false"><ref loc="EXO 25:18-22">ዘፀ. 25፥18-22</ref>። </char></note><verse eid="HEB 9:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="HEB 9:6" />እንም ቃር በዚ ሐለት በዝጋጀ አንቌ የካሕን አገልግሎተሕኖ የወፈጥም ተድንኳኒ መጀመሪያ ክፍል እንጌ ይገቦ።<note caller="-" style="x"><char style="xo" closed="false">9፥6 </char><char style="xt" closed="false"><ref loc="NUM 18:2-6">ዘሑ. 18፥2-6</ref>። </char></note> <verse eid="HEB 9:6" /><verse number="7" style="v" sid="HEB 9:7" />በዄታለኘ የውስጢ ክፍሌ ይገባ የካሕናቲ አለአ ጠለለው፤ ይገባም ባመት ቁናጌው፤ ሑቲም ስለነብሰሑ አጢአት ሕዝቢም ባለወሐር የሸኰተን ስለኸነ አጢአት ያቀርᎅ ደም ቴጠብጥ ኤይገባ።<note caller="-" style="x"><char style="xo" closed="false">9፥7 </char><char style="xt" closed="false"><ref loc="LEV 16:2-34">ዘሌ. 16፥2-34</ref>። </char></note> <verse eid="HEB 9:7" /><verse number="8" style="v" sid="HEB 9:8" />የመጀመሪያዪ ድንኳን ቈመም ያነ ስን ተቅድስተ ቅዱሳኔ ይወስዲ ኤማ ገና ያንታዠ ወሕነሑ መንፈስ ቅዱስ በዚምኸማት ያቴዥ። <verse eid="HEB 9:8" /><verse number="9" style="v" sid="HEB 9:9" />ዚም የሗዪ ዘበን ምሳሌው፤ በዚምኸማት ይቀርቦዪ መባ መሥዋዕትም ያቀርቢ ሰብ ሕሊና ስርም ያነጦዬ አንቻሎ፤ <verse eid="HEB 9:9" /><verse number="10" style="v" sid="HEB 9:10" />ነዚሕኖ ቃሮች የወታደስ ግዝየ ይቸኝ ስን በሜና ᎈር የዋሎ ያፍ ሥራትኖ፤ ሕኖ የወብራ የወስጤ፥ የትልያዮ የወንጣ ሥራትም ጠለለ የሸከቶኖ።<verse eid="HEB 9:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="HEB 9:11" />ቢኸንም ክርስቶስ በወተኝ ᎈር ያኖዪ ፈያ ቃር የካሕናት አለአ ኸነም ተገለጠም፤ ሑቲ የገባወ ድንኳን ንቅ ፍጡሙ፤ ዚ ድንኳን በሰብ ኧጅ ያንሰኰቺ ተዚ ኸልቀት ያንከነው።<note caller="+" style="f"><char style="fr" closed="false">9፥11 </char><char style="ft" closed="false">በወተኝ ᎈር ያኖዪ አታት ቅጂ “ቲፍቴዬ ይቸኖ” ይብሮ። </char></note> <verse eid="HEB 9:11" /><verse number="12" style="v" sid="HEB 9:12" />የገባም የፌቅ የደግም ደም ጠበጠም አንከነ፤ ቢኸንም የዘለዓለም ቢና ሟኔ ያተርፍነዬ የነብሰሑ ደም ጠበጠም ተቅድስተ ቅዱሳኔ የቁናጌ የመጨረሻም ግዝየ ገባ። <verse eid="HEB 9:12" /><verse number="13" style="v" sid="HEB 9:13" />የፌቅ የወፌንም ደም የመሥዋዕት የነደደ አንዥ ዐመድ በሩክስ ሰቦች ᎈር ቲትሬጭ ተበሠሪ ሩኩሰት አነጣም ይቄድሶ በኸነ፥<note caller="-" style="x"><char style="xo" closed="false">9፥13 </char><char style="xt" closed="false"><ref loc="LEV 16:15-16">ዘሌ. 16፥15-16</ref>፤ <ref loc="NUM 19:9">ዘሑ. 19፥9</ref>፣<ref loc="NUM 19:17-19">17-19</ref>። </char></note> <verse eid="HEB 9:13" /><verse number="14" style="v" sid="HEB 9:14" />በዘለዓለም መንፈስ መሳ ነብሰሑ ነውር ዬነወ መሥዋት ሸከተም የእዝጌር ያቀረᎄን የክርስቶስ ደም ሕያው የእዝጌር አግለግልነኸም ሕሊናና ተᎀተ ሜና<note caller="+" style="f"><char style="fr" closed="false">9፥14 </char><char style="fqa" closed="false">ቤይድገልል ይንጌ ሥራቶች</char></note> ምንኸም የበዛ ያነጣ ይኸን!<verse eid="HEB 9:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="HEB 9:15" />ነዛ የጠሮ እዝጌር በተስፋ ያᎄኒ የዘለዓለም ርስት ይቌበሮኸም ክርስቶስ የገደር ጉዳ በግብት ያታርቅ ኸነም፤ ዚም የኸነ ሰቦች በመጀመሪያዪ ጉዳ ተት ኸኖም ተሸከቶይ አጢአት የዋትርፍ ሑቲ በወሙተሑ።<verse eid="HEB 9:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="HEB 9:16" />ወስያ<note caller="+" style="f"><char style="fr" closed="false">9፥16 </char><char style="ft" closed="false">ዚ ትርጉም ይቢ የግሪክ </char><char style="fqa" closed="false">ቃል ጉዳ</char><char style="ft" closed="false">ቧሪም ይትረጐሜ ይችል፤ ዛምም ቁ 17</char></note> ባነ ወስያ ይውዲ ወሙተሑ ዋርጋግጥ ያሸ፤ <verse eid="HEB 9:16" /><verse number="17" style="v" sid="HEB 9:17" />የወስያዪ ቃል ይጠና ወሲያ ዬወደዪ በᎀተ አንቌው፤ ወስያ ይውዲ በሕይወት ባነ የወስያዪ ቃል ኤይድገልል። <verse eid="HEB 9:17" /><verse number="18" style="v" sid="HEB 9:18" />በዚ መሳ የመጀመሪያዪ ጉዳ ፍርየ ኤባን ደም የጠና አንከነ። <verse eid="HEB 9:18" /><verse number="19" style="v" sid="HEB 9:19" />በመጀመሪያ ሙሴ የሕጊ ትዛዝ የሕዝቢ እንም ኤወደ፤ በዚ አንቌ የወፌን የፌቅም ደም ተኧጋጌ ሸከተም የሕጊ መጽሐፍ ሕዝቢ እንም ተሒሶጵ አታሕልት ቅጠልጌ ወሰደም፣ በብሻ የጤ ድገር በመጽሐፊ በሕዝቢም ᎈር ፉነታን፤ <verse eid="HEB 9:19" /><verse number="20" style="v" sid="HEB 9:20" />እኪም ባረ፤ “ትቅሮኸም እዝጌር ዬዘዘናሑ የጉዳዪ ደም ዚቱ።”<note caller="-" style="x"><char style="xo" closed="false">9፥19-20 </char><char style="xt" closed="false"><ref loc="EXO 24:6-8">ዘፀ. 24፥6-8</ref>። </char></note> <verse eid="HEB 9:20" /><verse number="21" style="v" sid="HEB 9:21" />ዛምኸም በድንኳኒ ቢሸኩችᎄ ግብር እንም ደም ፍነታ።<note caller="-" style="x"><char style="xo" closed="false">9፥21 </char><char style="xt" closed="false"><ref loc="LEV 8:15">ዘሌ. 8፥15</ref>። </char></note> <verse eid="HEB 9:21" /><verse number="22" style="v" sid="HEB 9:22" />የኢንም በሙሴ ሕጊ መሠረት ተቀል ቃር አንኸንም እንም ቃር በደም ይነጣ፤ መሳሑም ደም ቴፈስ ስርየት ኤነ።<note caller="-" style="x"><char style="xo" closed="false">9፥22 </char><char style="xt" closed="false"><ref loc="LEV 17:11">ዘሌ. 17፥11</ref>። </char></note><verse eid="HEB 9:22" /></para>
+  <para style="s1">የክርስቶስ መሥዋዕትነት አጢአት ያጠፋ ወሕነሑ</para>
+  <para style="p">
+    <verse number="23" style="v" sid="HEB 9:23" />ኧጌሽ ነዚ የሰሜዪ ዘንጋ ምሳሌ የኸኖዪ እንም በዚኸማት ሥራት ወንጣ ያሸኖ ባነ፤ በሰሜ የኸኖዪ ዘንጋም ተዚ ቢበዛ መሥዋት ወንጣ ያሸኖ። <verse eid="HEB 9:23" /><verse number="24" style="v" sid="HEB 9:24" />ክርስቶስ የኢነተኘዪ “ድንኳን” ምሳሌ ተኸነዪም በሰብ ኧጅ ተሸከተዪ መቅደሴ አንገባ፤ ሑቲ ኧሗ ይና በእዝጌር ኢፍት የወታዥ ተሰሜዬ ገባ። <verse eid="HEB 9:24" /><verse number="25" style="v" sid="HEB 9:25" />የአይሑድ የካሕናት አለአ የነብሰሑ ያንኸነዪ ደም ጠበጠም ተዓመት ዓመተሑ ተቅድስተ ቅዱሳኔ ይገባ ባነ፤ ክርስቶስም ነብሰሑ ብዠ ግዝየ መሥዋት ሸከተም ተሰሜዬ አንገባ። <verse eid="HEB 9:25" /><verse number="26" style="v" sid="HEB 9:26" />እኪማ ቢኸን ዓለም ተትኸለቀ ቀረሰም ክርስቶስ ብዠ ግዝየ መከራ ወቀበር ያሸን ባነ፤ ኧሗም በዘበናት መጨረሻ አጢአት የዋትወግድ ነብሰሑ መሥዋት በወሰክት የቁናጌ የመጨረሻም ግዝየ ተገለጠም። <verse eid="HEB 9:26" /><verse number="27" style="v" sid="HEB 9:27" />የሰብ ቁናጌ ወሙት ተሜደᎄነም፤ ተሞት አንቌ ፍርድ ነነወ። <verse eid="HEB 9:27" /><verse number="28" style="v" sid="HEB 9:28" />ዛምኸም ክርስቶስ የብዠሕኖ አጢአት ጮረም ቁናጌ ታረደም፤ ኧሗም አጢአት የወጮር ቴይኸን የሑቲ ይቅሮዪ የዋትርፍ ዄታለኘ ግዝየ ይትገለጥ።<note caller="-" style="x"><char style="xo" closed="false">9፥28 </char><char style="xt" closed="false"><ref loc="ISA 53:12">ኢሳ. 53፥12</ref>። </char></note><verse eid="HEB 9:28" /></para>
+  <chapter eid="HEB 9" />
+  <chapter number="10" style="c" sid="HEB 10" />
+  <para style="p">
+    <verse number="1" style="v" sid="HEB 10:1" />ሕጊ ቲፍቴዬ ይቸኚ ፈያ ዘንጋ ምሳሌ (ጥሌል) ባነ አንኸንም የኢኒተኘ ጅስም አነበረ፤ ስለኸነም ተዓመት ዓመተሑ እንጌ ያርዶዪ መሥዋት ጠበጦም ተእዝጌሬ ይቌበሮዪ ሰቦች ፍጡም ይሸክቶዬ ስርም ኤይችል። <verse eid="HEB 10:1" /><verse number="2" style="v" sid="HEB 10:2" />ሕጊ ፍጡም ይሸክቶዬ ቢችል የአምልኮ ይቀርቦዪ ሰቦች የቁናጌ የመጨረሻም ግዝየ ተአጢአት ይነጦ ስለኸነ አጢአት ዬነቦኸም በሕሊናሕኖ ይትኴሮ ስለኸነ መሥዋት ዋቅርብ ይገፍሮ ባነ። <verse eid="HEB 10:2" /><verse number="3" style="v" sid="HEB 10:3" />ነዛ መሥዋት ተዓመት ዓመተሑ አጢአተሕኖ ያስታውሶቦኖ። <verse eid="HEB 10:3" /><verse number="4" style="v" sid="HEB 10:4" />መሳሑም የወፌን የፌቅም ደም አጢአት ዋትወግድ ኤይችል።<verse eid="HEB 10:4" /></para>
+  <para style="q">
+    <verse number="5" style="v" sid="HEB 10:5" />ስለኸነም ክርስቶስ ተዓለሜ በቸኘ ግዝየ እኪ ባረ፤</para>
+  <para style="q1" vid="HEB 10:5">መሥዋት መባም አንሸኸ፤</para>
+  <para style="q2" vid="HEB 10:5">ገግም አዝጋጀኸኒ፤<note caller="-" style="x"><char style="xo" closed="false">10፥5 </char><char style="xt" closed="false"><ref loc="PSA 40:6-8">መዝ. 40፥6-8</ref>። </char></note><verse eid="HEB 10:5" /></para>
+  <para style="q">
+    <verse number="6" style="v" sid="HEB 10:6" />ቢነድ መሥዋት</para>
+  <para style="q1" vid="HEB 10:6">የአጢአት አፉታም ቢያርጂ መሥዋት</para>
+  <para style="q1" vid="HEB 10:6">አንተብላለቅከ፤<verse eid="HEB 10:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="HEB 10:7" />በዛ ግዝየ እኪ ባሑ፤</para>
+  <para style="q1" vid="HEB 10:7">ስለእያ በመጽሐፍ የጣፈኸም፣</para>
+  <para style="q2" vid="HEB 10:7">አምላክ፤ ዝምንኩ፤ ፈአዳኸ የወሰክት ቸኘሑም።<note caller="+" style="f"><char style="fr" closed="false">10፥7 </char><char style="ft" closed="false">ሰብዓ ሊቃውንት ኧዞ። </char></note><verse eid="HEB 10:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="HEB 10:8" />ሑቲም ቢፍቴ ነዛሕኖ በሕጊ መሠረት የቴወዶ ቢኸኖ “መሥዋት መባም ይነድ መሥዋት የአጢአት ስርየት ያርጂዪ መሥዋት አንሸኸ፤ በሕኖም አንተብላለቅከ” ባረ፤ <verse eid="HEB 10:8" /><verse number="9" style="v" sid="HEB 10:9" />ቄጠለም “ዘ፥ እያ ፈአዳኸ የወፈጥም ቸኘሑም” ባረ፤ በዚ ሐለት ዄታለኘዪኸማት መሥዋት በመደሪ የወሰግር የመጀመሪያዪ መሥዋት ሻረም። <verse eid="HEB 10:9" /><verse number="10" style="v" sid="HEB 10:10" />በዚም “ፈአድ” ቢብሪ ቃል መሠረት በኢየሱስ ክርስቶስ ገግ የቁናጌ የመጨረሻም ግዝየ መሥዋት ኸነም በወቅርበሑ መሳ ተቄደስነም።<verse eid="HEB 10:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="HEB 10:11" />እያታቲ ካሕን አጢአት ዋትወግድ ኤይችሎዪ ነዛሕኖ መሥዋት እንጌ ቲያቀርብ ከነ በከነ ቈመም ያግለግል።<note caller="-" style="x"><char style="xo" closed="false">10፥11 </char><char style="xt" closed="false"><ref loc="EXO 29:38">ዘፀ. 29፥38</ref>። </char></note> <verse eid="HEB 10:11" /><verse number="12" style="v" sid="HEB 10:12" />ክርስቶስ ይንጌ ይኸኒ አቲ መሥዋት ባቀረበ አንቌ በእዝጌር አብ ከነ ቾናም። <verse eid="HEB 10:12" /><verse number="13" style="v" sid="HEB 10:13" />ተሗ ቀረሰም መሶዎቸሑ በሥልጣነሑ ተት ይኸኖ ስን ይቅየ፤<note caller="-" style="x"><char style="xo" closed="false">10፥12-13 </char><char style="xt" closed="false"><ref loc="PSA 110:1">መዝ. 110፥1</ref>። </char></note> <verse eid="HEB 10:13" /><verse number="14" style="v" sid="HEB 10:14" />ዚም የኸነ ነዛ የቄደሶዪ በቁናዪ መሥዋት መሳ የዘለዓለም ስርም ፍጡማን ሸከተኖም።<verse eid="HEB 10:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="HEB 10:15" />መንፈስ ቅዱስ በዚ ዘንጋ ይምሰክርንነ፤<verse eid="HEB 10:15" /></para>
+  <para style="q">
+    <verse number="16" style="v" sid="HEB 10:16" />“ተዛሕኖ ከነ አንቌ</para>
+  <para style="q1" vid="HEB 10:16">ተሕኖጌ ኧገቧን ጉዳ ዚቱ፤</para>
+  <para style="q1" vid="HEB 10:16">ሕገኛ በሒነሕኖ አወናን፤</para>
+  <para style="q2" vid="HEB 10:16">በአእምሮሕኖም ኧጠፉ።”<note caller="-" style="x"><char style="xo" closed="false">10፥16 </char><char style="xt" closed="false"><ref loc="JER 31:33">ኤር. 31፥33</ref>። </char></note> ይብር ጔታ፤<verse eid="HEB 10:16" /></para>
+  <para style="q">
+    <verse number="17" style="v" sid="HEB 10:17" />ዠበረም “አጢያተሕኖ ቡሼ ሜናሕኖም</para>
+  <para style="q2" vid="HEB 10:17">ተሗ ቀረሰም አናስታውስቦ” ይብር።<note caller="-" style="x"><char style="xo" closed="false">10፥17 </char><char style="xt" closed="false"><ref loc="JER 31:34">ኤር. 31፥34</ref>። </char></note><verse eid="HEB 10:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="HEB 10:18" />ስለኸነም አጢአት እንም በጠፋ አንቌ የአጢአት ስርየት ይቀርብ መሥዋት ተሗ ቀረሰም ኤነብር።<verse eid="HEB 10:18" /></para>
+  <para style="s1">ተእዝጌሬ ወቅርብ ይጌባ ወሕነሑ</para>
+  <para style="p">
+    <verse number="19" style="v" sid="HEB 10:19" />ኧጌሽ ጐባቢተኛ! በኢየሱስ ደም መሳ ተቅድስተ ቅዱሳኔ የወግባ ያቸልነ ይትሟᎀንᎄ ረከብነም፤ <verse eid="HEB 10:19" /><verse number="20" style="v" sid="HEB 10:20" />ኧገባነም በመጋረጃዪ፥ ወበርም በገገሑ መሳ በከፈተንነ በገደሪ ሕያው በኸነዪ ኤማው። <verse eid="HEB 10:20" /><verse number="21" style="v" sid="HEB 10:21" />በእዝጌር ቤት ᎈር ሥልጣን ያነን ንቅ ካሕን ነነነ። <verse eid="HEB 10:21" /><verse number="22" style="v" sid="HEB 10:22" />ስለኸነም ተቡሼ ሕሊና ኧነጣነኸም ሒነና ተሬጨነም፥ ገገናም በንጡ ኧጋ ታጠብነም፥ ቅን ሒን የኢን እምነትም ጠበጥነም ተእዝጌሬ ንቅርብነ።<note caller="-" style="x"><char style="xo" closed="false">10፥22 </char><char style="xt" closed="false"><ref loc="LEV 8:30">ዘሌ. 8፥30</ref>፤ <ref loc="EZK 36:25">ሕዝ. 36፥25</ref>። </char></note> <verse eid="HEB 10:22" /><verse number="23" style="v" sid="HEB 10:23" />የተስፋዪ ቃል ያበነ ታማኝ ስለኸነ ኧሗ አመነም ኧምሰክርነዪ ተስፋ ታናውላውልነ ፈያኸም ንጥብጥነ። <verse eid="HEB 10:23" /><verse number="24" style="v" sid="HEB 10:24" />በፍቅር በፈያም ሜና ነቃነም ኧነብርነኸም አቲ ይንጐዲ ያቡርታታነ፤ <verse eid="HEB 10:24" /><verse number="25" style="v" sid="HEB 10:25" />እንጌ ንትራኸብነም ነብስ በነብሰና ንብረታታነ አንኸንም አታተሕኖ ወሰክት የሮሾይኸም ወሰብሰበና አንግፍርነ፤ ይጠቅልሽ ጔታ ይቸኝወ ከነ ወቅርበሑ ትታስታውሶ ዚ ዘንጋ አብዞም ሰክቶ።<verse eid="HEB 10:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="HEB 10:26" />የኢን ውቀት በቌበርነ አንቌ ወደድነም አጢአት ብንሸክትነ ተሗ አንቌ የአጢአት ይቀርብ አትም መሥዋት ኤነብርነ። <verse eid="HEB 10:26" /><verse number="27" style="v" sid="HEB 10:27" />ይቀዪም ያጔና ፍርድም የእዝጌር መሶዎች ያነድ የብረታ ኧሳት ወቀየ ጠለለው።<note caller="-" style="x"><char style="xo" closed="false">10፥27 </char><char style="xt" closed="false"><ref loc="ISA 26:11">ኢሳ. 26፥11</ref>። </char></note> <verse eid="HEB 10:27" /><verse number="28" style="v" sid="HEB 10:28" />የሙሴ ሕጊ የጣሰ ዄት ወይ ሦስት ሰብ በምሰከረወ ፍርየ ኤባን ምረተሑ በሞት ይቀጣ።<note caller="-" style="x"><char style="xo" closed="false">10፥28 </char><char style="xt" closed="false"><ref loc="DEU 17:6">ዘዳ. 17፥6</ref>፤ <ref loc="DEU 19:15">19፥15</ref>። </char></note> <verse eid="HEB 10:28" /><verse number="29" style="v" sid="HEB 10:29" />ኧጌ፥ የእዝጌር ትኸ የገረጠ የቄደሰወዪ የጉዳ ደም ያረከሰ፥ የጸጋ መንፈስ የሰደበ፥ ምንኸም ያነ የባሰ ቅጣት ይጌቧን።<note caller="-" style="x"><char style="xo" closed="false">10፥29 </char><char style="xt" closed="false"><ref loc="EXO 24:8">ዘፀ. 24፥8</ref>። </char></note> <verse eid="HEB 10:29" /><verse number="30" style="v" sid="HEB 10:30" />“በቀል ይያቱ፤ እያ ይጌባ ጄዛ ኧከፍል” የባረ ሟ ወሕነሑ ኧሒርነ፤ ዛምኸም “ጔታ በሕዝቢ ᎈር ይፈርድ” ይብር።<note caller="-" style="x"><char style="xo" closed="false">10፥30 </char><char style="xt" closed="false"><ref loc="DEU 32:35-36">ዘዳ. 32፥35-36</ref>። </char></note> <verse eid="HEB 10:30" /><verse number="31" style="v" sid="HEB 10:31" />ስለኸነም በሕያው እዝጌር ኧጅ ወውጠቅ ስርም ያጔናው።<verse eid="HEB 10:31" /></para>
+  <para style="p">
+    <verse number="32" style="v" sid="HEB 10:32" />ብራን በበራንኩ አንቌ ብዠ መከራ ተቌበርኩም የፈረኩᎄዪ ነዛ የበደሮዪ ከነዎች አስታውሶ። <verse eid="HEB 10:32" /><verse number="33" style="v" sid="HEB 10:33" />አታት ግዝየ በሰብ ኢፍቴ ተሰደብኩም፤ ተንግላታሑም፤ አታት ግዝየም ዚ ኸማቲ ሥቃይ ተሰላቦ ሰቦችጌ መራርቻ በወሕናሑ መከራ ተቌበርኩም። <verse eid="HEB 10:33" /><verse number="34" style="v" sid="HEB 10:34" />አሑ ነብሳሑ የጠቀለ የዘላለም ይነብር ዱኒያ ያነናሑ ወሕናሑ ቲሒሮ ስለኸነ የጉጀኞቺ ራራሑ፤ ዱኒያሑም ቲዘረፍ በብልቃት ተቌበርኩ። <verse eid="HEB 10:34" /><verse number="35" style="v" sid="HEB 10:35" />ስለኸነም ወደል ጄዛ ያነዪ በሙላ ሒን ትሸክቶᎄዪ አትድጎ። <verse eid="HEB 10:35" /><verse number="36" style="v" sid="HEB 10:36" />የእዝጌር ፈአድ ፌጠምኩም የተስፋ ቃለሑ ትቌበሮኸም፤ ጠናሑም ወቁም ያሸሑ፤ <verse eid="HEB 10:36" /><verse number="37" style="v" sid="HEB 10:37" />መሳሑም ተቀል ግዝየ አንቌ፤</para>
+  <para style="q1" vid="HEB 10:37">“ይቸኚ ሑቲ ይቸኝ፤</para>
+  <para style="q2" vid="HEB 10:37">ኤዬክስ፤<verse eid="HEB 10:37" /></para>
+  <para style="q">
+    <verse number="38" style="v" sid="HEB 10:38" />ይያ የኸነ</para>
+  <para style="m" vid="HEB 10:38">ጻድቂ<note caller="+" style="f"><char style="fr" closed="false">10፥38 </char><char style="ft" closed="false">ወይም </char><char style="fqa" closed="false">ይያ ጽድቅ </char></note> ሰብም በእምነት ይነብር፤</para>
+  <para style="q2" vid="HEB 10:38">ታንቀዬ ቢሰክ፣</para>
+  <para style="q2" vid="HEB 10:38">ነብስያኛ በሑቲ ኤትብላለቅ።”<note caller="-" style="x"><char style="xo" closed="false">10፥37-38 </char><char style="xt" closed="false"><ref loc="HAB 2:3-4">ዕን. 2፥3-4</ref>። </char></note><verse eid="HEB 10:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="HEB 10:39" />ይናም አመኖም ቲተርፎዪ ጐሣንነ አንኸንም ታንቌዬ ሰኮም ቲጠፎዪ ጐሳ አንከነ።<verse eid="HEB 10:39" /></para>
+  <chapter eid="HEB 10" />
+  <chapter number="11" style="c" sid="HEB 11" />
+  <para style="s1">እምነት</para>
+  <para style="p">
+    <verse number="1" style="v" sid="HEB 11:1" />እምነት ተስፋ የሸከትኔዪ ቃር ይትፌጠምኸም የኢነተኘ ኧኸነᎄ፤ ቤን አናዥነዪም ቃር የኢን ወሕነሑ ኧትሬዳነᎄው። <verse eid="HEB 11:1" /><verse number="2" style="v" sid="HEB 11:2" />የድረ አቦቸና የትምሰከረኖ በእምነት መሳው።<verse eid="HEB 11:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="HEB 11:3" />ሰሜ አፈርም በእዝጌር ቃል የትኸለቀኸም ኧትሬዳኔ በእምነቱ። ስለኸነም ይታዢ ቃር እንም ቴታዢ የሸከተኸም ኧሒርነ።<note caller="-" style="x"><char style="xo" closed="false">11፥3 </char><char style="xt"><ref loc="GEN 1:1">ዘፍ. 1፥1</ref>፤ <ref loc="PSA 33:6-9">መዝ. 33፥6-9</ref>፤ <ref loc="JHN 1:3">ዮሐ. 1፥3</ref>። </char></note><verse eid="HEB 11:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="HEB 11:4" />አቤል ተቃየል ይበዛ የጠቀለ መሥዋዕት የእዝጌር በእምነት አቀረበ፤ እዝጌር ስለስጦታሑ በዝነጔነ ግዝየ፤ ሑቲ በእምነት ጻድቅ የኸነኸም ተምሰኰረነ፤ አቤል ቢᎀትም በእምነተሑ መሳ ኧሗም ይዝነጉ።<note caller="-" style="x"><char style="xo" closed="false">11፥4 </char><char style="xt"><ref loc="GEN 4:3-10">ዘፍ. 4፥3-10</ref>። </char></note><verse eid="HEB 11:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="HEB 11:5" />ሔኖክ ሞት ኤሰላወኸም ተዚ ዓለም የትወሰደ በእምነቱ፤ እዝጌር የወሰደን ስለኸነ አንትረኸበ፤ ተወወሰደሑ ኢፍቴ ኧሗም የእዝጌር ያትብላለቀኸም ተምሰኰረነም።<note caller="-" style="x"><char style="xo" closed="false">11፥5 </char><char style="xt"><ref loc="GEN 5:21-24">ዘፍ. 5፥21-24</ref>። </char></note> <verse eid="HEB 11:5" /><verse number="6" style="v" sid="HEB 11:6" />ፍርየ ኤባን እምነት የእዝጌር ዋትብላልቅ ኤችል፤ ተእዝጌሬ ይቀርብ ሰብ እዝጌር ወንብረሑ የሑቲ ይሸዎዪ ሰቦች ጄዛ ይብ ወሕነሑ ወምን ነነወ።<verse eid="HEB 11:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="HEB 11:7" />ገና ቤን ኤታዞ ስለኸኖዪ ዘንጋ እዝጌር ባጥኔቈቈን ግዝየ ኖሕ የእዝጌር በወገና አበሮሰሑ የዋትርፍ መርከብ የሸከተ በእምነቱ፤ ኖሕ በእምነት የዓለም በደለኘ ሸከተ፤ በእምነት ይትረከቢ ጽድቅ ወረሰ።<note caller="-" style="x"><char style="xo" closed="false">11፥7 </char><char style="xt"><ref loc="GEN 6:13-22">ዘፍ. 6፥13-22</ref>። </char></note><verse eid="HEB 11:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="HEB 11:8" />አብርሐም ወጣም ርስት ሸከተም ቲቌᎄሪ መደሬ ያርኸም በጠራ ግዝየ አትም ቴቴ ያርኸም ቤይሒርም፤ የወወር የቴዘዘዪ በእምነቱ።<note caller="-" style="x"><char style="xo" closed="false">11፥8 </char><char style="xt"><ref loc="GEN 12:1-5">ዘፍ. 12፥1-5</ref>። </char></note> <verse eid="HEB 11:8" /><verse number="9" style="v" sid="HEB 11:9" />ተሑቲጌ የተስፋዪ ቃል ወራሽ ተኸኖዪ ተይስሐቅ ተያዕቆብጌ በተስፋዪ ገኝ መጻተኘ ኸነም በድንኳን የነበረ በእምነቱ። <verse eid="HEB 11:9" /><verse number="10" style="v" sid="HEB 11:10" />ዚም የሸከተ ኤንቅለቅል መሠረት ያነን፥ እዝጌር ዬቈደን የሸኰተንም ከተማ ይቅየ የነበረ ስለኸነው።<verse eid="HEB 11:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="HEB 11:11" />ሣራም<note caller="+" style="f"><char style="fr" closed="false">11፥11 </char><char style="ft" closed="false">ወይም </char><char style="fqa" closed="false">ሣራ አብርሐምም የዌሰነች ስለኸነ </char><char style="ft" closed="false">ሦስት መሬት ሼሞይ፤ የንጉሢም ዐዋጅ አንገኖ። </char></note> ተስፋ ያበና እዝጌር ታማኝ ወሕነሑ የሐረች ስለኸነ ስርም ዕድሜ በወግፋዬታ ወጠኝ አትችል ብትኸን ዄት ነብስ የወሕን ቆት የረከበች በእምነቱ።<note caller="-" style="x"><char style="xo" closed="false">11፥11 </char><char style="xt"><ref loc="GEN 18:11-14">ዘፍ. 18፥11-14</ref>፤ <ref loc="GEN 21:2">21፥2</ref>። </char></note> <verse eid="HEB 11:11" /><verse number="12" style="v" sid="HEB 11:12" />ስለኸነም የᎀተ ሰብኸም ቲትቆጠሪ ታቲ ተአብርሐም የሰሜ ኰኰብኸም የበዛ የባር ᎀረ አሸዋኸም ኤቆጠር ጨኘት ተረከበ።<note caller="-" style="x"><char style="xo" closed="false">11፥12 </char><char style="xt"><ref loc="GEN 15:5">ዘፍ. 15፥5</ref>፤ <ref loc="GEN 22:17">22፥17</ref>፤ <ref loc="GEN 32:12">32፥12</ref>። </char></note><verse eid="HEB 11:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="HEB 11:13" />ነዚ እንም በእምነት ትናኖ ᎀቶ፤ እዝጌር ይቦዬ የገባኖዪም ቃል አረኸቦ፤ ቢኸንም በሩቄ አዞም ልክ የረከቦይኸም ሸከቶም በብልቃት ተቌበሮይ። ባፈር ᎈር ባዘና መጻተኞችም ወሕነሕኖ ተሬዶ።<note caller="-" style="x"><char style="xo" closed="false">11፥13 </char><char style="xt"><ref loc="GEN 23:4">ዘፍ. 23፥4</ref>፤ <ref loc="1CH 29:15">1 ዜና 29፥15</ref>፤ <ref loc="PSA 39:12">መዝ. 39፥12</ref>። </char></note> <verse eid="HEB 11:13" /><verse number="14" style="v" sid="HEB 11:14" />እኪ ይዝነጎ ሰቦች የነብሰሕኖ ይኸኒ ገኝ ይቅሮኸም ቢልቢጢጦ ያምለክቶ። <verse eid="HEB 11:14" /><verse number="15" style="v" sid="HEB 11:15" />ዛም የወጦᎄዪ ገኝ አስታወሶይም ቢኸን ተዛዬ የወዘበር ይችሎ ባነ። <verse eid="HEB 11:15" /><verse number="16" style="v" sid="HEB 11:16" />ኧሗም ይበዛዪ፥ በሰሜ ያነዪ ገኝ ይቦርሶ፤ ስለኸነም እዝጌር ከተማ ያዝጋጀኖ ስለኸነ “አምላከና” ባሮም ቢጠሮይ ኤሟልል።<verse eid="HEB 11:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="HEB 11:17" />አብርሐም በትፌተነወ ግዝየ ይስሐቅ መሥዋት ሸከተም ያቀረበ በእምነቱ፤ ዛ የተስፋ ቃል የትቌበረ አብርሐም ቁና ትኸኹ ያርጄ ተዝጋጀም ባነ፤<note caller="-" style="x"><char style="xo" closed="false">11፥17 </char><char style="xt"><ref loc="GEN 22:1-14">ዘፍ. 22፥1-14</ref>። </char></note> <verse eid="HEB 11:17" /><verse number="18" style="v" sid="HEB 11:18" />ዚም ትኸ እዝጌር፥</para>
+  <para style="p" vid="HEB 11:18">“በይስሐቅ ዘር ይጠራንከ” ቧረንም ባነ።<note caller="-" style="x"><char style="xo" closed="false">11፥18 </char><char style="xt"><ref loc="GEN 21:12">ዘፍ. 21፥12</ref>። </char></note><verse eid="HEB 11:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="HEB 11:19" />እዝጌር ተሞት የዋትነሣ ችሎታ ያነንኸም አብርሐም በወምነሑ ልክ ተሞት የትነሣ ቅጫኸም የይስሐቅ ዠበረም ረከᎄን። <verse eid="HEB 11:19" /><verse number="20" style="v" sid="HEB 11:20" />ይስሐቅ ቲፍቴዬ ይኸኒ ዘንጋ በዋስብ ያዕቆብ ተዔሳውም የባረከኖ በእምነቱ።<note caller="-" style="x"><char style="xo" closed="false">11፥20 </char><char style="xt"><ref loc="GEN 27:27-29">ዘፍ. 27፥27-29</ref>፣<ref loc="GEN 27:39-40">39-40</ref>። </char></note><verse eid="HEB 11:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="HEB 11:21" />ያዕቆብ ይᎀትወ ግዝየ ቲሰላ የዮሴፍ ዴንጋ አትባተሕኖ በእምነት ባረከኖ፤ ብንጣረሑ ቁሬት ተዴገፈም ሰገደ።<verse eid="HEB 11:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="HEB 11:22" />ዮሴፍም ይᎀትወ ግዝየ ቲሰላ ስለእስራኤል ሕዝብ ተግብጽ ይወጦኸም በእምነት ዝነጔ፤ ስለዐጥመሑም ትዛዝ አበ።።<note caller="-" style="x"><char style="xo" closed="false">11፥22 </char><char style="xt"><ref loc="GEN 50:24-25">ዘፍ. 50፥24-25</ref>፤ <ref loc="EXO 13:19">ዘፀ. 13፥19</ref>። </char></note><verse eid="HEB 11:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="HEB 11:23" />የሙሴ ወላጆች ሙሴ በጨኘወ ግዝየ መልካማ ወሕነሑ ስላዞ የንጉሢ ዐዋጅ ቴጔኖ ሦስት መሬት የሼሞይ በእምነቱ።<note caller="-" style="x"><char style="xo" closed="false">11፥23 </char><char style="xt"><ref loc="EXO 2:2">ዘፀ. 2፥2</ref>፤ <ref loc="EXO 1:22">1፥22</ref>። </char></note><verse eid="HEB 11:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="HEB 11:24" />ሙሴም በላቀ አንቌ “የግብጽ ንጉሥ ፈርዖን የትኸ ትኸ” ቧሪም ይጠሬኸም ያንፈቀደ በእምነቱ፤<note caller="-" style="x"><char style="xo" closed="false">11፥24 </char><char style="xt"><ref loc="EXO 2:10-12">ዘፀ. 2፥10-12</ref>። </char></note> <verse eid="HEB 11:24" /><verse number="25" style="v" sid="HEB 11:25" />ስለኸነም ሑቲ በአጢአት ቲትረከብ የግዝየሑ ብልቃት የጠቀለ ተእዝጌር ሕዝብጌ መከራ ወቀበር ሜጠረ። <verse eid="HEB 11:25" /><verse number="26" style="v" sid="HEB 11:26" />መሳሑም ቲፍቴዬ ይቄᎄሪ ጄዛ የትምሌከተ ስለኸነ ተግብጽ ዱኒያ የጠቀለ ስለክርስቶስ ወትዋረድ ይበዛ ወሕነሑ ኤሰበ።<verse eid="HEB 11:26" /></para>
+  <para style="p">
+    <verse number="27" style="v" sid="HEB 11:27" />ሑቲ የንጉሢ ማት ቴጌና ተግብጽ የወጣ በእምነቱ፤ ቤን ኤታዢ አምላክ ያዠን ቅጫ ኸነም በዓላማሑ ጠና።<note caller="-" style="x"><char style="xo" closed="false">11፥27 </char><char style="xt"><ref loc="EXO 2:15">ዘፀ. 2፥15</ref>። </char></note> <verse eid="HEB 11:27" /><verse number="28" style="v" sid="HEB 11:28" />ዛምኸም የበሕር ዴንጋ የወቅጥር የታዘዘዪ መላይካ የእስራኤላውያን የበሕር ዴንጋ ኤቀጥርኸም በወበር የፋሲካ ደም የወፈንታ ሤራ የሸከተ በእምነቱ።<note caller="-" style="x"><char style="xo" closed="false">11፥28 </char><char style="xt"><ref loc="EXO 12:21-30">ዘፀ. 12፥21-30</ref>። </char></note><verse eid="HEB 11:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="HEB 11:29" />እስራኤላውያን በጠረቅ አፈር ይጔኖኸም ኸኖም ብሻ ባርም የትጔኖ በእምነቱ፤ ግብጻውያን ዛምኸም የወሰክት በሞከሮ ግዝየ እንም ሰመጦ።<note caller="-" style="x"><char style="xo" closed="false">11፥29 </char><char style="xt"><ref loc="EXO 14:21-31">ዘፀ. 14፥21-31</ref>። </char></note><verse eid="HEB 11:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="HEB 11:30" />እስራኤላውያን በኢያሪኮ ኧጭር ዙራ ሰበት ከነ በዦሮ አንቌ የግንብ ኧጭሪ ያፈረሶይ በእምነቱ።<note caller="-" style="x"><char style="xo" closed="false">11፥30 </char><char style="xt"><ref loc="JOS 6:12-21">ኢያ. 6፥12-21</ref>። </char></note> <verse eid="HEB 11:30" /><verse number="31" style="v" sid="HEB 11:31" />ትሟግጢ ረዓብ የእስራኤል ይሴልሎዪ በሰላም የቌበረቶ ስለኸነ ቴይታዘዞዪጌ ተወሙት የተረፈች በእምነቱ።<note caller="-" style="x"><char style="xo" closed="false">11፥31 </char><char style="xt" closed="false"><ref loc="JOS 2:1-21">ኢያ. 2፥1-21</ref>፤ <ref loc="JOS 6:22-25">6፥22-25</ref>። </char></note><verse eid="HEB 11:31" /></para>
+  <para style="p">
+    <verse number="32" style="v" sid="HEB 11:32" />ኧጌሽ እንጐድ መአር ኧብር? ስለጌዴዎን፥ ስለባራቅ ስለሶምሶን፥ ስለዮፍታሔ፥ ስለዳዊት፥ ስለሳሙኤል፥ ስለነብዮችም ናንቴርክ ግዝየ ያጥሬ፤<note caller="-" style="x"><char style="xo" closed="false">11፥32 </char><char style="xt" closed="false"><ref loc="JDG 6:11-8:32">መሳ. 6፥11—8፥32</ref>፤ <ref loc="JDG 4:6-5:31">4፥6—5፥31</ref>፤ <ref loc="JDG 13:2-16:31">13፥2—16፥31</ref>።</char></note><note caller="+" style="f"><char style="fr" closed="false">11፥32 </char><char style="xt" closed="false"><ref loc="1KI 2:11">1 ነገ. 2፥11</ref> </char></note> <verse eid="HEB 11:32" /><verse number="33" style="v" sid="HEB 11:33" />ሕኖ በእምነት የመንግሥታት ውራግ ሠሎ፤ በኢን ፍርድ አትዳደሮ፤ ያቡዮዪ ተስፋ ረከቦ፤ የአንበሶችም አፍ ዘጎ፤<note caller="-" style="x"><char style="xo" closed="false">11፥33 </char><char style="xt" closed="false"><ref loc="DAN 6:1-27">ዳን. 6፥1-27</ref>። </char></note> <verse eid="HEB 11:33" /><verse number="34" style="v" sid="HEB 11:34" />የሳት ቆት አጠፎ፤ ተሰይፍ ስለት አመለጦ፤ ተቂጭናሕኖ ብረቶ፤ በአርብ ኸርደድ ኸኖ፤ የወራሪ መሶ ወታደሮች አሳደዶ፤<note caller="-" style="x"><char style="xo" closed="false">11፥34 </char><char style="xt" closed="false"><ref loc="DAN 3:1-30">ዳን. 3፥1-30</ref>። </char></note> <verse eid="HEB 11:34" /><verse number="35" style="v" sid="HEB 11:35" />እንሽታ የᎀተበማዪ ዘመደሕነማ ተሞት ተነሦም ረከበማዮ። እንጐደሕኖም ኧሗም ትንሣኤ የወርክብ ቲብሮ፤ ወትርፍ ናቆም የሞት ያሰላ ሥቃይ ነብሰሕኖ አቦ፤ ተዚም ነጣ የወውጣ አንሸዎ።<note caller="-" style="x"><char style="xo" closed="false">11፥35 </char><char style="xt" closed="false"><ref loc="1KI 17:17-24">1 ነገ. 17፥17-24</ref>፤ <ref loc="2KI 4:25-37">2 ነገ. 4፥25-37</ref>። </char></note> <verse eid="HEB 11:35" /><verse number="36" style="v" sid="HEB 11:36" />እንጐደሕኖ መቸረቻ ኸኖም ተገረፎ፤ እንጐደሕኖ በግር ብረት ታገዶም ተወሕኒ ቤቴ አገቦዮ፤<note caller="-" style="x"><char style="xo" closed="false">11፥36 </char><char style="xt" closed="false"><ref loc="1KI 22:26-27">1 ነገ. 22፥26-27</ref>፤ <ref loc="2CH 18:25-26">2 ዜና 18፥25-26</ref>፤ <ref loc="JER 20:2">ኤር. 20፥2</ref>። </char></note> <verse eid="HEB 11:36" /><verse number="37" style="v" sid="HEB 11:37" />ብምን ተወጎም፤ በመጋዝ ተስነጠቆ<note caller="+" style="f"><char style="fr" closed="false">11፥37 </char><char style="ft" closed="false">አታት የድረ ቅጂዎች </char><char style="fqa" closed="false">ብምን ተወጎ፤ የፈተና አቸለፎም ቴቦ፤ </char></note>፤ በሰይፍ ተቀጠሮ፤ የጤ የፌቅም ጎጋ ለበሶም ተንክራተቶ፤ ዜጋ ስደተኞችም ኸኖም ተንግላቶ፤<note caller="-" style="x"><char style="xo" closed="false">11፥37 </char><char style="xt" closed="false"><ref loc="2CH 24:21">2 ዜና 24፥21</ref>። </char></note> <verse eid="HEB 11:37" /><verse number="38" style="v" sid="HEB 11:38" />በበረሐ በቈቶ፥ በአፈር ውስጥ ባኖ ዋሻዎች ጐጀዎችም ዞሮ። በዚምኸማት ዓለም የሕኖ ተገቢ መደር ኸነም አንትረኸበ።<verse eid="HEB 11:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="HEB 11:39" />ነዚ እንም ስለእምነተሕኖ የትምሰከረኖ ቢኸኖም ያቡዮዪ ተስፋ ገና አረኸቦ። <verse eid="HEB 11:39" /><verse number="40" style="v" sid="HEB 11:40" />እዝጌር ይና የጠቀለ ቃር ኤቀደም፤ ስለኸነም ሕኖ ቲናጌ አንኸንም የሟነሕኖ ፍጡም ሙላ ወሕን ኤይችሎ።<verse eid="HEB 11:40" /></para>
+  <chapter eid="HEB 11" />
+  <chapter number="12" style="c" sid="HEB 12" />
+  <para style="s1">እዝጌር አባና ስለወሕነሑ</para>
+  <para style="p">
+    <verse number="1" style="v" sid="HEB 12:1" />የዳበናኸም<note caller="+" style="f"><char style="fr" closed="false">12፥1 </char><char style="ft" closed="false">የዳበናኸም ወበር በእምነት የትምሰከረኖ የአቦቸና ብዛት ያምለክት ወበሩ። </char></note> በዙሪያና የኸበቦነ ነዚ እንም ምስክሮች ስላኖነ ኢና የጡዋራኸም የኸነብነዪ ቃር እንም ቢና ትበተበም የጠበጠነ አጢአት አጠፋነም ቢፍተና ያነዪ የሩጫ ውድድር በትዕግሥት በወጥና ንሩጥነ። <verse eid="HEB 12:1" /><verse number="2" style="v" sid="HEB 12:2" />ንሮጥነዪም የእምነተና መሥራች ፈጣሚ የኸነዪ የኢየሱስ በወትመልከቱ፤ ሑቲ ቢፍተሑ ያነዪ ብልቃት መሳመሑ በመስቀል ᎈር የወሙት ውርደት ናቀም የመስቀል መከራ ሞትም ፈረከ፤ በእዝጌር ዙፋን ከነም ቾና።<verse eid="HEB 12:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="HEB 12:3" />ኧጌሽ ታትስለቶ ተስፋ ታታርጦ ዚ እንም የአጢአተኞች ተቃውሞ የፈረከዪ የኢየሱስ ፈያኸም ዐስቦ። <verse eid="HEB 12:3" /><verse number="4" style="v" sid="HEB 12:4" />አሑ ተአጢአትጌ በወትጋደል ገና ትᎀቶ ስን አንትቃወምኩ። <verse eid="HEB 12:4" /><verse number="5" style="v" sid="HEB 12:5" />እዝጌር የዴንጋሑታኸም ሸከተም እኪ ቲብር የመከረናሑዪ ረሳሑም፤</para>
+  <para style="q1" vid="HEB 12:5">“ትኸኛ! የጔታ ተግሳጥ አታቅልል፤</para>
+  <para style="q2" vid="HEB 12:5">በቀጣናኸም ግዝየ ተስፋ አትርጥ፤<verse eid="HEB 12:5" /></para>
+  <para style="q">
+    <verse number="6" style="v" sid="HEB 12:6" />ጔታ ይወጅጂ ይጔስጭ፤</para>
+  <para style="q2" vid="HEB 12:6">የትኸኹኸም ሸከተም ያዥኒ ይቀጣ።”<verse eid="HEB 12:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="HEB 12:7" />እዝጌር የዴንጋሑኸም ይቆጥርኩ ስለኸነ ቅጣት ታገሦ፤ አᎄች ኤይቈጣን ትኸ ኤነ። <verse eid="HEB 12:7" /><verse number="8" style="v" sid="HEB 12:8" />ዴንጋ የኸኖ እንም ይቈበሮዪ ቅጣት አሑም ባንትቀበርኩ ዲቃላንኩ አንኸንም ዴንጋ አንኸንኩ። <verse eid="HEB 12:8" /><verse number="9" style="v" sid="HEB 12:9" />ተዚ ነን፤ ኢና እንመና ይቀጦነ ያፈሪ አቦቸና ባኖነ፤ ናከብርነዮ ባነ፤ ኧጌ፥ በሕይወት የወንብር የመንፈሳዊ አባና በጠቀለ ወታዘዝ ምንኸም ኤይጌባነ! <verse eid="HEB 12:9" /><verse number="10" style="v" sid="HEB 12:10" />ሕኖ ፈያ መሰረም የታዠኖኸም የቀል ግዝየ ቀጦነም፤ ሑቲም የቅድስናሑ ኧሰድነኸም የጥቅመና ይቀጣነ። <verse eid="HEB 12:10" /><verse number="11" style="v" sid="HEB 12:11" />ቅጣት እንም በወክተሑ ያቴዝን አንኸንም ያትብላልቅ ኤይመስር፤ ባንቌ የሮሶይ ሰቦች ሰላም የመላወ የጽድቅ ፍርየ ትረሕቦᎄ።<verse eid="HEB 12:11" /></para>
+  <para style="s1">ምክር ዋትቀየም</para>
+  <para style="p">
+    <verse number="12" style="v" sid="HEB 12:12" />ስለኸነም ሸለል የባሮዪ ኧጃሑ የቌጦዪም መሌያሑ አበርቶ።<note caller="-" style="x"><char style="xo" closed="false">12፥12 </char><char style="xt" closed="false"><ref loc="ISA 35:3">ኢሳ. 35፥3</ref>። </char></note> <verse eid="HEB 12:12" /><verse number="13" style="v" sid="HEB 12:13" />ጅረ የኸነዪ ፈያ ይኸንኸም አኸንም ተመደሪ ወጣም ኤያኔክስኸም የግራሑ የቀና ኤማ ሰክቶ።<note caller="-" style="x"><char style="xo" closed="false">12፥13 </char><char style="xt" closed="false"><ref loc="PRO 4:26">ምሳ. 4፥26</ref>። </char></note><verse eid="HEB 12:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="HEB 12:14" />ፍርየ ኤባን ቅድስና ሟንም ጔታ ወዥ ኤይችል ስለኸነ ተሰብ እንም በሰላም የወንብር ተጋደሎ፤ በቅድስና ንበሮ፤ <verse eid="HEB 12:14" /><verse number="15" style="v" sid="HEB 12:15" />ታሑ ሟንም የእዝጌር ጸጋ ኤቀብልወኸም ተቀሮ፤ ዛምኸም አትም ይመሪ ፍርየ ያወርድ አታሕልት በግብታሑ በቀለም ኤያትሜካሑኸም ብዠሕኖም ኤያረክስኸም ተቀሮ።<note caller="-" style="x"><char style="xo" closed="false">12፥15 </char><char style="xt" closed="false"><ref loc="DEU 29:18">ዘዳ. 29፥18</ref>። </char></note> <verse eid="HEB 12:15" /><verse number="16" style="v" sid="HEB 12:16" />ሴሰኘ የኸነ ወይ የቁና ግዝየ ስንቅ ባረም በሕረሑ ያስየ የዔሳውኸም ነውረኛ የኸነ ሰብ ኤትረከብኸም ተቀሮ።<note caller="-" style="x"><char style="xo" closed="false">12፥16 </char><char style="xt" closed="false"><ref loc="GEN 25:29-34">ዘፍ. 25፥29-34</ref>። </char></note> <verse eid="HEB 12:16" /><verse number="17" style="v" sid="HEB 12:17" />ባንቌም ዔሳው በረካ ዠበረም የወቀበር በሸ ግዝየ ዚ በረካ የዀተሪኸም ቲሒሮ፤ ቲይበክ ዛ በረካ ብረታም ቢሸ ይረሕᎆ አንቻለ። የንስሐ አትም ዕድል አረኸበ።<note caller="+" style="f"><char style="fr" closed="false">12፥17 </char><char style="fqa" closed="false">ይረሕᎆ አንቻለ፦ </char><char style="ft" closed="false">ወበር በንስሐ አትም ዕድል አረኸበ። </char></note><note caller="-" style="x"><char style="xo" closed="false">12፥17 </char><char style="xt" closed="false"><ref loc="GEN 27:30-40">ዘፍ. 27፥30-40</ref>። </char></note><verse eid="HEB 12:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="HEB 12:18" />አሑ በጅ ቲሙሻሽ ወይ ቲነዲ ተሲና ቈቶዬ አንሰላሑ፤ ተጭጋጌ ተጨለማዬ፣ ተዐውሎ ኧንፋሴ፤ <verse eid="HEB 12:18" /><verse number="19" style="v" sid="HEB 12:19" />የእንቢልታ ጣምባ ወይ ይውጂ ቃል ቲሰመᎄዬ አንሰላሑ፤ ዛ ቃል የሰሞ ሰቦች “ተሗ ቀረሰም እንጐድ ቃል ኤያውጅነ” በወበር የወጮቅስ ስን ሰሎም።<note caller="-" style="x"><char style="xo" closed="false">12፥18-19 </char><char style="xt" closed="false"><ref loc="EXO 19:16-22">ዘፀ. 19፥16-22</ref>፤ <ref loc="EXO 20:18-21">20፥18-21</ref>፤ <ref loc="DEU 4:11-12">ዘዳ. 4፥11-12</ref>፤ <ref loc="DEU 5:22-27">5፥22-27</ref>። </char></note><verse eid="HEB 12:19" /></para>
+  <para style="q">
+    <verse number="20" style="v" sid="HEB 12:20" />መሳሑም “እንሰሳ ቈቶዪ ቢለግድም</para>
+  <para style="q2" vid="HEB 12:20">ብምን ተወጋም የሙት”</para>
+  <para style="m" vid="HEB 12:20">ይብሪ ትዛዝ የራዘኖ ስለኸነ ወቈቈም አንቻሎ።<note caller="-" style="x"><char style="xo" closed="false">12፥20 </char><char style="xt" closed="false"><ref loc="EXO 19:12-13">ዘፀ. 19፥12-13</ref>። </char></note> <verse eid="HEB 12:20" /><verse number="21" style="v" sid="HEB 12:21" />የታዠዪ ወሰክት ስርም ያጔና ተወሕነሑ የትነሣ ሙሴ</para>
+  <para style="q1" vid="HEB 12:21">“እያ ጔናሑ፤ አትረዴም” ባረ።<note caller="-" style="x"><char style="xo" closed="false">12፥21 </char><char style="xt" closed="false"><ref loc="DEU 9:19">ዘዳ. 9፥19</ref>። </char></note><verse eid="HEB 12:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="HEB 12:22" />አሑ ተጽዮን ቈቶዬ ቀረብኩም፤ ሑቲ የሕያው እዝጌር ከተማ የኸነዪ ሰማያዊዪ ኢየሩሳሌም፤ በብልቃት ተስበሰቦᎄዬ፥ በብዠ ሺ ቲትቆጠሮዬ መላይካ ቀረብኩም <verse eid="HEB 12:22" /><verse number="23" style="v" sid="HEB 12:23" />ሽመሕኖ በሰሜ ተጣፈወዬ፥ የቤተ ክርስቲያን የበሕር ዴንጋ ተኸኖዬ ተአማኞች ጀᎈሬ፥ ይንም ፈራጅ ተኸነዪ አምላከና ፍጡምነትም ተረከቦዬ የጻድቃን መንፈስ፣ <verse eid="HEB 12:23" /><verse number="24" style="v" sid="HEB 12:24" />የገደር ጉዳ የግብቲ ያስማማዪ ተኸነዪ ኢየሱስ፣ ተአቤል ደም የጠቀለ ቃል ይዝነጌ ተፍነታ ደመዄ ሰላሑም።<note caller="-" style="x"><char style="xo" closed="false">12፥24 </char><char style="xt" closed="false"><ref loc="GEN 4:10">ዘፍ. 4፥10</ref>። </char></note><verse eid="HEB 12:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="HEB 12:25" />ዛ ይዝነግኒ አንቌበርነ አትብሮኸም ተቀሮ፤ ነዛሕኖ እዝጌር በሰብ መሳ ባፈር ቲዝነግኖ አንሰማነ የባሮ ባናምለጦ፣ ኧጌ ኢና በሰሜ ይዝነግነዪም ባንቌበርነ ምንኸም ናመልጥነ!<note caller="-" style="x"><char style="xo" closed="false">12፥25 </char><char style="xt" closed="false"><ref loc="EXO 20:22">ዘፀ. 20፥22</ref>። </char></note> <verse eid="HEB 12:25" /><verse number="26" style="v" sid="HEB 12:26" />በዛ ግዝየ ቃለሑ ያፈር አናወጠም፤ ኧሗም “ያፈር ጠለለ ቴይኸን ቁናጌ ደገኩም ሰሜዪ ኧደብርም አናውጭ” በወበር ቃል ገባም።<note caller="-" style="x"><char style="xo" closed="false">12፥26 </char><char style="xt" closed="false"><ref loc="HAG 2:6">ሐጌ 2፥6</ref>። </char></note> <verse eid="HEB 12:26" /><verse number="27" style="v" sid="HEB 12:27" />ዚ “ቁናጌ ኧደብርም” ይብሪ ቃል ያምለክቲ ኤይትናወጦ ዘንጋ ቆመሮም ይነብሮኸም ይትናወጦዪም የትኸለቆ ዘንጋ ወጥፋሕኖው።<verse eid="HEB 12:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="HEB 12:28" />ኧጌሽ ኢና ኤይትናወጢ መንግሥት ኧወርስነ ስለኸነ የእዝጌር ናመስግነ፤ ቢትብላለቂ ሐለትም በዋክብር በወገናም ናምልክኔ። <verse eid="HEB 12:28" /><verse number="29" style="v" sid="HEB 12:29" />መሳሑም አምላከና አነደደም ያጠፋ ኧሳትኸሙ።<note caller="-" style="x"><char style="xo" closed="false">12፥29 </char><char style="xt" closed="false"><ref loc="DEU 4:24">ዘዳ. 4፥24</ref>። </char></note><verse eid="HEB 12:29" /></para>
+  <chapter eid="HEB 12" />
+  <chapter number="13" style="c" sid="HEB 13" />
+  <para style="s1">የእዝጌር ያትብላልቅ አገልግሎት</para>
+  <para style="p">
+    <verse number="1" style="v" sid="HEB 13:1" />እንጌ የነብስ በነብስ የጐባቢትነት ፍቅር የንብርኩ፤ <verse eid="HEB 13:1" /><verse number="2" style="v" sid="HEB 13:2" />ባዘና ወትቀበርም ዋስትናግድ አትርሶ፤ የዚኸም ባዘናም ተቌበሮም በዋስትናግድ አታት ሰቦች ቴይሒሮ መላይካም ተቌበሮም አስትናገዶም።<note caller="-" style="x"><char style="xo" closed="false">13፥2 </char><char style="xt" closed="false"><ref loc="GEN 18:1-8">ዘፍ. 18፥1-8</ref>፤ <ref loc="GEN 19:1-3">19፥1-3</ref>። </char></note> <verse eid="HEB 13:2" /><verse number="3" style="v" sid="HEB 13:3" />ተሕኖጌ ቁናዬ የታገዶ ኸንኩም ኧጉጀኘ የኸኖዪ አስታውሶ፤ አሑም የሕኖኸም መከራ ትቌበሮኸም ኸንኩም መከራ ይቌበሮዪ አስቦ።<verse eid="HEB 13:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="HEB 13:4" />ጋብቻ ብንሜ የትከበረ የሕን፤ ይጐደርᎄዪም ንጡ የሕን፤ መሳሑም እዝጌር የሟገጦዪ ሴሰኞችም ብንም ᎈር ይፈርድ።<verse eid="HEB 13:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="HEB 13:5" />ተዋጋ ፍቅር ስሖ፤ ያነናሑ ያሰላሑ፤ መሳሑም እዝጌር “ስርም አናድግኸ፤ ስርም አንገፍርኸ” ባረም።<note caller="-" style="x"><char style="xo" closed="false">13፥5 </char><char style="xt" closed="false"><ref loc="DEU 31:6">ዘዳ. 31፥6</ref>፤ <ref loc="DEU 8">8</ref>፤ <ref loc="JOS 1:5">ኢያ. 1፥5</ref>። </char></note> <verse eid="HEB 13:5" /><verse number="6" style="v" sid="HEB 13:6" />ስለኸነም በወትማመን፥</para>
+  <para style="q1" vid="HEB 13:6">“ጔታ ረዳተኛው፤ አንጔና፤</para>
+  <para style="q1" vid="HEB 13:6">ሰብ ምን ይሸክቴ ይችል?” ኧብርነ።<note caller="-" style="x"><char style="xo" closed="false">13፥6 </char><char style="xt" closed="false"><ref loc="PSA 118:6">መዝ. 118፥6</ref>። </char></note><verse eid="HEB 13:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="HEB 13:7" />የእዝጌር ቃል በመጀመሪያዪም ዬወዶኩዪ መሪዎቻሑ አትርሶ፤ የኑሮሕኖ የሜናሕኖም ውጤት በዋስታውስ የእምነተሕኖ ምሳሌ ሰክቶም ተኸተሎ። <verse eid="HEB 13:7" /><verse number="8" style="v" sid="HEB 13:8" />ኢየሱስ ክርስቶስ ትራማም ኧኳም የዘለዓለምም ዛሙ። <verse eid="HEB 13:8" /><verse number="9" style="v" sid="HEB 13:9" />በትልያዮ በባዘና ትምርት አትትወሰዶ፤ ሒናሑ በጸጋ ቢጠና ፈያው አንኸንም ቢᎄሬ የስንቅ ሥራት በወቀየ አንከነ፤ ዚ ሥራት ይቅሮዪ አንትጠቀሞ።<verse eid="HEB 13:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="HEB 13:10" />ኢና መሠዊያ ነነነ፤ ቢኸንም በድንኳኒ ውስጥ ያግለግሎ ካሕናት በዚ መሠዊያ ᎈር ባነዪ ስንቅ ወሰዶም ወብራ ኤትፌቀድኖ። <verse eid="HEB 13:10" /><verse number="11" style="v" sid="HEB 13:11" />የአይሑድ የካሕናት አለአ የአጢአት አፉታ ያትሬክቢ የእንሰሳት ደም ጠበጠም ተቅድስተ ቅዱሳኔ ይገባ፤ የእንሰሳቲ ጅስመሑ እንም ተከተማዪ ውጪ ያነጂ፤<note caller="-" style="x"><char style="xo" closed="false">13፥11 </char><char style="xt" closed="false"><ref loc="LEV 16:27">ዘሌ. 16፥27</ref>። </char></note> <verse eid="HEB 13:11" /><verse number="12" style="v" sid="HEB 13:12" />ዛምኸም ኢየሱስ የሕዝቢ በነብሰሑ ደም የወቀድስ ተከተማዪ በር ውጪ መከራ ተቌበረ። <verse eid="HEB 13:12" /><verse number="13" style="v" sid="HEB 13:13" />ኢናም ተከተማ ንውጣነም ተሑቲዬ ንወርነ፤ ውርደተሑም ንሳድነ። <verse eid="HEB 13:13" /><verse number="14" style="v" sid="HEB 13:14" />መሳመሑ ኢና ገና ይቸኚ ከተማ ኧቂየነ አንኸንም ጠናም ይነብር ከተማ በዚ ገኝ ኤነነ። <verse eid="HEB 13:14" /><verse number="15" style="v" sid="HEB 13:15" />ኧጌሽ በኢየሱስ ክርስቶስ መሳ የምስጋና መሥዋት እንጌ የእዝጌር ናቅርብነ፤ ዚም ስለሽመሑ ቢምሰክሪ ከንፈር ይቀርብ የምስጋና መሥዋዕቱ። <verse eid="HEB 13:15" /><verse number="16" style="v" sid="HEB 13:16" />ፈያ ቃር ወሰክት ያነናሑም ቃር ይንጐድ ሰብ ወሳድ አትርሶ፤ መሳሑም እዝጌር ያትብላልቅ የዚኸማቲ መሥዋዕቱ።<verse eid="HEB 13:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="HEB 13:17" />የመሪዎቻሑ ታዘዞ፤ በሥልጣነሕኖም ተት ሕኖ፤ ሕኖ ይጤየቆᎄ አላፊነት ስላነቦ ስለነብስያሑ ዘንጋ ይጋደሎ፤ አሑ ብትታዘዞዮ ሕኖ ሜናሕኖ በብልቃት ይፌጥሞ፤ ባንከነ ሜናሕኖ በአዘን ይሸክቶ፤ ዚም ያሑ ይጠቅም ኤይኸን።<verse eid="HEB 13:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="HEB 13:18" />ጠልዮንነ፤ ብንም ኤማ በፈያ ወንብር ይቦርስ ንጡ ሕሊና ያነነኸም የኢነተኘንነ፤ <verse eid="HEB 13:18" /><verse number="19" style="v" sid="HEB 13:19" />በትለየም ታሑዬ በዋተክል ተዠበርኩም ኧቸኝኸም ትጤልዮኒዬ ዐደራ ኧብርሑ።<verse eid="HEB 13:19" /></para>
+  <para style="s1">ያጥቋልልᎄ ጠሎት</para>
+  <para style="p">
+    <verse number="20" style="v" sid="HEB 13:20" />ንኢዪ የጤ ወጅመኘ ጔታና ኢየሱስ በዘላለማዊዪ ጉዳ ደም ተሞት ያትኔሣኒ የሰላም አምላክ <verse eid="HEB 13:20" /><verse number="21" style="v" sid="HEB 13:21" />ፈአደሑ ትሸክቶኸም በፈያ ዘንጋ እንም የበቃ ይሸክትኩ፤ ያትብላልቊም በኢየሱስ ክርስቶስ ኤማ ቢና የሰክት፤ የኢየሱስ ክርስቶስ ተዘለዓለም ዘላለም ስን ክብር የሕን፤ አሜን።<verse eid="HEB 13:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="HEB 13:22" />ጐባቢት! ዚ የጣፈክንኩ መልክት አጭር ስለኸነ ዚ የምክር ቃለኛ በትግሥት ትቌበሮኸም አቆመርኩም ኧጮቅስኩ። <verse eid="HEB 13:22" /><verse number="23" style="v" sid="HEB 13:23" />ጐቤና ጢሞቴዎስ ተወሕኔ ቤት የወጣኸም ቲሕሮኸም ኧወድ፤ ከሞ ተዚዬ በቸኘ ተሑቲጌ ታሑዬ ኧቸኝም አዥኩ።<verse eid="HEB 13:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="HEB 13:24" />የመሪዎቻሑ የቅዱሳንም እንም ሰላምታ አቅርቦኒ፤ በኢጣልያ ገኝ ያኖዪ ክርስቲያን ሰላምታ ያቀርቦንኩ።<verse eid="HEB 13:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="HEB 13:25" />የእዝጌር ጸጋ ትንማሑጌ የሕን። አሜን።<verse eid="HEB 13:25" /></para>
+  <chapter eid="HEB 13" />
+</usx>

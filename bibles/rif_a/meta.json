@@ -1,0 +1,32 @@
+{
+    "name": {
+        "local": "ثمازيغث ن أرّيف",
+        "local_abbrev": "ريف",
+        "english": "Tarifit_AS NT",
+        "english_abbrev": ""
+    },
+    "year": 2022,
+    "direction": "rtl",
+    "script": "Arab",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0)/"
+            }
+        ],
+        "attribution": "Wycliffe Bible Translators, Inc.",
+        "attribution_url": "https://app.library.bible/content/bb4d869847d96eff"
+    },
+    "ids": {
+        "dbl": "bb4d869847d96eff"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/bb4d869847d96eff/zip",
+        "updated": "2023-08-02",
+        "revision": 7
+    },
+    "tags": []
+}

@@ -1,0 +1,35 @@
+{
+    "name": {
+        "local": "ไทยกลาง",
+        "local_abbrev": "",
+        "english": "Central Thai SPV",
+        "english_abbrev": "SPV"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Son Light Foundation",
+        "attribution_url": "https://app.library.bible/content/e23c17cc6358413f"
+    },
+    "ids": {
+        "dbl": "e23c17cc6358413f"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/e23c17cc6358413f/zip",
+        "updated": "2026-07-31",
+        "revision": 2
+    },
+    "tags": [],
+    "partial": [
+        "luk",
+        "jhn"
+    ]
+}

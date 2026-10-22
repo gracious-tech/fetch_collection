@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Baibuli Erikwera",
+        "local_abbrev": "RR64",
+        "english": "Runyankore - Rukiga Bible 1964",
+        "english_abbrev": "B"
+    },
+    "year": 1964,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": ""
+            }
+        ],
+        "attribution": "Bible Society of Uganda",
+        "attribution_url": "https://app.library.bible/content/9bf4c154bb6029f7"
+    },
+    "ids": {
+        "dbl": "9bf4c154bb6029f7"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/9bf4c154bb6029f7/zip",
+        "updated": "2026-09-30",
+        "revision": 8
+    },
+    "tags": []
+}

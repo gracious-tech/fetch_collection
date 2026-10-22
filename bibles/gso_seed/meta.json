@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Gbaya-Bianda OT Portions",
+        "local_abbrev": "GSO",
+        "english": "Projet de traduction en Gbaya-Bianda",
+        "english_abbrev": ""
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/fb5274db3c584977"
+    },
+    "ids": {
+        "dbl": "fb5274db3c584977"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/fb5274db3c584977/zip",
+        "updated": "2026-10-14",
+        "revision": 1
+    },
+    "tags": []
+}

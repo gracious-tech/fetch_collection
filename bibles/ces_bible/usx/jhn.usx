@@ -1,0 +1,972 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usx version="3.0">
+  <book code="JHN" style="id">- Bible, překlad 21. století</book>
+  <para style="toc3">J</para>
+  <para style="toc2">Jan</para>
+  <para style="toc1">Evangelium podle Jana</para>
+  <para style="mt">Evangelium podle Jana</para>
+  <chapter number="1" style="c" sid="JHN 1" />
+  <para style="s">Prolog</para>
+  <para style="q">
+    <verse number="1" style="v" sid="JHN 1:1" />Na počátku bylo Slovo</para>
+  <para style="q2" vid="JHN 1:1">a to Slovo bylo u Boha</para>
+  <para style="q3" vid="JHN 1:1">a to Slovo bylo Bůh.<verse eid="JHN 1:1" /></para>
+  <para style="q">
+    <verse number="2" style="v" sid="JHN 1:2" />To bylo na počátku u Boha.<verse eid="JHN 1:2" /></para>
+  <para style="b" />
+  <para style="q">
+    <verse number="3" style="v" sid="JHN 1:3" />Všechno povstalo skrze něj</para>
+  <para style="q2" vid="JHN 1:3">a bez něj nepovstalo nic, co je.<verse eid="JHN 1:3" /></para>
+  <para style="q">
+    <verse number="4" style="v" sid="JHN 1:4" />V něm byl život</para>
+  <para style="q2" vid="JHN 1:4">a ten život byl světlem lidí.<verse eid="JHN 1:4" /></para>
+  <para style="q">
+    <verse number="5" style="v" sid="JHN 1:5" />A to světlo svítí ve tmě</para>
+  <para style="q2" vid="JHN 1:5">a tma je nepohltila.<verse eid="JHN 1:5" /></para>
+  <para style="b" />
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 1:6" />Od Boha byl poslán člověk jménem Jan. <verse eid="JHN 1:6" /><verse number="7" style="v" sid="JHN 1:7" />Přišel kvůli svědectví, svědčit o tom Světle, aby všichni uvěřili skrze něj. <verse eid="JHN 1:7" /><verse number="8" style="v" sid="JHN 1:8" />On nebyl to Světlo, ale přišel, aby o Světle vydal svědectví.<verse eid="JHN 1:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 1:9" />Tento byl to pravé Světlo osvěcující každého člověka přicházejícího na svět:<verse eid="JHN 1:9" /></para>
+  <para style="b" />
+  <para style="q">
+    <verse number="10" style="v" sid="JHN 1:10" />Byl na světě</para>
+  <para style="q2" vid="JHN 1:10">a svět povstal skrze něj,</para>
+  <para style="q3" vid="JHN 1:10">ale svět ho nepoznal.<verse eid="JHN 1:10" /></para>
+  <para style="q">
+    <verse number="11" style="v" sid="JHN 1:11" />Přišel do svého vlastního,</para>
+  <para style="q2" vid="JHN 1:11">ale jeho vlastní ho nepřijali.<verse eid="JHN 1:11" /></para>
+  <para style="b" />
+  <para style="q">
+    <verse number="12" style="v" sid="JHN 1:12" />Ale těm, kteří ho přijali,</para>
+  <para style="q2" vid="JHN 1:12">dal právo být Božími dětmi –</para>
+  <para style="q3" vid="JHN 1:12">všem těm, kdo věří v jeho jméno.<verse eid="JHN 1:12" /></para>
+  <para style="q">
+    <verse number="13" style="v" sid="JHN 1:13" />Takoví nejsou narozeni z krve,</para>
+  <para style="q2" vid="JHN 1:13">ani z vůle těla, ani z vůle muže,</para>
+  <para style="q3" vid="JHN 1:13">ale z Boha.<verse eid="JHN 1:13" /></para>
+  <para style="b" />
+  <para style="q">
+    <verse number="14" style="v" sid="JHN 1:14" />To Slovo se stalo tělem</para>
+  <para style="q2" vid="JHN 1:14">a přebývalo mezi námi.</para>
+  <para style="q" vid="JHN 1:14">Spatřili jsme jeho slávu,</para>
+  <para style="q2" vid="JHN 1:14">slávu, jakou má od Otce jednorozený Syn,</para>
+  <para style="q3" vid="JHN 1:14">plný milosti a pravdy.<verse eid="JHN 1:14" /></para>
+  <para style="b" />
+  <para style="p">
+    <verse number="15" style="v" sid="JHN 1:15" />Jan o něm vydával svědectví a volal: „Toto je ten, o němž jsem řekl: Ten, který přichází za mnou, je přede mnou, neboť byl dříve než já.“<verse eid="JHN 1:15" /></para>
+  <para style="b" />
+  <para style="q">
+    <verse number="16" style="v" sid="JHN 1:16" />Z jeho plnosti jsme všichni přijali,</para>
+  <para style="q2" vid="JHN 1:16">a sice milost za milost.<verse eid="JHN 1:16" /></para>
+  <para style="q">
+    <verse number="17" style="v" sid="JHN 1:17" />Zákon byl vydán skrze Mojžíše,</para>
+  <para style="q2" vid="JHN 1:17">milost a pravda však přišla skrze Mesiáše Ježíše.<verse eid="JHN 1:17" /></para>
+  <para style="q">
+    <verse number="18" style="v" sid="JHN 1:18" />Boha nikdy nikdo neviděl;</para>
+  <para style="q2" vid="JHN 1:18">jednorozený Syn,<note caller="-" style="f"><char style="fr" closed="false">1:18 </char><char style="ft" closed="false">někt. důležité rukopisy </char><char style="fqa" closed="false">Jednorozený, sám Bůh</char></note> který je v Otcově náručí,</para>
+  <para style="q3" vid="JHN 1:18">ten jej vylíčil.<verse eid="JHN 1:18" /></para>
+  <para style="s">Hlas na poušti</para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 1:19" />Toto je Janovo svědectví, když židovští představení poslali z Jeruzaléma kněze a levity s otázkou: „Kdo jsi?“ <verse eid="JHN 1:19" /><verse number="20" style="v" sid="JHN 1:20" />Neodmítl jim přímou odpověď. „Já nejsem Mesiáš,“ prohlásil.<verse eid="JHN 1:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="JHN 1:21" />„Kdo tedy jsi?“ zeptali se ho. „Eliáš?“<note caller="-" style="x"><char style="xo" closed="false">1:21 </char><char style="xt" closed="false"><ref loc="MAL 3:23">Mal 3:23</ref></char></note></para>
+  <para style="p" vid="JHN 1:21">Řekl: „Nejsem.“</para>
+  <para style="p" vid="JHN 1:21">„Jsi ten Prorok?“<note caller="-" style="x"><char style="xo" closed="false">1:21 </char><char style="xt" closed="false"><ref loc="DEU 18:15">Dt 18:15</ref>, <ref loc="DEU 18:18">18</ref></char></note></para>
+  <para style="p" vid="JHN 1:21">Odpověděl: „Ne.“<verse eid="JHN 1:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 1:22" />Řekli mu tedy: „Kdo jsi? Ať můžeme dát odpověď těm, kteří nás poslali. Co o sobě říkáš?“<verse eid="JHN 1:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 1:23" />Odpověděl jim slovy proroka Izaiáše: „Jsem</para>
+  <para style="b" vid="JHN 1:23" />
+  <para style="q" vid="JHN 1:23">‚hlas volajícího na poušti:</para>
+  <para style="q2" vid="JHN 1:23">Vyrovnejte Pánovu cestu!‘“<note caller="-" style="x"><char style="xo" closed="false">1:23 </char><char style="xt" closed="false"><ref loc="ISA 40:3">Iz 40:3</ref></char></note><verse eid="JHN 1:23" /></para>
+  <para style="b" />
+  <para style="p">
+    <verse number="24" style="v" sid="JHN 1:24" />Ti vyslanci patřili k farizeům. <verse eid="JHN 1:24" /><verse number="25" style="v" sid="JHN 1:25" />Zeptali se ho: „Proč tedy křtíš, když nejsi Mesiáš ani Eliáš ani ten Prorok?“<verse eid="JHN 1:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 1:26" />„Já křtím vodou,“ odpověděl Jan, „ale mezi vámi už povstal někdo, koho neznáte. <verse eid="JHN 1:26" /><verse number="27" style="v" sid="JHN 1:27" />To je ten, který přichází po mně. Jemu nejsem hoden ani rozvázat řemínek sandálu.“ <verse eid="JHN 1:27" /><verse number="28" style="v" sid="JHN 1:28" />Toto se stalo v Betanii za Jordánem, kde Jan křtil.<verse eid="JHN 1:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="JHN 1:29" />Druhého dne Jan uviděl Ježíše, jak přichází k němu, a řekl: „Hle, Beránek Boží, který snímá hřích světa!<note caller="-" style="x"><char style="xo" closed="false">1:29 </char><char style="xt" closed="false"><ref loc="GEN 22:8">Gn 22:8</ref>; <ref loc="EXO 12:3-7">Ex 12:3–7</ref>; <ref loc="ISA 53:7">Iz 53:7</ref></char></note> <verse eid="JHN 1:29" /><verse number="30" style="v" sid="JHN 1:30" />To je ten, o němž jsem řekl: Po mně přichází muž, který je přede mnou, neboť byl dříve než já. <verse eid="JHN 1:30" /><verse number="31" style="v" sid="JHN 1:31" />Já jsem ho neznal, ale přišel jsem křtít vodou proto, aby byl zjeven Izraeli.“<verse eid="JHN 1:31" /></para>
+  <para style="p">
+    <verse number="32" style="v" sid="JHN 1:32" />Jan vydal svědectví: „Viděl jsem Ducha, jak sestoupil z nebe jako holubice a zůstal na něm. <verse eid="JHN 1:32" /><verse number="33" style="v" sid="JHN 1:33" />Já jsem ho neznal, ale Ten, který mě poslal křtít vodou, mi řekl: ‚Na koho spatříš sestoupit Ducha a zůstat na něm, to je ten, který křtí Duchem svatým.‘<note caller="-" style="x"><char style="xo" closed="false">1:33 </char><char style="xt" closed="false"><ref loc="ISA 42:1">Iz 42:1</ref></char></note> <verse eid="JHN 1:33" /><verse number="34" style="v" sid="JHN 1:34" />Já jsem to viděl a vydávám svědectví, že on je Boží Syn.“<verse eid="JHN 1:34" /></para>
+  <para style="s">Co hledáte?</para>
+  <para style="m">
+    <verse number="35" style="v" sid="JHN 1:35" />Druhého dne tam Jan znovu stál se dvěma ze svých učedníků. <verse eid="JHN 1:35" /><verse number="36" style="v" sid="JHN 1:36" />Když uviděl Ježíše, jak prochází kolem, řekl: „Hle, Beránek Boží!“ <verse eid="JHN 1:36" /><verse number="37" style="v" sid="JHN 1:37" />Jakmile ti dva učedníci uslyšeli, co říká, odešli za Ježíšem.<verse eid="JHN 1:37" /></para>
+  <para style="p">
+    <verse number="38" style="v" sid="JHN 1:38" />Ježíš se obrátil a uviděl, jak jdou za ním. „Co hledáte?“ zeptal se jich.</para>
+  <para style="p" vid="JHN 1:38">Řekli mu: „Rabi“ (což se překládá: Učiteli), „kde bydlíš?“<verse eid="JHN 1:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="JHN 1:39" />„Pojďte se podívat,“ odpověděl jim. A tak se šli podívat, kde bydlí, a toho dne už u něj zůstali. Bylo to kolem čtvrté odpoledne.<verse eid="JHN 1:39" /></para>
+  <para style="p">
+    <verse number="40" style="v" sid="JHN 1:40" />Jeden z těch dvou, kteří to od Jana slyšeli a následovali ho, byl Ondřej, bratr Šimona Petra. <verse eid="JHN 1:40" /><verse number="41" style="v" sid="JHN 1:41" />Ten jako první nalezl svého bratra Šimona. Řekl mu: „Našli jsme Mesiáše!“ (což je v překladu Kristus)<note caller="-" style="f"><char style="fr" closed="false">1:41 </char><char style="ft" closed="false">řec. <char style="em">Pomazaný</char></char></note> <verse eid="JHN 1:41" /><verse number="42" style="v" sid="JHN 1:42" />a přivedl ho k Ježíši.</para>
+  <para style="p" vid="JHN 1:42">Ježíš se na něj podíval a řekl: „Ty jsi Šimon, syn Janův.<note caller="-" style="f"><char style="fr" closed="false">1:42 </char><char style="ft" closed="false">někt. rukopisy </char><char style="fqa" closed="false">Jonášův </char><char style="ft" closed="false">(<char style="xt"><ref loc="MAT 16:17">Mt 16:17</ref></char>)</char></note> Budeš se jmenovat Kéfa“ (což se překládá Petr).<note caller="-" style="f"><char style="fr" closed="false">1:42 </char><char style="ft" closed="false">řec. <char style="em">Kámen</char></char></note><verse eid="JHN 1:42" /></para>
+  <para style="p">
+    <verse number="43" style="v" sid="JHN 1:43" />Dalšího dne se Ježíš chtěl vydat do Galileje. Našel Filipa a řekl mu: „Pojď za mnou.“ <verse eid="JHN 1:43" /><verse number="44" style="v" sid="JHN 1:44" />(Filip byl z Betsaidy, města Ondřejova a Petrova.)<verse eid="JHN 1:44" /></para>
+  <para style="p">
+    <verse number="45" style="v" sid="JHN 1:45" />Filip našel Natanaela a řekl mu: „Našli jsme toho, o kterém psal Mojžíš v Zákoně a proroci – Ježíše, syna Josefova z Nazaretu!“<verse eid="JHN 1:45" /></para>
+  <para style="p">
+    <verse number="46" style="v" sid="JHN 1:46" />„Co dobrého může být z Nazaretu?“ opáčil Natanael.</para>
+  <para style="p" vid="JHN 1:46">„Pojď se podívat,“ řekl mu Filip.<verse eid="JHN 1:46" /></para>
+  <para style="p">
+    <verse number="47" style="v" sid="JHN 1:47" />Když Ježíš uviděl Natanaela, jak jde k němu, řekl o něm: „Hle, opravdový Izraelita, v němž není žádná lest!“<verse eid="JHN 1:47" /></para>
+  <para style="p">
+    <verse number="48" style="v" sid="JHN 1:48" />„Odkud mě znáš?“ zeptal se Natanael.</para>
+  <para style="p" vid="JHN 1:48">„Viděl jsem tě pod fíkovníkem,“ řekl mu Ježíš, „ještě než tě Filip zavolal.“<verse eid="JHN 1:48" /></para>
+  <para style="p">
+    <verse number="49" style="v" sid="JHN 1:49" />„Rabi!“ zvolal Natanael, „Ty jsi Boží Syn, ty jsi král Izraele!“<verse eid="JHN 1:49" /></para>
+  <para style="p">
+    <verse number="50" style="v" sid="JHN 1:50" />Ježíš mu odpověděl: „Věříš proto, že jsem ti řekl: Viděl jsem tě pod fíkovníkem? Uvidíš ještě větší věci.“ <verse eid="JHN 1:50" /><verse number="51" style="v" sid="JHN 1:51" />A dodal: „Amen, amen, říkám vám: Uvidíte otevřené nebe a Boží anděly, jak vystupují a sestupují na Syna člověka.“<note caller="-" style="x"><char style="xo" closed="false">1:51 </char><char style="xt" closed="false"><ref loc="GEN 28:10-12">Gn 28:10–12</ref></char></note><verse eid="JHN 1:51" /></para>
+  <chapter eid="JHN 1" />
+  <chapter number="2" style="c" sid="JHN 2" />
+  <para style="s">Nejlepší víno</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 2:1" />Třetího dne se v Káně Galilejské konala svatba. Byla tam i Ježíšova matka <verse eid="JHN 2:1" /><verse number="2" style="v" sid="JHN 2:2" />a na svatbu byl pozván také Ježíš a jeho učedníci. <verse eid="JHN 2:2" /><verse number="3" style="v" sid="JHN 2:3" />Když začalo docházet víno, Ježíšova matka mu řekla: „Nemají víno.“<verse eid="JHN 2:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JHN 2:4" />„Ženo, co ode mě chceš?“ odpověděl jí Ježíš. „Má chvíle ještě nepřišla.“<verse eid="JHN 2:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JHN 2:5" />Jeho matka pak řekla služebníkům: „Udělejte, cokoli vám řekne.“<verse eid="JHN 2:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 2:6" />Stálo tam šest kamenných nádob na vodu k židovskému očišťování, každá o obsahu dvou nebo tří měr.<note caller="-" style="f"><char style="fr" closed="false">2:6 </char><char style="ft" closed="false">každá asi 75–115 litrů</char></note> <verse eid="JHN 2:6" /><verse number="7" style="v" sid="JHN 2:7" />Ježíš řekl služebníkům: „Naplňte ty nádoby vodou.“ Když je naplnili až po okraj, <verse eid="JHN 2:7" /><verse number="8" style="v" sid="JHN 2:8" />řekl jim: „Teď nalévejte a doneste vrchnímu správci svatby.“ A tak to udělali.<verse eid="JHN 2:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 2:9" />Jakmile vrchní správce svatby okusil tu vodu, z níž se stalo víno (a nevěděl, odkud je, ale služebníci, kteří tu vodu nalévali, věděli), zavolal ten vrchní správce ženicha <verse eid="JHN 2:9" /><verse number="10" style="v" sid="JHN 2:10" />a řekl mu: „Každý člověk podává nejdříve nejlepší víno, a když jsou hosté opilí, podává to horší. Ty jsi zachoval nejlepší víno až do konce.“<verse eid="JHN 2:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 2:11" />Tak Ježíš v Káně Galilejské vykonal první ze svých zázračných znamení. Tehdy zjevil svou slávu a jeho učedníci v něj uvěřili. <verse eid="JHN 2:11" /><verse number="12" style="v" sid="JHN 2:12" />Potom sestoupil spolu se svou matkou, bratry i učedníky do Kafarnaum, kde se několik dní zdrželi.<verse eid="JHN 2:12" /></para>
+  <para style="s">Zbořte tento chrám</para>
+  <para style="m">
+    <verse number="13" style="v" sid="JHN 2:13" />Blížily se židovské Velikonoce, a tak se Ježíš vydal na cestu do Jeruzaléma. <verse eid="JHN 2:13" /><verse number="14" style="v" sid="JHN 2:14" />V chrámu nalezl prodavače volů, ovcí a holubic a směnárníky sedící za stoly. <verse eid="JHN 2:14" /><verse number="15" style="v" sid="JHN 2:15" />Tehdy si z provazů upletl bič a všechny z chrámu vyhnal i s ovcemi a voly. Směnárníkům rozházel peníze a zpřevracel stoly <verse eid="JHN 2:15" /><verse number="16" style="v" sid="JHN 2:16" />a prodavačům holubic řekl: „Odneste to odsud! Nedělejte z domu mého Otce tržiště!“ <verse eid="JHN 2:16" /><verse number="17" style="v" sid="JHN 2:17" />(Jeho učedníci si tehdy vzpomněli, že je psáno: „Horlivost pro tvůj dům mě pohltí.“)<note caller="-" style="x"><char style="xo" closed="false">2:17 </char><char style="xt" closed="false"><ref loc="PSA 69:10">Ž 69:10</ref></char></note><verse eid="JHN 2:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JHN 2:18" />Židé mu na to řekli: „Jakým znamením se nám prokážeš, když děláš takové věci?“<verse eid="JHN 2:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 2:19" />„Zbořte tento chrám,“ odpověděl Ježíš, „a za tři dny ho postavím.“<verse eid="JHN 2:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="JHN 2:20" />„Ten chrám se stavěl čtyřicet šest let!“ řekli na to Židé. „A ty ho postavíš za tři dny?“ <verse eid="JHN 2:20" /><verse number="21" style="v" sid="JHN 2:21" />(On ale mluvil o chrámu svého těla. <verse eid="JHN 2:21" /><verse number="22" style="v" sid="JHN 2:22" />Když byl potom vzkříšen z mrtvých, jeho učedníci si vzpomněli, že to říkal, a uvěřili Písmu i Ježíšovu slovu.)<verse eid="JHN 2:22" /></para>
+  <para style="b" />
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 2:23" />Když byl o Velikonocích v Jeruzalémě, mnozí během toho svátku uvěřili v jeho jméno, neboť viděli znamení, která konal. <verse eid="JHN 2:23" /><verse number="24" style="v" sid="JHN 2:24" />Ježíš se jim ale nesvěřoval, protože všechny znal. <verse eid="JHN 2:24" /><verse number="25" style="v" sid="JHN 2:25" />Nepotřeboval, aby někdo vydával o člověku svědectví, neboť sám věděl, co je v člověku.<verse eid="JHN 2:25" /></para>
+  <chapter eid="JHN 2" />
+  <chapter number="3" style="c" sid="JHN 3" />
+  <para style="s">Nikodém</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 3:1" />Mezi farizeji byl člověk jménem Nikodém, židovský hodnostář. <verse eid="JHN 3:1" /><verse number="2" style="v" sid="JHN 3:2" />Přišel za Ježíšem v noci a řekl mu: „Rabi, víme, že jsi přišel jako učitel od Boha. Nikdo přece nemůže konat znamení, která konáš ty, není-li Bůh s ním.“<verse eid="JHN 3:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="JHN 3:3" />Ježíš mu odpověděl: „Amen, amen, říkám ti: Pokud se někdo nenarodí znovu, nemůže spatřit Boží království.“<verse eid="JHN 3:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JHN 3:4" />„Jak se může člověk narodit, když je starý?“ řekl na to Nikodém. „Může se snad vrátit do matčina lůna a podruhé se narodit?“<verse eid="JHN 3:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JHN 3:5" />Ježíš mu odpověděl: „Amen, amen, říkám ti: Kdo se nenarodí z vody a z Ducha, nemůže vejít do Božího království. <verse eid="JHN 3:5" /><verse number="6" style="v" sid="JHN 3:6" />Co se narodilo z těla, je tělo; co se narodilo z Ducha, je duch. <verse eid="JHN 3:6" /><verse number="7" style="v" sid="JHN 3:7" />Nediv se, že jsem ti řekl: Musíte se znovu narodit. <verse eid="JHN 3:7" /><verse number="8" style="v" sid="JHN 3:8" />Vítr vane, kam chce, a slyšíš jeho hlas, ale nevíš, odkud přichází a kam jde. Tak je to s každým, kdo se narodil z Ducha.“<verse eid="JHN 3:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 3:9" />„Jak se to může stát?“ zeptal se Nikodém.<verse eid="JHN 3:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JHN 3:10" />„Ty jsi učitel Izraele, a nevíš to?“ odpověděl mu Ježíš. <verse eid="JHN 3:10" /><verse number="11" style="v" sid="JHN 3:11" />„Amen, amen, říkám ti, že mluvíme o tom, co známe, a svědčíme o tom, co jsme viděli, ale naše svědectví nepřijímáte. <verse eid="JHN 3:11" /><verse number="12" style="v" sid="JHN 3:12" />Jestliže nevěříte, když jsem vám říkal pozemské věci, jak uvěříte, budu-li vám říkat nebeské? <verse eid="JHN 3:12" /><verse number="13" style="v" sid="JHN 3:13" />Nikdo nevystoupil do nebe, jedině ten, který sestoupil z nebe, Syn člověka.<note caller="-" style="f"><char style="fr" closed="false">3:13 </char><char style="ft" closed="false">Někt. rukopisy přidávají </char><char style="fqa" closed="false">který je v nebi.</char></note> <verse eid="JHN 3:13" /><verse number="14" style="v" sid="JHN 3:14" />Jako Mojžíš vyzdvihl hada na poušti,<note caller="-" style="x"><char style="xo" closed="false">3:14 </char><char style="xt" closed="false"><ref loc="NUM 21:7-9">Nu 21:7–9</ref></char></note> tak musí být vyzdvižen Syn člověka, <verse eid="JHN 3:14" /><verse number="15" style="v" sid="JHN 3:15" />aby každý, kdo věří v něj, měl věčný život.“<verse eid="JHN 3:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 3:16" />Neboť Bůh tak miloval svět, že dal svého jednorozeného Syna, aby žádný, kdo v něj věří, nezahynul, ale měl věčný život. <verse eid="JHN 3:16" /><verse number="17" style="v" sid="JHN 3:17" />Bůh neposlal svého Syna na svět, aby svět odsoudil, ale aby svět byl skrze něj spasen. <verse eid="JHN 3:17" /><verse number="18" style="v" sid="JHN 3:18" />Kdo v něho věří, nebude souzen, ale kdo nevěří, je už odsouzen, protože neuvěřil ve jméno jednorozeného Božího Syna. <verse eid="JHN 3:18" /><verse number="19" style="v" sid="JHN 3:19" />A toto je ten soud, že světlo přišlo na svět, ale lidé si více než světlo oblíbili tmu, protože jejich skutky byly zlé. <verse eid="JHN 3:19" /><verse number="20" style="v" sid="JHN 3:20" />Každý, kdo koná zlo, nenávidí světlo a nepřichází ke světlu, aby jeho skutky nebyly odhaleny. <verse eid="JHN 3:20" /><verse number="21" style="v" sid="JHN 3:21" />Kdo ale koná pravdu, přichází ke světlu, aby se ukázalo, že jeho skutky byly vykonány v Bohu.<verse eid="JHN 3:21" /></para>
+  <para style="s">On musí růst</para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 3:22" />Potom Ježíš přišel se svými učedníky do judské země a tam s nimi pobýval a křtil. <verse eid="JHN 3:22" /><verse number="23" style="v" sid="JHN 3:23" />Jan také křtil v Ainonu poblíž Salimu, protože tam bylo hodně vody. A lidé přicházeli a nechávali se křtít. <verse eid="JHN 3:23" /><verse number="24" style="v" sid="JHN 3:24" />(Jan totiž ještě nebyl vsazen do žaláře.)<verse eid="JHN 3:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 3:25" />Tehdy mezi Janovými učedníky a jistým Židem došlo ke sporu ohledně očišťování. <verse eid="JHN 3:25" /><verse number="26" style="v" sid="JHN 3:26" />Přišli tedy k Janovi a řekli mu: „Rabi, pohleď, ten, který byl s tebou za Jordánem, ten, o němž jsi vydal svědectví, teď křtí a všichni přicházejí k němu!“<verse eid="JHN 3:26" /></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JHN 3:27" />Jan odpověděl: „Člověk nemůže přijmout nic, není-li mu to dáno z nebe. <verse eid="JHN 3:27" /><verse number="28" style="v" sid="JHN 3:28" />Vy sami jste mi svědky, že jsem řekl: Já nejsem Mesiáš, ale jsem poslán před ním. <verse eid="JHN 3:28" /><verse number="29" style="v" sid="JHN 3:29" />Nevěsta patří ženichovi. Ženichův přítel stojí stranou, naslouchá a má velikou radost, když uslyší hlas ženicha. Tato má radost se tedy naplnila. <verse eid="JHN 3:29" /><verse number="30" style="v" sid="JHN 3:30" />On musí růst a já se zmenšovat.“<verse eid="JHN 3:30" /></para>
+  <para style="p">
+    <verse number="31" style="v" sid="JHN 3:31" />Kdo přichází shůry, je nade všechny; kdo je ze země, je pozemský a mluví pozemské věci. Ten, který přišel z nebe, je nade všechny. <verse eid="JHN 3:31" /><verse number="32" style="v" sid="JHN 3:32" />Svědčí o tom, co viděl a slyšel, ale jeho svědectví nikdo nepřijímá. <verse eid="JHN 3:32" /><verse number="33" style="v" sid="JHN 3:33" />Kdo přijímá jeho svědectví, zpečetil to, že Bůh je pravdomluvný. <verse eid="JHN 3:33" /><verse number="34" style="v" sid="JHN 3:34" />Ten, kterého poslal Bůh, mluví Boží slova, neboť Bůh dává Ducha bez omezení. <verse eid="JHN 3:34" /><verse number="35" style="v" sid="JHN 3:35" />Otec miluje Syna a všechno dal do jeho rukou. <verse eid="JHN 3:35" /><verse number="36" style="v" sid="JHN 3:36" />Kdo věří v Syna, má věčný život; kdo Synu nevěří, nespatří život, ale zůstává na něm Boží hněv.<verse eid="JHN 3:36" /></para>
+  <chapter eid="JHN 3" />
+  <chapter number="4" style="c" sid="JHN 4" />
+  <para style="s">Voda života</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 4:1" />Když se Ježíš dozvěděl, že farizeové slyšeli: „Ježíš získává a křtí více učedníků než Jan“ <verse eid="JHN 4:1" /><verse number="2" style="v" sid="JHN 4:2" />(ačkoli Ježíš sám nekřtil, ale jeho učedníci), <verse eid="JHN 4:2" /><verse number="3" style="v" sid="JHN 4:3" />opustil Judsko a vrátil se do Galileje. <verse eid="JHN 4:3" /><verse number="4" style="v" sid="JHN 4:4" />Musel však projít Samařím.<verse eid="JHN 4:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JHN 4:5" />Dorazil k samařskému městu zvanému Sychar, blízko pozemku, který kdysi dal Jákob svému synu Josefovi. <verse eid="JHN 4:5" /><verse number="6" style="v" sid="JHN 4:6" />Dosud tam byla Jákobova studna a Ježíš, unaven cestou, se u ní posadil. Bylo okolo poledne.<verse eid="JHN 4:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 4:7" />Když jedna žena ze Samaří přišla načerpat vodu, Ježíš ji požádal: „Dej mi napít.“ <verse eid="JHN 4:7" /><verse number="8" style="v" sid="JHN 4:8" />(Jeho učedníci totiž odešli do města nakoupit jídlo.)<verse eid="JHN 4:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 4:9" />Samařská žena se ho zeptala: „Jak to, že ty, Žid, žádáš mě, Samaritánku, o nápoj?“ (Židé se totiž se Samaritány nestýkají.)<verse eid="JHN 4:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JHN 4:10" />Ježíš jí odpověděl: „Kdybys znala ten Boží dar, a kdo je ten, který ti říká: ‚Dej mi napít,‘ žádala bys ty jeho, a dal by ti živou vodu.“<verse eid="JHN 4:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 4:11" />„Pane, nemáš ani, čím bys čerpal,“ namítla žena, „a studna je hluboká. Odkud vezmeš tu živou vodu? <verse eid="JHN 4:11" /><verse number="12" style="v" sid="JHN 4:12" />Jsi snad větší než náš otec Jákob, který nám tu studnu dal? On sám z ní pil, i jeho synové a jeho dobytek.“<verse eid="JHN 4:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JHN 4:13" />„Každý, kdo pije tuto vodu, bude znovu žíznit,“ odpověděl Ježíš. <verse eid="JHN 4:13" /><verse number="14" style="v" sid="JHN 4:14" />„Kdo se však napije vody, kterou mu dám já, nebude žíznit už nikdy. Voda, kterou mu dám, se v něm stane pramenem vody tryskající k věčnému životu.“<verse eid="JHN 4:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="JHN 4:15" />„Pane, dej mi tu vodu,“ řekla žena, „ať už nežízním a nemusím sem chodit čerpat.“<verse eid="JHN 4:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 4:16" />„Jdi, zavolej svého muže a přijď sem,“ řekl jí Ježíš.<verse eid="JHN 4:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JHN 4:17" />„Nemám muže,“ odpověděla žena.</para>
+  <para style="p" vid="JHN 4:17">„To jsi řekla pravdu, že nemáš muže,“ řekl jí Ježíš. <verse eid="JHN 4:17" /><verse number="18" style="v" sid="JHN 4:18" />„Měla jsi totiž pět mužů a ten, kterého máš teď, není tvůj muž. To jsi řekla pravdu.“<verse eid="JHN 4:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 4:19" />„Pane, vidím, že jsi prorok,“ odpověděla žena. <verse eid="JHN 4:19" /><verse number="20" style="v" sid="JHN 4:20" />„Naši otcové uctívali Boha na této hoře, vy ale říkáte, že místo, kde se má uctívat, je v Jeruzalémě.“<verse eid="JHN 4:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="JHN 4:21" />„Ženo,“ řekl jí Ježíš, „věř mi, že přichází chvíle, kdy nebudete uctívat Otce ani na této hoře, ani v Jeruzalémě. <verse eid="JHN 4:21" /><verse number="22" style="v" sid="JHN 4:22" />Vy ani nevíte, koho uctíváte; my víme, koho uctíváme, protože spása vyjde z Židů.<note caller="-" style="x"><char style="xo" closed="false">4:22 </char><char style="xt" closed="false"><ref loc="ISA 2:3">Iz 2:3</ref></char></note> <verse eid="JHN 4:22" /><verse number="23" style="v" sid="JHN 4:23" />Přichází chvíle, a už je tu, kdy praví ctitelé budou uctívat Otce v duchu a v pravdě. Takové totiž Otec hledá, aby ho uctívali. <verse eid="JHN 4:23" /><verse number="24" style="v" sid="JHN 4:24" />Bůh je Duch a ti, kdo ho uctívají, ho musí uctívat v duchu a v pravdě.“<verse eid="JHN 4:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 4:25" />Žena odpověděla: „Vím, že přijde Mesiáš“ (který je nazýván Kristus). „Až přijde, vysvětlí nám všechno.“<verse eid="JHN 4:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 4:26" />„To jsem já,“ řekl jí Ježíš; „ten, kdo s tebou mluví!“<verse eid="JHN 4:26" /></para>
+  <para style="s">Jeden rozsívá, jiný žne</para>
+  <para style="m">
+    <verse number="27" style="v" sid="JHN 4:27" />Vtom přišli jeho učedníci. Překvapilo je, že mluví se ženou, ale žádný neřekl: „Co jí chceš?“ anebo: „Proč s ní mluvíš?“<verse eid="JHN 4:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JHN 4:28" />Žena tam nechala svůj džbán, odešla do města a řekla lidem: <verse eid="JHN 4:28" /><verse number="29" style="v" sid="JHN 4:29" />„Pojďte se podívat na člověka, který mi řekl všechno, co jsem udělala. Není to snad Mesiáš?“ <verse eid="JHN 4:29" /><verse number="30" style="v" sid="JHN 4:30" />Vyšli tedy z města a šli k němu.<verse eid="JHN 4:30" /></para>
+  <para style="b" />
+  <para style="p">
+    <verse number="31" style="v" sid="JHN 4:31" />Mezitím ho učedníci prosili: „Rabi, najez se!“<verse eid="JHN 4:31" /></para>
+  <para style="p">
+    <verse number="32" style="v" sid="JHN 4:32" />On jim však řekl: „Mě sytí pokrm, který vy neznáte.“<verse eid="JHN 4:32" /></para>
+  <para style="p">
+    <verse number="33" style="v" sid="JHN 4:33" />Učedníci se jeden druhého ptali: „Přinesl mu snad někdo jídlo?“<verse eid="JHN 4:33" /></para>
+  <para style="p">
+    <verse number="34" style="v" sid="JHN 4:34" />„Můj pokrm,“ řekl jim Ježíš, „je konat vůli Toho, který mě poslal, a dokončit jeho dílo. <verse eid="JHN 4:34" /><verse number="35" style="v" sid="JHN 4:35" />Neříkáte snad, že do sklizně zbývají ještě čtyři měsíce? Hle, říkám vám: Pozvedněte oči a podívejte se na lány, že se už bělají ke žni! <verse eid="JHN 4:35" /><verse number="36" style="v" sid="JHN 4:36" />Ten, kdo žne, získává odplatu a shromažďuje úrodu k věčnému životu, aby se společně radoval rozsévač i žnec. <verse eid="JHN 4:36" /><verse number="37" style="v" sid="JHN 4:37" />V tom je pravdivé to rčení, že ‚jeden rozsívá a jiný žne‘. <verse eid="JHN 4:37" /><verse number="38" style="v" sid="JHN 4:38" />Já jsem vás poslal sklízet, na čem jste sami nepracovali. Pracovali jiní a vy jste vstoupili do jejich práce.“<verse eid="JHN 4:38" /></para>
+  <para style="b" />
+  <para style="p">
+    <verse number="39" style="v" sid="JHN 4:39" />Díky slovům té ženy, která svědčila: „Řekl mi všechno, co jsem udělala,“ v něj mnozí Samaritáni z toho města uvěřili. <verse eid="JHN 4:39" /><verse number="40" style="v" sid="JHN 4:40" />Když k němu ti Samaritáni přišli, prosili ho, aby u nich zůstal. Zůstal tam tedy dva dny <verse eid="JHN 4:40" /><verse number="41" style="v" sid="JHN 4:41" />a díky jeho slovu jich uvěřilo ještě mnohem více.<verse eid="JHN 4:41" /></para>
+  <para style="p">
+    <verse number="42" style="v" sid="JHN 4:42" />Té ženě pak řekli: „Už nevěříme jen díky tvým slovům; sami jsme ho slyšeli a víme, že to je opravdu Spasitel světa.“<verse eid="JHN 4:42" /></para>
+  <para style="s">Tvůj syn žije</para>
+  <para style="m">
+    <verse number="43" style="v" sid="JHN 4:43" />Po dvou dnech pak odtud odešel do Galileje. <verse eid="JHN 4:43" /><verse number="44" style="v" sid="JHN 4:44" />Sám Ježíš měl totiž dosvědčit, že prorok není ve své vlasti v úctě. <verse eid="JHN 4:44" /><verse number="45" style="v" sid="JHN 4:45" />Když přišel do Galileje, Galilejci ho vítali, neboť byli o svátcích v Jeruzalémě a viděli všechno, co tam dělal.<verse eid="JHN 4:45" /></para>
+  <para style="p">
+    <verse number="46" style="v" sid="JHN 4:46" />Znovu se vrátil do Kány Galilejské, kde proměnil vodu ve víno. Byl tam právě jeden královský úředník, jehož syn byl v Kafarnaum nemocný. <verse eid="JHN 4:46" /><verse number="47" style="v" sid="JHN 4:47" />Když uslyšel, že Ježíš přišel z Judska do Galileje, šel k němu a prosil ho, aby šel jeho syna uzdravit, protože už umíral.<verse eid="JHN 4:47" /></para>
+  <para style="p">
+    <verse number="48" style="v" sid="JHN 4:48" />„Dokud neuvidíte znamení a zázraky, neuvěříte,“ řekl mu Ježíš.<verse eid="JHN 4:48" /></para>
+  <para style="p">
+    <verse number="49" style="v" sid="JHN 4:49" />„Pane, pojď, než mé dítě umře!“ naléhal královský úředník.<verse eid="JHN 4:49" /></para>
+  <para style="p">
+    <verse number="50" style="v" sid="JHN 4:50" />Ježíš mu řekl: „Jdi, tvůj syn žije.“</para>
+  <para style="p" vid="JHN 4:50">Ten člověk uvěřil slovu, které mu Ježíš řekl, a šel. <verse eid="JHN 4:50" /><verse number="51" style="v" sid="JHN 4:51" />Na cestě se s ním setkali jeho služebníci a oznamovali mu: „Tvůj syn žije!“ <verse eid="JHN 4:51" /><verse number="52" style="v" sid="JHN 4:52" />Vyptal se jich tedy, odkdy se mu udělalo lépe. Odpověděli: „Horečka ho opustila včera hodinu po poledni.“<verse eid="JHN 4:52" /></para>
+  <para style="p">
+    <verse number="53" style="v" sid="JHN 4:53" />Otec poznal, že to bylo ve chvíli, kdy mu Ježíš řekl: „Tvůj syn žije.“ Tehdy uvěřil on i celý jeho dům. <verse eid="JHN 4:53" /><verse number="54" style="v" sid="JHN 4:54" />Tak Ježíš po svém návratu z Judska vykonal v Galileji už druhé znamení.<verse eid="JHN 4:54" /></para>
+  <chapter eid="JHN 4" />
+  <chapter number="5" style="c" sid="JHN 5" />
+  <para style="s">Vstaň a choď</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 5:1" />Potom byl další židovský svátek, a tak se Ježíš vydal do Jeruzaléma. <verse eid="JHN 5:1" /><verse number="2" style="v" sid="JHN 5:2" />V Jeruzalémě je u Ovčí brány nádrž hebrejsky zvaná Bethesda,<note caller="-" style="f"><char style="fr" closed="false">5:2 </char><char style="ft" closed="false">někt. rukopisy <char style="tl">Bet-zatha</char>, jiné <char style="tl">Betsaida</char></char></note> u níž je pět sloupořadí. <verse eid="JHN 5:2" /><verse number="3" style="v" sid="JHN 5:3" />Ležela tam spousta nemocných, slepých, chromých a ochrnutých. <char style="vp">[4]</char> <note caller="-" style="f"><char style="fr" closed="false">5:4 </char><char style="ft" closed="false">Někt. rukopisy přidávají </char><char style="fqa" closed="false">a čekali, až se voda pohne. Do nádrže totiž občas sestupoval anděl a vířil vodu. Kdo po tom zvíření vstoupil do vody první, býval uzdraven, ať měl jakoukoli nemoc.</char></note> <verse eid="JHN 5:3" /><verse number="5" style="v" sid="JHN 5:5" />Byl mezi nimi jeden člověk, nemocný už třicet osm let.<verse eid="JHN 5:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 5:6" />Ježíš viděl, jak tam leží, a poznal, že je už dlouho nemocen. „Chceš být uzdraven?“ zeptal se ho.<verse eid="JHN 5:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 5:7" />„Pane, nemám nikoho, kdo by mě snesl do nádrže, když se zvíří voda,“ odpověděl mu nemocný. „Když tam zamířím, někdo mě předstihne.“<verse eid="JHN 5:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JHN 5:8" />„Vstaň, vezmi své lehátko a choď!“ řekl mu Ježíš. <verse eid="JHN 5:8" /><verse number="9" style="v" sid="JHN 5:9" />A ten člověk byl ihned uzdraven, vzal své lehátko a začal chodit.</para>
+  <para style="p" vid="JHN 5:9">Ten den však byla sobota. <verse eid="JHN 5:9" /><verse number="10" style="v" sid="JHN 5:10" />Židovští představení tedy uzdraveného napomínali: „Je sobota, nesmíš nosit lehátko!“<verse eid="JHN 5:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 5:11" />On jim však odpověděl: „Ten, kdo mě uzdravil, mi řekl: ‚Vezmi své lehátko a choď.‘“<verse eid="JHN 5:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 5:12" />„Kdo ti mohl říci: ‚Vezmi své lehátko a choď‘?!“ ptali se ho. <verse eid="JHN 5:12" /><verse number="13" style="v" sid="JHN 5:13" />To ovšem ten uzdravený nevěděl; Ježíš se totiž vmísil do okolního davu.<verse eid="JHN 5:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 5:14" />Potom ho Ježíš nalezl v chrámě a řekl mu: „Pohleď, jsi uzdraven. Už nehřeš, ať se ti nepřihodí něco horšího.“ <verse eid="JHN 5:14" /><verse number="15" style="v" sid="JHN 5:15" />Ten člověk pak odešel a oznámil židovským představeným, že ho uzdravil Ježíš.<verse eid="JHN 5:15" /></para>
+  <para style="s">Syn dělá to, co Otec</para>
+  <para style="m">
+    <verse number="16" style="v" sid="JHN 5:16" />Židovští představení tedy začali Ježíše pronásledovat, protože to udělal v sobotu. <verse eid="JHN 5:16" /><verse number="17" style="v" sid="JHN 5:17" />Ježíš jim odpověděl: „Můj Otec pracuje i dnes; proto pracuji i já.“ <verse eid="JHN 5:17" /><verse number="18" style="v" sid="JHN 5:18" />A kvůli tomu ho chtěli zabít ještě více, neboť nejenom rušil sobotu, ale ještě nazýval Boha svým vlastním Otcem, a tak se dělal rovným Bohu.<verse eid="JHN 5:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 5:19" />Ježíš jim odpověděl: „Amen, amen, říkám vám: Syn nemůže sám od sebe dělat nic, jedině to, co vidí dělat Otce. Cokoli dělá on, to podobně dělá i Syn. <verse eid="JHN 5:19" /><verse number="20" style="v" sid="JHN 5:20" />Otec miluje Syna a ukazuje mu všechno, co sám dělá; a ukáže mu ještě větší skutky, abyste jen žasli. <verse eid="JHN 5:20" /><verse number="21" style="v" sid="JHN 5:21" />Neboť jako Otec křísí mrtvé a dává život, tak i Syn dává život těm, kterým chce. <verse eid="JHN 5:21" /><verse number="22" style="v" sid="JHN 5:22" />Otec nikoho nesoudí, ale svěřil veškerý soud Synu, <verse eid="JHN 5:22" /><verse number="23" style="v" sid="JHN 5:23" />aby všichni ctili Syna, jako ctí Otce. Kdo nectí Syna, nectí ani Otce, který ho poslal.<verse eid="JHN 5:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JHN 5:24" />Amen, amen, říkám vám: Kdo slyší mé slovo a věří Tomu, který mě poslal, má věčný život a nepřijde na soud, ale již přešel ze smrti do života.<verse eid="JHN 5:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 5:25" />Amen, amen, říkám vám: Přichází chvíle, a už je tu, kdy mrtví uslyší hlas Božího Syna a ti, kteří uslyší, budou žít. <verse eid="JHN 5:25" /><verse number="26" style="v" sid="JHN 5:26" />Jako má Otec život sám v sobě, tak dal i Synu, aby měl život sám v sobě, <verse eid="JHN 5:26" /><verse number="27" style="v" sid="JHN 5:27" />a dal mu také pravomoc konat soud, protože je Syn člověka. <verse eid="JHN 5:27" /><verse number="28" style="v" sid="JHN 5:28" />Nedivte se tomu; přichází totiž chvíle, kdy všichni, kteří jsou v hrobech, uslyší jeho hlas <verse eid="JHN 5:28" /><verse number="29" style="v" sid="JHN 5:29" />a vyjdou – ti, kdo konali dobro, budou vzkříšeni k životu, ale ti, kdo konali zlo, budou vzkříšeni k soudu.<verse eid="JHN 5:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 5:30" />Sám od sebe nemohu dělat nic. Jak slyším, tak soudím a můj soud je spravedlivý, protože nehledám svou vůli, ale vůli Toho, který mě poslal.<verse eid="JHN 5:30" /></para>
+  <para style="p">
+    <verse number="31" style="v" sid="JHN 5:31" />Svědčím-li sám o sobě, mé svědectví není pravé. <verse eid="JHN 5:31" /><verse number="32" style="v" sid="JHN 5:32" />Svědčí však o mně někdo jiný a vím, že jeho svědectví o mně je pravdivé. <verse eid="JHN 5:32" /><verse number="33" style="v" sid="JHN 5:33" />Poslali jste k Janovi a ten vydal svědectví pravdě. <verse eid="JHN 5:33" /><verse number="34" style="v" sid="JHN 5:34" />Já ovšem nepřijímám svědectví od člověka, ale toto říkám pro vaši záchranu. <verse eid="JHN 5:34" /><verse number="35" style="v" sid="JHN 5:35" />On byl hořící a zářící lampou, vy jste se však chtěli v jeho světle poradovat jen na čas. <verse eid="JHN 5:35" /><verse number="36" style="v" sid="JHN 5:36" />Mám ale větší svědectví než Janovo: skutky, které mi dal Otec, abych je vykonal. Samotné skutky, které dělám, o mně svědčí, že mě poslal Otec. <verse eid="JHN 5:36" /><verse number="37" style="v" sid="JHN 5:37" />A sám Otec, který mě poslal, o mně vydal svědectví. Vy jste ale nikdy neslyšeli jeho hlas a neviděli jeho tvář. <verse eid="JHN 5:37" /><verse number="38" style="v" sid="JHN 5:38" />Jeho slovo ve vás nezůstává, neboť nevěříte tomu, kterého on poslal. <verse eid="JHN 5:38" /><verse number="39" style="v" sid="JHN 5:39" />Zkoumáte Písma, neboť se domníváte, že v nich máte věčný život, a ta svědčí o mně. <verse eid="JHN 5:39" /><verse number="40" style="v" sid="JHN 5:40" />Nechcete ale ke mně přijít, abyste měli život.<verse eid="JHN 5:40" /></para>
+  <para style="p">
+    <verse number="41" style="v" sid="JHN 5:41" />Nepřijímám chválu od lidí, <verse eid="JHN 5:41" /><verse number="42" style="v" sid="JHN 5:42" />ale poznal jsem, že v sobě nemáte Boží lásku. <verse eid="JHN 5:42" /><verse number="43" style="v" sid="JHN 5:43" />Já jsem přišel ve jménu svého Otce, a nepřijímáte mě. Kdyby jiný přišel ve svém vlastním jménu, toho přijmete. <verse eid="JHN 5:43" /><verse number="44" style="v" sid="JHN 5:44" />Jak byste vůbec mohli uvěřit? Přijímáte chválu jedni od druhých, ale chválu, která je od samotného Boha, nehledáte.<verse eid="JHN 5:44" /></para>
+  <para style="p">
+    <verse number="45" style="v" sid="JHN 5:45" />Nemyslete si, že já vás budu žalovat před Otcem. Ten, kdo na vás žaluje, je Mojžíš, v něhož doufáte. <verse eid="JHN 5:45" /><verse number="46" style="v" sid="JHN 5:46" />Kdybyste věřili Mojžíšovi, věřili byste i mně, neboť on psal o mně. <verse eid="JHN 5:46" /><verse number="47" style="v" sid="JHN 5:47" />Když ale nevěříte jeho spisům, jak uvěříte mým slovům?“<verse eid="JHN 5:47" /></para>
+  <chapter eid="JHN 5" />
+  <chapter number="6" style="c" sid="JHN 6" />
+  <para style="s">Pět chlebů a dvě ryby</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 6:1" />Ježíš potom odešel za Galilejské (neboli Tiberiadské) jezero <verse eid="JHN 6:1" /><verse number="2" style="v" sid="JHN 6:2" />a šel za ním veliký zástup, protože viděli, jaká zázračná znamení konal na nemocných. <verse eid="JHN 6:2" /><verse number="3" style="v" sid="JHN 6:3" />Ježíš vystoupil na horu a posadil se tam se svými učedníky. <verse eid="JHN 6:3" /><verse number="4" style="v" sid="JHN 6:4" />Blížily se židovské svátky Velikonoc.<verse eid="JHN 6:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JHN 6:5" />Ježíš pozvedl oči, a když uviděl, že za ním jde takový zástup, zeptal se Filipa: „Kde nakoupíme chleby, aby se ti lidé najedli?“ <verse eid="JHN 6:5" /><verse number="6" style="v" sid="JHN 6:6" />(To ovšem řekl, aby ho vyzkoušel, neboť sám věděl, co má udělat.)<verse eid="JHN 6:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 6:7" />Filip mu odpověděl: „Nestačilo by nám chleba ani za dvě stě denárů,<note caller="-" style="f"><char style="fr" closed="false">6:7 </char><char style="ft" closed="false">mzda dělníka asi za 8 měsíců (<char style="xt"><ref loc="MAT 20:2">Mt 20:2</ref></char>)</char></note> aby se na každého dostalo aspoň trochu!“<verse eid="JHN 6:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JHN 6:8" />Jeden z jeho učedníků, Ondřej, bratr Šimona Petra, mu řekl: <verse eid="JHN 6:8" /><verse number="9" style="v" sid="JHN 6:9" />„Je tu jeden chlapec, který má pět ječných chlebů a dvě rybky. Ale co je to pro tolik lidí?“<verse eid="JHN 6:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JHN 6:10" />Ježíš však řekl: „Zařiďte, ať se lidé posadí.“ Na tom místě bylo hodně trávy, a tak se posadili v počtu asi pěti tisíc mužů. <verse eid="JHN 6:10" /><verse number="11" style="v" sid="JHN 6:11" />Ježíš vzal ty chleby, vzdal díky a rozdával sedícím; také ryb rozdal, kolik jen chtěli. <verse eid="JHN 6:11" /><verse number="12" style="v" sid="JHN 6:12" />Když se nasytili, řekl svým učedníkům: „Posbírejte zbylé nalámané kousky, ať se nic neztratí.“ <verse eid="JHN 6:12" /><verse number="13" style="v" sid="JHN 6:13" />Sebrali je tedy a naplnili dvanáct košů kousky z těch pěti ječných chlebů, které zbyly po těch, kdo jedli.<verse eid="JHN 6:13" /></para>
+  <para style="s">To jsem já!</para>
+  <para style="m">
+    <verse number="14" style="v" sid="JHN 6:14" />Když lidé viděli, jaké zázračné znamení vykonal, říkali: „Je to opravdu ten Prorok, který měl přijít na svět!“<note caller="-" style="x"><char style="xo" closed="false">6:14 </char><char style="xt" closed="false"><ref loc="DEU 18:15">Dt 18:15</ref>, <ref loc="DEU 18:18">18</ref>; <ref loc="MAL 3:23-24">Mal 3:23–24</ref> </char><char style="xta" closed="false">(</char><char style="xt" closed="false"><ref loc="JHN 1:21">J 1:21</ref></char><char style="xta" closed="false">)</char></note> <verse eid="JHN 6:14" /><verse number="15" style="v" sid="JHN 6:15" />Ježíš poznal, že se chystají přijít a vzít ho, aby ho udělali králem, a tak se o samotě vrátil na horu.<verse eid="JHN 6:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 6:16" />Večer jeho učedníci sešli dolů k jezeru, <verse eid="JHN 6:16" /><verse number="17" style="v" sid="JHN 6:17" />nastoupili na loď a plavili se na druhý břeh do Kafarnaum. Ačkoli se už setmělo, Ježíš k nim nepřišel. <verse eid="JHN 6:17" /><verse number="18" style="v" sid="JHN 6:18" />Jezero se začalo vzdouvat silným větrem. <verse eid="JHN 6:18" /><verse number="19" style="v" sid="JHN 6:19" />Když odpluli asi pětadvacet nebo třicet honů,<note caller="-" style="f"><char style="fr" closed="false">6:19 </char><char style="ft" closed="false">asi 5 km</char></note> spatřili Ježíše, jak kráčí po hladině a blíží se k lodi. Vyděsili se, <verse eid="JHN 6:19" /><verse number="20" style="v" sid="JHN 6:20" />ale on jim řekl: „To jsem já, nebojte se!“ <verse eid="JHN 6:20" /><verse number="21" style="v" sid="JHN 6:21" />Tehdy ho ochotně vzali na loď, a ta se hned ocitla u břehu, k němuž pluli.<verse eid="JHN 6:21" /></para>
+  <para style="s">Chléb života</para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 6:22" />Druhého dne si zástup, který zůstal na protějším břehu jezera, uvědomil, že tam byla jen jediná loďka a že Ježíš na ni nenastoupil se svými učedníky, ale ti odpluli sami. <verse eid="JHN 6:22" /><verse number="23" style="v" sid="JHN 6:23" />(Od Tiberiady ovšem připluly jiné loďky blízko k tomu místu, kde jedli chléb, když Pán vzdal díky.) <verse eid="JHN 6:23" /><verse number="24" style="v" sid="JHN 6:24" />Když tedy zástup uviděl, že tam Ježíš ani jeho učedníci nejsou, nastoupili i oni do loděk a přijeli do Kafarnaum, kde hledali Ježíše.<verse eid="JHN 6:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 6:25" />Když ho pak našli na druhém břehu jezera, ptali se ho: „Rabi, kdy ses sem dostal?“<verse eid="JHN 6:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 6:26" />Ježíš jim odpověděl: „Amen, amen, říkám vám: Nehledáte mě proto, že jste viděli znamení, ale že jste jedli ty chleby a byli jste nasyceni. <verse eid="JHN 6:26" /><verse number="27" style="v" sid="JHN 6:27" />Neusilujte o pomíjející pokrm, ale o pokrm, který zůstává k věčnému životu, který vám dá Syn člověka. Na něj totiž Bůh Otec vtiskl svou pečeť.“<verse eid="JHN 6:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JHN 6:28" />„Co máme dělat, abychom konali Boží skutky?“ zeptali se ho.<verse eid="JHN 6:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="JHN 6:29" />Ježíš jim odpověděl: „Toto je ten Boží skutek – abyste věřili v toho, kterého on poslal.“<verse eid="JHN 6:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 6:30" />„Jaké znamení vykonáš, abychom ho viděli a uvěřili ti?“ zeptali se ho. „Co děláš? <verse eid="JHN 6:30" /><verse number="31" style="v" sid="JHN 6:31" />Naši otcové jedli na poušti manu, jak je psáno: ‚Dal jim jíst chléb z nebe.‘“<note caller="-" style="x"><char style="xo" closed="false">6:31 </char><char style="xt" closed="false"><ref loc="EXO 16:4">Ex 16:4</ref>; <ref loc="NEH 9:15">Neh 9:15</ref>; <ref loc="PSA 78:24-25">Ž 78:24–25</ref></char></note><verse eid="JHN 6:31" /></para>
+  <para style="p">
+    <verse number="32" style="v" sid="JHN 6:32" />Ježíš jim odpověděl: „Amen, amen, říkám vám: Ten chléb z nebe vám nedal Mojžíš. Můj Otec vám dává ten pravý chléb z nebe. <verse eid="JHN 6:32" /><verse number="33" style="v" sid="JHN 6:33" />Boží chléb je ten, který sestupuje z nebe a dává život světu.“<verse eid="JHN 6:33" /></para>
+  <para style="p">
+    <verse number="34" style="v" sid="JHN 6:34" />„Pane, dávej nám ten chléb vždycky,“ řekli mu.<verse eid="JHN 6:34" /></para>
+  <para style="p">
+    <verse number="35" style="v" sid="JHN 6:35" />Ježíš jim odpověděl: „Já jsem chléb života. Kdo přichází ke mně, nebude nikdy hladovět; kdo věří ve mě, nebude nikdy žíznit. <verse eid="JHN 6:35" /><verse number="36" style="v" sid="JHN 6:36" />Ale jak jsem vám řekl: I když jste mě viděli, nevěříte. <verse eid="JHN 6:36" /><verse number="37" style="v" sid="JHN 6:37" />Všichni, které mi Otec dává, přijdou ke mně; a toho, kdo ke mně přichází, jistě nevyženu ven. <verse eid="JHN 6:37" /><verse number="38" style="v" sid="JHN 6:38" />Sestoupil jsem z nebe, ne abych konal svou vůli, ale vůli Toho, který mě poslal. <verse eid="JHN 6:38" /><verse number="39" style="v" sid="JHN 6:39" />A toto je vůle Toho, který mě poslal – abych nikoho z těch, které mi dal, neztratil, ale vzkřísil je v poslední den. <verse eid="JHN 6:39" /><verse number="40" style="v" sid="JHN 6:40" />Neboť toto je vůle mého Otce, který mě poslal – aby každý, kdo vidí Syna a věří v něho, měl věčný život. A já ho vzkřísím v poslední den.“<verse eid="JHN 6:40" /></para>
+  <para style="p">
+    <verse number="41" style="v" sid="JHN 6:41" />Židé pak na něj reptali, že řekl: „Já jsem ten chléb, který sestoupil z nebe.“ <verse eid="JHN 6:41" /><verse number="42" style="v" sid="JHN 6:42" />Říkali: „Není to snad ten Ježíš, syn Josefův? Jeho otce i matku známe; jak tedy může říkat: ‚Sestoupil jsem z nebe‘?“<verse eid="JHN 6:42" /></para>
+  <para style="p">
+    <verse number="43" style="v" sid="JHN 6:43" />„Přestaňte spolu reptat!“ odpověděl jim Ježíš. <verse eid="JHN 6:43" /><verse number="44" style="v" sid="JHN 6:44" />„Nikdo ke mně nemůže přijít, pokud ho nepřitáhne můj Otec, který mě poslal; já ho pak vzkřísím v poslední den. <verse eid="JHN 6:44" /><verse number="45" style="v" sid="JHN 6:45" />V Prorocích je psáno: ‚A budou všichni vyučeni od Boha.‘<note caller="-" style="x"><char style="xo" closed="false">6:45 </char><char style="xt" closed="false"><ref loc="ISA 54:13">Iz 54:13</ref></char></note> Každý, kdo slyší Otce a učí se od něj, přichází ke mně. <verse eid="JHN 6:45" /><verse number="46" style="v" sid="JHN 6:46" />Ne že by někdo viděl Otce; jediný, kdo viděl Otce, je ten, který je od Boha.<verse eid="JHN 6:46" /></para>
+  <para style="p">
+    <verse number="47" style="v" sid="JHN 6:47" />Amen, amen, říkám vám: Kdo věří, má věčný život. <verse eid="JHN 6:47" /><verse number="48" style="v" sid="JHN 6:48" />Já jsem chléb života. <verse eid="JHN 6:48" /><verse number="49" style="v" sid="JHN 6:49" />Vaši otcové jedli na poušti manu, a zemřeli. <verse eid="JHN 6:49" /><verse number="50" style="v" sid="JHN 6:50" />Toto je ten chléb sestupující z nebe, aby ten, kdo z něj jí, nezemřel. <verse eid="JHN 6:50" /><verse number="51" style="v" sid="JHN 6:51" />Já jsem ten živý chléb, který sestoupil z nebe. Kdokoli by ten chléb jedl, bude žít navěky. Chléb, který dám já, je mé tělo, které dám za život světa.“<verse eid="JHN 6:51" /></para>
+  <para style="p">
+    <verse number="52" style="v" sid="JHN 6:52" />Židé se mezi sebou začali hádat: „Jak nám tenhle může dát jíst své tělo?“<verse eid="JHN 6:52" /></para>
+  <para style="p">
+    <verse number="53" style="v" sid="JHN 6:53" />Ježíš jim ale řekl: „Amen, amen, říkám vám: Nebudete-li jíst tělo Syna člověka a pít jeho krev, nemáte v sobě život. <verse eid="JHN 6:53" /><verse number="54" style="v" sid="JHN 6:54" />Kdo jí mé tělo a pije mou krev, má věčný život a já ho vzkřísím v poslední den. <verse eid="JHN 6:54" /><verse number="55" style="v" sid="JHN 6:55" />Mé tělo je opravdu pokrm a má krev je opravdu nápoj. <verse eid="JHN 6:55" /><verse number="56" style="v" sid="JHN 6:56" />Kdo jí mé tělo a pije mou krev, zůstává ve mně a já v něm. <verse eid="JHN 6:56" /><verse number="57" style="v" sid="JHN 6:57" />Jako mě poslal živý Otec a já žiji skrze Otce, tak ten, kdo jí mne, bude žít skrze mě. <verse eid="JHN 6:57" /><verse number="58" style="v" sid="JHN 6:58" />Toto je ten chléb, který sestoupil z nebe. Ne jako když otcové jedli manu, a zemřeli. Kdo jí tento chléb, bude žít navěky.“<verse eid="JHN 6:58" /></para>
+  <para style="p">
+    <verse number="59" style="v" sid="JHN 6:59" />Toto vše řekl, když učil v synagoze v Kafarnaum.<verse eid="JHN 6:59" /></para>
+  <para style="s">Těžká slova</para>
+  <para style="m">
+    <verse number="60" style="v" sid="JHN 6:60" />Mnozí z jeho učedníků, kteří to slyšeli, si tehdy řekli: „To jsou tvrdá slova. Kdo to může pochopit?“<verse eid="JHN 6:60" /></para>
+  <para style="p">
+    <verse number="61" style="v" sid="JHN 6:61" />Ježíš v nitru poznal, že jeho učedníci kvůli tomu reptají, a tak jim řekl: „Tohle vás uráží? <verse eid="JHN 6:61" /><verse number="62" style="v" sid="JHN 6:62" />A co kdybyste viděli Syna člověka vystupovat tam, kde byl dříve? <verse eid="JHN 6:62" /><verse number="63" style="v" sid="JHN 6:63" />Duch je ten, kdo dává život; tělo nedokáže nic. Slova, která vám mluvím, jsou Duch a jsou život. <verse eid="JHN 6:63" /><verse number="64" style="v" sid="JHN 6:64" />Někteří z vás ale nevěří.“ (Ježíš totiž od počátku věděl, kteří nevěřili a kdo ho zradí.) <verse eid="JHN 6:64" /><verse number="65" style="v" sid="JHN 6:65" />Potom dodal: „Proto jsem vám řekl, že ke mně nikdo nemůže přijít, není-li mu to dáno od Otce.“<verse eid="JHN 6:65" /></para>
+  <para style="p">
+    <verse number="66" style="v" sid="JHN 6:66" />Mnozí z jeho učedníků kvůli tomu odešli a už s ním nechtěli nic mít.<verse eid="JHN 6:66" /></para>
+  <para style="p">
+    <verse number="67" style="v" sid="JHN 6:67" />„Chcete odejít i vy?“ zeptal se Ježíš tehdy svých Dvanácti.<verse eid="JHN 6:67" /></para>
+  <para style="p">
+    <verse number="68" style="v" sid="JHN 6:68" />„Pane, ke komu bychom šli?“ odpověděl mu Šimon Petr. „Ty máš slova věčného života <verse eid="JHN 6:68" /><verse number="69" style="v" sid="JHN 6:69" />a my jsme uvěřili a poznali, že ty jsi ten Svatý Boží!“<verse eid="JHN 6:69" /></para>
+  <para style="p">
+    <verse number="70" style="v" sid="JHN 6:70" />„Vyvolil jsem si vás dvanáct,“ řekl jim na to Ježíš; „jeden z vás je ale ďábel.“ <verse eid="JHN 6:70" /><verse number="71" style="v" sid="JHN 6:71" />A to řekl o Jidáši, synu Šimona Iškariotského. Ten ho měl zradit, ačkoli byl jedním z Dvanácti.<verse eid="JHN 6:71" /></para>
+  <chapter eid="JHN 6" />
+  <chapter number="7" style="c" sid="JHN 7" />
+  <para style="s">Není to Mesiáš?</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 7:1" />Potom Ježíš chodil po Galileji. Nechtěl se totiž zdržovat v Judsku, protože ho židovští představení chtěli zabít. <verse eid="JHN 7:1" /><verse number="2" style="v" sid="JHN 7:2" />Blížila se židovská Slavnost stánků, <verse eid="JHN 7:2" /><verse number="3" style="v" sid="JHN 7:3" />a tak mu jeho bratři řekli: „Odejdi odsud a vydej se do Judska, ať i tvoji učedníci vidí, jaké skutky děláš. <verse eid="JHN 7:3" /><verse number="4" style="v" sid="JHN 7:4" />Nikdo, kdo chce být známý, přece nedělá nic v skrytu. Když děláš takové věci, ukaž se světu!“ <verse eid="JHN 7:4" /><verse number="5" style="v" sid="JHN 7:5" />Ani jeho bratři v něj totiž nevěřili.<verse eid="JHN 7:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 7:6" />Ježíš jim odpověděl: „Pro vás je vždycky vhodný čas, ale můj čas ještě nepřišel. <verse eid="JHN 7:6" /><verse number="7" style="v" sid="JHN 7:7" />Vás nemá svět proč nenávidět, ale mě nenávidí, protože o něm vydávám svědectví, že jeho skutky jsou zlé. <verse eid="JHN 7:7" /><verse number="8" style="v" sid="JHN 7:8" />Jděte na slavnost sami. Já tam nejdu; můj čas se ještě nenaplnil.“ <verse eid="JHN 7:8" /><verse number="9" style="v" sid="JHN 7:9" />To jim řekl a zůstal v Galileji.<verse eid="JHN 7:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JHN 7:10" />Později, když jeho bratři odešli, vydal se na slavnost i on, ale ne zjevně, spíše potají. <verse eid="JHN 7:10" /><verse number="11" style="v" sid="JHN 7:11" />Židovští představení už ho na slavnosti hledali. „Kde je?“ vyptávali se. <verse eid="JHN 7:11" /><verse number="12" style="v" sid="JHN 7:12" />V lidu se o něm vedlo mnoho řečí; někteří říkali: „Je dobrý!“ a jiní zas: „Není! Jen obluzuje lidi!“ <verse eid="JHN 7:12" /><verse number="13" style="v" sid="JHN 7:13" />Kvůli strachu z představených však o něm nikdo nemluvil otevřeně.<verse eid="JHN 7:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 7:14" />Asi v polovině svátku Ježíš vešel do chrámu a začal učit. <verse eid="JHN 7:14" /><verse number="15" style="v" sid="JHN 7:15" />Židé jen žasli: „Jak to, že zná Písma, když se neučil?“<verse eid="JHN 7:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 7:16" />Ježíš jim odpověděl: „Mé učení není mé, ale Toho, který mě poslal. <verse eid="JHN 7:16" /><verse number="17" style="v" sid="JHN 7:17" />Bude-li někdo chtít konat jeho vůli, pozná, je-li to učení z Boha, nebo zda mluvím sám od sebe. <verse eid="JHN 7:17" /><verse number="18" style="v" sid="JHN 7:18" />Kdo mluví sám od sebe, hledá svou vlastní slávu. Kdo ale hledá slávu Toho, který ho poslal, ten je pravdomluvný a není na něm nic špatného. <verse eid="JHN 7:18" /><verse number="19" style="v" sid="JHN 7:19" />Mojžíš vám dal Zákon, viďte? Přitom nikdo z vás Zákon neplní. Proč mě chcete zabít?“<verse eid="JHN 7:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="JHN 7:20" />„Jsi posedlý!“ odpověděl mu zástup. „Kdo tě chce zabít?“<verse eid="JHN 7:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="JHN 7:21" />Ježíš jim odpověděl: „Udělal jsem jeden skutek a všichni se divíte. <verse eid="JHN 7:21" /><verse number="22" style="v" sid="JHN 7:22" />Mojžíš vám uložil obřízku (i když ta nepochází od Mojžíše, ale už od praotců) a vy obřezáváte chlapce i v sobotu. <verse eid="JHN 7:22" /><verse number="23" style="v" sid="JHN 7:23" />Může-li člověk v sobotu přijímat obřízku a neporušovat tím Mojžíšův zákon, proč se na mě zlobíte, že jsem v sobotu uzdravil celého člověka? <verse eid="JHN 7:23" /><verse number="24" style="v" sid="JHN 7:24" />Nesuďte podle zdání, suďte spravedlivým soudem.“<verse eid="JHN 7:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 7:25" />Někteří z Jeruzalémských začali říkat: „Není to snad ten, kterého chtějí zabít? <verse eid="JHN 7:25" /><verse number="26" style="v" sid="JHN 7:26" />Podívejte se, mluví svobodně a nikdo nic nenamítá. Že by hodnostáři přece jen poznali, že je to Mesiáš? <verse eid="JHN 7:26" /><verse number="27" style="v" sid="JHN 7:27" />Jenže o tomto víme, odkud je, ale až přijde Mesiáš, nikdo nebude vědět, odkud je.“<verse eid="JHN 7:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JHN 7:28" />Ježíš, který zatím vyučoval v chrámě, tehdy zvolal: „Znáte mě a také víte, odkud jsem. Nepřišel jsem ale sám od sebe. Ten, který mě poslal, je pravdomluvný. Vy ho neznáte, <verse eid="JHN 7:28" /><verse number="29" style="v" sid="JHN 7:29" />ale já ho znám, neboť jsem od něj a on mě poslal.“<verse eid="JHN 7:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 7:30" />Chtěli ho za to zatknout, ale nikdo na něj nevztáhl ruku, neboť ještě nepřišla jeho chvíle. <verse eid="JHN 7:30" /><verse number="31" style="v" sid="JHN 7:31" />Mnozí ze zástupu v něj ale uvěřili. „Až přijde Mesiáš,“ říkali, „vykoná snad více znamení než on?“ <verse eid="JHN 7:31" /><verse number="32" style="v" sid="JHN 7:32" />Jakmile farizeové uslyšeli, že zástup o něm vede takové řeči, společně s vrchními kněžími na něj poslali chrámovou stráž, aby ho zatkli.<verse eid="JHN 7:32" /></para>
+  <para style="p">
+    <verse number="33" style="v" sid="JHN 7:33" />Ježíš jim řekl: „Ještě na kratičko jsem s vámi; potom odejdu k Tomu, který mě poslal. <verse eid="JHN 7:33" /><verse number="34" style="v" sid="JHN 7:34" />Budete mě hledat, ale nenajdete. Tam, kde jsem, se nedostanete.“<verse eid="JHN 7:34" /></para>
+  <para style="p">
+    <verse number="35" style="v" sid="JHN 7:35" />„Kam se chystá jít, že ho nenajdeme?“ ptali se Židé mezi sebou. „Půjde snad do řecké diaspory učit Řeky? <verse eid="JHN 7:35" /><verse number="36" style="v" sid="JHN 7:36" />Co tím myslel, když řekl: ‚Budete mě hledat, ale nenajdete. Tam, kde jsem, se nedostanete‘?“<verse eid="JHN 7:36" /></para>
+  <para style="s">Řeky živé vody</para>
+  <para style="m">
+    <verse number="37" style="v" sid="JHN 7:37" />V poslední den, když svátek vrcholil, Ježíš vstal a zvolal: „Kdo má žízeň, pojď ke mně a pij! <verse eid="JHN 7:37" /><verse number="38" style="v" sid="JHN 7:38" />Kdo věří ve mne, z jeho nitra potečou řeky živé vody, jak praví Písmo.“<note caller="-" style="x"><char style="xo" closed="false">7:38 </char><char style="xt" closed="false"><ref loc="ISA 12:3">Iz 12:3</ref>; <ref loc="EZK 47:1-12">Ez 47:1–12</ref>; <ref loc="ZEC 14:8">Za 14:8</ref></char></note> <verse eid="JHN 7:38" /><verse number="39" style="v" sid="JHN 7:39" />(A to řekl o Duchu, kterého měli přijmout věřící v něho; neboť Duch ještě nebyl dán, protože Ježíš ještě nebyl oslaven.)<verse eid="JHN 7:39" /></para>
+  <para style="p">
+    <verse number="40" style="v" sid="JHN 7:40" />Jakmile to uslyšeli, mnozí v zástupu říkali: „Je to opravdu ten Prorok.“<note caller="-" style="x"><char style="xo" closed="false">7:40 </char><char style="xt" closed="false"><ref loc="JHN 6:14">J 6:14</ref></char></note> <verse eid="JHN 7:40" /><verse number="41" style="v" sid="JHN 7:41" />Někteří říkali: „Je to Mesiáš!“ A další: „Přijde snad Mesiáš z Galileje? <verse eid="JHN 7:41" /><verse number="42" style="v" sid="JHN 7:42" />Neříká Písmo, že Mesiáš přijde ze semene Davidova, z Betléma, městečka, kde bydlel David?“<note caller="-" style="x"><char style="xo" closed="false">7:42 </char><char style="xt" closed="false"><ref loc="2SA 7:12-14">2S 7:12–14</ref>; <ref loc="MIC 5:1">Mi 5:1</ref></char></note> <verse eid="JHN 7:42" /><verse number="43" style="v" sid="JHN 7:43" />Zástup se kvůli němu rozdělil na dva tábory. <verse eid="JHN 7:43" /><verse number="44" style="v" sid="JHN 7:44" />Někteří se ho chtěli chopit, ale nikdo na něj nevztáhl ruku.<verse eid="JHN 7:44" /></para>
+  <para style="p">
+    <verse number="45" style="v" sid="JHN 7:45" />Strážní se tehdy vrátili k farizeům a vrchním kněžím. Ti se ptali: „Jak to, že jste ho nepřivedli?“<verse eid="JHN 7:45" /></para>
+  <para style="p">
+    <verse number="46" style="v" sid="JHN 7:46" />Strážní odpověděli: „Takhle nikdy nikdo nemluvil!“<verse eid="JHN 7:46" /></para>
+  <para style="p">
+    <verse number="47" style="v" sid="JHN 7:47" />„Snad jste se také nenechali obloudit?“ osopili se na ně farizeové. <verse eid="JHN 7:47" /><verse number="48" style="v" sid="JHN 7:48" />„Uvěřil v něj snad někdo z hodnostářů nebo z farizeů? <verse eid="JHN 7:48" /><verse number="49" style="v" sid="JHN 7:49" />Jenom ten proklatý dav, co nezná Zákon!“<verse eid="JHN 7:49" /></para>
+  <para style="p">
+    <verse number="50" style="v" sid="JHN 7:50" />Jeden z nich, Nikodém (který ho předtím navštívil), jim ale řekl: <verse eid="JHN 7:50" /><verse number="51" style="v" sid="JHN 7:51" />„Copak náš Zákon někoho soudí, aniž by byl nejdříve vyslechnut a zjistilo se, co udělal?“<verse eid="JHN 7:51" /></para>
+  <para style="p">
+    <verse number="52" style="v" sid="JHN 7:52" />„Snad nejsi také z Galileje?“ odpověděli mu. „Studuj a uvidíš, že z Galileje žádný prorok nepovstal!“<note caller="-" style="f"><char style="fr" closed="false">7:52 </char><char style="ft" closed="false">následující text (<char style="xt">J 7:53—8:11</char>) v nejstarších rukopisech chybí; některé jej umisťují jinam (za <char style="xt"><ref loc="JHN 7:36">J 7:36</ref>; <ref loc="JHN 7:44">7:44</ref>; <ref loc="JHN 21:25">21:25</ref></char> nebo za <char style="xt"><ref loc="LUK 21:38">L 21:38</ref></char>)</char></note><verse eid="JHN 7:52" /></para>
+  <chapter eid="JHN 7" />
+  <chapter number="8" style="c" sid="JHN 8" />
+  <para style="s">Kdo z vás je bez hříchu</para>
+  <para style="m">
+    <verse number="1" style="v" pubnumber="53" sid="JHN 8:1" /> Každý se pak vrátil domů, <char style="vp">1</char> ale Ježíš odešel na Olivetskou horu.<verse eid="JHN 8:1" /></para>
+  <para style="m">
+    <verse number="2" style="v" sid="JHN 8:2" />Za úsvitu se pak vrátil do chrámu, kam se k němu scházel všechen lid. Posadil se tedy a učil je. <verse eid="JHN 8:2" /><verse number="3" style="v" sid="JHN 8:3" />Znalci Písma a farizeové tehdy přivedli ženu přistiženou při cizoložství. Postavili ji doprostřed <verse eid="JHN 8:3" /><verse number="4" style="v" sid="JHN 8:4" />se slovy: „Mistře, tato žena byla přistižena při činu, když cizoložila. <verse eid="JHN 8:4" /><verse number="5" style="v" sid="JHN 8:5" />Mojžíš nám v Zákoně přikázal takové kamenovat. Co říkáš ty?“ <verse eid="JHN 8:5" /><verse number="6" style="v" sid="JHN 8:6" />Těmi slovy ho pokoušeli, aby ho mohli obžalovat.</para>
+  <para style="p" vid="JHN 8:6">Ježíš se sklonil a psal prstem po zemi. <verse eid="JHN 8:6" /><verse number="7" style="v" sid="JHN 8:7" />Když se ho však nepřestávali ptát, zvedl se a řekl jim: „Kdo z vás je bez hříchu, ať po ní první hodí kamenem.“ <verse eid="JHN 8:7" /><verse number="8" style="v" sid="JHN 8:8" />A opět se sklonil a psal po zemi.<verse eid="JHN 8:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 8:9" />Když to uslyšeli, začali se jeden po druhém vytrácet, počínaje od nejstarších. Nakonec tam Ježíš zůstal sám s tou ženou stojící uprostřed. <verse eid="JHN 8:9" /><verse number="10" style="v" sid="JHN 8:10" />Ježíš se zvedl a zeptal se jí: „Kde jsou tvoji žalobci, ženo? Nikdo tě neodsoudil?“<verse eid="JHN 8:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 8:11" />„Nikdo, Pane,“ odpověděla.</para>
+  <para style="p" vid="JHN 8:11">„Ani já tě neodsuzuji,“ řekl jí Ježíš. „Jdi a už nehřeš.“<verse eid="JHN 8:11" /></para>
+  <para style="s">Já jsem</para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 8:12" />Ježíš k nim pak znovu promluvil: „Já jsem světlo světa. Kdo mě následuje, nebude už chodit v temnotě, ale bude mít světlo života.“<verse eid="JHN 8:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JHN 8:13" />Farizeové mu namítli: „Svědčíš sám o sobě, tvé svědectví neplatí.“<verse eid="JHN 8:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 8:14" />Ježíš jim odpověděl: „Ačkoli svědčím sám o sobě, mé svědectví platí, neboť vím, odkud jsem přišel a kam jdu. Vy však nevíte, odkud přicházím ani kam jdu. <verse eid="JHN 8:14" /><verse number="15" style="v" sid="JHN 8:15" />Vy soudíte tělesně, já nesoudím nikoho. <verse eid="JHN 8:15" /><verse number="16" style="v" sid="JHN 8:16" />A i kdybych soudil, můj soud je pravdivý, neboť nejsem sám, ale je se mnou Otec, který mě poslal. <verse eid="JHN 8:16" /><verse number="17" style="v" sid="JHN 8:17" />Ve vašem Zákoně je psáno, že svědectví dvou lidí je pravé.<note caller="-" style="x"><char style="xo" closed="false">8:17 </char><char style="xt" closed="false"><ref loc="DEU 17:6">Dt 17:6</ref>; <ref loc="DEU 19:15">19:15</ref></char></note> <verse eid="JHN 8:17" /><verse number="18" style="v" sid="JHN 8:18" />Svědčím sám o sobě a svědčí o mně Otec, který mě poslal.“<verse eid="JHN 8:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 8:19" />Říkali mu tedy: „Kde je ten tvůj otec?“</para>
+  <para style="p" vid="JHN 8:19">Ježíš odpověděl: „Neznáte mě ani mého Otce. Kdybyste mě znali, znali byste i mého Otce.“ <verse eid="JHN 8:19" /><verse number="20" style="v" sid="JHN 8:20" />Tato slova říkal u pokladnice, když učil v chrámě, ale nikdo ho nezatkl, neboť jeho chvíle ještě nepřišla.<verse eid="JHN 8:20" /></para>
+  <para style="b" />
+  <para style="p">
+    <verse number="21" style="v" sid="JHN 8:21" />Ježíš k nim znovu promluvil: „Já odcházím. Budete mě hledat, dokud nezemřete ve svém hříchu. Jdu tam, kam vy nemůžete.“<verse eid="JHN 8:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 8:22" />Židé na to říkali: „To se snad chce zabít, že říká: ‚Jdu tam, kam vy nemůžete‘?“<verse eid="JHN 8:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 8:23" />Odpověděl jim: „Vy jste zdola, já jsem shora. Vy jste z tohoto světa, já nejsem z tohoto světa. <verse eid="JHN 8:23" /><verse number="24" style="v" sid="JHN 8:24" />Proto jsem vám řekl, že zemřete ve svých hříších. Nebudete-li věřit, že ‚já jsem,‘<note caller="-" style="x"><char style="xo" closed="false">8:24 </char><char style="xt" closed="false"><ref loc="EXO 3:14">Ex 3:14</ref>; <ref loc="ISA 43:10">Iz 43:10</ref></char></note> zemřete ve svých hříších.“<verse eid="JHN 8:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 8:25" />„A kdo jsi?“ zeptali se ho.</para>
+  <para style="p" vid="JHN 8:25">„Říkám vám to už od začátku,“ odpověděl jim Ježíš. <verse eid="JHN 8:25" /><verse number="26" style="v" sid="JHN 8:26" />„Mám o vás mnoho co říci a soudit. Ten, který mě poslal, je ovšem pravdomluvný a já říkám světu, co jsem slyšel od něj.“<verse eid="JHN 8:26" /></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JHN 8:27" />Nepochopili však, že s nimi mluvil o Otci. <verse eid="JHN 8:27" /><verse number="28" style="v" sid="JHN 8:28" />Proto jim Ježíš řekl: „Až vyzdvihnete Syna člověka, tehdy poznáte, kdo jsem. Nic nedělám sám od sebe, ale mluvím, jak mě naučil Otec. <verse eid="JHN 8:28" /><verse number="29" style="v" sid="JHN 8:29" />Ten, který mě poslal, je se mnou. On mě nenechal samotného, neboť vždycky dělám, co se mu líbí.“ <verse eid="JHN 8:29" /><verse number="30" style="v" sid="JHN 8:30" />A při těch slovech v něj mnozí uvěřili.<verse eid="JHN 8:30" /></para>
+  <para style="s">Pravda vás vysvobodí</para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 8:31" />Židům, kteří mu uvěřili, Ježíš řekl: „Když zůstanete v mém slově, budete opravdu mými učedníky. <verse eid="JHN 8:31" /><verse number="32" style="v" sid="JHN 8:32" />Poznáte pravdu a pravda vás osvobodí.“<verse eid="JHN 8:32" /></para>
+  <para style="p">
+    <verse number="33" style="v" sid="JHN 8:33" />„Jsme Abrahamovo símě!“ ohradili se. „Nikdy jsme nikomu neotročili. Jak můžeš říkat: ‚Budete svobodní‘?“<verse eid="JHN 8:33" /></para>
+  <para style="p">
+    <verse number="34" style="v" sid="JHN 8:34" />Ježíš jim odpověděl: „Amen, amen, říkám vám, že každý, kdo hřeší, je otrokem hříchu. <verse eid="JHN 8:34" /><verse number="35" style="v" sid="JHN 8:35" />A otrok nezůstává v domě navždy, navždy zůstává syn. <verse eid="JHN 8:35" /><verse number="36" style="v" sid="JHN 8:36" />Když vás Syn osvobodí, budete opravdu svobodní. <verse eid="JHN 8:36" /><verse number="37" style="v" sid="JHN 8:37" />Vím, že jste Abrahamovo símě, ale chcete mě zabít, protože mé slovo u vás nemá místo. <verse eid="JHN 8:37" /><verse number="38" style="v" sid="JHN 8:38" />Já mluvím o tom, co jsem viděl u svého Otce; vy zase děláte, co jste slyšeli od svého otce.“<verse eid="JHN 8:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="JHN 8:39" />„Náš otec je Abraham,“ odpověděli mu.</para>
+  <para style="p" vid="JHN 8:39">„Kdybyste byli děti Abrahama,“ řekl jim Ježíš, „dělali byste Abrahamovy skutky. <verse eid="JHN 8:39" /><verse number="40" style="v" sid="JHN 8:40" />Vy mě ale chcete zabít – člověka, který vám pověděl pravdu, kterou slyšel od Boha. To Abraham nedělal. <verse eid="JHN 8:40" /><verse number="41" style="v" sid="JHN 8:41" />Vy děláte skutky svého otce.“</para>
+  <para style="p" vid="JHN 8:41">„My jsme se nenarodili ze smilstva,“ odpověděli. „Máme jednoho Otce, Boha!“<verse eid="JHN 8:41" /></para>
+  <para style="p">
+    <verse number="42" style="v" sid="JHN 8:42" />Ježíš jim řekl: „Kdyby byl vaším Otcem Bůh, milovali byste mě, protože jsem vyšel z Boha a od něj přicházím. Nepřišel jsem sám od sebe, to on mě poslal. <verse eid="JHN 8:42" /><verse number="43" style="v" sid="JHN 8:43" />Proč nerozumíte mé řeči? Nemůžete mé slovo ani slyšet! <verse eid="JHN 8:43" /><verse number="44" style="v" sid="JHN 8:44" />Váš otec je ďábel a vy chcete plnit touhy svého otce. Od počátku to byl vrah a nestál v pravdě, protože v něm pravda není. Když mluví lež, mluví, jak je mu vlastní, neboť je lhář a otec lži. <verse eid="JHN 8:44" /><verse number="45" style="v" sid="JHN 8:45" />Ale protože já říkám pravdu, nevěříte mi. <verse eid="JHN 8:45" /><verse number="46" style="v" sid="JHN 8:46" />Kdo z vás mě usvědčí z hříchu? A když říkám pravdu, proč mi nevěříte? <verse eid="JHN 8:46" /><verse number="47" style="v" sid="JHN 8:47" />Kdo je z Boha, slyší Boží slova. Vy neslyšíte proto, že nejste z Boha.“<verse eid="JHN 8:47" /></para>
+  <para style="p">
+    <verse number="48" style="v" sid="JHN 8:48" />Židé mu odpověděli: „Neříkáme správně, že jsi posedlý Samaritán?“<verse eid="JHN 8:48" /></para>
+  <para style="p">
+    <verse number="49" style="v" sid="JHN 8:49" />„Nejsem posedlý,“ odpověděl Ježíš. „Jen ctím svého Otce, ale vy mnou pohrdáte. <verse eid="JHN 8:49" /><verse number="50" style="v" sid="JHN 8:50" />Já však nehledám svoji slávu; je tu někdo jiný, který ji hledá a soudí. <verse eid="JHN 8:50" /><verse number="51" style="v" sid="JHN 8:51" />Amen, amen, říkám vám: Kdokoli zachová mé slovo, navěky nespatří smrt.“<verse eid="JHN 8:51" /></para>
+  <para style="p">
+    <verse number="52" style="v" sid="JHN 8:52" />„Teď víme jistě, že jsi posedlý!“ řekli mu Židé. „Abraham zemřel, stejně tak proroci, a ty říkáš: ‚Kdokoli zachová mé slovo, navěky nezakusí smrt.‘ <verse eid="JHN 8:52" /><verse number="53" style="v" sid="JHN 8:53" />Jsi snad větší než náš otec Abraham? Ten zemřel! I proroci zemřeli! Koho ze sebe děláš?“<verse eid="JHN 8:53" /></para>
+  <para style="p">
+    <verse number="54" style="v" sid="JHN 8:54" />Ježíš odpověděl: „Chválím-li sám sebe, má chvála nic neznamená. Ten, kdo mě chválí, je můj Otec, kterého vy nazýváte svým Bohem, <verse eid="JHN 8:54" /><verse number="55" style="v" sid="JHN 8:55" />ale neznáte ho. Já ho znám. Kdybych řekl, že ho neznám, byl bych podobný vám, lhář. Ale znám ho a zachovávám jeho slovo. <verse eid="JHN 8:55" /><verse number="56" style="v" sid="JHN 8:56" />Abraham se těšil, že uvidí můj den; uviděl ho a zaradoval se.“<verse eid="JHN 8:56" /></para>
+  <para style="p">
+    <verse number="57" style="v" sid="JHN 8:57" />„Ještě ti není padesát let, a viděl jsi Abrahama?“ řekli mu na to Židé.<verse eid="JHN 8:57" /></para>
+  <para style="p">
+    <verse number="58" style="v" sid="JHN 8:58" />Ježíš odpověděl: „Amen, amen, říkám vám: Dříve než byl Abraham, já jsem.“ <verse eid="JHN 8:58" /><verse number="59" style="v" sid="JHN 8:59" />Tehdy vzali kamení a chtěli ho ukamenovat. Ježíš se ale skryl a opustil chrám.<verse eid="JHN 8:59" /></para>
+  <chapter eid="JHN 8" />
+  <chapter number="9" style="c" sid="JHN 9" />
+  <para style="s">Slepota</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 9:1" />Když procházel kolem, všiml si člověka slepého od narození. <verse eid="JHN 9:1" /><verse number="2" style="v" sid="JHN 9:2" />Jeho učedníci se ho zeptali: „Rabi, kdo zhřešil: on, nebo jeho rodiče, že se narodil slepý?“<verse eid="JHN 9:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="JHN 9:3" />Ježíš odpověděl: „Nejde o to, zda zhřešil on, nebo jeho rodiče, ale aby na něm byly zjeveny Boží skutky. <verse eid="JHN 9:3" /><verse number="4" style="v" sid="JHN 9:4" />Musím<note caller="-" style="f"><char style="fr" closed="false">9:4 </char><char style="ft" closed="false">někt. rukopisy </char><char style="fqa" closed="false">Musíme</char></note> dělat skutky Toho, který mě poslal, dokud je den. Přichází noc, kdy nikdo nebude moci pracovat. <verse eid="JHN 9:4" /><verse number="5" style="v" sid="JHN 9:5" />Dokud jsem na světě, jsem světlo světa.“<verse eid="JHN 9:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 9:6" />Když to řekl, plivl na zem, udělal ze sliny bláto a pomazal mu jím oči. <verse eid="JHN 9:6" /><verse number="7" style="v" sid="JHN 9:7" />Potom mu řekl: „Jdi se umýt do nádrže Siloe“ (což se překládá Poslaný). Odešel tedy a umyl se, a když přišel, viděl.<verse eid="JHN 9:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JHN 9:8" />Sousedé a ti, kdo ho dříve vídali žebrat, tedy řekli: „Není to snad ten, který tu sedával a žebral?“ <verse eid="JHN 9:8" /><verse number="9" style="v" sid="JHN 9:9" />Někteří říkali, že je to on, a jiní, že je mu jen podobný.</para>
+  <para style="p" vid="JHN 9:9">On ale říkal: „Jsem to já!“<verse eid="JHN 9:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JHN 9:10" />„Jak se ti otevřely oči?“ ptali se ho.<verse eid="JHN 9:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 9:11" />Odpověděl: „Člověk jménem Ježíš udělal bláto, pomazal mi oči a řekl mi: ‚Jdi k Siloe a umyj se.‘ A když jsem odešel a umyl se, prohlédl jsem.“<verse eid="JHN 9:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 9:12" />„Kde ten člověk je?“ ptali se.</para>
+  <para style="p" vid="JHN 9:12">„Nevím,“ odpověděl.<verse eid="JHN 9:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JHN 9:13" />A tak toho bývalého slepce přivedli k farizeům. <verse eid="JHN 9:13" /><verse number="14" style="v" sid="JHN 9:14" />Toho dne, kdy Ježíš udělal bláto a otevřel mu oči, totiž byla sobota. <verse eid="JHN 9:14" /><verse number="15" style="v" sid="JHN 9:15" />Farizeové ho znovu zpovídali, jak prohlédl. „Položil mi na oči bláto, umyl jsem se a vidím,“ odpověděl jim.<verse eid="JHN 9:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 9:16" />„Ten člověk není od Boha, vždyť nedodržuje sobotu!“ říkali někteří z farizeů. Jiní zas říkali: „Jak by taková znamení mohl konat hříšník?“ A tak se rozdělili na dva tábory.<verse eid="JHN 9:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JHN 9:17" />Pak se toho slepce znovu zeptali: „Kdo to podle tebe je, že ti otevřel oči?“</para>
+  <para style="p" vid="JHN 9:17">„Je to prorok,“ odpověděl.<verse eid="JHN 9:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JHN 9:18" />Židovští představení mu ale nechtěli věřit, že býval slepý a prohlédl. Proto si zavolali jeho rodiče. <verse eid="JHN 9:18" /><verse number="19" style="v" sid="JHN 9:19" />„Je tohle váš syn? Tvrdíte, že se narodil slepý?“ ptali se jich. „A jak to, že teď vidí?“<verse eid="JHN 9:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="JHN 9:20" />„Víme, že je to náš syn a že se narodil slepý,“ odpověděli jeho rodiče. <verse eid="JHN 9:20" /><verse number="21" style="v" sid="JHN 9:21" />„Jak to, že teď vidí, ale nevíme. Nevíme, kdo mu otevřel oči. Ptejte se jeho, je přece dospělý, může mluvit sám za sebe.“ <verse eid="JHN 9:21" /><verse number="22" style="v" sid="JHN 9:22" />(Jeho rodiče to řekli, protože se báli židovských představených. Ti se už totiž dohodli, že kdokoli ho vyzná jako Mesiáše, bude vyobcován ze synagogy. <verse eid="JHN 9:22" /><verse number="23" style="v" sid="JHN 9:23" />Proto jeho rodiče řekli: „Je dospělý, ptejte se jeho.“)<verse eid="JHN 9:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JHN 9:24" />A tak toho bývalého slepce zavolali podruhé a řekli mu: „Vyznej před Bohem pravdu! Víme, že je to hříšník.“<verse eid="JHN 9:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 9:25" />„Jestli je to hříšník, nevím,“ odpověděl jim. „Vím jen, že jsem byl slepý a teď vidím.“<verse eid="JHN 9:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 9:26" />A tak ho vyslýchali dál: „Co ti udělal? Jak ti otevřel oči?“<verse eid="JHN 9:26" /></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JHN 9:27" />„Už jsem vám to řekl,“ odpověděl jim. „Copak jste to neslyšeli? Proč to chcete slyšet znovu? Chcete se také stát jeho učedníky?“<verse eid="JHN 9:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JHN 9:28" />Tehdy mu začali spílat: „Sám jsi jeho učedník! My jsme Mojžíšovi učedníci! <verse eid="JHN 9:28" /><verse number="29" style="v" sid="JHN 9:29" />Víme, že k Mojžíšovi mluvil Bůh, ale o tomhle nevíme, co je zač.“<verse eid="JHN 9:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 9:30" />„To je právě divné,“ odpověděl jim ten člověk. „Vy nevíte, co je zač, a přitom mi otevřel oči. <verse eid="JHN 9:30" /><verse number="31" style="v" sid="JHN 9:31" />Víme přece, že Bůh hříšníky neslyší; slyší jen toho, kdo Boha ctí a koná jeho vůli. <verse eid="JHN 9:31" /><verse number="32" style="v" sid="JHN 9:32" />Jaktěživ nikdo neslyšel, že by někdo otevřel oči slepě narozeného. <verse eid="JHN 9:32" /><verse number="33" style="v" sid="JHN 9:33" />Kdyby ten člověk nebyl od Boha, nic takového by nedokázal.“<verse eid="JHN 9:33" /></para>
+  <para style="p">
+    <verse number="34" style="v" sid="JHN 9:34" />Odpověděli mu: „Narodil ses plný hříchu, a chceš nás poučovat?“ A s tím ho vyhnali.<verse eid="JHN 9:34" /></para>
+  <para style="p">
+    <verse number="35" style="v" sid="JHN 9:35" />Když se Ježíš doslechl, že ho vyhnali, našel ho a zeptal se: „Věříš v Syna člověka?“<verse eid="JHN 9:35" /></para>
+  <para style="p">
+    <verse number="36" style="v" sid="JHN 9:36" />„Pane,“ odpověděl, „kdo to je, abych v něj mohl věřit?“<verse eid="JHN 9:36" /></para>
+  <para style="p">
+    <verse number="37" style="v" sid="JHN 9:37" />„Už jsi ho viděl,“ řekl mu Ježíš. „Je to ten, který s tebou mluví.“<verse eid="JHN 9:37" /></para>
+  <para style="p">
+    <verse number="38" style="v" sid="JHN 9:38" />„Věřím, Pane!“ zvolal a padl před ním na kolena.<verse eid="JHN 9:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="JHN 9:39" />Tehdy Ježíš řekl:<note caller="-" style="f"><char style="fr" closed="false">9:39 </char><char style="ft" closed="false">Verš 38 a první část verše 39 v někt. rukopisech chybí.</char></note> „Přišel jsem na tento svět kvůli soudu: aby slepí viděli a vidoucí oslepli.“<verse eid="JHN 9:39" /></para>
+  <para style="p">
+    <verse number="40" style="v" sid="JHN 9:40" />Když to uslyšeli někteří z farizeů stojících poblíž, řekli mu: „Cože? Jsme snad i my slepí?“<verse eid="JHN 9:40" /></para>
+  <para style="p">
+    <verse number="41" style="v" sid="JHN 9:41" />„Kdybyste byli slepí, neměli byste hřích,“ odpověděl jim Ježíš. „Vy ale říkáte: ‚Vidíme,‘ a tak váš hřích trvá.“<verse eid="JHN 9:41" /></para>
+  <chapter eid="JHN 9" />
+  <chapter number="10" style="c" sid="JHN 10" />
+  <para style="s">Dobrý pastýř</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 10:1" />„Amen, amen, říkám vám: Kdo nevchází do ovčince dveřmi, ale vniká jinudy, je zloděj a lupič, <verse eid="JHN 10:1" /><verse number="2" style="v" sid="JHN 10:2" />kdo ale vchází dveřmi, to je pastýř ovcí <verse eid="JHN 10:2" /><verse number="3" style="v" sid="JHN 10:3" />a tomu vrátný otvírá. Ovce slyší jeho hlas a on své ovce volá jménem a vyvádí je. <verse eid="JHN 10:3" /><verse number="4" style="v" sid="JHN 10:4" />Když je všechny vypustí, jde před nimi a ovce jdou za ním, neboť znají jeho hlas. <verse eid="JHN 10:4" /><verse number="5" style="v" sid="JHN 10:5" />Za cizím nikdy nepůjdou, ale utečou od něj, neboť neznají hlas cizích.“ <verse eid="JHN 10:5" /><verse number="6" style="v" sid="JHN 10:6" />Ježíš jim to řekl obrazně, ale oni nepochopili, co jim tím chtěl říci.<verse eid="JHN 10:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 10:7" />Ježíš k nim tedy znovu promluvil: „Amen, amen, říkám vám: Já jsem dveře ovcí. <verse eid="JHN 10:7" /><verse number="8" style="v" sid="JHN 10:8" />Všichni, kolik jich přišlo přede mnou,<note caller="-" style="f"><char style="fr" closed="false">10:8 </char><char style="fqa" closed="false">přede mnou</char><char style="ft" closed="false">v někt. rukopisech chybí</char></note> jsou zloději a lupiči, ale ovce je neposlechly. <verse eid="JHN 10:8" /><verse number="9" style="v" sid="JHN 10:9" />Já jsem dveře. Kdokoli vejde skrze mne, bude spasen a bude vcházet i vycházet a nalezne pastvu. <verse eid="JHN 10:9" /><verse number="10" style="v" sid="JHN 10:10" />Zloděj přichází, jen aby kradl, zabíjel a ničil; já jsem přišel, aby měly život – život v plnosti.<verse eid="JHN 10:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 10:11" />Já jsem dobrý pastýř. Dobrý pastýř za ovce pokládá svůj život. <verse eid="JHN 10:11" /><verse number="12" style="v" sid="JHN 10:12" />Nádeník ale není pastýř a ovce mu nepatří; když vidí přicházet vlka, opouští ovce a utíká. Když se pak vlk vrhá na ovce a rozhání je, <verse eid="JHN 10:12" /><verse number="13" style="v" sid="JHN 10:13" />nádeník utíká, protože je nádeník a na ovcích mu nezáleží.<verse eid="JHN 10:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 10:14" />Já jsem dobrý pastýř. Znám své ovce a mé ovce znají mě, <verse eid="JHN 10:14" /><verse number="15" style="v" sid="JHN 10:15" />jako mě zná Otec a já znám Otce; a pokládám svůj život za ovce. <verse eid="JHN 10:15" /><verse number="16" style="v" sid="JHN 10:16" />Mám však i jiné ovce, které nejsou z tohoto ovčince. I ty musím přivést. Uslyší můj hlas, a tehdy bude jedno stádo a jeden pastýř.<verse eid="JHN 10:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JHN 10:17" />Otec mě miluje, protože pokládám svůj život, abych ho zase přijal. <verse eid="JHN 10:17" /><verse number="18" style="v" sid="JHN 10:18" />Nikdo mi ho nebere, sám ho pokládám. Mám moc ho položit a mám moc ho zase přijmout. Takový příkaz jsem přijal od svého Otce.“<verse eid="JHN 10:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 10:19" />Kvůli těm slovům se mezi Židy strhla hádka. <verse eid="JHN 10:19" /><verse number="20" style="v" sid="JHN 10:20" />Mnozí z nich říkali: „Je posedlý démonem a blázní! Co ho posloucháte?“ <verse eid="JHN 10:20" /><verse number="21" style="v" sid="JHN 10:21" />Jiní říkali: „Posedlý člověk takhle nemluví. Může snad démon otvírat oči slepým?“<verse eid="JHN 10:21" /></para>
+  <para style="s">Jsme jedno</para>
+  <para style="m">
+    <verse number="22" style="v" sid="JHN 10:22" />Přišla zima a v Jeruzalémě se konal svátek Zasvěcení chrámu.<note caller="-" style="f"><char style="fr" closed="false">10:22 </char><char style="ft" closed="false">tj. <char style="tl">Chanuka</char></char></note> <verse eid="JHN 10:22" /><verse number="23" style="v" sid="JHN 10:23" />Ježíš se procházel v chrámě, v Šalomounově sloupoví. <verse eid="JHN 10:23" /><verse number="24" style="v" sid="JHN 10:24" />Tam ho obstoupili Židé se slovy: „Jak dlouho nás budeš napínat? Jestli jsi Mesiáš, řekni nám to jasně.“<verse eid="JHN 10:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 10:25" />„Řekl jsem vám to, a nevěříte,“ odpověděl jim Ježíš. „Skutky, které dělám ve jménu svého Otce, o mně vydávají svědectví. <verse eid="JHN 10:25" /><verse number="26" style="v" sid="JHN 10:26" />Vy ale nevěříte, protože nejste z mých ovcí. <verse eid="JHN 10:26" /><verse number="27" style="v" sid="JHN 10:27" />Mé ovce slyší můj hlas a já je znám a následují mě. <verse eid="JHN 10:27" /><verse number="28" style="v" sid="JHN 10:28" />Já jim dávám věčný život a nezahynou navěky a z mé ruky je nikdo nevyrve. <verse eid="JHN 10:28" /><verse number="29" style="v" sid="JHN 10:29" />Můj Otec, který mi je dal, je větší nade všechny<note caller="-" style="f"><char style="fr" closed="false">10:29 </char><char style="ft" closed="false">někt. rukopisy </char><char style="fqa" closed="false">To, co mi můj Otec dal, je větší nade všechno</char></note> a nikdo je nemůže vyrvat z ruky mého Otce. <verse eid="JHN 10:29" /><verse number="30" style="v" sid="JHN 10:30" />Já a Otec jsme jedno.“<verse eid="JHN 10:30" /></para>
+  <para style="p">
+    <verse number="31" style="v" sid="JHN 10:31" />Židé tedy znovu vzali kamení, aby ho ukamenovali. <verse eid="JHN 10:31" /><verse number="32" style="v" sid="JHN 10:32" />Ježíš jim řekl: „Ukázal jsem vám mnoho dobrých skutků od Otce. Za který z nich mě chcete kamenovat?“<verse eid="JHN 10:32" /></para>
+  <para style="p">
+    <verse number="33" style="v" sid="JHN 10:33" />„Nechceme tě kamenovat za dobrý skutek, ale za rouhání,“ odpověděli mu Židé. „Jsi člověk, a děláš ze sebe Boha!“<verse eid="JHN 10:33" /></para>
+  <para style="p">
+    <verse number="34" style="v" sid="JHN 10:34" />Ježíš odvětil: „Není ve vašem Zákoně psáno: ‚Řekl jsem: Jste bohové‘?<note caller="-" style="x"><char style="xo" closed="false">10:34 </char><char style="xt" closed="false"><ref loc="PSA 82:6">Ž 82:6</ref></char></note> <verse eid="JHN 10:34" /><verse number="35" style="v" sid="JHN 10:35" />Jestliže ty, kteří dostali Boží slovo, nazval bohy – a Písmo nemůže být zrušeno – <verse eid="JHN 10:35" /><verse number="36" style="v" sid="JHN 10:36" />proč mě, kterého Otec posvětil a poslal na svět, obviňujete z rouhání, když jsem řekl: ‚Jsem Boží Syn‘? <verse eid="JHN 10:36" /><verse number="37" style="v" sid="JHN 10:37" />Nedělám-li skutky svého Otce, nevěřte mi. <verse eid="JHN 10:37" /><verse number="38" style="v" sid="JHN 10:38" />Pokud je však dělám, i kdybyste nevěřili mně, věřte těm skutkům, abyste poznali a věděli, že Otec je ve mně a já v něm.“<verse eid="JHN 10:38" /></para>
+  <para style="p">
+    <verse number="39" style="v" sid="JHN 10:39" />Chtěli ho tedy opět zatknout, ale unikl jim z rukou. <verse eid="JHN 10:39" /><verse number="40" style="v" sid="JHN 10:40" />Vrátil se zpátky za Jordán, na místo, kde dříve křtil Jan, a zůstal tam. <verse eid="JHN 10:40" /><verse number="41" style="v" sid="JHN 10:41" />Přicházelo tam za ním mnoho lidí. Říkali: „Jan sice nevykonal žádné znamení, ale všechno, co řekl o tomhle muži, byla pravda.“ <verse eid="JHN 10:41" /><verse number="42" style="v" sid="JHN 10:42" />A mnozí tam v něho uvěřili.<verse eid="JHN 10:42" /></para>
+  <chapter eid="JHN 10" />
+  <chapter number="11" style="c" sid="JHN 11" />
+  <para style="s">Lazare, pojď ven!</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 11:1" />Nějaký Lazar z Betanie, městečka Marie a její sestry Marty, onemocněl. <verse eid="JHN 11:1" /><verse number="2" style="v" sid="JHN 11:2" />To byla ta Marie, která pomazala Pána mastí a vytřela mu nohy svými vlasy;<note caller="-" style="x"><char style="xo" closed="false">11:2 </char><char style="xt" closed="false"><ref loc="JHN 12:3">J 12:3</ref></char></note> její bratr Lazar byl nemocný. <verse eid="JHN 11:2" /><verse number="3" style="v" sid="JHN 11:3" />Sestry vzkázaly Ježíšovi: „Pane, ten, koho máš tak rád, je nemocný.“<verse eid="JHN 11:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JHN 11:4" />Když to Ježíš uslyšel, řekl: „Ta nemoc není k smrti, ale k Boží slávě, aby skrze ni byl oslaven Boží Syn.“ <verse eid="JHN 11:4" /><verse number="5" style="v" sid="JHN 11:5" />Ježíš miloval Martu i její sestru i Lazara.<verse eid="JHN 11:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 11:6" />Když uslyšel, že Lazar onemocněl, zůstal ještě dva dny tam, kde byl. <verse eid="JHN 11:6" /><verse number="7" style="v" sid="JHN 11:7" />Potom řekl svým učedníkům: „Pojďme znovu do Judska.“<verse eid="JHN 11:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JHN 11:8" />„Rabi,“ řekli mu učedníci, „Židé tě posledně chtěli ukamenovat! Ty tam chceš jít znovu?“<verse eid="JHN 11:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 11:9" />Ježíš odpověděl: „Nemá den dvanáct hodin? Kdo chodí ve dne, neklopýtá, protože vidí světlo tohoto světa. <verse eid="JHN 11:9" /><verse number="10" style="v" sid="JHN 11:10" />Kdo ale chodí v noci, klopýtá, protože nemá světlo.“ <verse eid="JHN 11:10" /><verse number="11" style="v" sid="JHN 11:11" />A po těch slovech dodal: „Náš přítel Lazar usnul. Půjdu ho probudit.“<verse eid="JHN 11:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 11:12" />„Spánek mu prospěje, Pane,“ řekli mu na to učedníci. <verse eid="JHN 11:12" /><verse number="13" style="v" sid="JHN 11:13" />Ježíš mluvil o jeho smrti, ale oni si mysleli, že mluví o obyčejném spánku.<verse eid="JHN 11:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 11:14" />Proto jim Ježíš řekl jasně: „Lazar zemřel. <verse eid="JHN 11:14" /><verse number="15" style="v" sid="JHN 11:15" />A kvůli vám jsem rád, že jsem tam nebyl, abyste uvěřili. Ale pojďme k němu.“<verse eid="JHN 11:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 11:16" />Tomáš zvaný Dvojče tehdy ostatním učedníkům řekl: „Pojďme také, ať zemřeme s ním.“<verse eid="JHN 11:16" /></para>
+  <para style="b" />
+  <para style="p">
+    <verse number="17" style="v" sid="JHN 11:17" />Ježíš dorazil čtyři dny po Lazarově pohřbu. <verse eid="JHN 11:17" /><verse number="18" style="v" sid="JHN 11:18" />Betanie byla blízko Jeruzaléma, asi patnáct honů,<note caller="-" style="f"><char style="fr" closed="false">11:18 </char><char style="ft" closed="false">necelé 3 km</char></note> <verse eid="JHN 11:18" /><verse number="19" style="v" sid="JHN 11:19" />a mnozí Židé přišli Martu a Marii utěšit ve smutku nad jejich bratrem. <verse eid="JHN 11:19" /><verse number="20" style="v" sid="JHN 11:20" />Jakmile Marta uslyšela, že přichází Ježíš, vyšla mu naproti, ale Marie zůstala doma.<verse eid="JHN 11:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="JHN 11:21" />„Pane, kdybys tu byl, můj bratr by nezemřel!“ řekla mu Marta. <verse eid="JHN 11:21" /><verse number="22" style="v" sid="JHN 11:22" />„I teď ale vím, že o cokoli Boha požádáš, to ti Bůh dá.“<verse eid="JHN 11:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 11:23" />„Tvůj bratr vstane,“ řekl jí Ježíš.<verse eid="JHN 11:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JHN 11:24" />„Vím, že vstane – při vzkříšení v poslední den,“ odpověděla Marta.<verse eid="JHN 11:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 11:25" />„Já jsem vzkříšení i život,“ řekl jí Ježíš. „Kdo věří ve mě, i kdyby zemřel, bude žít. <verse eid="JHN 11:25" /><verse number="26" style="v" sid="JHN 11:26" />A každý, kdo žije a věří ve mě, nezemře navěky. Věříš tomu?“<verse eid="JHN 11:26" /></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JHN 11:27" />„Ano, Pane,“ odpověděla. „Já jsem uvěřila, že ty jsi Mesiáš, Boží Syn, který má přijít na svět.“<verse eid="JHN 11:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JHN 11:28" />A když to řekla, odešla a tajně zavolala svou sestru Marii: „Mistr je tu a volá tě.“ <verse eid="JHN 11:28" /><verse number="29" style="v" sid="JHN 11:29" />Ta, jakmile to uslyšela, rychle vstala a šla k němu. <verse eid="JHN 11:29" /><verse number="30" style="v" sid="JHN 11:30" />(Ježíš ještě nepřišel do vesnice, ale byl na tom místě, kam mu vyšla naproti Marta.) <verse eid="JHN 11:30" /><verse number="31" style="v" sid="JHN 11:31" />Židé, kteří byli s Marií v domě a utěšovali ji, uviděli, že rychle vstala a šla ven, a tak se k ní přidali. Mysleli si: „Jde plakat k hrobu.“<verse eid="JHN 11:31" /></para>
+  <para style="p">
+    <verse number="32" style="v" sid="JHN 11:32" />Jakmile Marie přišla na místo, kde byl Ježíš, a spatřila ho, padla mu k nohám se slovy: „Pane, kdybys tu byl, můj bratr by nezemřel.“<verse eid="JHN 11:32" /></para>
+  <para style="p">
+    <verse number="33" style="v" sid="JHN 11:33" />Ježíš uviděl, jak pláče a jak pláčou Židé, kteří přišli s ní. Hluboce pohnut v duchu a rozrušen <verse eid="JHN 11:33" /><verse number="34" style="v" sid="JHN 11:34" />se zeptal: „Kam jste ho položili?“</para>
+  <para style="p" vid="JHN 11:34">„Pojď se podívat, Pane,“ řekli mu.<verse eid="JHN 11:34" /></para>
+  <para style="p">
+    <verse number="35" style="v" sid="JHN 11:35" />Ježíš se rozplakal.<verse eid="JHN 11:35" /></para>
+  <para style="p">
+    <verse number="36" style="v" sid="JHN 11:36" />„Podívejte, jak ho měl rád!“ řekli Židé. <verse eid="JHN 11:36" /><verse number="37" style="v" sid="JHN 11:37" />Někteří ale namítli: „Když otevřel oči slepého, nemohl se postarat, aby tenhle člověk nezemřel?“<verse eid="JHN 11:37" /></para>
+  <para style="p">
+    <verse number="38" style="v" sid="JHN 11:38" />V hlubokém rozrušení přišel Ježíš až k hrobu. Byla to jeskyně zavalená kamenem. <verse eid="JHN 11:38" /><verse number="39" style="v" sid="JHN 11:39" />„Odvalte ten kámen,“ řekl Ježíš.</para>
+  <para style="p" vid="JHN 11:39">„Pane, už zapáchá,“ namítla Marta, sestra mrtvého. „Vždyť je v hrobě čtvrtý den!“<verse eid="JHN 11:39" /></para>
+  <para style="p">
+    <verse number="40" style="v" sid="JHN 11:40" />„Neřekl jsem ti, že když budeš věřit, uvidíš Boží slávu?“ odpověděl jí Ježíš.<verse eid="JHN 11:40" /></para>
+  <para style="p">
+    <verse number="41" style="v" sid="JHN 11:41" />Když pak odstranili kámen od hrobu, Ježíš pozvedl oči a řekl: „Otče, děkuji ti, že jsi mě vyslyšel. <verse eid="JHN 11:41" /><verse number="42" style="v" sid="JHN 11:42" />Já vím, že mě vždycky slyšíš, ale říkám to kvůli zástupu, který stojí kolem, aby uvěřili, že jsi mě poslal.“<verse eid="JHN 11:42" /></para>
+  <para style="p">
+    <verse number="43" style="v" sid="JHN 11:43" />Jakmile to dořekl, hlasitě zvolal: „Lazare, pojď ven!“ <verse eid="JHN 11:43" /><verse number="44" style="v" sid="JHN 11:44" />A ten, který zemřel, vyšel ven. Ruce i nohy měl svázané plátny a tvář měl ovinutou rouškou.</para>
+  <para style="p" vid="JHN 11:44">„Rozvažte ho a nechte ho jít,“ řekl jim Ježíš.<verse eid="JHN 11:44" /></para>
+  <para style="s">Je lepší, aby zemřel</para>
+  <para style="m">
+    <verse number="45" style="v" sid="JHN 11:45" />Mnozí z těch Židů, kteří přišli k Marii a viděli, co Ježíš udělal, v něj tehdy uvěřili. <verse eid="JHN 11:45" /><verse number="46" style="v" sid="JHN 11:46" />Někteří však odešli k farizeům a pověděli jim, co Ježíš udělal.<verse eid="JHN 11:46" /></para>
+  <para style="p">
+    <verse number="47" style="v" sid="JHN 11:47" />Vrchní kněží a farizeové shromáždili Veleradu. „Co budeme dělat?“ říkali. „Ten člověk koná mnoho zázračných znamení! <verse eid="JHN 11:47" /><verse number="48" style="v" sid="JHN 11:48" />Když ho necháme, všichni v něj uvěří! Přijdou Římané a připraví nás o toto posvátné místo i o národ!“<verse eid="JHN 11:48" /></para>
+  <para style="p">
+    <verse number="49" style="v" sid="JHN 11:49" />Jeden z nich, Kaifáš, který byl toho roku veleknězem, jim řekl: „Vy nic nevíte! <verse eid="JHN 11:49" /><verse number="50" style="v" sid="JHN 11:50" />Nechápete, že je pro nás lepší, aby jeden člověk zemřel za lid, než aby celý tento národ zahynul?!“ <verse eid="JHN 11:50" /><verse number="51" style="v" sid="JHN 11:51" />(To však neřekl sám od sebe, ale protože byl toho roku veleknězem, prorokoval, že Ježíš má zemřít za tento národ. <verse eid="JHN 11:51" /><verse number="52" style="v" sid="JHN 11:52" />A nejen za tento národ, ale také aby shromáždil rozptýlené Boží děti v jedno.)<verse eid="JHN 11:52" /></para>
+  <para style="p">
+    <verse number="53" style="v" sid="JHN 11:53" />Od toho dne tedy byli rozhodnuti, že ho zabijí. <verse eid="JHN 11:53" /><verse number="54" style="v" sid="JHN 11:54" />Ježíš proto už nechodil mezi Židy veřejně, ale odešel odtud do kraje poblíž pouště, do města jménem Efraim, a tam pobýval s učedníky.<verse eid="JHN 11:54" /></para>
+  <para style="p">
+    <verse number="55" style="v" sid="JHN 11:55" />Blížily se židovské Velikonoce. Mnozí z toho kraje putovali na Velikonoce vzhůru do Jeruzaléma, aby se očistili. <verse eid="JHN 11:55" /><verse number="56" style="v" sid="JHN 11:56" />Hledali tam Ježíše, a když stáli v chrámu, povídali si mezi sebou: „Co myslíte? Že by nepřišel na svátek?“ <verse eid="JHN 11:56" /><verse number="57" style="v" sid="JHN 11:57" />Vrchní kněží a farizeové však vydali nařízení, že pokud se někdo dozví, kde je, musí to oznámit, aby ho mohli zatknout.<verse eid="JHN 11:57" /></para>
+  <chapter eid="JHN 11" />
+  <chapter number="12" style="c" sid="JHN 12" />
+  <para style="s">Poslední pomazání</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 12:1" />Šest dní před Velikonocemi přišel Ježíš do Betanie, kde bydlel Lazar, kterého Ježíš vzkřísil z mrtvých. <verse eid="JHN 12:1" /><verse number="2" style="v" sid="JHN 12:2" />Tam mu připravili večeři. Marta je obsluhovala a Lazar byl jedním z těch, kdo s ním stolovali. <verse eid="JHN 12:2" /><verse number="3" style="v" sid="JHN 12:3" />Marie tehdy vzala libru<note caller="-" style="f"><char style="fr" closed="false">12:3 </char><char style="ft" closed="false">asi 0,5 litru</char></note> velmi drahé masti z pravého nardu, pomazala Ježíšovy nohy a vytřela je svými vlasy. Dům se naplnil vůní té masti.<verse eid="JHN 12:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JHN 12:4" />Jeden z jeho učedníků, Jidáš Iškariotský, který ho měl zradit, řekl: <verse eid="JHN 12:4" /><verse number="5" style="v" sid="JHN 12:5" />„Proč se ta mast neprodala za tři sta denárů?<note caller="-" style="f"><char style="fr" closed="false">12:5 </char><char style="ft" closed="false">zhruba roční plat dělníka (<char style="xt"><ref loc="MAT 20:2">Mt 20:2</ref></char>)</char></note> Mohlo se to rozdat chudým!“ <verse eid="JHN 12:5" /><verse number="6" style="v" sid="JHN 12:6" />To však neřekl proto, že by měl starost o chudé, ale že byl zloděj. Měl totiž na starosti společnou pokladnu a z toho, co se do ní dávalo, si bral pro sebe.<verse eid="JHN 12:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 12:7" />Ježíš odpověděl: „Nech ji, tu mast schovávala pro den mého pohřbu. <verse eid="JHN 12:7" /><verse number="8" style="v" sid="JHN 12:8" />Chudé tu budete mít vždycky,<note caller="-" style="x"><char style="xo" closed="false">12:8 </char><char style="xt" closed="false"><ref loc="DEU 15:11">Dt 15:11</ref></char></note> ale mě vždycky mít nebudete.“<verse eid="JHN 12:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 12:9" />Veliké množství Židů se dozvědělo, že Ježíš je tam, a tak přišli – nejen kvůli němu, ale také aby viděli Lazara, kterého vzkřísil z mrtvých. <verse eid="JHN 12:9" /><verse number="10" style="v" sid="JHN 12:10" />Vrchní kněží se proto rozhodli zabít i Lazara. <verse eid="JHN 12:10" /><verse number="11" style="v" sid="JHN 12:11" />Mnozí Židé totiž kvůli němu odcházeli a uvěřili v Ježíše.<verse eid="JHN 12:11" /></para>
+  <para style="s">Král na oslíku</para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 12:12" />Nazítří onen veliký zástup lidí, kteří přišli na svátky, uslyšel, že Ježíš přichází do Jeruzaléma. <verse eid="JHN 12:12" /><verse number="13" style="v" sid="JHN 12:13" />Vzali palmové větve, vyšli mu naproti a volali:</para>
+  <para style="b" vid="JHN 12:13" />
+  <para style="q" vid="JHN 12:13">„Hosana!“<note caller="-" style="f"><char style="fr" closed="false">12:13 </char><char style="ft" closed="false">původně hebr. <char style="em">Zachraň nás</char>; výraz časem nabyl významu: <char style="em">Sláva spasiteli!</char></char></note></para>
+  <para style="q" vid="JHN 12:13">„Požehnaný, jenž přichází v Hospodinově jménu!“<note caller="-" style="x"><char style="xo" closed="false">12:13 </char><char style="xt" closed="false"><ref loc="PSA 118:25-26">Ž 118:25–26</ref></char></note></para>
+  <para style="q" vid="JHN 12:13">„Ať žije král Izraele!“<verse eid="JHN 12:13" /></para>
+  <para style="b" />
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 12:14" />Ježíš nalezl oslátko a vsedl na ně, jak je psáno:<verse eid="JHN 12:14" /></para>
+  <para style="b" />
+  <para style="q">
+    <verse number="15" style="v" sid="JHN 12:15" />„Neboj se, Dcero sionská!</para>
+  <para style="q2" vid="JHN 12:15">Hle, tvůj král přichází</para>
+  <para style="q3" vid="JHN 12:15">sedící na oslátku.“<note caller="-" style="x"><char style="xo" closed="false">12:15 </char><char style="xt" closed="false"><ref loc="ZEC 9:9">Za 9:9</ref></char></note><verse eid="JHN 12:15" /></para>
+  <para style="b" />
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 12:16" />Jeho učedníci tomu nejdříve nerozuměli, ale když byl Ježíš oslaven, tehdy si vzpomněli, že to o něm bylo psáno a že se to na něm vyplnilo. <verse eid="JHN 12:16" /><verse number="17" style="v" sid="JHN 12:17" />Zástup, který byl s ním, vydával svědectví, že zavolal Lazara z hrobu a vzkřísil ho z mrtvých. <verse eid="JHN 12:17" /><verse number="18" style="v" sid="JHN 12:18" />Když slyšeli, jaké zázračné znamení vykonal, vyšli mu lidé naproti v celých zástupech.<verse eid="JHN 12:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 12:19" />Farizeové tehdy jedni druhým říkali: „Vidíte? Nic nezmůžete! Celý svět jde za ním!“<verse eid="JHN 12:19" /></para>
+  <para style="s">Zrno pšenice</para>
+  <para style="m">
+    <verse number="20" style="v" sid="JHN 12:20" />Někteří z těch, kdo se přišli o tom svátku modlit, byli Řekové. <verse eid="JHN 12:20" /><verse number="21" style="v" sid="JHN 12:21" />Přišli za Filipem, který byl z galilejské Betsaidy, a prosili ho: „Pane, chtěli bychom vidět Ježíše.“ <verse eid="JHN 12:21" /><verse number="22" style="v" sid="JHN 12:22" />Filip o tom šel říci Ondřejovi a společně to pak řekli Ježíšovi.<verse eid="JHN 12:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 12:23" />Ježíš jim odpověděl: „Přišla chvíle, kdy má být Syn člověka oslaven. <verse eid="JHN 12:23" /><verse number="24" style="v" sid="JHN 12:24" />Amen, amen, říkám vám: Pokud zrno pšenice nepadne do země a nezemře, zůstane samo. Pokud však zemře, přinese hojnou úrodu. <verse eid="JHN 12:24" /><verse number="25" style="v" sid="JHN 12:25" />Kdo lpí na svém životě, ten jej ztratí. Kdo na svém životě v tomto světě nelpí, uchrání jej k věčnému životu. <verse eid="JHN 12:25" /><verse number="26" style="v" sid="JHN 12:26" />Kdo mi chce sloužit, ať mě následuje; tam, kde jsem já, bude i můj služebník. Kdokoli mi slouží, toho Otec poctí. <verse eid="JHN 12:26" /><verse number="27" style="v" sid="JHN 12:27" />Jsem teď sevřen úzkostí a co mám říci? ‚Otče, vysvoboď mě z této chvíle‘? Ale proto jsem přišel, pro tuto chvíli. <verse eid="JHN 12:27" /><verse number="28" style="v" sid="JHN 12:28" />Otče, oslav své jméno!“</para>
+  <para style="p" vid="JHN 12:28">Tehdy z nebe zazněl hlas: „Oslavil jsem a ještě oslavím.“ <verse eid="JHN 12:28" /><verse number="29" style="v" sid="JHN 12:29" />Zástup, který tam stál a slyšel to, řekl: „Zahřmělo.“ Někteří ale říkali: „Mluvil k němu anděl.“<verse eid="JHN 12:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 12:30" />Ježíš na to odpověděl: „Ten hlas nezazněl kvůli mně, ale kvůli vám. <verse eid="JHN 12:30" /><verse number="31" style="v" sid="JHN 12:31" />Nyní se koná soud nad tímto světem, nyní bude vládce tohoto světa vyvržen ven. <verse eid="JHN 12:31" /><verse number="32" style="v" sid="JHN 12:32" />A já, až budu vyzdvižen od země, potáhnu všechny k sobě.“ <verse eid="JHN 12:32" /><verse number="33" style="v" sid="JHN 12:33" />(Těmito slovy naznačil, jakou smrtí má zemřít.)<verse eid="JHN 12:33" /></para>
+  <para style="p">
+    <verse number="34" style="v" sid="JHN 12:34" />Zástup mu odpověděl: „My jsme slyšeli ze Zákona, že Mesiáš tu zůstane navěky. Proč tedy říkáš, že Syn člověka musí být vyzdvižen? Kdo je ten Syn člověka?“<verse eid="JHN 12:34" /></para>
+  <para style="p">
+    <verse number="35" style="v" sid="JHN 12:35" />Ježíš jim řekl: „Ještě na kratičko je světlo s vámi. Choďte, dokud máte světlo, ať vás nezachvátí tma. Kdo totiž chodí ve tmě, neví, kam jde. <verse eid="JHN 12:35" /><verse number="36" style="v" sid="JHN 12:36" />Dokud máte světlo, věřte ve světlo, abyste byli syny světla.“ Když to Ježíš pověděl, odešel a skryl se před nimi.<verse eid="JHN 12:36" /></para>
+  <para style="s">Kdo uvěřil naší zprávě?</para>
+  <para style="m">
+    <verse number="37" style="v" sid="JHN 12:37" />Ačkoli před nimi vykonal tolik znamení, přece v něj neuvěřili. <verse eid="JHN 12:37" /><verse number="38" style="v" sid="JHN 12:38" />Tak se naplnilo slovo proroka Izaiáše:</para>
+  <para style="b" vid="JHN 12:38" />
+  <para style="q" vid="JHN 12:38">„Kdo, Hospodine, uvěřil naší zprávě?</para>
+  <para style="q2" vid="JHN 12:38">Komu se Hospodinova paže zjevila?“<note caller="-" style="x"><char style="xo" closed="false">12:38 </char><char style="xt" closed="false"><ref loc="ISA 53:1">Iz 53:1</ref></char></note><verse eid="JHN 12:38" /></para>
+  <para style="b" />
+  <para style="p">
+    <verse number="39" style="v" sid="JHN 12:39" />Proto nemohli věřit, neboť Izaiáš ještě řekl:<verse eid="JHN 12:39" /></para>
+  <para style="b" />
+  <para style="q">
+    <verse number="40" style="v" sid="JHN 12:40" />„Oslepil jejich oči a zatvrdil jejich srdce,</para>
+  <para style="q2" vid="JHN 12:40">aby očima neuviděli a srdcem nepochopili</para>
+  <para style="q3" vid="JHN 12:40">a neobrátili se, abych je nemohl uzdravit.“<note caller="-" style="x"><char style="xo" closed="false">12:40 </char><char style="xt" closed="false"><ref loc="ISA 6:10">Iz 6:10</ref></char></note><verse eid="JHN 12:40" /></para>
+  <para style="b" />
+  <para style="p">
+    <verse number="41" style="v" sid="JHN 12:41" />To řekl Izaiáš, když zahlédl jeho slávu a mluvil o něm. <verse eid="JHN 12:41" /><verse number="42" style="v" sid="JHN 12:42" />Přesto však v něho uvěřili i mnozí z hodnostářů, ale kvůli farizeům ho nevyznávali, aby nebyli vyobcováni ze synagogy. <verse eid="JHN 12:42" /><verse number="43" style="v" sid="JHN 12:43" />Milovali totiž lidskou slávu více než slávu Boží.<verse eid="JHN 12:43" /></para>
+  <para style="p">
+    <verse number="44" style="v" sid="JHN 12:44" />Ježíš volal: „Kdo věří ve mne, věří ne ve mne, ale v Toho, který mě poslal. <verse eid="JHN 12:44" /><verse number="45" style="v" sid="JHN 12:45" />Kdo vidí mě, vidí Toho, který mě poslal. <verse eid="JHN 12:45" /><verse number="46" style="v" sid="JHN 12:46" />Já, světlo, jsem přišel na svět, aby žádný, kdo ve mne věří, nezůstal ve tmě. <verse eid="JHN 12:46" /><verse number="47" style="v" sid="JHN 12:47" />Slyší-li někdo má slova a neplní je, já ho nesoudím; nepřišel jsem totiž, abych soudil svět, ale abych svět spasil. <verse eid="JHN 12:47" /><verse number="48" style="v" sid="JHN 12:48" />Kdo mě odmítá a nepřijímá moje slova, má, kdo by ho soudil. V poslední den jej bude soudit slovo, které jsem mluvil. <verse eid="JHN 12:48" /><verse number="49" style="v" sid="JHN 12:49" />Nemluvil jsem totiž sám od sebe, ale Otec, který mě poslal, ten mi dal přikázání, co mám říkat a co mluvit. <verse eid="JHN 12:49" /><verse number="50" style="v" sid="JHN 12:50" />A vím, že jeho přikázání je věčný život. Co mluvím, tedy mluvím tak, jak mi řekl Otec.“<verse eid="JHN 12:50" /></para>
+  <chapter eid="JHN 12" />
+  <chapter number="13" style="c" sid="JHN 13" />
+  <para style="s">Dal jsem vám příklad</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 13:1" />Před Velikonočními svátky už Ježíš věděl, že přišla jeho chvíle, aby odešel z tohoto světa k Otci. Miloval své druhy na tomto světě, miloval je až do konce. <verse eid="JHN 13:1" /><verse number="2" style="v" sid="JHN 13:2" />Ještě před večeří ďábel vnukl do srdce Jidáše, syna Šimona Iškariotského, že ho má zradit.<verse eid="JHN 13:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="JHN 13:3" />Ježíš, vědom si toho, že mu Otec dal všechno do rukou a že vyšel od Boha a jde k Bohu, <verse eid="JHN 13:3" /><verse number="4" style="v" sid="JHN 13:4" />vstal od večeře, odložil plášť a opásal se osuškou. <verse eid="JHN 13:4" /><verse number="5" style="v" sid="JHN 13:5" />Nalil vodu do umyvadla a začal učedníkům umývat nohy a utírat je osuškou, jíž byl přepásán.<verse eid="JHN 13:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 13:6" />Když přistoupil k Šimonu Petrovi, ten mu řekl: „Pane, ty mi chceš mýt nohy?!“<verse eid="JHN 13:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 13:7" />„Teď ještě nechápeš, co dělám,“ odpověděl mu Ježíš, „ale později porozumíš.“<verse eid="JHN 13:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JHN 13:8" />„Ty mi přece nemůžeš mýt nohy!“ namítal Petr.</para>
+  <para style="p" vid="JHN 13:8">„Když tě neumyji, nebudeš mít se mnou nic společného,“ odpověděl Ježíš.<verse eid="JHN 13:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 13:9" />„Pane!“ zvolal Šimon Petr. „Nemyj mi jen nohy, ale i ruce a hlavu!“<verse eid="JHN 13:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JHN 13:10" />Ježíš mu řekl: „Kdo je vykoupán, potřebuje umýt jen nohy, neboť je celý čistý. I vy jste čistí, ale ne všichni.“ <verse eid="JHN 13:10" /><verse number="11" style="v" sid="JHN 13:11" />(Věděl totiž o svém zrádci, proto řekl: „Ne všichni jste čistí.“)<verse eid="JHN 13:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 13:12" />Když jim umyl nohy, znovu se oblékl, posadil se zpět za stůl a řekl jim: „Chápete, co jsem vám udělal? <verse eid="JHN 13:12" /><verse number="13" style="v" sid="JHN 13:13" />Nazýváte mě Mistrem a Pánem a máte pravdu, neboť jím jsem. <verse eid="JHN 13:13" /><verse number="14" style="v" sid="JHN 13:14" />Když jsem však já, váš Pán a Mistr, umyl nohy vám, máte i vy mýt nohy jeden druhému. <verse eid="JHN 13:14" /><verse number="15" style="v" sid="JHN 13:15" />Dal jsem vám příklad, abyste se chovali, jako jsem se já zachoval k vám. <verse eid="JHN 13:15" /><verse number="16" style="v" sid="JHN 13:16" />Amen, amen, říkám vám: Služebník není větší než jeho pán a posel není větší než ten, kdo ho poslal. <verse eid="JHN 13:16" /><verse number="17" style="v" sid="JHN 13:17" />Teď to víte; blaze vám, když se tím budete řídit.<verse eid="JHN 13:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JHN 13:18" />Nemluvím o vás všech. Já vím, které jsem vyvolil; ať se ale naplní Písmo: ‚Ten, který jí se mnou chléb, pozvedl patu proti mně.‘<note caller="-" style="x"><char style="xo" closed="false">13:18 </char><char style="xt" closed="false"><ref loc="PSA 41:10">Ž 41:10</ref></char></note> <verse eid="JHN 13:18" /><verse number="19" style="v" sid="JHN 13:19" />Říkám vám to už teď, předtím než se to stane, abyste, až se to stane, uvěřili, že já jsem. <verse eid="JHN 13:19" /><verse number="20" style="v" sid="JHN 13:20" />Amen, amen, říkám vám: Kdo přijímá mého posla, přijímá mě; a kdo přijímá mě, přijímá Toho, který mě poslal.“<verse eid="JHN 13:20" /></para>
+  <para style="s">Jeden z vás mě zradí</para>
+  <para style="m">
+    <verse number="21" style="v" sid="JHN 13:21" />Po těchto slovech Ježíš hluboce rozrušen prohlásil: „Amen, amen, říkám vám, že jeden z vás mě zradí.“<verse eid="JHN 13:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 13:22" />Učedníci se začali rozhlížet jeden po druhém, netušíce, o kom to mluví. <verse eid="JHN 13:22" /><verse number="23" style="v" sid="JHN 13:23" />Jeden z jeho učedníků, ten, kterého Ježíš miloval, ležel u stolu po Ježíšově boku. <verse eid="JHN 13:23" /><verse number="24" style="v" sid="JHN 13:24" />Šimon Petr mu naznačil, ať se zeptá, o kom to mluvil. <verse eid="JHN 13:24" /><verse number="25" style="v" sid="JHN 13:25" />Onen učedník ho tedy objal a zeptal se: „Pane, kdo to je?“<verse eid="JHN 13:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 13:26" />„Ten, komu podám namočené sousto,“ odpověděl Ježíš. Namočil sousto a podal je Jidášovi, synu Šimona Iškariotského. <verse eid="JHN 13:26" /><verse number="27" style="v" sid="JHN 13:27" />A hned po tom soustu vešel do Jidáše satan.</para>
+  <para style="p" vid="JHN 13:27">„Co děláš, dělej rychle,“ řekl mu Ježíš. <verse eid="JHN 13:27" /><verse number="28" style="v" sid="JHN 13:28" />Nikdo ze stolujících ale nerozuměl, proč mu to řekl. <verse eid="JHN 13:28" /><verse number="29" style="v" sid="JHN 13:29" />Jidáš měl na starosti pokladnu, a tak si někteří mysleli, že mu Ježíš řekl, ať nakoupí, co je potřeba na svátek, nebo ať dá nějaké peníze chudým.<verse eid="JHN 13:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 13:30" />Jidáš vzal to sousto a hned vyšel ven. Byla noc.<verse eid="JHN 13:30" /></para>
+  <para style="s">Nové přikázání</para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 13:31" />Po jeho odchodu Ježíš řekl: „Syn člověka je teď oslaven a Bůh je oslaven v něm. <verse eid="JHN 13:31" /><verse number="32" style="v" sid="JHN 13:32" />A protože je Bůh oslaven v něm,<note caller="-" style="f"><char style="fr" closed="false">13:32 </char><char style="ft" closed="false">První část verše v někt. rukopisech chybí.</char></note> Bůh ho také oslaví sám v sobě, a to hned. <verse eid="JHN 13:32" /><verse number="33" style="v" sid="JHN 13:33" />Moji drazí, ještě na kratičko jsem s vámi. Budete mě hledat, ale říkám vám, co jsem už řekl Židům: ‚Jdu tam, kam vy nemůžete.‘<note caller="-" style="x"><char style="xo" closed="false">13:33 </char><char style="xt" closed="false"><ref loc="JHN 7:34">J 7:34</ref>; <ref loc="JHN 8:21">8:21</ref></char></note><verse eid="JHN 13:33" /></para>
+  <para style="p">
+    <verse number="34" style="v" sid="JHN 13:34" />Dávám vám nové přikázání: Milujte jedni druhé. Milujte jedni druhé, jako jsem já miloval vás. <verse eid="JHN 13:34" /><verse number="35" style="v" sid="JHN 13:35" />Podle toho všichni poznají, že jste moji učedníci, když budete mít lásku jedni k druhým.“<verse eid="JHN 13:35" /></para>
+  <para style="p">
+    <verse number="36" style="v" sid="JHN 13:36" />Šimon Petr se ho zeptal: „Pane, kam jdeš?“</para>
+  <para style="p" vid="JHN 13:36">„Tam, kam jdu, teď za mnou nemůžeš,“ odpověděl mu Ježíš, „ale přijdeš za mnou později.“<verse eid="JHN 13:36" /></para>
+  <para style="p">
+    <verse number="37" style="v" sid="JHN 13:37" />„Pane, proč za tebou nemohu teď?“ ptal se Petr. „Položím za tebe život!“<verse eid="JHN 13:37" /></para>
+  <para style="p">
+    <verse number="38" style="v" sid="JHN 13:38" />„Položíš za mě život?“ opáčil Ježíš. „Amen, amen, říkám ti: Než zakokrhá kohout, třikrát mě zapřeš.“<verse eid="JHN 13:38" /></para>
+  <chapter eid="JHN 13" />
+  <chapter number="14" style="c" sid="JHN 14" />
+  <para style="s">Cesta, pravda a život</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 14:1" />„Nermuťte se v srdcích. Věříte v Boha, věřte i ve mne. <verse eid="JHN 14:1" /><verse number="2" style="v" sid="JHN 14:2" />V domě mého Otce je mnoho místností. Kdyby to tak nebylo, řekl bych vám to. Jdu, abych vám připravil místo. <verse eid="JHN 14:2" /><verse number="3" style="v" sid="JHN 14:3" />Až odejdu a připravím vám místo, zase přijdu a vezmu vás k sobě, abyste i vy byli tam, kde jsem já. <verse eid="JHN 14:3" /><verse number="4" style="v" sid="JHN 14:4" />Víte, kam jdu, a cestu znáte.“<verse eid="JHN 14:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JHN 14:5" />„Pane, nevíme, kam jdeš,“ přerušil ho Tomáš. „A jak můžeme znát cestu?“<verse eid="JHN 14:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 14:6" />„Já jsem ta cesta, pravda a život,“ odpověděl Ježíš. „Nikdo nepřichází k Otci než skrze mne. <verse eid="JHN 14:6" /><verse number="7" style="v" sid="JHN 14:7" />Kdybyste mě znali, znali byste i mého Otce.<note caller="-" style="f"><char style="fr" closed="false">14:7 </char><char style="ft" closed="false">Někt. rukopisy </char><char style="fqa" closed="false">Jestliže jste poznali mě, poznáte i mého Otce.</char></note> Od nynějška už ho znáte a viděli jste ho!“<verse eid="JHN 14:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JHN 14:8" />„Pane,“ řekl mu Filip, „stačí, když nám ukážeš Otce.“<verse eid="JHN 14:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 14:9" />„Filipe,“ odvětil Ježíš, „tak dlouho jsem s vámi a nepoznal jsi mě? Kdo viděl mě, viděl Otce. Jak můžeš říkat: ‚Ukaž nám Otce‘? <verse eid="JHN 14:9" /><verse number="10" style="v" sid="JHN 14:10" />Nevěříš, že já jsem v Otci a Otec ve mně? Slova, která vám říkám, neříkám sám od sebe. To Otec, který ve mně přebývá, on působí ty skutky. <verse eid="JHN 14:10" /><verse number="11" style="v" sid="JHN 14:11" />Věřte mi, že já jsem v Otci a Otec ve mně, už jen kvůli těm skutkům věřte.<verse eid="JHN 14:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 14:12" />Amen, amen, říkám vám: Kdo věří ve mne, bude dělat skutky, které dělám já. A bude dělat ještě větší skutky, neboť odcházím k Otci. <verse eid="JHN 14:12" /><verse number="13" style="v" sid="JHN 14:13" />O cokoli poprosíte v mém jménu, to udělám, aby byl Otec oslaven v Synu. <verse eid="JHN 14:13" /><verse number="14" style="v" sid="JHN 14:14" />Když mě budete o něco prosit v mém jménu, já to udělám.“<verse eid="JHN 14:14" /></para>
+  <para style="s">Jiný Utěšitel</para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 14:15" />„Jestliže mě milujete, zachovávejte má přikázání. <verse eid="JHN 14:15" /><verse number="16" style="v" sid="JHN 14:16" />Já pak požádám Otce a dá vám jiného Utěšitele, aby s vámi zůstal navěky, <verse eid="JHN 14:16" /><verse number="17" style="v" sid="JHN 14:17" />totiž Ducha pravdy, jehož svět nemůže přijmout, neboť ho nevidí a nezná. Vy ho však znáte, neboť žije u vás a bude ve vás. <verse eid="JHN 14:17" /><verse number="18" style="v" sid="JHN 14:18" />Nenechám vás jako sirotky, přijdu k vám. <verse eid="JHN 14:18" /><verse number="19" style="v" sid="JHN 14:19" />Ještě kratičko a svět mě neuvidí, ale vy mě uvidíte. Protože já žiji, budete žít i vy. <verse eid="JHN 14:19" /><verse number="20" style="v" sid="JHN 14:20" />V ten den poznáte, že já jsem ve svém Otci a vy ve mně a já ve vás. <verse eid="JHN 14:20" /><verse number="21" style="v" sid="JHN 14:21" />Kdo přijal má přikázání a zachovává je, ten mě miluje. A kdo mě miluje, bude milován mým Otcem a já ho budu milovat a dám se mu poznat.“<verse eid="JHN 14:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 14:22" />Juda (ne ten Iškariotský) mu řekl: „Pane, proč se chceš dát poznat nám, a ne světu?“<verse eid="JHN 14:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 14:23" />Ježíš mu odpověděl: „Kdo mě miluje, bude zachovávat mé slovo; můj Otec ho bude milovat a přijdeme k němu a zůstaneme u něj. <verse eid="JHN 14:23" /><verse number="24" style="v" sid="JHN 14:24" />Kdo mě nemiluje, nezachová moje slova. A slovo, které slyšíte, není mé, ale Toho, který mě poslal, Otcovo. <verse eid="JHN 14:24" /><verse number="25" style="v" sid="JHN 14:25" />To vše jsem vám říkal, dokud jsem žil u vás. <verse eid="JHN 14:25" /><verse number="26" style="v" sid="JHN 14:26" />Avšak Utěšitel, ten Duch svatý, kterého Otec pošle v mém jménu, ten vás naučí všemu a připomene vám všechno, co jsem vám řekl.<verse eid="JHN 14:26" /></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JHN 14:27" />Odkazuji vám pokoj, svůj pokoj vám dávám; já dávám jinak, než jak dává svět. Nermuťte se v srdcích a nemějte strach. <verse eid="JHN 14:27" /><verse number="28" style="v" sid="JHN 14:28" />Slyšeli jste mě říci: ‚Odcházím a zase k vám přijdu.‘<note caller="-" style="x"><char style="xo" closed="false">14:28 </char><char style="xt" closed="false"><ref loc="JHN 14:3">J 14:3</ref></char></note> Kdybyste mě milovali, byli byste rádi, že jdu k Otci, neboť můj Otec je větší než já. <verse eid="JHN 14:28" /><verse number="29" style="v" sid="JHN 14:29" />Řekl jsem vám to teď, předtím než se to stane, abyste, až se to stane, uvěřili.<verse eid="JHN 14:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 14:30" />Už s vámi nebudu dlouho mluvit, neboť přichází vládce tohoto světa. Nemá na mně nic, <verse eid="JHN 14:30" /><verse number="31" style="v" sid="JHN 14:31" />ale přichází, aby svět poznal, že miluji Otce a že jednám, jak mi Otec přikázal. Vstaňte, pojďme odsud.“<verse eid="JHN 14:31" /></para>
+  <chapter eid="JHN 14" />
+  <chapter number="15" style="c" sid="JHN 15" />
+  <para style="s">Réva a ratolesti</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 15:1" />„Já jsem ušlechtilá réva a můj Otec je vinař. <verse eid="JHN 15:1" /><verse number="2" style="v" sid="JHN 15:2" />Každou ratolest, která ve mně nenese ovoce, odřezává, a každou, která nese ovoce, čistí, aby nesla více ovoce. <verse eid="JHN 15:2" /><verse number="3" style="v" sid="JHN 15:3" />Vy jste již čistí díky slovu, které jsem k vám mluvil. <verse eid="JHN 15:3" /><verse number="4" style="v" sid="JHN 15:4" />Zůstaňte ve mně a já ve vás. Jako ratolest nemůže nést ovoce sama od sebe, pokud nezůstane ve kmeni, tak ani vy, pokud nezůstanete ve mně.<verse eid="JHN 15:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JHN 15:5" />Já jsem vinná réva a vy ratolesti. Kdo zůstává ve mně a já v něm, ten nese mnoho ovoce; beze mě nedokážete nic. <verse eid="JHN 15:5" /><verse number="6" style="v" sid="JHN 15:6" />Jestliže někdo nezůstane ve mně, bude odhozen pryč jako ratolest a uschne. Pak budou posbírány, hozeny na oheň a shoří. <verse eid="JHN 15:6" /><verse number="7" style="v" sid="JHN 15:7" />Jestliže zůstanete ve mně a má slova zůstanou ve vás, proste, o cokoli chcete, a stane se vám to. <verse eid="JHN 15:7" /><verse number="8" style="v" sid="JHN 15:8" />Když ponesete hojné ovoce, bude tím oslaven můj Otec a budete moji učedníci.<verse eid="JHN 15:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 15:9" />Jako Otec miloval mě, tak jsem i já miloval vás. Zůstaňte v mé lásce. <verse eid="JHN 15:9" /><verse number="10" style="v" sid="JHN 15:10" />Zachováte-li má přikázání, zůstanete v mé lásce, tak jako jsem já zachoval přikázání svého Otce a zůstávám v jeho lásce. <verse eid="JHN 15:10" /><verse number="11" style="v" sid="JHN 15:11" />Toto jsem vám pověděl, aby má radost byla ve vás a vaše radost aby byla dokonalá. <verse eid="JHN 15:11" /><verse number="12" style="v" sid="JHN 15:12" />Toto je mé přikázání: Milujte jedni druhé, jako jsem já miloval vás. <verse eid="JHN 15:12" /><verse number="13" style="v" sid="JHN 15:13" />Nikdo nemá větší lásku než ten, kdo položí život za své přátele.<verse eid="JHN 15:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 15:14" />Vy jste moji přátelé, děláte-li, co vám přikazuji. <verse eid="JHN 15:14" /><verse number="15" style="v" sid="JHN 15:15" />Nebudu vás už nazývat služebníky, neboť služebník neví, co dělá jeho pán. Vás jsem ale nazval přáteli, neboť jsem vám předal všechno, co jsem slyšel od svého Otce. <verse eid="JHN 15:15" /><verse number="16" style="v" sid="JHN 15:16" />Já jsem si vybral vás, ne vy mě. Ustanovil jsem vás, abyste šli a nesli ovoce a vaše ovoce aby zůstalo; aby vám Otec dal, o cokoli ho poprosíte v mém jménu. <verse eid="JHN 15:16" /><verse number="17" style="v" sid="JHN 15:17" />Toto vám přikazuji: Milujte jedni druhé.“<verse eid="JHN 15:17" /></para>
+  <para style="s">Svět vás bude nenávidět</para>
+  <para style="m">
+    <verse number="18" style="v" sid="JHN 15:18" />„Když vás bude svět nenávidět, vězte, že mě nenáviděl dříve než vás. <verse eid="JHN 15:18" /><verse number="19" style="v" sid="JHN 15:19" />Kdybyste patřili světu, svět by miloval, co je jeho. Vy však světu nepatříte, neboť jsem vás ze světa vyvolil, a proto vás svět nenávidí. <verse eid="JHN 15:19" /><verse number="20" style="v" sid="JHN 15:20" />Pamatujte na má slova: Služebník není větší než jeho pán.<note caller="-" style="x"><char style="xo" closed="false">15:20 </char><char style="xt" closed="false"><ref loc="JHN 13:16">J 13:16</ref></char></note> Jestliže pronásledovali mě, budou pronásledovat i vás; jestliže zachovali mé slovo, zachovají i vaše. <verse eid="JHN 15:20" /><verse number="21" style="v" sid="JHN 15:21" />To všechno vám ale udělají kvůli mému jménu, neboť neznají Toho, který mě poslal. <verse eid="JHN 15:21" /><verse number="22" style="v" sid="JHN 15:22" />Kdybych nepřišel a nemluvil k nim, neměli by hřích, teď ale pro svůj hřích nemají výmluvu. <verse eid="JHN 15:22" /><verse number="23" style="v" sid="JHN 15:23" />Kdo nenávidí mě, nenávidí i mého Otce. <verse eid="JHN 15:23" /><verse number="24" style="v" sid="JHN 15:24" />Kdybych mezi nimi nedělal skutky, které neudělal nikdo jiný, neměli by hřích. Teď ale viděli, a nenáviděli – jak mě, tak mého Otce. <verse eid="JHN 15:24" /><verse number="25" style="v" sid="JHN 15:25" />Ale to vše se děje, aby se naplnilo, co je psáno v jejich Zákoně: ‚Nenáviděli mě bez příčiny.‘<note caller="-" style="x"><char style="xo" closed="false">15:25 </char><char style="xt" closed="false"><ref loc="PSA 35:19">Ž 35:19</ref>; <ref loc="PSA 69:5">69:5</ref></char></note><verse eid="JHN 15:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 15:26" />Až přijde ten Utěšitel, kterého vám pošlu od Otce, totiž Duch pravdy, který vychází z Otce, ten o mně bude vydávat svědectví. <verse eid="JHN 15:26" /><verse number="27" style="v" sid="JHN 15:27" />A vy také vydávejte svědectví, protože jste od počátku se mnou.<verse eid="JHN 15:27" /></para>
+  <chapter eid="JHN 15" />
+  <chapter number="16" style="c" sid="JHN 16" />
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 16:1" />Toto jsem vám pověděl, abyste se nenechali svést. <verse eid="JHN 16:1" /><verse number="2" style="v" sid="JHN 16:2" />Vyobcují vás ze shromáždění. Ano, přichází doba, kdy každý, kdo vás bude zabíjet, si bude myslet, že tím slouží Bohu. <verse eid="JHN 16:2" /><verse number="3" style="v" sid="JHN 16:3" />Budou to dělat, protože nepoznali Otce ani mě. <verse eid="JHN 16:3" /><verse number="4" style="v" sid="JHN 16:4" />Předpověděl jsem vám to, abyste si v té době vzpomněli, že jsem vám to řekl. Zpočátku jsem vám to neříkal, protože jsem byl s vámi.“<verse eid="JHN 16:4" /></para>
+  <para style="s">Duch pravdy</para>
+  <para style="m">
+    <verse number="5" style="v" sid="JHN 16:5" />„Teď odcházím k Tomu, který mě poslal, a nikdo z vás se mě neptá: ‚Kam jdeš?‘ <verse eid="JHN 16:5" /><verse number="6" style="v" sid="JHN 16:6" />Kvůli tomu, co jsem vám řekl, naplnil vaše srdce zármutek. <verse eid="JHN 16:6" /><verse number="7" style="v" sid="JHN 16:7" />Říkám vám ale pravdu: Je pro vás lepší, abych odešel. Když neodejdu, nepřijde k vám Utěšitel; když ale odejdu, pošlu ho k vám. <verse eid="JHN 16:7" /><verse number="8" style="v" sid="JHN 16:8" />Až přijde, odhalí světu, v čem je hřích, spravedlnost a soud. <verse eid="JHN 16:8" /><verse number="9" style="v" sid="JHN 16:9" />Hřích, že nevěří ve mne; <verse eid="JHN 16:9" /><verse number="10" style="v" sid="JHN 16:10" />spravedlnost, že jdu k Otci a už mě neuvidíte; <verse eid="JHN 16:10" /><verse number="11" style="v" sid="JHN 16:11" />a soud, že vládce tohoto světa je již odsouzen.<verse eid="JHN 16:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 16:12" />Ještě vám mám mnoho co říci, ale teď to nemůžete unést. <verse eid="JHN 16:12" /><verse number="13" style="v" sid="JHN 16:13" />Až ale přijde on, Duch pravdy, uvede vás do veškeré pravdy. Nebude totiž mluvit sám od sebe, ale řekne vše, co uslyší – oznámí vám i věci budoucí. <verse eid="JHN 16:13" /><verse number="14" style="v" sid="JHN 16:14" />On mě oslaví, neboť vám oznámí, co přijme ode mě. <verse eid="JHN 16:14" /><verse number="15" style="v" sid="JHN 16:15" />Všechno, co má Otec, je mé. Proto jsem řekl, že vám oznámí, co přijme ode mě.<verse eid="JHN 16:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 16:16" />Za okamžik mě už neuvidíte a za další okamžik mě znovu spatříte.“<verse eid="JHN 16:16" /></para>
+  <para style="s">Úzkost se obrátí v radost</para>
+  <para style="m">
+    <verse number="17" style="v" sid="JHN 16:17" />Někteří z jeho učedníků se začali jeden druhého ptát: „Co tím chce říci? Prý: ‚Za okamžik mě už neuvidíte a za další okamžik mě spatříte‘ a: ‚Odcházím k Otci.‘ <verse eid="JHN 16:17" /><verse number="18" style="v" sid="JHN 16:18" />Co tím myslí, když říká: ‚Za okamžik‘? Nevíme, o čem mluví.“<verse eid="JHN 16:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 16:19" />Ježíš poznal, že se ho chtěli zeptat, a tak jim řekl: „Dohadujete se o tom, že jsem řekl: ‚Za okamžik mě už neuvidíte a za další okamžik mě spatříte‘? <verse eid="JHN 16:19" /><verse number="20" style="v" sid="JHN 16:20" />Amen, amen, říkám vám, že budete plakat a naříkat, ale svět se bude radovat. Budete se trápit, ale vaše úzkost se obrátí v radost. <verse eid="JHN 16:20" /><verse number="21" style="v" sid="JHN 16:21" />Když žena rodí, zakouší úzkost, protože přišla její chvilka. Poté, co porodí děťátko, ale na trápení zapomene pro radost, že se na svět narodil člověk. <verse eid="JHN 16:21" /><verse number="22" style="v" sid="JHN 16:22" />I vy teď zakoušíte úzkost, ale až se znovu uvidíme, vaše srdce bude jásat radostí a tu radost vám nikdo nevezme.<verse eid="JHN 16:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 16:23" />V ten den se mě nebudete ptát na nic. Amen, amen, říkám vám, že o cokoli poprosíte Otce v mém jménu, to vám dá. <verse eid="JHN 16:23" /><verse number="24" style="v" sid="JHN 16:24" />Až dosud jste v mém jménu o nic neprosili. Proste a dostanete, a vaše radost bude dokonalá. <verse eid="JHN 16:24" /><verse number="25" style="v" sid="JHN 16:25" />Dosud jsem k vám mluvil obrazně. Přichází chvíle, kdy k vám už nebudu o Otci mluvit obrazně, ale otevřeně.<verse eid="JHN 16:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 16:26" />V ten den budete prosit v mém jménu a neříkám, že budu prosit Otce za vás. <verse eid="JHN 16:26" /><verse number="27" style="v" sid="JHN 16:27" />Sám Otec vás totiž miluje, protože jste milovali mě a uvěřili jste, že jsem vyšel od Boha. <verse eid="JHN 16:27" /><verse number="28" style="v" sid="JHN 16:28" />Vyšel jsem od Otce a přišel jsem na svět. Teď zase opouštím svět a jdu k Otci.“<verse eid="JHN 16:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="JHN 16:29" />Jeho učedníci mu řekli: „Hle, teď už nemluvíš obrazně, ale otevřeně! <verse eid="JHN 16:29" /><verse number="30" style="v" sid="JHN 16:30" />Teď víme, že víš všechno a není třeba, aby se tě někdo vyptával. Teď věříme, že jsi vyšel od Boha.“<verse eid="JHN 16:30" /></para>
+  <para style="p">
+    <verse number="31" style="v" sid="JHN 16:31" />„Teď věříte?“ opáčil Ježíš. <verse eid="JHN 16:31" /><verse number="32" style="v" sid="JHN 16:32" />„Hle, přichází chvíle, a už přišla, kdy se rozprchnete každý svou cestou. Necháte mě samotného, ale nejsem sám, protože je se mnou Otec. <verse eid="JHN 16:32" /><verse number="33" style="v" sid="JHN 16:33" />Toto vše jsem vám pověděl, abyste ve mně nalezli pokoj. Na světě zakoušíte soužení, ale buďte stateční – já jsem přemohl svět.“<verse eid="JHN 16:33" /></para>
+  <chapter eid="JHN 16" />
+  <chapter number="17" style="c" sid="JHN 17" />
+  <para style="s">Ať jsou jedno</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 17:1" />Když to Ježíš pověděl, zvedl oči k nebi a řekl: „Otče, přišla ta chvíle – oslav svého Syna, aby Syn oslavil tebe. <verse eid="JHN 17:1" /><verse number="2" style="v" sid="JHN 17:2" />Dal jsi mu právo na všechny lidi, aby všem, které jsi mu svěřil, daroval věčný život. <verse eid="JHN 17:2" /><verse number="3" style="v" sid="JHN 17:3" />A to je ten věčný život – aby poznali tebe, jediného pravého Boha, a toho, jehož jsi poslal, Ježíše Krista. <verse eid="JHN 17:3" /><verse number="4" style="v" sid="JHN 17:4" />Zjevil jsem tvou slávu na zemi; dílo, jež jsi mi svěřil, jsem vykonal. <verse eid="JHN 17:4" /><verse number="5" style="v" sid="JHN 17:5" />Nyní mě, Otče, uveď k sobě do slávy, kterou jsem u tebe měl předtím, než byl svět.<verse eid="JHN 17:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 17:6" />Zjevil jsem tvé jméno lidem, které jsi mi dal ze světa. Byli tvoji a dal jsi je mně. Zachovali tvé slovo <verse eid="JHN 17:6" /><verse number="7" style="v" sid="JHN 17:7" />a nyní poznali, že všechno, co jsi mi dal, pochází od tebe. <verse eid="JHN 17:7" /><verse number="8" style="v" sid="JHN 17:8" />Slova, jež jsi mi svěřil, jsem předal jim a oni je přijali. Skutečně poznali, že jsem vyšel od tebe, a uvěřili, že jsi mě poslal.<verse eid="JHN 17:8" /></para>
+  <para style="p">
+    <verse number="9" style="v" sid="JHN 17:9" />Prosím za ně. Neprosím za svět, ale za ty, jež jsi mi dal, neboť jsou tvoji. <verse eid="JHN 17:9" /><verse number="10" style="v" sid="JHN 17:10" />Všechno mé je tvé, a co je tvé, je mé. Má sláva je v nich. <verse eid="JHN 17:10" /><verse number="11" style="v" sid="JHN 17:11" />Já už nejsem na světě, ale oni jsou na světě a já jdu k tobě. Svatý Otče, zachovej je ve svém jménu, které jsi mi dal, aby byli jedno jako my. <verse eid="JHN 17:11" /><verse number="12" style="v" sid="JHN 17:12" />Dokud jsem byl s nimi, zachovával jsem je ve tvém jménu, které jsi mi dal. Chránil jsem je a nikdo z nich nezahynul, kromě onoho syna zatracení, aby se naplnilo Písmo.<note caller="-" style="x"><char style="xo" closed="false">17:12 </char><char style="xt" closed="false"><ref loc="JHN 13:18">J 13:18</ref></char></note> <verse eid="JHN 17:12" /><verse number="13" style="v" sid="JHN 17:13" />Teď ale jdu k tobě a toto říkám na světě, aby má radost v nich byla dokonalá. <verse eid="JHN 17:13" /><verse number="14" style="v" sid="JHN 17:14" />Dal jsem jim tvé slovo a svět je začal nenávidět, protože nepatří světu, jako ani já nepatřím světu. <verse eid="JHN 17:14" /><verse number="15" style="v" sid="JHN 17:15" />Neprosím, abys je vzal ze světa, ale abys je uchránil před Zlým. <verse eid="JHN 17:15" /><verse number="16" style="v" sid="JHN 17:16" />Nepatří světu, jako ani já nepatřím světu. <verse eid="JHN 17:16" /><verse number="17" style="v" sid="JHN 17:17" />Posvěť je pravdou; tvé slovo je pravda. <verse eid="JHN 17:17" /><verse number="18" style="v" sid="JHN 17:18" />Jako jsi poslal na svět mě, tak jsem já poslal na svět je. <verse eid="JHN 17:18" /><verse number="19" style="v" sid="JHN 17:19" />Posvěcuji sám sebe za ně, aby i oni byli posvěceni pravdou.<verse eid="JHN 17:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="JHN 17:20" />Neprosím ale jen za ně. Prosím i za ty, kteří ve mě uvěří skrze jejich slovo. <verse eid="JHN 17:20" /><verse number="21" style="v" sid="JHN 17:21" />Ať jsou všichni jedno, jako ty, Otče, ve mně a já v tobě; ať jsou i oni jedno v nás, aby svět věřil, že jsi mě poslal. <verse eid="JHN 17:21" /><verse number="22" style="v" sid="JHN 17:22" />Dal jsem jim slávu, kterou jsi dal mně, aby byli jedno, jako my jsme jedno. <verse eid="JHN 17:22" /><verse number="23" style="v" sid="JHN 17:23" />Já v nich a ty ve mně, aby byli dokonale jedno a aby svět poznal, že jsi mě poslal a že jsi je miloval, jako jsi miloval mě.<verse eid="JHN 17:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JHN 17:24" />Otče, chci, aby ti, jež jsi mi dal, byli se mnou tam, kde jsem já, aby viděli slávu, kterou jsi mi dal, neboť jsi mě miloval před stvořením světa. <verse eid="JHN 17:24" /><verse number="25" style="v" sid="JHN 17:25" />Spravedlivý Otče, svět tě nezná, ale já tě znám. Tihle poznali, že jsi mě poslal, <verse eid="JHN 17:25" /><verse number="26" style="v" sid="JHN 17:26" />a já jsem jim dal poznat tvé jméno a ještě dám, aby láska, kterou jsi mě miloval, byla v nich a já v nich.“<verse eid="JHN 17:26" /></para>
+  <chapter eid="JHN 17" />
+  <chapter number="18" style="c" sid="JHN 18" />
+  <para style="s">Zatčení v zahradě</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 18:1" />Když to Ježíš dořekl, odešel se svými učedníky za potok Kedron, kde byla zahrada; do té se svými učedníky vešel. <verse eid="JHN 18:1" /><verse number="2" style="v" sid="JHN 18:2" />To místo však znal i jeho zrádce Jidáš, protože se tam Ježíš s učedníky často scházel. <verse eid="JHN 18:2" /><verse number="3" style="v" sid="JHN 18:3" />Jidáš vzal s sebou oddíl vojáků a chrámovou stráž od vrchních kněží a farizeů a přišli tam s lucernami, pochodněmi a zbraněmi.<verse eid="JHN 18:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JHN 18:4" />Ježíš, vědom si všeho, co jej čekalo, jim vyšel vstříc se slovy: „Koho hledáte?“<verse eid="JHN 18:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JHN 18:5" />„Ježíše Nazaretského!“ odpověděli.</para>
+  <para style="p" vid="JHN 18:5">„To jsem já,“ řekl jim (a jeho zrádce Jidáš stál mezi nimi). <verse eid="JHN 18:5" /><verse number="6" style="v" sid="JHN 18:6" />Jakmile jim Ježíš řekl: „To jsem já,“ ucouvli a padli k zemi.<verse eid="JHN 18:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 18:7" />„Koho hledáte?“ zeptal se jich znovu.</para>
+  <para style="p" vid="JHN 18:7">„Ježíše Nazaretského!“ opakovali.<verse eid="JHN 18:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JHN 18:8" />„Už jsem vám řekl, že to jsem já,“ odpověděl Ježíš. „Když hledáte mě, nechte ostatní odejít.“ <verse eid="JHN 18:8" /><verse number="9" style="v" sid="JHN 18:9" />(To řekl, aby splnil své slovo: „Z těch, které jsi mi dal, jsem neztratil nikoho.“)<note caller="-" style="x"><char style="xo" closed="false">18:9 </char><char style="xt" closed="false"><ref loc="JHN 6:39">J 6:39</ref>; <ref loc="JHN 17:12">17:12</ref></char></note><verse eid="JHN 18:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JHN 18:10" />Tehdy Šimon Petr vytasil meč, který měl s sebou, zasáhl veleknězova sluhu a usekl mu pravé ucho. Ten sluha se jmenoval Malchus. <verse eid="JHN 18:10" /><verse number="11" style="v" sid="JHN 18:11" />„Vrať ten meč do pochvy,“ řekl Ježíš Petrovi. „Nemám snad pít kalich, který mi dal Otec?“<verse eid="JHN 18:11" /></para>
+  <para style="s">Před Annášem</para>
+  <para style="m">
+    <verse number="12" style="v" sid="JHN 18:12" />Oddíl s velitelem a s židovskou stráží tehdy Ježíše zatkli a spoutali. <verse eid="JHN 18:12" /><verse number="13" style="v" sid="JHN 18:13" />Přivedli ho nejdříve k Annášovi. Byl totiž tchánem Kaifáše, který byl toho roku veleknězem. <verse eid="JHN 18:13" /><verse number="14" style="v" sid="JHN 18:14" />(To byl ten Kaifáš, který židovským představeným poradil, že je lepší, aby jeden člověk zemřel za lid.)<note caller="-" style="x"><char style="xo" closed="false">18:14 </char><char style="xt" closed="false"><ref loc="JHN 11:49-50">J 11:49–50</ref></char></note><verse eid="JHN 18:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="JHN 18:15" />Petr s dalším učedníkem šli za Ježíšem. Onen učedník se znal s veleknězem, a tak mohl jít za Ježíšem do veleknězova dvora. <verse eid="JHN 18:15" /><verse number="16" style="v" sid="JHN 18:16" />Petr ale zůstal venku u dveří. Onen druhý učedník, který se znal s veleknězem, tedy vyšel, promluvil s vrátnou a uvedl Petra dovnitř. <verse eid="JHN 18:16" /><verse number="17" style="v" sid="JHN 18:17" />Vrátná se Petra zeptala: „Nepatříš také k jeho učedníkům?“</para>
+  <para style="p" vid="JHN 18:17">„Nepatřím,“ řekl.<verse eid="JHN 18:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JHN 18:18" />Protože bylo chladno, otroci a strážní rozdělali oheň. Stáli okolo a ohřívali se. Petr tam stál a ohříval se s nimi.<verse eid="JHN 18:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 18:19" />Velekněz Ježíše vyslýchal ohledně jeho učedníků a jeho učení. <verse eid="JHN 18:19" /><verse number="20" style="v" sid="JHN 18:20" />Ježíš mu odpověděl: „Mluvil jsem ke světu veřejně. Vždycky jsem učil v synagogách nebo v chrámě, kde se scházejí všichni Židé; nic jsem neříkal potají. <verse eid="JHN 18:20" /><verse number="21" style="v" sid="JHN 18:21" />Proč se ptáš mě? Zeptej se těch, kdo mě slyšeli mluvit. Ti vědí, co jsem říkal.“<verse eid="JHN 18:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 18:22" />Když to řekl, jeden z kolemstojících strážných udeřil Ježíše do tváře: „Takhle se odpovídá veleknězi?“<verse eid="JHN 18:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 18:23" />„Jestli jsem řekl něco špatného, dokaž to,“ odpověděl mu Ježíš. „Jestli ne, tak proč mě biješ?“<verse eid="JHN 18:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JHN 18:24" />Annáš ho tedy poslal v poutech k veleknězi Kaifášovi.<verse eid="JHN 18:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 18:25" />Šimon Petr zatím stál u ohně a ohříval se. Zeptali se ho: „Nepatříš snad k jeho učedníkům?“</para>
+  <para style="p" vid="JHN 18:25">„Nepatřím,“ zapřel Petr.<verse eid="JHN 18:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 18:26" />Jeden z veleknězových sluhů, příbuzný toho, jemuž Petr usekl ucho, na to řekl: „Copak jsem tě s ním neviděl tam v zahradě?“<verse eid="JHN 18:26" /></para>
+  <para style="p">
+    <verse number="27" style="v" sid="JHN 18:27" />Petr ho však znovu zapřel. Vtom zakokrhal kohout.<verse eid="JHN 18:27" /></para>
+  <para style="s">Před Pilátem</para>
+  <para style="m">
+    <verse number="28" style="v" sid="JHN 18:28" />Ježíše zatím vedli od Kaifáše do místodržitelského paláce. Právě svítalo. Sami ovšem do paláce nevešli, aby se neposkvrnili před Hodem beránka, <verse eid="JHN 18:28" /><verse number="29" style="v" sid="JHN 18:29" />a tak Pilát vyšel k nim. „Z čeho tohoto muže viníte?“ ptal se.<verse eid="JHN 18:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 18:30" />„Kdyby to nebyl zločinec, nevodili bychom ho k tobě,“ odpověděli.<verse eid="JHN 18:30" /></para>
+  <para style="p">
+    <verse number="31" style="v" sid="JHN 18:31" />„Nechte si ho,“ řekl jim Pilát. „Suďte ho podle vlastního zákona.“</para>
+  <para style="p" vid="JHN 18:31">„My nesmíme nikoho popravit,“ odpověděli židovští představení. <verse eid="JHN 18:31" /><verse number="32" style="v" sid="JHN 18:32" />(Tak se naplnila Ježíšova slova, jimiž naznačoval, jakou smrtí má zemřít.)<note caller="-" style="x"><char style="xo" closed="false">18:32 </char><char style="xt" closed="false"><ref loc="JHN 12:32-33">J 12:32–33</ref></char></note><verse eid="JHN 18:32" /></para>
+  <para style="p">
+    <verse number="33" style="v" sid="JHN 18:33" />Pilát se vrátil do paláce a zavolal si Ježíše. „Tak ty jsi židovský král?“ zeptal se ho.<verse eid="JHN 18:33" /></para>
+  <para style="p">
+    <verse number="34" style="v" sid="JHN 18:34" />Ježíš odpověděl: „Říkáš to sám od sebe, nebo ti to o mně řekli?“<verse eid="JHN 18:34" /></para>
+  <para style="p">
+    <verse number="35" style="v" sid="JHN 18:35" />„Jsem snad Žid?“ řekl Pilát. „Tvůj národ a vrchní kněží mi tě vydali. Co jsi udělal?“<verse eid="JHN 18:35" /></para>
+  <para style="p">
+    <verse number="36" style="v" sid="JHN 18:36" />„Mé království není z tohoto světa,“ odpověděl Ježíš. „Kdyby mé království bylo z tohoto světa, moji služebníci by bojovali, abych nebyl vydán židovským vůdcům. Mé království ale není odsud.“<verse eid="JHN 18:36" /></para>
+  <para style="p">
+    <verse number="37" style="v" sid="JHN 18:37" />„Takže jsi král?“ zeptal se ho Pilát.</para>
+  <para style="p" vid="JHN 18:37">„Sám říkáš, že jsem král,“ odpověděl Ježíš. „Narodil jsem se a přišel jsem na svět, abych vydal svědectví pravdě. Každý, kdo patří pravdě, mě poslouchá.“<verse eid="JHN 18:37" /></para>
+  <para style="p">
+    <verse number="38" style="v" sid="JHN 18:38" />„Co je pravda?“ odtušil Pilát.</para>
+  <para style="p" vid="JHN 18:38">Po těch slovech vyšel znovu ven k Židům. „Podle mě je nevinný,“ řekl jim. <verse eid="JHN 18:38" /><verse number="39" style="v" sid="JHN 18:39" />„Jak je tu zvykem, měl bych na Velikonoce propustit jednoho vězně. Chcete, abych propustil židovského krále?“<verse eid="JHN 18:39" /></para>
+  <para style="p">
+    <verse number="40" style="v" sid="JHN 18:40" />Tehdy začali křičet: „Toho ne! Pusť Barabáše!“ (A ten Barabáš byl zločinec.)<verse eid="JHN 18:40" /></para>
+  <chapter eid="JHN 18" />
+  <chapter number="19" style="c" sid="JHN 19" />
+  <para style="s">Hle, člověk!</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 19:1" />Pilát tehdy Ježíše vzal a nechal ho zbičovat. <verse eid="JHN 19:1" /><verse number="2" style="v" sid="JHN 19:2" />Vojáci upletli trnovou korunu a narazili mu ji na hlavu. Navlékli mu purpurový plášť <verse eid="JHN 19:2" /><verse number="3" style="v" sid="JHN 19:3" />a s voláním: „Ať žije židovský král!“ jej tloukli holemi.<verse eid="JHN 19:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JHN 19:4" />Pilát pak znovu vyšel ven. „Hle, vedu ho ven k vám,“ řekl jim. „Vězte, že podle mě je nevinný.“<verse eid="JHN 19:4" /></para>
+  <para style="p">
+    <verse number="5" style="v" sid="JHN 19:5" />Ježíš vyšel ven s trnovou korunou a v purpurovém plášti. „Hle, člověk!“ řekl jim Pilát.<verse eid="JHN 19:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 19:6" />„Ukřižovat, ukřižovat!“ vykřikli vrchní kněží a strážní, jakmile ho uviděli.</para>
+  <para style="p" vid="JHN 19:6">„Ukřižujte si ho sami,“ řekl jim Pilát. „Podle mě je nevinný.“<verse eid="JHN 19:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 19:7" />Židé mu odpověděli: „My máme zákon a podle našeho zákona musí zemřít, protože ze sebe dělal Božího Syna.“<note caller="-" style="x"><char style="xo" closed="false">19:7 </char><char style="xt" closed="false"><ref loc="LEV 24:16">Lv 24:16</ref></char></note><verse eid="JHN 19:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JHN 19:8" />Když Pilát uslyšel ta slova, dostal ještě větší strach. <verse eid="JHN 19:8" /><verse number="9" style="v" sid="JHN 19:9" />Vrátil se zpět do paláce a ptal se Ježíše: „Odkud jsi?“</para>
+  <para style="p" vid="JHN 19:9">Ježíš neodpovídal.<verse eid="JHN 19:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JHN 19:10" />„Nemluvíš se mnou?“ naléhal Pilát. „Nevíš, že mám moc tě ukřižovat, anebo tě propustit?“<verse eid="JHN 19:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 19:11" />Tehdy Ježíš odpověděl: „Neměl bys nade mnou žádnou moc, kdyby ti nebyla dána shůry. Ten, kdo mě tobě vydal, má proto větší hřích.“<verse eid="JHN 19:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 19:12" />Pilát se ho pak znovu pokoušel propustit, ale Židé křičeli: „Jestli ho propustíš, nejsi císařův přítel! Kdokoli se dělá králem, protiví se císaři!“<verse eid="JHN 19:12" /></para>
+  <para style="p">
+    <verse number="13" style="v" sid="JHN 19:13" />Když Pilát uslyšel ta slova, vyvedl Ježíše ven a zasedl k soudu na místě zvaném Dlažba, hebrejsky Gabata. <verse eid="JHN 19:13" /><verse number="14" style="v" sid="JHN 19:14" />Bylo to v den příprav před svátkem Velikonoc, kolem poledne. „Hle, váš král,“ řekl Pilát Židům.<verse eid="JHN 19:14" /></para>
+  <para style="p">
+    <verse number="15" style="v" sid="JHN 19:15" />Ti však začali křičet: „Pryč s ním! Pryč s ním! Ukřižuj ho!“</para>
+  <para style="p" vid="JHN 19:15">„Mám ukřižovat vašeho krále?“ ptal se Pilát.</para>
+  <para style="p" vid="JHN 19:15">„Nemáme krále kromě císaře!“ odpověděli vrchní kněží.<verse eid="JHN 19:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 19:16" />Tehdy jim Ježíše vydal k ukřižování.</para>
+  <para style="s" vid="JHN 19:16">Golgota</para>
+  <para style="m" vid="JHN 19:16">Chopili se ho vojáci. <verse eid="JHN 19:16" /><verse number="17" style="v" sid="JHN 19:17" />a on se svým křížem na ramenou vyšel k místu jménem Lebka, hebrejsky zvané Golgota. <verse eid="JHN 19:17" /><verse number="18" style="v" sid="JHN 19:18" />Tam ho ukřižovali a s ním dva jiné z obou stran a Ježíše uprostřed.<verse eid="JHN 19:18" /></para>
+  <para style="p">
+    <verse number="19" style="v" sid="JHN 19:19" />Pilát dal napsat a připevnit na kříž nápis tohoto znění:</para>
+  <para style="b" vid="JHN 19:19" />
+  <para style="p" vid="JHN 19:19">Ježíš nazaretský, židovský král.<verse eid="JHN 19:19" /></para>
+  <para style="b" />
+  <para style="p">
+    <verse number="20" style="v" sid="JHN 19:20" />Ten nápis četlo mnoho Židů, neboť místo, kde byl Ježíš ukřižován, leželo poblíž města. A bylo to napsáno hebrejsky, řecky a latinsky.<verse eid="JHN 19:20" /></para>
+  <para style="p">
+    <verse number="21" style="v" sid="JHN 19:21" />Židovští vrchní kněží Pilátovi namítali: „Nepiš ‚Židovský král‘, ale ‚Tento říkal: Jsem židovský král.‘“<verse eid="JHN 19:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 19:22" />„Co jsem napsal, to jsem napsal,“ odpověděl Pilát.<verse eid="JHN 19:22" /></para>
+  <para style="p">
+    <verse number="23" style="v" sid="JHN 19:23" />Když vojáci Ježíše ukřižovali, vzali jeho šaty a rozpárali je na čtyři díly, pro každého vojáka jeden. Vzali mu i košili, a když zjistili, že je beze švů, odshora dolů utkaná vcelku, <verse eid="JHN 19:23" /><verse number="24" style="v" sid="JHN 19:24" />řekli si spolu: „Netrhejme ji, raději losujme, komu připadne.“ Když to ti vojáci udělali, naplnilo se Písmo, jež říká:</para>
+  <para style="b" vid="JHN 19:24" />
+  <para style="q" vid="JHN 19:24">„Rozdělili si mé šaty,</para>
+  <para style="q2" vid="JHN 19:24">o mé roucho házeli los.“<note caller="-" style="x"><char style="xo" closed="false">19:24 </char><char style="xt" closed="false"><ref loc="PSA 22:19">Ž 22:19</ref></char></note><verse eid="JHN 19:24" /></para>
+  <para style="b" />
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 19:25" />U Ježíšova kříže stála i jeho matka a sestra jeho matky, Marie Kleofášova a Marie Magdaléna. <verse eid="JHN 19:25" /><verse number="26" style="v" sid="JHN 19:26" />Když Ježíš uviděl matku a učedníka, kterého miloval,<note caller="-" style="x"><char style="xo" closed="false">19:26 </char><char style="xt" closed="false"><ref loc="JHN 13:23">J 13:23</ref></char></note> jak tam stojí, řekl své matce: „Ženo, hle, tvůj syn.“ <verse eid="JHN 19:26" /><verse number="27" style="v" sid="JHN 19:27" />Potom řekl tomu učedníkovi: „Hle, tvá matka.“ A ten učedník ji od té chvíle přijal k sobě.<verse eid="JHN 19:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JHN 19:28" />Když potom Ježíš věděl, že je již všechno dokonáno, řekl, aby se naplnilo Písmo: „Žízním!“<note caller="-" style="x"><char style="xo" closed="false">19:28 </char><char style="xt" closed="false"><ref loc="PSA 22:16">Ž 22:16</ref>; <ref loc="PSA 69:22">69:22</ref></char></note> <verse eid="JHN 19:28" /><verse number="29" style="v" sid="JHN 19:29" />Stála tam nádoba plná octa. Naplnili tedy houbu octem, nasadili na yzop a podali mu ji k ústům. <verse eid="JHN 19:29" /><verse number="30" style="v" sid="JHN 19:30" />Když Ježíš okusil ocet, řekl: „Je dokonáno!“ Sklonil hlavu a odevzdal ducha.<verse eid="JHN 19:30" /></para>
+  <para style="s">Zahradní hrob</para>
+  <para style="m">
+    <verse number="31" style="v" sid="JHN 19:31" />Bylo to v den příprav na obzvlášť významnou sobotu. Židovští představení nechtěli, aby těla zůstala na křížích až do soboty, a tak požádali Piláta, aby odsouzeným nechal zlámat nohy a dal je sejmout z křížů. <verse eid="JHN 19:31" /><verse number="32" style="v" sid="JHN 19:32" />A tak přišli vojáci a zlámali nohy jednomu i druhému, kteří byli ukřižováni s ním. <verse eid="JHN 19:32" /><verse number="33" style="v" sid="JHN 19:33" />Když ale přišli k Ježíši a uviděli, že je již mrtev, nelámali mu nohy. <verse eid="JHN 19:33" /><verse number="34" style="v" sid="JHN 19:34" />Jeden z vojáků mu probodl bok kopím a hned vyšla krev a voda. <verse eid="JHN 19:34" /><verse number="35" style="v" sid="JHN 19:35" />Ten, který to viděl, vydává svědectví a jeho svědectví je pravdivé. On ví, že říká pravdu, abyste vy uvěřili. <verse eid="JHN 19:35" /><verse number="36" style="v" sid="JHN 19:36" />Toto se stalo, aby se naplnilo Písmo: „Nezlámou mu jedinou kost.“<note caller="-" style="x"><char style="xo" closed="false">19:36 </char><char style="xt" closed="false"><ref loc="EXO 12:46">Ex 12:46</ref>; <ref loc="NUM 9:12">Nu 9:12</ref>; <ref loc="PSA 34:21">Ž 34:21</ref></char></note> <verse eid="JHN 19:36" /><verse number="37" style="v" sid="JHN 19:37" />A jiné místo v Písmu říká: „Uvidí, koho probodli.“<note caller="-" style="x"><char style="xo" closed="false">19:37 </char><char style="xt" closed="false"><ref loc="ZEC 12:10">Za 12:10</ref></char></note><verse eid="JHN 19:37" /></para>
+  <para style="p">
+    <verse number="38" style="v" sid="JHN 19:38" />Josef z Arimatie (který byl Ježíšův učedník, ale tajný, kvůli strachu z židovských představených) pak požádal Piláta, aby mohl sejmout Ježíšovo tělo z kříže. Pilát svolil, a tak přišel a sňal Ježíšovo tělo. <verse eid="JHN 19:38" /><verse number="39" style="v" sid="JHN 19:39" />Přišel i Nikodém (který kdysi přišel za Ježíšem v noci) a přinesl směs myrhy a aloe, okolo sta liber.<note caller="-" style="f"><char style="fr" closed="false">19:39 </char><char style="ft" closed="false">asi 33 kg</char></note> <verse eid="JHN 19:39" /><verse number="40" style="v" sid="JHN 19:40" />Vzali Ježíšovo tělo a podle židovského pohřebního zvyku je zavinuli do pláten s těmi vonnými mastmi. <verse eid="JHN 19:40" /><verse number="41" style="v" sid="JHN 19:41" />Poblíž místa jeho ukřižování byla zahrada a v té zahradě nový hrob, v němž ještě nebyl nikdo pochován. <verse eid="JHN 19:41" /><verse number="42" style="v" sid="JHN 19:42" />A protože byl židovský den příprav, pochovali Ježíše do toho hrobu, neboť byl blízko.<verse eid="JHN 19:42" /></para>
+  <chapter eid="JHN 19" />
+  <chapter number="20" style="c" sid="JHN 20" />
+  <para style="s">Proč pláčeš?</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 20:1" />Ráno prvního dne v týdnu šla Marie Magdaléna ještě za tmy k hrobu. Když uviděla kámen odvalený od hrobu, <verse eid="JHN 20:1" /><verse number="2" style="v" sid="JHN 20:2" />běžela k Šimonu Petrovi a k dalšímu učedníkovi, kterého měl Ježíš rád, a řekla jim: „Vzali Pána z hrobu a nevíme, kam ho dali!“<verse eid="JHN 20:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="JHN 20:3" />Petr se zvedl a spolu s tím druhým učedníkem vyrazili k hrobu. <verse eid="JHN 20:3" /><verse number="4" style="v" sid="JHN 20:4" />Běželi společně, ale ten druhý učedník Petra předběhl a dorazil k hrobu první. <verse eid="JHN 20:4" /><verse number="5" style="v" sid="JHN 20:5" />Naklonil se dovnitř, spatřil ležící plátna, ale dovnitř nešel. <verse eid="JHN 20:5" /><verse number="6" style="v" sid="JHN 20:6" />Po něm dorazil Šimon Petr. Vešel do hrobu a spatřil ležící plátna. <verse eid="JHN 20:6" /><verse number="7" style="v" sid="JHN 20:7" />Rouška, která mu přikrývala hlavu, však nebyla mezi plátny; ležela svinutá zvlášť. <verse eid="JHN 20:7" /><verse number="8" style="v" sid="JHN 20:8" />Když potom vešel i ten druhý učedník, který dorazil k hrobu jako první, uviděl a uvěřil. <verse eid="JHN 20:8" /><verse number="9" style="v" sid="JHN 20:9" />(Ještě totiž nerozuměli Písmu, svědčícímu, že musí vstát z mrtvých.) <verse eid="JHN 20:9" /><verse number="10" style="v" sid="JHN 20:10" />A tak se ti učedníci vrátili zpět.<verse eid="JHN 20:10" /></para>
+  <para style="p">
+    <verse number="11" style="v" sid="JHN 20:11" />Marie ale zůstala venku u hrobu a plakala. V pláči se naklonila do hrobu <verse eid="JHN 20:11" /><verse number="12" style="v" sid="JHN 20:12" />a na místě, kde předtím leželo Ježíšovo tělo, uviděla sedět dva anděly v bílém rouchu, jednoho u hlavy a druhého u nohou. <verse eid="JHN 20:12" /><verse number="13" style="v" sid="JHN 20:13" />„Proč pláčeš, ženo?“ zeptali se jí.</para>
+  <para style="p" vid="JHN 20:13">„Vzali mého Pána a nevím, kam ho dali,“ odpověděla.<verse eid="JHN 20:13" /></para>
+  <para style="p">
+    <verse number="14" style="v" sid="JHN 20:14" />Po těch slovech se obrátila a uviděla tam stát Ježíše (nevěděla ale, že je to on). <verse eid="JHN 20:14" /><verse number="15" style="v" sid="JHN 20:15" />„Proč pláčeš, ženo?“ zeptal se jí Ježíš. „Koho hledáš?“</para>
+  <para style="p" vid="JHN 20:15">V domnění, že je to zahradník, odpověděla: „Pane, jestli jsi ho odnesl ty, řekni mi, kam jsi ho dal, ať si ho mohu odnést.“<verse eid="JHN 20:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 20:16" />„Marie!“ řekl jí Ježíš.</para>
+  <para style="p" vid="JHN 20:16">Obrátila se a zvolala hebrejsky: „Rabboni!“ (což znamená „Učiteli“).<verse eid="JHN 20:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JHN 20:17" />„Nedrž mě,“ řekl jí Ježíš. „Ještě jsem nevystoupil ke svému Otci. Jdi ale k mým bratrům a vyřiď jim: ‚Vystupuji ke svému Otci a k vašemu Otci, ke svému Bohu a k vašemu Bohu.‘“<verse eid="JHN 20:17" /></para>
+  <para style="p">
+    <verse number="18" style="v" sid="JHN 20:18" />Marie Magdaléna pak šla a zvěstovala učedníkům, že viděla Pána a co jí řekl.<verse eid="JHN 20:18" /></para>
+  <para style="s">Pokoj vám</para>
+  <para style="m">
+    <verse number="19" style="v" sid="JHN 20:19" />Večer téhož dne, onoho prvního dne v týdnu, se učedníci kvůli strachu z židovských představených sešli za zavřenými dveřmi. Vtom přišel Ježíš, postavil se doprostřed a řekl jim: „Pokoj vám.“ <verse eid="JHN 20:19" /><verse number="20" style="v" sid="JHN 20:20" />Po těch slovech jim ukázal své ruce i bok. Učedníci byli šťastní, že vidí Pána. <verse eid="JHN 20:20" /><verse number="21" style="v" sid="JHN 20:21" />„Pokoj vám,“ opakoval Ježíš. „Jako mě poslal Otec, i já posílám vás.“ <verse eid="JHN 20:21" /><verse number="22" style="v" sid="JHN 20:22" />Po těch slovech na ně dechl a řekl jim: „Přijměte Ducha svatého. <verse eid="JHN 20:22" /><verse number="23" style="v" sid="JHN 20:23" />Komu odpustíte hříchy, tomu jsou odpuštěny; komu je zadržíte, tomu jsou zadrženy.“<verse eid="JHN 20:23" /></para>
+  <para style="p">
+    <verse number="24" style="v" sid="JHN 20:24" />Když tehdy mezi ně Ježíš přišel, jeden z Dvanácti, Tomáš zvaný Dvojče, tam nebyl. <verse eid="JHN 20:24" /><verse number="25" style="v" sid="JHN 20:25" />Ostatní učedníci mu říkali: „Viděli jsme Pána!“ „Dokud neuvidím stopu hřebů v jeho rukou,“ odpověděl jim, „dokud prstem nesáhnu tam, kde byly hřeby, dokud nevložím ruku do jeho boku, nikdy neuvěřím.“<verse eid="JHN 20:25" /></para>
+  <para style="p">
+    <verse number="26" style="v" sid="JHN 20:26" />O týden později byli jeho učedníci znovu uvnitř a Tomáš s nimi. Dveře byly zavřené, ale Ježíš přišel a postavil se doprostřed se slovy: „Pokoj vám.“ <verse eid="JHN 20:26" /><verse number="27" style="v" sid="JHN 20:27" />Potom řekl Tomášovi: „Polož sem prst. Podívej se na mé ruce. Natáhni ruku a vlož mi ji do boku. Přestaň být nevěřící a začni věřit.“<verse eid="JHN 20:27" /></para>
+  <para style="p">
+    <verse number="28" style="v" sid="JHN 20:28" />„Můj Pán a můj Bůh!“ zvolal Tomáš.<verse eid="JHN 20:28" /></para>
+  <para style="p">
+    <verse number="29" style="v" sid="JHN 20:29" />„Uvěřil jsi, protože jsi mě viděl,“ řekl mu Ježíš. „Blaze těm, kteří neviděli, a uvěřili.“<verse eid="JHN 20:29" /></para>
+  <para style="p">
+    <verse number="30" style="v" sid="JHN 20:30" />Ježíš ovšem před svými učedníky vykonal i mnoho jiných znamení, která v této knize nejsou zapsána. <verse eid="JHN 20:30" /><verse number="31" style="v" sid="JHN 20:31" />Tato jsou ale zapsána, abyste uvěřili, že Ježíš je Mesiáš, Boží Syn, a abyste skrze víru měli život v jeho jménu.<verse eid="JHN 20:31" /></para>
+  <chapter eid="JHN 20" />
+  <chapter number="21" style="c" sid="JHN 21" />
+  <para style="s">Snídaně u jezera</para>
+  <para style="m">
+    <verse number="1" style="v" sid="JHN 21:1" />Potom se Ježíš znovu ukázal učedníkům u Tiberiadského jezera.<note caller="-" style="x"><char style="xo" closed="false">21:1 </char><char style="xt" closed="false"><ref loc="JHN 6:1">J 6:1</ref></char></note> Stalo se to takto: <verse eid="JHN 21:1" /><verse number="2" style="v" sid="JHN 21:2" />Šimon Petr, Tomáš zvaný Dvojče, Natanael z Kány Galilejské, synové Zebedeovi a další dva jeho učedníci byli spolu.<verse eid="JHN 21:2" /></para>
+  <para style="p">
+    <verse number="3" style="v" sid="JHN 21:3" />„Jdu na ryby,“ řekl jim Šimon Petr.</para>
+  <para style="p" vid="JHN 21:3">„Půjdeme s tebou,“ odpověděli. A tak šli a nastoupili na loď. Té noci ale nic nechytili.<verse eid="JHN 21:3" /></para>
+  <para style="p">
+    <verse number="4" style="v" sid="JHN 21:4" />Za svítání stál na břehu Ježíš (učedníci ale nevěděli, že je to on). <verse eid="JHN 21:4" /><verse number="5" style="v" sid="JHN 21:5" />„Nemáte něco k jídlu, hoši?“ zavolal na ně.</para>
+  <para style="p" vid="JHN 21:5">„Nemáme,“ odpověděli.<verse eid="JHN 21:5" /></para>
+  <para style="p">
+    <verse number="6" style="v" sid="JHN 21:6" />„Hoďte síť napravo od lodi a něco najdete,“ řekl jim. Hodili tedy síť a už ji ani nemohli utáhnout, kolik v ní bylo ryb.<verse eid="JHN 21:6" /></para>
+  <para style="p">
+    <verse number="7" style="v" sid="JHN 21:7" />Učedník, kterého Ježíš miloval,<note caller="-" style="x"><char style="xo" closed="false">21:7 </char><char style="xt" closed="false"><ref loc="JHN 13:23">J 13:23</ref>; <ref loc="JHN 19:26">19:26</ref></char></note> tehdy řekl Petrovi: „To je Pán!“ Jakmile Šimon Petr uslyšel, že je to Pán, oblékl si plášť (protože byl svlečený) a vrhl se do vody.<verse eid="JHN 21:7" /></para>
+  <para style="p">
+    <verse number="8" style="v" sid="JHN 21:8" />Ostatní učedníci pak připluli s lodí (nebyli totiž daleko od břehu, jen asi dvě stě loket)<note caller="-" style="f"><char style="fr" closed="false">21:8 </char><char style="ft" closed="false">necelých 100 m</char></note> a táhli tu síť s rybami. <verse eid="JHN 21:8" /><verse number="9" style="v" sid="JHN 21:9" />Když vystoupili na břeh, uviděli rozdělaný oheň a na něm rybu a chléb.<verse eid="JHN 21:9" /></para>
+  <para style="p">
+    <verse number="10" style="v" sid="JHN 21:10" />Ježíš jim řekl: „Přineste trochu ryb, které jste teď nalovili.“ <verse eid="JHN 21:10" /><verse number="11" style="v" sid="JHN 21:11" />Šimon Petr tedy šel a vytáhl na břeh plnou síť – 153 velkých ryb! A přestože jich bylo tolik, síť se neroztrhla.<verse eid="JHN 21:11" /></para>
+  <para style="p">
+    <verse number="12" style="v" sid="JHN 21:12" />„Pojďte snídat,“ řekl jim Ježíš. Nikdo z učedníků se ho neodvážil zeptat: „Kdo jsi?“ protože věděli, že je to Pán. <verse eid="JHN 21:12" /><verse number="13" style="v" sid="JHN 21:13" />Ježíš přistoupil, vzal chléb a podával jim ho a podobně i rybu. <verse eid="JHN 21:13" /><verse number="14" style="v" sid="JHN 21:14" />Tak se Ježíš už potřetí po svém zmrtvýchvstání ukázal učedníkům.<verse eid="JHN 21:14" /></para>
+  <para style="s">Pas mé ovce</para>
+  <para style="m">
+    <verse number="15" style="v" sid="JHN 21:15" />Po snídani se Ježíš zeptal Šimona Petra: „Šimone Janův,<note caller="-" style="f"><char style="fr" closed="false">21:15 </char><char style="ft" closed="false">někt. rukopisy <char style="em">Jonášův</char> (<char style="xt"><ref loc="MAT 16:17">Mt 16:17</ref></char>); tak i dále</char></note> miluješ mě více než oni?“</para>
+  <para style="p" vid="JHN 21:15">„Ano, Pane,“ odpověděl mu. „Ty víš, že tě mám rád.“</para>
+  <para style="p" vid="JHN 21:15">Ježíš mu na to řekl: „Pas mé beránky.“<verse eid="JHN 21:15" /></para>
+  <para style="p">
+    <verse number="16" style="v" sid="JHN 21:16" />Potom se ho zeptal podruhé: „Šimone Janův, miluješ mě?“</para>
+  <para style="p" vid="JHN 21:16">„Ano, Pane,“ odpověděl mu. „Ty víš, že tě mám rád.“</para>
+  <para style="p" vid="JHN 21:16">Tehdy mu Ježíš řekl: „Pečuj o mé ovce.“<verse eid="JHN 21:16" /></para>
+  <para style="p">
+    <verse number="17" style="v" sid="JHN 21:17" />Potom se ho zeptal potřetí: „Šimone Janův, máš mě rád?“</para>
+  <para style="p" vid="JHN 21:17">Petr se zarmoutil, že se ho Ježíš potřetí zeptal: „Máš mě rád?“ Odpověděl mu: „Pane, ty víš všechno. Ty víš, že tě mám rád.“</para>
+  <para style="p" vid="JHN 21:17">Ježíš mu na to řekl: „Pas mé ovce. <verse eid="JHN 21:17" /><verse number="18" style="v" sid="JHN 21:18" />Amen, amen, říkám ti: Když jsi byl mladší, oblékal ses a chodils, kam jsi chtěl. Až zestárneš, rozpřáhneš ruce, oblékne tě jiný a povede tě, kam nechceš.“ <verse eid="JHN 21:18" /><verse number="19" style="v" sid="JHN 21:19" />(To řekl, aby mu naznačil, jakou smrtí oslaví Boha.) Po těch slovech mu řekl: „Následuj mě.“<verse eid="JHN 21:19" /></para>
+  <para style="p">
+    <verse number="20" style="v" sid="JHN 21:20" />Petr se otočil a uviděl za sebou jít učedníka, kterého Ježíš miloval. (Byl to ten, který ho tehdy při večeři objal a zeptal se: „Pane, kdo tě zradí?“)<note caller="-" style="x"><char style="xo" closed="false">21:20 </char><char style="xt" closed="false"><ref loc="JHN 13:23-25">J 13:23–25</ref></char></note> <verse eid="JHN 21:20" /><verse number="21" style="v" sid="JHN 21:21" />Když ho Petr uviděl, zeptal se Ježíše: „Pane, a co on?“<verse eid="JHN 21:21" /></para>
+  <para style="p">
+    <verse number="22" style="v" sid="JHN 21:22" />Ježíš mu řekl: „Jestli ho tu chci nechat, dokud nepřijdu, co je ti po tom? Ty mě následuj.“ <verse eid="JHN 21:22" /><verse number="23" style="v" sid="JHN 21:23" />Mezi bratry se pak rozneslo, že ten učedník nezemře. Ježíš mu však neřekl, že nezemře, ale: „Jestli ho tu chci nechat, dokud nepřijdu, co je ti po tom?“<verse eid="JHN 21:23" /></para>
+  <para style="s">Epilog</para>
+  <para style="m">
+    <verse number="24" style="v" sid="JHN 21:24" />To je ten učedník, který vydává svědectví o těchto věcech a zapsal je; a víme, že jeho svědectví je pravdivé.<verse eid="JHN 21:24" /></para>
+  <para style="p">
+    <verse number="25" style="v" sid="JHN 21:25" />Ježíš ovšem udělal i mnoho jiných věcí. Kdyby měly být všechny jednotlivě vypsány, mám za to, že by bylo napsáno tolik knih, že by se ani nevešly na svět.<verse eid="JHN 21:25" /></para>
+  <chapter eid="JHN 21" />
+</usx>

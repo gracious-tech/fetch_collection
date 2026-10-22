@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Bản Dịch Kinh Thánh Tiếng T'rin",
+        "local_abbrev": "Trin2024",
+        "english": "T'rin Bible Literal Text",
+        "english_abbrev": "TRLT"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "FAR EAST BROADCASTING COMPANY",
+        "attribution_url": "https://app.library.bible/content/f28b01ce6eb50aff"
+    },
+    "ids": {
+        "dbl": "f28b01ce6eb50aff"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/f28b01ce6eb50aff/zip",
+        "updated": "2025-09-12",
+        "revision": 3
+    },
+    "tags": []
+}

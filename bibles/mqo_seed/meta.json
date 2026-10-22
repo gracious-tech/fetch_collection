@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Bahasa Modole",
+        "local_abbrev": "MQO",
+        "english": "Bahasa Modole",
+        "english_abbrev": ""
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/ae339e50fa03308c"
+    },
+    "ids": {
+        "dbl": "ae339e50fa03308c"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/ae339e50fa03308c/zip",
+        "updated": "2026-08-25",
+        "revision": 1
+    },
+    "tags": []
+}

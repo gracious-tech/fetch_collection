@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "The Book of Luke in Nyah Kur Language",
+        "english_abbrev": "LUK"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Son Light Foundation",
+        "attribution_url": "https://app.library.bible/content/3da3a852c14d4138"
+    },
+    "ids": {
+        "dbl": "3da3a852c14d4138"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/3da3a852c14d4138/zip",
+        "updated": "2026-08-26",
+        "revision": 1
+    },
+    "tags": []
+}

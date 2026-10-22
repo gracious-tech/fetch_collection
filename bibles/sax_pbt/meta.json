@@ -1,0 +1,35 @@
+{
+    "name": {
+        "local": "Matiu men u dal êr na Juskon Temtô",
+        "local_abbrev": "SaOTP",
+        "english": "Sa",
+        "english_abbrev": "SAOTP"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)/"
+            }
+        ],
+        "attribution": "Pioneer Bible Translators",
+        "attribution_url": "https://app.library.bible/content/0f63f6f842ebe8e7"
+    },
+    "ids": {
+        "dbl": "0f63f6f842ebe8e7"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/0f63f6f842ebe8e7/zip",
+        "updated": "2026-06-24",
+        "revision": 1
+    },
+    "tags": [],
+    "partial": [
+        "gen",
+        "psa"
+    ]
+}

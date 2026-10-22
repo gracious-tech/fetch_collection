@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Bản Dịch Kinh Thánh Tiếng Mnông R'lâm",
+        "local_abbrev": "MnongRL2024",
+        "english": "Mnong Rlam Bible Literal Text",
+        "english_abbrev": "MLT"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "FAR EAST BROADCASTING COMPANY",
+        "attribution_url": "https://app.library.bible/content/72b5c125a759a2b1"
+    },
+    "ids": {
+        "dbl": "72b5c125a759a2b1"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/72b5c125a759a2b1/zip",
+        "updated": "2025-11-28",
+        "revision": 4
+    },
+    "tags": []
+}

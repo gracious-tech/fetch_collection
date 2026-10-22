@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "Meadowlands Bible",
+        "english_abbrev": "MDW"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by",
+                "url": "https://creativecommons.org/licenses/by/4.0/"
+            }
+        ],
+        "attribution": "Summer Institute of Linguistics Ethiopia",
+        "attribution_url": "https://app.library.bible/content/9497b5e348514f38"
+    },
+    "ids": {
+        "dbl": "9497b5e348514f38"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/9497b5e348514f38/zip",
+        "updated": "2026-09-15",
+        "revision": 1
+    },
+    "tags": []
+}

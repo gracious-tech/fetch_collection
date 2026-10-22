@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "",
+        "local_abbrev": "",
+        "english": "The Book of Luke in Lao Song Language",
+        "english_abbrev": "LUK"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Son Light Foundation",
+        "attribution_url": "https://app.library.bible/content/e906234b4d6b45a9"
+    },
+    "ids": {
+        "dbl": "e906234b4d6b45a9"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/e906234b4d6b45a9/zip",
+        "updated": "2026-08-26",
+        "revision": 1
+    },
+    "tags": []
+}

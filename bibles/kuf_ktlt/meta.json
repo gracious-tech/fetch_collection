@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Bản Dịch Kinh Thánh Tiếng Katu",
+        "local_abbrev": "Katu2024",
+        "english": "Katu Bible Literal Text",
+        "english_abbrev": "KTLT"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "FAR EAST BROADCASTING COMPANY",
+        "attribution_url": "https://app.library.bible/content/15a813fef7fefb05"
+    },
+    "ids": {
+        "dbl": "15a813fef7fefb05"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/15a813fef7fefb05/zip",
+        "updated": "2025-05-08",
+        "revision": 4
+    },
+    "tags": []
+}

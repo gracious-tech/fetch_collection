@@ -24,7 +24,10 @@
     "source": {
         "service": "dbl",
         "format": "usx",
-        "url": "https://api.library.bible/v1/content-entries/c9f3cf58d557a9f3/zip",
+        "url": [
+            "https://api.library.bible/v1/content-entries/c9f3cf58d557a9f3/zip",
+            "https://api.library.bible/v1/content-entries/e6da7cdb23e18a0d/zip"
+        ],
         "updated": "2014-04-24",
         "revision": 2
     },

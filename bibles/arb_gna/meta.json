@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "الترجمة العربية المشتركة",
+        "local_abbrev": "GNA2025",
+        "english": "Good News Arabic 2025",
+        "english_abbrev": "GNA"
+    },
+    "year": 2026,
+    "direction": "rtl",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Bible Society in Lebanon",
+        "attribution_url": "https://app.library.bible/content/fd5704b4b8ddef79"
+    },
+    "ids": {
+        "dbl": "fd5704b4b8ddef79"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/fd5704b4b8ddef79/zip",
+        "updated": "2026-10-01",
+        "revision": 2
+    },
+    "tags": []
+}

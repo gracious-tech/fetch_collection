@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Bản Dịch Kinh Thánh Tiếng Cor",
+        "local_abbrev": "Cor2024",
+        "english": "Cua Bible Literal Text",
+        "english_abbrev": "CLT"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "FAR EAST BROADCASTING COMPANY",
+        "attribution_url": "https://app.library.bible/content/37a1dc7a54269bd3"
+    },
+    "ids": {
+        "dbl": "37a1dc7a54269bd3"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/37a1dc7a54269bd3/zip",
+        "updated": "2025-02-21",
+        "revision": 2
+    },
+    "tags": []
+}

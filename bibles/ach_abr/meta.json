@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Acoli Bible Revision",
+        "local_abbrev": "ABR",
+        "english": "Acoli Bible Revision",
+        "english_abbrev": "ABR"
+    },
+    "year": 2025,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "public",
+                "url": ""
+            }
+        ],
+        "attribution": "Bible Society of Uganda",
+        "attribution_url": "https://app.library.bible/content/1618808970a5a3ca"
+    },
+    "ids": {
+        "dbl": "1618808970a5a3ca"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/1618808970a5a3ca/zip",
+        "updated": "2025-11-27",
+        "revision": 2
+    },
+    "tags": []
+}

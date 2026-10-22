@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Toto Bible",
+        "local_abbrev": "TXO",
+        "english": "Toto",
+        "english_abbrev": ""
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/3b30f21af95962d0"
+    },
+    "ids": {
+        "dbl": "3b30f21af95962d0"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/3b30f21af95962d0/zip",
+        "updated": "2026-06-19",
+        "revision": 1
+    },
+    "tags": []
+}

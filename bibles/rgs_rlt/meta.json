@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Bản Dịch Kinh Thánh Tiếng Rắc-lây",
+        "local_abbrev": "Roglai2024",
+        "english": "Roglai Bible Literal Text",
+        "english_abbrev": "RLT"
+    },
+    "year": 2024,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "FAR EAST BROADCASTING COMPANY",
+        "attribution_url": "https://app.library.bible/content/d703d3283f8af40e"
+    },
+    "ids": {
+        "dbl": "d703d3283f8af40e"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/d703d3283f8af40e/zip",
+        "updated": "2026-03-26",
+        "revision": 2
+    },
+    "tags": []
+}

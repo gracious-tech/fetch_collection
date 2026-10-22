@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Shanjo NT",
+        "local_abbrev": "TOI",
+        "english": "Shanjo",
+        "english_abbrev": ""
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/575ac4c648c22c94"
+    },
+    "ids": {
+        "dbl": "575ac4c648c22c94"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/575ac4c648c22c94/zip",
+        "updated": "2026-10-09",
+        "revision": 2
+    },
+    "tags": []
+}

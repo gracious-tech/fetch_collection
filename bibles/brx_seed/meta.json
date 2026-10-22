@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Mech NT",
+        "local_abbrev": "BRX",
+        "english": "Mech",
+        "english_abbrev": ""
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "The Seed Company",
+        "attribution_url": "https://app.library.bible/content/4e52604fbda8b59f"
+    },
+    "ids": {
+        "dbl": "4e52604fbda8b59f"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/4e52604fbda8b59f/zip",
+        "updated": "2026-08-28",
+        "revision": 1
+    },
+    "tags": []
+}

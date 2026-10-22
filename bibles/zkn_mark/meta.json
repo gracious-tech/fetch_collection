@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "ရှင်မာကုကျမ်းစာအုပ်",
+        "local_abbrev": "မာကု",
+        "english": "The Book of Mark in Kanan Language",
+        "english_abbrev": "MARK"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-nc-nd",
+                "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+        ],
+        "attribution": "Empower Asia Bible Translation Movement",
+        "attribution_url": "https://app.library.bible/content/cd06723a13a74b61"
+    },
+    "ids": {
+        "dbl": "cd06723a13a74b61"
+    },
+    "source": {
+        "service": "dbl",
+        "format": "usx",
+        "url": "https://api.library.bible/v1/content-entries/cd06723a13a74b61/zip",
+        "updated": "2026-09-01",
+        "revision": 1
+    },
+    "tags": []
+}
