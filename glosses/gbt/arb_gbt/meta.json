@@ -1,11 +1,12 @@
 {
     "name": {
-        "english": "Global Bible Tools glosses (Western Arrarnta)",
-        "english_abbrev": "GBTW",
+        "english": "Global Bible Tools glosses (Arabic)",
+        "english_abbrev": "GBTA",
         "local": "",
         "local_abbrev": ""
     },
     "year": 2025,
+    "direction": "rtl",
     "copyright": {
         "attribution": "Global Bible Tools",
         "attribution_url": "https://globalbibletools.com/",
