@@ -1,9 +1,9 @@
 {
     "name": {
         "local": "World English Bible (Classic)",
-        "local_abbrev": "WEBC",
+        "local_abbrev": "WEB",
         "english": "World English Bible (Classic)",
-        "english_abbrev": "WEBC"
+        "english_abbrev": "WEB"
     },
     "year": 2020,
     "direction": "ltr",
@@ -11,11 +11,11 @@
         "licenses": [
             {
                 "license": "public",
-                "url": "https://ebible.org/Scriptures/details.php?id=eng-web"
+                "url": "https://worldenglish.bible/"
             }
         ],
         "attribution": "public domain",
-        "attribution_url": "https://ebible.org/Scriptures/details.php?id=eng-web"
+        "attribution_url": "https://worldenglish.bible/"
     },
     "ids": {
         "ebible": "eng-web"
