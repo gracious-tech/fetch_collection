@@ -17,11 +17,11 @@
                     "forbid_attributionless": true,
                     "forbid_other": false
                 },
-                "url": "https://lexhampress.com/LEB-License"
+                "url": "https://web.archive.org/web/20250803060528/https://lexhampress.com/LEB-License"
             }
         ],
         "attribution": "Logos Bible Software",
-        "attribution_url": "https://lexhampress.com/LEB-License"
+        "attribution_url": "https://www.logos.com/product/37521/lexham-english-bible"
     },
     "ids": {},
     "source": {
@@ -31,5 +31,6 @@
         "updated": "2024-12-20",
         "revision": 0
     },
-    "tags": ["literal2"]
+    "tags": ["literal2"],
+    "description": "A literal translation by Logos Bible Software"
 }
