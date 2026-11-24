@@ -1,0 +1,31 @@
+{
+    "name": {
+        "local": "Everyday Version",
+        "local_abbrev": "EV",
+        "english": "Everyday Version",
+        "english_abbrev": "EV"
+    },
+    "year": 2026,
+    "direction": "ltr",
+    "copyright": {
+        "licenses": [
+            {
+                "license": "cc-by-sa",
+                "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+        ],
+        "attribution": "Adapted from the OET by Freely-Given.org",
+        "attribution_url": "https://fetch.bible/everyday/"
+    },
+    "ids": {},
+    "source": {
+        "service": "manual",
+        "format": "usfm",
+        "url": null,
+        "updated": "2026-11-24",
+        "revision": 0
+    },
+    "tags": ["alex", "literal4"],
+    "provenance": "OET",
+    "description": "An easy-to-read translation that favours original meaning over church jargon"
+}
